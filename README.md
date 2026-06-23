@@ -19,14 +19,14 @@ The project aims to transform prospectuses from isolated PDF documents into a st
 
 ## Covered Listing Rules
 
-* Chapter(s): __________
-* Rule range: __________
+* Chapter(s): Appendix D
+* Rule range: All, may start with financial info
 
 ## Covered Prospectuses
 
-* Board: Main Board / GEM / Both
+* Board: Main Board / GEM / Both (May start with either)
 * Number of prospectuses: __________
-* Time period: __________
+* Time period: 2020/01/01 - 2026/06/23
 
 ---
 
