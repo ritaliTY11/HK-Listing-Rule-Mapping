@@ -154,7 +154,10 @@ def parse_results(soup):
         if len(cells) < 4:
             continue
 
-        date_filed  = cells[0].get_text(strip=True)
+        mobile_heading = cells[0].find("span", {"class": "mobile-list-heading"})
+        if mobile_heading:
+            mobile_heading.decompose()
+        date_filed = cells[0].get_text(strip=True)
         stock_code  = cells[1].get_text(strip=True)
         company_name = cells[2].get_text(strip=True)
 
@@ -200,13 +203,23 @@ def build_filename(record):
     {stock_code}_{date_filed_compact}.pdf
     e.g. 06658_20260605.pdf
     """
-    # date_filed arrives as DD/MM/YYYY HH:MM — extract date only
-    date_part = record["date_filed"].split(" ")[0]          # "05/06/2026"
-    date_compact = date_part.replace("/", "")[::-1]         # reverse: YYYYMMDD
-    # reverse "05062026" → "20260605"
-    d, m, y = date_part.split("/")
-    date_compact = f"{y}{m}{d}"
-    stock = record["stock_code"].replace(" ", "_")
+    date_filed = record["date_filed"]
+    
+    # Strip any time component (e.g. "05/06/2026 22:38" → "05/06/2026")
+    date_part = date_filed.strip().split(" ")[0]
+    
+    # Handle DD/MM/YYYY format
+    if "/" in date_part:
+        d, m, y = date_part.split("/")
+        date_compact = f"{y}{m}{d}"
+    # Handle YYYYMMDD format (fallback)
+    elif len(date_part) == 8 and date_part.isdigit():
+        date_compact = date_part
+    else:
+        # Last resort — strip all non-digits
+        date_compact = "".join(filter(str.isdigit, date_part))[:8]
+    
+    stock = record["stock_code"].strip().replace(" ", "_")
     return f"{stock}_{date_compact}.pdf"
 
 
