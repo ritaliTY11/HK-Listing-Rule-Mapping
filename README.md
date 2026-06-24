@@ -84,9 +84,9 @@ Convert prospectus PDFs into machine-readable text.
 
 ### Libraries
 
-* pdfplumber
-* PyMuPDF
-* ---
+* pdfplumber and PyMuPDF
+* flag failed-to-process outputs (possibly 2020-2022, scanned pdfs)
+
 
 ## Resulting Artifacts
 
