@@ -136,17 +136,44 @@ def query_year(from_date, to_date, session):
         print(f"  [ERROR] Query failed for {from_date}–{to_date}: {e}")
         return None
 
-
+# updated parse_result for rerun
 def parse_results(soup):
     """
     Extract document records from the result table HTML.
-    Returns a list of dicts with keys matching LOG_FIELDS (minus downloaded/error).
+    Groups by stock code and keeps only the most recent English
+    Global Offering prospectus per company per year query.
+    Returns a list of dicts with keys matching LOG_FIELDS.
     """
-    records = []
+    from collections import defaultdict
+
+    VALID_LINK_TITLES = [
+        "GLOBAL OFFERING",
+        "LISTING DOCUMENT",
+        "OFFER FOR SALE",
+    ]
+
+    EXCLUDE_LINK_KEYWORDS = [
+        "APPLICATION FORM",
+        "BLUE FORM",
+        "E-IPO",
+        "EIPO",
+        "SUBSCRIPTION FORM",
+        "WHITE FORM",
+        "YELLOW FORM",
+    ]
+
+    def parse_date(r):
+        date_part = r["date_filed"].strip().split(" ")[0]
+        if "/" in date_part:
+            d, m, y = date_part.split("/")
+            return f"{y}{m}{d}"
+        return date_part
+
+    raw_rows = []
     table = soup.find("table", {"class": "table"})
     if not table:
         print("  [WARN] No results table found in response.")
-        return records
+        return []
 
     rows = table.find("tbody").find_all("tr")
     for row in rows:
@@ -154,41 +181,58 @@ def parse_results(soup):
         if len(cells) < 4:
             continue
 
-        mobile_heading = cells[0].find("span", {"class": "mobile-list-heading"})
-        if mobile_heading:
-            mobile_heading.decompose()
-        date_filed = cells[0].get_text(strip=True)
-        stock_code  = cells[1].get_text(strip=True)
+        # Strip mobile heading spans before get_text
+        for cell in cells:
+            heading = cell.find("span", {"class": "mobile-list-heading"})
+            if heading:
+                heading.decompose()
+
+        date_filed   = cells[0].get_text(strip=True)
+        stock_code   = cells[1].get_text(strip=True)
         company_name = cells[2].get_text(strip=True)
 
-        # Headline category text e.g. "Listing Documents - [Offer for Subscription]"
         headline_div = cells[3].find("div", {"class": "headline"})
         headline = headline_div.get_text(strip=True) if headline_div else ""
 
-        # PDF link — skip multi-file HTML index pages (no direct PDF)
         link_tag = cells[3].find("a", href=True)
         if not link_tag:
             continue
         href = link_tag["href"]
         if not href.endswith(".pdf"):
-            continue  # skip .htm multi-file pages
-
-        # Filter: only keep rows whose headline matches prospectus keywords
-        if not any(kw in headline.lower() for kw in PROSPECTUS_KEYWORDS):
             continue
 
-        pdf_url = PDF_BASE_URL + href
-        records.append({
+        # Uppercase for consistent comparison
+        link_text = link_tag.get_text(strip=True).upper()
+
+        # Must match a valid prospectus title
+        if not any(title in link_text for title in VALID_LINK_TITLES):
+            continue
+
+        # Exclude application forms, blue forms, e-IPO by link text
+        if any(kw in link_text for kw in EXCLUDE_LINK_KEYWORDS):
+            continue
+
+        raw_rows.append({
             "stock_code":   stock_code,
             "company_name": company_name,
             "date_filed":   date_filed,
             "board":        "Main Board",
             "headline":     headline,
-            "pdf_url":      pdf_url,
-            "filename":     "",   # filled during download
+            "pdf_url":      PDF_BASE_URL + href,
+            "filename":     "",
             "downloaded":   "no",
             "error":        "",
         })
+
+    # Group by stock code, keep most recent valid document per company
+    grouped = defaultdict(list)
+    for row in raw_rows:
+        grouped[row["stock_code"]].append(row)
+
+    records = []
+    for stock_code, candidates in grouped.items():
+        candidates.sort(key=parse_date, reverse=True)
+        records.append(candidates[0])
 
     return records
 
@@ -304,6 +348,7 @@ def main():
     print(f"Done. Found: {total_found}  |  Downloaded: {total_downloaded}")
     print(f"Log saved to: {LOG_PATH}")
     print(f"PDFs saved to: {OUTPUT_DIR}/")
+    print(f"Length of {OUTPUT_DIR}: {len(os.listdir(OUTPUT_DIR))}")
 
 
 if __name__ == "__main__":
