@@ -957,7 +957,7 @@ socioeconomic burden. Among those cancers of unmet medical needs, platinum-resis
 ovarian cancer (PROC), metastatic castration-resistant prostate cancer (mCRPC), HR+/HER2-
 metastatic breast cancer (HR+/HER2- mBC) and triple negative breast cancer (TNBC) are
 some of the diseases with limited SOC options and unsatisfactory treatment outcomes.
-(cid:129) PROC. According to Frost & Sullivan, the global and China incidence of ovarian
+ PROC. According to Frost & Sullivan, the global and China incidence of ovarian
 cancer is expected to increase from 319.8 thousand and 56.2 thousand in 2021 to
 374.2 thousand and 62.7 thousand in 2030, respectively. The SOC mainly consists
 of debulking surgery and platinum-based chemotherapy with or without
@@ -984,7 +984,7 @@ platinum-based chemotherapy with or without bevacizumab or PARP inhibitor.
 
 === PAGE 15 ===
 SUMMARY
-(cid:129) mCRPC.According to Frost & Sullivan, the global and China incidence of prostate
+ mCRPC.According to Frost & Sullivan, the global and China incidence of prostate
 cancer is expected to increase from 1,451.5 thousand and 120.9 thousand in 2021 to
 1,815.1 thousand and 199.3 thousand in 2030, respectively. Patients with prostate
 cancer that have relapsed after local therapy or that have distant metastasis usually
@@ -1001,7 +1001,7 @@ anti-androgen therapy, we are developing LAE002 as a second- to fourth-line
 treatment for mCRPC patients who failed first- to third-line prior standard
 treatments that contain at least one novel anti-androgen treatment (i.e., abiraterone,
 enzalutamide, apalutamide, or darolutamide) with no more than one chemotherapy.
-(cid:129) HR+/HER2- mBC and TNBC.According to Frost & Sullivan, the global and China
+ HR+/HER2- mBC and TNBC.According to Frost & Sullivan, the global and China
 incidence of breast cancer is expected to increase from 2,301.2 thousand and 336.3
 thousand in 2021 to 2,666.4 thousand and 372.4 thousand in 2030, respectively. It
 is estimated that 60% of patients with breast cancer have HR+/HER2- molecular
@@ -1172,7 +1172,7 @@ are seven anti-androgen drugs approved for commercialization globally (ex-China)
 are seven anti-androgen drugs approved in China.
 Marketed Anti-androgen Drug in the US and China
 Approved drug Flutamide Bicalutamide Nilutamide Abiraterone Enzalutamide Apalutamide Darolutamide Rezvilutamide
-Commercial name Fugerel Casodex Nilandron Zytiga Xtandi Erleada Nubeqa (cid:2604)(cid:2294)(cid:1740)
+Commercial name Fugerel Casodex Nilandron Zytiga Xtandi Erleada Nubeqa 
 Mechanism ARinhibitor AR inhibitor AR inhibitor CYP17A1 inhibitor AR inhibitor AR inhibitor AR inhibitor AR inhibitor
 Company Ferring Astra Zeneca Concordia Janssen Biotech Astellas Janssen Biotech Bayer HengruiMedicine
 US approval time 1989* 1995 1996 2011 2012 2018 2019 Not approved
@@ -1208,7 +1208,7 @@ status
 (50mg) (250mg) (40mg) (60mg) (300mg)
 2021 China generic drug 3.8 25.0 30.0 48.2
 NA NA NA NA
-market price (RMB) (cid:871)250mg(cid:872) (cid:871)50mg(cid:872) (cid:871)250mg(cid:872) (cid:871)40mg(cid:872)
+market price (RMB) 
 8.4 39.9
 2021 China monthly treatment 0.9 13.0 23.6
 NA NA (mCRPCPFS:19.5 (mHSPCPFS:NA NA
@@ -1218,7 +1218,7 @@ nmCRPCPFS:36.6) nmCRPCPFS:40.5)
 0.3 0.8 3.6
 monthly treatment cost NA (mCRPCPFS:19.5 NA NA NA
 (thousand RMB)
-(cid:871)PFS:NA(cid:872) (PFS:NA) (PFS:NA)
+
 nmCRPCPFS:36.6)
 Notes:
 1. There were over 15 generic competitors of the approved anti-androgen drugs as of April 30, 2023. If the
@@ -1315,38 +1315,38 @@ Pharmaceutical Industry in China is Highly Regulated and Such Regulations are Su
 Change, which may Affect Approval and Commercialization of Our Drug Candidates.”
 OUR COMPETITIVE STRENGTHS
 We believe the following strengths differentiate us from our competitors:
-(cid:129) ATP competitive AKT inhibitor LAE002 in registrational clinical trials with
+ ATP competitive AKT inhibitor LAE002 in registrational clinical trials with
 potentially better clinical efficacy and favorable safety profile
-(cid:129) CYP17A1/CYP11B2 inhibitor LAE001 exhibits favorable efficacy profile for
+ CYP17A1/CYP11B2 inhibitor LAE001 exhibits favorable efficacy profile for
 prostate cancer
 – 12 –
 
 === PAGE 22 ===
 SUMMARY
-(cid:129) Deep understanding into fundamental disease biology and clinical practice that
+ Deep understanding into fundamental disease biology and clinical practice that
 empowers our internal discovery, business development and translational research
-(cid:129) Integrated operations that well-positions us to capture international business
+ Integrated operations that well-positions us to capture international business
 opportunities
-(cid:129) Seasoned management team has a proven track record of R&D, supported by
+ Seasoned management team has a proven track record of R&D, supported by
 strategic investors and healthcare specialists
 OUR STRATEGIES
 We plan to pursue the following significant opportunities and execute our key strategies
 accordingly:
-(cid:129) Rapidly advance the development of our existing drug candidates and portfolio
+ Rapidly advance the development of our existing drug candidates and portfolio
 towards commercialization
-(cid:129) Activelyexplorepotentialcombinationtherapyopportunitiestofullyunlockclinical
+ Activelyexplorepotentialcombinationtherapyopportunitiestofullyunlockclinical
 value of our product pipeline
-(cid:129) Consistently expand our drug pipeline through in-house discovery to address
+ Consistently expand our drug pipeline through in-house discovery to address
 broader underserved patients
-(cid:129) Further enhance our capabilities as our clinical studies progress and business
+ Further enhance our capabilities as our clinical studies progress and business
 develops
-(cid:129) Continue to attract and retain top talents and become a world-class organization
+ Continue to attract and retain top talents and become a world-class organization
 RESEARCH AND DEVELOPMENT
 We have developed our clinical and pre-clinical pipeline through a combination of
 internally discovered and in-licensed products. Leveraging our know-how and R&D approach,
 we have implemented a product development model that consists of internal discovery,
 business development and translational research.
-(cid:129) Internal discovery. Our internal drug discovery primarily focuses on identifying
+ Internal discovery. Our internal drug discovery primarily focuses on identifying
 innovative immunology therapies for cancer and liver fibrosis. LAE102, our most
 advanced internally discovered drug candidate for cancer treatment, is a potentially
 potent and selective ActRIIA mAb has demonstrated anti-tumor activity in pre-
@@ -1358,14 +1358,14 @@ mechanism pre-clinical studies.
 
 === PAGE 23 ===
 SUMMARY
-(cid:129) Business development. We apply a disciplined approach for bolstering our existing
+ Business development. We apply a disciplined approach for bolstering our existing
 pipeline and expanding our capabilities. We focus on novel and clinically proven
 assets for drug-resistant cancers of which we have accumulated specialized
 knowledgeandexperience.Assuch,weobtainedglobalrightsfromNovartisonfour
 drug candidates with a clinical proof-of-concept, namely LAE001, LAE002,
 LAE005 and LAE003. We will continue to expand our drug portfolio and explore
 partnership through strategic collaborations to maximize the value of our pipeline.
-(cid:129) Translational research. We devote substantial resources to conducting translational
+ Translational research. We devote substantial resources to conducting translational
 research on our in-licensed product candidates to expand their clinical applications.
 Our translational studies include indication expansions through combination
 therapies or providing targeted treatments through patient stratification.
@@ -1832,10 +1832,10 @@ Consolidated Statements of Financial Position – Other Payables.”
 SUMMARY
 GLOBAL OFFERING STATISTICS
 The Global Offering by us consists of:
-(cid:129) the offer by us of initially 6,373,000 Hong Kong Offer Shares, for subscription by
+ the offer by us of initially 6,373,000 Hong Kong Offer Shares, for subscription by
 the public in Hong Kong, referred to in this prospectus as the Hong Kong Public
 Offering; and
-(cid:129) the offer by us of initially 57,355,000 International Offer Shares, outside the U.S.
+ the offer by us of initially 57,355,000 International Offer Shares, outside the U.S.
 (including to professional, institutional and other investors within Hong Kong) in
 offshore transactions in reliance on Regulation S, referred to in this prospectus as
 the International Offering.
@@ -1918,34 +1918,34 @@ RISK FACTORS
 We believe that there are certain risks involved in our operations, many of which are
 beyond our control. These risks are set out in the section headed “Risk Factors” in this
 prospectus. Some of the major risks we face include:
-(cid:129) We face fierce competition from existing products and product candidates under
+ We face fierce competition from existing products and product candidates under
 development in the entire oncology market. Our competitors may discover, develop
 orcommercializecompetingdrugsearlierormoresuccessfullythanwedo.Ifwefail
 to effectively compete with our competitors, our competitive position in our target
 markets may be undermined, our drug candidates, if and when approved, may fail
 to be commercially successful and our business, financial condition, results of
 operations and prospects could be adversely affected.
-(cid:129) Our business and financial prospects depend substantially on the success of our
+ Our business and financial prospects depend substantially on the success of our
 clinicalstageandpre-clinicalstagedrugcandidates.Ifweareunabletosuccessfully
 complete their clinical development, obtain relevant regulatory approvals or achieve
 their commercialization, or if we experience significant delays in any of the
 foregoing, our business, results of operations and financial condition may be
 adversely affected.
-(cid:129) If we fail to comply with our obligations in the agreements under which we
+ If we fail to comply with our obligations in the agreements under which we
 in-license intellectual property rights from third parties or otherwise experience
 disruptions to our business relationships with our licensors, we could be required to
 pay monetary damages or could lose license rights that are important to our
 business.
-(cid:129) We rely on third-party collaborators for some of our clinical development activities.
+ We rely on third-party collaborators for some of our clinical development activities.
 In particular, sintilimab has been issued a complete response letter (“CRL”) by the
 FDAand it may negatively affect our overseas development and commercialization
 of combination therapies involving sintilimab globally. For more information
 regarding CRL, please see “Regulatory Overview – U.S. Review and Approval
 Processes.”
-(cid:129) We have no experience in manufacturing pharmaceutical products, which is a highly
+ We have no experience in manufacturing pharmaceutical products, which is a highly
 exacting and complex process, and our business could be materially and adversely
 affected if we encounter problems in manufacturing our future drug products.
-(cid:129) All material aspects of the research, development, manufacturing and
+ All material aspects of the research, development, manufacturing and
 commercialization of pharmaceutical products are heavily regulated and the
 approval process is usually lengthy, costly and inherently unpredictable.Any failure
 to comply with existing or future regulations and industry standards or any adverse
@@ -1955,7 +1955,7 @@ reputation and our business, financial condition, results of operations and pros
 
 === PAGE 37 ===
 SUMMARY
-(cid:129) We have incurred significant net losses since our inception, and expect to continue
+ We have incurred significant net losses since our inception, and expect to continue
 to incur net losses for the foreseeable future and may not be able to generate
 sufficient revenue to achieve profitability. Potential investors are at risk of losing
 substantially all of their investments in our Shares.
@@ -2447,9 +2447,9 @@ www.eipo.com.hk
 Provider”
 “%” per cent
 In this prospectus:
-(cid:129) Unless otherwise expressly stated or the context otherwise requires, all data in this
+ Unless otherwise expressly stated or the context otherwise requires, all data in this
 prospectus is as of the Latest Practicable Date.
-(cid:129) The English names of the PRC entities, PRC laws or regulations, and the PRC
+ The English names of the PRC entities, PRC laws or regulations, and the PRC
 governmental authorities referred to in this prospectus are translations from their
 Chinesenamesandareforidentificationpurposesonly.Ifthereisanyinconsistency,
 the Chinese names shall prevail.
@@ -2715,14 +2715,14 @@ benefit, and adverse effects of the drug
 “PKC” protein kinase C, a serine/threonine protein kinase,
 controlling function of other proteins through
 phosphorylation
-“PKC(cid:2)” protein kinase C (cid:2) isoform
-“PKC(cid:3)” protein kinase C (cid:3) isoform
-“PKC(cid:4)” protein kinase C (cid:4) isoform
-“PKC(cid:5)1” protein kinase C (cid:5)1 isoform
+“PKC isoform
+“PKC isoform
+“PKC isoform
+“PKC1 isoform
 “PKG” protein kinase G or cGMP-dependent protein kinase, a
 serine/threonine protein kinase activated by cGMP
-“PKG1(cid:6)” cGMP-dependent protein kinase 1, alpha isozyme
-“PKG1(cid:5)” cGMP-dependent protein kinase 1, beta isozyme
+“PKG1” cGMP-dependent protein kinase 1, alpha isozyme
+“PKG1” cGMP-dependent protein kinase 1, beta isozyme
 “placebo” a treatment or preparation with no specific
 pharmacological activity
 “PR” partial response, an at least 30% but less than 100%
@@ -2811,15 +2811,15 @@ In some cases, these forward-looking statements can be identified by words or ph
 such as “may”, “will”, “expect”, “anticipate”, “aim”, “estimate”, “intend”, “target”, “expect”,
 “plan”, “believe”, “potential”, “continue”, “is/are likely to” or other similar expressions.These
 forward-looking statements include, among other things, statements relating to:
-(cid:129) our operations and business prospects;
-(cid:129) our financial conditions and our operating results and performance;
-(cid:129) industry trends and competition;
-(cid:129) our product candidates under development or planning;
-(cid:129) our strategies and initiatives, business plans, objectives and goals;
-(cid:129) our ability to attract users and further enhance our brand recognition;
-(cid:129) the amount and nature of, and potential for, future development of our business;
-(cid:129) general political and economic conditions; and
-(cid:129) changes to regulatory and operating conditions in the markets in which we operate.
+ our operations and business prospects;
+ our financial conditions and our operating results and performance;
+ industry trends and competition;
+ our product candidates under development or planning;
+ our strategies and initiatives, business plans, objectives and goals;
+ our ability to attract users and further enhance our brand recognition;
+ the amount and nature of, and potential for, future development of our business;
+ general political and economic conditions; and
+ changes to regulatory and operating conditions in the markets in which we operate.
 These forward-looking statements are subject to risks, uncertainties and assumptions,
 some of which are beyond our control. In addition, these forward-looking statements reflect
 our current views with respect to future events and are not a guarantee of future performance.
@@ -2933,25 +2933,25 @@ PK profiles and others as applicable, our development of LAE002 may still be sub
 development risks, including these faced by perifosine or ipatasertib in their development.
 In addition to the completion of clinical trial development, the success of our drug
 candidates will depend on many other factors, including but not limited to:
-(cid:129) receipt of regulatory approvals;
-(cid:129) obtaining sufficient supplies of any qualified drug products that are used in
+ receipt of regulatory approvals;
+ obtaining sufficient supplies of any qualified drug products that are used in
 combination with our drug candidates, competitor drugs or comparison drugs that
 may be necessary for use in clinical trials for evaluation of our drug candidates;
-(cid:129) establishing sufficient commercial manufacturing capabilities, either by building
+ establishing sufficient commercial manufacturing capabilities, either by building
 facilities ourselves or making arrangements with third-party manufacturers;
-(cid:129) obtaining, maintaining and enforcing patent, trademark, trade secret and other
+ obtaining, maintaining and enforcing patent, trademark, trade secret and other
 intellectual property protection and regulatory exclusivity for our drug candidates;
-(cid:129) avoiding infringement, misappropriation or violation of the patents, trademarks,
+ avoiding infringement, misappropriation or violation of the patents, trademarks,
 trade secrets or other intellectual property rights of third parties, and successfully
 defending against any claims by third parties that we have infringed,
 misappropriated or otherwise violated any intellectual property of any such third
 party;
-(cid:129) successfully launching commercial sales of our drug candidates, if and when
+ successfully launching commercial sales of our drug candidates, if and when
 approved;
-(cid:129) obtaining and maintaining favorable reimbursement from third-party payers for
+ obtaining and maintaining favorable reimbursement from third-party payers for
 drugs, if and when approved;
-(cid:129) competition with other drug candidates and drugs; and
-(cid:129) continued acceptable safety profile of our drug candidates following regulatory
+ competition with other drug candidates and drugs; and
+ continued acceptable safety profile of our drug candidates following regulatory
 approval.
 If we do not achieve one or more of these factors in a timely manner or at all, we could
 experience significant delays in obtaining approval for and/or successfully commercializing
@@ -3111,25 +3111,25 @@ extensive clinical trials to meet the trial targets, including to demonstrate th
 efficacy of our drug candidates in humans. We may experience numerous unexpected events
 during, or as a result of, clinical trials that could delay or prevent our ability to obtain
 regulatory approval or commercialize our drug candidates, including but not limited to:
-(cid:129) regulators,institutionalreviewboardsorethicscommitteesnotauthorizingusorour
+ regulators,institutionalreviewboardsorethicscommitteesnotauthorizingusorour
 investigators to commence a clinical trial or conduct a clinical trial at a prospective
 trial site;
-(cid:129) manufacturing issues relating to our third-party CDMOs or after we establish our
+ manufacturing issues relating to our third-party CDMOs or after we establish our
 own facilities, including problems with manufacturing, supply quality, compliance
 with good manufacturing practice, or GMP, or obtaining from third parties sufficient
 quantities of a drug candidate for use in a clinical trial;
-(cid:129) clinical trials of our drug candidates producing negative or inconclusive results, and
+ clinical trials of our drug candidates producing negative or inconclusive results, and
 additional clinical trials or abandoning drug development programs being required;
-(cid:129) the number of patients required for clinical trials of our drug candidates being larger
+ the number of patients required for clinical trials of our drug candidates being larger
 than we anticipate, enrollment being insufficient or slower than we anticipate, or
 patients dropping out at a higher rate than we anticipate;
-(cid:129) our third-party contractors failing to comply with regulatory requirements or meet
+ our third-party contractors failing to comply with regulatory requirements or meet
 their contractual obligations to us in a timely manner, or at all;
-(cid:129) our having to suspend or terminate clinical trials of our drug candidates for various
+ our having to suspend or terminate clinical trials of our drug candidates for various
 reasons, including a finding of a lack of clinical response or other unexpected
 characteristics or a finding that participants are being exposed to unacceptable
 health risks; and
-(cid:129) thecostofclinicaltrialsofourdrugcandidatesbeinggreaterthanweanticipate;and
+ thecostofclinicaltrialsofourdrugcandidatesbeinggreaterthanweanticipate;and
 the supply or quality of our drug candidates, companion diagnostics or other
 materials necessary to conduct clinical trials of our drug candidates being
 insufficient or inadequate.
@@ -3167,32 +3167,32 @@ regulatory approval.
 Undesirable adverse events caused by our drug candidates, or caused by our drug
 candidates when used in combination with other drugs, could potentially cause significant
 negative consequences, including but not limited to:
-(cid:129) regulatory authorities could interrupt, delay or halt pending clinical trials;
-(cid:129) we may suspend, delay or alter development or marketing of our drug candidates;
-(cid:129) regulatory authorities may order us to cease further development of, or deny
+ regulatory authorities could interrupt, delay or halt pending clinical trials;
+ we may suspend, delay or alter development or marketing of our drug candidates;
+ regulatory authorities may order us to cease further development of, or deny
 approval of, our drug candidates for any or all targeted indications if results of our
 trials reveal a high and unacceptable severity or prevalence of certain adverse
 events;
-(cid:129) regulatory authorities may delay or deny approval of our drug candidates;
+ regulatory authorities may delay or deny approval of our drug candidates;
 – 60 –
 
 === PAGE 70 ===
 RISK FACTORS
-(cid:129) regulatory authorities may withdraw approvals or revoke licenses of an approved
+ regulatory authorities may withdraw approvals or revoke licenses of an approved
 drug candidate, or we may determine to do so even if not required;
-(cid:129) regulatory authorities may require additional warnings on the label of an approved
+ regulatory authorities may require additional warnings on the label of an approved
 drug candidate or impose other limitations on an approved drug candidate;
-(cid:129) we may be required to develop a risk evaluation mitigation strategy for the drug
+ we may be required to develop a risk evaluation mitigation strategy for the drug
 candidate,or,ifoneisalreadyinplace,toincorporateadditionalrequirementsunder
 the risk evaluation mitigation strategy, or to develop a similar strategy as required
 by a comparable regulatory authority;
-(cid:129) we may be required to conduct post-market studies;
-(cid:129) we could be subject to litigation proceedings and held liable for harm caused to
+ we may be required to conduct post-market studies;
+ we could be subject to litigation proceedings and held liable for harm caused to
 patients exposed to or taking our drug candidates;
-(cid:129) the patient enrollment may be insufficient or slower than we anticipate or patients
+ the patient enrollment may be insufficient or slower than we anticipate or patients
 may drop out or fail to return for post-treatment follow-up at a higher rate than
 anticipated; and
-(cid:129) the costs of clinical trials of our drug candidates may be substantially higher than
+ the costs of clinical trials of our drug candidates may be substantially higher than
 anticipated.
 In addition, some of our drug candidates are still considered as emerging therapies for
 cancers and liver cirrhosis. Their mechanisms of action are yet to be thoroughly understood,
@@ -3342,9 +3342,9 @@ collaboration opportunities, including in-licensing, if certain drug candidate f
 development plan. However, we cannot guarantee that we will be able to successfully identify,
 discover and in-license new drug candidates with high potential for a number of reasons,
 including but are not limited to:
-(cid:129) the research methodology used may not be successful in discovering new drug
+ the research methodology used may not be successful in discovering new drug
 candidates or formulations or developing additional potential indications;
-(cid:129) therecanbesignificantvariabilityinsafetyand/orefficacyresultsbetweendifferent
+ therecanbesignificantvariabilityinsafetyand/orefficacyresultsbetweendifferent
 trials of the same drug candidate due to numerous factors, including changes in trial
 procedures set forth in protocols, differences in the size and type of the patient
 populations, including genetic differences, patient adherence to the dosing regimen
@@ -3353,10 +3353,10 @@ and other trial protocol elements;
 
 === PAGE 74 ===
 RISK FACTORS
-(cid:129) potential drug candidates may, after further study, be shown to have harmful adverse
+ potential drug candidates may, after further study, be shown to have harmful adverse
 effects or other characteristics that indicate they are unlikely to be effective drugs;
 or
-(cid:129) it may take greater human and financial resources to identify additional therapeutic
+ it may take greater human and financial resources to identify additional therapeutic
 opportunities for our drug candidates or to develop suitable potential drug
 candidatesthroughinternalresearchprogramsthanwewillpossess,therebylimiting
 our ability to diversify and expand our drug portfolio.
@@ -3428,38 +3428,38 @@ We currently use third parties for our manufacturing process and for the clinica
 of our drug candidates. We expect to continue to rely on third-parties to supply raw materials
 for us to manufacture or manufacture the approved drugs in the future. Reliance on third-party
 manufacturers would expose us to the following risks:
-(cid:129) wemaybeunabletoidentifymanufacturersonacceptabletermsoratallbecausethe
+ wemaybeunabletoidentifymanufacturersonacceptabletermsoratallbecausethe
 number of potential manufacturers is limited and the NMPA, the FDA or other
 comparable regulatory authorities must evaluate and/or approve any manufacturers
 as part of their regulatory oversight of our drug candidates. This evaluation would
 require new testing and cGMP-compliance inspections by the NMPA, the FDA or
 other comparable regulatory authorities;
-(cid:129) our third-party manufacturers might be unable to timely manufacture our drug
+ our third-party manufacturers might be unable to timely manufacture our drug
 candidates or produce the quantity and quality required to meet our clinical and
 commercial needs, if any;
 – 66 –
 
 === PAGE 76 ===
 RISK FACTORS
-(cid:129) manufacturers are subject to ongoing periodic unannounced inspection by the
+ manufacturers are subject to ongoing periodic unannounced inspection by the
 regulatory authorities to ensure strict compliance with cGMP and other government
 regulations.Wedonothavecontroloverthird-partymanufacturers’compliancewith
 these regulations and requirements;
-(cid:129) we may not own, or may have to share, the intellectual property rights to any
+ we may not own, or may have to share, the intellectual property rights to any
 improvements made by our third-party manufacturers in the manufacturing process
 for our drug candidates;
-(cid:129) manufacturers may not properly obtain, protect, maintain, defend or enforce our
+ manufacturers may not properly obtain, protect, maintain, defend or enforce our
 intellectual property rights or may use our intellectual property or proprietary
 information in a way that gives rise to actual or threatened litigation that could
 jeopardize or invalidate our intellectual property or proprietary information or
 expose us to potential liability;
-(cid:129) manufacturers may infringe, misappropriate or otherwise violate the patent, trade
+ manufacturers may infringe, misappropriate or otherwise violate the patent, trade
 secret or other intellectual property rights of third parties;
-(cid:129) active pharmaceutical ingredients (“APIs”) used in the manufacturing process,
+ used in the manufacturing process,
 particularly those for which we have no other source or supplier, may not be
 available or may not be suitable or acceptable for use due to material or component
 defects; and
-(cid:129) our contract manufacturers and critical reagent suppliers may be subject to
+ our contract manufacturers and critical reagent suppliers may be subject to
 inclement weather, as well as natural or human-made disasters.
 Each of these risks could delay or prevent R&D activities, result in higher costs, or
 adversely impact commercialization of our future approved drug candidates. In addition, we
@@ -3500,10 +3500,10 @@ principal investigators, consultants, vendors, CROs, SMOs and CDMOs may engage i
 fraudulentorotherillegalactivitywithrespecttoourbusiness.Misconductbytheseemployees
 could include intentional, reckless and/or negligent conduct or unauthorized activity that
 violates:
-(cid:129) regulations of the NMPA, the FDA or other regulatory authorities, including those
+ regulations of the NMPA, the FDA or other regulatory authorities, including those
 laws requiring the reporting of true, complete and accurate information;
-(cid:129) manufacturing standards; or
-(cid:129) laws that require the true, complete and accurate reporting of financial information
+ manufacturing standards; or
+ laws that require the true, complete and accurate reporting of financial information
 or data.
 In particular, sales, marketing and business arrangements in the healthcare industry are
 subjecttoextensivelawsandregulationsintendedtopreventfraud,kickbacks,self-dealingand
@@ -3534,17 +3534,17 @@ if we encounter problems in manufacturing our future drug products.
 We have no experience in manufacturing of our future approved products for commercial
 use. Moreover, the manufacturing of pharmaceutical products is highly complex. Problems
 may arise during manufacturing for a variety of reasons, including but not limited to:
-(cid:129) equipment malfunction;
-(cid:129) failure to follow specific protocols and procedures;
-(cid:129) changes in product specification;
-(cid:129) low quality or insufficient supply of APIs;
-(cid:129) delays in the construction of new facilities as a result of changes in manufacturing
+ equipment malfunction;
+ failure to follow specific protocols and procedures;
+ changes in product specification;
+ low quality or insufficient supply of APIs;
+ delays in the construction of new facilities as a result of changes in manufacturing
 production sites and limits to manufacturing capacity due to regulatory
 requirements;
-(cid:129) changes in the types of products produced;
-(cid:129) advances in manufacturing techniques;
-(cid:129) physical limitations that could inhibit continuous supply; and
-(cid:129) man-made or natural disasters and other environmental factors.
+ changes in the types of products produced;
+ advances in manufacturing techniques;
+ physical limitations that could inhibit continuous supply; and
+ man-made or natural disasters and other environmental factors.
 Products with quality issues may have to be discarded, resulting in product shortages or
 additional expenses. This could lead to, among other things, increased costs, lost revenue,
 damage to customer relationships, time and expense spent investigating the cause and,
@@ -3621,11 +3621,11 @@ of products for clinical or, in the future, commercial use, may result in the te
 a hold on a clinical trial, or may delay or prevent filing or approval of marketing applications
 for our drug candidates or the commercialization of our drugs, if approved. We also may
 encounter problems with the following:
-(cid:129) achieving adequate or clinical-grade materials that meet NMPA, the FDA or other
+ achieving adequate or clinical-grade materials that meet NMPA, the FDA or other
 comparable regulatory agency standards or specifications with consistent and
 acceptable production yield and costs;
-(cid:129) shortages of qualified personnel, raw materials or key contractors; and
-(cid:129) ongoing compliance with cGMP regulations and other requirements of the NMPA,
+ shortages of qualified personnel, raw materials or key contractors; and
+ ongoing compliance with cGMP regulations and other requirements of the NMPA,
 the FDA or other comparable regulatory agencies.
 Failuretocomplywithapplicableregulationscouldalsoresultinsanctionsbeingimposed
 on us, including fines, injunctions, civil penalties, a requirement to suspend or put on hold one
@@ -3736,22 +3736,22 @@ candidates that are in clinical trials for the same or similar indications. In a
 patients and third-party payors may prefer other novel products to ours. The degree of market
 acceptance of our drug candidates, if approved for commercial sale, will depend on a number
 of factors, including:
-(cid:129) the clinical indications for which our drug candidates are approved;
-(cid:129) physicians, hospitals and patients considering our drug candidates as a safe and
+ the clinical indications for which our drug candidates are approved;
+ physicians, hospitals and patients considering our drug candidates as a safe and
 effective treatment;
-(cid:129) the potential and perceived advantages of our drug candidates over alternative
+ the potential and perceived advantages of our drug candidates over alternative
 treatments;
-(cid:129) the prevalence and severity of any side effects;
-(cid:129) product labeling or product insert requirements of regulatory authorities;
-(cid:129) limitations or warnings contained in the labeling approved by regulatory authorities;
-(cid:129) the timing of market introduction of our drug candidates as well as competitive
+ the prevalence and severity of any side effects;
+ product labeling or product insert requirements of regulatory authorities;
+ limitations or warnings contained in the labeling approved by regulatory authorities;
+ the timing of market introduction of our drug candidates as well as competitive
 drugs;
-(cid:129) the cost of treatment in relation to alternative treatments;
-(cid:129) the availability of adequate coverage, reimbursement and pricing by third-party
+ the cost of treatment in relation to alternative treatments;
+ the availability of adequate coverage, reimbursement and pricing by third-party
 payors and government authorities;
-(cid:129) the willingness of patients to pay out-of-pocket in the absence of coverage and
+ the willingness of patients to pay out-of-pocket in the absence of coverage and
 reimbursement by third-party payors and government authorities; and
-(cid:129) the effectiveness of our sales and marketing efforts.
+ the effectiveness of our sales and marketing efforts.
 If any approved drug candidates that we commercialize fail to achieve market acceptance
 in the medical community, we will not be able to generate significant revenue. Even if our
 future approved drug candidates achieve market acceptance, we may not be able to maintain
@@ -3860,18 +3860,18 @@ Date, we have not obtained qualifications for expedited registration pathways, b
 therapies or similar accelerated review channels in any jurisdictions for our drug candidates.
 Our drug candidates could fail to receive regulatory approval for many reasons,
 including:
-(cid:129) failure to begin or complete clinical trials due to disagreements with regulatory
+ failure to begin or complete clinical trials due to disagreements with regulatory
 authorities;
-(cid:129) failuretodemonstratethatadrugcandidateissafeandeffectiveor,ifitisabiologic,
+ failuretodemonstratethatadrugcandidateissafeandeffectiveor,ifitisabiologic,
 that it is safe, pure and potent for its proposed indication;
-(cid:129) failureofclinicaltrialresultstomeetthelevelofstatisticalsignificancerequiredfor
+ failureofclinicaltrialresultstomeetthelevelofstatisticalsignificancerequiredfor
 approval;
-(cid:129) data integrity issues related to our clinical trials;
-(cid:129) disagreement with our interpretation of data from pre-clinical studies or clinical
+ data integrity issues related to our clinical trials;
+ disagreement with our interpretation of data from pre-clinical studies or clinical
 trials;
-(cid:129) our failure to conduct a clinical trial in accordance with regulatory requirements or
+ our failure to conduct a clinical trial in accordance with regulatory requirements or
 our clinical trial protocols; and
-(cid:129) clinical sites, investigators or other participants in our clinical trials deviating from
+ clinical sites, investigators or other participants in our clinical trials deviating from
 a trial protocol, failing to conduct the trial in accordance with regulatory
 requirements, or dropping out of a trial.
 The NMPA, the FDAor a comparable regulatory authority may require more information,
@@ -4871,27 +4871,27 @@ and patent applications with global rights), and we were also the registered own
 domain names. The degree of future protection afforded by our intellectual property rights is
 uncertain because intellectual property rights have limitations, and may not adequately protect
 our business or permit us to maintain our competitive advantage. For example:
-(cid:129) others may be able to make products that are similar to any drug candidates we may
+ others may be able to make products that are similar to any drug candidates we may
 develop or utilize similar technology that are not covered by the claims of the
 patents that we own or license now or in the future;
-(cid:129) we or any future collaborators might not have been the first to make the inventions
+ we or any future collaborators might not have been the first to make the inventions
 covered by the issued patent or pending patent application that we own or may
 license in the future;
-(cid:129) we or any future collaborators might not have been the first to file patent
+ we or any future collaborators might not have been the first to file patent
 applications covering certain of our or their inventions;
-(cid:129) others may independently develop similar or alternative technologies or duplicate
+ others may independently develop similar or alternative technologies or duplicate
 any of our technologies without infringing, misappropriating or otherwise violating
 our intellectual property rights;
-(cid:129) it is possible that our pending patent applications or those that we may own in the
+ it is possible that our pending patent applications or those that we may own in the
 future will not lead to issued patents;
-(cid:129) patents that may be issued from our pending patent applications may be held invalid
+ patents that may be issued from our pending patent applications may be held invalid
 or unenforceable, including as a result of legal challenges by our competitors;
-(cid:129) our competitors might conduct research and development activities in countries
+ our competitors might conduct research and development activities in countries
 where we do not have patent rights and then use the information learned from such
 activitiestodevelopcompetitiveproductsforsaleinourmajorcommercialmarkets;
-(cid:129) we may not develop additional proprietary technologies that are patentable;
-(cid:129) the patents of others may materially and adversely affect our business; and
-(cid:129) we may choose not to file a patent for certain trade secrets or know-how, and a third
+ we may not develop additional proprietary technologies that are patentable;
+ the patents of others may materially and adversely affect our business; and
+ we may choose not to file a patent for certain trade secrets or know-how, and a third
 party may subsequently file a patent covering such intellectual property.
 Should any of these events occur, they could have a material adverse effect on our
 business, financial condition, results of operations and prospects.
@@ -4975,12 +4975,12 @@ commercialization plans and strategies evolve, we must add a significant number 
 managerial, operational, manufacturing, sales, marketing, financial and other personnel. Our
 recentgrowthandanyfuturegrowthwillimposesignificantaddedresponsibilitiesonmembers
 of management, including:
-(cid:129) identifying, recruiting, integrating, maintaining and motivating additional
+ identifying, recruiting, integrating, maintaining and motivating additional
 employees;
-(cid:129) managing our internal development efforts effectively, including the clinical and
+ managing our internal development efforts effectively, including the clinical and
 regulatory authority review process for our drug candidates, while complying with
 our contractual obligations to contractors and other third parties; and
-(cid:129) improving our operational, financial and management controls, reporting systems,
+ improving our operational, financial and management controls, reporting systems,
 and procedures.
 – 102 –
 
@@ -5051,19 +5051,19 @@ From time to time, to pursue our growth strategy, we may evaluate various acquis
 joint ventures and strategic partnerships, including licensing or acquiring complementary
 products, intellectual property rights, technologies or businesses.Any completed, in-process or
 potential acquisition or strategic partnership may entail numerous risks, including:
-(cid:129) increased operating expenses and cash requirements;
-(cid:129) the assumption of additional indebtedness or contingent or unforeseen liabilities;
-(cid:129) the issuance of our equity securities;
-(cid:129) assimilation of operations, intellectual property and products of an acquired
+ increased operating expenses and cash requirements;
+ the assumption of additional indebtedness or contingent or unforeseen liabilities;
+ the issuance of our equity securities;
+ assimilation of operations, intellectual property and products of an acquired
 company, including difficulties associated with integrating new personnel;
-(cid:129) thediversionofourmanagement’sattentionfromourexistingproductprogramsand
+ thediversionofourmanagement’sattentionfromourexistingproductprogramsand
 initiatives in pursuing such a strategic merger or acquisition;
-(cid:129) retention of key employees, the loss of key personnel, and uncertainties in our
+ retention of key employees, the loss of key personnel, and uncertainties in our
 ability to maintain key business relationships;
-(cid:129) risks and uncertainties associated with the other party to such a transaction,
+ risks and uncertainties associated with the other party to such a transaction,
 including the prospects of that party and their existing drugs or drug candidates and
 regulatory approvals; and
-(cid:129) our inability to generate revenue from acquired technology and/or products
+ our inability to generate revenue from acquired technology and/or products
 sufficient to meet our objectives in undertaking the acquisition or even to offset the
 associated acquisition and maintenance costs.
 – 104 –
@@ -5189,30 +5189,30 @@ materially and adversely affect our business and results of operations.
 Because we operate in China, the U.S. and other jurisdictions, our business is subject to
 risks associated with doing business. Accordingly, our business and financial results in the
 future could be adversely affected due to a variety of factors, including:
-(cid:129) changesinaspecificcountry’sorregion’spoliticalandculturalclimateoreconomic
+ changesinaspecificcountry’sorregion’spoliticalandculturalclimateoreconomic
 condition;
-(cid:129) unexpected changes in laws and regulatory requirements in local jurisdictions;
+ unexpected changes in laws and regulatory requirements in local jurisdictions;
 – 107 –
 
 === PAGE 117 ===
 RISK FACTORS
-(cid:129) efforts to develop an international sale, marketing and distribution organization may
+ efforts to develop an international sale, marketing and distribution organization may
 increase our expenses, divert our management’s attention from the acquisition or
 development of drug candidates or cause us to forgo profitable licensing
 opportunities in these geographies;
-(cid:129) the occurrence of economic weakness, including inflation or political instability;
-(cid:129) the burden of complying with a variety of foreign laws including difficulties in
+ the occurrence of economic weakness, including inflation or political instability;
+ the burden of complying with a variety of foreign laws including difficulties in
 effective enforcement of contractual provisions in local jurisdictions;
-(cid:129) inadequate intellectual property protection in certain jurisdictions;
-(cid:129) enforcement of anti-corruption and anti-bribery laws;
-(cid:129) trade-protection measures, import or export licensing requirements and fines,
+ inadequate intellectual property protection in certain jurisdictions;
+ enforcement of anti-corruption and anti-bribery laws;
+ trade-protection measures, import or export licensing requirements and fines,
 penalties or suspension or revocation of export privileges;
-(cid:129) delays resulting from difficulty in obtaining export licenses, tariffs and other
+ delays resulting from difficulty in obtaining export licenses, tariffs and other
 barriers and restrictions, potentially longer payment cycles, greater difficulty in
 accounts receivable collection and potentially adverse tax treatment;
-(cid:129) the effects of applicable local tax regimes and potentially adverse tax consequences;
+ the effects of applicable local tax regimes and potentially adverse tax consequences;
 and
-(cid:129) significant adverse changes in local currency exchange rates.
+ significant adverse changes in local currency exchange rates.
 Furthermore, we are subject to general geopolitical risks in foreign countries where we
 operate, such as political and economic instability and changes in diplomatic and trade
 relationships, which could cause our results to fluctuate and our revenue to decline. The
@@ -5285,28 +5285,28 @@ As of the Latest Practicable Date, none of our drug candidates had been approved
 commercial sale by any relevant regulatory authorities, and therefore we had not generated any
 revenue. Our ability to generate revenue and achieve profitability depends significantly on our
 success in many factors, including:
-(cid:129) completing non-clinical and clinical research and development of our drug
+ completing non-clinical and clinical research and development of our drug
 candidates;
-(cid:129) obtaining regulatory approvals and marketing authorizations for drug candidates for
+ obtaining regulatory approvals and marketing authorizations for drug candidates for
 which we have completed clinical trials for;
-(cid:129) developing a sustainable and scalable manufacturing process for our drug
+ developing a sustainable and scalable manufacturing process for our drug
 candidates, including establishing and maintaining commercially viable supply
 relationships with third parties and establishing our own manufacturing capabilities
 and infrastructure;
-(cid:129) controlling the cost of production of our drug candidates;
-(cid:129) launching and commercializing drug candidates for which we obtain regulatory
+ controlling the cost of production of our drug candidates;
+ launching and commercializing drug candidates for which we obtain regulatory
 approvals and marketing authorizations;
-(cid:129) obtainingmarketacceptanceofourdrugcandidatesasviabletreatmentoptionstobe
+ obtainingmarketacceptanceofourdrugcandidatesasviabletreatmentoptionstobe
 paid as an out-of-pocket expense, and availability of adequate coverage,
 reimbursement, pricing by third-party payors and integrated delivery networks;
-(cid:129) addressing any competing technological and market developments;
-(cid:129) maintaining, protecting, expanding and enforcing our portfolio of intellectual
+ addressing any competing technological and market developments;
+ maintaining, protecting, expanding and enforcing our portfolio of intellectual
 property rights, including patents, trademarks, trade secrets, and know-how;
-(cid:129) identifying,assessing,acquiringand/ordevelopingnewdrugcandidates,intellectual
+ identifying,assessing,acquiringand/ordevelopingnewdrugcandidates,intellectual
 property and technologies;
-(cid:129) negotiating favorable terms in any collaboration, licensing, or other arrangements
+ negotiating favorable terms in any collaboration, licensing, or other arrangements
 into which we may enter; and
-(cid:129) attracting, hiring, and retaining qualified personnel.
+ attracting, hiring, and retaining qualified personnel.
 – 110 –
 
 === PAGE 120 ===
@@ -7499,7 +7499,7 @@ INDUSTRY OVERVIEW
 Growth Drivers and Future Trends
 ThekeygrowthdriversoftheglobalandChinasmall-moleculetargetedoncologytherapy
 market include the following:
-(cid:129) Safety and patient compliance. Safety is one of the major causes of failure of small
+ Safety and patient compliance. Safety is one of the major causes of failure of small
 molecule drug development at early clinical stage. Besides, some of the marketed
 drugs need specific administration regimen to limit the potential sides effects. For
 instance, despite its significant role in prostate cancer treatment, abiraterone needs
@@ -7510,7 +7510,7 @@ treatment, thereby reducing the risk of the related potential cardiovascular tox
 and hepatotoxicity. Drugs with improved safety profile and fewer side effects would
 have better patient compliance and often represents growth opportunities once
 marketed.
-(cid:129) Advancement of biology and translational science. With the development of
+ Advancement of biology and translational science. With the development of
 molecular biology, proteomics, and translational science, more drug targets and
 mechanism of actions are unveiled. Small molecule drugs, which can penetrate cell
 membrane and cell sub-compartments, are able to access a much larger number of
@@ -7520,7 +7520,7 @@ of lead compounds. With the development of small-molecule discovery technology,
 for instance, bioinformatics data mining, it is expected that the discovery process
 would become more efficient and make more candidates to enter the development
 timeline, thus driving the market growth.
-(cid:129) Combination therapies. The emergence of combination therapies represents an
+ Combination therapies. The emergence of combination therapies represents an
 increasing trend in cancer treatment. Small-molecule drugs offer complementary
 mechanisms to potentially combine with other small-molecule drugs and biologics,
 to enhance efficacy profile and expand clinical adoptions. As a result of targeting
@@ -7546,10 +7546,10 @@ INDUSTRY OVERVIEW
 Barriers to Research and Development
 The entry barriers of global and China small-molecule targeted oncology therapy market
 include the following:
-(cid:129) Targetselectioncapability.Theselectionoftargetsrequiresadetailedunderstanding
+ Targetselectioncapability.Theselectionoftargetsrequiresadetailedunderstanding
 of molecular mechanisms and strong research capability, which represents a
 technical barrier for small-molecule targeted oncology therapy.
-(cid:129) Clinical development capability. Antitumor drugs have different requirements
+ Clinical development capability. Antitumor drugs have different requirements
 compared to non-oncology drugs in terms of clinical trial design, selection of
 clinical endpoints, patient enrollment criteria, patient recruitment process, and
 patient follow-up. The adverse events also need to be carefully monitored and
@@ -7654,7 +7654,7 @@ aggressiveness of steroid hormone-insensitive carcinomas.
 AKT Phosphorylation in Inducing Drug Resistance
 AKT is one of the most commonly dysregulated pathways in all of the cancers.
 Dysregulation of AKT-dependent pathways is associated with the development and
-maintenance of a range of solid tumors. AKT/NF-(cid:7)B and AKT/mTOR are the two main
+maintenance of a range of solid tumors. AKT/NF-B and AKT/mTOR are the two main
 mutated pathways, where mutations lead to inhibition of apoptosis, stimulation of cell growth,
 and modulation of cellular metabolism such as overexpression of drug efflux pumps. These
 mechanisms are related to the development of drug resistance in cancer treatment. Therefore,
@@ -8052,23 +8052,23 @@ INDUSTRY OVERVIEW
 The below table sets forth the treatment paradigm of HR+/HER2- mBC and TNBC in the
 U.S.:
 Indication Treatment
-Visceral crisis (cid:129) Initial systemic therapy (Chemotherapy1)
-(cid:129) Ovarian ablation or suppression + Systemic therapy2
+Visceral crisis 
+ Ovarian ablation or suppression + Systemic therapy2
 Prior endocrine Premenopausal
-(cid:129) Continue Endocrine therapy
+ Continue Endocrine therapy
 therapy within
 1y
-ER+ and/or Postmenopausal (cid:129) Systemic therapy2 (cid:129) Continue Endocrine therapy
+ER+ and/or Postmenopausal  Continue Endocrine therapy
 PR+; HER2- No visceral
-crisis (cid:129) Ovarian ablation or suppression + Systemic therapy
-No prior Premenopausal (cid:129) Selective ER modulators4
-endocrine (cid:129) Continue Endocrine therapy
+crisis  Ovarian ablation or suppression + Systemic therapy
+No prior Premenopausal  Selective ER modulators4
+endocrine  Continue Endocrine therapy
 therapy within
-1y Postmenopausal (cid:129) Systemic therapy2 (cid:129) Continue Endocrine therapy
-(cid:129) Chemotherapy1 + PD-1 (pembrolizumab) as neo/adjuvant therapy
+1y Postmenopausal  Continue Endocrine therapy
+ as neo/adjuvant therapy
 ER- and PR-,
-HER2- (Triple (cid:129) Chemotherapy + pembrolizumab/sacituzumab govitecan for advanced TNBC
-Negative) (cid:129) PARP inhibitors for BRCA mutation TNBC
+HER2- (Triple  Chemotherapy + pembrolizumab/sacituzumab govitecan for advanced TNBC
+Negative)  PARP inhibitors for BRCA mutation TNBC
 Notes:
 1. Chemotherapy (Preferred Regimens + Other Recommended Regimens) = Anthracyclines, taxanes,
 anthracyclines, anti-metabolites, microtubule inhibitors, platinum, cyclophosphamide, docetaxel, albumin-
@@ -8080,25 +8080,25 @@ Source: NCCN 2020, Frost & Sullivan analysis
 According to Chinese Society of Clinical Oncology Guideline (“CSCO Guideline”), the
 below table sets forth the treatment paradigm of HR+/HER2- mBC and TNBC in China:
 Indication Treatment
-(cid:129) Paclitaxel-albumin/ (cid:129) TP (cid:129) Paclitaxel- (cid:129) Paclitaxel
-Sensitive to taxane docetaxel/paclitaxel (cid:129) X albumin+ PD-1 Liposome
-After First Line therapy (cid:129) TX (cid:129) N inhibitor (cid:129) Olaparib
-(cid:129) GT (cid:129) G (cid:129) T+Bevacizumab (cid:129) Chemo+ PD-1
-Treatment (cid:129) Etoposide (cid:129) LD inhibitor
+ Paclitaxel
+Sensitive to taxane docetaxel/paclitaxel  X albumin+ PD-1 Liposome
+After First Line therapy  Olaparib
+ Chemo+ PD-1
+Treatment  LD inhibitor
 HER2-
-Systemic (cid:129) (cid:129) A NP librin/X/N/G (cid:129) S hz a i c y i / t P uz a u c m lit a a b x e g l o - vitecan- (cid:129) (cid:129) P L a D clitaxel Liposome
-therapies A f f a t i e lu r r t e h e o f t r t e a a x t a m n e e n t (cid:129) GP (cid:129) a B l e b v u a m ci i z n u /E m to ab p o + s X ide (cid:129) Olaparib
-(cid:129) NX (cid:129) Paclitaxel-albumin + (cid:129) Chemo+ PD-1 inhibitor
-(cid:129) UTD1+X Chemotherapeutic drug
-Without prior (cid:129) AI+Abemaciclib/Palbociclib (cid:129) F (cid:129) TAM
-endocrine therapy (cid:129) AI (cid:129) F+CDK4/6 inhibitor
-After the treatment (cid:129) AI+Abemaciclib/Palbociclib (cid:129) AI (cid:129) F+CDK4/6 inhibitor
-failure of TAM /Chidamide (cid:129) F
-ER+ and/or After the treatment (cid:129) F+Abemaciclib/Palbociclib/(cid:129) (cid:129) SAI+Chidamide/CDK4/6 (cid:129) F/SAI (cid:129) Progestogen
-PR+ failure of NSAI Dalpicilib inhibitor/F/Everolimus (cid:129) TAM/toremifene
-After the treatment (cid:129) F+Abemaciclib/Dalpicilib/ (cid:129) F/NSAI (cid:129) TAM/toremifene
-failure of SAI Palbociclib (cid:129) NSAI+CDK4/6 inhibitor (cid:129) Progestogen
-After the treatment (cid:129) (cid:129) C A h n i o d t a h m er i d C e D + K En 4 d /6 o c in ri h n i e b i t t h o e r r + apy (cid:129) Toremifene (cid:129) Progestogen
+Systemic  P L a D clitaxel Liposome
+therapies A f f a t i e lu r r t e h e o f t r t e a a x t a m n e e n t  Olaparib
+ Chemo+ PD-1 inhibitor
+ UTD1+X Chemotherapeutic drug
+Without prior  TAM
+endocrine therapy  F+CDK4/6 inhibitor
+After the treatment  F+CDK4/6 inhibitor
+failure of TAM /Chidamide  F
+ER+ and/or After the treatment  Progestogen
+PR+ failure of NSAI Dalpicilib inhibitor/F/Everolimus  TAM/toremifene
+After the treatment  TAM/toremifene
+failure of SAI Palbociclib  Progestogen
+After the treatment  Progestogen
 failure of CDK4/6 i Endocrine therapy
 Notes: H=trastuzumab; L=lapatinib; P=pertuzumab; T=docetaxel; paclitaxel and albumin-bound paclitaxel;
 X=capecitabine;N=navelbine;Cb=carboplatin;G=gemcitabine;LD=liposomaldoxorubicin;F=fulvestrant;
@@ -8110,23 +8110,23 @@ Source: CSCO 2022, Frost & Sullivan analysis
 INDUSTRY OVERVIEW
 According to Frost & Sullivan, the current HR+/HER2- mBC treatment is facing multiple
 major challenges, including:
-(cid:129) Low penetration of endocrine therapy. Different from the recommendations of the
+ Low penetration of endocrine therapy. Different from the recommendations of the
 CSCO guidelines, the proportion of Chinese HR+/HER2- mBC patients currently
 receiving first-line chemotherapy is high, while the penetration rate of the
 recommended endocrine therapy is low. Due to the influence of family income level
 and regional medical insurance reimbursement level, HR+/HER2- mBC patients
 have differences in endocrine therapy affordability, and there are still unmet clinical
 needs.
-(cid:129) Endocrine + CDK4/6 therapy resistance in HR+/HER2- mBC. The endocrine/anti-
+ Endocrine + CDK4/6 therapy resistance in HR+/HER2- mBC. The endocrine/anti-
 estrogen therapies in combination with CDK4/6 inhibitors has emerged as the first-
 and second-line treatment for patients with HR+/HER2- mBC. However, most
 patients will develop drug resistance over time.
 According to Frost & Sullivan, the current TNBC treatment is facing multiple major
 challenges, including:
-(cid:129) Lack of therapies for treatment. Because TNBC is ER negative, PR negative and
+ Lack of therapies for treatment. Because TNBC is ER negative, PR negative and
 HER2 negative, hormonal therapy and HER2 receptor target therapy cannot be
 effective for TNBC patients.
-(cid:129) Limitations of current therapies. Currently,TNBC is primarily treated with systemic
+ Limitations of current therapies. Currently,TNBC is primarily treated with systemic
 therapies (chemotherapies), PD-1 (pembrolizumab plus chemotherapies) as
 neo/adjuvant therapy or first line therapy and antibody-drug conjugate therapies as
 the second-line therapy for TNBC have been approved by FDA recently. However,
@@ -8157,7 +8157,7 @@ Currently, there are seven anti-androgen drugs approved for commercialization gl
 (ex-China) and there are seven anti-androgen drugs approved in China.
 Marketed Anti-androgen Drug in the US and China
 Approved drug Flutamide Bicalutamide Nilutamide Abiraterone Enzalutamide Apalutamide Darolutamide Rezvilutamide
-Commercial name Fugerel Casodex Nilandron Zytiga Xtandi Erleada Nubeqa (cid:2604)(cid:2294)(cid:1740)
+Commercial name Fugerel Casodex Nilandron Zytiga Xtandi Erleada Nubeqa 
 Mechanism ARinhibitor AR inhibitor AR inhibitor CYP17A1 inhibitor AR inhibitor AR inhibitor AR inhibitor AR inhibitor
 Company Ferring Astra Zeneca Concordia Janssen Biotech Astellas Janssen Biotech Bayer HengruiMedicine
 US approval time 1989* 1995 1996 2011 2012 2018 2019 Not approved
@@ -8193,7 +8193,7 @@ status
 (50mg) (250mg) (40mg) (60mg) (300mg)
 2021 China generic drug 3.8 25.0 30.0 48.2
 NA NA NA NA
-market price (RMB) (cid:871)250mg(cid:872) (cid:871)50mg(cid:872) (cid:871)250mg(cid:872) (cid:871)40mg(cid:872)
+market price (RMB) 
 8.4 39.9
 2021 China monthly treatment 0.9 13.0 23.6
 NA NA (mCRPCPFS:19.5 (mHSPCPFS:NA NA
@@ -8203,7 +8203,7 @@ nmCRPCPFS:36.6) nmCRPCPFS:40.5)
 0.3 0.8 3.6
 monthly treatment cost NA (mCRPCPFS:19.5 NA NA NA
 (thousand RMB)
-(cid:871)PFS:NA(cid:872) (PFS:NA) (PFS:NA)
+
 nmCRPCPFS:36.6)
 Notes:
 1. There were over 15 generic competitors of the approved anti-androgen drugs as of April 30, 2023. If the
@@ -8325,7 +8325,7 @@ INDUSTRY OVERVIEW
 Growth Drivers and Further Trends
 The anti-CYP17A1 androgen drug market is largely driven by the following key growth
 drivers:
-(cid:129) Increasing patient pool and clinical adoptions. With the growing aging population
+ Increasing patient pool and clinical adoptions. With the growing aging population
 and increasing prostate cancer screening rate, the patient pool (including mHSPC
 and mCRPC) will continue to expand. Globally, the mHSPC prevalence has
 increased from 1.6 million in 2017 to 1.9 million in 2021, and is expected to
@@ -8336,13 +8336,13 @@ guideline for mCRPC. This is primarily attributed to its better safety profile t
 that of other chemotherapy drugs and proven efficacy in androgen inhibition. With
 the growing patient pool and buildup of clinical knowledge, it is estimated that the
 China anti-CYP17A1 drug market will continue to grow.
-(cid:129) Drug candidates with less side effects are under development. Despite its important
+ Drug candidates with less side effects are under development. Despite its important
 role in prostate cancer treatment, abiraterone needs to be co-administered with
 prednisone for both mHSPC and mCRPC treatment, and has specific risks of
 hypertension, fluid retention and hypokalemia. To overcome the issue, drugs with
 improved safety profile and fewer side effects are being developed to drive the
 market growth.
-(cid:129) Novel therapy or combination therapies. For mCRPC patients, there are only limited
+ Novel therapy or combination therapies. For mCRPC patients, there are only limited
 treatment options other than chemotherapy, including abiraterone and enzalutamide.
 With disease progression, almost all patients will become resistant to currently
 available treatment.Therefore, novel therapies are being developed to overcome the
@@ -8477,24 +8477,24 @@ mHSPC
 Disease
 Low tumor burden mHSPC High tumor burden mHSPC
 categorization
-(cid:129) ADT monotherapy
-(cid:129) ADT + Bicalutamide (cid:129) ADT + Abiraterone Acetate +
-(cid:129) ADT + Abiraterone Acetate + Prednisone
+ ADT monotherapy
+ ADT + Abiraterone Acetate +
+ ADT + Abiraterone Acetate + Prednisone
 Class I
-Prednisone (cid:129) ADT + Docetaxel + Prednisone
+Prednisone  ADT + Docetaxel + Prednisone
 recommendation
-(cid:129) ADT + EBRT (cid:129) ADT + Enzalutamide
-(cid:129) ADT + Enzalutamide (cid:129) ADT + Apalutamide
-(cid:129) ADT + Apalutamide
-(cid:129) ADT + Docetaxel + Prednisone
-(cid:129) ADT + Bicalutamide
-Class II (cid:129) ADT + Flutamide
-(cid:129) Primary tumor resection or
-recommendation (cid:129) Primary tumor resection or
+ ADT + Enzalutamide
+ ADT + Apalutamide
+ ADT + Apalutamide
+ ADT + Docetaxel + Prednisone
+ ADT + Bicalutamide
+Class II  ADT + Flutamide
+ Primary tumor resection or
+recommendation  Primary tumor resection or
 brachytherapy
 brachytherapy
 Class III
-(cid:129) Intermittent ADT (cid:129) ADT + Flutamide
+ ADT + Flutamide
 recommendation
 Source: NCCN Guideline, CSCO 2020, Frost & Sullivan analysis
 – 187 –
@@ -8564,19 +8564,19 @@ Source: CSCO 2020, Frost & Sullivan analysis
 INDUSTRY OVERVIEW
 According to Frost & Sullivan, the current prostate cancer treatment paradigm is facing
 multiple major challenges, including:
-(cid:129) Lack of early diagnosis in China. Most prostate cancer patients are diagnosed at an
+ Lack of early diagnosis in China. Most prostate cancer patients are diagnosed at an
 advanced stage, mainly due to the lack of awareness and limited diagnostic
 techniques for regular prostate examinations in China. Only approximately 30% of
 new prostate cancer cases are diagnosed at an early stage in China, while more than
 70% new prostate cancer patients are diagnosed at an early stage in the U.S.
-(cid:129) Unsatisfied prognosis. Radical treatment is not suitable for patients with locally
+ Unsatisfied prognosis. Radical treatment is not suitable for patients with locally
 advanced or metastatic prostate cancer, so the prognosis for these patients is usually
 relatively poor compared to the patients who were diagnosed in local stages. ADT
 is a primary treatment for metastatic prostate cancer. However, CRPC patients have
 developed resistance to ADT and have limited treatment options. The median
 survival duration for CRPC patients is less than two years due to the rapid progress
 of disease and lack of effective treatment.
-(cid:129) Limited treatment for drug-resistant mCRPC patients. Currently, there are limited
+ Limited treatment for drug-resistant mCRPC patients. Currently, there are limited
 treatment options for CRPC, mainly including chemotherapy, abiraterone and
 enzalutamide. However, these patients will most likely develop drug resistance
 within two years. For most drug-resistant mCRPC patients, there are limited
@@ -9761,17 +9761,17 @@ being conducted in accordance with the IRB’s requirements or if the product ha
 associated with unexpected serious harm to subjects.
 Clinicaltrialsgenerallyareconductedinthreesequentialphases,knownasPhaseI,Phase
 II and Phase III, and may overlap.
-(cid:129) Phase I clinical trials generally involve a small number of healthy volunteers or
+ Phase I clinical trials generally involve a small number of healthy volunteers or
 disease-affectedpatientswhoareinitiallyexposedtoasingledoseandthenmultiple
 doses of the product candidate. The primary purpose of these clinical trials is to
 assess the metabolism, pharmacologic action, side effect, tolerability and safety of
 the product candidate.
-(cid:129) Phase II clinical trials involve studies on disease-affected patients to evaluate proof
+ Phase II clinical trials involve studies on disease-affected patients to evaluate proof
 ofconceptand/ordeterminethedoserequiredtoproducethedesiredbenefits.Atthe
 same time, safety and further PK and PD information is collected, possible adverse
 effects and safety risks are identified and a preliminary evaluation of efficacy is
 conducted.
-(cid:129) Phase III clinical trials generally involve a large number of patients at multiple sites
+ Phase III clinical trials generally involve a large number of patients at multiple sites
 and are designed to provide the data necessary to demonstrate the effectiveness of
 the product for its intended use, its safety in use and to establish the overall
 benefit/risk relationship of the product and provide an adequate basis for product
@@ -12307,7 +12307,7 @@ socioeconomic burden. Among those cancers of unmet medical needs, platinum-resis
 ovarian cancer (PROC), metastatic castration-resistant prostate cancer (mCRPC), HR+/HER2-
 metastatic breast cancer (HR+/HER2- mBC) and triple negative breast cancer (TNBC) are
 some of the diseases with limited SOC options and undesirable treatment outcomes.
-(cid:129) PROC. According to Frost & Sullivan, the global and China incidence of ovarian
+ PROC. According to Frost & Sullivan, the global and China incidence of ovarian
 cancer is expected to increase from 319.8 thousand and 56.2 thousand in 2021 to
 374.2 thousand and 62.7 thousand in 2030, respectively. The SOC mainly consists
 of debulking surgery and platinum-based chemotherapy. Although platinum-based
@@ -12319,7 +12319,7 @@ either in the primary or recurrent setting. PROC is generally associated with lo
 response rates to standard chemotherapy with the overall response rate (ORR) of
 10% to 15%, and median progression-free survival (PFS) of 3.5 months only,
 indicating limited effective treatment options and poor prognosis.
-(cid:129) mCRPC.According to Frost & Sullivan, the global and China incidence of prostate
+ mCRPC.According to Frost & Sullivan, the global and China incidence of prostate
 cancer is expected to increase from 1,451.5 thousand and 120.9 thousand in 2021 to
 1,815.1 thousand and 199.3 thousand in 2030, respectively. Patients with prostate
 cancer that have relapsed after local therapy or that have distant metastasis usually
@@ -12335,7 +12335,7 @@ drug resistance with limited treatment options.
 
 === PAGE 261 ===
 BUSINESS
-(cid:129) HR+/HER2- mBC and TNBC.According to Frost & Sullivan, the global and China
+ HR+/HER2- mBC and TNBC.According to Frost & Sullivan, the global and China
 incidence of breast cancer is expected to increase from 2,301.2 thousand and 336.3
 thousand in 2021 to 2,666.4 thousand and 372.4 thousand in 2030, respectively. It
 is estimated that 60% of patients with breast cancer have HR+/HER2- molecular
@@ -12356,14 +12356,14 @@ To address these medical needs, we have developed our clinical and pre-clinical 
 through a combination of internal discovery and asset in-licensing efforts. Based on our
 knowledge-based R&D approach, we have implemented a product development model that
 consists of internal discovery, business development and translational research.
-(cid:129) Internal discovery. Our internal drug discovery primarily focuses on identifying
+ Internal discovery. Our internal drug discovery primarily focuses on identifying
 innovative immunology therapies for cancer and liver fibrosis. Our most advanced
 internally discovered cancer candidate is LAE102, a potentially potent and selective
 ActRIIA mAb that has demonstrated anti-tumor activity in pre-clinical animal
 models and increased body weight in cancer-bearing animals. Our most advanced
 internally discovered liver fibrosis candidate is LAE105, which is expected to target
 aHSC depletion and has advanced into proof-of-mechanism pre-clinical studies.
-(cid:129) Business development. We apply a disciplined approach for bolstering our existing
+ Business development. We apply a disciplined approach for bolstering our existing
 pipeline and expanding our capabilities. We focus on clinically proven assets in
 cancer treatment where we have accumulated specialized knowledge and
 experience. As such, we obtained global rights from Novartis Pharma AG
@@ -12375,7 +12375,7 @@ the value of our pipeline.
 
 === PAGE 262 ===
 BUSINESS
-(cid:129) Translational research. We devote substantial resources to conducting translational
+ Translational research. We devote substantial resources to conducting translational
 research on our in-licensed product candidates to expand their clinical applications.
 Our translational studies include indication expansions through combination
 therapies or providing targeted treatments through patient stratification.
@@ -12911,7 +12911,7 @@ BUSINESS
 
 === PAGE 265 ===
 BUSINESS
-(cid:129) Core Product LAE002. LAE002 is an ATP competitive AKT inhibitor. We
+ Core Product LAE002. LAE002 is an ATP competitive AKT inhibitor. We
 in-licensed LAE002 from Novartis in 2018. Prior to our in-licensing, 11 clinical
 trials had been conducted to demonstrate the safety and efficacy profiles of LAE002
 by Novartis and GSK plc. In the Phase I/II study conducted by Novartis, LAE002
@@ -12922,7 +12922,7 @@ of combining LAE002, prednisone and LAE001 and observed their synergistic
 anti-tumor efficacy in mCRPC patients as second- to fourth-line treatments.
 According to Frost & Sullivan, there are two AKT inhibitors that have entered
 registrational clinical trials globally.
-(cid:129) Core Product LAE001. LAE001 is an androgen synthesis inhibitor that inhibits both
+ Core Product LAE001. LAE001 is an androgen synthesis inhibitor that inhibits both
 CYP17A1andCYP11B2.Wein-licensedLAE001fromNovartisin2017.According
 to Frost & Sullivan, LAE001 is the only dual CYP17A1/CYP11B2 inhibitor in
 clinical trials for the treatment of prostate cancer globally. Our completed Phase I
@@ -12934,20 +12934,20 @@ As part of our clinical development strategy for LAE001 in prostate cancer and
 based on the clinical data from trials on mCRPC, we plan to initiate a Phase III
 MRCT registrational trial for mHSPC in the fourth quarter of 2023 in China and the
 U.S. and apply the NDA for mHSPC with the NMPA and the FDA in 2027.
-(cid:129) LAE005. LAE005 is expected to be a highly affinitive, ligand-blocking, humanized
+ LAE005. LAE005 is expected to be a highly affinitive, ligand-blocking, humanized
 anti-PD-L1 IgG4 antibody. In pre-clinical and clinical studies, LAE005
 demonstrateditsbindingaviditytoPD-L1andanti-tumoractivities.Specifically,we
 are evaluating the therapeutic potential of the combination therapy of LAE002 and
 LAE005 in patients with TNBC. We believe LAE005 has the potential to serve as
 an effective therapy for the treatment of TNBC when combined with other
 synergistic mechanisms.
-(cid:129) LAE003. LAE003 is expected to be a potentATP competitiveAKT inhibitor. In the
+ LAE003. LAE003 is expected to be a potentATP competitiveAKT inhibitor. In the
 pre-clinical studies, LAE003 showed potency and selectivity to AKT1, AKT2 and
 AKT3. LAE003 is currently at the clinical stage for the treatment of cancer and we
 are re-purposing it for the treatment of hereditary hemorrhagic telangiectasia and
 proteus syndrome. We expect LAE003 to be our lead drug candidate in the rare
 disease therapeutic area.
-(cid:129) LAE102. LAE102 is our most advanced internally discovered drug candidate for
+ LAE102. LAE102 is our most advanced internally discovered drug candidate for
 cancer treatment. It is a potentially potent and selective activin receptor type IIA
 (ActRIIA) mAb that has demonstrated anti-tumor activity and ability to increase the
 bodyweight of cancer-bearing animals in pre-clinical animal models.
@@ -12955,7 +12955,7 @@ bodyweight of cancer-bearing animals in pre-clinical animal models.
 
 === PAGE 266 ===
 BUSINESS
-(cid:129) LAE105. LAE105 is our most advanced internally discovered drug candidate for
+ LAE105. LAE105 is our most advanced internally discovered drug candidate for
 liver fibrosis treatment, which is expected to target activated hepatic stellate cells
 (aHSC) depletion and has entered into proof-of-mechanism pre-clinical studies.
 Our Team and Vision
@@ -13107,7 +13107,7 @@ in-depth understanding of disease pathogenesis, our business development network
 translational research capabilities. This strategy revolves around our science-driven R&D
 approach and is fueled by our unique scientific insight and in-depth knowledge into clinical
 practice and unmet needs.
-(cid:129) Internal discovery. We have a deep knowledge of disease biology, extensive
+ Internal discovery. We have a deep knowledge of disease biology, extensive
 experience in cutting-edge biological research, and an in-depth understanding of the
 clinical practice and medical needs. These enable us to identify therapeutic areas in
 hard-to-treat diseases and build a product pipeline with a risk-mitigated profile to
@@ -13124,7 +13124,7 @@ anti-tumor activity in pre-clinical animal models and body weight gain in cancer
 bearinganimals.LAE105isourmostadvancedinternallydiscovereddrugcandidate
 for liver fibrosis treatment, which is expected to target aHSC depletion and has
 advanced into proof-of-mechanism pre-clinical studies.
-(cid:129) Business development. Over the past five years, we had a proven track record of
+ Business development. Over the past five years, we had a proven track record of
 building a global network and value-creating strategic partnerships and
 collaborations. We have established a number of global and regional partnerships
 with leading pharmaceutical companies, including Novartis and Innovent. Our
@@ -13143,7 +13143,7 @@ collaboration agreement with Innovent to explore and maximize the potential valu
 of the combination of LAE002 and sintilimab for patients with solid tumors in
 China. We believe such collaborations with leading pharmaceutical companies are a
 testament to our strong R&D capabilities.
-(cid:129) Translational research. We devote substantial resources to conduct translational
+ Translational research. We devote substantial resources to conduct translational
 researches on our licensed product candidates to expand their clinical applications.
 Our translational studies include expanding indications through combination
 therapies or providing more precise treatments through patient stratification. We are
@@ -13279,7 +13279,7 @@ We expect to continue to achieve and deliver major development milestones for ou
 Products and key drug candidates, including LAE002, LAE001, LAE005 and LAE003 to
 further explore their potential. Particularly, we have formulated the following plans regarding
 our clinical-stage drug candidates.
-(cid:129) LAE002. We have initiated a global MRCT Phase II registrational trial in both the
+ LAE002. We have initiated a global MRCT Phase II registrational trial in both the
 U.S. and China to treat PROC with LAE002, in a combination therapy with
 paclitaxel. As of the Latest Practicable Date, we had enrolled 144 subjects in both
 the U.S. and China.We aim to make NDAsubmissions to the FDAand NMPAin the
@@ -13309,20 +13309,20 @@ in the second half of 2025.
 
 === PAGE 274 ===
 BUSINESS
-(cid:129) LAE001. We are currently conducting a Phase II clinical trial of LAE001
+ LAE001. We are currently conducting a Phase II clinical trial of LAE001
 monotherapy on mCRPC. As part of our clinical development strategy for LAE001
 in prostate cancer and based on the clinical data from trials on mCRPC, we plan to
 initiate a Phase III MRCT registrational trial for mHSPC in the fourth quarter of
 2023 in China and the U.S. and apply the NDAfor mHSPC with the NMPAand the
 FDA in 2027.
-(cid:129) LAE005. We have initiated a Phase I/II trial in China for the treatment of TNBC in
+ LAE005. We have initiated a Phase I/II trial in China for the treatment of TNBC in
 combination with LAE002 and nab-paclitaxel to continue to leverage the clinical
 value and explore AKT’s potential. We plan to obtain the Phase I read-out in the
 fourthquarterof2023,initiatethePhaseIIstudyinChinainthefirstquarterof2024
 and complete the Phase II study in China in the fourth quarter of 2025. This study
 is planned to be expanded to a MRCTtrial in China and the U.S. at the registrational
 stage.
-(cid:129) LAE003. We are re-purposing LAE003 for rare diseases such as hereditary
+ LAE003. We are re-purposing LAE003 for rare diseases such as hereditary
 hemorrhagic telangiectasia and Proteus syndrome. To further discover the
 therapeutic potential of LAE003, we are exploring potential opportunities to
 cooperate with global partners on the development of LAE003.
@@ -13374,7 +13374,7 @@ developing multiple monoclonal and bispecific antibodies against key regulatory 
 NK cells and T cells and bifunctional NK engagers against cancer cells and activated hepatic
 stellate cells. They are in various stages of drug discovery, and we plan to have at least one
 molecule to enter the clinical stage each year on average, starting in 2023.
-(cid:129) Cancer drug candidates. Although ICIs have been approved for first- and second-
+ Cancer drug candidates. Although ICIs have been approved for first- and second-
 linetreatmentforavarietyofcancerindicationsworldwide,mostpatientswithsolid
 tumors do not respond to or eventually develop resistance to ICI therapy. We are
 developing immuno-oncology agents that target the mechanisms that mediate
@@ -13385,7 +13385,7 @@ produced by cancer cells (i.e., LAE112). We believe that these inhibitory pathwa
 represent targets for developing anti-tumor agents that could reverse resistance to
 ICIs.
 Our most advanced candidate is LAE102, an activin receptor ActRIIA mAb. As a
-member of the TGF(cid:5) family, activin is attracting an increasing interest due to its
+member of the TGF family, activin is attracting an increasing interest due to its
 multifunctional role in cancer development, particularly its immunomodulatory
 function. In several cancer types, high expression of activin is associated with
 shorter survival. LAE102 is a potentially potent and selectiveActRIIAmAb that has
@@ -13395,14 +13395,14 @@ cancer-bearing animals in pre-clinical animal models.
 
 === PAGE 276 ===
 BUSINESS
-(cid:129) Liver fibrosis drug candidates. In addition to our pre-clinical-stage cancer drug
+ Liver fibrosis drug candidates. In addition to our pre-clinical-stage cancer drug
 candidates,wearealsodevelopinganumberofpre-clinicaldrugcandidatesforliver
 fibrosis which represent another huge unmet medical need. Recent evidence
 suggests that liver fibrosis can be reversed by regulating the immune system. We
 haveestablishedaproprietaryaHSCdepletionplatformtoremoveaHSCforfibrosis
 regression. Bi-functional aHSC-NK engagers or regulators (i.e., LAE104 and
 LAE105)withaHSCkillingandanti-fibrosisactivityhavebeendeveloped.Wehave
-also designed and validated a TGF(cid:5) inhibitor, LAE106, active only in fibrotic
+also designed and validated a TGF inhibitor, LAE106, active only in fibrotic
 tissues.All of these molecules have the potential to slow or prevent the progression
 of liver fibrosis, and their utility may be expanded to other fibrotic diseases.
 Further Enhancing Our Capabilities as Our Clinical Studies Progress and Business
@@ -13412,7 +13412,7 @@ capabilities by building our platform with comprehensive coverage of the full cy
 clinical development process, complemented by synergistic business development activities.
 We have adopted and intend to accomplish the following multi-layered plans to support our
 global strategy.
-(cid:129) R&D. We are dedicated to leveraging our expertise to further enhance our drug
+ R&D. We are dedicated to leveraging our expertise to further enhance our drug
 discovery and clinical development capabilities. Currently, we have two R&D
 centers in China and the U.S. We will continue to expand both facilities to take
 advantage of talents, technology and information acquired in both regions to feed
@@ -13420,14 +13420,14 @@ and sustain the continued growth of our pipeline. Besides, we plan to actively
 engage with PIs, KOLs, CROs, SMOs, CDMOs and hospitals to carry out and
 expandglobalmulti-centertrialsforourexistingcandidatesandultimatelytopursue
 a global registration strategy.
-(cid:129) Manufacturing.Weplantoestablishstrongmanufacturingcapabilitiestosupportthe
+ Manufacturing.Weplantoestablishstrongmanufacturingcapabilitiestosupportthe
 near-term launch of our product candidates. To achieve this goal, we plan to build
 a cGMP-compliant manufacturing site in eastern China, focusing on manufacturing
 small molecule products. We will also collaborate with leading CMOs and CDMOs
 to complement our in-house CMC capabilities. Besides, we also plan to diversify
 our supply chain for equipment and raw materials to reduce cost and increase
 manufacturing efficiency.
-(cid:129) Sales and Marketing. We target to build sales and marketing capabilities through a
+ Sales and Marketing. We target to build sales and marketing capabilities through a
 combination of an in-house strategy and partnering with leading industry
 participants, especially our existing licensing and collaboration partners. With
 respect to our in-house efforts, we intend to build a sales and marketing team of
@@ -13445,7 +13445,7 @@ keep actively seeking and maintaining collaborations with other top global and l
 healthcare companies, academic institutions, and scientific research centers to
 promote our marketing activities in different targeted regions, including the Europe,
 Japan, and other regions.
-(cid:129) Business Development. We will keep seeking strategic collaborations that bring
+ Business Development. We will keep seeking strategic collaborations that bring
 value to our pipeline. We plan to continue to seek assets through in-licensing
 arrangements, both in clinical and preclinical stage that complement our pipeline.A
 strong emphasis will continue to be placed on assets that could offer us global
@@ -14016,7 +14016,7 @@ inalmosteverytypeofhumanmalignancy,suggestingthatderegulationofthesepathwaysmay
 be required for carcinogenesis. The importance of AKT-mediated pathways in tumor
 proliferation and survival renders AKT kinases promising targets for therapeutic intervention.
 Somatic activation of the PI3K/AKT signaling pathway most commonly occurs through
-activating mutations in PIK3CA(which encodes the catalytic p110(cid:6) kinase subunit) or through
+activating mutations in PIK3CA(which encodes the catalytic p110 or through
 loss-of-function mutations, deletions or promoter methylation silencing of the tumor
 suppressor gene PTEN (a negative regulator of PI3K). Less frequently, mutations inAKT(e.g.,
 AKT1 E17K) can be a transforming and potentially targetable event across various solid
@@ -14378,7 +14378,7 @@ potentlyinhibitedfouradditionalkinasesincluding:PKA(1.2nM),ROCK1(110nM),p70S6K
 kinases in an additional experiment, 0.5 µM LAE002 demonstrated over 50% inhibition of 18
 kinases, including, among other, members of the AGC kinase family such as PKA, PKC, and
 PKG.InafurtherinvestigationoftheinhibitionofthePKCandPKGkinaseisoforms,LAE002
-inhibited PKG1(cid:6), PKG1(cid:5), PKC(cid:4), PKC(cid:5)1, PKC(cid:2) and PKC(cid:2) with IC values of 0.9, 4.0, 210,
+inhibited PKG1 with IC values of 0.9, 4.0, 210,
 50
 430, 510, and 1,000 nM, respectively. These pre-clinical results support the low off-target
 activities for LAE002 that have been translated into relatively low rate of adverse events
@@ -14979,7 +14979,7 @@ only CYP17A1 inhibitor in clinical trial stage.
 BUSINESS
 Marketed Anti-androgen Drug in the US and China
 Approved drug Flutamide Bicalutamide Nilutamide Abiraterone Enzalutamide Apalutamide Darolutamide Rezvilutamide
-Commercial name Fugerel Casodex Nilandron Zytiga Xtandi Erleada Nubeqa (cid:2604)(cid:2294)(cid:1740)
+Commercial name Fugerel Casodex Nilandron Zytiga Xtandi Erleada Nubeqa 
 Mechanism ARinhibitor AR inhibitor AR inhibitor CYP17A1 inhibitor AR inhibitor AR inhibitor AR inhibitor AR inhibitor
 Company Ferring Astra Zeneca Concordia Janssen Biotech Astellas Janssen Biotech Bayer HengruiMedicine
 US approval time 1989* 1995 1996 2011 2012 2018 2019 Not approved
@@ -15015,7 +15015,7 @@ status
 (50mg) (250mg) (40mg) (60mg) (300mg)
 2021 China generic drug 3.8 25.0 30.0 48.2
 NA NA NA NA
-market price (RMB) (cid:871)250mg(cid:872) (cid:871)50mg(cid:872) (cid:871)250mg(cid:872) (cid:871)40mg(cid:872)
+market price (RMB) 
 8.4 39.9
 2021 China monthly treatment 0.9 13.0 23.6
 NA NA (mCRPCPFS:19.5 (mHSPCPFS:NA NA
@@ -15025,7 +15025,7 @@ nmCRPCPFS:36.6) nmCRPCPFS:40.5)
 0.3 0.8 3.6
 monthly treatment cost NA (mCRPCPFS:19.5 NA NA NA
 (thousand RMB)
-(cid:871)PFS:NA(cid:872) (PFS:NA) (PFS:NA)
+
 nmCRPCPFS:36.6)
 Notes:
 1. There were over 15 generic competitors of the approved anti-androgen drugs as of April 30, 2023. If the
@@ -15095,7 +15095,7 @@ LAE001 is a highly potent and reversible inhibitor of CYP17A1 and CYP11B2 enzyme
 It inhibits CYP17A1 from several species, and acts against the recombinant human enzyme
 with potency comparable to that of abiraterone based on public data. Moreover, abiraterone is
 a steroidal irreversible CYP17A1 inhibitor that does not inhibit CYP11B2. LAE001 inhibits
-both the 17(cid:6)-hydroxylase and the 17, 20-lyase activity of CYP17A1 equally, thus reducing
+both the 17-hydroxylase and the 17, 20-lyase activity of CYP17A1 equally, thus reducing
 both plasma androgens and cortisol levels like aldosterone. Also, the CYP11B2 inhibitory
 activityofLAE001couldpotentiallyreducethemineralocorticoidexcesseffectsobservedwith
 abiraterone by reducing plasma aldosterone levels. Furthermore, because LAE001 has a high
@@ -15498,7 +15498,7 @@ INN Trade Name Company Date Indications (RMB) Dosage Methods Revenue NRDL Status
 ($ Million)
 RMB)
 1,200mg: 1200mg 2,965.0
-Atezolizumab Tecentriq Roche Feb-2020 SCLC, HCC 32,800RMB 3 e w ve e r e y ks Intravenous (cid:948)Global) NO 295.2
+Atezolizumab Tecentriq Roche Feb-2020 SCLC, HCC 32,800RMB 3 e w ve e r e y ks Intravenous  NO 295.2
 120mg:
 10mg/kg,
 6,066RMB; 2,042.0
@@ -15672,7 +15672,7 @@ that could reverse resistance to ICIs.
 === PAGE 317 ===
 BUSINESS
 Our most advanced internally developed candidate is the activin receptor ActRIIA mAb,
-LAE102. As a member of the TGF(cid:5) family, activin is attracting an increasing interest due to
+LAE102. As a member of the TGF family, activin is attracting an increasing interest due to
 its multifunctional role in cancer development, particularly its immunomodulatory function. In
 several cancer types, high expression of activin is associated with shorter survival. LAE102 is
 a potentially potent and selective ActRIIA mAb that has demonstrated anti-tumor activity in
@@ -15682,7 +15682,7 @@ I trial in the U.S. in the first half of 2024.
 Liver Fibrosis Drug Candidates
 In addition to our pre-clinical-stage oncology drug candidates, we are also developing a
 series of pre-clinical drug candidates for liver fibrosis which represents another therapeutic
-area with huge unmet medical needs. We have designed and validated a TGF(cid:5) inhibitor,
+area with huge unmet medical needs. We have designed and validated a TGF inhibitor,
 LAE106, active only in fibrotic tissues. Liver fibrosis is the excessive accumulation of
 extracellular matrix proteins including collagen that occurs in chronic liver diseases.
 According to Frost & Sullivan, the global and China prevalence of liver fibrosis is expected to
@@ -16214,24 +16214,24 @@ the highlights of our drug discovery and pre-clinical development capacities:
 
 === PAGE 329 ===
 BUSINESS
-(cid:129) We conduct extensive bioinformatics data mining to identify target and mechanism
+ We conduct extensive bioinformatics data mining to identify target and mechanism
 of action for oncology and liver fibrosis diseases.We design and implement detailed
 biochemical, cellular, and animal studies to identify the signaling pathway of the
 target and to validate its role in disease.We try to build synergies between oncology
 andliverfibrosisdiseaseareabyfocusingontheregulatorypathwaysoftheimmune
 cells, and on targets that are selectively expressed on cancer cells or activated
 hepatic stellate cells.
-(cid:129) Leveraging our internal antibody discovery expertise platform and our cooperation
+ Leveraging our internal antibody discovery expertise platform and our cooperation
 with CROs, we conduct extensive screenings to identify novel, potent and selective
 mAbs against the selected targets. Then we build bispecific or bifunctional
 antibodies based on our deep knowledge in disease biology and experience in
 antibody engineering.
-(cid:129) Weconductextensiveinvitrofunctionalcharacterizationofourmolecules,e.g.their
+ Weconductextensiveinvitrofunctionalcharacterizationofourmolecules,e.g.their
 effect in regulating the immune cell function and immune cell-mediated killing of
 cancer cells and aHSC cells. For this purpose, we established a comprehensive
 aHSC-depletion platform that enabled us to quickly and comprehensively evaluate
 the effect of our molecules on aHSC in vitro.
-(cid:129) We perform extensive pre-clinical proof-of-mechanism studies in animal models to
+ We perform extensive pre-clinical proof-of-mechanism studies in animal models to
 build PK/PD relationship and to evaluate the antitumor or anti-fibrosis efficiency of
 our drug candidates. For this purpose, we use a wide variety of different models
 based on the mechanism of action of our drug candidates. Xenograft models in
@@ -16239,7 +16239,7 @@ immune deficient mice are typically used for evaluating anti-tumor drug candidat
 Syngeneic models in immune competent mice are the common choice for
 characterizing immune oncology drug candidates. For antifibrosis drug candidates,
 we use chemical- or diet-induced fibrosis models.
-(cid:129) After a drug candidate shows the desired activities in the proof-of-mechanism
+ After a drug candidate shows the desired activities in the proof-of-mechanism
 animal models and meet all the other criteria for a pre-clinical candidate (PCC), we
 will then move the candidate into CMC and pre-IND tox studies. Large quantity of
 our drug candidates will be manufactured by our CMC team in collaboration with
@@ -16773,7 +16773,7 @@ thereof
 LAE111 Anti-lilrb1and/oranti-lilrb2 PCT pending OurCompany 2043 ownership
 antibodiesandusesthereof
 LAE118 Multicycliccompoundsandtheir PCT pending OurCompany 2043 ownership
-useasPI3K(cid:6)inhibitors
+useasPI3Kinhibitors
 LAE119 Fusedmulticycliccompoundsand PCT pending OurCompany 2042 ownership
 theiruseasPARP1inhibitors
 LAE120 Fusedbicycliccompoundsand PCT pending OurCompany 2042 ownership
@@ -16884,16 +16884,16 @@ have credit periods of 30 days.
 BUSINESS
 Below is a summary of the key terms of a typical agreement with our CROs, SMOs and
 CDMOs.
-(cid:129) Services. The CRO, SMO, or CDMO provides us with services such as
+ Services. The CRO, SMO, or CDMO provides us with services such as
 implementing a clinical research project, manufacturing products as specified in the
 master agreement or work order.
-(cid:129) Term. The CRO, SMO or CDMO is required to perform its services according to the
+ Term. The CRO, SMO or CDMO is required to perform its services according to the
 prescribed timeframe set out in the master agreement or a work order.
-(cid:129) Payment.WearerequiredtomakepaymentstotheCRO,SMO,orCDMOaccording
+ Payment.WearerequiredtomakepaymentstotheCRO,SMO,orCDMOaccording
 to the payment schedule agreed by the parties.
-(cid:129) Confidentiality. We and the CRO, SMO or CDMO agree to keep confidential any
+ Confidentiality. We and the CRO, SMO or CDMO agree to keep confidential any
 information in relation to the performance of the master agreement.
-(cid:129) Intellectual Property. We own all intellectual property derived from the clinical
+ Intellectual Property. We own all intellectual property derived from the clinical
 research project, and we are entitled to apply patent for such intellectual properties.
 The tables below set forth certain information about our five largest suppliers in terms of
 total purchases during the Track Record Period:
@@ -17172,31 +17172,31 @@ out a five-year roadmap to restrict the use, production and sale of plastic prod
 regulations, and we will monitor the scope to ensure our works meet the expectations of the
 regulators.
 Risks Potential Impacts
-Short term (current (cid:129) Extreme weather (cid:129) Reduced revenue from
+Short term (current  Reduced revenue from
 annual reporting period) conditions such as damage to assets,
 flooding and storms disruption to third-party
 logistic providers or
-(cid:129) Sustained elevated third-party manufacturers
+ Sustained elevated third-party manufacturers
 temperature
-Medium term (one to (cid:129) Increased operating
+Medium term (one to  Increased operating
 three year) expenses
-Long term (four to (cid:129) Change in climate- (cid:129) Reduced demand for
+Long term (four to  Reduced demand for
 ten years) related regulations goods and services
-(cid:129) Shifts in customer
+ Shifts in customer
 preferences
 Strategies in Addressing ESG-Related Risks
 We have adopted various measures in managing the air emissions and greenhouse gas
 (“GHG”) emissions during our operations, including but not limited to:
-(cid:129) requiring employees to turn off lights, equipment, and other electronic devices when
+ requiring employees to turn off lights, equipment, and other electronic devices when
 the devices are not in operation and before they leave the premises;
 – 342 –
 
 === PAGE 352 ===
 BUSINESS
-(cid:129) using more energy-efficient lighting products, such as LED lighting;
-(cid:129) setting and keeping the air conditioners to a default temperature of around 24 to 26
+ using more energy-efficient lighting products, such as LED lighting;
+ setting and keeping the air conditioners to a default temperature of around 24 to 26
 degrees; and
-(cid:129) conducting regular inspection and maintenance of vehicles and equipment.
+ conducting regular inspection and maintenance of vehicles and equipment.
 Our total cost of compliance with environmental protection and health and safety laws
 and regulations in 2021 and 2022 was RMB95,000 and RMB90,000, respectively. We do not
 expect our costs of complying with current and future environmental protection and health and
@@ -17217,15 +17217,15 @@ promptly and then (d) revising protocols, investigators’brochures and informed
 and re-evaluating the safety risks periodically.
 Furthermore, we will adopt various strategies and measures to identify, assess, manage
 and mitigate environmental, social and climate-related risks, including but not limited to:
-(cid:129) reviewing and assessing the ESG reports of similar companies in the industry to
+ reviewing and assessing the ESG reports of similar companies in the industry to
 ensure that all relevant ESG-related risks are identified on a timely basis.
-(cid:129) discussing among management from time to time to ensure all the material ESG
+ discussing among management from time to time to ensure all the material ESG
 areas are recognized and reported.
-(cid:129) discussing with key stakeholders on key ESG principles and practices to ensure that
+ discussing with key stakeholders on key ESG principles and practices to ensure that
 the significant aspects are covered.
-(cid:129) organizing a specific ESG risk management process to identify and consider ESG
+ organizing a specific ESG risk management process to identify and consider ESG
 risks and opportunities separate from other business risks and opportunities.
-(cid:129) setting targets for environment KPIs, including with regard to emission, pollution
+ setting targets for environment KPIs, including with regard to emission, pollution
 and other impact on the environment aimed at reducing emissions and natural
 resource consumption.
 – 343 –
@@ -17236,22 +17236,22 @@ We will adopt comprehensive measures to mitigate environmental impact from our
 business,strategyandfinancialperformanceinthenear,mediumandlongterm,assummarized
 below:
 Focus areas Key measures
-Exhaust gas management (cid:129) Adopt exhaust gas treatment system and
+Exhaust gas management  Adopt exhaust gas treatment system and
 install active carbon filters
-Greenhouse gas management (cid:129) Increase the use of clean energy
-(cid:129) Use energy efficient equipment
-Sewage management (cid:129) Install sewage treatment system
-Solid waste management (cid:129) Require proper handling and disposal of solid
+Greenhouse gas management  Increase the use of clean energy
+ Use energy efficient equipment
+Sewage management  Install sewage treatment system
+Solid waste management  Require proper handling and disposal of solid
 waste
-(cid:129) Set up hazardous waste storage sites in
+ Set up hazardous waste storage sites in
 accordance with relevant standards and
 establish standardized hazardous waste
 management system
-(cid:129) Engage qualified third-party suppliers for
+ Engage qualified third-party suppliers for
 solid waste disposal
-Energy and resource (cid:129) Improve energy-saving features such as
+Energy and resource  Improve energy-saving features such as
 conservation energy-saving transformers
-(cid:129) Conserve water by recycling rain water and
+ Conserve water by recycling rain water and
 installing low-flow valves
 Our Group will conduct an enterprise risk assessment at least once a year to cover the
 current and potential risks faced by our Group, including, but not limited to, the risks arising
@@ -17278,7 +17278,7 @@ Metrics and Targets
 We have monitored the following metrics to assess and manage the environmental and
 climate-related risks arising from our business and manufacturing operations since 2021:
 Resource Consumption
-(cid:129) Electricity consumption. We have monitored our electricity consumption levels and
+ Electricity consumption. We have monitored our electricity consumption levels and
 implementmeasurestoimproveenergyefficiencysince2021.In2021and2022,our
 electricity consumption levels were 0.2 million kWh and 0.2 million kWh,
 respectively. We intend to reduce the level of our per capita electricity consumption
@@ -17287,7 +17287,7 @@ installing energy efficient lighting in future decoration and ensuring lights ar
 switched off when not in use either manually or through automatic sensors, and (ii)
 switching off certain IT equipment or setting up automatic power shutdown for
 certain systems and devices when not in use.
-(cid:129) Water consumption. We have monitored our water consumption levels and
+ Water consumption. We have monitored our water consumption levels and
 implement measures to promote water conservation since 2021. In 2021 and 2022,
 our water consumption levels were 323 tons and 281 tons, respectively. We intend
 to reduce the level of our per capita water consumption by approximately 10% per
@@ -17296,7 +17296,7 @@ maintaining water-saving devices and appliances to avoid waste, and (ii) posting
 slogans on saving water in our office, encouraging employees to save water in their
 daily life, including when working in the office.
 Discharge Management
-(cid:129) Greenhouse gas discharge. We have monitored our GHG discharge levels on a
+ Greenhouse gas discharge. We have monitored our GHG discharge levels on a
 periodic basis since 2021. In 2021 and 2022, our GHG emissions were
 approximately 117.86 tons and 126.43 tons, respectively. We intend to reduce the
 level of our per capita GHG discharge by approximately 10% per thousand dollars
@@ -17305,7 +17305,7 @@ requirementsintheprocessofselectingsuppliersofrawmaterialsandconsumables,
 (ii) reducing the use of air conditioners in our laboratories to the extent possible,
 especiallyinwinter,and(iii)limitingbusinessairtravelsandreplacinglong-journey
 in-person meetings with virtual conferences where possible.
-(cid:129) Hazardous waste discharge. We have monitored our hazardous waste discharge
+ Hazardous waste discharge. We have monitored our hazardous waste discharge
 levels on a periodic basis since 2021. In 2021 and 2022, our hazardous waste
 discharge levels were approximately 2.12 tons and 1.97 tons, respectively, and such
 waste was disposed by qualified third parties. We intend to reduce the level of our
@@ -17412,15 +17412,15 @@ in Appendix 14 to the Listing Rules.
 To monitor the ongoing implementation of our risk management policies and corporate
 governance measures after the Listing, we have adopted or will continue to adopt, among other
 things, the following risk management measures:
-(cid:129) establish an Audit Committee to review and supervise our financial reporting
+ establish an Audit Committee to review and supervise our financial reporting
 process and internal control system;
-(cid:129) adoptvariouspoliciestoensurecompliancewiththeListingRules,includingbutnot
+ adoptvariouspoliciestoensurecompliancewiththeListingRules,includingbutnot
 limited to aspects related to risk management, connected transactions and
 information disclosure;
-(cid:129) provide anti-corruption and anti-bribery compliance training periodically to our
+ provide anti-corruption and anti-bribery compliance training periodically to our
 senior management and employees to enhance their knowledge and compliance with
 applicable laws and regulations; and
-(cid:129) attend training sessions by our Directors and senior management in respect of the
+ attend training sessions by our Directors and senior management in respect of the
 relevant requirements of the Listing Rules and duties of directors of companies
 listed in Hong Kong.
 Internal Control
@@ -18582,21 +18582,21 @@ GENERAL MANDATE TO ISSUE SHARES
 Subject to the Global Offering becoming unconditional, our Directors have been granted
 a general unconditional mandate to allot, issue and deal with Shares of not more than the sum
 of:
-(cid:129) 20% of the aggregate number of issued Shares immediately following completion of
+ 20% of the aggregate number of issued Shares immediately following completion of
 the Global Offering; and
 – 377 –
 
 === PAGE 387 ===
 SHARE CAPITAL
-(cid:129) the aggregate number of the Shares repurchased by us under the authority referred
+ the aggregate number of the Shares repurchased by us under the authority referred
 to in the paragraph headed “– General Mandate to Repurchase Shares” in this
 section.
 This general mandate to issue Shares will expire at the earliest of:
-(cid:129) the conclusion of the next annual general meeting of our Company;
-(cid:129) the expiration of the period within which the next annual general meeting of our
+ the conclusion of the next annual general meeting of our Company;
+ the expiration of the period within which the next annual general meeting of our
 Company is required to be held by any applicable law or theArticles ofAssociation;
 or
-(cid:129) the time when it is varied or revoked by an ordinary resolution of our Shareholders
+ the time when it is varied or revoked by an ordinary resolution of our Shareholders
 in a general meeting.
 See “Statutory and General Information – A. Further Information about our Group – 5.
 Resolutions of our Shareholders” inAppendix IV for further details of the general mandate to
@@ -18613,11 +18613,11 @@ AsummaryoftherelevantListingRulesissetoutinthesectionheaded“StatutoryandGenera
 Information –A. Further Information about our Group – 6. Repurchase of our own securities”
 in Appendix IV.
 The general mandate to repurchase Shares will expire at the earliest of:
-(cid:129) the conclusion of the next annual general meeting of our Company;
-(cid:129) the expiration of the period within which the next annual general meeting of our
+ the conclusion of the next annual general meeting of our Company;
+ the expiration of the period within which the next annual general meeting of our
 Company is required to be held by any applicable law or theArticles ofAssociation;
 or
-(cid:129) the time when it is varied or revoked by an ordinary resolution of our Shareholders
+ the time when it is varied or revoked by an ordinary resolution of our Shareholders
 in a general meeting.
 For further details of the general mandate to repurchase Shares, see “Statutory and
 General Information – A. Further Information about our Group – 5. Resolutions of our
@@ -18855,9 +18855,9 @@ to the Group or the Company in accordance with the contract and the cash flows t
 or the Company expects to receive).
 The expected cash shortfalls are discounted using the following discount rates where the
 effect of discounting is material:
-(cid:129) fix-rate financial assets and other receivables: effective interest rate determined at
+ fix-rate financial assets and other receivables: effective interest rate determined at
 initial recognition or an approximation thereof; and
-(cid:129) variable-rate financial assets: current effective interest rate.
+ variable-rate financial assets: current effective interest rate.
 The maximum period considered when estimating ECLs is the maximum contractual
 period over which the Group is exposed to credit risk.
 – 384 –
@@ -18868,9 +18868,9 @@ In measuring ECLs, the Group or the Company takes into account reasonable and
 supportable information that is available without undue cost or effort. This includes
 information about past events, current conditions and forecasts of future economic conditions.
 ECLs are measured on either of the following bases:
-(cid:129) 12-month ECLs: these are losses that are expected to result from possible default
+ 12-month ECLs: these are losses that are expected to result from possible default
 events within the 12 months after the reporting date; and
-(cid:129) lifetime ECLs: these are losses that are expected to result from all possible default
+ lifetime ECLs: these are losses that are expected to result from all possible default
 events over the expected lives of the items to which the ECL model applies.
 For all financial assets, the Group recognizes a loss allowance equal to 12-month ECLs
 unlesstherehasbeenasignificantincreaseincreditriskofthefinancialinstrumentsinceinitial
@@ -19032,19 +19032,19 @@ we advance the clinical development of our clinical assets and continue research
 developmentofourpre-clinicalassets.Inaddition,wemayfromtimetotimeinitiateadditional
 clinical trials of, and seek regulatory approvals for, our current pipeline products and future
 drug candidates. These expenditures may include the following, among others:
-(cid:129) expenses incurred for payments to CROs, SMOs and CDMOs, investigators and
+ expenses incurred for payments to CROs, SMOs and CDMOs, investigators and
 clinical trial sites that conduct our clinical studies;
-(cid:129) employee related expenses, including salaries, benefits and equity compensation
+ employee related expenses, including salaries, benefits and equity compensation
 expenses;
-(cid:129) licensing fees to collaboration partners, including milestone payment and royalty
+ licensing fees to collaboration partners, including milestone payment and royalty
 payment, whereas applicable;
-(cid:129) costs associated with pre-clinical activities;
-(cid:129) expenses associated with the construction and maintenance of our manufacturing
+ costs associated with pre-clinical activities;
+ expenses associated with the construction and maintenance of our manufacturing
 facilities;
-(cid:129) costs of acquiring, developing, and manufacturing clinical study materials;
-(cid:129) facilities, depreciation, and other expenses, which include office leases and other
+ costs of acquiring, developing, and manufacturing clinical study materials;
+ facilities, depreciation, and other expenses, which include office leases and other
 overhead expenses; and
-(cid:129) expenses associated with operating as a public company.
+ expenses associated with operating as a public company.
 Potential Competition Upon Commercialization
 The development and commercialization of innovative drugs is highly competitive. We
 face competition from global and China-based pharmaceutical and biotechnology companies,
@@ -19124,16 +19124,16 @@ diversifying risks and generating steady returns on the premise of ensuring the 
 Our Chief Executive Officer and the finance department are mainly responsible for
 making, implementing and supervising our investment decisions. We have implemented the
 following treasury policies and internal authorization controls:
-(cid:129) We have formulated the internal control measures to control our process of
+ We have formulated the internal control measures to control our process of
 investment in wealth management products;
-(cid:129) Our Board authorizes and supervises the Chief Financial Officer to approve through
+ Our Board authorizes and supervises the Chief Financial Officer to approve through
 a strict review and decision-making process, and our Chief Executive Officer is
 responsible for the approval of our material investments in wealth management
 products;
-(cid:129) Our finance department is responsible for the analysis and research of investments
+ Our finance department is responsible for the analysis and research of investments
 in wealth management products, as well as the long-term routine management of
 such investments; and
-(cid:129) Investments in wealth management products could be made when we have surplus
+ Investments in wealth management products could be made when we have surplus
 cash that is not required for our short-term working capital purposes and in no event
 beyond the amount authorized by our senior management team.
 Priortomakinganinvestment,weensurethatthereremainssufficientworkingcapitalfor
@@ -19794,7 +19794,7 @@ million.
 Weplantoimproveournetoperatingcashflowpositioninviewofpotentialnetoperating
 cash inflow which we expect to generate through launching and commercializing our products
 and enhancing our cost control and operating efficiency. In particular, we plan to:
-(cid:129) Rapidly advance the clinical development and commercialization of our Core
+ Rapidly advance the clinical development and commercialization of our Core
 Products and other pipeline products after obtaining the relevant regulatory
 approvals. In particular, we are conducting the global Phase II registrational MRCT
 for our Core Product, LAE002, and aim to make NDA submission to the FDA and
@@ -19807,7 +19807,7 @@ to prepare for the formal commercial launch in the following years.As we optimiz
 our product portfolio and cost structure, increase the sales of our products, and
 continue to grow our business, we expect to generate a steady inflow of cash from
 operations in the foreseeable future; and
-(cid:129) Adopt comprehensive measures to effectively control our cost and operating
+ Adopt comprehensive measures to effectively control our cost and operating
 expenses. For example, we plan to continue to regularly evaluate our existing and
 futurearrangementsandactivelyseekstrategiccooperationwithourmajorsuppliers
 to improve procurement efficiency and lower our cost of procurement. In addition,
@@ -20138,23 +20138,23 @@ receive from this offering for the following purposes:
 (i) Approximately 33.0% of the net proceeds, or approximately HK$233.7 million, is
 expected to be used for rapidly advancing the clinical development and approval of
 one of our Core Products, LAE001:
-(cid:129) approximately 19.6%, or HK$138.8 million, is expected to be used for
+ approximately 19.6%, or HK$138.8 million, is expected to be used for
 advancing our Phase II clinical trial in China to assess the safety and efficacy
 of LAE001 as a monotherapy at recommended Phase II dose (RP2D) in
 mCRPC patients. We expect to complete the Phase II study with preliminary
 results in the third quarter of 2023. We are planning to initiate a Phase III
 global MRCT registrational trial for metastatic hormone-sensitive prostate
 cancer (mHSPC) in the fourth quarter of 2023;
-(cid:129) approximately 6.1%, or HK$43.2 million, is expected to be used for advancing
+ approximately 6.1%, or HK$43.2 million, is expected to be used for advancing
 Phase II clinical trial in the U.S. to treat second-generation A/AR drug-
 resistant mCRPC patients as a combination therapy with LAE002. We also
 received IND approval in March 2022 to initiate the Phase II study in South
 Korea. Further, we expect to initiate a Phase III registrational trial in the
 second half of 2023;
-(cid:129) approximately 4.0%, or HK$28.3 million, is expected to be used for the
+ approximately 4.0%, or HK$28.3 million, is expected to be used for the
 potential R&D of LAE001 in Japan and EU, as well as recruiting additional
 research and development and clinical personnel for LAE001; and
-(cid:129) approximately 3.3%, or HK$23.4 million, is expected to be used for the
+ approximately 3.3%, or HK$23.4 million, is expected to be used for the
 pharmacological development and drug production for the clinical studies and
 NDA submissions, as well as preparation for registration filing of LAE001 in
 China, Japan and EU.
@@ -20165,31 +20165,31 @@ FUTURE PLANS AND USE OF PROCEEDS
 (ii) Approximately 23.3% of the net proceeds, or approximately HK$165.0 million, is
 expectedtobeusedforadvancingtheclinicaldevelopmentandapprovaloftheother
 Core Product of the Company, LAE002:
-(cid:129) approximately 6.4%, or HK$45.3 million, is expected to be used for advancing
+ approximately 6.4%, or HK$45.3 million, is expected to be used for advancing
 the MRCT Phase II registrational trial in both the U.S. and China to treat
 PROC as a combination therapy with chemotherapy paclitaxel.We aim to have
 NDA submissions in the fourth quarter of 2023;
-(cid:129) approximately 3.1%, or HK$22.0 million, is expected to be used for advancing
+ approximately 3.1%, or HK$22.0 million, is expected to be used for advancing
 Phase II clinical trial in the U.S. and South Korea to treat second-generation
 A/AR drug-resistant mCRPC patients as a combination therapy with LAE001,
 andwesplitandassigntheestimatedcostsofsuchtrialsequallyunderLAE001
 and LAE002 for use of proceeds purposes. We also received IND approval in
 March 2022 to initiate the Phase II study in South Korea;
-(cid:129) approximately 5.5%, or HK$39.0 million, is expected to be used for advancing
+ approximately 5.5%, or HK$39.0 million, is expected to be used for advancing
 the Phase Ib/III trial in China for the treatment of locally advanced or
 metastatic HR+/HER2- breast cancer with LAE002, in a combination therapy
 with fulvestrant. We plan to initiate the MRCT Phase III study in the second
 half of 2023;
-(cid:129) approximately 5.4%, or HK$38.1 million, is expected to be used for the
+ approximately 5.4%, or HK$38.1 million, is expected to be used for the
 pharmacological development and drug production for the clinical studies and
 NDA submissions, as well as preparation for registration filing of LAE002 in
 the U.S. and China;
-(cid:129) approximately 2.0%, or HK$14.2 million, is expected to be used for advancing
+ approximately 2.0%, or HK$14.2 million, is expected to be used for advancing
 the Phase I/II trial in China for the treatment of TNBC with LAE002, in a
 combination therapy with LAE005. We plan to obtain Phase I read-out in the
 fourth quarter of 2023, and initiate the Phase II study in the first quarter of
 2024; and
-(cid:129) approximately 0.9%, or HK$6.4 million, is expected to be used for the
+ approximately 0.9%, or HK$6.4 million, is expected to be used for the
 potential R&D, registration and commercialization of LAE002 in Japan and
 EU, as well as establishing our commercialization capabilities, including
 building our commercialization team.
@@ -20204,14 +20204,14 @@ FUTURE PLANS AND USE OF PROCEEDS
 (iii) Approximately 20.8%, or HK$147.4 million, is expected to be used for accelerating
 the research and development of other existing pipeline products and continuously
 advancing and improving our pipeline products:
-(cid:129) approximately 14.8%, or HK$104.9 million, is expected to be used for further
+ approximately 14.8%, or HK$104.9 million, is expected to be used for further
 exploration and research of pre-clinical stage assets. We plan to seek more
 innovative solutions in the field of cancer and liver fibrosis, by focusing on
 immune cells that are key to immune surveillance in both cases. These assets
 suchasLAE104andLAE105areinvariousdrugdiscoverystages,andweplan
 to advance at least one drug candidate into IND submission each year starting
 from 2023; and
-(cid:129) approximately 6.0%, or HK$42.5 million, is expected to be used for ongoing
+ approximately 6.0%, or HK$42.5 million, is expected to be used for ongoing
 development, planned clinical trials, preparation for registration filings related
 to existing clinical stage assets, including potential R&D, registration and
 commercialization of LAE005 in Japan and EU. We also have independent
@@ -21144,9 +21144,9 @@ agents may reject or accept any application, in full or in part, for any reason 
 Eligibility for the Application
 YoucanapplyforHongKongOfferSharesifyouoranyperson(s)forwhosebenefit
 you are applying:
-(cid:129) are 18 years of age or older;
-(cid:129) have a Hong Kong address; and
-(cid:129) are outside the United States and a non-U.S. person (within the meaning of
+ are 18 years of age or older;
+ have a Hong Kong address; and
+ are outside the United States and a non-U.S. person (within the meaning of
 Regulation S);
 If an application is made by a person under a power of attorney, the Company and the
 Overall Coordinator, as the Company’s agent, may accept it at its discretion, and on any
@@ -21161,12 +21161,12 @@ Unless permitted by the Listing Rules or any relevant waiver that have been gran
 the Hong Kong Stock Exchange (details of the relevant waivers are set out in the section
 headed “Waivers and Exemptions” in this prospectus), you cannot apply for any Hong Kong
 Offer Shares if:
-(cid:129) you are an existing beneficial owner of the Shares and/or a substantial shareholder
+ you are an existing beneficial owner of the Shares and/or a substantial shareholder
 of any of the Company’s subsidiaries;
-(cid:129) you are a director or chief executive of the Company and/or any of the Company’s
+ you are a director or chief executive of the Company and/or any of the Company’s
 subsidiaries;
-(cid:129) you are a close associate of any of the above persons; or
-(cid:129) you have been allocated or have applied for any International Offer Shares or
+ you are a close associate of any of the above persons; or
+ you have been allocated or have applied for any International Offer Shares or
 otherwise participated in the International Offering.
 Items Required for the Application
 If you apply for the Hong Kong Offer Shares online through the White Form eIPO
@@ -21368,56 +21368,56 @@ behalf:
 (a) HKSCC Nominees will only be acting as a nominee for you and is not liable
 for any breach of the terms and conditions of this prospectus; and
 (b) HKSCC Nominees will do the following things on your behalf:
-(cid:129) agree that the Hong Kong Offer Shares to be allocated shall be registered
+ agree that the Hong Kong Offer Shares to be allocated shall be registered
 in the name of HKSCC Nominees and deposited directly into CCASS for
 the credit of the CCASS Participant’s stock account on your behalf or
 your CCASS Investor Participant’s stock account;
-(cid:129) agree to accept the Hong Kong Offer Shares applied for or any lesser
+ agree to accept the Hong Kong Offer Shares applied for or any lesser
 number allocated;
 – 450 –
 
 === PAGE 460 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) undertake and confirm that you have not applied for or taken up, or
+ undertake and confirm that you have not applied for or taken up, or
 indicated an interest for, and will not apply for or take up, or indicate an
 interest for, any International Offer Shares nor participated in the
 International Offering;
-(cid:129) (if the electronic application instructions are given for your benefit)
+
 declare that only one set of electronic application instructions has been
 given for your benefit;
-(cid:129) (if you are an agent for another person) declare that you have only given
+ declare that you have only given
 one set of electronic application instructions for the other person’s
 benefit and are duly authorized to give those instructions as its agent;
-(cid:129) confirm that you understand that the Company, the Directors and the
+ confirm that you understand that the Company, the Directors and the
 Overall Coordinator will rely on your declarations and representations in
 deciding whether or not to allocate any of the Hong Kong Offer Shares
 to you and that you may be prosecuted for making a false declaration;
-(cid:129) authorize the Company to place HKSCC Nominees’name on the register
+ authorize the Company to place HKSCC Nominees’name on the register
 of members of the Company as the holder of the Hong Kong Offer Shares
 allocated to you and such other registers as required under theArticles of
 Association, and despatch Share certificate(s) and/or refund monies in
 accordance with the arrangements separately agreed between the
 Company and HKSCC;
-(cid:129) confirm that you have read the terms and conditions and application
+ confirm that you have read the terms and conditions and application
 procedures set out in this prospectus and agree to be bound by them;
-(cid:129) confirm that you have received and read this prospectus and have relied
+ confirm that you have received and read this prospectus and have relied
 only on the information and representations in this prospectus in causing
 the application to be made and will not rely on any other information or
 representations, except those in any supplement to this prospectus;
-(cid:129) agree that neither the Company nor the Relevant Persons are or will be
+ agree that neither the Company nor the Relevant Persons are or will be
 liable for any information and representations not in this prospectus (and
 any supplement to this prospectus);
-(cid:129) agree to disclose to the Company, the Hong Kong Share Registrar, the
+ agree to disclose to the Company, the Hong Kong Share Registrar, the
 receiving bank and the Relevant Persons any personal data which they
 may require about you;
-(cid:129) agree (without prejudice to any other rights which you may have) that
+ that
 once HKSCC Nominees’ application has been accepted, it cannot be
 rescinded for innocent misrepresentation;
 – 451 –
 
 === PAGE 461 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree that any application made by HKSCC Nominees on your behalf is
+ agree that any application made by HKSCC Nominees on your behalf is
 irrevocable on or before the fifth day after the time of opening of the
 application lists (excluding any days which is Saturday, Sunday or public
 holiday in Hong Kong), such agreement to take effect as a collateral
@@ -21436,17 +21436,17 @@ Ordinance gives a public notice under that section on or before the fifth
 day after the time of the opening of the application lists (excluding any
 day which is a Saturday, Sunday or public holiday in Hong Kong) which
 excludes or limits that person’s responsibility for this prospectus;
-(cid:129) agree that once HKSCC Nominees’ application is accepted, neither that
+ agree that once HKSCC Nominees’ application is accepted, neither that
 application nor your electronic application instructions can be revoked,
 and that acceptance of that application will be evidenced by the
 announcement of the results of the Hong Kong Public Offering by the
 Company;
-(cid:129) agree to the arrangements, undertakings and warranties under the
+ agree to the arrangements, undertakings and warranties under the
 participant agreement between you and HKSCC, read with the General
 Rules of CCASS and the CCASS Operational Procedures, for giving
 electronic application instructions to apply for Hong Kong Offer
 Shares;
-(cid:129) agree with the Company, for itself and for the benefit of each Shareholder
+ agree with the Company, for itself and for the benefit of each Shareholder
 (and so that the Company will be deemed by its acceptance in whole or
 in part of the application by HKSCC Nominees to have agreed, for the
 Company and on behalf of each Shareholder, with each CCASS
@@ -21454,7 +21454,7 @@ Participant giving electronic application instructions) to observe and
 comply with theArticles ofAssociation, the Companies (Winding Up and
 Miscellaneous Provisions) Ordinance and relevant laws of Hong Kong;
 and
-(cid:129) agreethatyourapplication,anyacceptanceofitandtheresultingcontract
+ agreethatyourapplication,anyacceptanceofitandtheresultingcontract
 will be governed by and construed in accordance with the laws of Hong
 Kong.
 – 452 –
@@ -21466,17 +21466,17 @@ By applying through CCASS EIPO service, you (and, if you are joint applicants,
 each of you jointly and severally) are deemed to have done the following things. Neither
 HKSCC nor HKSCC Nominees will be liable to the Company or any other person in
 respect of the things mentioned below:
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees (acting as
+ instructed and authorized HKSCC to cause HKSCC Nominees (acting as
 nominee for the relevant CCASS Participants) to apply for the Hong Kong
 Offer Shares on your behalf;
-(cid:129) instructed and authorized HKSCC to arrange payment of the Offer Price,
+ instructed and authorized HKSCC to arrange payment of the Offer Price,
 brokerage, SFC transaction levy,AFRC transaction levy and Hong Kong Stock
 Exchangetradingfeebydebitingyourdesignatedbankaccountand,inthecase
 of a wholly or partially unsuccessful application (if applicable), refund of the
 application monies (including brokerage, SFC transaction levy, AFRC
 transactionlevyandHongKongStockExchangetradingfee)bycreditingyour
 designated bank account; and
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees to do on your
+ instructed and authorized HKSCC to cause HKSCC Nominees to do on your
 behalf all the things stated in this prospectus.
 Time for Inputting Electronic Application Instructions(1)
 CCASS Clearing/Custodian Participants can input electronic application
@@ -21547,20 +21547,20 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means)
 for the following purposes:
-(cid:129) processingyourapplicationandrefundcheck,whereapplicable,verificationof
+ processingyourapplicationandrefundcheck,whereapplicable,verificationof
 compliancewiththetermsandapplicationproceduressetoutinthisprospectus
 and announcing results of allocation of the Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registeringnewissuesortransfersintooroutofthenamesoftheholdersofthe
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registeringnewissuesortransfersintooroutofthenamesoftheholdersofthe
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the Company’s register of members;
-(cid:129) verifying identities of the holders of the Shares;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends,
+ maintaining or updating the Company’s register of members;
+ verifying identities of the holders of the Shares;
+ establishing benefit entitlements of holders of the Shares, such as dividends,
 rights issues, bonus issues, etc.;
-(cid:129) distributing communications from us and our subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to
+ distributing communications from us and our subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to
 enable the Company and the Hong Kong Share Registrar to discharge its or
 their obligations to holders of the Shares and/or regulators and/or any other
 purposes to which the securities’ holders may from time to time agree.
@@ -21570,22 +21570,22 @@ the holders of the Hong Kong Offer Shares will be kept confidential but the Comp
 the Hong Kong Share Registrar may, to the extent necessary for achieving any of the
 above purposes, disclose, obtain or transfer (whether within or outside Hong Kong) the
 personal data to, from or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisors, receiving bankers
+ the Company’s appointed agents such as financial advisors, receiving bankers
 and overseas principal share registrar;
 – 455 –
 
 === PAGE 465 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) where applicants for the Hong Kong Offer Shares request a deposit into
+ where applicants for the Hong Kong Offer Shares request a deposit into
 CCASS, HKSCC or HKSCC Nominees, who will use the personal data for the
 purposes of operating CCASS;
-(cid:129) any agents, contractors or third party service providers who offer
+ any agents, contractors or third party service providers who offer
 administrative, telecommunications, computer, payment or other services to
 the Company or the Hong Kong Share Registrar in connection with their
 respective business operation;
-(cid:129) the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
+ the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
 governmentalbodiesorotherwiseasrequiredbylaws,rulesorregulations;and
-(cid:129) any persons or institutions with which the holders of the Hong Kong Offer
+ any persons or institutions with which the holders of the Hong Kong Offer
 Shares have or propose to have dealings, such as their bankers, solicitors,
 accountants or stockbrokers etc.
 Retention of personal data
@@ -21644,8 +21644,8 @@ application for the Hong Kong Offer Shares given by you or for your behalf to HK
 be deemed to be an actual application for the purposes of considering whether multiple
 applications have been made.
 If an unlisted company makes an application and:
-(cid:129) the principal business of that company is dealing in securities; and
-(cid:129) you exercise statutory control over that company,
+ the principal business of that company is dealing in securities; and
+ you exercise statutory control over that company,
 then the application will be treated as being made for your benefit.
 “Unlistedcompany”meansacompanywithnoequitysecuritieslistedontheHongKong
 Stock Exchange.
@@ -21654,9 +21654,9 @@ Stock Exchange.
 === PAGE 467 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypart
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypart
 of it which carries no right to participate beyond a specified amount in a distribution
 of either profits or capital).
 B. HOW MUCH ARE THE HONG KONG OFFER SHARES
@@ -21683,9 +21683,9 @@ Offering – Pricing and Allocation” in this prospectus.
 C. EFFECTOFBADWEATHERAND EXTREME CONDITIONS ONTHE OPENING
 AND CLOSING OF THE APPLICATION LISTS
 The application lists will not open or close if there is/are:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a “black” rainstorm warning; and/or
-(cid:129) Extreme Conditions
+ a tropical cyclone warning signal number 8 or above;
+ a “black” rainstorm warning; and/or
+ Extreme Conditions
 – 458 –
 
 === PAGE 468 ===
@@ -21708,15 +21708,15 @@ Company at www.laekna.com and the Hong Kong Stock Exchange at www.hkexnews.hk.
 The results of allocations and the Hong Kong identity card/passport/Hong Kong business
 registration numbers of successful applicants under the Hong Kong Public Offering will be
 available at the times and dates and in the manner set out below:
-(cid:129) in the announcement to be posted on the websites of the Company at
+ in the announcement to be posted on the websites of the Company at
 www.laekna.com and the Hong Kong Stock Exchange at www.hkexnews.hk,
 respectively, by no later than 9:00 a.m. on Wednesday, June 28, 2023;
-(cid:129) from the designated results of allocations website at www.iporesults.com.hk
+ from the designated results of allocations website at www.iporesults.com.hk
 (alternatively English: https://www.eipo.com.hk/en/Allotment; Chinese:
 https://www.eipo.com.hk/zh-hk/Allotment)witha“searchbyID”functionona24
 hour basis from 8:00 a.m. on Wednesday, June 28, 2023 to 12:00 midnight on
 Tuesday, July 4, 2023; and
-(cid:129) from the allocation results telephone enquiry line by calling +852 2862 8555
+ from the allocation results telephone enquiry line by calling +852 2862 8555
 between 9:00 a.m. and 6:00 p.m. on Wednesday, June 28, 2023, Thursday, June 29,
 2023, Friday, June 30, 2023 and Monday, July 3, 2023.
 If the Company accepts your offer to purchase (in whole or in part), which it may do by
@@ -21773,26 +21773,26 @@ accept only part of any application, without giving any reasons.
 (c) If the allotment of Hong Kong Offer Shares is void:
 The allotment of Hong Kong Offer Shares will be void if the Listing Committee of the
 Stock Exchange does not grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Listing Committee notifies the
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Listing Committee notifies the
 Company of that longer period within three weeks of the closing date of the
 application lists.
 (d) If:
-(cid:129) you make multiple applications or are suspected of making multiple applications;
-(cid:129) you or the person for whose benefit you apply for, have applied for or taken up, or
+ you make multiple applications or are suspected of making multiple applications;
+ you or the person for whose benefit you apply for, have applied for or taken up, or
 indicated an interest for, or have been or will be placed or allocated (including
 conditionally and/or provisionally) Hong Kong Offer Shares and International Offer
 Shares;
-(cid:129) your payment is not made correctly;
-(cid:129) yourelectronicapplicationinstructionsthroughtheWhiteFormeIPOserviceare
+ your payment is not made correctly;
+ yourelectronicapplicationinstructionsthroughtheWhiteFormeIPOserviceare
 not completed in accordance with the instructions, terms and conditions on the
 designated website at www.eipo.com.hk;
-(cid:129) you apply for more than 3,186,500 Hong Kong Offer Shares, being 50% of the
+ you apply for more than 3,186,500 Hong Kong Offer Shares, being 50% of the
 6,373,000 Hong Kong Offer Shares initially available under the Hong Kong Public
 Offering;
-(cid:129) theCompanyortheOverallCoordinatorbelievesthatbyacceptingyourapplication,
+ theCompanyortheOverallCoordinatorbelievesthatbyacceptingyourapplication,
 it would violate applicable securities or other laws, rules or regulations; or
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated.
+ the Underwriting Agreements do not become unconditional or are terminated.
 F. REFUND OF APPLICATION MONIES
 If an application is rejected, not accepted or accepted in part only, or if the conditions of
 the Global Offering as set out in the section headed “Structure of the Global Offering –
@@ -21825,17 +21825,17 @@ to the receipt of the Share certificates or prior to the Share certificates beco
 entirely at their own risk.
 Personal Collection
 If you apply through White Form eIPO service:
-(cid:129) If you apply for 1,000,000 Hong Kong Offer Shares or more through the White Form
+ If you apply for 1,000,000 Hong Kong Offer Shares or more through the White Form
 eIPO service and your application is wholly or partially successful (if applicable), you
 maycollectyourSharecertificate(s)and/orrefundcheque(s)(whereapplicable)inperson
 from the Hong Kong Share Registrar, Computershare Hong Kong Investor Services
 Limited, at Shops 1712-1716, 17th Floor, Hopewell Centre, 183 Queen’s Road East, Wan
 Chai, Hong Kong, from 9:00 a.m. to 1:00 p.m. onWednesday, June 28, 2023, or any other
 place or date notified by the Company.
-(cid:129) If you do not personally collect your Share certificate(s) and/or refund cheque(s) (where
+ (where
 applicable) within the time specified for collection, they will be sent to the address
 specified in your application instructions by ordinary post and at your own risk.
-(cid:129) If you apply for less than 1,000,000 Hong Kong Offer Shares through the White Form
+ If you apply for less than 1,000,000 Hong Kong Offer Shares through the White Form
 eIPOservice,yourSharecertificate(s)and/orrefundcheque(s)(whereapplicable)willbe
 despatched to the address specified in your application instructions on or before
 Wednesday, June 28, 2023 by ordinary post and at your own risk.
@@ -21843,24 +21843,24 @@ Wednesday, June 28, 2023 by ordinary post and at your own risk.
 
 === PAGE 472 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) If you apply and pay the application monies from a single bank account, any refund
+ If you apply and pay the application monies from a single bank account, any refund
 monies will be despatched to that bank account in the form of e-Refund payment
 instructions. If you apply and pay the application monies from multiple bank accounts,
 any refund monies will be despatched to the address specified in your application
 instructions in the form of refund cheque(s) by ordinary post and at your own risk.
 If you apply through CCASS EIPO service:
 Allocation of Hong Kong Offer Shares
-(cid:129) For the purposes of allocating Hong Kong Offer Shares, HKSCC Nominees will not be
+ For the purposes of allocating Hong Kong Offer Shares, HKSCC Nominees will not be
 treated as an applicant. Instead, each CCASS Participant who gives electronic
 application instructions or each person for whose benefit instructions are given will be
 treated as an applicant.
 Deposit of Share Certificates into CCASS and Refund of Application Monies
-(cid:129) If your application is wholly or partially successful, your Share certificate(s) will be
+ will be
 issued in the name of HKSCC Nominees and deposited into CCASS for the credit of your
 designated CCASS Participant’s stock account or your CCASS Investor Participant stock
 account on Wednesday, June 28, 2023 or on any other date determined by HKSCC or
 HKSCC Nominees.
-(cid:129) The Company expects to publish the application results of CCASS Participants (and
+ The Company expects to publish the application results of CCASS Participants (and
 where the CCASS Participant is a broker or custodian, the Company will include
 information relating to the relevant beneficial owner), your Hong Kong identity card
 /passport/Hong Kong business registration number or other identification code (Hong
@@ -21869,11 +21869,11 @@ Hong Kong Offer Shares in the manner as described in “– D. Publication of Re
 above on Wednesday, June 28, 2023. You should check the announcement published by
 the Company and report any discrepancies to HKSCC before 5:00 p.m. on Wednesday,
 June 28, 2023 or such other date as determined by HKSCC or HKSCC Nominees.
-(cid:129) If you have instructed your broker or custodian who is a CCASS Clearing Participant or
+ If you have instructed your broker or custodian who is a CCASS Clearing Participant or
 a CCASS Custodian Participant to give electronic application instructions on your
 behalf, you can also check the number of Hong Kong Offer Shares allocated to you and
 the amount of refund monies (if any) payable to you with that broker or custodian.
-(cid:129) If you have applied as a CCASS Investor Participant, you can also check the number of
+ If you have applied as a CCASS Investor Participant, you can also check the number of
 Hong Kong Offer Shares allocated to you and the amount of refund monies (if any)
 payable to you via the CCASS Phone System and the CCASS Internet System (under the
 procedures contained in HKSCC’s “An Operating Guide for Investor Participants” in
@@ -21887,7 +21887,7 @@ to your bank account, HKSCC will also make available to you an activity statemen
 showing the number of Hong Kong Offer Shares credited to your CCASS Investor
 Participant stock account and the amount of refund monies (if any) credited to your
 designated bank account.
-(cid:129) Refundofyourapplicationmonies(ifany)inrespectofwhollyandpartiallyunsuccessful
+inrespectofwhollyandpartiallyunsuccessful
 applications(includingbrokerage,SFCtransactionlevy,AFRCtransactionlevyandHong
 KongStockExchangetradingfeebutwithoutinterest)willbecreditedtoyourdesignated
 bank account or the designated bank account of your broker or custodian on Wednesday,
@@ -24139,8 +24139,8 @@ performing procedures to assess whether the applicable criteria used by the Dire
 compilation of the pro forma financial information provide a reasonable basis for presenting
 the significant effects directly attributable to the event or transaction, and to obtain sufficient
 appropriate evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the pro forma financial information reflects the proper application of those
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the pro forma financial information reflects the proper application of those
 adjustments to the unadjusted financial information.
 – II-4 –
 
@@ -25524,13 +25524,13 @@ The exercise in full of the Repurchase Mandate, on the basis of 390,100,350 Shar
 in issue immediately following completion of the Global Offering, could accordingly
 result in up to 39,010,035 Shares being repurchased by our Company during the period
 prior to the earliest of:
-(cid:129) the conclusion of the next annual general meeting of our Company unless
+ the conclusion of the next annual general meeting of our Company unless
 renewed by an ordinary resolution of our Shareholders in a general meeting,
 either unconditionally or subject to conditions;
-(cid:129) the expiration of the period within which our Company’s next annual general
+ the expiration of the period within which our Company’s next annual general
 meeting is required by theArticles ofAssociation or any other applicable laws
 to be held; or
-(cid:129) the date when it is varied or revoked by an ordinary resolution of the
+ the date when it is varied or revoked by an ordinary resolution of the
 Shareholders in general meeting.
 NoneofourDirectorsnor,tothebestoftheirknowledgehavingmadeallreasonable
 enquiries, any of their close associates currently intends to sell any Shares to our

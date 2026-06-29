@@ -17,6 +17,11 @@ import os
 import csv
 import pdfplumber
 import fitz  # PyMuPDF
+import logging
+logging.getLogger("pdfminer").setLevel(logging.ERROR)
+
+import fitz
+fitz.TOOLS.mute_warnings = True
 
 # ── Configuration ────────────────────────────────────────────────────────────
 

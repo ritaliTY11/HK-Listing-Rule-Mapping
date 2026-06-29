@@ -86,8 +86,8 @@ The electronic version of this prospectus and the printed version of this prospe
 as registered with the Registrar of Companies in Hong Kong pursuant to Section 342C of
 the Companies (WUMP) Ordinance are identical in terms of contents.
 To apply for the Hong Kong Public Offer Shares, you may:
-(cid:129) apply online via the White Form eIPO service at www.eipo.com.hk; or
-(cid:129) apply through the CCASS EIPO service to electronically cause HKSCC
+ apply online via the White Form eIPO service at www.eipo.com.hk; or
+ apply through the CCASS EIPO service to electronically cause HKSCC
 Nominees to apply on your behalf, including by:
 i. instructing your broker or custodian who is a CCASS Clearing Participant
 or a CCASS Custodian Participant to give electronic application
@@ -184,10 +184,10 @@ Results of allocations in the Hong Kong Public
 Offering (with successful applicants’
 identification document numbers, where appropriate)
 to be available through a variety of channels, including:
-(cid:129) in the announcement to be posted on the websites
+ in the announcement to be posted on the websites
 of the Stock Exchange at www.hkexnews.hk and
 our Company at www.regopimc.com . . . . . . . . . . . . . . . . . . . Friday, 14 October 2022
-(cid:129) from the designated results of allocations website
+ from the designated results of allocations website
 at www.iporesults.com.hk
 (alternatively: English https://www.eipo.com.hk/en/Allotment;
 Chinese https://www.eipo.com.hk/zh-hk/Allotment)
@@ -195,7 +195,7 @@ with a “search by ID” function from . . . . . . . . . . . . . . . . . . . . 
 Friday, 14 October 2022 to
 12:00 midnight on
 Thursday, 20 October 2022
-(cid:129) from the allocation results telephone enquiry
+ from the allocation results telephone enquiry
 by calling +852 2862 8555 between 9:00 a.m.
 and 6:00 p.m. on . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Friday, 14 October 2022,
 Monday, 17 October 2022,
@@ -444,7 +444,7 @@ future collaboration opportunities
 Notes:
 1. The shaded boxes denote the roles and operations of our Group in different business segments and
 sub-segments.
-2. “—(cid:2)” denotes the flow of marketing and promotion services from enterprise advertisers to the individual
+2. “—” denotes the flow of marketing and promotion services from enterprise advertisers to the individual
 consumers.
 3. Enterprisesincludeenterpriseswhicharedesirousof(i)advertisingandpromotingtheirproductsorservices
 (as to our promotion and advertising services); (ii) procuring virtual goods for customer retention (as to our
@@ -576,8 +576,8 @@ agents channel providers
 Payments of service Payments of service
 fees generated fees generated
 Legends:
-(cid:129) denotes a flow of action
-(cid:129) denotes a flow of funds
+ denotes a flow of action
+ denotes a flow of funds
 – 4 –
 
 === PAGE 15 ===
@@ -633,8 +633,8 @@ Direct requests to media publisher for
 topping-up of customers’ accounts
 Request for publication of advertisements
 Legends:
-(cid:129) denotes a flow of action
-(cid:129) denotes a flow of funds
+ denotes a flow of action
+ denotes a flow of funds
 During the Track Record Period, our revenue under this business segment is
 recognisedonanet-basis,whichrepresentsthesurplusof(i)thenettop-upamounts(after
 deducting the rebates granted to our customers, if any, which generally fell within the
@@ -700,8 +700,8 @@ Payments of service fees based
 on an agreed proportion of the
 revenue received from our customers
 Legends:
-(cid:129) denotes a flow of action
-(cid:129) denotes a flow of funds
+ denotes a flow of action
+ denotes a flow of funds
 Since the launch of our advertisement distribution services, we have been striving
 to expand our supplier base through establishing business collaboration with different
 mobile apps. The mobile app operators we worked with in our advertisement distribution
@@ -1045,7 +1045,7 @@ Other than the above, there was no arrangement for provision of our marketing an
 servicesandITsolutionsservicesasabundletoourcustomersduringtheTrackRecordPeriod.
 Goingforward,weseethepotentialforthestrengtheningofsynergiesamongourmultiple
 business sub-segments in the following manners, among others:
-(cid:129) we aim to further develop and operate our SaaS enterprise marketing service
+ we aim to further develop and operate our SaaS enterprise marketing service
 platform as a means to expand our marketing channels; leveraging our information
 technology capability and the access we have gained to the vast network of lottery
 sales points in the PRC through provision of solutions on lottery-related software
@@ -1067,7 +1067,7 @@ the relevant marketing participants. For further details, please refer to the se
 headed “Business — Our Business Strategies — Developing and operating our SaaS
 enterprisemarketingserviceplatformasameanstoexpandourmarketingchannels”
 in this prospectus; and
-(cid:129) we will endeavour to promote our advertisement distribution services to enterprise
+ we will endeavour to promote our advertisement distribution services to enterprise
 advertisers engaging our advertisement placement services. By cross-selling our
 advertisement distribution services and advertisement placement services, we will
 not only arrange for the advertisements of enterprise advertisers to be published and
@@ -2146,25 +2146,25 @@ proceeds HK$ million
 Developing and expanding our online
 marketing channels and resources for our
 marketing and promotion services 42.2 50.3
-(cid:129) Expanding our research and development
+ Expanding our research and development
 team and operations team 14.4 17.2
-(cid:129) Meeting relevant property rental expenses 1.2 1.4
-(cid:129) Prepayments to be made to media publishers 26.6 31.7
+ Meeting relevant property rental expenses 1.2 1.4
+ Prepayments to be made to media publishers 26.6 31.7
 Further developing and expanding our supplier
 base and types of virtual goods on offer 26.7 31.9
-(cid:129) Expanding our research and development
+ Expanding our research and development
 team, operations team and commerce team 6.5 7.8
-(cid:129) Meeting relevant property rental expenses 0.6 0.7
-(cid:129) Prepayments to be made to virtual goods
+ Meeting relevant property rental expenses 0.6 0.7
+ Prepayments to be made to virtual goods
 suppliers 19.6 23.4
 Acquiring companies in marketing and
 related industries 14.9 17.8
 Developing and operating our SaaS enterprise
 marketing service platform as a means to
 expand our marketing channels 6.3 7.5
-(cid:129) Expanding our research and development
+ Expanding our research and development
 team and operations team 5.7 6.8
-(cid:129) Meeting relevant property rental expenses 0.6 0.7
+ Meeting relevant property rental expenses 0.6 0.7
 General working capital 9.9 11.8
 For further details, please refer to the section headed “Future Plans and Use of Proceeds”
 in this prospectus.
@@ -3684,16 +3684,16 @@ strategies. In addition, our ability to consummate acquisitions is subject to a 
 and uncertainties. Even if we are able to consummate acquisitions, our ability to successfully
 grow our business through such acquisitions involves significant challenges and risks,
 including:
-(cid:129) difficulties integrating into our operations the personnel, operations, services,
+ difficulties integrating into our operations the personnel, operations, services,
 technology, internal controls and financial reporting of companies we acquire;
-(cid:129) disrupting our ongoing business, distracting our management and employees and
+ disrupting our ongoing business, distracting our management and employees and
 increasing our expenses;
-(cid:129) actual or alleged misconduct or non-compliance by any company we acquire that
+ actual or alleged misconduct or non-compliance by any company we acquire that
 occurred prior to our acquisition, which may lead to negative publicity, government
 inquiry or investigations against such company or against us;
-(cid:129) unforeseen or hidden liabilities or costs that may adversely affect us following our
+ unforeseen or hidden liabilities or costs that may adversely affect us following our
 acquisition of such targets; and
-(cid:129) challenges in achieving the expected benefits of synergies and growth opportunities
+ challenges in achieving the expected benefits of synergies and growth opportunities
 in connection with these acquisitions and investments.
 – 65 –
 
@@ -4166,22 +4166,22 @@ to you.
 The price and trading volume of our Shares may be volatile as a result of the following
 factors, as well as others, which are discussed in this section or elsewhere in this prospectus,
 some of which are beyond our control:
-(cid:129) actual or anticipated fluctuations in our results of operations;
-(cid:129) news regarding recruitment or loss of key personnel by us or our customers;
+ actual or anticipated fluctuations in our results of operations;
+ news regarding recruitment or loss of key personnel by us or our customers;
 – 76 –
 
 === PAGE 87 ===
 RISK FACTORS
-(cid:129) announcements of competitive developments, acquisitions or strategic alliances in
+ announcements of competitive developments, acquisitions or strategic alliances in
 our industry;
-(cid:129) changes in earnings estimates or recommendations by financial analysts;
-(cid:129) potential litigation or regulatory investigations;
-(cid:129) changes in general economic conditions or other developments affecting us or our
+ changes in earnings estimates or recommendations by financial analysts;
+ potential litigation or regulatory investigations;
+ changes in general economic conditions or other developments affecting us or our
 industry;
-(cid:129) price movements on international stock markets, the operating and stock price
+ price movements on international stock markets, the operating and stock price
 performance of other companies, other industries and other events or factors beyond
 our control; and
-(cid:129) release of lock-up or other transfer restrictions on our outstanding Shares or sale or
+ release of lock-up or other transfer restrictions on our outstanding Shares or sale or
 perceived sale of additional Shares by us, the Controlling Shareholders or other
 Shareholders.
 In addition, the securities markets have from time to time experienced significant price
@@ -4334,11 +4334,11 @@ Miscellaneous Provisions) Ordinance, the Securities and Futures (Stock Market Li
 (Chapter 571V of the Laws of Hong Kong) and the Listing Rules for the purpose of giving
 information with regard to us. Our Directors, having made all reasonable enquiries, confirm
 that to the best of their knowledge and belief:
-(cid:129) the information contained in this prospectus is accurate and complete in all material
+ the information contained in this prospectus is accurate and complete in all material
 respects and not misleading or deceptive;
-(cid:129) there are no other matters the omission of which would make any statement herein
+ there are no other matters the omission of which would make any statement herein
 or in this prospectus misleading; and
-(cid:129) all opinions expressed in this prospectus have been arrived at after due and careful
+ all opinions expressed in this prospectus have been arrived at after due and careful
 consideration and are founded on basis and assumptions that are fair and reasonable.
 INFORMATION AND REPRESENTATION
 We have not authorised anyone to provide any information or to make any representation
@@ -5194,29 +5194,29 @@ Television Industry 2021, expert interviews, public disclosures of companies, iR
 === PAGE 115 ===
 INDUSTRY OVERVIEW
 Market Drivers of Advertising Industry in China
-(cid:129) Continuous growth of GDP. Advertising spending correlates with the health of an
+ Continuous growth of GDP. Advertising spending correlates with the health of an
 economy. China’s macroeconomy, as indicated by its nominal GDP growth rate, has
 undergone a steady increase from the past years, providing economic support for the
 further growth of the advertising industry.
-(cid:129) Internetandtechnologyupgrades.Internetandinfrastructureupgradeshaveincreasedthe
+ Internetandtechnologyupgrades.Internetandinfrastructureupgradeshaveincreasedthe
 amount of time people spent on mobile devices, which allows online advertising to have
 higher exposure and reach more people, and drives the growth of the online advertising
 market. Technological developments such as big data, artificial intelligence, 5G and
 others can better meet the enterprises’ increasing demands for high efficiency and
 targeting precision of marketing. Thus, such technologies are expected to upgrade and
 transform the advertising industry.
-(cid:129) Integration of data resources. Top online media platforms are offering increasingly
+ Integration of data resources. Top online media platforms are offering increasingly
 diverse formats of online content, such as online games, online video, online music, live
 streaming, and online paid knowledge, which enables them to collect multi-dimensional
 consumer behaviour data. Integration of such data resources will contribute to more
 comprehensive consumer tagging and therefore more efficient targeting, which is
 expected to support the future development of the advertising industry.
 Market Trends of Advertising Industry in China
-(cid:129) Increasing traffic acquisition cost. With the retreat of the rapid growth period of Internet
+ Increasing traffic acquisition cost. With the retreat of the rapid growth period of Internet
 user traffic and the improvement of the bargaining power of large-size publishers, the
 traffic acquisition cost of advertisers has gradually risen, and it has become increasingly
 difficult for them to attract new consumers and promote their consumption.
-(cid:129) Digital advertising based on SDK. With the rapid technological innovations and the
+ Digital advertising based on SDK. With the rapid technological innovations and the
 increasing concern of the advertisers over the efficiency of marketing activities, online
 advertising is becoming increasingly prevalent while the demand for traditional
 marketing and promotion services has been declining. The advertising SDK offers small
@@ -5224,7 +5224,7 @@ andmediumpublishersasimpleandconvenienttoolforcommercialisationbyconnecting
 publishers with technology platforms and advertisement placement service providers.As
 a result, the advertising SDKs are being increasingly widely applied in the digital
 advertising market.
-(cid:129) Reliance on intermediate advertising service providers for better optimization. As most
+ Reliance on intermediate advertising service providers for better optimization. As most
 advertisers have only limited in-house optimization capability, it is expected that
 advertisers may shift reliance from direct procurement of marketing services to
 procurement through intermediate advertising service providers, who have better
@@ -5234,32 +5234,32 @@ market
 
 === PAGE 116 ===
 INDUSTRY OVERVIEW
-(cid:129) Increasing application of big data and AI for precision marketing. Big data and AI are
+ Increasing application of big data and AI for precision marketing. Big data and AI are
 applied to help brands in the whole advertising lifecycle and different consumption
 scenarios, such as targeting, content creation, delivery, and monitoring, to accurately
 grasp the advertising opportunities and provide comprehensive services for clients.
-(cid:129) Rise of the O2O marketing model. The rising cost of online advertising and the
+ Rise of the O2O marketing model. The rising cost of online advertising and the
 diminishing gap of online-offline advertising price are forcing advertisers to draw
 emphasis back to the offline channels in their marketing strategy, which give rise to the
 O2O marketing model. This model involves crossovers of online and offline experiences
 during the full user journey with each step tracked digitally, and thus provides better
 cost-efficiency, user experience, and digitalization of consumer journey.
 Entry Barriers for Advertising Industry in China
-(cid:129) Case accumulation. Accumulation of successful marketing cases is crucial in business
+ Case accumulation. Accumulation of successful marketing cases is crucial in business
 development for intermediate advertising service providers, as marketers rely heavily on
 past cases to evaluate their competences. New entrants without any real case record will
 find it hard to demonstrate their capabilities and win clients.
-(cid:129) Professionalism and optimization. Established companies have built comprehensive
+ Professionalism and optimization. Established companies have built comprehensive
 understandings of user behaviours and preferences which can be leveraged to form more
 effective advertising strategies for their clients. New entrants without such knowledge
 will not be able to provide the optimization service, which largely weakens their
 competitiveness.
-(cid:129) Technology & expertise. New entrants have to invest considerably in the recruitment and
+ Technology & expertise. New entrants have to invest considerably in the recruitment and
 training of technological expertise required to successfully deploy various IT tools for
 advertising.
-(cid:129) Data accumulation. Lack of data accumulated through real cases limits the effectiveness
+ Data accumulation. Lack of data accumulated through real cases limits the effectiveness
 of new entrants’use of advanced technologies like precision marketing, big data and AI.
-(cid:129) Economies of scale. Large players can negotiate advantageous prices and policies from
+ Economies of scale. Large players can negotiate advantageous prices and policies from
 suppliers and are more resistant to the fluctuation of demands and supplies over time.
 New entrants have to bear higher prices from suppliers and higher risks of operation
 during market fluctuation.
@@ -5454,27 +5454,27 @@ RMB150.7 billion and a CAGR of 19.0% from 2021 to 2026. As the industry naturall
 transitionsfromtheinitialstagetoamorematurestage,theCAGRisexpectedtodecreaseover
 time.
 Market Drivers of Third-party to-B Virtual Goods and Services Industry in China
-(cid:129) Acquiring new customers is increasingly difficult. The increasing cost of user acquisition
+ Acquiring new customers is increasingly difficult. The increasing cost of user acquisition
 and the slowing down natural population growth rate in China require companies to adopt
 more efficient tools, such as virtual goods and services, for user acquisition and
 engagement to fully exploit the potential value of each user.
-(cid:129) Demands for online virtual goods and services grow as users’ consumption behaviors
+ Demands for online virtual goods and services grow as users’ consumption behaviors
 shift. The development of the mobile internet is reshaping people’s consumption
 behaviors. Also, the improving cognition for IP protection and user payment behaviors
 contributetorecognitionforthevalueofonlinemembershipandonlinegiftcards,driving
 the demand for virtual goods and services.
-(cid:129) The trend of outsourcing is on the rise as companies pursue better operation efficiency.
+ The trend of outsourcing is on the rise as companies pursue better operation efficiency.
 The growing trend of business process outsourcing among domestic companies,
 especially large numbers of small and micro enterprises, will continuously drive the
 growth of third-party to-B virtual goods and services providers from the demand side.
 Market Trends of Third-party to-B Virtual Goods and Services Industry in China
-(cid:129) More industries will introduce virtual goods and services for marketing activities.
-(cid:129) Provide end-to-end marketing and operation service packages for corporate customers.
+ More industries will introduce virtual goods and services for marketing activities.
+ Provide end-to-end marketing and operation service packages for corporate customers.
 Solution providers can deliver more end-to-end services, covering back-end IT
 infrastructure construction, mid-end software development and product design, as well as
 front-end publicity and event operations.
 Entry Barriers for Third-party to-B Virtual Goods and Services Providers in China
-(cid:129) Client accumulation and proven track record. Due to the high risk and long reaction time
+ Client accumulation and proven track record. Due to the high risk and long reaction time
 (1-6 months) of changing providers, corporate clients tend to rely on the provider with a
 stablebusinessrelationship.Inaddition,enterprisesincertainindustries,suchasbanking,
 are highly conservative in working with outside providers, making the proven track
@@ -5483,10 +5483,10 @@ record within the same industries especially important in bidding.
 
 === PAGE 122 ===
 INDUSTRY OVERVIEW
-(cid:129) Access to upstream suppliers. Existing players may build long-term contracts with key
+ Access to upstream suppliers. Existing players may build long-term contracts with key
 product suppliers. New entrants may not have enough orders from clients to qualify for
 direct cooperation with or discounts from the suppliers.
-(cid:129) Capital barrier and prepayment ability. It is the market practice in the industry for
+ Capital barrier and prepayment ability. It is the market practice in the industry for
 third-party virtual goods and services providers to pay the suppliers in advance and allow
 corporate clients to pay the bills at the end of a certain billing period, such as one month
 or one quarter, requiring enough amounts of capital.
@@ -5591,20 +5591,20 @@ other lottery-related services (data analysis, payment system operations, logist
 entire value chain is regulated and supervised by the PRC government.
 Issuance Production Sales Purchasers
 R&D of lottery System & Software Offline channels
-(cid:129) R&D of types of lottery (cid:129) Sales management system (cid:129) Betting station
-(cid:129) Development of lottery (cid:129) Information management system (cid:129) Self-service betting machine
-gameplay (cid:129) Security system
-(cid:129) Monitoring system Marketing
-Issuance of lottery (cid:129) SaaS platform (cid:129) Advertising & promotion
-(cid:129) Sales channel expansion
+ Betting station
+ Self-service betting machine
+gameplay  Security system
+ Monitoring system Marketing
+Issuance of lottery  Advertising & promotion
+ Sales channel expansion
 Hardware
-(cid:129) Lottery terminal
-(cid:129) Lottery draw machine
+ Lottery terminal
+ Lottery draw machine
 Related services
-(cid:129) Lottery vending machine
+ Lottery vending machine
 Printing Information aggregator
-(cid:129) Production of thermal paper
-(cid:129) Printing of lottery tickets Data analysis
+ Production of thermal paper
+ Printing of lottery tickets Data analysis
 Expert recommendation
 Payment system
 Logistics
@@ -5685,17 +5685,17 @@ Sources: Centre of China Government Procurement, public disclosures of companies
 === PAGE 126 ===
 INDUSTRY OVERVIEW
 Market Drivers of Lottery Solutions Industry in China
-(cid:129) The rapid development of the sports industry. The State Council released a plan in
+ The rapid development of the sports industry. The State Council released a plan in
 September 2019 to promote mass-market sports and high-quality development of the
 sports sector. As a major part of the sports industry and a major source of income for
 sportsfacilitydevelopment,thesalesofsportslotteryroseconstantly,anditsurpassedthe
 sales of welfare lottery in 2018.
-(cid:129) The innovation of lottery games. The Ministry of Civil Affairs and General
+ The innovation of lottery games. The Ministry of Civil Affairs and General
 Administration of Sports of China are both advancing the research and development of
 new lottery types and new games and promoting the high-quality and healthy
 development of welfare lottery. The lottery will become more interesting to play and will
 attract more people to purchase.
-(cid:129) The adoption of the franchise store model. Lottery sales channels in China are
+ The adoption of the franchise store model. Lottery sales channels in China are
 predominantly offline channels and most of these channels are specialty stores. These
 lottery betting stations have only limited room for further growth due to higher operation
 costs, limited coverage and a single source of income. In contrast, such specialty stores
@@ -5707,13 +5707,13 @@ experiences, lottery solutions providers and internet giants are shifting their 
 offline sales channel expansion and gradually adopting the franchise store model in
 China.
 Entry Barriers of Lottery Solutions Industry in China
-(cid:129) Strict regulations from the government. The lottery industry in China is strictly regulated,
+ Strict regulations from the government. The lottery industry in China is strictly regulated,
 and companies need to have certain qualifications, past project performance, and permit
 from relevant regulatory authorities in order to participate in this industry. Thus, the
 products and services that are allowed to be provided by lottery solutions providers are
 dominated by several large independent lottery solutions providers and the market is
 relatively concentrated.
-(cid:129) Clientaccumulation,credentials,andreputation.Leadinglotterysolutionsproviderstake
+ Clientaccumulation,credentials,andreputation.Leadinglotterysolutionsproviderstake
 advantage of their strong brand recognition and proven track records. Once the business
 relationship becomes stable, the lottery authorities are highly likely to continue to
 cooperate with the chosen providers as changing providers would bring extra
@@ -5723,23 +5723,23 @@ administrative and time costs.
 === PAGE 127 ===
 INDUSTRY OVERVIEW
 Market Trends of the Lottery Solutions Industry in China
-(cid:129) Theshiftingfocustotheyounggenerationofcustomers.Thedevelopmentofthefranchise
+ Theshiftingfocustotheyounggenerationofcustomers.Thedevelopmentofthefranchise
 store model in lottery sales and new forms of lottery games would attract younger
 customersandincreasetheirwillingnesstopurchaselottery.Thelotteryauthoritieswould
 also seek help from lottery solutions providers to gain insights and target young
 generations.
-(cid:129) Thedemandofcustomermanagementforstationowners.Mostlotterysolutionsproviders
+ Thedemandofcustomermanagementforstationowners.Mostlotterysolutionsproviders
 cooperate with national and provincial lottery authorities to provide lottery solutions.
 However, each lottery betting station has certain geographical coverage, and it is very
 important for them to retain existing customers, cultivate their loyalty and stimulate
 lottery purchase in the long term. Thus, there lies an opportunity for lottery solutions
 providers to serve station owners directly and develop customer management platforms
 for their lottery purchasers.
-(cid:129) Increasing demand for keno terminals. The new keno-type game “Happy 8” of China
+ Increasing demand for keno terminals. The new keno-type game “Happy 8” of China
 Welfare Lottery has been approved for pilot sales across the country since October 2020.
 It is estimated that there will be demand for 300,000-400,000 keno terminals nationwide
 in the next two years.
-(cid:129) The upgrade to smart retail of traditional lottery betting stations. China Sports Lottery
+ The upgrade to smart retail of traditional lottery betting stations. China Sports Lottery
 Administration Centre is upgrading the traditional sports lottery betting stations into
 smart retail channels, which can provide sports event viewing, information consultation,
 multi-screen sports data display and interaction between online and offline channels. The
@@ -6610,30 +6610,30 @@ OUR KEY MILESTONES
 The following table sets forth the key milestones and achievements in the business
 development of our Group:
 Years Events
-2009 (cid:129) We established Hangzhou Rego in the PRC
-2015 (cid:129) We commenced our operation in traditional value-added
+2009  We established Hangzhou Rego in the PRC
+2015  We commenced our operation in traditional value-added
 telecommunications marketing and promotion business services
-2017 (cid:129) We expanded into the pan-entertainment market and began to provide
+2017  We expanded into the pan-entertainment market and began to provide
 marketing and promotion services to, among others, online game
 operators
-(cid:129) Hangzhou Rego was awarded the High and New Technology
+ Hangzhou Rego was awarded the High and New Technology
 Enterprise Certificate
-(cid:129) We began to operate our provision of virtual goods businesses by
+ We began to operate our provision of virtual goods businesses by
 launching a virtual goods sourcing and delivery services platform
-(cid:129) We began to engage in the provision of IT solutions services
-2018 (cid:129) Zhejiang Runye was awarded the High and New Technology
+ We began to engage in the provision of IT solutions services
+2018  Zhejiang Runye was awarded the High and New Technology
 Enterprise Certificate
-(cid:129) Hangzhou Rego was awarded the Software Enterprise Certificate
-2019 (cid:129) We upgraded our virtual goods and services delivery platform with
+ Hangzhou Rego was awarded the Software Enterprise Certificate
+2019  We upgraded our virtual goods and services delivery platform with
 more diversified offering options
-(cid:129) Zhejiang Runye was awarded the Software Enterprise Certificate
-2020 (cid:129) We strategically acquired Xi’an Tiantai for offering IT solutions
+ Zhejiang Runye was awarded the Software Enterprise Certificate
+2020  We strategically acquired Xi’an Tiantai for offering IT solutions
 services with an aim to further expand our potential marketing
 channel
-(cid:129) We launched our RegoAd SDK to establish direct cooperation with
+ We launched our RegoAd SDK to establish direct cooperation with
 app operators to satisfy the mobile advertising needs of our
 customers
-2021 (cid:129) We introduced to our advertisers a new type of marketing services,
+2021  We introduced to our advertisers a new type of marketing services,
 namely advertisement placement services. As an intermediate
 marketing service provider, we connect our advertisers with
 publishers, which are primarily large-scale media platform operators
@@ -8238,12 +8238,12 @@ management, research and development and operations teams, sound research and
 development capabilities and/or a sizeable customer base and turnover, so as to
 strengthen our capacity to deliver the relevant services.
 Specific examples include
-(cid:129) advertising agents and channel agents through which we can gain direct and
+ advertising agents and channel agents through which we can gain direct and
 increased access to enterprise advertisers and marketing channel providers,
 particularly in the lottery industry and the mobile game and software industry,
 being two of the major marketing segments targeted by us for growth in our
 marketing and promotion services business; and
-(cid:129) distribution agents that have established business relationships with mobile
+ distribution agents that have established business relationships with mobile
 app operators with well-established customer base and private traffic, which
 may serve as our suppliers in our advertisement distribution business and
 provide opportunities for our further growth in this business area.
@@ -8475,7 +8475,7 @@ future collaboration opportunities
 Notes:
 1. The shaded boxes denote the roles and operations of our Group in different business segments and
 sub-segments.
-2. “—(cid:2)” denotes the flow of marketing and promotion services from enterprise advertisers to the individual
+2. “—” denotes the flow of marketing and promotion services from enterprise advertisers to the individual
 consumers.
 3. Enterprisesincludeenterpriseswhicharedesirousof(i)advertisingandpromotingtheirproductsorservices
 (as to our promotion and advertising services); (ii) procuring virtual goods for customer retention (as to our
@@ -8594,8 +8594,8 @@ agents channel providers
 Payments of service Payments of service
 fees generated fees generated
 Legends:
-(cid:129) denotes a flow of action
-(cid:129) denotes a flow of funds
+ denotes a flow of action
+ denotes a flow of funds
 Business Flow and Key Participants
 The key participants and their interactions with our Group in the business flow of
 our traditional marketing and promotion services business are as follows:
@@ -8692,9 +8692,9 @@ the terms of the agreement.
 
 === PAGE 198 ===
 BUSINESS
-Payment arrangements: (cid:129) Service fees receivable by us are
+Payment arrangements:  Service fees receivable by us are
 recognised monthly.
-(cid:129) We generally require our customers to
+ We generally require our customers to
 make payment of our invoices within 10
 workingdaysuponreceiptofourinvoices.
 Our Directors confirm that our Group had not been involved in any breach of
@@ -8718,14 +8718,14 @@ and/or other marketing materials to be posted and/or published.
 Forms of Services
 The traditional marketing and promotion services we provide to enterprise
 advertisers may take one or more of the following forms:
-(cid:129) social media marketing, i.e. the advertising of products, services, or
+ social media marketing, i.e. the advertising of products, services, or
 brands using the internet, by means of attracting the interest of groups of
 people who may discuss or make suggestions about them online; social
 media marketing may be conducted through, for example, groups on
 WeChat and Tencent QQ;
-(cid:129) telemarketing, i.e. the advertising of goods or services by phone, such as
+ telemarketing, i.e. the advertising of goods or services by phone, such as
 cold-calling and SMS marketing; and
-(cid:129) offline marketing services, such as publication and posting of marketing
+ offline marketing services, such as publication and posting of marketing
 materials at brick-and-mortar retail stores.
 – 188 –
 
@@ -8770,9 +8770,9 @@ advertisement.
 
 === PAGE 200 ===
 BUSINESS
-Service fees payment (cid:129) Service fees payable by us are recognised
+Service fees payment  Service fees payable by us are recognised
 arrangements: monthly.
-(cid:129) We generally make payment of invoices
+ We generally make payment of invoices
 issued by our suppliers within 10 working
 days upon receipt of such invoices.
 Our Directors confirm that our Group had not been involved in any breach of
@@ -8788,7 +8788,7 @@ charge our customers, i.e. enterprise advertisers or their advertising agents, p
 based on one or more of the following pricing models, depending on the agreement
 reached between our Group and each customer based on its individual circumstances, and
 our revenue is recognised on a gross basis:
-(cid:129) the cost-per-action (CPA) model, where advertising is paid on the basis of each
+ model, where advertising is paid on the basis of each
 action, such as download, installation or registration, of the individual
 consumers (as mobile device users). Such actions normally require a higher
 degree of personal involvements from the individual consumers, through
@@ -8800,7 +8800,7 @@ thefeaturedbenefitsmadebyindividualconsumersornumberofuseraccounts
 registered on online platforms as a result of the marketing campaigns. Our
 revenue is calculated based on the total numbers of qualified actions done by
 individual consumers and the agreed rates per action;
-(cid:129) the cost-per-sale (CPS) model, where advertising is paid on the basis of the
+ model, where advertising is paid on the basis of the
 sales amount as a result of the advertising.
 Under the CPS model, we charge our customers once sales are generated from
 the enterprise advertisers’ products or services being promoted. Where our
@@ -8814,7 +8814,7 @@ revenue takes the form of an agreed percentage of the total amount of sales
 generated from the products or services promoted, or an agreed percentage of
 the total amount of payment(s) received by advertising agents (as our
 customers) from the enterprise advertisers; and
-(cid:129) fixed-rate payments, where we charge our customers based on the agreed fixed
+ fixed-rate payments, where we charge our customers based on the agreed fixed
 fees per unit and the numbers of specific service items delivered, such as the
 number of brick-and-mortar retail stores where marketing materials have been
 posted.
@@ -8875,8 +8875,8 @@ Direct requests to media publisher for
 topping-up of customers’ accounts
 Request for publication of advertisements
 Legends:
-(cid:129) denotes a flow of action
-(cid:129) denotes a flow of funds
+ denotes a flow of action
+ denotes a flow of funds
 Business Flow and Key Participants
 The key participants and their interactions with our Group in the business flow of
 our advertisement placement services business are as follows:
@@ -9181,8 +9181,8 @@ Payments of service fees based
 on an agreed proportion of the
 revenue received from our customers
 Legends:
-(cid:129) denotes a flow of action
-(cid:129) denotes a flow of funds
+ denotes a flow of action
+ denotes a flow of funds
 Business Flow and Key Participants
 The key participants and their interactions with our Group in the business flow of
 our advertisement distribution services business are as follows:
@@ -9332,24 +9332,24 @@ Responsibilities of our Our customers shall ensure the advertisement
 customers: contents provided are accurate, not inappropriate
 and will not violate any applicable laws, regulations
 or rights of third parties.
-Responsibilities of our (cid:129) We shall not cause to be generated any false
+Responsibilities of our  We shall not cause to be generated any false
 Group: performance data from the advertisements,
 including through illegitimate actions, actions
 or impressions by automatic IT tools, or
 inappropriate inducements for third-party
 users.
-(cid:129) We shall ensure satisfactory performance of
+ We shall ensure satisfactory performance of
 our RegoAd SDK.
-(cid:129) We shall not collect, use, transfer or otherwise
+ We shall not collect, use, transfer or otherwise
 interfere with any part of the contents or
 information we have received while rendering
 our services, except as permitted pursuant to
 the terms of the agreements.
-Fees payment (cid:129) Service fees receivable by us are recognised
+Fees payment  Service fees receivable by us are recognised
 arrangements: monthly based on a mix of performance
 parameters including impressions, clicks
 and/or CTRs.
-(cid:129) We generally require our customers to settle
+ We generally require our customers to settle
 our invoices within 15 to 30 working days
 upon receipt of our invoices.
 Our Directors confirm that our Group had not been involved in any breach of
@@ -9450,9 +9450,9 @@ embedded for the distribution of advertisements.
 
 === PAGE 216 ===
 BUSINESS
-Responsibilities of our (cid:129) We shall be responsible for the operation and
+Responsibilities of our  We shall be responsible for the operation and
 Group: maintenance of our RegoAd SDK.
-(cid:129) We shall ensure the advertisement contents
+ We shall ensure the advertisement contents
 provided are not inappropriate and will not
 violate any applicable laws, regulations or
 rights of third parties. We achieve this by
@@ -9461,19 +9461,19 @@ preset in our RegoAd SDK for the distribution
 of suitable advertisement contents from the
 advertising agents to fitting advertising space
 in the mobile apps.
-Responsibilities of our (cid:129) Our suppliers shall ensure that the app or
+Responsibilities of our  Our suppliers shall ensure that the app or
 suppliers: online platform provided does not contain any
 contents which are inappropriate or may
 violate any applicable laws, regulations or
 rights of third parties.
-(cid:129) Our suppliers shall not collect, use, transfer or
+ Our suppliers shall not collect, use, transfer or
 otherwise interfere with our RegoAd SDK or
 any of its components, or any part of the
 contents or information they have received
 while providing their services, except as
 permitted pursuant to the terms of the
 agreements.
-Service fees payment (cid:129) Service fees payable by us, based on a
+Service fees payment  Service fees payable by us, based on a
 arrangements: proportion (as agreed between our suppliers
 and us) of the revenue received from our
 customers, are recognised monthly. During the
@@ -9482,7 +9482,7 @@ entitled to 50% to 80% of the income
 generated from our distribution of
 advertisements as recorded in our system
 under the relevant framework agreements.
-(cid:129) Wearerequiredtosettletheinvoicesissuedby
+ Wearerequiredtosettletheinvoicesissuedby
 our suppliers within 30 working days upon
 receipt of such invoices.
 The amount of service fees to be paid to our suppliers (as a proportion of the
@@ -9603,14 +9603,14 @@ relationship management strategy by sourcing a range of virtual goods and delive
 to the individual customers of the enterprises through our platform. We believe that the
 provision of virtual goods by enterprises to their individual customers through our Group
 could, in particular, achieve the following business objectives:
-(cid:129) user acquisition, i.e. the act of gaining new users or customers for their app(s),
+,
 platform(s), product(s) or service;
-(cid:129) user engagement, i.e. the process of interacting with existing users or customers and
+ user engagement, i.e. the process of interacting with existing users or customers and
 encouraging them to be interested in the work of their organisations, and/or their
 app(s), platform(s), product(s) and/or service(s), where the primary goal is to cause
 the users or customers to find the app(s), platform(s), product(s) and/or service(s)
 valuable enough to continue using them; and
-(cid:129) user retention, i.e. the processing of inducing continued use of their app(s),
+,
 platform(s), product(s) and/or service(s) by existing users or customers.
 Set forth below is a diagram which illustrates the business model of our virtual goods
 sourcing and delivery services business:
@@ -9624,8 +9624,8 @@ Payments of costs of virtual Payments of costs of
 goods under the prepayment virtual Ogouord Gs ruonudper
 model or the credit model the prepayment model
 Legends:
-(cid:129) denotes a flow of action
-(cid:129) denotes a flow of funds
+ denotes a flow of action
+ denotes a flow of funds
 – 209 –
 
 === PAGE 220 ===
@@ -9711,10 +9711,10 @@ time period after completion of orders, subject to
 the credit limit specified by us. Please refer to the
 paragraphs headed “Settlement” below for further
 details.
-Responsibilities of our Group: (cid:129) We shall provide and maintain the API to
+Responsibilities of our Group:  We shall provide and maintain the API to
 ensure stable and secure access of our
 customers.
-(cid:129) We are generally responsible for providing
+ We are generally responsible for providing
 technical support services to our customers,
 such as 24-hour emergency contact for API
 connectivity issues.
@@ -9843,21 +9843,21 @@ the Track Record Period:
 Category Majortypes of virtual goods Use by the end users
 Top-up for Top-up for telecommunication Topping-up of the accounts of the
 telecommunication services offered by end users with the
-services (cid:129) China Mobile (中國移動); telecommunication service providers
-(cid:129) ChinaTelecom (中國電信); and for continuous use and enjoyment of
-(cid:129) China Unicom (中國聯通) telecommunication services
-Online vouchers and (cid:129) Memberships of online (cid:129) Access to paid content on the
+services ; telecommunication service providers
+; and for continuous use and enjoyment of
+ telecommunication services
+Online vouchers and  Access to paid content on the
 interests entertainment platforms; online entertainment platforms
-(cid:129) Gift cards of e-marketplaces; (cid:129) Purchase of items available on
-(cid:129) Coffee vouchers; and the online marketplace;
-(cid:129) Memberships of online healthcare (cid:129) Purchase of items from coffee
+ Purchase of items available on
+ Coffee vouchers; and the online marketplace;
+ Purchase of items from coffee
 and medical services platforms shops; and
-(cid:129) Access to paid services offered
+ Access to paid services offered
 by the online healthcare and
 medical services platforms
 Gift cards of gas stations Gift cards of Purchase of gasoline and other goods
-(cid:129) PetroChina (中國石油); and and services at gas stations
-(cid:129) Sinopec (中國石化)
+; and and services at gas stations
+
 – 215 –
 
 === PAGE 226 ===
@@ -9928,8 +9928,8 @@ RMB’000 RMB’000 RMB’000 RMB’000 RMB’000
 (unaudited)
 GMV of virtual goods
 sold settled under
-(cid:129) Prepayment model 272,152 389,614 376,612 129,899 123,930
-(cid:129) Credit model 10,061 198,896 431,393 190,688 193,988
+ Prepayment model 272,152 389,614 376,612 129,899 123,930
+ Credit model 10,061 198,896 431,393 190,688 193,988
 Total GMV of virtual
 goods sold 282,213 588,510 808,005 320,587 317,918
 As regards our payments to our virtual goods suppliers, the prepayment model is
@@ -10033,7 +10033,7 @@ services, which we consider to be closely associated with our principal business
 and promotion services.Apart from business diversification, provision of IT solutions services
 also serve to increase our penetration of the relevant marketing segments and produce
 opportunities for further business collaboration and expansion of our marketing channels:
-(cid:129) Enhanced penetration of the relevant marketing segments
+ Enhanced penetration of the relevant marketing segments
 A prominent feature of our marketing and promotion services business is that we
 specialise in the provision of marketing services for specific industries, which we
 consider to form individual marketing segments. To facilitate our penetration of the
@@ -10049,7 +10049,7 @@ expected to ultimately conduce to a better understanding of the specific marketi
 needs of the market players in such industries in their roles as advertisers and/or
 publishers, and more efficient implementation of our marketing proposals when we
 deliver our marketing and promotion services in such industries.
-(cid:129) Potential synergies resulting from opportunities for collaboration in broader
+ Potential synergies resulting from opportunities for collaboration in broader
 business areas and expansion of our marketing channels
 By providing IT solutions services to the market players in other industries, we also
 hopetobringaboutanupturnintheoperatingscaleandfinancialperformanceofour
@@ -10387,16 +10387,16 @@ lottery-related software systems and equipment:
 ChinaWelfareLottery
 Issuanceand
 Administration Centre*
-((cid:7637)(cid:9907)(cid:18743)(cid:8657)(cid:12049)(cid:18704)
-(cid:17956)(cid:22516)(cid:19273)(cid:17326)(cid:7637)(cid:12139))
+(
+
 (“WLIAC”)
 provides Lottery security Provincial
 and payment systems WLIACs
 connects
 Our Group
-provides Lottery vending L (cid:129) o t t S e p ry ec s ia a l l t e y s s p t o o i r n e t s s
+provides Lottery vending L  o t t S e p ry ec s ia a l l t e y s s p t o o i r n e t s s
 machines
-(cid:129) Franchisestores
+ Franchisestores
 Lottery buyers
 – 229 –
 
@@ -10444,16 +10444,16 @@ welfare lottery network. Originally usingVDPN account to access the internet via
 connections, lottery retailers have now become generally adapted to maintaining
 connection with provincial WLIACs via SAS. The SAS are believed to have manifold
 advantages as follows:
-(cid:129) higher security: the SAS have the functions of identity verification, access
+ higher security: the SAS have the functions of identity verification, access
 control, IP tunnelling encapsulation and customised cryptography algorithm
 built into them;
-(cid:129) higher reliability: the SAS support multi-level backup and recovery;
-(cid:129) higher adaptability: the SAS allow multiple access methods;
-(cid:129) flexibility: the SAS permit unified certification, centralised management and
+ higher reliability: the SAS support multi-level backup and recovery;
+ higher adaptability: the SAS allow multiple access methods;
+ flexibility: the SAS permit unified certification, centralised management and
 hierarchical control;
-(cid:129) higher scalability: the SAS contain various device interface and modular
+ higher scalability: the SAS contain various device interface and modular
 structure; and
-(cid:129) comprehensive functions: the SAS support broadband internet access, wireless
+ comprehensive functions: the SAS support broadband internet access, wireless
 access, Voice over Internet Protocol (VoIP) and video surveillance.
 The transformation from VDPN to SAS has given rise to a significantly rising
 demand for lottery-related software systems and equipment with advanced
@@ -10584,7 +10584,7 @@ services: securitysystems;(ii)softwaresystemsandequipment;(iii)
 outlets management platform services; and (iv) equipment
 maintenance and after-sales services
 Term (for services): Generally valid for one year
-Quality standard: (cid:129) The products shall comply with (i) the technical and
+Quality standard:  the technical and
 product standards of the original manufacturers; (ii)
 the technical specifications and requirements
 stipulated under the tendering documents (if
@@ -10594,17 +10594,17 @@ documents (if applicable), the relevant national or
 industry standards; and/or (iv) any other
 specifications and/or requirements as agreed with our
 customers in accordance with the relevant agreement.
-After-sales services: (cid:129) We provide (i) technical support services, (ii) quality
+After-sales services:  quality
 assuranceand/or(iii)repairandmaintenanceservices
 if there are technical problems with our products.
-(cid:129) Wearegenerallyresponsibleforprovidingtrainingto
+ Wearegenerallyresponsibleforprovidingtrainingto
 our customers in relation to our products.
-(cid:129) We generally provide warranty for a specified period
+ We generally provide warranty for a specified period
 of time.
-Consideration: (cid:129) For products: A fixed amount in accordance with the
+Consideration:  For products: A fixed amount in accordance with the
 (i) volume of products and (ii) unit price as stipulated
 in the relevant agreement.
-(cid:129) For services: A fixed amount as mutually agreed,
+ For services: A fixed amount as mutually agreed,
 payable after satisfactory performance of services by
 us.
 – 234 –
@@ -10670,15 +10670,15 @@ the tendering documents of our customers (if applicable);
 (iii) the relevant national or industry standards; and/or (iv)
 any other specifications and/or requirements as agreed
 with us in accordance with the relevant agreement.
-After sales service: (cid:129) Our suppliers generally provide (i) technical support
+After sales service:  technical support
 servicesand/or(ii)repairandmaintenanceservicesif
 there are technical problems with their products.
-(cid:129) Our suppliers generally provide warranty for a
+ Our suppliers generally provide warranty for a
 specified period of time.
-Consideration: (cid:129) For products: A fixed amount in accordance with the
+Consideration:  For products: A fixed amount in accordance with the
 (i) volume of products and (ii) unit price as stipulated
 in the relevant agreement.
-(cid:129) For services: A fixed amount as mutually agreed,
+ For services: A fixed amount as mutually agreed,
 payable by instalments.
 We generally only enter into agreements with our suppliers upon receiving purchase
 orders from our customers. Pricing is generally determined upon negotiations based on
@@ -10769,7 +10769,7 @@ the Latest Practicable Date, we maintained on-going business relationship with o
 customers in FY2021, who in aggregate contributed to 96.2% of our revenue from promotion
 and advertising services during FY2021. Our Directors believe that we play a meaningful role
 that adds value in the supply chain of promotion and advertising services. Specifically,
-(cid:129) in relation to our traditional marketing and promotion services business, we have a
+ in relation to our traditional marketing and promotion services business, we have a
 comprehensive supplier network comprising over 50 online and offline marketing
 channel providers and channel agents in different major cities in the PRC during the
 TrackRecordPeriod,towhichenterpriseadvertisersmightnoteasilybeabletogain
@@ -10780,7 +10780,7 @@ campaigns by providing assistance in the planning and launch stages;
 
 === PAGE 249 ===
 BUSINESS
-(cid:129) in our advertisement placement services business, our customers may enjoy greater
+ in our advertisement placement services business, our customers may enjoy greater
 flexibility in liquidity management using our account opening services and top-up
 services, since we would make payment on their behalf to the designated media
 publisher or its channel agents in advance upon request for top-up services and only
@@ -10799,7 +10799,7 @@ encountered. Starting from September 2021, we also provide to our customers
 operation services such as advising on advertisement placement strategy to optimise
 placement performance and/or preparing the advertising materials to be placed on
 the media platforms; and
-(cid:129) in respect of our advertisement distribution services business, as confirmed by
+ in respect of our advertisement distribution services business, as confirmed by
 iResearch, media publishers (as advertising agents of enterprise advertisers) may
 prefer to work with intermediate marketing service providers that possess a higher
 degree of technical proficiency and are able to provide relevant support services.
@@ -10961,7 +10961,7 @@ marketing and promotion services and IT solutions services as a bundle to our cu
 during the Track Record Period.
 Goingforward,weseethepotentialforthestrengtheningofsynergiesamongourmultiple
 business sub-segments in the following manners, among others:
-(cid:129) we aim to further develop and operate our SaaS enterprise marketing service
+ we aim to further develop and operate our SaaS enterprise marketing service
 platform as a means to expand our marketing channels; leveraging our information
 technology capability and the access we have gained to the vast network of lottery
 sales points in the PRC through provision of solutions on lottery-related software
@@ -10983,7 +10983,7 @@ the relevant marketing participants. For further details, please refer to the
 paragraphs headed “Our Business Strategies — Developing and operating our SaaS
 enterprisemarketingserviceplatformasameanstoexpandourmarketingchannels”
 in this section; and
-(cid:129) we will endeavour to promote our advertisement distribution services to enterprise
+ we will endeavour to promote our advertisement distribution services to enterprise
 advertisers engaging our advertisement placement services. By cross-selling our
 advertisement distribution services and advertisement placement services, we will
 not only arrange for the advertisements of enterprise advertisers to be published and
@@ -19049,17 +19049,17 @@ control systems and measures in certain aspects, including revenue, purchase, fi
 management, human resources, financial management, information technology and corporate
 governance. The Internal Control Consultant provided a number of findings and
 recommendations after the review, including the following:
-(cid:129) we have not performed annual review on the effectiveness of our internal control
+ we have not performed annual review on the effectiveness of our internal control
 system. We should specifically include review of internal control systems in the
 terms of reference of our Board, establish a formal risk assessment policy, perform
 regular risk assessment regarding all aspects of our business and retain written
 record of such review and assessment;
-(cid:129) we have not established an independent internal audit department. We should
+ we have not established an independent internal audit department. We should
 establish an internal audit department which directly reports to the audit committee
 of our Board with updated internal audit management measures clarifying the
 reporting objects, work scope, duties and responsibilities, reporting system and
 implementation standards of internal control; and
-(cid:129) we have not set up any mechanisms to avoid conflict of interests between our staff
+ we have not set up any mechanisms to avoid conflict of interests between our staff
 and our customers. We should establish policies on conflict of interests such as
 mandatory written declaration by staff members in our sales department before
 engagement of new customers.
@@ -19071,9 +19071,9 @@ there were no material internal control findings outstanding as at the Latest Pr
 CORPORATE GOVERNANCE MEASURES
 In order to continuously improve our corporate governance, we have implemented and/or
 will implement the following measures:
-(cid:129) we will engage PRC and Hong Kong legal advisers to advise us in relation to future
+ we will engage PRC and Hong Kong legal advisers to advise us in relation to future
 compliance with the PRC and Hong Kong laws and regulations in all respects;
-(cid:129) all our Directors and senior management have attended training on the relevant
+ all our Directors and senior management have attended training on the relevant
 applicable laws and regulations, including the Listing Rules, provided by our Hong
 Kong legal advisers prior to the application for Listing. We will continue to arrange
 various training programmes to be provided by our legal advisers and/or any
@@ -19085,17 +19085,17 @@ regulations will also be held when necessary;
 
 === PAGE 337 ===
 BUSINESS
-(cid:129) we have appointed CMBC International Capital Limited as our compliance adviser
+ we have appointed CMBC International Capital Limited as our compliance adviser
 to advise on compliance with the Listing Rules;
-(cid:129) when necessary, we will engage external professionals, including auditors, internal
+ when necessary, we will engage external professionals, including auditors, internal
 control consultants, tax consultants and external legal advisers to render
 professional advice as to comply with statutory and regulatory requirements as
 applicable to us from time to time;
-(cid:129) wehaveprovidedtrainingforouremployeesoncompliancematterstoenhancetheir
+ wehaveprovidedtrainingforouremployeesoncompliancematterstoenhancetheir
 knowledge to better manage our operation risks. We plan to provide training to
 employees of managerial level on an annual basis and ad hoc training to all relevant
 employees when necessary; and
-(cid:129) we have established an Audit Committee, comprising three independent
+ we have established an Audit Committee, comprising three independent
 non-executiveDirectors,whichwillimplementformalandtransparentarrangements
 to apply financial reporting, risk management and internal control principles in
 accounting and financial matters to ensure compliance with the Listing Rules and
@@ -19593,18 +19593,18 @@ OurDirectorsrecognisetheimportanceofgoodcorporategovernanceinprotectionofour
 Shareholders’ interests. We would adopt the following measures to safeguard good corporate
 governance standards and to avoid potential conflict of interests between our Group our
 Controlling Shareholders:
-(cid:129) where a Shareholders’ meeting is to be held for considering proposed transactions
+ where a Shareholders’ meeting is to be held for considering proposed transactions
 in which any of our Controlling Shareholders or any of their close associates has a
 material interest, the relevant Controlling Shareholders or their close associates will
 not vote on the relevant resolutions;
-(cid:129) where a Directors’ meeting is to be held for considering proposed transactions in
+ where a Directors’ meeting is to be held for considering proposed transactions in
 which any of our Directors or any of their close associates has a material interest,
 the relevant Director will not vote on the relevant resolutions;
-(cid:129) we have established internal control mechanisms to identify connected transactions.
+ we have established internal control mechanisms to identify connected transactions.
 Upon the Listing, if we enter into connected transactions with our Controlling
 Shareholders or any of their close associates, our Company will comply with the
 applicable Listing Rules;
-(cid:129) the independent non-executive Directors will review, on an annual basis (i) the
+ the
 compliance with and enforcement of the Deed of Non-Competition; and (ii) all the
 decisions taken in relation to whether to take up the Business Opportunity (the
 “Annual Review”) and provide impartial and professional advice to protect the
@@ -19613,11 +19613,11 @@ interests of our minority Shareholders;
 
 === PAGE 351 ===
 RELATIONSHIP WITH CONTROLLING SHAREHOLDERS
-(cid:129) our Controlling Shareholders will undertake to provide all information necessary,
+ our Controlling Shareholders will undertake to provide all information necessary,
 including all relevant financial, operational and market information and any other
 necessary information as required by the independent non-executive Directors for
 the Annual Review;
-(cid:129) any Business Opportunity under the Deed of Non-Competition and all other matters
+ any Business Opportunity under the Deed of Non-Competition and all other matters
 determined by our Board as having a potential conflict of interest with our
 Controlling Shareholders will be referred to the independent non-executive
 Directors for discussion and decision. When necessary, such independent non-
@@ -19627,13 +19627,13 @@ arising in connection with any of our Controlling Shareholders are turned down b
 our Group according to the Deed of Non-Competition, our Company will disclose
 such decision, as well as the basis of such decision in the annual report of our
 Company;
-(cid:129) we will disclose decisions on matters reviewed by the independent non-executive
+ we will disclose decisions on matters reviewed by the independent non-executive
 Directorseitherinourannualreportsorbywayofannouncementsasrequiredbythe
 Listing Rules;
-(cid:129) where our Directors reasonably request the advice of independent professionals,
+ where our Directors reasonably request the advice of independent professionals,
 such as financial advisers, the appointment of such independent professionals will
 be made at our expenses;
-(cid:129) our Company will use our best endeavours to ensure that our Board includes a
+ our Company will use our best endeavours to ensure that our Board includes a
 balanced composition of executive and independent non-executive Directors. We
 haveappointedthreeindependentnon-executiveDirectorswhomwebelievepossess
 sufficient experience and are not involved in any business or other relationship
@@ -19641,7 +19641,7 @@ which could interfere in any material manner with the exercise of their independ
 judgement. Please see “Directors and Senior Management — Directors —
 Independent non-executive Directors” in this prospectus for further details about
 background of our independent non-executive Directors; and
-(cid:129) we have appointed CMBC International Capital Limited as our compliance adviser
+ we have appointed CMBC International Capital Limited as our compliance adviser
 to provide advice and guidance to us in respect of compliance with the applicable
 laws and regulations, as well as the Listing Rules, including various requirements
 relating to corporate governance.
@@ -20764,14 +20764,14 @@ adviser (the “Compliance Adviser”) upon listing of the Shares on the Stock E
 compliance with Rule 3A.19 of the Listing Rules. Pursuant to Rule 3A.23 of the Listing Rules,
 the ComplianceAdviser will provide advice to our Company when consulted by our Company
 in the following circumstances:
-(cid:129) before the publication of any regulatory announcement, circular or financial report;
-(cid:129) where a transaction, which might be a notifiable or connected transaction, is
+ before the publication of any regulatory announcement, circular or financial report;
+ where a transaction, which might be a notifiable or connected transaction, is
 contemplated including share issues and share repurchases;
-(cid:129) whereourCompanyproposestousetheproceedsoftheGlobalOfferinginamanner
+ whereourCompanyproposestousetheproceedsoftheGlobalOfferinginamanner
 different from that detailed in this prospectus or where its business activities,
 developments or results of our Group deviate from any forecast, estimate, or other
 information in this prospectus; and
-(cid:129) where the Stock Exchange makes an inquiry of our Company regarding unusual
+ where the Stock Exchange makes an inquiry of our Company regarding unusual
 movementsinthepriceortradingvolumeoftheSharesofourCompanyoranyother
 matters in accordance with Rule 13.10 of the Listing Rules.
 The term of the appointment shall commence on the Listing Date and end on the date on
@@ -20996,24 +20996,24 @@ GENERAL MANDATE TO ISSUE SHARES
 Subject to the Global Offering becoming unconditional, our Directors have been granted
 a general unconditional mandate to allot, issue and deal with Shares with a total nominal value
 of not more than the sum of:
-(cid:129) 20% of the aggregate nominal value of the Shares in issue immediately following
+ 20% of the aggregate nominal value of the Shares in issue immediately following
 completion of the Capitalisation Issue and the Global Offering (excluding any
 Shares which may be issued pursuant to the exercise of the Over-allotment Option
 and the options granted under the Share Option Scheme); and
-(cid:129) the aggregate nominal value of Shares repurchased by us under the authority set
+ the aggregate nominal value of Shares repurchased by us under the authority set
 forth in “General Mandate to Repurchase Shares” in this section.
 – 375 –
 
 === PAGE 386 ===
 SHARE CAPITAL
 This general mandate to issue Shares will expire at the earliest of:
-(cid:129) the conclusion of the next annual general meeting of our Company unless otherwise
+ the conclusion of the next annual general meeting of our Company unless otherwise
 renewed by an ordinary resolution of our Shareholders in a general meeting, either
 unconditionally or subject to conditions;
-(cid:129) the expiration of the period within which our Company’s next annual general
+ the expiration of the period within which our Company’s next annual general
 meeting is required by the Memorandum ofAssociation andArticles ofAssociation
 or any other applicable laws to be held; or
-(cid:129) the date on which it is varied or revoked by an ordinary resolution of our
+ the date on which it is varied or revoked by an ordinary resolution of our
 Shareholders passed in a general meeting.
 Please see “Appendix IV — Statutory and General Information — Further Information
 About Our Company and Our Subsidiaries — 3. Resolutions of the Shareholders of Our
@@ -21033,13 +21033,13 @@ Please see “Appendix IV — Statutory and General Information — Further Info
 OurCompanyandOurSubsidiaries—6.RepurchaseofOurOwnSecurities”inthisprospectus
 for further details of the relevant Listing Rules.
 This general mandate to repurchase Shares will expire at the earliest of:
-(cid:129) the conclusion of the next annual general meeting of our Company unless otherwise
+ the conclusion of the next annual general meeting of our Company unless otherwise
 renewed by an ordinary resolution of our Shareholders in a general meeting, either
 unconditionally or subject to conditions;
-(cid:129) the expiration of the period within which our Company’s next annual general
+ the expiration of the period within which our Company’s next annual general
 meeting is required by the Memorandum ofAssociation andArticles ofAssociation
 or any other applicable laws to be held; or
-(cid:129) the date on which it is varied or revoked by an ordinary resolution of our
+ the date on which it is varied or revoked by an ordinary resolution of our
 Shareholders passed in a general meeting.
 – 376 –
 
@@ -21582,11 +21582,11 @@ expiry of their respective useful life.
 (ii) Internally generated intangible assets (research and development costs)
 Expenditureoninternallydevelopedproductsiscapitalisedifitcanbedemonstrated
 that:
-(cid:129) it is technically feasible to develop the product for it to be sold;
-(cid:129) adequate resources are available to complete the development;
-(cid:129) there is an intention to complete and sell the product;
-(cid:129) our Group is able to sell the product; and
-(cid:129) sale of the product will generate future economic benefits; and expenditure on
+ it is technically feasible to develop the product for it to be sold;
+ adequate resources are available to complete the development;
+ there is an intention to complete and sell the product;
+ our Group is able to sell the product; and
+ sale of the product will generate future economic benefits; and expenditure on
 the project can be measured reliably.
 Capitalised development costs are amortised over the periods our Group expects to
 benefit from selling the products developed. The amortisation expense is recognised in
@@ -21667,10 +21667,10 @@ At the end of each reporting period, our Group reviews the carrying amounts of t
 following assets to determine whether there is any indication that those assets have suffered an
 impairment loss or an impairment loss previously recognised no longer exists or may have
 decreased:
-(cid:129) Intangible assets;
-(cid:129) Property, plant and equipment;
-(cid:129) Right-of-use assets; and
-(cid:129) Investment in a subsidiary
+ Intangible assets;
+ Property, plant and equipment;
+ Right-of-use assets; and
+ Investment in a subsidiary
 Iftherecoverableamount(i.e.thegreateroftheFVLCDandVIU)ofanassetisestimated
 to be less than its carrying amount, the carrying amount of the asset is reduced to its
 recoverable amount. An impairment loss is recognised as an expense immediately, unless the
@@ -23325,16 +23325,16 @@ an supplemental mean to improve the utilisation of our cash on hand on a short-t
 have established a set of investment policies and internal control measures to achieve
 reasonable returns on our investments of wealth management products while mitigating our
 exposure to investment risks. These policies and measures include:
-(cid:129) investments shall be made when we have surplus cash that is not required for our
+ investments shall be made when we have surplus cash that is not required for our
 short-term working capital purposes;
-(cid:129) the types of investments shall be generally very low risk or low risk wealth
+ the types of investments shall be generally very low risk or low risk wealth
 management products issued by qualified commercial banks;
-(cid:129) investments shall generally be short-term and of a non-speculative nature in order
+ investments shall generally be short-term and of a non-speculative nature in order
 to maintain our liquidity and financial flexibility;
-(cid:129) we only purchase wealth management products issued by creditworthy commercial
+ we only purchase wealth management products issued by creditworthy commercial
 banks and/or other qualified financial institutions, and in any given period, we make
 investmentsinproductsprovidedbymultipleissuerstomitigateconcentrationrisks;
-(cid:129) our finance department, subject to the review and approval of our management, is
+ our finance department, subject to the review and approval of our management, is
 responsible for the overall execution of our investments, including risk assessment.
 In particular, for wealth management products based on fixed-income assets, we
 carry out risk assessment based on the amounts of principal, maturity dates, the
@@ -23344,7 +23344,7 @@ products; we mainly consider the underlying assets and the historical performanc
 of the product managers when assessing the risks of wealth management products
 based on equity assets; and the risk assessment of products based on mixed assets
 involves all aforementioned factors;
-(cid:129) our internal accounting manager monitors the performance of the invested wealth
+ our internal accounting manager monitors the performance of the invested wealth
 management products and ensures that the relevant contract is not breached. Our
 internal accounting manager from time to time checks and reviews information
 related to the invested wealth management products, such as operational and
@@ -23353,7 +23353,7 @@ regulatory authorities, changes in the market value, rate of return and credit r
 (if available) of the issuers and/or the products. Any significant or adverse
 fluctuation in the invested wealth management products shall be reported to our
 finance department in a timely manner;
-(cid:129) our finance department consolidates the cash demands of all subsidiaries and each
+ our finance department consolidates the cash demands of all subsidiaries and each
 department of our Group on a weekly and monthly basis, determines whether our
 cashathandcansatisfyourcashdemandswithinthenext30days,andpreparescash
 budgets, which includes the investment of idle funds. On occurrence of unplanned
@@ -23365,7 +23365,7 @@ approval by senior management; and
 
 === PAGE 446 ===
 FINANCIAL INFORMATION
-(cid:129) upon the maturity dates of each investment, our internal accounting manager shall
+ upon the maturity dates of each investment, our internal accounting manager shall
 be responsible for the redemption and disposal of the investments according to the
 relevant contracts.
 The purchases or subscriptions of wealth management products by the Group will, upon
@@ -24548,7 +24548,7 @@ the implementation of our future plans and the execution of our business strateg
 details of which are set forth in “Business — Business Strategies” in this prospectus):
 Developing and expanding our online marketing channels and resources for our
 marketing and promotion services
-(cid:129) we will apply approximately HK$50.3 million (or 42.2% of the net proceeds) to support
+ to support
 the development of our SDKs and the expansion of our advertisement placement services
 business, among which
 — HK$17.2 million (or 14.4% of the net proceeds) will be used to expand our research
@@ -24559,7 +24559,7 @@ rental expenses; and
 required to be made to media publishers in connection with our advertisement
 placement services;
 Further developing and expanding our supplier base and types of virtual goods on offer
-(cid:129) we will allocate approximately HK$31.9 million (or 26.7% of the net proceeds) for the
+ for the
 sourcing and delivery of an enlarged portfolio of virtual goods through our Rego Virtual
 Goods Platform, among which
 — HK$7.8 million (or 6.5% of the net proceeds) will be used to expand our research
@@ -24573,12 +24573,12 @@ FUTURE PLANS AND USE OF PROCEEDS
 — HK$23.4 million (or 19.6% of the net proceeds) will be used for the prepayments
 required to be made to the relevant suppliers of virtual goods;
 Acquiring companies in marketing and related industries
-(cid:129) we will set aside approximately HK$17.8 million (or 14.9% of the net proceeds) for the
+ for the
 acquisition(s) of company(ies) engaged in marketing and/or related operations and to
 support its(their) subsequent operations; and
 Developing and operating our SaaS enterprise marketing service platform as a means to
 expand our marketing channels
-(cid:129) we will designate approximately HK$7.5 million (or 6.3% of the net proceeds) for the
+ for the
 advancement and expansion of our SaaS enterprise marketing service platform, among
 which
 — HK$6.8 million (or 5.7% of the net proceeds) will be used to expand our research
@@ -24586,7 +24586,7 @@ and development team and operations team; and
 — HK$0.7 million (or 0.6% of the net proceeds) will be used to meet relevant property
 rental expenses;
 General working capital
-(cid:129) wewillallotapproximatelyHK$11.8million(orapproximately9.9%ofthenetproceeds)
+
 to our general working capital.
 Set forth below is the expected time frame for the use of the net proceeds from the Global
 Offering in accordance with the above allocation:
@@ -24596,10 +24596,10 @@ million million million million
 Developing and expanding our online marketing
 channels and resources for our marketing and
 promotion services
-(cid:129) Expanding our research and development
+ Expanding our research and development
 team and operations team 1.7 6.7 8.8 17.2
-(cid:129) Meeting relevant property rental expenses 0.1 0.6 0.7 1.4
-(cid:129) Prepayments to be made to media publishers 6.0 18.1 7.6 31.7
+ Meeting relevant property rental expenses 0.1 0.6 0.7 1.4
+ Prepayments to be made to media publishers 6.0 18.1 7.6 31.7
 7.8 25.4 17.1 50.3
 – 467 –
 
@@ -24610,10 +24610,10 @@ HK$ HK$ HK$ HK$
 million million million million
 Further developing and expanding our supplier
 base and types of virtual goods on offer
-(cid:129) Expanding our research and development
+ Expanding our research and development
 team, operations team and commerce team 1.0 3.1 3.7 7.8
-(cid:129) Meeting relevant property rental expenses 0.1 0.3 0.3 0.7
-(cid:129) Prepayments to be made to virtual goods
+ Meeting relevant property rental expenses 0.1 0.3 0.3 0.7
+ Prepayments to be made to virtual goods
 suppliers 4.5 13.4 5.5 23.4
 5.6 16.8 9.5 31.9
 Acquiring companies in marketing and related
@@ -24621,9 +24621,9 @@ industries – 17.8 – 17.8
 Developing and operating our SaaS enterprise
 marketing service platform as a means to
 expand our marketing channels
-(cid:129) Expanding our research and development
+ Expanding our research and development
 team and operations team 1.4 3.5 1.9 6.8
-(cid:129) Meeting relevant property rental expenses 0.1 0.4 0.2 0.7
+ Meeting relevant property rental expenses 0.1 0.4 0.2 0.7
 1.5 3.9 2.1 7.5
 General working capital 2.2 6.7 2.9 11.8
 Total net proceeds from the Global Offering 17.1 70.6 31.6 119.3
@@ -24634,22 +24634,22 @@ FUTURE PLANS AND USE OF PROCEEDS
 BASES AND ASSUMPTIONS
 The business objectives and strategies set out by our Directors are based on the following
 general assumptions:
-(cid:129) there will be no significant economic change in respect of inflation, interest rate, tax
+ there will be no significant economic change in respect of inflation, interest rate, tax
 rate and currency exchange rate in the geographic locations which we operate in
 which will adversely affect our business;
-(cid:129) we will have sufficient financial resources to meet the planned capital expenditure
+ we will have sufficient financial resources to meet the planned capital expenditure
 and business development requirements during the period to which the business
 objectives relate;
-(cid:129) there will be no material adverse changes in the existing laws and regulations,
+ there will be no material adverse changes in the existing laws and regulations,
 policies or industry or regulatory treatment relating to our Group, or in the political,
 social, economical, fiscal or market conditions in which our Group operates;
-(cid:129) the Global Offering will be completed in accordance with the terms as described in
+ the Global Offering will be completed in accordance with the terms as described in
 “Structure and Conditions of the Global Offering” in this prospectus;
-(cid:129) there will be no disasters, natural, political, social or otherwise, which would
+ there will be no disasters, natural, political, social or otherwise, which would
 materially disrupt the business or operations of our Group;
-(cid:129) we will not be adversely affected by the risk factors as set out in “Risk Factors” in
+ we will not be adversely affected by the risk factors as set out in “Risk Factors” in
 this prospectus; and
-(cid:129) we will continue our existing operations in substantially the same manner as they
+ we will continue our existing operations in substantially the same manner as they
 were carried out during the Track Record Period and we will also be able to carry
 out our development plans without material disruptions.
 AssumingthattheOver-allotmentOptionisnotexercisedatall,thenetproceedsfromthe
@@ -25244,18 +25244,18 @@ STRUCTURE AND CONDITIONS OF THE GLOBAL OFFERING
 THE GLOBAL OFFERING
 This prospectus is published in connection with the Hong Kong Public Offering as part
 of the Global Offering. The Global Offering comprises:
-(cid:129) the Hong Kong Public Offering of initially 25,000,000 Offer Shares (subject to
+ the Hong Kong Public Offering of initially 25,000,000 Offer Shares (subject to
 reallocation as mentioned below) in Hong Kong as described in “The Hong Kong
 Public Offering” in this section; and
-(cid:129) the International Placing of initially 225,000,000 Offer Shares (subject to
+ the International Placing of initially 225,000,000 Offer Shares (subject to
 reallocation and the Over-allotment Option as described below) outside the United
 States (including to professional, institutional and other investors anticipated to
 have a sizeable demand for the Offer Shares in Hong Kong) in offshore transactions
 in reliance on Regulation S.
 Investors may either:
-(cid:129) apply for the Hong Kong Public Offer Shares under the Hong Kong Public Offering;
+ apply for the Hong Kong Public Offer Shares under the Hong Kong Public Offering;
 or
-(cid:129) apply for or indicate an interest for the International Placing Shares under the
+ apply for or indicate an interest for the International Placing Shares under the
 International Placing,
 but may not do both.
 The250,000,000OfferSharesintheGlobalOfferingwillrepresent25.0%ofourenlarged
@@ -25297,12 +25297,12 @@ Public Offer Shares and those applicants who are not successful in the ballot ma
 any Hong Kong Public Offer Shares.
 For allocation purposes only, the total number of Offer Shares available under the Hong
 Kong Public Offering is to be divided equally into two pools:
-(cid:129) Pool A: The Hong Kong Public Offer Shares in pool A will be allocated on an
+ Pool A: The Hong Kong Public Offer Shares in pool A will be allocated on an
 equitable basis to applicants who have applied for the Hong Kong Public Offer
 Shares in the value of HK$5 million or less (excluding brokerage, SFC transaction
 levy, Stock Exchange trading fee and Financial Reporting Council transaction levy
 payable); and
-(cid:129) Pool B: The Hong Kong Public Offer Shares in pool B will be allocated on an
+ Pool B: The Hong Kong Public Offer Shares in pool B will be allocated on an
 equitable basis to applicants who have applied for the Hong Kong Public Offer
 Shares in the value of more than HK$5 million and up to the value of pool B
 (excluding brokerage, SFC transaction levy, Stock Exchange trading fee and
@@ -25561,21 +25561,21 @@ or (iv) above.
 The Stabilising Manager, or any person acting for it, may take all or any of the above
 stabilising actions in Hong Kong. Specifically, prospective applicants for and investors in our
 Shares should note that:
-(cid:129) the Stabilising Manager, or any person acting for it, may, in connection with the
+ the Stabilising Manager, or any person acting for it, may, in connection with the
 stabilising actions, maintain a long position in our Shares;
-(cid:129) there is no certainty regarding the extent to which and the time period for which the
+ there is no certainty regarding the extent to which and the time period for which the
 Stabilising Manager, or any person acting for it, will maintain such a position;
-(cid:129) liquidation of any such long position by the Stabilising Manager, or any person
+ liquidation of any such long position by the Stabilising Manager, or any person
 acting for it, may have an adverse impact on the market price of our Shares;
-(cid:129) no stabilising action can be taken to support the price of our Shares for longer than
+ no stabilising action can be taken to support the price of our Shares for longer than
 the stabilising period which will begin on the Listing Date and end on the 30th day
 afterthelastdayforlodgingapplicationsundertheHongKongPublicOffering.The
 stabilisingperiodisexpectedtoexpireonSunday,6November2022.Afterthisdate,
 when no further stabilising action may be taken, demand for our Shares, and
 therefore the price of our Shares, could fall;
-(cid:129) the price of our Shares cannot be assured to stay at or above the Offer Price by the
+ the price of our Shares cannot be assured to stay at or above the Offer Price by the
 taking of any stabilising action; and
-(cid:129) stabilising bids may be made or transactions effected in the course of the stabilising
+ stabilising bids may be made or transactions effected in the course of the stabilising
 actions at any price at or below the Offer Price, which means that stabilising bids
 may be made or transactions effected at a price below the price the investors have
 paid for the Offer Shares.
@@ -25665,15 +25665,15 @@ Results” in this prospectus.
 STRUCTURE AND CONDITIONS OF THE GLOBAL OFFERING
 CONDITIONS OF THE GLOBAL OFFERING
 Acceptance of all applications for Offer Shares is conditional on, among others:
-(cid:129) theListingCommitteegrantingapprovalforthelistingof,andpermissiontodealin,
+ theListingCommitteegrantingapprovalforthelistingof,andpermissiontodealin,
 our Shares in issue and to be issued as described in this prospectus (including but
 not limited to the Shares which may be issued pursuant to the exercise of the
 Over-allotment Option);
-(cid:129) the Offer Price having been agreed between us and the Sole Representative (for
+ the Offer Price having been agreed between us and the Sole Representative (for
 itself and on behalf the Underwriters);
-(cid:129) the due execution of the International Underwriting Agreement on or before the
+ the due execution of the International Underwriting Agreement on or before the
 Price Determination Date; and
-(cid:129) the obligations of the Underwriters under the Underwriting Agreements becoming
+ the obligations of the Underwriters under the Underwriting Agreements becoming
 unconditional and not having been terminated in accordance with the terms of the
 respective agreements,
 in each case on or before the dates and times specified in the Hong Kong Underwriting
@@ -25771,9 +25771,9 @@ discretion.
 2. WHO CAN APPLY
 You can apply for Hong Kong Public Offer Shares if you or the person(s) for whose
 benefit you are applying:
-(cid:129) are 18 years of age or older;
-(cid:129) have a Hong Kong address; and
-(cid:129) are outside the United States, and are not a United States Person (as defined in
+ are 18 years of age or older;
+ have a Hong Kong address; and
+ are outside the United States, and are not a United States Person (as defined in
 Regulation S under the U.S. Securities Act).
 If you apply online through the White Form eIPO service, in addition to the above, you
 must also: (i) have a valid Hong Kong identity card number and (ii) provide a valid e-mail
@@ -25786,15 +25786,15 @@ The number of joint applicants may not exceed four.
 HOW TO APPLY FOR HONG KONG PUBLIC OFFER SHARES
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Public Offer
 Shares if you:
-(cid:129) are an existing beneficial owner of Shares in our Company and/or any of our
+ are an existing beneficial owner of Shares in our Company and/or any of our
 subsidiaries;
-(cid:129) are a Director or chief executive officer of our Company and/or any of our
+ are a Director or chief executive officer of our Company and/or any of our
 subsidiaries;
-(cid:129) are a connected person (as defined in the Listing Rules) of our Company or will
+ of our Company or will
 become a connected person of our Company immediately upon completion of the
 Global Offering;
-(cid:129) are a close associate (as defined in the Listing Rules) of any of the above; or
-(cid:129) have been allocated or have applied for or indicated any interest in any International
+ of any of the above; or
+ have been allocated or have applied for or indicated any interest in any International
 Placing Shares or otherwise participate in the International Placing.
 3. TERMS AND CONDITIONS OF AN APPLICATION
 By applying through the application channels specified in this prospectus, among other
@@ -25993,32 +25993,32 @@ breach of the terms and conditions of this prospectus;
 === PAGE 516 ===
 HOW TO APPLY FOR HONG KONG PUBLIC OFFER SHARES
 (ii) HKSCC Nominees will do the following things on your behalf:
-(cid:129) agree that the Hong Kong Public Offer Shares to be allotted shall be issued in
+ agree that the Hong Kong Public Offer Shares to be allotted shall be issued in
 the name of HKSCC Nominees and deposited directly into CCASS for the
 creditoftheCCASSParticipant’sstockaccountonyourbehalforyourCCASS
 Investor Participant’s stock account;
-(cid:129) agree to accept the Hong Kong Public Offer Shares applied for or any lesser
+ agree to accept the Hong Kong Public Offer Shares applied for or any lesser
 number allocated;
-(cid:129) undertake and confirm that you have not applied for or taken up, will not apply
+ undertake and confirm that you have not applied for or taken up, will not apply
 for or take up, or indicate an interest for, any Offer Shares under the
 International Placing;
-(cid:129) (if the electronic application instructions are given for your benefit) declare
+ declare
 that only one set of electronic application instructions has been given for
 your benefit;
-(cid:129) (if you are an agent for another person) declare that you have only given one
+ declare that you have only given one
 set of electronic application instructions for the other person’s benefit and
 are duly authorised to give those instructions as their agent;
-(cid:129) confirm that you understand that our Company, the Directors and the Sole
+ confirm that you understand that our Company, the Directors and the Sole
 Representative will rely on your declarations and representations in deciding
 whether or not to make any allotment of any of the Hong Kong Public Offer
 Shares to you and that you may be prosecuted if you make a false declaration;
-(cid:129) authorise our Company to place HKSCC Nominees’ name on our Company’s
+ authorise our Company to place HKSCC Nominees’ name on our Company’s
 register of members as the holder of the Hong Kong Public Offer Shares
 allocatedtoyouandtosendSharecertificate(s)and/orrefundmoniesunderthe
 arrangements separately agreed between us and HKSCC;
-(cid:129) confirmthatyouhavereadthetermsandconditionsandapplicationprocedures
+ confirmthatyouhavereadthetermsandconditionsandapplicationprocedures
 set out in this prospectus and agree to be bound by them;
-(cid:129) confirm that you have received and/or read a copy of this prospectus and have
+ confirm that you have received and/or read a copy of this prospectus and have
 relied only on the information and representations in this prospectus in causing
 the application to be made, save as set out in any supplement to this
 prospectus;
@@ -26026,18 +26026,18 @@ prospectus;
 
 === PAGE 517 ===
 HOW TO APPLY FOR HONG KONG PUBLIC OFFER SHARES
-(cid:129) agree that none of our Company, the Sole Representative, the Underwriters,
+ agree that none of our Company, the Sole Representative, the Underwriters,
 their respective directors, officers, employees, partners, agents, advisers and
 any other parties involved in the Global Offering, is or will be liable for any
 information and representations not contained in this prospectus (and any
 supplement to it);
-(cid:129) agree to disclose your personal data to our Company, our Hong Kong Branch
+ agree to disclose your personal data to our Company, our Hong Kong Branch
 Share Registrar, receiving banks, the Sole Representative, the Underwriters
 and/or their respective advisers and agents;
-(cid:129) agree (without prejudice to any other rights which you may have) that once
+ that once
 HKSCC Nominees’ application has been accepted, it cannot be rescinded for
 innocent misrepresentation;
-(cid:129) agree that any application made by HKSCC Nominees on your behalf is
+ agree that any application made by HKSCC Nominees on your behalf is
 irrevocable before the fifth day after the time of the opening of the application
 lists (excluding any day which is Saturday, Sunday or public holiday in Hong
 Kong), such agreement to take effect as a collateral contract with us and to
@@ -26053,11 +26053,11 @@ Sunday or public holiday in Hong Kong) if a person responsible for this
 prospectusunderSection40oftheCompanies(WindingUpandMiscellaneous
 Provisions) Ordinance gives a public notice under that section which excludes
 or limits that person’s responsibility for this prospectus;
-(cid:129) agree that once HKSCC Nominees’ application is accepted, neither that
+ agree that once HKSCC Nominees’ application is accepted, neither that
 application nor your electronic application instructions can be revoked, and
 that acceptance of that application will be evidenced by our Company’s
 announcement of the Hong Kong Public Offering results;
-(cid:129) agree to the arrangements, undertakings and warranties under the participant
+ agree to the arrangements, undertakings and warranties under the participant
 agreement between you and HKSCC, read with the General Rules of CCASS
 and the CCASS Operational Procedures, for the giving electronic application
 instructions to apply for Hong Kong Public Offer Shares;
@@ -26065,14 +26065,14 @@ instructions to apply for Hong Kong Public Offer Shares;
 
 === PAGE 518 ===
 HOW TO APPLY FOR HONG KONG PUBLIC OFFER SHARES
-(cid:129) agree with our Company, for ourselves and for the benefit of each Shareholder
+ agree with our Company, for ourselves and for the benefit of each Shareholder
 (andsothatourCompanywillbedeemedbyouracceptanceinwholeorinpart
 of the application by HKSCC Nominees to have agreed, for ourselves and on
 behalf of each of the Shareholders, with each CCASS Participant giving
 electronic application instructions) to observe and comply with the
 Companies (Winding Up and Miscellaneous Provisions) Ordinance, the
 Companies Ordinance and the Articles of Association;
-(cid:129) agree with our Company, for itself and for the benefit of each shareholder of
+ agree with our Company, for itself and for the benefit of each shareholder of
 our Company and each director, manager and other senior officer of our
 Company (and so that our Company will be deemed by its acceptance in whole
 or in part of this application to have agreed, for itself and on behalf of each
@@ -26087,14 +26087,14 @@ accordance with the Articles of Association of our Company;
 (b) that any award made in such arbitration shall be final and conclusive; and
 (c) that the arbitration tribunal may conduct hearings in open sessions and
 publish its award;
-(cid:129) agree with our Company (for our Company itself and for the benefit of each
+ agree with our Company (for our Company itself and for the benefit of each
 shareholder of our Company) that Shares in our Company are freely
 transferable by their holders;
-(cid:129) authorise our Company to enter into a contract on its behalf with each director
+ authorise our Company to enter into a contract on its behalf with each director
 andofficerofourCompanywherebyeachsuchdirectorandofficerundertakers
 to observe and comply with his obligations to shareholders stipulated in the
 Articles of Association; and
-(cid:129) agree that your application, any acceptance of it and the resulting contract will
+ agree that your application, any acceptance of it and the resulting contract will
 be governed by the laws of Hong Kong.
 – 508 –
 
@@ -26106,10 +26106,10 @@ who is a CCASS Clearing Participant or a CCASS Custodian Participant to give suc
 instructions to HKSCC, you (and, if you are joint applicants, each of you jointly and severally)
 are deemed to have done the following things. Neither HKSCC nor HKSCC Nominees shall be
 liable to our Company or any other person in respect of the things mentioned below:
-(cid:129) instructed and authorised HKSCC to cause HKSCC Nominees (acting as nominee
+ instructed and authorised HKSCC to cause HKSCC Nominees (acting as nominee
 for the relevant CCASS Participants) to apply for the Hong Kong Public Offer
 Shares on your behalf;
-(cid:129) instructed and authorised HKSCC to arrange payment of the maximum Offer Price,
+ instructed and authorised HKSCC to arrange payment of the maximum Offer Price,
 brokerage, SFC transaction levy, the Stock Exchange trading fee and Financial
 Reporting Council transaction levy by debiting your designated bank account and,
 in the case of a wholly or partially unsuccessful application and/or if the Offer Price
@@ -26117,7 +26117,7 @@ is less than the maximum Offer Price per Offer Share initially paid on applicati
 refund of the application monies (including brokerage, SFC transaction levy, the
 Stock Exchange trading fee and Financial Reporting Council transaction levy) by
 crediting your designated bank account; and
-(cid:129) instructed and authorised HKSCC to cause HKSCC Nominees to do on your behalf
+ instructed and authorised HKSCC to cause HKSCC Nominees to do on your behalf
 all the things stated in this prospectus.
 Time for Inputting Electronic Application Instructions
 CCASS Clearing/Custodian Participants can input electronic application instructions at
@@ -26185,20 +26185,20 @@ the personal data supplied.
 2. Purposes
 Thepersonaldataofthesecuritiesholdersmaybeused,held,processed,and/orstored(by
 whatever means) for the following purposes:
-(cid:129) processing your application and refund cheque, where applicable, verification of
+ processing your application and refund cheque, where applicable, verification of
 compliance with the terms and application procedures set out in this prospectus and
 announcing results of allocation of the Hong Kong Public Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of securities’ holders
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of securities’ holders
 including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of securities’ holders of the Company;
-(cid:129) verifying securities holders’ identities;
-(cid:129) establishing benefit entitlements of securities’ holders of the Company, such as
+ maintaining or updating the register of securities’ holders of the Company;
+ verifying securities holders’ identities;
+ establishing benefit entitlements of securities’ holders of the Company, such as
 dividends, rights issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and securities’ holder profiles;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and securities’ holder profiles;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the Hong Kong Branch Share Registrar to discharge their obligations
 to securities’ holders and/or regulators and/or any other purposes to which the
 securities’ holders may from time to time agree.
@@ -26212,17 +26212,17 @@ to the securities holders will be kept confidential but the Company and its Hong
 Share Registrar may, to the extent necessary for achieving any of the above purposes, disclose,
 obtainortransfer(whetherwithinoroutsideHongKong)thepersonaldatato,fromorwithany
 of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving bankers and
+ the Company’s appointed agents such as financial advisers, receiving bankers and
 overseas principal share registrar;
-(cid:129) where applicants for securities request a deposit into CCASS, HKSCC or HKSCC
+ where applicants for securities request a deposit into CCASS, HKSCC or HKSCC
 Nominees, who will use the personal data for the purposes of operating CCASS;
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the
 Hong Kong Branch Share Registrar in connection with their respective business
 operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations; and
-(cid:129) any persons or institutions with which the securities’ holders have or propose to
+ any persons or institutions with which the securities’ holders have or propose to
 have dealings, such as their bankers, solicitors, accountants or stockbrokers etc.
 4. Retention of personal data
 The Company and its Hong Kong Branch Share Registrar will keep the personal data of
@@ -26276,8 +26276,8 @@ application for the Hong Kong Public Offer Shares given by you or for your benef
 will be deemed to be an actual application for the purposes of considering whether multiple
 applications have been made.
 If an application is made by an unlisted company and:
-(cid:129) the principal business of that company is dealing in securities; and
-(cid:129) you exercise statutory control over that company,
+ the principal business of that company is dealing in securities; and
+ you exercise statutory control over that company,
 – 513 –
 
 === PAGE 524 ===
@@ -26286,9 +26286,9 @@ then the application will be treated as being for your benefit.
 “Unlisted company” means a company with no equity securities listed on the Stock
 Exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypart
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypart
 of it which carries no right to participate beyond a specified amount in a distribution
 of either profits or capital).
 9. HOW MUCH ARE THE HONG KONG PUBLIC OFFER SHARES
@@ -26317,9 +26317,9 @@ HOW TO APPLY FOR HONG KONG PUBLIC OFFER SHARES
 10. EFFECT OF BAD WEATHER AND/OR EXTREME CONDITIONS ON THE
 OPENING OF THE APPLICATION LISTS
 The application lists will not open if:
-(cid:129) a tropical cyclone warming signal number 8 or above; or
-(cid:129) Extreme Conditions; or
-(cid:129) a “black” rainstorm warning,
+ a tropical cyclone warming signal number 8 or above; or
+ Extreme Conditions; or
+ a “black” rainstorm warning,
 is/are in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Friday, 7
 October 2022. Instead they will open between 11:45 a.m. and 12:00 noon on the next business
 day which does not have either of those warnings in Hong Kong in force at any time between
@@ -26337,15 +26337,15 @@ www.hkexnews.hk.
 The results of allocations and the Hong Kong identity card/passport/Hong Kong business
 registration numbers of successful applicants under the Hong Kong Public Offering will be
 available at the times and dates and in the manners specified below:
-(cid:129) in the announcement to be posted on our Company’s website at www.regopimc.com
+ in the announcement to be posted on our Company’s website at www.regopimc.com
 and the Stock Exchange’s website at www.hkexnews.hk by no later than 9:00 a.m.
 on Friday, 14 October 2022;
-(cid:129) from the designated results of allocations website at www.iporesults.com.hk
+ from the designated results of allocations website at www.iporesults.com.hk
 (alternatively: English https://www.eipo.com.hk/en/Allotment; Chinese
 https://www.eipo.com.hk/zh-hk/Allotment) with a “search by ID” function on a
 24-hour basis from 8:00 a.m. on Friday, 14 October 2022 to 12:00 midnight on
 Thursday, 20 October 2022;
-(cid:129) by telephone enquiry line by calling +852 2862 8555 between 9:00 a.m. and 6:00
+ by telephone enquiry line by calling +852 2862 8555 between 9:00 a.m. and 6:00
 p.m. on Friday, 14 October 2022, Monday, 17 October 2022, Tuesday, 18 October
 2022 and Wednesday, 19 October 2022.
 – 515 –
@@ -26398,25 +26398,25 @@ accept only part of any application, without giving any reasons.
 (iii) If the allotment of Hong Kong Public Offer Shares is void:
 The allotment of Hong Kong Public Offer Shares will be void if the Listing Committee
 does not grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Listing Committee notifies our
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Listing Committee notifies our
 Company of that longer period within three weeks of the closing date of the
 application lists.
 (iv) If:
-(cid:129) you make multiple applications or suspected multiple applications;
-(cid:129) you or the person for whose benefit you are applying have applied for or taken up,
+ you make multiple applications or suspected multiple applications;
+ you or the person for whose benefit you are applying have applied for or taken up,
 or indicated an interest for, or have been or will be placed or allocated (including
 conditionally and/or provisionally) Hong Kong Public Offer Shares and
 International Placing Shares;
-(cid:129) yourelectronicapplicationinstructionsthroughtheWhiteFormeIPOserviceare
+ yourelectronicapplicationinstructionsthroughtheWhiteFormeIPOserviceare
 not completed in accordance with the instructions, terms and conditions on the
 designated website;
-(cid:129) your payment is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) our Company, the Sole Sponsor or the Sole Representative believe that by accepting
+ your payment is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ our Company, the Sole Sponsor or the Sole Representative believe that by accepting
 your application, we or they would violate applicable securities or other laws, rules
 or regulations; or
-(cid:129) your application is for more than the maximum number of Hong Kong Public Offer
+ your application is for more than the maximum number of Hong Kong Public Offer
 Shares you may apply for.
 – 517 –
 
@@ -26482,7 +26482,7 @@ will not be treated as an applicant. Instead, each CCASS Participant who gives e
 application instructions or each person for whose benefit instructions are given will be
 treated as an applicant.
 Deposit of Share Certificates into CCASS and Refund of Application Monies
-(cid:129) If your application is wholly or partially successful, your Share certificate(s) will be
+ will be
 issued in the name of HKSCC Nominees and deposited into CCASS for the credit
 of your designated CCASS Participant’s stock account or your CCASS Investor
 Participant stock account on Friday, 14 October 2022, or, on any other date
@@ -26491,7 +26491,7 @@ determined by HKSCC or HKSCC Nominees.
 
 === PAGE 530 ===
 HOW TO APPLY FOR HONG KONG PUBLIC OFFER SHARES
-(cid:129) Our Company expects to publish the application results of CCASS Participants (and
+ Our Company expects to publish the application results of CCASS Participants (and
 where the CCASS Participant is a broker or custodian, our Company will include
 informationrelatingtotherelevantbeneficialowner),yourHongKongidentitycard
 number/passport number or other identification code (Hong Kong business
@@ -26500,11 +26500,11 @@ Public Offering in the manner specified in “Publication of Results” above on
 14 October 2022. You should check the announcement published by our Company
 and report any discrepancies to HKSCC before 5:00 p.m. on Friday, 14 October
 2022 or such other date as determined by HKSCC or HKSCC Nominees.
-(cid:129) If you have instructed your broker or custodian to give electronic application
+ If you have instructed your broker or custodian to give electronic application
 instructions on your behalf, you can also check the number of Hong Kong Public
 OfferSharesallottedtoyouandtheamountofrefundmonies(ifany)payabletoyou
 with that broker or custodian.
-(cid:129) If you have applied as a CCASS Investor Participant, you can also check the number
+ If you have applied as a CCASS Investor Participant, you can also check the number
 of Hong Kong Public Offer Shares allotted to you and the amount of refund monies
 (if any) payable to you via the CCASS Phone System and the CCASS Internet
 System (under the procedures contained in HKSCC’s “An Operating Guide for
@@ -26514,7 +26514,7 @@ stock account and the credit of refund monies to your bank account, HKSCC will
 also make available to you an activity statement showing the number of Hong Kong
 Public Offer Shares credited to your CCASS Investor Participant stock account and
 the amount of refund monies (if any) credited to your designated bank account.
-(cid:129) Refund of your application monies (if any) in respect of wholly and partially
+ in respect of wholly and partially
 unsuccessful applications and/or difference between the Offer Price and the
 maximum Offer Price per Offer Share initially paid on application (including
 brokerage, SFC transaction levy, the Stock Exchange trading fee and Financial
@@ -27058,9 +27058,9 @@ Street, P.O. Box 10240, Grand Cayman, KY1-1002, Cayman Islands.
 The Company is an investment holding company. During the Track Record Period, the Company and its
 subsidiaries now comprising the Group (collectively referred to as the “Group”) were engaged in the following
 businesses (the “Listing Business”) in the People’s Republic of China (“PRC”).
-(cid:129) Marketing and promotion services
-(cid:129) IT solutions services
-(cid:129) Others
+ Marketing and promotion services
+ IT solutions services
+ Others
 The principal activities of its subsidiaries are set out below. In the opinion of the directors of the Company,
 theimmediateholdingcompaniesoftheCompanyareTanshinInvestmentsLimited(“TanshinInvestments”),Vicen
 Investments Limited (“Vicen Investments”) and Sprus Investments Limited (“Sprus Investments”) which are
@@ -27424,11 +27424,11 @@ elements of control.
 De-factocontrolexistsinsituationswheretheCompanyhasthepracticalabilitytodirecttherelevantactivities
 oftheinvesteewithoutholdingthemajorityofthevotingrights.Indeterminingwhetherde-factocontrolexists,the
 Company considers all relevant facts and circumstances, including:
-(cid:129) thesizeoftheCompany’svotingrightsrelativetoboththesizeanddispersionofotherpartieswhohold
+ thesizeoftheCompany’svotingrightsrelativetoboththesizeanddispersionofotherpartieswhohold
 voting rights;
-(cid:129) substantive potential voting rights held by the Company and other parties who hold voting rights;
-(cid:129) other contractual arrangements; and
-(cid:129) historic patterns in voting attendance.
+ substantive potential voting rights held by the Company and other parties who hold voting rights;
+ other contractual arrangements; and
+ historic patterns in voting attendance.
 In the Company’s statements of financial position, investments in subsidiaries are stated at cost less
 impairment loss, if any. The results of subsidiaries are accounted for by the Company on the basis of dividend
 received and receivable.
@@ -27565,11 +27565,11 @@ Copyrights 5-10 years
 Both of the period and method of amortisation are reviewed at the end of each reporting period.
 (ii) Internally generated intangible assets (research and development costs)
 Expenditure on internally developed products is capitalised if it can be demonstrated that:
-(cid:129) it is technically feasible to develop the product for it to be sold;
-(cid:129) adequate resources are available to complete the development;
-(cid:129) there is an intention to complete and sell the product;
-(cid:129) the Group is able to sell the product; and
-(cid:129) saleoftheproductwillgeneratefutureeconomicbenefits;andexpenditureontheprojectcanbe
+ it is technically feasible to develop the product for it to be sold;
+ adequate resources are available to complete the development;
+ there is an intention to complete and sell the product;
+ the Group is able to sell the product; and
+ saleoftheproductwillgeneratefutureeconomicbenefits;andexpenditureontheprojectcanbe
 measured reliably.
 CapitaliseddevelopmentcostsareamortisedovertheperiodstheGroupexpectstobenefitfromselling
 theproductsdeveloped.Theamortisationexpenseisrecognisedinprofitorlossandincludedincostofsales.
@@ -27671,12 +27671,12 @@ risk is performed on either an individual or a collective basis. When the assess
 collectivebasis,thefinancialinstrumentsaregroupedbasedonsharedcreditriskcharacteristics,suchaspast
 due status and credit risk ratings.
 The Group considers a financial asset to be credit-impaired when:
-(cid:129) significant financial difficulty of the debtor;
-(cid:129) a breach of contract, such as a default or being more than 90 days past due;
-(cid:129) therestructuringofaloanoradvancebytheGroupontermsthattheGroupwouldnotconsider
+ significant financial difficulty of the debtor;
+ a breach of contract, such as a default or being more than 90 days past due;
+ therestructuringofaloanoradvancebytheGroupontermsthattheGroupwouldnotconsider
 otherwise;
-(cid:129) it is probable that the debtor will enter bankruptcy or other financial reorganisation; or
-(cid:129) the disappearance of an active market for a security because of financial difficulties.
+ it is probable that the debtor will enter bankruptcy or other financial reorganisation; or
+ the disappearance of an active market for a security because of financial difficulties.
 The Group recognises an impairment gain or loss in profit or loss for all financial instruments with a
 corresponding adjustment to their carrying amount through a loss allowance account.
 TheGroupwritesoffafinancialassetwhenthereisinformationindicatingthatthedebtorisinsevere
@@ -27736,9 +27736,9 @@ APPENDIX I ACCOUNTANTS’ REPORT
 Dependingonthetermsofthecontractandthelawsthatapplytothecontract,controlofthegoodsorservice
 may be transferred over time or at a point in time. Control of the goods or service is transferred over time if the
 Group’s performance:
-(cid:129) provides all of the benefits received and consumed simultaneously by the customer;
-(cid:129) creates or enhances an asset that the customer controls as the Group performs; or
-(cid:129) doesnotcreateanassetwithanalternativeusetotheGroupandtheGrouphasanenforceablerightto
+ provides all of the benefits received and consumed simultaneously by the customer;
+ creates or enhances an asset that the customer controls as the Group performs; or
+ doesnotcreateanassetwithanalternativeusetotheGroupandtheGrouphasanenforceablerightto
 payment for performance completed to date.
 If control of the goods or services transfers over time, revenue is recognised over the period of the contract
 by reference to the progress towards complete satisfaction of that performance obligation. Otherwise, revenue is
@@ -27922,10 +27922,10 @@ vest fully with the employees when contributed into the MPF Scheme.
 Attheendofeachreportingperiod,theGroupandtheCompanyreviewsthecarryingamountsofthefollowing
 assets to determine whether there is any indication that those assets have suffered an impairment loss or an
 impairment loss previously recognised no longer exists or may have decreased:
-(cid:129) Goodwill and other intangible assets;
-(cid:129) Property, plant and equipment;
-(cid:129) Right-of-use assets; and
-(cid:129) Investment in a subsidiary.
+ Goodwill and other intangible assets;
+ Property, plant and equipment;
+ Right-of-use assets; and
+ Investment in a subsidiary.
 Iftherecoverableamount(i.e.thegreateroftheFVLCDandVIU)ofanassetisestimatedtobelessthanits
 carrying amount, the carrying amount of the asset is reduced to its recoverable amount. An impairment loss is
 recognised as an expense immediately, unless the relevant asset is carried at a revalued amount under another
@@ -29887,10 +29887,10 @@ Subsequent events of the Group are detailed as below.
 in the subsection headed “D. Share Option Scheme” inAppendix IV to the Prospectus; and
 (b) Pursuant to the general meeting of all shareholders of the Company held on 27 July 2022, it was
 resolved, among other things, that:
-(cid:129) the Company’s authorised share capital was increased to US$2,000,000 divided into
+ the Company’s authorised share capital was increased to US$2,000,000 divided into
 2,000,000,000shareswithaparvalueofUS$0.001eachbythecreationof1,950,000,000shares;
 and
-(cid:129) conditionaluponalltheconditionssetoutinthesectionheaded“Structureandconditionsofthe
+ conditionaluponalltheconditionssetoutinthesectionheaded“Structureandconditionsofthe
 Global Offering” in this prospectus being fulfilled and subject to and conditional on the share
 premium of the Company being credited as a result of the issue of the Offer Shares pursuant to
 the Global Offering, the Directors be and are hereby authorised to issue a total of 749,900,000
@@ -30064,9 +30064,9 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the Unaudited Pro Forma Financial Information provide a reasonable
 basis for presenting the significant effects directly attributable to the event or transaction, and
 to obtain sufficient appropriate evidence about whether:
-(cid:129) the related unaudited pro forma adjustments give appropriate effect to those criteria;
+ the related unaudited pro forma adjustments give appropriate effect to those criteria;
 and
-(cid:129) the Unaudited Pro Forma Financial Information reflects the proper application of
+ the Unaudited Pro Forma Financial Information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgement, having regard
 to the reporting accountants’understanding of the nature of the Group, the event or transaction

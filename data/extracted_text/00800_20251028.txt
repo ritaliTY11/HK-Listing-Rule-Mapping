@@ -188,19 +188,19 @@ EXPECTED TIMETABLE(1)
 The results of allocations in the Hong Kong Public Offering (with successful applicants
 identification document numbers, where appropriate) to be available through a variety of
 channels, including:
-(cid:129) in the announcement to be posted on our website
+ in the announcement to be posted on our website
 and the website of the Stock Exchange at
 https://www.weride.ai and www.hkexnews.hk,
 respectively. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .at or before 11:00 p.m. on
 Wednesday, November 5, 2025
-(cid:129) from the designated results of allocations
+ from the designated results of allocations
 website at www.iporesults.com.hk (alternatively:
 www.eipo.com.hk/eIPOAllotment) with a
 “search by ID” function from. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11:00 p.m. on
 Wednesday, November 5, 2025
 to 12:00 midnight on
 Tuesday, November 11, 2025
-(cid:129) from the allocation results telephone enquiry
+ from the allocation results telephone enquiry
 line by calling +852 2862 8555 between
 9:00 a.m. and 6:00 p.m. on. . . . . . . . . . . . . . . . . . . Thursday, November 6, 2025,
 Friday, November 7, 2025,
@@ -569,7 +569,7 @@ are the core capabilities of the WeRide GENESIS.
 
 === PAGE 16 ===
 SUMMARY
-(cid:129) Smart Scenario Engine. At the heart of WeRide GENESIS is our Smart Scenario engine,
+ Smart Scenario Engine. At the heart of WeRide GENESIS is our Smart Scenario engine,
 which leverages generative AI to build realistic city-scale environments from scratch.
 Key capabilities of the Smart Scenario engine include the following:
 SmartScenario
@@ -612,7 +612,7 @@ obscured lane markings), and sim-to-real style transfer for realistic scene adap
 
 === PAGE 17 ===
 SUMMARY
-(cid:129) Smart Simulation. Besides scenario generation, WeRide GENESIS also has the ability to
+ Smart Simulation. Besides scenario generation, WeRide GENESIS also has the ability to
 execute a smart simulation-validation loop which includes the following key elements:
 o Smart agents. The smart agent models of WeRide GENESIS can simulate complex
 agent interactions, such as vehicles navigating intersections with conflicting signals
@@ -687,13 +687,13 @@ RMB % RMB % RMB US$ % RMB % RMB US$ %
 (inthousands,exceptforpercentages)
 (unaudited)
 Salesofrobotaxisand
-relatedservices(1) (cid:2) (cid:2) 43,303 8.2 29,379 7.3 47,832 6,677 13.2 13,357 8.9 62,030 8,659 31.1
+relatedservices(1)  43,303 8.2 29,379 7.3 47,832 6,677 13.2 13,357 8.9 62,030 8,659 31.1
 SalesofotherL4
 vehiclesandrelated
-services(2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 327,041 62.0 110,096 27.4 148,401 20,716 41.1 57,825 38.5 61,902 8,641 31.0
-Robobus(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 320,240 60.7 94,914 23.6 79,688 11,124 22.1 43,026 28.6 25,152 3,511 12.6
-Robosweeper(cid:2) (cid:2) (cid:2) (cid:2) 6,801 1.3 7,642 1.9 55,320 7,722 15.3 11,536 7.7 33,850 4,725 17.0
-Robovan(3)(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) – – 7,540 1.9 13,393 1,870 3.7 3,263 2.2 2,900 405 1.4
+services(2)  327,041 62.0 110,096 27.4 148,401 20,716 41.1 57,825 38.5 61,902 8,641 31.0
+Robobus 320,240 60.7 94,914 23.6 79,688 11,124 22.1 43,026 28.6 25,152 3,511 12.6
+Robosweeper 6,801 1.3 7,642 1.9 55,320 7,722 15.3 11,536 7.7 33,850 4,725 17.0
+Robovan(3) – – 7,540 1.9 13,393 1,870 3.7 3,263 2.2 2,900 405 1.4
 – 8 –
 
 === PAGE 19 ===
@@ -704,13 +704,13 @@ RMB % RMB % RMB US$ % RMB % RMB US$ %
 (inthousands,exceptforpercentages)
 (unaudited)
 Othertechnology
-services (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 157,199 29.8 262,369 65.3 164,901 23,019 45.7 79,116 52.6 75,683 10,565 37.9
+services  157,199 29.8 262,369 65.3 164,901 23,019 45.7 79,116 52.6 75,683 10,565 37.9
 OtherL4technology
-services (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 6,681 1.3 35,759 8.9 20,887 2,916 5.8 3,667 2.4 4,087 571 2.0
+services  6,681 1.3 35,759 8.9 20,887 2,916 5.8 3,667 2.4 4,087 571 2.0
 Otherresearchand
 development
-services (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 150,518 28.5 226,610 56.4 144,014 20,103 39.9 75,449 50.2 71,596 9,994 35.9
-Totalrevenue (cid:2) (cid:2) (cid:2) (cid:2) 527,543 100.0 401,844 100.0 361,134 50,412 100.0 150,298 100.0 199,615 27,865 100.0
+services  150,518 28.5 226,610 56.4 144,014 20,103 39.9 75,449 50.2 71,596 9,994 35.9
+Totalrevenue  527,543 100.0 401,844 100.0 361,134 50,412 100.0 150,298 100.0 199,615 27,865 100.0
 Notes:
 (1) Represents revenue generated from (i) sales of robotaxis, (ii) recurring fees based on ongoing
 operational and technical support services relating to our robotaxis, and (iii) ride-hailing services.All
@@ -772,22 +772,22 @@ influence both public perception and industry expectations, a key competitive ad
 each market we enter.
 OUR STRENGTHS
 We believe the following competitive strengths contribute to our success:
-(cid:129) Advanced autonomous driving technology
-(cid:129) Innovative, proven and scalable business model
-(cid:129) Global footprint and proven track record of expansion
+ Advanced autonomous driving technology
+ Innovative, proven and scalable business model
+ Global footprint and proven track record of expansion
 – 10 –
 
 === PAGE 21 ===
 SUMMARY
-(cid:129) Ecosystem of strong partners
-(cid:129) Strong technical capabilities led by visionary management
+ Ecosystem of strong partners
+ Strong technical capabilities led by visionary management
 OUR STRATEGIES
 We plan to implement the following strategies to achieve our mission:
-(cid:129) Continue to develop and enhance technology capabilities
-(cid:129) Scale up commercialization and explore incremental revenue
-(cid:129) Accumulate operational knowledge and optimize processes
-(cid:129) Retain talent to build a leading team in the industry
-(cid:129) Strengthen and expand collaborations with ecosystem partners
+ Continue to develop and enhance technology capabilities
+ Scale up commercialization and explore incremental revenue
+ Accumulate operational knowledge and optimize processes
+ Retain talent to build a leading team in the industry
+ Strengthen and expand collaborations with ecosystem partners
 OUR PRODUCTS AND SOLUTIONS
 We generally adopt a transaction-based model, in which we couple vehicle sales with
 ongoing multi-year service fees, as our technological support and services are integral to the
@@ -1049,25 +1049,25 @@ RMB % RMB % RMB US$ % RMB % RMB US$ %
 (inthousands,exceptforpercentages)
 (unaudited)
 Revenue
-Productrevenue (cid:2) (cid:2) (cid:2) (cid:2) 337,717 64.0 54,190 13.5 87,710 12,244 24.3 21,045 14.0 69,281 9,671 34.7
-Servicerevenue (cid:2) (cid:2) (cid:2) (cid:2) 189,826 36.0 347,654 86.5 273,424 38,168 75.7 129,253 86.0 130,334 18,194 65.3
-Totalrevenue(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 527,543 100.0 401,844 100.0 361,134 50,412 100.0 150,298 100.0 199,615 27,865 100.0
+Productrevenue  337,717 64.0 54,190 13.5 87,710 12,244 24.3 21,045 14.0 69,281 9,671 34.7
+Servicerevenue  189,826 36.0 347,654 86.5 273,424 38,168 75.7 129,253 86.0 130,334 18,194 65.3
+Totalrevenue 527,543 100.0 401,844 100.0 361,134 50,412 100.0 150,298 100.0 199,615 27,865 100.0
 Costofrevenue(1)
-Costofgoodssold(cid:2) (cid:2) (cid:2) (192,523) (36.5) (34,138) (8.5) (71,716) (10,011) (19.9) (17,157) (11.4) (35,461) (4,950) (17.8)
-Costofservices (cid:2) (cid:2) (cid:2) (cid:2) (102,475) (19.4) (184,230) (45.8) (178,703) (24,946) (49.5) (78,352) (52.1)(103,095) (14,392) (51.6)
-Totalcostofrevenue(cid:2) (cid:2) (cid:2) (294,998) (55.9) (218,368) (54.3) (250,419) (34,957) (69.3) (95,509) (63.5)(138,556) (19,342) (69.4)
-Grossprofit(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 232,545 44.1 183,476 45.7 110,715 15,455 30.7 54,789 36.5 61,059 8,523 30.6
-Othernetincome(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 19,296 3.7 15,750 3.9 16,491 2,302 4.6 7,939 5.3 3,021 422 1.5
+Costofgoodssold
+Costofservices 
+Totalcostofrevenue
+Grossprofit 232,545 44.1 183,476 45.7 110,715 15,455 30.7 54,789 36.5 61,059 8,523 30.6
+Othernetincome 19,296 3.7 15,750 3.9 16,491 2,302 4.6 7,939 5.3 3,021 422 1.5
 Researchanddevelopment
-expenses(1) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (758,565) (143.8)(1,058,395) (263.4)(1,091,357)(152,348) (302.2)(517,210) (344.2)(644,635) (89,988) (322.9)
-Administrativeexpenses(1)(cid:2) (237,236) (45.0) (625,369) (155.6)(1,138,802)(158,970) (315.3)(208,293) (138.6)(278,942) (38,939) (139.8)
-Sellingexpenses(1) (cid:2) (cid:2) (cid:2) (cid:2) (23,574) (4.5) (41,447) (10.3) (53,566) (7,478) (14.8) (22,784) (15.2) (27,780) (3,878) (13.9)
+expenses(1) 
+Administrativeexpenses(1)
+Sellingexpenses(1) 
 Impairmentlosson
 receivablesandcontract
-assets(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (11,696) (2.2) (40,217) (10.0) (28,664) (4,001) (7.9) (13,424) (8.9) (2,800) (391) (1.4)
-Operatingloss (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (779,230) (147.7)(1,566,202) 389.7 (2,185,183)(305,040) (605.1)(698,983) (465.1)(890,077)(124,251) (445.9)
-Netforeignexchangegain(cid:2) 20,209 3.8 7,052 1.8 27,880 3,892 7.7 4,659 3.1 5,629 786 2.8
-Interestincome (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 36,111 6.8 132,042 32.9 176,902 24,695 49.0 89,294 59.4 74,946 10,462 37.5
+assets
+Operatingloss 
+Netforeignexchangegain 20,209 3.8 7,052 1.8 27,880 3,892 7.7 4,659 3.1 5,629 786 2.8
+Interestincome  36,111 6.8 132,042 32.9 176,902 24,695 49.0 89,294 59.4 74,946 10,462 37.5
 – 17 –
 
 === PAGE 28 ===
@@ -1080,23 +1080,23 @@ RMB % RMB % RMB US$ % RMB % RMB US$ %
 Fairvaluechangesof
 financialassetsatfair
 valuethroughprofitor
-loss(“FVTPL”) (cid:2) (cid:2) (cid:2) (cid:2) 7,731 1.5 42,960 10.7 (61,834) (8,632) (17.1) 4,503 3.0 23,154 3,232 11.6
-Otherfinancecosts(cid:2) (cid:2) (cid:2) (cid:2) (4,202) (0.8) (3,490) (0.9) (3,451) (482) (1.0) (1,356) (0.9) (3,292) (460) (1.6)
+loss(“FVTPL”)  4,503 3.0 23,154 3,232 11.6
+Otherfinancecosts
 Inducementchargesof
-warrants(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (125,213) (23.7) – – – – – – – – – –
+warrants – – – – – – – – – –
 Fairvaluechangesof
 financialliabilities
-measuredatFVTPL (cid:2) (cid:2) 25,308 4.8 (4,549) (1.1) – – – – – – – –
+measuredatFVTPL  – – – – – – – –
 Changesinthecarrying
 amountsofpreferred
 sharesandother
 financialinstruments
 subjecttoredemption
 andotherpreferential
-rights(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (479,210) (90.8) (554,048) (137.9) (465,254) (64,947) (128.8)(278,226) (185.1) – – –
-Lossbeforetaxation(cid:2) (cid:2) (cid:2) (1,298,496) (246.1)(1,946,235) 484.2 (2,510,940)(350,514) (695.3)(880,109) (585.6)(789,640)(110,231) (395.6)
-Incometax (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) – – (2,866) (0.7) (5,868) (819) (1.6) (1,591) (1.0) (1,877) (262) (0.9)
-Lossfortheyear/period (cid:2) (1,298,496) (246.1)(1,949,101) 484.9 (2,516,808)(351,333) (696.9)(881,700) (586.6)(791,517)(110,493) (396.5)
+rights – – –
+Lossbeforetaxation
+Incometax 
+Lossfortheyear/period 
 Note:
 (1) Share-based compensation expenses were allocated as follows:
 FortheYearEndedDecember31, FortheSixMonthsEndedJune30,
@@ -1104,12 +1104,12 @@ FortheYearEndedDecember31, FortheSixMonthsEndedJune30,
 RMB RMB RMB US$ RMB RMB US$
 (inthousands)
 (unaudited)
-Costofrevenue (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) – (10,284) (7,161) (1,000) (3,021) – –
+Costofrevenue  – –
 Researchanddevelopment
-expenses(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (231,000) (440,138) (234,350) (32,714) (150,368) (86,386) (12,059)
-Administrativeexpenses(cid:2) (cid:2) (cid:2) (cid:2) (89,978) (465,678) (937,660) (130,892) (133,328) (129,414) (18,065)
-Sellingexpenses(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (4,451) (15,684) (8,696) (1,214) (5,183) (3,722) (520)
-Total (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (325,429) (931,784) (1,187,867) (165,820) (291,900) (219,522) (30,644)
+expenses
+Administrativeexpenses
+Sellingexpenses
+Total 
 – 18 –
 
 === PAGE 29 ===
@@ -1123,9 +1123,9 @@ RMB % RMB % RMB US$ % RMB % RMB US$ %
 (inthousands,exceptforpercentages)
 (unaudited)
 Revenue:
-Productrevenue(1) (cid:2) (cid:2) 337,717 64.0 54,190 13.5 87,710 12,244 24.3 21,045 14.0 69,281 9,671 34.7
-Servicerevenue(2) (cid:2) (cid:2) 189,826 36.0 347,654 86.5 273,424 38,168 75.7 129,253 86.0 130,334 18,194 65.3
-TotalRevenue(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 527,543 100.0 401,844 100.0 361,134 50,412 100.0 150,298 100.0 199,615 27,865 100.0
+Productrevenue(1)  337,717 64.0 54,190 13.5 87,710 12,244 24.3 21,045 14.0 69,281 9,671 34.7
+Servicerevenue(2)  189,826 36.0 347,654 86.5 273,424 38,168 75.7 129,253 86.0 130,334 18,194 65.3
+TotalRevenue 527,543 100.0 401,844 100.0 361,134 50,412 100.0 150,298 100.0 199,615 27,865 100.0
 Notes:
 (1) RepresentsthesalesofourL4autonomousdrivingvehicles,mainlyincludingourrobobuses,robotaxis
 and robosweepers and related sensor suites.
@@ -1146,9 +1146,9 @@ Profit margin Profit margin Profit Profit margin Profit margin Profit Profit mar
 RMB % RMB % RMB US$ % RMB % RMB US$ %
 (in thousands, except for percentages)
 (unaudited)
-Products (cid:2) (cid:2) 145,194 43.0 20,052 37.0 15,994 2,233 18.2 3,888 18.5 33,820 4,721 48.8
-Services(cid:2) (cid:2) (cid:2) 87,351 46.0 163,424 47.0 94,721 13,222 34.6 50,901 39.4 27,239 3,802 20.9
-Total(cid:2) (cid:2) (cid:2) (cid:2) 232,545 44.1 183,476 45.7 110,715 15,455 30.7 54,789 36.5 61,059 8,523 30.6
+Products  145,194 43.0 20,052 37.0 15,994 2,233 18.2 3,888 18.5 33,820 4,721 48.8
+Services 87,351 46.0 163,424 47.0 94,721 13,222 34.6 50,901 39.4 27,239 3,802 20.9
+Total 232,545 44.1 183,476 45.7 110,715 15,455 30.7 54,789 36.5 61,059 8,523 30.6
 – 19 –
 
 === PAGE 30 ===
@@ -1214,15 +1214,15 @@ As of December31, As of June 30,
 2022 2023 2024 2025
 RMB RMB RMB US$ RMB US$
 (in thousands)
-Current assets (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 5,073,473 5,370,023 7,287,995 1,017,365 6,635,157 926,233
-Non-current assets(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 311,918 244,235 405,775 56,644 510,696 71,289
-Total assets (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 5,385,391 5,614,258 7,693,770 1,074,009 7,145,853 997,522
-Total (deficit)/equity (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (2,082,116) (3,051,918) 7,066,019 986,378 6,463,756 902,305
-Current liabilities (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 7,379,407 8,591,413 542,489 75,729 601,280 83,936
-Non-current liabilities (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 88,100 74,763 85,262 11,902 80,817 11,281
-Total liabilities(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 7,467,507 8,666,176 627,751 87,631 682,097 95,217
-Net current (liabilities)/ assets (cid:2) (cid:2) (cid:2) (cid:2) (2,305,934) (3,221,390) 6,745,506 941,636 6,033,877 842,297
-Total equity and liabilities(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 5,385,391 5,614,258 7,693,770 1,074,009 7,145,853 997,522
+Current assets  5,073,473 5,370,023 7,287,995 1,017,365 6,635,157 926,233
+Non-current assets 311,918 244,235 405,775 56,644 510,696 71,289
+Total assets  5,385,391 5,614,258 7,693,770 1,074,009 7,145,853 997,522
+Total (deficit)/equity  7,066,019 986,378 6,463,756 902,305
+Current liabilities  7,379,407 8,591,413 542,489 75,729 601,280 83,936
+Non-current liabilities  88,100 74,763 85,262 11,902 80,817 11,281
+Total liabilities 7,467,507 8,666,176 627,751 87,631 682,097 95,217
+Net current (liabilities)/ assets  6,745,506 941,636 6,033,877 842,297
+Total equity and liabilities 5,385,391 5,614,258 7,693,770 1,074,009 7,145,853 997,522
 We recorded net liabilities of RMB2,082.1 million and RMB3,051.9 million as of
 December 31, 2022 and 2023, and net assets of RMB7,066.0 million (US$986.4 million) as of
 December 31, 2024. The fluctuations during 2022 and 2023 were primarily due to our Group’s
@@ -1279,19 +1279,19 @@ RMB RMB RMB US$ RMB RMB US$
 (inthousands)
 (unaudited)
 Netcashusedinoperating
-activities(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (670,381) (474,890) (593,595) (82,863) (327,180) (663,396) (92,606)
+activities
 Netcash(usedin)/generated
-frominvestingactivities (cid:2) (cid:2) (2,202,414) (546,944) 325,505 45,439 453,236 218,699 30,529
+frominvestingactivities  325,505 45,439 453,236 218,699 30,529
 Netcashgeneratedfrom/(used
-in)financingactivities (cid:2) (cid:2) (cid:2) 2,184,588 446,954 2,823,875 394,198 (8,877) 3,899 544
+in)financingactivities  3,899 544
 Net(decrease)/increasein
-cashandcashequivalents(cid:2) (cid:2) (688,207) (574,880) 2,555,785 356,774 117,179 (440,798) (61,533)
+cashandcashequivalents
 Cashandcashequivalentsas
-ofJanuary1(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 2,725,568 2,233,691 1,661,152 231,888 1,661,152 4,268,300 595,832
+ofJanuary1 2,725,568 2,233,691 1,661,152 231,888 1,661,152 4,268,300 595,832
 Effectofforeignexchange
-ratechanges(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 196,330 2,341 51,363 7,170 50,612 8,635 1,205
+ratechanges 196,330 2,341 51,363 7,170 50,612 8,635 1,205
 Cashandcashequivalentsas
-ofDecember31/June30 (cid:2) (cid:2) 2,233,691 1,661,152 4,268,300 595,832 1,828,943 3,836,137 535,504
+ofDecember31/June30  2,233,691 1,661,152 4,268,300 595,832 1,828,943 3,836,137 535,504
 We recorded net cash outflows from operating activities of RMB670.4 million,
 RMB474.9 million, RMB593.6 million (US$82.9 million), RMB327.2 million and RMB663.4
 million (US$92.6 million) for the years ended December 31, 2022, 2023 and 2024 and for the
@@ -1373,17 +1373,17 @@ risks and uncertainties materializes, the market price of our Shares could decli
 lose all or part of your investments. See “Risk Factors” for details of our risk factors, which
 we urge you to read in full before making an investment in our Shares. Some of the major risks
 we face include:
-(cid:129) We are a company with a limited operating history and financial track record in the
+ We are a company with a limited operating history and financial track record in the
 emergingandfast-evolvingautonomousdrivingindustry,whichinvolvessignificant
 risks and uncertainties.
-(cid:129) We are making, and expect to continue to make in the foreseeable future, substantial
+ We are making, and expect to continue to make in the foreseeable future, substantial
 investments in developing new offerings and technologies.These new initiatives are
 inherently risky, and we may not realize the expected benefits from them.
-(cid:129) We have only recently started to generate revenue and have a history of net losses
+ We have only recently started to generate revenue and have a history of net losses
 and operating cash outflow as well as net current liabilities and deficit during the
 Track Record Period. There is no assurance that we will become or subsequently
 remain profitable.
-(cid:129) Autonomous driving technology is an emerging technology, and we face significant
+ Autonomous driving technology is an emerging technology, and we face significant
 challenges to develop and commercialize our technology. Our technology may not
 perform as well as we expect or may take us longer to commercialize than is
 currently projected.
@@ -1391,32 +1391,32 @@ currently projected.
 
 === PAGE 36 ===
 SUMMARY
-(cid:129) Our business model has yet to be tested, and any failure to commercialize our
+ Our business model has yet to be tested, and any failure to commercialize our
 strategic plans, technologies, products or services would have an adverse effect on
 our operating results and business.
-(cid:129) We cooperate with a large number of business partners, including, among others,
+ We cooperate with a large number of business partners, including, among others,
 OEMs, Tier 1 suppliers, logistics and urban service providers, and others.
 Collaboration with third parties subjects us to risks.
-(cid:129) Our customers’ ability to make payments may be negatively impacted by the
+ Our customers’ ability to make payments may be negatively impacted by the
 economic downturns, leading to longer payment cycles and increased difficulties in
 collecting receivables, which poses a risk to our cash flow and overall liquidity.
-(cid:129) We operate and compete in highly competitive markets, facing challenges from both
+ We operate and compete in highly competitive markets, facing challenges from both
 currentandfuturecompetitors.Ifwefailtocommercializeourtechnologyonalarge
 scale before our competitors, develop superior technology and products, or compete
 effectively,wemayloseourmarketshareorfailtogainadditionalmarketshare,and
 our growth and financial condition may be adversely affected.
-(cid:129) Our operations are subject to extensive and evolving governmental regulations and
+ Our operations are subject to extensive and evolving governmental regulations and
 may be adversely affected by changes in automotive safety regulations that could
 impose substantial costs, legal prohibitions or unfavorable changes upon our
 operations, and we may incur material liabilities under, or costs in order to comply
 with, existing or future laws and regulations.
-(cid:129) Our expansion into new geographical areas and jurisdictions involves inherent risks,
+ Our expansion into new geographical areas and jurisdictions involves inherent risks,
 which may adversely affect our business and results of operations.
-(cid:129) The current tensions in international trade and rising political tensions, particularly
+ The current tensions in international trade and rising political tensions, particularly
 between the U.S. and China, the U.S. and the European Union, or the European
 UnionandChinamayadverselyimpactourbusiness,financialcondition,andresults
 of operations.
-(cid:129) The concentration of our Share’s voting power limited our Shareholders’ ability to
+ The concentration of our Share’s voting power limited our Shareholders’ ability to
 influence corporate matters.
 WVR STRUCTURE AND WVR BENEFICIARIES
 Our Company has a WVR structure. Under the current WVR structure, our Company’s
@@ -1602,11 +1602,11 @@ autonomous driving vehicles.
 As of December 31 As of June 30
 Metrics (Cumulative) 2022 2023 2024 2024 2025
 Countries with testing and commercial
-activities (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 5 5 8 7 10
+activities  5 5 8 7 10
 Countries where we hold autonomous
-driving permits(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2 4 4 4 5
-Fleet size(1) of vehicles sold(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 156 178 269 191 341
-Fleet size of self-operated vehicles (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 383 476 820 614 973
+driving permits 2 4 4 4 5
+Fleet size(1) of vehicles sold 156 178 269 191 341
+Fleet size of self-operated vehicles  383 476 820 614 973
 Note:
 (1) “Fleet size” refers to the number of L4 and above vehicles, and is frequently used as an industry
 benchmark,accordingtoCIC.Itincludesboth(i)theaccumulatedsalesvolumeand(ii)thecurrentsize
@@ -1618,9 +1618,9 @@ As of/Six
 Months Ended
 As of/Year Ended December 31, June 30,
 2022 2023 2024 2025
-Gross margin(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 44.1% 45.7% 30.7% 30.6%
-R&D expenditure ratio(1) (cid:2)(cid:2) 74.5% 61.3% 47.8% 67.8%
-Current ratio(2) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 0.69 0.63 13.43 11.04
+Gross margin 44.1% 45.7% 30.7% 30.6%
+R&D expenditure ratio(1)  74.5% 61.3% 47.8% 67.8%
+Current ratio(2)  0.69 0.63 13.43 11.04
 Notes:
 (1) R&DexpenditureratioiscalculatedbydividingtheR&Dexpenditurebythetotaloperatingexpenditure
 fortheyears/periodspresented,whichconsistedofresearchanddevelopmentexpenses,administrative
@@ -1639,9 +1639,9 @@ offer price per Offer Share
 of HK$35.0 for both the
 Hong Kong Public Offering
 and the International Offering
-Our market capitalization(1)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) HK$35,931.6 million
+Our market capitalization(1) HK$35,931.6 million
 Unaudited pro forma adjusted net tangible assets
-per Share(2) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) HK$9.73
+per Share(2)  HK$9.73
 Notes:
 (1) The calculation of market capitalization is based on 1,026,616,330 Shares expected to be in issue
 immediately upon completion of the Global Offering, comprising (i) 938,366,330 Shares issued and
@@ -1722,48 +1722,48 @@ priceofHK$35.0perOfferShareforboththeHongKongPublicOfferingandtheInternational
 Offering, and assuming that the Over-allotment Option is not exercised.
 In line with our strategies, we intend to apply the net proceeds from the Global Offering
 for the following purposes and in the amounts set forth below:
-(cid:129) Approximately 40.0% of the net proceeds, or HK$1,172.8 million, will be used to
+ Approximately 40.0% of the net proceeds, or HK$1,172.8 million, will be used to
 develop our autonomous driving technology stack, including infrastructure and core
 capabilities, data, autonomous driving technology solutions, and an operations
 platform:
-(cid:2) approximately 20.0% of the net proceeds, or HK$586.4 million, will be used
+ approximately 20.0% of the net proceeds, or HK$586.4 million, will be used
 for the R&D and enhancement of our infrastructure and core capabilities,
 including our collaborative distributed model, cloud-native development
 platform and an expansive suite of tools for simulation, incident analysis, and
 data analytics, among others, to consistently support the upgrade of our
 autonomous driving solutions and broader AI applications.
-(cid:2) approximately 20.0% of the net proceeds, or HK$586.4 million, will be used
+ approximately 20.0% of the net proceeds, or HK$586.4 million, will be used
 for the R&D and enhancement of our data quality and autonomous driving
 technology solutions, including HD mapping and mapless solutions, AI
 models, hybrid architecture, and world simulator, as well as our unified
 operations platform.
-(cid:129) Approximately 40.0% of the net proceeds, or HK$1,172.8 million, will be used to
+ Approximately 40.0% of the net proceeds, or HK$1,172.8 million, will be used to
 accelerate the commercial mass production and/or the operation of our L4 fleets, to
 improve the quality of our autonomous driving products and solutions and expand
 our business scale over the next five years:
-(cid:2) approximately 18.0% of the net proceeds, or HK$527.8 million, will be used
+ approximately 18.0% of the net proceeds, or HK$527.8 million, will be used
 for the scaling up of our robotaxi commercialization and ride-hailing services,
 to improve operational service capabilities.
-(cid:2) approximately 12.0% of the net proceeds, or HK$351.8 million, will be used
+ approximately 12.0% of the net proceeds, or HK$351.8 million, will be used
 to advance the commercial production and operation of our robobuses,
 robovans and robosweepers.
-(cid:2) approximately 10.0% of the net proceeds, or HK$293.2 million, will be used
+ approximately 10.0% of the net proceeds, or HK$293.2 million, will be used
 to co-develop and distributeADAS with strategic partners, Bosch and explore
 more partnership opportunities for ADAS.
 – 34 –
 
 === PAGE 45 ===
 SUMMARY
-(cid:129) Approximately 10.0% of the net proceeds, or HK$293.2 million, will be used to
+ Approximately 10.0% of the net proceeds, or HK$293.2 million, will be used to
 establish marketing teams and branches necessary for us to expand into existing
 markets and additional markets, as well as to invest in marketing activities over the
 next five years:
-(cid:2) approximately 5.0% of the net proceeds, or HK$146.6 million, will be used to
+ approximately 5.0% of the net proceeds, or HK$146.6 million, will be used to
 further expand our overseas business.
-(cid:2) approximately 5.0% of the net proceeds, or HK$146.6 million, will be used to
+ approximately 5.0% of the net proceeds, or HK$146.6 million, will be used to
 promote ongoing marketing activities in China to support our branding,
 negotiation of partnership opportunities.
-(cid:129) Approximately 10.0% of the net proceeds, or HK$293.3 million, will be used for
+ Approximately 10.0% of the net proceeds, or HK$293.3 million, will be used for
 working capital and general corporate purposes.
 For more details, see “Future Plans and Use of Proceeds.”
 RECENT DEVELOPMENT
@@ -2531,19 +2531,19 @@ likely to,” “potential,” “continue” or other similar expressions. We h
 forward-looking statements largely on our current expectations and projections about future
 events that we believe may affect our financial condition, results of operations, business
 strategy and financial needs. These forward-looking statements include statements relating to:
-(cid:129) our mission, goals, and strategies;
-(cid:129) our future business development, financial condition, and results of operations;
-(cid:129) the expected changes in our revenue, expenses or expenditures;
-(cid:129) the expected growth of the autonomous driving market in China and globally;
-(cid:129) our expectations regarding demand for and market acceptance of our products and
+ our mission, goals, and strategies;
+ our future business development, financial condition, and results of operations;
+ the expected changes in our revenue, expenses or expenditures;
+ the expected growth of the autonomous driving market in China and globally;
+ our expectations regarding demand for and market acceptance of our products and
 services;
-(cid:129) our ability to improve and enhance our autonomous driving technology and offer
+ our ability to improve and enhance our autonomous driving technology and offer
 quality products and services;
-(cid:129) competition in our industry;
-(cid:129) government policies and regulations relating to our industry;
-(cid:129) general economic and business conditions in China and globally;
-(cid:129) the outcome of any legal or administrative proceedings; and
-(cid:129) assumptions underlying or related to any of the foregoing.
+ competition in our industry;
+ government policies and regulations relating to our industry;
+ general economic and business conditions in China and globally;
+ the outcome of any legal or administrative proceedings; and
+ assumptions underlying or related to any of the foregoing.
 Youshouldreadthisprospectusandthedocumentsthatwerefertointhisprospectuswith
 theunderstandingthatouractualfutureresultsmaybemateriallydifferentfromandworsethan
 what we expect. Other sections of this prospectus include additional factors which could
@@ -2621,30 +2621,30 @@ RISK FACTORS
 You should consider our business and prospects in light of the risks and challenges we
 face as a company with limited operating history into a rapidly-evolving industry, including,
 among other things, with respect to our ability to:
-(cid:129) design and offer safe, reliable and quality autonomous driving products and services
+ design and offer safe, reliable and quality autonomous driving products and services
 on an ongoing basis;
-(cid:129) establish and expand our customer base for our purpose-built L4 autonomous
+ establish and expand our customer base for our purpose-built L4 autonomous
 driving vehicles, including robotaxi, robobus and other vehicle types;
-(cid:129) successfully launch and commercialize future special purpose vehicles;
-(cid:129) successfully expand our operations in the ADAS market leveraging our
+ successfully launch and commercialize future special purpose vehicles;
+ successfully expand our operations in the ADAS market leveraging our
 technological and commercialization experience in the L4 vertical;
-(cid:129) successfully expand to new geographical areas and jurisdictions;
-(cid:129) successfully produce L4 autonomous driving vehicles with our OEM partners in the
+ successfully expand to new geographical areas and jurisdictions;
+ successfully produce L4 autonomous driving vehicles with our OEM partners in the
 expected timeline;
-(cid:129) maintain the safe operation of our purpose-built L4 autonomous driving vehicles;
-(cid:129) establish and maintain cooperative relationships with ecosystem partners, such as
+ maintain the safe operation of our purpose-built L4 autonomous driving vehicles;
+ establish and maintain cooperative relationships with ecosystem partners, such as
 OEMs, Tier 1 suppliers, logistics and urban service providers, and others;
-(cid:129) improve and enhance our platform and autonomous technology, and maintain a
+ improve and enhance our platform and autonomous technology, and maintain a
 reliable, secure, high-performance and scalable technology infrastructure;
-(cid:129) improve and maintain our operational efficiency;
-(cid:129) successfully market our product and service offerings;
-(cid:129) attract, retain, and motivate talented employees;
-(cid:129) obtain and generate sufficient capital to maintain our operations and grow our
+ improve and maintain our operational efficiency;
+ successfully market our product and service offerings;
+ attract, retain, and motivate talented employees;
+ obtain and generate sufficient capital to maintain our operations and grow our
 business;
-(cid:129) anticipate and adapt to changing market conditions, including technological
+ anticipate and adapt to changing market conditions, including technological
 developments and changes in competitive landscape;
-(cid:129) build a well-recognized and respected brand; and
-(cid:129) navigate an evolving and complex regulatory environment.
+ build a well-recognized and respected brand; and
+ navigate an evolving and complex regulatory environment.
 – 60 –
 
 === PAGE 71 ===
@@ -2897,26 +2897,26 @@ requirementsfortechnologydevelopment,delayourtimelinetocommercialization,andredu
 the potential financial returns that may be expected from the business.
 Our continued enhancement of our autonomous driving technology is and will be subject
 to risks, including but not limited to the following aspects:
-(cid:129) our ability to achieve sufficiently safe autonomous driving system performance;
-(cid:129) our ability to developADAS that enable autonomous driving functions on vehicles;
-(cid:129) acceptance from our customers and potential customers, as well as the general
+ our ability to achieve sufficiently safe autonomous driving system performance;
+ our ability to developADAS that enable autonomous driving functions on vehicles;
+ acceptance from our customers and potential customers, as well as the general
 public of our autonomous driving products and services as well as the autonomous
 driving technology in general;
-(cid:129) our ability to continue to enhance our data analytics and software technology;
-(cid:129) our ability to successfully complete system testing, validation and obtain safety
+ our ability to continue to enhance our data analytics and software technology;
+ our ability to successfully complete system testing, validation and obtain safety
 approvals;
-(cid:129) our ability to obtain additional approvals, licenses or certifications from regulatory
+ our ability to obtain additional approvals, licenses or certifications from regulatory
 agencies, if required, and maintaining current approvals, licenses or certifications;
-(cid:129) our ability to preserve core intellectual property rights;
+ our ability to preserve core intellectual property rights;
 – 66 –
 
 === PAGE 77 ===
 RISK FACTORS
-(cid:129) our ability to design, develop and secure necessary components on acceptable terms
+ our ability to design, develop and secure necessary components on acceptable terms
 and in a timely manner;
-(cid:129) our ability to secure additional capital to support our research and development
+ our ability to secure additional capital to support our research and development
 activities; and
-(cid:129) our ability to expand and strengthen cooperative relationships with our ecosystem
+ our ability to expand and strengthen cooperative relationships with our ecosystem
 partners.
 Since the market for autonomous driving products and services is relatively new and
 disruptive, if our autonomous driving products and services fail to gain acceptance from
@@ -3562,29 +3562,29 @@ commercialization,continuetostrengthenourtechnology,reducecostandimproveoperatio
 efficiency, expand global presence and to broaden strategic partnership. However, we may not
 be able to execute on these strategies as effectively as anticipated. Our ability to execute on
 these strategies depends on a number of factors, including:
-(cid:129) our ability to build on our technological and business milestones to advance towards
+ our ability to build on our technological and business milestones to advance towards
 full commercialization across robotaxi, robobus, robovan, robosweeper and other
 autonomous driving use cases;
-(cid:129) our ability to work with OEMs and other suppliers to scale up our products and
+ our ability to work with OEMs and other suppliers to scale up our products and
 services to meet our customers’ needs;
-(cid:129) our ability to work with business partners to bring leading ADAS to the market;
+ our ability to work with business partners to bring leading ADAS to the market;
 – 81 –
 
 === PAGE 92 ===
 RISK FACTORS
-(cid:129) our ability to continue to deliver our technology through providing autonomous
+ our ability to continue to deliver our technology through providing autonomous
 driving products and services;
-(cid:129) whether we have adequate capital resources to expand and optimize our technology
+ whether we have adequate capital resources to expand and optimize our technology
 platform, expand our offerings, enhance our data capabilities and increase our
 spending on talent development;
-(cid:129) our ability to continue to upgrade our technology platform and to accelerate the
+ our ability to continue to upgrade our technology platform and to accelerate the
 evolution of our product and service offerings;
-(cid:129) our successful execution of our overseas expansion plan;
-(cid:129) our ability to improve operational efficiency;
-(cid:129) our ability to strengthen our existing partnerships and enter into new strategic
+ our successful execution of our overseas expansion plan;
+ our ability to improve operational efficiency;
+ our ability to strengthen our existing partnerships and enter into new strategic
 partnerships with industry leaders across the value chain;
-(cid:129) ourabilitytohire,trainandretaintoptalentintheautonomousdrivingindustry;and
-(cid:129) our ability to navigate an evolving and complex regulatory environment.
+ ourabilitytohire,trainandretaintoptalentintheautonomousdrivingindustry;and
+ our ability to navigate an evolving and complex regulatory environment.
 Our current and future autonomous driving products and services may not generate the
 expected levels of sales and profitability, and our growth strategies may not lead to the
 commercialization necessary to achieve a comparable level of profitability. To the extent that
@@ -3654,12 +3654,12 @@ In operating our business and providing services to customers and end users, we 
 use, store, transmit and otherwise process various types of data. While we take measures to
 comply with all applicable cybersecurity and data privacy laws and regulations, we face risks
 and challenges inherent in processing and protecting large volume of data, including:
-(cid:129) protecting the data collected, stored and processed on our technology systems,
+ protecting the data collected, stored and processed on our technology systems,
 including against attacks on our system by outside parties or fraudulent behavior or
 improper use by our employees;
-(cid:129) addressing concerns related to privacy and sharing, safety, security and other
+ addressing concerns related to privacy and sharing, safety, security and other
 factors, including properly sanitizing personal data collected; and
-(cid:129) complying with applicable laws, rules and regulations relating to the collection, use,
+ complying with applicable laws, rules and regulations relating to the collection, use,
 storage, transfer, disclosure and security of personal information and other data.
 The users’ data obtained by us through the WeRide Go app, our online taxi platform, is
 stored on the cloud provided by a leading cloud service supplier in China. We have reached
@@ -5474,28 +5474,28 @@ consequently may impact the trading performance of our Class A Ordinary Shares a
 regardless of our actual operating performance.
 In addition to the above factors, the price and trading volume of our Class A Ordinary
 Shares and ADSs may be highly volatile due to multiple factors, including the following:
-(cid:129) regulatory developments affecting us or our industry, strategic business partners and
+ regulatory developments affecting us or our industry, strategic business partners and
 third parties that collaborate with us;
-(cid:129) announcements of studies and reports relating to the quality of our products and
+ announcements of studies and reports relating to the quality of our products and
 services or those of our competitors;
 – 125 –
 
 === PAGE 136 ===
 RISK FACTORS
-(cid:129) changes in the economic performance or market valuations of our competitors;
-(cid:129) actual or anticipated fluctuations in our quarterly results of operations and changes
+ changes in the economic performance or market valuations of our competitors;
+ actual or anticipated fluctuations in our quarterly results of operations and changes
 or revisions of our expected results;
-(cid:129) changes in financial estimates by securities research analysts;
-(cid:129) conditions in the autonomous driving industry;
-(cid:129) announcements by us or our competitors of acquisitions, strategic relationships,
+ changes in financial estimates by securities research analysts;
+ conditions in the autonomous driving industry;
+ announcements by us or our competitors of acquisitions, strategic relationships,
 joint ventures, capital raisings or capital commitments;
-(cid:129) additions to or departures of our senior management;
-(cid:129) fluctuations of exchange rates between the RMB and the U.S. dollar;
-(cid:129) release or expiry of lock-up or other transfer restrictions on our issued and
+ additions to or departures of our senior management;
+ fluctuations of exchange rates between the RMB and the U.S. dollar;
+ release or expiry of lock-up or other transfer restrictions on our issued and
 outstanding Class A Ordinary Shares or ADSs;
-(cid:129) sales or perceived potential sales of additional Class A Ordinary Shares or ADSs;
-(cid:129) changes in relations between the United States and China; and
-(cid:129) potential litigation or regulatory investigations.
+ sales or perceived potential sales of additional Class A Ordinary Shares or ADSs;
+ changes in relations between the United States and China; and
+ potential litigation or regulatory investigations.
 Substantial future sales or perceived potential sales of our Class A Ordinary Shares and
 ADSsinthepublicmarketcouldcausethepriceofourClassAOrdinarySharesandADSs
 to decline.
@@ -5674,13 +5674,13 @@ Under the DepositAgreement for theADSs, if holders of ourADSs do not provide tim
 instructions to the Depositary as to how to vote the Class A Ordinary Shares underlying their
 ADSs, the Depositary will give us a discretionary proxy to vote the Class A Ordinary Shares
 underlying their ADSs at shareholders’ meetings unless:
-(cid:129) we have instructed the Depositary that we do not wish a discretionary proxy to be
+ we have instructed the Depositary that we do not wish a discretionary proxy to be
 given;
-(cid:129) we have informed the Depositary that there is substantial opposition as to a matter
+ we have informed the Depositary that there is substantial opposition as to a matter
 to be voted on at the meeting;
-(cid:129) a matter to be voted on at the meeting would have a material adverse impact on
+ a matter to be voted on at the meeting would have a material adverse impact on
 shareholders; or
-(cid:129) the voting at the meeting is to be made on a show of hands.
+ the voting at the meeting is to be made on a show of hands.
 TheeffectofthisdiscretionaryproxyisthatholdersofourADSscannotpreventtheClass
 A Ordinary Shares underlying their ADSs from being voted, except under the circumstances
 describedabove.ThismaymakeitmoredifficultforADSholderstoinfluencethemanagement
@@ -5997,20 +5997,20 @@ companies.
 Because we qualify as a foreign private issuer under the Exchange Act, we are exempt
 from certain provisions of the securities rules and regulations in the United States that are
 applicable to U.S. domestic issuers, including:
-(cid:129) the rules under the Exchange Act requiring the filing with the SEC of quarterly
+ the rules under the Exchange Act requiring the filing with the SEC of quarterly
 reports on Form 10-Q or current reports on Form 8-K;
 – 137 –
 
 === PAGE 148 ===
 RISK FACTORS
-(cid:129) the sections of the Exchange Act regulating the solicitation of proxies, consents, or
+ the sections of the Exchange Act regulating the solicitation of proxies, consents, or
 authorizations in respect of a security registered under the Exchange Act;
-(cid:129) the sections of the Exchange Act requiring insiders to file public reports of their
+ the sections of the Exchange Act requiring insiders to file public reports of their
 stock ownership and trading activities and liability for insiders who profit from
 trades made in a short period of time;
-(cid:129) the selective disclosure rules by issuers of material nonpublic information under
+ the selective disclosure rules by issuers of material nonpublic information under
 Regulation FD promulgated by SEC; and
-(cid:129) certain audit committee independence requirements in Rule 10A-3 of the Exchange
+ certain audit committee independence requirements in Rule 10A-3 of the Exchange
 Act.
 We will be required to file an annual report on Form 20-F within four months of the end
 of each fiscal year. In addition, we intend to publish our results on a quarterly basis as press
@@ -7881,16 +7881,16 @@ convert them to ADSs to trade on Nasdaq must deposit or have his/her/its broker 
 Class A Ordinary Shares with the Custodian in exchange for ADSs. A deposit of Class A
 Ordinary Shares traded in Hong Kong in exchange for ADSs involves the following
 procedures:
-(cid:129) If Class A Ordinary Shares have been deposited within CCASS, the investor must
+ If Class A Ordinary Shares have been deposited within CCASS, the investor must
 transfer such Class A Ordinary Shares to the Depositary’s account with the
 Custodian within CCASS by following the CCASS procedures for transfer and
 deliver to the Custodian instructions for the issuance and delivery of the
 corresponding ADSs.
-(cid:129) If Class A Ordinary Shares are held outside CCASS, the investor must arrange to
+ If Class A Ordinary Shares are held outside CCASS, the investor must arrange to
 deposit the Class A Ordinary Shares into CCASS for delivery to the Depositary’s
 account with the Custodian within CCASS and must deliver to the Custodian
 instructions for the issuance and delivery of the corresponding ADSs.
-(cid:129) Upon payment of its fees and expenses and of any taxes or charges, such as stamp
+ Upon payment of its fees and expenses and of any taxes or charges, such as stamp
 duties or stock transfer taxes or fees, if applicable, and subject in all cases to the
 termsoftheDepositAgreement,theDepositarywillissuethecorrespondingnumber
 of ADSs and will deliver the ADSs as instructed by the depositary party.
@@ -7916,16 +7916,16 @@ or other financial institution to arrange for cancelation of the ADSs and withdr
 underlying Class A Ordinary Shares from the Depositary’s account with the Custodian within
 CCASS to the investor’s Hong Kong stock account. For investors holding ADSs directly, the
 following steps must be taken:
-(cid:129) TowithdrawClassAOrdinarySharesfromourADSprogram,aninvestorwhoholds
+ TowithdrawClassAOrdinarySharesfromourADSprogram,aninvestorwhoholds
 ADSs may turn in such ADSs to the Depositary (and the applicable ADR(s) if the
 ADSs are held in certificated form) and send an instruction to cancel suchADSs to
 the Depositary.
-(cid:129) Upon payment or net of its fees and expenses and any taxes or charges, such as
+ Upon payment or net of its fees and expenses and any taxes or charges, such as
 stamp duties or stock transfer taxes or fees, if applicable, and subject in all cases to
 the terms of the Deposit Agreement, the Depositary will cancel the ADSs and
 instruct the Custodian to deliver Class A Ordinary Shares underlying the canceled
 ADSs to the CCASS account designated by the investor.
-(cid:129) If the investor prefers to receive ClassAOrdinary Shares outside CCASS, he/she/it
+ If the investor prefers to receive ClassAOrdinary Shares outside CCASS, he/she/it
 must receive Class A Ordinary Shares in CCASS first and then arrange for
 withdrawal of the Class A Ordinary Shares from CCASS. The investor can then
 obtain a transfer form signed by HKSCC Nominees (as the transferor) and register
@@ -7950,9 +7950,9 @@ INFORMATION ABOUT THIS PROSPECTUS AND THE GLOBAL OFFERING
 Depositary Requirements
 Before the Depositary delivers ADSs or permits withdrawal of Class A Ordinary Shares,
 the Depositary may require:
-(cid:129) production of satisfactory proof of the identity and genuineness of any signature or
+ production of satisfactory proof of the identity and genuineness of any signature or
 other information it deems necessary; and
-(cid:129) compliance with procedures it may establish, from time to time, consistent with the
+ compliance with procedures it may establish, from time to time, consistent with the
 Deposit Agreement, including completion and presentation of transfer documents.
 The Depositary may refuse to deliver, transfer, or register issuances, transfers and
 cancelations of ADSs generally when the transfer books of the Depositary or our Hong Kong
@@ -8686,11 +8686,11 @@ for City Roads, 2024*
 Market share in terms
 Ranking Company of revenue
 (%)
-1 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Company A(1) ~37
-2 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) WeRide ~22
-3 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Company B(2) ~10
-4 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Company C(3) ~7
-5 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Company D(4) ~6
+1  ~37
+2  WeRide ~22
+3  ~10
+4  ~7
+5  ~6
 Notes:
 * The market share for each competitor is calculated by dividing their revenue generated from L4
 autonomous vehicles on city main roads by the total revenue of the L4 autonomous driving market on
@@ -8833,10 +8833,10 @@ The below chart sets forth the service coverage of stakeholders for L4 technolog
 companies with commercial deployment of robotaxis:
 OEM Operation Ride-sharing
 Company Partners Partners Platforms End Users
-WeRide (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (cid:2) (cid:2) (cid:2) (cid:2)
-Company E(1) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (cid:2) X (cid:2) (cid:2)
-Company A(2) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (cid:2) (cid:2) (cid:2) (cid:2)
-Company D(3) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (cid:2) X X (cid:2)
+WeRide 
+Company E(1) 
+Company A(2) 
+Company D(3) 
 Notes:
 * As of the Latest Practicable Date
 (1) Company E is a China-based Nasdaq-listed autonomous driving company.
@@ -8872,22 +8872,22 @@ INDUSTRY OVERVIEW
 Comparison of WeRide with Other Global L4 Autonomous Driving Companies
 with Robotaxi Operation
 WeRide Company E(1) CompanyA(2) Company D(3)
-Offerings (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:129) Robotaxi (cid:129) Robotaxi (cid:129) Robotaxi (cid:129) Robotaxi
-(cid:129) Robobus (cid:129) Robotruck (cid:129) Robo logistics
-(cid:129) Robovan (cid:129) ADAS vehicle
-(cid:129) Robosweeper
-(cid:129) ADAS
-Fleet size (robotaxi)*(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) ~400 ~250 ~800 ~2,300
+Offerings  Robotaxi
+ Robo logistics
+ ADAS vehicle
+ Robosweeper
+ ADAS
+Fleet size (robotaxi)* ~400 ~250 ~800 ~2,300
 Countries foroperation 4 1 1 1
-(robotaxi)** (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2)
+(robotaxi)** 
 Cities foroperation 5 4 3 16
-(robotaxi)** (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2)
+(robotaxi)** 
 Start of public robotaxi 2019 2021 2020 2021
-operation(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2)
-No regulatory discipline**(cid:2) (cid:2) (cid:2) X X X
+operation
+No regulatory discipline** X X X
 Market share in terms of ~10 ~2 ~88 ~0
 international robotaxi
-revenue, %, 2024*** (cid:2) (cid:2) (cid:2) (cid:2)
+revenue, %, 2024*** 
 Notes:
 * AsofDecember31,2024.“Fleetsize”referstothenumberofL4andabovevehicles,andisfrequentlyused
 as an industry benchmark, according to CIC. It includes both (i) the accumulated sales volume and (ii) the
@@ -8900,7 +8900,7 @@ excluding China by the total revenue of the non-China robotaxi market.
 (3) Company D is a China-based Nasdaq-listed company that develops driverless vehicles, among other
 businesses.
 Key Challenges Associated with Robotaxis Deployment and Commercialization
-(cid:129) Technology. Autonomous driving is difficult technologically and challenging to reliably
+ Technology. Autonomous driving is difficult technologically and challenging to reliably
 deliver in real world settings, due to limited off-the-shelf commercial solutions, shortage
 of high-quality and properly annotated data, suboptimal hardware and software design
 and integration, and the lack of reliability, connectivity and coverage of corner cases.
@@ -8911,7 +8911,7 @@ monitor the operations of vehicles in a variety of road conditions and environme
 
 === PAGE 223 ===
 INDUSTRY OVERVIEW
-(cid:129) Safety. Safety is of paramount importance to autonomous driving companies, not only
+ Safety. Safety is of paramount importance to autonomous driving companies, not only
 becauseanymistakecanleadtosevereconsequences,butalsobecauseconsumersandthe
 public are much less tolerant towards machine errors than human errors.As such, it’s far
 from enough for autonomous driving systems to be just safer than average human driver,
@@ -8919,13 +8919,13 @@ they must function flawlessly. However, factors such as unusual behaviors from o
 vehicles, unexpected road conditions, and difficulties in precise localization can make it
 extremely challenging for autonomous driving companies to maintain a perfect safety
 record.
-(cid:129) Consumer acceptance. As access to robotaxis increases and more people have the
+ Consumer acceptance. As access to robotaxis increases and more people have the
 opportunity to experience them firsthand, comfort levels are generally rising. However,
 many consumers still have concerns about safety, reliability, and the technology’s ability
 to handle complex driving scenarios. In addition, skepticism may persist among those
 who have not yet experienced robotaxis or other autonomous driving vehicles, leading to
 hesitation in embracing this new mode of transportation.
-(cid:129) Regulatory support. The advancement of autonomous driving technology faces
+ Regulatory support. The advancement of autonomous driving technology faces
 significant challenges related to regulatory support, primarily due to a fragmented
 regulatory landscape. Different regions and countries have varying laws and regulations
 governing autonomous driving vehicles, which complicates the development and
@@ -8935,7 +8935,7 @@ further complexities as each group may have unique concerns and objectives. Whil
 receptivity to autonomous driving is increasing among regulators and policymakers, it
 often lags behind the rapid pace of technological advancements. This disconnect can lead
 to uncertainty for developers and hinder the timely introduction of innovative solutions.
-(cid:129) Scaling. Scaling up a robotaxi operation is challenging, as it requires not only
+ Scaling. Scaling up a robotaxi operation is challenging, as it requires not only
 technological advancements but also operational expertise. Fundamentally different from
 traditional cars and taxis, robotaxis require the integration of advanced technology and
 systems not found in traditional vehicles. Efficient market entry can benefit from
@@ -8948,7 +8948,7 @@ facilities, charging stations, service operations, and more.
 === PAGE 224 ===
 INDUSTRY OVERVIEW
 Key Growth Drivers for Robotaxi Deployment and Commercialization
-(cid:129) Robust technology that has been tested in real-world conditions and is continually
+ Robust technology that has been tested in real-world conditions and is continually
 advancing. Significant advancements have been achieved in autonomous driving
 technologies, including improvements in sensor technology, AI, machine learning, and
 vehicle-to-everything communication. However, autonomous driving, especially at L4
@@ -8957,7 +8957,7 @@ real-world conditions. Real-world testing is essential for validating and buildi
 confidence in the safety and efficiency of robotaxis. In addition, ongoing technological
 advancements are crucial for addressing the complexities of real-world driving scenarios
 and enabling robotaxis to adapt to diverse environments effectively.
-(cid:129) Growing public confidence and acceptance of autonomous driving. Growing public
+ Growing public confidence and acceptance of autonomous driving. Growing public
 confidence and acceptance of autonomous driving is a crucial driver for the growth of the
 robotaxi industry.As more individuals experience robotaxis, more real-world data will be
 generated and used to further enhance the development and functionality of these
@@ -8966,7 +8966,7 @@ the establishment of infrastructure that supports this technology and the making
 favorable governmental policies relating to autonomous driving. These, in turn, will
 accelerate the transition toward a future where autonomous driving becomes a standard
 mode of transportation.
-(cid:129) A proactive stance from regulators to explore innovative policies and expand
+ A proactive stance from regulators to explore innovative policies and expand
 operational regions. A proactive regulatory approach is essential for the growth of the
 robotaxiindustry,particularlyasitdifferssignificantlyfromtraditionalvehicleoperation.
 Existingregulationsbasedonconventionaldrivingmaynoteffectivelyaddresstheunique
@@ -8977,7 +8977,7 @@ accelerates, regulations often lag behind, risking stifling progress. By establi
 cohesive regulatory framework across regions and standardizing regulations, authorities
 can create a supportive environment for the development and deployment of autonomous
 vehicles, enhancing public safety and fostering innovation in this transformative sector.
-(cid:129) Expandingecosystemthatencompassesfleetmanagement,maintenance,financingand
+ Expandingecosystemthatencompassesfleetmanagement,maintenance,financingand
 insurance services. Fleet management, maintenance, financing, and insurance services
 are essential for the growth of the robotaxis industry. Fleet management improves
 operational efficiency by optimizing vehicle performance and enabling real-time
@@ -8991,7 +8991,7 @@ transition to widespread adoption of autonomous vehicles.
 
 === PAGE 225 ===
 INDUSTRY OVERVIEW
-(cid:129) Consumer platforms rather than OEMs will drive proliferation of L4. Consumer
+ Consumer platforms rather than OEMs will drive proliferation of L4. Consumer
 platforms, such as the ride-hailing service provider, are expected to play a crucial role in
 the proliferation of L4 autonomous vehicles, rather than traditional OEMs. By freeing
 human drivers from the responsibilities of driving, L4 technology is ideally positioned to
@@ -9020,7 +9020,7 @@ In addition to robotaxi, L4 technology also powers buses, intra-city and inter-c
 logistics vehicles, sweepers, other industrial and urban service vehicles and other passenger
 vehicles. Use cases in public utilities and industrial settings such as robobus and robosweeper
 are expected to commercialize on a large scale starting from 2025.
-(cid:129) Robobus. Robobus, expected to be one of the earliest commercial applications of
+ Robobus. Robobus, expected to be one of the earliest commercial applications of
 autonomous driving due to its largely pre-determined routes, began deployment in
 closed environments in 2018, expanded to open roads in 2020, and achieved
 driverless L4 operation in 2021. The global robobus market is below US$0.1 billion
@@ -9038,13 +9038,13 @@ Global Competitive Landscape of Robobus, 2024
 Market share in terms
 Ranking Company of revenue
 (%)
-1 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) WeRide ~36
-2 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Company F(1) ~32
-3 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Company G(2) ~14
+1  WeRide ~36
+2  ~32
+3  ~14
 Notes:
 (1) Company F is a China-based privately held autonomous driving company.
 (2) Company G is a China-based privately held autonomous driving company.
-(cid:129) Robo logistics vehicles. The global market for robo logistics vehicles is US$0.17
+ Robo logistics vehicles. The global market for robo logistics vehicles is US$0.17
 billion in 2024 and expected to reach US$746 billion by 2030 and US$4,656 billion
 by 2035. Due to their technical similarities with robotaxis and robobuses, together
 with ready hardware and favorable regulations, robo logistics vehicles have been
@@ -9058,10 +9058,10 @@ Global Competitive Landscape of Robovan, 2024*
 Market share in terms
 Ranking Company of revenue
 (%)
-1 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Company B(1) ~62
-2 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Company H(2) ~26
-3 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) WeRide ~9
-4 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Company I(3) ~1
+1  ~62
+2  ~26
+3  WeRide ~9
+4  ~1
 Notes:
 * Robovan refers to robologistic vehicles mainly operating on city roads.
 (1) Company B is a China-based privately-held autonomous driving company.
@@ -9071,7 +9071,7 @@ Notes:
 
 === PAGE 227 ===
 INDUSTRY OVERVIEW
-(cid:129) Robosweepers. Robosweepers can replace human labor in city sanitation, operating
+ Robosweepers. Robosweepers can replace human labor in city sanitation, operating
 efficiently all day and in all weather conditions while reducing costs. The global
 robosweeper market was US$0.2 billion in 2024, and is expected to grow to US$60
 billion by 2030 and to US$200 billion by 2035. Street sanitation is labor-intensive
@@ -9083,15 +9083,15 @@ human workers and enhancing overall sanitation efficiency.
 Global Competitive Landscape of Robosweeper, 2024*
 Ranking Company Market share
 (%)
-1 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Company C(1) ~41
-2 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) WeRide ~32
-3 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Company J(2) ~27
+1  ~41
+2  WeRide ~32
+3  ~27
 Notes:
 * The market share for each competitor is calculated by dividing their revenue generated from
 robosweeper on city main roads by the total revenue of the robosweeper market on city roads.
 (1) Company C is a China-based privately-held L4 autonomous driving company.
 (2) Company J is a China-based privately-held autonomous driving technology company.
-(cid:129) Other autonomous driving applications. Autonomous driving vehicles can be
+ Other autonomous driving applications. Autonomous driving vehicles can be
 applied in various utilities and industrial services, such as factory and port logistics,
 airport transportation, mining, and last-mile delivery, and their technology can also
 be adapted for passenger vehicles. The global market size for these applications is
@@ -9147,7 +9147,7 @@ Competitive Advantages of Early Movers
 Early movers in the market possess significant advantages over new entrants. The
 autonomous driving industry has a number of significant entry barriers which protect the early
 movers:
-(cid:129) Existing international presence. Early movers who establish operations across
+ Existing international presence. Early movers who establish operations across
 different countries and regions gain significant competitive advantages. By entering
 international markets early, these companies not only shape industry standards and
 influence regulatory frameworks but also accumulate diverse data crucial for
@@ -9155,7 +9155,7 @@ refining AI algorithms across varied driving conditions. This global presence an
 data advantage enable them to optimize their technologies more effectively, leading
 to enhanced safety features, improved system reliability and greater consumer trust,
 which are critical in scaling operations and securing market leadership.
-(cid:129) High technological barrier. Development of autonomous driving technology would
+ High technological barrier. Development of autonomous driving technology would
 require extensive time, resources and superior knowledge. In addition, the
 intellectual properties that are at the core of major players’ businesses in the
 autonomousdrivingindustryareusuallyheldintheformofproprietarytradesecrets
@@ -9164,20 +9164,20 @@ industry know-how.There is no shortcut in the autonomous driving industry for ne
 entrants. Moreover, the inherent shortage in top technology leaders and R&D
 engineers means only a handful of leading industry participants will have the human
 resources required to achieve success.
-(cid:129) Accumulation of massive data and operation mileage. L4 autonomous driving
+ Accumulation of massive data and operation mileage. L4 autonomous driving
 vehicles must be operated under real road conditions to accumulate meaningful data
 for training and upgrading of the system. Sufficient driving hours and mileage are
 required for corner cases to take place, the resolution of which helps avoid
 potentially serious accidents. The massive amount of multi-sensor fusion data and
 mileage accumulated by early movers create a formidable competitive moat.
-(cid:129) Economies of scale. Leveraging their extensive industry know-how, early movers
+ Economies of scale. Leveraging their extensive industry know-how, early movers
 are more likely to be able to establish a universal and scalable technology platform
 that can be quickly adapted to different use cases. This strategic advantage not only
 accelerates the development and deployment of new products, but also significantly
 reduces costs in algorithms and hardware as compared with their competitors’,
 which in turn allows early movers to offer more matured products at competitive
 pricing.
-(cid:129) Ecosystem partners and local expertise. Successful commercialization would
+ Ecosystem partners and local expertise. Successful commercialization would
 require close cooperation with OEMs, Tier 1 suppliers and other business partners.
 Early movers can establish and benefit from these important partnerships early on,
 whereas new entrants will find it more difficult to replicate the success of earlier
@@ -10902,13 +10902,13 @@ HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
 FIRST-OF-ITS-KIND MILESTONES
 Our Company has achieved multiple first-of-its-kind milestones. According to CIC, we
 are:
-(cid:129) First company in the world to offer paid L4 robotaxi services to the public;
-(cid:129) First company in the world to develop a purpose-built L4 robobus designed for the
+ First company in the world to offer paid L4 robotaxi services to the public;
+ First company in the world to develop a purpose-built L4 robobus designed for the
 open road, as well as the first to launch driverless L4 robobus services on the open
 road made available to the public;
-(cid:129) FirstcompanyintheworldtodevelopanL4robovandedicatedtointra-citydelivery
+ FirstcompanyintheworldtodevelopanL4robovandedicatedtointra-citydelivery
 of goods and to obtain test driving permit for the robovan on open roads; and
-(cid:129) First company in the world to develop a purpose-built L4 robosweeper designed for
+ First company in the world to develop a purpose-built L4 robosweeper designed for
 open road as well as the first to launch driverless robosweeper urban cleaning
 services.
 OUR MAJOR SUBSIDIARIES
@@ -11273,22 +11273,22 @@ Ordinary Ordinary Numberof theGlobal theGlobal theGlobal theGlobal
 Name Shares(1) Shares Shares(1) Offering(3) Offering(3) Offering(3) Offering(3)
 (%) (%) (%) (%)
 WVRBeneficiaries,Directors,andchiefexecutive
-Dr.Han (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) – 41,249,590 41,249,590 4.4/4.0 4.4/4.0 28.8/27.1 53.6/52.1
-Dr.Li (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 27,129,666 13,564,833 40,694,499 4.3/4.0 4.3/4.0 11.4/10.7 18.5/18.0
+Dr.Han  – 41,249,590 41,249,590 4.4/4.0 4.4/4.0 28.8/27.1 53.6/52.1
+Dr.Li  27,129,666 13,564,833 40,694,499 4.3/4.0 4.3/4.0 11.4/10.7 18.5/18.0
 Seniormanagement
 Dr.HuaZhong(鍾華),
-orDr.Zhong(cid:2) (cid:2) (cid:2) (cid:2) 16,573,442 – 16,573,442 1.8/1.6 1.8/1.6 1.2/1.1 0.5/0.5
+orDr.Zhong 16,573,442 – 16,573,442 1.8/1.6 1.8/1.6 1.2/1.1 0.5/0.5
 Shareholdersinterestedin5%ormoreoftheissuedShares
-Yutongentities(cid:2) (cid:2) (cid:2) (cid:2) 65,659,592 – 65,659,592 7.0/6.4 7.0/6.4 4.6/4.3 2.1/2.1
-AllianceVentures(cid:2) (cid:2) (cid:2) 63,680,080 – 63,680,080 6.8/6.2 6.8/6.2 4.4/4.2 2.1/2.0
-Qimingentities(4) (cid:2) (cid:2) 62,865,042 – 62,865,042 6.7/6.1 6.7/6.1 4.4/4.1 2.0/2.0
+Yutongentities 65,659,592 – 65,659,592 7.0/6.4 7.0/6.4 4.6/4.3 2.1/2.1
+AllianceVentures 63,680,080 – 63,680,080 6.8/6.2 6.8/6.2 4.4/4.2 2.1/2.0
+Qimingentities(4)  62,865,042 – 62,865,042 6.7/6.1 6.7/6.1 4.4/4.1 2.0/2.0
 OtherShareholders
 OtherShareholders(5)
-inaggregate(6) (cid:2) (cid:2) (cid:2) 647,644,085 – 647,644,085 69.0/63.1 69.0/63.1 45.2/42.6 21.1/20.5
+inaggregate(6)  647,644,085 – 647,644,085 69.0/63.1 69.0/63.1 45.2/42.6 21.1/20.5
 Investorsparticipating
 intheGlobal
-Offering(6)(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 88,250,000 – 88,250,000 -/8.6 -/8.6 -/5.8 -/2.8
-Total (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 971,801,907 54,814,423 1,026,616,330 100.0/100.0 100.0/100.0 100.0/100.0 100.0/100.0
+Offering(6) 88,250,000 – 88,250,000 -/8.6 -/8.6 -/5.8 -/2.8
+Total  971,801,907 54,814,423 1,026,616,330 100.0/100.0 100.0/100.0 100.0/100.0 100.0/100.0
 – 269 –
 
 === PAGE 280 ===
@@ -12193,14 +12193,14 @@ data loop, the algorithm loop, and the simulation-validation loop. Among these, 
 simulation-validation loop is the most technically demanding and strategically pivotal, as it
 directly impacts the speed, adaptability, and safety of large-scale deployment. Outlined below
 are the core capabilities of the WeRide GENESIS.
-(cid:129) High-fidelity Virtual Testing. At its core, WeRide GENESIS is designed to replicate
+ High-fidelity Virtual Testing. At its core, WeRide GENESIS is designed to replicate
 real-worlddrivingenvironmentswithanunprecedentedleveloffidelity,poweredbythree
 foundational technologies: generative AI, full-sensor rendering, and smart agent
 modeling. It enables end-to-end simulation where autonomous agents interact with and
 influence their environment, supporting millions of test iterations across diverse,
 high-risk scenarios, including rare corner cases, that are difficult or unsafe to replicate in
 the real world.
-(cid:129) Smart Scenario Engine. At the core of WeRide GENESIS is our Smart Scenario engine,
+ Smart Scenario Engine. At the core of WeRide GENESIS is our Smart Scenario engine,
 which leverages generative AI to build realistic city-scale environments from scratch.
 Key capabilities of the Smart Scenario engine include the following:
 SmartScenario
@@ -12243,7 +12243,7 @@ GPUs. It enables fidelity testing under extreme conditions (e.g., wrong-way
 driving), generalization across weather and lighting (e.g., snow-covered roads with
 obscured lane markings), and sim-to-real style transfer for realistic scene adaptation
 (e.g., by adding shadows, barriers, or water accumulation on highways).
-(cid:129) Smart Simulation. Besides scenario generation, WeRide GENESIS also has the ability to
+ Smart Simulation. Besides scenario generation, WeRide GENESIS also has the ability to
 execute a smart simulation-validation loop which includes the following key elements:
 o Smart agents. The smart agent models of WeRide GENESIS can simulate complex
 agent interactions, such as vehicles navigating intersections with conflicting signals
@@ -12274,20 +12274,20 @@ before public rollout, WeRide GENESIS significantly improves reliability and red
 likelihood of unexpected performance issues. This system serves as the cornerstone of
 WeRide’s ability to scale safely and efficiently across global markets.
 Broader Technology Stack
-(cid:129) Hybrid architecture. We utilize a hybrid approach that combines a deterministic overlay
+ Hybrid architecture. We utilize a hybrid approach that combines a deterministic overlay
 with an end-to-end model. While pure end-to-end models have many benefits, they may
 not suit every real-world driving scenario. Our approach provides a balance of
 adaptability, reliability, safety, and transparency for the most robust and reliable
 commercial autonomous driving solutions, by combining deterministic logic with
 end-to-end learning models.
-(cid:129) Infrastructure and core capabilities. Our infrastructure forms the backbone of our
+ Infrastructure and core capabilities. Our infrastructure forms the backbone of our
 technology capabilities, encompassing data processing and annotation, storage,
 collaborative distributed model and cloud-native development platform. We also have
 proprietary model training and inference platforms and an expansive suite of tools for
 simulation, incident analysis, and data analytics, among others. These capabilities have
 not only enabled the development of our solutions but are also important to broader AI
 applications that will be critical to our continued success and innovation.
-(cid:129) Data assets. Data is the lifeblood of our development and training process. We are the
+ Data assets. Data is the lifeblood of our development and training process. We are the
 only player globally with an extensive library of real-world data collected under L2 to L4
 usecasesfromdiversevehicletypes,accordingtoCIC.Wehavegenerateddatafromover
 sixyearsofoperationsandourpartnerships.Todate,wehaveaccumulatedapproximately
@@ -12297,7 +12297,7 @@ enabling efficient training and robust model performance. Our data strategy allo
 cover long-tail scenarios and corner cases for autonomous driving with precision. As we
 accumulate more operational miles and encounter more diverse cases, and with the
 assistance of synthetic data and simulated scenarios, our models improve continuously.
-(cid:129) HPC 3.0 platform. We launched the HPC 3.0 high-performance computing platform,
+ HPC 3.0 platform. We launched the HPC 3.0 high-performance computing platform,
 jointly developed with Lenovo and powered by NVIDIA’s latest DRIVEAGXThor chips.
 HPC 3.0 debuts in our latest-generation robotaxi, the GXR, making it the world’s first
 mass-producedL4autonomousvehiclebuiltonNVIDIA’slatestDRIVEAGXThorchips.
@@ -12310,7 +12310,7 @@ large-scale commercial deployment.
 
 === PAGE 296 ===
 BUSINESS
-(cid:129) Operationsplatform.Allofourservicesareofferedonamarket-proven,unifiedplatform
+ Operationsplatform.Allofourservicesareofferedonamarket-proven,unifiedplatform
 that can be utilized for deployment and day-to-day operations. We leverage this platform
 to replicate our successful deployment experience in new markets. Operationally, we also
 utilize this platform to manage dynamic trip demand, enhance vehicle utilization, and
@@ -12730,18 +12730,18 @@ euneveretarenegyllacipyteW
 derahs,smroftalpgniliah-ediR
 htiwsixatobordepolevedeW
 suomonotuadnacirtcelE
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2) (cid:2)
+
+
+
+
+
+
+
+
+
+
+
+
 secivresdetalerdnaixatoboR
 emit-enoayapotderiuqer
 dna,selasixatobormorf
@@ -12795,20 +12795,20 @@ dna,selassubobormorf
 etavirp,seinapmoc
 eratahtselcihevgnivird
 selcihev
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 secivres
 foyrevilednopueef
 nodesabseefgnirrucer
@@ -12887,21 +12887,21 @@ dexifegrahcyllacipyteW
 rehtodnaevitomotuA
 ,seitilibapacIAruognigareveL
 suomonotuadnacirtcelE
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
-(cid:2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 secivresygolonhcetrehtO
 nodesabyapotderiuqer
 desab-emulovro/dnaseef
@@ -13427,26 +13427,26 @@ autonomous driving vehicles.
 As of December 31, As of June 30,
 Metrics (Cumulative) 2022 2023 2024 2024 2025
 Countries with testing and commercial
-activities (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 5 5 8 7 10
-Countries with testing activities(1) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 4 4 8 7 9
-Robotaxi (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2 2 4 3 4
-Robobus (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 4 4 8 7 9
-Robosweeper (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1 1 3 3 4
-Robovan (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1 1 1 1 1
-Countries with commercial activities(1)(2) (cid:2)(cid:2) 2 2 5 3 7
-Robotaxi (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2 2 3 2 4
-Robobus (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2 2 4 3 7
-Robosweeper (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1 1 3 1 3
-Robovan (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1 1 1 1 1
+activities  5 5 8 7 10
+Countries with testing activities(1)  4 4 8 7 9
+Robotaxi  2 2 4 3 4
+Robobus  4 4 8 7 9
+Robosweeper  1 1 3 3 4
+Robovan  1 1 1 1 1
+Countries with commercial activities(1)(2)  2 2 5 3 7
+Robotaxi  2 2 3 2 4
+Robobus  2 2 4 3 7
+Robosweeper  1 1 3 1 3
+Robovan  1 1 1 1 1
 Countries where we hold autonomous
-driving permits(1) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2 4 4 4 5
-Fleet size(3) of vehicles sold(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 156 178 269 191 341
-Fleet size of self-operated vehicles (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 383 476 820 614 973
+driving permits(1)  2 4 4 4 5
+Fleet size(3) of vehicles sold 156 178 269 191 341
+Fleet size of self-operated vehicles  383 476 820 614 973
 For the Six Months
 For the Year Ended December 31, Ended June 30,
 Metrics (During Year or Period) 2022 2023 2024 2024 2025
-Number of business customers (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 21 36 91 42 75
-Number of new business customers (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 14 25 70 21 39
+Number of business customers  21 36 91 42 75
+Number of new business customers  14 25 70 21 39
 Notes:
 (1) Certain countries may have multiple vehicle types operating simultaneously, resulting in overlaps among
 vehicle-type categories; as a result, the aggregate total number of countries with testing activities and
@@ -13470,12 +13470,12 @@ Start of
 Specialist Commercial
 Technology Products Use Case Launch Activities
 L4 Autonomous Driving Vehicles and Robotaxi 2017 2019
-Related Services(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Robobus 2020 2021
+Related Services Robobus 2020 2021
 Robosweeper 2022 2022
 Robovan 2021 2023
 Launch of Start of Revenue
 Specialist Technology Product Pilot Project Generation
-Other Technology Services (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2019 2020
+Other Technology Services  2019 2020
 In 2022, 2023, and 2024, we offered services and products to 21, 36, and 91 business
 customers, respectively. In the six months ended June 30, 2024 and 2025, we offered services
 and products to 42 and 75 business customers, respectively. We sold an aggregate of 103, 22,
@@ -13530,25 +13530,25 @@ infrastructure have enhanced the functionality of our hybrid end-to-end AI techn
 facilitated the curation of high-quality datasets for deep learning, which ultimately drive
 effective model validation and performance optimization. The following are a few selected
 examples:
-(cid:129) We utilize techniques such as fuzzy logic, fault injection and noise injection to
+ We utilize techniques such as fuzzy logic, fault injection and noise injection to
 simulate real-world uncertainties and challenges, helping engineers enhance the
 safety and reliability of autonomous vehicles.
 – 312 –
 
 === PAGE 323 ===
 BUSINESS
-(cid:129) To enhance risk assessment and safety control, we developed a proprietary tool that
+ To enhance risk assessment and safety control, we developed a proprietary tool that
 notonlyverifiesthecorrectnessofalgorithmsbutalsoassessestherobustnessofthe
 software in the autonomous driving system. This robustness evaluation includes
 performancemetrics,stability,andtheidentificationofanyfundamentalbugsacross
 all existing WeRide platforms, including vehicles, computing units and operating
 systems.
-(cid:129) To further boost efficiency and cost-effectiveness for training, we developed an
+ To further boost efficiency and cost-effectiveness for training, we developed an
 innovative virtual GPU slicing method to optimize resource utilization by allowing
 multipletaskstoshareGPUresourceseffectively.WithvirtualGPUslicing,wehave
 achieved approximately 90% GPU utilization, while most LLM training can only hit
 around 50%, according to CIC.
-(cid:129) We have developed a strong visualization tool that allows engineers to examine vast
+ We have developed a strong visualization tool that allows engineers to examine vast
 amounts of data, enabling them to extract relevant information efficiently. For
 instance, while an engineer only collects an hour’s worth of data, they might need
 toworkthroughamuchlargerdatasettogainmeaningfulinsightsfromtheone-hour
@@ -13557,10 +13557,10 @@ interface for viewing and interacting with the data, allowing engineers to play 
 simulate, or generate synthetic data with just one click. By leveraging such
 advanced visualization capabilities, engineers can better understand complex
 datasets and make informed decisions based on accurate analyses.
-(cid:129) We utilize LLM, VLM, and natural language capabilities to enhance our data search
+ We utilize LLM, VLM, and natural language capabilities to enhance our data search
 capabilities. To further optimize data utilization, we have in-house developed a
 labelling platform designed to efficiently label the collected data.
-(cid:129) We employ a data loop support system designed to efficiently manage demands,
+ We employ a data loop support system designed to efficiently manage demands,
 scheduling, data collection, and data utilization. This system processes demands
 associated with product and solution development, facilitating the collection of
 real-world data and the generation of synthetic data based on these demands,
@@ -13621,7 +13621,7 @@ for deployment and day-to-day operations. We leverage this platform to replicate
 successful deployment experience in new markets. Operationally, we also utilize this platform
 to manage dynamic trip demand, enhance vehicle utilization, and improve passenger
 experience. Our unified operations platform delivers the following strategic benefits:
-(cid:129) Fastercommercializationacrossusecasesandnewenvironments.Underpinnedby
+ Fastercommercializationacrossusecasesandnewenvironments.Underpinnedby
 WeRide One, our technology is adaptable across different vehicle types, which
 allows for quicker market entry and commercialization. Vehicles such as robobuses,
 robovans, and robosweepers, which face fewer regulatory hurdles, benefit from our
@@ -13630,7 +13630,7 @@ a strong brand reputation, facilitating rapid commercialization. Our universal
 technology platform also enables fast and stable deployment in new environments.
 When we enter new territories, there is no need for substantial engineering work
 other than quickly creating HD maps.
-(cid:129) Wide-ranging products and services. We stand out as the only pure-play company
+ Wide-ranging products and services. We stand out as the only pure-play company
 that offers a comprehensive range ofAI mobility solutions, covering L4, L3, and L2
 commercialization, specifically designed for cities and highways. While each use
 case addresses different challenges related to urban mobility, logistics, and
@@ -13643,7 +13643,7 @@ maneuvers due to the blind spots of human drivers; robosweepers need to reduce t
 an exact distance from the roadside. Thanks to a deep understanding of the
 environment and the intentions of road users, as well as self-optimizing interactive
 learning, we are able to provide reliable driving performance in all these situations.
-(cid:129) Operational and supply chain synergies and efficiency across all use cases, with
+ Operational and supply chain synergies and efficiency across all use cases, with
 minimized research and development costs, time and risks. With minor
 configuration adjustments, our universal technology platform supports a wide range
 of applications, minimizing our research and development costs, time, and risks.We
@@ -13662,7 +13662,7 @@ BUSINESS
 addition, the licenses we have obtained as well as the government, customer, and
 supplier relationships we have developed in connection with one use case help us
 reduce the time and cost to market for other use cases.
-(cid:129) Virtuous cycle of learning and data collection across all use cases. As our
+ Virtuous cycle of learning and data collection across all use cases. As our
 platform-sharing autonomous vehicles operate mostly in similar road environments
 (i.e., open public roads), our algorithms can be trained with data collected from all
 use cases. This accelerates the rate at which data is collected and gives rise to a
@@ -13850,9 +13850,9 @@ transition into a degraded state and pull over to the nearest secure location fo
 Cybersecurity Breach
 Preventing security breaches is our top priority. The autonomous driving system
 incorporates multiple layers of cybersecurity measures, including:
-(cid:129) Data encryption to safeguard data.
-(cid:129) Multi-level security clearance to ensure only authorized access to critical systems.
-(cid:129) Technical measures to regularly monitor and prevent unauthorized modifications,
+ Data encryption to safeguard data.
+ Multi-level security clearance to ensure only authorized access to critical systems.
+ Technical measures to regularly monitor and prevent unauthorized modifications,
 deletions, or insertions, to ensure data integrity during storage.
 In the unlikely event of a security breach, remote assistance has the capability to take
 control of the vehicle or, if necessary, initiate an emergency stop to prevent any potential risks
@@ -13954,7 +13954,7 @@ Revenue Percentageof relationship Products/Services
 Rank Customer amount totalrevenue since Provided Customerbackground
 (RMBin
 thousands)
-1(cid:2) (cid:2) (cid:2)
+1
 CustomerA 155,933 29.6% 2022 ADASresearchand AcompanyinChina
 developmentservices mainlyengagedin
 automobilepartsand
@@ -13976,22 +13976,22 @@ Revenue Percentageof relationship Products/Services
 Rank Customer amount totalrevenue since Provided Customerbackground
 (RMBin
 thousands)
-2(cid:2) (cid:2) (cid:2)
+2
 CustomerB 93,596 17.7% 2022 Operationalandtechnical Astate-ownedenterprisein
 supportservices Chinamainlyengagedin
 publictransportation
 services
-3(cid:2) (cid:2) (cid:2) CustomerC 64,562 12.2% 2022 Robobus;Operationaland Astate-ownedenterprisein
+3 CustomerC 64,562 12.2% 2022 Robobus;Operationaland Astate-ownedenterprisein
 technicalsupport Chinamainlyengagedin
 services thesalesofnewenergy
 vehicleandrelated
 technologyresearchand
 service
-4(cid:2) (cid:2) (cid:2) CustomerD(1) 57,047 10.8% 2021 Robobus;Operationaland Astate-ownedenterprisein
+4 57,047 10.8% 2021 Robobus;Operationaland Astate-ownedenterprisein
 technicalsupport Chinamainlyengagedin
 services publictransportation
 services
-5(cid:2) (cid:2) (cid:2) Yutong 44,530 8.4% 2020 Robobus;Operationaland Alargecommercial
+5 Yutong 44,530 8.4% 2020 Robobus;Operationaland Alargecommercial
 Group(2) technicalsupport vehiclegroupinChina
 services withproductscovering
 buses,trucks,
@@ -14009,7 +14009,7 @@ Revenue Percentageof relationship Products/Services
 Rank Customer amount totalrevenue since Provided Customerbackground
 (RMBin
 thousands)
-1(cid:2) (cid:2) (cid:2) CustomerA 222,292 55.3% 2022 ADASresearchand AcompanyinChina
+1 CustomerA 222,292 55.3% 2022 ADASresearchand AcompanyinChina
 developmentservices mainlyengagedin
 automobilepartsand
 systemresearch,
@@ -14021,14 +14021,14 @@ engineeringand
 technologycompany
 headquarteredin
 Germany
-2(cid:2) (cid:2) (cid:2) Yutong 29,098 7.2% 2020 Robobus;Operationaland Alargecommercial
+2 Yutong 29,098 7.2% 2020 Robobus;Operationaland Alargecommercial
 Group(3) technicalsupport vehiclegroupinChina
 services withproductscovering
 buses,trucks,
 constructionmachinery,
 specialpurposevehicles
 andsanitationequipment
-3(cid:2) (cid:2) (cid:2) CustomerE 23,832 5.9% 2021 Robobus;Operationaland Aprivatecompanyinthe
+3 CustomerE 23,832 5.9% 2021 Robobus;Operationaland Aprivatecompanyinthe
 technicalsupport UnitedArabEmirates
 services mainlyengagedinAI
 poweredgeospatial
@@ -14036,7 +14036,7 @@ solutions,digital
 transformationand
 businesssolutions
 service
-4(cid:2) (cid:2) (cid:2) CustomerF(4) 19,408 4.8% 2019 Operationalandtechnical AcompanyinChina
+4 19,408 4.8% 2019 Operationalandtechnical AcompanyinChina
 supportservices mainlyengagedin
 automobileresearchand
 developmentandrelated
@@ -14045,7 +14045,7 @@ andservice,whichisa
 subsidiaryofaJapanese
 multinationalautomobile
 manufacturer
-5(cid:2) (cid:2) (cid:2) CustomerG 13,003 3.2% 2023 Robobus;Operationaland Astate-ownedenterprisein
+5 CustomerG 13,003 3.2% 2023 Robobus;Operationaland Astate-ownedenterprisein
 technicalsupport Chinamainlyengagedin
 services publictransportation
 services
@@ -14060,7 +14060,7 @@ Revenue Percentageof relationship Products/Services
 Rank Customer amount totalrevenue since Provided Customerbackground
 (RMBin
 thousands)
-1(cid:2) (cid:2) (cid:2) CustomerA 88,220 24.4% 2022 ADASresearchand AcompanyinChina
+1 CustomerA 88,220 24.4% 2022 ADASresearchand AcompanyinChina
 developmentservices mainlyengagedin
 automobilepartsand
 systemresearch,
@@ -14072,15 +14072,15 @@ engineeringand
 technologycompany
 headquarteredin
 Germany
-2(cid:2) (cid:2) (cid:2) CustomerH 25,781 7.1% 2024 Intelligentdataservice AsubsidiaryofaChina’s
+2 CustomerH 25,781 7.1% 2024 Intelligentdataservice AsubsidiaryofaChina’s
 leadingtechnologyand
 internetcompany
-3(cid:2) (cid:2) (cid:2) CustomerI(1) 23,602 6.5% 2024 Operationalandtechnical Abranchofastate-owned
+3 23,602 6.5% 2024 Operationalandtechnical Abranchofastate-owned
 supportservices enterpriseinChina
 mainlyengagedin
 publictransportation
 services
-4(cid:2) (cid:2) (cid:2) CustomerF(4) 17,893 5.0% 2019 Relatedsensorsuites; AcompanyinChina
+4 17,893 5.0% 2019 Relatedsensorsuites; AcompanyinChina
 operationalandtechnical mainlyengagedin
 supportservices automobileresearchand
 developmentandrelated
@@ -14089,7 +14089,7 @@ andservice,whichisa
 subsidiaryofaJapanese
 multinationalautomobile
 manufacturer
-5(cid:2) (cid:2) (cid:2) CustomerJ 13,837 3.8% 2024 Robotaxi Asubsidiaryofa
+5 CustomerJ 13,837 3.8% 2024 Robotaxi Asubsidiaryofa
 multinational
 marketplacecompanyin
 themobilityand
@@ -14105,27 +14105,27 @@ Revenue Percentageof relationship Products/Services
 Rank Customer amount totalrevenue since Provided Customerbackground
 (RMBin
 thousands)
-1(cid:2) (cid:2) (cid:2) CustomerH 33,050 16.6% 2024 Intelligentdataservice AsubsidiaryofaChina’s
+1 CustomerH 33,050 16.6% 2024 Intelligentdataservice AsubsidiaryofaChina’s
 leadingtechnologyand
 internetcompany
-2(cid:2) (cid:2) (cid:2) CustomerJ 25,784 12.9% 2024 Robotaxi Asubsidiaryofa
+2 CustomerJ 25,784 12.9% 2024 Robotaxi Asubsidiaryofa
 multinational
 marketplacecompanyin
 themobilityand
 deliverysector
-3(cid:2) (cid:2) (cid:2) CustomerK 14,477 7.3% 2024 Intelligentdataservice Theoperatorofaleading
+3 CustomerK 14,477 7.3% 2024 Intelligentdataservice Theoperatorofaleading
 lifestyleplatformin
 Chinathatcombines
 user-generatedcontent
 withsocialcommerce
-4(cid:2) (cid:2) (cid:2) CustomerL 13,388 6.7% 2025 Robotaxi AleadingChinese
+4 CustomerL 13,388 6.7% 2025 Robotaxi AleadingChinese
 automotivemanufacturer
 listedontheStock
 Exchange,specializing
 inthedevelopment,
 production,andsalesof
 passengervehicles
-5(cid:2) (cid:2) (cid:2) CustomerM 9,737 4.9% 2024 Robosweeper&robobus Astate-ownedcompanyin
+5 CustomerM 9,737 4.9% 2024 Robosweeper&robobus Astate-ownedcompanyin
 Chinamainlyengagedin
 municipalmanagement
 suchasenvironmental
@@ -14157,55 +14157,55 @@ Key Terms of the Agreements with our Customers
 Agreements that govern the purchase of our L4 autonomous driving vehicles and related
 and optional operational and technical support services with these customers typically provide
 for the following:
-(cid:129) Payment term. Payment is usually made on a periodic basis and/or based on certain
+ Payment term. Payment is usually made on a periodic basis and/or based on certain
 project milestones and we will typically invoice for an initial payment of 30% after
 contractexecution.Ifnooperationalortechnicalsupportserviceisbeingpurchased,
 we normally charge a deposit after contract execution and receive the remaining
 purchase price after acceptance. Some of these agreements allow the customer to
 retain a portion of the purchase price as performance deposit or as security for
 warranty.
-(cid:129) Service term. We are typically contracted to provide L4 autonomous driving
+ Service term. We are typically contracted to provide L4 autonomous driving
 operational and technical support services for a period between three to eight years
 or until the end of the relevant project.
-(cid:129) Delivery, inspection and acceptance. The agreements set out the delivery schedule.
+ Delivery, inspection and acceptance. The agreements set out the delivery schedule.
 Our customers are granted an inspection right and may accept or reject our delivery
 based on pre-agreed acceptance standards.
-(cid:129) Post-sale services and warranty. We generally offer a limited warranty to our
+ Post-sale services and warranty. We generally offer a limited warranty to our
 customers and we provide standard post-sale repair and maintenance services.
-(cid:129) Liquidated and other damages. Liquidated and other damages are typically payable
+ Liquidated and other damages. Liquidated and other damages are typically payable
 intheeventoflatedeliveryorfailureindeliveryaswellaslatepaymentofpurchase
 price.
-(cid:129) Liability for safety incidents. Typically, both parties agree to assume responsibility
+ Liability for safety incidents. Typically, both parties agree to assume responsibility
 in accordance with relevant laws and regulations.
-(cid:129) Insurance. The responsibility for purchasing insurance depends on discussions and
+ Insurance. The responsibility for purchasing insurance depends on discussions and
 negotiations with our customers on a case-by-case basis.
 – 328 –
 
 === PAGE 339 ===
 BUSINESS
-(cid:129) Termination. The agreements are typically terminable in the event of breach or
+ Termination. The agreements are typically terminable in the event of breach or
 insolvency of a contracting party.
 The agreement relating to our ADAS research and development services contains the
 following material terms:
-(cid:129) Payment term. Payment is made by installments and based on project milestones.
-(cid:129) Intellectual property. Generally, the resulting intellectual properties of the projects
+ Payment term. Payment is made by installments and based on project milestones.
+ Intellectual property. Generally, the resulting intellectual properties of the projects
 belong to our customer. Each party retains ownership of its pre-existing intellectual
 properties and may grant the other party licenses to use its pre-existing intellectual
 property rights with respect to the deliverables as reasonably necessary to fulfill
 their obligations under the agreement.
-(cid:129) Delivery, testing and acceptance. We are required to meet certain performance
+ Delivery, testing and acceptance. We are required to meet certain performance
 milestones and delivery schedules and pass certain tests before our deliverables are
 accepted.
-(cid:129) Restrictions. Our ability to develop and deliver competing products in the PRC
+ Restrictions. Our ability to develop and deliver competing products in the PRC
 market is restricted for an agreed period of time.
-(cid:129) Insurance. We are obligated to purchase and maintain certain insurances during the
+ Insurance. We are obligated to purchase and maintain certain insurances during the
 project.
-(cid:129) Services and warranty. We offer a limited warranty and we provide technical
+ Services and warranty. We offer a limited warranty and we provide technical
 support and maintenance services.
-(cid:129) Liquidated damages. Liquidated damages are payable in the event that we fail to (i)
+
 meet project milestones on time, (ii) subscribe for required insurances, (iii) provide
 warrant services, or (iv) comply with the restrictive covenant.
-(cid:129) Termination. The agreement can be terminated by our customer if (i) we breach our
+ we breach our
 representations, warranties or undertakings, (ii) a change of control with respect to
 us occurs that materially affects our customer’s interest, or (iii) we become
 insolvent, amongst others.
@@ -14239,7 +14239,7 @@ Purchase oftotal relationship Products/Services
 Rank Supplier amount purchase(1) since Purchased Supplierbackground
 (RMBin
 thousands)
-1(cid:2) (cid:2) (cid:2)
+1
 Yutong 168,862 26.8% 2021 Vehicles Alargecommercial
 Group(2) vehiclegroupinChina
 withproductscovering
@@ -14251,13 +14251,13 @@ equipment,withtwo
 subsidiarieslistedon
 ShanghaiStock
 Exchange
-2(cid:2) (cid:2) (cid:2) Guangzhou 30,274 4.8% 2021 Datacollection,labeling Aprivatecompanyin
+2 Guangzhou 30,274 4.8% 2021 Datacollection,labeling Aprivatecompanyin
 Yuji andcomplianceservices Chinamainlyengagedin
 Technology technologyconsulting
 Co.,Ltd.(廣 andservices,computer
 州禹跡科技 andcommunication
 有限公司)(3) equipmentleasing
-3(cid:2) (cid:2) (cid:2) SupplierA(4) 22,700 3.6% 2019 Vehicles Aprivatecompanyin
+3 22,700 3.6% 2019 Vehicles Aprivatecompanyin
 Chinamainlyengagedin
 taxioperation,salesof
 batteryandnewenergy
@@ -14271,7 +14271,7 @@ Purchase oftotal relationship Products/Services
 Rank Supplier amount purchase(1) since Purchased Supplierbackground
 (RMBin
 thousands)
-4(cid:2) (cid:2) (cid:2)
+4
 SupplierB 20,011 3.2% 2019 Computingserver AcompanyinChina
 mainlyengagedin
 researchand
@@ -14286,7 +14286,7 @@ advancedcomputing
 solutionsdesignerand
 providerlistedon
 TaiwanStockExchange
-5(cid:2) (cid:2) (cid:2) SupplierC 19,228 3.0% 2019 Sensorsuitesparts ANasdaq-listedcompany
+5 SupplierC 19,228 3.0% 2019 Sensorsuitesparts ANasdaq-listedcompany
 inChinamainlyengaged
 inresearch,development
 andsalesofLiDAR
@@ -14298,14 +14298,14 @@ Purchase oftotal relationship Products/Services
 Rank Supplier amount purchase(1) since Purchased Supplierbackground
 (RMBin
 thousands)
-1(cid:2) (cid:2) (cid:2)
+1
 Guangzhou 111,532 21.4% 2021 Datacollection,labeling Aprivatecompanyin
 Yuji andcomplianceservices Chinamainlyengagedin
 Technology technologyconsulting
 Co.,Ltd.(廣 andservices,computer
 州禹跡科技 andcommunication
 有限公司)(3) equipmentleasing
-2(cid:2) (cid:2) (cid:2) SupplierC 46,148 8.9% 2019 Sensorsuitesparts ANasdaq-listedcompany
+2 SupplierC 46,148 8.9% 2019 Sensorsuitesparts ANasdaq-listedcompany
 inChinamainlyengaged
 inresearch,development
 andsalesofLiDAR
@@ -14319,12 +14319,12 @@ Purchase oftotal relationship Products/Services
 Rank Supplier amount purchase(1) since Purchased Supplierbackground
 (RMBin
 thousands)
-3(cid:2) (cid:2) (cid:2) SupplierA(4) 19,643 3.8% 2019 Vehicles Aprivatecompanyin
+3 19,643 3.8% 2019 Vehicles Aprivatecompanyin
 Chinamainlyengagedin
 taxioperation,salesof
 batteryandnewenergy
 vehiclesparts
-4(cid:2) (cid:2) (cid:2) Yutong 18,377 3.5% 2021 Vehicles Alargecommercial
+4 Yutong 18,377 3.5% 2021 Vehicles Alargecommercial
 Group(5) vehiclegroupinChina
 withproductscovering
 buses,trucks,
@@ -14335,7 +14335,7 @@ equipment,withtwo
 subsidiarieslistedon
 ShanghaiStock
 Exchange
-5(cid:2) (cid:2) (cid:2) SupplierD 14,433 2.8% 2023 Vehicles Acompanyintegratingbus
+5 SupplierD 14,433 2.8% 2023 Vehicles Acompanyintegratingbus
 productresearchand
 development,
 manufacturingandsales,
@@ -14355,14 +14355,14 @@ Purchase Percentageof relationship Products/Services
 Rank Supplier amount totalpurchase since Purchased Supplierbackground
 (RMBin
 thousands)
-1(cid:2) (cid:2) (cid:2)
+1
 Guangzhou 90,055 13.6% 2021 Datacollection,labeling Aprivatecompanyin
 Yuji andcomplianceservices Chinamainlyengagedin
 Technology technologyconsulting
 Co.,Ltd.(廣 andservices,computer
 州禹跡科技 andcommunication
 有限公司) equipmentleasing
-2(cid:2) (cid:2) (cid:2) Yutong 71,042 10.7% 2021 Vehicles Alargecommercial
+2 Yutong 71,042 10.7% 2021 Vehicles Alargecommercial
 Group(6) vehiclegroupinChina
 withproductscovering
 buses,trucks,
@@ -14373,18 +14373,18 @@ equipment,withtwo
 subsidiarieslistedon
 ShanghaiStock
 Exchange
-3(cid:2) (cid:2) (cid:2) SupplierA(4) 38,265 5.8% 2019 Vehicles Astate-ownedenterprisein
+3 38,265 5.8% 2019 Vehicles Astate-ownedenterprisein
 Chinamainlyengagedin
 taxioperation,salesof
 batteryandnewenergy
 vehiclesparts
-4(cid:2) (cid:2) (cid:2) SupplierE 24,208 3.7% 2021 IDCserverandequipment Aprivatecompany
+4 SupplierE 24,208 3.7% 2021 IDCserverandequipment Aprivatecompany
 headquarteredin
 Guangzhou,mainly
 engagedinthedigital
 newinfrastructure
 servicefield
-5(cid:2) (cid:2) (cid:2) SupplierB 22,494 3.4% 2019 Computingserver AcompanyinChina
+5 SupplierB 22,494 3.4% 2019 Computingserver AcompanyinChina
 mainlyengagedin
 researchand
 development,
@@ -14409,31 +14409,31 @@ Purchase Percentageof relationship Products/Services
 Rank Supplier amount totalpurchase since Purchased Supplierbackground
 (RMBin
 thousands)
-1(cid:2) (cid:2) (cid:2)
+1
 SupplierE 92,831 12.4% 2021 IDCserverandequipment Aprivatecompany
 headquarteredin
 Guangzhou,mainly
 engagedinthedigital
 newinfrastructure
 servicefield
-2 (cid:2) (cid:2) Guangzhou 32,379 4.3% 2021 Datacollection,labeling Aprivatecompanyin
+2  Guangzhou 32,379 4.3% 2021 Datacollection,labeling Aprivatecompanyin
 Yuji andcomplianceservices Chinamainlyengagedin
 Technology technologyconsulting
 Co.,Ltd.(廣 andservices,computer
 州禹跡科技 andcommunication
 有限公司) equipmentleasing
-3(cid:2) (cid:2) (cid:2) SupplierF 44,863 6.0% 2024 ThorAutonomousdriving Asubsidiaryofaglobal
+3 SupplierF 44,863 6.0% 2024 ThorAutonomousdriving Asubsidiaryofaglobal
 controller technologycompany
 listedontheStock
 Exchange,specializing
 ininnovativePCs,smart
 devices,infrastructure
 solutions,andservices
-4(cid:2) (cid:2) (cid:2) SupplierG 46,037 6.2% 2024 Vehicles AnenterpriseinChina
+4 SupplierG 46,037 6.2% 2024 Vehicles AnenterpriseinChina
 mainlyengagedinthe
 salesofcommercial
 vehicles
-5 (cid:2) (cid:2) SupplierA 42,120 5.6% 2019 Vehicles Astate-ownedenterprisein
+5  SupplierA 42,120 5.6% 2019 Vehicles Astate-ownedenterprisein
 Chinamainlyengagedin
 taxioperation,salesof
 batteryandnewenergy
@@ -14463,15 +14463,15 @@ are used to, or to be used to, manufacture our L4 autonomous driving vehicles, i
 semiconductor chips, radar, LiDAR, and cameras and other components and materials.
 The agreements with our suppliers of key components typically contain the following
 material terms:
-(cid:129) Term. The term of supply agreements typically spans a period of 12 to 18 months.
-(cid:129) Payment term. We generally make an initial payment of a certain amount at the time
+ Term. The term of supply agreements typically spans a period of 12 to 18 months.
+ Payment term. We generally make an initial payment of a certain amount at the time
 of contract signing and enjoy a credit term of 30 to 60 days from our receipt of the
 products and invoices.
-(cid:129) Product specifications. The agreements typically detail the product name,
+ Product specifications. The agreements typically detail the product name,
 specification, price, quantity, delivery timeline and other specifics.
-(cid:129) Delivery. The suppliers are responsible for delivery of products to our designated
+ Delivery. The suppliers are responsible for delivery of products to our designated
 location.
-(cid:129) Quality control and quality guarantee. Suppliers shall ensure that the products
+ Quality control and quality guarantee. Suppliers shall ensure that the products
 provided are brand new, defect-free and in line with agreed specifications. We
 normally have the right to reject and return any products that fail to meet our
 requirements stipulated in the purchase order, at the expense of suppliers, or to
@@ -14481,11 +14481,11 @@ by our suppliers which is typically 12 months.
 
 === PAGE 346 ===
 BUSINESS
-(cid:129) Transfer of risk. The risk transfers to us upon our receipt of the products.
-(cid:129) Confidentiality. All confidential information provided by each party shall be used
+ Transfer of risk. The risk transfers to us upon our receipt of the products.
+ Confidentiality. All confidential information provided by each party shall be used
 solely for the purposes of the agreements and shall not be disclosed to any third
 party without prior written consent.
-(cid:129) Termination. The agreements are typically terminable by mutual agreement, or as
+ Termination. The agreements are typically terminable by mutual agreement, or as
 specified in the agreements.
 During the Track Record Period, we did not experience material fluctuations in
 production costs and shortages in the supply of key components and raw materials from our
@@ -14521,7 +14521,7 @@ Customer/ Revenue of total Nature of Purchase of total Nature of
 Supplier Period amount revenue revenue amount purchase purchase
 (RMB in (RMB in
 thousands) thousands)
-Supplier D(cid:2) (cid:2) (cid:2) (cid:2) 2022 – – N/A – – N/A
+Supplier D 2022 – – N/A – – N/A
 2023 5,660 1.4% Operational 14,433 2.8% Vehicles
 and
 technical
@@ -14531,7 +14531,7 @@ services
 Six months – – 10,847 1.5% Vehicles
 ended June
 30, 2025
-Supplier C(cid:2) (cid:2) (cid:2) (cid:2) 2022 2,000 0.4% Robobus 19,228 3.0% Sensor suites
+Supplier C 2022 2,000 0.4% Robobus 19,228 3.0% Sensor suites
 parts
 2023 – – N/A 46,148 8.9% Sensor suites
 parts
@@ -14544,7 +14544,7 @@ GuangzhouYuji 2022 603 0.1% Operational 30,274 4.8% Data
 Technology and collection,
 Co., Ltd. (廣 technical labeling
 州禹跡科技有 support and
-限公司) (cid:2) (cid:2) (cid:2) (cid:2) services compliance
+限公司)  services compliance
 services
 2023 – – N/A 111,532 21.4% Data
 collection,
@@ -14574,7 +14574,7 @@ and
 compliance
 services
 Yutong 2022 44,530 8.4% Robobus; 168,862 26.8% Vehicles
-Group(1)(2) (cid:2) (cid:2) Operational
+Group(1)(2)  Operational
 and
 technical
 support
@@ -14627,19 +14627,19 @@ instead of manufacturing the vehicles on our own. We believe these partnerships 
 remain asset-light and maintain focus on developing and upgrading our proprietary
 autonomous driving products and services.
 The salient terms of our agreements with contract manufacturers are set forth as below:
-(cid:129) Principal rights and obligations. We provide technical specifications and
+ Principal rights and obligations. We provide technical specifications and
 autonomous driving systems to contract manufacturers who are responsible for
 manufacturing and assembling services our L4 autonomous driving vehicles
 pursuant to our specifications.
-(cid:129) Payment and delivery. We are responsible for timely payment to contract
+ Payment and delivery. We are responsible for timely payment to contract
 manufacturers, who are responsible for delivery of products to the designated
 location specified in the agreements.
-(cid:129) Quality assurance and quality guarantee. Products are accepted in accordance with
+ Quality assurance and quality guarantee. Products are accepted in accordance with
 our specifications as well as the quality assurance manual provided by contract
 manufacturers. The contract manufacturers generally provide after-sales services
 and quality warranties and assume product liability for the vehicles (excluding the
 hardware or software provided by us if any).
-(cid:129) Termination. The agreements shall be terminated upon fulfillment of parties’
+ Termination. The agreements shall be terminated upon fulfillment of parties’
 obligations or as specified in the agreements.
 – 339 –
 
@@ -14759,37 +14759,37 @@ authorities and industrial organizations. The following table sets forth a summa
 awards and recognitions we received in the past years.
 Issuing
 Awarding Year Award/Recognition Authority/Organization
-2025 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) First Place Challenge Winner, Dubai World Dubai Roads and
+2025  First Place Challenge Winner, Dubai World Dubai Roads and
 Congress for Self-Driving Transport Transport
 Authority
-2025 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2025 Fortune Future 50 List (Worldwide) Fortune
-2025 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Fortune Change the World Fortune
+2025  Fortune
+2025  Fortune Change the World Fortune
 – 342 –
 
 === PAGE 353 ===
 BUSINESS
 Issuing
 Awarding Year Award/Recognition Authority/Organization
-2025 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Fortune Tech 50 (China) Fortune
-2025 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Hurun China 500 Most Valuable Companies Hurun Report
-2025 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Top 50 Hurun China Artificial Intelligence Hurun Report
+2025  Fortune
+2025  Hurun China 500 Most Valuable Companies Hurun Report
+2025  Top 50 Hurun China Artificial Intelligence Hurun Report
 Enterprises
-2024 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2024 Fortune Future 50 List (Worldwide) Fortune
-2024 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Asia New Economy Pioneers Award Caixin Global
-2024 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Most Admired Companies in China Fortune China
-2024 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Top 50 Most Innovative Companies Forbes China
-2024 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2024 China Globalization Future Stars – Fortune
+2024  Fortune
+2024  Asia New Economy Pioneers Award Caixin Global
+2024  Most Admired Companies in China Fortune China
+2024  Top 50 Most Innovative Companies Forbes China
+2024  2024 China Globalization Future Stars – Fortune
 Automotive and Automotive Technology List
-2024 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) China’s Top 50 Artificial Intelligence Forbes
+2024  China’s Top 50 Artificial Intelligence Forbes
 Technology Companies
-2024 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Go-International Series Selection Top 30 in Forbes
+2024  Go-International Series Selection Top 30 in Forbes
 China
-2024 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Hurun Global Unicorn Index 2024 Hurun Report
-2023 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Most Influential IoT Innovation List Fortune
-2023 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2023 Change the World List Fortune
-2023 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2023 China’s Best Design List Fortune
-2023 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2023 Chinese Overseas Mainstays to Watch Fortune China
-2022 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) China’s Most Socially Impactful Startups Fortune China
+2024  Hurun Global Unicorn Index 2024 Hurun Report
+2023  Most Influential IoT Innovation List Fortune
+2023  2023 Change the World List Fortune
+2023  2023 China’s Best Design List Fortune
+2023  2023 Chinese Overseas Mainstays to Watch Fortune China
+2022  China’s Most Socially Impactful Startups Fortune China
 COMPETITION
 We face competition, both in China and globally, from autonomous driving companies
 that offer autonomous driving technologies, products and services. We also potentially face
@@ -14815,32 +14815,32 @@ technology and products, or compete effectively, we may lose our market share or
 additional market share, and our growth and financial condition may be adversely affected.”
 We believe that our ability to compete effectively depends upon many factors within or
 beyond our control, including, among others:
-(cid:129) the performance, reliability, ease of use, utility and price of our offerings compared
+ the performance, reliability, ease of use, utility and price of our offerings compared
 to those of our competitors;
-(cid:129) our highly differentiated approach to the offering of autonomous driving products
+ our highly differentiated approach to the offering of autonomous driving products
 and services;
-(cid:129) our ability and progress on large-scale commercial deployment of L4 autonomous
+ our ability and progress on large-scale commercial deployment of L4 autonomous
 driving vehicles;
-(cid:129) our ability to provide superior and trusted user and customer experience;
-(cid:129) our ability to further improve our leading and propriety autonomous driving
+ our ability to provide superior and trusted user and customer experience;
+ our ability to further improve our leading and propriety autonomous driving
 technologies;
-(cid:129) our ability to consistently enrich our offerings;
-(cid:129) our ability to successfully expand our global footprints;
-(cid:129) our ability to maintain and enlarge our alliances with key ecosystem partners;
-(cid:129) our reputation and brand strength relative to our competitors;
-(cid:129) our ability to fully comply with relevant laws, regulations, rules, policies and
+ our ability to consistently enrich our offerings;
+ our ability to successfully expand our global footprints;
+ our ability to maintain and enlarge our alliances with key ecosystem partners;
+ our reputation and brand strength relative to our competitors;
+ our ability to fully comply with relevant laws, regulations, rules, policies and
 guidelines, as well as address disputes, proceedings, settlements, judgments,
 injunctions and consent decrees;
 – 344 –
 
 === PAGE 355 ===
 BUSINESS
-(cid:129) changes mandated by, or that we elect to make to address, evolving legislations and
+ changes mandated by, or that we elect to make to address, evolving legislations and
 requirements by regulatory authorities;
-(cid:129) our ability to attract, retain and motivate talented employees;
-(cid:129) our ability to maintain and improve our safety mechanism;
-(cid:129) our ability to raise additional capital; and
-(cid:129) acquisitions or consolidation within our industry.
+ our ability to attract, retain and motivate talented employees;
+ our ability to maintain and improve our safety mechanism;
+ our ability to raise additional capital; and
+ acquisitions or consolidation within our industry.
 RESEARCH AND DEVELOPMENT
 We believe our strong research and development capability is our principal competitive
 strength. We have invested a significant amount of time and resources in research and
@@ -14871,12 +14871,12 @@ years of engineering experience, including work in esteemed technology firms bot
 domestically and internationally. Each member specializes in a distinct area, and their profiles
 are detailed in the table below:
 Core R&D Team Member Profile
-Dr. Tony Xu Han(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) As our founder, chairman of our Board, executive Director
+Dr. Tony Xu Han As our founder, chairman of our Board, executive Director
 and CEO, Dr. Han has shaped our business strategies
 and significantly contributed to our core technologies.
 Dr. Han had contributed significantly to our Company in
 the following areas:
-(cid:129) Unwavering commitment to L4 technology
+ Unwavering commitment to L4 technology
 development. Since our inception, Dr. Han has
 consistently prioritized L4 technology as our
 strategic focus. Despite facing challenges such as
@@ -14889,7 +14889,7 @@ leadership, we are now the only autonomous
 driving company globally offering L4 autonomous
 driving solutions that cater to diverse urban
 lifestyle and travel needs.
-(cid:129) Proactive business planning and pioneering
+ Proactive business planning and pioneering
 multiplevehicleproducts.Dr.Hanprioritizesurban
 scenarios with significant market potential and
 diverse applications. He spearheaded our R&D
@@ -14903,7 +14903,7 @@ multiple pioneering L4 products.
 === PAGE 357 ===
 BUSINESS
 Core R&D Team Member Profile
-(cid:129) Focus on product deployment and
+ Focus on product deployment and
 commercialization. Under Dr. Han’s leadership, we
 have achieved significant commercialization
 milestones. Notably, we launched China’s first
