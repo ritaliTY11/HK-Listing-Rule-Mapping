@@ -1,0 +1,3 @@
+data/raw_prospectuses/*.pdf
+logs/download_log.csv
+venv/
