@@ -188,20 +188,20 @@ the Stock Exchange at www.hkexnews.hk on or before(10) . . . . . . . . . . . . .
 The results of allocations in the Hong Kong Public Offering (with successful applicants’
 identification document numbers, where appropriate) to be available through a variety of channels,
 including:
-(cid:129) in the announcement to be posted on our website and
+ in the announcement to be posted on our website and
 the website of the Stock Exchange at www.xztech.ai(6)
 and www.hkexnews.hk, respectively . . . . . . . . . . . . . . . . . . . . . . . . . Monday, April 27, 2026
 – i –
 
 === PAGE 6 ===
 EXPECTED TIMETABLE
-(cid:129) from the designated results of allocation at
+ from the designated results of allocation at
 www.hkeipo.hk/IPOResult or www.tricor.com.hk/ipo/result
 with a “search by ID” function from. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11:00 p.m. on
 Monday, April 27, 2026
 to 12:00 midnight on
 Sunday May 3, 2026
-(cid:129) from the allocation results telephone enquiry line
+ from the allocation results telephone enquiry line
 by calling +852 3691 8488 between 9:00 a.m.
 and 6:00 p.m. from. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Tuesday, April 28, 2026 to
 Monday, May 4, 2026
@@ -393,7 +393,7 @@ materialize. We expect that, likely after 2035, optical computing and electrical
 solutions may coexist on a large scale.
 Standing at the outset of a new era for the global computing power industry, our product and
 solutions provide advanced optical interconnect and optical computing solutions.
-(cid:129) Our Optical Interconnect: Empowered by our proprietary optoelectronic chip technologies,
+ Our Optical Interconnect: Empowered by our proprietary optoelectronic chip technologies,
 we provide a comprehensive solution connecting diverse computing devices—including
 GPUs, CPUs, xPUs, switches, and storage chips—using optical signals. Our optical
 interconnect solutions are used to increase the computational power within a single server or
@@ -405,7 +405,7 @@ solution for the interconnect of GPU supernode, according to Frost & Sullivan. T
 improves Model FLOPs Utilization (MFU), a crucial efficiency metric used to measure how
 effectively a computing system utilizes its computing power, by over 50%, substantially
 reducing total cost of ownership for a certain amount of computing power generated.
-(cid:129) Our Optical Computing: By replacing electrons with photons for data processing, our optical
+ Our Optical Computing: By replacing electrons with photons for data processing, our optical
 computing processors use photonic linear computing units to accelerate operations. These
 units are less constrained by process nodes and offer low latency and high throughput,
 supporting improvements in computing performance boundaries and redefining the standards
@@ -415,13 +415,13 @@ and PACE 2, the world’s first 3D TSV-packaged optoelectronic computing card, a
 Frost & Sullivan.
 Guided by global customer needs, we co-create the application ecosystem with our partners and
 continue to advance commercialization across the industry. As of the Latest Practicable Date:
-(cid:129) Proven Deployments: We have successfully deployed optical interconnect solutions to three
+ Proven Deployments: We have successfully deployed optical interconnect solutions to three
 thousand-GPU clusters, representing an important step in the commercialization of our
 technology and demonstrating that our products are ready for deployment in real-world
 systems at large scale. Delivering clusters of this scale requires integration across the entire
 value chain, from chip design to system deployment, demonstrating our capability to execute
 at scale and to lead the rollout of next-generation optoelectronic computing solutions.
-(cid:129) Established Customer Relationships: We have entered into over 15 design-in collaborations
+ Established Customer Relationships: We have entered into over 15 design-in collaborations
 with GPU and server manufacturers, positioning us among the few companies in the industry
 capable of bringing cutting-edge solutions into commercial deployment, according to Frost
 & Sullivan. Because the customization process with chip manufacturers requires significant
@@ -432,7 +432,7 @@ the field.
 
 === PAGE 12 ===
 SUMMARY
-(cid:129) Mass Production Ready: We have established strong collaborations with semiconductor
+ Mass Production Ready: We have established strong collaborations with semiconductor
 foundries and secured priority capacity commitments and favorable terms. For example, we
 received priority manufacturing support from such suppliers within agreed order volumes
 due to our long-standing supplier partnerships and leadership in advanced optoelectronic
@@ -1384,7 +1384,7 @@ HK$2,266.9 million, after deducting underwriting commissions, fees and estimated
 us in connection with the Global Offering, assuming no Over-allotment Option is exercised and an
 Offer Price of HK$174.9 per Offer Share, being the midpoint of the indicative Offer Price range stated
 in this Prospectus.
-(cid:129) Approximately 70% (HK$1,586.8 million) of the net proceeds will be used for research and
+ Approximately 70% (HK$1,586.8 million) of the net proceeds will be used for research and
 development over the next five years, including the continued development of our optical
 interconnect business and optical computing business, specifically: (i) approximately 35%
 (HK$793.4 million) of the net proceeds will be used for the development of our optical
@@ -1392,9 +1392,9 @@ interconnect business, with a particular focus on chip design technology; and (i
 approximately 35% (HK$793.4 million) of the net proceeds will be used for the continued
 research and development of our optical computing business, with a focus on the research
 and development of PACE 3 and future generation OPUs.
-(cid:129) Approximately 20%, or HK$453.4 million of the net proceeds will be used for our
+ Approximately 20%, or HK$453.4 million of the net proceeds will be used for our
 commercialization efforts.
-(cid:129) Approximately 10%, or HK$226.7 million of the net proceeds will be allocated to working
+ Approximately 10%, or HK$226.7 million of the net proceeds will be allocated to working
 capital and general corporate purposes.
 See “Future Plans and Use of Proceeds” for details.
 DIVIDENDS
@@ -2468,7 +2468,7 @@ Adviser we are a “Covered Foreign Person” engaging in integrated circuit des
 “semiconductors and microelectronics” sector that fall within the scope of the “Notifiable
 Transactions”, rather than the “Prohibited Transactions” under the OIR Rule, based on the following
 assessment:
-(cid:129) Under the OIR Rule, a “Covered Foreign Person” is defined in 31 CFR 850.209 as a “Person
+ Under the OIR Rule, a “Covered Foreign Person” is defined in 31 CFR 850.209 as a “Person
 of a Country of Concern” that engages in a “Covered Activity,” or a person that directly or
 indirectly, holds a board seat on, a voting or equity interest in, or any contractual power to
 direct or cause the direction of the management or policies of any “Person of a Country of
@@ -2478,7 +2478,7 @@ across all such persons; derives more than 50 percent of its net income individu
 aggregated across all such persons; incurs more than 50 percent of its capital expenditure
 individually, or as aggregated across all such persons; or incurs more than 50 percent of its
 operating expenses individually, or as aggregated across all such persons.
-(cid:129) Our Company is a “Person of a Country of Concern” because we are headquartered in China,
+ Our Company is a “Person of a Country of Concern” because we are headquartered in China,
 and the OIR Rule designates China as a country of concern. In terms of the “Covered
 Activity”, the OIR Rule defines a “Covered Activity” to be any of the activities referred to
 in the definitions of “Notifiable Transaction” or “Prohibited Transaction.” In terms of the
@@ -2488,7 +2488,7 @@ Transactions.” Specifically, our Company engages in the design of certain inte
 that are classified by the BIS under export control classification number (“ECCN”) EAR99,
 3A991, and 4A994, which could meet the criteria of “Covered Activities” as described in 31
 CFR 850.217(a) under the definition of a “Notifiable Transaction.”
-(cid:129) However, we believe that we are not engaged in any “Covered Activities” that fall within the
+ However, we believe that we are not engaged in any “Covered Activities” that fall within the
 definition of a “Prohibited Transaction” under the OIR Rule, as the integrated circuits we
 design do not meet or exceed the performance parameters of an integrated circuit as defined
 in a “Prohibited Transaction”. Thus, investments by, or that are knowingly directed by, a
@@ -4214,12 +4214,12 @@ Market Size of Global AI Computing Products Market Size of Global AI Interconnec
 2025 & 2031E
 CAGR, 2025 – 2031E CAGR, 2025 – 2031E
 RMBBillion RMBBillion
-8,837.6 Total (cid:28583)(cid:28581)(cid:28578)(cid:28583)(cid:28569) 2,032.7 Total (cid:28582)(cid:28587)(cid:28578)(cid:28580)(cid:28569)
-1,954.9 ChinaMarket (cid:28584)(cid:28585)(cid:28578)(cid:28583)(cid:28569) 449.6 ChinaMarket
-(cid:28584)(cid:28580)(cid:28578)(cid:28586)(cid:28569)
-ROW Market (cid:28582)(cid:28588)(cid:28578)(cid:28586)(cid:28569)
+8,837.6 Total 2,032.7 Total 
+1,954.9 ChinaMarket 449.6 ChinaMarket
+ 
+ROW Market 
 6,882.8 1,583.0
-ROW Market (cid:28582)(cid:28584)(cid:28578)(cid:28585)(cid:28569)
+ROW Market 
 483.6
 1,727.2 58.2
 208.0
@@ -4342,14 +4342,14 @@ interconnect portion withinAI compute cluster revenue is included.
 === PAGE 102 ===
 INDUSTRY OVERVIEW
 Drivers and Development Trends of the Scale-up Optical Interconnect Market
-(cid:129) Paradigm shifts in technical architecture
+ Paradigm shifts in technical architecture
 The physical limits of electrical interconnects and the advantages of optical technologies are
 driving Scale-up optical interconnects toward a central role in computing infrastructure. As bandwidth,
 power and latency constraints intensify, the industry is advancing silicon photonics integration, CPO
 and linear-drive architectures to shorten transmission paths and improve efficiency. By combining
 tighter chip-level integration with wavelength multiplexing and optimized network design, Scale-up
 optical interconnects are evolving from component solutions to system-level architectures.
-(cid:129) Exponential expansion of computing demand
+ Exponential expansion of computing demand
 At the same time, surging AI training demand is pushing Scale-up optical interconnects into the
 core of data centers. Rapid growth in rack-level port density has exposed the scalability limits of
 electrical interconnects, making optical solutions essential for ultra-large clusters and trillion-parameter
@@ -4575,14 +4575,14 @@ breakthroughs — cost reduction — ecological improvement”. Each stage of te
 corresponds to a leap in market size, ultimately translating this technology from the laboratory into
 ready-to-use products and solutions.
 Drivers and Development Trends of Optical Computing Product Market
-(cid:129) Ecosystem Synergy
+ Ecosystem Synergy
 The divergence between traditional computing architectures and the physical properties of optical
 drives the need for deep hardware — software co-optimization. To solve compatibility challenges, the
 industry is building a ecosystem from device-level to application-level, with unified standards and
 interfaces. This enables seamless integration with electronic systems and boosts resource efficiency.
 Over time, open-source communities and standardized frameworks will further reduce barriers,
 transforming optical computing from isolated hardware modules into scalable system-level solutions.
-(cid:129) Paradigm Shift in AI Training
+ Paradigm Shift in AI Training
 Traditional optical architectures excel in low-precision inference but fall short in high-precision
 training tasks required for large AI models. To address this, researchers are reconstructing the
 underlying logic of optical computing, mapping gradient calculations into physical optical propagation.
@@ -6047,7 +6047,7 @@ expect that, likely after 2035, optical computing and electrical computing produ
 coexist on a large scale.
 Standing at the outset of a new era for the global computing power industry, our products and
 solutions provide advanced optical interconnect and optical computing solutions.
-(cid:129) Our Optical Interconnect: Empowered by our proprietary optoelectronic chip technologies,
+ Our Optical Interconnect: Empowered by our proprietary optoelectronic chip technologies,
 we provide a comprehensive solution connecting diverse computing devices—including
 GPUs, CPUs, xPUs, switches, and storage chips—using optical signals. Our optical
 interconnect solutions are used to increase the computational power within a single server or
@@ -6063,7 +6063,7 @@ solution for the interconnect of GPU supernode, according to Frost & Sullivan. T
 improves Model FLOPs Utilization (MFU), a crucial efficiency metric used to measure how
 effectively a computing system utilizes its computing power, by over 50%, substantially
 reducing total cost of ownership for a certain amount of computing power generated.
-(cid:129) Our Optical Computing: By replacing electrons with photons for data processing, our optical
+ Our Optical Computing: By replacing electrons with photons for data processing, our optical
 computing processors use photonic linear computing units to accelerate operations. These
 units are less constrained by process nodes and offer low latency and high throughput,
 supporting improvements in computing performance boundaries and redefining the standards
@@ -6073,20 +6073,20 @@ and PACE 2, the world’s first 3D TSV-packaged optoelectronic computing card, a
 Frost & Sullivan.
 Guided by global customer needs, we co-create the application ecosystem with our partners and
 continue to advance commercialization across the industry. As of the Latest Practicable Date:
-(cid:129) Proven Deployments: We have successfully deployed optical interconnect solutions to three
+ Proven Deployments: We have successfully deployed optical interconnect solutions to three
 thousand-GPU clusters, representing an important step in the commercialization of our
 technology and demonstrating that our products are ready for deployment in real-world
 systems at large scale. Delivering clusters of this scale requires integration across the entire
 value chain, from chip design to system deployment, demonstrating our capability to execute
 at scale and to lead the rollout of next-generation optoelectronic computing solutions.
-(cid:129) Established Customer Relationships: We have entered into over 15 design-in collaborations
+ Established Customer Relationships: We have entered into over 15 design-in collaborations
 with GPU and server manufacturers, positioning us among the few companies in the industry
 capable of bringing cutting-edge solutions into commercial deployment, according to Frost
 & Sullivan. Because the customization process with chip manufacturers requires significant
 time and effort and is difficult to replicate, our solutions create stable customer relationships
 and long-term business continuity, establishing us as one of the fastest-moving companies in
 the field.
-(cid:129) Mass Production Ready: We have established strong collaborations with semiconductor
+ Mass Production Ready: We have established strong collaborations with semiconductor
 foundries and secured priority capacity commitments and favorable terms. For example, we
 received priority manufacturing support from such suppliers within agreed order volumes
 due to our long-standing supplier partnerships and leadership in advanced optoelectronic
@@ -6205,7 +6205,7 @@ chip technologies work efficiently with traditional electrical chips because opt
 primarily protocol agnostic as it operates at the physical layer focusing on the transmission of light
 signals (photons) rather than interpreting specific logical data protocol which electrical interconnects
 are more tightly coupled with.
-(cid:129) oNOC (Optical Network on Chip): This technology enables high performance interconnect
+ oNOC (Optical Network on Chip): This technology enables high performance interconnect
 among multiple electrical chips by stacking them on a single photonic wafer. Because optical
 propagation is less sensitive to distance at on-chip and short-reach scales, the photonic chip
 can extend across a full wafer to create a wafer-level optical interconnect network. This
@@ -6216,14 +6216,14 @@ BUSINESS
 enables a larger-scale optical network that result in higher chip utilization. We currently
 deploy oNOC technology in our Scale-up OCS product within optical interconnect product
 line, as well as in our optical computing products including PACE Series.
-(cid:129) oNET (Optical Inter-chip Networking): this technology facilitates board-to-board
+ oNET (Optical Inter-chip Networking): this technology facilitates board-to-board
 interconnect by eliminating the traditional network interface card and connecting the
 computing chip directly to the electro-optical conversion module. Through innovations at the
 physical layer and in the interconnect protocol, oNET establishes a high-bandwidth,
 low-latency, and low-power-consumption optical network between chips. We currently
 deploy oNET technology in our scale-up interconnect products including Scale-up EPS and
 Scale-up OCS.
-(cid:129) oMAC (Optical Multiply Accumulate): To overcome the single-chip performance constraints
+ oMAC (Optical Multiply Accumulate): To overcome the single-chip performance constraints
 of Moore’s Law, oMAC utilizes photons instead of electrons for data processing and to
 accelerate linear operations. Because computation occurs at the speed of light across the
 chip, latency can be under one nanosecond, delivering significant advantages in low latency
@@ -6240,7 +6240,7 @@ and robust foundation for the continued evolution of our products and solutions.
 Our Product Matrix
 Leveraging our R&D capabilities and core technologies, we have developed a comprehensive
 product matrix.
-(cid:129) Optical Interconnect: Our Scale-up and Scale-out series provide a comprehensive solution
+ Optical Interconnect: Our Scale-up and Scale-out series provide a comprehensive solution
 spanning from single chip to datacenter levels. Our Scale-up hardware and solutions enable
 the construction of high-performance supernodes, while our Scale-out hardware and
 solutions link multiple supernodes into large, distributed computing clusters. Compared to
@@ -6248,7 +6248,7 @@ traditional technologies, our optical solutions can improve latency by 18.2 time
 efficiency by 5.4 times, and interconnect density by 12.2 times. This significantly improves
 computing efficiency, thereby increasing MFU by over 50% and directly addressing
 customers’ cost challenges.
-(cid:129) Optical Computing: Our portfolio includes the flagship PACE series of optoelectronic
+ Optical Computing: Our portfolio includes the flagship PACE series of optoelectronic
 computing products, the Gazelle development system, the OptiHummingbird accelerator
 card, and the LTSimulator. Compared with traditional electronic computing, optical
 computing offers inherently low latency and high throughput, enabling substantial gains in
@@ -6268,31 +6268,31 @@ have leveraged our core silicon photonics technology to drive the industry’s t
 electrical to optical computing, continuously advancing innovation in both optical computing and
 optical interconnects. Our key technical milestones in the optical computing and optical interconnect
 fields include:
-(cid:129) June 2017: Our founder, Dr. Shen Yichen, as first author, published a cover article in Nature
+ June 2017: Our founder, Dr. Shen Yichen, as first author, published a cover article in Nature
 Photonics that first proposed a method for deep learning using coherent nanophotonic
 circuits, widely regarded as a breakthrough in optoelectronic computing.
-(cid:129) April 2019: We released our first photonic computing prototype, which successfully ran a
+ April 2019: We released our first photonic computing prototype, which successfully ran a
 Google TensorFlow model to process the MNIST dataset, validating our optical computing
 approach.
-(cid:129) December 2021: We launched the PACE photonic computing processor, supporting a 64 × 64
+ December 2021: We launched the PACE photonic computing processor, supporting a 64 × 64
 matrix operation, demonstrating computing speeds hundreds of times faster than
 contemporary high-end GPUs on specific algorithms. Related research was subsequently
 published in Nature in April 2025.
-(cid:129) August 2023: At Flash Memory Summit (FMS) 2023, we launched a data center optical
+ August 2023: At Flash Memory Summit (FMS) 2023, we launched a data center optical
 interconnect product supporting both PCIe and CXL protocols. As our first product to
 achieve CXL memory expansion via optical interconnect, our product won the summit’s
 highest honor, “Best of Show.”
-(cid:129) August 2023: We announced OptiHummingbird, our first hardware product utilizing oNOC
+ August 2023: We announced OptiHummingbird, our first hardware product utilizing oNOC
 technology, at the Hot Chips Conference, one of the semiconductor industry’s leading
 conferences on high-performance microprocessors and integrated circuits.
-(cid:129) March 2025: We released PACE 2, an optoelectronic computing card, integrating over 40,000
+ March 2025: We released PACE 2, an optoelectronic computing card, integrating over 40,000
 photonic devices and supporting a 128 × 128 matrix operation, marking the first application
 of our technology in complex commercial models.
-(cid:129) July 2025: We jointly launched LightSphere X, the world’s first GPU supernode solution
+ July 2025: We jointly launched LightSphere X, the world’s first GPU supernode solution
 supporting fully by distributed optical interconnect and optical switching, according to Frost
 & Sullivan. The solution won the Superior AI Leader (SAIL) Award at the 2025 World
 Artificial Intelligence Conference (WAIC).
-(cid:129) July 2025: We jointly launched China’s first xPU-CPO co-packaged optics prototype system,
+ July 2025: We jointly launched China’s first xPU-CPO co-packaged optics prototype system,
 co-packaging the optical engine and computing chip on the same substrate to shorten
 transmission distance.
 – 138 –
@@ -6366,13 +6366,13 @@ across both optical interconnect and optical computing.
 Cutting-Edge Products and Solutions with a Solid Foundation for Commercialization
 Our R&D perspective enables products and solutions natively designed for ultra-large-scale
 computing clusters, with commercialization in focus from the outset:
-(cid:129) Optical Interconnect: We address bandwidth and scalability challenges of traditional
+ Optical Interconnect: We address bandwidth and scalability challenges of traditional
 electrical interconnects and centralized switching for large-scale computing clusters, creating
 a new paradigm for high-bandwidth, low-latency, and scalable computing clusters. According
 to our paper published at SIGCOMM 2025, the interconnect cost of a supernode built with
 our architecture centered on distributed optical switching modules is theoretically only 31%
 of comparable systems, with a GPU redundancy rate an order of magnitude lower.
-(cid:129) Optical Computing: We adopt a non-coherent chip architecture design, with significant
+ Optical Computing: We adopt a non-coherent chip architecture design, with significant
 advantages in system scalability and resistance to electromagnetic interference. The design
 synergistically co-packages an Optical Processing Unit (OPU) and a custom
 Application-Specific Integrated Circuit (ASIC), achieving a 1GHz clock speed and 8-bit
@@ -6381,7 +6381,7 @@ integrated photonic devices, supports a maximum matrix operation of 128 x 128.
 Furthermore, it offers significant adaptability and optimization by allowing users to freely
 configure computational matrix coefficients via an API.
 We have achieved efficient R&D and iteration of our products and solutions:
-(cid:129) Optical Interconnect: We progressed from concept to deployment in a large-scale-GPU
+ Optical Interconnect: We progressed from concept to deployment in a large-scale-GPU
 cluster, validating stability and performance. According to Frost & Sullivan, as of the Latest
 Practicable Date, we were among the few providers globally and one of the first providers in
 China with an optical interconnect supernode solution for accumulated more than 5,000-card
@@ -6390,7 +6390,7 @@ cluster.
 
 === PAGE 150 ===
 BUSINESS
-(cid:129) Optical Computing: We released PACE in December 2021 and PACE 2 in March 2025, and
+ Optical Computing: We released PACE in December 2021 and PACE 2 in March 2025, and
 we already have a release schedule for PACE 3, our next-generation optoelectronic
 computing product. Our product iteration speed is continuously accelerating, helping to drive
 the commercialization of the optical computing industry.
@@ -6405,14 +6405,14 @@ committed to building a more standardized product and solution matrix.
 Broad Compatibility and a Robust and Collaborative Ecosystem
 We continuously collaborate with top-tier partners to build a vibrant ecosystem that strengthens
 our competitive advantages.
-(cid:129) Optical Interconnect: Our deep understanding and continuous technological investment in
+ Optical Interconnect: Our deep understanding and continuous technological investment in
 the optical interconnect technology allow us to keep up with the rapid iteration and
 technological innovation of various GPU products. Our expertise allows us to efficiently
 adopt to different providers’ products, mitigating lock-in effect associated with proprietary
 protocols and establishing first-mover advantages. Furthermore, we collaborate across the
 value chain, from IP and server vendors to cloud computing providers and large language
 model developers, to accelerate the transformation of computing power.
-(cid:129) Optical Computing: We believe a robust software ecosystem serves as the decisive catalyst
+ Optical Computing: We believe a robust software ecosystem serves as the decisive catalyst
 for computing chips to achieve market success. Our optical computing software stack
 includes a rich operator library and supports computer vision, large language models as well
 as Ising-type applications. Users can build applications with our in-house complier and
@@ -6465,12 +6465,12 @@ Our world-leading core technologies are keys to providing excellent products and
 current market position. To strengthen this position, we will continuously upgrade our optoelectronic
 computing products and solutions by increasing R&D investment, enhancing the advantages of our
 three core technologies and reinforcing the foundation of our business.
-(cid:129) Hardware: We will advance the evolution of our optical interconnect and optical computing
+ Hardware: We will advance the evolution of our optical interconnect and optical computing
 product lines. We will further develop core IP and processes, including integrated silicon
 photonics and advanced optoelectronic packaging, to improve key performance metrics like
 signal rate, computing power, and bandwidth density. We will continue to reduce system
 power consumption and cost while improving product reliability.
-(cid:129) Algorithms and Software: We will deepen our understanding of key use cases, such as large
+ Algorithms and Software: We will deepen our understanding of key use cases, such as large
 model inference and combinatorial optimization. We will improve our hardware-software
 co-simulation models and promote the co-design of software and hardware to translate
 – 142 –
@@ -6527,7 +6527,7 @@ has created unprecedented demand for AI infrastructure. Traditional server desig
 efficiently handle these workloads, as the bottleneck has shifted from individual processors to the
 interconnects that link them together. To address this challenge, the industry relies on two
 complementary approaches:
-(cid:129) Scale-up: Scale-up increases the computing power of a single node by tightly coupling
+ Scale-up: Scale-up increases the computing power of a single node by tightly coupling
 multiple GPUs so that they function as one larger processor. The core requirement of
 scale-up is a memory-coherent interconnect, which ensures that all processors share a
 consistent view of memory. Maintaining this coherence requires frequent GPU
@@ -6535,7 +6535,7 @@ communication, and therefore the interconnect must provide very high bandwidth, 
 latency, and support for specialized hardware protocols. Scale-up architectures are critical
 for training large language models, where thousands of GPUs must exchange parameters
 rapidly and operate as a tightly synchronized unit.
-(cid:129) Scale-out: Scale-out expands computing capacity by linking many servers into large,
+ Scale-out: Scale-out expands computing capacity by linking many servers into large,
 distributed computing cluster. In this model, workloads are executed in parallel across
 thousands of nodes, forming the basis of modern distributed computing. Unlike scale-up,
 scale-out does not require strict memory coherence across the entire computing cluster,
@@ -6635,13 +6635,13 @@ ElectricalPacketSwitch OurProprietaryChips
 ASupernodeInterconnectedbyScale-upEPS
 Scale-up EPS is anchored by two core building blocks that translate our semiconductor-level
 innovations into deployable system solutions:
-(cid:129) Optical Interconnect Cable: Provides ultra-low-latency, high-bandwidth links between xPU
+ Optical Interconnect Cable: Provides ultra-low-latency, high-bandwidth links between xPU
 compute cards and severs. It is based on one of the fastest open protocols and can achieve
 much longer transmission distances than copper cables. Each cable contains two optical
 modules embedding our proprietary PICs and EICs, the most critical elements of the
 product, enabling efficient linear-drive optical transmission while reducing power, weight,
 and cabling complexity.
-(cid:129) Scale-up Switch: A high-performance network switch designed to support the high-speed
+ Scale-up Switch: A high-performance network switch designed to support the high-speed
 interconnection requirements of both contemporary mainstream and future hyperscale data
 centers. Paired with our optical interconnect cables, it creates a long-reach, low-latency
 fabric that tightly couples xPUs across servers while preserving memory-semantic traffic.
@@ -6689,15 +6689,15 @@ Instead of concentrating switching into a large chassis, we embed compact silico
 elements close to servers and xPU clusters. Integrated directly into modules that resemble standard
 optical engines, these elements keep data signals entirely optical from port to port. The advantages of
 Scale-up OCS include:
-(cid:129) Cost-effectiveness and Efficiency: By eliminating expensive electrical switch chips and
+ Cost-effectiveness and Efficiency: By eliminating expensive electrical switch chips and
 reducing the number of optical modules required per connection, the architecture targets
 lower interconnect costs compared with comparable systems. It also enables dynamic
 resource allocation, with theoretical improvement on effective per-GPU utilization,
 supporting higher throughput for AI training and inference workloads.
-(cid:129) Resilience and Availability: The distributed design shrinks failure domains and enables
+ Resilience and Availability: The distributed design shrinks failure domains and enables
 millisecond-level failover. In the event of a GPU failure, the system can automatically
 substitute a hot-standby unit without manual intervention.
-(cid:129) Protocol Agnostic: Scale-up OCS is not tied to proprietary interconnect protocols, giving
+ Protocol Agnostic: Scale-up OCS is not tied to proprietary interconnect protocols, giving
 customers flexibility. Moreover, its core silicon photonics components can be fabricated
 using mature and widely available semiconductor processes, lessening reliance on advanced
 process nodes.
@@ -6741,12 +6741,12 @@ Scale-up Software: To complement our optical interconnect hardware, we provide a
 software stack composed of the Node Fabric Manager and the Cluster Fabric Manager. While our
 hardware can deliver ultra-low-latency optical links and the switch aggregates them into a
 high-performance domain, these software components ensure the hardware operates as a unified system.
-(cid:129) Node Fabric Manager: Deployed on each GPU server within the cluster, Node Fabric
+ Node Fabric Manager: Deployed on each GPU server within the cluster, Node Fabric
 Manager is responsible for managing and configuring the local optical circuit switch,
 maintaining its operational status, and collecting system messages and events. It receives and
 executes commands from the Cluster Fabric Manager, while providing event notifications
 and information feedback as required.
-(cid:129) Cluster Fabric Manager: This southbound cluster network management software is
+ Cluster Fabric Manager: This southbound cluster network management software is
 responsible for the provisioning and decommissioning of supernodes, maintaining the global
 network topology, and managing internal topologies within individual supernodes. It also
 handles the configuration and management of all optical circuit switch devices, facilitates
@@ -6762,7 +6762,7 @@ long-term scaling of artificial intelligence computing clusters.
 
 === PAGE 160 ===
 BUSINESS
-(cid:129) Near-Packaged Optics (NPO): As the next step, NPO relocates optical modules from the
+ Near-Packaged Optics (NPO): As the next step, NPO relocates optical modules from the
 server face plate to close proximity to GPU boards, reducing copper trace lengths from over
 one meter to approximately ten centimeters. This architecture eliminates the need for digital
 signal processing chips, reduces latency, and increases interconnect density by two to three
@@ -6771,7 +6771,7 @@ service providers and GPU manufacturers—as well as upstream suppliers in fiber
 and substrates. Our design teams have already completed initial chip tape-outs, and testing
 with industry partners is expected to begin in the near term. Broader deployment is targeted
 once validation milestones are achieved.
-(cid:129) Co-Packaged Optics (CPO): CPO integrates optical engines directly with GPUs or scale-up
+ Co-Packaged Optics (CPO): CPO integrates optical engines directly with GPUs or scale-up
 switch ASICs within the same package, reducing interconnect distances to the millimeter
 scale. This approach enables higher bandwidth and substantially lower latency compared
 with NPO. Given the technical complexity of CPO, including requirements in advanced
@@ -6826,7 +6826,7 @@ optical modules that generate real-time performance and reliability indicator, w
 aggregates and analyzes this information at the system level. Together, they enable predictive
 diagnostics and proactive maintenance across large-scale AI infrastructure, reducing downtime and
 improving efficiency.
-(cid:129) Smart Transceivers: Our smart transceivers integrate predictive diagnostics and advanced
+ Smart Transceivers: Our smart transceivers integrate predictive diagnostics and advanced
 monitoring, going beyond conventional optical modules that provide only limited feedback.
 By continuously recording parameters such as bias current, voltage, temperature, and optical
 power, and assisting anomaly detection algorithms, these modules facilitate detection of
@@ -6844,7 +6844,7 @@ reliability management systems, enabling real-time predictive maintenance of AI
 infrastructure at scale.
 Looking ahead, we plan to enhance our smart transceivers with in-house developed PICs,
 further strengthening performance and reliability.
-(cid:129) NexusBench: NexusBench is our cluster management and interconnect optimization software
+ NexusBench: NexusBench is our cluster management and interconnect optimization software
 designed to support the full lifecycle of intelligent computing centers from deployment to
 operation and maintenance. It automates deployment tasks such as cabling checks, firmware
 matching, and link validation, and provides optimization features including optical link
@@ -6945,7 +6945,7 @@ Optical Computing Commercialization Strategy and Implementation Plan
 We expect PACE 3 to be the primary driver of long-term commercialization and revenue growth
 for our optical computing product line. Our commercialization strategy for PACE 3 focuses on two key
 initiatives:
-(cid:129) Decoding-Focused Product Positioning: We are concentrating on the decoding phase of large
+ Decoding-Focused Product Positioning: We are concentrating on the decoding phase of large
 language model inference, a segment undergoing rapid growth. Recent industry
 developments show major industry participants launching separate prefill- and
 decoding-optimised accelerators targeting availability around 2026, which validates
@@ -6954,7 +6954,7 @@ latency-sensitive and throughput-intensive, making it an ideal use case for PACE
 Designed to provide superior large language model decoding capabilities, PACE 3 targets
 superior latency and energy efficiency, positioning it to capture a meaningful share of this
 growing segment.
-(cid:129) Ecosystem Development and Adoption: We are also building an ecosystem around PACE 3
+ Ecosystem Development and Adoption: We are also building an ecosystem around PACE 3
 by working with developers, research partners and early adopters, and supporting them
 through toolchains, development kits and application enablement. Adoption in academic and
 research environments is expected to generate applications and reference use cases that can
@@ -7002,22 +7002,22 @@ BUSINESS
 On the architecture level, the PACE series employs a hybrid system architecture, co-integrating
 advanced photonic and electronic circuits into a single, compact module to optimize performance and
 interoperability. The key components of the PACE series are:
-(cid:129) Silicon Photonic Integrated Circuit (PIC): Our proprietary PIC serves as the core
+ Silicon Photonic Integrated Circuit (PIC): Our proprietary PIC serves as the core
 computational engine, fabricated on a commercial silicon photonics module. Such PIC
 integrates more than 16,000 (in PACE) or 40,000 (in PACE 2) discrete photonic devices to
 form 64x64 or 128x128 optical matrices in PACE and PACE 2, respectively. The PIC is
 responsible for modulating input light, performing MatMul, and detecting the optical output.
-(cid:129) CMOS Electronic Integrated Circuit (EIC): EIC is the custom-designed companion chip,
+ CMOS Electronic Integrated Circuit (EIC): EIC is the custom-designed companion chip,
 fabricated in a CMOS process, that provides essential control and interface functions.
-(cid:129) Advanced Co-Packaging: The PIC and EIC are integrated using a flip-chip assembly method,
+ Advanced Co-Packaging: The PIC and EIC are integrated using a flip-chip assembly method,
 connecting them with thousands of high-density micro-bumps. This advanced co-packaging
 technique minimizes latency and power loss during data transfer between the chips, forming
 a cohesive System-in-Package (SiP).
-(cid:129) System-Level Integration: The entire SiP is mounted on a printed circuit board (PCB). This
+ System-Level Integration: The entire SiP is mounted on a printed circuit board (PCB). This
 board also houses power management components and system I/O connectors, ensuring
 compatibility with existing server and data center infrastructure. External laser sources are
 coupled to the PIC via a high-precision fiber array.
-(cid:129) Software Development Kits (SDK). SDK is the software used by developers. The main
+ Software Development Kits (SDK). SDK is the software used by developers. The main
 building blocks of our SDK include an OPU runtime, an OPU compiler and
 high-performance libraries for AI and non-AI applications, with examples being ResNet and
 Ising.
@@ -7053,21 +7053,21 @@ technology to integrate memory with our advanced silicon photonics chip. The arc
 to overcome the primary challenges that have limited the mass deployment of optical computing:
 computational precision, memory bandwidth, and scalability. The key architectural components and
 features of PACE 3 are:
-(cid:129) Enhanced Optoelectronic Computation. PACE 3 strengthens both optical and electrical
+ Enhanced Optoelectronic Computation. PACE 3 strengthens both optical and electrical
 computing capabilities. Its core is an enlarged optical matrix (oMAC) with a scale of
 256x256. Crucially, it introduces support for a wide range of data types, including BF16,
 FP8, FP4, INT8, and INT4, addressing the need for higher computational precision and
 supporting floating-point operations.
-(cid:129) High-Bandwidth Memory System. Acknowledging that memory access is a critical
+ High-Bandwidth Memory System. Acknowledging that memory access is a critical
 bottleneck in generative AI, PACE 3’s design prioritizes memory and I/O bandwidth. It
 incorporates an innovative memory technology engineered to provide the high-speed,
 low-latency, and high-capacity memory access required to efficiently process large language
 models.
-(cid:129) Native Scalability with Optical Interconnects. To support ever-growing model sizes, PACE 3
+ Native Scalability with Optical Interconnects. To support ever-growing model sizes, PACE 3
 natively integrates our oNET (Optical Inter-chip Network) technology. This allows for the
 seamless, low-latency interconnection of multiple PACE 3 chips, enabling the construction
 of large, scalable clusters and powerful compute domains.
-(cid:129) Architecture Optimized for LLM Inference: The system is holistically designed to accelerate
+ Architecture Optimized for LLM Inference: The system is holistically designed to accelerate
 the token-by-token inference stage of large language model. This strategic focus ensures that
 the computational core, memory system, and interconnects work in concert to address the
 primary latency bottleneck in generative AI, positioning PACE 3 as a specialized solution for
@@ -8846,19 +8846,19 @@ committee, a primary department designated by our CEO, to be responsible for inf
 No information, whether proprietary to us or obtained from third parties, may be disclosed to any
 external person or entity without the prior approval or authorization of the party from which such
 information was obtained. We implemented several detailed measures with respect to data protection.
-(cid:129) Ensuring data transmission and storage security. We implement a series of measures to
+ Ensuring data transmission and storage security. We implement a series of measures to
 safeguard the security and integrity of data throughout its life cycle. In particular, during the
 storage and transmission of information, we apply the principle of minimal disclosure and
 ensure that any transfer is carried out in a manner designed to provide adequate protection
 and minimise the risk of access or disclosure to any person other than the intended recipient.
-(cid:129) Establishing data access control. We implement strict access control policies to restrict
+ Establishing data access control. We implement strict access control policies to restrict
 unauthorised access to data and maintain comprehensive audit trails and activity logs to
 detect and respond to potential security incidents in a timely manner. In particular, all work
 areas where information is stored or maintained constitute restricted areas within our Group
 and are subject to controlled access, and only qualified employees with an appropriate
 business need are permitted to work in or enter restricted areas other than their usual
 workplace(s).
-(cid:129) Conducting periodic IT system auditing. We conduct periodic IT system audits, including
+ Conducting periodic IT system auditing. We conduct periodic IT system audits, including
 regular inspections of operating systems, databases and network devices, and monitor system
 logs to identify errors or potential risks, with prompt corrective measures to safeguard
 system stability and security. In addition, our designated officers organize at least annual and
@@ -12299,7 +12299,7 @@ HK$2,266.9 million, after deducting underwriting commissions, fees and estimated
 us in connection with the Global Offering, assuming no Over-allotment Option is exercised and an
 Offer Price of HK$174.9 per Offer Share, being the midpoint of the indicative Offer Price range stated
 in this Prospectus.
-(cid:129) Approximately 70.0% (HK$1,586.8 million) of the net proceeds will be used for research
+ Approximately 70.0% (HK$1,586.8 million) of the net proceeds will be used for research
 and development over the next five years, including the continued development of our
 optical interconnect hardware and solutions and optical computing products. In line with our
 strategies, we intend to deploy the proceeds as follows, subject to adjustment in light of
@@ -12308,7 +12308,7 @@ o Research and Development of Our Optical Interconnect Hardware and Solutions.
 To reinforce our technological leadership, we plan to allocate approximately 35.0%
 (HK$793.4 million) of the net proceeds to the development of our optical interconnect
 hardware and solutions, with a particular focus on semiconductor design capabilities.
-(cid:129) Development of chip design technology: Approximately 25.0% (HK$566.7
+ Development of chip design technology: Approximately 25.0% (HK$566.7
 million) will be invested in advancing semiconductor design for our interconnect
 business line. The development of proprietary interconnect chips underpins our
 competitive advantage, enabling differentiated performance and improved energy
@@ -12336,7 +12336,7 @@ computing-related software development.
 
 === PAGE 284 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) Product Improvement and Commercialization: Approximately 10.0%
+ Product Improvement and Commercialization: Approximately 10.0%
 (HK$226.7 million) will be allocated to enhancing our existing optical
 interconnect portfolio and accelerating commercialization of next-generation
 commercial offerings. For our scale-up solutions, we will continue upgrading
@@ -12352,7 +12352,7 @@ o Research and Development of Our Optical Computing Products. We plan to
 allocate approximately 35.0%, or HK$793.4 million, of the net proceeds over the next
 five years to the continued research and development of our optical computing
 products.
-(cid:129) Research and Development of PACE 3 and Future Generation OPUs: We will
+ Research and Development of PACE 3 and Future Generation OPUs: We will
 allocate substantial all of the net proceeds allocated to our optical computing
 product line to the research and development of PACE 3, which anchors our
 optical computing product line and our commercialization roadmap, and potential
@@ -12381,7 +12381,7 @@ semiconductor design, software engineering, system design and AI applications,
 while also strengthening our global and in-house talent pool. These efforts will
 support the advancement of the optical computing product line and ensure
 continuity of our long-term innovation pipeline.
-(cid:129) Approximately 20.0%, or HK$453.4 million of the net proceeds will be used for our
+ Approximately 20.0%, or HK$453.4 million of the net proceeds will be used for our
 commercialization efforts. In line with our strategies, we intend to use the net proceeds for
 the following purposes, subject to changes in light of our evolving business needs and
 changing market conditions:
@@ -12421,7 +12421,7 @@ overseas expansion will follow a phased and disciplined approach and will remain
 relatively small component of our growth strategy compared to our expansion in the
 domestic market. We will continue to evaluate and refine our approach as we develop a
 deeper understanding of customer needs and the competitive landscape in each region.
-(cid:129) Approximately 10.0%, or HK$226.7 million of the net proceeds will be allocated to working
+ Approximately 10.0%, or HK$226.7 million of the net proceeds will be allocated to working
 capital and general corporate purposes.
 To the extent that the net proceeds from the Global Offering are not immediately required for the
 above purposes and to the extent permitted by the relevant laws and regulations, we will only place the
@@ -13035,10 +13035,10 @@ STRUCTURE OF THE GLOBAL OFFERING
 THE GLOBAL OFFERING
 This prospectus is published in connection with the Hong Kong Public Offering as part of the
 Global Offering. The Global Offering comprises:
-(cid:129) the Hong Kong Public Offering of initially 689,775 Offer Shares (subject to reallocation as
+ the Hong Kong Public Offering of initially 689,775 Offer Shares (subject to reallocation as
 mentioned below) in Hong Kong as described below in the paragraph headed “The Hong
 Kong Public Offering”; and
-(cid:129) the International Offering of initially 13,105,440 Offer Shares (subject to reallocation, and
+ the International Offering of initially 13,105,440 Offer Shares (subject to reallocation, and
 the Over-Allotment Option as described below) (i) in the United States solely to QIBs in
 reliance on Rule 144A or another exemption from, or in a transaction not subject to, the
 registration requirements of the U.S. Securities Act and (ii) outside the United States
@@ -13243,27 +13243,27 @@ market price of our H Shares, (v) selling or agreeing to sell any H Shares in or
 position established as a result of those purchases, and (vi) offering or attempting to do anything as
 described in (ii), (iii), (iv) or (v) above.
 Specifically, prospective applicants for and investors in H Shares should note that:
-(cid:129) the Stabilizing Manager (or its affiliates or any person acting for it) may, in connection with
+ the Stabilizing Manager (or its affiliates or any person acting for it) may, in connection with
 the stabilizing action, maintain a long position in the H Shares;
-(cid:129) there is no certainty as to the extent to which and the time or period for which the
+ there is no certainty as to the extent to which and the time or period for which the
 Stabilizing Manager (or its affiliates or any person acting for it) will maintain such a long
 position;
-(cid:129) liquidation of any such long position by the Stabilizing Manager (or its affiliates or any
+ liquidation of any such long position by the Stabilizing Manager (or its affiliates or any
 person acting for it) and selling in the open market may have an adverse impact on the
 market price of the H Shares;
 – 295 –
 
 === PAGE 305 ===
 STRUCTURE OF THE GLOBAL OFFERING
-(cid:129) no stabilizing action can be taken to support the price of the H Shares for longer than the
+ no stabilizing action can be taken to support the price of the H Shares for longer than the
 stabilizing period, which will begin on the Listing Date and is expected to expire on
 Saturday, May 23, 2026, being the 30th day after the last day for lodging applications under
 the Hong Kong Public Offering. After this date, when no further action may be taken to
 support the price of the H Shares, demand for the H Shares, and therefore the price of the H
 Shares, could fall;
-(cid:129) the price of the H Shares cannot be assured to stay at or above the Offer Price by the taking
+ the price of the H Shares cannot be assured to stay at or above the Offer Price by the taking
 of any stabilizing action; and
-(cid:129) stabilizing bids or transactions effected in the course of the stabilizing action may be made
+ stabilizing bids or transactions effected in the course of the stabilizing action may be made
 at any price at or below the Offer Price, which means that stabilizing bids or transactions
 effected may be made at a price below the price paid by applicants for, or investors in, the
 Offer Shares.
@@ -13340,14 +13340,14 @@ Hong Kong Offer Shares — B. Publication of Results”.
 STRUCTURE OF THE GLOBAL OFFERING
 CONDITIONS OF THE GLOBAL OFFERING
 Acceptance of all applications for Offer Shares is conditional on:
-(cid:129) the Listing Committee granting approval for the listing of, and permission to deal in our H
+ the Listing Committee granting approval for the listing of, and permission to deal in our H
 Shares in issue and to be issued as described in this prospectus (including the Offer Shares
 which may be issued pursuant to the exercise of the Over-allotment Option);
-(cid:129) the Offer Price having been agreed between us, the Overall Coordinators and the Joint
+ the Offer Price having been agreed between us, the Overall Coordinators and the Joint
 Global Coordinators (for themselves and on behalf the Underwriters);
-(cid:129) the execution and delivery of the International Underwriting Agreement on or about the
+ the execution and delivery of the International Underwriting Agreement on or about the
 Price Determination Date; and
-(cid:129) the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
+ the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
 Agreement and the obligations of the International Underwriters under the International
 Underwriting Agreement becoming unconditional and not having been terminated in
 accordance with the terms of the respective agreements,
@@ -13392,13 +13392,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you are
 applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the HK eIPO White Form service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the HK eIPO White Form service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the Stock
 Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the person(s) for whose
 benefit you are applying for:
-(cid:129) are an existing Shareholder or its close associates; or
-(cid:129) are a Director or a Supervisor, or any of his/her close associates.
+ are an existing Shareholder or its close associates; or
+ are a Director or a Supervisor, or any of his/her close associates.
 – 299 –
 
 === PAGE 309 ===
@@ -13466,17 +13466,17 @@ and conditions of this prospectus.
 3. Information Required to Apply
 You must provide the following information with your application:
 ForIndividualApplicants ForCorporateApplicants
-(cid:129) Full name(s)2 as shown on your identity (cid:129) Full name(s)2 as shown on your identity
+ Full name(s)2 as shown on your identity Full name(s)2 as shown on your identity
 document document
-(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
+ Identity document’s issuing country or Identity document’s issuing country or
 jurisdiction jurisdiction.
-(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
+ Identity document type, with order of Identity document type, with order of
 priority: priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification document; or ii. Certificate of incorporation; or
 iii. Passport; and iii. Business registration certificate; or
-(cid:129) Identity document number iv. Other equivalent document; and
-(cid:129) Identity document number
+ Identity document number iv. Other equivalent document; and
+ Identity document number
 Notes:
 1. If you are applying through the HK eIPO White Form service, you are required to provide a valid e-mail address, a
 contacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclarethattheidentityinformationprovided
@@ -13507,9 +13507,9 @@ you exercise statutory control over that company, then the application will be t
 should provide the required information in your application as stated above.
 “Unlistedcompany”meansacompanywithnoequitysecuritieslistedontheStockExchangeoranyotherstockexchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhichcarriesnorightto
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhichcarriesnorightto
 participate beyond a specified amount in a distribution of either profits or capital).
 1 Subject to change, if the Company’sArticles of Incorporation and applicable company law prescribe a lower cap.
 For those applying through HKSCC EIPO channel, and making an application under a power of
@@ -13752,17 +13752,17 @@ without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not grant
 permission to list the H Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that longer
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that longer
 period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications. You may refer to the
+ you make multiple applications or suspected multiple applications. You may refer to the
 paragraph headed “— A. Application for Hong Kong Offer Shares — 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Joint Representatives believe that by accepting your application, it or we would
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Joint Representatives believe that by accepting your application, it or we would
 violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted H Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC Participants will
@@ -13932,27 +13932,27 @@ and the H Share Registrar immediately of any inaccuracies in the personal data s
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for the
 following purposes:
-(cid:129) processing your application and refund cheque and HK eIPO White Form e-Auto Refund
+ processing your application and refund cheque and HK eIPO White Form e-Auto Refund
 payment instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of allocation of
 Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
 – 312 –
 
 === PAGE 322 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) registering new issues or transfers into or out of the names of the holders of the H Shares
+ registering new issues or transfers into or out of the names of the holders of the H Shares
 including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of our Company;
-(cid:129) verifying identities of applicants for and holders of the H Shares and identifying any
+ maintaining or updating the register of members of our Company;
+ verifying identities of applicants for and holders of the H Shares and identifying any
 duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the H Shares, such as dividends, rights issues,
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the H Shares, such as dividends, rights issues,
 bonus issues, etc.;
-(cid:129) distributing communications from our Company and our subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the H Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable our
+ distributing communications from our Company and our subsidiaries;
+ compiling statistical information and profiles of the holder of the H Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to enable our
 Company and the H Share Registrar to discharge their obligations to applicants and holders
 of the H Shares and/or regulators and/or any other purposes to which applicants and holders
 of the H Shares may from time to time agree.
@@ -13961,21 +13961,21 @@ Personal data held by our Company and the H Share Registrar relating to the appl
 holders of Hong Kong Offer Shares will be kept confidential but our Company and the H Share
 Registrar may, to the extent necessary for achieving any of the above purposes, disclose, obtain or
 transfer (whether within or outside Hong Kong) the personal data to, from or with any of the following:
-(cid:129) our Company’s appointed agents such as financial advisors, receiving bank and overseas
+ our Company’s appointed agents such as financial advisors, receiving bank and overseas
 principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the personal
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the personal
 data to the H Share Registrar, in each case for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and operating
 FINI and CCASS (including where applicants for the Hong Kong Offer Shares request a
 deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to our Company or the H Share
 Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies or
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies or
 otherwise as required by laws, rules or regulations, including for the purpose of the Stock
 Exchange’s administration of the Listing Rules and the SFC’s performance of its statutory
 functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have or
+ any persons or institutions with which the holders of Hong Kong Offer Shares have or
 propose to have dealings, such as their bankers, solicitors, accountants or brokers etc.
 – 313 –
 
@@ -14574,9 +14574,9 @@ unless otherwise stated.
 The Historical Financial Information has been prepared in accordance with International Financial
 Reporting Standards issued by the International Accounting Standards Board (“IFRS Accounting
 Standards”). IFRS Accounting Standards comprise the following authoritative literature:
-(cid:129) IFRS Accounting Standards;
-(cid:129) IAS Standards; and
-(cid:129) Interpretations developed by the IFRS Interpretations Committee (IFRIC Interpretations) or
+ IFRS Accounting Standards;
+ IAS Standards; and
+ Interpretations developed by the IFRS Interpretations Committee (IFRIC Interpretations) or
 its predecessor body, the Standing Interpretations Committee (SIC Interpretations).
 The Historical Financial Information has been prepared under the historical cost convention,
 except that certain financial assets/liabilities are carried at fair value.
@@ -14653,11 +14653,11 @@ Although the adoption of IFRS 18 will have no impact on the Group’s net profit
 expects that grouping items of income and expenses in the income statement into the new categories
 will impact how operating profit is calculated and reported. From the high-level impact assessment that
 the Group has performed, the following items might potentially impact operating profit:
-(cid:129) Foreign exchange differences
+ Foreign exchange differences
 Foreign exchange differences currently aggregated in the line item “other gains/(losses) —
 net” in operating profit might need to be disaggregated, with some foreign exchange gains or
 losses presented below operating profit, unless doing so would involve undue cost or effort.
-(cid:129) Gain or loss of investments measured at fair value through profit or loss
+ Gain or loss of investments measured at fair value through profit or loss
 The gain or loss of investments measured at fair value through profit or loss currently
 aggregated in the line item “other gains/(losses) — net” in operating profit and will be
 presented below operating profit.
@@ -14675,7 +14675,7 @@ disclosed in the notes because the requirement to disclose material information 
 however, the way in which the information is grouped might change as a result of the
 aggregation/disaggregation principles. In addition, there will be significant new disclosures required
 for:
-(cid:129) For the first annual period of application of IFRS 18, a reconciliation for each line item in
+ For the first annual period of application of IFRS 18, a reconciliation for each line item in
 the income statement between the restated amounts presented by applying IFRS 18 and the
 amounts previously presented applying IAS 1.
 The Group will apply the new standard from its mandatory effective date of 1 January 2027.
@@ -14817,14 +14817,14 @@ APPENDIX I ACCOUNTANT’S REPORT
 The Group measures credit risk of other receivables, amounts due from related parties, amounts
 due from investors and finance lease receivables using probability of default, exposure at default and
 loss given default.
-(cid:129) Financial instruments that are not credit-impaired on initial recognition are classified in
+ Financial instruments that are not credit-impaired on initial recognition are classified in
 ‘Stage 1’ and have their credit risk continuously monitored by the Group. The ECL is
 measured on a 12-month basis.
-(cid:129) If a significant increase in credit risk (specifically, when the debtor is more than 30 days
+ If a significant increase in credit risk (specifically, when the debtor is more than 30 days
 past due on its contractual payments) since initial recognition is identified, the financial
 instrument is moved to ‘Stage 2’ but is not yet deemed to be credit-impaired. The ECL is
 measured on lifetime basis.
-(cid:129) If the financial instrument is credit-impaired (specifically, when the debtor is more than 90
+ If the financial instrument is credit-impaired (specifically, when the debtor is more than 90
 days past due on its contractual payments), the financial instrument is then moved to ‘Stage
 3’. The ECL is measured on lifetime basis.
 As there has been no significant increase in credit risk since initial recognition, all of the Group’s
@@ -14997,10 +14997,10 @@ once a year, the team uses valuation techniques to determine the fair value of t
 instruments. External valuers will be involved when necessary.
 As these instruments are not traded in an active market, their fair values have been determined by
 using various applicable valuation techniques, including:
-(cid:129) expected rate of return;
-(cid:129) the discounted cash flow model and unobservable inputs mainly including assumptions of
+ expected rate of return;
+ the discounted cash flow model and unobservable inputs mainly including assumptions of
 expected future cash flows and discount rate;
-(cid:129) the backsolve method using the latest round financing, i.e. the prior transaction price or the
+ the backsolve method using the latest round financing, i.e. the prior transaction price or the
 third-party pricing information. Discounted cash flow model will be used if no recent
 transaction or third-party pricing information is available as at respective balance sheet date.
 – I-27 –
@@ -16059,13 +16059,13 @@ available for use by the Group. Lease terms are negotiated on an individual basi
 range of different terms and conditions.
 Assets and liabilities arising from a lease are initially measured on a present value basis. Lease
 liabilities include the net present value of the following lease payments:
-(cid:129) fixed payments (including in-substance fixed payments), less any lease incentives receivable;
-(cid:129) variable lease payment that are based on an index or a rate, initially measured using the
+ fixed payments (including in-substance fixed payments), less any lease incentives receivable;
+ variable lease payment that are based on an index or a rate, initially measured using the
 index or rate as at the commencement date;
-(cid:129) amounts expected to be payable by the Group under residual value guarantees;
-(cid:129) the exercise price of a purchase option if the Group is reasonably certain to exercise that
+ amounts expected to be payable by the Group under residual value guarantees;
+ the exercise price of a purchase option if the Group is reasonably certain to exercise that
 option; and
-(cid:129) payments of penalties for terminating the lease, if the lease term reflects the Group
+ payments of penalties for terminating the lease, if the lease term reflects the Group
 exercising that option.
 Lease payments to be made under reasonably certain extension options are also included in the
 measurement of the liability.
@@ -16079,21 +16079,21 @@ with similar terms, security and conditions.
 === PAGE 378 ===
 APPENDIX I ACCOUNTANT’S REPORT
 To determine the incremental borrowing rate, the Group:
-(cid:129) where possible, uses recent third-party financing received by the individual lessee as a
+ where possible, uses recent third-party financing received by the individual lessee as a
 starting point, adjusted to reflect changes in financing conditions since third party financing
 was received;
-(cid:129) uses a build-up approach that starts with a risk-free interest rate adjusted for credit risk for
+ uses a build-up approach that starts with a risk-free interest rate adjusted for credit risk for
 leases held by the Group, which does not have recent third party financing; and
-(cid:129) makes adjustments specific to the lease, e.g. term, country, currency and security.
+ makes adjustments specific to the lease, e.g. term, country, currency and security.
 Lease payments are allocated between principal and finance cost. The finance cost is charged to
 profit or loss over the lease period so as to produce a constant periodic rate of interest on the remaining
 balance of the liability for each period.
 Right-of-use assets are measured at cost comprising the following:
-(cid:129) the amount of the initial measurement of lease liability;
-(cid:129) any lease payments made at or before the commencement date less any lease incentives
+ the amount of the initial measurement of lease liability;
+ any lease payments made at or before the commencement date less any lease incentives
 received;
-(cid:129) any initial direct costs; and
-(cid:129) restoration costs.
+ any initial direct costs; and
+ restoration costs.
 Right-of-use assets are generally depreciated over the shorter of the asset’s useful life and the
 lease term on a straight-line basis. If the Group is reasonably certain to exercise a purchase option, the
 right-of-use asset is depreciated over the underlying asset’s useful life.
@@ -16200,15 +16200,15 @@ Accounting policies of intangible assets
 (a) Research and development expenditure
 Research expenditure is recognised as an expense as incurred. Development cost is capitalized
 only if all of the following criteria are satisfied:
-(cid:129) It is technically feasible to complete the research and development project so that it will be
+ It is technically feasible to complete the research and development project so that it will be
 available for use;
-(cid:129) Management intends to complete the research and development project and use or sell it;
-(cid:129) There is an ability to use or sell the research and development project;
-(cid:129) It can be demonstrated how the research and development project will generate probable
+ Management intends to complete the research and development project and use or sell it;
+ There is an ability to use or sell the research and development project;
+ It can be demonstrated how the research and development project will generate probable
 future economic benefits;
-(cid:129) Adequate technical, financial and other resources to complete the development and to use or
+ Adequate technical, financial and other resources to complete the development and to use or
 sell the research and development project are available; and
-(cid:129) The expenditure attributable to the research and development project during its development
+ The expenditure attributable to the research and development project during its development
 can be reliably measured.
 Other development expenditures that do not meet these criteria are recognised as an expense as
 incurred.
@@ -17065,14 +17065,14 @@ further development in the Group, Youguang Cayman adopted a share option plan as
 board of directors on 2 January 2020 (“2020 Equity Incentive Plan”). The 2020 Equity Incentive Plan
 are generally subject to a four or five years’service schedule or other vesting conditions. The terms and
 conditions of the share option grants are as follows:
-(cid:129) Type (i) 25% of the total granted share options shall become vested one year from the
+ Type (i) 25% of the total granted share options shall become vested one year from the
 vesting commencement date and the remaining 75% vested on each year thereafter over each
 of the months in the next three years;
-(cid:129) Type (ii) total granted share options shall become vested equally each month over a
+ Type (ii) total granted share options shall become vested equally each month over a
 four-year period at the end of each full calendar month;
-(cid:129) Type (iii) total granted share options shall become vested after meeting certain performance
+ Type (iii) total granted share options shall become vested after meeting certain performance
 targets;
-(cid:129) Type (iv) total granted share options shall become vested upon the success listing of the
+ Type (iv) total granted share options shall become vested upon the success listing of the
 Company.
 – I-80 –
 
@@ -17224,8 +17224,8 @@ statements of comprehensive loss with a corresponding increase in equity.
 (i) Options/RSUs granted to employees
 In terms of the options and RSUs awarded to employees, the total amount to be expensed is
 determined by reference to the fair value of the options and RSUs granted:
-(cid:129) excluding the impact of any service and non-market performance vesting conditions; and
-(cid:129) including the impact of any non-vesting conditions.
+ excluding the impact of any service and non-market performance vesting conditions; and
+ including the impact of any non-vesting conditions.
 Service and non-marketing performance vesting conditions are included in calculation of the
 number of options and RSUs that are expected to vest. The total amount expensed is recognized over
 the vesting period, which is the period over which all of the specified vesting conditions are to be
@@ -17433,11 +17433,11 @@ distributed in the sequence as stipulated in the shareholders’ agreement.
 === PAGE 413 ===
 APPENDIX I ACCOUNTANT’S REPORT
 The Deemed Liquidation Events of the Company shall include the following events:
-(cid:129) Any form of acquisition, merger, reorganization, etc., transaction that results in a change of
+ Any form of acquisition, merger, reorganization, etc., transaction that results in a change of
 control of the Company;
-(cid:129) Sale or transfer of more than 50% of the Company’s equity interests;
-(cid:129) Transfer or sale of more than 50% of the Group’s assets; and
-(cid:129) Assignment or exclusive license of all or more than 50% of the IP of the Group.
+ Sale or transfer of more than 50% of the Company’s equity interests;
+ Transfer or sale of more than 50% of the Group’s assets; and
+ Assignment or exclusive license of all or more than 50% of the IP of the Group.
 Anti-dilution rights
 From the date of investors holding the Company’s shareholding rights, if the Company increases
 its share at a price lower than the price paid by the investors on a per share basis, the investors have a
@@ -17991,11 +17991,11 @@ necessary to ensure consistency with the policies adopted by the Group.
 The acquisition method of accounting is used to account for all business combinations, other than
 business combination under common control, regardless of whether equity instruments or other assets
 are acquired. The consideration transferred for the acquisition of a subsidiary comprises the:
-(cid:129) fair values of the assets transferred;
-(cid:129) liabilities incurred to the former owners of the acquired business;
-(cid:129) equity interests issued by the Group;
-(cid:129) fair value of any asset or liability resulting from a contingent consideration arrangement; and
-(cid:129) fair value of any pre-existing equity interest in the subsidiary.
+ fair values of the assets transferred;
+ liabilities incurred to the former owners of the acquired business;
+ equity interests issued by the Group;
+ fair value of any asset or liability resulting from a contingent consideration arrangement; and
+ fair value of any pre-existing equity interest in the subsidiary.
 Identifiable assets acquired and liabilities and contingent liabilities assumed in a business
 combination are, with limited exceptions, measured initially at their fair values at the acquisition date.
 The Group recognizes any non-controlling interest in the acquired entity on an
@@ -18076,13 +18076,13 @@ liabilities carried at fair value are reported as part of the fair value gain or
 The results and financial position of foreign operations (none of which has the currency of a
 hyperinflationary economy) that have a functional currency different from the presentation currency are
 translated into the presentation currency as follows:
-(cid:129) assets and liabilities for each balance sheet presented are translated at the closing rate at the
+ assets and liabilities for each balance sheet presented are translated at the closing rate at the
 date of that balance sheet;
-(cid:129) income and expenses for each statement of comprehensive loss are translated at average
+ income and expenses for each statement of comprehensive loss are translated at average
 exchange rates (unless this average is not a reasonable approximation of the cumulative
 effect of the rates prevailing on the transaction dates, in which case income and expenses are
 translated at the rate on the dates of the transactions); and
-(cid:129) all resulting currency translation differences are recognised in other comprehensive income
+ all resulting currency translation differences are recognised in other comprehensive income
 (“OCI”).
 On consolidation, exchange differences arising from the translation of any net investment in
 foreign entities are recognised in other comprehensive income.
@@ -18104,9 +18104,9 @@ APPENDIX I ACCOUNTANT’S REPORT
 42.5 Investments and other financial assets
 (a) Classification
 The Group classifies its financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through OCI, or through profit or
+ those to be measured subsequently at fair value (either through OCI, or through profit or
 loss); and
-(cid:129) those to be measured at amortised cost.
+ those to be measured at amortised cost.
 The classification depends on the entity’s business model for managing the financial assets and
 the contractual terms of the cash flows.
 For assets measured at fair value, gains and losses will either be recorded in profit or loss or OCI.
@@ -18131,7 +18131,7 @@ Debt instruments
 Subsequent measurement of debt instruments depends on the Group’s business model for
 managing the asset and the cash flow characteristics of the asset. There are three measurement
 categories into which the Group classifies its debt instruments:
-(cid:129) Amortised cost: Assets that are held for collection of contractual cash flows where those
+ Amortised cost: Assets that are held for collection of contractual cash flows where those
 cash flows represent solely payments of principal and interest are measured at amortised
 cost. Interest income from these financial assets is included in other income using the
 effective interest rate method. Any gain or loss arising on derecognition is recognised
@@ -18142,7 +18142,7 @@ APPENDIX I ACCOUNTANT’S REPORT
 directly in profit or loss and presented in “other gains/losses, net”, together with foreign
 exchange gains and losses. Impairment losses are presented as separate line item in the
 consolidated statements of comprehensive loss.
-(cid:129) Fair value through profit or loss: Assets that do not meet the criteria for amortised cost or
+ Fair value through profit or loss: Assets that do not meet the criteria for amortised cost or
 FVOCI are measured at fair value through profit or loss. A gain or loss on a debt investment
 that is subsequently measured at fair value through profit or loss and is not part of a hedging
 relationship is recognized in profit or loss and presented net in the consolidated statements
@@ -18247,9 +18247,9 @@ end of the reporting period are discounted to present value.
 42.13 Loss per share
 (i) Basic loss per share
 Basic loss per share is calculated by dividing:
-(cid:129) the loss attributable to owners of the Company, excluding any costs of servicing equity other
+ the loss attributable to owners of the Company, excluding any costs of servicing equity other
 than ordinary shares; and
-(cid:129) by the weighted average number of ordinary shares outstanding during the financial year.
+ by the weighted average number of ordinary shares outstanding during the financial year.
 – I-111 –
 
 === PAGE 435 ===
@@ -18257,9 +18257,9 @@ APPENDIX I ACCOUNTANT’S REPORT
 (ii) Diluted loss per share
 Diluted loss per share adjusts the figures used in the determination of basic loss per share to take
 into account:
-(cid:129) the after-income tax effect of fair value gain or loss associated with dilutive potential
+ the after-income tax effect of fair value gain or loss associated with dilutive potential
 ordinary shares; and
-(cid:129) the weighted average number of additional ordinary shares that would have been outstanding
+ the weighted average number of additional ordinary shares that would have been outstanding
 assuming the conversion of all dilutive potential ordinary shares.
 42.14 Dividend distribution
 Dividend distribution to the Company’s shareholders is recognized as a liability in the Group’s
@@ -18408,8 +18408,8 @@ procedures to assess whether the applicable criteria used by the directors in th
 unaudited pro forma financial information provide a reasonable basis for presenting the significant
 effects directly attributable to the event or transaction, and to obtain sufficient appropriate evidence
 about whether:
-(cid:129) The related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) The unaudited pro forma financial information reflects the proper application of those
+ The related pro forma adjustments give appropriate effect to those criteria; and
+ The unaudited pro forma financial information reflects the proper application of those
 adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountant’s judgment, having regard to the
 reporting accountant’s understanding of the nature of the company, the event or transaction in respect of

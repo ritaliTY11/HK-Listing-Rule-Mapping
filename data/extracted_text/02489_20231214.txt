@@ -24823,7 +24823,7 @@ longitude and 37°07´ North latitude.
 The SJG Project is located approximately 50 km south of Yantai City, which was previously
 known to the West as ‘‘Chefoo’’, an important coastal city in China’s well developed eastern Shandong
 Peninsula. The SJG Project is easily accessible by means of road, railway, sea and air (Figure 4-1).
-(cid:3)
+ 
 Figure 4-1: SJG Project Location and Accessibility
 Provincial Highway S304 is approximately 8 km north of the mine, and National Expressway
 G309 passes 11 km south of the mine. The western and eastern areas of the SJG Project are connected
@@ -25042,8 +25042,8 @@ APPENDIX III SRK REPORT
 grades of gold mineralisation are confined to relatively narrow although vertically and horizontally
 persistent zones. Away from those higher-grade corridors, gold grades dropped to 0.5 g/t Au or less,
 with rare, interspersed higher values.
-(cid:3)
-Figure 6-3: Songjiagou M(cid:3)ineralised Zone
+ 
+Figure 6-3: Songjiagou M ineralised Zone
 The open pit mining operation begun in 2005 and indicates that the zones of Linsishan Formation
 conglomerate are generally mineralised. There is also evidence that lamprophyre dykes intruded into the
 Cretaceous conglomerate and interrupted the gold enriched bodies (see Figure 6-4).
@@ -25375,7 +25375,7 @@ and the daily ore feeds in the processing plant have corroborated that.
 
 === PAGE 646 ===
 APPENDIX III SRK REPORT
-(cid:3)
+ 
 Figure 11-1: Performance of Coarse Reject Assays vs. SRK Verification Samples
 – III-79 –
 
@@ -25393,10 +25393,10 @@ Figure 11-1: Performance of Coarse Reject Assays vs. SRK Verification Samples
 0.00 0.50 1.00 1.50 2.00 2.50 3.00 3.50 4.00 4.50
 t/g
 uA
-no(cid:2)acfiireV
+no acfiireV
 APPENDIX III SRK REPORT
 Original Au g/t
-samples linear trend line y=x 20% devia(cid:2)on -20% devia(cid:2)on
+samples linear trend line y=x 20% devia on -20% devia on
 Figure 11-2: Performance of Pulp Duplicate Assays vs. SRK Verification Samples
 11.3 Sample assays in 2018
 To test and verify the grades of the SJG Underground Mine, SRK has supervised a sampling
@@ -25493,7 +25493,7 @@ Notes:
 
 === PAGE 650 ===
 APPENDIX III SRK REPORT
-(cid:3)
+ 
 Figure 12-1: Topographic 3D Map (Azimuth: 0°, Dip: –90°)
 The drill holes’ distribution is shown in Figure 12-1, overlaid on the topographic 3D model
 converted from the file provided by Persistence Resources. The topographic map uses the Xi’an 1980
@@ -25509,7 +25509,7 @@ APPENDIX III SRK REPORT
 SRK composited the sample prior to grade interpolation; as the statistics of the original samples
 indicated that 75% of samples were 1 m long (shown in Figure 12-2), SRK chose 1 m as the length for
 compositing.
-(cid:3)
+ 
 Figure 12-2: Original Sample Length Probability Distribution Histogram
 12.5 Outlier value assessment
 Previously, a cap (top cut/grade capping) value at 40 g/t Au had been used for grade capping in
@@ -26255,14 +26255,14 @@ Total 31,154 126,621 4.06 34,872 1.12 4,412 5,028 8,417
 
 === PAGE 672 ===
 APPENDIX III SRK REPORT
-(cid:3)
+ 
 Figure 13-3: Pit Economics Analysis for SJG Open-Pit Mine
 Figure 13-4: Top View of Pit 23 and Final Pit for SJG Open-Pit Mine
 – III-105 –
 
 === PAGE 673 ===
 APPENDIX III SRK REPORT
-(cid:3)
+ 
 Figure 13-5: Profile of Pit 23 and Final Pit for SJG Open-Pit Mine
 Table 13-5: Pit Inventories within Pit 23
 MAT Quantity (kt) Gold Content (kg) Gold Grade (g/t) Remarks
@@ -26577,7 +26577,7 @@ Domain Tonnage Grade Tonnage Grade Tonnage Grade Tonnage Grade
 Total 425 1.73 47 1.70 58 — 530 1.39
 Note:
 1. BothInferred andWaste was treated with0 g/t Augrade due to its insufficient geological confidence level.
-(cid:3)
+ 
 Figure 13-7: Mineable Stopes Location in Each Domain (Azimuth: 310°, Dip: 0°)
 13.5.4Mineral Reserve classification
 The Mineable Inventory in Table 13-16 include mineable portions of Indicated Mineral Resources,
@@ -27308,7 +27308,7 @@ gold is recovered into amalgam, implying the presence of nugget gold and gravity
 
 === PAGE 708 ===
 APPENDIX III SRK REPORT
-(cid:3)
+ 
 Figure 15-3: Response of Grinding Fineness to Gold Recovery of Floatation Process
 Table 15-3: Test Results of Gravity and Amalgamation
 Gravity-Floatation Amalgamation-Floatation

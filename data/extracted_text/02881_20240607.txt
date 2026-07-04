@@ -30,7 +30,7 @@ Nominal value : US$0.0001 per Share
 Stock code : 2881
 SoleSponsor,SoleOverallCoordinator,SoleGlobalCoordinator,JointBookrunnerandJointLeadManager
 JointBookrunnersandJointLeadManagers
-(cid:64)(cid:58)(cid:57)(cid:41)(cid:1047)(cid:2123)(cid:11498)(cid:26290)
+ 
 (inalphabeticalorder)
 HongKongExchangesandClearingLimited,TheStockExchangeofHongKongLimitedandHongKongSecuritiesClearingCompany
 Limitedtakenoresponsibilityforthecontentsofthisprospectus,makenorepresentationastoitsaccuracyorcompletenessandexpressly

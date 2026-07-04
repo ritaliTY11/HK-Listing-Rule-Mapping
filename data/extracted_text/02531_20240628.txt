@@ -5297,8 +5297,8 @@ High-Quality Development of the Automotive Aftermarket, aimed at optimising the
 distribution environment for auto parts and accessories and enhancing digital
 servicecapabilitiesinautomotiverepair.Furthermore,inJanuary2024,theMinistry
 of Industry and Information Technology, together with four other departments,
-issued the Notice on Carrying Out the Pilot Work on ICVs (cid:2)Vehicle-Road-Cloud
-Integration(cid:2) Applications, which seeks to improve the connectivity rate of vehicles
+issued the Notice on Carrying Out the Pilot Work on ICVs Vehicle-Road-Cloud
+Integration Applications, which seeks to improve the connectivity rate of vehicles
 and support enhanced communication between vehicle terminals and city-level
 platforms.
 Entry Barriers and Challenges of Connected Services for the Automotive
@@ -10060,12 +10060,12 @@ Connected
 Industry Chain Customers
 Service Providers
 Sales of In-Vehicle SaaS Marketing and
-(cid:129) OEM suppliers
-(cid:129) Mobile communication Hardware Products Management Services • (cid:129) 4 C S h a s n to n r e e l s partners
-operators (cid:129) In-vehicle infotainment (cid:129) SaaS subscription services (cid:129) Automotive financing and
-(cid:129) Cloud service providers systems and in-vehicle – Dijia SaaS (cid:129) l I e n a -v s e in h g ic c le o m de p v a ic n e ie O s BM
-(cid:129) Warehouse management and safety systems – HuGe e-Shield SaaS (cid:129) Car users
-installation service providers (cid:129) Core boards (cid:129) SaaS value-added services
+ OEM suppliers
+ Mobile communication Hardware Products Management Services • 4 C S h a s n to n r e e l s partners
+operators In-vehicle infotainment SaaS subscription services Automotive financing and
+ Cloud service providers systems and in-vehicle – Dijia SaaS l I e n a -v s e in h g ic c le o m de p v a ic n e ie O s BM
+ Warehouse management and safety systems – HuGe e-Shield SaaS Car users
+installation service providers Core boards SaaS value-added services
 Dijia Intelligent
 Empowering a variety of commercial application areas
 in the automoIotivVe Ccolonundected scenarios
@@ -12136,7 +12136,7 @@ products:
 Business identification Design and development Contract execution
 • Customer placing order
 • Signing of contract
-• Expand Customers (cid:129) Product delivery
+• Expand Customers Product delivery
 • Product design and
 • Identify customer needs • Reconciliation and
 development

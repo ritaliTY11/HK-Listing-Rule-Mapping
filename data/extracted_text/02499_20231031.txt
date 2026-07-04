@@ -422,7 +422,7 @@ RMB34.9 billion by 2027, representing a CAGR of 25.0% from 2022 to 2027. See “
 OUR BUSINESS MODEL
 We invested in developing and improving our intralogistics equipment solutions, which
 comprise the following three business segments during the Track Record Period:
-(cid:129) Intralogistics Equipment Subscription Services: We provide intralogistics
+ Intralogistics Equipment Subscription Services: We provide intralogistics
 equipment to customers for their usage with value-added services, including but not
 limited to, equipment selection, on-site operation training, general and necessary
 maintenance and repair, and real-time monitoring of equipment status and operation
@@ -430,12 +430,12 @@ throughourIntelligentAssetandOperationManagementPlatform.Inmanagingthis
 business segment, we charge customers services fees mainly based on types and
 configurations of equipment selected, duration they use the subscribed intralogistics
 equipment, and customization of related services (if applicable).
-(cid:129) Maintenance and Repair Services: In this business segment, we generate revenue
+ Maintenance and Repair Services: In this business segment, we generate revenue
 from providing on-site maintenance and repair services to customers for their
 intralogistics equipment. We charge fees either on project basis for one-off repair
 services, or based on service plans where we charge fees on monthly basis for
 certain contract period covering equipment specified in the relevant agreement.
-(cid:129) Sales of Intralogistics Equipment and Parts: We sell new and used intralogistics
+ Sales of Intralogistics Equipment and Parts: We sell new and used intralogistics
 equipment to enterprises in China; and intralogistics equipment parts to enterprises
 in China and abroad. We conduct sales through our own sales team directly to end
 customers. We had a broad range of customers, such as manufacturers, logistics
@@ -510,41 +510,41 @@ entire lifecycle of intralogistics equipment from equipment subscription, repair
 maintenance, and disposal. The following flowchart illustrates the full cycle of our
 intralogistics equipment operation management services:
 Upstream Equipment
-Manufacturers (cid:2) S p el a e r c ts ti a n n g d e e q x u e ip cu m ti e n n g t and (cid:2) re l M ev a a k n i t n s g e r r e v q ic u e e s s , t s a n fo d r Downstream Customers
+Manufacturers S p el a e r c ts ti a n n g d e e q x u e ip cu m ti e n n g t and re l M ev a a k n i t n s g e r r e v q ic u e e s s , t s a n fo d r Downstream Customers
 purchase contracts executing contracts
-(cid:3) Delivering equipment
-(cid:3) Equipment delivery and and/or offering related
+ Delivering equipment
+ Equipment delivery and and/or offering related
 acceptance services
-(cid:4) Making payments for
-Manufacture of intralogistics equipment Intralogistics Equipment Solutions (cid:4) Making payments for Equipment Utilization
+ Making payments for
+Manufacture of intralogistics equipment Intralogistics Equipment Solutions Making payments for Equipment Utilization
 Intralogistics and parts services and Operation
 Equipment and Parts Management
 OUR STRENGTHS
 We believe the following competitive strengths contributed to our success and position us
 for continued growth:
-(cid:129) pioneer and leading provider of intralogistics equipment solutions in China;
-(cid:129) continuous improvement of intralogistics equipment operational efficiency
+ pioneer and leading provider of intralogistics equipment solutions in China;
+ continuous improvement of intralogistics equipment operational efficiency
 benefited from highly synergistic service portfolio;
 – 4 –
 
 === PAGE 15 ===
 SUMMARY
-(cid:129) intelligent asset and operation management platform with IoT integration for
+ intelligent asset and operation management platform with IoT integration for
 efficient management;
-(cid:129) comprehensive supply chain management that effectively connects upstream and
+ comprehensive supply chain management that effectively connects upstream and
 downstream enterprises along the industry value chain;
-(cid:129) service network with online and offline coverage serving multiple industries and
+ service network with online and offline coverage serving multiple industries and
 large customer base; and
-(cid:129) visionary management team with profound industry experience.
+ visionary management team with profound industry experience.
 OUR STRATEGIES
 To establish ourselves as the first choice for enterprises’ intralogistics equipment
 utilization and management, we plan to implement the following strategies:
-(cid:129) to keep improving customer coverage and expanding the categories of intralogistics
+ to keep improving customer coverage and expanding the categories of intralogistics
 equipment;
-(cid:129) to continue improving intralogistics equipment supply chain management
+ to continue improving intralogistics equipment supply chain management
 capability;
-(cid:129) to continually enhance our technological capabilities; and
-(cid:129) to explore strategic collaboration with various industry participants.
+ to continually enhance our technological capabilities; and
+ to explore strategic collaboration with various industry participants.
 OPERATIONAL PERFORMANCE
 During the Track Record Period, we achieved significant growth in equipment fleet size.
 As of December 31, 2020, 2021, 2022 and April 30, 2023, we had 31,213 units, 36,257 units,
@@ -990,7 +990,7 @@ funds, the proceeds from the Global Offering, and available facilities from bank
 borrowings. In addition, our Directors are of the view that we are able to match our loans and
 borrowings to support our long-term operational needs. We base this confidence on the
 following factors:
-(cid:129) Cash flow generated from operations: Our net cash generated from operating
+ Cash flow generated from operations: Our net cash generated from operating
 activities was RMB451.6 million, RMB527.6 million, RMB522.2 million, and
 RMB155.3 million in 2020, 2021, 2022 and the first four months of 2023,
 respectively. This steady cash flow is a testament to our execution capabilities, as
@@ -998,7 +998,7 @@ well as the industry recognition we have received. In the future, by expanding i
 untapped markets and streamlining our cost structures, we foresee the continuation
 of this positive cash flow trend. Furthermore, we are placing a renewed emphasis on
 enhancing communication with both our suppliers and customers.
-(cid:129) Bankandotherborrowings:AsofAugust31,2023,wehadunutilizedfacilitiesfor
+ Bankandotherborrowings:AsofAugust31,2023,wehadunutilizedfacilitiesfor
 bank and other borrowings of RMB1,436.8 million, providing us with additional
 financial resources. We believe that our long-term and healthy relationships with
 banks and financial institutions will continue to support our borrowing needs in the
@@ -1006,12 +1006,12 @@ future. In the upcoming quarters, we are geared to engage in negotiations to sec
 more favorable borrowing terms. We believe that our commitment to financial
 prudence will enable us to navigate any economic uncertainties that may arise while
 seizing growth opportunities.
-(cid:129) ProceedsfromtheGlobalOffering:WeexpecttoreceiveproceedsfromtheGlobal
+ ProceedsfromtheGlobalOffering:WeexpecttoreceiveproceedsfromtheGlobal
 Offering of approximately HK$126.8 million, after deducting underwriting
 commissions, fees, and estimated expenses payable by us in connection with the
 Global Offering. These proceeds will further strengthen our financial position and
 support our business development initiatives.
-(cid:129) Stringentcashmanagement:Wecloselymonitorandmanageourcashpositionand
+ Stringentcashmanagement:Wecloselymonitorandmanageourcashpositionand
 requirements to ensure that we have sufficient working capital for our operations.
 We prioritize planned and systematic cash flow management and match short-term
 loans with our operational needs to ensure we have sufficient liquidity to cover its
@@ -1403,10 +1403,10 @@ Dividends” in this prospectus.
 SUMMARY
 THE GLOBAL OFFERING
 The Global Offering by us consists of:
-(cid:129) the offer by us of initially 1,213,600 H Shares, or Hong Kong Offer Shares, for
+ the offer by us of initially 1,213,600 H Shares, or Hong Kong Offer Shares, for
 subscription by the public in Hong Kong, referred to in this prospectus as the Hong
 Kong Public Offering; and
-(cid:129) the offer by us of initially 10,922,400 H Shares, or International Offer Shares,
+ the offer by us of initially 10,922,400 H Shares, or International Offer Shares,
 outside the U.S. (including to professional, institutional and other investors within
 Hong Kong) in offshore transactions in reliance on Regulation S, referred to in this
 prospectus as the International Offering.
@@ -2090,16 +2090,16 @@ the other risk factors as described in this prospectus. You are strongly caution
 on any forward-looking statements involves known and unknown risks and uncertainties. The
 risks, uncertainties and other factors facing our Company which could affect the accuracy of
 forward-looking statements include, but are not limited to, the following:
-(cid:129) our future business development, financial condition and results of operations;
-(cid:129) our business strategies and plans to achieve these strategies;
-(cid:129) our ability to identify and satisfy user demands and preferences;
-(cid:129) our ability to maintain good relationships with business partners;
-(cid:129) general economic, political and business conditions in the industries and markets in
+ our future business development, financial condition and results of operations;
+ our business strategies and plans to achieve these strategies;
+ our ability to identify and satisfy user demands and preferences;
+ our ability to maintain good relationships with business partners;
+ general economic, political and business conditions in the industries and markets in
 which we operate;
-(cid:129) relevant government policies and regulations relating to our industry, business and
+ relevant government policies and regulations relating to our industry, business and
 corporate structure;
-(cid:129) the actions and developments of our competitors; and
-(cid:129) allotherriskanduncertaintiesdescribedinthesectionheaded“RiskFactors”inthis
+ the actions and developments of our competitors; and
+ allotherriskanduncertaintiesdescribedinthesectionheaded“RiskFactors”inthis
 prospectus.
 In some cases, we use the words “aim,” “anticipate,” “believe,” “can,” “continue,”
 “could,” “estimate,” “expect,” “going forward,” “intend,” “ought to,” “may,” “might,” “plan,”
@@ -2220,16 +2220,16 @@ RISK FACTORS
 The following factors during an economic downturn, among others, may result in
 weakness in our end markets, either temporarily or in the long term, which could in turn
 materially and adversely affect our results of operations:
-(cid:129) a decrease in the demand of our customers for our services;
-(cid:129) an increase in the repair and maintenance costs of our equipment;
-(cid:129) suspension of some of our ongoing contracts;
-(cid:129) an increase in default risks of our customers or counterparties;
-(cid:129) a decline in manufacturing, logistics, and trading industries;
-(cid:129) excess fleet in intralogistics equipment production;
-(cid:129) a lack of availability of credit facilities to us from financial institutions;
-(cid:129) volatility in interest rates of our credit facilities;
-(cid:129) inability to effectively execute our business plans and strategies; and
-(cid:129) public health crises and epidemics.
+ a decrease in the demand of our customers for our services;
+ an increase in the repair and maintenance costs of our equipment;
+ suspension of some of our ongoing contracts;
+ an increase in default risks of our customers or counterparties;
+ a decline in manufacturing, logistics, and trading industries;
+ excess fleet in intralogistics equipment production;
+ a lack of availability of credit facilities to us from financial institutions;
+ volatility in interest rates of our credit facilities;
+ inability to effectively execute our business plans and strategies; and
+ public health crises and epidemics.
 In addition, our business, financial condition and results of operations are subject to the
 macroeconomic policies in China, including monetary and industry policies. If we fail to
 promptly respond to such policy changes, our business, results of operations, financial
@@ -2468,10 +2468,10 @@ and/or a decline in market value, which could impact our business.
 In addition to general economic conditions and daily use of our equipment by our
 customers, the useful life and market value of our equipment can also be influenced by the
 following non-exclusive factors:
-(cid:129) the history and documented records of equipment maintenance and operation;
-(cid:129) whether the equipment has experienced serious incidents;
-(cid:129) the load capacity and lift power of the equipment; and
-(cid:129) the costs and availability of equipment parts.
+ the history and documented records of equipment maintenance and operation;
+ whether the equipment has experienced serious incidents;
+ the load capacity and lift power of the equipment; and
+ the costs and availability of equipment parts.
 We cannot guarantee that our current equipment will not be replaced or superseded by
 more advanced equipment or technique as a result of continuous developments in science and
 technology. If we are required to replace our current equipment with more advanced ones, we
@@ -3351,22 +3351,22 @@ We are subject to the risks of doing business in multiple jurisdictions.
 We face risks associated with operating in multiple jurisdictions, especially in overseas
 markets where we sell intralogistics equipment, equipment parts. Our business and financial
 results in the future could be adversely affected due to a variety of factors, including:
-(cid:129) changesinaspecificcountry’sorregion’spoliticalandculturalclimateoreconomic
+ changesinaspecificcountry’sorregion’spoliticalandculturalclimateoreconomic
 condition;
-(cid:129) unexpected changes in laws and regulatory requirements in relevant jurisdictions;
-(cid:129) the occurrence of economic weakness, including inflation or political instability;
-(cid:129) the burden of complying with a variety of foreign laws, including difficulties in
+ unexpected changes in laws and regulatory requirements in relevant jurisdictions;
+ the occurrence of economic weakness, including inflation or political instability;
+ the burden of complying with a variety of foreign laws, including difficulties in
 enforcement of contractual provisions;
-(cid:129) inadequate intellectual property protection in certain jurisdictions;
-(cid:129) enforcement of anti-corruption and anti-bribery laws;
-(cid:129) trade-protection measures, import or export licensing requirements and fines,
+ inadequate intellectual property protection in certain jurisdictions;
+ enforcement of anti-corruption and anti-bribery laws;
+ trade-protection measures, import or export licensing requirements and fines,
 penalties or suspension or revocation of export privileges;
-(cid:129) delays resulting from certain barriers and restrictions, potentially longer payment
+ delays resulting from certain barriers and restrictions, potentially longer payment
 cycles, greater difficulty in accounts receivable collection and potentially adverse
 tax treatment;
-(cid:129) the effects of applicable local tax regimes and potentially adverse tax consequences;
-(cid:129) significant adverse changes in local currency exchange rates; and
-(cid:129) business interruptions resulting from geo-political actions and cultural climate or
+ the effects of applicable local tax regimes and potentially adverse tax consequences;
+ significant adverse changes in local currency exchange rates; and
+ business interruptions resulting from geo-political actions and cultural climate or
 economic condition, including war and acts of terrorism, natural disasters, including
 earthquakes, volcanoes, typhoons, floods, hurricanes and fires, or the impact of
 public health pandemics or epidemics.
@@ -4508,26 +4508,26 @@ extra charges in addition to intralogistics equipment subscription fees.
 === PAGE 114 ===
 INDUSTRY OVERVIEW
 Key Growth Drivers for the Intralogistics Equipment Solution Market in China
-(cid:129) Development of manufacturing and logistics industries. China’s logistics and
+ Development of manufacturing and logistics industries. China’s logistics and
 manufacturing industries have developed rapidly and will continue to grow in the future.
 Thedevelopmentofmanufacturingandlogisticsindustrieshasgeneratedastrongdemand
 for intralogistics equipment, which further boosts the growth of the intralogistics
 equipment solution market.
-(cid:129) Increasingdemandsforcostreductionandefficiencyimprovement.Enterprisesarepaying
+ Increasingdemandsforcostreductionandefficiencyimprovement.Enterprisesarepaying
 more attention to cost reduction and cutting down one-time purchase expenditures, as
 well as improving utilization rate and operational efficiency during the course of business
 development. As intralogistics equipment solutions effectively help with cost reduction
 regarding intralogistics equipment utilization and efficiency improvement in
 intralogistics equipment management, they are expected be more widely adopted by
 enterprises.
-(cid:129) Empowerment of technologies. Information technology has become an indispensable tool
+ Empowerment of technologies. Information technology has become an indispensable tool
 to optimize equipment management. Technologies such as IoT and big data enable the
 digitalmanagementofcomplexdatageneratedfromoperation,dispatch,andmaintenance
 andrepairofahugeamountofequipment.Intralogisticsequipmentsolutionproviderscan
 further analyze the data collected and enhance their service quality and efficiency, and
 therefore, the development of the intralogistics equipment solution market is further
 promoted.
-(cid:129) Favorable policies. In recent years, the government has launched a series of policies
+ Favorable policies. In recent years, the government has launched a series of policies
 including Made in China 2025 (《中國製造2025》), the 14th Five-Year Plan (《“十四五”
 規劃》) and the Implementation Plan for Promoting the Deep Integration and Innovative
 Development of the Logistics Industry (《推動物流業製造業深度融合創新發展實施方
@@ -4586,19 +4586,19 @@ equipment solution provider.
 === PAGE 116 ===
 INDUSTRY OVERVIEW
 Entry Barriers
-(cid:129) Abundant supply chain resources. Intralogistics equipment solution providers should be
+ Abundant supply chain resources. Intralogistics equipment solution providers should be
 able to build deep collaborative relationships with, and gain strategical support from
 upstream suppliers to ensure a stable supply of high-quality intralogistics equipment and
 parts at favorable costs to meet the diverse needs of customers in terms of intralogistics
 equipment management. New market participants may not have sufficient supply chain
 resources, and therefore, may have difficulties in gaining competitive advantage or enter
 the industry in the short term.
-(cid:129) Innovativedigitalcapabilities.Itiscrucialforintralogisticsequipmentsolutionproviders
+ Innovativedigitalcapabilities.Itiscrucialforintralogisticsequipmentsolutionproviders
 to possess digital capabilities to achieve dynamic and transparent management of
 intralogistics equipment to further streamline their internal management and improve
 operational efficiency. New entrants without such capabilities and techniques may face
 greater challenges when entering the market.
-(cid:129) Broad service network. When customers request for services of intralogistics equipment
+ Broad service network. When customers request for services of intralogistics equipment
 solutions, the providers must respond promptly to address customers’ demand, which
 requires a broad service network covering numerous cities in China, as well as a
 well-trained management team with industry know-how and operational experience. Such
@@ -4647,11 +4647,11 @@ RMB thousand
 2018 2019 2020 2021 2022 2023E 2024E 2025E 2026E 2027E
 Source: CIC report
 Note:
-(cid:2) The above intralogistics equipment procurement costs are calculated or estimated based on the price
+ The above intralogistics equipment procurement costs are calculated or estimated based on the price
 of counterbalanced forklifts, including ICE-powered counterbalanced forklifts and electric
 counterbalanced forklifts.
 Future Trends of the Intralogistics Equipment Solution Market in China
-(cid:129) Continuous increase in market concentration. The intralogistics equipment solution
+ Continuous increase in market concentration. The intralogistics equipment solution
 market in China is still in the early stage of development, with a significant market share
 occupied by a large number of small- and medium-scale players. In the future, the market
 players with low equipment amount, limited customer resources and weak service
@@ -4663,7 +4663,7 @@ capabilities will not be able to compete with leading players in the market that
 provide a broad portfolio of equipment and comprehensive services covering the full
 lifecycle of equipment management. As a result, the leading intralogistics equipment
 solution providers will gain larger market shares and the market will further consolidate.
-(cid:129) Growing penetration rate. The penetration rate of the intralogistics equipment solution
+ Growing penetration rate. The penetration rate of the intralogistics equipment solution
 market in China is relatively low as compared to those of the developed countries.
 According to CIC, the estimated penetration rate of intralogistics equipment solutions in
 the United States reached 54.6% in 2022, while the penetration rate of intralogistics
@@ -4671,11 +4671,11 @@ equipment solutions in China was approximately 3.7% in the same year. As Chinese
 enterprises increasingly emphasize cost control and operational efficiency, intralogistics
 equipment solutions have now become a recent trend for intralogistics equipment
 management, and the market penetration rate is expected to further increase in the future.
-(cid:129) Diversified equipment categories. Enterprises’needs for various intralogistics equipment
+ Diversified equipment categories. Enterprises’needs for various intralogistics equipment
 categories will continue to expand in the coming years. In order to meet the changing
 needsofenterprises,intralogisticsequipmentsolutionproviderswillbuildamoreflexible
 equipment fleet with a more diversified range of equipment categories.
-(cid:129) Broadened service portfolio. As the needs for full cycle management of intralogistics
+ Broadened service portfolio. As the needs for full cycle management of intralogistics
 equipment are increasing, intralogistics equipment solution providers have gradually
 begun to provide a broad portfolio of services including intralogistics equipment
 subscription services, repair and maintenance services, management optimization
@@ -4683,7 +4683,7 @@ services and disposal services. In the future, driven by higher requirements for
 environmental-friendly measures and overall efficiency, the equipment deep repair
 business will be further developed to restore the performance and condition of
 intralogistics equipment and extend its useful life as much as possible.
-(cid:129) Adoption of environmentally friendly development path. With a series of policies issued
+ Adoption of environmentally friendly development path. With a series of policies issued
 by the PRC government to promote the principles of waste reduction and the recycling of
 equipment and materials, intralogistics equipment solution providers are expected to
 explore new ways to dispose of equipment, and develop environmentally friendly
@@ -4713,7 +4713,7 @@ intralogistics equipment and parts sales market in China continues to maintain a
 which is expected to reach RMB321.7 billion in 2027, growing at a CAGR of approximately
 15.7% from 2022 to 2027.
 Future Trends of the Intralogistics Equipment And Parts Sales Market In China
-(cid:129) Intelligent development. Currently, industrial intelligence has become a key strategy
+ Intelligent development. Currently, industrial intelligence has become a key strategy
 for the development of manufacturing and logistics industries. With the rapid
 development of innovative technologies such as industrial internet, AI, and cloud
 computing, intelligent logistics equipment has further been developed and
@@ -4722,7 +4722,7 @@ monitoring, intelligent scheduling, and unmanned operation, thereby further
 improving supply chain management efficiency and reducing labour costs.
 Therefore, the trend towards intelligence is expected to continue to drive the
 development of the intralogistics equipment and parts sales market.
-(cid:129) Domestication of intralogistics equipment and parts. In recent years, leading
+ Domestication of intralogistics equipment and parts. In recent years, leading
 domestic manufacturers have accelerated the transformation of research results into
 products that can be applicable to various industries. They have gradually achieved
 domestication of sensors, power systems, and core components, and steadily
@@ -8135,7 +8135,7 @@ SupplyChain Intel M lig a e n n a t g A e s m se e t n a t n P d la O tf p o e r
 Our Business Model
 We invested in developing and improving our intralogistics equipment solutions, which
 comprise the following three business segments during the Track Record Period:
-(cid:129) Intralogistics Equipment Subscription Services: We provide intralogistics
+ Intralogistics Equipment Subscription Services: We provide intralogistics
 equipment to customers for their usage with value-added services, including but not
 limited to, equipment selection, on-site operation training, general and necessary
 maintenance and repair, and real-time monitoring of equipment status and operation
@@ -8143,12 +8143,12 @@ throughourIntelligentAssetandOperationManagementPlatform.Inmanagingthis
 business segment, we charge customers services fees mainly based on types and
 configurations of equipment selected, duration they use the subscribed intralogistics
 equipment, and customization of related services (if applicable).
-(cid:129) Maintenance and Repair Services: In this business segment, we generate revenue
+ Maintenance and Repair Services: In this business segment, we generate revenue
 from providing on-site maintenance and repair services to customers for their
 intralogistics equipment. We charge fees either on project basis for one-off repair
 services, or based on service plans where we charge fees on monthly basis for
 certain contract period covering equipment specified in the relevant agreement.
-(cid:129) Sales of Intralogistics Equipment and Parts: We sell new and used intralogistics
+ Sales of Intralogistics Equipment and Parts: We sell new and used intralogistics
 equipment to enterprises in China; and intralogistics equipment parts to enterprises
 in China and abroad. We conduct sales through our own sales team directly to end
 customers. We had a broad range of customers, such as manufacturers, logistics
@@ -8233,21 +8233,21 @@ Since our establishment in 2007, we have been at the forefront of the industry, 
 the development of intralogistics equipment solutions for manufacturing and logistics
 enterprises. Through over 16 years of efforts, we have built comprehensive competitive edges
 over industry peers, including:
-(cid:129) Supply Chain Capabilities: Leveraging years of first-hand management experience
+ Supply Chain Capabilities: Leveraging years of first-hand management experience
 and continuous optimization, we have developed and maintained long-term and
 stable relationships with leading manufacturers in the industry, ensuring the timely
 and cost-effective procurement of equipment and parts, which had influence on
 upstream industry participants.
-(cid:129) Intelligent Asset and Operation Management Capabilities: Through our Intelligent
+ Intelligent Asset and Operation Management Capabilities: Through our Intelligent
 Asset and Operation Management Platform, we have established a service network
 aiming for coordinated equipment engagement and management. Our platform
 features a visualized interface that results in continuous operation efficiency
 improvement and growing customer loyalty.
-(cid:129) Predictive Maintenance Capabilities: Our predictive maintenance services utilize
+ Predictive Maintenance Capabilities: Our predictive maintenance services utilize
 advanced detection and repair technologies, enabling us to effectively restore and
 optimize functionality and endurance in a cost-efficient way, resulting in effective
 extension of equipment’ useful life.
-(cid:129) Scale Effect: The continuous expansion of our equipment fleet highlights the
+ Scale Effect: The continuous expansion of our equipment fleet highlights the
 efficiency advantage of our integrated operation and management supported by
 technology capability. We leverage this scale effect to optimize the allocation of
 equipment and personnel resources, reducing costs and improving operation
@@ -8435,7 +8435,7 @@ We aim to expand our sales network, diversify customer acquisition channels, and
 improve customer acquisition by conducting in-depth studies of regional markets to enhance
 service coverage over existing customers. We will also tap into new customer base. To achieve
 these goals, we will implement the following measures:
-(cid:129) IncreaseMarketingInvestmentandAccuratelyTargetCustomers:Weplantoexpand
+ IncreaseMarketingInvestmentandAccuratelyTargetCustomers:Weplantoexpand
 our sales teams and utilize various sales and marketing channels, including offline
 promotion, magazines and media, sponsorships, and association activities, to
 enhance our brand awareness and influence and attract more corporate customers.
@@ -8443,7 +8443,7 @@ enhance our brand awareness and influence and attract more corporate customers.
 
 === PAGE 185 ===
 BUSINESS
-(cid:129) Expand our Service Outlets and Improve Service Quality: We aim to increase the
+ Expand our Service Outlets and Improve Service Quality: We aim to increase the
 number of offline service outlets across China and strengthen connections with
 customers to improve our service coverage. By promoting one-stop services with
 intralogistics equipment subscription service as the primary business and repair and
@@ -8484,21 +8484,21 @@ To Continually Enhance our Technological Capabilities
 We plan to invest in technological capabilities and enhance our overall management and
 control capabilities to improve the quality and efficiency of our comprehensive services. Our
 strategies for technological capabilities include:
-(cid:129) IoT hardware: We plan to improve our hardware technologies. This will involve
+ IoT hardware: We plan to improve our hardware technologies. This will involve
 upgrading our technology infrastructure by investing in advanced hardware devices.
 For example, we plan to upgrade our IoT infrastructure by launching more wearable
 devices and installing multidimensional sensors to efficiently track and record
 intralogistics equipment.
-(cid:129) IT systems: We will upgrade our digital IT management system to expand our
+ IT systems: We will upgrade our digital IT management system to expand our
 coverage and enhance our capabilities in operation and follow-up management of
 intralogistics equipment. This will help reduce the cost and difficulty of managing
 large-scale equipment and provide more efficient services to customers and
 management personnel. We will also invest in big data, cloud computing, and other
 new software technologies.
-(cid:129) AI technology: We plan to introduce AI video review technology to achieve
+ AI technology: We plan to introduce AI video review technology to achieve
 automatic management, analyze video content, and quickly identify faults,
 improving service technology empowerment and management.
-(cid:129) Other new technologies:We plan to keep observing new industry trend closely, such
+ Other new technologies:We plan to keep observing new industry trend closely, such
 as intelligent warehousing, and keep exploring the development and
 commercialization of different innovative technologies.
 To Explore Strategic Collaboration with Various Industry Participants
@@ -8614,13 +8614,13 @@ intralogistics equipment from equipment subscription, repair and maintenance, an
 The following flowchart illustrates the full cycle of our intralogistics equipment operation
 management services:
 Upstream Equipment
-Manufacturers (cid:2) S p el a e r c ts ti a n n g d e e q x u e ip cu m ti e n n g t and (cid:2) re l M ev a a k n i t n s g e r r e v q ic u e e s s , t s a n fo d r Downstream Customers
+Manufacturers S p el a e r c ts ti a n n g d e e q x u e ip cu m ti e n n g t and re l M ev a a k n i t n s g e r r e v q ic u e e s s , t s a n fo d r Downstream Customers
 purchase contracts executing contracts
-(cid:3) Delivering equipment
-(cid:3) Equipment delivery and and/or offering related
+ Delivering equipment
+ Equipment delivery and and/or offering related
 acceptance services
-(cid:4) Making payments for
-Manufacture of intralogistics equipment Intralogistics Equipment Solutions (cid:4) Making payments for Equipment Utilization
+ Making payments for
+Manufacture of intralogistics equipment Intralogistics Equipment Solutions Making payments for Equipment Utilization
 Intralogistics and parts services and Operation
 Equipment and Parts Management
 – 179 –
@@ -9413,7 +9413,7 @@ and2022,andApril30,2023,intralogisticsequipmentrentedfromthirdpartyrentalcompani
 amounted to 740, 217, 309, 250, respectively.
 Measures to Maintain Quality and Profitability
 We take the following measures to maintain the quality and profitability of its fleet:
-(cid:129) In procuring equipment for intralogistics equipment subscription services, the
+ In procuring equipment for intralogistics equipment subscription services, the
 Company chooses equipment from reputable manufacturers, so that the quality and
 after-procurement services of the equipment is guaranteed. In addition, the
 Company customizes some configuration on equipment components, for example,
@@ -9423,14 +9423,14 @@ sellers to change such lights into LED lights, or have its technicians to replac
 incandescent lights after procurements, which are more durable and energy-saving
 than incandescent lights. Therefore, the profitability of the fleet is increased as
 frequency and associated costs of equipment maintenance are reduced.
-(cid:129) The Company strategically locates its three supply chain bases in Foshan, Hefei and
+ The Company strategically locates its three supply chain bases in Foshan, Hefei and
 Langfang, which are close to most tier-one and new tier-one cities. However, the
 land use or property rent related fees in such cities are much lower than tier-one and
 new tier-one cities nearby. Such strategic placement enables the Company to
 minimize the transportation time and costs of its equipment to the customers’
 destinations, which in turn helps increase the utilization efficiency and profitability
 of its fleet.
-(cid:129) The Group owns Production Licenses of Special Equipment (特種設備生產許可證).
+ The Group owns Production Licenses of Special Equipment (特種設備生產許可證).
 With such licenses, the Group is able to maintain and repair the equipment
 comprehensively, so that the equipment in the fleet always function in good
 conditions and quality, and rarely have down-times. Leveraging the Group’s repair
@@ -9535,19 +9535,19 @@ decreaseinleasedintralogisticsequipmentrepresentedequipmentreturnedtothelessorsa
 terms.
 A summary of key terms of short-term leasing agreements with third-party rental
 companies is as follows:
-(cid:129) Term. The lessor provides different rental terms, generally ranging from a few days
+ Term. The lessor provides different rental terms, generally ranging from a few days
 to several months based on our needs.
-(cid:129) Obligations. The lessor shall provide door-to-door delivery of the leased equipment
+ Obligations. The lessor shall provide door-to-door delivery of the leased equipment
 as specified in the contract to us. The Company shall keep the equipment in good
 condition during the rental term, and conduct proper inspections, and basic
 maintenance (if applicable).
-(cid:129) Payment. Generally, the rental fee shall be payable by month. If the Company is late
+ Payment. Generally, the rental fee shall be payable by month. If the Company is late
 in payment, it shall be liable for default payment until the actual payment date; if
 the Company is late in payment for certain period, for instance, one week or more,
 the lessor shall has the right to terminate the contract.
-(cid:129) Ownership. The ownership of the equipment belongs to the lessor during and after
+ Ownership. The ownership of the equipment belongs to the lessor during and after
 the term of the lease.
-(cid:129) Terminations.Eventsofdefaultthatentitlethelessortotakeimmediaterepossession
+ Terminations.Eventsofdefaultthatentitlethelessortotakeimmediaterepossession
 of the equipment include, among others, situations in which (i) the Company
 defaultsinpaymentofrentalfeesorotherpayables;and(ii)assignmentoftherights
 and obligations in the rental contracts to third parties without prior consent of the
@@ -10435,13 +10435,13 @@ five largest customers in each year/period during the Track Record Period.
 Contracts with Customers
 Asummary of the key terms of our intralogistics equipment subscription service contract
 is as follows:
-(cid:129) Term. The contract term varies based on customers’needs. During the Track Record
+ Term. The contract term varies based on customers’needs. During the Track Record
 Period, the contracts generally had durations ranging from three months to 48
 months. The average contract term was around 19.7 months, 22.7 months, 14.5
 months, and 13.7 months in 2020, 2021, 2022 and the four months ended April 30,
 2023, respectively. The service term generally starts at the date when the requested
 equipment is received by the customer;
-(cid:129) Services.Weprovidedoor-to-doordeliveryofthesubscribedequipmentasspecified
+ Services.Weprovidedoor-to-doordeliveryofthesubscribedequipmentasspecified
 in the contract to our customer. We assist our customer to finish set-up the
 equipment, and provide guidance to our customer’s in-house equipment operators.
 We will provide periodic inspections and maintenance to the equipment to ensure
@@ -10450,7 +10450,7 @@ their smooth operation on site;
 
 === PAGE 235 ===
 BUSINESS
-(cid:129) Subscription price. The average monthly subscription price (excluding VAT) of
+ Subscription price. The average monthly subscription price (excluding VAT) of
 different types of intralogistics equipment varies significantly based on
 specifications of relevant equipment. For instance, in respect of simple-structured
 and inexpensive stackers used for moving small goods, such price can be as low as
@@ -10460,13 +10460,13 @@ RMB32,000/unit. Taken as a whole, our overall average monthly equipment
 subscription price (excluding VAT) was RMB1,965 per unit in 2020, RMB2,126 per
 unitin2021,RMB2,085perunitin2022,andRMB2,183perunitforthefourmonth
 ended April 30, 2023.
-(cid:129) Payment term. The subscription fee shall be payable by month. The cumulative
+ Payment term. The subscription fee shall be payable by month. The cumulative
 usage duration of each intralogistics equipment shall not exceed certain hour limit
 per month, and any excessive hours shall be paid by the customer at pre-determined
 hourly rates in the contract;
-(cid:129) Ownership.Theownershipofthesubscribedequipmentwillnotbetransferredtothe
+ Ownership.Theownershipofthesubscribedequipmentwillnotbetransferredtothe
 customer either during or after the subscription service agreement;
-(cid:129) Termination. If the customer fails to pay the service fees as stipulated in contact to
+ Termination. If the customer fails to pay the service fees as stipulated in contact to
 us within the prescribed period in the contract, the customer shall pay us a late fee
 at the rate of 0.5% of the overdue amount per day. If the payment is overdue for
 more than 20 days, then we have the right to use customer’s security deposit (if any)
@@ -10481,7 +10481,7 @@ other party penalty of six months’ subscription price in the contract, or the 
 amount of fees for the remaining period, whichever is higher. If both parties agree
 to terminate the contract in advance, the customer only needs to settle the contract
 price for the period that has expired.
-(cid:129) Renewal. If the customer wants to renew the service agreement after the expiration,
+ Renewal. If the customer wants to renew the service agreement after the expiration,
 it should cooperate with us to complete the renewal within 30 days before the
 expiration of such contract; if the customer does not go through formal termination
 or renewal procedures with us after the expiration, it will be regarded as customer’s
@@ -10490,7 +10490,7 @@ automatic choice to renew the contract.
 
 === PAGE 236 ===
 BUSINESS
-(cid:129) Service scope adjustment. During the Track Record Period, we allowed our
+ Service scope adjustment. During the Track Record Period, we allowed our
 customers to adjust the service scope if needed. To make such adjustment, the
 parties will have amicable discussion and execute a supplemental agreement to the
 existing service contract. Once the Company and its customer enter into a
@@ -10510,54 +10510,54 @@ needed before the execution of the service contracts, the Company had not
 encountered material reductions during the Track Record Period. In addition, there
 was no dispute with any customer in relation to service scope adjustment during the
 Track Record Period.
-(cid:129) Option to purchase. There is no option under the intralogistics equipment
+ Option to purchase. There is no option under the intralogistics equipment
 subscription service contact for the customers to acquire the subscribed equipment.
 A summary of the key terms of our one-off repair service contract is as follows:
-(cid:129) Services. We carry out one-off repair, and provide necessary replacement parts and
+ Services. We carry out one-off repair, and provide necessary replacement parts and
 materials for the customer’s intralogistics equipment on as-needed basis. After the
 execution of the service contract, we shall assign technician(s) to the designated site
 of the customer for performing the service;
-(cid:129) Prices and payment. The agreed unit rates of each item and quantities of various
+ Prices and payment. The agreed unit rates of each item and quantities of various
 items of works are set out in the service agreement. The customer is required to
 make full payment within an agreed period of time after the performance of the
 repair service;
-(cid:129) Duration of work. Our technician(s) on site shall finish the repair works within the
+ Duration of work. Our technician(s) on site shall finish the repair works within the
 agreed period of time.
 A summary of the key terms of our maintenance and repair service plan contract is as
 follows:
-(cid:129) Term. The contract term varies based on customers’needs, which is usually from 12
+ Term. The contract term varies based on customers’needs, which is usually from 12
 months to 36 months;
 – 226 –
 
 === PAGE 237 ===
 BUSINESS
-(cid:129) Services. The customers may choose to have regular maintenance packages only,
+ Services. The customers may choose to have regular maintenance packages only,
 where we provide inspection and maintenance services at specific intervals (for
 example, every 200 hours, 600 hours, 1,200 hours, etc.), or to have maintenance and
 repair service plans where we provide scheduled inspections and all maintenance
 services proactively to ensure daily smooth running of equipment; additional fixes
 and repairs are included in the plans as well. We shall keep and update maintenance
 record for the serviced equipment;
-(cid:129) Payment term. The service fees shall be payable by month, at a pre-determined price
+ Payment term. The service fees shall be payable by month, at a pre-determined price
 as agreed by both parties; service fees include labor costs and costs of replacement
 parts (barring specific exclusions, such as replacement of tires, batteries, electric
 motors, and other major parts, costs in relation to damages to the equipment caused
 by willful or gross negligent conducts of the customer’s operators; fuels, etc.);
-(cid:129) Termination.Ifanypartywantstoterminatethemaintenanceandrepaircontractdue
+ Termination.Ifanypartywantstoterminatethemaintenanceandrepaircontractdue
 to its material change of operation, such party shall notify the other party in writing
 for one month in advance, and the contract can be terminated in advance after both
 parties agree and settle all costs; if any party fails to notify the other party in
 advance before terminating the contract, the other party pay ask for compensation
 equal to one month’s service fees.
 A summary of the key terms of purchase and sale contract is as follows:
-(cid:129) Specification. The purchase and sale agreement typically sets out the specifications,
+ Specification. The purchase and sale agreement typically sets out the specifications,
 models, quantities and total sales amount of the intralogistics equipment and parts
 we sell;
-(cid:129) Payment term. The customer shall pay deposit after the execution of the contract,
+ Payment term. The customer shall pay deposit after the execution of the contract,
 and the balance of the purchase price shall be paid within certain days after the
 delivery of product. The ownership of the products belongs to us until the payment
 is paid in full;
-(cid:129) Inspection and acceptance. The customer shall inspect the products on site after
+ Inspection and acceptance. The customer shall inspect the products on site after
 delivery. Within three working days after acceptance, if the customer discovers any
 quality issue(s) of the products, the customer can notify us in writing, we are
 responsible to handle the issue(s) at our own costs if such issue(s) are bilaterally
@@ -10716,18 +10716,18 @@ BUSINESS
 Contracts With Suppliers
 A summary of the key terms of our equipment and/or parts procurement agreement is as
 follows:
-(cid:129) Specification. The procurement agreement typically sets out the specifications,
+ Specification. The procurement agreement typically sets out the specifications,
 models, quantities, the unit purchase price and total purchase amount of the
 equipment and/or parts we purchase;
-(cid:129) Unit purchase price. The unit purchase price of the equipment and/or parts is
+ Unit purchase price. The unit purchase price of the equipment and/or parts is
 specified in the procurement agreement;
-(cid:129) Logistics. Unless otherwise agreed, the supplier is required to deliver the equipment
+ Logistics. Unless otherwise agreed, the supplier is required to deliver the equipment
 and/or parts we purchased to locations designated by us;
-(cid:129) Payment term. We will pay the purchase price of the equipment and/or parts to the
+ Payment term. We will pay the purchase price of the equipment and/or parts to the
 supplier under the conditions that (i) we receive the original copy of VAT invoice
 issued by the supplier for 100% of the purchase price; and (ii) all purchased
 equipment and/or parts are properly delivered to us;
-(cid:129) Product warranty and liability. The suppliers are responsible for quality issues of
+ Product warranty and liability. The suppliers are responsible for quality issues of
 the products within the warranty period, which is generally 12 months after the
 acceptance of the products. During the warranty period, they will adjust, repair or
 replace the relevant product(s) free of charge. In addition, if the Company bears any
@@ -10956,10 +10956,10 @@ metrics of “significance to stakeholders” and “significance to our Group�
 account the opinions of both stakeholders and experts and with reference to the following
 factors and quantifiable metrics:
 Factors considers:
-(cid:129) the likelihood or frequency of the occurrence of the relevant risk;
-(cid:129) the degree of impact on our Group if the relevant risk occurs.
+ the likelihood or frequency of the occurrence of the relevant risk;
+ the degree of impact on our Group if the relevant risk occurs.
 Quantifiable metric:
-(cid:129) nil suspension or revocation of business license due to ESG-related issues.
+ nil suspension or revocation of business license due to ESG-related issues.
 We prioritize the ESG issues based on the assessment results. During the Track Record
 Period, we pay great attention to environmental protection and are committed to operating our
 business in compliance with applicable environmental protection laws and regulations. We
@@ -11157,10 +11157,10 @@ internalcontrolanddataaccessingmechanismsanddetailedapprovalandoperationprocedur
 regarding data storage and processing. We have established a set of internal protocols on data
 security, which set forth detailed, stringent requirements in relation to the use, disclosure and
 protection of confidential information. Among other things, such internal protocols:
-(cid:129) provide limited authorization to our employees holding specific positions and
+ provide limited authorization to our employees holding specific positions and
 responsibilities to access and process corporate data on a need-to-know basis, who
 shall use such data only for the purposes of performing their work assignment;
-(cid:129) require our employees to log in our information systems with access codes provided
+ require our employees to log in our information systems with access codes provided
 by the Group.
 – 242 –
 
@@ -11807,9 +11807,9 @@ or become subject to, sanctions administered by the U.S., the EU, the UN,Austral
 relevant sanctions authorities” for further details regarding sanctions risks.
 Our Undertakings to the Stock Exchange
 We undertake to the Stock Exchange that:
-(cid:129) wewillimplementtheinternalcontrolmeasurestominimizeInternationalSanctions
+ wewillimplementtheinternalcontrolmeasurestominimizeInternationalSanctions
 risk as described above;
-(cid:129) wewillnotusethenetproceedsfromtheGlobalOffering,aswellasanyotherfunds
+ wewillnotusethenetproceedsfromtheGlobalOffering,aswellasanyotherfunds
 raised through the Stock Exchange, whether directly or indirectly, to finance or
 facilitate any activities or businesses with, or for the benefit of, any Sanctioned
 Regions or any other government, individual or entity sanctioned by the United
@@ -11817,17 +11817,17 @@ States, the European Union,Australia, or the U.K., including but not limited to,
 government, individual or entity that is the subject to any OFAC-administered
 sanctions or that would be in breach of sanctions imposed by the United States, the
 European Union, Australia, or the U.K.;
-(cid:129) we will not use the net proceeds from the Global Offering to pay any damages for
+ we will not use the net proceeds from the Global Offering to pay any damages for
 terminating or transferring any contract that violates International Sanctions;
-(cid:129) we will not undertake any future business that would cause us, the Stock Exchange,
+ we will not undertake any future business that would cause us, the Stock Exchange,
 HKSCC, HKSCC Nominees, our Shareholders, or potential investors to violate or
 become a target of sanctions laws of the United States, the European Union,
 Australia, or the U.K.;
-(cid:129) we will make timely disclosure on our website if we believe that any of our business
+ we will make timely disclosure on our website if we believe that any of our business
 activitieswouldputourCompanyorourShareholdersandinvestorsatrisksofbeing
 in breach of the sanctions imposed by the United States, the European Union,
 Australia, or the U.K.; and
-(cid:129) we will also include such disclosures in our annual or interim reports and the
+ we will also include such disclosures in our annual or interim reports and the
 discussion of our efforts on monitoring our business exposure to sanctions risk, the
 status of our future business (if any) in any country subject to sanctions imposed by
 the United States, the European Union, Australia, and the U.K., and our business
@@ -11846,9 +11846,9 @@ Adviserisoftheviewthat,theRecommendedMeasuresareconsistentwithguidancepublished
 by OFAC regarding sanctions compliance programs, and are adequate and effective for our
 Company to comply with applicable International Sanctions laws and to address sanctions
 risks.
-(cid:129) Our Company will adopt a Trade Compliance Policy for the purposes of complying
+ Our Company will adopt a Trade Compliance Policy for the purposes of complying
 with applicable International Sanctions enacted by Relevant Jurisdictions.
-(cid:129) Our Trade Compliance Policy will include appropriate procedures:
+ Our Trade Compliance Policy will include appropriate procedures:
 o to screen foreign customers and suppliers against the lists of individuals,
 entities, and regions subject to International Sanctions enacted by Relevant
 Jurisdictions;
@@ -11856,13 +11856,13 @@ o to determine the extent to which our Company’s business with foreign
 customers and suppliers may expose the Company to legal, commercial, or
 reputational risks; and
 o to determine appropriate measures to mitigate such risks.
-(cid:129) Our Trade Compliance Policy will prohibit the use of U.S. dollars and involvement
+ Our Trade Compliance Policy will prohibit the use of U.S. dollars and involvement
 with U.S. financial institutions or other U.S. Persons in connection with any
 transactions involving countries or regions subject to comprehensive International
 Sanctions enacted by the United States.
-(cid:129) Our Company will establish a Sanctions Oversight Committee to coordinate the
+ Our Company will establish a Sanctions Oversight Committee to coordinate the
 implementation of the Trade Compliance Policy
-(cid:129) The Sanctions Oversight Committee will be authorized to engage external legal
+ The Sanctions Oversight Committee will be authorized to engage external legal
 advisers with relevant expertise and experience in sanctions matters to evaluate the
 sanctions risk as and when necessary and will formulate risk management measures
 takingintoaccounttheadviceandrecommendationsprovidedbysuchexternallegal
@@ -11871,11 +11871,11 @@ advisers.
 
 === PAGE 270 ===
 BUSINESS
-(cid:129) The Sanctions Oversight Committee will be authorized to arrange appropriate
+ The Sanctions Oversight Committee will be authorized to arrange appropriate
 compliance training for our Directors, our senior management, and other relevant
 personnel to assist them in evaluating the potential sanctions risks in our daily
 operations.
-(cid:129) Our Company will open and maintain separate bank account(s) which is/are
+ Our Company will open and maintain separate bank account(s) which is/are
 designated for proceeds from the Global Offering, as well as any other funds raised
 through the Stock Exchange. Our Sanctions Oversight Committee will monitor and
 regulate the use of proceeds from the Global Offering, as well as any other funds
@@ -11886,7 +11886,7 @@ sanctioned by the United States, the European Union, Australia, or the U.K.
 We have subsequently implemented the aforementioned Recommended Measures and a
 few additional measures initiated by us as follows by October 2, 2023 (collectively, the
 “Implemented Measures”) to control and monitor our exposure to sanctions risks:
-(cid:129) Our Trade Compliance Policy also includes appropriate procedures:
+ Our Trade Compliance Policy also includes appropriate procedures:
 o to assign our financial managers to check identities of customers and the
 respective countries or regions of such customers collected through our client
 KYC procedures prior to each new transaction, in order to suspend any
@@ -11912,14 +11912,14 @@ mitigate such risks.
 
 === PAGE 271 ===
 BUSINESS
-(cid:129) We have established a Sanctions Oversight Committee to coordinate the
+ We have established a Sanctions Oversight Committee to coordinate the
 implementation of the Trade Compliance Policy. The Sanctions Oversight
 Committee, led by the chairman of the Board, is responsible for reviewing,
 approving, implementing and updating the Company’s compliance measures, and
 shall guide and supervise all other business departments, including but not limited
 to, sales department, procurement department and asset management department, to
 operate in full compliance with such measure.
-(cid:129) Our Sanction Oversight Committee and Directors have established routine training
+ Our Sanction Oversight Committee and Directors have established routine training
 program for our sales team and relevant employees twice a year and whenever there
 is any new material development of related laws and regulations to improve their
 knowledge and awareness on applicable International Sanctions laws.
@@ -12653,16 +12653,16 @@ COMPLIANCE ADVISER
 We have appointed Somerley Capital Limited as our compliance adviser pursuant to Rule
 3A.19 of the Listing Rules. Pursuant to Rule 3A.23 of the Listing Rules, the compliance
 adviser will advise us on the following circumstances:
-(cid:129) before the publication of any announcements, circulars or financial reports required
+ before the publication of any announcements, circulars or financial reports required
 by regulatory authorities or applicable laws;
-(cid:129) where a transaction, which might be a notifiable or connected transaction under
+ where a transaction, which might be a notifiable or connected transaction under
 Chapters 14 and 14A of the Listing Rules is contemplated, including share issues
 and share repurchases;
-(cid:129) where we propose to use the proceeds of the Global Offering in a manner different
+ where we propose to use the proceeds of the Global Offering in a manner different
 from that detailed in this prospectus or where our business activities, developments
 orresultsdeviatefromanyforecast,estimateorotherinformationinthisprospectus;
 and
-(cid:129) where the Stock Exchange makes an inquiry of us regarding unusual price
+ where the Stock Exchange makes an inquiry of us regarding unusual price
 movement and trading volume or other issues under Rule 13.10 of the Listing Rules.
 The terms of the appointment shall commence on the Listing Date and end on the date
 which we distribute our annual report of our financial results for first full the financial year
@@ -12682,18 +12682,18 @@ Yingchun (朱迎春), with Mr. Wang Chuanbang (王傳邦) serving as the chairma
 Chuanbang (王傳邦) holds the appropriate professional qualifications as required under Rules
 3.10(2) and 3.21 of the Listing Rules. The primary duties of theAudit Committee include, but
 not limited to, the following:
-(cid:129) proposing the appointment or change of external auditors to the Board, and
+ proposing the appointment or change of external auditors to the Board, and
 monitoring the independence of external auditors and evaluating their performance;
 – 280 –
 
 === PAGE 291 ===
 DIRECTORS, SUPERVISORS AND SENIOR MANAGEMENT
-(cid:129) examiningthefinancialinformationofourCompanyandreviewingfinancialreports
+ examiningthefinancialinformationofourCompanyandreviewingfinancialreports
 and statements of our Company;
-(cid:129) examining the financial reporting system, the risk management and internal control
+ examining the financial reporting system, the risk management and internal control
 system of our Company, overseeing their rationality, efficiency and implementation
 and making recommendations to the Board; and
-(cid:129) dealing with other matters that are authorized by the Board.
+ dealing with other matters that are authorized by the Board.
 Remuneration Committee
 The Company has established the Remuneration Committee (effective from the Listing
 Date) with written terms of reference in compliance with Rule 3.25 of the Listing Rules and
@@ -12701,18 +12701,18 @@ paragraph E.1 of Part 2 of the Corporate Governance Code. The Remuneration Commi
 consists of three Directors, namely Dr. Fan Xia (樊霞), Mr.Wang Chuanbang (王傳邦) and Mr.
 Hou Zebing (侯澤兵), with Dr. Fan Xia (樊霞) serving as the chairman. The primary duties of
 the Remuneration Committee include, but not limited to, the following:
-(cid:129) advising the Board on the overall remuneration plan and structure of Directors,
+ advising the Board on the overall remuneration plan and structure of Directors,
 Supervisors and senior management and the establishment of transparent formal
 procedures for determining remuneration policy of our Company;
-(cid:129) examining the criteria of performance evaluation of Directors, Supervisors and the
+ examining the criteria of performance evaluation of Directors, Supervisors and the
 senior management of our Company, conducting performance evaluation and
 making recommendations to the Board;
-(cid:129) formulating individual remuneration plans for Directors, Supervisors and members
+ formulating individual remuneration plans for Directors, Supervisors and members
 of the senior management in accordance with the terms of reference of the
 importance of their positions, the time they spend on such positions as well as the
 remuneration benchmarks for the relevant positions in the other comparable
 companies; and
-(cid:129) dealing with other matters that are authorized by the Board, and if necessary,
+ dealing with other matters that are authorized by the Board, and if necessary,
 engaging external experts to provide relevant independent services.
 Nomination Committee
 The Company has established the Nomination Committee (effective from the Listing
@@ -12721,39 +12721,39 @@ Corporate Governance Code. The Nomination Committee consists of three Directors,
 Mr. Hou, Dr. Fan Xia (樊霞) and Mr. Chiang Edward (蔣福誠), with Mr. Hou serving as the
 chairman. The primary functions of the Nomination Committee include, but not limited to, the
 following:
-(cid:129) conducting extensive search and providing to the Board suitable candidates for
+ conducting extensive search and providing to the Board suitable candidates for
 Directors, general managers and other members of the senior management;
 – 281 –
 
 === PAGE 292 ===
 DIRECTORS, SUPERVISORS AND SENIOR MANAGEMENT
-(cid:129) overseeing the implementation of Board diversity policy; taking into account
+ overseeing the implementation of Board diversity policy; taking into account
 various factors when determining the composition of the Board, including, but not
 limited to, gender, age, cultural and educational background, ethnicity, professional
 experience, skills, knowledge and service tenure;
-(cid:129) examining the size and composition of the Board and its members in respect of their
+ examining the size and composition of the Board and its members in respect of their
 skills, knowledge, experience and diversity at least once every year, and making
 recommendations to the Board on any change in Board composition in accordance
 with our Company’s strategies;
-(cid:129) researching and developing standards and procedures for the election of the Board
+ researching and developing standards and procedures for the election of the Board
 members, general managers and members of the senior management, and making
 recommendations to the Board; and
-(cid:129) dealing with other matters that are authorized by the Board.
+ dealing with other matters that are authorized by the Board.
 Strategy Committee
 Our Company has established the Strategy Committee, which consists of Mr. Hou, Mr.
 Hou Zebing (侯澤兵), Mr. Zhu Yingchun (朱迎春), Mr. Chiang Edward (蔣福誠) and Mr. Shu
 Xiaowu (舒小武) and is chaired by Mr. Hou. The main duties of the Strategy Committee
 include but are not limited to:
-(cid:129) researching and recommending on long-term development strategy of our Company;
-(cid:129) researching and recommending on significant investment and financing plans of our
+ researching and recommending on long-term development strategy of our Company;
+ researching and recommending on significant investment and financing plans of our
 Company;
-(cid:129) researching and recommending on major capital operation and asset management
+ researching and recommending on major capital operation and asset management
 project, and annual financial budget plan of our Company;
-(cid:129) researching and recommending on significant matters relating to the development of
+ researching and recommending on significant matters relating to the development of
 our Company;
-(cid:129) monitoring the above matters and assessing, examining and recommending on
+ monitoring the above matters and assessing, examining and recommending on
 significant changes; and
-(cid:129) performing such other duties determined by the Board.
+ performing such other duties determined by the Board.
 – 282 –
 
 === PAGE 293 ===
@@ -13551,11 +13551,11 @@ RMB155.3 million in 2020, 2021, 2022, and four months ended April 30, 2023, resp
 MAJOR FACTORS AFFECTING OUR RESULTS OF OPERATIONS
 Ourbusiness,resultsofoperationsandfinancialconditionareaffectedbygeneralfactors,
 including:
-(cid:129) the overall economic growth and the political, economic and social stability in
+ the overall economic growth and the political, economic and social stability in
 China;
-(cid:129) regulatory changes affecting the intralogistics equipment solution industry;
-(cid:129) the growth and competition of the intralogistics equipment solution industry; and
-(cid:129) the advancement in technologies affecting the intralogistics equipment solution
+ regulatory changes affecting the intralogistics equipment solution industry;
+ the growth and competition of the intralogistics equipment solution industry; and
+ the advancement in technologies affecting the intralogistics equipment solution
 industry.
 In particular, our results of operations are affected by the growth of the intralogistics
 equipmentsolutionindustry.ThesizeoftheintralogisticsequipmentsolutionindustryinChina
@@ -15430,7 +15430,7 @@ our financial resources, including internally generated funds, the proceeds from
 Offering, and available facilities from bank and other borrowings. In addition, our Directors
 are of the view that we are able to match our loans and borrowings to support our long-term
 operational needs. We base this confidence on the following factors:
-(cid:129) Cash flow generated from operations: Our net cash generated from operating
+ Cash flow generated from operations: Our net cash generated from operating
 activities was RMB451.6 million, RMB527.6 million, RMB522.2 million, and
 RMB155.3 million for the years ended December 31, 2020, 2021, 2022, and four
 months ended April 30, 2023, respectively. This steady cash flow is a testament to
@@ -15442,7 +15442,7 @@ of this positive cash flow trend. Furthermore, we are placing a renewed emphasis
 enhancing communication with both our suppliers and customers. This is expected
 to expedite the collection of trade receivables while simultaneously negotiating
 extended payment terms with our suppliers.
-(cid:129) Bankandotherborrowings:AsofAugust31,2023,wehadunutilizedfacilitiesfor
+ Bankandotherborrowings:AsofAugust31,2023,wehadunutilizedfacilitiesfor
 bank and other borrowings of RMB1,436.8 million, providing us with additional
 financial resources. Historically, we have been able to obtain bank and other
 borrowings when needed, and we believe that our long-term and healthy
@@ -15453,7 +15453,7 @@ rates, aligning with our business growth strategy. We are dedicated to managing 
 indebtedness proactively and maintaining a healthy financial position. We believe
 that our commitment to financial prudence will enable us to navigate any economic
 uncertainties that may arise while seizing growth opportunities.
-(cid:129) ProceedsfromtheGlobalOffering:WeexpecttoreceiveproceedsfromtheGlobal
+ ProceedsfromtheGlobalOffering:WeexpecttoreceiveproceedsfromtheGlobal
 Offering of approximately HK$126.8 million, after deducting underwriting
 commissions, fees, and estimated expenses payable by us in connection with the
 Global Offering. These proceeds will further strengthen our financial position and
@@ -15462,7 +15462,7 @@ support our business development initiatives.
 
 === PAGE 363 ===
 FINANCIAL INFORMATION
-(cid:129) Stringentcashmanagement:Wecloselymonitorandmanageourcashpositionand
+ Stringentcashmanagement:Wecloselymonitorandmanageourcashpositionand
 requirements to ensure that we have sufficient working capital for our operations.
 We prioritize planned and systematic cash flow management and match short-term
 loans with our operational needs to ensure we have sufficient liquidity to cover its
@@ -15733,10 +15733,10 @@ is set at HK$14.18 per Share, which is the low end of the indicative Offer Price
 proceeds from the Global Offering will decrease by approximately HK$11.6 million.
 Assuming an Offer Price at the mid-point of the Offer Price range, we currently intend
 to apply these net proceeds for the following purposes:
-(cid:129) 45.0%, or approximately HK$57.0 million, will be used to enhance our service
+ 45.0%, or approximately HK$57.0 million, will be used to enhance our service
 capabilities, improve customer coverage, and expand categories of intralogistics
 equipment. Specifically:
-(cid:129) 5.0%, or approximately HK$6.3 million, will be used to strengthen our
+ 5.0%, or approximately HK$6.3 million, will be used to strengthen our
 marketing capabilities. We plan to expand our sales team and improve sales
 and marketing methods.
 We plan to recruit 8 sales personnel in our sales team each year during the next
@@ -15754,7 +15754,7 @@ logistics, and other targeted industries.
 
 === PAGE 371 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) 15.0%, or approximately HK$19.0 million, will be used to expand our service
+ 15.0%, or approximately HK$19.0 million, will be used to expand our service
 outlets, further enhancing our service efficiency and customer outreach. As of
 April 30, 2023, we established a nationwide service network with 67 service
 outlets covering 47 cities in China. In the upcoming years, we plan to increase
@@ -15764,7 +15764,7 @@ In particular, we plan to build 13 new service outlets each year during the next
 three years, which will be mainly located inYangtze River Delta Region, Pearl
 RiverDeltaandBohaiEconomicRim,tofurtherimproveourservicecoverage,
 reach more customers, and provide timely services to meet their various needs.
-(cid:129) 25.0%, or approximately HK$31.7 million, will be used to expand the scale
+ 25.0%, or approximately HK$31.7 million, will be used to expand the scale
 and categories of our intralogistics equipment fleet. We plan to continuously
 invest in acquiring intralogistics equipment, expanding our categories of
 intralogistics equipment, and providing corresponding lifecycle solutions to
@@ -15775,11 +15775,11 @@ HK$10.5 million, in each of the three years from 2024 to 2026, respectively,
 to purchase approximately 100 units of intralogistics equipment, including
 counterbalanced forklifts, reach trucks, walkie trucks and other intralogistics
 equipment, covering storage, sorting and conveying equipment.
-(cid:129) 20.0%, or approximately HK$25.4 million, will be used to expand and upgrade our
+ 20.0%, or approximately HK$25.4 million, will be used to expand and upgrade our
 supply chain infrastructure. This includes both improving our existing supply chain
 facilities and constructing new supply chain bases according to our strategies.
 Specifically:
-(cid:129) 10.0%, or approximately HK$12.7 million, will be used to expand and upgrade
+ 10.0%, or approximately HK$12.7 million, will be used to expand and upgrade
 our existing supply chain facilities, specifically for our main supply chain
 bases, equipment part warehouses at our headquarter and automated
 warehouses in local bases. Approximately HK$7.7 million will be used to
@@ -15795,7 +15795,7 @@ of parts, resulting in reduced manual labor and increased accuracy.
 
 === PAGE 372 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) 10.0%, or approximately HK$12.7 million, will be used to build new supply
+ 10.0%, or approximately HK$12.7 million, will be used to build new supply
 chain bases in strategic locations across China to better synergize our
 resources. We plan to improve our connectivity with both upstream and
 downstream industry sectors with high transportation efficiency and
@@ -15806,9 +15806,9 @@ to build a new supply chain base in Wuhan, Hubei from 2024 to 2025.
 Approximately HK$2.7 million will be used to build a new supply chain base
 inShenyang,LiaoningandapproximatelyHK$2.7millionwillbeusedtobuild
 a new supply chain base in Chengdu, Sichuan from 2025 to 2026.
-(cid:129) 15.0%, or approximately HK$19.0 million, will be used to strengthen our
+ 15.0%, or approximately HK$19.0 million, will be used to strengthen our
 technology capabilities and infrastructure. Specifically:
-(cid:129) 10.0%, or approximately HK$12.7 million, will be used to enhance our core
+ 10.0%, or approximately HK$12.7 million, will be used to enhance our core
 technology capabilities. Approximately HK$6.6 million will be used to
 upgrade our IoT infrastructure, among which, approximately HK$4.8 million
 will be used to upgrade the host engine rooms, and the remaining will be used
@@ -15817,13 +15817,13 @@ infrastructure will enable efficient tracking and recording of intralogistics
 equipment. Approximately HK$6.1 million will be used to collaborate with
 research institutions and leading companies across China to establish a
 cooperative platform for IoT intelligent management.
-(cid:129) 5.0%, or approximately HK$6.3 million, will be used to enhance our overall
+ 5.0%, or approximately HK$6.3 million, will be used to enhance our overall
 digital technology capabilities. We plan to enhance our data analysis by
 investing in big data, cloud computing, and other new software technologies.
 Approximately HK$3.3 million will be used to construct and upgrade the
 machine rooms and purchase relevant equipment and approximately HK$3.0
 million will be used to recruit relevant technicians from 2024 to 2026.
-(cid:129) 10.0%,orapproximatelyHK$12.7million,willbeusedtoconductstrategicmergers
+ 10.0%,orapproximatelyHK$12.7million,willbeusedtoconductstrategicmergers
 and acquisitions that align with our regional coverage, industry focus, and business
 priorities. We will particularly focus on participants that have strengths in terms of
 asset quality, service capacities, customer resources, market influence and talent
@@ -15847,7 +15847,7 @@ enhance our presence and service offerings within such industry.
 AsoftheLatestPracticableDate,wehadnospecificacquisitionplansnoridentified
 any specific targets. We will seek collaboration opportunities in a sustainable and
 prudent manner after the Listing.
-(cid:129) 10.0%, or approximately HK$12.7 million, will be used for our general working
+ 10.0%, or approximately HK$12.7 million, will be used for our general working
 capital and general corporate purposes.
 The above allocation of the net proceeds from the Global Offering will be adjusted on a
 pro rata basis in the event that the Offer Price is fixed at a higher or lower level compared to
@@ -16941,10 +16941,10 @@ at their discretion.
 Eligibility for the Application
 You can apply for the Hong Kong Offer Shares if you or the person(s) for whose benefit
 you are applying:
-(cid:129) are 18 years of age or older;
-(cid:129) are outside the United States, and are not a United States Person (as defined in
+ are 18 years of age or older;
+ are outside the United States, and are not a United States Person (as defined in
 Regulation S under the U.S. Securities Act); and
-(cid:129) are not a legal or natural person of the PRC (except qualified domestic institutional
+ are not a legal or natural person of the PRC (except qualified domestic institutional
 investors).
 – 391 –
 
@@ -16954,14 +16954,14 @@ If you are a firm, the application must be in the individual members’ names.
 The number of joint applicants may not exceed four.
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Offer Shares
 if you are:
-(cid:129) anexistingbeneficialownerofSharesintheCompanyand/oranyofitssubsidiaries;
-(cid:129) a Director, supervisor or chief executive officer of the Company and/or any of its
+ anexistingbeneficialownerofSharesintheCompanyand/oranyofitssubsidiaries;
+ a Director, supervisor or chief executive officer of the Company and/or any of its
 subsidiaries;
-(cid:129) a close associate (as defined in the Listing Rules) of any of the above;
-(cid:129) a core connected person (as defined in the Listing Rules) of the Company or will
+ a close associate (as defined in the Listing Rules) of any of the above;
+ a core connected person (as defined in the Listing Rules) of the Company or will
 become a core connected person of the Company immediately upon completion of
 the Global Offering; or
-(cid:129) have been allocated or have applied for any International Offer Shares or otherwise
+ have been allocated or have applied for any International Offer Shares or otherwise
 participate in the International Offering.
 Items Required for the Application
 If you apply for the Hong Kong Offer Shares online through the HK eIPO White Form
@@ -17161,48 +17161,48 @@ behalf:
 (i) HKSCC Nominees will only be acting as a nominee for you and is not liable for any
 breach of the terms and conditions of this prospectus; and
 (ii) HKSCC Nominees will do the following things on your behalf:
-(cid:129) agree that the Hong Kong Offer Shares to be allotted shall be issued in the
+ agree that the Hong Kong Offer Shares to be allotted shall be issued in the
 name of HKSCC Nominees and deposited directly into CCASS for the credit
 of the CCASS Participant’s stock account on your behalf or your CCASS
 Investor Participant’s stock account;
-(cid:129) agree to accept the Hong Kong Offer Shares applied for or any lesser number
+ agree to accept the Hong Kong Offer Shares applied for or any lesser number
 allocated;
 – 397 –
 
 === PAGE 408 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) undertake and confirm that you have not applied for or taken up, will not
+ undertake and confirm that you have not applied for or taken up, will not
 apply for or take up, or indicate an interest for, any International Offer Shares
 under the International Offering;
-(cid:129) (if the electronic application instructions are given for your benefit) declare
+ (if the electronic application instructions are given for your benefit) declare
 that only one set of electronic application instructions has been given for
 your benefit;
-(cid:129) (if you are an agent for another person) declare that you have only given one
+ (if you are an agent for another person) declare that you have only given one
 set of electronic application instructions for the other person’s benefit and
 are duly authorized to give those instructions as their agent;
-(cid:129) confirm that you understand that our Company, the Directors, the Sole Overall
+ confirm that you understand that our Company, the Directors, the Sole Overall
 CoordinatorandtheSoleGlobalCoordinatorwillrelyonyourdeclarationsand
 representations in deciding whether or not to make any allotment of any of the
 Hong Kong Offer Shares to you and that you may be prosecuted if you make
 a false declaration;
-(cid:129) authorize our Company to place HKSCC Nominees’name on the Company’s
+ authorize our Company to place HKSCC Nominees’name on the Company’s
 register of members as the holder of the Hong Kong Offer Shares allocated to
 you and to send H Share certificate(s) and/or refund monies under the
 arrangements separately agreed between us and HKSCC;
-(cid:129) confirm that you have read the terms and conditions and application
+ confirm that you have read the terms and conditions and application
 procedures set out in this prospectus and agree to be bound by them;
-(cid:129) confirm that you have received and/or read a copy of this prospectus and have
+ confirm that you have received and/or read a copy of this prospectus and have
 relied only on the information and representations in this prospectus in causing
 the application to be made, save as set out in any supplement to this
 prospectus;
-(cid:129) agree that none of the Company, the Sole Sponsor, the Sole Overall
+ agree that none of the Company, the Sole Sponsor, the Sole Overall
 Coordinator, the Sole Global Coordinator, the Joint Bookrunners, the Joint
 Lead Managers, the Capital Market Intermediaries, the Underwriters, their
 respective directors, officers, employees, partners, agents, affiliates and
 advisors, and any other persons or parties involved in the Global Offering, is
 or will be liable for any information and representations not contained in this
 prospectus (and any supplement to it);
-(cid:129) agree to disclose your personal data to our Company, our H Share Registrar,
+ agree to disclose your personal data to our Company, our H Share Registrar,
 receiving bank(s), the Sole Sponsor, the Sole Overall Coordinator, the Sole
 Global Coordinator, the Joint Bookrunners, the Joint Lead Managers, the
 CapitalMarketIntermediaries,theUnderwritersand/oritsrespectivedirectors,
@@ -17212,10 +17212,10 @@ persons or parties involved in the Global Offering;
 
 === PAGE 409 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree (without prejudice to any other rights which you may have) that once
+ agree (without prejudice to any other rights which you may have) that once
 HKSCC Nominees’ application has been accepted, it cannot be rescinded for
 innocent misrepresentation;
-(cid:129) agree that any application made by HKSCC Nominees on your behalf is
+ agree that any application made by HKSCC Nominees on your behalf is
 irrevocable before the fifth day after the time of the opening of the application
 lists (excluding any day which is Saturday, Sunday or public holiday in Hong
 Kong), such agreement to take effect as a collateral contract with us and to
@@ -17231,15 +17231,15 @@ holiday in Hong Kong) if a person responsible for this prospectus under
 Section 40 of the Companies (Winding Up and Miscellaneous Provisions)
 Ordinancegivesapublicnoticeunderthatsectionwhichexcludesorlimitsthat
 person’s responsibility for this prospectus;
-(cid:129) agree that once HKSCC Nominees’ application is accepted, neither that
+ agree that once HKSCC Nominees’ application is accepted, neither that
 application nor your electronic application instructions can be revoked, and
 that acceptance of that application will be evidenced by the Company’s
 announcement of the Hong Kong Public Offering results;
-(cid:129) agree to the arrangements, undertakings and warranties under the participant
+ agree to the arrangements, undertakings and warranties under the participant
 agreement between you and HKSCC, read with the General Rules of CCASS
 and the CCASS Operational Procedures, for the giving electronic application
 instructions to apply for the Hong Kong Offer Shares;
-(cid:129) agree with the Company, for itself and for the benefit of each Shareholder (and
+ agree with the Company, for itself and for the benefit of each Shareholder (and
 so that our Company will be deemed by its acceptance in whole or in part of
 the application by HKSCC Nominees to have agreed, for itself and on behalf
 of each of the Shareholders, with each CCASS Participant giving electronic
@@ -17250,7 +17250,7 @@ Provisions)Ordinance,theSpecialRegulationsandtheArticlesofAssociation;
 
 === PAGE 410 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree with the Company, for itself and for the benefit of each of the
+ agree with the Company, for itself and for the benefit of each of the
 ShareholdersandeachDirector,supervisor,managerandotherseniorofficerof
 the Company (and so that the Company will be deemed by its acceptance in
 whole or in part of this application to have agreed, for itself and on behalf of
@@ -17265,28 +17265,28 @@ of Association;
 (b) that any award made in such arbitration shall be final and conclusive; and
 (c) that the arbitration tribunal may conduct hearings in open sessions and
 publish its award;
-(cid:129) agree with the Company (for the Company itself and for the benefit of each
+ agree with the Company (for the Company itself and for the benefit of each
 Shareholder of the Company) that the H Shares are freely transferable by their
 holders;
-(cid:129) authorize the Company to enter into a contract on its behalf with each director
+ authorize the Company to enter into a contract on its behalf with each director
 and officer of the Company whereby each such director and officer undertakes
 to observe and comply with his obligations to shareholders stipulated in the
 Articles of Association; and
-(cid:129) agree that your application, any acceptance of it and the resulting contract will
+ agree that your application, any acceptance of it and the resulting contract will
 be governed by the laws of Hong Kong.
 Effect of Applying Through the CCASS EIPO Service
 ByapplyingthroughtheCCASSEIPOservice,you(and,ifyouarejointapplicants,each
 of you jointly and severally) are deemed to have done the following things. Neither HKSCC
 nor HKSCC Nominees shall be liable to the Company or any other person in respect of the
 things mentioned below:
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees (acting as nominee
+ instructed and authorized HKSCC to cause HKSCC Nominees (acting as nominee
 for the relevant CCASS Participants) to apply for the Hong Kong Offer Shares on
 your behalf;
 – 400 –
 
 === PAGE 411 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) instructed and authorized HKSCC to arrange payment of the maximum Offer Price,
+ instructed and authorized HKSCC to arrange payment of the maximum Offer Price,
 brokerage, SFC transaction levy, the Stock Exchange trading fee and AFRC
 transaction levy by debiting your designated bank account and, in the case of a
 wholly or partially unsuccessful application and/or if the Offer Price is less than the
@@ -17294,15 +17294,15 @@ maximum Offer Price per Offer Share initially paid on application, refund of the
 application monies (including brokerage, SFC transaction levy, the Stock Exchange
 trading fee and AFRC transaction levy) by crediting your designated bank account;
 and
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees to do on your behalf
+ instructed and authorized HKSCC to cause HKSCC Nominees to do on your behalf
 all the things stated in this prospectus.
 Time for Inputting Electronic Application Instructions(Note)
 CCASS Clearing/Custodian Participants can input electronic application instructions at
 the following times on the following dates:
-(cid:129) Tuesday, October 31, 2023 – 9:00 a.m. to 8:30 p.m.
-(cid:129) Wednesday, November 1, 2023 – 8:00 a.m. to 8:30 p.m.
-(cid:129) Thursday, November 2, 2023 – 8:00 a.m. to 8:30 p.m.
-(cid:129) Friday, November 3, 2023 – 8:00 a.m. to 12:00 noon
+ Tuesday, October 31, 2023 – 9:00 a.m. to 8:30 p.m.
+ Wednesday, November 1, 2023 – 8:00 a.m. to 8:30 p.m.
+ Thursday, November 2, 2023 – 8:00 a.m. to 8:30 p.m.
+ Friday, November 3, 2023 – 8:00 a.m. to 12:00 noon
 CCASS Investor Participants can input electronic application instructions from 9:00
 a.m. on Tuesday, October 31, 2023 until 12:00 noon on Friday, November 3, 2023 (24 hours
 daily, except on Friday, November 3, 2023, the last application day).
@@ -17362,20 +17362,20 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund check, where applicable, verification of
+ processing your application and refund check, where applicable, verification of
 compliance with the terms and application procedures set out in this prospectus and
 announcing results of allocation of the Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of our
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of our
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating our register of members;
-(cid:129) verifying identities of the holders of our Shares;
-(cid:129) establishing benefit entitlements of holders of our Shares, such as dividends, rights
+ maintaining or updating our register of members;
+ verifying identities of the holders of our Shares;
+ establishing benefit entitlements of holders of our Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from us and our subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of our Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable us
+ distributing communications from us and our subsidiaries;
+ compiling statistical information and profiles of the holder of our Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to enable us
 and the H Share Registrar to discharge our or their obligations to holders of our
 Shares and/or regulators and/or any other purposes to which the securities’holders
 may from time to time agree.
@@ -17384,21 +17384,21 @@ Personal data held by us and our H Share Registrar relating to the holders of th
 Kong Offer Shares will be kept confidential but we and our H Share Registrar may, to the
 extent necessary for achieving any of the above purposes, disclose, obtain or transfer (whether
 within or outside Hong Kong) the personal data to, from or with any of the following:
-(cid:129) our appointed agents such as financial advisors, receiving bank and overseas
+ our appointed agents such as financial advisors, receiving bank and overseas
 principal share registrar;
-(cid:129) where applicants for the Hong Kong Offer Shares request a deposit into CCASS,
+ where applicants for the Hong Kong Offer Shares request a deposit into CCASS,
 HKSCC or HKSCC Nominees, who will use the personal data for the purposes of
 operating CCASS;
 – 403 –
 
 === PAGE 414 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to us or the H Share
 Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations; and
-(cid:129) any persons or institutions with which the holders of the Hong Kong Offer Shares
+ any persons or institutions with which the holders of the Hong Kong Offer Shares
 have or propose to have dealings, such as their bankers, solicitors, accountants or
 stockbrokers etc.
 Retention of Personal Data
@@ -17478,15 +17478,15 @@ Since applications are subject to personal information collection statements, be
 owner identification codes displayed are redacted. Applicants with beneficial names only but
 not identification document numbers are not disclosed due to personal privacy issue.
 If an unlisted company makes an application and:
-(cid:129) the principal business of that company is dealing in securities; and
-(cid:129) you exercise statutory control over that company,
+ the principal business of that company is dealing in securities; and
+ you exercise statutory control over that company,
 then the application will be treated as being for your benefit.
 “Unlisted company” means a company with no equity securities listed on the Stock
 Exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) hold more than half of the registered share capital of the company (not counting any
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ hold more than half of the registered share capital of the company (not counting any
 part of it which carries no right to participate beyond a specified amount in a
 distribution of either profits or capital).
 9. HOW MUCH ARE THE HONG KONG OFFER SHARES
@@ -17517,9 +17517,9 @@ Offering – Pricing of the Global Offering” in this prospectus.
 10. EFFECT OF BAD WEATHER AND/OR EXTREME CONDITIONS ON THE
 OPENING OF THE APPLICATION LISTS
 The application lists will not open if there is/are:
-(cid:129) a tropical cyclone warning signal number 8 or above; or
-(cid:129) a “black” rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above; or
+ a “black” rainstorm warning; and/or
+ Extreme Conditions,
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Friday, November 3,
 2023. Instead they will open between 11:45 a.m. and 12:00 noon on the next business day
 which does not have either of those warnings and/or Extreme Conditions in Hong Kong in
@@ -17537,18 +17537,18 @@ websites of the Company (www.fls123.com) and of the Stock Exchange (www.hkexnews
 The results of allocations and the Hong Kong identity card/passport/Hong Kong business
 registration/certificate of incorporation numbers of successful applicants under the Hong Kong
 Public Offering will be available at the times and date and in the manner specified below:
-(cid:129) in the announcement to be posted on the websites of the Company at
+ in the announcement to be posted on the websites of the Company at
 www.fls123.com and of the Stock Exchange at www.hkexnews.hk by no later than
 8:00 a.m. on Thursday, November 9, 2023;
 – 407 –
 
 === PAGE 418 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) from “IPO Results” function in the IPOApp or the designated results of allocations
+ from “IPO Results” function in the IPOApp or the designated results of allocations
 website at www.tricor.com.hk/ipo/result or www.hkeipo.hk/IPOResult with a
 “search by ID” function on a 24-hour basis from 8:00 a.m. on Thursday, November
 9, 2023 to 12:00 midnight on Wednesday, November 15, 2023; or
-(cid:129) from the results allocation telephone enquiry line by calling +852 3691 8488
+ from the results allocation telephone enquiry line by calling +852 3691 8488
 between 9:00 a.m. and 6:00 p.m. from Thursday, November 9, 2023 to Tuesday,
 November14,2023(excludingSaturday,SundayandpublicholidayinHongKong).
 If the Company accepts your offer to purchase (in whole or in part), which it may do by
@@ -17575,7 +17575,7 @@ Your application or the application made by HKSCC Nominees on your behalf may on
 be revoked on or before the fifth day after the time of opening of the application lists
 (excluding any days which is Saturday, Sunday or public holiday in Hong Kong) in the
 following circumstances:
-(cid:129) if a person responsible for this prospectus under Section 40 of the Companies
+ if a person responsible for this prospectus under Section 40 of the Companies
 (Winding Up and Miscellaneous Provisions) Ordinance (as applied by Section 342E
 of the Companies (Winding Up and Miscellaneous Provisions) Ordinance) gives a
 public notice under that section on or before the fifth day after the time of the
@@ -17586,7 +17586,7 @@ for this prospectus; or
 
 === PAGE 419 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) if any supplement to this prospectus is issued, in which case we will notify
+ if any supplement to this prospectus is issued, in which case we will notify
 applicants who have already submitted an application that they are required to
 confirm their applications. If applicants have been so notified but have not
 confirmed their applications in accordance with the procedure to be notified, all
@@ -17605,29 +17605,29 @@ giving any reasons.
 If the allotment of Hong Kong Offer Shares is void:
 The allotment of Hong Kong Offer Shares will be void if the Listing Committee of the
 Stock Exchange does not grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Listing Committee notifies the
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Listing Committee notifies the
 Company of that longer period within three weeks of the closing date of the
 application lists.
 If:
-(cid:129) you make multiple applications or are suspected of making multiple applications;
-(cid:129) you or the person for whose benefit you are applying have applied for or taken up,
+ you make multiple applications or are suspected of making multiple applications;
+ you or the person for whose benefit you are applying have applied for or taken up,
 or indicated an interest for, or have been or will be placed or allocated (including
 conditionally and/or provisionally) Hong Kong Offer Shares and International Offer
 Shares;
-(cid:129) your electronic application instructions through the HK eIPO White Form
+ your electronic application instructions through the HK eIPO White Form
 service are not completed in accordance with the instructions, terms and conditions
 in the IPO App or on the designated website at www.hkeipo.hk;
-(cid:129) your payment is not made correctly;
+ your payment is not made correctly;
 – 409 –
 
 === PAGE 420 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) the Company, the Sole Overall Coordinator or the Sole Global Coordinator believes
+ the Underwriting Agreements do not become unconditional or are terminated;
+ the Company, the Sole Overall Coordinator or the Sole Global Coordinator believes
 or believe that by accepting your application, it or they would violate applicable
 securities or other laws, rules or regulations; or
-(cid:129) your application is for more than 50% of the Hong Kong Offer Shares initially
+ your application is for more than 50% of the Hong Kong Offer Shares initially
 offered under the Hong Kong Public Offering.
 13. REFUND OF APPLICATION MONIES
 If an application is rejected, not accepted or accepted in part only, or if the Offer Price
@@ -17702,12 +17702,12 @@ treated as an applicant.
 === PAGE 422 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 Deposit of H Share Certificates Into CCASS and Refund of Application Monies
-(cid:129) If your application is wholly or partially successful, your H Share certificate(s) will
+ If your application is wholly or partially successful, your H Share certificate(s) will
 be issued in the name of HKSCC Nominees and deposited into CCASS for the credit
 of your designated CCASS Participant’s stock account or your CCASS Investor
 Participant stock account on Thursday, November 9, 2023, or, on any other date
 determined by HKSCC or HKSCC Nominees.
-(cid:129) The Company expects to publish the application results of CCASS Participants (and
+ The Company expects to publish the application results of CCASS Participants (and
 where the CCASS Participant is a broker or custodian, the Company will include
 informationrelatingtotherelevantbeneficialowner),yourHongKongidentitycard
 number/passport number or other identification code (Hong Kong business
@@ -17717,13 +17717,13 @@ Thursday, November 9, 2023.You should check the announcement published by the
 Company and report any discrepancies to HKSCC before 5:00 p.m. on Thursday,
 November 9, 2023 or such other date as determined by HKSCC or HKSCC
 Nominees.
-(cid:129) If you have instructed your broker or custodian who is a CCASS Clearing
+ If you have instructed your broker or custodian who is a CCASS Clearing
 Participant or a CCASS Custodian Participant to give electronic application
 instructions via CCASS terminals to apply for the Hong Kong Offer Shares on your
 behalf, you can also check the number of the Hong Kong Offer Shares allocated to
 you and the amount of refund monies (if any) payable to you with that broker or
 custodian.
-(cid:129) If you have applied as a CCASS Investor Participant, you can also check the number
+ If you have applied as a CCASS Investor Participant, you can also check the number
 of the Hong Kong Offer Shares allotted to you and the amount of refund monies (if
 any) payable to you via the CCASS Phone System and the CCASS Internet System
 (under the procedures contained in HKSCC’s “An Operating Guide for Investor
@@ -17733,7 +17733,7 @@ account and the credit of refund monies to your bank account, HKSCC will also
 make available to you an activity statement showing the number of the Hong Kong
 Offer Shares credited to your CCASS Investor Participant stock account and the
 amount of refund monies (if any) credited to your designated bank account.
-(cid:129) Refund of your application monies (if any) in respect of wholly and partially
+ Refund of your application monies (if any) in respect of wholly and partially
 unsuccessful applications and/or the difference between the Offer Price and the
 maximum Offer Price per Offer Share paid on application in the event that the Offer
 Price is less than the maximum Offer Price (including brokerage, SFC transaction
@@ -17766,11 +17766,11 @@ the independent reporting accountants of the Company, Ernst & Young, Certified P
 Accountants, Hong Kong. As described in Appendix VII headed “Documents Delivered to the
 Registrar of Companies and Available on Display” to this document, a copy of the
 accountants’ report is available for inspection.
-Ernst & Young (cid:11120)(cid:15391)(cid:14058)(cid:23023)(cid:11794)(cid:7794)(cid:8896)(cid:12839) Tel (cid:26338)(cid:23128): +852 2846 9888
+Ernst & Young Tel : +852 2846 9888
 27/F, One Taikoo Place
-(cid:27008)(cid:15894)(cid:27625)(cid:27457)(cid:15731)(cid:21208)(cid:18030)(cid:24634)979(cid:22086) Fax (cid:8346)(cid:18182): +852 2868 4432
+ 979 Fax : +852 2868 4432
 979 King’s Road
-(cid:10513)(cid:9163)(cid:10033)(cid:7655)(cid:11918)27(cid:14842) ey.com
+ 27 ey.com
 Quarry Bay, Hong Kong
 ACCOUNTANTS’ REPORT ON HISTORICAL FINANCIAL INFORMATION TO THE
 DIRECTORS OF FOLANGSI CO., LTD AND HAITONG INTERNATIONAL CAPITAL
@@ -18724,8 +18724,8 @@ associatedwiththedividendwillflowtotheGroupandtheamountofthedividendcanbemeasure
 Derecognition of financial assets
 Afinancialasset(or,whereapplicable,apartofafinancialassetorpartofagroupofsimilarfinancialassets)
 is primarily derecognised (i.e., removed from the Group’s consolidated statement of financial position) when:
-(cid:129) the rights to receive cash flows from the asset have expired; or
-(cid:129) the Group has transferred its rights to receive cash flows from the asset or has assumed an obligation
+ the rights to receive cash flows from the asset have expired; or
+ the Group has transferred its rights to receive cash flows from the asset or has assumed an obligation
 to pay the received cash flows in full without material delay to a third party under a “pass-through”
 arrangement;andeither(a)theGrouphastransferredsubstantiallyalltherisksandrewardsoftheasset,
 or(b)theGrouphasneithertransferrednorretainedsubstantiallyalltherisksandrewardsoftheasset,
@@ -22094,11 +22094,11 @@ COMPILATION OF PRO FORMA FINANCIAL INFORMATION
 The following is the text of a report received from our reporting accountants, Ernst &
 Young, Certified PublicAccountants, Hong Kong, prepared for the purpose of incorporation in
 this prospectus, in respect of the pro forma financial information of the Group.
-Ernst & Young (cid:11120)(cid:15391)(cid:14058)(cid:23023)(cid:11794)(cid:7794)(cid:8896)(cid:12839) Tel (cid:26338)(cid:23128): +852 2846 9888
+Ernst & Young Tel : +852 2846 9888
 27/F, One Taikoo Place
-(cid:27008)(cid:15894)(cid:27625)(cid:27457)(cid:15731)(cid:21208)(cid:18030)(cid:24634)979(cid:22086) Fax (cid:8346)(cid:18182): +852 2868 4432
+ 979 Fax : +852 2868 4432
 979 King’s Road
-(cid:10513)(cid:9163)(cid:10033)(cid:7655)(cid:11918)27(cid:14842) ey.com
+ 27 ey.com
 Quarry Bay, Hong Kong
 To the Directors of FOLANGSI CO., LTD
 We have completed our assurance engagement to report on the compilation of pro forma
@@ -22164,8 +22164,8 @@ performing procedures to assess whether the applicable criteria used by the Dire
 compilation of the Pro Forma Financial Information provide a reasonable basis for presenting
 the significant effects directly attributable to the transaction, and to obtain sufficient
 appropriate evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the Pro Forma Financial Information reflects the proper application of those
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the Pro Forma Financial Information reflects the proper application of those
 adjustments to the unadjusted financial information.
 – II-4 –
 
@@ -24091,7 +24091,7 @@ a registered capital of RMB500,000. On November 24, 2016, our Company was conver
 a joint stock company with limited liability and renamed as FOLANGSI CO., LTD (廣州佛朗
 斯股份有限公司). The following sets out changes in the share capital of our Company within
 the two years immediately preceding the date of this prospectus:
-(cid:129) On November 9, 2021, the registered capital of our Company increased from
+ On November 9, 2021, the registered capital of our Company increased from
 RMB80,484,062 to RMB83,971,704 with additional registered capital of
 RMB3,487,642 subscribed by certain Pre-IPO Investors under Nov-2021 Capital
 Increase;

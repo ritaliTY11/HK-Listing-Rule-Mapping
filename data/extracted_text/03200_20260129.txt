@@ -153,18 +153,18 @@ Thursday, February 5, 2026
 Results of allocations in the Hong Kong Public Offering (with successful applicants’
 identification document numbers, where appropriate) to be available through a variety of channels,
 including:
-(cid:129) in the announcement to be published on the website of the
+ in the announcement to be published on the website of the
 Company at www.hanscnc.com and the website of the
 Stock Exchange at www.hkexnews.hk . . . . . . . . . . . . . . . . . . no later than 11:00 p.m. on
 Thursday, February 5, 2026
-(cid:129) from the designated results of allocations website at
+ from the designated results of allocations website at
 www.tricor.com.hk/ipo/result or
 www.hkeipo.hk/IPOResult with a “search by ID”
 function from. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11:00 p.m. on
 Thursday, February 5, 2026
 to 12:00 midnight on
 Wednesday, February 11, 2026
-(cid:129) from the allocation results telephone enquiry line by
+ from the allocation results telephone enquiry line by
 calling +852 3691 8488 between 9:00 a.m. and
 6:00 p.m. from . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Friday, February 6, 2026 to
 Wednesday, February 11, 2026
@@ -360,19 +360,19 @@ Notes:
 SUMMARY
 DEVELOPMENT PHASES
 We have experienced the following four development phases since our establishment:
-(cid:129) Start-up and diversification of business layout (2002-2012). We continuously
+ Start-up and diversification of business layout (2002-2012). We continuously
 overcame technical bottlenecks and created an initial portfolio covering several major
 PCB production processes, including drilling, photolithography, formation, and testing,
 following the acquisition of Shenzhen Mason Electronics Co., Ltd. in 2008.
-(cid:129) Diversified comprehensive solutions (2013-2017). We actively fostered close
+ Diversified comprehensive solutions (2013-2017). We actively fostered close
 cooperative relationships with our customers, and enriched our product portfolio with a
 full range of products, such as mechanical drilling equipment, thus forming a more
 comprehensive product matrix.
-(cid:129) Product Portfolio and technology expansion (2018-2021). We focused on growing our
+ Product Portfolio and technology expansion (2018-2021). We focused on growing our
 customer base with more products and technologies, entered major global PCB supply
 chains, and developed packaging substrates processing equipment and new laser
 processing technologies.
-(cid:129) Product enhancement since listing (2022-present). Listed on the Shenzhen Stock
+ Product enhancement since listing (2022-present). Listed on the Shenzhen Stock
 Exchange’s ChiNext Market in 2022, we achieved innovation in equipment design and
 production technologies, such as the single-table double-station operation system, new
 laser processing technology and packaging substrate solutions. We further expanded our
@@ -646,21 +646,21 @@ The following chart sets forth our key products and the roles they play along th
 production processes:
 Photolithography
 IncomingMaterial (InnerLayer) Lamination Drilling
-(cid:2)Laser DirectImaging(LDI) System
-(cid:2)Developing-Etching-Stripping(DES)
-(cid:2)Cold/HotPressMachine (cid:2) Laser DrillingMachine
-(cid:2) E A q u u to ip m m a e te n d t OpticalInspection(AOI) (cid:2)X Sy -R st a e y m DrillingTarget Alignment (cid:2) (cid:2) M Dr e i c ll h B an it ic G a r l i D nd r e il r l i E n q g u M ip a m ch en in t e
+ Laser DirectImaging(LDI) System
+ Developing-Etching-Stripping(DES)
+ Cold/HotPressMachine Laser DrillingMachine
+ E A q u u to ip m m a e te n d t OpticalInspection(AOI) X Sy -R st a e y m DrillingTarget Alignment M Dr e i c ll h B an it ic G a r l i D nd r e il r l i E n q g u M ip a m ch en in t e
 Equipment
-(cid:2)BrownOxide Line
+ BrownOxide Line
 Photolithography Testing Photolithography
 Electroplating
 (Solder Mask& Legend) (Outer Layer Etching) (Outer Layer)
-(cid:2)LDISystem (cid:2)Etching-StrippingLine (cid:2)DryFilm Laminator (cid:2)PlatedThroughHole (PTH)
-(cid:2) (cid:2) C Le u g ri e n n g d O In v k e j n et L P in ri e nter (cid:2) (cid:2) S A t O ri I pp E i q n u g i - p E m tc e h n i t ng-TinStrippingLin (cid:2) (cid:2) L D D ev I e S lo y p st i e n m gLine (cid:2)V D e e r p t o ic s a it l io C n on L t i i n n e uousPlating(VCP)
+ LDISystem Etching-StrippingLine DryFilm Laminator PlatedThroughHole (PTH)
+ C Le u g ri e n n g d O In v k e j n et L P in ri e nter S A t O ri I pp E i q n u g i - p E m tc e h n i t ng-TinStrippingLin L D D ev I e S lo y p st i e n m gLine V D e e r p t o ic s a it l io C n on L t i i n n e uousPlating(VCP)
 Line
 Formation Testing Attachment
 (Final Quality) (Packaging andAttachment)
-(cid:2) (cid:2) M VC ec U h T an B ic e a v l e f l o in rm g a M ti a o c n h m in a e chine (cid:2) (cid:2) E A E l q u e u t c o i t p m ri m c a a e te l n d T t e V s i t s E ua q l u I i n p s m p e e n c t tion (AVI) (cid:2) (cid:2) A S A y u tt s t a t o c e m h m m at e e n d t S e o q r u ti i n p g m & ent Packaging
+ M VC ec U h T an B ic e a v l e f l o in rm g a M ti a o c n h m in a e chine E A E l q u e u t c o i t p m ri m c a a e te l n d T t e V s i t s E ua q l u I i n p s m p e e n c t tion (AVI) A S A y u tt s t a t o c e m h m m at e e n d t S e o q r u ti i n p g m & ent Packaging
 Note: Our Business The relatedmanufacturing
 Coverage equipment
 Drilling Equipment and Solutions
@@ -731,28 +731,28 @@ processes and overall product performance. In 2024, we launched and sold two uni
 equipment, representing a sales-production ratio of 50%.
 See “Business — Our Products.”
 OUR STRENGTHS
-(cid:129) We achieved broad customer recognition in the specialized PCB production equipment
+ We achieved broad customer recognition in the specialized PCB production equipment
 industry;
-(cid:129) We are a key infrastructure provider in the upstream of the AI server and intelligent
+ We are a key infrastructure provider in the upstream of the AI server and intelligent
 electric vehicle industry value chain;
-(cid:129) Our platform-based technologies and diverse product portfolio enable multi-dimensional
+ Our platform-based technologies and diverse product portfolio enable multi-dimensional
 business synergy;
-(cid:129) We have established strong R&D capabilities which drive technological advancement in
+ We have established strong R&D capabilities which drive technological advancement in
 the PCB industry of China and enhance our competitiveness in the global market
 through innovative technologies;
-(cid:129) Our customer base covers a majority of leading PCB manufacturers in mainland China,
+ Our customer base covers a majority of leading PCB manufacturers in mainland China,
 collaboratively leading industry development; and
-(cid:129) We have an excellent management team and a comprehensive talent development
+ We have an excellent management team and a comprehensive talent development
 mechanism.
 OUR STRATEGIES
-(cid:129) We plan to anchor our strategy in emerging sectors such as AI and intelligent NEVs,
+ We plan to anchor our strategy in emerging sectors such as AI and intelligent NEVs,
 collaborating closely with end-customers through joint R&D laboratories and full-chain
 support from process validation to mass production;
-(cid:129) We plan to expand our global business presence;
-(cid:129) We plan to further enhance our R&D capabilities on key technologies, optimizing
+ We plan to expand our global business presence;
+ We plan to further enhance our R&D capabilities on key technologies, optimizing
 production processes in the multilayer board sector and expanding to the advanced
 packaging sector; and
-(cid:129) We plan to build a full lifecycle service system to enhance customer loyalty and
+ We plan to build a full lifecycle service system to enhance customer loyalty and
 industry influence.
 – 6 –
 
@@ -1120,14 +1120,14 @@ receivable turnover days reached 240 days, and we experienced net cash used in o
 activities of RMB123.3 million.
 To reduce such turnover days and improve operating cash flow position, we focused on the
 following, which we also continued to implement and improve in 2025:
-(cid:129) maintaining steady cash flow operations and budgeting by enhancing cash flow
+ maintaining steady cash flow operations and budgeting by enhancing cash flow
 forecasting and payment scheduling with an aim to optimize payment timing and
 maintain a balance between cash payments and the need to support essential operational
 expenditure and procurement;
-(cid:129) collaborating with the sales department to set collection targets;
-(cid:129) adopting quarterly rolling budgets, and conducting reviews and analyses on variances
+ collaborating with the sales department to set collection targets;
+ adopting quarterly rolling budgets, and conducting reviews and analyses on variances
 between budgeted and actual figures to identify underlying reasons; and
-(cid:129) following up on customer payments in a timely manner, including implementing targeted
+ following up on customer payments in a timely manner, including implementing targeted
 collection strategies, particularly for customers with longer outstanding receivables.
 We also enhanced collection efforts in the last two months of 2024, adopted bank acceptance
 bills to optimize the procurement payment cycle, and incentivized our sales personnel to expedite
@@ -1233,11 +1233,11 @@ commissions and other estimated offering expenses payable by us in connection wi
 Offering, and assuming the maximum Offer Price of HK$95.80 per Share, we estimate that we will
 receive net proceeds of approximately HK$4,630.7 million from the Global Offering. We intend to
 use the proceeds from the Global Offering for the purposes and in the amounts set forth below:
-(cid:129) Approximately 50.0% of the net proceeds, or HK$2,315.3 million, will be used in
+ Approximately 50.0% of the net proceeds, or HK$2,315.3 million, will be used in
 enhancing the R&D and operational capabilities.
-(cid:129) Approximately 40.0% of the net proceeds, or HK$1,852.3 million, will be used in
+ Approximately 40.0% of the net proceeds, or HK$1,852.3 million, will be used in
 improving the production capacity for specialized PCB equipment.
-(cid:129) Approximately 10.0% of the net proceeds, or HK$463.1 million, will be used as
+ Approximately 10.0% of the net proceeds, or HK$463.1 million, will be used as
 working capital and for general corporate uses to support our daily operations and future
 business development.
 See “Future Plans and Use of Proceeds.”
@@ -1245,36 +1245,36 @@ RISK FACTORS
 Our business and the Global Offering involve certain risks as set out in “Risk Factors.” You
 should read that section in its entirety carefully before you decide to invest in our H Shares. Some
 of the major risks we face include:
-(cid:129) We historically experienced decreases in our cash flow from operating activities and
+ We historically experienced decreases in our cash flow from operating activities and
 recorded operating cash outflows during the Track Record Period, which may adversely
 affect our our business, financial condition and results of operations;
-(cid:129) Our business and financial performance are dependent on demand from a number of
+ Our business and financial performance are dependent on demand from a number of
 downstream industries. A downturn experienced by any of these industries could
 adversely affect our business;
-(cid:129) The industries in which we operate are highly competitive. If we fail to compete
+ The industries in which we operate are highly competitive. If we fail to compete
 effectively and successfully, our business, results of operations and financial condition
 may be materially and adversely affected;
-(cid:129) If we fail to keep up with the evolution of technologies or adapt our technology to
+ If we fail to keep up with the evolution of technologies or adapt our technology to
 emerging industry standards, or if our investments in new technologies prove
 unsuccessful or ineffective, our business may be materially and adversely affected;
 – 21 –
 
 === PAGE 32 ===
 SUMMARY
-(cid:129) We are susceptible to supply shortages, longer lead time and increased costs of raw
+ We are susceptible to supply shortages, longer lead time and increased costs of raw
 materials and key components, any of which could disrupt our supply chain, increase
 our production costs, delay deliveries of our products to customers, and adversely affect
 our results of operations;
-(cid:129) Our success depends in part on our ability to enhance our production capabilities and to
+ Our success depends in part on our ability to enhance our production capabilities and to
 produce high quality products;
-(cid:129) Maintaining our brand image is critical to our success, and any failure to do so could
+ Maintaining our brand image is critical to our success, and any failure to do so could
 severely damage our reputation and brands, which would have a material adverse effect
 on our business, financial condition and results of operations;
-(cid:129) Our business depends substantially on the expertise and dedication of our management
+ Our business depends substantially on the expertise and dedication of our management
 team and key personnel. We may face challenges in recruiting and retaining such
 individuals, which could impede our technological advancement and business growth;
 and
-(cid:129) Changes in international trade policies, geopolitics and trade protection measures, export
+ Changes in international trade policies, geopolitics and trade protection measures, export
 control and economic or trade sanctions may materially and adversely affect our
 business, financial condition and results of operations.
 See “Risk Factors.”
@@ -1888,19 +1888,19 @@ are strongly cautioned that reliance on any forward-looking statements involves 
 unknown risks and uncertainties. The risks, uncertainties and other factors facing our Group which
 could affect the accuracy of forward-looking statements include, but are not limited to, the
 following:
-(cid:129) changes in the macro environment, regional and global economy, as well as industry
+ changes in the macro environment, regional and global economy, as well as industry
 trends related to our operations;
-(cid:129) our ability to successfully implement our business plans, strategies, objectives and
+ our ability to successfully implement our business plans, strategies, objectives and
 goals;
-(cid:129) our ability to obtain adequate capital resources to fund future development plans;
-(cid:129) our ability to control costs, as well as to achieve and maintain operational efficiency;
-(cid:129) changes in our customers’ demands and expectations;
-(cid:129) changes in the competitive landscape of the industries where we operate;
-(cid:129) our ability to protect our reputation and brand image, as well as trademarks,
+ our ability to obtain adequate capital resources to fund future development plans;
+ our ability to control costs, as well as to achieve and maintain operational efficiency;
+ changes in our customers’ demands and expectations;
+ changes in the competitive landscape of the industries where we operate;
+ our ability to protect our reputation and brand image, as well as trademarks,
 technologies, knowhow, patents and other intellectual property rights;
-(cid:129) changes in local economic and political conditions and changes in compliance with
+ changes in local economic and political conditions and changes in compliance with
 international laws and regulations in the countries and regions where we operate; and
-(cid:129) developments in technology and our ability to successfully keep up with technological
+ developments in technology and our ability to successfully keep up with technological
 advancement.
 – 41 –
 
@@ -2062,19 +2062,19 @@ production facilities to meet the varying demands for our products. Failing to d
 us from achieving the economies of scale needed to reduce manufacturing costs, compete
 effectively, and maintain our pricing and other competitive advantages. Our ability and efforts to
 enhance our production capabilities are subject to significant risks and uncertainties, including:
-(cid:129) our ability to obtain funding for the additional capital expenditures, working capital and
+ our ability to obtain funding for the additional capital expenditures, working capital and
 other corporate requirements to be used to enhance our production capabilities. We may
 be unable to obtain such funds in a timely manner or on commercially reasonable terms
 or at all;
-(cid:129) unexpected delays and cost overruns resulting from a number of factors, many of which
+ unexpected delays and cost overruns resulting from a number of factors, many of which
 may be beyond our control. These include increases in the prices of raw materials,
 components and utilities, shortages of workers and transportation constraints, as well as
 equipment malfunctions and breakdowns;
-(cid:129) our ability to obtain the required permits, licenses and approvals from relevant
+ our ability to obtain the required permits, licenses and approvals from relevant
 government authorities;
-(cid:129) availability of the necessary technology or equipment from our R&D team;
-(cid:129) diversion of management attention and other resources; and
-(cid:129) production interruption caused by natural disasters or other unforeseen events.
+ availability of the necessary technology or equipment from our R&D team;
+ diversion of management attention and other resources; and
+ production interruption caused by natural disasters or other unforeseen events.
 Construction of new production facilities or the expansion of existing facilities also requires
 significant capital investment upfront, and it may take a considerable amount of time before such
 facilities achieve their expected capacity or breakeven point. Failure to manage our cash flow and
@@ -2229,29 +2229,29 @@ adversely affect our business, financial condition and results of operations.
 In addition, our success in expanding our business, providing products and services
 internationally and competing in international markets is subject to our ability to manage various
 risks and difficulties, including, but not limited to:
-(cid:129) difficulties in gaining an in-depth understanding of local markets, communities and
+ difficulties in gaining an in-depth understanding of local markets, communities and
 cultures;
-(cid:129) higher levels of payment fraud, legal and compliance risks;
-(cid:129) higher shipment costs;
-(cid:129) requirement to adapt to possible import and export controls, sanctions, trade embargoes
+ higher levels of payment fraud, legal and compliance risks;
+ higher shipment costs;
+ requirement to adapt to possible import and export controls, sanctions, trade embargoes
 and other heightened regulatory requirements;
 – 50 –
 
 === PAGE 61 ===
 RISK FACTORS
-(cid:129) challenges and increased expenses associated with staffing and managing international
+ challenges and increased expenses associated with staffing and managing international
 and cross-border operations and managing an organization spread over various
 jurisdictions;
-(cid:129) ability to recruit talent and challenges in replicating or adapting our policies and
+ ability to recruit talent and challenges in replicating or adapting our policies and
 procedures to operate in new markets;
-(cid:129) difficulties of integrating any foreign acquisitions;
-(cid:129) ability to provide sufficient levels of technical support in different locations or provide
+ difficulties of integrating any foreign acquisitions;
+ ability to provide sufficient levels of technical support in different locations or provide
 sufficient oversight over the management of our overseas subsidiaries;
-(cid:129) difficulties in establishing cooperative relationships with international partners,
+ difficulties in establishing cooperative relationships with international partners,
 including local operators;
-(cid:129) ability to develop and maintain relationships with customers and other local
+ ability to develop and maintain relationships with customers and other local
 stakeholders; and
-(cid:129) potential damage to our brand and reputation if we are unable to provide optimal
+ potential damage to our brand and reputation if we are unable to provide optimal
 products and services to our customers or properly oversee the management of our
 operations in such local markets.
 As we expand further into new regions and markets, these risks could intensify. If one or
@@ -2318,14 +2318,14 @@ receivable turnover days reached 240 days, and we experienced net cash used in o
 activities of RMB123.3 million.
 To reduce such turnover days and improve operating cash flow position, we focused on the
 following, which we also continued to implement and improve in 2025:
-(cid:129) maintaining steady cash flow operations and budgeting by enhancing cash flow
+ maintaining steady cash flow operations and budgeting by enhancing cash flow
 forecasting and payment scheduling with an aim to optimize payment timing and
 maintain a balance between cash payments and the need to support essential operational
 expenditure and procurement;
-(cid:129) collaborating with the sales department to set collection targets;
-(cid:129) adopting quarterly rolling budgets, and conducting reviews and analyses on variances
+ collaborating with the sales department to set collection targets;
+ adopting quarterly rolling budgets, and conducting reviews and analyses on variances
 between budgeted and actual figures to identify underlying reasons; and
-(cid:129) following up on customer payments in a timely manner, including implementing targeted
+ following up on customer payments in a timely manner, including implementing targeted
 collection strategies, particularly for customers with longer outstanding receivables.
 We also enhanced collection efforts in the last two months of 2024, adopted bank acceptance
 bills to optimize the procurement payment cycle, and incentivized our sales personnel to expedite
@@ -2814,20 +2814,20 @@ that our efforts, any past or future acquisitions or investments, will be succes
 achieve the anticipated strategic benefits and financial returns from such transactions.
 There are various risks associated with our acquisitions and investments, which include the
 following:
-(cid:129) challenges related to integration of acquired company’s or investee’s operations into our
+ challenges related to integration of acquired company’s or investee’s operations into our
 business;
-(cid:129) substantial delays or reduction in anticipated synergies;
-(cid:129) events beyond our control, including changes in regulations, technology and economic
+ substantial delays or reduction in anticipated synergies;
+ events beyond our control, including changes in regulations, technology and economic
 conditions, which could adversely affect our ability to realize benefits and returns from
 such transaction;
-(cid:129) potential increase in indebtedness that could constrain our operations;
-(cid:129) exposure to unknown or contingent liabilities that could require significant expenditures
+ potential increase in indebtedness that could constrain our operations;
+ exposure to unknown or contingent liabilities that could require significant expenditures
 and capital injections;
-(cid:129) failure to train, motivate, integrate and retain employees of acquired company or
+ failure to train, motivate, integrate and retain employees of acquired company or
 investee;
-(cid:129) diversion of management time and attention from our existing operations to address the
+ diversion of management time and attention from our existing operations to address the
 transactions and related challenges or those associated with integration processes; and
-(cid:129) unanticipated write-offs or charges and impairment of goodwill.
+ unanticipated write-offs or charges and impairment of goodwill.
 Furthermore, we are subject to valuation risks in connection with acquisitions. Determining
 the fair value of acquired businesses, assets and liabilities involves significant management
 judgment and assumptions. If our estimates prove to be inaccurate or if business conditions change
@@ -3126,21 +3126,21 @@ The liquidity, trading volume and market price of our H Shares following the Glo
 Offering may be volatile, which could result in substantial losses to investors.
 The price at which our H Shares will trade after the Global Offering will be determined by
 the marketplace, which may be affected by various factors beyond our control, including:
-(cid:129) our financial performance;
-(cid:129) changes in securities analysts’ estimates, if any, of our financial performance;
-(cid:129) the history of, and the prospects for, ourselves and the industry in which we operate;
-(cid:129) an assessment on the prospects for, and timing of, our future revenue and cost;
-(cid:129) structures that independent research analysts may publish, if any;
-(cid:129) the present state of our development;
-(cid:129) the valuation of publicly traded companies that are engaged in business activities;
-(cid:129) general market sentiment regarding the industry we operate in;
+ our financial performance;
+ changes in securities analysts’ estimates, if any, of our financial performance;
+ the history of, and the prospects for, ourselves and the industry in which we operate;
+ an assessment on the prospects for, and timing of, our future revenue and cost;
+ structures that independent research analysts may publish, if any;
+ the present state of our development;
+ the valuation of publicly traded companies that are engaged in business activities;
+ general market sentiment regarding the industry we operate in;
 – 74 –
 
 === PAGE 85 ===
 RISK FACTORS
-(cid:129) changes in laws and regulations of China;
-(cid:129) our actual or perceived failure to compete effectively in the market; and
-(cid:129) political, economic, financial and social conditions.
+ changes in laws and regulations of China;
+ our actual or perceived failure to compete effectively in the market; and
+ political, economic, financial and social conditions.
 In addition, the Hong Kong Stock Exchange has from time to time experienced significant
 volatility in trading prices and volumes that have affected the market prices of securities of
 companies quoted on the Hong Kong Stock Exchange. As a result, investors in our H Shares may
@@ -3233,10 +3233,10 @@ other than on a pro rata basis to our then-existing Shareholders. As a result, t
 those Shareholders may experience dilution in net asset value per Share. If additional funds are to
 be raised through debt financing, certain restrictions may be imposed on our operations, which
 may:
-(cid:129) further limit our ability or discretion to pay dividends;
-(cid:129) increase our risks in adverse economic conditions;
-(cid:129) adversely affect our cash flows; or
-(cid:129) limit our flexibility in business development and strategic plans.
+ further limit our ability or discretion to pay dividends;
+ increase our risks in adverse economic conditions;
+ adversely affect our cash flows; or
+ limit our flexibility in business development and strategic plans.
 Certain facts, forecasts and other statistics in this Prospectus are derived from official
 government sources which had not been independently verified.
 This Prospectus, particularly the section headed “Industry Overview” contains information
@@ -4447,23 +4447,23 @@ Overview of PCB Production Processes(1)
 C hemical Abrasive
 Incoming Material Coating Photolithography Developing and Etching
 Cleaning
-• C Eq h u em ip i m ca e l n A t brasive Cleaning (cid:129) Coating Equipment (cid:129) Laser Direct Imaging (LDI) System (cid:129) D Eq e u ve ip lo m p e i n n t g-Etching-Stripping (DES)
+• C Eq h u em ip i m ca e l n A t brasive Cleaning Coating Equipment Laser Direct Imaging (LDI) System D Eq e u ve ip lo m p e i n n t g-Etching-Stripping (DES)
 Stripping Testing Brown Oxidation Lamination Drilling
-(cid:129) Stripping Line (cid:129) A Eq u u to ip m m a e te n d t Optical Inspection(AOI) (cid:129) Brown Oxide Line (cid:129) (cid:129) C X Sy - o s R l t d a e / m y H D ot r i P ll r i e n s g s T M a a rg c e h t i n A e lignment (cid:129) (cid:129) (cid:129) L M D a r e s i c l e l h r B a D n it i r c G il a l r l i i n D n g d r M e il r l a i E n c q g h u i M n ip e a m c e h n in t e
+ Stripping Line A Eq u u to ip m m a e te n d t Optical Inspection(AOI) Brown Oxide Line C X Sy - o s R l t d a e / m y H D ot r i P ll r i e n s g s T M a a rg c e h t i n A e lignment L M D a r e s i c l e l h r B a D n it i r c G il a l r l i i n D n g d r M e il r l a i E n c q g h u i M n ip e a m c e h n in t e
 Electroless Copper Copper Plating Rough Grinding Photolithography Developing
 Deposition
-(cid:129) P D l e a p t o ed si t T io h n ro L u i g n h e Hole (PTH) (cid:129) C opper Plating Line (cid:129) Rough Grinding Equipment (cid:129) LDI System (cid:129) Developing Line
+ P D l e a p t o ed si t T io h n ro L u i g n h e Hole (PTH) C opper Plating Line Rough Grinding Equipment LDI System Developing Line
 Electroplating Stripping and Etching Tin Stripping Testing Silk Screening
-(cid:129) Vertical Continuous Plating (VCP) (cid:129) Etching-Stripping Line (cid:129) Stripping-Etching-Tin Stripping Line (cid:129) AOI Equipment (cid:129) Silk Screening Equipment
+ Vertical Continuous Plating (VCP) Etching-Stripping Line Stripping-Etching-Tin Stripping Line AOI Equipment Silk Screening Equipment
 Line
 Photolithography Developing Legend Thermal Curing Formation
-(cid:129) LDI System (cid:129) Developing Line (cid:129) Legend Inkjet Printer (cid:129) Curing Oven Line (cid:129) (cid:129) M VC ec U h T a n B i e c v a e l l F in o g r m M a a t c io h n in M e achine
+ LDI System Developing Line Legend Inkjet Printer Curing Oven Line M VC ec U h T a n B i e c v a e l l F in o g r m M a a t c io h n in M e achine
 Attachment
 Testing
 (Packaging and Attachment)
-(cid:129) Electrical Test Equipment (cid:129) Automated Sorting & Packaging
-(cid:129) Automated Visual Inspection System
-Equipment (cid:129) Attachment equipment
+ Electrical Test Equipment Automated Sorting & Packaging
+ Automated Visual Inspection System
+Equipment Attachment equipment
 Note: Major PCB Production Process The related manufacturing equipment
 Source: CIC.
 Note:
@@ -4498,27 +4498,27 @@ processes and required equipment.
 The following table sets forth a description of major specialized PCB production equipment.
 Introduction of the Major Specialized PCB Production Equipment
 Category Description
-(cid:2) Thephotolithographysystemsmainly encompassLDIsystemsthatdefinecircuitpatternson
+ Thephotolithographysystemsmainly encompassLDIsystemsthatdefinecircuitpatternson
 Photolithography photoresist-coatedcopperlayers,addressinghighresolutionandalignmentaccuracychallengesof
 Equipment PCBproduction.
-(cid:2) ThelaminationprocessinPCBproductioninvolvesbonding multipledouble-sidedboardsorHDI
+ ThelaminationprocessinPCBproductioninvolvesbonding multipledouble-sidedboardsorHDI
 Lamination corelayerswithprepreg(pre-impregnatedmaterial)andcopperfoiltoformamultilayeredPCB
 Equipment structure.Thisprocessensuremechanicalintegrityandelectricalconsistency.
-(cid:2) Thedrillingequipmentutilizestheadvancedlaserablationandmechanicaldrillingtechnologiesto
+ Thedrillingequipmentutilizestheadvancedlaserablationandmechanicaldrillingtechnologiesto
 Drilling fabricatethrough-holes,blindvias,and microvias,addressingcriticalinterconnectchallengesofPCB
 Equipment production.
-(cid:2) Theelectroplatingequipmentreferstospecializedmachineryand systemsdesignedtodeposit
+ Theelectroplatingequipmentreferstospecializedmachineryand systemsdesignedtodeposit
 Electroplating metalliclayersontoPCBthroughelectrochemicalprocesses.Thisequipmentensuresconductive
 Equipment pathways,interlayerconnectivity,and surfaceprotectionby preciselycontrollingthethickness,
 uniformity,and adhesionofmetalcoatings.
-(cid:2) Thetestingequipmentcoversutilizesdifferentinspectionsystemsto verify layeralignment,
+ Thetestingequipmentcoversutilizesdifferentinspectionsystemsto verify layeralignment,
 Testing
 connectivity,anddefect-freecircuitryofPCBproduction.
 Equipment
-(cid:2) TheformationequipmentdefinesthefinaloutlineandmechanicalfeaturesofPCBthroughprecision
+ TheformationequipmentdefinesthefinaloutlineandmechanicalfeaturesofPCBthroughprecision
 Formation cutting,contourmilling,andstress-reliefprocesses.Thisstepensuresdimensionalaccuracyand
 Equipment compatibilitywithdownstreamassemblyoperations.
-(cid:2) Theattachmentequipmentreferstospecializedprocessautomationsystemsdesignedtoapplyprecise,
+ Theattachmentequipmentreferstospecializedprocessautomationsystemsdesignedtoapplyprecise,
 Attachment uniformlayersofdryfilmphotoresistontocopper-cladlaminatesurfacesbeforephotolithography,or
 Equipment tobondstiffenersandpolyimidefilmsontoflexibleprintedcircuitboards.Thesesystemsplaya
 criticalroleinelectronicmanufacturingbyensuringconsistentmaterialdeposition.
@@ -4529,16 +4529,16 @@ Source: CIC.
 INDUSTRY OVERVIEW
 Value-Chain of the Specialized PCB Equipment Industry
 The specialized PCB equipment industry chain mainly includes:
-(cid:129) Upstream suppliers of the component and material of specialized PCB production
+ Upstream suppliers of the component and material of specialized PCB production
 equipment, as well as core technology. The component and material of specialized PCB
 production equipment mainly comprises mechanical components, optical components,
 control circuits, and advanced materials. The suppliers of core technology provide
 automation control, laser technology, and AI data analysis to specialized PCB
 production equipment;
-(cid:129) Midstream consists of the specialized PCB production equipment manufacturers
+ Midstream consists of the specialized PCB production equipment manufacturers
 responsible for the R&D, production and sales of specialized PCB production
 equipment; and
-(cid:129) Downstream participants of the industry primarily comprise PCB production
+ Downstream participants of the industry primarily comprise PCB production
 manufacturers, which are considered as the direct customer of the specialized PCB
 production equipment manufacturers and provide multiple types of PCB products to
 various application scenarios, such as server and storage, automotive electronics, mobile
@@ -4887,7 +4887,7 @@ DRIVERS AND TRENDS OF THE SPECIALIZED PCB EQUIPMENT INDUSTRY
 The following outlines key factors that have driven and are expected to drive the growth of
 the global specialized PCB equipment market, along with the future trends shaping the further
 development:
-(cid:129) Surging Demand for High-Precision Equipment: Driven by the continued adoption of
+ Surging Demand for High-Precision Equipment: Driven by the continued adoption of
 generative AI, physical AI, and 5G, there is growing demand for high-value PCB
 products, such as high-multilayer boards, HDI boards, packaging substrates and
 multi-layer FPCs, across applications such as AI servers, autonomous driving computing
@@ -4896,7 +4896,7 @@ applications are accelerating the shift toward high-density and multilayer PCB
 architectures, raising precision requirements for equipment such as drilling machines to
 the micron level. Consequently, high-precision systems, including laser drilling
 equipment, are becoming core systems in modern PCB production.
-(cid:129) Strong Policy Support from National Industrial Initiatives: As a foundational pillar of
+ Strong Policy Support from National Industrial Initiatives: As a foundational pillar of
 modern electronics production, PCB specialized equipment embodies the convergence of
 multidisciplinary technologies spanning mechanical systems, electrical engineering,
 optical precision, advanced control systems, and materials science. Recognized as a
@@ -4921,7 +4921,7 @@ of PCB manufacturers.
 
 === PAGE 133 ===
 INDUSTRY OVERVIEW
-(cid:129) PCB Production Capacity Expansion Drives Equipment Demand Surge: Fueled by
+ PCB Production Capacity Expansion Drives Equipment Demand Surge: Fueled by
 robust downstream demand in sectors such as AI, high-end consumer electronics, and
 NEVs, the global electronics production supply chain is undergoing accelerated
 geographic consolidation, with China and Southeast Asia emerging as dominant strategic
@@ -4931,13 +4931,13 @@ equipment replacement across critical PCB production steps (photolithography,
 lamination, drilling, formation and testing) and the scale of equipment procurement in
 Southeast Asia’s greenfield projects reflect transformative trends driven by technological
 advancement, regional industrialization, and market expansion.
-(cid:129) Accelerated Equipment Export Driven by Global Supply Chain Restructuring:
+ Accelerated Equipment Export Driven by Global Supply Chain Restructuring:
 Geopolitical tensions and evolving trade protection policies are driving PCB production
 relocation to cost-competitive regions such as Southeast Asia. In response, specialized
 PCB production equipment manufacturers must adapt to varying regional standards,
 prompting the development of modular, easy-to-maintain, and customized solutions for
 specialized PCB production equipment.
-(cid:129) Ongoing Improvement in the International Competitiveness of China’s Specialized
+ Ongoing Improvement in the International Competitiveness of China’s Specialized
 PCB Production Equipment: China’s specialized PCB production equipment is rapidly
 enhancing its global competitiveness through technological advancement and industrial
 upgrading. Supported by favorable policies and accumulated expertise, China’s
@@ -4945,7 +4945,7 @@ specialized PCB production equipment is expected to be widely accepted and acqui
 additional market share in the global high-end market. This development will
 significantly enhance China’s specialized PCB production equipment’s influence in the
 global PCB industry.
-(cid:129) PCBs in AI-related sectors are expected to become a key growth driver over the next
+ PCBs in AI-related sectors are expected to become a key growth driver over the next
 few years, significantly boosting demand for high value-added production equipment:
 With the rapid advancement of AI large models and intelligent hardware applications,
 demand for computing infrastructure is surging, which in turn is driving substantial
@@ -4972,27 +4972,27 @@ Top 5 Specialized PCB Production Equipment Manufacturers by Revenue, Global, 202
 Revenue(1)
 Ranking Company Description Market Share
 (RMB billion)
-(cid:129) Our Group is a solutions provider of specialized PCB production equipment.
+ Our Group is a solutions provider of specialized PCB production equipment.
 1 Our Group We have a product portfolio, covering nearly all major PCB production processes 3.3 6.5%
 such as drilling, photolithography, lamination, formation and testing.
-(cid:129) Headquartered in Japan, Competitor A has a history of over a century in operations, primarily
+ Headquartered in Japan, Competitor A has a history of over a century in operations, primarily
 focusing on automotive electronics, telecommunications equipment, and industrial automation
 2 Competitor A ~2.5 4.9%
 applications. Competitor A is listed on the Tokyo Stock Exchange. In the global specialized PCB
 equipment market, Competitor A engages in the R&D, production, and sales of drilling
 equipment, which are primarily used in the HDI board and IC packaging substrate markets.
-(cid:129) Headquartered in the United States, Competitor B is a leading player in the advancing
+ Headquartered in the United States, Competitor B is a leading player in the advancing
 electronics industry through its expertise in semiconductor process control and the production of
 3 Competitor B ~2.0 3.9%
 high-precision electronics equipment. Competitor B was listed on the NASDAQ. In the global
 specialized PCB equipment market, the Competitor B mainly provides AOI equipment and LDI
 systems for global customers.
-(cid:129) Headquartered in the United States, Competitor C is a leading provider of foundational
+ Headquartered in the United States, Competitor C is a leading provider of foundational
 technology solutions for advanced semiconductor production, electronics and packaging, as well
 4 Competitor C as specialized industrial applications. Competitor C was listed on the NASDAQ. In the global ~1.5 2.9%
 specialized PCB equipment market, Competitor C mainly provides laser drilling equipment for
 global customers.
-(cid:129) Headquartered in the Germany, Competitor D is primarily engaged in the development of
+ Headquartered in the Germany, Competitor D is primarily engaged in the development of
 5 Competitor D high-precision mechanical drilling machines, laser cutting equipment, and metrology systems. ~1.4 2.7%
 Competitor D is a privately held company.
 Total of the top five companies ~10.7 20.9%
@@ -5019,20 +5019,20 @@ Top 5 Specialized PCB Production Equipment Manufacturers by Revenue, China, 2024
 Revenue(1)
 Ranking Company Description Market Share
 (RMB billion)
-(cid:129) Our Group is a solutions provider of specialized PCB production
+ Our Group is a solutions provider of specialized PCB production
 1 Our Group equipment. We have a product portfolio, covering nearly all major PCB production 3.0 10.1%
 processes such as drilling, photolithography, lamination, formation and testing.
-(cid:129) Headquartered in Japan, Competitor A has a history of over a century in operations, primarily
+ Headquartered in Japan, Competitor A has a history of over a century in operations, primarily
 focusing on automotive electronics, telecommunications equipment, and industrial automation
 2 Competitor A applications. Competitor A is listed on the Tokyo Stock Exchange. In the global specialized ~1.5 5.1%
 PCB equipment market, Competitor A engages in the R&D, production, and sales of drilling
 equipment, which are primarily used in the HDI board and IC packaging substrate markets.
-3 Competitor E (cid:129) Headquartered in China, Competitor E has over 36 years of industry experience and mainly ~1.3 4.4%
+3 Competitor E Headquartered in China, Competitor E has over 36 years of industry experience and mainly ~1.3 4.4%
 provides chemical wet process equipment, such as electroplating and etching equipment.
-(cid:129) Headquartered in China, Competitor F is a high-end equipment production company
+ Headquartered in China, Competitor F is a high-end equipment production company
 4 Competitor F specializing in the research, development, and production of direct imaging and maskless ~0.8 2.6%
 lithography equipment. Competitor F was listed on the Shanghai Stock Exchange.
-(cid:129) Headquartered in China, Competitor G specializes in the research and development,
+ Headquartered in China, Competitor G specializes in the research and development,
 5 Competitor G design, production, and sales of high-end precision electroplating equipment and ~0.5 1.7%
 its supporting systems. Competitor G was listed on the Shanghai Stock Exchange.
 Total of the top five companies ~7.1 23.9%
@@ -5040,14 +5040,14 @@ Source: Annual reports of companies pursuant to laws and regulations of where th
 Note:
 (1) Represents revenue in China in 2024.
 Entry Barriers and Key Success Factors for the Specialized PCB Equipment Industry
-(cid:129) Technological Barriers: To achieve high precision, multi-functionality, and rapid iteration,
+ Technological Barriers: To achieve high precision, multi-functionality, and rapid iteration,
 specialized PCB production equipment manufacturers must establish solid technological
 barriers. Building these barriers relies on continuous R&D investment, the accumulation of
 experience by core teams, and strategic patenting. As market demand for high precision
 equipment continues to rise, manufacturers with strong technological barriers will be able to
 meet the increasing demands of downstream clients for high-quality, reliable equipment,
 thereby gaining a competitive edge.
-(cid:129) Product Portfolio Barriers: PCB production involves multiple steps that require the
+ Product Portfolio Barriers: PCB production involves multiple steps that require the
 coordination and integration of specialized equipment. To meet diverse customer needs and
 enhance market competitiveness, equipment suppliers must establish a comprehensive and
 diversified product portfolio covering various stages of the PCB production process. By
@@ -5058,7 +5058,7 @@ INDUSTRY OVERVIEW
 continuously optimizing and expanding their product lines, suppliers can meet diverse market
 demands, offer more convenient integrated services, reduce procurement and production costs
 for clients, and improve the customer experience.
-(cid:129) Capital Barriers: To meet the ever-increasing demands for precision, efficiency, and
+ Capital Barriers: To meet the ever-increasing demands for precision, efficiency, and
 automation in PCB production processes, specialized PCB production equipment suppliers
 should make sustained, large-scale investments in core technology development and iterative
 upgrades. In addition, leading PCB manufacturers impose stringent requirements on suppliers
@@ -5066,7 +5066,7 @@ regarding qualifications, operational stability, and after-sales service capabil
 specialized PCB production equipment supplier validation process often involves several
 months — or even years — of testing and evaluation, placing significant pressure on a
 supplier’s cash flow and long-term operational resilience.
-(cid:129) Customer Resource Barriers: In the PCB production industry, large customers have
+ Customer Resource Barriers: In the PCB production industry, large customers have
 extremely high requirements for equipment quality, delivery times, and after-sales service.
 Once equipment suppliers gain the trust of these customers through reliable product
 performance and in-depth, tailored services, they establish a strong customer resource barrier.
@@ -7094,21 +7094,21 @@ The following chart sets forth our key products and the roles they play along th
 production processes:
 Photolithography
 IncomingMaterial (InnerLayer) Lamination Drilling
-(cid:2)Laser DirectImaging(LDI) System
-(cid:2)Developing-Etching-Stripping(DES)
-(cid:2)Cold/HotPressMachine (cid:2) Laser DrillingMachine
-(cid:2) E A q u u to ip m m a e te n d t OpticalInspection(AOI) (cid:2)X Sy -R st a e y m DrillingTarget Alignment (cid:2) (cid:2) M Dr e i c ll h B an it ic G a r l i D nd r e il r l i E n q g u M ip a m ch en in t e
+ Laser DirectImaging(LDI) System
+ Developing-Etching-Stripping(DES)
+ Cold/HotPressMachine Laser DrillingMachine
+ E A q u u to ip m m a e te n d t OpticalInspection(AOI) X Sy -R st a e y m DrillingTarget Alignment M Dr e i c ll h B an it ic G a r l i D nd r e il r l i E n q g u M ip a m ch en in t e
 Equipment
-(cid:2)BrownOxide Line
+ BrownOxide Line
 Photolithography Testing Photolithography
 Electroplating
 (Solder Mask& Legend) (Outer Layer Etching) (Outer Layer)
-(cid:2)LDISystem (cid:2)Etching-StrippingLine (cid:2)DryFilm Laminator (cid:2)PlatedThroughHole (PTH)
-(cid:2) (cid:2) C Le u g ri e n n g d O In v k e j n et L P in ri e nter (cid:2) (cid:2) S A t O ri I pp E i q n u g i - p E m tc e h n i t ng-TinStrippingLin (cid:2) (cid:2) L D D ev I e S lo y p st i e n m gLine (cid:2)V D e e r p t o ic s a it l io C n on L t i i n n e uousPlating(VCP)
+ LDISystem Etching-StrippingLine DryFilm Laminator PlatedThroughHole (PTH)
+ C Le u g ri e n n g d O In v k e j n et L P in ri e nter S A t O ri I pp E i q n u g i - p E m tc e h n i t ng-TinStrippingLin L D D ev I e S lo y p st i e n m gLine V D e e r p t o ic s a it l io C n on L t i i n n e uousPlating(VCP)
 Line
 Formation Testing Attachment
 (Final Quality) (Packaging andAttachment)
-(cid:2) (cid:2) M VC ec U h T an B ic e a v l e f l o in rm g a M ti a o c n h m in a e chine (cid:2) (cid:2) E A E l q u e u t c o i t p m ri m c a a e te l n d T t e V s i t s E ua q l u I i n p s m p e e n c t tion (AVI) (cid:2) (cid:2) A S A y u tt s t a t o c e m h m m at e e n d t S e o q r u ti i n p g m & ent Packaging
+ M VC ec U h T an B ic e a v l e f l o in rm g a M ti a o c n h m in a e chine E A E l q u e u t c o i t p m ri m c a a e te l n d T t e V s i t s E ua q l u I i n p s m p e e n c t tion (AVI) A S A y u tt s t a t o c e m h m m at e e n d t S e o q r u ti i n p g m & ent Packaging
 Note: Our Business The relatedmanufacturing
 Coverage equipment
 OUR STRENGTHS
@@ -7226,11 +7226,11 @@ reduce customer development and communication costs, improve marketing efficienc
 customer loyalty, and lower customer procurement costs.
 Our Business Synergy: With our platform-based technologies and diverse product portfolio,
 we have achieved multi-dimensional business synergies.
-(cid:129) Technological Synergy: Our linear motor drive motion control technology, precise
+ Technological Synergy: Our linear motor drive motion control technology, precise
 mechanical design and advanced assembly technology and digital virtual simulation
 technology are applicable to all of our products, and the adoption of platform-based
 technologies under different application scenarios can improve our R&D efficiency.
-(cid:129) Product Synergy: Our comprehensive product portfolio enables us to offer
+ Product Synergy: Our comprehensive product portfolio enables us to offer
 comprehensive solution to customers. Customers that purchased one type of our
 equipment products can also satisfy their need for equipment during other major PCB
 production processes by providing our other equipment products, which significantly
@@ -7240,23 +7240,23 @@ product leads attracts customers to explore other products.
 
 === PAGE 178 ===
 BUSINESS
-(cid:129) Equipment and Material Synergy: We collaborate with PCB raw material manufacturers
+ Equipment and Material Synergy: We collaborate with PCB raw material manufacturers
 to jointly determine the optimal processing parameters to enhance processing efficiency
 and product quality.
-(cid:129) Process Synergy: We adopt a unified system for data collection, analysis and feedback to
+ Process Synergy: We adopt a unified system for data collection, analysis and feedback to
 ensure concurrent adjustment and error correction across different PCB production
 processes. This ensures efficient coordination throughout downstream customers’
 operations. By managing end-to-end data flow, we also apply big data models to
 continuously enhance customers’ production process and technical capabilities.
-(cid:129) Scenario Synergy: Our comprehensive product portfolio and deep understanding of
+ Scenario Synergy: Our comprehensive product portfolio and deep understanding of
 various PCB application scenarios, such as AI servers and intelligent driving vehicles,
 expedite customers’ process of achieving mass production when venturing into a new
 application scenario, bringing first-mover advantage for customers.
-(cid:129) Supply Chain Synergy: As a leading solutions provider of specialized PCB production
+ Supply Chain Synergy: As a leading solutions provider of specialized PCB production
 equipment, our economies of scale enhance our bargaining power through bulk purchase
 and enable collaborative development with upstream suppliers to expedite our
 technology upgrades.
-(cid:129) Customer Synergy: Our downstream customer base covers nearly all mainstream PCB
+ Customer Synergy: Our downstream customer base covers nearly all mainstream PCB
 manufacturers. Recognition from major customers facilitates our continuous expansion
 among other PCB customers, making our marketing and product promotion highly
 efficient.
@@ -7456,7 +7456,7 @@ Packaging Sector.
 Equipment for multilayer boards is our core business. By exploring new value in the
 multilayer board market, we strive to continuously optimize the overall operational costs of
 customers and enhance our existing leading position in this sector.
-(cid:129) In terms of depth, in addition to our focus on enhancing the efficiency, stability,
+ In terms of depth, in addition to our focus on enhancing the efficiency, stability,
 automation and intelligence of our equipment, we plan to provide innovative process
 solutions and upgrade existing equipment forms and process paths. Based on the
 technical characteristics of PCBs in specific scenarios, we plan to develop optimized
@@ -7467,7 +7467,7 @@ costs for customers.
 
 === PAGE 184 ===
 BUSINESS
-(cid:129) In terms of breadth, we aim to explore the value of the upstream and downstream
+ In terms of breadth, we aim to explore the value of the upstream and downstream
 processes of existing products and constantly expand our product portfolio. In addition
 to optimizing our products for drilling, circuit and solder mask photolithography,
 formation and electrical performance testing, we aim to enhance the competitiveness of
@@ -7523,21 +7523,21 @@ The following chart sets forth our key products and the roles they play along th
 production processes:
 Photolithography
 IncomingMaterial (InnerLayer) Lamination Drilling
-(cid:2)Laser DirectImaging(LDI) System
-(cid:2)Developing-Etching-Stripping(DES)
-(cid:2)Cold/HotPressMachine (cid:2) Laser DrillingMachine
-(cid:2) E A q u u to ip m m a e te n d t OpticalInspection(AOI) (cid:2)X Sy -R st a e y m DrillingTarget Alignment (cid:2) (cid:2) M Dr e i c ll h B an it ic G a r l i D nd r e il r l i E n q g u M ip a m ch en in t e
+ Laser DirectImaging(LDI) System
+ Developing-Etching-Stripping(DES)
+ Cold/HotPressMachine Laser DrillingMachine
+ E A q u u to ip m m a e te n d t OpticalInspection(AOI) X Sy -R st a e y m DrillingTarget Alignment M Dr e i c ll h B an it ic G a r l i D nd r e il r l i E n q g u M ip a m ch en in t e
 Equipment
-(cid:2)BrownOxide Line
+ BrownOxide Line
 Photolithography Testing Photolithography
 Electroplating
 (Solder Mask& Legend) (Outer Layer Etching) (Outer Layer)
-(cid:2)LDISystem (cid:2)Etching-StrippingLine (cid:2)DryFilm Laminator (cid:2)PlatedThroughHole (PTH)
-(cid:2) (cid:2) C Le u g ri e n n g d O In v k e j n et L P in ri e nter (cid:2) (cid:2) S A t O ri I pp E i q n u g i - p E m tc e h n i t ng-TinStrippingLin (cid:2) (cid:2) L D D ev I e S lo y p st i e n m gLine (cid:2)V D e e r p t o ic s a it l io C n on L t i i n n e uousPlating(VCP)
+ LDISystem Etching-StrippingLine DryFilm Laminator PlatedThroughHole (PTH)
+ C Le u g ri e n n g d O In v k e j n et L P in ri e nter S A t O ri I pp E i q n u g i - p E m tc e h n i t ng-TinStrippingLin L D D ev I e S lo y p st i e n m gLine V D e e r p t o ic s a it l io C n on L t i i n n e uousPlating(VCP)
 Line
 Formation Testing Attachment
 (Final Quality) (Packaging andAttachment)
-(cid:2) (cid:2) M VC ec U h T an B ic e a v l e f l o in rm g a M ti a o c n h m in a e chine (cid:2) (cid:2) E A E l q u e u t c o i t p m ri m c a a e te l n d T t e V s i t s E ua q l u I i n p s m p e e n c t tion (AVI) (cid:2) (cid:2) A S A y u tt s t a t o c e m h m m at e e n d t S e o q r u ti i n p g m & ent Packaging
+ M VC ec U h T an B ic e a v l e f l o in rm g a M ti a o c n h m in a e chine E A E l q u e u t c o i t p m ri m c a a e te l n d T t e V s i t s E ua q l u I i n p s m p e e n c t tion (AVI) A S A y u tt s t a t o c e m h m m at e e n d t S e o q r u ti i n p g m & ent Packaging
 Note: Our Business The relatedmanufacturing
 Coverage equipment
 – 175 –
@@ -7859,10 +7859,10 @@ AverageLead
 Timefrom
 PurchaseOrderto
 Product Appearance Features ApplicationScenarios Delivery(Weeks)
-MechanicalDrilling (cid:129) High-speedrotating Multi-layerboards,HDI 6−8
+MechanicalDrilling High-speedrotating Multi-layerboards,HDI 6−8
 System. . . . . . . . spindlewithsynchronized boardsandpackaging
 motioncontrol substrates
-(cid:129) Automaticdrillbit
+ Automaticdrillbit
 replacementfunctionality
 – 178 –
 
@@ -7872,32 +7872,32 @@ AverageLead
 Timefrom
 PurchaseOrderto
 Product Appearance Features ApplicationScenarios Delivery(Weeks)
-CoatedDrillBit . . . . (cid:129) Nano-coatingtechnology Anessentialtoolfor 0.5−1.5
+CoatedDrillBit . . . . Nano-coatingtechnology Anessentialtoolfor 0.5−1.5
 viaPVDtoreducewear mechanicaldrilling,usedto
 drillandformateefficiently
-(cid:129) Optimizedgeometryfor
+ Optimizedgeometryfor
 enhanceddurability
-CO LaserDrilling (cid:129) High-powerCO laser HDIboardsandpackaging 10−15
+CO LaserDrilling High-powerCO laser HDIboardsandpackaging 10−15
 2 2
 System. . . . . . . . ablationformicrovia substrates
 formation
-(cid:129) Non-contactprocessingto
+ Non-contactprocessingto
 minimizethermaldamage
-UVLaserDrilling (cid:129) UVcold-sourcelaser FPC,rigid-flexboards 8−10
+UVLaserDrilling UVcold-sourcelaser FPC,rigid-flexboards 8−10
 System. . . . . . . . processingforflexible (smartphones,wearables,
 materials automotiveBMS)
-(cid:129) Flyingdrillingmodefor
+ Flyingdrillingmodefor
 PIsubstrates
-Next-GenerationLaser (cid:129) Next-generationlaser Packagingsubstrates, 16−20
+Next-GenerationLaser Next-generationlaser Packagingsubstrates, 16−20
 System. . . . . . . . technologyforminimal advancedpackaging
 thermalimpact (smartphones,foldable
 devices,CPU/GPU)
-(cid:129) Precisionprocessingof
+ Precisionprocessingof
 ABF/BT/RCCmaterials
-TGVLaserProcessing (cid:129) Lasermodificationof Glass-coreFC-BGA, 23−27
+TGVLaserProcessing Lasermodificationof Glass-coreFC-BGA, 23−27
 Solution . . . . . . . glasssubstratesfollowed panel-levelglassinterposers
 bychemicaletching
-(cid:129) Panel-levelprocessingfor
+ Panel-levelprocessingfor
 large-formatsubstrates
 – 179 –
 
@@ -7913,13 +7913,13 @@ achieve superior back drilling alignment deviation control and stub length contr
 Solutions
 To enable our customer to satisfy the above standards, we recommended Company A with our
 F6XH series CCD drilling system, the functions of which are summarized as follows:
-(cid:129) Back Drilling Alignment Deviation Control: The F6XH series utilizes CCD technology
+ Back Drilling Alignment Deviation Control: The F6XH series utilizes CCD technology
 to scan each hole, identifying deviations between theoretical and actual positions. This
 allows for precise compensation during the drilling process, ensuring concentricity
 between back-drilled and through-holes. This feature effectively resolves issues related
 to irregular expansion and contraction commonly found in high-density multilayer
 boards, as well as the problem of residual copper caused by drill hole deviation.
-(cid:129) Back Drilling Stub Length Control: Equipped with 3D back drilling functionality, the
+ Back Drilling Stub Length Control: Equipped with 3D back drilling functionality, the
 F6XH series records the height position of each copper layer during through-hole
 drilling. This data is used to calculate precise back drilling depths, which are linked to
 QR codes to ensure correspondence and quality traceability. This feature enables precise
@@ -7956,16 +7956,16 @@ AverageLead
 Timefrom
 PurchaseOrderto
 Product Appearance Features ApplicationScenarios Delivery(Weeks)
-InnerLayerLDI (cid:129) Suitableforinnerlayer Multi-layerboardsand 8−10
+InnerLayerLDI Suitableforinnerlayer Multi-layerboardsand 8−10
 System . . . . . . . photolithographyofMulti-layer HDIboards
 boardsandHDIboards
-(cid:129) Digitalmicromirror(DMD)
+ Digitalmicromirror(DMD)
 projection
-OuterLayerLDI (cid:129) Suitableforouterlayer Multi-layerboards,HDI 8−10
+OuterLayerLDI Suitableforouterlayer Multi-layerboards,HDI 8−10
 System . . . . . . . photolithographyofMulti-layer boardsandpackaging
 boards,HDIboardsand substrates
 packagingsubstrates
-(cid:129) Digitalmicromirror(DMD)
+ Digitalmicromirror(DMD)
 projection
 – 181 –
 
@@ -7975,9 +7975,9 @@ AverageLead
 Timefrom
 PurchaseOrderto
 Product Appearance Features ApplicationScenarios Delivery(Weeks)
-SolderMaskLDI (cid:129) Suitableforphotolithographyof Multi-layerboardsand 10−12
+SolderMaskLDI Suitableforphotolithographyof Multi-layerboardsand 10−12
 System . . . . . . . soldermask HDIboards
-(cid:129) Single/compositewavelength
+ Single/compositewavelength
 curing
 Case Study – Company B
 Background
@@ -8031,12 +8031,12 @@ AverageLead
 Timefrom
 PurchaseOrderto
 Product Appearance Features ApplicationScenarios Delivery(Weeks)
-UniversalTesting (cid:129) Multipletestgridswith Multi-layerboardtestingin 3−4
+UniversalTesting Multipletestgridswith Multi-layerboardtestingin 3−4
 Equipment. . . . . . fine-tuningfixtures. laptops,automotive
 electronics,and
-(cid:129) Minimumprobewire communicationequipment
+ Minimumprobewire communicationequipment
 diameterof50µm.
-(cid:129) Expandsapplication
+ Expandsapplication
 rangeoftesting
 equipment.
 – 183 –
@@ -8047,37 +8047,37 @@ AverageLead
 Timefrom
 PurchaseOrderto
 Product Appearance Features ApplicationScenarios Delivery(Weeks)
-DedicatedTesting (cid:129) Cable-freearchitecture High-reliabilitymulti-layer 2−3
+DedicatedTesting Cable-freearchitecture High-reliabilitymulti-layer 2−3
 Equipment. . . . . . withone-clickfixture boardtestinginAIservers,
 replacement. AIacceleratorcards,
 automotiveelectronics,and
-(cid:129) CCDautomatic industrialcontrol
+ CCDautomatic industrialcontrol
 fine-tuningsystem.
-(cid:129) Enhancestesting
+ Enhancestesting
 efficiencyandprecision.
-Dedicated (cid:129) Dual-trayorfour-tray Advancedsmartphone 6−8
+Dedicated Dual-trayorfour-tray Advancedsmartphone 6−8
 High-Precision designforhigh-density motherboards,optical
 TestingEquipment. . PCBtesting. modules,andpackaging
 substrates
-(cid:129) High-precisionpin
+ High-precisionpin
 fixtureswith25µm
 diameter.
-(cid:129) Optionalfeaturesto
+ Optionalfeaturesto
 improvetestyield.
-AutomatedOptical (cid:129) High-definitioncameras Multi-layerboardsandHDI 6−8
+AutomatedOptical High-definitioncameras Multi-layerboardsandHDI 6−8
 Inspection withAIforimage boards
 Equipment. . . . . . processing.
-(cid:129) Identifyingdefectslike
+ Identifyingdefectslike
 opencircuitsandshorts.
-(cid:129) Ensuringintegrityof
+ Ensuringintegrityof
 PCBcircuitpatterns.
-AutomatedVisual (cid:129) Line-scanCCDwithAI FinishedPCBvisual 4−6
+AutomatedVisual Line-scanCCDwithAI FinishedPCBvisual 4−6
 Inspection toreducefalsepositives. inspection,identifying
 Equipment. . . . . . defectslikeforeignobjects
-(cid:129) Offersdifferent andscratches
+ Offersdifferent andscratches
 resolutionsforvarious
 products.
-(cid:129) Tailoredfordifferent
+ Tailoredfordifferent
 PCBproductneeds.
 – 184 –
 
@@ -8103,12 +8103,12 @@ AverageLead
 Timefrom
 PurchaseOrderto
 Product Appearance Features ApplicationScenarios Delivery(Weeks)
-MechanicalRouters . . (cid:129) Preciselycontrolsthe Multi-layerboards,HDI 6−8
+MechanicalRouters . . Preciselycontrolsthe Multi-layerboards,HDI 6−8
 millingcutterfor boardsandpackaging
 accuratePCBprocessing. substrates
-(cid:129) Efficientlydivideslarge
+ Efficientlydivideslarge
 PCBsintosmallerunits.
-LaserRoutingSystem . (cid:129) Utilizeslaserstoablate FPCandrigid-flexboard 8−10
+LaserRoutingSystem . Utilizeslaserstoablate FPCandrigid-flexboard 8−10
 andvaporisethematerial markets,opticalmodules
 forprecisedivisionofthe andpackagingsubstrates
 entireFPCintosmaller
@@ -8137,11 +8137,11 @@ AverageLead
 Timefrom
 PurchaseOrderto
 Product Appearance Features ApplicationScenarios Delivery(Weeks)
-AutomaticAttachment (cid:129) Automateshigh-precision FPC,rigid-flexboards, 5−9
+AutomaticAttachment Automateshigh-precision FPC,rigid-flexboards, 5−9
 Equipment. . . . . . attachmentofmaterials, protectivecoveringfilm,
 replacingmanual andelectromagnetic
 operations shieldingfilm
-(cid:129) Boostsproduction
+ Boostsproduction
 efficiencyandprocessing
 precision
 Lamination Equipment and Solutions
@@ -8165,15 +8165,15 @@ AverageLead
 Timefrom
 PurchaseOrderto
 Product Appearance Features ApplicationScenarios Delivery(weeks)
-LaminationSystem. . . (cid:129) Utilizeshightemperature Standardmultilayerboards, 16−22
+LaminationSystem. . . Utilizeshightemperature Standardmultilayerboards, 16−22
 andhighpressureto HDIboards,packaging
 laminateinnerlayersor substrates,multi-layerFPC,
 coreboardswithPPorPI andrigid-flexboards
 andcopperfoil.
-(cid:129) Capableofforming
+ Capableofforming
 multi-layerboard
 structures.
-(cid:129) Designedforversatility
+ Designedforversatility
 inhandlingvariousboard
 types.
 RESEARCH AND DEVELOPMENT
@@ -8210,20 +8210,20 @@ continuously expanding our global supply system and developing modular common
 hardware/software platforms and assembly technologies, we reduce product development cycles
 and ensure that our scenario-specific solutions remain industry-leading. As of October 31, 2025,
 we had established the following product centers on product development:
-(cid:129) Mechanical Product Center, specializing in developing mechanical drilling and forming
+ Mechanical Product Center, specializing in developing mechanical drilling and forming
 machines, and automation products.
-(cid:129) Laser Product Center, specializing in CO and UV laser drilling machines for HDI,
+ Laser Product Center, specializing in CO and UV laser drilling machines for HDI,
 2
 package substrates, and flexible boards.
-(cid:129) New Laser Product Center, specializing in developing innovative laser products like
+ New Laser Product Center, specializing in developing innovative laser products like
 laser forming and etching.
-(cid:129) Digital Imaging Product Center, pioneering in laser direct imaging systems using DMD
+ Digital Imaging Product Center, pioneering in laser direct imaging systems using DMD
 technology, replacing traditional film photolithography.
-(cid:129) Testing Product Center, specializing in a comprehensive range of quality inspection
+ Testing Product Center, specializing in a comprehensive range of quality inspection
 products, including electrical testing equipment, AOI and AVI equipment.
-(cid:129) Lamination Product Center, specializing in multilayer PCB vacuum lamination
+ Lamination Product Center, specializing in multilayer PCB vacuum lamination
 equipment, achieving full-process automation.
-(cid:129) Adhesion and Automation Product Center, specializing in automatic attachment
+ Adhesion and Automation Product Center, specializing in automatic attachment
 equipment for reinforcement sheets and films, supporting both offline and online modes.
 – 188 –
 
@@ -8231,16 +8231,16 @@ equipment for reinforcement sheets and films, supporting both offline and online
 BUSINESS
 R&D Model
 We have developed an independent R&D model which contains three key aspects:
-(cid:129) Understanding Customer Needs. We maintain close cooperation and communication
+ Understanding Customer Needs. We maintain close cooperation and communication
 with downstream customers and their downstream customers, such as global electronics
 brands. Through regular technical exchanges with customers and other downstream
 partners, we ensure that our innovations are closely aligned with market needs.
-(cid:129) Mastering the Latest Technologies. We have established a dedicated R&D innovation
+ Mastering the Latest Technologies. We have established a dedicated R&D innovation
 platform for specialized equipment, which serves as a hub for collaboration with
 universities, research institutions and upstream supply chain partners. We have forged
 strategic partnerships with prominent domestic enterprises, engaging in comprehensive
 collaboration on process innovation and technology upgrades.
-(cid:129) Formulating Equipment Development Plans. Based on our expectation on future
+ Formulating Equipment Development Plans. Based on our expectation on future
 market demands and industry evolution, we form strategic alliances with leading
 upstream and downstream manufacturers to develop medium and long-term product
 plans. By investing in advanced equipment which are compatible with next-generation
@@ -8251,33 +8251,33 @@ R&D Process
 Our R&D process is strategically aligned with our business development objectives and
 industry trends, carefully identifying potential projects that cater to the evolving needs of our
 customers. Our R&D projects are typically conducted through the eight key stages are as follows:
-(cid:129) Demand Analysis — We systematically translate customer needs into actionable product
+ Demand Analysis — We systematically translate customer needs into actionable product
 development plans through cross-departmental collaboration, ensuring precise alignment
 with market demands.
-(cid:129) Feasibility Analysis — We assess technical feasibility and commercial value through
+ Feasibility Analysis — We assess technical feasibility and commercial value through
 technology validation and resource compatibility evaluation, including R&D timelines,
 costs, and supply chain considerations.
-(cid:129) Pre-Project Review — Our management team evaluates technical feasibility and market
+ Pre-Project Review — Our management team evaluates technical feasibility and market
 potential to determine if a project has the necessary development conditions and
 commercial viability, resulting in a decision on whether to proceed.
 – 189 –
 
 === PAGE 200 ===
 BUSINESS
-(cid:129) Solution Design — We define the core framework and resource allocation strategy
+ Solution Design — We define the core framework and resource allocation strategy
 through functional module breakdown and technical path planning, using user scenario
 simulations and multi-solution comparisons to establish an executable development
 baseline.
-(cid:129) Mid-Project Review — We conduct stage-specific quality checks and risk management
+ Mid-Project Review — We conduct stage-specific quality checks and risk management
 to ensure the development process adheres to technical standards and procedural norms,
 facilitating progression to the next phase.
-(cid:129) Prototype Development — We develop physical prototypes based on design schematics,
+ Prototype Development — We develop physical prototypes based on design schematics,
 conducting functional tests to identify potential issues, which inform subsequent
 optimizations or mass production inputs.
-(cid:129) Post-Project Review — At the project conclusion, we perform a comprehensive review,
+ Post-Project Review — At the project conclusion, we perform a comprehensive review,
 using relevant tests and data to evaluate overall outcomes, providing a conclusion on
 whether to proceed to production, terminate, or optimize.
-(cid:129) Mass Production — We ensure a smooth transition from R&D to production through
+ Mass Production — We ensure a smooth transition from R&D to production through
 trial production validation and supply chain coordination, ultimately approving the
 product for large-scale production and market delivery.
 Our Key Technologies and R&D Achievements
@@ -8477,15 +8477,15 @@ mainly include the ERP, SRM and CRM system.
 
 === PAGE 206 ===
 BUSINESS
-(cid:129) ERP System, built on SAP S4 HANA, is primarily used by our operations and finance
+ ERP System, built on SAP S4 HANA, is primarily used by our operations and finance
 departments. It ensures seamless integration of procurement, production, and financial
 activities, providing real-time data analysis that supports strategic decision-making and
 optimizes resource allocation.
-(cid:129) SRM System, mainly utilized by our procurement team to enhance supplier collaboration
+ SRM System, mainly utilized by our procurement team to enhance supplier collaboration
 and streamline procurement processes. It ensures efficient contract management and
 performance monitoring, integrating risk management to improve supplier relationships
 and operational efficiency.
-(cid:129) CRM System, primarily used by the sales and customer service departments. It manages
+ CRM System, primarily used by the sales and customer service departments. It manages
 and analyses customer interactions throughout the customer lifecycle, automating
 marketing processes and providing valuable insights into customer preferences to
 enhance communication and satisfaction.
@@ -9478,21 +9478,21 @@ RMB4,276.5 million from sales to direct customers, accounting for 99.2%, 99.1%, 
 and 99.1% of our revenue in each respective period.
 The salient terms of the sales and purchase agreements between us and our direct customers
 are set out below:
-(cid:129) Product specifications. Our direct customers typically set forth product specifications
+ Product specifications. Our direct customers typically set forth product specifications
 for products ordered, such as product name, model, configuration and features.
-(cid:129) Payment and credit term. We typically require prepayment, and we may grant credit
+ Payment and credit term. We typically require prepayment, and we may grant credit
 terms to the direct customers who have passed relevant credit assessments, requiring
 them to pay us within three months to 18 months.
-(cid:129) Return arrangements. We typically do not allow customers to return or replace products
+ Return arrangements. We typically do not allow customers to return or replace products
 to us unless there are product quality issues.
-(cid:129) Warranty. We typically offer direct customers a 12-month product warranties.
-(cid:129) Confidentiality. All confidential information provided by either party shall not be
+ Warranty. We typically offer direct customers a 12-month product warranties.
+ Confidentiality. All confidential information provided by either party shall not be
 disclosed to any third party without prior consent.
 – 206 –
 
 === PAGE 217 ===
 BUSINESS
-(cid:129) Termination. The agreement can be terminated upon written notice of one party, in the
+ Termination. The agreement can be terminated upon written notice of one party, in the
 event of fraud, bankruptcy or material breach of the agreement of the other party.
 During the Track Record Period, we have strategically engaged third-party sales agents to
 leverage their expertise and market presence in local market. These agents, typically
@@ -9505,23 +9505,23 @@ sales agent service fees of RMB1.2 million, RMB1.1 million, RMB2.2 million, RMB2
 and RMB3.0 million, respectively. We directly enter into sales contracts with the end customers
 who were connected to us by the third-party sales agents.
 The salient terms of the agreements between us and third-party sales agents are set out below:
-(cid:129) Duration. The duration of the agreements is typically two years.
-(cid:129) Commission. If the gross profit margin is not less than 30% (inclusive), we will pay the
+ Duration. The duration of the agreements is typically two years.
+ Commission. If the gross profit margin is not less than 30% (inclusive), we will pay the
 sales agent a commission of 8.0% of the product price (exclusive of tax and after
 deduction of equipment modification, expansion and warranty costs). If the gross profit
 margin is less than 30% (exclusive), the commission rate will be determined through
 mutual negotiation. According to CIC, our commission arrangement with third-party
 sales agents is in line with the industry practice in China’s specialized PCB equipment
 industry.
-(cid:129) Sales Agents’ Responsibilities. Sales agents are responsible for the marketing, and
+ Sales Agents’ Responsibilities. Sales agents are responsible for the marketing, and
 promotion of our “HANS CNC” and/or “大族數控” brand in the relevant region.
-(cid:129) Our Responsibilities. We are obligated to supply products that meet quality standards
+ Our Responsibilities. We are obligated to supply products that meet quality standards
 consistently and are required to ensure the pricing is fair and reasonable, aiding sales
 agents in maintaining an edge in the market.
-(cid:129) Intellectual Property. We have granted sales agents the non-exclusive right to use our
+ Intellectual Property. We have granted sales agents the non-exclusive right to use our
 trademarks, wordmarks, and other brand-related designs free of charge while promoting
 our products under the agreement.
-(cid:129) Termination. The agreements terminate upon expiry, or can be terminated by mutual
+ Termination. The agreements terminate upon expiry, or can be terminated by mutual
 agreement. The agreement can also be terminated upon written notice of one party, in
 the event of fraud, bankruptcy or material breach of the agreement of the other party.
 – 207 –
@@ -9579,17 +9579,17 @@ distributors as our customers, who further sell products to end users of our spe
 production equipment. We typically do not set minimum purchase requirements for our
 distributors. We typically enter into sales and purchase agreements with our distributors. The
 salient terms of our standard sales agreements between us and our distributors are set out below:
-(cid:129) Product specifications. Our distributors typically set forth product specifications for
+ Product specifications. Our distributors typically set forth product specifications for
 products ordered, such as product name, model, configuration and features.
-(cid:129) Payment and credit term. We typically require full payment after equipment acceptance,
+ Payment and credit term. We typically require full payment after equipment acceptance,
 and we may grant credit terms to the distributors who have passed relevant credit
 assessments, requiring them to pay us within three months of stable production
 following installation.
-(cid:129) Return arrangements. We typically do not allow distributors to return or replace
+ Return arrangements. We typically do not allow distributors to return or replace
 products to us unless there are product quality issues.
-(cid:129) Confidentiality. All confidential information provided by either party shall not be
+ Confidentiality. All confidential information provided by either party shall not be
 disclosed to any third party without prior consent.
-(cid:129) Termination. The agreement can be terminated upon written notice of one party, in the
+ Termination. The agreement can be terminated upon written notice of one party, in the
 event of fraud, bankruptcy or materially breach of the agreement of the other party.
 – 209 –
 
@@ -9687,21 +9687,21 @@ initiatives to minimize the risk of quality control issues. We have developed a 
 control system covering product R&D, supply chain, production process and customer service,
 ensuring that all products are produced and assembled adhering to consistent standards and quality.
 Our quality control measures include the following:
-(cid:129) Product R&D Quality Control: We use an integrated product development model,
+ Product R&D Quality Control: We use an integrated product development model,
 leverage the research outcomes driven by the technical needs of various niche scenarios,
 and adopt advanced product quality plans to prevent design defects and quality issues
 during the R&D phase. We have designated personnel responsible for supervising and
 inspecting the integrity of the R&D process and the quality of deliverables at each
 project stage.
-(cid:129) Supply Chain Quality Control: We carefully select qualified suppliers based on the
+ Supply Chain Quality Control: We carefully select qualified suppliers based on the
 quality and technical standards of raw materials. We selectively procure raw materials
 from qualified suppliers and conduct rigorous inspections to ensure that the quality of
 raw materials is suitable for production.
-(cid:129) Production Process Quality Control: We strictly adhere to process standards in
+ Production Process Quality Control: We strictly adhere to process standards in
 production to minimize deviations from agreed product specifications, and we take
 timely measures to address any related issues arise during production. We also supervise
 and inspect each production process.
-(cid:129) Customer Service: We have established a global marketing and service network,
+ Customer Service: We have established a global marketing and service network,
 providing localized technical support and after-sales service throughout the product life
 cycle. We have also established a customer complaint handling procedure to promptly
 address customer complaints and actively solicit customer feedback.
@@ -9783,23 +9783,23 @@ delay in relation to supply by our suppliers during the Track Record Period and 
 Practicable Date.
 Agreements with Suppliers
 The salient terms of the supply agreements between us and our suppliers are set out below:
-(cid:129) Product Specification. We specify the product name, specification, price, quantity,
+ Product Specification. We specify the product name, specification, price, quantity,
 delivery timeline, delivery location and other details in each purchase order we send to
 our suppliers.
-(cid:129) Price. The prices quoted to us shall be based on market conditions and stated in the
+ Price. The prices quoted to us shall be based on market conditions and stated in the
 purchase orders prevail.
-(cid:129) Payment and Credit Term. Payment and credit terms are typically included in each order
+ Payment and Credit Term. Payment and credit terms are typically included in each order
 that we place with the supplier. The typical credit terms offered by our suppliers range
 from 30 days to 120 days. We primarily settle payments through bank transfer, bill
 collection and letters of credit.
-(cid:129) Logistics. The suppliers are responsible for packaging and shall ensure that the
+ Logistics. The suppliers are responsible for packaging and shall ensure that the
 packaging is suitable for long-distance transportation. The suppliers normally assume
 the logistic and transportation costs associated with the procurement of materials.
-(cid:129) Quality Guarantee. Products are typically accepted in accordance with our
+ Quality Guarantee. Products are typically accepted in accordance with our
 specifications, as well as national, local and industry standards. We are entitled to return
 any defective raw materials that do not meet the specifications and the suppliers shall
 remedy the same, including product return and replacement.
-(cid:129) Confidentiality. We include confidentiality clauses in the agreements, and the period of
+ Confidentiality. We include confidentiality clauses in the agreements, and the period of
 confidentiality obligation is extended beyond the expiration of the agreements.
 Outsourced Manufacturing
 Certain market players enjoyed cost advantages over certain components of specialized PCB
@@ -9828,29 +9828,29 @@ contractual obligations; and
 production standards are strictly followed.
 The salient terms of the agreements between us and our manufacturing contractors for the
 production of specialized PCB production equipment are set out below:
-(cid:129) Product Specifications. The agreements generally set out the scope of services to be
+ Product Specifications. The agreements generally set out the scope of services to be
 provided by our manufacturing contractors. We require our manufacturing contractors to
 complete the works according to product specifications and production requirements.
-(cid:129) Raw Material Procurement. We are typically responsible for the procurement of all or a
+ Raw Material Procurement. We are typically responsible for the procurement of all or a
 majority of the raw materials required for production.
-(cid:129) Manufacturing Fees. The manufacturing fees are generally determined with reference to
+ Manufacturing Fees. The manufacturing fees are generally determined with reference to
 market rates.
-(cid:129) Payment Term. Payment is typically required to be made within 30 days after receiving
+ Payment Term. Payment is typically required to be made within 30 days after receiving
 the invoice from manufacturing contractors.
-(cid:129) Delivery. Manufacturing contractors are responsible for delivery to our appointed
+ Delivery. Manufacturing contractors are responsible for delivery to our appointed
 location or warehouse.
 – 216 –
 
 === PAGE 227 ===
 BUSINESS
-(cid:129) Product Return/Exchange. Product inspection may take place within a specified period
+ Product Return/Exchange. Product inspection may take place within a specified period
 after delivery. We may require the manufacturing contractor to replace the defective
 products.
-(cid:129) Warranty. Manufacturing contractors typically offer 12-month product warranty for the
+ Warranty. Manufacturing contractors typically offer 12-month product warranty for the
 products they provide.
-(cid:129) Confidentiality. Typically, we require our manufacturing contractors to keep the terms of
+ Confidentiality. Typically, we require our manufacturing contractors to keep the terms of
 agreements and any supplementary agreements confidential.
-(cid:129) Termination. The agreements terminate upon expiry, or can be terminated by mutual
+ Termination. The agreements terminate upon expiry, or can be terminated by mutual
 agreement.
 In 2022, 2023, 2024 and the ten months ended October 31, 2024 and 2025, we engaged a
 total of 142, 170, 169, 157 and 186 manufacturing contractors, with manufacturing fees of
@@ -10374,10 +10374,10 @@ Internal Control and Remedial Measures
 We have taken the following internal control measures to ensure compliance with the social
 insurance and housing provident fund contribution requirements under the relevant laws and
 regulations to the extent practicable:
-(cid:129) Increasing awareness of developments in the law. Regularly keep abreast of the latest
+ Increasing awareness of developments in the law. Regularly keep abreast of the latest
 developments in PRC laws and regulations relating to social insurance and housing
 provident funds; and
-(cid:129) External counsel. Consult external legal counsel for advice on relevant PRC laws and
+ External counsel. Consult external legal counsel for advice on relevant PRC laws and
 regulations.
 Going forward, we will continue to implement the above measures to ensure we are in
 compliance with the social insurance and housing provident fund contributions requirements under
@@ -10582,11 +10582,11 @@ As a core component of our corporate sustainability strategy, energy management 
 vital role in our operations. We view improving energy efficiency not only as an environmental
 responsibility but also as a key initiative to enhance operational efficiency and strengthen our
 competitive edge. To this end, we have implemented the following measures:
-(cid:129) Lighting Management: We maximize the use of natural light in workspaces, meeting
+ Lighting Management: We maximize the use of natural light in workspaces, meeting
 rooms, corridors, and aisles, and prohibit lights being left on during lunch breaks or
 when areas are unoccupied. After hours, except for security lighting, all office and
 production-area lighting must be switched off.
-(cid:129) HVAC Management: We keep cooling temperature shall not be, lower than 26°C in
+ HVAC Management: We keep cooling temperature shall not be, lower than 26°C in
 summer, and heating temperature shall not be, higher than 20°C in winter. We keep
 doors and windows closed while the system is operating; draw blackout curtains when
 sunlight is intense. We turn off air conditioners 30 minutes before the end of the
@@ -10596,14 +10596,14 @@ running.
 
 === PAGE 247 ===
 BUSINESS
-(cid:129) Production Equipment Management: We power down all production-site equipment
+ Production Equipment Management: We power down all production-site equipment
 after working hours. Nonbusiness-critical use of equipment must be registered and
 approved by the relevant department in advance. Equipment requiring extended
 operation during debugging must be clearly labeled and accompanied by a completed
 “Equipment Power-On Continuation Request Form,” approved by the department head
 and filed with the Administration Department’s Safety Management Team for periodic
 inspection.
-(cid:129) Water Management: We strengthen daily water-conservation practices and eliminate
+ Water Management: We strengthen daily water-conservation practices and eliminate
 leaks, drips, and continuously running water. We immediately report any leaks or
 equipment malfunctions to the Administration Department for repair. We promote
 water-saving habits by posting reminders in restrooms, pantry areas, and other relevant
@@ -10645,15 +10645,15 @@ collected through ductwork and discharged at height.
 In the field of waste management, we strictly follow the PRC Law on Prevention and Control
 of Environmental Pollution by Solid Waste and other regulations, and have established a
 full-spectrum waste management system. Specifically, we have implemented:
-(cid:129) Domestic Sewage Treatment is treated through a three-stage septic tank system before
+ Domestic Sewage Treatment is treated through a three-stage septic tank system before
 connecting to the municipal sewer network for further processing at the Fuyong Water
 Purification Plant.
-(cid:129) Industrial Wash Wastewater Treatment is entrusted to a qualified third party for
+ Industrial Wash Wastewater Treatment is entrusted to a qualified third party for
 transport and treatment; we do not allow discharge on site.
-(cid:129) Domestic Solid Waste is collected and removed regularly by the sanitation authority.
-(cid:129) General Solid Waste is collected and recycled by designated third-party recyclers.
-(cid:129) Hazardous Waste is transferred and disposed of by a qualified third party.
-(cid:129) Production Waste Reduction requires transition of equipment assembly and debugging
+ Domestic Solid Waste is collected and removed regularly by the sanitation authority.
+ General Solid Waste is collected and recycled by designated third-party recyclers.
+ Hazardous Waste is transferred and disposed of by a qualified third party.
+ Production Waste Reduction requires transition of equipment assembly and debugging
 records from paper to electronic format; we reuse of dedicated packaging materials in a
 closed-loop cycle.
 – 238 –
@@ -10721,10 +10721,10 @@ Occupational Health, Safety and Care
 We have established a comprehensive Occupational Health and Safety (OHS) management
 system. In strict accordance with national laws and regulations, we implement the following
 procedures:
-(cid:129) Safety Education and Training Policy.
-(cid:129) Occupational Hygiene Control Procedure.
-(cid:129) Personal Protective Equipment Provision and Management Policy.
-(cid:129) Safety Protection Policy for Female Workers, Minor Workers, and Interns.
+ Safety Education and Training Policy.
+ Occupational Hygiene Control Procedure.
+ Personal Protective Equipment Provision and Management Policy.
+ Safety Protection Policy for Female Workers, Minor Workers, and Interns.
 – 240 –
 
 === PAGE 251 ===
@@ -10753,7 +10753,7 @@ Product Responsibility
 We have successfully obtained ISO 9001:2015 quality management system certification.
 Intellectual Property Management
 We have established:
-(cid:129) Intellectual Property Management System: to standardize our IP administration and
+ Intellectual Property Management System: to standardize our IP administration and
 fully leverage intellectual property in our development, this system safeguards
 operational security, empowers product innovation, and builds an IP moat to strengthen
 our competitive edge. It also enhances the management of intangible assets to prevent
@@ -10766,11 +10766,11 @@ is revised in accordance with our evolving IP needs.
 
 === PAGE 252 ===
 BUSINESS
-(cid:129) Patent Application Document Review Guidelines: These guidelines set forth the
+ Patent Application Document Review Guidelines: These guidelines set forth the
 standards for reviewing patent application documents to improve submission quality.
 They are updated periodically to reflect revisions in the patent examination system and
 our IP strategy.
-(cid:129) Software Copyright Application Materials Guidelines: These guidelines specify the
+ Software Copyright Application Materials Guidelines: These guidelines specify the
 requirements for preparing and reviewing software copyright application materials to
 facilitate successful registration. They are revised as necessary to comply with the latest
 software copyright examination criteria.
@@ -10921,26 +10921,26 @@ procurement and production, as well as monitoring our sales performance and prod
 To monitor the ongoing implementation of our risk management policies and corporate
 governance measures, we have adopted, or will continue to adopt, among other things, the
 following risk management measures:
-(cid:129) establish an Audit Committee to review and supervise our financial reporting process
+ establish an Audit Committee to review and supervise our financial reporting process
 and internal control system. For the qualifications and experience of the committee
 members, see “Directors and Senior Management — Management and Corporate
 Governance — Audit Committee”;
-(cid:129) adopt policies to ensure compliance with the Listing Rules, including but not limited to
+ adopt policies to ensure compliance with the Listing Rules, including but not limited to
 aspects related to risk management, connected transactions and information disclosure;
-(cid:129) organize training sessions for our Directors and senior management in respect of the
+ organize training sessions for our Directors and senior management in respect of the
 relevant requirements of the Listing Rules and duties of directors of companies listed in
 Hong Kong;
-(cid:129) provide trainings periodically to our senior management and employees on professional
+ provide trainings periodically to our senior management and employees on professional
 behavior requirements and ethics standards to enhance their knowledge and compliance
 with applicable laws and regulations, and include relevant policies against
 non-compliance in our employee discipline measures and supervision guidelines;
-(cid:129) enhance our reporting and records system for factories, including centralizing their
+ enhance our reporting and records system for factories, including centralizing their
 quality control and safety management systems and conducting regular inspections of
 the facilities;
-(cid:129) establish a set of emergency procedures in the event of major quality-related issues;
-(cid:129) provide enhanced training programs on quality assurance and product safety procedures;
+ establish a set of emergency procedures in the event of major quality-related issues;
+ provide enhanced training programs on quality assurance and product safety procedures;
 and
-(cid:129) distribute employee handbooks to enhance employees’ awareness of complying with
+ distribute employee handbooks to enhance employees’ awareness of complying with
 laws and regulations.
 – 246 –
 
@@ -12664,7 +12664,7 @@ CONTINUING CONNECTED TRANSACTIONS
 In order to further safeguard the interests of the Shareholders as a whole (including the
 minority Shareholders), our Group has implemented the following internal control measures in
 relation to the continuing connected transactions:
-(cid:129) we have adopted and implemented a management system on connected transactions.
+ we have adopted and implemented a management system on connected transactions.
 Under such system, the Audit Committee under the Board is responsible for the review
 on compliance with relevant laws, regulations, our Company’s policies and the Listing
 Rules in respect of the continuing connected transactions. In addition, the Audit
@@ -12672,18 +12672,18 @@ Committee under the Board, the Board and various internal departments of our
 Company are jointly responsible for evaluating the terms of the continuing connected
 transactions, in particular, the fairness of the pricing policies and annual caps for each
 transaction;
-(cid:129) the Audit Committee under the Board, the Board and various internal departments of our
+ the Audit Committee under the Board, the Board and various internal departments of our
 Company also regularly monitor the fulfillment status and the updates in relation to the
 continuing connected transactions. In addition, the management of our Company also
 regularly reviews the pricing policies of the continuing connected transactions;
-(cid:129) our independent non-executive Directors and auditors will conduct annual review of the
+ our independent non-executive Directors and auditors will conduct annual review of the
 continuing connected transactions and provide annual confirmation in accordance with
 Rules 14A.55 and 14A.56 of the Listing Rules; and
 – 296 –
 
 === PAGE 307 ===
 CONNECTED TRANSACTIONS
-(cid:129) when considering the service fees and other fees provided by us to the above connected
+ when considering the service fees and other fees provided by us to the above connected
 persons, our Company will continue to regularly research in prevailing market
 conditions and practices and make reference to the pricing and terms between our
 Company and Independent Third Parties for similar transactions, to ensure that the
@@ -13459,13 +13459,13 @@ control, including:
 General Factors
 Our results of operations have been, and are expected to continue to be, materially affected
 by a number of factors, many of which are beyond our control, including the following:
-(cid:129) development of macroeconomic conditions;
-(cid:129) technology development and competition in the specialized PCB equipment industry;
-(cid:129) government policies and regulations in relation to the PCB industry and the specialized
+ development of macroeconomic conditions;
+ technology development and competition in the specialized PCB equipment industry;
+ government policies and regulations in relation to the PCB industry and the specialized
 PCB production equipment industry;
-(cid:129) changes in international trade policies, geopolitics and trade protection measures, export
+ changes in international trade policies, geopolitics and trade protection measures, export
 control and economic or trade sanctions; and
-(cid:129) weather, natural disasters and climate change.
+ weather, natural disasters and climate change.
 Specific Factors
 Demand for specialized PCB production equipment
 Our business focuses on the R&D, production and sales of specialized PCB production
@@ -13703,8 +13703,8 @@ Derecognition of financial assets
 A financial asset (or, where applicable, a part of a financial asset or part of a group of similar
 financial assets) is primarily derecognised (i.e., removed from our Group’s consolidated statement
 of financial position) when:
-(cid:129) the rights to receive cash flows from the asset have expired; or
-(cid:129) our Group has transferred our rights to receive cash flows from the asset or has assumed
+ the rights to receive cash flows from the asset have expired; or
+ our Group has transferred our rights to receive cash flows from the asset or has assumed
 an obligation to pay the received cash flows in full without material delay to a third
 party under a “pass-through” arrangement; and either (a) our Group has transferred
 substantially all the risks and rewards of the asset, or (b) our Group has neither
@@ -13944,9 +13944,9 @@ present value of those cash flows. The carrying amounts of goodwill as of Decemb
 and RMB12,924,000, respectively.
 Goodwill acquired through business combinations is allocated to the following
 cash-generating units for impairment testing:
-(cid:129) Shenzhen Mason Electronics Co., Ltd. cash-generating unit;
-(cid:129) Advanced Intelligent Machine Co., Ltd. cash-generating unit; and
-(cid:129) Shenzhen Han’s Rayleigh Taide Precision Coating Co., Ltd. cash-generating unit.
+ Shenzhen Mason Electronics Co., Ltd. cash-generating unit;
+ Advanced Intelligent Machine Co., Ltd. cash-generating unit; and
+ Shenzhen Han’s Rayleigh Taide Precision Coating Co., Ltd. cash-generating unit.
 The carrying amount of goodwill allocated to each of the cash-generating units is as follows:
 As of
 As at December 31, October 31,
@@ -14103,11 +14103,11 @@ Deferred tax is provided, using the liability method, on all temporary differenc
 of the reporting period between the tax bases of assets and liabilities and their carrying amounts
 for financial reporting purposes.
 Deferred tax liabilities are recognized for all taxable temporary differences, except:
-(cid:129) when the deferred tax liability arises from the initial recognition of goodwill or an asset
+ when the deferred tax liability arises from the initial recognition of goodwill or an asset
 or liability in a transaction that is not a business combination and, at the time of the
 transaction, affects neither the accounting profit nor taxable profit or loss and does not
 give rise to equal taxable and deductible temporary differences; and
-(cid:129) in respect of taxable temporary differences associated with investments in subsidiaries,
+ in respect of taxable temporary differences associated with investments in subsidiaries,
 associates and joint ventures, when the timing of the reversal of the temporary
 differences can be controlled and it is probable that the temporary differences will not
 reverse in the foreseeable future.
@@ -14120,12 +14120,12 @@ forward of unused tax credits and any unused tax losses. Deferred tax assets are
 extent that it is probable that taxable profit will be available against which the deductible
 temporary differences, and the carry forward of unused tax credits and unused tax losses can be
 utilized, except:
-(cid:129) when the deferred tax asset relating to the deductible temporary differences arises from
+ when the deferred tax asset relating to the deductible temporary differences arises from
 the initial recognition of an asset or liability in a transaction that is not a business
 combination and, at the time of the transaction, affects neither the accounting profit nor
 taxable profit or loss and does not give rise to equal taxable and deductible temporary
 differences; and
-(cid:129) in respect of deductible temporary differences associated with investments in
+ in respect of deductible temporary differences associated with investments in
 subsidiaries and associates, deferred tax assets are only recognized to the extent that it
 is probable that the temporary differences will reverse in the foreseeable future and
 taxable profit will be available against which the temporary differences can be utilized.
@@ -14671,7 +14671,7 @@ Our revenue increased by 64.4% from RMB2,623.9 million in the ten months ended O
 31, 2024 to RMB4,314.1 million in the ten months ended October 31, 2025, primarily due to (i)
 the surge in demand for IT infrastructure in the AI industry chain; and (ii) the recovery of the
 consumer electronics sector and the technological upgrade of automotive electronics. Specifically:
-(cid:129) Our revenue from drilling equipment increased by 91.2% from RMB1,619.1 million in
+ Our revenue from drilling equipment increased by 91.2% from RMB1,619.1 million in
 the ten months ended October 31, 2024 to RMB3,095.6 million in the ten months ended
 October 31, 2025, primarily due to (i) an increase in sales volume from 2,569 units in
 the ten months ended October 31, 2024 to 4,499 units in the ten months ended October
@@ -14687,7 +14687,7 @@ relatively higher gross profit margin.
 
 === PAGE 366 ===
 FINANCIAL INFORMATION
-(cid:129) Our revenue from photolithography equipment decreased by 14.1% from RMB288.1
+ Our revenue from photolithography equipment decreased by 14.1% from RMB288.1
 million in the ten months ended October 31, 2024 to RMB247.5 million in the ten
 months ended October 31, 2025, primarily due to a decrease in sales volume from 119
 units in the ten months ended October 31, 2024 to 103 units in the ten months ended
@@ -14713,7 +14713,7 @@ corresponding sales orders for high-end photolithography equipment. With continu
 efforts in product upgrade and business development, we expect subsequent sales
 performance of photolithography equipment to achieve sustainable growth in the near
 future.
-(cid:129) Our revenue from testing equipment increased by 74.5% from RMB219.9 million in the
+ Our revenue from testing equipment increased by 74.5% from RMB219.9 million in the
 ten months ended October 31, 2024 to RMB383.6 million in the ten months ended
 October 31, 2025, primarily due to (i) an increase in sales volume from 359 units in the
 ten months ended October 31, 2024 to 501 units in the ten months ended October 31,
@@ -14725,14 +14725,14 @@ testing equipment.
 
 === PAGE 367 ===
 FINANCIAL INFORMATION
-(cid:129) Our revenue from formation equipment increased by 18.2% from RMB201.0 million in
+ Our revenue from formation equipment increased by 18.2% from RMB201.0 million in
 the ten months ended October 31, 2024 to RMB237.6 million in the ten months ended
 October 31, 2025, primarily due to an increase in sales volume from 477 units in the ten
 months ended October 31, 2024 to 521 units in the ten months ended October 31, 2025,
 driven by the structural growth in demand in downstream application markets of AI
 servers, consumer electronic and automotive electronics. Meanwhile, the average selling
 price of our formation equipment remained stable during the same periods.
-(cid:129) Our revenue from attachment equipment increased by 47.3% from RMB64.8 million in
+ Our revenue from attachment equipment increased by 47.3% from RMB64.8 million in
 the ten months ended October 31, 2024 to RMB95.4 million in the ten months ended
 October 31, 2025, primarily due to (i) an increase in sales volume of attachment
 equipment from 168 units in the ten months ended October 31, 2024 to 208 units in the
@@ -14740,11 +14740,11 @@ ten months ended October 31, 2025, driven by the structural growth in the downst
 application markets; and (ii) an increase in average selling price for our attachment
 equipment due to the increase in sales of more advanced models of attachment
 equipment in the ten months ended October 31, 2025.
-(cid:129) We did not record any revenue from lamination equipment in the ten months ended
+ We did not record any revenue from lamination equipment in the ten months ended
 October 31, 2025, despite having received new orders and delivered equipment during
 the period, primarily because the acceptance period of lamination equipment is
 relatively long, and no lamination equipment was accepted during such period.
-(cid:129) Our revenue from others increased by 12.4% from RMB226.4 million in the ten months
+ Our revenue from others increased by 12.4% from RMB226.4 million in the ten months
 ended October 31, 2024 to RMB254.3 million in the ten months ended October 31,
 2025, primarily due to an increase in maintenance work driven by the continuous
 increase in accumulated equipment sales.
@@ -14763,29 +14763,29 @@ the ten months ended October 31, 2024 to RMB1,342.9 million in the ten months en
 31, 2025. Our gross profit margin increased from 26.2% in the ten months ended October 31, 2024
 to 31.1% in the ten months ended October 31, 2025, primarily due to an increase in the gross
 profit margin of our drilling equipment.
-(cid:129) The gross profit of our drilling equipment increased from RMB372.2 million in the ten
+ The gross profit of our drilling equipment increased from RMB372.2 million in the ten
 months ended October 31, 2024 to RMB871.7 million in the ten months ended October
 31, 2025. The gross profit margin of our drilling equipment increased from 23.0% in the
 ten months ended October 31, 2024 to 28.2% in the ten months ended October 31, 2025
 primarily due to an increase in the proportion of sales of our high-precision drilling
 equipment, which carries a relatively higher gross profit margin.
-(cid:129) The gross profit of our photolithography equipment increased from RMB95.5 million in
+ The gross profit of our photolithography equipment increased from RMB95.5 million in
 the ten months ended October 31, 2024 to RMB95.7 million in the ten months ended
 October 31, 2025. The gross profit margin of our photolithography equipment increased
 from 33.2% in the ten months ended October 31, 2024 to 38.7% in the ten months ended
 October 31, 2025 primarily due to the increased proportion of sales of models of
 relatively higher gross profit margin.
-(cid:129) The gross profit of our testing equipment increased from RMB92.3 million in the ten
+ The gross profit of our testing equipment increased from RMB92.3 million in the ten
 months ended October 31, 2024 to RMB156.4 million in the ten months ended October
 31, 2025. The gross profit margin of our testing equipment remained relatively stable at
 42.0% and 40.8% in the ten months ended October 31, 2024 and 2025, respectively.
-(cid:129) The gross profit of our formation equipment increased from RMB38.0 million in the ten
+ The gross profit of our formation equipment increased from RMB38.0 million in the ten
 months ended October 31, 2024 to RMB61.0 million in the ten months ended October
 31, 2025. The gross profit margin of our formation equipment increased from 18.9% in
 the ten months ended October 31, 2024 to 25.7% in the ten months ended October 31,
 2025 primarily due to an increase in sales of our high-precision formation equipment,
 which carries a relatively higher gross profit margin.
-(cid:129) The gross profit of our attachment equipment increased from RMB22.4 million in the
+ The gross profit of our attachment equipment increased from RMB22.4 million in the
 ten months ended October 31, 2024 to RMB37.2 million in the ten months ended
 October 31, 2025. The gross profit margin of our attachment equipment increased from
 34.6% in the ten months ended October 31, 2024 to 39.0% in the ten months ended
@@ -14795,7 +14795,7 @@ attachment equipment, which are of relatively higher gross profit margin.
 
 === PAGE 369 ===
 FINANCIAL INFORMATION
-(cid:129) The gross profit of others increased from RMB67.3 million in the ten months ended
+ The gross profit of others increased from RMB67.3 million in the ten months ended
 October 31, 2024 to RMB120.9 million in the ten months ended October 31, 2025. The
 gross profit margin of others increased from 29.7% in the ten months ended October 31,
 2024 to 47.5% in the ten months ended October 31, 2025, primarily due to our improved
@@ -14862,7 +14862,7 @@ in 2024, primarily due to an increase in demand for our specialized PCB producti
 driven by (i) the surge in demand for IT infrastructure in the AI industry chain; and (ii) the
 recovery of the consumer electronics sector and the technological upgrade of automotive
 electronics. Specifically:
-(cid:129) Our revenue from drilling equipment increased by 156.8% from RMB818.1 million in
+ Our revenue from drilling equipment increased by 156.8% from RMB818.1 million in
 2023 to RMB2,100.6 million in 2024, primarily due to an increase in sales volume from
 1,129 units in 2023 to 3,119 units in 2024, driven by (i) the structural growth in demand
 in downstream application markets of AI servers and automotive electronics; (ii)
@@ -14873,13 +14873,13 @@ market segment, with multi-terminal applications of smart phones, automotive
 electronics, and consumer electronics that significantly generated demand for our
 products, offset by a decrease in the average selling price of our drilling equipment,
 driven by our strategies to enhance market penetration.
-(cid:129) Our revenue from photolithography equipment increased by 79.9% from RMB189.2
+ Our revenue from photolithography equipment increased by 79.9% from RMB189.2
 million in 2023 to RMB340.3 million in 2024, primarily due to an increase in sales
 volume from 79 units in 2023 to 141 units in 2024, driven by the structural growth in
 demand in downstream application markets, particularly in sectors such as servers and
 data storage for AI infrastructure, as well as consumer electronics, such as personal
 computers and smartphones.
-(cid:129) Our revenue from testing equipment increased by 38.7% from RMB197.6 million in
+ Our revenue from testing equipment increased by 38.7% from RMB197.6 million in
 2023 to RMB274.1 million in 2024, primarily due to (i) an increase in sales volume
 from 400 units in 2023 to 446 units in 2024, driven by the structural growth in testing
 demand in downstream application markets of AI servers and optical modules; and (ii)
@@ -14891,13 +14891,13 @@ meet more customer needs, and therefore led to more premium pricing.
 
 === PAGE 372 ===
 FINANCIAL INFORMATION
-(cid:129) Our revenue from formation equipment increased by 66.8% from RMB152.3 million in
+ Our revenue from formation equipment increased by 66.8% from RMB152.3 million in
 2023 to RMB254.1 million in 2024, primarily due to an increase in sales volume from
 289 units in 2023 to 596 units in 2024, driven by the structural growth in the multi-layer
 and HDI PCB sectors, partially offset by a decrease in average selling price of our
 formation equipment due to an increase in sales of mechanical formation equipment
 which typically has lower gross profit margins.
-(cid:129) Our revenue from attachment equipment increased by 49.5% from RMB54.8 million in
+ Our revenue from attachment equipment increased by 49.5% from RMB54.8 million in
 2023 to RMB81.9 million in 2024, primarily due to (i) an increase in sales volume of
 attachment equipment from 183 units in 2023 to 206 units in 2024, driven by the
 structural growth in the downstream application markets; and (ii) an increase in average
@@ -14907,9 +14907,9 @@ attachment equipment offers enhancements over previously sold models, including 
 ability to accommodate larger workpieces, deliver higher processing efficiency and
 precision, and handle a wider range of materials, thereby providing greater value to
 customers and generally selling at higher prices over previous models.
-(cid:129) We started to generate revenue from lamination equipment in 2024, with sale of two
+ We started to generate revenue from lamination equipment in 2024, with sale of two
 units in 2024. In 2024, we had revenue from lamination equipment of RMB9.8 million.
-(cid:129) Our revenue from others increased by 26.8% from RMB222.4 million in 2023 to
+ Our revenue from others increased by 26.8% from RMB222.4 million in 2023 to
 RMB282.1 million in 2024, primarily as a result of an increase in maintenance work
 driven by the continuous increase in accumulated equipment sales.
 Cost of Sales
@@ -14925,7 +14925,7 @@ As a result of the foregoing, our gross profit increased by 90.3% from RMB476.9 
 2023 to RMB907.7 million in 2024. Our gross profit margin slightly decreased from 29.2% in
 2023 to 27.2% in 2024, primarily due to a decrease in the gross profit margin of our drilling
 equipment.
-(cid:129) The gross profit of our drilling equipment increased from RMB204.5 million in 2023 to
+ The gross profit of our drilling equipment increased from RMB204.5 million in 2023 to
 RMB497.9 million in 2024. The gross profit margin of our drilling equipment decreased
 from 25.0% in 2023 to 23.7% in 2024, mainly due to an increase in sales of
 new-generation drilling equipment, which typically has a lower gross profit margin
@@ -14933,20 +14933,20 @@ because at its early stage of commercialization, it had yet to fully capitalize 
 economies of scale and therefore bore high manufacturing costs. In addition, we
 downward adjusted the average selling price of our drilling equipment as a part of our
 efforts to enhance market penetration.
-(cid:129) The gross profit of our photolithography equipment increased from RMB67.0 million in
+ The gross profit of our photolithography equipment increased from RMB67.0 million in
 2023 to RMB118.3 million in 2024. The gross profit margin of our photolithography
 equipment remained relatively stable at 35.4% in 2023 and 34.8% in 2024.
-(cid:129) The gross profit of our testing equipment increased from RMB72.1 million in 2023 to
+ The gross profit of our testing equipment increased from RMB72.1 million in 2023 to
 RMB112.1 million in 2024. The gross profit margin of our testing equipment increased
 from 36.5% in 2023 to 40.9% in 2024, primarily due to an increase in sales of
 new-generation testing equipment products resulting from the increase in downstream
 customers’ investment in new production lines and the mass production of our newly
 developed testing equipment, which offer higher precision and meet more customer
 needs, and therefore led to more premium pricing.
-(cid:129) The gross profit of our formation equipment increased from RMB31.1 million in 2023
+ The gross profit of our formation equipment increased from RMB31.1 million in 2023
 to RMB52.5 million in 2024. The gross profit margin of our formation equipment
 remained relatively stable at 20.4% in 2023 and 20.7% in 2024.
-(cid:129) The gross profit of our attachment equipment increased from RMB11.5 million in 2023
+ The gross profit of our attachment equipment increased from RMB11.5 million in 2023
 to RMB33.0 million in 2024. The gross profit margin of our attachment equipment
 increased from 21.0% in 2023 to 40.2% in 2024, mainly due to an increase in our ability
 to charge premium pricing for our wider range of attachment equipment products as
@@ -14955,12 +14955,12 @@ customers recognize the value of such products.
 
 === PAGE 374 ===
 FINANCIAL INFORMATION
-(cid:129) The gross loss of our lamination equipment was RMB0.6 million in 2024. We incurred
+ The gross loss of our lamination equipment was RMB0.6 million in 2024. We incurred
 gross loss margin of 5.8% for our lamination equipment in 2024, which was mainly
 because our lamination equipment was at its early stage of commercialization, and had
 yet to fully capitalize on economies of scale and therefore bore high manufacturing
 costs.
-(cid:129) The gross profit of others increased from RMB90.6 million in 2023 to RMB94.4 million
+ The gross profit of others increased from RMB90.6 million in 2023 to RMB94.4 million
 in 2024. The gross profit margin of others decreased from 40.7% in 2023 to 33.5% in
 2024, primarily due to our implementation of strategic measures on after-sales
 maintenance services to stimulate sales in light of the the inactive downstream markets
@@ -15042,17 +15042,17 @@ vehicle production and sales schedules, and structural shortages of automotive-g
 result, production volumes fell short of expectations, thereby constraining PCB demand within the
 automotive industry. Additionally, the surplus inventory accumulated by automakers in 2022
 translated into destocking pressures throughout 2023. Specifically:
-(cid:129) Our revenue from drilling equipment decreased by 50.9% from RMB1,666.8 million in
+ Our revenue from drilling equipment decreased by 50.9% from RMB1,666.8 million in
 2022 to RMB818.1 million in 2023, primarily due to a decrease in sales volume from
 2,514 units in 2022 to 1,129 units in 2023 while the average selling price of our drilling
 equipment increased, resulting from the increase in the proportion of sales of laser
 drilling equipment which has a higher average selling price.
-(cid:129) Our revenue from photolithography equipment decreased by 53.1% from RMB403.6
+ Our revenue from photolithography equipment decreased by 53.1% from RMB403.6
 million in 2022 to RMB189.2 million in 2023, primarily due to a decrease in sales
 volume from 132 units in 2022 to 79 units in 2023 and a decrease in the average selling
 price of our photolithography equipment, resulting from the increase in the proportion of
 sales of photolithography equipment which has a lower average selling price.
-(cid:129) Our revenue from testing equipment decreased by 30.5% from RMB284.3 million in
+ Our revenue from testing equipment decreased by 30.5% from RMB284.3 million in
 2022 to RMB197.6 million in 2023, primarily due to a decrease in sales volume from
 519 units in 2022 to 400 units in 2023 and a decrease in the average selling price of our
 testing equipment, resulting from the decrease in the proportion of sales of testing
@@ -15061,19 +15061,19 @@ equipment which has a higher average selling price.
 
 === PAGE 377 ===
 FINANCIAL INFORMATION
-(cid:129) Our revenue from formation equipment decreased by 29.1% from RMB214.9 million in
+ Our revenue from formation equipment decreased by 29.1% from RMB214.9 million in
 2022 to RMB152.3 million in 2023, primarily due to a decrease in sales volume from
 463 units in 2022 to 289 units in 2023 while the average selling price of our formation
 equipment increased, resulting from the increase in the proportion of sales of laser
 formation equipment which has a higher average selling price.
-(cid:129) Our revenue from attachment equipment increased by 132.2% from RMB23.6 million in
+ Our revenue from attachment equipment increased by 132.2% from RMB23.6 million in
 2022 to RMB54.8 million in 2023, primarily due to an increase in sales volume of
 attachment equipment from 74 units in 2022 to 183 units in 2023, driven by our
 increased market share in the attachment equipment sector. However, the average selling
 price of our attachment equipment decreased, primarily because, in light of intensified
 market competition, we implemented competitive pricing for our older version
 equipment to increase sales.
-(cid:129) Our revenue from others increased by 15.3% from RMB192.9 million in 2022 to
+ Our revenue from others increased by 15.3% from RMB192.9 million in 2022 to
 RMB222.4 million in 2023, primarily as a result of an increase in maintenance work
 driven by the continuous increase in accumulated equipment sales.
 Cost of Sales
@@ -15084,7 +15084,7 @@ Gross Profit and Gross Profit Margin
 As a result of the foregoing, our gross profit decreased by 49.7% from RMB947.8 million in
 2022 to RMB476.9 million in 2023. Our gross profit margin decreased from 34.0% in 2022 to
 29.2% in 2023, primarily due to a decrease in the gross profit margin of our drilling equipment.
-(cid:129) The gross profit of our drilling equipment decreased from RMB511.2 million in 2022 to
+ The gross profit of our drilling equipment decreased from RMB511.2 million in 2022 to
 RMB204.5 million in 2023. The gross profit margin of our drilling equipment decreased
 from 30.7% in 2022 to 25.0% in 2023, mainly due to (i) our offering of competitive
 pricing as a result of heightened market competition and reduced demand for new
@@ -15096,25 +15096,25 @@ therefore bore high manufacturing costs.
 
 === PAGE 378 ===
 FINANCIAL INFORMATION
-(cid:129) The gross profit of our photolithography equipment decreased from RMB177.3 million
+ The gross profit of our photolithography equipment decreased from RMB177.3 million
 in 2022 to RMB67.0 million in 2023. The gross profit margin of our photolithography
 equipment decreased from 43.9% in 2022 to 35.4% in 2023, mainly due to our offering
 competitive pricing, due to heightened market competition and reduced demand for new
 equipment from PCB manufacturers.
-(cid:129) The gross profit of our testing equipment decreased from RMB107.3 million in 2022 to
+ The gross profit of our testing equipment decreased from RMB107.3 million in 2022 to
 RMB72.1 million in 2023. The gross profit margin of our testing equipment remained
 relatively stable at 37.7% in 2022 and 36.5% in 2023.
-(cid:129) The gross profit of our formation equipment decreased from RMB38.3 million in 2022
+ The gross profit of our formation equipment decreased from RMB38.3 million in 2022
 to RMB31.1 million in 2023. The gross profit margin of our formation equipment
 increased from 17.8% in 2022 to 20.4% in 2023, mainly due to an increase in the
 proportion of sales of laser formation equipment, which typically is of higher gross
 profit margin.
-(cid:129) The gross profit of our attachment equipment increased from RMB6.1 million in 2022 to
+ The gross profit of our attachment equipment increased from RMB6.1 million in 2022 to
 RMB11.5 million in 2023. The gross profit margin of our attachment equipment
 decreased from 26.0% in 2022 to 21.0% in 2023, primarily as a result of our adoption of
 competitive pricing for our older version equipment to increase sales amid intensified
 market competition.
-(cid:129) The gross profit of others decreased from RMB107.6 million in 2022 to RMB90.6
+ The gross profit of others decreased from RMB107.6 million in 2022 to RMB90.6
 million in 2023. The gross profit margin of others decreased from 55.8% to 40.7% in
 2023, primarily due to our implementation of strategic measures on after-sales
 maintenance services to stimulate sales in light of the the inactive downstream markets
@@ -15785,14 +15785,14 @@ activities of RMB123.3 million.
 FINANCIAL INFORMATION
 To reduce such turnover days and improve operating cash flow position, we focused on the
 following, which we also continued to implement and improve in 2025:
-(cid:129) maintaining steady cash flow operations and budgeting by enhancing cash flow
+ maintaining steady cash flow operations and budgeting by enhancing cash flow
 forecasting and payment scheduling with an aim to optimize payment timing and
 maintain a balance between cash payments and the need to support essential operational
 expenditure and procurement;
-(cid:129) collaborating with the sales department to set collection targets;
-(cid:129) adopting quarterly rolling budgets, and conducting reviews and analyses on variances
+ collaborating with the sales department to set collection targets;
+ adopting quarterly rolling budgets, and conducting reviews and analyses on variances
 between budgeted and actual figures to identify underlying reasons; and
-(cid:129) following up on customer payments in a timely manner, including implementing targeted
+ following up on customer payments in a timely manner, including implementing targeted
 collection strategies, particularly for customers with longer outstanding receivables.
 We also enhanced collection efforts in the last two months of 2024, adopted bank acceptance
 bills to optimize the procurement payment cycle, and incentivized our sales personnel to expedite
@@ -16197,7 +16197,7 @@ commencement of improving the production capacity and enhancing the R&D and oper
 capabilities is contingent upon receipt of proceeds from the Global Offering.
 Specifically, we intend to use the proceeds from the Global Offering for the purposes and in
 the amounts set forth below:
-(cid:129) approximately 50.0% of the net proceeds, or HK$2,315.3 million, will be used in
+ approximately 50.0% of the net proceeds, or HK$2,315.3 million, will be used in
 enhancing the R&D and operational capabilities. We intend to better understand and
 meet the needs of our overseas customers, especially responding quickly to those in
 areas of AI servers, NEVs, and next-generation intelligent terminals. We aim to ensure
@@ -16209,14 +16209,14 @@ laboratories and centers dedicated to research collaboration and exchange. Our g
 continuously develop innovative solutions in areas of high-end PCBs, advanced
 packaging substrates and new materials processing, thereby enhancing our brand
 recognition among end customers.
-(cid:129) approximately 40.0% of the net proceeds, or HK$1,852.3 million, will be used to
+ approximately 40.0% of the net proceeds, or HK$1,852.3 million, will be used to
 increase investments in R&D and enhance our core technological and innovative
 capabilities, which include establishing a technology platform for PCB equipment
 and diversifying our product portfolio.
-(cid:129) approximately 24.0% of the net proceeds, or HK$1,111.4 million, will be used
+ approximately 24.0% of the net proceeds, or HK$1,111.4 million, will be used
 to enrich the technology platform for PCB equipment and diversify our
 product portfolio. Specifically:
-(cid:129) approximately 12.0%, or HK$555.7 million, will be used to continuously
+ approximately 12.0%, or HK$555.7 million, will be used to continuously
 upgrade our technology platform for advanced PCB equipment. In
 particular, in the next three to five years, we will focus on the research
 and development of high-speed, high-multilevel and high-reliability PCB
@@ -16232,7 +16232,7 @@ FUTURE PLANS AND USE OF PROCEEDS
 transmission rates, robust power delivery and superior thermal
 management. In addition, to strengthen our R&D capabilities, we plan to
 procure advanced specialized hardware and software.
-(cid:129) approximately 8.0%, or HK$370.5 million, will be used for the R&D of
+ approximately 8.0%, or HK$370.5 million, will be used for the R&D of
 high-density and high-reliability packaging solutions for new energy
 automotive power systems and intelligent driving domain controllers. In
 particular, over the next three to five years, we intend to invest in the
@@ -16246,7 +16246,7 @@ improvement will enable precision processing and performance
 optimization across different materials, providing more reliable
 equipment solutions for the new energy vehicle and intelligent driving
 sectors.
-(cid:129) approximately 4.0%, or HK$185.2 million, will be used to continuously
+ approximately 4.0%, or HK$185.2 million, will be used to continuously
 strengthen the R&D of our core technologies. We intend to focus on the
 R&D of high-frequency high-speed material processing and HLC+HDI
 market-related technology. Through the research and development of
@@ -16256,10 +16256,10 @@ and efficiency, equipment performance and reliability. Simultaneously,
 we will continue to explore the development of intelligent detection
 technology, using innovative optical detection architecture and upgraded
 algorithm design, to create high-precision and efficient testing platform.
-(cid:129) approximately 16.0%, or HK$740.9 million, will be invested in the R&D of
+ approximately 16.0%, or HK$740.9 million, will be invested in the R&D of
 our products to further diversify our product portfolio and actively help us
 expand into the high-end market.
-(cid:129) approximately 12.0%, or HK$555.7 million, will be used in the research
+ approximately 12.0%, or HK$555.7 million, will be used in the research
 and development of new generation advanced specialized PCB
 equipment. New generation advanced PCB equipment will achieve
 extremely high alignment accuracy of ≤±5µm in processing capability to
@@ -16289,7 +16289,7 @@ to recruit and build an international R&D team of approximately 200 to
 250 top R&D talents. We also plan to customize core components and
 optimize equipment designing with distributions to further enrich our
 product portfolios.
-(cid:129) approximately 4.0%, or HK$185.2 million, will be used to strengthen the
+ approximately 4.0%, or HK$185.2 million, will be used to strengthen the
 technical compatibility of equipment in overseas markets. We will
 promote the localization of advanced equipment in overseas markets and
 continue to develop new generation specialized PCB equipment that
@@ -16297,7 +16297,7 @@ aligns with international standards. Through in-depth market research,
 we aim to understand local markets and key customer needs, optimize
 equipment performance and improve equipment intelligence, thereby
 making products better tailored to meet local production needs.
-(cid:129) approximately 5.0% of the net proceeds, or HK$231.5 million, will be used to
+ approximately 5.0% of the net proceeds, or HK$231.5 million, will be used to
 expand our overseas products sales and marketing capabilities and improve our
 global distribution channels and sales networks, in order to increase our brand’s
 global recognition. We intend to recruit overseas sales representatives and sales
@@ -16313,7 +16313,7 @@ demeanour and hold a bachelor’s degree or above.
 
 === PAGE 412 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) approximately 5.0% of the net proceeds, or HK$231.5 million, will be used to
+ approximately 5.0% of the net proceeds, or HK$231.5 million, will be used to
 establish after-sales service teams dedicated to technical and spare parts support
 and fund related after-sales activities, such as customer visits, to ensure prompt
 responses to local customer needs, thereby enhancing customer loyalty and brand
@@ -16321,7 +16321,7 @@ recognition. In particular, we expect to recruit approximately 80 to 100 after-s
 professionals responsible for after-sale maintenance. Such personnel should have at
 least two years’ experience in specialized equipment for the electronics industry
 and hold a bachelor’s degree or above.
-(cid:129) approximately 40.0% of the net proceeds, or HK$1,852.3 million, will be used in
+ approximately 40.0% of the net proceeds, or HK$1,852.3 million, will be used in
 improving the production capacity for specialized PCB equipment. To seize the trend in
 China’s PCB industry moving towards high-end and precision development and to meet
 domestic and overseas customer’ demand for advanced technical requirement of PCB
@@ -16357,7 +16357,7 @@ leading to higher production costs. At the same time, the improved performance a
 precision of the new equipment will justify a higher selling price, enabling us to capture
 greater value within the high-end market segment. As a result, our improved production
 capacity is expected to have a relatively large and positive impact on our total revenue.
-(cid:129) approximately 20.0% of the net proceeds, or HK$926.1 million, will be used for
+ approximately 20.0% of the net proceeds, or HK$926.1 million, will be used for
 the procurement of raw materials and consumables and additional production
 equipment and devices. In particular, we intend to procure core raw materials and
 key consumables in the initial stage of productions, including spindles, control
@@ -16368,7 +16368,7 @@ ramp-up of initial production capacity. In addition, we intend to procure necess
 production equipment and testing devices to optimize key manufacturing stages.
 Such procurement comprehensively enhances the level of production automation
 and improves the reliability of product quality.
-(cid:129) approximately 15.0% of the net proceeds, or HK$694.6 million, will be used to
+ approximately 15.0% of the net proceeds, or HK$694.6 million, will be used to
 recruit production personnel and other supporting staff. We intend to hire
 approximately 370 staff, comprising (i) approximately 320 production staff
 responsible for formulating production plans based on orders or market demand to
@@ -16390,7 +16390,7 @@ preferably have a background in human resources and sociology.
 
 === PAGE 414 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) approximately 5.0% of the net proceeds, or HK$231.5 million, will be used to
+ approximately 5.0% of the net proceeds, or HK$231.5 million, will be used to
 comprehensively enhance our global supply chain and operational capability.
 Specifically, we intend to:
 (i) build an integrated supply chain digital platform. We will deploy a
@@ -16423,7 +16423,7 @@ gradually implement green procurement policies, with an aim to
 systematically enhance the environmental and social responsibility
 performance of the entire supply chain, thereby meeting the sustainability
 requirements of international customers and regulatory bodies.
-(cid:129) approximately 10.0% of the net proceeds, or HK$463.1 million, will be used as working
+ approximately 10.0% of the net proceeds, or HK$463.1 million, will be used as working
 capital and for general corporate uses to support our daily operations and future
 business development.
 – 404 –
@@ -16905,13 +16905,13 @@ Shares, the liquidity or trading volume in the H Shares and the volatility of th
 Shares, and the extent to which this occurs from day to day cannot be estimated.
 It should be noted that when engaging in any of these activities, the Syndicate Members will
 be subject to certain restrictions, including the following:
-(cid:129) the Syndicate Members (other than the Stabilizing Manager or any person acting for it)
+ the Syndicate Members (other than the Stabilizing Manager or any person acting for it)
 must not, in connection with the distribution of the Offer Shares, effect any transactions
 (including issuing or entering into any option or other derivative transactions relating to
 the Offer Shares), whether in the open market or otherwise, with a view to stabilizing or
 maintaining the market price of any of the Offer Shares at levels other than those which
 might otherwise prevail in the open market; and
-(cid:129) the Syndicate Members must comply with all applicable laws and regulations, including
+ the Syndicate Members must comply with all applicable laws and regulations, including
 the market misconduct provisions of the SFO, including the provisions prohibiting
 insider dealing, false trading, price rigging and stock market manipulation.
 Certain of the Syndicate Members or their respective affiliates have provided from time to
@@ -16933,10 +16933,10 @@ Exchange for the listing of, and permission to deal in, the H Shares to be issue
 this Prospectus.
 50,451,800 Offer Shares will initially be made available under the Global Offering
 comprising:
-(cid:129) the Hong Kong Public Offering of initially 5,045,200 Offer Shares (subject to
+ the Hong Kong Public Offering of initially 5,045,200 Offer Shares (subject to
 reallocation) in Hong Kong as described in “— The Hong Kong Public Offering” below;
 and
-(cid:129) the International Offering of initially 45,406,600 Offer Shares (subject to reallocation
+ the International Offering of initially 45,406,600 Offer Shares (subject to reallocation
 and the Over-allotment Option) (i) in the United States solely to QIBs in reliance on
 Rule 144A or another exemption from, or in a transaction not subject to, the registration
 requirements of the U.S. Securities Act and (ii) outside the United States in offshore
@@ -17157,22 +17157,22 @@ selling or agreeing to sell any H Shares in order to liquidate any position esta
 those purchases, and (f) offering or attempting to do anything as described in clauses (b), (c), (d)
 or (e) above.
 Specifically, prospective applicants for and investors in the Offer Shares should note that:
-(cid:129) the Stabilizing Manager (or any person acting for it) may, in connection with the
+ the Stabilizing Manager (or any person acting for it) may, in connection with the
 stabilizing action, maintain a long position in the H Shares;
-(cid:129) there is no certainty as to the extent to which and the time or period for which the
+ there is no certainty as to the extent to which and the time or period for which the
 Stabilizing Manager (or any person acting for it) will maintain such a long position;
-(cid:129) liquidation of any such long position by the Stabilizing Manager (or any person acting
+ liquidation of any such long position by the Stabilizing Manager (or any person acting
 for it) and selling in the open market may have an adverse impact on the market price of
 the H Shares;
-(cid:129) no stabilizing action can be taken to support the price of the H Shares for longer than
+ no stabilizing action can be taken to support the price of the H Shares for longer than
 the stabilization period, which will begin on the Listing Date, and is expected to expire
 on Thursday, March 5, 2026, being the 30th day after the last day for lodging
 applications under the Hong Kong Public Offering. After this date, when no further
 stabilizing action may be taken, demand for the H Shares, and therefore the price of the
 H Shares, could fall;
-(cid:129) the price of the H Shares cannot be assured to stay at or above the Offer Price by the
+ the price of the H Shares cannot be assured to stay at or above the Offer Price by the
 taking of any stabilizing action; and
-(cid:129) stabilizing bids or transactions effected in the course of the stabilizing action may be
+ stabilizing bids or transactions effected in the course of the stabilizing action may be
 made at any price at or below the Offer Price and can, therefore, be done at a price
 below the price paid by applicants for, or investors in, the Offer Shares.
 The Company will ensure that an announcement in compliance with the Securities and
@@ -17261,15 +17261,15 @@ These underwriting arrangements, including the Underwriting Agreements, are summ
 “Underwriting.”
 CONDITIONS OF THE GLOBAL OFFERING
 Acceptance of all applications for Offer Shares will be conditional on:
-(cid:129) the Stock Exchange granting approval for the listing of, and permission to deal in, the H
+ the Stock Exchange granting approval for the listing of, and permission to deal in, the H
 Shares to be issued as mentioned in this Prospectus, on the Main Board of the Stock
 Exchange and such approval not subsequently having been withdrawn or revoked prior
 to the Listing Date;
-(cid:129) the pricing of the Offer Shares having been agreed between the Sponsor-Overall
+ the pricing of the Offer Shares having been agreed between the Sponsor-Overall
 Coordinator (for itself and on behalf of the Underwriters) and the Company;
-(cid:129) the execution and delivery of the International Underwriting Agreement on or around
+ the execution and delivery of the International Underwriting Agreement on or around
 the Price Determination Date; and
-(cid:129) the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
+ the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
 Agreement and the obligations of the International Underwriters under the International
 Underwriting Agreement becoming and remaining unconditional and not having been
 terminated in accordance with the terms of the respective agreements,
@@ -17323,25 +17323,25 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you are
 applying for:
-(cid:129) are 18 years of age or older;
-(cid:129) have a Hong Kong address (for the HK eIPO White Form service only); and
-(cid:129) are outside the United States (within the meaning of Regulation S) or are a person
+ are 18 years of age or older;
+ have a Hong Kong address (for the HK eIPO White Form service only); and
+ are outside the United States (within the meaning of Regulation S) or are a person
 described in paragraph (h)(3) of Rule 902 of Regulation S.
 Unless permitted by the Listing Rules and/or the Guide for New Listing Applicants or a
 waiver and/or consent has been granted by the Stock Exchange to the Company, you cannot apply
 for any Hong Kong Offer Shares if you or the person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder of the Company;
-(cid:129) are a Director or chief executive of the Company and/or a director, supervisor or chief
+ are an existing Shareholder of the Company;
+ are a Director or chief executive of the Company and/or a director, supervisor or chief
 executive of any of its subsidiaries;
-(cid:129) are a close associate (as defined in the Listing Rules) of any of the above persons;
+ are a close associate (as defined in the Listing Rules) of any of the above persons;
 – 430 –
 
 === PAGE 441 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) are a connected person (as defined in the Listing Rules) of the Company or will become
+ are a connected person (as defined in the Listing Rules) of the Company or will become
 a connected person of the Company immediately upon the completion of the Global
 Offering; or
-(cid:129) have been allocated or have applied for or indicated an interest in any International
+ have been allocated or have applied for or indicated an interest in any International
 Offer Shares or otherwise participate in the International Offering.
 2. Application Channels
 The Hong Kong Public Offering period will begin at 9:00 a.m. on Thursday, January 29,
@@ -17425,17 +17425,17 @@ terms and conditions of this Prospectus.
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual/JointApplicants For CorporateApplicants
-(cid:129) Full name(s) as shown on your identity (cid:129) Full name(s) as shown on your identity
+ Full name(s) as shown on your identity Full name(s) as shown on your identity
 document document
-(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
+ Identity document’s issuing country or Identity document’s issuing country or
 jurisdiction jurisdiction
-(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
+ Identity document type, with order of Identity document type, with order of
 priority: priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification document; or ii. Certificate of incorporation; or
 iii. Passport; and iii. Business registration certificate; or
-(cid:129) Identity document number iv. Other equivalent document; and
-(cid:129) Identity document number
+ Identity document number iv. Other equivalent document; and
+ Identity document number
 – 433 –
 
 === PAGE 444 ===
@@ -17469,9 +17469,9 @@ benefit and you should provide the required information in your application as s
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any other stock
 exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) hold more than half of the issued share capital of the company (not counting any part of it which carries no
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ hold more than half of the issued share capital of the company (not counting any part of it which carries no
 right to participate beyond a specified amount in a distribution of either profits or capital).
 For those applying through HKSCC EIPO channel, and making an application under a power
 of attorney, the Company and the Sponsor-Overall Coordinator, as the Company’s agent, have
@@ -17728,21 +17728,21 @@ of any application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not grant
 permission to list the H Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
+ within three weeks from the closing date of the application lists; or
 – 441 –
 
 === PAGE 452 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies the Company of
+ within a longer period of up to six weeks if the Stock Exchange notifies the Company of
 that longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications. You may refer to the
+ you make multiple applications or suspected multiple applications. You may refer to the
 paragraph headed “— A. Application for Hong Kong Offer Shares — 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) the Company or the Sponsor-Overall Coordinator believes that by accepting your
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ the Company or the Sponsor-Overall Coordinator believes that by accepting your
 application, it or the Company would violate applicable securities or other laws, rules or
 regulations.
 5. If there is money settlement failure for allotted Offer Shares:
@@ -17847,9 +17847,9 @@ post at your own risk
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Tuesday, February 3, 2026 if, there is:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) an Extreme Condition,
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ an Extreme Condition,
 (collectively, the “Severe Weather Signal(s)”), in force in Hong Kong at any time between 9:00
 a.m. and 12:00 noon on Tuesday, February 3, 2026.
 Instead they will open between 11:45 a.m. and 12:00 noon and/or close at 12:00 noon on the
@@ -17922,27 +17922,27 @@ Company and the H Share Registrar immediately of any inaccuracies in the persona
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for the
 following purposes:
-(cid:129) processing your application and refund check and HK eIPO White Form e-Auto
+ processing your application and refund check and HK eIPO White Form e-Auto
 Refund payment instruction(s), where applicable, verification of compliance with the
 terms and application procedures set out in this Prospectus and announcing results of
 allocation of Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the H
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the H
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
+ maintaining or updating the register of members of the Company;
 – 447 –
 
 === PAGE 458 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) verifying identities of applicants for and holders of the H Shares and identifying any
+ verifying identities of applicants for and holders of the H Shares and identifying any
 duplicate applications for the H Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the H Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the H Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the H Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable the
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the H Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to enable the
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the H Shares and/or regulators and/or any other purposes to which applicants
 and holders of the H Shares may from time to time agree.
@@ -17952,25 +17952,25 @@ and holders of Hong Kong Offer Shares will be kept confidential but the Company 
 Share Registrar may, to the extent necessary for achieving any of the above purposes, disclose,
 obtain or transfer (whether within or outside Hong Kong) the personal data to, from or with any of
 the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving banks and
+ the Company’s appointed agents such as financial advisers, receiving banks and
 principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar, in each case for the purposes of providing its
 services or facilities or performing its functions in accordance with its rules or
 procedures and operating FINI and CCASS (including where applicants for the Hong
 Kong Offer Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H
 Share Registrar in connection with their respective business operations;
 – 448 –
 
 === PAGE 459 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies
 or otherwise as required by laws, rules or regulations, including for the purpose of the
 Stock Exchange’s administration of the Listing Rules and the SFC’s performance of its
 statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have or
+ any persons or institutions with which the holders of Hong Kong Offer Shares have or
 propose to have dealings, such as their bankers, solicitors, accountants or brokers etc.
 5. Retention of personal data
 The Company and the H Share Registrar will keep the personal data of the applicants and
@@ -19190,8 +19190,8 @@ Derecognition of financial assets
 A financial asset (or, where applicable, a part of a financial asset or part of a group of similar
 financial assets) is primarily derecognised (i.e., removed from the Group’s consolidated statement
 of financial position) when:
-(cid:129) the rights to receive cash flows from the asset have expired; or
-(cid:129) the Group has transferred its rights to receive cash flows from the asset or has assumed
+ the rights to receive cash flows from the asset have expired; or
+ the Group has transferred its rights to receive cash flows from the asset or has assumed
 an obligation to pay the received cash flows in full without material delay to a third
 party under a “pass-through” arrangement; and either (a) the Group has transferred
 substantially all the risks and rewards of the asset, or (b) the Group has neither
@@ -19356,11 +19356,11 @@ Deferred tax is provided, using the liability method, on all temporary differenc
 of each of the Relevant Periods between the tax bases of assets and liabilities and their carrying
 amounts for financial reporting purposes.
 Deferred tax liabilities are recognised for all taxable temporary differences, except:
-(cid:129) when the deferred tax liability arises from the initial recognition of goodwill or an asset
+ when the deferred tax liability arises from the initial recognition of goodwill or an asset
 or liability in a transaction that is not a business combination and, at the time of the
 transaction, affects neither the accounting profit nor taxable profit or loss and does not
 give rise to equal taxable and deductible temporary differences; and
-(cid:129) in respect of taxable temporary differences associated with investments in subsidiaries
+ in respect of taxable temporary differences associated with investments in subsidiaries
 and associates, when the timing of the reversal of the temporary differences can be
 controlled and it is probable that the temporary differences will not reverse in the
 foreseeable future.
@@ -19373,12 +19373,12 @@ carryforward of unused tax credits and any unused tax losses. Deferred tax asset
 the extent that it is probable that taxable profit will be available against which the deductible
 temporary differences, and the carryforward of unused tax credits and unused tax losses can be
 utilised, except:
-(cid:129) when the deferred tax asset relating to the deductible temporary differences arises from
+ when the deferred tax asset relating to the deductible temporary differences arises from
 the initial recognition of an asset or liability in a transaction that is not a business
 combination and, at the time of the transaction, affects neither the accounting profit nor
 taxable profit or loss and does not give rise to equal taxable and deductible temporary
 differences; and
-(cid:129) in respect of deductible temporary differences associated with investments in
+ in respect of deductible temporary differences associated with investments in
 subsidiaries, and associates, deferred tax assets are only recognised to the extent that it
 is probable that the temporary differences will reverse in the foreseeable future and
 taxable profit will be available against which the temporary differences can be utilised.
@@ -20819,9 +20819,9 @@ A CGU to which goodwill has been allocated is tested for impairment by the manag
 annually, and whenever there is an indication that the unit may be impaired.
 Goodwill acquired through business combinations is allocated to the following
 cash-generating units for impairment testing:
-(cid:129) Shenzhen Mason Electronics Co., Ltd. cash-generating unit;
-(cid:129) Advanced Intelligent Machine Co., Ltd. cash-generating unit; and
-(cid:129) Shenzhen Han’s Rayleigh Taide Precision Coating Co., Ltd. cash-generating unit.
+ Shenzhen Mason Electronics Co., Ltd. cash-generating unit;
+ Advanced Intelligent Machine Co., Ltd. cash-generating unit; and
+ Shenzhen Han’s Rayleigh Taide Precision Coating Co., Ltd. cash-generating unit.
 – I-87 –
 
 === PAGE 547 ===
@@ -23635,8 +23635,8 @@ procedures to assess whether the applicable criteria used by the Directors in th
 Unaudited Pro Forma Financial Information provide a reasonable basis for presenting the
 significant effects directly attributable to the transaction, and to obtain sufficient appropriate
 evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the Unaudited Pro Forma Financial Information reflects the proper application of those
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the Unaudited Pro Forma Financial Information reflects the proper application of those
 adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgment, having regard to the
 reporting accountants’ understanding of the nature of the Group, the transaction in respect of

@@ -183,19 +183,19 @@ EXPECTED TIMETABLE(1)
 The results of allocations in the Hong Kong Public Offering (with successful applicants’
 identification document numbers, where appropriate) to be available through a variety of
 channels, including:
-(cid:129) in the announcement to be posted on our website and
+ in the announcement to be posted on our website and
 the website of the Stock Exchange at
 www.birentech.com and www.hkexnews.hk
 respectively. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11:00 p.m. on Wednesday,
 December 31, 2025
-(cid:129) from the “Allotment Results” page at the designated
+ from the “Allotment Results” page at the designated
 results of allocations website at www.hkeipo.hk/IPOResult
 (or www.tricor.com.hk/ipo/result) with
 a “search by ID” function from. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11:00 p.m. on
 Wednesday, December 31, 2025 to
 12:00 midnight on
 Tuesday, January 6, 2026
-(cid:129) from the allocation results telephone enquiry line
+ from the allocation results telephone enquiry line
 by calling +852 3691 8488 between 9:00 a.m.
 and 6:00 p.m. from. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .Friday, January 2, 2026
 to Wednesday, January 7, 2026
@@ -431,7 +431,7 @@ GPGPUChip OOAAMMM PCIe Server
 We have built our solutions upon five foundational pillars: a self-developed GPGPU
 architecture, system-on-chip (“SoC”) design, hardware system, software platform, and cluster
 deployment optimization at large scale. Specifically:
-(cid:129) Ourtechnologycapabilitiesandsolutionexcellenceareunderpinnedbyourin-house
+ Ourtechnologycapabilitiesandsolutionexcellenceareunderpinnedbyourin-house
 developed GPGPU architecture, which is purpose-built for handling large-scale AI
 workloads, especially LLM workloads, to accommodate expanding model sizes,
 parametersandcomplexities,whileofferinghigh-performanceandsuperiorgeneral-
@@ -439,7 +439,7 @@ purpose flexibility, energy-efficiency and scalability. The unified and continuo
 evolving GPGPU architecture is the core of our platform strategy and lays a solid
 foundation for fast iteration and development of next generation computing
 platform.
-(cid:129) Based on the self-developed GPGPU architecture, we design and launch a series of
+ Based on the self-developed GPGPU architecture, we design and launch a series of
 chips. According to CIC, we are the first company in China to package dual AI
 computingdiesusing2.5Dchiplettechnology,supportedbyoursuperiorSoCdesign
 and execution capabilities. We are among the first in the industry to support
@@ -451,7 +451,7 @@ production and commercialization with our first generation products.
 
 === PAGE 13 ===
 SUMMARY
-(cid:129) We have developed a comprehensive portfolio of high-performance hardware
+ We have developed a comprehensive portfolio of high-performance hardware
 systems in various form factors containing our self-developed GPGPUs chips, such
 as PCIe Card, open accelerator module (“OAM”), and servers. Our hardware
 systems support both air-cooled and liquid-cooled solutions, helping to reduce the
@@ -459,7 +459,7 @@ power usage effectiveness (“PUE”) and optimize energy efficiency of data cen
 and comply with applicable energy-saving requirements. We provide enterprises the
 mission-critical large-scale computing infrastructure that offers high performance,
 reliability, and scalability.
-(cid:129) WehavedevelopedtheBIRENSUPAsoftwareplatform,bridgingallofourhardware
+ WehavedevelopedtheBIRENSUPAsoftwareplatform,bridgingallofourhardware
 systems with diverse AI applications and scenarios. BIRENSUPA enables our
 hardware features, optimizes their performance and manages large-scale GPGPU
 clusters. It offers user a friendly programming interface, high performance libraries,
@@ -467,7 +467,7 @@ training and inference frameworks and comprehensive set of tool chains to
 streamline the development and deployment of AI solutions. Furthermore,
 BIRENSUPA is compatible with other third-party GPGPU computing software
 platforms, significantly reducing the migration cost to our GPGPU products.
-(cid:129) We have developed comprehensive solutions of large-scale intelligent computing
+ We have developed comprehensive solutions of large-scale intelligent computing
 cluster by integrating our hardware systems and software platform with other
 hardware infrastructure such as servers, storage, and networking equipment
 provided by partners. Our cluster management platform, BIRENCUBE, is designed
@@ -485,7 +485,7 @@ partnerships with large customers in each industry. These selected key industrie
 data centers, telecommunications, AI solutions, energy and utilities, financial technology, and
 Internet. With localized expertise and on-the-ground customer support, our solutions are
 designed to address unique needs of these customers.
-(cid:129) We started to generate revenue from our intelligent computing solutions in 2023.
+ We started to generate revenue from our intelligent computing solutions in 2023.
 During the year ended December 31, 2024 and for the six months ended June 30,
 2025, we had 14 and 12 customers for our Specialist Technology Product,
 respectively, contributing a revenue amounted to RMB336.8 million and RMB58.9
@@ -494,10 +494,10 @@ million, respectively.
 
 === PAGE 14 ===
 SUMMARY
-(cid:129) As of the Latest Practicable Date, we had 24 unfulfilled binding orders for our
+ As of the Latest Practicable Date, we had 24 unfulfilled binding orders for our
 Specialist Technology Product with a total value of approximately RMB821.8
 million.
-(cid:129) In addition, as of the Latest Practicable Date, we have entered into five framework
+ In addition, as of the Latest Practicable Date, we have entered into five framework
 sales agreements and 24 sales contracts for our Specialist Technology Product with
 a total value of approximately RMB1,240.7 million, which will contribute to our
 future revenue when realized.
@@ -540,21 +540,21 @@ performance, allowing customers to deploy GPU clusters securely and optimally.
 COMPETITIVE STRENGTHS
 Webelievethatthefollowingcompetitivestrengthshavecontributedto,andwillcontinue
 to contribute to our success and differentiate us from our competitors:
-(cid:129) Advanced technology and solution in general intelligent computing;
-(cid:129) Comprehensive software ecosystem;
-(cid:129) Proven commercialization results with high-quality customer base;
-(cid:129) Experienced R&D team with deep industry know-how; and
-(cid:129) Visionary management with a proven track record of innovation and
+ Advanced technology and solution in general intelligent computing;
+ Comprehensive software ecosystem;
+ Proven commercialization results with high-quality customer base;
+ Experienced R&D team with deep industry know-how; and
+ Visionary management with a proven track record of innovation and
 commercialization.
 OUR STRATEGIES
 We strive to achieve our long-term goal of enabling technology advancements and
 accelerating the applications of artificial intelligence.To achieve this goal, we intend to pursue
 the following strategies:
-(cid:129) Continue to invest in self-developed core technology;
-(cid:129) Further develop and optimize our solutions;
-(cid:129) Enhance our open ecosystem;
-(cid:129) Enhance our commercialization capabilities; and
-(cid:129) Attract and retain talent.
+ Continue to invest in self-developed core technology;
+ Further develop and optimize our solutions;
+ Enhance our open ecosystem;
+ Enhance our commercialization capabilities; and
+ Attract and retain talent.
 CORE TECHNOLOGIESAPPLIED IN OUR SPECIALIST TECHNOLOGY PRODUCT
 As a result of our continuous investment in research and development, we have a large
 number of core technologies that empower our Specialist Technology Product. The
@@ -687,7 +687,7 @@ We have categorized these risks and uncertainties into risks related to (i) our 
 industry; (ii) our intellectual properties; (iii) our financial positions and need for additional
 capital; (iv) doing business in the jurisdiction where we operate; and (v) the Global Offering.
 Some of the major risks we face include, but are not limited to, the following:
-(cid:129) We have a limited operating history and our ability to develop and manufacture our
+ We have a limited operating history and our ability to develop and manufacture our
 products and solutions on a large scale is unproven and still evolving, which makes
 it difficult to evaluate our current business and predict our future performance. Our
 historical financial and result of operations may not be indicative of our future
@@ -696,44 +696,44 @@ performance.
 
 === PAGE 19 ===
 SUMMARY
-(cid:129) The future commercial success of our products and solutions will depend on the
+ The future commercial success of our products and solutions will depend on the
 degree of their market acceptance and customer demand. Failure to estimate
 customer demand properly could lead to mismatches between supply and demand.
-(cid:129) If we fail to establish, expand and optimize an effective sales network for our
+ If we fail to establish, expand and optimize an effective sales network for our
 products and solutions, we may not be able to generate revenue as planned, and our
 business and results of operations could be adversely affected.
-(cid:129) Disruptions in our supply chain could delay our development plans.
-(cid:129) The success of our business is dependent upon our ability to introduce products or
+ Disruptions in our supply chain could delay our development plans.
+ The success of our business is dependent upon our ability to introduce products or
 solutions on a timely basis with features and performance levels that provide value
 to our customers while supporting and coinciding with significant industry
 transitions.
-(cid:129) We are investing heavily in our research and development, and such investment may
+ We are investing heavily in our research and development, and such investment may
 not generate the results we expect to achieve. Failure in developing, enhancing or
 adapting to new technologies and methodologies may make our technologies and
 products obsolete, which will materially adversely affect our business.
-(cid:129) If we are unable to attract, hire, retain and motivate our key executives, technical
+ If we are unable to attract, hire, retain and motivate our key executives, technical
 staffs and employees, our business may be harmed.
-(cid:129) We may not compete successfully in the intelligent computing solution industry.
-(cid:129) We are subject to the risks associated with international trade policies, international
+ We may not compete successfully in the intelligent computing solution industry.
+ We are subject to the risks associated with international trade policies, international
 export controls and economic sanctions, geopolitics and trade protection measures,
 and our business, financial condition and results of operations could be adversely
 affected.
-(cid:129) Effective October 17, 2023, BIS added certain entities of our Group to the Entity
+ Effective October 17, 2023, BIS added certain entities of our Group to the Entity
 List, which restricts their ability to purchase or otherwise access certain goods,
 software and technology.
-(cid:129) If we are unable to obtain and maintain patent and other intellectual property
+ If we are unable to obtain and maintain patent and other intellectual property
 protection for our technologies or products, or if the scope of such intellectual
 property rights obtained is not sufficiently broad, third parties could develop and
 commercialize products and technologies similar or identical to ours and compete
 directly against us, and our ability to successfully commercialize any product or
 technology may be adversely affected.
-(cid:129) In addition to patented technology, we rely on our unpatented proprietary
+ In addition to patented technology, we rely on our unpatented proprietary
 technology, trade secrets, processes and know-how.
 – 9 –
 
 === PAGE 20 ===
 SUMMARY
-(cid:129) We may be subject to intellectual property infringement claims, which could be time
+ We may be subject to intellectual property infringement claims, which could be time
 consuming or costly to defend, may lead to unfavorable publicity, and may result in
 diversion of our financial and management resources.
 SUMMARY OF HISTORICAL FINANCIAL INFORMATION
@@ -1129,7 +1129,7 @@ In the future, we aim to maintain sustainability and achieve profitability prima
 through: (i) optimizing our solutions to create value for customers; (ii) expanding customer
 base; and (iii) enhancing operational efficiency and economies of scale. For details, see
 “Business – Business Sustainability and Path to Profitability.”
-(cid:129) Optimizing Our Solutions to Create Value for Customers. We are dedicated to
+ Optimizing Our Solutions to Create Value for Customers. We are dedicated to
 providing high-quality intelligent computing solutions to address customers’ fast-
 growing computing demand across various industries to drive productivity,
 innovation and transformation. We plan to continue to create value for customers
@@ -1139,7 +1139,7 @@ among others.As we continue to advance our GPGPU and solution performance and
 expand production capacity to address customers’ critical business needs, we are
 able to capture additional monetization opportunities after the initial sale through
 recurring purchase.
-(cid:129) Expanding Customer Base. We employ an industry-focused, customer-centric
+ Expanding Customer Base. We employ an industry-focused, customer-centric
 approach to secure large enterprise customers in core verticals. Our strategy is to
 strategically partner with large customers in key industries with high demands for
 computing power. As compared to global competitors, our localized expertise in
@@ -1153,7 +1153,7 @@ AI solutions, energy and utilities, financial technology, and Internet, to under
 and address their unique needs. As our existing large customers benefit from our
 solutions, we will be able to establish industry standards and attract more new
 customers both in existing verticals and new verticals.
-(cid:129) Enhancing Operational Efficiency and Economies of Scale. During the Track
+ Enhancing Operational Efficiency and Economies of Scale. During the Track
 Record Period, we incurred significant research and development expenses and
 administrative expenses to develop and commercialize our intelligent computing
 solutions and manage our business. Moving forward, while scaling our business and
@@ -1232,17 +1232,17 @@ Global Offering and assuming the Offer Size Adjustment Option and the Over-allot
 Option are not exercised. In line with our strategies, we intend to use the proceeds from the
 Global Offering for the purposes and in the amounts set forth below:
 We intend to use the net proceeds as follows:
-(cid:129) Approximately 85.0%, or HK$3,698.0 million, will be used for the research and
+ Approximately 85.0%, or HK$3,698.0 million, will be used for the research and
 development of our intelligent computing solutions in the future, including the
 evolution of our intelligent computing hardware, and the development and upgrade
 of our software platform;
-(cid:129) Approximately 5.0%, or HK$217.5 million, will be used for the commercialization
+ Approximately 5.0%, or HK$217.5 million, will be used for the commercialization
 of our intelligent computing solution. Specifically, we plan to expand our sales and
 marketing team, carry out marketing and promotion activities such as setting up
 display centers or showrooms, and build a dedicated team to provide technical
 support to our customers. Through these efforts, we expect to establish our sales
 network, strengthen our customer relationship and create our brand impact;
-(cid:129) approximately 10.0%, or HK$435.1 million, will be used for working capital and
+ approximately 10.0%, or HK$435.1 million, will be used for working capital and
 other general corporate purposes.
 For details, see “Future Plans and Use of Proceeds.”
 OUR SHAREHOLDING STRUCTURE
@@ -2090,35 +2090,35 @@ results, performance or achievements expressed or implied by the forward-looking
 You are strongly cautioned that reliance on any forward-looking statements involves known
 and unknown risks and uncertainties. The risks and uncertainties facing us which could affect
 the accuracy of forward-looking statements include, but are not limited to, the following:
-(cid:129) our operations and business prospects;
-(cid:129) our ability to maintain relationship with, and the actions and developments
+ our operations and business prospects;
+ our ability to maintain relationship with, and the actions and developments
 affecting, our major customers and suppliers;
-(cid:129) future developments, trends and conditions in the industries and markets in which
+ future developments, trends and conditions in the industries and markets in which
 we operate or plan to operate;
-(cid:129) general economic, political and business conditions in the markets in which we
+ general economic, political and business conditions in the markets in which we
 operate;
-(cid:129) changes to the regulatory environment in the industries and markets in which we
+ changes to the regulatory environment in the industries and markets in which we
 operate;
-(cid:129) our ability to maintain the market positions;
-(cid:129) the actions and developments of our competitors;
-(cid:129) our ability to effectively contain costs and optimize pricing;
-(cid:129) the ability of third parties to perform in accordance with contractual terms and
+ our ability to maintain the market positions;
+ the actions and developments of our competitors;
+ our ability to effectively contain costs and optimize pricing;
+ the ability of third parties to perform in accordance with contractual terms and
 specifications;
-(cid:129) ourabilitytoretainseniormanagementandkeypersonnelandrecruitqualifiedstaff;
+ ourabilitytoretainseniormanagementandkeypersonnelandrecruitqualifiedstaff;
 – 45 –
 
 === PAGE 56 ===
 FORWARD-LOOKING STATEMENTS
-(cid:129) ourbusinessstrategiesandplanstoachievethesestrategies,includingourexpansion
+ ourbusinessstrategiesandplanstoachievethesestrategies,includingourexpansion
 plans;
-(cid:129) our ability to defend our intellectual rights and protect confidentiality;
-(cid:129) the effectiveness of our quality control systems;
-(cid:129) change or volatility in interest rates, foreign exchange rates, equity prices, trading
+ our ability to defend our intellectual rights and protect confidentiality;
+ the effectiveness of our quality control systems;
+ change or volatility in interest rates, foreign exchange rates, equity prices, trading
 volumes, commodity prices and overall market trends; including those pertaining to
 the industry and markets in which we operate;
-(cid:129) capital market developments;
-(cid:129) our dividend policy; and
-(cid:129) all other risks and uncertainties described in “Risk Factors” and elsewhere.
+ capital market developments;
+ our dividend policy; and
+ all other risks and uncertainties described in “Risk Factors” and elsewhere.
 By their nature, certain disclosures relating to these and other risks are only estimates and
 should one or more of these uncertainties or risks, among others, materialize, actual results
 may vary materially from those estimated, anticipated or projected, as well as from historical
@@ -2229,18 +2229,18 @@ Demand for our products is based on many factors in addition to the lead times d
 abovethatcouldcauseustoeitherunderestimateoroverestimateourcustomers’futuredemand
 for our products, or otherwise cause a mismatch between supply and demand for our products
 and impact the timing and amount of our revenue, including but not limited to:
-(cid:129) competing technologies and competitor product releases and announcements, which
+ competing technologies and competitor product releases and announcements, which
 may be cheaper or provide better functionality or features than ours;
-(cid:129) the demand for AI training;
-(cid:129) macroeconomic environment and changes in business and economic conditions
+ the demand for AI training;
+ macroeconomic environment and changes in business and economic conditions
 resulting in decreased end demand;
-(cid:129) rapidly changing technology or customer requirements;
-(cid:129) new product introductions and transitions resulting in less demand for existing
+ rapidly changing technology or customer requirements;
+ new product introductions and transitions resulting in less demand for existing
 products;
-(cid:129) new or unexpected end use cases;
-(cid:129) business decisions made by third parties, such as developers that create applications
+ new or unexpected end use cases;
+ business decisions made by third parties, such as developers that create applications
 leveraging our solutions; and
-(cid:129) the demand for intelligent computing solutions, particularly GPGPU solutions.
+ the demand for intelligent computing solutions, particularly GPGPU solutions.
 If we underestimate our customers’demand for our products, our manufacturing partners
 may not have adequate lead time or capacity to increase production accordingly and we may
 not be able to obtain sufficient inventory to fill orders on a timely basis. Even if we are able
@@ -2719,28 +2719,28 @@ may exceed the capabilities of such third-party vendors. We face several risks w
 adversely affect our ability to meet customer demand and scale our supply chain, negatively
 impact longer-term demand for our products and solutions, and adversely affect our business
 operations, and/or financial results, including:
-(cid:129) failure by our foundries to develop, obtain or successfully implement high quality
+ failure by our foundries to develop, obtain or successfully implement high quality
 process technologies needed to manufacture our products;
-(cid:129) limited number and geographic concentration of third-party suppliers;
-(cid:129) failure to secure adequate capacity for manufacturing assembly and packaging of
+ limited number and geographic concentration of third-party suppliers;
+ failure to secure adequate capacity for manufacturing assembly and packaging of
 our products;
-(cid:129) loss of a supplier and additional expense and/or production delays or locate
+ loss of a supplier and additional expense and/or production delays or locate
 alternative suppliers as a result;
-(cid:129) lack of direct control over product quantity, quality and delivery schedules;
-(cid:129) suppliers or their suppliers failing to supply high quality products, services and/or
+ lack of direct control over product quantity, quality and delivery schedules;
+ suppliers or their suppliers failing to supply high quality products, services and/or
 making changes to their products or services without our qualification;
-(cid:129) delays in product shipments, shortages, a decrease in product quality and/or higher
+ delays in product shipments, shortages, a decrease in product quality and/or higher
 expenses in the event our third-party suppliers prioritize our competitors’ or other
 customers’ orders over ours;
 – 60 –
 
 === PAGE 71 ===
 RISK FACTORS
-(cid:129) requirements to place orders that are not cancellable upon changes in demand or
+ requirements to place orders that are not cancellable upon changes in demand or
 requirements to prepay for supply in advance;
-(cid:129) low manufacturing yields resulting from a failure in our product design or a
+ low manufacturing yields resulting from a failure in our product design or a
 foundry’s proprietary process technology;
-(cid:129) change of laws and/or regulations, including any international trade policies,
+ change of laws and/or regulations, including any international trade policies,
 geopolitics and trade protection measures, that result in disruptions in our business
 relationship with third-party vendors, see “– Risks Related to Our Business and
 Industry – We are subject to the risks associated with international trade policies,
@@ -2749,7 +2749,7 @@ results of operations could be adversely affected” and “– Risks Related to
 Business and Industry – Effective October 17, 2023, BIS added certain entities of
 our Group to the Entity List, which restricts their ability to purchase or otherwise
 access certain goods, software and technology;” and
-(cid:129) disruptions in manufacturing, assembly and other processes due to closures related
+ disruptions in manufacturing, assembly and other processes due to closures related
 to natural disasters and other incidents.
 Our brand is integral to our success. If we fail to effectively maintain, promote and enhance
 our brand, our business and competitive advantages may be harmed.
@@ -3315,17 +3315,17 @@ profitability depends significantly on our success in commercializing our produc
 solutions, which we may not be able to do in a timely manner or at all.
 Weexpecttocontinuetoincurnetlossesintheforeseeablefutureandthatthesenetlosses
 may increase as we carry out certain activities, including but not limited to the following:
-(cid:129) make efforts, such as establishing a sales network, to enable the commercialization
+ make efforts, such as establishing a sales network, to enable the commercialization
 of products and solutions in our pipeline;
-(cid:129) seek to develop additional products and solutions to further expand our product
+ seek to develop additional products and solutions to further expand our product
 pipeline;
-(cid:129) develop, maintain, expand and protect our intellectual property portfolio;
+ develop, maintain, expand and protect our intellectual property portfolio;
 – 73 –
 
 === PAGE 84 ===
 RISK FACTORS
-(cid:129) attract and retain skilled personnel and talent; and
-(cid:129) incur additional legal, accounting, investor relations, insurance and other expenses
+ attract and retain skilled personnel and talent; and
+ incur additional legal, accounting, investor relations, insurance and other expenses
 associated with operating as a public company.
 Even if we achieve profitability in the future, we may not be able to sustain profitability
 in subsequent periods thereafter. Our net losses have had, and will continue to have, an adverse
@@ -3376,14 +3376,14 @@ will be successful.
 We may not be able to obtain additional capital when desired, on favorable terms or at all.
 A majority of our operating expenses are for R&D activities. Our capital requirements
 will be subject to many factors, including, but not limited to:
-(cid:129) technological advancements;
-(cid:129) market acceptance of our products and solutions and product and solution
+ technological advancements;
+ market acceptance of our products and solutions and product and solution
 enhancements, and the overall level of sales of our products and solutions;
-(cid:129) R&D expenses;
-(cid:129) our relationships with our customers and suppliers;
-(cid:129) our ability to control costs;
-(cid:129) sales and marketing expenses; and
-(cid:129) general economic conditions, inflation, rising interest rates and international
+ R&D expenses;
+ our relationships with our customers and suppliers;
+ our ability to control costs;
+ sales and marketing expenses; and
+ general economic conditions, inflation, rising interest rates and international
 conflicts and their impact on our industry.
 If our capital requirements are materially different from those currently planned, we may
 need additional capital sooner than anticipated. Additional financing may not be available on
@@ -9778,20 +9778,20 @@ ruO
 %001
 %001
 %001
-)(cid:9120)
-ro (cid:8468) tcu
-(cid:26104) * d .d n (cid:14001) t o L c (cid:12840) i , m .o (cid:18809) ) e C C S (cid:27260) R y n g P (cid:11190) e o ( r l i o (cid:8946) B n i h (cid:7814) a c h e (cid:10345) g T n (cid:15647) ahS
-(cid:7602)(
+) 
+ro tcu
+ * d .d n t o L c i , m .o ) e C C S R y n g P e o ( r l i o B n i h a c h e g T n ahS
+ (
 neriB
 ) u C o R h P zg ( nauG
 .cn e ) I e n , r o y a t g w S o e a l g o le n d D i h R c ( eT
-)(cid:9120)
-e (cid:8468) si * r (cid:26104) p .d r t e (cid:14001) L tn (cid:11261) , E .o (cid:17956) i C ) l C i h t (cid:14613) n R z e P n (cid:7849) m i ( X p (cid:18643) o ia l (cid:7667) e h v g (cid:13656) e n D a (cid:15647) hS (cid:7602)(
+) 
+e si * r p .d r t e L tn , E .o i C ) l C i h t n R z e P n m i ( X p o ia l e h v g e n D a hS (
 neriB
 ) C uo R h P z ( gnaH
-)(cid:2600) no (cid:1948) i * ta . (cid:19584) d m tL (cid:7481) ro , (cid:6320) f . n o ) I C (cid:12289) C n R y e (cid:5791) g P ri o ( B (cid:1553) lo i (cid:1294) n a h h (cid:3825) c g e n T (cid:9127) ah (cid:1082) S
-( ) r (cid:2600) otc (cid:1948) ud * (cid:19584) n .d o (cid:7481) t c L i (cid:6320) m ,.o e (cid:12289) ) S C C (cid:20740) n R y e g P (cid:4670) r o i ( B l (cid:2426) o n u (cid:1294) h o c h (cid:3825) e z T g (cid:5134) na
-(cid:5395) uG
+) no i * ta . d m tL ro , f . n o ) I C C n R y e g P ri o ( B lo i n a h h c g e n T ah S
+( ) r otc ud * n .d o t c L i m ,.o e ) S C C n R y e g P r o i ( B l o n u h o c h e z T g na
+ uG
 (
 nayoA
 )C
@@ -10086,21 +10086,21 @@ ruO
 %001
 %001
 %001
-)(cid:9120)
-ro (cid:8468) tcu
-(cid:26104) * d .d n (cid:14001) t o L c (cid:12840) i , m .o (cid:18809) ) e C C S (cid:27260) R y n g P (cid:11190) e o ( r l i o (cid:8946) B n i h (cid:7814) a c h e (cid:10345) g T n (cid:15647) ahS
-(cid:7602)(
+) 
+ro tcu
+ * d .d n t o L c i , m .o ) e C C S R y n g P e o ( r l i o B n i h a c h e g T n ahS
+ (
 neriB ) u C o R h P zg ( nauG
 .cn e ) I e n , r o y a t g w S o e a l g o le n d D i h R c ( eT
-)(cid:9120) e (cid:8468) si * r (cid:26104) p .d r t e (cid:14001) L tn (cid:11261) , E .o (cid:17956) i C ) l C i h t (cid:14613) n R z e P n (cid:7849) m i ( X p (cid:18643) o ia l (cid:7667) e h v g (cid:13656) e n D a (cid:15647) hS
-(cid:7602)(
+) e si * r p .d r t e L tn , E .o i C ) l C i h t n R z e P n m i ( X p o ia l e h v g e n D a hS
+ (
 neriB
 ) C uo R h P z ( gnaH
-)(cid:2600)
-no (cid:1948) i * ta . (cid:19584) d m tL (cid:7481) ro , (cid:6320) f . n o ) I C (cid:12289) C n R y e (cid:5791) g P ri o ( B (cid:1553) lo i (cid:1294) n a h h (cid:3825) c g e n T (cid:9127) ah (cid:1082) S
+) 
+no i * ta . d m tL ro , f . n o ) I C C n R y e g P ri o ( B lo i n a h h c g e n T ah S
 (
-) r (cid:2600) otc (cid:1948) ud * (cid:19584) n .d o (cid:7481) t c L i (cid:6320) m ,.o e (cid:12289) ) S C C (cid:20740) n R y e g P (cid:4670) r o i ( B l (cid:2426) o n u (cid:1294) h o c h (cid:3825) e z T g (cid:5134) na
-(cid:5395) uG
+) r otc ud * n .d o t c L i m ,.o e ) S C C n R y e g P r o i ( B l o n u h o c h e z T g na
+ uG
 (
 nayoA
 )C i R ah P g ( nahS
@@ -10233,7 +10233,7 @@ BUSINESS
 We have built our solutions upon five foundational pillars: a self-developed GPGPU
 architecture, system-on-chip (“SoC”) design, hardware system, software platform, and cluster
 deployment optimization. Specifically:
-(cid:129) Ourtechnologycapabilitiesandsolutionexcellenceareunderpinnedbyourin-house
+ Ourtechnologycapabilitiesandsolutionexcellenceareunderpinnedbyourin-house
 developed GPGPU architecture, which is purpose-built for handling large-scale AI
 workloads, especially LLM workloads, to accommodate expanding model sizes,
 parametersandcomplexities,whileofferinghigh-performanceandsuperiorgeneral-
@@ -10241,7 +10241,7 @@ purpose flexibility, energy-efficiency and scalability. The unified and continuo
 evolving GPGPU architecture is the core of our platform strategy and lays a solid
 foundation for fast iteration and development of next generation computing
 platform.
-(cid:129) Based on the self-developed GPGPU architecture, we design and launch a series of
+ Based on the self-developed GPGPU architecture, we design and launch a series of
 chips. According to CIC, we are the first company in China to package dual AI
 computingdiesusing2.5Dchiplettechnology,supportedbyoursuperiorSoCdesign
 and execution capabilities. We are among the first in the industry to support
@@ -10249,14 +10249,14 @@ advanced interconnection specifications, according to CIC. Our SoC design
 methodology and workflow ensure successful VLSI (Very Large Scale Integrated
 Circuit) execution and first-time-right tape-out, which help us achieve mass
 production and commercialization with our first generation products.
-(cid:129) We have developed a comprehensive portfolio of high-performance hardware
+ We have developed a comprehensive portfolio of high-performance hardware
 systems in various form factors containing our self-developed GPGPUs chips, such
 as PCIe Card, OAM, UBB, and servers. Our hardware systems support both
 air-cooled and liquid-cooled solutions, helping to reduce the PUE and optimize
 energy efficiency of data centers and comply with applicable energy-saving
 requirements. We provide enterprises the mission-critical large-scale computing
 infrastructure that offers high performance, reliability, and scalability.
-(cid:129) WehavedevelopedtheBIRENSUPAsoftwareplatform,bridgingallofourhardware
+ WehavedevelopedtheBIRENSUPAsoftwareplatform,bridgingallofourhardware
 systems with diverse AI applications and scenarios. BIRENSUPA enables our
 hardware features, optimizes their performance and manages large-scale GPGPU
 clusters. It offers user a friendly programming interface, high performance libraries,
@@ -10264,7 +10264,7 @@ training and inference frameworks and comprehensive set of tool chains to
 streamline the development and deployment of AI solutions. Furthermore,
 BIRENSUPA is compatible with other third-party GPGPU computing software
 platforms, significantly reducing the migration cost to our GPGPU products.
-(cid:129) We have developed comprehensive solutions of large-scale intelligent computing
+ We have developed comprehensive solutions of large-scale intelligent computing
 cluster by integrating our hardware systems and software platform with other
 hardware infrastructure such as servers, storage, and networking equipment
 provided by partners. Our cluster management platform, BIRENCUBE, is designed
@@ -10328,15 +10328,15 @@ partnerships with large customers in each industry. These selected key industrie
 data centers, telecommunications, AI solutions, energy and utilities, financial technology, and
 Internet. With localized expertise and on-the-ground customer support, our solutions are
 designed to address unique needs of these customers.
-(cid:129) We started to generate revenue from our intelligent computing solutions in 2023.
+ We started to generate revenue from our intelligent computing solutions in 2023.
 During the year ended December 31, 2024 and for the six months ended June 30,
 2025, we had 14 and 12 customers for our Specialist Technology Product,
 respectively, contributing a revenue amounted to RMB336.8 million and RMB58.9
 million, respectively.
-(cid:129) As of the Latest Practicable Date, we had 24 unfulfilled binding orders for our
+ As of the Latest Practicable Date, we had 24 unfulfilled binding orders for our
 Specialist Technology Product with a total value of approximately RMB821.8
 million.
-(cid:129) In addition, as of the Latest Practicable Date, we have entered into five framework
+ In addition, as of the Latest Practicable Date, we have entered into five framework
 sales agreements and 24 sales contracts for our Specialist Technology Product with
 a total value of approximately RMB1,240.7 million, which will contribute to our
 future revenue when realized.
@@ -10377,7 +10377,7 @@ entire GPGPU architecture from ground up. Our solutions encompass a set of archi
 innovations and advanced technologies, providing superior performance, efficiency and
 scalability that can be applied in large-scale training and inference for a wide variety of AI
 algorithms and scenarios. Our technology excellence is evidenced by the following:
-(cid:129) We differentiate ourselves fromAI chip companies in China through our dedication
+ We differentiate ourselves fromAI chip companies in China through our dedication
 to and expertise in GPGPU architecture. For example, we have developed the
 BR10X – a general-purpose and high-performance computing architecture tailored
 for AI workloads. This architecture delivers efficient processing for both
@@ -10387,7 +10387,7 @@ integrating general-purpose flexibility with dedicated AI acceleration, BR10X
 facilitates seamless adaptation to rapid algorithm advancements, fulfilling the dual
 demands of AI performance optimization and general-purpose computational
 flexibility;
-(cid:129) We possess technology capabilities in full stack innovation, solidifying our
+ We possess technology capabilities in full stack innovation, solidifying our
 competitive edge in China’s GPGPU landscape. We have implemented advanced
 technologies including high-speed interconnection, high bandwidth memory, chiplet
 package into products to advanced packaging to address the exponential growth in
@@ -10400,27 +10400,27 @@ high-performance OAM and Universal Baseboard, according to CIC;
 
 === PAGE 221 ===
 BUSINESS
-(cid:129) We possess the highest number of invention patent submissions among GPGPU
+ We possess the highest number of invention patent submissions among GPGPU
 companies in China as of December 31, 2024, according to CIC;
-(cid:129) Both our GPGPU chip and servers containing our GPGPU chips (independently
+ Both our GPGPU chip and servers containing our GPGPU chips (independently
 submitted by our server partner) won the first place in language processing model
 BERT and image classification model ResNet50 in the closed division in MLPerf
 Inference 2.1 among available category;
-(cid:129) We were the first and only GPGPU company in China to be invited to speak at Hot
+ We were the first and only GPGPU company in China to be invited to speak at Hot
 Chips Conference Opening Session, known as one of the semiconductor industry’s
 leading conferences, according to CIC;
-(cid:129) We won the SAIL Award at WAIC 2022 and 2025, which is one of the most
+ We won the SAIL Award at WAIC 2022 and 2025, which is one of the most
 prestigious awards in intelligent computing, according to CIC;
-(cid:129) We were among the earliest GPGPU companies in China whose products are
+ We were among the earliest GPGPU companies in China whose products are
 commercially deployed in one thousand chip clusters, according to CIC. Moreover,
 the one thousand chip cluster continuously run more than 5 days without any
 software or hardware interruption, and more than 30 days without training service
 interruption which proved the strong stability and fault tolerance capability in large
 scale training;
-(cid:129) We were the only GPU and intelligent computing cluster company who won the
+ We were the only GPU and intelligent computing cluster company who won the
 Excellent Typical Cases of 2024 Future Industrial Innovation and Development in
 Iconic product segments; and
-(cid:129) We won New Quality Productivity Industry Practice “Artificial Intelligence”
+ We won New Quality Productivity Industry Practice “Artificial Intelligence”
 Demonstration Case issued by Global Times Newspaper and China Association for
 Science and Technology New Technology Development Center, and were the only
 startup company among the top five winners.
@@ -10547,10 +10547,10 @@ technologies to enable system-level and cross-domain innovation, enhance AI comp
 system performance and scalability, and reduce the cost of large model training and
 deployment, which will allow wider application ofAI across diverse industries and application
 scenarios. For example:
-(cid:129) 3D stacking technology, which enables vertically stacking and packaging multiple-
+ 3D stacking technology, which enables vertically stacking and packaging multiple-
 layer chips, integrates more transistors and memory, improving chip computing
 density and memory bandwidth;
-(cid:129) CPO (co-package optics), which integrates optical modules with GPUs to shorten
+ CPO (co-package optics), which integrates optical modules with GPUs to shorten
 transmission distance and reduce energy consumption, applied to GPU clusters
 interconnects with tens of thousands of chips in large-scale data center;
 Further Develop and Optimize Our Solutions
@@ -10811,7 +10811,7 @@ Self-developed Driver/HAL KMD UMD Virtualization Firmware
 Open-source/
 3rd Party Provider
 Hardware
-(cid:129) Base Software/Driver: The base layer bridges hardware and software, enabling the
+ Base Software/Driver: The base layer bridges hardware and software, enabling the
 operating system to recognize and manage GPGPU hardware. It includes kernel-
 mode and user-mode drivers, virtualization, and multi-GPU support. Our drivers
 facilitate efficient data transmission and multitasking across various computing and
@@ -10819,7 +10819,7 @@ storage architectures while ensuring compatibility with different GPGPU models
 and operating systems. Our virtualization software allows physical devices to be
 partitioned into multiple virtual machines or containers, ensuring security, isolation,
 and service quality for AI applications.
-(cid:129) The programming platform includes the BIRENSUPA programming model,
+ The programming platform includes the BIRENSUPA programming model,
 compiler, libraries, and developer tools.
 o The BIRENSUPA programming model, compatible with industry prevailing
 GPGPU programming model as well as featured with Biren GPGPU
@@ -10839,7 +10839,7 @@ operations, SCCL (SUPA Collective Communications Library) for efficient
 multi-GPU communication, and more for other acceleration domains.
 o To further support developers, we offer performance profilers, debuggers, and
 sanitizers to optimize application performance and diagnose errors effectively.
-(cid:129) Frameworks: BIRENSUPA supports most mainstream open-source deep learning
+ Frameworks: BIRENSUPA supports most mainstream open-source deep learning
 frameworks, including PyTorch, TensorFlow, and PaddlePaddle. Our self-developed
 suInferandsuInfer-LLMofferhigh-performanceinferenceenginesandservices.We
 also support open-source large language model (LLM) frameworks such as
@@ -10851,7 +10851,7 @@ large-scale deployments involving thousands of GPUs. Additionally, our
 Heterogeneous GPU Collaborative Training (HGCT) module allows seamless
 integration between GPGPU clusters offered by us and other vendors to create a
 bigger heterogeneous cluster, enabling massive-scale model training.
-(cid:129) Solutions: We provide ready-to-use AI solutions tailored to customer applications.
+ Solutions: We provide ready-to-use AI solutions tailored to customer applications.
 Our BirenCUBE cloud management platform integrates development, demo, and
 management tools for multi-user environments, supporting task and resource
 scheduling across thousands of GPGPU devices. Additionally, Model Zoo hosts AI
@@ -10889,7 +10889,7 @@ Our intelligent computing cluster solutions undergo systematic optimization,
 demonstrating powerful performance in practical operations. They ensure stability during
 prolonged high-load operations and support uninterrupted training tasks, with rapid recovery
 capabilities in the event of failures. Key performance and technological highlights include:
-(cid:129) Reliability and performance:
+ Reliability and performance:
 o One thousand chip cluster is able to be used for training for over 30 days
 without interruption, and over five days without failures;
 o Industry-first three-level asynchronous checkpoint, enhancing reliability while
@@ -10902,7 +10902,7 @@ o Supports mainstream large models with industry-leading performance,
 achieving a linear acceleration ratio of 95% for one thousand chip cluster;
 o Automatic parallel optimization of large models, featuring an industry-first
 asynchronous offload to overcome memory bottlenecks;
-(cid:129) General-purpose Flexibility and compatibility:
+ General-purpose Flexibility and compatibility:
 o Comprehensive model coverage, collaborating with upstream and downstream
 partnerstobuildalargemodelecosystemsupportingover50typesoflanguage
 models, text-to-image, image-to-text and video generation models;
@@ -11085,22 +11085,22 @@ DRAM DRAM
 Figure: Streaming Processing Cluster block diagram
 In order to achieve these unique features, we have incorporated a lot of innovations in our
 architecture:
-(cid:129) Excel at both general-purpose flexibility andAI acceleration – We use the single
+ Excel at both general-purpose flexibility andAI acceleration – We use the single
 instruction multi-thread (“SIMT”) architecture which is a classic GPGPU
 architecture. SIMT architecture is a cornerstone of modern GPU design, enabling
 them to handle complex, parallel computations efficiently. It is ideal and flexible for
 a wide range of applications, especially in AI/ML algorithms.
-(cid:129) Advanced Tensor Core Architecture – Our specialized tensor engine, T-core,
+ Advanced Tensor Core Architecture – Our specialized tensor engine, T-core,
 adopts a special design which significantly reduces the frequency of repeated data
 retrieval from DRAM during matrix operations, supporting data recycle and
 decreasing the bandwidth requirements for AI matrix computing, thereby greatly
 enhancing energy efficiency and computational effectiveness.
-(cid:129) Asynchronous Data Transfer with Multicasting – We offer data multicast
+ Asynchronous Data Transfer with Multicasting – We offer data multicast
 technology for matrix computing in AI. Large matrix computing typically involves
 significant data reuse, and multicast technology allows data to be read from DRAM
 once and simultaneously supplied to different computational cores. This approach
 significantly enhances computational speed while reducing energy consumption.
-(cid:129) Near memory computing – Our chips incorporate storage technologies such as
+ Near memory computing – Our chips incorporate storage technologies such as
 NUMA, UMA, and L2 Reduction, enabling data to be automatically stored close to
 the computing cores and facilitating reduction calculations through L2. This
 technology reduces the need for data to be fetched from distant DRAM, thereby
@@ -11113,18 +11113,18 @@ SoC Design
 In terms of SoC design, we have continuously accumulated technologies throughout the
 process, covering SoC architecture, memory system, multi-GPU interconnections, SoC testing,
 SoC design flow, and chip package design.
-(cid:129) SoC architecture: Based on the AI application scenarios and the targeted market
+ SoC architecture: Based on the AI application scenarios and the targeted market
 segments of chips, we flexibly assemble different numbers of SPC cores with
 various types of heterogeneous computing modules, and define the memory system
 and interconnection structure accordingly. In addition, our SoC is designed to
 support computing on cloud and edge and enables the virtualization of cloud
 computing resources.
-(cid:129) Memory System: Our design technologies are capable of integrating various types
+ Memory System: Our design technologies are capable of integrating various types
 of dynamic random-access memory protocols. With features such as multi-channel
 access, data pack scheduling and sorting, and cache prefetching, our SoC design
 significantly improves the effective bandwidth access for AI applications and
 reduces latency for memory access.
-(cid:129) Multi-GPU Interconnections: We integrated high-speed Serializer/Deserializer
+ Multi-GPU Interconnections: We integrated high-speed Serializer/Deserializer
 (SerDes) that enables high-speed communications while minimizing the number of
 input/output pins and interconnections. We also developed our proprietary BLink
 system that improves the scalability of intelligent computing clusters. Traditional
@@ -11137,7 +11137,7 @@ industry-leading business partners in China and took the lead in the commercial
 launch of GPU optical interconnection technology in China, promoting the future of
 all-optical networks and co-packaged optics technology to further enhance
 interconnection performance and efficiency.
-(cid:129) SoC Testing: We utilize design-for-testability technology and perform features
+ SoC Testing: We utilize design-for-testability technology and perform features
 scanning, built-in self-test, yield analysis and diagnosis throughout the product
 development process. Based on testing results, our firmware can harvest non-full
 functioning chips and create down-bin products. These are essentials to tests
@@ -11145,7 +11145,7 @@ undertaken as part of the manufacturing process to ensure the functionality of o
 GPGPUs, laying a foundation for successful mass production. We also creatively
 bring functional tests to wafer probing stage, which will greatly increase down-
 stream testing yields.
-(cid:129) SoCDesignFlow:Ourmulti-levelpartitioningtechnologyandmodulemultiplexing
+ SoCDesignFlow:Ourmulti-levelpartitioningtechnologyandmodulemultiplexing
 technology in terms of placement and routing effectively simplifies the physical
 design for complex modules, enhances the scale of chip design. Our algorithms are
 – 230 –
@@ -11161,7 +11161,7 @@ different scenarios, and our yield optimization technologies analyze and optimiz
 power network for chips, thereby extending useful lives for our GPGPU products.
 All above techniques intertwine together to guarantee our first-time right tape-out
 and higher manufacturing yield.
-(cid:129) Chip Package Design: In order to develop more efficient and scalable solutions for
+ Chip Package Design: In order to develop more efficient and scalable solutions for
 increasingly complex systems, we adopt chiplet technology in our chip design
 methodology. The chiplet approach is a critical strategy for addressing the
 limitations of traditional monolithic IC fabrication. This flexible, scalable and
@@ -11194,7 +11194,7 @@ capabilities of our GPGPUs.
 
 === PAGE 242 ===
 BUSINESS
-(cid:129) Advanced Compiler Optimizations for AI Workloads: Our compiler technology
+ Advanced Compiler Optimizations for AI Workloads: Our compiler technology
 integrates advanced code generation and optimization techniques to translate AI
 applications written in high-level programming languages (C/C++) into highly
 optimized machine code for the Biren GPGPU instruction set. This includes
@@ -11203,7 +11203,7 @@ strategies designed specifically to maximize parallel execution efficiency. Our
 industry-unique warp management and register allocation algorithms enable the
 collaborative warp mechanism in the Biren GPGPU architecture, ensuring optimal
 resource utilization for workloads with varying computational intensity.
-(cid:129) An Easy-to-Use GPGPU Programming Model: BIRENSUPA programming model is
+ An Easy-to-Use GPGPU Programming Model: BIRENSUPA programming model is
 designed to be fully compatible with industry-standard GPGPU models, ensuring
 seamless portability while offering unique extensions tailored to our architecture.
 These extensions, abstracted as a set of easy-to-use APIs, such as Mega-Kernel,
@@ -11211,7 +11211,7 @@ Tensor Core intrinsic, and kernel co-routine, provide direct access to hardware
 features, including the large-scale tensor core, near-memory computation, and a
 high-bandwidth on-chip memory buffer, all essential for accelerating deep learning
 workloads.
-(cid:129) High-Performance Computation and Communication Acceleration Libraries: We
+ High-Performance Computation and Communication Acceleration Libraries: We
 provide optimized libraries accelerating core AI and mathematical operations for
 machine learning training and inference. Utilizing advanced techniques like graph
 analysis, operation fusion, and Just-in-Time compilation, these libraries maximize
@@ -11221,7 +11221,7 @@ transfer across diverse network topologies, including our BLink intra-node/super
 node channels and large scale GPU clusters. These libraries can also integrate with
 Biren ML frameworks to enable computation-communication overlap, optimizing
 overall performance.
-(cid:129) Graph-Level Optimizations for Deep Learning Frameworks: We have integrated
+ Graph-Level Optimizations for Deep Learning Frameworks: We have integrated
 advancedgraph-leveloptimizationandoperatorfusiontechniquesintodeeplearning
 frameworks to further enhance training and inference performance. These
 techniques improve memory efficiency by increasing data reuse across
@@ -11229,7 +11229,7 @@ computational sequences, thereby reducing memory bandwidth requirements.
 Additionally, they improve computation and communication concurrency by
 overlapping data movement with computation, minimizing idle time and reducing
 CPU-side control overhead.
-(cid:129) Efficient Memory Management for Large-ScaleAI Training:AsAI models continue
+ Efficient Memory Management for Large-ScaleAI Training:AsAI models continue
 to grow in scale, memory efficiency becomes a critical bottleneck. We have
 developed asynchronous offloading and a GPU-based Chunk Optimizer to
 significantly reduce device memory usage during training.Asynchronous offloading
@@ -11244,7 +11244,7 @@ and schedules memory-intensive operations to avoid fragmentation and ensure
 optimal utilization of available memory resources. These techniques enable our
 GPGPUs to train hundred-billion-parameter models efficiently even on small-scale
 clusters, without compromising model accuracy.
-(cid:129) Unified AI Development Environment across Cloud and Edge: Our software
+ Unified AI Development Environment across Cloud and Edge: Our software
 ecosystem provides a unified development environment that spans cloud and edge
 deployments, allowing developers to build, optimize, and deploy AI applications
 seamlessly across diverse hardware configurations. This environment integrates
@@ -11283,16 +11283,16 @@ packages and comprehensive welfare benefits. To mitigate any potential negative 
 departuresbysuchpersonnel,werecruitcandidateswithrelevantknowledgeandskillsthrough
 online platforms, internal referrals, and employment agencies, among others. The key terms of
 agreements with our management and technical staff are outlined below.
-(cid:129) No conflict. During the employment, the employee shall not engage in any other job
+ No conflict. During the employment, the employee shall not engage in any other job
 without our prior written consent.
-(cid:129) IP rights. We own all rights, titles and interests (including patent rights, copyrights,
+ IP rights. We own all rights, titles and interests (including patent rights, copyrights,
 tradesecretrightsandallotherintellectualpropertyrightsofanysortthroughoutthe
 world) relating to any and all inventions (whether or not patentable), designs,
 know-how, ideas and information made, conceived or reduced to practice, in whole
 or in part, by the employee during the term of the employment contract and for one
 year following the termination of employment to the fullest extent allowed by
 applicable laws, and the employee shall promptly disclose all inventions to us.
-(cid:129) Confidentiality. During the employment, the employee shall, during the course of
+ Confidentiality. During the employment, the employee shall, during the course of
 employmentandthereafter,keepinconfidencealltechnical,operationalinformation
 or trade secrets belonging to us or other third parties to whom we owe
 confidentiality obligations. The employee shall not leak, disclose, publish,
@@ -11300,11 +11300,11 @@ announce, issue, teach, transfer or otherwise make available to any third party
 (including employees who are not privy to such trade secrets) any such trade secrets
 in any manner and shall not utilize such trade secret beyond his or her scope of
 work.
-(cid:129) Non-competition. We have the right to unilaterally initiate a non-competition period
+ Non-competition. We have the right to unilaterally initiate a non-competition period
 of up to two years following the termination of employment. During the term of
 employment and the non-competition period initiated by us, the employee shall not
 engage in any competitive behavior.
-(cid:129) Non-solicitation. During the employment and for two years thereafter, the employee
+ Non-solicitation. During the employment and for two years thereafter, the employee
 shall not, directly or indirectly, either on their own behalf or on behalf of any other
 companies,solicitorattempttosolicitouremployeestoleavetheiremployment,nor
 shall they, directly or indirectly, either on their own behalf or on behalf of any other
@@ -11532,7 +11532,7 @@ Period, and (ii) we were at a relatively early stage of commercialization, and t
 revenue during the Track Record Period have yet to cover such significant amount of
 investments. In particular, our losses during the Track Record Period were primarily
 attributable to:
-(cid:129) Substantial upfront investment required. The intelligent computing chip market is
+ Substantial upfront investment required. The intelligent computing chip market is
 highly competitive and complex, which requires substantial upfront investment into,
 among other things, technology advancement, talent acquisition, customer
 engagement and regulatory compliance. Considerable resources are necessary to
@@ -11546,7 +11546,7 @@ and 2024 and for the six months ended June 30,2024 and 2025, our R&D expenses
 amounted to RMB1,017.9 million, RMB885.6 million, RMB827.0 million
 RMB397.1 million and RMB571.6 million, respectively. Such substantial upfront
 investment in R&D results in our loss positions during the Track Record Period.
-(cid:129) Still at an early stage of commercialization. We are currently at an early stage of
+ Still at an early stage of commercialization. We are currently at an early stage of
 commercialization and are growing rapidly. Our Intelligent computing solution
 requires extended development cycles spanning multiple years as we complete chip
 design, customer validation, and market penetration before achieving
@@ -11555,7 +11555,7 @@ of scale and our operating expenses as a percentage of total revenues is expecte
 decrease. While economies of scale can offer significant efficiency advantages,
 realizing such benefit is a gradual process, particularly for us who incur substantial
 upfront investment and still at an early stage of commercialization.
-(cid:129) Changes in the carrying value of redemption liabilities. We recorded RMB348.0
+ Changes in the carrying value of redemption liabilities. We recorded RMB348.0
 million, RMB603.6 million, RMB674.3 million, RMB383.1 million and
 RMB1,010.9 million in changes in the carrying value of redemption liabilities for
 the years ended December 31, 2022, 2023 and 2024 and for the six months ended
@@ -13381,7 +13381,7 @@ In respect of energy-saving function of our products, our GPGPU products support
 enhancement dynamic regulation that regulates frequencies of chips based on movements in
 loading, thereby minimizing power consumption of the products. The products including BILI
 106L and BILI 166L in liquid-cooled OAM and servers support cold plate liquid cooling,
-enabling PUE(cid:2)1.15 in the server system and reducing power consumption of the serve system.
+enabling PUE 1.15 in the server system and reducing power consumption of the serve system.
 We have built complete liquid cooling heat sink solution and reduced power consumption of
 data centers by regulating flows of liquid cooling in a dynamic and intelligent manner through
 the enclosure management system.
@@ -13700,7 +13700,7 @@ domestic alternative suppliers for, or developed in-house, the items required fo
 development and production of our solutions and previously sourced by the Listed Entities and
 Non-Listed Entities that may come under the scope of theAffiliates Rule which are or may be
 subject to the EAR, including for the Material Affected Items. Specifically:
-(cid:129) IPs – we currently source ancillary IPs related to certain reusable units or blocks
+ IPs – we currently source ancillary IPs related to certain reusable units or blocks
 from domestic alternative suppliers. In addition, in 2022, we began developing
 in-house certain other IPs previously sourced from a U.S. company. Such in-house
 developed IPs includes Memory-Management Unit (“MMU”) IP and Phase-Lock
@@ -13730,7 +13730,7 @@ the suppliers undertake that the IPs are self-developed by the suppliers and
 they own copyrights to the IPs; and (v) Terms and termination: The contracts
 typically set a fixed term. The contracts may be unilaterally terminated by
 either party under certain conditions, such as breach of contract.
-(cid:129) EDA Tools – we currently source EDA Tools from domestic alternative suppliers.
+ EDA Tools – we currently source EDA Tools from domestic alternative suppliers.
 o Background of alternative suppliers. The domestic alternative suppliers are
 EDA and service providers in China with registered capital ranging from over
 RMB10 million to over RMB500 million, and over 100 to over 300 employees.
@@ -13745,7 +13745,7 @@ the EDATools are self-developed by the supplier and it owns copyrights to the
 EDATools; and (v) Terms and termination: The terms of the contract typically
 range from one to three years. The contracts may be unilaterally terminated by
 either party under certain conditions, such as breach of contract.
-(cid:129) Emulators – we currently source emulators from a domestic alternative supplier.
+ Emulators – we currently source emulators from a domestic alternative supplier.
 o Background of alternative suppliers. The domestic alternative supplier is a
 technologycompanybasedinChinathathasaregisteredcapitalofoverRMB1
 billion and approximately 600 employees.
@@ -13766,7 +13766,7 @@ BUSINESS
 applicableexportcontrollawsandregulations;and(vi)Termsandtermination:
 The contracts will remain effective after duly execution unless otherwise
 terminated by either party under certain conditions, such as breach of contract.
-(cid:129) Design Services – we currently source relevant Design Services from domestic
+ Design Services – we currently source relevant Design Services from domestic
 alternative suppliers. In addition, we may also conduct relevant work in-house,
 based on the project needs.
 o Background of domestic alternative suppliers. The domestic alternative
@@ -13784,7 +13784,7 @@ reasonable efforts to ensure service quality and deliver deliverables on time;
 and (iv) Terms and termination: The terms of the contracts are typically one
 year. The contracts may be unilaterally terminated by us upon prior notice to
 the suppliers.
-(cid:129) Chips Manufacturing and Packaging – we currently source Chips Manufacturing
+ Chips Manufacturing and Packaging – we currently source Chips Manufacturing
 and Packaging services from domestic alternative suppliers.
 o Background of domestic alternative suppliers. The domestic alternative
 suppliers for IC manufacturing, packaging and testing are foundry and/or
@@ -13809,7 +13809,7 @@ BUSINESS
 (v)Terms and termination:The terms of the contracts are typically three years.
 The contracts may be unilaterally terminated by either party under certain
 conditions, such as breach of contract.
-(cid:129) Other Manufacturing Materials – we currently source Other Manufacturing
+ Other Manufacturing Materials – we currently source Other Manufacturing
 Materials from domestic alternative suppliers.
 o Background of domestic alternative suppliers. The domestic alternative
 suppliers for Other Manufacturing Materials are semiconductor memory
@@ -13832,7 +13832,7 @@ suppliers undertake to comply with applicable export control laws and
 regulations; and (vi) Terms and termination: The terms of the contracts are
 typically one to five years. The contracts may be unilaterally terminated by us
 upon 30 days’ prior notice to the suppliers.
-(cid:129) Servers – we currently source Servers from domestic alternative suppliers.
+ Servers – we currently source Servers from domestic alternative suppliers.
 o Background of domestic alternative suppliers. The domestic alternative
 suppliers for Servers are companies in China that primarily engage in the
 development and/or sales of information and communication technology
@@ -14575,7 +14575,7 @@ Equity Fund Management Co., Ltd (上海華登高科私募基金管理有限公�
 Management Co., Ltd. (華芯原創(青島)投資管理有限公司) from February 2021 to January
 2024. He worked at Huadeng Investment Consulting (Beijing) Co., Ltd. Shanghai Branch
 (華登投資諮詢(北京)有限公司上海分公司) from September 2012 to January 2021.
-Mr. Wang served as a director of Fortior Technology (Shenzhen) Co., Ltd. (峰(cid:16473)科技(深
+Mr. Wang served as a director of Fortior Technology (Shenzhen) Co., Ltd. (峰 科技(深
 圳)股份有限公司),acompanylistedontheShanghaiStockExchange(stockcode:688279)and
 Hong Kong Stock Exchange (stock code: 1304), from April 2020 to January 2025. He served
 as an independent director at GLTech Co., Ltd (光力科技股份有限公司), a company listed on
@@ -16101,15 +16101,15 @@ partnerships with large customers in each industry. These selected key industrie
 data centers, telecommunications, AI solutions, energy and utilities, financial technology, and
 Internet. With localized expertise and on-the-ground customer support, our solutions are
 designed to address unique needs of these customers.
-(cid:129) We started to generate revenue from our intelligent computing solutions in 2023.
+ We started to generate revenue from our intelligent computing solutions in 2023.
 During the year ended December 31, 2024 and for the six months ended June 30,
 2025, we had 14 and 12 customers for our Specialist Technology Product,
 respectively, contributing a revenue amounted to RMB336.8 million and RMB58.9
 million, respectively.
-(cid:129) As of the Latest Practicable Date, we had 24 unfulfilled binding orders for our
+ As of the Latest Practicable Date, we had 24 unfulfilled binding orders for our
 Specialist Technology Product with a total value of approximately RMB821.8
 million.
-(cid:129) In addition, as of the Latest Practicable Date, we have entered into five framework
+ In addition, as of the Latest Practicable Date, we have entered into five framework
 sales agreements and 24 sales contracts for our Specialist Technology Product with
 a total value of approximately RMB1,240.7 million, which will contribute to our
 future revenue when realized.
@@ -16339,16 +16339,16 @@ Intangible assets
 Research and development expenditure
 Research expenditure is recognized as an expense as incurred. Development cost is
 capitalized only if all of the following criteria are satisfied:
-(cid:129) It is technically feasible to complete the research and development project so that it
+ It is technically feasible to complete the research and development project so that it
 will be available for use;
-(cid:129) Management intends to complete the research and development project and use or
+ Management intends to complete the research and development project and use or
 sell it;
-(cid:129) There is an ability to use or sell the research and development project;
-(cid:129) It can be demonstrated how the research and development project will generate
+ There is an ability to use or sell the research and development project;
+ It can be demonstrated how the research and development project will generate
 probable future economic benefits;
-(cid:129) Adequate technical, financial and other resources to complete the development and
+ Adequate technical, financial and other resources to complete the development and
 to use or sell the research and development project are available; and
-(cid:129) The expenditure attributable to the research and development project during its
+ The expenditure attributable to the research and development project during its
 development can be reliably measured.
 Other development expenditures that do not meet these criteria are recognized as an
 expense as incurred.
@@ -16374,9 +16374,9 @@ estimated period that can bring economic benefits to us; (ii) the useful life es
 comparable companies in the market.
 Investments and other financial assets
 We classify our financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through OCI, or through
+ those to be measured subsequently at fair value (either through OCI, or through
 profit or loss); and
-(cid:129) those to be measured at amortised cost.
+ those to be measured at amortised cost.
 The classification depends on the entity’s business model for managing the financial
 assets and the contractual terms of the cash flows.
 For assets measured at fair value, gains and losses will either be recorded in profit or loss
@@ -18621,12 +18621,12 @@ fees and commissions and other estimated expenses payable by us in connection wi
 Global Offering and assuming the Offer Size Adjustment Option and the Over-allotment
 Option are not exercised. In line with our strategies, we intend to use the proceeds from the
 Global Offering for the purposes and in the amounts set forth below:
-(cid:129) Approximately 85.0%, or HK$3,698.0 million, will be used for the research and
+ Approximately 85.0%, or HK$3,698.0 million, will be used for the research and
 development of our intelligent computing solutions in the future, with the detailed
 breakdown of the proceeds to be allocated as follows:
 i. Approximately 45.0%, or HK$1,957.8 million, will be used for the evolution
 of our intelligent computing hardware.
-(cid:129) Approximately 32.0%, or HK$1,392.2 million, will be used to develop
+ Approximately 32.0%, or HK$1,392.2 million, will be used to develop
 and upgrade our existing GPGPU chips and next-generation GPGPU
 chips,suchasBR20XandBR30X.Specifically,(i)approximately17.0%,
 or HK$739.6 million, will be used to continue to retain and expand our
@@ -18636,7 +18636,7 @@ design, SoC verification and SoC front-end integration; and (ii)
 approximately 15.0%, or HK$652.6 million, will be used to procure
 services for engineering design, verification and tape-out to facilitate the
 development of our chips.
-(cid:129) Approximately 13.0%, or HK$565.6 million, will be used to develop
+ Approximately 13.0%, or HK$565.6 million, will be used to develop
 GPGPU-based hardware powered by our existing and next-generation
 GPGPU chips. Specifically, (i) approximately 10.0%, or HK$435.1
 million,willbeusedinpurchaseofconsumablematerials,suchaswafers,
@@ -18655,7 +18655,7 @@ performance of our GPGPU-based hardware in different servers.
 FUTURE PLANS AND USE OF PROCEEDS
 ii. Approximately 40.0%, or HK$1,740.2 million, will be used for development
 and upgrade of our software platform.
-(cid:129) Approximately 10.0%, or HK$435.1 million, will be used to expand the
+ Approximately 10.0%, or HK$435.1 million, will be used to expand the
 array of training and inference models supported by our intelligent
 hardware and BIRENSUPA software stack. We expect to improve the
 adaptabilityandscalabilityofourintelligentcomputingsolution,catering
@@ -18667,7 +18667,7 @@ approximately 15 engineers specialized in distributed training, intelligent
 inference platform engine and heterogeneous computing, and (ii)
 approximately 3.0%, or HK$130.5 million, will be used in rental and
 purchase of training or inference servers.
-(cid:129) Approximately20.0%,orHK$870.1million,willbeusedtoenhanceeach
+ Approximately20.0%,orHK$870.1million,willbeusedtoenhanceeach
 part of our software platform. We plan to develop and refine our
 foundational drivers, compilers, acceleration libraries and tools, and to
 bolster the compatibility with prevalent AI application frameworks and
@@ -18678,7 +18678,7 @@ world. For example, we plan to recruit approximately 30 engineers
 specialized in software repository optimization, and (ii) approximately
 6.0%, or HK$261.0 million, will be used in rental and purchase of
 training or inference servers.
-(cid:129) Approximately 10.0%, or HK$435.1 million, will be used to build our
+ Approximately 10.0%, or HK$435.1 million, will be used to build our
 own software development infrastructure, encompassing software testing
 and release, which could further improve our customers’ growing
 demands.Specifically,(i)approximately7.0%,orHK$304.5million,will
@@ -18687,7 +18687,7 @@ engineers around the world. For example, we plan to recruit
 approximately five engineers specialized in software test, and (ii)
 approximately 3.0%, or HK$130.5 million, will be used in rental and
 purchase of training or inference servers.
-(cid:129) Approximately 5.0%, or HK$217.5 million, will be used for the commercialization
+ Approximately 5.0%, or HK$217.5 million, will be used for the commercialization
 of our intelligent computing solution. Specifically, we plan to expand our sales and
 marketing team, recruit approximately 35 staffs with expertise in sales and
 marketingstrategies,carryoutmarketingandpromotionactivitiessuchassettingup
@@ -18702,7 +18702,7 @@ solutions, and build a dedicated team to provide technical support to our custom
 Through these efforts, we expect to establish our sales network, strengthen our
 customer relationship and create our brand impact. See “— Business Sustainability
 and Path to Profitability — Expanding Customer Base.”
-(cid:129) Approximately 10.0%, or HK$435.1 million, will be used for working capital and
+ Approximately 10.0%, or HK$435.1 million, will be used for working capital and
 general corporate purposes.
 The table below summarizes the planned yearly allocation of the net proceeds from the
 Global Offering by nature, from 2026 through 2029. Investors should note that these plans are
@@ -19822,14 +19822,14 @@ A. APPLICATIONS FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the HK eIPO White Form service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the HK eIPO White Form service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the
 person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or close associates;
-(cid:129) are a Director, chief executive or any of his/her close associates; or
-(cid:129) have been allocated or have applied for any International Offer Shares or otherwise
+ are an existing Shareholder or close associates;
+ are a Director, chief executive or any of his/her close associates; or
+ have been allocated or have applied for any International Offer Shares or otherwise
 participate in the International Offering.
 2. Application Channels
 The Hong Kong Public Offer period will begin at 9:00 a.m. on Monday, December 22,
@@ -19913,18 +19913,18 @@ breach of the terms and conditions of this Prospectus.
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual Applicants For Corporate Applicants
-(cid:129) Full name(s)2 as shown on your (cid:129) Full name(s)2 as shown on your
+ Full name(s)2 as shown on your Full name(s)2 as shown on your
 identity document identity document
-(cid:129) Identity document’s issuing country (cid:129) Identity document’s issuing country
+ Identity document’s issuing country Identity document’s issuing country
 or jurisdiction or jurisdiction
-(cid:129) Identity document type, with order (cid:129) Identity document type, with order
+ Identity document type, with order Identity document type, with order
 of priority: of priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification ii. Certificate of incorporation; or
 document; or iii. Business registration
 iii. Passport; and certificate; or
 iv. Other equivalent document; and
-(cid:129) Identity document number (cid:129) Identity document number
+ Identity document number Identity document number
 – 449 –
 
 === PAGE 460 ===
@@ -19963,9 +19963,9 @@ above.
 – “Unlistedcompany”meansacompanywithnoequitysecuritieslistedontheStockExchangeor
 any other stock exchange.
 – “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) hold more than half of the issued share capital of the company (not counting any part of
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ hold more than half of the issued share capital of the company (not counting any part of
 itwhichcarriesnorighttoparticipatebeyondaspecifiedamountinadistributionofeither
 profits or capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -20243,21 +20243,21 @@ without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “–A.Applications for Hong Kong Offer Shares – 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
 – 457 –
 
 === PAGE 468 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Sponsor-OCs believe that by accepting your application, it or we would
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Sponsor-OCs believe that by accepting your application, it or we would
 violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -20371,9 +20371,9 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Monday, December 29, 2025 if, there is:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ Extreme Conditions,
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Monday,
 December 29, 2025.
@@ -20452,23 +20452,23 @@ supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund cheque and HK eIPO White Form e-Auto
+ processing your application and refund cheque and HK eIPO White Form e-Auto
 Refund payment instruction(s), where applicable, verification of compliance with
 the terms and application procedures set out in this prospectus and announcing
 results of allocation of Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the Shares and/or regulators and/or any other purposes to which
 applicants and holders of the Shares may from time to time agree.
@@ -20482,21 +20482,21 @@ for and holders of Hong Kong Offer Shares will be kept confidential but the Comp
 H Share Registrar may, to the extent necessary for achieving any of the above purposes,
 disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to, from
 or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving banks and
+ the Company’s appointed agents such as financial advisers, receiving banks and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar, in each case for the purposes of providing its
 services or facilities or performing its functions in accordance with its rules or
 procedures and operating FINI and CCASS (including where applicants for the
 Hong Kong Offer Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H
 Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of personal data
@@ -21024,9 +21024,9 @@ in Note 12.
 TheHistoricalFinancialInformationhasbeenpreparedinaccordancewithInternationalFinancialReporting
 Standards issued by the InternationalAccounting Standards Board (“IFRSAccounting Standards”).
 IFRSAccounting Standards comprise the following authoritative literature:
-(cid:129) IFRSAccounting Standards;
-(cid:129) IAS Standards;
-(cid:129) Interpretations developed by the IFRS Interpretations Committee (IFRIC Interpretations) or its
+ IFRSAccounting Standards;
+ IAS Standards;
+ Interpretations developed by the IFRS Interpretations Committee (IFRIC Interpretations) or its
 predecessor body, the Standing Interpretations Committee (SIC Interpretations).
 The Historical Financial Information has been prepared under the historical cost convention, except that
 certain financial assets/liabilities are carried at fair value.
@@ -21230,18 +21230,18 @@ thecreditriskinherentinthegroupofoutstandingfinancereceivablesbalanceisquitelowa
 receivables are secured by public rental houses owned by the Group.
 The Group measures credit risk of other receivables and finance lease receivables using
 Probability of Default (“PD”), Exposure at Default (“EAD”) and Loss Given Default (“LGD”).
-(cid:129) Financial instruments that are not credit-impaired on initial recognition are classified in
+ Financial instruments that are not credit-impaired on initial recognition are classified in
 ‘Stage 1’and have their credit risk continuously monitored by the Group. The expected
 credit loss is measured on a 12-month basis.
 – I-19 –
 
 === PAGE 495 ===
 APPENDIX I ACCOUNTANT’S REPORT
-(cid:129) If a significant increase in credit risk (specifically, when the debtor is more than 30 day
+ If a significant increase in credit risk (specifically, when the debtor is more than 30 day
 past due on its contractual payments) since initial recognition is identified, the financial
 instrumentismovedto‘Stage2’butisnotyetdeemedtobecredit-impaired.Theexpected
 credit loss is measured on lifetime basis.
-(cid:129) Ifthefinancialinstrumentiscredit-impaired(specifically,whenthedebtorismorethan90
+ Ifthefinancialinstrumentiscredit-impaired(specifically,whenthedebtorismorethan90
 days past due on its contractual payments), the financial instrument is then moved to
 ‘Stage 3’. The expected credit loss is measured on lifetime basis.
 Astherehasbeennosignificantincreaseincreditrisksinceinitialrecognition,alloftheGroup’s
@@ -22878,13 +22878,13 @@ forusebytheGroup.Leasetermsarenegotiatedonanindividualbasisandcontainawiderangeo
 terms and conditions.
 Assetsandliabilitiesarisingfromaleaseareinitiallymeasuredonapresentvaluebasis.Leaseliabilities
 include the net present value of the following lease payments:
-(cid:129) fixed payments (including in-substance fixed payments), less any lease incentives receivable;
-(cid:129) variableleasepaymentthatarebasedonanindexorarate,initiallymeasuredusingtheindexor
+ fixed payments (including in-substance fixed payments), less any lease incentives receivable;
+ variableleasepaymentthatarebasedonanindexorarate,initiallymeasuredusingtheindexor
 rate as at the commencement date;
-(cid:129) amounts expected to be payable by the Group under residual value guarantees;
-(cid:129) theexercisepriceofapurchaseoptioniftheGroupisreasonablycertaintoexercisethatoption;
+ amounts expected to be payable by the Group under residual value guarantees;
+ theexercisepriceofapurchaseoptioniftheGroupisreasonablycertaintoexercisethatoption;
 and
-(cid:129) paymentsofpenaltiesforterminatingthelease,iftheleasetermreflectstheGroupexercisingthat
+ paymentsofpenaltiesforterminatingthelease,iftheleasetermreflectstheGroupexercisingthat
 option.
 Lease payments to be made under reasonably certain extension options are also included in the
 measurement of the liability.
@@ -22898,19 +22898,19 @@ isused,beingtheratethattheindividuallesseewouldhavetopaytoborrowthefundsnecessar
 assetofsimilarvaluetotheright-of-useassetinasimilareconomicenvironmentwithsimilarterms,security
 and conditions.
 To determine the incremental borrowing rate, the Group:
-(cid:129) where possible, uses recent third-party financing received by the individual lessee as a starting
+ where possible, uses recent third-party financing received by the individual lessee as a starting
 point,adjustedtoreflectchangesinfinancingconditionssincethirdpartyfinancingwasreceived;
-(cid:129) usesabuild-upapproachthatstartswitharisk-freeinterestrateadjustedforcreditriskforleases
+ usesabuild-upapproachthatstartswitharisk-freeinterestrateadjustedforcreditriskforleases
 held by the Group, which does not have recent third party financing; and
-(cid:129) makes adjustments specific to the lease, e.g. term, country, currency and security.
+ makes adjustments specific to the lease, e.g. term, country, currency and security.
 Lease payments are allocated between principal and finance cost.The finance cost is charged to profit
 orlossovertheleaseperiodsoastoproduceaconstantperiodicrateofinterestontheremainingbalanceof
 the liability for each period.
 Right-of-use assets are measured at cost comprising the following:
-(cid:129) the amount of the initial measurement of lease liability;
-(cid:129) anyleasepaymentsmadeatorbeforethecommencementdatelessanyleaseincentivesreceived;
-(cid:129) any initial direct costs; and
-(cid:129) restoration costs.
+ the amount of the initial measurement of lease liability;
+ anyleasepaymentsmadeatorbeforethecommencementdatelessanyleaseincentivesreceived;
+ any initial direct costs; and
+ restoration costs.
 Right-of-useassetsaregenerallydepreciatedovertheshorteroftheasset’susefullifeandtheleaseterm
 onastraight-linebasis.IftheGroupisreasonablycertaintoexerciseapurchaseoption,theright-of-useasset
 is depreciated over the underlying asset’s useful life.
@@ -23055,15 +23055,15 @@ Accounting policies of intangible assets
 (a) Research and development expenditure
 Research expenditure is recognised as an expense as incurred. Development cost is capitalized only if all of
 the following criteria are satisfied:
-(cid:129) It is technically feasible to complete the research and development project so that it will be available
+ It is technically feasible to complete the research and development project so that it will be available
 for use;
-(cid:129) Management intends to complete the research and development project and use or sell it;
-(cid:129) There is an ability to use or sell the research and development project;
-(cid:129) It can be demonstrated how the research and development project will generate probable future
+ Management intends to complete the research and development project and use or sell it;
+ There is an ability to use or sell the research and development project;
+ It can be demonstrated how the research and development project will generate probable future
 economic benefits;
-(cid:129) Adequate technical, financial and other resources to complete the development and to use or sell the
+ Adequate technical, financial and other resources to complete the development and to use or sell the
 research and development project are available; and
-(cid:129) The expenditure attributable to the research and development project during its development can be
+ The expenditure attributable to the research and development project during its development can be
 reliably measured.
 Other development expenditures that do not meet these criteria are recognised as an expense as incurred.
 – I-58 –
@@ -24651,22 +24651,22 @@ PursuanttothePre-IPOOptionPlan,managementandemployeesoftheGrouphavetherighttoacq
 interests in Shanghai Biliren after the share options become exercisable upon completion of the specified service
 period with the Group.The Group’s management or employees are generally subject to a zero to five years service
 schedule from the date of grant. The terms and conditions of the share option grants are as follows:
-(cid:129) Type (i) 25% of the total granted share options shall become vested one year from the vesting
+ Type (i) 25% of the total granted share options shall become vested one year from the vesting
 commencement date and the remaining 75% vested on each year thereafter over the next three years;
 amongwhich,85,046and133,561shareoptionswereacceleratedvestedin2023and2024respectively;
-(cid:129) Type (ii) 20% of the total granted share options shall become vested one year from the vesting
+ Type (ii) 20% of the total granted share options shall become vested one year from the vesting
 commencement date and the remaining 80% vested on each year thereafter over the next four years;
-(cid:129) Type (iii) 20% of the total granted share options shall become vested two years from the vesting
+ Type (iii) 20% of the total granted share options shall become vested two years from the vesting
 commencement date and the remaining 80% vested on each year thereafter over the next two years;
-(cid:129) Type (iv) 20% of the total granted share options shall become vested one year from the vesting
+ Type (iv) 20% of the total granted share options shall become vested one year from the vesting
 commencement date, 20% of the total granted share options shall become vested two years from the
 vesting commencement date and the remaining 60% vested on each year thereafter over the next two
 years;
-(cid:129) Type (v) 20% the total granted share options shall become vested two years from the vesting
+ Type (v) 20% the total granted share options shall become vested two years from the vesting
 commencement date, 20% of the total granted share options shall become vested three years from the
 vesting commencement date and the remaining 60% vested on each year thereafter over the next two
 years;
-(cid:129) Type (vi) 100% of the total granted share options shall become vested on the vesting commencement
+ Type (vi) 100% of the total granted share options shall become vested on the vesting commencement
 date.
 – I-90 –
 
@@ -24745,17 +24745,17 @@ Fortheyearended31December2024andthesixmonthsended30June2025,136,938and60,765RSUs
 newlygrantedtotheGroup’scertainmanagementandemployeesatthepriceofRMB1.0pershareunderthePre-IPO
 RSU Plan.
 The terms and conditions for the new granted RSUs are as below:
-(cid:129) Type (i) 20% of the total granted restricted shares shall become vested two years from the vesting
+ Type (i) 20% of the total granted restricted shares shall become vested two years from the vesting
 commencement date, 20% of the total granted RSUs shall become vested three years from the vesting
 commencement date and the remaining 60% vested on each year thereafter over the next two years;
-(cid:129) Type (ii) 100% of the total granted RSUs shall become vested on each month thereafter over the next
+ Type (ii) 100% of the total granted RSUs shall become vested on each month thereafter over the next
 year;
 – I-92 –
 
 === PAGE 568 ===
 APPENDIX I ACCOUNTANT’S REPORT
-(cid:129) Type (iii) 100% of the total granted RSUs shall become vested on the vesting commencement date.
-(cid:129) Type(iv)20%ofthetotalgrantedRSUsshallbecomevestedoneyearfromthevestingcommencement
+ Type (iii) 100% of the total granted RSUs shall become vested on the vesting commencement date.
+ Type(iv)20%ofthetotalgrantedRSUsshallbecomevestedoneyearfromthevestingcommencement
 date,20%ofthetotalgrantedRSUsshallbecomevestedtwoyearsfromthevestingcommencementdate
 and the remaining 60% vested on each year thereafter over the next two years;
 The performance evaluation for each vesting period includes individual performance evaluation requirement
@@ -24817,8 +24817,8 @@ valueoftheservicesreceivedinexchangeforthegrantoftheequityinstrumentsisrecognize
 on the consolidated statement of comprehensive loss with a corresponding increase in equity.
 Intermsoftheoptionsandsharesawardedtoemployees,thetotalamounttobeexpensedisdetermined
 by reference to the fair value of the options and shares granted:
-(cid:129) excluding the impact of any service and non-market performance vesting conditions; and
-(cid:129) including the impact of any non-vesting conditions.
+ excluding the impact of any service and non-market performance vesting conditions; and
+ including the impact of any non-vesting conditions.
 Serviceandnon-marketingperformancevestingconditionsareincludedincalculationofthenumberof
 optionsandsharesthatareexpectedtovest.Thetotalamountexpensedisrecognizedoverthevestingperiod,
 which is the period over which all of the specified vesting conditions are to be satisfied.
@@ -25577,13 +25577,13 @@ APPENDIX I ACCOUNTANT’S REPORT
 The results and financial position of foreign operations (none of which has the currency of a
 hyperinflationary economy) that have a functional currency different from the presentation currency are
 translated into the presentation currency as follows:
-(cid:129) assetsandliabilitiesforeachbalancesheetpresentedaretranslatedattheclosingrateatthedateofthat
+ assetsandliabilitiesforeachbalancesheetpresentedaretranslatedattheclosingrateatthedateofthat
 balance sheet;
-(cid:129) incomeandexpensesforeachstatementofcomprehensivelossaretranslatedataverageexchangerates
+ incomeandexpensesforeachstatementofcomprehensivelossaretranslatedataverageexchangerates
 (unless this average is not a reasonable approximation of the cumulative effect of the rates prevailing
 on the transaction dates, in which case income and expenses are translated at the rate on the dates of
 the transactions); and
-(cid:129) all resulting currency translation differences are recognised in other comprehensive income (“OCI”).
+ all resulting currency translation differences are recognised in other comprehensive income (“OCI”).
 On consolidation, exchange differences arising from the translation of any net investment in foreign
 entities are recognised in other comprehensive income.
 45.4 Impairment of non-financial assets
@@ -25599,9 +25599,9 @@ at the end of each reporting period.
 45.5 Investments and other financial assets
 (a) Classification
 The Group classifies its financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through OCI, or through profit or loss);
+ those to be measured subsequently at fair value (either through OCI, or through profit or loss);
 and
-(cid:129) those to be measured at amortised cost.
+ those to be measured at amortised cost.
 The classification depends on the entity’s business model for managing the financial assets and the
 contractual terms of the cash flows.
 Forassetsmeasuredatfairvalue,gainsandlosseswilleitherberecordedinprofitorlossorOCI.For
@@ -25630,14 +25630,14 @@ Debt instruments
 Subsequent measurement of debt instruments depends on the Group’s business model for
 managing the asset and the cash flow characteristics of the asset. There are three measurement
 categories into which the Group classifies its debt instruments:
-(cid:129) Amortised cost:Assets that are held for collection of contractual cash flows where those
+ Amortised cost:Assets that are held for collection of contractual cash flows where those
 cash flows represent solely payments of principal and interest are measured at amortised
 cost. Interest income from these financial assets is included in other income using the
 effective interest rate method. Any gain or loss arising on derecognition is recognised
 directly in profit or loss and presented in “other gains/losses, net”, together with foreign
 exchange gains and losses. Impairment losses are presented as separate line item in the
 consolidated statements of comprehensive loss.
-(cid:129) Fairvaluethroughprofitorloss:Assetsthatdonotmeetthecriteriaforamortisedcostor
+ Fairvaluethroughprofitorloss:Assetsthatdonotmeetthecriteriaforamortisedcostor
 FVOCI are measured at fair value through profit or loss. A gain or loss on a debt
 investmentthatissubsequentlymeasuredatfairvaluethroughprofitorlossandisnotpart
 of a hedging relationship is recognized in profit or loss and presented net in the
@@ -25736,15 +25736,15 @@ are discounted to present value.
 45.13 Loss per share
 (i) Basic loss per share
 Basic loss per share is calculated by dividing:
-(cid:129) thelossattributabletoownersoftheCompany,excludinganycostsofservicingequityotherthan
+ thelossattributabletoownersoftheCompany,excludinganycostsofservicingequityotherthan
 ordinary shares; and
-(cid:129) by the weighted average number of ordinary shares outstanding during the financial year.
+ by the weighted average number of ordinary shares outstanding during the financial year.
 (ii) Diluted loss per share
 Diluted loss per share adjusts the figures used in the determination of basic loss per share to take into
 account:
-(cid:129) the after-income tax effect of fair value gain or loss associated with dilutive potential ordinary
+ the after-income tax effect of fair value gain or loss associated with dilutive potential ordinary
 shares; and
-(cid:129) the weighted average number of additional ordinary shares that would have been outstanding
+ the weighted average number of additional ordinary shares that would have been outstanding
 assuming the conversion of all dilutive potential ordinary shares.
 45.14 Borrowings
 Borrowings are initially recognised at fair value, net of transaction costs incurred. Borrowings are
@@ -25949,12 +25949,12 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
-(cid:129) The related pro forma adjustments give appropriate effect to those criteria; and
+ The related pro forma adjustments give appropriate effect to those criteria; and
 – II-4 –
 
 === PAGE 596 ===
 APPENDIX II UNAUDITED PRO FORMA FINANCIAL INFORMATION
-(cid:129) The unaudited pro forma financial information reflects the proper application of
+ The unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountant’s judgment, having regard to
 the reporting accountant’s understanding of the nature of the company, the event or transaction
@@ -25988,7 +25988,7 @@ The following is the text of a letter and a valuation certificate prepared for t
 of incorporation in this prospectus received from AVISTA Valuation Advisory Limited, an
 independent valuer, in connection with its valuation as at 30 September 2025 of the property
 interests held by the Company.
-(cid:1)(cid:12838)(cid:1)(cid:1)(cid:1)(cid:13121)(cid:1)(cid:1)(cid:1)(cid:15375)(cid:1)(cid:1)(cid:1)(cid:14436)(cid:1)(cid:1)(cid:1)(cid:2954)(cid:1)(cid:1)(cid:1)(cid:14555)(cid:1)(cid:1)(cid:1)(cid:14445)(cid:1)
+ 
 Suites 2401-06, 24/F, Everbright Centre, 108 Gloucester Road,
 Wan Chai, Hong Kong
 : +852 3702 7338 : +852 3914 6388

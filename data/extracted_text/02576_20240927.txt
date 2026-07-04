@@ -182,19 +182,19 @@ The results of allocations in the Hong Kong Public Offering
 (with successful applicants’ identification
 document numbers, where appropriate) to be available
 through a variety of channels, including:
-(cid:129) in the announcement to be posted on our website
+ in the announcement to be posted on our website
 and the website of the Stock Exchange at
 www.taimei.com(6) and www.hkexnews.hk,
 respectively, at or before. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11:00 p.m. on
 Monday, October 7, 2024
-(cid:129) from the designated results of allocations website
+ from the designated results of allocations website
 at www.iporesults.com.hk
 (alternatively: www.eipo.com.hk/eIPOAllotment)
 with a “search by ID” function from. . . . . . . . . . . . . . . . . . . . . . . . 11:00 p.m. on
 Monday, October 7, 2024
 to 12:00 midnight on
 Sunday, October 13, 2024
-(cid:129) from the allocation results telephone enquiry
+ from the allocation results telephone enquiry
 by calling +852 2862 8555 between
 9:00 a.m. and 6:00 p.m. on . . . . . . . . . . . . . . . . . . . . . Tuesday, October 8, 2024,
 Wednesday, October 9, 2024,
@@ -389,19 +389,19 @@ internet. SaaS products are typically charged on a subscription basis. On the ot
 customized products, which typically reside on a private cloud infrastructure operated solely
 for a single customer, are charged by project development workload, and our digital services
 are charged based on the actual services delivered.
-(cid:2) EnhancedR&Dandcommercializationefficiencyandproductivity
-Pharmaceutical and (cid:2) Improvedriskandcostmanagement
+ EnhancedR&Dandcommercializationefficiencyandproductivity
+Pharmaceutical and Improvedriskandcostmanagement
 Medical Device Companies
-(cid:2) Seamlesscollaborationwithmoredatainsights
+ Seamlesscollaborationwithmoredatainsights
 Hospitals Patients
-(cid:2) Efficientcollaborationwithotherparties (cid:2) Moreconvenient andstructuredrecruitmentprocess
-(cid:2) Capabilitytoundertakemorenewprojects (cid:2) Enhancedmedicalquality
-(cid:2) Higherdataqualityandusageefficiency
+ Efficientcollaborationwithotherparties Moreconvenient andstructuredrecruitmentprocess
+ Capabilitytoundertakemorenewprojects Enhancedmedicalquality
+ Higherdataqualityandusageefficiency
 PharmaOS
 Third-PartyServiceProviders RegulatoryAuthorities
-(cid:2) Softwareandproductivitytools (cid:2) Higherregulationefficiencyandlowermanagementcost
-(cid:2) Enhancedservicequalityandcompetitiveness (cid:2) Convenientdatatransferandmaintenance
-(cid:2) Convenientexternalcollaboration (cid:2) Standardizedanddigitalizedprocess
+ Softwareandproductivitytools Higherregulationefficiencyandlowermanagementcost
+ Enhancedservicequalityandcompetitiveness Convenientdatatransferandmaintenance
+ Convenientexternalcollaboration Standardizedanddigitalizedprocess
 Customers
 Our SaaS products and digital services are primarily offered through our two digital
 collaboration platforms, namely TrialOS and PharmaOS. Our digital collaboration platforms
@@ -448,7 +448,7 @@ Platforms DigitalCollaborationPlatform DigitalCollaborationPlatform
 Digital Collaboration Platforms
 We have developed and launched two major digital collaboration platforms to support the
 R&D and commercialization of pharmaceuticals and medical devices:
-(cid:129) TrialOS — Our digital collaboration platform for pharmaceutical and medical
+ TrialOS — Our digital collaboration platform for pharmaceutical and medical
 device R&D launched in 2019. With TrialOS, staff from pharmaceutical companies,
 hospitals, CROs, and other relevant parties can easily manage and use our
 cloud-based software products and digital services by logging into TrialOS through
@@ -467,7 +467,7 @@ operational efficiency.
 
 === PAGE 14 ===
 SUMMARY
-(cid:129) PharmaOS — Our digital collaboration platform for pharmaceutical and medical
+ PharmaOS — Our digital collaboration platform for pharmaceutical and medical
 device commercialization launched in 2021, which supports various cloud-based
 software and digital services that facilitate the commercialization efforts of
 pharmaceutical and medical device companies. PharmaOS offers flexible, easy-to-
@@ -559,20 +559,20 @@ Benefits of Our Software and Digital Services
 Pharmaceutical companies, as the owners of pharmaceutical products and sponsors of
 clinical trials, are our major customers. The benefits we provide to pharmaceutical companies
 and third-party service providers include:
-(cid:129) Designed for complex pharmaceutical and medical device use cases. Our software
+ Designed for complex pharmaceutical and medical device use cases. Our software
 and digital services are designed to tackle the key processes and bottlenecks in
 pharmaceutical and medical device R&D and commercialization use cases. Through
 standardization,visualization,andautomationofpreviouslymanualprocess,weaim
 to significantly improve the efficiency and quality of pharmaceutical R&D and
 commercialization, while reducing operational costs and risks and ensuring
 regulatory compliance.
-(cid:129) Seamless collaboration. Pharmaceutical R&D and commercialization involves
+ Seamless collaboration. Pharmaceutical R&D and commercialization involves
 significant cross-organizational and cross-role communication and collaboration
 among various stakeholders. Our TrialOS and PharmaOS platforms connect all
 parties in the pharmaceutical R&D and commercialization process and enable them
 to collaborate effortlessly online by breaking down the barriers between them
 through efficient data exchange and process coordination.
-(cid:129) Improved data analytics and insights. Our products and services support
+ Improved data analytics and insights. Our products and services support
 pharmaceutical companies, CROs/SMOs or hospitals in key stages throughout the
 entire R&D and commercialization process. Massive data are generated and
 managed on our platform. Our platforms allow data to flow among products and
@@ -650,21 +650,21 @@ purchases, respectively. For further information, see “Business — Our Custom
 OUR COMPETITIVE STRENGTHS
 We believe the following competitive strengths contributed to our success and position us
 for continued growth:
-(cid:129) an early entrant and major player in pharmaceutical and medical device digital
+ an early entrant and major player in pharmaceutical and medical device digital
 solutions
-(cid:129) a comprehensive product matrix supported by digital platforms
-(cid:129) large, blue-chip, and loyal customer base
-(cid:129) well-developed technology and data capabilities
-(cid:129) balanced monetization combining software and services
-(cid:129) visionary and experienced management team
+ a comprehensive product matrix supported by digital platforms
+ large, blue-chip, and loyal customer base
+ well-developed technology and data capabilities
+ balanced monetization combining software and services
+ visionary and experienced management team
 OUR GROWTH STRATEGIES
 To drive our continued growth, we will implement the following strategies:
-(cid:129) continue to upgrade and expand our products and services
-(cid:129) expand customer base and efficiently respond to customer needs
-(cid:129) strengthen customer relationships through cross-selling and upselling
-(cid:129) reinforce R&D for future growth
-(cid:129) expand internationally and foster global collaboration
-(cid:129) pursue business growth through investments, acquisitions and partnerships
+ continue to upgrade and expand our products and services
+ expand customer base and efficiently respond to customer needs
+ strengthen customer relationships through cross-selling and upselling
+ reinforce R&D for future growth
+ expand internationally and foster global collaboration
+ pursue business growth through investments, acquisitions and partnerships
 – 8 –
 
 === PAGE 19 ===
@@ -770,9 +770,9 @@ education and changes in product structure, we incurred net losses and operating
 during the Track Record Period. In our new phase of development, we believe many of the
 historical factors below will become no longer applicable or be alleviated due to the reasons
 detailed in “Business — Business Sustainability — Historical Factors” in this prospectus:
-(cid:129) Substantial Investments in Educating a Bourgeoning Market;
-(cid:129) Significant Software Development Expenses; and
-(cid:129) Diverse New Solutions Progressing Towards Maturity.
+ Substantial Investments in Educating a Bourgeoning Market;
+ Significant Software Development Expenses; and
+ Diverse New Solutions Progressing Towards Maturity.
 New Initiatives and Programs to Achieve Profitability
 Looking forward, we plan to achieve long-term profitability through continuing our
 revenue growth, improving our gross profit margin and increasing our operating efficiency,
@@ -791,24 +791,24 @@ effectively, further boosting our profitability.
 === PAGE 22 ===
 SUMMARY
 Continuous Expansion of Our Customer Base
-(cid:129) Grow with the market. China’s pharmaceutical and medical device R&D and
+ Grow with the market. China’s pharmaceutical and medical device R&D and
 commercialization digital solutions market size is expected to grow at a CAGR of 20.2%
 from 2023 to 2028. As a major market player with established brand reputation, we
 believe we are well positioned to capture the market opportunities, as proven by the
 continued expansion of our customer base over the Track Record Period.
-(cid:129) Enhance Our Digital Collaboration Platform’s Connectivity. Through our TrialOS and
+ Enhance Our Digital Collaboration Platform’s Connectivity. Through our TrialOS and
 PharmaOS platforms, we have connected a number of industry participants, enabling us
 to efficiently acquire customers. We plan to continuously expand our influence in the
 industry, connect more industry participants, and more efficiently expand our customer
 base.
-(cid:129) Increase Market Recognition and Penetration. Leveraging our market position and
+ Increase Market Recognition and Penetration. Leveraging our market position and
 early-mover advantage, we believe we can further increase the penetration of our
 cloud-based software among pharmaceutical and medical device companies, CROs and
 clinical research institutions. Our established market recognition, platform capabilities,
 and diverse solutions that cater to pharmaceutical and medical device companies in
 various stages of development, may attract new participants and established players,
 seeking a digital solution provider for R&D and commercialization.
-(cid:129) Optimize Solutions to Meet Evolving Customer Needs. For our existing software and
+ Optimize Solutions to Meet Evolving Customer Needs. For our existing software and
 digital services, we aim to enhance their quality and efficiency through continuous
 development efforts. For our next-generation platforms, Trials and Wujie, we proactively
 finalize their development and advance the deployment and anticipate them to enhance
@@ -819,7 +819,7 @@ to switch to standardized versions that offer equivalent or even superior or add
 functionalities. We also plan to continually expand our range of services to cater to a
 broader user base.
 Retain Customers and Increase Customer Spending
-(cid:129) Increase Customer Retention. During the Track Record Period, we have strong customer
+ Increase Customer Retention. During the Track Record Period, we have strong customer
 stickiness, with a customer retention rate of over 77% and a core customer retention rate
 of over 87% for 2021, 2022 and 2023. In the future, we plan to continue to increase our
 customer retention, especially retention of our core customers through our one-stop
@@ -828,20 +828,20 @@ solutions.
 
 === PAGE 23 ===
 SUMMARY
-(cid:129) Cross-Selling and Upselling. Starting from early 2024, we have implemented a number
+ Cross-Selling and Upselling. Starting from early 2024, we have implemented a number
 of initiatives to enhance our cross-selling capabilities. In addition, we have observed
 higher average value per customer and an increasing number of customers that purchased
 three or more products or services during the Track Record Period. Looking ahead, we
 plan to intensify our efforts in cross-selling and upselling across our solution matrix to
 enhance the average value per customer, further driving our long-term revenue growth.
 Manage Expenses and Improve Operational Efficiency
-(cid:129) Continuous Product Mix Optimization and Margin Enhancement.As our solutions gain
+ Continuous Product Mix Optimization and Margin Enhancement.As our solutions gain
 market recognition, our branding strength is expected to grow, enabling better pricing
 powerandmarginimprovements.Also,asourproductstructuregetsoptimized,weexpect
 further enhancement in our margins. In addition, we strategically prioritize promoting
 SaaS products, which can achieve higher profitability especially when they mature and
 are scaled up.
-(cid:129) Enhance Operational Efficiency. To enhance operational efficiency, we have
+ Enhance Operational Efficiency. To enhance operational efficiency, we have
 implemented measures such as streamlining personnel structure and reducing headcounts.
 In our new phase of development, (i) we expect to experience steady revenue growth
 without the need for substantial new customer acquisition efforts; (ii) refinement of our
@@ -850,7 +850,7 @@ solutions. Additionally, as our software advances, we expect increased operation
 efficiency and optimized R&D investments. We also anticipate efficient utilization of
 R&D and sales expenses due to established relationships with many customers and our
 familiarization with their needs.
-(cid:129) Economies of Scale Driving Operational Efficiency. We plan to capitalize on cross-
+ Economies of Scale Driving Operational Efficiency. We plan to capitalize on cross-
 selling and up-selling opportunities, to enhance sales and marketing efficiency. While we
 anticipate to continue incurring significant R&D expenses and administrative expenses in
 absolute terms, we expect these expenses to decrease as a percentage of total revenue in
@@ -1284,29 +1284,29 @@ this prospectus. These risks can be broadly categorized into: (i) risks relating
 and industry and (ii) risks relating to the Global Offering. You should read that section in its
 entirety carefully before you decide to invest in our Shares. Some of the major risks we face
 include the following:
-(cid:129) If we fail to consistently offer attractive solutions to retain existing customers or
+ If we fail to consistently offer attractive solutions to retain existing customers or
 engage new customers, our revenue, operating results, financial condition, and
 business may be significantly harmed.
-(cid:129) We have incurred net losses and net cash flows used in operating activities in the
+ We have incurred net losses and net cash flows used in operating activities in the
 past, and may not be able to achieve or maintain profitability or have net operating
 cash inflows in the foreseeable future.
-(cid:129) If we fail to keep up with rapid changes in technologies or adapt our platforms and
+ If we fail to keep up with rapid changes in technologies or adapt our platforms and
 solutions to changing customers’requirements or emerging industry standards, or if
 our efforts to invest in the development of new technologies are unsuccessful or
 ineffective, our business may be materially and adversely affected.
-(cid:129) We operate in an emerging and dynamic industry and have a limited operating
+ We operate in an emerging and dynamic industry and have a limited operating
 history,andourhistoricalfinancialandoperatingperformancemaynotbeindicative
 of future performance.
 – 24 –
 
 === PAGE 35 ===
 SUMMARY
-(cid:129) Our ability to access, process and analyze data from various sources could be
+ Our ability to access, process and analyze data from various sources could be
 restricted, which may in turn adversely impact our ability to deliver solutions, our
 business and results of operations.
-(cid:129) We depend on information technology and other infrastructure that face security
+ We depend on information technology and other infrastructure that face security
 risks, including cyber security risks.
-(cid:129) Our business processes a large amount of data. Data protection, privacy and
+ Our business processes a large amount of data. Data protection, privacy and
 applicable laws restrict collection, use and disclosure of personal information, and
 failure to comply with or adapt to changes in these laws could materially and
 adversely harm our business.
@@ -1457,22 +1457,22 @@ HK$11.5 per Share, which is the mid-point of the indicative Offer Price range st
 prospectus. We intend to use the net proceeds we will receive from the Global Offering for the
 following purposes, subject to changes in light of our evolving business needs and changing
 market conditions:
-(cid:129) approximately 35%, or HK$65.0 million, will be used to improve and upgrade our
+ approximately 35%, or HK$65.0 million, will be used to improve and upgrade our
 TrialOS Platform and PharmaOS Platform and their respective cloud-based software
 and digital services;
-(cid:129) approximately 30%, or approximately HK$55.7 million, will be used to improve our
+ approximately 30%, or approximately HK$55.7 million, will be used to improve our
 core technology and R&D capabilities;
-(cid:129) approximately 10%, or HK$18.6 million, will be used to strengthen our sales and
+ approximately 10%, or HK$18.6 million, will be used to strengthen our sales and
 marketing capabilities;
 – 28 –
 
 === PAGE 39 ===
 SUMMARY
-(cid:129) approximately 15%, or HK$27.9 million, will be used to selectively pursue strategic
+ approximately 15%, or HK$27.9 million, will be used to selectively pursue strategic
 investments and acquisitions that we believe will allow us to expand our existing
 product and service offerings, expand our customer base and enhance our
 technology capabilities; and
-(cid:129) approximately 10%, or HK$18.6 million, will be used for our working capital and
+ approximately 10%, or HK$18.6 million, will be used for our working capital and
 general corporate purposes.
 LISTING EXPENSES
 Listing expenses in relation to the Global Offering are estimated to be approximately
@@ -2318,22 +2318,22 @@ the other risk factors as described in this prospectus. You are strongly caution
 on any forward-looking statements involves known and unknown risks and uncertainties. The
 risks, uncertainties and other factors facing our Company which could affect the accuracy of
 forward-looking statements include, but are not limited to, the following:
-(cid:129) our ability to successfully implement and obtain adequate capital resources to fund
+ our ability to successfully implement and obtain adequate capital resources to fund
 our business plans, strategies, objectives and goals;
-(cid:129) changes in our customers’ preferences, demands and business performance;
-(cid:129) our financial conditions and performance, including our ability to control costs and
+ changes in our customers’ preferences, demands and business performance;
+ our financial conditions and performance, including our ability to control costs and
 expenses;
-(cid:129) changes in the competitive landscape of our industries;
-(cid:129) changes to the political, regulatory, economic and business environment in the
+ changes in the competitive landscape of our industries;
+ changes to the political, regulatory, economic and business environment in the
 industry and geographical markets in which we operate;
-(cid:129) changesincompetitiveconditionsandourabilitytocompeteundertheseconditions;
-(cid:129) futuredevelopments,trendsandconditionsintheindustryandgeographicalmarkets
+ changesincompetitiveconditionsandourabilitytocompeteundertheseconditions;
+ futuredevelopments,trendsandconditionsintheindustryandgeographicalmarkets
 in which we operate;
-(cid:129) global financial markets and economic conditions;
-(cid:129) our dividend policy;
-(cid:129) change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
+ global financial markets and economic conditions;
+ our dividend policy;
+ change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
 operations, margins, risk management and overall market trends; and
-(cid:129) all other risks and uncertainties described in “Risk Factors”.
+ all other risks and uncertainties described in “Risk Factors”.
 In some cases, we use the words “aim”, “anticipate”, “believe”, “can”, “continue”,
 “could”, “estimate”, “expect”, “going forward”, “intend”, “ought to”, “may”, “might”, “plan”,
 “potential”, “predict”, “project”, “seek”, “should”, “will”, “would” and similar expressions to
@@ -2400,24 +2400,24 @@ and prospects will be materially and adversely affected.
 In addition, our ability to maintain and increase revenues generated from existing
 customers and new customers for our solutions may depend on a variety of other factors,
 including but not limited to:
-(cid:129) demand for and market acceptance of our solutions by pharmaceutical and medical
+ demand for and market acceptance of our solutions by pharmaceutical and medical
 device companies;
-(cid:129) factors relating to pharmaceutical and medical device company budget cycles and
+ factors relating to pharmaceutical and medical device company budget cycles and
 other factors that may affect the overall demand for our solutions;
 – 54 –
 
 === PAGE 65 ===
 RISK FACTORS
-(cid:129) changes in pharmaceutical and medical device companies’ demand as a result of
+ changes in pharmaceutical and medical device companies’ demand as a result of
 delays or changes in product approvals, changes in marketing strategies,
 modifications of pharmaceutical and medical device customer budgets and similar
 matters;
-(cid:129) the length of sales cycles and fulfillment periods of our solutions to pharmaceutical
+ the length of sales cycles and fulfillment periods of our solutions to pharmaceutical
 and medical device companies;
-(cid:129) the timing of new service introductions and product enhancements by us;
-(cid:129) the potential emergence of competing digital platforms and the failure of our
+ the timing of new service introductions and product enhancements by us;
+ the potential emergence of competing digital platforms and the failure of our
 solutions to meet customers’ expectations or to provide desired results; and
-(cid:129) deterioration of our reputation and brand for any reason.
+ deterioration of our reputation and brand for any reason.
 If any of the events above occurs, we may not be able to maintain or increase our revenue
 or effectively manage any associated costs.
 Wehaveincurrednetlossesandnetcashflowsusedinoperatingactivitiesinthepast,and
@@ -2432,14 +2432,14 @@ commercialization of our solutions and our sales and marketing efforts. We canno
 that we will be able to generate net profits in the future.
 We expect to continue to make significant future expenditures related to the continuous
 development and expansion of our business, including:
-(cid:129) investments in improving and upgrading our TrialOS Platform and PharmaOS
+ investments in improving and upgrading our TrialOS Platform and PharmaOS
 Platform and their respective cloud-based software and digital services;
-(cid:129) investments in improving our core technology and R&D capabilities;
-(cid:129) strengthening our sales and marketing capabilities;
-(cid:129) strategic investments and acquisitions that we believe will allow us to expand our
+ investments in improving our core technology and R&D capabilities;
+ strengthening our sales and marketing capabilities;
+ strategic investments and acquisitions that we believe will allow us to expand our
 existing product and service offerings, expand our customer base and enhancing our
 technology capabilities; and
-(cid:129) incurring costs associated with general administration, including legal, accounting
+ incurring costs associated with general administration, including legal, accounting
 and other expenses related to being a public company.
 – 55 –
 
@@ -2514,18 +2514,18 @@ from RMB129.2 million for the three months ended March 31, 2023 to RMB132.1 mill
 the three months ended March 31, 2024. Our revenue growth in recent periods may not be
 indicative of our future performance. We believe growth of our revenue depends on a number
 of factors, including our ability to:
-(cid:129) innovate and adapt our platforms and solutions to meet evolving needs of current
+ innovate and adapt our platforms and solutions to meet evolving needs of current
 and potential customers;
-(cid:129) create and productize new solutions;
-(cid:129) continue to attract and retain more customers;
-(cid:129) continuously improve on the algorithms underlying our solutions;
-(cid:129) introduce our solutions to new geographic markets;
-(cid:129) maintain the reliability, security and functionality of our platforms and solutions;
-(cid:129) adopt new technologies or adapt our information infrastructure to changing
+ create and productize new solutions;
+ continue to attract and retain more customers;
+ continuously improve on the algorithms underlying our solutions;
+ introduce our solutions to new geographic markets;
+ maintain the reliability, security and functionality of our platforms and solutions;
+ adopt new technologies or adapt our information infrastructure to changing
 customer requirements or emerging industry standards;
-(cid:129) adapt to a changing regulatory landscape governing privacy matters;
-(cid:129) attract and retain talents; and
-(cid:129) increase brand awareness among existing and potential customers through various
+ adapt to a changing regulatory landscape governing privacy matters;
+ attract and retain talents; and
+ increase brand awareness among existing and potential customers through various
 marketing and promotional activities.
 – 57 –
 
@@ -2608,10 +2608,10 @@ inherent in handling and protecting a large amount of data that our business gen
 processes from customers’ activities on our platforms facilitates, and such data include
 personalinformation.Inparticular,wearelikelytofaceanumberofchallengesrelatingtodata
 from customers’ activities on our platforms, including:
-(cid:129) protecting the data in and hosted on our system, including against attacks on our
+ protecting the data in and hosted on our system, including against attacks on our
 system by external parties or misbehavior by our employees;
-(cid:129) addressing concerns related to privacy, security and other factors; and
-(cid:129) complying with applicable laws, rules and regulations relating to the collection,
+ addressing concerns related to privacy, security and other factors; and
+ complying with applicable laws, rules and regulations relating to the collection,
 storage, use, transfer, disclosure and security of personal information, including any
 requests from regulatory and government authorities relating to such data.
 – 59 –
@@ -2749,7 +2749,7 @@ and 2024 respectively. Meanwhile, the provision of digital services accounted fo
 Our revenue could be reduced by changes affecting pharmaceutical and medical device
 spending.Generalreductionsinexpendituresbypharmaceuticalandmedicaldevicecompanies
 could result from, among other things:
-(cid:129) government regulation or private initiatives that affect the manner in which
+ government regulation or private initiatives that affect the manner in which
 pharmaceutical and medical device companies interact with patients, or other
 pharmaceutical and medical device industry participants, including changes in
 pricing or means of delivery of pharmaceutical and medical device products and
@@ -2758,9 +2758,9 @@ services;
 
 === PAGE 73 ===
 RISK FACTORS
-(cid:129) consolidation of pharmaceutical and medical device companies;
-(cid:129) reductions in governmental funding for pharmaceutical and medical device; and
-(cid:129) adverse changes in business or economic conditions affecting pharmaceutical and
+ consolidation of pharmaceutical and medical device companies;
+ reductions in governmental funding for pharmaceutical and medical device; and
+ adverse changes in business or economic conditions affecting pharmaceutical and
 medical device companies.
 We may be particularly dependent upon pharmaceutical and medical device companies,
 third-party service providers (e.g. CROs), and clinical research institutions. Our business will
@@ -2772,8 +2772,8 @@ offerings. Even if general expenditures by pharmaceutical and medical device com
 remain the same or increase, developments in the pharmaceutical and medical device industry
 may result in reduced spending in some or all of the specific segments of the market we serve
 or are planning to serve. For example, purchase of our solutions could be affected by:
-(cid:129) a decrease in the number of new drugs under development and coming to market;
-(cid:129) decreases in research and development and marketing expenditures by
+ a decrease in the number of new drugs under development and coming to market;
+ decreases in research and development and marketing expenditures by
 pharmaceutical and medical device companies, third-party service providers (e.g.,
 CROs), and clinical research institutions as a result of various factors, including
 governmental regulation or private initiatives that discourage or reduce the
@@ -2781,7 +2781,7 @@ incentives of advertising or sponsorship activities by pharmaceutical companies,
 suchasvolume-basedprocurement,whichhasdramaticallyreducedunitsalesprices
 of relevant drugs and medical devices and, as a result, marketing budgets of
 pharmaceutical companies; and
-(cid:129) changes in coverage of health insurance plans.
+ changes in coverage of health insurance plans.
 In addition, our customers’ expectations regarding pending or potential industry
 developments may also affect their budgeting processes and spending plans with respect to
 solutionsofthetypesweprovide.Thepharmaceuticalandmedicaldeviceindustryhaschanged
@@ -3103,19 +3103,19 @@ cannot assure you that we will be able to maintain long-term relationships with 
 customers. Our service agreements typically have a term ranging from one to three years. Our
 customers may delay, terminate or reduce the scope of contracts for our services for a variety
 of reasons beyond our control, including:
-(cid:129) decisions to forego or terminate a particular project;
-(cid:129) lack of available financing, budget limits or changing priorities;
-(cid:129) actions by regulatory authorities in the PRC or other jurisdictions against us or our
+ decisions to forego or terminate a particular project;
+ lack of available financing, budget limits or changing priorities;
+ actions by regulatory authorities in the PRC or other jurisdictions against us or our
 customers, or changes to regulatory requirements;
-(cid:129) failure to satisfy applicable safety requirements or efficacy criteria;
-(cid:129) failure to comply with applicable cybersecurity, data security or personal
+ failure to satisfy applicable safety requirements or efficacy criteria;
+ failure to comply with applicable cybersecurity, data security or personal
 information protection regulations;
-(cid:129) adverse or unexpected data results or failure to pass customer audits;
-(cid:129) decisions to shift business to competitors or carry out the work in-house;
-(cid:129) releaseofadrugbyanycompetitorofourcustomerthatissufficientlysimilartoour
+ adverse or unexpected data results or failure to pass customer audits;
+ decisions to shift business to competitors or carry out the work in-house;
+ releaseofadrugbyanycompetitorofourcustomerthatissufficientlysimilartoour
 customers’ drug;
-(cid:129) mergers of our customers that render our services unnecessary; and
-(cid:129) force majeure events, such as the COVID-19 outbreak, that cause project delays.
+ mergers of our customers that render our services unnecessary; and
+ force majeure events, such as the COVID-19 outbreak, that cause project delays.
 Our contracts may be terminated, delayed or altered in the normal course of business.
 For example, if our state-owned customers choose to migrating their data to state-backed cloud
 system or if they become frustrated by or dissatisfied with our services and products, they may
@@ -3824,26 +3824,26 @@ We may be exposed to the risks of conducting business globally.
 We may face risks associated with operating in multiple jurisdictions, especially in
 overseas markets where we provided our solutions. Our business and financial results in the
 future could be adversely affected due to a variety of factors, including:
-(cid:129) changesinaspecificcountry’sorregion’spoliticalandculturalclimateoreconomic
+ changesinaspecificcountry’sorregion’spoliticalandculturalclimateoreconomic
 condition;
-(cid:129) unexpected changes in laws and regulatory requirements in relevant jurisdictions;
-(cid:129) the occurrence of economic stagnation or downturn in certain jurisdictions,
+ unexpected changes in laws and regulatory requirements in relevant jurisdictions;
+ the occurrence of economic stagnation or downturn in certain jurisdictions,
 including those caused by inflation or political instability;
-(cid:129) the burden of complying with a variety of foreign laws, including difficulties in
+ the burden of complying with a variety of foreign laws, including difficulties in
 enforcement of contractual provisions;
-(cid:129) inadequate intellectual property protection in certain jurisdictions;
-(cid:129) enforcement of anti-corruption and anti-bribery laws;
-(cid:129) trade-protection measures, restrictions or prohibitions on conducting business or
+ inadequate intellectual property protection in certain jurisdictions;
+ enforcement of anti-corruption and anti-bribery laws;
+ trade-protection measures, restrictions or prohibitions on conducting business or
 transactions with foreign entities, implementation of import or export licensing
 requirements, fines or penalties on foreign entities, fines, penalties, or suspension or
 revocation of export privileges;
-(cid:129) delays resulting from certain barriers and restrictions, potentially longer payment
+ delays resulting from certain barriers and restrictions, potentially longer payment
 cycles, greater difficulty in accounts receivable collection and potentially adverse
 tax treatment;
-(cid:129) the effects of applicable local tax regimes and potentially adverse tax consequences;
-(cid:129) significant adverse changes in local currency exchange rates;
-(cid:129) restrictions on the international transmission of scientific data; and
-(cid:129) business interruptions resulting from deterioration in the political and economic
+ the effects of applicable local tax regimes and potentially adverse tax consequences;
+ significant adverse changes in local currency exchange rates;
+ restrictions on the international transmission of scientific data; and
+ business interruptions resulting from deterioration in the political and economic
 relations among countries, geo-political actions and cultural climate or economic
 condition, including war and acts of terrorism, natural disasters, including
 earthquakes, volcanoes, typhoons, floods, hurricanes and fires, or the impact of
@@ -4817,7 +4817,7 @@ Source:Periodicreportsreleasedbypubliccompanies,NMPA,NDA,NationalBureauofStatist
 Insights Consultancy
 Key Features of China Pharmaceutical and Medical Device R&D and Commercialization
 Activities
-(cid:129) Rapid expansion in scale. China’s pharmaceutical and medical device R&D expenditures
+ Rapid expansion in scale. China’s pharmaceutical and medical device R&D expenditures
 grew at a CAGR of 16.9% from RMB139.8 billion in 2019 to RMB261.2 billion in 2023,
 and China’s pharmaceutical and medical device commercialization expenditures grew at
 a CAGR of 7.5% from RMB630.8 billion in 2019 to RMB842.6 billion in 2023. This can
@@ -4834,7 +4834,7 @@ development and development efforts being increasingly focused on innovative dru
 medical devices, China’s pharmaceutical and medical device industry is expected to
 furthergrowataCAGRof8.6%fromRMB2,947.5billionin2023toRMB4,460.4billion
 in 2028.
-(cid:129) Lengthy cycles and complex processes. The R&D process, rooted in advanced science,
+ Lengthy cycles and complex processes. The R&D process, rooted in advanced science,
 typically spans 10-15 years from drug discovery to approval.Therefore, it requires strong
 project management capabilities all down the line. It also necessitates a series of intricate
 interactions and business activities with a range of stakeholders, including regulators,
@@ -4845,7 +4845,7 @@ accuracy and reliability of the pharmaceutical and medical device R&D processes,
 increasing the demand for efficient multi-party collaboration. As such, efficient data
 management, multi-party collaboration, and information exchange are necessary to
 promote overall efficiency.
-(cid:129) Rigorous and strict regulatory requirements. Pharmaceutical and medical device R&D
+ Rigorous and strict regulatory requirements. Pharmaceutical and medical device R&D
 and commercialization activities need to comply with a suite of rules and regulations that
 aim to safeguard patients against health risks. Non-compliance can impede successful
 drug development, new drug registration, and subsequent commercialization, and may
@@ -4882,25 +4882,25 @@ Independent Independent Independent
 Reviewer Reviewer Reviewer
 IRC
 • Outsourcing data
-management and Dispatch (cid:3) Clinical trial protocol design
-analysis, part of the CRA (cid:3) Select study center Clinical imaging
-clinical study CRO (cid:3) Ethical submission review Principal
-monitoring to CROs (cid:3) Program monitoring Investigator
-Assist sponsors (cid:3) Project quality assurance
-(cid:3) Data management and statistical
+management and Dispatch Clinical trial protocol design
+analysis, part of the CRA Select study center Clinical imaging
+clinical study CRO Ethical submission review Principal
+monitoring to CROs Program monitoring Investigator
+Assist sponsors Project quality assurance
+ Data management and statistical
 Sponsors analysis
-(cid:3) Etc. Research Report Management
-(cid:3) Assist with patient prescreening Center
-Assist researchers (cid:3) Assist with timely and complete
-(cid:129) O m r S e M u a se n t O s a a o r g s u c e h r m c c i e n e n g n t t o e in f r s s c i t l t o i e nical SMO Di C sp R a C tch (cid:3) (cid:3) d d A s A u a a s s b t t s s a a m i i s s c c t t i a o t i i t p l n n i l t n e v u t g c e h r t e s e e i t o t i c h n g o i a c a o t a n o r l d d r s d i n e o i l a n c e t u c io t m r n o e o n n f i t c s / P S a u t b i j e e n c t t s s
+ Etc. Research Report Management
+ Assist with patient prescreening Center
+Assist researchers Assist with timely and complete
+ O m r S e M u a se n t O s a a o r g s u c e h r m c c i e n e n g n t t o e in f r s s c i t l t o i e nical SMO Di C sp R a C tch d d A s A u a a s s b t t s s a a m i i s s c c t t i a o t i i t p l n n i l t n e v u t g c e h r t e s e e i t o t i c h n g o i a c a o t a n o r l d d r s d i n e o i l a n c e t u c io t m r n o e o n n f i t c s / P S a u t b i j e e n c t t s s
 clinical research projects
-(cid:3) Etc.
-(cid:129) Clinical study reports, Clinical data audit
-documentation, other Regulatory (cid:129) Receive data and compliance packages provided by sponsors
-core compliance Organization (cid:129) Audit and verification to ensure that the whole process of clinical trial follows
+ Etc.
+ Clinical study reports, Clinical data audit
+documentation, other Regulatory Receive data and compliance packages provided by sponsors
+core compliance Organization Audit and verification to ensure that the whole process of clinical trial follows
 documents delivered China’s GCP or ICH-GCP specifications
 to regulators
-(cid:129) Outsourcing of logistics
+ Outsourcing of logistics
 services to third party Logistics
 logistics service Service provider
 providers Pharmaceutical logistics management
@@ -4946,11 +4946,11 @@ solutionsphasethatprovideson-cloudSaaSsolutions,andtheplatform-basedphasethatoff
 digital collaborative platforms. The following table sets forth the development stages and key
 features of each stage:
 Time Stage of Development Key Features
-Before 2010 On-premises solutions (cid:129) On-premises software
-(cid:129) Initially, the digitalization of addresses the industry’s initial
+Before 2010 On-premises solutions On-premises software
+ Initially, the digitalization of addresses the industry’s initial
 China’s pharmaceutical and demand for digital clinical
 medical device industry data capture and processing
-heavily relied on on-premises (cid:129) On-premises software cannot
+heavily relied on on-premises On-premises software cannot
 software deployed in-house. meet the evolving needs of
 pharmaceutical and medical
 device companies as it
@@ -4958,17 +4958,17 @@ requires substantial
 investments in infrastructure
 and also complex and lengthy
 deployment.
-Starts to prevail Cloud-based solutions (cid:129) SaaS solution offers
-from 2015 (cid:129) As the pharmaceutical and advantages such as lower
+Starts to prevail Cloud-based solutions SaaS solution offers
+from 2015 As the pharmaceutical and advantages such as lower
 medical device industry initial investment, easy-to-use,
 rapidly expands and regulatory enhanced convenience, and
 demands grow more stringent scalability, compared to on-
 and complex, on-premises premises software.
-software can no longer meet (cid:129) SaaS solution typically
+software can no longer meet SaaS solution typically
 the agile needs of addresses the needs of distinct
 pharmaceutical and medical business functions, but lacks
 device companies. system integration, thus
-(cid:129) Simultaneously, the emergence forcing repetitive data entry
+ Simultaneously, the emergence forcing repetitive data entry
 of cutting-edge technologies and lengthy learning curve of
 such as cloud computing, adopting different interfaces
 artificial intelligence, big data, and incompatible systems.
@@ -4981,14 +4981,14 @@ known as SaaS.
 === PAGE 127 ===
 INDUSTRY OVERVIEW
 Time Stage of Development Key Features
-From 2018 on Platform-based solutions (cid:129) Industry participants are
-(cid:129) With diversifying demands in breaking down organizational
+From 2018 on Platform-based solutions Industry participants are
+ With diversifying demands in breaking down organizational
 drug development and clinical barriers to provide digital
 trials, conventional SaaS collaboration platforms that
 software could not address the foster interconnection across
 demand for multi-party the industry, catering to the
 collaboration in the industry. collaborative needs of all
-(cid:129) In recent years, digital stakeholders involved.
+ In recent years, digital stakeholders involved.
 collaboration platforms that
 prioritize cross-organizational
 features and connectivity have
@@ -5001,7 +5001,7 @@ development in China, contrasting with a more linear, step-by-step pattern in ot
 e.g., the United States. The dynamic development trajectory presents both opportunities and
 challenges for the digital transformation of China’s pharmaceutical and medical device
 industry.
-(cid:129) Opportunities: The late-comer advantage of China’s pharmaceutical and medical device
+ Opportunities: The late-comer advantage of China’s pharmaceutical and medical device
 industry provides vast greenfield for more innovative platform-based solutions. Without
 huge legacy IT system, the benefits of direct upgrading are substantial, and platform-
 based solutions can be more easily identified and adopted by pharmaceutical and medical
@@ -5010,7 +5010,7 @@ and medical device market caused an overall shortage of skillful clinical resear
 professionals in China, which increases the demand for professional clinical research
 digital solutions that combine software product and outsourced services to enhance
 efficiency, control costs, and ultimately drive innovation.
-(cid:129) Challenges: The variation in business scale and existing digital infrastructure of China
+ Challenges: The variation in business scale and existing digital infrastructure of China
 pharmaceutical and medical device companies led to the participants’adoption of vastly
 different business models, digital technologies and data management practices, which
 may hinder effective data sharing, create bottlenecks for industry-wide interconnection
@@ -5287,7 +5287,7 @@ while ensuring service quality and adherence to regulatory standards, presents a
 challenge for providers in this market.
 Key Drivers forPharmaceutical and Medical Device R&D and Commercialization Digital
 Solutions Market
-(cid:129) The rapid development of pharmaceutical and medical device industry. The
+ The rapid development of pharmaceutical and medical device industry. The
 pharmaceutical and medical device industry is experiencing rapid growth due to the
 strong support of policies aimed at new drug development. For example, in February
 2024, China’s National Healthcare Security Administration issued a Draft for Comments
@@ -5306,29 +5306,29 @@ commercialization.
 
 === PAGE 134 ===
 INDUSTRY OVERVIEW
-(cid:129) Continuous advancement of technology. The continuous advancements in cutting-edge
+ Continuous advancement of technology. The continuous advancements in cutting-edge
 technologies such as cloud computing, big data, and artificial intelligence have shown
 their capabilities to increase the productivity of the pharmaceutical and medical device
 industry participants and enhance their overall competitiveness.As such, the adoption of
 these technologies further propels the acceleration of the digitalization process in
 pharmaceutical and medical device R&D.
-(cid:129) Increasingly tightening regulations. The increasing regulatory oversight of
+ Increasingly tightening regulations. The increasing regulatory oversight of
 pharmaceutical and medical device R&D and commercialization is driving companies to
 adopt digital solutions to manage clinical trials and comply with underlying regulations
 given such solutions’ greater accuracy and ability to achieve streamlined and efficient
 management.
-(cid:129) Transformation of R&D and commercialization approaches. The pharmaceutical and
+ Transformation of R&D and commercialization approaches. The pharmaceutical and
 medical device industry is undergoing significant transformation in R&D and
 commercialization approaches, which is prompted by shifting preferences towards
 cross-organizational connectivity in clinical studies and enhanced efficiency in
 commercialization.
-(cid:129) Effective application of medical data. Throughout the processes of R&D, manufacturing
+ Effective application of medical data. Throughout the processes of R&D, manufacturing
 and commercialization, industry participants have amassed substantial data assets. Being
 able to efficiently process and analyze such data may generate insights that could help
 formulate data-informed R&D and commercialization strategies.
 Future Trends for Pharmaceutical and Medical Device R&D and Commercialization
 Digital Solutions Market
-(cid:129) Growing penetration of digital solutions. More robust policies towards data compliance
+ Growing penetration of digital solutions. More robust policies towards data compliance
 in clinical trials led to more pharmaceutical and medical device companies’ adoption of
 digital solutions to ensure clinical trial data compliance and quality. Meanwhile, the
 increasing demand for R&D efficiency and commercialization productivity incentivizes
@@ -5336,7 +5336,7 @@ pharmaceutical and medical device companies to utilize digital solutions to gain
 competitive advantages. Moreover, the pharmaceutical and medical device industry itself
 isincreasinglydigitalized,withmorefunctions,sectorsandprocessesregardingR&Dand
 commercialization shifting from offline to online.
-(cid:129) Rising application of technologies. Continuous technological development, such as
+ Rising application of technologies. Continuous technological development, such as
 low-code development, AI, big data and cloud computing, led to rising application in
 pharmaceutical and medical device R&D and commercialization. Consequently, digital
 solutions are becoming more intelligent, and the development process of such digital
@@ -5346,7 +5346,7 @@ development and their expansion in functions and application scenarios.
 
 === PAGE 135 ===
 INDUSTRY OVERVIEW
-(cid:129) Platform-oriented transformation. The numerousness of stakeholders in pharmaceutical
+ Platform-oriented transformation. The numerousness of stakeholders in pharmaceutical
 and medical device R&D and commercialization demands interactive collaboration and
 data connection. In response, digital solution providers are building up digital platforms
 that are “open” in the sense that they are breaking the boundaries between organizations
@@ -5357,7 +5357,7 @@ platform-oriented business models could be initiated. In addition, through these
 digital platforms, digital solution providers’ service capabilities and experiences would
 mutually reinforce, which could further streamline pharmaceutical and medical device
 R&D and commercialization.
-(cid:129) Increasing horizontal and vertical integration. Most digital solution providers initiated
+ Increasing horizontal and vertical integration. Most digital solution providers initiated
 their business by offering standalone software to only a few stakeholders within the
 collaborative circle. As digital solution providers integrate product and services for
 multiple stakeholders, they are progressively breaking horizontal organizational
@@ -5534,7 +5534,7 @@ andAI management processes for healthcare companies.
 INDUSTRY OVERVIEW
 Key Success Factors of China’s Pharmaceutical and Medical Device R&D and
 Commercialization Digital Solutions Market
-(cid:129) First-mover advantage. The pharmaceutical and medical device R&D and
+ First-mover advantage. The pharmaceutical and medical device R&D and
 commercialization digital solutions market has high technical barrier. Once a customer
 adoptsthesolutionsfromonecompany,itwillincursignificantlearningcostsandtransfer
 costs if it switches to those of another. In addition, the data accumulated from the prior
@@ -5546,7 +5546,7 @@ clinical results. The data captured throughout the trial discourages the sponsor
 vendors during a clinical trial. As such, first movers can quickly gain more customer
 resources and accumulate associated industry know-how, thereby occupying a leading
 position in the market.
-(cid:129) Competitive solution portfolio with high brand awareness. Maintaining healthy cash
+ Competitive solution portfolio with high brand awareness. Maintaining healthy cash
 flow and profitability requires premium customer resources. To achieve high customer
 acquisition and retention, digital solution providers must provide quality solutions that
 can establish and keep enhancing their brand awareness. As pharmaceutical and medical
@@ -5556,7 +5556,7 @@ major functionalities, digital solution providers that have a broad portfolio ca
 meet those demands. In the meantime, given the rapid evolution of the pharmaceutical
 and medical device digital solutions market, the ability to keep abreast of the developing
 technologies to ensure the adaptability and edge of digital solutions is critical.
-(cid:129) Well-structured business ecosystem. A diversified and healthy business ecosystem
+ Well-structured business ecosystem. A diversified and healthy business ecosystem
 enables pharmaceutical and medical device digital solution providers to meet diverse
 demands from customer, achieve healthy business flywheel, remove industry-wise
 efficiency blockage and ultimately improve patients’welfare. A well-structured business
@@ -5566,7 +5566,7 @@ that fulfill underserved needs. It can thereby push the business boundaries, ach
 vertical extension of business, and generate more revenue streams. By elevating the
 overalloperationalefficiencyofthepharmaceuticalandmedicaldeviceindustry,itinturn
 enhances patients’ well-being.
-(cid:129) Professional and cross-functional talents. Pharmaceutical and medical device digital
+ Professional and cross-functional talents. Pharmaceutical and medical device digital
 solutions market is a talent-intensive business that requires the joint effort of both
 pharmaceutical and medical device and digitalization experts. Market players typically
 invest more than 20% of their revenue in R&D expenses to enhance their continuous
@@ -5580,7 +5580,7 @@ market.
 
 === PAGE 141 ===
 INDUSTRY OVERVIEW
-(cid:129) Business acumen for localization. It is essential to cater to the specific business needs
+ Business acumen for localization. It is essential to cater to the specific business needs
 of pharmaceutical and medical device companies in China, especially given their distinct
 business models and business operations. According to CDE, of all the clinical trials
 applicationsreceivedin2022,nearly90%comefromadomesticsponsor.Digitalsolution
@@ -8841,19 +8841,19 @@ sharing and collaboration under a unified protocol. Leveraging TrialOS, we intro
 services such as assisting customers with independent reading of medical images, in order to
 better meet customer needs. In 2021, we further expanded our platform offerings with the
 introduction of PharmaOS, tailored for pharmaceutical and medical device commercialization.
-(cid:2) EnhancedR&Dandcommercializationefficiencyandproductivity
-Pharmaceutical and Medical (cid:2) Improvedriskandcostmanagement
+ EnhancedR&Dandcommercializationefficiencyandproductivity
+Pharmaceutical and Medical Improvedriskandcostmanagement
 DeviceCompanies
-(cid:2) Seamlesscollaborationwithmoredatainsights
+ Seamlesscollaborationwithmoredatainsights
 Hospitals Patients
-(cid:2) Efficientcollaborationwithotherparties (cid:2) Moreconvenient andstructuredrecruitmentprocess
-(cid:2) Capabilitytoundertakemorenewprojects (cid:2) Enhancedmedicalquality
-(cid:2) Higherdataqualityandusageefficiency
+ Efficientcollaborationwithotherparties Moreconvenient andstructuredrecruitmentprocess
+ Capabilitytoundertakemorenewprojects Enhancedmedicalquality
+ Higherdataqualityandusageefficiency
 PharmaOS
 Third-PartyServiceProviders RegulatoryAuthorities
-(cid:2) Softwareandproductivitytools (cid:2) Higherregulationefficiencyandlowermanagementcost
-(cid:2) Enhancedservicequalityandcompetitiveness (cid:2) Convenientdatatransferandmaintenance
-(cid:2) Convenientexternalcollaboration (cid:2) Standardizedanddigitalizedprocess
+ Softwareandproductivitytools Higherregulationefficiencyandlowermanagementcost
+ Enhancedservicequalityandcompetitiveness Convenientdatatransferandmaintenance
+ Convenientexternalcollaboration Standardizedanddigitalizedprocess
 Customers
 Our platforms serve as hubs connecting various stakeholders involved in pharmaceutical
 and medical device R&D and commercialization, ranging from pharmaceutical companies,
@@ -8901,7 +8901,7 @@ furthers, there is a growing demand from pharmaceutical and medical device compa
 deeper collaboration, higher efficiency and cost control while meeting regulatory compliance
 in critical aspects of pharmaceutical and medical device R&D and commercialization. This
 demand is mainly driven by the following industry challenges:
-(cid:129) Lengthyprocessandtighteningregulation.PharmaceuticalandmedicaldeviceR&D
+ Lengthyprocessandtighteningregulation.PharmaceuticalandmedicaldeviceR&D
 and commercialization processes are complex, long and costly. The complexity in
 pharmaceutical R&D arises from the need to arrange comprehensive data collection,
 intricate trial planning, and long-term monitoring activities, requiring effective
@@ -8920,7 +8920,7 @@ the long distribution chain of pharmaceutical and medical devices often lead to
 fragmented, inefficient collaborations and high costs, while the tightening
 regulatory environment adds pressure, driving higher demand for more cost-
 effective commercialization solutions.
-(cid:129) Disconnected operations. Traditional on-premises software or SaaS products are
+ Disconnected operations. Traditional on-premises software or SaaS products are
 designed to tackle single operation rather than the holistic process, making it
 challenging to support the communication and collaboration among various parties
 in pharmaceutical and medical device R&D and commercialization. For example,
@@ -8930,7 +8930,7 @@ respective research work, while still relying on emails, couriers, phone calls, 
 messaging apps to communicate with each other, resulting in repeated file transfer
 and potential data leakage. This approach is inefficient, risky from compliance
 perspective, and reliant on offline manual monitoring to ensure quality.
-(cid:129) Data disparity. The widespread use of various functional software products has led
+ Data disparity. The widespread use of various functional software products has led
 to the formation of many isolated data silos. The lack of unified logic and standards
 may sever the connection between data and business. As a result, data cannot
 effectively flow and guide business decisions within and across organizations,
@@ -9034,20 +9034,20 @@ Benefits of Our Software and Digital Services
 Pharmaceutical companies, as the owners of pharmaceutical products and sponsors of
 clinical trials, are our major customers. The benefits we provide to pharmaceutical companies
 and third-party service providers include:
-(cid:129) Designed for complex pharmaceutical and medical device use cases. Our software
+ Designed for complex pharmaceutical and medical device use cases. Our software
 and digital services are designed to tackle the key processes and bottlenecks in
 pharmaceutical and medical device R&D and commercialization use cases. Through
 standardization,visualization,andautomationofpreviouslymanualprocess,weaim
 to significantly improve the efficiency and quality of pharmaceutical R&D and
 commercialization, while reducing operational costs and risks and ensuring
 regulatory compliance.
-(cid:129) Seamless collaboration. Pharmaceutical R&D and commercialization involves
+ Seamless collaboration. Pharmaceutical R&D and commercialization involves
 significant cross-organizational and cross-role communication and collaboration
 among various stakeholders. Our TrialOS and PharmaOS platforms connect all
 parties in the pharmaceutical R&D and commercialization process and enable them
 to collaborate effortlessly online by breaking down the barriers between them
 through efficient data exchange and process coordination.
-(cid:129) Improved data analytics and insights. Our products and services support
+ Improved data analytics and insights. Our products and services support
 pharmaceutical companies, CROs/SMOs or hospitals in key stages throughout the
 entire R&D and commercialization process. Massive data are generated and
 managed on our platform. Our platforms allow data to flow among products and
@@ -10640,7 +10640,7 @@ competition strategies. We offer ongoing technical support to our pharmaceutical
 device commercialization software as well.
 These products can work together to fulfill a wide spectrum of needs that may arise in
 pharmaceutical and medical device commercialization.
-(cid:129) ONECEM-SCRM assists medical representatives manage customer relationship in
+ ONECEM-SCRM assists medical representatives manage customer relationship in
 conducting work planning, pre-visit preparation, and visit execution at their
 fingertips.After each visit, it enables medical representatives to update hospital and
 doctor information stored via ONECEM-SCRM pursuant to the feedbacks obtained
@@ -10653,7 +10653,7 @@ human resource.
 
 === PAGE 245 ===
 BUSINESS
-(cid:129) ONECEM-SFE helps pharmaceutical and medical device companies’ sales
+ ONECEM-SFE helps pharmaceutical and medical device companies’ sales
 performance management teams by enabling precise management of medical sales,
 unified maintenance of clinical research institutional information, customer
 information, historical sales analysis, and future sales forecasting. It allows
@@ -10661,7 +10661,7 @@ accessing and managing master and channel flow data, which improves sales
 efficiency, optimizes communication and collaboration between functional
 departments and sales teams, and refines sales personnel performance evaluation
 standards.
-(cid:129) ONECEM-Event and ONECEM-Engagement are offered to doctors and medical
+ ONECEM-Event and ONECEM-Engagement are offered to doctors and medical
 sales personnel to empower doctor outreach and academic exchanges. These
 software streamline the management and live broadcasting of conferences, enable
 online interaction of participants and document retention.
@@ -11275,28 +11275,28 @@ see “— Pricing” in this section.
 BUSINESS
 Our Software
 Pharmaceutical and Medical Device R&D Software
-(cid:129) Term: typically one to three years
-(cid:129) Minimum purchase amount: none
-(cid:129) Payment:throughbanktransfer,annually,orbymilestones.Suchmilestonesmayinclude
+ Term: typically one to three years
+ Minimum purchase amount: none
+ Payment:throughbanktransfer,annually,orbymilestones.Suchmilestonesmayinclude
 a certain number of days after execution of contract, the launch and completion of related
 software, the enrollment of the first subject, and the submission or completion of clinical
 documents, which can range from several months to years given individual project’s
 variations.
-(cid:129) Credit terms: typically 30 days to 120 days after invoicing
-(cid:129) Intellectual property: we usually own the IP rights of our standardized and customized
+ Credit terms: typically 30 days to 120 days after invoicing
+ Intellectual property: we usually own the IP rights of our standardized and customized
 deliverables; we own the IPrights of our platform and software and provide our customer
 with a non-exclusive license to use such platform and software
-(cid:129) Termination: by mutual assent, force majeure; failure to pay/deliver within 30 days of
+ Termination: by mutual assent, force majeure; failure to pay/deliver within 30 days of
 notification of breach
 Pharmaceutical and Medical Device Commercialization Software
-(cid:129) Term: typically two to three years
-(cid:129) Minimum purchase amount: none
-(cid:129) Payment: through bank transfer, annually, quarterly, or by milestones
-(cid:129) Credit terms: typically 30 days to 120 days after invoicing
-(cid:129) Intellectual property: we usually own the IP rights of our standardized and customized
+ Term: typically two to three years
+ Minimum purchase amount: none
+ Payment: through bank transfer, annually, quarterly, or by milestones
+ Credit terms: typically 30 days to 120 days after invoicing
+ Intellectual property: we usually own the IP rights of our standardized and customized
 deliverables; we own the IPrights of our platform and software and provide our customer
 with a non-exclusive license to use such platform and software
-(cid:129) Termination: force majeure; unilateral, irreversible breach of agreement or failure to
+ Termination: force majeure; unilateral, irreversible breach of agreement or failure to
 rectify within 30 days of notification of breach
 – 250 –
 
@@ -11304,33 +11304,33 @@ rectify within 30 days of notification of breach
 BUSINESS
 Our Digital Services
 IRC Service
-(cid:129) Term: the duration of the clinical research project, can be around three years and
+ Term: the duration of the clinical research project, can be around three years and
 extendable upon project needs
-(cid:129) Liabilities: any liabilities caused by the breach of agreement would be allocated per
+ Liabilities: any liabilities caused by the breach of agreement would be allocated per
 relevant PRC laws and regulations
-(cid:129) Minimum purchase amount: none
-(cid:129) Payment: through bank transfer, primarily by project milestones. The payment
+ Minimum purchase amount: none
+ Payment: through bank transfer, primarily by project milestones. The payment
 milestones are reached based on a certain number of days after execution of contract and
 the completion of a certain percentage of work, which can range from half to more than
 one year.
-(cid:129) Credit terms: typically 30 days to 60 days after invoicing
-(cid:129) Intellectual property: our customers own the clinical research data, results and the
+ Credit terms: typically 30 days to 60 days after invoicing
+ Intellectual property: our customers own the clinical research data, results and the
 related intellectual properties; we retain the intellectual property rights of our software
 underpinning the service
-(cid:129) Termination: by mutual assent, force majeure
+ Termination: by mutual assent, force majeure
 Digital Clinical Research Services
 Digital SMO Business Management Service
-(cid:129) Term: the duration of the clinical research project, typically two years and extendable
+ Term: the duration of the clinical research project, typically two years and extendable
 upon project needs
-(cid:129) Minimum purchase amount: none
-(cid:129) Payment: through bank transfer, primarily by project milestones. The payment
+ Minimum purchase amount: none
+ Payment: through bank transfer, primarily by project milestones. The payment
 milestones are reached based on a certain number of days after execution of contract and
 the enrollment of a certain percentage of subjects.
-(cid:129) Credit terms: typically 30 days to 90 days after invoicing
-(cid:129) Intellectual property: our customers own the clinical research data, results and the
+ Credit terms: typically 30 days to 90 days after invoicing
+ Intellectual property: our customers own the clinical research data, results and the
 related intellectual properties; we retain the intellectual property rights of our software
 underpinning the service
-(cid:129) Termination: by mutual assent, force majeure; repeated failure of CRCs’ execution
+ Termination: by mutual assent, force majeure; repeated failure of CRCs’ execution
 pursuant to clinical trial protocols or CRAs’ failure to supervise and rectify CRCs’
 performance
 – 251 –
@@ -11338,27 +11338,27 @@ performance
 === PAGE 262 ===
 BUSINESS
 Pharmacovigilance Service
-(cid:129) Term: typically two years
-(cid:129) Minimum purchase amount: none
-(cid:129) Payment: through bank transfer by project milestones. The payment milestones are
+ Term: typically two years
+ Minimum purchase amount: none
+ Payment: through bank transfer by project milestones. The payment milestones are
 reached based on a certain number of days after execution of contract and quarterly
 thereafter.
-(cid:129) Credit terms: 45 days
-(cid:129) Termination: by mutual assent, force majeure
+ Credit terms: 45 days
+ Termination: by mutual assent, force majeure
 Digital Clinical Trial Services
-(cid:129) Term: the duration of the clinical trial, typically 12-48 months and extendable upon
+ Term: the duration of the clinical trial, typically 12-48 months and extendable upon
 project needs
-(cid:129) Minimum purchase amount: none
-(cid:129) Payment: through bank transfer, annually, or by project milestones. The payment
+ Minimum purchase amount: none
+ Payment: through bank transfer, annually, or by project milestones. The payment
 milestones are reached based on a certain number of days after execution of contract, the
 launch and completion of related databases, the enrollment of the first subject, and the
 submission or completion of clinical documents, which can range from several months to
 years given individual project’s variations.
-(cid:129) Credit terms: typically within 30 days to 120 days after invoicing
-(cid:129) Intellectual property: our customers own the clinical research data, results and the
+ Credit terms: typically within 30 days to 120 days after invoicing
+ Intellectual property: our customers own the clinical research data, results and the
 related intellectual properties; we retain the intellectual property rights of our software
 underpinning the service
-(cid:129) Termination: by mutual assent, force majeure; unilateral termination by customer 30
+ Termination: by mutual assent, force majeure; unilateral termination by customer 30
 days after written notice of our fundamental breach; unilateral termination by us upon
 customer’s non-payment 30 days after our notification
 – 252 –
@@ -11370,76 +11370,76 @@ We purchase a variety of services from our suppliers to deliver our digital solu
 “— Our Suppliers.” The material clauses and terms of relevant supply agreements between us
 and our suppliers are as follows.
 Cloud Service Annual Framework Agreements
-(cid:129) Term: typically one year
-(cid:129) Minimum purchase amount: none
-(cid:129) Payment: quarterly, through bank transfer
-(cid:129) Credit terms: advanced payment
-(cid:129) Pricing: pursuant to the quotes shown on the cloud service provider’s official website.
-(cid:129) Termination: by mutual assent, force majeure
+ Term: typically one year
+ Minimum purchase amount: none
+ Payment: quarterly, through bank transfer
+ Credit terms: advanced payment
+ Pricing: pursuant to the quotes shown on the cloud service provider’s official website.
+ Termination: by mutual assent, force majeure
 Third-Party SMO Service Supply Agreements
-(cid:129) Term: typically three years, in which specific service orders will be issued
-(cid:129) Scope of services: the supplier shall assign its employees (CRCs) to provide specific
+ Term: typically three years, in which specific service orders will be issued
+ Scope of services: the supplier shall assign its employees (CRCs) to provide specific
 SMO services, including assisting in research initiation and execution at one or more
 research centers.
-(cid:129) Liabilities: in performing the agreement, if the supplier or its service personnel cause
+ Liabilities: in performing the agreement, if the supplier or its service personnel cause
 harm to third parties, the supplier is responsible. If this results in us being liable to third
 parties, we have the right to seek compensation from the supplier
-(cid:129) Minimum purchase amount: none
-(cid:129) Payment: pursuant to the service orders, through bank transfer. The payment milestones
+ Minimum purchase amount: none
+ Payment: pursuant to the service orders, through bank transfer. The payment milestones
 are reached based on a certain number of days after execution of contract and the
 enrollment of a certain percentage of subjects
-(cid:129) Credit terms: 30 days after invoicing
-(cid:129) Pricing:pursuanttotheserviceorders,inwhichtheestimatednumberofclinicalresearch
+ Credit terms: 30 days after invoicing
+ Pricing:pursuanttotheserviceorders,inwhichtheestimatednumberofclinicalresearch
 institutions to be managed and also the number of subjects will be considered
-(cid:129) Termination: CRC’s material mistakes causing irreparable harms that lead to failure or
+ Termination: CRC’s material mistakes causing irreparable harms that lead to failure or
 suspension of clinical research; mutual assent, force majeure
 – 253 –
 
 === PAGE 264 ===
 BUSINESS
 Imaging Reading Service Supply Agreements
-(cid:129) Term: typically one year for payment platforms that in turn primarily engages
+ Term: typically one year for payment platforms that in turn primarily engages
 independent reviewers; indefinite for independent reviewers
-(cid:129) Scope of services: the supplier undertakes to help us match with relevant personnel on
+ Scope of services: the supplier undertakes to help us match with relevant personnel on
 the supplier’s platforms to deliver IRC service and facilitate financial transactions
 between us and said personnel; the independent reviewers participate in the trainings that
 we provide and review the images we assign to them by themselves
-(cid:129) Liabilities: we or the relevant personnel, but not the supplier, would be liable for any
+ Liabilities: we or the relevant personnel, but not the supplier, would be liable for any
 damages incurred in the course of carrying out our services; for independent reviewers,
 any damages caused due to either party’s breach of agreement would cause the party at
 fault to be liable to the other party
-(cid:129) Minimum purchase amount: none
-(cid:129) Payment: through the payment platform supplier’s online portal via bank transfer
-(cid:129) Credit terms: 30 days after invoicing; one month for independent reviewers
-(cid:129) Pricing: proportional to the service delivered by the independent reviewers, plus
+ Minimum purchase amount: none
+ Payment: through the payment platform supplier’s online portal via bank transfer
+ Credit terms: 30 days after invoicing; one month for independent reviewers
+ Pricing: proportional to the service delivered by the independent reviewers, plus
 performance incentives to the supplier. The supplier shall settle the service fees with
 independent reviewers by itself without us having to directly pay the independent
 reviewers; for independent reviewers, the price is determined per the number of image
 reviewed and the urgency of the task
-(cid:129) Termination: our unilateral 10-day advance written notice; mutual assent, force majeure;
+ Termination: our unilateral 10-day advance written notice; mutual assent, force majeure;
 for independent reviewers, non-compliance with reviewing methods, ethics
 committee/sponsor objections, other reasons with 35-day notice, force majeure
 Clinical Research Supply Agreements
-(cid:129) Term: the duration of the clinical trial
-(cid:129) Scope of services: the supplier is entrusted to conduct clinical research in compliance
+ Term: the duration of the clinical trial
+ Scope of services: the supplier is entrusted to conduct clinical research in compliance
 with specified guidelines, laws, and ethical standards, independently of any product
 affiliations
-(cid:129) Liabilities: the supplier agrees to indemnify us of any damages caused by the negligent
+ Liabilities: the supplier agrees to indemnify us of any damages caused by the negligent
 or intentional misconducts by it or its personnel in the course of performing its duties
 under this agreement
-(cid:129) Minimum purchase amount: none
+ Minimum purchase amount: none
 – 254 –
 
 === PAGE 265 ===
 BUSINESS
-(cid:129) Payment: through bank transfer by milestones. Such milestones are reached based on
+ Payment: through bank transfer by milestones. Such milestones are reached based on
 project kickoff after contract execution, enrollment of a certain percentage of subjects,
 completionofcertaintrialstages,andthesubmissionorcompletionofsamplesorclinical
 documents.
-(cid:129) Credit terms: prepayments
-(cid:129) Pricing: the amount of clinical trial data gathered and general project management
+ Credit terms: prepayments
+ Pricing: the amount of clinical trial data gathered and general project management
 service procured
-(cid:129) Termination: our unilateral written notice; supplier’s irreparable breach of the contract
+ Termination: our unilateral written notice; supplier’s irreparable breach of the contract
 BUSINESS SUSTAINABILITY
 Our Past Performance
 Under the backdrop of the increasingly complex and ever-changing demands in
@@ -13202,7 +13202,7 @@ functions of clinical research and management by building relevant basic capabil
 framework ensures a coherent flow from the acquisition and processing of core data types to
 thetrainingofcorrespondingdomainmodelsandthedevelopmentandapplicationofsolutions,
 facilitating the development and deployment of AI-driven solutions.
-(cid:129) Data acquisition. We are committed to consolidating the foundation of AI basic
+ Data acquisition. We are committed to consolidating the foundation of AI basic
 capacitybuildingbyobtaininghigh-qualitydata.Weusuallyobtainself-labeleddata
 throughpublicchannels,orobtaindatafromsearchengines,etc.;wewillalsoobtain
 desensitized data authorized by customers in some cooperation projects with
@@ -13213,7 +13213,7 @@ inspection to ensure that the corresponding data is free from rights defects.
 
 === PAGE 307 ===
 BUSINESS
-(cid:129) Data processing. Data pre-processing is one of the keys to producing quality results
+ Data processing. Data pre-processing is one of the keys to producing quality results
 from an AI, as it can ensure noise removal of fields/text (such as formatting
 problems, image noise), thereby converting data into materials that can be learned
 by AI. To process the various core data types in the pharmaceutical and medical
@@ -13225,7 +13225,7 @@ in the AI suite and high-quality industry knowledge bases (such as Cdisc and
 OMAHA) to transform them into “learning materials” that are optimized for AI
 training in the medical industry, which is convenient for high-efficiency and
 high-precision AI training.
-(cid:129) AI training. After having a wealth of AI learning materials, we use the algorithm
+ AI training. After having a wealth of AI learning materials, we use the algorithm
 developed by ourselves to use cloud computing for further training. During the
 training process, the training data between each customer is logically isolated, and
 domestic and foreign algorithms and algorithm results are isolated. Nevertheless,
@@ -13259,11 +13259,11 @@ BUSINESS
 Technical applications
 Based on the capabilities of our AI + Big Data, we have built applications that support
 clinical research and management at all levels, including but not limited to:
-(cid:129) AI automated EDC database construction, which can realize automatic construction
+ AI automated EDC database construction, which can realize automatic construction
 from clinical trial plan to EDC database;
-(cid:129) Intelligent Clinical Trial Electronic Document Management System, which assists
+ Intelligent Clinical Trial Electronic Document Management System, which assists
 drafting, translating, categorizing and reporting medical documents;
-(cid:129) eImage AI, which streamlines body part identification and lesion analysis. It can
+ eImage AI, which streamlines body part identification and lesion analysis. It can
 realize loading of key image sequences or pages in priority, and saving and analysis
 of image markers, thus improving the efficiency of key image loading. We can
 realize localization, organ identification and tumor identification, which helps
@@ -13798,16 +13798,16 @@ BUSINESS
 For risk and opportunity management mechanisms, we follow a process-oriented risk and
 opportunityassessmentprocedurethatincludesidentifying,analyzing,andevaluatingrisksand
 responses. This involves:
-(cid:129) Categorizing risks and opportunities into areas such as financial reporting risk
+ Categorizing risks and opportunities into areas such as financial reporting risk
 management, information system risk management, compliance and intellectual
 property risk management, human resources risk management, investment risk
 management, and climate-related risks and opportunities management.
-(cid:129) Identifying risks by considering multiple significant factors that affect our
+ Identifying risks by considering multiple significant factors that affect our
 operations, conducting rolling identification, management, and disposition of
 potential internal and external risks and opportunities that may arise during
 organizational operations.The audit department should timely organize departments
 to individually identify risks associated with special/significant matters.
-(cid:129) Assessing the significance of potential risks and opportunities and the likelihood of
+ Assessing the significance of potential risks and opportunities and the likelihood of
 their occurrence. We score each type based on the impact level and probability,
 multiplying these scores to derive risk and opportunity scores, forming a risk
 management matrix. Those rated as significant risks or opportunities are given
@@ -13884,7 +13884,7 @@ services and secures necessary government approvals, consents, and filings.
 In addition, we have implemented a series of measures to mitigate the risk of
 unauthorized use of our intellectual property and avoid the occurrence of such unauthorized
 uses, including:
-(cid:129) Dedicated Personnel and Systems. A specialized IP Management Department has
+ Dedicated Personnel and Systems. A specialized IP Management Department has
 been established to maintain and periodically review patent, trademark, and
 software copyright ledgers. This includes updates for new additions, changes, or
 deletions of IP rights. Additionally, a dedicated IP manager within the Quality and
@@ -13892,7 +13892,7 @@ Security Department oversees the improvement of IP-related systems and
 management processes. The Finance Department maintains information on
 intangible assets, including intellectual property rights, within the ERP system to
 provide an updated roadmap for safeguarding intellectual property rights.
-(cid:129) Contracts and Documentation Improvements. In addition to updating non-
+ Contracts and Documentation Improvements. In addition to updating non-
 competition and confidentiality agreements and staff commitment letters to enhance
 the protection afforded to us to the full extent allowed by relevant laws and
 regulations, we ensure that all new employees sign such documents at the time of
@@ -13900,7 +13900,7 @@ employment, clarifying their obligations towards confidentiality and data securi
 management. To ensure compliance on an ongoing basis, we also hold seminars and
 lectures on confidentiality in which we reminds our employes of the duties and
 liabilities related thereto.
-(cid:129) Enhanced Access Control. We have established Information and Data Security
+ Enhanced Access Control. We have established Information and Data Security
 ManagementPolicies,detailingthescope,accesscontrol,securitymanagement,and
 data cleansing of sensitive information such as data, system accounts, and
 operational development information. Network diagrams have been developed to
@@ -14873,15 +14873,15 @@ COMPLIANCE ADVISER
 We have appointedAnglo Chinese Corporate Finance, Limited as our compliance adviser
 pursuant to Rule 3A.19 of the Listing Rules. Pursuant to Rule 3A.23 of the Listing Rules, the
 compliance adviser will advise us on the following circumstances:
-(cid:129) before the publication of any announcements, circulars or financial reports;
-(cid:129) where a transaction, which might be a notifiable or connected transaction under
+ before the publication of any announcements, circulars or financial reports;
+ where a transaction, which might be a notifiable or connected transaction under
 Chapters 14 and 14A of the Listing Rules is contemplated, including share issues,
 sales or transfers of treasury shares and share repurchases;
-(cid:129) where we propose to use the proceeds of the Global Offering in a manner different
+ where we propose to use the proceeds of the Global Offering in a manner different
 from that detailed in this prospectus or where our business activities, developments
 orresultsdeviatefromanyforecast,estimateorotherinformationinthisprospectus;
 and
-(cid:129) where the Stock Exchange makes an inquiry of us regarding unusual price
+ where the Stock Exchange makes an inquiry of us regarding unusual price
 movement and trading volume or other issues under Rule 13.10 of the Listing Rules.
 – 336 –
 
@@ -16059,10 +16059,10 @@ Our revenue is recognized when or as the control of the goods or services is tra
 to a customer. Depending on the terms of the contract and the laws that apply to the contract,
 control of the goods and services may be transferred over time or at a point in time. Control
 of the goods and services is transferred over time if:
-(cid:129) the customer simultaneously receives and consumes the benefits provided by our
+ the customer simultaneously receives and consumes the benefits provided by our
 performance as we performs;
-(cid:129) creates and enhances an asset that the customer controls as we perform; or
-(cid:129) does not create an asset with an alternative use to us and we have an enforceable
+ creates and enhances an asset that the customer controls as we perform; or
+ does not create an asset with an alternative use to us and we have an enforceable
 right to payment for performance completed to date.
 If control of the goods and services transfers over time, revenue is recognized over the
 period of the contract by reference to the progress towards complete satisfaction of that
@@ -16122,8 +16122,8 @@ arrangement during the contract term. Revenue is recognized ratably over the con
 Digital Services
 We developed a suite of digital services that are primarily built on our software. We
 provide several separate services as follow:
-(cid:129) Digital clinical research service; and
-(cid:129) Independent reading center (“IRC”) services
+ Digital clinical research service; and
+ Independent reading center (“IRC”) services
 Digital clinical research service primarily consisted of site management organizations
 (“SMO”) business management services, clinical research services and data cleaning, analysis
 and management services. Data cleaning, analysis and management services can be purchased
@@ -16206,15 +16206,15 @@ Research and Development Expenditure
 Research expenditure is recognized as an expense as incurred. Costs incurred on
 development projects (relating to the design and testing of new and improved products) are
 recognized as intangible assets when the following criteria are met:
-(cid:129) It is technically feasible to complete the software product so that it will be available
+ It is technically feasible to complete the software product so that it will be available
 for use;
-(cid:129) Management intends to complete the software product and use or sell it;
-(cid:129) There is an ability to use or sell the software product;
-(cid:129) It can be demonstrated how the software product will generate probable future
+ Management intends to complete the software product and use or sell it;
+ There is an ability to use or sell the software product;
+ It can be demonstrated how the software product will generate probable future
 economic benefits;
-(cid:129) Adequate technical, financial and other resources to complete the development and
+ Adequate technical, financial and other resources to complete the development and
 to use or sell the software product are available; and
-(cid:129) The expenditure attributable to the software product during its development can be
+ The expenditure attributable to the software product during its development can be
 reliably measured.
 – 370 –
 
@@ -16269,9 +16269,9 @@ recorded during the Track Record Period.
 Investments and Other Financial Assets
 Classification of Financial Assets at Fair Value Through Profit or Loss
 We classify our financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through other comprehensive
+ those to be measured subsequently at fair value (either through other comprehensive
 income (“OCI”), or through profit or loss); and
-(cid:129) those to be measured at amortized cost.
+ those to be measured at amortized cost.
 The classification depends on the entity’s business model for managing the financial
 assets and the contractual terms of the cash flows.
 For assets measured at fair value, gains and losses will either be recorded in profit or loss
@@ -16300,14 +16300,14 @@ Debt Instruments
 Subsequent measurement of debt instruments depends on our business model for
 managing the asset and the cash flow characteristics of the asset. There are three measurement
 categories into which we classify our debt instruments:
-(cid:129) Amortized cost: Assets that are held for collection of contractual cash flows where
+ Amortized cost: Assets that are held for collection of contractual cash flows where
 those cash flows represent solely payments of principal and interest are measured at
 amortized cost. Interest income from these financial assets is included in finance
 income using the effective interest rate method. Any gain or loss arising on
 derecognition is recognized directly in profit or loss and presented in “other
 gains/(losses) – net”, together with foreign exchange gains and losses. Impairment
 losses are presented as separate line item in the consolidated income statement.
-(cid:129) FVOCI:Assets that are held for collection of contractual cash flows and for selling
+ FVOCI:Assets that are held for collection of contractual cash flows and for selling
 the financial assets, where the assets’ cash flows represent solely payments of
 principal and interest, are measured at FVOCI. Movements in the carrying amount
 are taken through OCI, except for the recognition of impairment gains or losses,
@@ -16319,7 +16319,7 @@ is included in “finance income” using the effective interest rate method. Fo
 exchange gains and losses are presented in “other gains/(losses) – net” and
 impairment losses are presented as separate line item in the consolidated income
 statement.
-(cid:129) FVPL: Assets that do not meet the criteria for amortized cost or FVOCI are
+ FVPL: Assets that do not meet the criteria for amortized cost or FVOCI are
 measured at FVPL. A gain or loss on a debt investment that is subsequently
 measured at FVPL is recognized in profit or loss and presented net within other
 gains/(losses) – net in the period in which it arises.
@@ -17798,20 +17798,20 @@ approved by our senior management team. Our senior management team and the finan
 department, are mainly responsible for making, implementing and supervising our investment
 decisions. We have implemented the following treasury policies and internal authorization
 controls:
-(cid:129) We have formulated Funds Management Polices (《資金管理制度》) to control our
+ We have formulated Funds Management Polices (《資金管理制度》) to control our
 process of investment in wealth management products;
-(cid:129) Our Shareholders’ meeting reviews and approves the annual cap of our investment
+ Our Shareholders’ meeting reviews and approves the annual cap of our investment
 in wealth management products;
-(cid:129) Our senior management team, some with over 20 years of finance expertise and
+ Our senior management team, some with over 20 years of finance expertise and
 possessing fund and securities qualification certificates, is authorized to make
 investment decisions;
-(cid:129) Our finance department are responsible for the analysis and research of investment
+ Our finance department are responsible for the analysis and research of investment
 in wealth management products, as well as the long-term routine management of
 such investment;
-(cid:129) Our independent non-executive Directors and Supervisors will also monitor the
+ Our independent non-executive Directors and Supervisors will also monitor the
 status of our wealth management products and can report any issues they find to our
 Board; and
-(cid:129) Investments in wealth management products could be made when we have surplus
+ Investments in wealth management products could be made when we have surplus
 cash that is not required for our short-term working capital purposes and in no event
 beyond the amount authorized.
 – 414 –
@@ -18447,7 +18447,7 @@ market conditions:
 ➢ approximately 35%, or HK$65.0 million, will be used to improve and upgrade our
 TrialOS Platform and PharmaOS Platform and their respective cloud-based software and
 digital services, among which:
-(cid:129) approximately 20%, or approximately HK$37.1 million, will be used to upgrade our
+ approximately 20%, or approximately HK$37.1 million, will be used to upgrade our
 TrialOS Platform and the respective pharmaceutical and medical device R&D
 software and digital services. Specifically, we plan to (a) enhance the TrialOS
 Platform by expanding its capabilities, refining its features and functions, and
@@ -18459,7 +18459,7 @@ eCooperate/CTMS, eArchives/eTMF, eCollect/EDC, eBalance/IWRS, eImage/IRC
 and eSafety/PVS, as well as digital clinical research services, and IRC services. For
 detailsofourpharmaceuticalandmedicaldeviceR&Dsoftwareanddigitalservices,
 see “Business — Our Solutions” in this prospectus;
-(cid:129) approximately 5%, or approximately HK$9.3 million, will be used to upgrade our
+ approximately 5%, or approximately HK$9.3 million, will be used to upgrade our
 PharmaOS Platform and the respective pharmaceutical and medical device
 commercializationsoftwareanddigitalservices.Specifically,weplanto(a)enhance
 and refine the PharmaOS Platform by optimizing the platform interface to enhance
@@ -18467,7 +18467,7 @@ user experience, diversifying development tools and expanding application
 scenarios; and (b) develop pharmaceutical and medical device commercialization
 software and digital services, including ONECEM-SCRM, ONECEM-SFE,
 ONECEM-EventandONECEM-Engagement,toimproveourserviceefficiency;and
-(cid:129) approximately 10%, or approximately HK$18.6 million, will be used to improve our
+ approximately 10%, or approximately HK$18.6 million, will be used to improve our
 overseas strategic layout and expand our overseas market, mainly the U.S. and
 Singapore. We plan to develop functions and features tailoring to the needs of
 overseas customers, and take into account the demand of overseas market when
@@ -18519,7 +18519,7 @@ advancingAI, big data and low-code development as elaborated below.
 FUTURE PLANS AND USE OF PROCEEDS
 ➢ approximately 30%, or approximately HK$55.7 million, will be used to improve our core
 technology and R&D capabilities, among which:
-(cid:129) approximately 15%, or HK$27.9 million, will be used to develop AI and big data
+ approximately 15%, or HK$27.9 million, will be used to develop AI and big data
 technologies that support the iteration of our cloud-based software and digital
 services and upgrade our service quality and efficiency. Specifically, we plan to (a)
 strengthen our capabilities of intelligent medical text processing, including the
@@ -18529,7 +18529,7 @@ narratives,automaticduplicatescheckingandproofreadingofclinicalresearchfiles;
 automatic and precise analysis and examination; and (c) develop intelligent
 question-answering capabilities relating to the pharmaceutical and medical device
 industry by combining large language models with our industry knowledge bases;
-(cid:129) approximately 15%, or HK$27.9 million, will be invested in our IT infrastructure
+ approximately 15%, or HK$27.9 million, will be invested in our IT infrastructure
 andlow-codedevelopment.Specifically,weplantoimprovevisualmodeling,visual
 pagedesign,logicenginedesign,workflowdesign,andotherlow-codedevelopment
 technologies to reduce hand-coding, and further enhance our productivity.
@@ -18571,11 +18571,11 @@ low-code
 development
 ➢ approximately 10%, or HK$18.6 million, will be used to strengthen our sales and
 marketing capabilities, among which:
-(cid:129) approximately 5%, or HK$9.3 million, will be used to sponsor, host and participate
+ approximately 5%, or HK$9.3 million, will be used to sponsor, host and participate
 in industry-specific events, such as academic conferences, industry forums, as well
 as marketing campaigns to showcase our products and services and promote our
 brand awareness; and
-(cid:129) approximately 5%, or HK$9.3 million, will be used to strengthen our sales power
+ approximately 5%, or HK$9.3 million, will be used to strengthen our sales power
 and incentivize sales talents to enhance our service capabilities. Considering the
 development plan of our new products and services, as well as future trend in the
 pharmaceutical and medical device R&D and commercialization digital solutions
@@ -19257,10 +19257,10 @@ issued pursuant to the exercise of the Offer Size Adjustment Option and the Over
 Option).
 22,416,600 Offer Shares will initially be made available under the Global Offering
 comprising:
-(cid:129) the Hong Kong Public Offering of 2,241,800 H Shares (subject to reallocation and
+ the Hong Kong Public Offering of 2,241,800 H Shares (subject to reallocation and
 the Offer SizeAdjustment Option) in Hong Kong as described in “–The Hong Kong
 Public Offering” below; and
-(cid:129) the International Offering of 20,174,800 H Shares (subject to reallocation, the Offer
+ the International Offering of 20,174,800 H Shares (subject to reallocation, the Offer
 Size Adjustment Option and the Over-allotment Option) (i) in the United States
 solely to QIBs in reliance on Rule 144A or another exemption from, or in a
 transaction not subject to, the registration requirements under the U.S. Securities
@@ -19580,22 +19580,22 @@ described in clauses (ii), (iii), (iv) or (v) above.
 === PAGE 470 ===
 STRUCTURE OF THE GLOBAL OFFERING
 Specifically, prospective applicants for and investors in the Offer Shares should note that:
-(cid:129) the Stabilizing Manager (or any person acting for it) may, in connection with the
+ the Stabilizing Manager (or any person acting for it) may, in connection with the
 stabilizing action, maintain a long position in the H Shares;
-(cid:129) there is no certainty as to the extent to which and the time or period for which the
+ there is no certainty as to the extent to which and the time or period for which the
 Stabilizing Manager (or any person acting for it) will maintain such a long position;
-(cid:129) liquidation of any such long position by the Stabilizing Manager (or any person
+ liquidation of any such long position by the Stabilizing Manager (or any person
 acting for it) and selling in the open market may have an adverse impact on the
 market price of the H Shares;
-(cid:129) nostabilizingactioncanbetakentosupportthepriceoftheHSharesforlongerthan
+ nostabilizingactioncanbetakentosupportthepriceoftheHSharesforlongerthan
 the stabilization period, which will begin on the Listing Date, and is expected to
 expire on Saturday, November 2, 2024, being the 30th day after the last day for
 lodging applications under the Hong Kong Public Offering.After this date, when no
 further stabilizing action may be taken, demand for the H Shares, and therefore the
 price of the H Shares, could fall;
-(cid:129) the price of the H Shares cannot be assured to stay at or above the Offer Price by
+ the price of the H Shares cannot be assured to stay at or above the Offer Price by
 the taking of any stabilizing action; and
-(cid:129) stabilizing bids or transactions effected in the course of the stabilizing action may
+ stabilizing bids or transactions effected in the course of the stabilizing action may
 be made at any price at or below the Offer Price and can, therefore, be done at a
 price below the price paid by applicants for, or investors in, the Offer Shares.
 In effecting stabilization actions, the Stabilizing Manager (or any person acting for it)
@@ -19758,21 +19758,21 @@ These underwriting arrangements, including the Underwriting Agreements, are
 summarized in “Underwriting.”
 CONDITIONS OF THE GLOBAL OFFERING
 Acceptance of all applications for Offer Shares will be conditional on:
-(cid:129) the Stock Exchange granting approval for the listing of, and permission to deal in,
+ the Stock Exchange granting approval for the listing of, and permission to deal in,
 theHSharesinissueandtobeissuedpursuanttotheGlobalOffering(includingany
 additionalHSharesthatmaybeissuedpursuanttotheOfferSizeAdjustmentOption
 and the exercise of the Over-allotment Option), on the Main Board of the Stock
 Exchange and such approval not subsequently having been withdrawn or revoked
 prior to the Listing Date;
-(cid:129) thepricingoftheOfferShareshavingbeenagreedbetweentheOverallCoordinators
+ thepricingoftheOfferShareshavingbeenagreedbetweentheOverallCoordinators
 (for themselves and on behalf of the Underwriters) and the Company;
 – 464 –
 
 === PAGE 475 ===
 STRUCTURE OF THE GLOBAL OFFERING
-(cid:129) the execution and delivery of the International Underwriting Agreement on or
+ the execution and delivery of the International Underwriting Agreement on or
 around the Price Determination Date; and
-(cid:129) the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
+ the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
 Agreement and the obligations of the International Underwriters under the
 International Underwriting Agreement becoming and remaining unconditional and
 not having been terminated in accordance with the terms of the respective
@@ -19825,13 +19825,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the White Form eIPO service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the White Form eIPO service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the
 person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or close associates; or
-(cid:129) are a Director or a Supervisor, or any of his/her close associates.
+ are an existing Shareholder or close associates; or
+ are a Director or a Supervisor, or any of his/her close associates.
 2. Application Channels
 The Hong Kong Public Offering period will begin at 9:00 a.m. on Friday, September 27,
 2024 and end at 12:00 noon on Thursday, October 3, 2024 (Hong Kong time).
@@ -19909,16 +19909,16 @@ breach of the terms and conditions of this prospectus.
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual/Joint Applicants For Corporate Applicants
-(cid:129) Full name(s)2 as shown on your (cid:129) Full name(s)2 as shown on your
+ Full name(s)2 as shown on your Full name(s)2 as shown on your
 identity document identity document
-(cid:129) Identity document’s issuing country (cid:129) Identity document’s issuing country
+ Identity document’s issuing country Identity document’s issuing country
 or jurisdiction or jurisdiction
 – 468 –
 
 === PAGE 479 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 For Individual/Joint Applicants For Corporate Applicants
-(cid:129) Identity document type, with order (cid:129) Identity document type, with order
+ Identity document type, with order Identity document type, with order
 of priority: of priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification ii. Certificate of incorporation; or
@@ -19926,7 +19926,7 @@ document; or
 iii. Business registration certificate;
 iii. Passport; and or
 iv. Other equivalent document; and
-(cid:129) Identity document number (cid:129) Identity document number
+ Identity document number Identity document number
 Notes:
 1. If you are applying through the White Form eIPO service, you are required to provide a valid e-mail
 address,acontacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclarethatthe
@@ -19961,9 +19961,9 @@ other stock exchange.
 === PAGE 480 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -20218,21 +20218,21 @@ application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the H Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 – 476 –
 
 === PAGE 487 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “– A. Application for Hong Kong Offer Shares – 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted H Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -20354,9 +20354,9 @@ refer to “– E. Severe WeatherArrangements” in this section.
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Thursday, October 3, 2024 if, there is/are:
-(cid:129) a No. 8 typhoon warning signal or above;
-(cid:129) a black rainstorm warning signal; and/or
-(cid:129) Extreme Conditions
+ a No. 8 typhoon warning signal or above;
+ a black rainstorm warning signal; and/or
+ Extreme Conditions
 (collectively, “Bad Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Thursday, October 3,
 2024.
@@ -20435,27 +20435,27 @@ supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund cheque and White Form e-Refund payment
+ processing your application and refund cheque and White Form e-Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of
 allocation of Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
 – 482 –
 
 === PAGE 493 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) registering new issues or transfers into or out of the names of the holders of the H
+ registering new issues or transfers into or out of the names of the holders of the H
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the H Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the H Shares and identifying any
 duplicate applications for the H Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the H Shares, such as dividends,
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the H Shares, such as dividends,
 rights issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the H Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the H Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the H Shares and/or regulators and/or any other purposes to which
 applicants and holders of the H Shares may from time to time agree.
@@ -20465,25 +20465,25 @@ for and holders of Hong Kong Offer Shares will be kept confidential but the Comp
 H Share Registrar may, to the extent necessary for achieving any of the above purposes,
 disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to, from
 or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving banks and
+ the Company’s appointed agents such as financial advisers, receiving banks and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and
 operating FINI and CCASS (including where applicants for the Hong Kong Offer
 Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H
 Share Registrar in connection with their respective business operation;
 – 483 –
 
 === PAGE 494 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of personal data
@@ -21073,9 +21073,9 @@ experiences.
 Impairment of financial assets and contract assets
 The Group has three types of financial assets that are subject to the expected credit loss model (“ECL
 model”):
-(cid:129) cash and cash equivalents, restricted cash and short-term bank deposits;
-(cid:129) trade and notes receivables and contract assets; and
-(cid:129) other receivables.
+ cash and cash equivalents, restricted cash and short-term bank deposits;
+ trade and notes receivables and contract assets; and
+ other receivables.
 (i) Cash and cash equivalents, restricted cash and short-term bank deposits
 Tomanageriskarisingfromcashandcashequivalents,restrictedcashandshort-termbankdeposits,the
 Group only transacts reputable financial institutions in mainland China and reputable international financial
@@ -21144,13 +21144,13 @@ receivablesismeasuredaseither12-monthexpectedcreditlossesorlifetimeexpectedcredi
 onwhethertherehasbeenasignificantincreaseincreditrisksinceinitialrecognition.Ifasignificantincrease
 in credit risk of a receivable has occurred since initial recognition, then impairment is measured as lifetime
 expected credit losses. ECL model for other receivables, as summarised below:
-(cid:129) Otherreceivablesthatisnotcredit-impairedoninitialrecognitionisclassifiedinStage1andhas
+ Otherreceivablesthatisnotcredit-impairedoninitialrecognitionisclassifiedinStage1andhas
 its credit risk continuously monitored by the Group. The expected credit loss is measured on a
 12-month basis;
-(cid:129) Ifasignificantincreaseincreditrisk(asdefinedbelow)sinceinitialrecognitionisidentified,the
+ Ifasignificantincreaseincreditrisk(asdefinedbelow)sinceinitialrecognitionisidentified,the
 financial instrument is moved to Stage 2 but is not yet deemed to be credit-impaired. The
 expected credit loss is measured on lifetime basis; and
-(cid:129) Ifthefinancialinstrumentiscredit-impaired(asdefinedbelow),thefinancialinstrumentisthen
+ Ifthefinancialinstrumentiscredit-impaired(asdefinedbelow),thefinancialinstrumentisthen
 moved to Stage 3. The expected credit loss is measured on lifetime basis.
 Astherehasbeennosignificantincreaseincreditrisksinceinitialrecognition,alloftheGroup’sother
 receivablesasatDecember31,2021,2022and2023andMarch31,2024wereclassifiedinStage1andtheir
@@ -21325,8 +21325,8 @@ Level 3: If one or more of the significant inputs is not based on observable mar
 included in level 3. This is the case for unlisted debt and equity investment.
 (b) Valuation techniques used to determine fair values
 Specific valuation techniques used to value financial instruments include:
-(cid:129) Quoted market prices or dealer quotes for similar instruments; and
-(cid:129) Other techniques, such as discounted cash flow analysis, are used to determine fair value for the
+ Quoted market prices or dealer quotes for similar instruments; and
+ Other techniques, such as discounted cash flow analysis, are used to determine fair value for the
 remaining financial instruments.
 TherewerenochangesinvaluationtechniquesduringtheyearsendedDecember31,2021,2022and2023and
 the three months ended March 31, 2023 and 2024.
@@ -21641,10 +21641,10 @@ December 31, 2021, 2022 and 2023 and March 31, 2024 will be recognised as revenu
 Revenueisrecognisedwhenorasthecontrolofthegoodsorservicesistransferredtoacustomer.Depending
 on the terms of the contract and the laws that apply to the contract, control of the goods and services may be
 transferred over time or at a point in time. Control of the goods and services is transferred over time if:
-(cid:129) the customer simultaneously receives and consumes the benefits provided by the Group’s performance
+ the customer simultaneously receives and consumes the benefits provided by the Group’s performance
 as the Group performs;
-(cid:129) creates and enhances an asset that the customer controls as the Group performs; or
-(cid:129) doesnotcreateanassetwithanalternativeusetotheGroupandtheGrouphasanenforceablerightto
+ creates and enhances an asset that the customer controls as the Group performs; or
+ doesnotcreateanassetwithanalternativeusetotheGroupandtheGrouphasanenforceablerightto
 payment for performance completed to date.
 Ifcontrolofthegoodsandservicestransfersovertime,revenueisrecognisedovertheperiodofthecontract
 by reference to the progress towards complete satisfaction of that performance obligation. Otherwise, revenue is
@@ -21698,8 +21698,8 @@ over the contract term.
 (ii) Provision of digital services
 The Group developed a suite of digital services that are primarily built on our software.The Group provides
 several separate services as follow:
-(cid:129) Digital clinical research service; and
-(cid:129) Independent reading center (“IRC”) services
+ Digital clinical research service; and
+ Independent reading center (“IRC”) services
 Digital clinical research service primarily consisted of site management organizations (“SMO”) distribution
 and management services, clinical research services and data cleaning, analysis and management services. Data
 cleaning, analysis and management services can be purchased separately at customers’ decision. They are clearly
@@ -22969,25 +22969,25 @@ Leasesarerecognisedasaright-of-useassetandacorrespondingliabilityatthedateatwhic
 is available for use by the Group.
 Assets and liabilities arising from a lease are initially measured on a present value basis. Lease liabilities
 include the net present value of the following lease payments:
-(cid:129) fixed payments (including in-substance fixed payments), less any lease incentives receivable;
-(cid:129) variable lease payment that are based on an index or a rate, initially measured using the index or rate
+ fixed payments (including in-substance fixed payments), less any lease incentives receivable;
+ variable lease payment that are based on an index or a rate, initially measured using the index or rate
 as at the commencement date;
-(cid:129) amounts expected to be payable by the Group under residual value guarantees;
-(cid:129) the exercise price of a purchase option if the Group is reasonably certain to exercise that option;
-(cid:129) payments of penalties for terminating the lease, if the lease term reflects the Group exercising that
+ amounts expected to be payable by the Group under residual value guarantees;
+ the exercise price of a purchase option if the Group is reasonably certain to exercise that option;
+ payments of penalties for terminating the lease, if the lease term reflects the Group exercising that
 option; and
-(cid:129) lease payments to be made under reasonably certain extension options are also included in the
+ lease payments to be made under reasonably certain extension options are also included in the
 measurement of the liability.
 The lease payments are discounted using the interest rate implicit in the lease. If that rate cannot be readily
 determined,whichisgenerallythecaseforleasesintheGroup,thelessee’sincrementalborrowingrateisused,being
 theratethattheindividuallesseewouldhavetopaytoborrowthefundsnecessarytoobtainanassetofsimilarvalue
 to the right-of-use asset in a similar economic environment with similar terms, security and conditions.
 To determine the incremental borrowing rate, the Group:
-(cid:129) where possible, uses recent third-party financing received by the individual lessee as a starting point,
+ where possible, uses recent third-party financing received by the individual lessee as a starting point,
 adjusted to reflect changes in financing conditions since third party financing was received;
-(cid:129) usesabuild-upapproachthatstartswitharisk-freeinterestrateadjustedforcreditriskforleasesheld
+ usesabuild-upapproachthatstartswitharisk-freeinterestrateadjustedforcreditriskforleasesheld
 by the Group, which does not have recent third party financing; and
-(cid:129) makes adjustments specific to the lease, e.g. term, country, currency and security.
+ makes adjustments specific to the lease, e.g. term, country, currency and security.
 – I-49 –
 
 === PAGE 544 ===
@@ -22996,9 +22996,9 @@ Leasepaymentsareallocatedbetweenprincipalandfinancecost.Thefinancecostischargedt
 over the lease period so as to produce a constant periodic rate of interest on the remaining balance of the liability
 for each period.
 Right-of-use assets are measured at cost comprising the following:
-(cid:129) the amount of the initial measurement of lease liability;
-(cid:129) any lease payments made at or before the commencement date less any lease incentives received; and
-(cid:129) any initial direct costs.
+ the amount of the initial measurement of lease liability;
+ any lease payments made at or before the commencement date less any lease incentives received; and
+ any initial direct costs.
 Right-of-use assets are generally depreciated over the shorter of the asset’s useful life and the lease term on
 a straight-line basis. If the Group is reasonably certain to exercise a purchase option, the right-of-use asset is
 depreciated over the underlying asset’s useful life.
@@ -23134,13 +23134,13 @@ cash inflows which are largely independent of the cash inflows from other assets
 Researchexpenditureisrecognisedasanexpenseasincurred.Costsincurredondevelopmentprojects(relating
 to the design and testing of new and improved products) are recognised as intangible assets when the following
 criteria are met:
-(cid:129) it is technically feasible to complete the software product so that it will be available for use;
-(cid:129) management intends to complete the software product and use or sell it;
-(cid:129) there is an ability to use or sell the software product;
-(cid:129) it can be demonstrated how the software product will generate probable future economic benefits;
-(cid:129) adequate technical, financial and other resources to complete the development and to use or sell the
+ it is technically feasible to complete the software product so that it will be available for use;
+ management intends to complete the software product and use or sell it;
+ there is an ability to use or sell the software product;
+ it can be demonstrated how the software product will generate probable future economic benefits;
+ adequate technical, financial and other resources to complete the development and to use or sell the
 software product are available; and
-(cid:129) the expenditure attributable to the software product during its development can be reliably measured.
+ the expenditure attributable to the software product during its development can be reliably measured.
 Directlyattributablecoststhatarecapitalisedaspartofthesoftwareproductincludethesoftwaredevelopment
 employee costs and an appropriate portion of relevant overheads.
 Capitaliseddevelopmentcostsarerecordedasintangibleassetsandamortisedfromthepointatwhichtheasset
@@ -23462,17 +23462,17 @@ contract fulfilment cost – – – –
 (i) Contract fulfilment cost
 The Group also recognises contract fulfilment cost from the costs incurred to fulfil a contract only if those
 costs meet all of the following criteria:
-(cid:129) thecostsrelatedirectlytoacontractortoananticipatedcontractthattheentitycanspecificallyidentify;
-(cid:129) thecostsgenerateorenhanceresourcesoftheentitythatwillbeusedinsatisfying(orincontinuingto
+ thecostsrelatedirectlytoacontractortoananticipatedcontractthattheentitycanspecificallyidentify;
+ thecostsgenerateorenhanceresourcesoftheentitythatwillbeusedinsatisfying(orincontinuingto
 satisfy) performance obligations in the future; and
-(cid:129) the costs are expected to be recovered.
+ the costs are expected to be recovered.
 The contract fulfilment cost recognised shall be amortised to profit or loss on a systematic basis that is
 consistent with the transfer to the customer of the services to which the asset relates.
 The Group recognises an impairment loss in profit or loss to the extent that the carrying amount of contract
 fulfilment cost recognised exceeds:
-(cid:129) theremainingamountofconsiderationthattheentityexpectstoreceiveinexchangefortheservicesto
+ theremainingamountofconsiderationthattheentityexpectstoreceiveinexchangefortheservicesto
 which the asset relates; less
-(cid:129) thecoststhatrelatedirectlytoprovidingthoseservicesandthathavenotbeenrecognisedasexpenses.
+ thecoststhatrelatedirectlytoprovidingthoseservicesandthathavenotbeenrecognisedasexpenses.
 Provision for losses was recognised when the carrying amount of the contract fulfilment cost exceeds its net
 realisable value.
 – I-60 –
@@ -23725,9 +23725,9 @@ carrying amounts.
 The Group
 (i) Classification of financial assets at fair value through profit or loss
 The Group classifies its financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through other comprehensive income (“OCI”),
+ those to be measured subsequently at fair value (either through other comprehensive income (“OCI”),
 or through profit or loss); and
-(cid:129) those to be measured at amortised cost.
+ those to be measured at amortised cost.
 Theclassificationdependsontheentity’sbusinessmodelformanagingthefinancialassetsandthecontractual
 terms of the cash flows.
 For assets measured at fair value, gains and losses will either be recorded in profit or loss or OCI. For
@@ -24666,11 +24666,11 @@ Business combinations
 The acquisition method of accounting is used to account for all business combinations, other than
 business combination under common control, regardless of whether equity instruments or other assets are
 acquired. The consideration transferred for the acquisition of a subsidiary comprises the:
-(cid:129) fair values of the assets transferred;
-(cid:129) liabilities incurred to the former owners of the acquired business;
-(cid:129) equity interests issued by the Group;
-(cid:129) fair value of any asset or liability resulting from a contingent consideration arrangement; and
-(cid:129) fair value of any pre-existing equity interest in the subsidiary.
+ fair values of the assets transferred;
+ liabilities incurred to the former owners of the acquired business;
+ equity interests issued by the Group;
+ fair value of any asset or liability resulting from a contingent consideration arrangement; and
+ fair value of any pre-existing equity interest in the subsidiary.
 Identifiableassetsacquiredandliabilitiesandcontingentliabilitiesassumedinabusinesscombination
 are, with limited exceptions, measured initially at their fair values at the acquisition date. The Group
 recognises any non-controlling interest in the acquired entity on an acquisition-by-acquisition basis either at
@@ -24739,13 +24739,13 @@ within “other gains/(losses) – net”.
 Theresultsandfinancialpositionofforeignoperations(noneofwhichhasthecurrencyofahyperinflationary
 economy)thathaveafunctionalcurrencydifferentfromthepresentationcurrencyaretranslatedintothepresentation
 currency as follows:
-(cid:129) assetsandliabilitiesforeachbalancesheetpresentedaretranslatedattheclosingrateatthedateofthat
+ assetsandliabilitiesforeachbalancesheetpresentedaretranslatedattheclosingrateatthedateofthat
 balance sheet;
-(cid:129) income and expenses for each income statement and statement of comprehensive loss are translated at
+ income and expenses for each income statement and statement of comprehensive loss are translated at
 averageexchangerates(unlessthisaverageisnotareasonableapproximationofthecumulativeeffect
 oftheratesprevailingonthetransactiondates,inwhichcaseincomeandexpensesaretranslatedatthe
 rate on the dates of the transactions); and
-(cid:129) all resulting exchange differences are recognised in other comprehensive loss.
+ all resulting exchange differences are recognised in other comprehensive loss.
 On consolidation, exchange differences arising from the translation of any net investment in foreign entities
 arerecognisedinothercomprehensiveincome.Whenaforeignoperationissold,theassociatedexchangedifferences
 are reclassified to profit or loss, as part of the gain or loss on sale.
@@ -24792,7 +24792,7 @@ Debt instruments
 SubsequentmeasurementofdebtinstrumentsdependsontheGroup’sbusinessmodelformanagingthe
 asset and the cash flow characteristics of the asset. There are three measurement categories into which the
 Group classifies its debt instruments:
-(cid:129) Amortised cost: Assets that are held for collection of contractual cash flows where those cash
+ Amortised cost: Assets that are held for collection of contractual cash flows where those cash
 flowsrepresentsolelypaymentsofprincipalandinterestaremeasuredatamortisedcost.Interest
 incomefromthesefinancialassetsisincludedinfinanceincomeusingtheeffectiveinterestrate
 method. Any gain or loss arising on derecognition is recognised directly in profit or loss and
@@ -24802,7 +24802,7 @@ Impairment losses are presented as separate line item in the consolidated income
 
 === PAGE 584 ===
 APPENDIX I ACCOUNTANT’S REPORT
-(cid:129) FVOCI:Assetsthatareheldforcollectionofcontractualcashflowsandforsellingthefinancial
+ FVOCI:Assetsthatareheldforcollectionofcontractualcashflowsandforsellingthefinancial
 assets, where the assets’ cash flows represent solely payments of principal and interest, are
 measured at FVOCI. Movements in the carrying amount are taken through OCI, except for the
 recognitionofimpairmentgainsorlosses,interestincomeandforeignexchangegainsandlosses
@@ -24812,7 +24812,7 @@ recognised in other gains/(losses) – net. Interest income from these financial
 in “finance income” using the effective interest rate method. Foreign exchange gains and losses
 arepresentedin“othergains/(losses)–net”andimpairmentlossesarepresentedasseparateline
 item in the consolidated income statement.
-(cid:129) FVPL:Assets that do not meet the criteria for amortised cost or FVOCI are measured at FVPL.
+ FVPL:Assets that do not meet the criteria for amortised cost or FVOCI are measured at FVPL.
 AgainorlossonadebtinvestmentthatissubsequentlymeasuredatFVPLisrecognisedinprofit
 or loss and presented net within other gains/(losses) – net in the period in which it arises.
 (d) Impairment
@@ -24983,20 +24983,20 @@ included in “Other gains/(losses) – net”.
 38.18 Loss per share
 (i) Basic loss per share
 Basic loss per share is calculated by dividing:
-(cid:129) the loss attributable to owners of the Company, excluding any costs of servicing equity other than
+ the loss attributable to owners of the Company, excluding any costs of servicing equity other than
 ordinary shares; and
 – I-93 –
 
 === PAGE 588 ===
 APPENDIX I ACCOUNTANT’S REPORT
-(cid:129) by the weighted average number of ordinary shares outstanding during the financial year/period,
+ by the weighted average number of ordinary shares outstanding during the financial year/period,
 adjusted for bonus elements in ordinary shares issued during the year/period and excluding treasury
 shares.
 (ii) Diluted loss per share
 Dilutedlosspershareadjuststhefiguresusedinthedeterminationofbasiclosspersharetotakeintoaccount:
-(cid:129) the after-income tax effect of interest and other financing costs associated with dilutive potential
+ the after-income tax effect of interest and other financing costs associated with dilutive potential
 ordinary shares; and
-(cid:129) theweightedaveragenumberofadditionalordinarysharesthatwouldhavebeenoutstandingassuming
+ theweightedaveragenumberofadditionalordinarysharesthatwouldhavebeenoutstandingassuming
 the conversion of all dilutive potential ordinary shares.
 III SUBSEQUENT FINANCIAL STATEMENTS
 No audited financial statements have been prepared by the Company or any of the
@@ -25151,8 +25151,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
-(cid:129) The related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) The unaudited pro forma financial information reflects the proper application of
+ The related pro forma adjustments give appropriate effect to those criteria; and
+ The unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountant’s judgment, having regard to
 the reporting accountant’s understanding of the nature of the company, the event or transaction
@@ -28080,10 +28080,10 @@ Eligibility
 Pursuant to the Employee Share Scheme, eligible participants of the Employee Share
 Scheme shall be employees of our Group. The Employee Share Scheme further provides that
 the following persons shall not be participants under the Employee Share Scheme:
-(cid:129) independent non-executive Directors;
-(cid:129) distributors, customers, suppliers, business partners or competitors of our Group, or
+ independent non-executive Directors;
+ distributors, customers, suppliers, business partners or competitors of our Group, or
 persons holding interests in the aforementioned entities; and
-(cid:129) any persons who/which do not qualify as a shareholder or partner.
+ any persons who/which do not qualify as a shareholder or partner.
 Participation by Selected Participants
 The executive partner of the Employee Shareholding Platforms is Mr. Zhao, who is
 responsible for their respective management.
@@ -28106,7 +28106,7 @@ Arrangements for Departing Employees
 During the service period as specified in the relevant employee shareholding agreement
 entered into between our Company and the Participant, for a Participant departs from our
 Group:
-(cid:129) where the Participant terminates the employment with our Group or the employment
+ where the Participant terminates the employment with our Group or the employment
 is terminated by our Group as a result of his/her violation of the Employee Share
 Scheme, the employment contract or internal policies of our Group, the executive
 partner of the relevant Employee Shareholding Platform shall be entitled to request
@@ -28115,16 +28115,16 @@ byhimtheParticipant’spartnershipinterestsintherelevantEmployeeShareholding
 Platform, at a consideration determined in accordance with the Employee Share
 Scheme (subject to any set-off in the amount of loss caused to our Group or the
 relevant Employee Shareholding Platform);
-(cid:129) wheretheemploymentisterminatedbyourGrouportheemploymentisnotrenewed
+ wheretheemploymentisterminatedbyourGrouportheemploymentisnotrenewed
 upon expiry of the employment contract and there is no wrongdoing on the part of
 the Participant, the executive partner of the relevant Employee Shareholding
 Platform shall be entitled to request the Participant to transfer to him or any other
 employee of our Group as approved by him the Participant’s partnership interests in
 the relevant Employee Shareholding Platform, at a consideration determined in
 accordance with the Employee Share Scheme;
-(cid:129) where the Participant retires, he/she shall be deemed as being employed by our
+ where the Participant retires, he/she shall be deemed as being employed by our
 Group; and
-(cid:129) where the employment with our Group comes to an end by reason of death, being
+ where the employment with our Group comes to an end by reason of death, being
 reported missing, or becoming no longer capable of discharging his/her duties or
 losingcivilcapacityasaresultofdisabilitiesorillnessonthepartoftheParticipant,
 upon consent from our Company and the executive partner of the relevant Employee
@@ -28142,7 +28142,7 @@ of his/her partnership interests in the relevant Employee Shareholding Platform 
 executive partner of the relevant Employee Shareholding Platform or any other employee of
 our Group as approved by the executive partner, at a consideration determined between the
 relevant parties, except:
-(cid:129) where the Participant commits a serious breach of the Employee Share Scheme or
+ where the Participant commits a serious breach of the Employee Share Scheme or
 internal policies of our Group, the executive partner of the relevant Employee
 Shareholding Platform shall be entitled to request the Participant to transfer to him
 oranyotheremployeeofourGroupasapprovedbyhimtheParticipant’spartnership
@@ -28150,7 +28150,7 @@ interests in the relevant Employee Shareholding Platform, at a consideration
 determined in accordance with the Employee Share Scheme (subject to any set-off
 in the amount of loss caused to our Group or the relevant Employee Shareholding
 Platform); and
-(cid:129) where the Participants dies, is reported missing, or becomes no longer capable of
+ where the Participants dies, is reported missing, or becomes no longer capable of
 discharge his/her duties or loses civil capacity as a result of disabilities or illness,
 upon consent from our Company and the executive partner of the relevant Employee
 Shareholding Platform, the Participant may transfer his/her partnership interests in

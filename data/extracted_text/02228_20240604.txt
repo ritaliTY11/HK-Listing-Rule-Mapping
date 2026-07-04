@@ -196,11 +196,11 @@ EXPECTED TIMETABLE
 The results of allocations in the Hong Kong Public Offering (with successful applicants’
 identification document numbers, where appropriate) to be available through a variety of
 channels, including:
-(cid:129) in the announcement to be posted on our website
+ in the announcement to be posted on our website
 and the website of the Stock Exchange at
 www.xtalpi.com(6) and
 www.hkexnews.hk, respectively . . . . . . . . . . . . . . . . . . . .Wednesday, June 12, 2024
-(cid:129) from the “IPO Results” function in the IPO App or
+ from the “IPO Results” function in the IPO App or
 the designated results of allocation
 at www.hkeipo.hk/IPOResult or
 www.tricor.com.hk/ipo/result
@@ -208,7 +208,7 @@ with a “search by ID” function from . . . . . . . . . . . . . . . . .11:00 p
 June 12, 2024 to
 12:00 midnight on Tuesday,
 June 18, 2024
-(cid:129) from the allocation results telephone enquiry line
+ from the allocation results telephone enquiry line
 by calling +852 3691 8488 between 9:00 a.m. and
 6:00 p.m. from. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .Thursday, June 13, 2024 to
 Tuesday, June 18, 2024
@@ -596,7 +596,7 @@ elos
 evah
 yllacipyt
 eW
-(cid:129)
+ 
 :snoitulos
 yrevocsid
 gurd
@@ -633,7 +633,7 @@ fo
 ,ffo-enO
 :noitaruD
 ecivres-rof-eeF
-(cid:129)
+ 
 ,seinapmoc
 gurd
 gnidulcni(
@@ -647,7 +647,7 @@ stnemyap
 gnignar
 yllacipyt
 desab-noitcasnarT
-(cid:129)
+ 
 rehtehw
 yrevocsid
 ;seigolonhcet
@@ -667,7 +667,7 @@ evah
 yllacipyt
 sremotsuc
 ruO
-(cid:129)
+ 
 ro
 stluser
 hcraeser
@@ -702,7 +702,7 @@ gnidneped
 tnegnitnoc
 ro
 ecivres-rof-eeF
-(cid:129)
+ 
 sdnuopmoc
 tegrat
 gurd
@@ -716,7 +716,7 @@ DNI
 sa hcus
 ,setadidnac
 desab-noitcasnarT
-(cid:129)
+ 
 -elgnis
 )vi(
 ro/dna
@@ -776,7 +776,7 @@ elos
 evah
 yllacipyt
 eW
-(cid:129)
+ 
 noitaitini
 ro
 tnemyap
@@ -785,7 +785,7 @@ tnorfpU
 ;893
 :rebmuN
 ecivres-rof-eeF
-(cid:129)
+ 
 ro lacituecamrahP
 D&R
 etats-diloS
@@ -800,7 +800,7 @@ gningis
 nopu
 tnemyap
 desab-noitcasnarT
-(cid:129)
+ 
 ygolonhcetoib
 secivres
 noitamotua
@@ -841,7 +841,7 @@ evah
 yllacipyt
 sremotsuc
 ruO
-(cid:129)
+ 
 sremotsuc
 eht
 ni
@@ -859,7 +859,7 @@ elos
 evah
 yllacipyt
 eW
-(cid:129)
+ 
 rednu
 tnemyap
 ylretrauq
@@ -867,7 +867,7 @@ ro ylhtnoM
 ;242
 :rebmuN
 ecivres-rof-eeF
-(cid:129)
+ 
 ro lacituecamrahP
 detamotuA
 PI
@@ -879,7 +879,7 @@ ecivres
 retsam
 a
 desab-noitpircsbuS
-(cid:129)
+ 
 ygolonhcetoib
 lacimehc
 tnaveler
@@ -907,7 +907,7 @@ evah
 yllacipyt
 sremotsuc
 ruO
-(cid:129)
+ 
 raey
 eno
 eht
@@ -934,7 +934,7 @@ tnorfpU
 ;3
 :rebmuN
 ecivres-rof-eeF
-(cid:129)
+ 
 era
 taht
 seinapmoC
@@ -953,7 +953,7 @@ gningis
 nopu
 tnemyap
 desab-noitcasnarT
-(cid:129)
+ 
 ruo
 fo deen
 ni
@@ -1290,9 +1290,9 @@ sessecorpnoitamotuaro/dna
 yllacipytsnoitulosehtfoyrevileD
 dnascisyhpmutnauq,IAniseitilibapaclacigolonhcetruognigareveL
 noitamrofninoitareneg-txeN
-(cid:129)
+ 
 IA
-(cid:129)
+ 
 D&RiPlatX
 sraeyeerhtotshtnomlarevesnihtiw
 ruonidetalumuccasecneirepxednaesitrepxeruosallewsanoitamotua
@@ -1301,14 +1301,14 @@ snoituloS
 ,sessenisubsnoitulosnoitamotuatnegilletnidnasnoitulosyrevocsidgurd
 dnangisedeht:snoitulosIA–)”IA“(
 noitamotuA
-(cid:129)
+ 
 lacituecamrahpehtdnoyebsremotsucotsnoitulosD&Redivorpew
 nidesusnoitulosIAfonoisivorp
 laitnetopehthsaelnuot,noitamotuadnaecneicslairetamsahcus,yrtsudni
 slacitrevyrtsudnitnereffid
 .yticapacD&Rdnamroftalpygolonhcetdetargetniruofo
 –erawtfosdnaerawdrahdecnavdA
-(cid:129)
+ 
 ”.tnempoleveDerutuFruO—ssenisuB“eeS
 toboR–noitamotuadnascitoboR
 ,stoborfognireenigneeht:ygolonhcet rofsenihcamdnaerawtfosretupmoc
@@ -1710,14 +1710,14 @@ SUMMARY
 SUMMARY
 OUR STRENGTHS
 We believe that we have the following competitive strengths:
-(cid:129) A globally leading quantum physics-based, AI-powered drug and material science
+ A globally leading quantum physics-based, AI-powered drug and material science
 R&D platform in terms of technological advantages
-(cid:129) Quantum physics-based, AI-powered, and robotics-driven integrated technology
+ Quantum physics-based, AI-powered, and robotics-driven integrated technology
 platform
-(cid:129) A suite of well-known customers and collaborators as well as reputable investors
-(cid:129) Meaningful value to our customers and collaborators and synergies within our
+ A suite of well-known customers and collaborators as well as reputable investors
+ Meaningful value to our customers and collaborators and synergies within our
 ecosystem
-(cid:129) Our visionary senior management team and talented key employees with scientific
+ Our visionary senior management team and talented key employees with scientific
 expertise
 OUR MARKET OPPORTUNITIES
 Weprimarilyoperateinthedrugdiscoveryandsolid-stateR&Dservicemarkets,andplan
@@ -1758,12 +1758,12 @@ billion in 2030, according to Frost & Sullivan.
 SUMMARY
 OUR GROWTH STRATEGIES
 We plan to implement the following growth strategies:
-(cid:129) Enhance our service capabilities and expand our service offerings in the
+ Enhance our service capabilities and expand our service offerings in the
 biotechnology and pharmaceutical industries and beyond
-(cid:129) Advance the science underpinning our integrated technology platform
-(cid:129) Broaden customer base, and deepen relationships with customers and collaborators
+ Advance the science underpinning our integrated technology platform
+ Broaden customer base, and deepen relationships with customers and collaborators
 and enable cross-selling
-(cid:129) Create more value within our ecosystem, and further grow our business through
+ Create more value within our ecosystem, and further grow our business through
 global expansion and selective mergers and acquisitions
 SIGNIFICANT COOPERATIONS AND COLLABORATIONS
 We have formed several strategic cooperations and collaborations with leading global
@@ -1947,18 +1947,18 @@ specialized solid-state CROs and other large CROs, the market share of AI-focuse
 providers is expected to grow due to the advantages of AI-based solid-state R&D services in
 terms of higher R&D efficiency and better quality.
 We believe the following capabilities differentiate us from our competitors:
-(cid:129) our AI capabilities anchored by quantum physics calculations;
-(cid:129) our quantum physics-based first-principles calculation supported by high
+ our AI capabilities anchored by quantum physics calculations;
+ our quantum physics-based first-principles calculation supported by high
 performance cloud computing;
-(cid:129) our flexible and extensive AI capabilities backed by our various multi-modality,
+ our flexible and extensive AI capabilities backed by our various multi-modality,
 customer-driven, scenario-based algorithms and models;
-(cid:129) clusters of intelligent robot scientists with AI brain driving wet lab automation,
+ clusters of intelligent robot scientists with AI brain driving wet lab automation,
 scalability, standardization and high throughput;
-(cid:129) iterative and mutually informing and reinforcing feedback loop between dry lab and
+ iterative and mutually informing and reinforcing feedback loop between dry lab and
 wet lab;
-(cid:129) accumulated meaningful and extensive data assets generated through synergistic dry
+ accumulated meaningful and extensive data assets generated through synergistic dry
 lab and wet lab; and
-(cid:129) our domain expertise, creative thinking, and entrepreneurial mindset.
+ our domain expertise, creative thinking, and entrepreneurial mindset.
 See “Business—Competition.”
 RISK FACTORS
 Although we generated meaningful revenue during the Track Record Period, we are a
@@ -1978,42 +1978,42 @@ If any of such risks and uncertainties materializes, the market price of our Sha
 decline, and you may lose all or part of your investments. See “Risk Factors” for details of our
 risk factors, which we urge you to read in its entirety before making an investment in our
 Shares. Some of the major risks that we face include:
-(cid:129) Our commercial success depends on our closed-loop integrated technology platform
+ Our commercial success depends on our closed-loop integrated technology platform
 and technological capabilities, and their acceptance by our customers and
 collaborators. Failure to maintain our technological advantages or gain market
 acceptance of our platform or technology may have a material and adverse impact
 on our commercial success.
-(cid:129) Theindustriesthatweoperateinarecharacterizedbyconstantchanges.Ifwearenot
+ Theindustriesthatweoperateinarecharacterizedbyconstantchanges.Ifwearenot
 able to upgrade, enhance or innovate our technologies and solutions, our business
 could be adversely affected.
-(cid:129) We intend to continue investing significantly in R&D, which may adversely impact
+ We intend to continue investing significantly in R&D, which may adversely impact
 our profitability and operating cash flow in the short-term and may not generate the
 results we expect to achieve. If our key R&D employees terminate their
 relationships with us or develop relationships with a competitor, our R&D activities
 could be adversely affected. If our R&D results are inaccurate or incomplete, our
 business and reputation could be harmed.
-(cid:129) Wehavealimitedoperatinghistoryandlimitedexperienceinthecommercialization
+ Wehavealimitedoperatinghistoryandlimitedexperienceinthecommercialization
 of our solutions and services, which may make it difficult to evaluate our current
 business and predict our future performance.
-(cid:129) Our historical performance may not be indicative of our future growth, and we may
+ Our historical performance may not be indicative of our future growth, and we may
 not be able to sustain similar growth or manage our growth in the future.
-(cid:129) The size of our addressable markets and the demand for our solutions and services
+ The size of our addressable markets and the demand for our solutions and services
 may not increase as rapidly as we anticipate, which could materially and adversely
 affect our business and prospects. In addition, the markets in which we participate
 are competitive, and if we do not compete effectively, our business and results of
 operations could be adversely affected.
-(cid:129) The markets in which we participate are competitive, and if we do not compete
+ The markets in which we participate are competitive, and if we do not compete
 effectively, our business and results of operations could be adversely affected.
-(cid:129) If we fail to retain existing customers or attract new customers, our business,
+ If we fail to retain existing customers or attract new customers, our business,
 financial condition and results of operation will suffer.
-(cid:129) Our commercial success depends significantly on our ability to operate without
+ Our commercial success depends significantly on our ability to operate without
 infringing upon, misappropriating or otherwise violating the IP rights of third
 parties.
 – 24 –
 
 === PAGE 34 ===
 SUMMARY
-(cid:129) We may become involved in lawsuits to protect or enforce our patents or other IP,
+ We may become involved in lawsuits to protect or enforce our patents or other IP,
 which could be expensive, time consuming and unsuccessful, and any unfavorable
 outcome from such litigation could limit our R&D activities and/or our ability to
 commercialize our solutions and services.
@@ -2358,9 +2358,9 @@ pharmaceutical or biotechnology companies worldwide.
 Drug discovery solutions: We enter into contracts for our drug discovery solutions and
 drug discovery collaborations, where we receive upfront payments, milestone payments and/or
 royalties.
-(cid:129) Drug discovery solutions: We generally receive service fees which are typically
+ Drug discovery solutions: We generally receive service fees which are typically
 recognized as revenue within one year upon signing of the relevant contracts.
-(cid:129) Drug discovery collaborations: We generally receive around 15% of the contract
+ Drug discovery collaborations: We generally receive around 15% of the contract
 value (excluding contingent payments and royalties) as upfront payment upon the
 signing of contracts and the remaining will be paid and recognized upon achieving
 certain milestones, such as the delivery of desired hits, leads, PCCs or the
@@ -2373,11 +2373,11 @@ development stages of the drug candidates, such as IND and clinical trials, and/
 commercialization revenue of the relevant drugs.
 Intelligent automation solutions: We enter into contracts for our solid-state R&D
 services and automated chemical synthesis services where we receive service fees.
-(cid:129) Solid-state R&D services:We generally receive an upfront payment upon signing of
+ Solid-state R&D services:We generally receive an upfront payment upon signing of
 contract and a final payment upon completion of the relevant research program.The
 payments we receive under our solid-state R&D services are typically recognized as
 revenue within six months.
-(cid:129) Automated chemical synthesis services: We generally receive and recognize as
+ Automated chemical synthesis services: We generally receive and recognize as
 revenue monthly or quarterly payments. The duration of our automated chemical
 synthesis contracts in general ranges from half a year to one year.
 – 34 –
@@ -3650,7 +3650,7 @@ agencies that control the authorization and licensing of
 the manufacture and sale of products
 “GPCR” G protein-coupled receptors, integral membrane proteins
 containing an extracellular amino terminus, seven
-transmembrane (cid:2)-helical domains, and an intracellular
+transmembrane -helical domains, and an intracellular
 carboxy terminus, which recognize a wide variety of
 signals ranging from photons to ions, proteins,
 neurotransmitters, and hormones
@@ -3922,33 +3922,33 @@ assumptions, including the other risk factors as described in this prospectus. Y
 cautioned that reliance on any forward-looking statements involves known and unknown risks
 and uncertainties. The risks and uncertainties facing our company which could affect the
 accuracy of forward-looking statements include, but are not limited to, the following:
-(cid:129) our business prospects;
-(cid:129) future developments, trends and conditions in the industries and markets in which
+ our business prospects;
+ future developments, trends and conditions in the industries and markets in which
 we operate;
-(cid:129) our strategies, plans, objectives and goals and our ability to successfully implement
+ our strategies, plans, objectives and goals and our ability to successfully implement
 these strategies, plans, objectives and goals;
-(cid:129) general economic, political and business conditions in the markets in which we
+ general economic, political and business conditions in the markets in which we
 operate;
-(cid:129) changes to the regulatory environment and general outlook in the industries and
+ changes to the regulatory environment and general outlook in the industries and
 markets in which we operate;
-(cid:129) our financial condition and operating results and performance;
-(cid:129) the effects of the global financial markets and economic crisis;
-(cid:129) our ability to reduce costs and offer competitive prices;
-(cid:129) our ability to attract customers and build our brand image;
-(cid:129) our dividend policy;
+ our financial condition and operating results and performance;
+ the effects of the global financial markets and economic crisis;
+ our ability to reduce costs and offer competitive prices;
+ our ability to attract customers and build our brand image;
+ our dividend policy;
 – 76 –
 
 === PAGE 86 ===
 FORWARD-LOOKING STATEMENTS
-(cid:129) our ability to attract and retain senior management and key employees;
-(cid:129) the amount and nature of, and potential for, future development of our business;
-(cid:129) capital market developments;
-(cid:129) the actions and developments of our competitors;
-(cid:129) change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
+ our ability to attract and retain senior management and key employees;
+ the amount and nature of, and potential for, future development of our business;
+ capital market developments;
+ the actions and developments of our competitors;
+ change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
 operations, margins, risk management and overall market trends;
-(cid:129) certain statements in “Business” and “Financial Information” with respect to trends
+ certain statements in “Business” and “Financial Information” with respect to trends
 in prices, operations, margins, overall market trends, and risk management; and
-(cid:129) other statements in this prospectus that are not historical facts.
+ other statements in this prospectus that are not historical facts.
 This prospectus also contains market data and projections that are based on a number of
 assumptions.The markets may not grow at the rates projected by the market data, or at all.The
 failure of the markets to grow at the projected rates may materially and adversely affect our
@@ -4021,29 +4021,29 @@ abilitytoconductdiscoveryandresearchactivities,delivermorepromisingmolecules,per
 accurate solid-state R&D studies, and ultimately to accelerate and lower the costs of drug and
 material science R&D as compared to traditional manual methods. In particular, the successful
 performance of our platform and technologies depends, among other things, on:
-(cid:129) the relative reliability and robustness of our platform;
-(cid:129) whether our platform reliably provides advantages over legacy and other alternative
+ the relative reliability and robustness of our platform;
+ whether our platform reliably provides advantages over legacy and other alternative
 technologies and is perceived by customers and collaborators to be cost-effective;
-(cid:129) our platform’s ability to successfully identify molecules with the optimal properties
+ our platform’s ability to successfully identify molecules with the optimal properties
 in given conditions on the desired timeframes that can ultimately be used for basis
 of drug and material science R&D and patent protection;
-(cid:129) our ability to develop new solutions for our customers and collaborators;
-(cid:129) our ability to constantly upgrade, advance and innovate our platform and
+ our ability to develop new solutions for our customers and collaborators;
+ our ability to constantly upgrade, advance and innovate our platform and
 technologies;
-(cid:129) our ability to keep abreast of technology and industry trends and continue to
+ our ability to keep abreast of technology and industry trends and continue to
 advance our integrated platform;
-(cid:129) our ability to enhance the capabilities of ourAI-powered intelligent robotic wet lab,
+ our ability to enhance the capabilities of ourAI-powered intelligent robotic wet lab,
 boost automation and increase the throughput, improve efficiency and enhance
 reproducibility of the wet lab experimentation;
-(cid:129) if our competitors can develop a platform that performs AI-powered computational
+ if our competitors can develop a platform that performs AI-powered computational
 predictions at a greater accuracy and efficiency than us;
-(cid:129) our ability to increase brand awareness of the capabilities of our technology and
+ our ability to increase brand awareness of the capabilities of our technology and
 solutions;
-(cid:129) our customers’ and collaborators’ willingness to adopt our new technologies,
+ our customers’ and collaborators’ willingness to adopt our new technologies,
 solutions and services;
-(cid:129) the rate of adoption of our solutions by pharmaceutical companies, biotechnology
+ the rate of adoption of our solutions by pharmaceutical companies, biotechnology
 companies of all sizes, academic and research institutions and others; and
-(cid:129) market sentiment regarding the accuracy and security of our technologies and data.
+ market sentiment regarding the accuracy and security of our technologies and data.
 There can be no assurance that we will successfully address any of these or other factors
 that may affect the market acceptance of our platform or technologies. If we are unsuccessful
 in achieving and maintaining market acceptance of our platform and technological capabilities,
@@ -4432,26 +4432,26 @@ also intend to further grow our business by attracting new customers, by expandi
 footprint.As a result, retaining our existing customers and engaging new customers are critical
 to our future operating results. Factors that may affect our ability to retain, and cross sell
 additional services to, our customers include:
-(cid:129) thedemandofourcustomersfordrugdiscoverysolutionsandintelligentautomation
+ thedemandofourcustomersfordrugdiscoverysolutionsandintelligentautomation
 solutions. In particular, our customers may develop their in-house AI platforms
 related to drug discovery and intelligent automation;
-(cid:129) the price, performance, and functionality of our drug discovery solutions and
+ the price, performance, and functionality of our drug discovery solutions and
 intelligent automation solutions;
-(cid:129) the availability, price, performance, and functionality of competing solutions and
+ the availability, price, performance, and functionality of competing solutions and
 services;
 – 88 –
 
 === PAGE 98 ===
 RISK FACTORS
-(cid:129) the stability, performance, and security of our technological infrastructure;
-(cid:129) our ability to develop complementary solutions, applications, and services that
+ the stability, performance, and security of our technological infrastructure;
+ our ability to develop complementary solutions, applications, and services that
 combine both computational services and experimental services that are tailored to
 our customers’ needs;
-(cid:129) the effectiveness of our solutions and services;
-(cid:129) the success of our upgraded or innovative services or technologies;
-(cid:129) the financial performance, the budget of the R&D activities and the overall business
+ the effectiveness of our solutions and services;
+ the success of our upgraded or innovative services or technologies;
+ the financial performance, the budget of the R&D activities and the overall business
 environment of our customers; and
-(cid:129) the overall business environment of the industry.
+ the overall business environment of the industry.
 We deliver our drug discovery solutions and intelligent automation solutions on a
 program-by-program basis. Therefore, our customers have no obligation to enter into new
 service agreements after the specified programs are completed. In addition, many of our
@@ -4516,34 +4516,34 @@ development, obtain regulatory approval for, or commercialize any product candid
 or experience delays in doing so, our business may be materially harmed.
 The success of our customers’ and collaborators’ development and commercialization
 programs will depend on several factors, including:
-(cid:129) successful completion of our pre-clinical studies to enable the initiation of clinical
+ successful completion of our pre-clinical studies to enable the initiation of clinical
 trials;
 – 90 –
 
 === PAGE 100 ===
 RISK FACTORS
-(cid:129) successful enrollment of patients in, and the completion of, the clinical trials;
-(cid:129) acceptance by the FDA, NMPAor other regulatory agencies of regulatory filings for
+ successful enrollment of patients in, and the completion of, the clinical trials;
+ acceptance by the FDA, NMPAor other regulatory agencies of regulatory filings for
 any product candidates that we discover and design and our customers or
 collaborators may develop;
-(cid:129) expanding and maintaining a workforce of experienced scientists and others to
+ expanding and maintaining a workforce of experienced scientists and others to
 continue to develop any product candidates;
-(cid:129) obtaining and maintaining IP protection and regulatory exclusivity for any product
+ obtaining and maintaining IP protection and regulatory exclusivity for any product
 candidates that we discover and design and our customers or collaborators may
 develop;
-(cid:129) making arrangements with third-party manufacturers for, or establishing, clinical
+ making arrangements with third-party manufacturers for, or establishing, clinical
 and commercial manufacturing capabilities;
-(cid:129) establishing sales, marketing, and distribution capabilities for drug products and
+ establishing sales, marketing, and distribution capabilities for drug products and
 successfully launching commercial sales, if and when approved;
-(cid:129) acceptanceofanyproductcandidatesthatwediscoveranddesignandourcustomers
+ acceptanceofanyproductcandidatesthatwediscoveranddesignandourcustomers
 or collaborators may develop, if and when approved, by patients, the medical
 community, and third-party payors;
-(cid:129) effectively competing with other therapies;
-(cid:129) obtaining and maintaining coverage, adequate pricing, and adequate reimbursement
+ effectively competing with other therapies;
+ obtaining and maintaining coverage, adequate pricing, and adequate reimbursement
 from third-party payors, including government payors;
-(cid:129) patients’ willingness to pay out-of-pocket in the absence of coverage and/or
+ patients’ willingness to pay out-of-pocket in the absence of coverage and/or
 adequate reimbursement from third-party payors; and
-(cid:129) maintaining a continued acceptable safety profile following receipt of any
+ maintaining a continued acceptable safety profile following receipt of any
 regulatory approvals.
 Many of these factors are beyond our control, including clinical outcomes, the regulatory
 review process, potential threats to our IP rights, and the manufacturing, marketing, and sales
@@ -4699,14 +4699,14 @@ Our business and results of operations are affected by our ability to execute ou
 globalization strategy, which primarily involves expanding into new international markets,
 particularly the U.S. and Europe. Operating internationally subjects us to additional risks and
 challenges such as:
-(cid:129) limited brand recognition globally (compared with our presence in China);
-(cid:129) costs and expenses in connection with global expansion, including recruitment of
+ limited brand recognition globally (compared with our presence in China);
+ costs and expenses in connection with global expansion, including recruitment of
 local personnel and lease or establishment of new premise or lab;
-(cid:129) ability to anticipate international consumers’ and collaborators’ needs and
+ ability to anticipate international consumers’ and collaborators’ needs and
 preferences;
-(cid:129) burdens of complying with a wide variety of local laws and regulations;
-(cid:129) wars, political and economic instability, including trade tensions; and
-(cid:129) technological and trade restrictions.
+ burdens of complying with a wide variety of local laws and regulations;
+ wars, political and economic instability, including trade tensions; and
+ technological and trade restrictions.
 Our international expansion plans will place increased demands on our operational,
 managerial and administrative resources. In particular, we face regulatory uncertainties and
 may incur substantial compliance costs when we enter into a new overseas market. Regulations
@@ -5084,20 +5084,20 @@ assume contingent liabilities and subject us to other risks.
 We may evaluate various acquisitions and strategic collaborations, including licensing in
 or acquiring complementary IPrights, technologies or businesses.Any potential acquisition or
 strategic collaboration may entail numerous risks, including:
-(cid:129) increased operating expenses and cash requirements;
-(cid:129) the assumption of additional indebtedness or contingent liabilities;
-(cid:129) assimilation of operations, IP and products of an acquired company, including
+ increased operating expenses and cash requirements;
+ the assumption of additional indebtedness or contingent liabilities;
+ assimilation of operations, IP and products of an acquired company, including
 difficulties associated with integrating new personnel;
-(cid:129) the diversion of our management’s attention from our existing business and
+ the diversion of our management’s attention from our existing business and
 initiatives in pursuing such a strategic merger or acquisition;
-(cid:129) the costs associated with identifying investment, acquisition or collaboration
+ the costs associated with identifying investment, acquisition or collaboration
 targets;
-(cid:129) retention of key employees, the loss of key personnel, and uncertainties in our
+ retention of key employees, the loss of key personnel, and uncertainties in our
 ability to maintain key business relationships;
-(cid:129) risks and uncertainties associated with the other party to such a transaction,
+ risks and uncertainties associated with the other party to such a transaction,
 including the prospects of that party and their existing services or technologies;
 and/or
-(cid:129) our inability to generate sufficient revenue from acquired technologies and/or
+ our inability to generate sufficient revenue from acquired technologies and/or
 businesses to meet our objectives in undertaking the acquisition or even to offset the
 associated acquisition and maintenance costs.
 In addition, if we undertake acquisitions, we may issue dilutive securities, assume or
@@ -5142,26 +5142,26 @@ Furthermore,partners,collaborators,orotherpartiestosuchtransactionsorarrangement
 may fail to fully perform their obligations or meet our expectations or cooperate with us
 satisfactorily for various reasons and subject us to potential risks, including that partners,
 collaborators, or other parties:
-(cid:129) have significant discretion in determining the efforts and resources that they will
+ have significant discretion in determining the efforts and resources that they will
 apply to a transaction or arrangement;
-(cid:129) could independently develop, or develop with third parties, services and products
+ could independently develop, or develop with third parties, services and products
 that compete directly or indirectly with the product candidates developed under the
 collaboration with us;
 – 105 –
 
 === PAGE 115 ===
 RISK FACTORS
-(cid:129) may stop, delay or discontinue clinical trials as well as repeat clinical trials or
+ may stop, delay or discontinue clinical trials as well as repeat clinical trials or
 conduct new clinical trials by using our IP or proprietary information;
-(cid:129) may not properly maintain or defend our IP rights, or may use our IP or proprietary
+ may not properly maintain or defend our IP rights, or may use our IP or proprietary
 information in a way that gives rise to actual or threatened litigation that could
 jeopardize or invalidate our IP or proprietary information, or expose us to potential
 liabilities;
-(cid:129) may have disputes with us that cause the delay or termination of the research,
+ may have disputes with us that cause the delay or termination of the research,
 development, or commercialization of the product candidates developed under the
 collaboration with us, or that result in costly litigation or arbitration that diverts
 management’s attention and resources; and
-(cid:129) may own or jointly own IPs covering the product candidates developed under the
+ may own or jointly own IPs covering the product candidates developed under the
 collaboration with us, and in such cases, deny us the exclusive right to
 commercialize such IPs.
 Any such transactions or arrangements may also require actions, consents, approval,
@@ -5699,15 +5699,15 @@ approval of, and to market, solutions and technology identical to ours. This cou
 material adverse effect on our competitive position, business, financial condition, results of
 operations, and prospects. Disputes may arise regarding IP subject to a collaboration
 agreement, including:
-(cid:129) the scope of ownership or license granted under the collaboration agreement;
-(cid:129) the extent to which our technologies, solutions and services infringe on IP that is
+ the scope of ownership or license granted under the collaboration agreement;
+ the extent to which our technologies, solutions and services infringe on IP that is
 generated through a collaboration, of which we do not have ownership or license
 under such collaboration agreement;
-(cid:129) the assignment or sublicense of IP rights and other rights under the collaboration
+ the assignment or sublicense of IP rights and other rights under the collaboration
 agreement;
-(cid:129) our diligence obligations under the collaboration agreement and what activities
+ our diligence obligations under the collaboration agreement and what activities
 satisfy those diligence obligations; and
-(cid:129) the inventorship and ownership of inventions and know-how resulting from the joint
+ the inventorship and ownership of inventions and know-how resulting from the joint
 creation or use of IP by us and our collaborators.
 In addition, collaboration agreements are complex, and certain provisions in such
 agreements may be susceptible to multiple interpretations. The resolution of any contract
@@ -5916,33 +5916,33 @@ advantage.
 The degree of future protection afforded by our IP rights is uncertain because IP rights
 have limitations, and may not adequately protect our business, or permit us to maintain our
 competitive advantage. The following examples are illustrative:
-(cid:129) others may be able to independently develop similar or alternative technologies or
+ others may be able to independently develop similar or alternative technologies or
 designs that are similar to our solutions or services but that are not covered by the
 claims of the patents that we own or have or have obtained an exclusive license to;
-(cid:129) we might not have been the first to make the inventions covered by the issued
+ we might not have been the first to make the inventions covered by the issued
 patents or pending patent applications that we own or may in the future exclusively
 license,whichcouldresultinthepatentapplicationsnotissuingorbeinginvalidated
 after issuing;
-(cid:129) we might not have been the first to file patent applications covering certain of our
+ we might not have been the first to file patent applications covering certain of our
 inventions, which could result in the patent applications not issuing or being
 invalidated after issuing;
-(cid:129) others may independently develop similar or alternative technologies or duplicate
+ others may independently develop similar or alternative technologies or duplicate
 any of our technologies without infringing our IP rights;
-(cid:129) our pending patent applications will possibly not lead to issued patents;
-(cid:129) issued patents that we own or have obtained an exclusive license to may not provide
+ our pending patent applications will possibly not lead to issued patents;
+ issued patents that we own or have obtained an exclusive license to may not provide
 us with any competitive advantages, or may be held invalid or unenforceable, as a
 result of legal challenges by our competitors;
 – 123 –
 
 === PAGE 133 ===
 RISK FACTORS
-(cid:129) our competitors might conduct R&D activities in countries where we do not have
+ our competitors might conduct R&D activities in countries where we do not have
 patent rights and then use the information learned from such activities to develop
 competitive solutions and services for commercialization in our major markets;
-(cid:129) we may fail to develop additional proprietary technologies that are patentable;
-(cid:129) we may fail to apply for or obtain adequate IP protection in all the jurisdictions in
+ we may fail to develop additional proprietary technologies that are patentable;
+ we may fail to apply for or obtain adequate IP protection in all the jurisdictions in
 which we operate; and
-(cid:129) the patents of others may have an adverse effect on our business, for example by
+ the patents of others may have an adverse effect on our business, for example by
 preventing us from commercializing one or more of our solutions and services.
 Any of the aforementioned threats to our competitive advantage could have a material
 adverse effect on our business.
@@ -6114,23 +6114,23 @@ RISK FACTORS
 as we continue to expand our business and invest in our solutions and services, our integrated
 technology platform and our sales and marketing related activities. Our operating expenses are
 expected to increase primarily as a result of our further business expansion, as we:
-(cid:129) continue advancement of and investment in our integrated technology platform,
+ continue advancement of and investment in our integrated technology platform,
 including quantum physics computation, AI, cloud computing and AI-powered
 intelligent robotic wet lab experimentation capabilities;
-(cid:129) continue expansion and improvement of our drug and new materials discovery
+ continue expansion and improvement of our drug and new materials discovery
 solutions and intelligent automation solutions;
-(cid:129) continue our ongoing and planned R&D programs developed for our customers or
+ continue our ongoing and planned R&D programs developed for our customers or
 in collaboration with our collaborators;
-(cid:129) continue expansion of our collaborations with partners on drug discovery, including
+ continue expansion of our collaborations with partners on drug discovery, including
 CROs and other service providers;
-(cid:129) maintain, expand and protect our IP portfolio;
-(cid:129) establish and enhance our business development and marketing team to promote and
+ maintain, expand and protect our IP portfolio;
+ establish and enhance our business development and marketing team to promote and
 sell our services and forge collaborations;
-(cid:129) attract, hire and retain additional scientific, technical, management and
+ attract, hire and retain additional scientific, technical, management and
 administrative personnel;
-(cid:129) maintain and expand our customer relationship and business development efforts;
-(cid:129) expand our operations in China and globally; and
-(cid:129) incur additional costs associated with operating as a public company upon the
+ maintain and expand our customer relationship and business development efforts;
+ expand our operations in China and globally; and
+ incur additional costs associated with operating as a public company upon the
 completion of the Global Offering.
 If our operating expenses and/or net loss continue to increase significantly, and we fail
 to manage such increases, our business operations, results of operations, financial position and
@@ -7194,17 +7194,17 @@ The trading price and volume of the Shares may be volatile, which could result i
 substantial losses to you.
 Trading price of our Shares may be volatile and could fluctuate widely in response to
 factors beyond our control, including:
-(cid:129) actual or anticipated fluctuations in our operating and financial results, such as
+ actual or anticipated fluctuations in our operating and financial results, such as
 turnovers, earnings and cash flow;
-(cid:129) changes in earnings estimate or recommendations by financial analysts;
-(cid:129) general market conditions of the securities markets in Hong Kong, China, the U.S.
+ changes in earnings estimate or recommendations by financial analysts;
+ general market conditions of the securities markets in Hong Kong, China, the U.S.
 and elsewhere in the world or other developments affecting us or our industry;
 – 152 –
 
 === PAGE 162 ===
 RISK FACTORS
-(cid:129) potential litigation or regulatory investigations;
-(cid:129) the release of lock-up or other transfer restrictions on our outstanding Shares or
+ potential litigation or regulatory investigations;
+ the release of lock-up or other transfer restrictions on our outstanding Shares or
 sales or perceived sales of additional Shares by us or other Shareholders.
 In particular, the performance and fluctuation of the market prices of other companies
 with business operations located mainly in China that have listed their securities in Hong Kong
@@ -8857,26 +8857,26 @@ INDUSTRY OVERVIEW
 Key Drivers and Future Trends of New Technologies
 The growth of the new technology market is expected to be driven and influenced by the
 following factors and trends:
-(cid:129) Growing data volume across industries. The exponential growth in data volume
+ Growing data volume across industries. The exponential growth in data volume
 presents significant prospects for extracting meaningful insights and knowledge,
 spurring the emergence of cutting-edge data analytics technologies like machine
 learning (“ML”) algorithms and AI models. The surge in data also necessitates the
 development of sophisticated solutions for data storage, management, computation,
 and security.
-(cid:129) Increasing labor cost. Increasing labor costs prompt businesses to explore
+ Increasing labor cost. Increasing labor costs prompt businesses to explore
 alternativemeansofminimizingtheirrelianceonhumanlabor,therebydrivingmore
 investment in new technologies. Automation technologies, robotics, and AI models
 have emerged as primary solutions to reduce labor costs. These technologies enable
 businesses to streamline operations, enhance productivity, and optimize resource
 allocation, while reducing labor expenses.
-(cid:129) Convergence of technologies. The convergence of technologies, such as the
+ Convergence of technologies. The convergence of technologies, such as the
 integration of AI in combination with quantum physics, cloud computing, and
 automation, empowers the rapid growth of the new technology market. By
 combining their strengths and capabilities, technologies can drive synergistic
 innovation, enable cross-domain applications, enhance performance and efficiency,
 and foster an interconnected ecosystem. As technologies continue to converge and
 interact, the pace of innovation and market growth is expected to further accelerate.
-(cid:129) Favorable policies. The PRC government has launched a series of favorable
+ Favorable policies. The PRC government has launched a series of favorable
 national and regional policies in recent years to incentivize and encourage
 technological innovations and spur technological enhancements to support
 economic growth. For instance, the Development Plan for National High-Tech
@@ -8929,7 +8929,7 @@ Content
 therapeutic effects. /metabolic properties
 suggestive of reasonable in
 vivo pharmacokinetics.
-P D r o i m m a a i r n y (cid:2) (cid:2) (cid:2) (cid:2) G D C B M i h e i o o s n e l c i m e e n o s c f v i o u n e l r f r a m o y r r a m B t o i a f c io t s T i l c o a s r g g y et (cid:2) (cid:2) (cid:2) (cid:2) B M P F a u i o o t n h l c c e o h t c l i e o u o m g n la i a i r c s l a tr B l G y io en lo o g m y ics (cid:2) (cid:2) (cid:2) (cid:2) C B A H Sc i h n i o g r e a e m h m l e y e n T i t c t i i h r c n a i r a g l c o l s u S C g y h h n e o t m u h t e i s s i t s ry (cid:2) (cid:2) (cid:2) (cid:2) D T M SA o M e x R d i P i c c K A i i t n y s i s a n A e l s V s C s s i m a h tr y e e o s m n t i i n s t V ry itro
+P D r o i m m a a i r n y G D C B M i h e i o o s n e l c i m e e n o s c f v i o u n e l r f r a m o y r r a m B t o i a f c io t s T i l c o a s r g g y et B M P F a u i o o t n h l c c e o h t c l i e o u o m g n la i a i r c s l a tr B l G y io en lo o g m y ics C B A H Sc i h n i o g r e a e m h m l e y e n T i t c t i i h r c n a i r a g l c o l s u S C g y h h n e o t m u h t e i s s i t s ry D T M SA o M e x R d i P i c c K A i i t n y s i s a n A e l s V s C s s i m a h tr y e e o s m n t i i n s t V ry itro
 Source: Frost & Sullivan Report
 Notes:
 (1) SAR: Structure-activity relationship.
@@ -9265,12 +9265,12 @@ alternatives.
 Source: Frost & Sullivan Report
 Entry Barriers of the AI-based Drug R&D Market
 New entrants into the AI-based drug R&D market face the following entry barriers:
-(cid:129) Limited resources. The scarcity of experts in both AI algorithms and biomedical
+ Limited resources. The scarcity of experts in both AI algorithms and biomedical
 research is a significant challenge for new entrants seeking to design AI-based
 algorithms for drug R&D. Moreover, the expenses and lengthy validation cycles
 associated with the development and testing of AI-based algorithms further
 exacerbate difficulties in funding technological acquisitions.
-(cid:129) Lack of algorithms and models.Algorithms are critical forAI-based drug R&D, as
+ Lack of algorithms and models.Algorithms are critical forAI-based drug R&D, as
 excellent drug R&D models can significantly improve prediction accuracy.
 However, drug R&D models are usually complex, containing a large number of
 complex parameters and algorithms. Furthermore, a large amount of real-world data
@@ -9278,7 +9278,7 @@ is crucial to further fine-tune the drug R&D models.As new entrants lack advance
 AI capabilities and high quality data, they are unable to take advantage of the
 benefits brought by algorithms and AI model to outperform current market players
 in drug R&D.
-(cid:129) Competition with current market players. The AI-based drug R&D market is
+ Competition with current market players. The AI-based drug R&D market is
 competitive, presenting formidable obstacles for new entrants to compete with
 established market players. Major players combineAI-powered dry lab with robotic
 wet lab to form an iterative feedback loop for one-stop drug R&D services, making
@@ -9288,7 +9288,7 @@ from existing major players.
 
 === PAGE 214 ===
 INDUSTRY OVERVIEW
-(cid:129) Commercialization difficulties. The drug R&D process is complex and time-
+ Commercialization difficulties. The drug R&D process is complex and time-
 consuming, making it difficult for small companies to commercialize their R&D
 services. Furthermore, with customers’evolving requirements and needs as well as
 stringent data requirements, start-ups may find it challenging to meet customer
@@ -9296,14 +9296,14 @@ expectations.
 Growth Drivers and Future Trends
 TheAI-based drug R&D market is expected to be driven and influenced by the following
 factors or trends:
-(cid:129) Rise in demand to accelerate drug R&D. The world’s aging population and rising
+ Rise in demand to accelerate drug R&D. The world’s aging population and rising
 incidence of diseases, such as cardiovascular, metabolic, cancer, and
 neurodegenerative conditions, are stimulating demand for novel therapeutics and
 more efficient drug discovery. Traditional drug R&D programs are not efficient,
 characterized by lengthy R&D cycles, high failure rates, and exorbitant costs. This
 marks a significant opportunity for AI-based drug R&D to revolutionize current
 approaches.
-(cid:129) Technological advancements inAI. The discovery of new drug candidates aided by
+ Technological advancements inAI. The discovery of new drug candidates aided by
 AI is particularly critical for diseases that lack effective treatment options and have
 significant unmet needs. Recent developments in deep learning, neural networks,
 generative adversarial networks (“GANs”), and generative AIs have enabled AI to
@@ -9313,7 +9313,7 @@ experimental labor required in drug R&D, while increasing the efficiency in
 identifying suitable drug targets. Ultimately, AI has the potential to significantly
 shorten the drug R&D process and lower costs by screening for molecules that are
 more likely to succeed.
-(cid:129) Increasing investment in AI-based drug R&D and collaboration with AI
+ Increasing investment in AI-based drug R&D and collaboration with AI
 companies. UtilizingAI capabilities can significantly reduce both the time and cost
 required in the drug R&D process, making it a highly advantageous strategy for
 multinational corporations (“MNCs”). Biotechnology and pharmaceutical
@@ -9321,7 +9321,7 @@ multinational corporations have showed great interest in investing in or
 collaborating withAI-based drug R&D companies.With the increased realization of
 the benefits ofAI integration, the demand forAI-based solutions is predicted to rise
 continuously, leading to further investment and collaboration in this field.
-(cid:129) Supportive regulatory framework. Favorable policies have been implemented to
+ Supportive regulatory framework. Favorable policies have been implemented to
 promote innovative solutions in healthcare industry, such as the “2017 Digital
 Health Innovation Action Plan” in the U.S. This plan encourages risk-based
 approachestoregulatedigitalhealthtechnologytofosterinnovation.Inaddition,the
@@ -9343,11 +9343,11 @@ enhances patent protection. See “Regulatory Overview—Regulations on
 Pharmaceutical Product Research, Development, Approval and
 Registration—PRC—Accelerated Approval for Clinical Trial and Registration” for
 more details.
-(cid:129) Data privacy and protection. AI start-ups and biotechnology and pharmaceutical
+ Data privacy and protection. AI start-ups and biotechnology and pharmaceutical
 companies are leveraging cloud-based platforms to share data. To ensure the
 compliance with regulations and to prevent data breaches, players will need to use
 advanced technologies, such as blockchain.
-(cid:129) Pipeline diversification. The advancement of AI-powered prediction tools has and
+ Pipeline diversification. The advancement of AI-powered prediction tools has and
 will continue to enhance the accuracy and efficiency of drug R&D and pre-clinical
 testing, enabling new research directions and more strategic R&D approaches. As
 the volume of high-quality data and algorithms continues to grow,AI-based method
@@ -9561,7 +9561,7 @@ efficiency
 Source: Frost & Sullivan Report
 Entry Barriers of the Solid-state R&D Service Market
 New entrants into the solid-state R&D service market face the following entry barriers:
-(cid:129) Technical barrier. The development of drugs and new materials is a challenging,
+ Technical barrier. The development of drugs and new materials is a challenging,
 costly, and time-consuming process, particularly with regards to solid-state R&D.
 This is due to the technical difficulties involved in utilizing advanced crystal
 screening techniques to identify as many solid forms as possible while using
@@ -9572,7 +9572,7 @@ advantageous forms for innovative pharmaceutical and new material enterprises.
 Furthermore, developing crystallization processes and conducting feasibility
 assessments of crystal forms in formulation development also involve techniques
 that would be challenging for new entrants.
-(cid:129) Lack of technical expertise. The solid-state R&D service industry demands a high
+ Lack of technical expertise. The solid-state R&D service industry demands a high
 level of technical expertise, which can only be accumulated from real-world work
 experience over an extended period, hence the lack of experienced professionals in
 the industry. Solid-state R&D companies continually engage in numerous
@@ -9584,7 +9584,7 @@ efficiency of their services.
 
 === PAGE 221 ===
 INDUSTRY OVERVIEW
-(cid:129) Commercialization difficulties. The high risk and uncertainty in solid-state R&D
+ Commercialization difficulties. The high risk and uncertainty in solid-state R&D
 services can prevent investments in new entrants. In addition, solid-state R&D,
 especially in regulated industries, such as the healthcare or energy industries, must
 comply with stringent regulatory requirements. Compliance with safety, quality, and
@@ -9594,7 +9594,7 @@ framework.
 Growth Drivers and Future Trends
 The growth of the solid-state R&D service market is expected to be driven and influenced
 by the following factors or trends:
-(cid:129) Technological advancements. The development of new technologies, such as
+ Technological advancements. The development of new technologies, such as
 quantumphysicsandAI,hasenabledfasterandmorecost-efficientsolid-stateR&D.
 AI-enabled solid-state R&D can speedily and exhaustively predict crystal forms and
 their characteristics, and provide critical insights for scientists to conduct
@@ -9602,7 +9602,7 @@ targeted lab work to identify the most meaningful crystal structures. Consequent
 AI-enabled solid-state R&D can increase the success rate, supports critical R&D
 decision making, and significantly reduces the cycle of crystal structure research
 from at least several months or years to a mere few months or weeks.
-(cid:129) Increased outsourcing. Solid-state R&D services come in the early stage of drug
+ Increased outsourcing. Solid-state R&D services come in the early stage of drug
 R&D programs, including the profiling of crystallinity, stability, and solubility of
 novelmolecules,therebyprovidingadevelopabilityassessmenttosupportcandidate
 nominationandeasethetransitionintopre-clinicaldevelopment.Biotechnologyand
@@ -9611,7 +9611,7 @@ party providers with the expertise and resources required for solid-state
 characterization, formulation optimization, and other related services. This trend is
 driven by the growing complexity of drug R&D and manufacturing, the need for
 specialized knowledge, and the capabilities to bring complex drugs to market.
-(cid:129) Expansion of application field. Solid-state R&D services, including crystal form
+ Expansion of application field. Solid-state R&D services, including crystal form
 screening and crystallization process development, play a vital role in many
 industries that require precise control over the properties of crystalline materials, in
 addition to the pharmaceutical industry. In the agrochemical industry, for example,
@@ -9704,12 +9704,12 @@ Areas Antibody PROTAC and Storage
 …… Fo C rm om ul p a l t e io x n s Pac C k o a n g s e u G m o e o r d s H p e r a o l d th u c c a t r s e Agriculture
 ADC
 …… ……
-(cid:3) In-depth investigations on the safety (cid:3) R m a o p le id c u d l i e s s c o at v e lo ry w e o r f c n o o s v t e , l w ith a (cid:3) High throughput screening for
+ In-depth investigations on the safety R m a o p le id c u d l i e s s c o at v e lo ry w e o r f c n o o s v t e , l w ith a High throughput screening for
 and other physical / chemical
 higher likelihood of success faster molecule selection
 properties of new drugs
 Advantage
-(cid:3) Optimization of related (cid:3) Optimization of production (cid:3) Safety assurance and monitoring
+ Optimization of related Optimization of production Safety assurance and monitoring
 processes by molecular modeling of hazardous chemical reactions
 production processes
 and simulation
@@ -9792,7 +9792,7 @@ chemical
 leakage,and
 sample
 contamination.
-(cid:3) Automationis expected to be theprevailingtrendwithin thecontextofindustrial upgradingand reform
+ Automationis expected to be theprevailingtrendwithin thecontextofindustrial upgradingand reform
 Source: Frost & Sullivan Report
 With a confluence of technological breakthroughs and increasing integration and
 compatibility of technologies, automation has been widely employed across various industries,
@@ -9818,24 +9818,24 @@ equipment and process monitoring.
 INDUSTRY OVERVIEW
 Entry Barriers
 New entrants into the automated R&D lab market face the following entry barriers:
-(cid:129) High investment. Establishing an automated R&D lab requires significant
+ High investment. Establishing an automated R&D lab requires significant
 investment in infrastructure, equipment, and technology. This will require
 substantial upfront costs for acquiring advanced robotic systems, lab automation
 software, and analytical instruments, and future maintenance and upgrade costs,
 making it challenging for new entrants with limited financial resources to enter the
 market.
-(cid:129) Lack of technical expertise. The automated R&D lab market relies on sophisticated
+ Lack of technical expertise. The automated R&D lab market relies on sophisticated
 technologies, such as robotics,AI, and data analytics. New entrants need to possess
 the necessary technical knowledge and expertise to design, develop and maintain
 these systems, where a large portion of the healthcare companies face difficulties in
 hiring competent R&D staff due to the shortage of relevant talents in the market.
-(cid:129) Competition with current market players. In the automated R&D lab market, there
+ Competition with current market players. In the automated R&D lab market, there
 are already a number of established market players with well-known brands,
 extensive service offerings, and a strong market presence, creating a huge hurdle for
 new entrants to gain market share and compete with the established players.
 Pioneers have already automated their “wet labs” to improve R&D efficiency and
 prepare for large-scale production.
-(cid:129) Compatibility challenges with existing lab infrastructure. The process of
+ Compatibility challenges with existing lab infrastructure. The process of
 integrating automated R&D lab with existing lab workflows, information systems,
 and data management platforms is complex. Costly and time-consuming training is
 required for lab staff who are unfamiliar with automation to use automated
@@ -9845,7 +9845,7 @@ operations in an existing lab environment.
 Growth Drivers and Future Trends
 The growth of the automated R&D lab market is expected to be driven and influenced by
 the following factors or trends:
-(cid:129) Industrial upgrade. Automation is the key to industrial upgrade and reform.
+ Industrial upgrade. Automation is the key to industrial upgrade and reform.
 Automated R&D lab offers significant advantages over traditional non-automated
 R&D labs, such as increased productivity, improved accuracy, scalability, and
 standardization, and lower costs, among others. These benefits help revolutionize
@@ -9855,7 +9855,7 @@ data, and accelerate the pace of scientific discovery and innovation.
 
 === PAGE 227 ===
 INDUSTRY OVERVIEW
-(cid:129) Technological advancements. Technological advancements are one of the driving
+ Technological advancements. Technological advancements are one of the driving
 forces behind the rapid growth of lab automation. The continuous evolution of
 technologies, such as robotics, AI/ML, and cloud computing has revolutionized lab
 process. R&D automation lab equipped with robotics enable precise and efficient
@@ -9864,14 +9864,14 @@ valuable insights and supporting data-driven decision-making; and cloud computin
 empowers labs to interpret large volumes of data effectively. These technological
 advancements can optimize lab workflows, and enable scalability, increase
 efficiency and improve accuracy in laboratories.
-(cid:129) Integration of technologies. The integration of different technologies in the
+ Integration of technologies. The integration of different technologies in the
 automated R&D lab is revolutionizing the way labs operate and improving
 efficiency, accuracy and productivity. Major market players offer a comprehensive
 and sophisticated solution for lab automation. The integration of AI, robotics,
 quantum physics-based first-principles calculation, and cloud computing can enable
 researchers to optimize workflows, accelerate R&D processes, and produce
 exceeding outputs.
-(cid:129) Emphasis on data security. As the reliance on data for automated R&D lab
+ Emphasis on data security. As the reliance on data for automated R&D lab
 increases, there is a growing focus on data security, privacy protection, and
 regulatory compliance. Market players are implementing comprehensive data
 management practices, encryption technologies, and compliance frameworks to
@@ -10075,7 +10075,7 @@ Source: Frost & Sullivan Report
 Growth Drivers and Future Trends
 The growth of the material science R&D market is expected to be driven and influenced
 by the following factors or trends:
-(cid:129) Advanced materials for sustainable applications. Increasing emphasis on
+ Advanced materials for sustainable applications. Increasing emphasis on
 sustainability is driving the development of advanced materials with reduced
 environmental impact, such as bio-based materials. Consequently, the current
 material science R&D is likely to shift its emphasis from petroleum-based materials
@@ -10084,12 +10084,12 @@ to bio-based materials.
 
 === PAGE 232 ===
 INDUSTRY OVERVIEW
-(cid:129) Data-driven approaches and AI-driven methods. Material science R&D is
+ Data-driven approaches and AI-driven methods. Material science R&D is
 inherently time-consuming, as it relies on the traditional “trial-and-error” method of
 experimentation to implement R&D activities. The use of data analytics and ML
 techniques will accelerate the process of discovery, optimization, and
 characterization of materials.
-(cid:129) CollaborationandinterdisciplinaryR&D.CollaborationandinterdisciplinaryR&D
+ CollaborationandinterdisciplinaryR&D.CollaborationandinterdisciplinaryR&D
 as well as academia-industry partnerships will drive innovation in material science
 R&D by exchanging knowledge, ideas, and methodologies across disciplines,
 fostering a comprehensive understanding of materials, and enabling the
@@ -10375,29 +10375,29 @@ Administration, or the SDA, was replaced by the State Food and Drug Administrati
 SFDA, which was later reorganized into the CFDA, as part of the institutional reforms
 implemented by the State Council.
 The primary responsibilities of the NMPA include:
-(cid:129) supervision of the administration of pharmaceutical products, medical devices as
+ supervision of the administration of pharmaceutical products, medical devices as
 well as cosmetics in the PRC;
-(cid:129) formulation of administrative rules, policies and standards concerning the
+ formulation of administrative rules, policies and standards concerning the
 supervision and administration of pharmaceutical, medical devices, and cosmetics
 industry;
-(cid:129) registration and administration of drugs, medical devices, and cosmetics,
+ registration and administration of drugs, medical devices, and cosmetics,
 establishing the system for relevant registration and administration and performing
 stringent review and approval for marketing;
 – 229 –
 
 === PAGE 239 ===
 REGULATORY OVERVIEW
-(cid:129) administration of quality of drugs, medical devices, and cosmetics, formulating and
+ administration of quality of drugs, medical devices, and cosmetics, formulating and
 supervising the implementation of regulations on quality management, formulation
 of the regulations on quality management of production and supervision of the
 relevant implementation within its authority;
-(cid:129) risk management of drugs, medical devices, and cosmetics that have been launched
+ risk management of drugs, medical devices, and cosmetics that have been launched
 to the market, organization of inspection, test, evaluation and handling of cases in
 relation to adverse reaction or events arising from drugs, medical devices, and
 cosmetics;
-(cid:129) guiding the supervising and inspecting work on drugs, medical devices, and
+ guiding the supervising and inspecting work on drugs, medical devices, and
 cosmetics;
-(cid:129) guiding work of authorities responsible for supervision and administration of drugs
+ guiding work of authorities responsible for supervision and administration of drugs
 in provinces, autonomous regions and municipalities directly under the central
 government.
 In 2013, the Ministry of Health and the National Population and Family Planning
@@ -10503,14 +10503,14 @@ The CFDA released the Circular Concerning Several Policies on Drug Registration
 Review andApproval (《關於藥品註冊審評審批若干政策的公告》) in November 2015, which
 further clarified the measures and policies for simplifying and accelerating the approval
 process for clinical trials and drug registration, including:
-(cid:129) a one-time umbrella approval procedure allowing the overall approval of all phases
+ a one-time umbrella approval procedure allowing the overall approval of all phases
 of a new drug’s clinical trials, replacing the current phase-by-phase application and
 approval procedure; and
 – 232 –
 
 === PAGE 242 ===
 REGULATORY OVERVIEW
-(cid:129) a fast track drug registration or clinical trial approval pathway for the following
+ a fast track drug registration or clinical trial approval pathway for the following
 applications: (1) registration of innovative new drugs for preventing and treating
 AIDS, malignant tumors, serious infectious diseases and orphan diseases, etc.; (2)
 registration of pediatric drugs; (3) registration of geriatric drugs and drugs treating
@@ -10748,19 +10748,19 @@ summary and comparative analysis shall also be conducted concurrently.
 The CFDA released the Decision on Adjusting Relevant Items concerning the
 Administration of Imported Drug Registration (《關於調整進口藥品註冊管理有關事項的決
 定》) in October 2017, which includes the following key points:
-(cid:129) If the IMCCT of a drug is conducted in China, Phase I clinical trial of the drug is
+ If the IMCCT of a drug is conducted in China, Phase I clinical trial of the drug is
 allowed simultaneously. The IMCCT drug does not need to be approved or to enter
 into either a Phase II or III clinical trial in a foreign country, except for preventive
 biological products;
-(cid:129) If the IMCCT is conducted in China, the application for drug marketing
+ If the IMCCT is conducted in China, the application for drug marketing
 authorization can be submitted directly after the completion of the IMCCT. The
 Amended Registration Measures and relevant laws and regulations shall be
 complied with for registration application;
-(cid:129) With respect to applications for clinical trial and marketing of the imported new
+ With respect to applications for clinical trial and marketing of the imported new
 chemical drugs and innovative therapeutic biological products, the marketing
 authorization in the country or region where the foreign drug manufacturer is
 located will not be required; and
-(cid:129) With respect to drug applications that have been accepted before the release of this
+ With respect to drug applications that have been accepted before the release of this
 Decision, if relevant requirements are met, importation permission can be granted if
 such applications request exemption of clinical trials for the imported drugs based
 on the data generated from the IMCCT.
@@ -10828,11 +10828,11 @@ Administrative Regulation on Human Genetic Resources (《人類遺傳資源管�
 則》), or the Implementation Rules for HGR, which came into effect on July 1, 2023. The
 Implementation Rules for HGR further provide detailed implementation regulations for the
 Administration of Human Genetic Resources of the PRC, such as:
-(cid:129) Clarifying the scope of human genetic resource information, which shall include
+ Clarifying the scope of human genetic resource information, which shall include
 information resources generated from human genetic resource materials (such as
 human genes and genome data) and exclude clinical data, image data, protein data
 and metabolic data;
-(cid:129) Further clarifying the criteria to constitute a Foreign Entity, which shall include (i)
+ Further clarifying the criteria to constitute a Foreign Entity, which shall include (i)
 any foreign organization or individual that holds directly or indirectly more than
 50% of the shares, equity interests, voting rights, property shares or other interests
 in the institution, (ii) any foreign organization or individual that is able to dominate
@@ -10843,13 +10843,13 @@ institution is less than 50%, (iii) any foreign organization or individual that 
 to dominate or have material effect on the decision-making or management of the
 institution through investment relationship, contract or other arrangement; and (iv)
 other situations stipulated by laws, regulations and rules;
-(cid:129) Specifically listing the situations where security review may be required, which
+ Specifically listing the situations where security review may be required, which
 shall include: (i) human genetic resource information of important genetic families;
 (ii) human genetic resources information of specific regions; (iii) exome sequencing
 and genome sequencing information resources with a population greater than 500
 cases;and(iv)othersituationthatmayaffectthepublichealth,nationalsecurityand
 social public interest of China;
-(cid:129) Further improve the clarity and efficiency of the administration of human genetic
+ Further improve the clarity and efficiency of the administration of human genetic
 resources, for example, clarifying the method for the calculation of illegal gains and
 providing detailed exemptions on certain matters that are subject to approval.
 – 240 –
@@ -10892,33 +10892,33 @@ partial suspensions of manufacturing or distribution, injunctions, fines, civil 
 criminal prosecution.
 The process required by the FDA before drug or biologic product candidates may be
 marketed in the United States generally involves the following:
-(cid:129) completion of preclinical laboratory tests and animal studies in accordance with
+ completion of preclinical laboratory tests and animal studies in accordance with
 applicable regulations, including studies conducted in accordance with Good
 Laboratory Practices, or GLP, requirements;
 – 241 –
 
 === PAGE 251 ===
 REGULATORY OVERVIEW
-(cid:129) submissiontotheFDAofanIND,whichmustbecomeeffectivebeforeclinicaltrials
+ submissiontotheFDAofanIND,whichmustbecomeeffectivebeforeclinicaltrials
 may begin and must be reported on annually and amended when significant changes
 are made;
-(cid:129) approval by an Institutional Review Board, or IRB, or independent ethics committee
+ approval by an Institutional Review Board, or IRB, or independent ethics committee
 at each clinical trial site before each human trial is commenced;
-(cid:129) performance of adequate and well-controlled human clinical trials in accordance
+ performance of adequate and well-controlled human clinical trials in accordance
 with applicable IND regulations, Good Clinical Practices, or GCP, requirements and
 other clinical trial-related regulations to establish the safety and effectiveness of the
 investigational product for each proposed indications;
-(cid:129) preparation of and submission to the FDA of an NDA or BLA;
-(cid:129) a determination by the FDA within 60 days of its receipt of an NDA or BLA to
+ preparation of and submission to the FDA of an NDA or BLA;
+ a determination by the FDA within 60 days of its receipt of an NDA or BLA to
 accept the application for review;
-(cid:129) satisfactory completion of one or more FDA pre-approval inspection of the
+ satisfactory completion of one or more FDA pre-approval inspection of the
 manufacturing facility or facilities at which the drug or biologic will be produced to
 assess compliance with Current Good Manufacturing Practices, or cGMP,
 requirements to assure that the facilities, methods and controls are adequate to
 preserve the drug or biological product’s identity, strength, quality and purity;
-(cid:129) potentialFDAauditofthenonclinicalstudyandclinicaltrialsitesthatgeneratedthe
+ potentialFDAauditofthenonclinicalstudyandclinicaltrialsitesthatgeneratedthe
 data in support of the NDA or BLA; and
-(cid:129) FDAreview and approval of the NDAor BLA, including consideration of the views
+ FDAreview and approval of the NDAor BLA, including consideration of the views
 of any FDA advisory committee, prior to any commercial marketing or sale of the
 drug or biologic in the United States.
 Preclinical and Clinical Development
@@ -10977,7 +10977,7 @@ well-conducted foreign clinical study not conducted under an IND if the study wa
 in accordance with GCP requirements, and the FDA is able to validate the data through an
 onsite inspection if deemed necessary.
 Clinical trials are typically conducted in three sequential phases that may overlap.
-(cid:129) Phase I—The investigational product is initially introduced into healthy human
+ Phase I—The investigational product is initially introduced into healthy human
 subjects or patients with the target disease or condition. These studies are designed
 to test the safety, dosage tolerance, absorption, metabolism and distribution of the
 investigational product in humans, the side effects associated with increasing doses,
@@ -10989,12 +10989,12 @@ and,ifpossible,togainearlyevidenceoneffectiveness.Forinvestigationalproducts
 developed for oncology indications, the Phase I trials are normally conducted in
 patients with serious or life-threatening diseases without other treatment
 alternatives.
-(cid:129) PhaseII—Theinvestigationalproductisadministeredtoalimitedpatientpopulation
+ PhaseII—Theinvestigationalproductisadministeredtoalimitedpatientpopulation
 with a specified disease or condition to evaluate the preliminary efficacy, optimal
 dosages and dosing schedule and to identify possible adverse side effects and safety
 risks. Multiple Phase II clinical trials may be conducted to obtain information prior
 to beginning larger and more expensive Phase III clinical trials.
-(cid:129) Phase III—The investigational product is administered to an expanded patient
+ Phase III—The investigational product is administered to an expanded patient
 population to further evaluate dosage, to provide statistically significant evidence of
 clinical efficacy and to further test for safety, generally at multiple geographically
 dispersedclinicaltrialsites.Theseclinicaltrialsareintendedtoestablishtheoverall
@@ -11263,15 +11263,15 @@ revisions to the approved labeling to add new safety information; imposition of 
 studies or clinical trials to assess new safety risks; or imposition of distribution restrictions or
 other restrictions under a REMS program. Other potential consequences include, among other
 things:
-(cid:129) mandated corrective advertising or communications with doctors;
-(cid:129) restrictions on the marketing or manufacturing of a product, complete withdrawal of
+ mandated corrective advertising or communications with doctors;
+ restrictions on the marketing or manufacturing of a product, complete withdrawal of
 the product from the market or product recalls;
-(cid:129) fines, warning letters or holds on post-approval clinical trials;
-(cid:129) refusal of the FDA to approve pending applications or supplements to approved
+ fines, warning letters or holds on post-approval clinical trials;
+ refusal of the FDA to approve pending applications or supplements to approved
 applications, or suspension or revocation of existing product approvals;
-(cid:129) product seizure or detention, or refusal of the FDAto permit the import or export of
+ product seizure or detention, or refusal of the FDAto permit the import or export of
 products; or
-(cid:129) injunctions or the imposition of civil or criminal penalties.
+ injunctions or the imposition of civil or criminal penalties.
 The FDA closely regulates the marketing, labeling, advertising and promotion of drugs
 and biologics to ensure that these activities are carried out in a manner that is truthful,
 non-misleading and consistent with FDA-approved labeling. Under the FDCA and its
@@ -11368,15 +11368,15 @@ for doing so is often time-consuming and costly.As there is no uniform policy of
 reimbursement for drug products among third-party payers in the United States, coverage and
 reimbursement policies for drug products can differ significantly from payer to payer. Factors
 payors consider in determining reimbursement are based on whether the product is:
-(cid:129) a covered benefit under its health plan;
+ a covered benefit under its health plan;
 – 252 –
 
 === PAGE 262 ===
 REGULATORY OVERVIEW
-(cid:129) safe, effective and medically necessary;
-(cid:129) appropriate for the specific patient;
-(cid:129) cost-effective; and
-(cid:129) neither experimental nor investigational.
+ safe, effective and medically necessary;
+ appropriate for the specific patient;
+ cost-effective; and
+ neither experimental nor investigational.
 In addition, the U.S. government, state legislatures and foreign governments have
 continued implementing cost-containment programs, including price controls, restrictions on
 coverageandreimbursementandrequirementsforsubstitutionofgenericproducts.Third-party
@@ -11400,12 +11400,12 @@ government-funded healthcare programs, and increased governmental control of dru
 The continuing efforts of the government, insurance companies, managed care
 organizations and other payers of healthcare services to contain or reduce costs of healthcare
 may adversely affect pharmaceutical manufacturers in the following ways:
-(cid:129) the demand for any product candidates, if approved;
-(cid:129) the ability to set a price that they believe is fair for any product candidates, if
+ the demand for any product candidates, if approved;
+ the ability to set a price that they believe is fair for any product candidates, if
 approved;
-(cid:129) their ability to generate revenue and achieve or maintain profitability;
-(cid:129) the level of taxes that they are required to pay; and
-(cid:129) the availability of capital.
+ their ability to generate revenue and achieve or maintain profitability;
+ the level of taxes that they are required to pay; and
+ the availability of capital.
 – 253 –
 
 === PAGE 263 ===
@@ -18015,18 +18015,18 @@ provide drug and material science R&D solutions and services to global and domes
 companies in the pharmaceutical and material science (including agritech, energy and new
 chemicals, and cosmetics) industries and beyond.
 We believe that the following capabilities differentiate us from our competitors:
-(cid:129) our AI capabilities anchored by quantum physics calculations;
-(cid:129) our quantum physics-based first-principles calculation supported by high
+ our AI capabilities anchored by quantum physics calculations;
+ our quantum physics-based first-principles calculation supported by high
 performance cloud computing;
-(cid:129) our flexible and extensive AI capabilities backed by our various multi-modality,
+ our flexible and extensive AI capabilities backed by our various multi-modality,
 customer-driven, scenario-based algorithms and models;
-(cid:129) clusters of intelligent robot scientists with AI brain driving wet lab automation,
+ clusters of intelligent robot scientists with AI brain driving wet lab automation,
 scalability, standardization and high throughput;
-(cid:129) iterative and mutually informing and reinforcing feedback loop between our dry lab
+ iterative and mutually informing and reinforcing feedback loop between our dry lab
 and wet lab;
-(cid:129) accumulated meaningful and extensive data assets generated through synergistic dry
+ accumulated meaningful and extensive data assets generated through synergistic dry
 lab and wet lab; and
-(cid:129) our domain expertise, creative thinking, and entrepreneurial mindset.
+ our domain expertise, creative thinking, and entrepreneurial mindset.
 * Ourbusinessdoesnotinvolvequantumcomputingortheuseofquantumcomputers,norisquantumcomputing
 or the use of quantum computers a primary mode of our operations.
 – 345 –
@@ -18235,7 +18235,7 @@ elos
 evah
 yllacipyt
 eW
-(cid:129)
+ 
 :snoitulos
 yrevocsid
 gurd pots-enO
@@ -18270,7 +18270,7 @@ fo
 ,ffo-enO
 :noitaruD
 ecivres-rof-eeF
-(cid:129)
+ 
 ,seinapmoc
 gurd
 gnidulcni(
@@ -18284,7 +18284,7 @@ stnemyap
 gnignar
 yllacipyt
 desab-noitcasnarT
-(cid:129)
+ 
 rehtehw
 yrevocsid
 ;seigolonhcet
@@ -18302,7 +18302,7 @@ evah
 yllacipyt
 sremotsuc
 ruO
-(cid:129)
+ 
 ro
 stluser hcraeser
 fo yreviled
@@ -18333,7 +18333,7 @@ gnidneped
 tnegnitnoc
 ro
 ecivres-rof-eeF
-(cid:129)
+ 
 sdnuopmoc
 tegrat
 gurd
@@ -18345,7 +18345,7 @@ dna
 DNI sa hcus
 ,setadidnac
 desab-noitcasnarT
-(cid:129)
+ 
 -elgnis
 )vi( ro/dna
 ;slairt lacinilc
@@ -18370,7 +18370,7 @@ elos
 evah
 yllacipyt
 eW
-(cid:129)
+ 
 noitaitini
 ro tnemyap
 tnorfpU
@@ -18378,7 +18378,7 @@ tnorfpU
 ;893
 :rebmuN
 ecivres-rof-eeF
-(cid:129)
+ 
 ro
 lacituecamrahP
 D&R
@@ -18392,7 +18392,7 @@ fo
 fo gningis
 nopu tnemyap
 desab-noitcasnarT
-(cid:129)
+ 
 ygolonhcetoib
 secivres
 noitamotua
@@ -18426,7 +18426,7 @@ evah
 yllacipyt
 sremotsuc
 ruO
-(cid:129)
+ 
 sremotsuc
 eht
 ni
@@ -18471,7 +18471,7 @@ elos
 evah
 yllacipyt
 eW
-(cid:129)
+ 
 rednu
 tnemyap
 ylretrauq
@@ -18479,7 +18479,7 @@ ro ylhtnoM
 ;242
 :rebmuN
 ecivres-rof-eeF
-(cid:129)
+ 
 ro lacituecamrahP
 detamotuA
 PI
@@ -18491,7 +18491,7 @@ ecivres
 retsam
 a
 desab-noitpircsbuS
-(cid:129)
+ 
 ygolonhcetoib
 lacimehc
 tnaveler
@@ -18519,7 +18519,7 @@ evah
 yllacipyt
 sremotsuc
 ruO
-(cid:129)
+ 
 raey
 eno
 eht
@@ -18546,7 +18546,7 @@ tnorfpU
 ;3
 :rebmuN
 ecivres-rof-eeF
-(cid:129)
+ 
 era
 taht
 seinapmoC
@@ -18565,7 +18565,7 @@ gningis
 nopu
 tnemyap
 desab-noitcasnarT
-(cid:129)
+ 
 ruo
 fo deen
 ni
@@ -18893,9 +18893,9 @@ stcudorPygolonhceTtsilaicepS
 yllacipytsnoitulosehtfoyrevileD
 dnascisyhpmutnauq,IAniseitilibapaclacigolonhcetruognigareveL
 noitamrofninoitareneg-txeN
-(cid:129)
+ 
 IA
-(cid:129)
+ 
 D&RiPlatX
 sraeyeerhtotshtnomlarevesnihtiw
 ruonidetalumuccasecneirepxednaesitrepxeruosallewsanoitamotua
@@ -18904,14 +18904,14 @@ snoituloS
 ,sessenisubsnoitulosnoitamotuatnegilletnidnasnoitulosyrevocsidgurd
 dnangisedeht:snoitulosIA–)”IA“(
 noitamotuA
-(cid:129)
+ 
 lacituecamrahpehtdnoyebsremotsucotsnoitulosD&Redivorpew
 nidesusnoitulosIAfonoisivorp
 laitnetopehthsaelnuot,noitamotuadnaecneicslairetamsahcus,yrtsudni
 slacitrevyrtsudnitnereffid
 .yticapacD&Rdnamroftalpygolonhcetdetargetniruofo
 –erawtfosdnaerawdrahdecnavdA
-(cid:129)
+ 
 ”.tnempoleveDerutuFruO—“eeS
 toboR–noitamotuadnascitoboR
 ,stoborfognireenigneeht:ygolonhcet
@@ -20492,39 +20492,39 @@ chain, we are dedicated to the R&D of novel drug candidates, with the goal of de
 potential first-in-class or best-in-class drugs.
 Noteworthy achievements that we have attained since our founding in 2015 are listed
 below:
-(cid:129) We are a market leader in adopting AI-powered CSP in drug and material science
+ We are a market leader in adopting AI-powered CSP in drug and material science
 R&D, according to Frost & Sullivan. In 2016, we participated in a global CSPblind
 testheldbyPfizerandachievedaccurateprediction,leadingtoourten-yearstrategic
 partnership with Pfizer.
-(cid:129) We were awarded as the 2023 SuperAI LeaderAward (2023年度卓越人工智能引領
+ We were awarded as the 2023 SuperAI LeaderAward (2023年度卓越人工智能引領
 者獎) by World Artificial Intelligence Conference (世界人工智能大會) for our
 intelligent and automated drug discovery platform technology.
 – 367 –
 
 === PAGE 377 ===
 BUSINESS
-(cid:129) As of the Latest Practicable Date, we had achieved a 100% success rate in all of the
+ As of the Latest Practicable Date, we had achieved a 100% success rate in all of the
 CSP programs we conducted for small molecules, with success rate defined as the
 capability of correctly predicting the crystal structures of thermodynamically stable
 experimentalformsthroughcomputationalmethodfortypicalsmallmoleculedrugs.
 We are one of the few companies globally that can achieve such computational
 accuracy, while the average industry success rate for CSP ranges from 86% to 93%
 according to Frost & Sullivan.
-(cid:129) As of the Latest Practicable Date, our integrated technology platform had utilized
+ As of the Latest Practicable Date, our integrated technology platform had utilized
 over 700 million core hours of cloud computing and we had contributed to over 500
 programs including drug discovery and solid-state R&D programs.As of the Latest
 Practicable Date, we had served more than 300 biotechnology and pharmaceutical
 companies and research institutions globally, including 16 of the top 20 global
 biotechnology and pharmaceutical companies ranked by revenue in 2022 according
 to Frost & Sullivan.
-(cid:129) Within merely four months, we and our collaborator successfully developed a new
+ Within merely four months, we and our collaborator successfully developed a new
 type of bio-based furan surfactant that is able to outperform the generally used
 petroleum-based surfactants. The new bio-based surfactant has generated better
 results in the evaluation of detergency in certain different scenarios, such as better
 foaming and hard water resistance, compared with the traditional petroleum-based
 surfactants. In addition, the new bio-based surfactant has demonstrated better
 inhibition in metal processing.
-(cid:129) In addition to our proprietary advanced technologies, we are equipped with
+ In addition to our proprietary advanced technologies, we are equipped with
 advanced experimental facilities to enhance our wet lab capabilities, which
 differentiates us from our competitors. For example, we set up a cryo-EM facility at
 our Shenzhen headquarters in June 2022, which is a Nobel prize-winning imaging
@@ -20532,13 +20532,13 @@ techniquethatallowsscientiststoobservebiomoleculesatsub-nanometerresolution
 and complete the crystal structure analysis within a week when such crystal
 structure is typically difficult to obtain with conventional methods, significantly
 improving the accuracy and efficiency of our experiments.
-(cid:129) We formed strategic cooperations and collaborations with a number of the world’s
+ We formed strategic cooperations and collaborations with a number of the world’s
 renowned biotechnology and pharmaceutical conglomerates, national research
 institutes, and governmental authorities, including Pfizer, CK Life Sciences, and the
 Experimental Drug Development Centre (“EDDC”), Singapore’s national platform,
 for drug design and discovery. See “—Significant Cooperations and Collaborations”
 for more details.
-(cid:129) As of December 31, 2023, we had raised approximately US$732 million through
+ As of December 31, 2023, we had raised approximately US$732 million through
 private equity financing from many leading, global financial and strategic investors,
 rankingusthefirstamongallglobalAI-powereddrugR&Dcompaniesbyaggregate
 funding raised, according to Frost & Sullivan.
@@ -20580,7 +20580,7 @@ of properties and behaviors of the very building blocks of materials, including 
 novel chemical compounds for agritech applications, new chemical surfactants and catalysts,
 and cosmetics and healthcare products.
 Our quantum physics-based computation has a wide array of inherent capabilities:
-(cid:129) Faster Lead Discovery: the ability to rapidly identify potent molecules suitable to
+ Faster Lead Discovery: the ability to rapidly identify potent molecules suitable to
 initiate hit-to-lead and lead optimization efforts via solutions for virtual screening
 of extremely large libraries of molecules, as well as molecular design with various
 – 369 –
@@ -20590,16 +20590,16 @@ BUSINESS
 algorithms, including fragment growth and linkage, R-group substitution, scaffold
 hopping, conformation constraint, and molecular hybrid, to identify novel, highly
 potent molecules unavailable in library collections;
-(cid:129) Accurate Property Prediction: the ability to assess critical properties of molecules
+ Accurate Property Prediction: the ability to assess critical properties of molecules
 using our quantum physics-based computation with accuracy comparable to that of
 experimentallabassays,tofacilitateoptimizationofmolecularproperties,including
 potency, selectivity, and bioavailability;
-(cid:129) Large-scaleMoleculeExploration:theabilitytocomputationallyconceptualizeand
+ Large-scaleMoleculeExploration:theabilitytocomputationallyconceptualizeand
 explorenovel,high-qualitymoleculesforconsiderationbydiscoveryprogramteams
 utilizing computational enumeration and generative machine learning techniques
 that are trained and constructed to yield molecules that are synthetically feasible;
 and
-(cid:129) Large-scale Molecule Evaluation: the ability to scale our calculations of key
+ Large-scale Molecule Evaluation: the ability to scale our calculations of key
 molecular properties to ultra-large idea sets of over a billion molecules to enable
 more rapid and successful identification of high-quality candidate molecules via
 integration of machine learning methods with our quantum physics-based
@@ -21117,7 +21117,7 @@ ofcloudcomputingandwehadcontributedtoover500programsincludingdrugdiscoveryand
 solid-state R&D programs.
 The components of our integrated technology platform integrate within our system and
 enable each other as follows:
-(cid:129) Within our in silico tools, we embed AI models into our quantum physics-based
+ Within our in silico tools, we embed AI models into our quantum physics-based
 computation algorithms to expedite the calculation process by reducing the number
 of calculations otherwise required without the AI models, and we deploy quantum
 physics-based computation methods to extract features of molecules to facilitate
@@ -21134,7 +21134,7 @@ calculation process and timely deliver results to our customers and collaborator
 
 === PAGE 392 ===
 BUSINESS
-(cid:129) In integrating our in silico tools and wet lab experimentation, the predictions
+ In integrating our in silico tools and wet lab experimentation, the predictions
 generated by in silico tools are assessed in our own wet lab, which creates a
 mutually reinforcing cycle of learning. The data produced at scale from our wet lab
 experimentation, such as biological activity, target selectivity, metabolic stability,
@@ -21201,10 +21201,10 @@ conformational space sampling, thermodynamic property prediction, and structural
 parameter optimization. Such capabilities allow us to identify hits, leads and eventually
 candidate compounds and crystal forms suitable for further drug and material science R&D.
 Quantum physics-based computation can improve the R&D cycle in the following ways:
-(cid:129) Describing the interaction in the molecular system more accurately and providing
+ Describing the interaction in the molecular system more accurately and providing
 mechanistic insights into molecular events, which enhances rational design of new
 drugs and materials by generating and validating new hypotheses;
-(cid:129) Predicting the critical properties of the molecular system to assist decision making,
+ Predicting the critical properties of the molecular system to assist decision making,
 for example, physicochemical and pharmacokinetic properties of drug candidates,
 such as binding affinity, solubility, permeability, toxicity, and metabolic stability,
 which are critical for successful drug and material science R&D;
@@ -21212,16 +21212,16 @@ which are critical for successful drug and material science R&D;
 
 === PAGE 394 ===
 BUSINESS
-(cid:129) Generating in silico but accurate data for AI model training to overcome the data
+ Generating in silico but accurate data for AI model training to overcome the data
 scarcity problem that often occurs in the early stages of the application of AI,
 enabling these AI models to predict critical properties at various levels of
 complexity from atoms, molecules, crystals, and biological targets to in vitro and in
 vivo;
-(cid:129) Accelerating the drug discovery process and reducing overall R&D costs by helping
+ Accelerating the drug discovery process and reducing overall R&D costs by helping
 to prioritize and optimize drug candidates together with trained AI models before
 entering expensive and time-consuming experimental stages, thereby reducing
 overall R&D time and costs; and
-(cid:129) Triggering a paradigm shift in drug and material science R&D, moving beyond
+ Triggering a paradigm shift in drug and material science R&D, moving beyond
 digitally enabled R&D toward simulation-based or in silico drug discovery.
 Force Field
 Molecular mechanics force fields are empirical models, which serve as an essential
@@ -21238,7 +21238,7 @@ XFF parameters developed with publicly available data and all the XFF tools, suc
 molecular simulation method and bespoke fitting workflow, while Pfizer owns the XFF
 parameters developed with its proprietary molecular structures. Set out below are notable
 features of XFF:
-(cid:129) Sufficient coverage of chemical space of novel drugs and materials. XFF has a
+ Sufficient coverage of chemical space of novel drugs and materials. XFF has a
 comprehensive coverage of chemical space of novel drugs and materials because
 exponentiallymoremoleculescanbecalculated,duetoourenhancedalgorithmsand
 a variety of different training sets. The number of training compounds utilized in the
@@ -21252,14 +21252,14 @@ the drug and new materials design process.
 
 === PAGE 395 ===
 BUSINESS
-(cid:129) Accurate description and prediction of properties. XFF is trained with quantum
+ Accurate description and prediction of properties. XFF is trained with quantum
 chemistry and experimental data, and thus provides a reliable presentation of
 molecular conformations, single molecule properties, intermolecular interactions,
 and molecular behavior in both solution environments and drug targets. Our
 customized force fields exhibit great accuracy, in the prediction of molecularization
 energyandstructurethanthetwomostpopularopen-sourceforcefields,GAFF2and
 OpenFF2.
-(cid:129) Flexible deployment and customizable fitting parameters. XFF offers flexible
+ Flexible deployment and customizable fitting parameters. XFF offers flexible
 deployment options, both on-cloud and locally, to cater to users’specific needs.The
 cloud deployment provides users with access to computing resources that enable a
 fast verification and re-parameterization process. On the other hand, the local
@@ -21371,7 +21371,7 @@ Xpose can be used to build accurate SAR and structure-based affinity evaluation,
 FEPto design and evaluate molecules. It bridges the gap between the predicted target structure
 and the real application in different drug discovery scenarios. Our Xpose has significantly
 higher success rates and a higher prediction accuracy of approximately 56% for high-accuracy
-predictions ((cid:2)1.0 angstrom) of binding pose for small molecules, compared to the state-of-
+predictions ( 1.0 angstrom) of binding pose for small molecules, compared to the state-of-
 the-art commercial package of approximately 30%.
 Our XFF, XFEP and Xpose can be customized to be applied in different application
 scenarios and provide efficient and accurate exploration and exploitation of critical chemical
@@ -21379,13 +21379,13 @@ space of novel drugs and materials. The following diagram is an illustration of 
 which the three techniques interact with each other:
 High-efficient
 High-accuracy
-• C of o n m o p v l e e l t e dr c u o g v s e r a a n g d e m of at c e h ri e a m ls icalspace XFF fo (cid:14) r X ce F fi F e (cid:15) ld co s n a f m or p m li a n t g ion XPose • D co y n n f a o m rm ic at s i i o m n u lationofprotein
+• C of o n m o p v l e e l t e dr c u o g v s e r a a n g d e m of at c e h ri e a m ls icalspace XFF fo r X ce F fi F e ld co s n a f m or p m li a n t g ion XPose • D co y n n f a o m rm ic at s i i o m n u lationofprotein
 (XPose)
 • Higherparameteraccuracy • Predict protein-ligandbindingmodel
 • Customized parameters • Motion-based material design
 Bindingaffinity
 prediction
-(cid:867)XFEP(cid:868)
+ XFEP 
 XFEP Accurate • R-Group • PROTAC • Proteindesign
 Complete substitution compounddesign • Drugresistance
 AutomatedFEPtools Efficient • Core hopping • Peptidedesign prediction
@@ -21832,10 +21832,10 @@ language auto- Experimental
 transforming analysis recommendation
 Automated Automatic
 I s n ch te e l d li u g l e i n n t g w ex it p h e r r o im bo e t n i t c s st c r o u l c le tu ct r i e o d n d o a f ta • Experiment execution records
-(cid:129) Resource changing
-Lab Information (cid:129) Dynamic resource (cid:129) Continuity assurance (cid:129) Data persistence (cid:129) Analytics data records
-Management matching (cid:129) Equipment and (cid:129) Anti-tampering
-System (LIMS) (cid:129) Intelligent packaging experiments status (cid:129) Multiple backup policy
+ Resource changing
+Lab Information Dynamic resource Continuity assurance Data persistence Analytics data records
+Management matching Equipment and Anti-tampering
+System (LIMS) Intelligent packaging experiments status Multiple backup policy
 and task scheduling monitoring
 Output
 BUSINESS
@@ -22018,20 +22018,20 @@ BUSINESS
 Our Current Business
 To date, we have leveraged our technological capabilities to focus on two primary
 businesses:
-(cid:129) Drugdiscoverysolutions.Ourdrugdiscoverysolutionsspanthefullspectrumofthe
+ Drugdiscoverysolutions.Ourdrugdiscoverysolutionsspanthefullspectrumofthe
 drug discovery and research process, providing modular standalone solutions to or
 collaborating with a diverse range of biotechnology and pharmaceutical companies
 and academic institutions for novel drug discovery endeavors.
-(cid:129) Intelligent automation solutions. Our intelligent automation solutions primarily
+ Intelligent automation solutions. Our intelligent automation solutions primarily
 consist of solid-state R&D services and automated chemical synthesis services.
-(cid:129) Our solid-state R&D services encompass computational services, wet lab
+ Our solid-state R&D services encompass computational services, wet lab
 experimental services, and integrated solutions which is a combination of both
 computational services and web lab experimental services. The computational
 services include CSP and morphology prediction, as well as screenings on
 coformers and carriers for crystallization. Our wet lab experimental services
 encompass many aspects of solid-state R&D, such as crystallization process
 development and crystal structure determination, among others.
-(cid:129) Our automated chemical synthesis services apply automation technology to
+ Our automated chemical synthesis services apply automation technology to
 enable faster and more accurate production of chemical compounds.
 We also offer standard or customized automation solutions to companies in the
 biotechnology and pharmaceutical industries and beyond.
@@ -22210,7 +22210,7 @@ million-leveltarget
 moleculesforagiventarget
 Synthesis
 andtesting
-(cid:129) Broad-scope sampling of chemical structures. We start from using our AI models
+ Broad-scope sampling of chemical structures. We start from using our AI models
 to explore the vast chemical space of novel drugs and materials that is available to
 sample tens of millions of drug-like molecules as the starting pool that our AI
 models predict to be suitable for the subsequent screening for the particular target
@@ -22219,7 +22219,7 @@ As a broader and deeper search of the chemical space of novel drugs and material
 is conducted for each target as compared to traditional manual methods, we believe
 that our approach is more likely to yield quality candidate molecules for
 traditionally challenging targets.
-(cid:129) Prediction of potency, selectivity and drug-like properties. Next, we deploy a
+ Prediction of potency, selectivity and drug-like properties. Next, we deploy a
 combination of our AI models and quantum physics to perform a multi-property
 optimization process where ourAI models predict certain drug-like properties, such
 assolubilityandADMETfeatures,andourquantumphysics-basedplatformpredicts
@@ -22248,7 +22248,7 @@ promising property profile. Our algorithms and prediction process are so designe
 that the resulting pool of molecules is small enough to be feasible for evaluation by
 the subsequent wet lab experimentation, while being large enough to reduce false
 negative results due to the limitation of the computational accuracy.
-(cid:129) Robotic wet lab validation. Finally, we perform wet lab experimentation to
+ Robotic wet lab validation. Finally, we perform wet lab experimentation to
 synthesize the pool of candidate molecules and conduct a variety of tests to assess
 their properties. We carry out a vast majority of the standard synthesis and tests by
 roboticautomation,whichcanreducecosts,increasecapacityandimproveaccuracy.
@@ -22370,26 +22370,26 @@ business generated revenue of RMB10.3 million.
 To accelerate and reduce the cost and uncertainty of developing novel, life-saving drugs,
 which are limiting factors of traditional antibody drug discovery methods, we adopt the
 following approaches:
-(cid:129) Cast a wider net. Our AI-powered repertoire discovery platform can unlock
+ Cast a wider net. Our AI-powered repertoire discovery platform can unlock
 antibody sequence space to search for better and rarer candidates. With traditional
 methods involving hybridoma, only 0.01% to 0.1% of all B-cells can be explored,
 missing rare binders; while our sequence-based AI models and NGS technologies
 can help search a much larger repertoire space, capturing nearly the entirety of the
 immune response, significantly improving hit diversity, and achieving a hit rate of
 over 50%.
-(cid:129) Design, not guess. We approach antibody engineering as design work rather than
+ Design, not guess. We approach antibody engineering as design work rather than
 guesswork. We design antibodies with direction by minimizing the random
 mutagenesisandtrial-and-errormethodthatdrivestraditionalengineering.Oursuite
 of predictive AI models analyze antibodies using sequences solely, reducing the
 number of sequences to be made and tested. As a result, our AI-powered precision
 engineering can quickly and accurately enable fine-tuning of candidates to targeted
 profiles.
-(cid:129) Excel in all dimensions. We search for the optimal candidates, which are expected
+ Excel in all dimensions. We search for the optimal candidates, which are expected
 to excel across all properties, including function, developability, and
 immunogenicity. Our extensive predictive sequence-based AI models can predict
 developability with enhanced accuracy and speed and achieve multi-objective
 optimization, including on aggregation, thermostability, viscosity, and yield rate.
-(cid:129) Designsuperiorantigens.Weaimtodesignantigensbeyondnature.Asanexample,
+ Designsuperiorantigens.Weaimtodesignantigensbeyondnature.Asanexample,
 GPCRs are difficult to express in their native forms, making GPCR antigen
 preparation a challenge. Mutations are usually required to thermostabilize GPCRs
 for expression. Human judgment and trial-and-error method are needed to identify
@@ -22406,7 +22406,7 @@ ECL, and enhance the level of stability and expression of GPCR antigens.
 
 === PAGE 423 ===
 BUSINESS
-(cid:129) Integrate and synergize. We combine various platforms with diversified functions
+ Integrate and synergize. We combine various platforms with diversified functions
 end-to-end and integrate wet lab and dry lab capabilities to achieve optimal results.
 Specifically, we house our computational and experimental capabilities under the
 same roof to achieve closed-loop synergies, integrate our internal data generation
@@ -22536,17 +22536,17 @@ technology platform, and the collaborator’s complementary capabilities, all of
 contribute to an increased probability of success.
 Through access to our integrated technology platform and our practical experience in
 drug discovery, we can provide our collaborators with the following key benefits:
-(cid:129) Immediate utilization of our integrated technology platform. Ability to
+ Immediate utilization of our integrated technology platform. Ability to
 immediately and efficiently access the full benefits of our premier in silico tools,
 robotic wet lab facilities and our deep practical experience and expertise.
-(cid:129) Access to vast data assets. Ability to utilize the vast meaningful data assets
+ Access to vast data assets. Ability to utilize the vast meaningful data assets
 accumulated from our calculations and experiments, reducing the time and costs for
 the design and discovery of drug candidates and evaluation of drug-like properties.
-(cid:129) Access to substantial computing power. Ability to access over hundreds of
+ Access to substantial computing power. Ability to access over hundreds of
 thousands of cores of computing power through the multi-cloud infrastructure for
 drug design and discovery, thereby avoiding the time and cost needed to build this
 infrastructure on their own and improve the capital and research efficiency.
-(cid:129) Target uniqueness. Under our collaboration agreements, we typically agree to
+ Target uniqueness. Under our collaboration agreements, we typically agree to
 design drugs for a particular target or targets using our integrated technology
 platform and know-how only for the specific collaborator, therefore enhancing the
 protection of IP and reducing the likelihood of future conflicts of interest.
@@ -22733,12 +22733,12 @@ eht
 ,navilluS
 eht
 rof
-(cid:3)K3IP
+ K3IP
 fo
 rotibihni
 elucelom
 llams
--(cid:3)K3IP
+- K3IP
 a
 poleved
 yltnioj
@@ -22849,7 +22849,7 @@ evah
 eW
 ,dnoyeb
 dna
-(cid:3)K3IP
+ K3IP
 tegrat
 ot
 stnega
@@ -23796,7 +23796,7 @@ BUSINESS
 The below chart illustrates our “Experiment + Computation” integrated service platform,
 providing advanced, high-quality, and high-efficiency solid-state R&D services.
 Improve p p ro h p ys e i r c t o y c hemical Comp m le a t t e e r IN ia D ls filing Tec m h a n n ic a a g l e l m ife e n c t y cle Shorten development cycle
-Challenges(cid:32) Challenges: Challenges: Challenges:
+Challenges Challenges: Challenges: Challenges:
 • API low solubility • Unclear API conformation • Complete IP protection • Change polymorph during clinic
 phases
 • Poor in vitro stability • Polymorphic risk • Develop new polymorph
@@ -24291,14 +24291,14 @@ of 27.7% from US$3.8 billion in 2023 to US$20.9 billion in 2030.
 Giventheanticipatedgrowthintheprojectedsizeoftheaddressable
 markets, we will continue to scale our drug discovery solutions and
 solid-state R&D services to seize the market opportunities.
-(cid:129) We plan to scale our flexible modular drug discovery solutions
+ We plan to scale our flexible modular drug discovery solutions
 as our standalone solutions spanning the entire drug discovery
 process to increase the accessibility of our solutions, broaden
 our customer base and grow our business. See “—Our Growth
 Strategies—Enhance our service capabilities and expand our
 service offerings in the biotechnology and pharmaceutical
 industries and beyond.”
-(cid:129) We are strategically focusing on growing our antibody drug
+ We are strategically focusing on growing our antibody drug
 discovery business, given our customers’ increasing demands
 and the tremendous market opportunities. In particular, in
 addition to providing antibody drug discovery solutions in
@@ -24308,7 +24308,7 @@ discovery collaborations with biopharmaceutical companies in
 commercial milestone payments, and/or royalties on a
 program-by-program basis, in recognition of our technological
 superiority and contribution.
-(cid:129) We will continue to strengthen our technologies and improve
+ We will continue to strengthen our technologies and improve
 our service capabilities to further grow our drug discovery and
 solid-state R&D business and improve our operational
 efficiency. We will continuously upgrade our existing
@@ -24321,7 +24321,7 @@ upgrade, see “—Research and Development.”
 
 === PAGE 452 ===
 BUSINESS
-(cid:129) We will also endeavor to increase our customer base to scale
+ We will also endeavor to increase our customer base to scale
 our existing solutions and services, See “—Our
 Strategies—Broaden customer base, and deepen relationships
 with customers and collaborators and enable cross-selling” for
@@ -24338,7 +24338,7 @@ business technologies, domain expertise, and experiences derived from our
 scenarios, and existing business can be applied in various modalities, business
 industries scenarios, and industries, we plan to expand into other high-value
 businesses.
-(cid:129) Many global biotechnology and pharmaceutical giants have
+ Many global biotechnology and pharmaceutical giants have
 been exploring new therapeutic modalities, which are the
 future trends for disease treatment and have great market
 potential. For example, the global ADC market has reached
@@ -24350,7 +24350,7 @@ this emerging opportunities, we plan to leverage our
 technologies, experiences and expertise derived from small
 molecule drug discovery to explore more therapeutic
 modalities, such as PROTAC, ADC, peptide, and RNA.
-(cid:129) Driven by the global demand for enhanced efficiency and
+ Driven by the global demand for enhanced efficiency and
 lower costs, many industries and companies are exploring the
 application of new technologies. We will leverage our
 advanced technologies, expertise and experiences to tap into
@@ -24365,7 +24365,7 @@ electric vehicle batteries.
 
 === PAGE 453 ===
 BUSINESS
-(cid:129) We will expand our service offerings into more industries. For
+ We will expand our service offerings into more industries. For
 example, our quantum physics-based computation capability
 enables us to expand into other high-value sectors naturally,
 such as material science (including agritech, energy,
@@ -24434,9 +24434,9 @@ pharmaceutical or biotechnology companies worldwide.
 Drug discovery solutions: We enter into contracts for our drug discovery solutions and
 drug discovery collaborations, where we receive upfront payments, milestone payments and/or
 royalties.
-(cid:129) Drug discovery solutions: We generally receive service fees which are typically
+ Drug discovery solutions: We generally receive service fees which are typically
 recognized as revenue within one year upon signing of the relevant contracts.
-(cid:129) Drug discovery collaborations: We generally receive around 15% of the contract
+ Drug discovery collaborations: We generally receive around 15% of the contract
 value (excluding contingent payments and royalties) as upfront payment upon the
 signing of contracts and the remaining will be paid and recognized upon achieving
 certain milestones, such as the delivery of desired hits, leads, PCCs or the
@@ -24453,11 +24453,11 @@ development stages of the drug candidates, such as IND and clinical trials, and/
 commercialization revenue of the relevant drugs.
 Intelligent automation solutions: We enter into contracts for our solid-state R&D
 services and automated chemical synthesis services where we receive service fees.
-(cid:129) Solid-state R&D services:We generally receive an upfront payment upon signing of
+ Solid-state R&D services:We generally receive an upfront payment upon signing of
 contract and a final payment upon completion of the relevant research program.The
 payments we receive under our solid-state R&D services are typically recognized as
 revenue within six months.
-(cid:129) Automated chemical synthesis services: We generally receive and recognize as
+ Automated chemical synthesis services: We generally receive and recognize as
 revenue monthly or quarterly payments. The duration of our automated chemical
 synthesis contracts in general ranges from half a year to one year.
 See “—Overview—Our Business and Revenue Model” and “—Significant Cooperations
@@ -25110,7 +25110,7 @@ new entrants. According to Frost & Sullivan, we are one of the leaders in the ad
 quantum physics-based computation,AI, and automation technologies in drug R&D. While we
 compete competently on the basis of these factors, many emerging and established companies
 have also built upon their technologies and competencies in the business areas we operate:
-(cid:129) Forourdrugdiscoverysolutions,wefacecompetitionfrommanysources,including
+ Forourdrugdiscoverysolutions,wefacecompetitionfrommanysources,including
 major pharmaceutical companies, specialist biotechnology and pharmaceutical
 companies, technology companies, academic institutions and government agencies,
 and public and private research institutions. In particular, we face competition from
@@ -25129,7 +25129,7 @@ Frost & Sullivan, some CROs have begun to purchase standard third-party AI tools
 to conduct drug R&D; however, most CROs principally focus on drug development,
 such as clinical research and trials, while we focus on drug discovery, which is an
 earlier stage of drug R&D.
-(cid:129) For our solid-state R&D, we face competition from companies providing
+ For our solid-state R&D, we face competition from companies providing
 computational and/or experimental solid-state R&D services. This includes
 specializedsolid-stateCROs,otherlargeCROs,andAI-focusedCROs.Wealsoface
 competition from pharmaceutical companies that develop solid-state R&D
@@ -25422,36 +25422,36 @@ of our five largest suppliers for each year during the Track Record Period.
 BUSINESS
 Below is a summary of the key terms of a typical agreement with our R&D consumables
 and equipment provider:
-(cid:129) Products/Services. The supplier provides us with products, such as R&D
+ Products/Services. The supplier provides us with products, such as R&D
 consumables and equipment, and/or services as specified in the master agreement or
 purchase order.
-(cid:129) Term. Typically one year, or until both parties fulfill their obligations under the
+ Term. Typically one year, or until both parties fulfill their obligations under the
 agreement.
-(cid:129) Price. Unless both parties agree on a lower price for a particular purchase, the price
+ Price. Unless both parties agree on a lower price for a particular purchase, the price
 of the products (including services) shall be fixed as set forth in the agreement.
-(cid:129) Payment. We are required to make payments to the supplier according to the
+ Payment. We are required to make payments to the supplier according to the
 payment schedule agreed by the parties.
-(cid:129) Credit Term. Our suppliers generally settle with us by wire transfer and grant to us
+ Credit Term. Our suppliers generally settle with us by wire transfer and grant to us
 credit terms within 30 to 60 days. Certain suppliers also require for prepayment.
-(cid:129) Confidentiality.The supplier agrees to keep confidential any information in relation
+ Confidentiality.The supplier agrees to keep confidential any information in relation
 to the performance of the agreement, including but not limited to any documents,
 know-how and other information related to us, the agreement or the purchase order.
-(cid:129) Discontinue of Supply. In the event of cessation of production or supply of any
+ Discontinue of Supply. In the event of cessation of production or supply of any
 products, the supplier shall notify us immediately; we shall have the right to place
 a final order for such products in such quantities as may be reasonably required, and
 the supplier shall accept such order at the price agreed upon by the parties, which
 shall not be higher than the applicable price set forth in the agreement.
 Below is a summary of the key terms of a typical agreement with our R&D service
 provider:
-(cid:129) Services. The supplier provides us with services such as compound testing services
+ Services. The supplier provides us with services such as compound testing services
 as specified in the master agreement or purchase order.
-(cid:129) Term. Typically one year, or until both parties fulfilled their obligations under the
+ Term. Typically one year, or until both parties fulfilled their obligations under the
 agreement.
-(cid:129) Payment. We are required to make payments to the supplier according to the
+ Payment. We are required to make payments to the supplier according to the
 payment schedule agreed by the parties.
-(cid:129) Credit Term. Our suppliers generally settle with us by wire transfer and grant to us
+ Credit Term. Our suppliers generally settle with us by wire transfer and grant to us
 credit terms within ten to 30 days.
-(cid:129) Confidentiality. We and the supplier agree to keep confidential any information in
+ Confidentiality. We and the supplier agree to keep confidential any information in
 relation to the performance of the agreement, including but not limited to the
 confidential information received from the other party.
 – 469 –
@@ -25924,13 +25924,13 @@ We closely monitor the below metrics in relation to the formulation and implemen
 of our environmental (including climate-related) management and resource conservation
 policies as appropriate:
 Pollutant emission
-(cid:129) Greenhouse gas emissions. In 2021, 2022 and 2023, based on our best estimates,
+ Greenhouse gas emissions. In 2021, 2022 and 2023, based on our best estimates,
 greenhouse gas emissions were approximately 819.0 tons, 3,138.0 tons and 2,719.5 tons
 in aggregate, respectively.
-(cid:129) Hazardous solid waste discharge. In 2021, 2022 and 2023, based on our best estimates,
+ Hazardous solid waste discharge. In 2021, 2022 and 2023, based on our best estimates,
 hazardous solid waste discharge levels were approximately 8.8 tons, 57.5 tons and 84.2
 ton in aggregate, respectively.
-(cid:129) Hazardous liquid waste discharge. In 2021, 2022 and 2023, based on our best estimates,
+ Hazardous liquid waste discharge. In 2021, 2022 and 2023, based on our best estimates,
 hazardous liquid waste discharge levels were 21.4 tons, 122.8 tons and 268.1 tons in
 aggregate, respectively.
 – 481 –
@@ -25948,10 +25948,10 @@ impacts on the environment. We also aim to reduce our greenhouse gas emission in
 12% and 25% by 2030 and 2040, respectively, compared to the 2023 baseline. We will strictly
 comply with applicable general and industry-specific standards during our operations.
 Resource consumption
-(cid:129) Electricity consumption. In 2021, 2022 and 2023, electricity consumption levels were
+ Electricity consumption. In 2021, 2022 and 2023, electricity consumption levels were
 approximately 1,436.2 thousand kWh, 5,502.3 thousand kWh and 4,768.6 thousand kWh
 in aggregate, respectively.
-(cid:129) Water consumption. In 2021, 2022 and 2023, water consumption levels were
+ Water consumption. In 2021, 2022 and 2023, water consumption levels were
 approximately 5,614.2 tons, 21,509.0 tons and 31,794.0 tons in aggregate, respectively.
 We are committed to expanding our business in a sustainable manner, taking into account
 our forecasted growth and implementation of power-saving measures and equipment, as well
@@ -26138,18 +26138,18 @@ our business development and success.
 In order to strengthen our internal control procedures and risk management system to
 better safeguard the interests of our Shareholders, we have adopted enhanced internal control
 and risk management measures as follows:
-(cid:129) We have formulated a conflict-of-interest management system and put in place
+ We have formulated a conflict-of-interest management system and put in place
 reporting procedures and guidelines to provide guidance to employees on how to
 identify, declare and manage perceived, potential or actual conflict of interest.As a
 part of this strategy, directors and members of the senior management are required
 to declare to our Group any potential conflicts of interests that may result in the
 accrual of a personal advantage;
-(cid:129) We have created anti-fraud and anti-corruption and anti-bribery guidelines and
+ We have created anti-fraud and anti-corruption and anti-bribery guidelines and
 manuals to provide guidance to our employees on ways to identify and address risks
 associated with fraud and bribery that may arise in the course of business. These
 guidelines also provide guidance on transactions involving sanctioned persons or
 countries;
-(cid:129) We have environmental, safety and corporate governance (“ESG”) guidelines in
+ We have environmental, safety and corporate governance (“ESG”) guidelines in
 place to mitigate the potential impact of ESG-related risks on our operations and
 otherstakeholdersinsociety.AsoftheLatestPracticableDate,wehadobtainedISO
 27001 information security management system certifications and ISO 9001 quality
@@ -26157,11 +26157,11 @@ management system certifications, and meanwhile effectively control potential
 ESG-related risks through scientific and comprehensive policies and management
 systems to ensure compliance with the relevant laws and regulations in all materials
 respects;
-(cid:129) We have implemented rules to delineate the responsibilities and authorities of
+ We have implemented rules to delineate the responsibilities and authorities of
 employees of different levels of seniority. These rules also prescribe limits on
 employees’ authority to approve transactions, depending on the size of the
 consideration and types of transaction;
-(cid:129) We have created guidelines on internal control, which set out the principles and
+ We have created guidelines on internal control, which set out the principles and
 basis of internal audit work. In particular, we have established theAudit Committee,
 who are responsible for supervising our internal control procedures, disclosure of
 financial information and financial reporting matters. Their authority encompasses
@@ -26174,7 +26174,7 @@ BUSINESS
 experiences on person in charge of risk management, see “Directors and Senior
 Management—Board of Directors” and “Directors and Senior Management—Board
 Committees—Audit Committee;” and
-(cid:129) We have adopted policies to ensure compliance with the Listing Rules and other
+ We have adopted policies to ensure compliance with the Listing Rules and other
 applicable laws, rules and regulations, including but not limited to compliance in
 respect of Chapter 13 (Continuing Obligation), Chapter 14 (NotifiableTransactions)
 and Chapter 14A (Connected Transactions) of and Appendix D2 (Disclosure of
@@ -28003,14 +28003,14 @@ COMPLIANCE ADVISOR
 We have appointed UOB Kay Hian (Hong Kong) Limited as our compliance advisor
 pursuant to Rule 3A.19 of the Listing Rules. Pursuant to Rule 3A.23 of the Listing Rules, our
 compliance advisor will advise our Company in the following circumstances:
-(cid:129) before the publication of any regulatory announcement, circular or financial report;
-(cid:129) where a transaction, which might be a notifiable or connected transaction, is
+ before the publication of any regulatory announcement, circular or financial report;
+ where a transaction, which might be a notifiable or connected transaction, is
 contemplated including share issues and share repurchases;
-(cid:129) where our Company proposes to use the proceeds from the Global Offering in a
+ where our Company proposes to use the proceeds from the Global Offering in a
 manner different from that detailed in this prospectus or where our business
 activities, developments or results deviate from any forecast, estimate, or other
 information in this prospectus; and
-(cid:129) where the Stock Exchange makes an inquiry of our Company regarding unusual
+ where the Stock Exchange makes an inquiry of our Company regarding unusual
 movements in the price or trading volume of our Shares.
 The term of the appointment shall commence on the Listing Date and end on the date on
 which our Company distribute our annual report in respect of our financial results for the first
@@ -28254,12 +28254,12 @@ to changes in our financial performance.
 General Conditions Affecting the Industries in which We Operate
 Our results of operations are affected by general conditions that typically affect the
 markets we compete in, primarily including:
-(cid:129) global demand for AI-powered and robotics-driven drug discovery and intelligent
+ global demand for AI-powered and robotics-driven drug discovery and intelligent
 automation solutions;
-(cid:129) the overall economic conditions especially in China and the U.S.;
-(cid:129) competition in the markets for drug and new materials R&D;
-(cid:129) the advancement in technologies relating to drug and new materials R&D; and
-(cid:129) government regulations, policies and initiatives affecting our business and
+ the overall economic conditions especially in China and the U.S.;
+ competition in the markets for drug and new materials R&D;
+ the advancement in technologies relating to drug and new materials R&D; and
+ government regulations, policies and initiatives affecting our business and
 operations, particularly in China and the U.S.
 – 542 –
 
@@ -28437,9 +28437,9 @@ after the end of the reporting period.
 Investment and other financial assets
 Classification
 We classify our financial assets as the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through other comprehensive
+ those to be measured subsequently at fair value (either through other comprehensive
 income, or through profit or loss), and
-(cid:129) those to be measured at amortized cost.
+ those to be measured at amortized cost.
 The classification depends on our business model for managing the financial assets and
 the contractual terms of the cash flows.
 For assets measured at fair value, gains and losses will either be recorded in profit or loss
@@ -28469,7 +28469,7 @@ determining whether their cash flows are solely payment of principal and interes
 Subsequent measurement of debt instruments depends on our business model for
 managingtheassetandthecashflowcharacteristicsoftheasset.Therearethreemeasurements
 categories into which we classify our debt instruments:
-(cid:129) Amortized cost: Assets that are held for collection of contractual cash flows where
+ Amortized cost: Assets that are held for collection of contractual cash flows where
 those cash flows represent solely payments of principal and interest are measured at
 amortized cost. Interest income from these financial assets is included in finance
 income using the effective interest rate method. Any gain or loss arising on
@@ -28477,7 +28477,7 @@ derecognition is recognized directly in profit or loss and presented in “other
 gains/(losses), net” together with foreign exchange gains and losses. Impairment
 losses are presented as separate line item in the consolidated statements of profit or
 loss.
-(cid:129) Fairvaluethroughothercomprehensiveincome(“FVOCI”):Assetsthatareheldfor
+ Fairvaluethroughothercomprehensiveincome(“FVOCI”):Assetsthatareheldfor
 collection of contractual cash flows and for selling the financial assets, where the
 assets’cash flows represent solely payments of principal and interest, are measured
 at FVOCI. Movements in the carrying amount are taken through other
@@ -28490,7 +28490,7 @@ is included in finance income using the effective interest rate method. Foreign
 exchange gains or losses are presented in “other gains/(losses), net” and impairment
 expenses are presented as separate line item in the consolidated statements of
 comprehensive (loss)/income.
-(cid:129) FVTPL:Assets that do not meet the criteria for amortized cost or financial assets at
+ FVTPL:Assets that do not meet the criteria for amortized cost or financial assets at
 FVOCI are measured at FVTPL. A gain or loss on a debt investment that is
 subsequently measured at FVTPL is recognized in profit or loss and presented net
 within “other gains/(losses), net” in the period in which it arises.
@@ -28512,16 +28512,16 @@ Fair value estimation
 Our financial instruments carried at fair value at each balance sheet date are measured by
 level of the inputs to valuation techniques used to measure fair value. Such inputs are
 categorized into three levels within a fair value hierarchy as follows:
-(cid:129) Level 1: The fair value of financial instruments traded in active markets (such as
+ Level 1: The fair value of financial instruments traded in active markets (such as
 publicly traded derivatives, and equity securities) is based on quoted market prices
 at the end of the reporting period. The quoted market price used for financial assets
 held by us is the current bid price. These instruments are included in level 1.
-(cid:129) Level 2: The fair value of financial instruments that are not traded in an active
+ Level 2: The fair value of financial instruments that are not traded in an active
 market (for example, over-the-counter derivatives) is determined using valuation
 techniques which maximize the use of observable market data and rely as little as
 possibleonentity-specificestimates.Ifallsignificantinputsrequiredtoevaluatethe
 fair value of an instrument are observable, the instrument is included in level 2.
-(cid:129) Level 3: If one or more of the significant inputs is not based on observable market
+ Level 3: If one or more of the significant inputs is not based on observable market
 data, the instrument is included in level 3. This is the case for unlisted equity
 securities.
 Share-based payments
@@ -28542,11 +28542,11 @@ recognizes the impact of the revision to original estimates, if any, in profit o
 corresponding adjustment to equity.
 Thetotalamounttobeexpensedisdeterminedbyreferencetothefairvalueoftheoptions
 granted:
-(cid:129) including any market performance conditions (e.g. the entity’s share price),
-(cid:129) excluding the impact of any service and non-market performance vesting conditions
+ including any market performance conditions (e.g. the entity’s share price),
+ excluding the impact of any service and non-market performance vesting conditions
 (e.g. profitability and remaining as an employee of the entity over a specified time
 period), and
-(cid:129) including the impact of any non-vesting conditions (e.g. the requirement for
+ including the impact of any non-vesting conditions (e.g. the requirement for
 employees to save or hold shares for a specific period of time).
 DESCRIPTION OF SELECTED ITEMS FROM CONSOLIDATED STATEMENTS OF
 PROFIT OR LOSS
@@ -30411,7 +30411,7 @@ commissions and estimated expenses paid or payable by us in connection with the 
 Offering and assuming that the Over-allotment Option is not exercised.
 In line with our strategies, we intend to apply the net proceeds from the Global Offering,
 in the next five years, for the following purposes and in the amounts set forth below:
-(cid:129) approximately 75.0% of the net proceeds, or HK$705.8 million, will be used to
+ approximately 75.0% of the net proceeds, or HK$705.8 million, will be used to
 continuously enhance our R&D capabilities and solutions provision, including:
 (1) approximately 40.0% of the net proceeds, or HK$376.4 million, to be used in
 upgrading and optimizing our quantum physics-based closed-loop integrated
@@ -30610,7 +30610,7 @@ interest of the Group and the shareholders of the Company.
 
 === PAGE 614 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) approximately 15.0% of the net proceeds, or HK$141.2 million, will be used to
+ approximately 15.0% of the net proceeds, or HK$141.2 million, will be used to
 improve our commercialization capability in and beyond China, including:
 (1) approximately 8.0% of the net proceeds, or HK$75.3 million, to be
 used in expanding our business development and marketing team with a focus
@@ -30638,7 +30638,7 @@ globalfootprint”fordetailedexamplesandforeseeableexpansionbenchmarks.
 From geographic perspectives, we expect to allocate a majority of the above
 netproceedstothebusinessexpansionintheU.S.andEurope,onethirdtoEast
 and Southeast Asia and the rest to the Middle East.
-(cid:129) approximately 10.0% of the net proceeds, or HK$94.1 million, will be used for
+ approximately 10.0% of the net proceeds, or HK$94.1 million, will be used for
 working capital and general corporate purposes.
 In the event that the Offer Price is set at the high-end or low-end of the proposed Offer
 Price range and the Over-allotment Option is not exercised, the net proceeds to be received by
@@ -31224,11 +31224,11 @@ Offer Share which is the mid-point of the Offer Price range and assuming the Ove
 Option is not exercised).
 HONG KONG UNDERWRITERS’ INTERESTS IN OUR COMPANY
 As of the Latest Practicable Date,
-(cid:129) certain interest in the Company is indirectly held by the CITIC Group Corporation
+ certain interest in the Company is indirectly held by the CITIC Group Corporation
 Ltd. (中國中信集團有限公司) and its subsidiaries as set out in the section headed
 “Underwriting—Sole Sponsor’s Independence”. CLSA Limited, one of the Hong
 Kong Underwriters, is ultimately held by CITIC Group Corporation Ltd.;
-(cid:129) approximately 0.64% and 0.60% of the total number of issued Shares was held by
+ approximately 0.64% and 0.60% of the total number of issued Shares was held by
 CICC Biomedical Fund L.P. (中金啟德(廈門)創新生物醫藥創業投資合夥企業(有限
 合夥) (formerly known as 中金啟德(廈門)創新生物醫藥股權投資基金合夥企業(有
 – 620 –
@@ -31245,7 +31245,7 @@ Capital Corporation Hong Kong Securities Limited, one of the Hong Kong
 Underwriters, is a wholly-owned subsidiary of China International Capital
 Corporation Limited, a company listed on the Stock Exchange (stock code: 3908)
 and the Shanghai Stock Exchange (stock code: 601995); and
-(cid:129) approximately 0.09% and 0.82% of the total number of issued Shares was held by
+ approximately 0.09% and 0.82% of the total number of issued Shares was held by
 NanjingZhaoyinGongyingEquityInvestmentPartnership(LimitedPartnership)(南
 京市招銀共贏股權投資合夥企業(有限合夥)) (“Nanjing Zhaoyin Gongying”) and
 ShanghaiYujiTechnologyLLPrespectively.ThegeneralpartnerofNanjingZhaoyin
@@ -31270,7 +31270,7 @@ obligations under the Hong Kong Underwriting Agreement and/or the International
 Underwriting Agreement.
 SOLE SPONSOR’S INDEPENDENCE
 As of the Latest Practicable Date,
-(cid:129) approximately 0.41% of the total number of issued Shares was held by Pluto
+ approximately 0.41% of the total number of issued Shares was held by Pluto
 Connection Limited, an indirectly wholly-owned subsidiary of CITIC Securities
 Company Limited (中信証券股份有限公司), a joint stock limited company
 established in the PRC with limited liability, the H shares andAshares of which are
@@ -31283,7 +31283,7 @@ UNDERWRITING
 an indirect wholly-owned subsidiary of CITIC Securities Company Limited. Pluto
 Connection Limited is regarded as a member of the sponsor group of the Sole
 Sponsor as defined under the Listing Rules.
-(cid:129) approximately 0.08% of the total number of issued Shares was held by CITIC
+ approximately 0.08% of the total number of issued Shares was held by CITIC
 (Shenzhen) Venture Capital Equity Investment Fund Partnership (Limited
 Partnership) (中信(深圳)創業投資股權投資基金合夥企業(有限合夥)) (“CITIC
 Venture Capital”). CITIC Group Corporation Ltd. (中國中信集團有限公司), the
@@ -31636,25 +31636,25 @@ price of the Shares; (v) selling or agreeing to sell any Shares in order to liqu
 held as a result of those purchases; and (vi) offering or attempting to do anything described in
 (ii), (iii), (iv) or (v).
 Specifically, prospective applicants for and investors in the Offer Shares should note that:
-(cid:129) the Stabilizing Manager, or any person acting for it, may, in connection with the
+ the Stabilizing Manager, or any person acting for it, may, in connection with the
 stabilizing action, maintain a long position in the Shares;
 – 630 –
 
 === PAGE 640 ===
 STRUCTURE OF THE GLOBAL OFFERING
-(cid:129) there is no certainty regarding the extent to which and the time period for which the
+ there is no certainty regarding the extent to which and the time period for which the
 Stabilizing Manager, or any person acting for it, will maintain such a position;
-(cid:129) liquidation of any such long position by the Stabilizing Manager may have an
+ liquidation of any such long position by the Stabilizing Manager may have an
 adverse impact on the market price of the Shares;
-(cid:129) no stabilizing action can be taken to support the price of the Shares for longer than
+ no stabilizing action can be taken to support the price of the Shares for longer than
 the stabilizing period which will begin on the Listing Date following announcement
 of the Offer Price, and is expected to expire on the 30th day after the last date for
 lodging applications under the Hong Kong Public Offering.After this date, when no
 further stabilizing action may be taken, demand for the Shares, and therefore the
 price of the Shares, could fall;
-(cid:129) the price of the Shares cannot be assured to stay at or above the Offer Price either
+ the price of the Shares cannot be assured to stay at or above the Offer Price either
 during or after the stabilizing period by the taking of any stabilizing action; and
-(cid:129) stabilizing bids may be made or transactions effected in the course of the stabilizing
+ stabilizing bids may be made or transactions effected in the course of the stabilizing
 action at any price at or below the Offer Price, which means that stabilizing bids
 may be made or transactions effected at a price below the price paid by applicants
 for, or investors in, the Shares.
@@ -31769,19 +31769,19 @@ arrangements, the Hong Kong Underwriting Agreement and the International Underwr
 Agreement are summarized in the section headed “Underwriting” in this prospectus.
 CONDITIONS OF THE GLOBAL OFFERING
 Acceptance of all applications for the Offer Shares will be conditional on, inter alia:
-(cid:129) the Stock Exchange granting approval for the listing of, and permission to deal in,
+ the Stock Exchange granting approval for the listing of, and permission to deal in,
 the Shares in issue and to be issued pursuant to the Global Offering (including
 pursuant to the exercise of the Over-allotment Option) as mentioned in this
 prospectus on the Main Board of the Stock Exchange and such listing and
 permission not subsequently having been revoked prior to the commencement of
 dealings in the Shares on the Stock Exchange;
-(cid:129) the Offer Price having been agreed between the Overall Coordinators (for
+ the Offer Price having been agreed between the Overall Coordinators (for
 themselves and on behalf of the Underwriters and the CMIs) and our Company;
-(cid:129) the execution and delivery of the International Underwriting Agreement on or
+ the execution and delivery of the International Underwriting Agreement on or
 around the Price Determination Date;
-(cid:129) our Company having submitted to HKSCC all requisite documents to enable the
+ our Company having submitted to HKSCC all requisite documents to enable the
 Offer Shares to be admitted to trade on the Stock Exchange; and
-(cid:129) the obligations of the Underwriters under the respective Underwriting Agreements
+ the obligations of the Underwriters under the respective Underwriting Agreements
 becoming and remaining unconditional (unless and to the extent such conditions are
 validly waived on or before such dates and times) and not having been terminated
 in accordance with the terms of the respective agreements,
@@ -31841,14 +31841,14 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
-(cid:129) are 18 years of age or older;
-(cid:129) are outside the United States; and
-(cid:129) have a Hong Kong address (for the HK eIPO White Form service only).
+ are 18 years of age or older;
+ are outside the United States; and
+ have a Hong Kong address (for the HK eIPO White Form service only).
 Unless permitted by the Listing Rules and the Guide for New Listing Applicants issued
 by the Stock Exchange, or a waiver and/or consent has been granted by the Stock Exchange to
 us, you cannot apply for any Hong Kong Offer Shares if you:
-(cid:129) are an existing Shareholder or close associates; or
-(cid:129) are a Director or any of his/her close associates.
+ are an existing Shareholder or close associates; or
+ are a Director or any of his/her close associates.
 – 636 –
 
 === PAGE 646 ===
@@ -31930,19 +31930,19 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual or Joint Applicants For Corporate Applicants
-(cid:129) Full name(s)2 as shown on your (cid:129) Full name(s)2 as shown on your
+ Full name(s)2 as shown on your Full name(s)2 as shown on your
 identity document identity document
-(cid:129) Identity document’s issuing country (cid:129) Identity document’s issuing country
+ Identity document’s issuing country Identity document’s issuing country
 or jurisdiction or jurisdiction
-(cid:129) Identity document type, with order (cid:129) Identity document type, with order
+ Identity document type, with order Identity document type, with order
 of priority: of priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification ii. Certificate of incorporation; or
 document; or
 iii. Business registration
 iii. Passport; and certificate; or
-(cid:129) Identity document number iv. Other equivalent document; and
-(cid:129) Identity document number
+ Identity document number iv. Other equivalent document; and
+ Identity document number
 Notes:
 1. If you are applying through the HK eIPO White Form service, you are required to provide a valid
 e-mailaddress,acontacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclare
@@ -31979,9 +31979,9 @@ above.
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -32241,21 +32241,21 @@ any application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “—A. Application for Hong Kong Offer Shares—5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
 – 646 –
 
 === PAGE 656 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -32365,9 +32365,9 @@ at your own risk
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Friday, June 7, 2024 if, there is:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a “black” rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above;
+ a “black” rainstorm warning; and/or
+ Extreme Conditions,
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Friday, June 7, 2024.
 – 649 –
@@ -32446,7 +32446,7 @@ data supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund cheque and e-Auto Refund payment
+ processing your application and refund cheque and e-Auto Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of
 allocation of Hong Kong Offer Shares;
@@ -32454,19 +32454,19 @@ allocation of Hong Kong Offer Shares;
 
 === PAGE 661 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the Hong Kong Share Registrar to discharge their obligations to
 applicants and holders of the Shares and/or regulators and/or any other purposes to
 which applicants and holders of the Shares may from time to time agree.
@@ -32476,9 +32476,9 @@ applicants for and holders of Hong Kong Offer Shares will be kept confidential b
 Company and the Hong Kong Share Registrar may, to the extent necessary for achieving any
 of the above purposes, disclose, obtain or transfer (whether within or outside Hong Kong) the
 personal data to, from or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving banks and
+ the Company’s appointed agents such as financial advisers, receiving banks and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the Hong Kong Share Registrar, in each case for the purposes of
 providing its services or facilities or performing its functions in accordance with its
 rules or procedures and operating FINI and CCASS (including where applicants for
@@ -32487,14 +32487,14 @@ the Hong Kong Offer Shares request a deposit into CCASS);
 
 === PAGE 662 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the
 Hong Kong Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of personal data
@@ -33053,23 +33053,23 @@ management members (“Registered Shareholders”) authorised by the Group (coll
 The Contractual Arrangements include Cooperation Agreements and Operation Agreements,
 Exclusive Purchases OptionAgreement, Equity PledgeAgreements, Shareholders’Voting RightsTrust
 Agreements and Powers ofAttorney, which enable the Group to:
-(cid:129) govern the financial and operating policies of the Structured entities;
-(cid:129) receive substantially all of the economic interest returns generated by the Structured
+ govern the financial and operating policies of the Structured entities;
+ receive substantially all of the economic interest returns generated by the Structured
 entities in consideration for the technical support, consulting and other services provided
 exclusively by the WFOE, at the WFOE’s discretion;
-(cid:129) obtain an irrevocable and exclusive right to purchase part or all of the equity interests in
+ obtain an irrevocable and exclusive right to purchase part or all of the equity interests in
 the Structured entities at any time and from time to time, at the minimum consideration
 permittedbytherelevantlawinChinaatthetimeoftransfer,andanyresidualinterestsin
 theStructuredEntitiesshallberemittedtotheGroupimmediately.Inaddition,theequity
 holders are not allowed to sell, assign, transfer, or otherwise disposed of or create
 encumbrance over their interests in any of the Structured Entities directly or indirectly
 without prior written consent of the WFOEs;
-(cid:129) obtain a pledge over all of the Controlled Structured Entities equity interests from its
+ obtain a pledge over all of the Controlled Structured Entities equity interests from its
 respective Registered Shareholders as collateral for all of the Controlled Structured
 Entities’paymentsduetotheGrouptosecureperformanceofentities’obligationunderthe
 ContractualArrangements;
-(cid:129) exercise equity holder voting rights of the Structured entities; and
-(cid:129) exercise effective financial and operational control over of Structured Entities.
+ exercise equity holder voting rights of the Structured entities; and
+ exercise effective financial and operational control over of Structured Entities.
 Accordingly,theGrouphasrightstocontroltheseentitiesandtheyareaccountedforasentities
 controlled by the Group.
 (c) Associates
@@ -33192,14 +33192,14 @@ estimated useful lives of three to ten years.
 (b) Research and development
 Costs incurred on development projects are capitalised as intangible assets when recognition
 criteria are met, including:
-(cid:129) itistechnicallyfeasibletocompletetheintangibleassetsothatitwillbeavailableforuse;
-(cid:129) management intends to complete the intangible asset and use or sell it;
-(cid:129) there is an ability to use or sell the intangible asset;
-(cid:129) it can be demonstrated how the intangible asset will generate probable future economic
+ itistechnicallyfeasibletocompletetheintangibleassetsothatitwillbeavailableforuse;
+ management intends to complete the intangible asset and use or sell it;
+ there is an ability to use or sell the intangible asset;
+ it can be demonstrated how the intangible asset will generate probable future economic
 benefits;
-(cid:129) adequate technical, financial and other resources to complete the development and to use
+ adequate technical, financial and other resources to complete the development and to use
 or sell the intangible asset are available; and
-(cid:129) the expenditure attributable to the intangible asset during its development can be reliably
+ the expenditure attributable to the intangible asset during its development can be reliably
 measured.
 Directly attributable costs that are capitalised as part of the intangible asset include employee
 costs and an appropriate portion of relevant overheads.
@@ -33221,9 +33221,9 @@ at the end of each reporting period.
 2.2.6 Investment and other financial assets
 (a) Classification
 The Group classifies its financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through other comprehensive
+ those to be measured subsequently at fair value (either through other comprehensive
 income, or through profit or loss), and
-(cid:129) those to be measured at amortised cost.
+ those to be measured at amortised cost.
 – I-19 –
 
 === PAGE 682 ===
@@ -33252,14 +33252,14 @@ Debt instruments
 Subsequent measurement of debt instruments depends on the Group’s business model for
 managing the asset and the cash flow characteristics of the asset. There are three measurement
 categories into which the Group classifies its debt instruments:
-(cid:129) Amortised cost:Assets that are held for collection of contractual cash flows where those
+ Amortised cost:Assets that are held for collection of contractual cash flows where those
 cash flows represent solely payments of principal and interest are measured at amortised
 cost. Interest income from these financial assets is included in finance income using the
 effective interest rate method. Any gain or loss arising on derecognition is recognised
 directlyinprofitorlossandpresentedin“othergains/(losses),net”togetherwithforeign
 exchange gains and losses. Impairment losses are presented as separate line item in the
 consolidated statements of profit or loss.
-(cid:129) Fair value through other comprehensive income (“FVOCI”): Assets that are held for
+ Fair value through other comprehensive income (“FVOCI”): Assets that are held for
 collection of contractual cash flows and for selling the financial assets, where the assets’
 cash flows represent solely payments of principal and interest, are measured at FVOCI.
 Movements in the carrying amount are taken through OCI, except for the recognition of
@@ -33275,7 +33275,7 @@ comprehensive (loss)/income.
 
 === PAGE 683 ===
 APPENDIX I ACCOUNTANT’S REPORT
-(cid:129) Fairvaluethroughprofitorloss:Assetsthatdonotmeetthecriteriaforamortisedcostor
+ Fairvaluethroughprofitorloss:Assetsthatdonotmeetthecriteriaforamortisedcostor
 financial assets at fair value through other comprehensive income are measured at fair
 value through profit or loss. A gain or loss on a debt investment that is subsequently
 measured at fair value through profit or loss is recognised in profit or loss and presented
@@ -33419,10 +33419,10 @@ revision to original estimates, if any, in profit or loss, with a corresponding 
 === PAGE 686 ===
 APPENDIX I ACCOUNTANT’S REPORT
 The total amount to be expensed is determined by reference to the fair value of the options granted:
-(cid:129) including any market performance conditions (e.g. the entity’s share price),
-(cid:129) excluding the impact of any service and non-market performance vesting conditions (e.g.
+ including any market performance conditions (e.g. the entity’s share price),
+ excluding the impact of any service and non-market performance vesting conditions (e.g.
 profitability and remaining as an employee of the entity over a specified time period), and
-(cid:129) including the impact of any non-vesting conditions (e.g. the requirement for employees to save
+ including the impact of any non-vesting conditions (e.g. the requirement for employees to save
 or hold shares for a specific period of time).
 2.2.15 Government grants
 Grantsfromthegovernmentarerecognisedattheirfairvaluewherethereisareasonableassurancethat
@@ -33529,25 +33529,25 @@ Lease payments to be made under reasonably certain extension options are also in
 measurement of the liability.
 Assetsandliabilitiesarisingfromaleaseareinitiallymeasuredonapresentvaluebasis.Leaseliabilities
 include the net present value of the following lease payments:
-(cid:129) fixed payments (including in-substance fixed payments), less any lease incentives receivable;
-(cid:129) variableleasepaymentthatarebasedonanindexorarate,initiallymeasuredusingtheindexor
+ fixed payments (including in-substance fixed payments), less any lease incentives receivable;
+ variableleasepaymentthatarebasedonanindexorarate,initiallymeasuredusingtheindexor
 rate as at the commencement date.
 Right-of-use assets are measured at cost comprising the following:
-(cid:129) the amount of the initial measurement of lease liabilities;
-(cid:129) anyleasepaymentsmadeatorbeforethecommencementdatelessanyleaseincentivesreceived;
-(cid:129) any initial direct costs; and
-(cid:129) restoration costs.
+ the amount of the initial measurement of lease liabilities;
+ anyleasepaymentsmadeatorbeforethecommencementdatelessanyleaseincentivesreceived;
+ any initial direct costs; and
+ restoration costs.
 The lease payments are discounted using the interest rate implicit in the lease. If that rate cannot be
 readilydetermined,whichisgenerallythecaseforleasesintheGroup,thelessee’sincrementalborrowingrate
 isused,beingtheratethattheindividuallesseewouldhavetopaytoborrowthefundsnecessarytoobtainan
 assetofsimilarvaluetotheright-of-useassetinasimilareconomicenvironmentwithsimilarterms,security
 and conditions.
 To determine the incremental borrowing rate, the Group:
-(cid:129) where possible, uses recent third-party financing received by the individual lessee as a starting
+ where possible, uses recent third-party financing received by the individual lessee as a starting
 point,adjustedtoreflectchangesinfinancingconditionssincethirdpartyfinancingwasreceived;
-(cid:129) usesabuild-upapproachthatstartswitharisk-freeinterestrateadjustedforcreditriskforleases
+ usesabuild-upapproachthatstartswitharisk-freeinterestrateadjustedforcreditriskforleases
 held by the Group, which does not have recent third party financing; and
-(cid:129) makes adjustments specific to the lease, e.g., term, country, currency and security.
+ makes adjustments specific to the lease, e.g., term, country, currency and security.
 Paymentsassociatedwithshort-termleasesarerecognisedonastraight-linebasisasanexpenseinprofit
 or loss. Short-term leases are leases with a lease term of 12 months or less without a purchase option.
 – I-26 –
@@ -33650,17 +33650,17 @@ APPENDIX I ACCOUNTANT’S REPORT
 2.3.7 Loss per share
 (a) Basic loss per share
 Basic loss per share is calculated by dividing:
-(cid:129) The loss attributable to equity holders of the Company, excluding any costs of servicing
+ The loss attributable to equity holders of the Company, excluding any costs of servicing
 equity other than ordinary shares.
-(cid:129) By the weighted average number of ordinary shares outstanding during the financial
+ By the weighted average number of ordinary shares outstanding during the financial
 period, adjusted for bonus elements in ordinary shares issued during the period and
 excluding treasury shares.
 (b) Diluted loss per share
 Dilutedlosspershareadjuststhefiguresusedinthedeterminationofbasiclosspersharetotake
 into account:
-(cid:129) The after-income tax effect of interest and other financing costs associated with dilutive
+ The after-income tax effect of interest and other financing costs associated with dilutive
 potential ordinary shares, and
-(cid:129) The weighted average number of additional ordinary shares that would have been
+ The weighted average number of additional ordinary shares that would have been
 outstanding assuming the conversion of all dilutive potential ordinary shares.
 2.3.8 Interest income
 Interest income from FVTPL is included in “other gains/(losses), net”.
@@ -33728,11 +33728,11 @@ operational and financial performance and other factors.
 (ii) Impairment of financial assets
 The Group has following types of financial assets that are subject to the expected credit loss
 model:
-(cid:129) Trade receivables
-(cid:129) Term deposits
-(cid:129) Cash and cash equivalent
-(cid:129) Restricted cash
-(cid:129) Other receivables and deposits
+ Trade receivables
+ Term deposits
+ Cash and cash equivalent
+ Restricted cash
+ Other receivables and deposits
 – I-30 –
 
 === PAGE 693 ===
@@ -33885,15 +33885,15 @@ APPENDIX I ACCOUNTANT’S REPORT
 The Group’s financial instruments carried at fair value at each reporting date are measured by level of the
 inputstovaluationtechniquesusedtomeasurefairvalue.Suchinputsarecategorisedintothreelevelswithinafair
 value hierarchy as follows:
-(cid:129) Level 1: The fair value of financial instruments traded in active markets (such as publicly traded
+ Level 1: The fair value of financial instruments traded in active markets (such as publicly traded
 derivatives, and equity securities) is based on quoted market prices at the end of the reporting period.
 The quoted market price used for financial assets held by the Group is the current bid price. These
 instruments are included in level 1.
-(cid:129) Level 2: The fair value of financial instruments that are not traded in an active market (for example,
+ Level 2: The fair value of financial instruments that are not traded in an active market (for example,
 over-the-counter derivatives) is determined using valuation techniques which maximise the use of
 observablemarketdataandrelyaslittleaspossibleonentity-specificestimates.Ifallsignificantinputs
 required to fair value an instrument are observable, the instrument is included in level 2.
-(cid:129) Level3:Ifoneormoreofthesignificantinputsisnotbasedonobservablemarketdata,theinstrument
+ Level3:Ifoneormoreofthesignificantinputsisnotbasedonobservablemarketdata,theinstrument
 is included in level 3. This is the case for unlisted equity securities.
 ThefollowingtablepresentstheGroup’sfinancialassetsandfinancialliabilitiesthataremeasuredatfairvalue
 at December 31, 2021, 2022 and 2023:
@@ -33973,9 +33973,9 @@ APPENDIX I ACCOUNTANT’S REPORT
 If one or more of the significant inputs is not based on observable market data, the instrument is
 included in level 3.
 Specific valuation techniques used to value financial instruments include:
-(cid:129) the use of quoted market prices or dealer quotes for similar instruments,
-(cid:129) discounted cash flow analysis, and
-(cid:129) observable and unobservable inputs, including discount rate, risk-free interest rate, discount for
+ the use of quoted market prices or dealer quotes for similar instruments,
+ discounted cash flow analysis, and
+ observable and unobservable inputs, including discount rate, risk-free interest rate, discount for
 lack of marketability (“DLOM”), and expected volatility, etc.
 Level3instrumentsoftheGroup’sassetsandliabilitiesincludeinvestmentsinunlistedentities,wealth
 managementproducts,convertibledebt,otherfinancialliabilitiesandconvertibleredeemablepreferredshares
@@ -37132,8 +37132,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
-(cid:129) The related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) The unaudited pro forma financial information reflects the proper application of
+ The related pro forma adjustments give appropriate effect to those criteria; and
+ The unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 – II-4 –
 
@@ -40964,7 +40964,7 @@ which would have a material adverse effect on our business, financial position o
 operations.
 3. Sole Sponsor
 As of the Latest Practicable Date,
-(cid:129) approximately 0.41% of the total number of issued Shares was held by Pluto
+ approximately 0.41% of the total number of issued Shares was held by Pluto
 Connection Limited, an indirectly wholly-owned subsidiary of CITIC Securities
 Company Limited (中信証券股份有限公司), a joint stock limited company
 established in the PRC with limited liability, the H shares andAshares of which are
@@ -40973,7 +40973,7 @@ listed on the Stock Exchange (stock code: 6030) and the Shanghai Stock Exchange
 an indirect wholly-owned subsidiary of CITIC Securities Company Limited. Pluto
 Connection Limited is regarded as a member of the sponsor group of the Sole
 Sponsor as defined under the Listing Rules.
-(cid:129) approximately 0.08% of the total number of issued Shares was held by CITIC
+ approximately 0.08% of the total number of issued Shares was held by CITIC
 (Shenzhen) Venture Capital Equity Investment Fund Partnership (Limited
 Partnership) (中信(深圳)創業投資股權投資基金合夥企業(有限合夥)) (“CITIC
 Venture Capital”). CITIC Group Corporation Ltd. (中國中信集團有限公司), the

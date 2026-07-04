@@ -175,18 +175,18 @@ The results of allocations in the Hong Kong
 Public Offering (with successful applicants’
 identification document numbers, where appropriate)
 to be available through a variety of channels, including:
-(cid:129) in the announcement to be posted on our website
+ in the announcement to be posted on our website
 and the website of the Stock Exchange at
 www.juhe.cn and www.hkexnews.hk respectively . . . . . . . . at or before 11:00 p.m.
 on Thursday,
 June 27, 2024
-(cid:129) from the designated results of allocations
+ from the designated results of allocations
 website at www.iporesults.com.hk (alternatively:
 www.eipo.com.hk/eIPOAllotment) . . . . . . . . . . . . . .from 11:00 p.m. on Thursday,
 June 27, 2024
 12:00 midnight on Wednesday,
 July 3, 2024
-(cid:129) from the allocation results telephone enquiry by
+ from the allocation results telephone enquiry by
 calling +852 2862 8555 between 9:00 a.m.
 and 6:00 p.m. on . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Friday, June 28, 2024
 Tuesday, July 2, 2024
@@ -421,7 +421,7 @@ operators, who subscribe to different service types to match their application s
 APIs we offer onAPI marketplace cover a wide array of services, such as authentication, SMS
 notice,weather,news,IPaddressinspectionsandtop-ups,whichwebroadlycategorizeintothe
 following three service types:
-(cid:129) Query: Customers utilize our APIs to request the retrieval of data results, such as
+ Query: Customers utilize our APIs to request the retrieval of data results, such as
 identity authentication, mobile online status, online duration, information on
 companies, and certain publicly available information such as weather conditions.
 We provided approximately 300 paid APIs for query services as of December 31,
@@ -449,7 +449,7 @@ Data flow: return “Yes” or “No”
 Payment based on the number of requests
 Our Company
 Payment Payment
-(cid:129) SMS notice: Our customers provide services to enable end-users to subscribe for
+ SMS notice: Our customers provide services to enable end-users to subscribe for
 SMS alerts, status updates and promotions. Our APIs facilitate SMS for account
 registration, login, security notice and password reset. We provided approximately
 five paidAPIs for SMS notice services as of December 31, 2023. In the case of SMS
@@ -538,7 +538,7 @@ Customer’s online and promotional SMS notice request SMS service
 interface providers
 Our Company
 Payment Payment
-(cid:129) Top-up:Almost all of our top-up services in 2023 were mobile top-ups.An end-user
+ Top-up:Almost all of our top-up services in 2023 were mobile top-ups.An end-user
 initiates a top-up on a customer’s online interface by clicking on a “top-up” button,
 inputting its mobile number and top-up amount. The customer’s online interface
 sends a top-up request to us throughAPIs.After receiving the request, we will either
@@ -600,7 +600,7 @@ data management, data stewardship, and data circulation. With our solutions, we 
 organizations to efficiently collect, process, govern, share, and utilize data while preserving
 privacy and security, achieving digital transformation. Our data management solutions offer
 the following key benefits:
-(cid:129) Promote efficiency through external data management: We empower our
+ Promote efficiency through external data management: We empower our
 customers to leverage market data and services, enabling them to focus on business
 innovation while benefiting from a faster and more convenient access to external
 data in a safe and compliant manner. With the help of our data management
@@ -613,7 +613,7 @@ more efficient as compared to having each department introduce, manage and use
 data source on their own accord. See “Business – Our Services and Solutions –API
 Marketplace – Case Studies” for the specific examples of these business
 innovations.
-(cid:129) Empower data through optimized data stewardship: We assist our customers in
+ Empower data through optimized data stewardship: We assist our customers in
 achieving comprehensive integration and governance of their internal database,
 allowingthemtobuildstandardizeddataassetswithintheirorganizations.Datawith
 unified standard is ready for output and utilization through APIs. See “Business –
@@ -623,7 +623,7 @@ stewardship.
 
 === PAGE 17 ===
 SUMMARY
-(cid:129) Facilitate full release of data value: We help our customers establish exchange of
+ Facilitate full release of data value: We help our customers establish exchange of
 data systems that enable seamless data sharing among internal departments or foster
 data circulation with upstream and downstream business partners, unleashing the
 value of data. Data management solutions make data available for sharing and
@@ -641,22 +641,22 @@ the data management solutions and related services are delivered to and accepted
 customers.
 OUR STRENGTHS
 We believe the following strengths contribute to our success:
-(cid:129) One of the first-movers in the digital economy’s key industry;
-(cid:129) An innovator in the industry with strong research and development capabilities and
+ One of the first-movers in the digital economy’s key industry;
+ An innovator in the industry with strong research and development capabilities and
 accumulated advantages in core technologies;
-(cid:129) Well-established and diversified customer base, a stable and diverse array of data
+ Well-established and diversified customer base, a stable and diverse array of data
 service suppliers, and sustainable monetization capabilities;
-(cid:129) A scalable business model; and
-(cid:129) An entrepreneurial and experienced management team.
+ A scalable business model; and
+ An entrepreneurial and experienced management team.
 OUR STRATEGIES
 To achieve our mission and further strengthen our market position, we intend to pursue
 the following strategies:
-(cid:129) Seize the significant opportunities arising from government and public data
+ Seize the significant opportunities arising from government and public data
 authorized operations to expand;
-(cid:129) Further explore service capabilities for diverse industries, continuously expanding
+ Further explore service capabilities for diverse industries, continuously expanding
 regional coverage, service types and scenarios;
-(cid:129) Expandcustomerbaseanddeepenindustryecosystemstakeholderrelationships;and
-(cid:129) Enhance R&D capabilities.
+ Expandcustomerbaseanddeepenindustryecosystemstakeholderrelationships;and
+ Enhance R&D capabilities.
 – 6 –
 
 === PAGE 18 ===
@@ -665,18 +665,18 @@ OUR INDUSTRY AND MARKET SHARES
 We operate in the integratedAPI-enabled data exchange service market, a sub-segment of
 the API-enabled data exchange service market in China, and the data management solution
 market in China. According to the F&S Report,
-(cid:129) the size of API-enabled data exchange service market in China reached RMB6.9
+ the size of API-enabled data exchange service market in China reached RMB6.9
 billion in 2022, comprising RMB2.37 billion in the integrated API-enabled data
 exchangeservicesegmentandRMB4.57billionintheindustry-specificAPI-enabled
 data exchange service segment.The size of theAPI-enabled service market in China
 reached RMB37.9 billion in 2022;
-(cid:129) in 2022, we had a market share of 6.1% and 2.1% in the integratedAPI-enabled data
+ in 2022, we had a market share of 6.1% and 2.1% in the integratedAPI-enabled data
 exchange service market and overall API-enabled data exchange service market,
 respectively, in China. To differentiate from our competitors, we are expected to
 further leverage our leading position in the market to expand our business scale
 through cooperating with different data sources and participating in the
 establishment and operation of state-owned data exchanges; and
-(cid:129) the size of data management solution market in China totaled RMB50.7 billion in
+ the size of data management solution market in China totaled RMB50.7 billion in
 2022 and we had a market share of 0.2%.
 OUR CUSTOMERS
 Our customers include internet companies, telecommunications operators, technology
@@ -896,13 +896,13 @@ RISK FACTORS
 OurbusinessandtheGlobalOfferinginvolvecertainrisksassetoutinthe“RiskFactors”
 section. You should read the “Risk Factors” section in its entirety before you decide to invest
 in our Company. Some of the major risks that we face include, among others:
-(cid:129) Fluctuations in demand for our services and solutions may adversely affect our
+ Fluctuations in demand for our services and solutions may adversely affect our
 businessandresultsofoperations.Anylossofordeclineindemandforourproducts
 andservicescouldmateriallyandadverselyaffectourbusiness,resultsofoperations
 and financial condition;
-(cid:129) Unauthorized access to our customers’, suppliers’, or our own data could harm our
+ Unauthorized access to our customers’, suppliers’, or our own data could harm our
 reputation and have a negative impact on our business and financial performance;
-(cid:129) Our ability to attract and retain qualified personnel could materially affect our
+ Our ability to attract and retain qualified personnel could materially affect our
 business and the results of operations. Rising labor costs in China could make it
 more costly to attract and retain qualified personnel and adversely affect our results
 of operations;
@@ -910,20 +910,20 @@ of operations;
 
 === PAGE 24 ===
 SUMMARY
-(cid:129) If we cannot continue to innovate or effectively respond to the rapidly evolving
+ If we cannot continue to innovate or effectively respond to the rapidly evolving
 technology, market demands, industry dynamics and other risks and uncertainties,
 our business, results of operations and prospects would be materially and adversely
 affected;
-(cid:129) Our services and solutions depend on the performance of internet infrastructure,
+ Our services and solutions depend on the performance of internet infrastructure,
 third-party service providers and our technologies. Unexpected system failures,
 interruptions, and inadequacies may harm our business and results of operations;
-(cid:129) We have experienced, and in the future may continue to experience, net operating
+ We have experienced, and in the future may continue to experience, net operating
 cashoutflow,anincreaseintradereceivablesturnoverdaysandasubstantialamount
 of unbilled trade receivables, all of which could expose us to liquidity risks;
-(cid:129) Failure to maintain our advantages in an increasingly competitive market may
+ Failure to maintain our advantages in an increasingly competitive market may
 adversely affect our business and growth prospects;
-(cid:129) Our business is subject to seasonality; and
-(cid:129) We experienced customer and supplier concentration during the Track Record
+ Our business is subject to seasonality; and
+ We experienced customer and supplier concentration during the Track Record
 Period and may continue to be exposed to the risk of such concentration in the
 future.
 CONTROLLING SHAREHOLDERS
@@ -1281,21 +1281,21 @@ payable by us in connection with the Global Offering, and assuming the Offer Pri
 HK$83.33 per Offer Share, we estimate that we will receive net proceeds of approximately
 HK$344.0 million from the Global Offering.We intend to use the net proceeds from the Global
 Offering for the following purposes:
-(cid:129) approximately HK$86.0 million, representing 25% of the net proceeds, will be used
+ approximately HK$86.0 million, representing 25% of the net proceeds, will be used
 to comprehensively upgrade the existing suite of APIs in our API marketplace, to
 seize the significant opportunities arising from the opening and authorized
 operations of government and public data, which may create opportunities for future
 growth;
-(cid:129) approximately HK$154.8 million, representing 45% of the net proceeds, will be
+ approximately HK$154.8 million, representing 45% of the net proceeds, will be
 used to upgrade our existing products and services of our data management
 solutions. This aims to develop and expand industry-specific applications,
 strengthening our technical capabilities and market competitiveness in data
 management solutions;
-(cid:129) approximately HK$68.8 million, representing 20% of the net proceeds, will be used
+ approximately HK$68.8 million, representing 20% of the net proceeds, will be used
 to research and develop the technologies for data security and privacy protection,
 building a comprehensive ecosystem for digital ownership, secure data storage,
 trusted data transmission, and collaborative production; and
-(cid:129) approximately HK$34.4 million, representing 10% of the net proceeds will be
+ approximately HK$34.4 million, representing 10% of the net proceeds will be
 allocated for working capital and general corporate purposes.
 See “Future Plans and Use of Proceeds” for details.
 DATA SECURITY AND REGULATORY COMPLIANCE
@@ -2139,23 +2139,23 @@ statements. These forward-looking statements are based on numerous assumptions r
 our present and future business strategies and the environment in which we will operate in the
 future. Important factors that could cause our actual performance or achievements to differ
 materially from those in the forward-looking statements include, among others, the following:
-(cid:129) general political and economic conditions;
-(cid:129) our business prospects and our ability to successfully implement our business plans
+ general political and economic conditions;
+ our business prospects and our ability to successfully implement our business plans
 and strategies;
-(cid:129) future developments, trends and conditions in the data service industry and markets
+ future developments, trends and conditions in the data service industry and markets
 in which we operate or into which we intend to expand;
-(cid:129) our capital expenditure plans;
-(cid:129) the actions and developments of our competitors;
-(cid:129) our financial condition and performance;
-(cid:129) our dividend policy;
-(cid:129) any changes in the laws, rules and regulations of the central and local governments
+ our capital expenditure plans;
+ the actions and developments of our competitors;
+ our financial condition and performance;
+ our dividend policy;
+ any changes in the laws, rules and regulations of the central and local governments
 and the rules, regulations and policies of the relevant governmental authorities
 relating to all aspects of our business and our business plans;
-(cid:129) changes or volatility in interest rates, foreign exchange rates, equity prices or other
+ changes or volatility in interest rates, foreign exchange rates, equity prices or other
 rates or prices, including those pertaining to China and the industry and markets in
 which we operate;
-(cid:129) various business opportunities that we may pursue; and
-(cid:129) capital market developments, changes in the global economic conditions and
+ various business opportunities that we may pursue; and
+ capital market developments, changes in the global economic conditions and
 material volatility in the global financial markets.
 – 45 –
 
@@ -2199,14 +2199,14 @@ as a decrease in the number of requests or the price of each request, as well as
 or our failure to develop new customer relationships in a timely manner, may have a material
 adverse effect on our business, financial performance, and results of operations. A number of
 factors could negatively affect our demand for our products and services, including if:
-(cid:129) we fail to update or expand our existing services and solutions or develop new
+ we fail to update or expand our existing services and solutions or develop new
 technologies;
-(cid:129) we suffer from negative publicity, fail to maintain our brand image or our reputation
+ we suffer from negative publicity, fail to maintain our brand image or our reputation
 is damaged;
-(cid:129) we fail to address customers’ concerns related to privacy, safety or security;
-(cid:129) we make adverse changes to our services or become unable to provide services in
+ we fail to address customers’ concerns related to privacy, safety or security;
+ we make adverse changes to our services or become unable to provide services in
 response to new legislation, regulations or government policies; and
-(cid:129) we fail to compete effectively.
+ we fail to compete effectively.
 – 47 –
 
 === PAGE 59 ===
@@ -4029,20 +4029,20 @@ The digital economy integrates digital technology and the real economy, and incl
 digital knowledge and information as key factors of production, digital technology as the core
 driving force, and modern digital network as an important information platform.
 The development of China’s digital economy is characterized by the following:
-(cid:129) Momentum for economic growth. The size of the digital economy reached
+ Momentum for economic growth. The size of the digital economy reached
 RMB50.2 trillion in 2022 with a year-on-year growth of 10.3%, providing
 momentumfortheoveralleconomyasgovernmentandcorporateorganizationsatall
 stages of development underwent digital transformation.
-(cid:129) Demand for external technology services. Government and corporate organizations
+ Demand for external technology services. Government and corporate organizations
 have demand for external technology services as they procure and utilize
 commercially tested technology services, including API technology, to link with
 external data sources or services to reduce cost and maximize efficiency.
-(cid:129) Favorable government policies. In recent years, the PRC government has
+ Favorable government policies. In recent years, the PRC government has
 introduced favorable policies and industry standards that propose to accelerate the
 development of digital economy through closer integration of digital economy and
 the real economy to form a globally competitive digital cluster, driving
 modernization and growth of China’s economy.
-(cid:129) Demandforhighconcurrency.Demandforhighconcurrencyhasrisensignificantly
+ Demandforhighconcurrency.Demandforhighconcurrencyhasrisensignificantly
 as high concurrency is essential for allowing a large number of customers to use
 services simultaneously without encountering any unexpected issues. High
 concurrency is a particularly important feature in systems for government
@@ -4352,7 +4352,7 @@ Exchange.
 exchange platform. It was founded in 2016 and is based in Hangzhou, Zhejiang province, China with a
 registered capital of RMB10 million and had fewer than 100 employees by the December 31, 2022.
 Entry Barriers to the API-Enabled Data Exchange Service Market in China
-(cid:129) Extensive data sources. Well-established service providers have already
+ Extensive data sources. Well-established service providers have already
 accumulated extensive data sources across different industries and scenarios. New
 entrants may face difficulties in accumulating such extensive sources within a short
 time to compete against existing players. In most cases, data-exchange service
@@ -4362,10 +4362,10 @@ number of data sources which an API-enabled data exchange service provider can
 provide; (ii) the respective data security and privacy policies of the data exchange
 service provider; and (iii) the availability of protocols and reliability of
 technologies.
-(cid:129) Established industry reputation. Customers frequently choose to work with
+ Established industry reputation. Customers frequently choose to work with
 reputable market players with proven technology and service capabilities. Without
 an established reputation, new entrants may find it challenging to attract customers.
-(cid:129) Strong technology capabilities. Service providers must continuously maintain,
+ Strong technology capabilities. Service providers must continuously maintain,
 optimize and upgrade their technologies as unexpected incidents may adversely
 affect customers’businesses and lead to customer distrust. New entrants may not be
 able to match the technology capabilities of existing players due to lack of
@@ -4504,21 +4504,21 @@ expected to continue to satisfy customers’ demand in data management solutions
 specialties inAPI technology and compete with existing top players or cooperate with them in
 certain large data management projects.
 Entry Barriers to the Data Management Solution Market in China
-(cid:129) Established industry reputation. Established service providers have accumulated
+ Established industry reputation. Established service providers have accumulated
 extensive project experience across different industries and built strong market
 reputation. Leading players also participate in establishing industry standards.Without an
 established reputation and lacking experience, new entrants typically find it difficult to
 compete with existing players in the short term.
-(cid:129) Strong technology capabilities. To remain competitive in the market, existing players
+ Strong technology capabilities. To remain competitive in the market, existing players
 typically invest heavily in technological research and development. New entrants may
 findithardtomatchthetechnologicalcapabilitiesofwell-seasonedplayerswithinashort
 time.
-(cid:129) Strong capabilities to integrate resources. Developing data management solutions
+ Strong capabilities to integrate resources. Developing data management solutions
 requires a substantial commitment of labor, time and various resources. Existing players
 typically have stronger capabilities to obtain and integrate different resources due to their
 experience, larger scale of business and established commercial relationships, which new
 entrants lack.
-(cid:129) Extensive sales channels. Existing players typically have extensive sales channels and
+ Extensive sales channels. Existing players typically have extensive sales channels and
 well-established customer bases, while new entrants may find it challenging to build
 similarly extensive sales channels or commercial relationships in the short term.
 Drivers of the Data Management Solution Market in China
@@ -8414,23 +8414,23 @@ better perform their functions and to improve their governance and public admini
 efficiency and increase public access to social and government data in a secure and private
 manner. API services play a critical role in digital transformation.
 Key value propositions of our services and solutions include:
-(cid:129) Eliminating data silos. Our API marketplace and data management solutions are
+ Eliminating data silos. Our API marketplace and data management solutions are
 devoted to eliminating data silos both within and across organizations, unifying data
 standards and facilitating data output in a standardized approach. By facilitating
 standardizedoutputandseamlessdataintegration,weenableorganizationstoaccess
 and utilize internal and external data more effectively.
-(cid:129) Handling large volume of data. Our API marketplace can simultaneously support
+ Handling large volume of data. Our API marketplace can simultaneously support
 multiple APIs with large data volumes. Our solutions empower organizations to
 efficiently access, manage and process extensive data with high concurrency.
-(cid:129) Loweringtotalcostofownership.Ourdatamanagementsolutionsrelievecustomers
+ Loweringtotalcostofownership.Ourdatamanagementsolutionsrelievecustomers
 from making heavy upfront investments and capital expenditures in self-developing
 software, helping organizations reduce the total cost of ownership of customized
 software, thus allocating resources more strategically.
-(cid:129) Facilitatingintegrationanddeployment.Weunderstandtheimportanceofseamless
+ Facilitatingintegrationanddeployment.Weunderstandtheimportanceofseamless
 integration with existing applications. Our data management solutions are built with
 an emphasis on usability and compatibility, allowing IT professionals to integrate
 our services smoothly and deploy them rapidly.
-(cid:129) Safeguarding privacy and security. Data privacy and security are paramount
+ Safeguarding privacy and security. Data privacy and security are paramount
 concerns in today’s digital landscape. Our products leverage advanced technologies,
 such as privacy-preserving computation and blockchain, to ensure that data remains
 secure and private. We prioritize data integrity and security and provide
@@ -8439,7 +8439,7 @@ organizations and their customers with greater peace of mind.
 
 === PAGE 180 ===
 BUSINESS
-(cid:129) Customizing solutions. We recognize that each organization has unique needs.
+ Customizing solutions. We recognize that each organization has unique needs.
 Hence, we offer a wide spectrum of standard API services for customers to choose
 from. Likewise, our data management solutions can be tailored to meet specific
 requirements. We adapt to diverse business environments and deliver customized
@@ -8453,14 +8453,14 @@ economy is the existence of data silos. API-enabled services can eliminate data 
 API-enabled data exchange service is a key industry in the digital economy in China. Our
 market position is primarily derived from our distinctive industry insights and competitive
 advantages in our products and services, including:
-(cid:129) Profound industry insights from our first-mover advantage: We have been
+ Profound industry insights from our first-mover advantage: We have been
 involved in API-enabled data exchange services for more than ten years. As one of
 the earliest players in the industry, we gradually expanded our services and
 solutions, treating digitalization as our core tenet. In addition, we have accumulated
 valuable experience continuously in operation, market cultivation and customer
 expansion, achieving our current market position in the field of standard API
 services.
-(cid:129) National recognition and participation in the formulation of industry
+ National recognition and participation in the formulation of industry
 standards: We have received multiple recognitions from national-level institutions,
 demonstrating our industry knowhow and involvement in shaping industry
 standards. In 2019, we were awarded with the 9thWuWenjunArtificial Intelligence
@@ -9252,7 +9252,7 @@ BUSINESS
 Service Types
 APIsthatweofferthroughAPImarketplacecanbemainlydividedintothreetypes,which
 we refer to as “service types”:
-(cid:129) Query: Customers utilize our APIs to request the retrieval of data results, such as
+ Query: Customers utilize our APIs to request the retrieval of data results, such as
 identity authentication, mobile online status, online duration, information on
 companies, and certain publicly available information such as weather conditions.
 We provided approximately 300 paid APIs for query services as of December 31,
@@ -9301,7 +9301,7 @@ sparingcorporatecustomersthetroubleofinputtinginformationmanually.Customersmayal
 usecompanyinformationAPItoauthenticatetheinformationprovidedbycorporatecustomers.
 Our customers of this service type include large internet companies, telecommunications
 operators and financial institutions.
-(cid:129) SMS notice: Our customers provide services to enable end-users to subscribe for
+ SMS notice: Our customers provide services to enable end-users to subscribe for
 SMS alerts, status updates and promotions. Our APIs facilitate SMS for account
 registration, login, security notice and password reset. We provided approximately
 five paidAPIs for SMS notice services as of December 31, 2023. In the case of SMS
@@ -9465,7 +9465,7 @@ licenses.
 
 === PAGE 196 ===
 BUSINESS
-(cid:129) Top-up: Almost all of our top-up service in 2023 was mobile top-up. An end-user
+ Top-up: Almost all of our top-up service in 2023 was mobile top-up. An end-user
 initiates a top-up on a customer’s online interface by clicking on a “top-up” button,
 inputting its mobile number and top-up amount. The customer’s online interface
 sends a top-up request to us throughAPIs.After receiving the request, we will either
@@ -9832,7 +9832,7 @@ management, data stewardship, and data circulation. With our solutions, we enabl
 organizations to efficiently collect, process, govern, share, and utilize data while preserving
 privacy and security, achieving digital transformation. Our data management solutions offer
 the following key benefits:
-(cid:129) Promote efficiency through external data management: We empower our
+ Promote efficiency through external data management: We empower our
 customers to leverage market data and services, enabling them to focus on business
 innovation while benefiting from faster and more convenient access to external data
 in a safe and compliant manner. With the help of our data management solutions,
@@ -9847,7 +9847,7 @@ and manage data from different government departments. This approach is more
 efficient as compared to allowing each department to introduce, manage and use
 data source separately and in a non-coordinated manner. See “– Case Studies” for
 the specific examples of these business innovations.
-(cid:129) Empower data through optimized data stewardship: We assist our customers in
+ Empower data through optimized data stewardship: We assist our customers in
 achieving comprehensive integration and governance of their internal database,
 allowing them to build standardized data assets within their organizations. Data can
 be collected in different formats. For example, a company that requires each
@@ -9874,7 +9874,7 @@ JH2020194 陳剛 0 35 99999 1 2402 320521198607200537 2020.05.06 1.5
 JH2020283 張志達 0 31 3 1 1983 320521199007200748 2020.8.13 1.2
 RH2099985 汪姍 1 32 1 1 湖北襄樊 YY999955221111999911007722000119922ZZ 2021/9/21 0.1333333
 N d u t o h m e e s b s n e ta r o i n t n d m g a r e r d u e l t e w d C i o t o e h d s s e i t n n a d n t o e i d t c r a c n ti r o a o d m t n s io a p n r l y y al w d C i o t o e h d s s e i t n n a d n t o e i d t c r a c n ti r o a o d m t n s io a p n r l y y al 不 數 d符t o h 據D e e合s a s 類t n t a a規o n t t 型y d m范 p a e r e d et n D um a m ta b e e d e r o t i n e t g h s e n ru o l t e S d t t o h o e e r s a s g n t e a o n t f o d m r a m r e d e a t t p 不t r h N e n e c 符 u o i精 s m s t t i 合a o m e n 度n r e d i 規 c e d a a t o r l d e 范 s
-(cid:129) Facilitate full release of data value: We help our customers establish exchange of
+ Facilitate full release of data value: We help our customers establish exchange of
 data systems that enable seamless data sharing among internal departments or foster
 data circulation with upstream and downstream business partners, unleashing the
 value of data. Data management solutions make data available for sharing and
@@ -10171,12 +10171,12 @@ A textile company
 Background: A textile manufacturer in Suzhou, China, sought to transform its operations and
 increase its competitiveness through intelligent manufacturing. During this process, it
 identified several key challenges:
-(cid:129) Data Integration: it faced the issue of dispersed data across various systems,
+ Data Integration: it faced the issue of dispersed data across various systems,
 hindering effective utilization.
-(cid:129) ProcessOptimization:Thetraditionalmanual-basedapproachatthetextilecompany
+ ProcessOptimization:Thetraditionalmanual-basedapproachatthetextilecompany
 relied heavily on human experience, which posed challenges in knowledge transfer
 and efficient onboarding of new employees.
-(cid:129) Warehouse Management: the textile company struggled with warehouse
+ Warehouse Management: the textile company struggled with warehouse
 management issues such as disorganization, limited space, and inefficiencies in
 inventory management.
 Solution: To address these challenges, we implemented an integrated platform that
@@ -10200,15 +10200,15 @@ retrieval to the warehouse. The platform also leveraged SmartShield, a federated
 for cross-domain data analytics on suppliers’ data, which helped the textile company to
 optimize the supply chain management without compromising specific suppliers’ data.
 Key Benefits:
-(cid:129) The platform created a centralized repository of valuable data assets, enabling
+ The platform created a centralized repository of valuable data assets, enabling
 efficient data management and utilization.
-(cid:129) Byautomatingvariousprocesses,thesolutionreducedthedependencyonindividual
+ Byautomatingvariousprocesses,thesolutionreducedthedependencyonindividual
 expertise, thereby promoting production efficiency.
-(cid:129) Through automation and real-time monitoring, the platform improved the overall
+ Through automation and real-time monitoring, the platform improved the overall
 production process, reducing delays and errors.
-(cid:129) The platform enabled efficient and effective management of warehouses, optimizing
+ The platform enabled efficient and effective management of warehouses, optimizing
 space utilization and inventory control.
-(cid:129) By tracking machine utilization and implementing intelligent control, the solution
+ By tracking machine utilization and implementing intelligent control, the solution
 helped the textile company reduce energy consumption.
 A municipal service authority
 Background:
@@ -10234,9 +10234,9 @@ Government departments can acquire data through these APIs. This solution enable
 municipal service authority to provide data analytics and application to the different
 departments that demand near real-time responses.
 Key Benefits:
-(cid:129) overcomes inefficiencies caused by multi-source heterogeneous data;
-(cid:129) facilitates exchange of data and data-sharing among governmental departments; and
-(cid:129) supports massive simultaneous queries.
+ overcomes inefficiencies caused by multi-source heterogeneous data;
+ facilitates exchange of data and data-sharing among governmental departments; and
+ supports massive simultaneous queries.
 An industrial park
 Background: An industrial park established data warehouse through its departments,
 completing the gathering of data related to individuals, business organizations, and subject-
@@ -10253,10 +10253,10 @@ standardized output. Through the Intelligent Central Hub, government departments
 industrial park can access continuous and standardized data services, facilitating the sharing of
 public data resources.
 Key Benefits:
-(cid:129) enables rapid integration of diverse and heterogeneous data sources;
-(cid:129) significantly reduces the cost of cross-department integration;
-(cid:129) supports reuse of existing APIs and rapid creation of new APIs; and
-(cid:129) establishes an open marketplace for government digital resources, facilitating
+ enables rapid integration of diverse and heterogeneous data sources;
+ significantly reduces the cost of cross-department integration;
+ supports reuse of existing APIs and rapid creation of new APIs; and
+ establishes an open marketplace for government digital resources, facilitating
 cross-department data service sharing and promoting efficiency.
 – 202 –
 
@@ -10278,8 +10278,8 @@ unusual circumstances, such as an abrupt increase in dust particles in a chemica
 factory, to identify potential production risks. This bureau can then issue warnings to the
 respective corporate organizations.
 Key Benefits
-(cid:129) ensures an authentic and tamper-proof data source; and
-(cid:129) provides warning on unusual production circumstances and prevents accidents.
+ ensures an authentic and tamper-proof data source; and
+ provides warning on unusual production circumstances and prevents accidents.
 Revenue Model
 Our data management solutions primarily follow a project-based pricing model, where
 customers are generally billed for the products and platform development according to
@@ -10326,7 +10326,7 @@ stability of the API by consolidating multiple APIs into one, improving flexibil
 reducing complexity and making APIs easier to use. Our API safety management technology
 provides security forAPI transmission. Our low-code/no-code quick access technology makes
 the API easy to use and accessible. We employ the following key technologies:
-(cid:129) Low Code/No-code Quick Access: Our proprietary low code quick access
+ Low Code/No-code Quick Access: Our proprietary low code quick access
 technologies, including no-code API access technology, visual integration
 technology, and API generation technology, enable our customers to seamlessly
 integrateourdatamanagementsolutionswiththeirexistingsystems.No-codeaccess
@@ -10344,7 +10344,7 @@ This technology is mainly utilized by APIMaster.
 
 === PAGE 216 ===
 BUSINESS
-(cid:129) High-Performance API Gateway: High-performance API gateway technology
+ High-Performance API Gateway: High-performance API gateway technology
 enables high-speed network protocol processing. Utilizing canary deployment and
 elastic expansion, our services and solutions require less server resources to achieve
 high performance. In addition, elastic expansion reduces resource consumption,
@@ -10354,7 +10354,7 @@ stability and customer satisfaction. High-Performance API Gateway can also limit
 and adjust the data flow from time to time to promote the speed of data transmission
 and the stability of APIs’ operation. High-Performance API Gateway is mainly
 utilized by APIMaster and API marketplace.
-(cid:129) Multi-Channel Intelligent Routing Technology: Multi-channel intelligent routing
+ Multi-Channel Intelligent Routing Technology: Multi-channel intelligent routing
 technology utilizes a visual routing configuration, allowing customers to easily
 configure the routing rules for APIs. It also supports combination strategies that
 allow multiple APIs to be combined to form a single API, providing greater
@@ -10365,7 +10365,7 @@ reducing downtime and improving customer experience. These mechanisms ensure
 the stability of APIs and enable customers to select the most appropriate routing
 method based on their needs and resource availability. Multi-Channel Intelligent
 Routing Technology is mainly utilized by API marketplace and APIMaster.
-(cid:129) API Safety Management Technologies: API Safety Management Technologies
+ API Safety Management Technologies: API Safety Management Technologies
 address the concerns of data tampering and data leakage duringAPI transmission, as
 well as the risk of network attacks initiated throughAPIs. APIMaster employs three
 types of API safety management technologies: bidirectional encryption, risk
@@ -10379,7 +10379,7 @@ management technology ensures data security and confidentiality. It monitors the
 proper functioning of APIs and blocks security risks. API Data Security Audit
 functions as a complement to the API risk awareness and automated management
 technology. It identifies, audits and analyzes abnormal data circulation.
-(cid:129) Data Cleansing Technologies: Data cleansing technologies aim to improve the
+ Data Cleansing Technologies: Data cleansing technologies aim to improve the
 quality of data, such as their accuracy, timeliness, completeness, consistency, and
 effectiveness,therebyachievingbetterdataqualityandensuringdatasecurity.These
 technologies facilitate the exchange of data among different departments by
@@ -10390,7 +10390,7 @@ risk management.
 
 === PAGE 217 ===
 BUSINESS
-(cid:129) RPA: We utilize two types of RPA proprietary technologies on our QuickBot:
+ RPA: We utilize two types of RPA proprietary technologies on our QuickBot:
 Non-Intrusive API builder and RPA-based sensitive credential protection
 technology. Non-Intrusive API builder enables customers to generate APIs by
 operating in a graphic form without redeveloping customer’s existing IT system. It
@@ -10398,7 +10398,7 @@ shortens the development time of APIs and decreases reliance on experienced
 programmers. RPA-based sensitive credential protection technology ensures the
 security of sensitive data and reduces the risk of data leakage. This technology is
 also utilized by our SmartShield.
-(cid:129) Privacy-Preserving Computation Technologies: Service quality management
+ Privacy-Preserving Computation Technologies: Service quality management
 technology optimizes the efficiency of cross-domain data computation by
 scheduling of network and computing resources in privacy-preserving computation
 tasks. Our privacy-preserving computation technology optimizes the coordination
@@ -10416,7 +10416,7 @@ allows customers to identify potential risks in a more easy-to-understand manner
 The knowledge graphs can also enhance the transparency and interpretability of the
 privacy protection mechanisms employed in the technology. We utilize privacy-
 preserving computation technology on our SmartShield.
-(cid:129) Blockchain: We utilize two types of blockchain-based technologies on our
+ Blockchain: We utilize two types of blockchain-based technologies on our
 AnchorChain: (i) data intelligent semantic registration and matching; and (ii) data
 trust transfer. Leveraging the tamper-proof features of blockchain technology, our
 data intelligent semantic registration and matching technology registers data on the
@@ -10502,18 +10502,18 @@ Ongoing R&D Projects
 We place strong emphasis in our technology development, which is critical to allowing us
 toefficientlyandeffectivelyaddressthetechnicalchallengesassociatedwithourbusiness.Our
 R&D initiatives include the following:
-(cid:129) combine data and data-driven analytics applications to provide customers with
+ combine data and data-driven analytics applications to provide customers with
 analytics without revealing sensitive data, together with improving our solutions to
 fit vertical industries using authorized data from customers;
-(cid:129) createtransactiontokensfordiversedatatypesandspecifications,whichcanalsobe
+ createtransactiontokensfordiversedatatypesandspecifications,whichcanalsobe
 exchanged with other data trading systems, together with our efforts to improve the
 speed of peer-to-peer data transactions through cryptographic technology;
-(cid:129) build a data value evaluator to rank data based on market supply and demand within
+ build a data value evaluator to rank data based on market supply and demand within
 a reasonable range;
-(cid:129) develop a plug-in system and network channel for privacy-preserving exchange of
+ develop a plug-in system and network channel for privacy-preserving exchange of
 data and computation, allowing dynamic connectivity of different data service
 suppliers; and
-(cid:129) enhance computational speed for privacy-preserving data analysis by designing
+ enhance computational speed for privacy-preserving data analysis by designing
 tailored hardware for computing and network devices.
 – 208 –
 
@@ -11648,14 +11648,14 @@ While specific data from our value chain is unavailable at this time, based on o
 discussions with the ESG Consultant, we set forth below a list of potential Scope 3 emissions
 sources that we consider to be significant in our upstream and downstream value chain:
 Upstream Scope 3 Emissions:
-(cid:129) Purchased Goods and Services: Emissions associated with the production and
+ Purchased Goods and Services: Emissions associated with the production and
 transportation of raw materials, components, and services procured by us.
-(cid:129) Upstream Transportation and Distribution: Emissions generated during the
+ Upstream Transportation and Distribution: Emissions generated during the
 transportation of goods and materials from suppliers to us.
-(cid:129) Waste Generated in Operations: Emissions resulting from the disposal of waste
+ Waste Generated in Operations: Emissions resulting from the disposal of waste
 generated during regular office operation.
 Downstream Scope 3 Emissions:
-(cid:129) Use of Products: Emissions generated during the use of our products by end-users
+ Use of Products: Emissions generated during the use of our products by end-users
 or customers. This includes energy consumption, fuel combustion, or other
 emissions resulting from product usage which is the general electricity consumption
 on the use of related sold software.
@@ -11669,7 +11669,7 @@ consumption of electricity, water and paper to be within the average industry le
 BUSINESS
 Our ESG Consultant has assisted us in identifying the following examples for peer
 comparison purpose, which aims to facilitate our understanding of the industry trends:
-(cid:129) Greenhouse gas emissions: We benchmarked our targets against a pioneer company
+ Greenhouse gas emissions: We benchmarked our targets against a pioneer company
 in the digital and technology industry whose greenhouse gas emission absolute
 target was set to reduce absolute Scopes 1 and 2 greenhouse gas emissions by
 approximately 5% per year in order to reach an aggregate reduction of 50% by
@@ -11677,15 +11677,15 @@ financial year 2029/30 from financial year 2018/19 as its base year. We currentl
 have a target of reducing 0 to 20% of greenhouse gas emissions over the next three
 years which is similar and even considered more ambitious than the target set by
 such industry player;
-(cid:129) Water consumption: According to the ESG Consultant and public information, water
+ Water consumption: According to the ESG Consultant and public information, water
 consumption of one of China’s leading software and internet services enterprises is
 334,391 tonnes in 2022. In comparison, the corresponding water consumption level
 by us is lower than such comparable company;
-(cid:129) Paper consumption: Despite the levels of paper consumption of our comparable
+ Paper consumption: Despite the levels of paper consumption of our comparable
 peers are not disclosed publicly, we consider this metric to be important for
 identifying our future goals and targets and will therefore commit to disclosing such
 information in our ESG report after Listing; and
-(cid:129) Electricity consumption: According to the ESG Consultant and public information,
+ Electricity consumption: According to the ESG Consultant and public information,
 the electricity consumption of one of the leading software and internet services
 enterprises in China is 20,960.05 MWh in 2022. In comparison, the corresponding
 electricity consumption level by our company is lower than such comparable
@@ -12004,12 +12004,12 @@ to our query and SMS notice services, we had acted as an entrusted personal info
 processor as defined in the PRC Personal Information Protection Law.
 Our Directors are of the view that our internal control measures on data collection during
 the Track Record Period were sufficient and effective, on the basis that:
-(cid:129) During the Track Record Period and up to the Latest Practicable Date, we were not
+ During the Track Record Period and up to the Latest Practicable Date, we were not
 subject to any administrative penalty or inspections due to violation of personal
 information protection related laws or regulations;
-(cid:129) During the Track Record Period, we did not have any dispute with our customers or
+ During the Track Record Period, we did not have any dispute with our customers or
 suppliers that was related to personal information protection; and
-(cid:129) We regularly consult with our PRC legal advisers to comply with the data privacy
+ We regularly consult with our PRC legal advisers to comply with the data privacy
 related PRC laws.
 The Sole Sponsor has reviewed the legal analysis of the PRC Legal Advisors, with the
 assistance of its PRC legal advisors, who concur with the analysis of the PRC LegalAdvisors.
@@ -12427,9 +12427,9 @@ payment, or which would have prejudiced our transactions with the Relevant Custo
 Our Directors are of the view that relevant transactions underlying the Third-Party
 PaymentArrangements during the Track Record Period existed and were genuine, on the basis
 that:
-(cid:129) We reconciled our records against the statements issued by the financial institutions
+ We reconciled our records against the statements issued by the financial institutions
 on a monthly basis.
-(cid:129) Each customer’s payment required logging into its account and providing a
+ Each customer’s payment required logging into its account and providing a
 randomly generated payment transaction number was generated by the paying
 financial institutions when making payment. Our finance department verified the
 transaction number in the payment record. Only the payer could acquire the
@@ -12440,13 +12440,13 @@ account details to effect a third-party payment.
 
 === PAGE 266 ===
 BUSINESS
-(cid:129) Customer’s account included information such as balance, detailed records of each
+ Customer’s account included information such as balance, detailed records of each
 purchase, refund and transaction history. If we received unknown payment that does
 not match with any transaction, we promptly worked with the finance department to
 inspect it.
-(cid:129) Income from each API request corresponded to a purchase from a supplier. Such a
+ Income from each API request corresponded to a purchase from a supplier. Such a
 match was traceable in our system.
-(cid:129) The recognition of revenue from the API Marketplace follows the principle of
+ The recognition of revenue from the API Marketplace follows the principle of
 revenue recognition upon provision ofAPI services. In cases where customers make
 payments to the Group for the purchase of API queries and SMS alerts online, but
 have not used the services, the corresponding payment received is not recognized as
@@ -14990,9 +14990,9 @@ deduction of any trade discounts.
 Depending on the terms of the contract and the laws that apply to the contract, control of
 the goods or service may be transferred over time or at a point in time. Control of the goods
 or service is transferred over time if our performance:
-(cid:129) provides all of the benefits received and consumed simultaneously by the customer;
-(cid:129) creates or enhances an asset that the customer controls as we perform; or
-(cid:129) does not create an asset with an alternative use to us and we have an enforceable
+ provides all of the benefits received and consumed simultaneously by the customer;
+ creates or enhances an asset that the customer controls as we perform; or
+ does not create an asset with an alternative use to us and we have an enforceable
 right to payment for performance completed to date.
 If control of the goods or services transfers over time, revenue is recognized over the
 period of the contract by reference to the progress towards complete satisfaction of that
@@ -15067,19 +15067,19 @@ value-added service on these query information and SMS notification services tha
 needs through suppliers selected by us from a customer-approved supplier list and the
 customers do not know which supplier is finally deployed; and the customers consider us to be
 primarily responsible for fulfilling the performance obligation. In addition:
-(cid:129) We retain the sole discretion to establish the price for the query information and
+ We retain the sole discretion to establish the price for the query information and
 SMSservicesprovidedtothecustomers.Wearerequiredtopaythesuppliersafixed
 priceforeachserviceused,whichisnotaffectedbythepricepaidbyourcustomers.
 This discretion to establish prices demonstrates our ability to obtain substantially all
 oftheremainingbenefitsfromthequery/SMSnoticeservices,incontrasttoanagent
 who normally charges a commission or fee as a percentage of the customer’s paid
 price.
-(cid:129) We do not bear any inventory risks related to the query/SMS notice services. We
+ We do not bear any inventory risks related to the query/SMS notice services. We
 only request the services from the supplier upon receiving a customer’s request for
 query and SMS notice services. We do not commit to paying the supplier for the
 services until the request from the customer is received, sent to the supplier, and the
 result is obtained.
-(cid:129) During the course of providing the services, we may source information requested
+ During the course of providing the services, we may source information requested
 or SMS services required by the customers from multiple suppliers via the API
 marketplace, and we have the discretion in selecting suppliers from a customer-
 approved supplier list that meets the customer’s needs to provide the requested
@@ -15100,20 +15100,20 @@ primary responsibility for successful top-up rests with the telecommunications o
 crediting the relevant top-up value to the end users. We only facilitate the transmission of this
 top-up request with limited involvement in the top-up request process with the customer’s
 designated telecommunications operators. In addition:
-(cid:129) The revenue earned from top-up service is based on agreed fees, which are
+ The revenue earned from top-up service is based on agreed fees, which are
 calculated as a percentage of the total top-up face value and the amount of the fee
 earned is low. The lack of the sole discretion to establish prices and we only earn
 anarrowmargininsteadofobtainingsubstantiallyalloftheremainingbenefitsfrom
 the top-up service. This is consistent with the definition of revenue earned by an
 agent under IFRS 15, which is a commission or fee earned for facilitating a
 transaction between two parties.
-(cid:129) We do not bear any inventory risks related to top-up service being provided to the
+ We do not bear any inventory risks related to top-up service being provided to the
 customer. As an intermediary facilitating the transmission of this top-up request
 between the customer and the supplier, we do not commit to pay the supplier for the
 services until we have received a request from the customer and sent the
 corresponding request to the supplier. We do not hold any inventory for top-up
 services.
-(cid:129) We do not have any discretion on selecting ultimate suppliers for customers. For
+ We do not have any discretion on selecting ultimate suppliers for customers. For
 example, we can only choose China Mobile for a China Mobile user’s top-up; thus,
 we are an agent between China Mobile and the customer.
 Therefore, we are acting as an agent for the top-up service, and relevant revenue should
@@ -15145,11 +15145,11 @@ presented on a net basis.
 Contract Costs
 We recognize an asset from the costs incurred to fulfill a contract when those costs meet
 all of the following criteria:
-(cid:129) the costs relate directly to a contract or to an anticipated contract that we can
+ the costs relate directly to a contract or to an anticipated contract that we can
 specifically identify;
-(cid:129) the costs generate or enhance our resources that will be used in satisfying (or in
+ the costs generate or enhance our resources that will be used in satisfying (or in
 continuing to satisfy) performance obligations in the future; and
-(cid:129) the costs are expected to be recovered.
+ the costs are expected to be recovered.
 The asset recognized is subsequently amortized to profit or loss on a systematic basis that
 isconsistentwiththetransfertothecustomerofthegoodsorservicestowhichthecostsrelate.
 The asset is subject to impairment review.
@@ -15708,10 +15708,10 @@ development work was mainly in relation to the development of data management pl
 and operating systems. During the Track Record Period, we outsourced research and
 developmentworktofivelocalcompanies,whichareallIndependentThirdParties.Ofthefive
 service providers:
-(cid:129) one is a data service company incorporated inWuxi, Jiangsu Province that primarily
+ one is a data service company incorporated inWuxi, Jiangsu Province that primarily
 focuses on developing national industrial internet platforms and providing industrial
 data intelligence system-related services;
-(cid:129) one is a data technology company incorporated in Suzhou, Jiangsu Province that
+ one is a data technology company incorporated in Suzhou, Jiangsu Province that
 primarilyfocusesonprovidinggeneraldatatechnologyservices,includingtechnical
 services, technology development, technical consultation, internet data services, big
 data services, data processing and storage support services, and others;
@@ -15719,18 +15719,18 @@ data services, data processing and storage support services, and others;
 
 === PAGE 348 ===
 FINANCIAL INFORMATION
-(cid:129) one is an information technology company incorporated in Suzhou, Jiangsu
+ one is an information technology company incorporated in Suzhou, Jiangsu
 Province that primarily focuses on providing smart urban services relating to the
 development of smart cities and smart transportation, including professional
 consultation on informatization of government administration, database
 construction, development of platform software, spatiotemporal data modelling and
 mining, big data processing and analysis, and others;
-(cid:129) one is a data technology company incorporated in Wuxi, Jiangsu Province that
+ one is a data technology company incorporated in Wuxi, Jiangsu Province that
 primarily focuses on providing services related to technology research and
 development, technical consultation, technical services, computer software and
 hardware, data processing and storage technology, information system integration,
 digital multimedia projects, and others; and
-(cid:129) one is an information technology company incorporated in Suzhou, Jiangsu
+ one is an information technology company incorporated in Suzhou, Jiangsu
 Province that primarily focuses on the development of geographic information
 systems and providing data services related to geographic information systems.
 Our Directors confirm that except for the research and development outsourcing
@@ -16309,7 +16309,7 @@ Ourtradereceivablesturnoverdaysfor2021,2022and2023were114days,125daysand
 and the accounts payable turnover days may result in liquidity mismatch.
 In view of the cash flow mismatch, to improve and refine our liquidity management, we
 plan to implement the following measures:
-(cid:129) For API marketplace, we plan to continue developing relationships with more customers
+ For API marketplace, we plan to continue developing relationships with more customers
 of sound credit profile and expanding our business. We expect our bargaining power to
 increase in the future as our business grows, and that we would be able to negotiate for
 more favorable terms with our customers and shorten the collection period of our trade
@@ -16317,7 +16317,7 @@ receivables, as well as negotiate for more favorable terms with our suppliers an
 the settlement period of our trade payables. In addition to gaining large customers, we
 also expect to attract more smaller-sized customers, who are generally pre-paid, as our
 business continues to expand and our brand recognition continues to improve.
-(cid:129) For data management solutions, we plan to increase our provision of solutions with more
+ For data management solutions, we plan to increase our provision of solutions with more
 standardized components, which generally have a shorter collection period than solutions
 with more customized components. As a result, we expect that the liquidity of our data
 management solution business would improve with the increase in our sales of solutions
@@ -16560,7 +16560,7 @@ companies. As of the Latest Practicable Date, we had subsequently recovered RMB4
 of these trade receivables. However, our Directors believe that there is no material risk that the
 remaining trade receivables aged over 90 days could not be recovered based on the following
 factors:
-(cid:129) 94.1% of the RMB20.9 million was due from five customers, including three other
+ 94.1% of the RMB20.9 million was due from five customers, including three other
 customers and two SOE customers (accounting for approximately 32.0% of the
 RMB20.9 million). For the two SOE customers, we have obtained a favorable court
 judgment in our litigation against one of them (accounting for approximately 7.6%
@@ -16571,7 +16571,7 @@ payments. For the other SOE customer (accounting for approximately 24.4% of the
 RMB20.9 million), we expect this customer to fully settle its outstanding
 receivables by July 31, 2024 based on the continuous discussions between our sales
 personnel and this customer.
-(cid:129) For the three other customers (accounting for approximately 62.1% of the RMB20.9
+ For the three other customers (accounting for approximately 62.1% of the RMB20.9
 million), based on our regular communications with them, their delays in settlement
 were not due to their experiencing any interruptions in business activities,
 encountering any financial difficulties or having disputes with us. Instead, they
@@ -16583,7 +16583,7 @@ course as agreed with them.
 
 === PAGE 370 ===
 FINANCIAL INFORMATION
-(cid:129) For the three other customers, the first one (accounting for 25.6% of the RMB20.9
+ For the three other customers, the first one (accounting for 25.6% of the RMB20.9
 million) delayed settlement due to a settlement dispute with its own client, but this
 customer has since resolved its dispute with its client, who has agreed to pay our
 customer in monthly installments starting from December 2023. We expect this
@@ -16594,7 +16594,7 @@ time to reconcile their records of their own clients’usage ofAPI services with
 own records. We expect to collect the outstanding receivables due from these two
 customers by July 31, 2024, and have already settled in full from the third customer
 as of the Latest Practicable Date.
-(cid:129) Fortheremaining5.9%oftheRMB20.9million,weexpecttheoutstandingamounts
+ Fortheremaining5.9%oftheRMB20.9million,weexpecttheoutstandingamounts
 to be fully settled by July 31, 2024 based on the continuous discussions between our
 sales personnel and the relevant customers.
 During theTrack Record Period, our trade receivables comprised both unbilled and billed
@@ -16652,7 +16652,7 @@ listed on the Beijing, Shanghai, Shenzhen and/or Stock Exchanges.
 Exchanges.
 Our Directors believe that there are no material recoverability issues with the trade
 receivables due from our major and strategic customers on the following basis:
-(cid:129) Our major and strategic customers are primarily government entities, SOEs, and
+ Our major and strategic customers are primarily government entities, SOEs, and
 large corporate entities with solid credit profiles and a history of settling receivables
 with us. We have generally maintained strong and stable business relationships with
 these customers;
@@ -16660,12 +16660,12 @@ these customers;
 
 === PAGE 372 ===
 FINANCIAL INFORMATION
-(cid:129) The delay in settlement by certain of our major and strategic customers was not
+ The delay in settlement by certain of our major and strategic customers was not
 caused by financial difficulties or interruptions in their business activities, but due
 to their effort at better managing their liquidity and cash flow as they were still
 recovering from the negative impact of the COVID-19 pandemic or had yet to settle
 receivables due from their own customers; and
-(cid:129) Our sales personnel maintain communications with these customers to monitor their
+ Our sales personnel maintain communications with these customers to monitor their
 business performance and financial position and to discuss settlement plans. Based
 on such communications, these customers have generally agreed to settle their
 receivables in full within the first nine months of 2024.
@@ -16768,18 +16768,18 @@ receivables turnover days were 11 days in 2021, 22 days in 2022 and 38 days in 2
 billed receivables turnover days were generally within our credit period of five to 60 days.
 We closely monitor and control the recoverability of our outstanding receivables,
 especially unbilled receivables, by adopting the following measures:
-(cid:129) keeping records of outstanding receivables;
-(cid:129) requiring our sales personnel to communicate with customers regarding payment
+ keeping records of outstanding receivables;
+ requiring our sales personnel to communicate with customers regarding payment
 plans;
-(cid:129) if a customer’s payment to us is dependent on the customer’s receivables, we will
+ if a customer’s payment to us is dependent on the customer’s receivables, we will
 take reasonable efforts to understand the recoverability of the relevant receivables
 from the perspective of our customer;
-(cid:129) implementing various measures to collect outstanding payments, including: (i)
+ implementing various measures to collect outstanding payments, including: (i)
 negotiating with customers to formulate payment plans and monitoring the
 implementation of such plans; (ii) prompting customers to complete internal
 approval and invoice issuance processes as soon as possible; and (iii) sending
 overdue payment notices to customers; and
-(cid:129) maintaining and regularly updating a list of customers with payments that are
+ maintaining and regularly updating a list of customers with payments that are
 overdue and designating personnel to collect overdue payments.
 – 363 –
 
@@ -16787,15 +16787,15 @@ overdue and designating personnel to collect overdue payments.
 FINANCIAL INFORMATION
 Our Director consider our Group’s internal controls on monitoring and controlling our
 unbilled receivables sufficient and effective, on the basis that:
-(cid:129) As of the Latest Practicable Date, 90.2% and 97.3% of the unbilled receivables as
+ As of the Latest Practicable Date, 90.2% and 97.3% of the unbilled receivables as
 of December 31, 2022 and 2021, respectively, were billed; and 86.8% and 97.0% of
 the unbilled receivables as of December 31, 2022 and 2021, respectively, were
 settled. This indicated that our customers were willing to pay their unbilled
 receivables;
-(cid:129) The amount of the billed receivables was one of the assessment criteria of sales
+ The amount of the billed receivables was one of the assessment criteria of sales
 personnels’ payroll. They have personal interests to follow up with customers and
 facilitate the billing of unbilled receivables; and
-(cid:129) Our revenue derived from the contributions from large customers. For example, for
+ Our revenue derived from the contributions from large customers. For example, for
 each of the years ended December 31, 2021, 2022 and 2023, revenue from our five
 largest customers accounted for approximately 41.1% to 62.3% of our total revenue.
 Our data management solutions have less than 30 customers in each of the years
@@ -16906,20 +16906,20 @@ Total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97.0% 86.8% 
 The subsequent settlement rate as of the Latest Practicable Date of our unbilled
 receivables for data management solutions as of December 31, 2022 was relatively low at
 69.7%, primarily because the following four customers had yet to settle payments with us:
-(cid:129) Two SOE customers that had to go through lengthy internal processes before issuing
+ Two SOE customers that had to go through lengthy internal processes before issuing
 payments to us. As per communications with our sales personnel, one of them
 (accounting for 65.5% of the unbilled receivables for data management solutions as
 of December 31, 2022 that remained unsettled as of the Latest Practicable Date) has
 agreed to settle its outstanding unbilled receivables with us before July 31, 2024,
 and the other one (accounting for 11.9% of the outstanding unbilled receivables)
 before September 30, 2024;
-(cid:129) A publicly-funded university (accounting for 22.5% of the outstanding unbilled
+ A publicly-funded university (accounting for 22.5% of the outstanding unbilled
 receivables) that delayed its settlement due to a decrease in the government grants
 it received in 2022 and 2023 as the COVID-19 pandemic negatively impacted the
 local government’s financial position. As per communications with our sales
 personnel, this customer has agreed to settle its outstanding unbilled receivables
 with us before July 31, 2024; and
-(cid:129) An SOE customer (accounting for 0.1% of the outstanding unbilled receivables)
+ An SOE customer (accounting for 0.1% of the outstanding unbilled receivables)
 delayed its settlement as it had not yet received payments due from its own
 customer, a local government platform in Suzhou. As per communications with our
 sales personnel, this customer has agreed to settle the outstanding unbilled
@@ -17482,7 +17482,7 @@ payable by us in connection with the Global Offering, based on the Offer Price o
 per H Share:
 We intend to use the net proceeds we will receive from the Global Offering for the
 following purposes.
-(cid:129) Approximately HK$86.0 million, representing 25% of the net proceeds, will be used
+ Approximately HK$86.0 million, representing 25% of the net proceeds, will be used
 to comprehensively upgrade the existing suite of APIs in our API marketplace, in
 order to seize the significant opportunities arising from the opening and authorized
 operations of government and public data, which may create opportunities for future
@@ -17539,7 +17539,7 @@ promotion, maintaining customer relationships and sales channels, as well as
 enhancing our brand awareness through strengthened marketing efforts. We
 also plan to use the proceeds for marketing expenses online and offline in the
 next three years.
-(cid:129) Approximately HK$154.8 million, representing 45% of the net proceeds, will be
+ Approximately HK$154.8 million, representing 45% of the net proceeds, will be
 used to upgrade our existing products and services of our data management
 solutions. This aims to develop and expand industry-specific applications,
 strengthening our technical capabilities and market competitiveness in data
@@ -17588,7 +17588,7 @@ our product delivery and customer service team, including hiring project
 delivery directors, intermediate and senior project managers, operation and
 maintenance engineers, DevOps engineers, RPA implementation engineers,
 and customer service managers.
-(cid:129) Approximately HK$68.8 million, representing 20% of the net proceeds, will be used
+ Approximately HK$68.8 million, representing 20% of the net proceeds, will be used
 to research and develop the technologies for data security and privacy protection,
 building a comprehensive ecosystem for digital ownership, secure data storage,
 trusted data transmission, and collaborative production. This aims to enhance our
@@ -17619,7 +17619,7 @@ three years.
 
 === PAGE 398 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) Approximately HK$34.4 million, representing 10% of the net proceeds will be used
+ Approximately HK$34.4 million, representing 10% of the net proceeds will be used
 for working capital and general corporate purposes.
 To the extent that our net proceeds are not sufficient to fund the purposes set out above,
 we intend to fund the balance through a variety of means, including cash generated from
@@ -18556,13 +18556,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the White Form eIPO service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the White Form eIPO service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the
 person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or close associates; or
-(cid:129) are a Director or a Supervisor or any of his/her close associates.
+ are an existing Shareholder or close associates; or
+ are a Director or a Supervisor or any of his/her close associates.
 2. Application Channels
 The Hong Kong Public Offering period will begin at 9:00 am on Thursday, June 20,
 2024 and end at 12:00 noon on Tuesday, June 25, 2024 (Hong Kong time).
@@ -18642,17 +18642,17 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual or Joint Applicants For Corporate Applicants
-(cid:129) Full name(s)2 as shown on your (cid:129) Full name(s)2 as shown on your
+ Full name(s)2 as shown on your Full name(s)2 as shown on your
 identity document identity document
-(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
+ Identity document’s issuing country or Identity document’s issuing country or
 jurisdiction jurisdiction
-(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
+ Identity document type, with order of Identity document type, with order of
 priority: priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification document; ii. Certificate of incorporation; or
 or iii. Business registration certificate; or
 iii. Passport; and iv. Other equivalent document; and
-(cid:129) Identity document number (cid:129) Identity document number
+ Identity document number Identity document number
 Notes:
 1. If you are applying through the White Form eIPO service, you are required to provide a valid e-mail
 address,acontacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclarethatthe
@@ -18688,9 +18688,9 @@ above.
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -18928,21 +18928,21 @@ application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list our H Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “–A.Applications for Hong Kong Offer Shares – 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
 – 421 –
 
 === PAGE 433 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Sole Overall Coordinator believe that by accepting your application, it or
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Sole Overall Coordinator believe that by accepting your application, it or
 we would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted H Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -19055,9 +19055,9 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Tuesday, June 25, 2024 if, there is/are:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ Extreme Conditions,
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Tuesday, June 25,
 2024.
@@ -19074,12 +19074,12 @@ will make appropriate arrangements for the delivery of the H Share certificates 
 Depository’s service counter so that they would be available for trading on Friday, June 28,
 2024.
 If a Severe Weather Signal is hoisted on Friday, June 28, 2024:
-(cid:129) for physical H share certificates of 100,000 or more Offer Shares issued under your
+ for physical H share certificates of 100,000 or more Offer Shares issued under your
 own name, you may pick them up from the H Share Registrar’s office after the
 Severe Weather Signal is lowered or cancelled (e.g. in the afternoon of Friday, June
 28, 2024 or on Tuesday, July 2, 2024).
 If a Severe Weather Signal is hoisted on Thursday, June 27, 2024:
-(cid:129) for physical H share certificates of less than 100,000 Offer Shares issued under your
+ for physical H share certificates of less than 100,000 Offer Shares issued under your
 own name, despatch will be made by ordinary post when the post office re-opens
 after the Severe Weather Signal is lowered or cancelled (e.g. in the afternoon of
 Thursday, June 27, 2024 or on Friday, June 28, 2024).
@@ -19136,23 +19136,23 @@ supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund cheque and White Form e-Refund payment
+ processing your application and refund cheque and White Form e-Refund payment
 instructions payment instruction(s), where applicable, verification of compliance
 with the terms and application procedures set out in this prospectus and announcing
 results of allocation of Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the H
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the H
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the H Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the H Shares and identifying any
 duplicate applications for the H Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the H Shares, such as dividends,
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the H Shares, such as dividends,
 rights issues, bonus issues, etc.;
-(cid:129) distributing communications from our Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the H Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+ distributing communications from our Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the H Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the H Shares and/or regulators and/or any other purposes to which
 applicants and holders of the H Shares may from time to time agree.
@@ -19166,21 +19166,21 @@ for and holders of Hong Kong Offer Shares will be kept confidential but our Comp
 H Share Registrar may, to the extent necessary for achieving any of the above purposes,
 disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to, from
 or with any of the following:
-(cid:129) our Company’s appointed agents such as financial advisers, receiving bank and
+ our Company’s appointed agents such as financial advisers, receiving bank and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and
 operating FINI and CCASS (including where applicants for the Hong Kong Offer
 Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to our Company or the H
 Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of personal data
@@ -19773,9 +19773,9 @@ or other sales taxes and is after deduction of any trade discounts.
 Dependingonthetermsofthecontractandthelawsthatapplytothecontract,controlofthegoodsorservice
 may be transferred over time or at a point in time. Control of the goods or service is transferred over time if the
 Group’s performance:
-(cid:129) provides all of the benefits received and consumed simultaneously by the customer;
-(cid:129) creates or enhances an asset that the customer controls as the Group performs; or
-(cid:129) doesnotcreateanassetwithanalternativeusetotheGroupandtheGrouphasanenforceablerightto
+ provides all of the benefits received and consumed simultaneously by the customer;
+ creates or enhances an asset that the customer controls as the Group performs; or
+ doesnotcreateanassetwithanalternativeusetotheGroupandtheGrouphasanenforceablerightto
 payment for performance completed to date.
 If control of the goods or services transfers over time, revenue is recognized over the period of the contract
 by reference to the progress towards complete satisfaction of that performance obligation. Otherwise, revenue is
@@ -19941,9 +19941,9 @@ APPENDIX I ACCOUNTANTS’ REPORT
 At the end of each reporting period, the Group reviews the carrying amounts of the following assets to
 determine whether there is any indication that those assets have suffered an impairment loss or an impairment loss
 previously recognized no longer exists or may have decreased:
-(cid:129) Property, plant and equipment, including right-of-use assets;
-(cid:129) Investments in subsidiaries; and
-(cid:129) Intangible assets.
+ Property, plant and equipment, including right-of-use assets;
+ Investments in subsidiaries; and
+ Intangible assets.
 Whereanassetdoesnotgeneratecashinflowslargelyindependentofthosefromotherassets,therecoverable
 amountisdeterminedforthesmallestgroupofassetsthatgeneratescashinflowsindependently(ie.cashgenerating
 units (“CGUs”)).As a result, some assets are tested individually for impairment and some are tested at CGU level.
@@ -20053,12 +20053,12 @@ risk ratings.
 Afinancialassetiscredit-impairedwhenoneormoreeventsthathaveadetrimentalimpactontheestimated
 future cash flows of that financial asset have occurred. Evidence that a financial asset is credit-impaired includes
 observable data about the following events:
-(cid:129) significant financial difficulty of the issuer or the borrower;
-(cid:129) the lender(s) of the borrower, for economic or contractual reasons relating to the borrower’s financial
+ significant financial difficulty of the issuer or the borrower;
+ the lender(s) of the borrower, for economic or contractual reasons relating to the borrower’s financial
 difficulty, having granted to the borrower a concession(s) that the lender(s) would not otherwise
 consider;
-(cid:129) it is becoming probable that the borrower will enter bankruptcy or other financial reorganization; or
-(cid:129) a breach of contract, such as a default or past due event.
+ it is becoming probable that the borrower will enter bankruptcy or other financial reorganization; or
+ a breach of contract, such as a default or past due event.
 The Group recognizes an impairment gain or loss in profit or loss for all financial instruments with a
 corresponding adjustment to their carrying amount through a loss allowance account.
 The Group writes off a financial asset when there is information indicating that the counterparty is in severe
@@ -20304,7 +20304,7 @@ customers’ point of view, it is the Group that provides value-added service on
 notification services which meet their needs through suppliers selected by the Group from a customer approved
 supplierlistandthecustomersdonotknowwhichsupplierisfinallydeployed;andthecustomersconsidertheGroup
 to be primarily responsible for fulfilling the performance obligation. In addition:
-(cid:129) The Group retains sole discretion to establish the price for the query information and SMS services
+ The Group retains sole discretion to establish the price for the query information and SMS services
 providedtothecustomers.TheGroupisrequiredtopaythesuppliersafixedpriceforeachserviceused,
 which is not affected by the price paid by the Group’s customers. This discretion to establish prices
 demonstrates the Group’s ability to obtain substantially all of the remaining benefits from the
@@ -20314,11 +20314,11 @@ percentage of the customer’s paid price.
 
 === PAGE 468 ===
 APPENDIX I ACCOUNTANTS’ REPORT
-(cid:129) TheGroupdoesnotbearanyinventoryrisksrelatedtotheQuery/SMSnoticeservices.TheGrouponly
+ TheGroupdoesnotbearanyinventoryrisksrelatedtotheQuery/SMSnoticeservices.TheGrouponly
 requests the services from the supplier upon receiving a customer’s request for Query and SMS notice
 services.The Group does not commit to paying the supplier for the services until the request from the
 customer is received, sent to the supplier, and the result is obtained.
-(cid:129) During the course of providing the services, the Group may source information requested or SMS
+ During the course of providing the services, the Group may source information requested or SMS
 servicesrequiredbythecustomersfrommultiplesuppliersviatheAPImarketplace,andtheGrouphas
 discretioninselectingsuppliersfromacustomerapprovedsupplierlistthatmeetthecustomer’sneeds
 to provide the requested query information and SMS services.
@@ -20333,18 +20333,18 @@ request order to the supplier, and the primary responsibility for successful top
 operatorsforcreditingtherelevanttop-upvaluetotheendusers.TheGrouponlyfacilitatesthetransmissionofthis
 top-up request with limited involvement in the top-up request process with the customer’s designated
 telecommunication operators. In addition:
-(cid:129) The revenue earned from top-up service is based on agreed fees, which are calculated as a percentage
+ The revenue earned from top-up service is based on agreed fees, which are calculated as a percentage
 ofthetotaltop-upfacevalueandtheamountofthefeeearnedislow.TheGroupdoesnothavethesole
 discretion to establish prices and the Group only earns a narrow margin instead of obtaining
 substantiallyalloftheremainingbenefitsfromthetop-upservice.Thisisconsistentwiththedefinition
 of revenue earned by an agent under IFRS 15, which is a commission or fee earned for facilitating a
 transaction between two parties.
-(cid:129) The Group does not bear any inventory risks related to top-up service being provided to the customer.
+ The Group does not bear any inventory risks related to top-up service being provided to the customer.
 As an intermediary facilitating the transmission of this top-up request between the customer and the
 supplier, the Group does not commit to pay the supplier for the services until it has received a request
 from the customer and sent the corresponding request to the supplier. The Group does not hold any
 inventory for top-up services.
-(cid:129) The Group does not have discretion on selecting ultimate suppliers for customers. For example, the
+ The Group does not have discretion on selecting ultimate suppliers for customers. For example, the
 Group can only choose China Mobile for a China Mobile user’s top up; thus the Group is an agent
 between China Mobile and the customer.
 Therefore, the Group is acting as an agent for the top-up service, and relevant revenue should be recognized
@@ -22464,9 +22464,9 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the Unaudited Pro Forma Financial Information provide a reasonable
 basis for presenting the significant effects directly attributable to the event or transaction, and
 to obtain sufficient appropriate evidence about whether:
-(cid:129) the related unaudited pro forma adjustments give appropriate effect to those criteria;
+ the related unaudited pro forma adjustments give appropriate effect to those criteria;
 and
-(cid:129) the Unaudited Pro Forma Financial Information reflects the proper application of
+ the Unaudited Pro Forma Financial Information reflects the proper application of
 those adjustments to the unadjusted financial information.
 – II-4 –
 
@@ -22991,12 +22991,12 @@ sovereignty or security or against social and public interest.
 THE COMPANY LAW AND ADMINISTRATIVE MEASURES
 A joint stock limited company which was incorporated in the PRC and seeking a listing
 on the Stock Exchange is mainly subject to the following laws and regulations in the PRC:
-(cid:129) The PRC Company Law which was promulgated by the Standing Committee of the
+ The PRC Company Law which was promulgated by the Standing Committee of the
 NPC on December 29, 1993, came into effect on July 1, 1994, revised on December
 25, 1999,August 28, 2004, October 27, 2005, December 28, 2013, October 26, 2018
 and December 29, 2023 respectively and the latest revision of which would be
 implemented on July 1, 2024;
-(cid:129) AccordingtotheOverseasListingTrialMeasuresandGuidelinesontheApplication
+ AccordingtotheOverseasListingTrialMeasuresandGuidelinesontheApplication
 of Regulatory Rules – No. 1 for Overseas Offering and Listing (《監管規則適用指
 引–境外發行上市類第1號》) which was promulgated by the CSRC on February 17,
 2023, and came into effect on March 31, 2023, the domestic companies that directly
@@ -23084,10 +23084,10 @@ physical items, intellectual property rights, and land-use rights that may be va
 term and may be transferred in accordance with the law.
 Under the Company Law, when the company issues shares in registered form, it shall
 maintain a register of shareholders, stating the following matters:
-(cid:129) the name and domicile of each shareholder;
-(cid:129) the number of shares held by each shareholder;
-(cid:129) the serial numbers of shares held by each shareholder; and
-(cid:129) the date on which each shareholder acquired the shares.
+ the name and domicile of each shareholder;
+ the number of shares held by each shareholder;
+ the serial numbers of shares held by each shareholder; and
+ the date on which each shareholder acquired the shares.
 – IV-6 –
 
 === PAGE 535 ===
@@ -23105,16 +23105,16 @@ an announcement shall be made.
 Reduction of Share Capital
 Acompany may reduce its registered capital in accordance with the following procedures
 prescribed by the Company Law:
-(cid:129) it shall prepare a balance sheet and a property list;
-(cid:129) the reduction of registered capital shall be approved by a shareholders’ general
+ it shall prepare a balance sheet and a property list;
+ the reduction of registered capital shall be approved by a shareholders’ general
 meeting;
-(cid:129) it shall inform its creditors of the reduction in capital within 10 days and publish an
+ it shall inform its creditors of the reduction in capital within 10 days and publish an
 announcement of the reduction in the newspaper within 30 days after the resolution
 approving the reduction has been passed;
-(cid:129) creditors may within 30 days after receiving the notice, or within 45 days of the
+ creditors may within 30 days after receiving the notice, or within 45 days of the
 public announcement if no notice has been received, require the company to pay its
 debts or provide guarantees covering the debts;
-(cid:129) it shall apply to the relevant administration of registration for the registration of the
+ it shall apply to the relevant administration of registration for the registration of the
 reduction in registered capital.
 Repurchase of Shares
 According to the Company Law, a joint stock limited company may not purchase its
@@ -23174,22 +23174,22 @@ APPENDIX IV SUMMARY OF PRINCIPAL LEGALAND REGULATORY PROVISIONS
 Shareholders
 Under the Company Law and the PRC Guidelines on AoA, the rights of holders of
 ordinary shares of a joint stock limited company include:
-(cid:129) to receive dividends and other distributions according to the number of shares held;
-(cid:129) to attend the general meeting in person or by proxy and exercise the right to vote on
+ to receive dividends and other distributions according to the number of shares held;
+ to attend the general meeting in person or by proxy and exercise the right to vote on
 the number of shares held;
-(cid:129) to supervise, forward suggestions on or question the Company’s operations;
-(cid:129) transfer, donate or pledge its shares in accordance with applicable laws and
+ to supervise, forward suggestions on or question the Company’s operations;
+ transfer, donate or pledge its shares in accordance with applicable laws and
 regulations and the company’s Articles of Association;
-(cid:129) to inspect the company’s Articles of Association, register of shareholders,
+ to inspect the company’s Articles of Association, register of shareholders,
 counterfoil of creditor’s rights, minutes of shareholders’meeting, resolutions of the
 boardofdirectors,resolutionsofthesupervisoryboardandfinancialandaccounting
 reports;
-(cid:129) to acquire the remaining assets of the company in proportion to its shareholding at
+ to acquire the remaining assets of the company in proportion to its shareholding at
 the time of termination or liquidation;
-(cid:129) any shareholder who has a different view on a resolution on the merger or division
+ any shareholder who has a different view on a resolution on the merger or division
 of the Company made by a shareholders’general meeting has the right to require the
 Company to acquire its shares; and
-(cid:129) any other shareholder’s rights specified in the laws, regulations and company’s
+ any other shareholder’s rights specified in the laws, regulations and company’s
 Articles of Association.
 The obligations of the shareholders include to abide by theArticles ofAssociation of the
 company, to pay the subscription amount for the subscribed shares, to bear the debts and
@@ -23207,38 +23207,38 @@ The shareholders’ general meeting is the organ of authority of the company, wh
 exercises its powers in accordance with the Company Law.
 Under the Company Law, the shareholders’ general meeting exercises the following
 principal powers:
-(cid:129) to decide on the company’s operational policies and investment plans;
-(cid:129) to elect or remove the directors and supervisors (other than the representative of the
+ to decide on the company’s operational policies and investment plans;
+ to elect or remove the directors and supervisors (other than the representative of the
 employees of the company) and to decide on matters relating to the remuneration of
 directors and supervisors;
-(cid:129) to examine and approve reports of the board of directors;
-(cid:129) to examine and approve reports of the board of supervisors;
-(cid:129) to examine and approve the company’s proposed annual financial budget and final
+ to examine and approve reports of the board of directors;
+ to examine and approve reports of the board of supervisors;
+ to examine and approve the company’s proposed annual financial budget and final
 accounts;
-(cid:129) to examine and approve the company’s proposals for profit distribution plans and
+ to examine and approve the company’s proposals for profit distribution plans and
 loss recovery plans;
-(cid:129) to decide on any increase or reduction of the company’s registered capital;
-(cid:129) to decide on the issue of bonds by the company;
-(cid:129) to decide on issues such as merger, division, dissolution and liquidation of the
+ to decide on any increase or reduction of the company’s registered capital;
+ to decide on the issue of bonds by the company;
+ to decide on issues such as merger, division, dissolution and liquidation of the
 company and other matters;
-(cid:129) to amend the company’s articles of association; and
-(cid:129) other powers as provided for in the articles of association.
+ to amend the company’s articles of association; and
+ other powers as provided for in the articles of association.
 Shareholders’annual general meetings are required to be held once every year. Under the
 Company Law, an extraordinary shareholders’ general meeting is required to be held within
 two months after the occurrence of any of the following:
-(cid:129) thenumberofdirectorsislessthanthenumberstipulatedbythelaworlessthantwo
+ thenumberofdirectorsislessthanthenumberstipulatedbythelaworlessthantwo
 thirds of the number specified in the articles of association;
-(cid:129) the aggregate losses of the company which are not recovered reach one-third of the
+ the aggregate losses of the company which are not recovered reach one-third of the
 company’s total paid-in share capital;
 – IV-10 –
 
 === PAGE 539 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGALAND REGULATORY PROVISIONS
-(cid:129) when shareholders alone or in aggregate holding 10% or more of the company’s
+ when shareholders alone or in aggregate holding 10% or more of the company’s
 shares request the convening of an extraordinary general meeting;
-(cid:129) whenever the board of directors deems necessary;
-(cid:129) when the board of supervisors so requests; or
-(cid:129) other circumstances as provided for in the articles of associations.
+ whenever the board of directors deems necessary;
+ when the board of supervisors so requests; or
+ other circumstances as provided for in the articles of associations.
 Under the Company Law, shareholders’general meetings shall be convened by the board
 of directors, and presided over by the chairman of the board of directors. In the event that the
 chairman is incapable of performing or does not perform his duties, the meeting shall be
@@ -23295,27 +23295,27 @@ articles of association until a duly re-elected director takes office, if re-ele
 conducted in a timely manner upon the expiry of his term of office, or if the resignation of
 directors results in the number of directors being less than the quorum.
 Under the Company Law, the board of directors mainly exercises the following powers:
-(cid:129) to convene the shareholders’ general meetings and report on its work to the
+ to convene the shareholders’ general meetings and report on its work to the
 shareholders’ general meetings;
-(cid:129) to implement the resolutions passed in shareholders’ general meetings;
-(cid:129) to decide on the company’s business plans and investment proposals;
-(cid:129) to formulate the company’s proposed annual financial budget and final accounts;
-(cid:129) to formulate the company’s profit distribution proposals and loss recovery
+ to implement the resolutions passed in shareholders’ general meetings;
+ to decide on the company’s business plans and investment proposals;
+ to formulate the company’s proposed annual financial budget and final accounts;
+ to formulate the company’s profit distribution proposals and loss recovery
 proposals;
-(cid:129) to formulate proposals for the increase or reduction of the company’s registered
+ to formulate proposals for the increase or reduction of the company’s registered
 capital and the issuance of corporate bonds;
 – IV-12 –
 
 === PAGE 541 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGALAND REGULATORY PROVISIONS
-(cid:129) to prepare plans for the merger, division, dissolution and change in the form of the
+ to prepare plans for the merger, division, dissolution and change in the form of the
 company;
-(cid:129) to decide on the set-up of internal management organisation of the company;
-(cid:129) todecideonappointmentordismissalofcompanymanagersandtheirremuneration,
+ to decide on the set-up of internal management organisation of the company;
+ todecideonappointmentordismissalofcompanymanagersandtheirremuneration,
 and decide on appointment or dismissal of deputy managers and finance controller
 of the company based on the nomination by the managers;
-(cid:129) to formulate the company’s basic management system; and
-(cid:129) to exercise any other power under the articles of association.
+ to formulate the company’s basic management system; and
+ to exercise any other power under the articles of association.
 Board Meetings
 Under the Company Law, meetings of the board of directors of a joint stock limited
 company shall be convened at least twice a year. Notice of meeting shall be given to all
@@ -23350,21 +23350,21 @@ of the directors shall perform his duties.
 APPENDIX IV SUMMARY OF PRINCIPAL LEGALAND REGULATORY PROVISIONS
 Qualification of Directors
 The Company Law provides that the following persons may not serve as a director:
-(cid:129) a person who is unable or has limited ability to undertake any civil liabilities;
-(cid:129) a person who has been convicted of an offense of bribery, corruption, embezzlement
+ a person who is unable or has limited ability to undertake any civil liabilities;
+ a person who has been convicted of an offense of bribery, corruption, embezzlement
 or misappropriation of property, or the destruction of socialist market economy
 order;orwhohasbeendeprivedofhispoliticalrightsduetohiscrimes,ineachcase
 where less than five years have elapsed since the date of completion of the sentence;
-(cid:129) a person who has been a former director, factory manager or manager of a company
+ a person who has been a former director, factory manager or manager of a company
 or an enterprise that has entered into insolvent liquidation and who was personally
 liable for the insolvency of such company or enterprise, where less than three years
 have elapsed since the date of the completion of the bankruptcy and liquidation of
 the company or enterprise;
-(cid:129) a person who has been a legal representative of a company or an enterprise that has
+ a person who has been a legal representative of a company or an enterprise that has
 had its business license revoked due to violations of the law and has been ordered
 to close down by law and the person was personally responsible, where less than
 three years have elapsed since the date of such revocation; or
-(cid:129) a person who is liable for a relatively large amount of debts that are overdue.
+ a person who is liable for a relatively large amount of debts that are overdue.
 Board of Supervisors
 Ajointstocklimitedcompanyshallhaveaboardofsupervisorscomposedofnotlessthan
 three members. The board of supervisors is made up of representatives of the shareholders and
@@ -23398,21 +23398,21 @@ The board of supervisors of a company shall hold at least one meeting every six 
 According to the PRC Company Law, a resolution of the board of supervisors shall be passed
 by more than half of all the supervisors.
 The board of supervisors exercises the following powers:
-(cid:129) to review the company’s financial position;
-(cid:129) to supervise the directors and senior management in their performance of their
+ to review the company’s financial position;
+ to supervise the directors and senior management in their performance of their
 duties and to propose the removal of directors and senior management who have
 violated laws, regulations, the articles of association or the resolutions of
 shareholders’ meeting;
-(cid:129) when the acts of directors and senior management are harmful to the company’s
+ when the acts of directors and senior management are harmful to the company’s
 interests, to require correction of those acts;
-(cid:129) to propose the convening of extraordinary shareholders’ general meetings and to
+ to propose the convening of extraordinary shareholders’ general meetings and to
 convene and preside over shareholders’ general meetings when the board of
 directors fails to perform the duty of convening and presiding over shareholders’
 general meeting under this law;
-(cid:129) to initiate proposals for resolutions to shareholders’ general meeting;
-(cid:129) to initiate proceedings against directors and senior management;
-(cid:129) other powers specified in the articles of association; and
-(cid:129) Supervisors may attend board meetings and make enquiries or proposals in respect
+ to initiate proposals for resolutions to shareholders’ general meeting;
+ to initiate proceedings against directors and senior management;
+ other powers specified in the articles of association; and
+ Supervisors may attend board meetings and make enquiries or proposals in respect
 of board resolutions. The board of supervisors may initiate investigations into any
 irregularities identified in the operation of the company and, where necessary, may
 engage an accounting firm to assist their work at the company’s expense.
@@ -23431,20 +23431,20 @@ specified in the Articles of Association.
 The company shall have a manager who shall be appointed or removed by the board of
 directors.The manager shall be responsible to the board of directors and exercise the following
 functions and powers:
-(cid:129) to manage the production and operation and administration of the company and
+ to manage the production and operation and administration of the company and
 arrange for the implementation of the resolutions of the board of directors;
-(cid:129) to arrange for the implementation of the company’s annual operation plans and
+ to arrange for the implementation of the company’s annual operation plans and
 investment proposals;
-(cid:129) to formulate proposals for the establishment of the company’s internal management
+ to formulate proposals for the establishment of the company’s internal management
 organs;
-(cid:129) to formulate the fundamental management system of the company;
-(cid:129) to formulate the company’s specific rules and regulations;
-(cid:129) to recommend the appointment or dismissal of any deputy manager and any
+ to formulate the fundamental management system of the company;
+ to formulate the company’s specific rules and regulations;
+ to recommend the appointment or dismissal of any deputy manager and any
 financial officer of the company;
-(cid:129) to appoint or dismiss management personnel (other than those required to be
+ to appoint or dismiss management personnel (other than those required to be
 appointed or dismissed by the board of directors);
-(cid:129) to attend meetings of the board of directors as non-voting participants; and
-(cid:129) other powers granted by the board of directors or the company’s Articles of
+ to attend meetings of the board of directors as non-voting participants; and
+ other powers granted by the board of directors or the company’s Articles of
 Association.
 According to the PRC Guidelines on AoA, other senior management personnel of the
 company include the deputy managers, the Secretary of the board of directors, the person in
@@ -23470,22 +23470,22 @@ have fiduciary and diligent duties to the company. Directors, supervisors and se
 management are prohibited from abusing their powers to accept bribes or other unlawful
 income and from misappropriating of the company’s properties. Directors and senior
 management are prohibited from:
-(cid:129) misappropriation of the company’s capital;
-(cid:129) depositing the company’s capital into accounts under his own name or the name of
+ misappropriation of the company’s capital;
+ depositing the company’s capital into accounts under his own name or the name of
 other individuals;
-(cid:129) loaning company funds to others or providing guarantees in favor of others
+ loaning company funds to others or providing guarantees in favor of others
 supported by the company’s assets in violation of the articles of association or
 without prior approval of the shareholders’ general meeting or board of directors;
-(cid:129) entering into contracts or deals with the company in violation of the articles of
+ entering into contracts or deals with the company in violation of the articles of
 association or without prior approval of the shareholders’ general meeting;
-(cid:129) using their position and powers to procure business opportunities for themselves or
+ using their position and powers to procure business opportunities for themselves or
 others that should have otherwise been available to the company or operating for
 their own benefits or managing on behalf of others businesses similar to that of the
 company without prior approval of the shareholders’ general meeting;
-(cid:129) accepting and possessing commissions paid by a third party for transactions
+ accepting and possessing commissions paid by a third party for transactions
 conducted with the company;
-(cid:129) unauthorized divulgence of confidential business information of the company; or
-(cid:129) other acts in violation of their duty of loyalty to the company.
+ unauthorized divulgence of confidential business information of the company; or
+ other acts in violation of their duty of loyalty to the company.
 A director, supervisor or senior management who contravenes any law, regulation or the
 company’s articles of association in the performance of his duties resulting in any loss to the
 company shall be personally liable to the company.
@@ -23593,15 +23593,15 @@ established within the stipulated period, creditors may apply to the people’s 
 thecourttoappointrelevantpersonneltoformtheliquidationgroup.Thepeople’scourtshould
 accept such application and form a liquidation group to conduct liquidation in a timely manner.
 The liquidation group shall exercise the following powers during the liquidation period:
-(cid:129) to handle the company’s assets and to prepare a balance sheet and an inventory of
+ to handle the company’s assets and to prepare a balance sheet and an inventory of
 the assets;
-(cid:129) to notify creditors through notice or public announcement;
-(cid:129) to deal with the company’s outstanding businesses related to liquidation;
-(cid:129) to pay any tax overdue as well as tax amounts arising from the process of
+ to notify creditors through notice or public announcement;
+ to deal with the company’s outstanding businesses related to liquidation;
+ to pay any tax overdue as well as tax amounts arising from the process of
 liquidation;
-(cid:129) to claim credits and pay off debts;
-(cid:129) to handle the company’s remaining assets after its debts have been paid off; and
-(cid:129) to represent the company in civil lawsuits.
+ to claim credits and pay off debts;
+ to handle the company’s remaining assets after its debts have been paid off; and
+ to represent the company in civil lawsuits.
 – IV-20 –
 
 === PAGE 549 ===
@@ -23716,13 +23716,13 @@ The Company Law has deleted provisions governing suspension and termination of
 listing. The PRC Securities Law has also deleted provisions regarding suspension of listing.
 The Securities Law removes the provisions regarding the suspension of listings while
 stating the following provisions for the termination of listings:
-(cid:129) securities to be listed for trading shall be terminated from listing by the stock
+ securities to be listed for trading shall be terminated from listing by the stock
 exchange in accordance with the business rules where the circumstances leading to
 the termination of listing as prescribed by such stock exchange occurs;
-(cid:129) where a termination of listing for securities is determined by the stock exchange, an
+ where a termination of listing for securities is determined by the stock exchange, an
 announcement shall be made in a timely manner and the record shall be filed with
 the security’s regulatory authorities of the State Council; and
-(cid:129) in the event of objection to a decision of disapproval or termination of listing made
+ in the event of objection to a decision of disapproval or termination of listing made
 by the stock exchange, an application may be submitted to a review institution
 established by the stock exchange for review.
 – IV-23 –

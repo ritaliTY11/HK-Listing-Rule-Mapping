@@ -6556,7 +6556,7 @@ Introduction of Hypertriglyceridemia
 Classification of HTG Causes of Hypertriglyceridemia (HTG)
 Severity Classification
 familial combined
-Normal Serum TG(cid:891)150mg/dL familial chylomicronemia hyperlipoproteinemia
+Normal Serum TG 150mg/dL familial chylomicronemia hyperlipoproteinemia
 Primary
 Mild Serum TG 150–199mg/dL causes
 Moderate Serum TG 200–499mg/dL familial hypertriglyceridemia primary mixed hyperlipidemia
@@ -6738,7 +6738,7 @@ manifest clinically with fatigue, pruritus, and jaundice. Although the Intrahepa
 clinical manifestations of cholestatic liver disease vary, early hepatocellular function, or intrahepatic bile ducts;
 biochemical evidence of cholestasis includes increases in serum alkaline Extrahepatic cholestasis: causes affect the extrahepatic ducts, common
 phosphatase (ALP) and gamma-glutamyltranspeptidase (GGT), followed hepatic duct, or common bile duct.
-by onset of conjugated hyperbilirubinemia. By convention, cholestasis (cid:2)(cid:3)Some etiologies of cholestasis, such as primary sclerosing cholangitis,
+by onset of conjugated hyperbilirubinemia. By convention, cholestasis Some etiologies of cholestasis, such as primary sclerosing cholangitis,
 is considered chronic if it lasts >6 months. can affect both the intrahepatic and extrahepatic bile ducts.
 Causes of Cholestasis
 Incidence rate of cholestasis in first-hospitalized patients with chronic Feature PSC PBC
@@ -7026,8 +7026,8 @@ ducts insidetheliveronly. symptomscausedby liverdamage
 everymen. • Accountformorethanhalfof patients
 • Thecause(s)of PBCremainsunknown,causedduetoa 2 SymptomaticPBC(sPBC):Conditionwithsymptomscaused
 combinationof geneticrisk factorsandenvironmental byliverdamage
-triggers. (cid:2)s1PBC: serumbilirubinlevelbelow2.0mg/dL
-• PBCisprogressive,whichmeansthat thedamagegets (cid:2)s2PBC: serumbilirubinlevelequalorover2.0mg/dL
+triggers. s1PBC: serumbilirubinlevelbelow2.0mg/dL
+• PBCisprogressive,whichmeansthat thedamagegets s2PBC: serumbilirubinlevelequalorover2.0mg/dL
 worseovertime. Starting with inflammation,thedamage • Mediansurvival of symptomaticpatientsis7.5years
 cancausefibrosis,andthencirrhosis.Insomecases,
 • Accountfor36%-89%of patients
@@ -7039,7 +7039,7 @@ Chronic Cirrhosisand • Jaundice • Abdominalpain
 Immune
 cholestasis/ Fibrosis end-stage • Dryeyesandmouth • Restless legs
 response
-inflammation liverdisease (cid:2)Fatigueorpruritusaffectsover50%of patientswithPBC
+inflammation liverdisease Fatigueorpruritusaffectsover50%of patientswithPBC
 Source: 2018 practice guidance from American Association for the Study of Liver Disease (“AASLD”); EASL
 clinicalpracticeguidelines;CIC
 Prevalence of PBC in China, the United States and Europe
@@ -20973,11 +20973,11 @@ APPENDIX I ACCOUNTANTS’ REPORT
 The following is the text of a report, prepared for the purpose of incorporation in this
 prospectus,receivedfromtheindependentreportingaccountants,Ernst&Young,CertifiedPublic
 Accountants, Hong Kong.
-Ernst & Young (cid:1549)(cid:2123)(cid:15093)(cid:23348) (cid:13171)(cid:1079)(cid:10621)(cid:1777) Te l (cid:26338)(cid:23128): +852 2846 9888
+Ernst & Young Te l : +852 2846 9888
 27/F, One Taikoo Place
-(cid:3034)(cid:2196)(cid:27599)(cid:27431)(cid:2181)(cid:2614)(cid:2331)(cid:2867)(cid:3)(cid:31)(cid:29)(cid:31)(cid:3)(cid:22457)(cid:3) Fax (cid:8346)(cid:18182): +852 2868 4432
+ Fax : +852 2868 4432
 979 King’s Road
-Quarry Bay, Hong Kong (cid:1503)(cid:1358)(cid:11600)(cid:9650)(cid:1671)(cid:3)(cid:24)(cid:29)(cid:3)(cid:15779) ey.com
+Quarry Bay, Hong Kong ey.com
 ACCOUNTANTS’ REPORT ON HISTORICAL FINANCIAL INFORMATION TO THE
 DIRECTORS OF HIGHTIDE THERAPEUTICS, INC., UBS SECURITIES HONG KONG
 LIMITED,AND HUATAI FINANCIAL HOLDINGS (HONG KONG) LIMITED
@@ -23893,11 +23893,11 @@ prospectus,receivedfromthereportingaccountants,Ernst&Young,CertifiedPublicAccoun
 Hong Kong, in respect of the unaudited pro forma financial information.
 B. INDEPENDENT REPORTING ACCOUNTANTS’ ASSURANCE REPORT ON THE
 COMPILATION OF PRO FORMA FINANCIAL INFORMATION
-Ernst & Young (cid:1549)(cid:2123)(cid:15093)(cid:23348) (cid:13171)(cid:1079)(cid:10621)(cid:1777) Te l (cid:26338)(cid:23128): +852 2846 9888
+Ernst & Young Te l : +852 2846 9888
 27/F, One Taikoo Place
-(cid:3034)(cid:2196)(cid:27599)(cid:27431)(cid:2181)(cid:2614)(cid:2331)(cid:2867)(cid:3)(cid:31)(cid:29)(cid:31)(cid:3)(cid:22457)(cid:3) Fax (cid:8346)(cid:18182): +852 2868 4432
+ Fax : +852 2868 4432
 979 King’s Road
-Quarry Bay, Hong Kong (cid:1503)(cid:1358)(cid:11600)(cid:9650)(cid:1671)(cid:3)(cid:24)(cid:29)(cid:3)(cid:15779) ey.com
+Quarry Bay, Hong Kong ey.com
 To the Directors of HighTide Therapeutics, Inc.
 We have completed our assurance engagement to report on the compilation of pro forma
 financial information of HighTide Therapeutics, Inc. (the “Company”) and its subsidiaries

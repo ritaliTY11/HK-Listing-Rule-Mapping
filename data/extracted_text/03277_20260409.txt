@@ -156,9 +156,9 @@ which may be different from the latest time as stated above.
 Application lists close(3). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12:00 noon on
 Tuesday, April 14, 2026
 Announcement of:
-(cid:129) the level of indications of interest in the International Offering;
-(cid:129) the level of applications in the Hong Kong Public Offering; and
-(cid:129) the basis of allocation of the Hong Kong Offer Shares
+ the level of indications of interest in the International Offering;
+ the level of applications in the Hong Kong Public Offering; and
+ the basis of allocation of the Hong Kong Offer Shares
 to be published on the website of our Company at www.gpixel.com(5)
 and the website of the Stock Exchange at www.hkexnews.hk. . . . . . . . . . . . . at or before 11:00 p.m.,
 Thursday, April 16, 2026
@@ -169,17 +169,17 @@ EXPECTED TIMETABLE(1)
 The results of allocations in the Hong Kong Public Offering (with successful applicants’
 identification document numbers, where appropriate) to be made available through a variety of
 channels, including:
-(cid:129) in the announcement to be posted on the website of our
+ in the announcement to be posted on the website of our
 Company at www.gpixel.com(5) and the website of the
 Stock Exchange at www.hkexnews.hk . . . . . . . . . . . . . . . . . . . . . Thursday, April 16, 2026
-(cid:129) from the “Allotment Results” page at the designated results
+ from the “Allotment Results” page at the designated results
 of allocations website at www.hkeipo.hk/IPOResult or
 www.tricor.com.hk/ipo/result with a “search by ID”
 function on a 24-hour basis from . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11:00 p.m. on
 Thursday, April 16, 2026
 to 12:00 midnight on
 Wednesday, April 22, 2026
-(cid:129) from the allocation results telephone enquiry line
+ from the allocation results telephone enquiry line
 by calling at +852 3691 8488 between 9:00 a.m.
 and 6:00 p.m. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . from Friday, April 17, 2026
 to Wednesday, April 22, 2026
@@ -2759,7 +2759,7 @@ Hong Kong in order to comply with the requirements under Rule 8.12 and Rule 19A.
 Rules. Accordingly, our Company has applied to the Stock Exchange for, and the Stock Exchange has
 granted, a waiver from compliance with the requirements under Rule 8.12 and Rule 19A.15 of the
 Listing Rules on the following conditions:
-(cid:129) our Company will appoint two authorized representatives (the “Authorized
+ our Company will appoint two authorized representatives (the “Authorized
 Representatives”) pursuant to Rule 3.05 of the Listing Rules, namely, Dr. Zhang, an
 executive Director and Ms. PUN Kim Ying, one of our joint company secretaries, who will
 act as our Company’s principal channel of communication with the Stock Exchange. Ms.
@@ -2771,7 +2771,7 @@ communicate on behalf of our Company with the Stock Exchange. Our Company has be
 registered as a non-Hong Kong company under Part 16 of the Companies Ordinance, and
 Ms. PUN Kim Ying has been authorized to accept service of legal process and notice in
 Hong Kong on behalf of our Company;
-(cid:129) each of the Authorized Representatives has means to contact all members of our Board
+ each of the Authorized Representatives has means to contact all members of our Board
 (including the independent non-executive Directors) and our senior management team
 promptly at all times as and when the Stock Exchange wishes to contact them or any of
 them for any matters. To enhance the communication amongst the Stock Exchange, the
@@ -2784,7 +2784,7 @@ and the Authorized Representatives will provide their respective mobile phone nu
 office phone numbers and email addresses to the Stock Exchange. We shall promptly inform
 the Stock Exchange of any changes to the contact details of the Authorized Representatives
 and our Directors;
-(cid:129) Guotai Junan Capital Limited has been appointed as our Company’s compliance advisor,
+ Guotai Junan Capital Limited has been appointed as our Company’s compliance advisor,
 pursuant to Rule 3A.19 of the Listing Rules, to provide our Company with professional
 advice on continuing obligations under the Listing Rules, and to act at all times, in addition
 to the Authorized Representatives, as our Company’s additional channel of communication
@@ -2797,11 +2797,11 @@ WAIVERS FROM STRICT COMPLIANCE WITH THE LISTING RULES
 annual report in respect of its first full financial year commencing after the Listing Date.
 The contact person of the compliance advisor will be fully available to answer enquiries
 from the Stock Exchange;
-(cid:129) each of our Directors (including independent non-executive Directors) who is not ordinarily
+ each of our Directors (including independent non-executive Directors) who is not ordinarily
 resident in Hong Kong has confirmed that he/she possesses or can apply for valid travel
 documents to visit Hong Kong and would be able to meet with the Stock Exchange in Hong
 Kong upon reasonable notice; and
-(cid:129) our Company will also appoint other professional advisors (including its legal advisors in
+ our Company will also appoint other professional advisors (including its legal advisors in
 Hong Kong) after the Listing to assist our Company in addressing any enquiries which may
 be raised by the Stock Exchange and to ensure that there will be prompt and effective
 communication with the Stock Exchange.
@@ -5774,16 +5774,16 @@ Specialization in CMOS Image Sensors
 As a pioneer in CMOS image sensors, we focus on developing CMOS image sensors for industrial
 imaging, scientific imaging, professional photography and video and medical imaging. These
 application scenarios represent areas of high growth in the CIS industry, in particular:
-(cid:129) Industrial imaging: The increasing demand for automation in industries such as
+ Industrial imaging: The increasing demand for automation in industries such as
 manufacturing and logistics is pushing demand for CMOS image sensors. These sensors
 enable defect detection, quality control, and robotics, contributing to the rise in demand for
 higher resolution and faster processing speeds in factory automation.
-(cid:129) Scientific imaging: The scientific imaging industry has growing demand due to advances in
+ Scientific imaging: The scientific imaging industry has growing demand due to advances in
 research and the increasing use of imaging in areas like microscopy, spectroscopy, and
 environmental monitoring. Higher resolution, improved sensitivity, and faster readout speeds
 are essential for capturing more detailed data, driving the growth of CMOS image sensors in
 this field.
-(cid:129) Professional photography and video: The rise of content creation, including photography,
+ Professional photography and video: The rise of content creation, including photography,
 cinematography, and broadcasting, continues to boost CMOS image sensors demand.
 Professional-grade cameras require sensors with higher resolution, improved low-light
 – 119 –
@@ -5793,7 +5793,7 @@ BUSINESS
 performance, and enhanced dynamic range. The increasing use of CMOS image sensors in
 high-end cameras and filmmaking equipment drives steady demand for more advanced and
 precise sensors.
-(cid:129) Medical imaging: CMOS image sensors adoption is driven by the demand for diagnostic
+ Medical imaging: CMOS image sensors adoption is driven by the demand for diagnostic
 techniques and portable imaging devices. Medical applications such as endoscopy, and
 diagnostic cameras require high-resolution, low-noise sensors to ensure accurate results. The
 rising focus on patient care and the growing need for real-time, on-site diagnostics are
@@ -5826,7 +5826,7 @@ Since our establishment in 2012, we have remained committed to technological R&D
 innovation, consistently focusing on positioning and overcoming key technical challenges in CMOS
 image sensor development. Our technological advancements have been achieved through the following
 approaches:
-(cid:129) Technology-Driven Independent R&D: Led by Dr. Wang, our founding team leveraged their
+ Technology-Driven Independent R&D: Led by Dr. Wang, our founding team leveraged their
 expertise and industry experience to develop proprietary technologies in high-dynamic-range
 pixel design, global shutter pixel architecture, variable resolution, adjustable pixel size, and
 on-chip ADC design. With 14 years of independent R&D, we have established 11 core
@@ -5841,7 +5841,7 @@ frame rate, and high quantum efficiency capabilities.
 
 === PAGE 130 ===
 BUSINESS
-(cid:129) Customized Sensor Solutions for Global Industry Leaders: Our advanced engineering
+ Customized Sensor Solutions for Global Industry Leaders: Our advanced engineering
 capabilities have made us a trusted partner for leading companies and research institutions
 worldwide. Customized sensor solutions typically present a higher technological barrier. We
 have completed multiple custom CMOS image sensor projects, helping customers accelerate
@@ -5850,7 +5850,7 @@ complement our in-house R&D, driving iterative improvements and keeping us at th
 forefront of industry trends. For the three years ended December 31, 2025, our customized
 sensor solutions contributed revenue amounting to RMB98.4 million, RMB162.2 million and
 RMB61.2 million, respectively.
-(cid:129) National Key R&D Programs and Major Science & Technology Projects: Participation in
+ National Key R&D Programs and Major Science & Technology Projects: Participation in
 state-level initiatives, such as the National Science and Technology Major Project, aligns us
 with China’s strategic priorities and fosters partnerships with top-tier research institutions
 and tech enterprises. These collaborations address critical technological challenges and
@@ -5866,17 +5866,17 @@ Verification System and Strategic Expansion
 We place paramount importance on achieving autonomous control and vertical integration within
 our supply chain. To this end, we have established a comprehensive support system that spans the entire
 CMOS image sensor R&D lifecycle. In particular:
-(cid:129) Independent Testing Platform Development: We have constructed a full-process testing
+ Independent Testing Platform Development: We have constructed a full-process testing
 platform system encompassing wafer testing, full optoelectronic verification, reliability
 testing, and final sensor testing. Equipped with advanced instruments such as system-level
 sensor testing sorters, wafer probe stations, and thermal cycling chambers, this platform
 provides a stable testing environment tailored to both R&D and mass production
 requirements for CMOS image sensors.
-(cid:129) Inspection System Development: To meet stringent sensor inspection standards, we
+ Inspection System Development: To meet stringent sensor inspection standards, we
 independently developed sensor and wafer data analysis systems. Utilizing a multi-threaded
 testing architecture, we achieve fully automated detection and data analysis, significantly
 reducing reliance on external testing service providers.
-(cid:129) Packaging Capacity Expansion: We have strategically expanded into sensor packaging, with
+ Packaging Capacity Expansion: We have strategically expanded into sensor packaging, with
 production capacity ramped up. Our current monthly high-reliability ceramic packaging
 output exceeds 20,000 units, and we expect to effectively supplement our in-house
 packaging capabilities within the next two to three years.
@@ -5886,7 +5886,7 @@ packaging capabilities within the next two to three years.
 BUSINESS
 While strengthening our autonomous capabilities, we continue to deepen collaboration across the
 industry chain. In particular:
-(cid:129) Strategic Supplier Partnerships: We maintain long-standing, stable partnerships with leading
+ Strategic Supplier Partnerships: We maintain long-standing, stable partnerships with leading
 global suppliers in wafer foundries, sensor packaging, ceramic housings, cover glass, and
 other critical areas. We have established long-term direct supply relationships with top-tier
 partners, including Tower and DB HiTek (the world’s leading foundries), as well as Kyocera
@@ -6459,15 +6459,15 @@ industries, such as photovoltaic, new energy, semiconductor, automotive, textile
 pharmaceutical, food and beverage industries. The typical applications of industrial imaging solutions
 include (i) factory automation; (ii) logistic and positioning; (iii) motion capture; and (iv) industrial
 inspection and metrology.
-(cid:129) Factory Automation: Vision-based systems are increasingly the go-to system for factory
+ Factory Automation: Vision-based systems are increasingly the go-to system for factory
 automation, from computer vision in robots to high-speed automated optical inspection and
 scanning barcodes. Our industrial portfolio offers a wide range of sensors to meet our
 customers’ exacting requirements.
-(cid:129) Logistic and Positioning: Imaging technologies play an important role in modern logistics
+ Logistic and Positioning: Imaging technologies play an important role in modern logistics
 and positioning systems, enabling automation, real time tracking, and efficient handling of
 goods. Our industrial GMAX and GL portfolios offer a wide range of sensors to meet our
 customers’ exacting requirements.
-(cid:129) Motion Capture: Motion Capture refers to the technology of recording and processing the
+ Motion Capture: Motion Capture refers to the technology of recording and processing the
 movements of people or other objects. It is widely used in entertainment, medicine, and
 robotics. Fast action shooting and the ability to synchronize multiple sensors are the key to
 this application. Our GMAX and GSPRINT product lines combine the characteristics of
@@ -6476,7 +6476,7 @@ global shutter, high frame rate, and high resolution to meet the needs of this a
 
 === PAGE 144 ===
 BUSINESS
-(cid:129) Industrial Inspection and Metrology: Industrial inspection and metrology rely on image
+ Industrial Inspection and Metrology: Industrial inspection and metrology rely on image
 sensors as well as advanced optics, to ensure micron level accuracy defect detection and
 quality assurance in advanced manufacturing, such as semiconductor and electronics, flat
 panel displays, automotive, medical devices, and aerospace industry. We offer a wide
@@ -6490,25 +6490,25 @@ scientific image sensors have high technical barriers which have now been addres
 CMOS image sensors, and specifically our GSENSE family. The typical applications of scientific
 imaging solutions include (i) microscopy and nanoscale imaging; (ii) life sciences; (iii) astronomy; (iv)
 high-speed imaging.
-(cid:129) Microscopy and nanoscale imaging: Advanced microscopy minimizes sample damage using
+ Microscopy and nanoscale imaging: Advanced microscopy minimizes sample damage using
 low light, requiring CMOS sensors with high sensitivity, low noise, and fast frame rates.
 Nanoscale imaging requires higher resolution, larger photo-sensitive area and pixel binning
 possibilities.
-(cid:129) Life Sciences: Image quality is of utmost importance for scientific research to achieve major
+ Life Sciences: Image quality is of utmost importance for scientific research to achieve major
 breakthroughs. Whether it is fast and accurate gene sequencing or low-light detection, it is
 necessary to choose a CMOS image sensor with high frame frequency, high sensitivity, high
 quantum efficiency and low readout noise. The quantum efficiency of our scientific and
 back-illuminated CMOS image sensors can be comparable to that of electron-multiplying
 CCD, which fully meets the requirements of image quality in the field of life science
 imaging.
-(cid:129) Astronomy: From the exploration of the universe by scientists to the observation of the starry
+ Astronomy: From the exploration of the universe by scientists to the observation of the starry
 sky by astronomy enthusiasts, astronomical cameras need to support ultra-long exposure
 with extremely low noise. Our sensor portfolio combines the characteristics of high frame
 frequency, low readout noise and high sensitivity, and can reduce the impact of dark current
 noise through the superposition of multi-frame short exposure images. Our line of GSENSE
 and GLUX image sensors also have high dynamic range characteristics, appealing to
 astronomers and astronomy enthusiasts.
-(cid:129) High-Speed Imaging: Our GSPRINT line of products combines fast frame rates, short
+ High-Speed Imaging: Our GSPRINT line of products combines fast frame rates, short
 exposure times, and high sensitivity to enable capturing instantaneous processes that cannot
 be observed by human eyes. High-speed cameras enable detailed analysis of fast moving
 phenomena across multiple disciplines, such as fluid dynamic analysis, biomechanics,
@@ -6525,14 +6525,14 @@ photography.
 
 === PAGE 145 ===
 BUSINESS
-(cid:129) Cinematography and streaming cameras: a wide variety of video productions, from
+ Cinematography and streaming cameras: a wide variety of video productions, from
 small-budget independent documentaries to Hollywood blockbusters, or from consumer
 drone videography to the future live action 3D AR/VR streaming cameras, drive the demand
 for sensors capable of handling massive data volumes while maintaining high image quality,
 requiring at least a 40-megapixel sensor that captures 60 fps. Our GCINE sensor line meets
 the rigorous demands of these applications, delivering 8K resolution at 120 fps, outstanding
 dynamic range, and advanced on-chip HDR modes.
-(cid:129) Still photography: CMOS image sensor, key component of still photography, determines
+ Still photography: CMOS image sensor, key component of still photography, determines
 resolution, dynamic range, low-light performance, and color accuracy. In order to achieve
 high image quality, the sensor is normally processed by BSI or stacking technology, with
 resolution of 30MP or higher and with optical format of 2/3 inch, 1 inch, APS-C, or
@@ -6544,11 +6544,11 @@ optimize outcomes and minimize patient discomfort. High sensitivity, low readout
 dynamic range are main requirements to capture detailed information with high contrast and good
 signal-to-noise ratio, helping doctors accurately diagnose conditions earlier. The typical applications of
 medical imaging include (i) X-ray; and (ii) endoscopy.
-(cid:129) X-Ray: Compared with traditional film-based dental X-ray systems, CMOS-based systems
+ X-Ray: Compared with traditional film-based dental X-ray systems, CMOS-based systems
 reduce the X-ray dose borne by patients. In addition, the captured images can be displayed
 immediately with high resolution and low noise. We have been providing customized sensor
 solutions for X-ray imaging applications.
-(cid:129) Endoscopy: Endoscopy integrates high resolution cameras modules with light source and real
+ Endoscopy: Endoscopy integrates high resolution cameras modules with light source and real
 time image processing to visualize internal organs and tissues for diagnosis, surgery, and
 therapeutic interventions. Most image sensors for endoscopy are designed with BSI or
 stacking process for dimension minimization while carefully balancing with resolution and
@@ -6826,28 +6826,28 @@ Photomasks and wafers
 During the Track Record Period, we placed purchase orders of photomask sets and wafers with
 our foundry suppliers. The salient terms of our purchase orders with foundry suppliers are set out
 below:
-(cid:129) Pricing. Photomask sets pricing and wafer pricing mainly depend on the wafer
+ Pricing. Photomask sets pricing and wafer pricing mainly depend on the wafer
 manufacturing process details, design complexity, as well as the number of lithography
 layers. The price of both photomasks sets and wafer are in line with prevailing market rates.
-(cid:129) Payment and credit term. Payment terms for photomask sets and prototype-lot wafers are in
+ Payment and credit term. Payment terms for photomask sets and prototype-lot wafers are in
 advance, and the payment terms for wafers are ranging from prepayment to net 60 days.
-(cid:129) Exclusivity. Since the foundry manufactures photomask sets based on our sensor design, and
+ Exclusivity. Since the foundry manufactures photomask sets based on our sensor design, and
 the wafers are manufactured using the photomask sets, we have exclusivity rights on both
 the photomask sets and the wafers fabricated using it.
-(cid:129) Non-Disclosure. We have entered into non-disclosure agreements with our foundry suppliers.
+ Non-Disclosure. We have entered into non-disclosure agreements with our foundry suppliers.
 Outsourced services
 During the Track Record Period, we entered into framework agreements with outsourced
 packaging service providers and then placed orders under the framework agreement to procure
 packaging services. The salient terms of our framework agreements and orders with packaging suppliers
 are set out below:
-(cid:129) Duration. The duration of the framework agreements with packaging suppliers is typically
+ Duration. The duration of the framework agreements with packaging suppliers is typically
 one year, subject to automatic renewal unless either party provides a two-month notice of
 termination prior to the end of the contract term.
-(cid:129) Pricing. We negotiate the price for each order with packaging suppliers, with reference to
+ Pricing. We negotiate the price for each order with packaging suppliers, with reference to
 prevailing market rates.
-(cid:129) Payment and credit term. We typically settle with packaging suppliers on a monthly basis
+ Payment and credit term. We typically settle with packaging suppliers on a monthly basis
 and we are required to pay them within 30 days upon receipt of invoices.
-(cid:129) Non-Disclosure. Unless it is necessary for the performance of the framework agreements and
+ Non-Disclosure. Unless it is necessary for the performance of the framework agreements and
 purchase orders, the packaging supplier shall not disclose to any third parties any
 confidential information obtained from us.
 WAREHOUSING, LOGISTICS AND INVENTORY MANAGEMENT
@@ -6973,15 +6973,15 @@ Salient Terms
 We enter into direct sales agreements with our customers for our standard products and service
 agreements with our customers for customized sensor solutions. The salient terms with our customers
 for our standard products during the Track Record Period are set forth below:
-(cid:129) Duration. The direct sales agreement for our standard products typically has no fixed term.
-(cid:129) Pricing policy. We sell our standard products to direct sales customers at mutually agreed
+ Duration. The direct sales agreement for our standard products typically has no fixed term.
+ Pricing policy. We sell our standard products to direct sales customers at mutually agreed
 price levels.
-(cid:129) Payment and credit term. The payment is due when customers confirm acceptance of our
+ Payment and credit term. The payment is due when customers confirm acceptance of our
 standard products. The credit period to our customers varies from 30 days to 60 days from
 the date of delivery.
-(cid:129) Logistics. We are typically responsible for delivering our standard products to locations
+ Logistics. We are typically responsible for delivering our standard products to locations
 designated by our direct sales customers.
-(cid:129) Return arrangements. Product returns are generally not permitted, except in cases of verified
+ Return arrangements. Product returns are generally not permitted, except in cases of verified
 defects in manufacture, materials, or workmanship. In such cases, our obligation shall be
 limited, at our sole discretion, to replacing, repairing, or providing credit for the defective
 product.
@@ -6989,32 +6989,32 @@ product.
 
 === PAGE 155 ===
 BUSINESS
-(cid:129) Termination. Our delays in delivery exceeding two weeks entitle the customer to terminate,
+ Termination. Our delays in delivery exceeding two weeks entitle the customer to terminate,
 in which case we refund any advance payment without further liability. If the customer
 terminates after payment, a return fee of 20% applies if preparation has not begun, or 30% if
 it has; we may deduct any additional costs from the advance payment and refund the
 balance.
 The salient terms with our customers for our customized sensor solutions during the Track Record
 Period are set forth below:
-(cid:129) Duration. The term of agreements for customized senor solutions is based on the expected
+ Duration. The term of agreements for customized senor solutions is based on the expected
 term of the sensor development project.
-(cid:129) Pricing policy. We provide our customization services to direct sales customers at mutually
+ Pricing policy. We provide our customization services to direct sales customers at mutually
 agreed price levels, some of which include price adjustment terms. For example, we may
 negotiate price adjustments with customers if market factors lead to increases in the cost of
 raw materials or services, or apply different contract prices under various pre-agreed
 scenarios.
-(cid:129) Payment and credit term. The payment is typically made in progress-based instalments. The
+ Payment and credit term. The payment is typically made in progress-based instalments. The
 credit period to our customers varies from 10 days to 15 days.
-(cid:129) Exclusivity. Varying degrees of exclusivity may apply, such as restrictions on sales to
+ Exclusivity. Varying degrees of exclusivity may apply, such as restrictions on sales to
 original customization customers’ competitors, or permitting sales after a number of years
 from the completion of the customization projects. If the agreement does not contain an
 exclusivity clause, the product may be offered to any customers.
-(cid:129) Intellectual Property. Each party retains all IP it has independently developed. We grant our
+ Intellectual Property. Each party retains all IP it has independently developed. We grant our
 customer a license to use the IP we own for its own applications. No additional royalty fees
 are payable by our customer when they sell the resulting devices.
-(cid:129) Confidentiality. Each party shall maintain the confidentiality of the information for typically
+ Confidentiality. Each party shall maintain the confidentiality of the information for typically
 two or three years from the end of contractual relationship.
-(cid:129) Termination. Both parties are entitled to terminate the agreement upon the other party’s
+ Termination. Both parties are entitled to terminate the agreement upon the other party’s
 unremedied breaching.
 During the three years ended December 31, 2025, subsequent product sales contribution from
 customized sensor solutions with full exclusivity amounted to approximately 2.2%, 1.2% and 0.9% of
@@ -7063,24 +7063,24 @@ Salient Terms
 We enter into distribution agreements with three major distributors, who then place orders under
 these agreements to procure our products. The salient terms with the three distributors during the Track
 Record Period are set forth below:
-(cid:129) Duration. The distribution agreement is effective after signed by both parties, and shall
+ Duration. The distribution agreement is effective after signed by both parties, and shall
 continue to be effective for a period of two years or three years unless terminated by either
 party. The agreements may be automatically renewed.
-(cid:129) Minimum purchase requirement. There is no minimum purchase requirement or minimum
+ Minimum purchase requirement. There is no minimum purchase requirement or minimum
 sales target under the distribution agreement.
-(cid:129) Pricing. The selling price of the product to the distributor is normally at 10% discount or
+ Pricing. The selling price of the product to the distributor is normally at 10% discount or
 less of the product’s catalog price. The price to the end customer should be at 100% −105%
 of our catalog price.
-(cid:129) Payment and credit terms. 30 days from the date of invoice, or full payment in advance.
-(cid:129) Exclusivity. The distribution agreement is non-exclusive for the targeted territory.
-(cid:129) Warranty. 12-18 months from the delivery of the products.
-(cid:129) Title and Risk of loss. Title to the products and risk of loss shall transfer to the distributor
+ Payment and credit terms. 30 days from the date of invoice, or full payment in advance.
+ Exclusivity. The distribution agreement is non-exclusive for the targeted territory.
+ Warranty. 12-18 months from the delivery of the products.
+ Title and Risk of loss. Title to the products and risk of loss shall transfer to the distributor
 upon shipping of the products.
-(cid:129) Confidential Information. Neither party shall disclose to any third party any information
+ Confidential Information. Neither party shall disclose to any third party any information
 disclosed by the other party, unless otherwise instructed or consented in writing. Either party
 shall strictly management the confidential information with due care and disclose such
 information to its officers and employees on a strict need-to-know basis.
-(cid:129) Termination. In case one party is insolvent, compulsory liquidation, dissolution, bankrupted,
+ Termination. In case one party is insolvent, compulsory liquidation, dissolution, bankrupted,
 or ceases to function or conduct its operation in the normal course of business, or merged
 into, acquired by, or consolidated with, or defaults on any terms of the distribution
 agreement and does not remedy such default within 30 days, the other party may terminate
@@ -13838,7 +13838,7 @@ Global Offering, after deducting the estimated underwriting commissions and othe
 expenses payable by us in connection with the Global Offering, based on the Offer Price of HK$39.88
 per Share and assuming that the Over-allotment Option is not exercised.
 We intend to use the aforementioned net proceeds as follows:
-(cid:129) Approximately 55.0%, or HK$1,377.0 million, is expected to be used for increasing our
+ Approximately 55.0%, or HK$1,377.0 million, is expected to be used for increasing our
 R&D investments to drive continuous innovation and support product iterations across our
 major application scenarios, namely, industrial imaging, scientific imaging, professional
 photography and video, and medical imaging solutions. Our R&D focus will center on
@@ -13945,7 +13945,7 @@ specifications; and (ii) focus on the design and optimisation of pixel structure
 wafer processes, as well as optoelectronic performance testing; and management staff
 will be responsible for administrative, financial and human resources management
 related to each project.
-(cid:129) Approximately 21.0%, or HK$525.8 million, is expected to be used for establishing an
+ Approximately 21.0%, or HK$525.8 million, is expected to be used for establishing an
 advanced CMOS image sensor R&D center, including (i) the acquisition and maintenance of
 an office building to serve as our R&D innovation hub and regional headquarters; (ii) the
 design and renovation of the premise to meet advanced semiconductor research
@@ -13994,7 +13994,7 @@ FUTURE PLANS AND USE OF PROCEEDS
 RMB48.7 million. The Property will be used for establishing an advanced CMOS image
 sensor R&D center and part of the proceeds from the Global Offering will be used to settle
 the consideration of the said acquisition.
-(cid:129) Approximately 4.0%, or HK$100.1 million, is expected to be used for expanding our
+ Approximately 4.0%, or HK$100.1 million, is expected to be used for expanding our
 packaging and testing production lines, including (i) establishment of additional packaging
 facility for the expansion of clean room facilities to meet advanced manufacturing
 requirements; (ii) the procurement and installation of packaging and testing equipment to
@@ -14030,7 +14030,7 @@ team comprising engineers and technicians, adding approximately 4 facility suppo
 systems. In addition, approximately 4 R&D personnel will be added in 2026, with three to
 four annually over the next five years, to provide process engineering support, optimise mass
 production processes, improve yield and facilitate new technology introduction.
-(cid:129) Approximately 10.0%, or HK$250.4 million, is expected to be used for enhancing our
+ Approximately 10.0%, or HK$250.4 million, is expected to be used for enhancing our
 overseas operations through strategic geographic expansion, including (i) establishment of
 new subsidiary in Hong Kong and recruitment of personnel for the new office; (ii) expansion
 of sales team to support our overseas sales and marketing efforts and expand our footprint
@@ -14060,7 +14060,7 @@ approximately 8 to 20 staff members over the next five years, by recruiting 3 to
 sales staff per year, to enhance customer coverage and local service capabilities. In addition,
 we plan to deploy approximately three management personnel to be responsible for daily
 administrative, financial and operational management of the overseas business activities.
-(cid:129) Approximately 10.0%, or HK$250.4 million, is expected to be used for working capital and
+ Approximately 10.0%, or HK$250.4 million, is expected to be used for working capital and
 general corporate purposes.
 Other than the associated cash outflow for acquisition of office building, purchase of equipment
 and the additional depreciation, our Directors, after having made all reasonable enquiries and to the
@@ -15040,17 +15040,17 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 ForIndividualApplicants ForCorporateApplicants
-(cid:129) Full name(s)2 as shown on your identity (cid:129) Full name(s)2 as shown on your identity
+ Full name(s)2 as shown on your identity Full name(s)2 as shown on your identity
 document document
-(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
+ Identity document’s issuing country or Identity document’s issuing country or
 jurisdiction jurisdiction
-(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
+ Identity document type, with order of Identity document type, with order of
 priority: i) HKID card; or ii) National priority: i) Legal Entity Identifier (“LEI”)
 identification document; or iii) Passport; and registration document; or ii) Certificate of
 incorporation; or iii) Business registration
-(cid:129) Identity document number certificate; or iv) Other equivalent
+ Identity document number certificate; or iv) Other equivalent
 document; and
-(cid:129) Identity document number
+ Identity document number
 Notes:
 1. If you are applying through the HK eIPO White Form service, you are required to provide a valid e-mail address, a
 contacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclarethattheidentityinformationprovided
@@ -16448,8 +16448,8 @@ Derecognition of financial assets
 A financial asset (or, where applicable, a part of a financial asset or part of a group of similar
 financial assets) is primarily derecognised (i.e., removed from the Group’s consolidated statement of
 financial position) when:
-(cid:129) the rights to receive cash flows from the asset have expired; or
-(cid:129) the Group has transferred its rights to receive cash flows from the asset or has assumed an
+ the rights to receive cash flows from the asset have expired; or
+ the Group has transferred its rights to receive cash flows from the asset or has assumed an
 obligation to pay the received cash flows in full without material delay to a third party under
 a “pass-through” arrangement; and either (a) the Group has transferred substantially all the
 risks and rewards of the asset, or (b) the Group has neither transferred nor retained
@@ -16623,22 +16623,22 @@ Deferred tax is provided, using the liability method, on all temporary differenc
 each of the Relevant Periods between the tax bases of assets and liabilities and their carrying amounts
 for financial reporting purposes.
 Deferred tax liabilities are recognised for all taxable temporary differences, except:
-(cid:129) when the deferred tax liability arises from the initial recognition of goodwill or an asset or
+ when the deferred tax liability arises from the initial recognition of goodwill or an asset or
 liability in a transaction that is not a business combination and, at the time of the
 transaction, affects neither the accounting profit nor taxable profit or loss and does not give
 rise to equal taxable and deductible temporary differences; and
-(cid:129) in respect of taxable temporary differences associated with investments in subsidiaries and
+ in respect of taxable temporary differences associated with investments in subsidiaries and
 associates, when the timing of the reversal of the temporary differences can be controlled
 and it is probable that the temporary differences will not reverse in the foreseeable future.
 Deferred tax assets are recognised for all deductible temporary differences, and the carryforward
 of unused tax credits and any unused tax losses. Deferred tax assets are recognised to the extent that it
 is probable that taxable profit will be available against which the deductible temporary differences, and
 the carryforward of unused tax credits and unused tax losses can be utilised, except:
-(cid:129) when the deferred tax asset relating to the deductible temporary differences arises from the
+ when the deferred tax asset relating to the deductible temporary differences arises from the
 initial recognition of an asset or liability in a transaction that is not a business combination
 and, at the time of the transaction, affects neither the accounting profit nor taxable profit or
 loss and does not give rise to equal taxable and deductible temporary differences; and
-(cid:129) in respect of deductible temporary differences associated with investments in subsidiaries
+ in respect of deductible temporary differences associated with investments in subsidiaries
 and associates, deferred tax assets are only recognised to the extent that it is probable that
 the temporary differences will reverse in the foreseeable future and taxable profit will be
 available against which the temporary differences can be utilised.
@@ -19755,8 +19755,8 @@ been properly compiled on the basis of the applicable criteria involves performi
 whether the applicable criteria used by the Directors in the compilation of the Pro Forma Financial
 Information provide a reasonable basis for presenting the significant effects directly attributable to the
 transaction, and to obtain sufficient appropriate evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the Pro Forma Financial Information reflects the proper application of those adjustments to
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the Pro Forma Financial Information reflects the proper application of those adjustments to
 the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgment, having regard to the
 reporting accountants’ understanding of the nature of the Group, the transaction in respect of which the

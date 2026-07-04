@@ -1316,7 +1316,7 @@ competitive landscape of small molecule targeted therapies for mCRPC, see “Ind
 Overview – Small Molecule Oncology Targeted Therapy – Major Indications of MTK
 Inhibitors – mCRPC.”
 Other Indications
-(cid:129) Hepatocellular carcinoma. Preclinical data indicated that Tinengotinib
+ Hepatocellular carcinoma. Preclinical data indicated that Tinengotinib
 demonstrated encouraging antitumor activity against hepatocellular carcinoma
 (“HCC”) . Cadonilimab or Ivonescimab in combination with Tinengotinib is
 expected to achieve multifaceted tumor eradication through dual immune
@@ -1326,7 +1326,7 @@ combinations. This approach holds potential as a first-line treatment for advanc
 HCC in patients who are unsuitable for curative surgical resection or local therapy,
 or who have experienced disease progression after surgical resection or local
 therapy.
-(cid:129) Breast cancer. Similar promising efficacy of Tinengotinib has also been observed
+ Breast cancer. Similar promising efficacy of Tinengotinib has also been observed
 in heavily pre-treated Hormone receptor-positive (“HR+”)/human epidermal growth
 factor receptor 2-negative (“HER2−”) breast cancer patients and triple-negative
 breast cancer (“TNBC”) patients.
@@ -1366,14 +1366,14 @@ OncologyTargetedTherapy – Major Indications of MTK Inhibitors – HER2− Brea
 Cancer.” For more details of competitive landscape of small molecule targeted
 therapies for breast cancer, see “Industry Overview – Small Molecule Oncology
 Targeted Therapy – Major Indications of MTK Inhibitors – HER2 − Breast Cancer.”
-(cid:129) Biliary tract cancer. Preclinical data demonstrates Tinengotinib is capable of
+ Biliary tract cancer. Preclinical data demonstrates Tinengotinib is capable of
 modulating tumor microenvironment, indicating its potential to enhance the efficacy
 of immunotherapy. From our Phase Ib/II clinical trial, among 28 efficacy-evaluable
 CCA patients treated with Tinengotinib plus atezolizumab, the ORR and the DCR
 were 25.0% (7/28) and 75.0% (21/28), respectively. The combination therapy is also
 well tolerated. These encouraging data suggest Tinengotinib’s high potential in
 combination therapy with immunotherapies.
-(cid:129) Pan-FGFR solid tumor. Tinengotinib has unique binding mode to FGFR 1/2/3
+ Pan-FGFR solid tumor. Tinengotinib has unique binding mode to FGFR 1/2/3
 kinase proteins, enabling it to be potent to key mutations within FGFR 1/2/3 kinase
 domains.This differentiated feature has brought good clinical responses to a variety
 of solid tumor patients with FGFR 1/2/3 alterations, especially point mutations. In
@@ -1382,7 +1382,7 @@ a pooled retrospective analysis, 51 patients with documented or detected FGFR
 and demonstrated an ORR of 33% and a DCR of 88%. The median PFS reached 6.9
 months.
 OTHER ONCOLOGY PIPELINE PRODUCTS
-(cid:129) TT-00973 is an internally discovered and developed, potent AXL/FLT3 inhibitor
+ TT-00973 is an internally discovered and developed, potent AXL/FLT3 inhibitor
 withsignificantlyhighpotencyagainstAXL.AXLkinaseisakeyplayerinsurvival,
 metastasis, and drug resistance in cancer, abnormal activation of AXL signaling is
 associated with poor prognosis in many types of cancers. AXL represents a
@@ -1398,7 +1398,7 @@ NMPA in August 2022. We are conducting a Phase I study in patients with solid
 tumors in China with the first patient enrolled inApril 2023, and have observed that
 TT-00973 was well tolerated and achieved partial responses in patients with solid
 tumors.
-(cid:129) TT-01488 is an internally developed, non-covalent, reversible BTK inhibitor to
+ TT-01488 is an internally developed, non-covalent, reversible BTK inhibitor to
 overcome acquired resistance developed from marketed covalent BTK inhibitors in
 various types of relapsed or refractory hematological malignancies. In a head-to-
 head kinase panel screening, in addition to its higher potency, TT-01488
@@ -1416,7 +1416,7 @@ responses (“PR”).An ORR of 100% (7/7) was observed in patients with mantle c
 lymphoma (“MCL”), Waldenström macroglobulinemia (“WM”), and marginal zone
 lymphoma (“MZL”).
 NON-ONCOLOGY PIPELINE PRODUCTS
-(cid:129) TT-01688 is an in-licensed, highly selective oral S1P1 modulator currently in
+ TT-01688 is an in-licensed, highly selective oral S1P1 modulator currently in
 clinical stage, with the potential to treat various inflammatory diseases. According
 toFrost&Sullivan,theprevalenceofUCandADinChinawasapproximately583.2
 thousand and 72.9 million, respectively, in 2024. For patients receiving biologics,
@@ -1441,7 +1441,7 @@ completed a Phase Ib clinical trial of TT-01688 for the treatment of UC in China
 July 2024, and initiated a Phase II clinical trial ofTT-01688 for the treatment ofAD
 in China in September 2022. In January 2025, we completed the Phase II clinical
 trial of TT-01688 for the treatment of AD in China.
-(cid:129) TT-00920 is an internally discovered and developed, highly selective oral PDE9
+ TT-00920 is an internally discovered and developed, highly selective oral PDE9
 inhibitor, targeting chronic heart failure. According to Frost & Sullivan, the
 prevalence of heart failure has been steadily increasing, reaching approximately
 33.3 million globally and 13.0 million in China in 2024. Based on left ventricular
@@ -1460,7 +1460,7 @@ cardiac distribution in the preclinical study, favoring the treatment of heart f
 and avoiding CNS adverse reactions.Also, in the completed Phase I trials in healthy
 subjects in China and the U.S., TT-00920 was well tolerated, and demonstrated
 favorable pharmacokinetic properties and anticipated biomarker changes.
-(cid:129) TT-01025 is an internally discovered and developed, irreversible VAP-1 inhibitor,
+ TT-01025 is an internally discovered and developed, irreversible VAP-1 inhibitor,
 intended as an oral treatment for NASH. According to Frost & Sullivan, the
 prevalence of NASH was 44.0 million in China in 2024. VAP-1 is a novel clinical
 target for anti-inflammation. In head-to-head comparisons in preclinical studies, the
@@ -1484,7 +1484,7 @@ Our “ACE” Approach
 We consistently adopt our ACE approach to efficiently optimize the drug research and
 development process for each asset to maximize their therapeutic potential as well as clinical
 and commercial value. The following are the characteristics of our “ACE” approach.
-(cid:129) Adaptive, focusing on clinically meaningful drug differentiation. Through robust
+ Adaptive, focusing on clinically meaningful drug differentiation. Through robust
 biological science-driven discovery capabilities, we carefully select and evaluate
 potential targets with solid biological mechanisms and close disease associations.
 Through competitive landscape analysis, we identify key limitations and
@@ -1497,7 +1497,7 @@ wastoidentifyapotentcompoundtargetingkeyFGFRkinasedomainmutations.By
 developing a set of internally designed biological assays for screening compound
 scaffolds, we successfully identified a novel scaffold, which ultimately led to the
 discovery of Tinengotinib.
-(cid:129) Comprehensive, focusing on high quality drug properties. While developing drug
+ Comprehensive, focusing on high quality drug properties. While developing drug
 candidates with differentiated profile, we also recognize the importance to improve
 their druggability. We have developed a comprehensive list of drug parameters to
 select a final drug candidate with a most desirable drug profile. Internally, a number
@@ -1505,7 +1505,7 @@ of parameters are used to evaluate drug candidates, including those pertaining t
 potency, selectivity, bioavailability, safety and PK/PD profiles. These
 comprehensive evaluations can help us better understand the nature of each drug
 candidate, boosting the likelihood of clinical development success.
-(cid:129) Expandable, focusing on indication expansions. We strategically tailor our drug
+ Expandable, focusing on indication expansions. We strategically tailor our drug
 candidates to expand into new indications. Such strategy is accomplished mainly
 through two routes. First is to leverage our R&D system and our in-depth
 understandingofmechanismsofactionofcandidates,theirpotentialtargetedpatient
@@ -1559,20 +1559,20 @@ Division of Medicinal Chemistry long range planning committee.
 === PAGE 24 ===
 SUMMARY
 OUR COMPETITIVE STRENGTHS
-(cid:129) Registrational Clinical Stage Tinengotinib Leading in Addressing Global Medical
+ Registrational Clinical Stage Tinengotinib Leading in Addressing Global Medical
 Needs;
-(cid:129) Highly Differentiated Pipeline Targeting Oncology and Other Diseases;
-(cid:129) Insightful Drug R&D Life Cycle Driven by “ACE” Approach;
-(cid:129) Strong Global Capabilities Covering R&D, Regulatory Affairs and Business
+ Highly Differentiated Pipeline Targeting Oncology and Other Diseases;
+ Insightful Drug R&D Life Cycle Driven by “ACE” Approach;
+ Strong Global Capabilities Covering R&D, Regulatory Affairs and Business
 Development; and
-(cid:129) Management Team with Rich Industry Experience and Strong Execution
+ Management Team with Rich Industry Experience and Strong Execution
 Capabilities.
 OUR STRATEGIES
-(cid:129) Advance Clinical Trials of Our Drug Candidates;
-(cid:129) Establish a Commercial Network for Promoting Tinengotinib Globally;
-(cid:129) Continue to Execute Our Global Strategy via Broad and Diversified Collaboration;
+ Advance Clinical Trials of Our Drug Candidates;
+ Establish a Commercial Network for Promoting Tinengotinib Globally;
+ Continue to Execute Our Global Strategy via Broad and Diversified Collaboration;
 and
-(cid:129) Continuously Attract, Retain and Incentivize Talent of High Quality and Diversity.
+ Continuously Attract, Retain and Incentivize Talent of High Quality and Diversity.
 RESEARCH AND DEVELOPMENT
 We believe that fully-integrated in-house R&D capabilities are critically important to our
 success in global competition. As of the Latest Practicable Date, our R&D team consisted of
@@ -1869,21 +1869,21 @@ There are certain risks relating to an investment in our Shares. A detailed disc
 the risk factors is set forth in the section headed “Risk Factors.”Asummary of key risk factors
 is set forth below. Any of the following developments may have a material and adverse effect
 on our business, financial condition, results of operations and prospects:
-(cid:129) If we or our licensors are unable to obtain and maintain adequate patent and other
+ If we or our licensors are unable to obtain and maintain adequate patent and other
 intellectual property protection for our drug candidates throughout the world, or if
 the scope of such intellectual property rights obtained is not sufficiently broad, third
 parties could develop and commercialize products and technologies similar or
 identical to ours and compete directly against us, and our ability to successfully
 develop and commercialize any of our drug candidates or technologies would be
 materially adversely affected.
-(cid:129) Our business and financial prospects depend substantially on the success of our
+ Our business and financial prospects depend substantially on the success of our
 clinical and preclinical stage drug candidates and our ability to identify additional
 drug candidates, complete their clinical development, obtain their regulatory
 approvals or achieve their commercialization.
-(cid:129) Our drug candidates, once approved, may fail to achieve the degree of market
+ Our drug candidates, once approved, may fail to achieve the degree of market
 acceptance by physicians, patients, third-party payers and others in the medical
 community necessary for commercial success.
-(cid:129) If our drug candidates fail to demonstrate safety and efficacy to the satisfaction of
+ If our drug candidates fail to demonstrate safety and efficacy to the satisfaction of
 regulatory authorities or do not otherwise produce positive results, we may incur
 additional costs or experience delays in completing, or may ultimately be unable to
 complete, the development and commercialization of our drug candidates.
@@ -1891,28 +1891,28 @@ complete, the development and commercialization of our drug candidates.
 
 === PAGE 33 ===
 SUMMARY
-(cid:129) We work with various third parties to develop our drug candidates, such as those
+ We work with various third parties to develop our drug candidates, such as those
 who help us conduct our preclinical studies and clinical trials. If we fail to maintain
 our relationships with these third-party service providers, or if these third parties do
 not successfully carry out their contractual duties, comply with proper practices and
 standards or meet expected timelines, we may not be able to obtain regulatory
 approval for, or commercialize, our drug candidates, and our business could be
 materially harmed.
-(cid:129) We have entered into collaborations with our partners and may form or seek
+ We have entered into collaborations with our partners and may form or seek
 additional collaborations or strategic alliances or enter into additional licensing
 arrangements in the future. We may not realize any or all benefits of such alliances
 or licensing arrangements, and disputes may arise between us and our current or
 future collaboration partners.
-(cid:129) We have no track record and limited experience in commercialization of products.
+ We have no track record and limited experience in commercialization of products.
 If we are unable to build or maintain sufficient sales and marketing capabilities,
 either by ourselves or through third parties, we may not be able to successfully
 create or increase market awareness of our future products or sell our future
 products, which will materially affect our ability to generate product sales revenue.
-(cid:129) We have incurred significant net losses since our inception, and we anticipate that
+ We have incurred significant net losses since our inception, and we anticipate that
 wewillcontinuetoincurnetlossesfortheforeseeablefutureandmayneverbecome
 profitable. Investors are at risk of losing substantially all of their investments in our
 Shares.
-(cid:129) We operate in a rapidly changing industry and we face substantial competition,
+ We operate in a rapidly changing industry and we face substantial competition,
 which may result in others discovering, developing or commercializing competing
 products before or more successfully than we do, or developing drug candidates or
 treatments that are safer, more effective, more effectively marketed or cost less than
@@ -1971,10 +1971,10 @@ in any year.
 SUMMARY
 THE GLOBAL OFFERING
 The Global Offering by us consists of:
-(cid:129) the offer by us of initially 1,528,500 H Shares, or Hong Kong Offer Shares, for
+ the offer by us of initially 1,528,500 H Shares, or Hong Kong Offer Shares, for
 subscription by the public in Hong Kong, referred to in this prospectus as the Hong
 Kong Public Offering; and
-(cid:129) the offer by us of initially 13,752,500 H Shares, or International Offer Shares,
+ the offer by us of initially 13,752,500 H Shares, or International Offer Shares,
 outside the U.S. (including to professional, institutional and other investors within
 Hong Kong) in offshore transactions in reliance on Regulation S, referred to in this
 prospectus as the International Offering.
@@ -2059,9 +2059,9 @@ RECENT DEVELOPMENTS
 Clinical Trials
 The recent developments of our drug candidates since the end of theTrack Record Period
 and up to the Latest Practicable Date include:
-(cid:129) In January 2025, we completed the Phase II clinical trial of TT-01688 for the
+ In January 2025, we completed the Phase II clinical trial of TT-01688 for the
 treatment of AD in China.
-(cid:129) In February 2025, we received the IND approval from the NMPAto conduct a Phase
+ In February 2025, we received the IND approval from the NMPAto conduct a Phase
 II clinical trial of Tinengotinib tablets in combination with Cadonilimab or
 Ivonescimab for the treatment of advanced HCC.
 We expect to incur net loss for the year ending December 31, 2025, primarily due to the
@@ -2808,7 +2808,7 @@ preceded by the outcome term, such as in “clinical
 remission endpoint” or “maintenance therapy endpoint”
 “ERK” extracellular signal-regulated kinase
 “estrogen receptor” or “ER” a group of proteins found inside cells, and receptors that
-are activated by the hormone estrogen (17(cid:2)-estradiol)
+are activated by the hormone estrogen (17 -estradiol)
 “FGFR” fibroblast growth factor receptor, a family of tyrosine
 kinase receptors including FGFR1-4, which play a key
 role in regulating cell survival and proliferation, and a
@@ -2891,7 +2891,7 @@ by 50%
 bile ducts within the liver
 “IDH1” isocitrate dehydrogenase 1
 “IIT” investigator initiated trial
-“IL-4R(cid:3) antibody” interleukin-4 receptor alpha antibody
+“IL-4R antibody” interleukin-4 receptor alpha antibody
 “immunosuppressants” drugs or medicines that depress or prevent activity of the
 immune system
 “in vitro” Latinfor“inglass”,studiesinvitroareconductedoutside
@@ -3114,7 +3114,7 @@ pharmacodynamics, influences dosing, benefit, and
 adverse effects of the drug
 “PCC” preclinical compound
 “PKG” protein kinase G
-“PLC(cid:4)2” phospholipase C gamma 2, which plays a significant role
+“PLC 2” phospholipase C gamma 2, which plays a significant role
 in transmembrane signaling
 “point mutation” a mutation affecting only one or very few nucleotides
 “PR” partial response
@@ -3318,24 +3318,24 @@ the other risk factors as described in this prospectus. You are strongly caution
 on any forward-looking statements involves known and unknown risks and uncertainties. The
 risks, uncertainties and other factors facing our Company which could affect the accuracy of
 forward-looking statements include, but are not limited to, the following:
-(cid:129) our business strategies and plans to achieve these strategies;
-(cid:129) our ability to complete the development and obtain the relevant requisite regulatory
+ our business strategies and plans to achieve these strategies;
+ our ability to complete the development and obtain the relevant requisite regulatory
 approvals;
-(cid:129) our ability to commercialize in a timely manner;
-(cid:129) our future debt levels and capital needs;
-(cid:129) changes to the political and regulatory environment in the industry and markets in
+ our ability to commercialize in a timely manner;
+ our future debt levels and capital needs;
+ changes to the political and regulatory environment in the industry and markets in
 which we operate;
-(cid:129) our expectations with respect to our ability to acquire and maintain regulatory
+ our expectations with respect to our ability to acquire and maintain regulatory
 licenses or permits;
-(cid:129) changesincompetitiveconditionsandourabilitytocompeteundertheseconditions;
-(cid:129) future developments, trends and conditions in the industry and markets in which we
+ changesincompetitiveconditionsandourabilitytocompeteundertheseconditions;
+ future developments, trends and conditions in the industry and markets in which we
 operate;
-(cid:129) general economic, political and business conditions in the markets in which we
+ general economic, political and business conditions in the markets in which we
 operate;
-(cid:129) effects of the global financial markets and economic crisis;
-(cid:129) our financial conditions and performance;
-(cid:129) our dividend policy; and
-(cid:129) change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
+ effects of the global financial markets and economic crisis;
+ our financial conditions and performance;
+ our dividend policy; and
+ change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
 operations, margins, risk management and overall market trends.
 – 64 –
 
@@ -3535,52 +3535,52 @@ efforts and financial resources in the development of our existing drug candidat
 expect to continue to incur substantial and increasing expenditures for the development and
 commercialization of our drug candidates. The success of our drug candidates will depend on
 several factors, including but not limited to:
-(cid:129) successful enrollment of patients in, and completion of, clinical trials, as well as
+ successful enrollment of patients in, and completion of, clinical trials, as well as
 completion of preclinical studies;
-(cid:129) favorable safety and efficacy data from our clinical trials and other studies;
-(cid:129) timely product testing, validation and regulatory review;
+ favorable safety and efficacy data from our clinical trials and other studies;
+ timely product testing, validation and regulatory review;
 – 69 –
 
 === PAGE 79 ===
 RISK FACTORS
-(cid:129) receipt of regulatory approvals for our drug candidates;
-(cid:129) sufficient resources to acquire or discover additional drug candidates and successful
+ receipt of regulatory approvals for our drug candidates;
+ sufficient resources to acquire or discover additional drug candidates and successful
 identification of potential drug candidates based on our research or business
 development methodology or search criteria and process;
-(cid:129) obtaining sufficient supplies of any drug products that are used in combination with
+ obtaining sufficient supplies of any drug products that are used in combination with
 our drug candidates, competitor drugs or comparison drugs that may be necessary
 for use in clinical trials for evaluation of our drug candidates;
-(cid:129) establishing commercial manufacturing capabilities, either by building facilities
+ establishing commercial manufacturing capabilities, either by building facilities
 ourselves or making arrangements with third-party contract manufacturers;
-(cid:129) the ability of our CROs, other third party contractors and third party research
+ the ability of our CROs, other third party contractors and third party research
 organizations to conduct or assist in conducting our clinical trials in a safe and
 efficient manner, that complies with our specified trial protocols and applicable
 laws, and that protects the integrity of the resulting data;
-(cid:129) obtaining, maintaining and enforcing patent, trademark, trade secret and other
+ obtaining, maintaining and enforcing patent, trademark, trade secret and other
 intellectual property protection and regulatory exclusivity for our drug candidates;
-(cid:129) ensuring we do not infringe, misappropriate or otherwise violate the patents,
+ ensuring we do not infringe, misappropriate or otherwise violate the patents,
 trademarks, trade secrets or other intellectual property rights of third parties, and
 successfully defending against any claims by third parties that we have infringed,
 misappropriated or otherwise violated any intellectual property of any such third
 party;
-(cid:129) obtaining required marketing authorizations and launching commercial sales in
+ obtaining required marketing authorizations and launching commercial sales in
 China, the U.S. and other targeted markets, if and when approved;
-(cid:129) competition with other drug candidates, drugs, existing or potential new treatments
+ competition with other drug candidates, drugs, existing or potential new treatments
 for any anticipated indications of our drug candidates, especially the keen
 competition with numerous candidates under ongoing studies related to FGFR;
-(cid:129) convenience and ease of administration of our products and acceptance of our
+ convenience and ease of administration of our products and acceptance of our
 products by patients;
-(cid:129) successfully launching commercial sales of our drug candidates, if and when
+ successfully launching commercial sales of our drug candidates, if and when
 approved, including by appropriately pricing our drug candidates, promptly
 collecting payments due to us and obtaining reimbursement from private and
 governmental third-party payors;
-(cid:129) efficiently and cost-effectively building up our marketing platform and distribution
+ efficiently and cost-effectively building up our marketing platform and distribution
 channels; and
 – 70 –
 
 === PAGE 80 ===
 RISK FACTORS
-(cid:129) maintaining acceptable safety profile of our drug candidates following regulatory
+ maintaining acceptable safety profile of our drug candidates following regulatory
 approval.
 If we do not achieve one or more of these factors in a timely manner or at all, we could
 experience significant delays or be unable to obtain approval for our drug candidates, and/or
@@ -3978,23 +3978,23 @@ candidates do not achieve an adequate level of acceptance, we may not generate s
 product sales revenues and we may not become profitable. The degree of market acceptance of
 our drug candidates, if approved for commercial sale, will depend on a number of factors,
 including, but not limited to:
-(cid:129) the clinical indications for which our drug candidates are approved;
-(cid:129) physicians, hospitals, medical treatment centers and patients considering our drug;
-(cid:129) efficacy and safety of our drug candidates;
-(cid:129) the potential and perceived advantages of our drug candidates over alternative
+ the clinical indications for which our drug candidates are approved;
+ physicians, hospitals, medical treatment centers and patients considering our drug;
+ efficacy and safety of our drug candidates;
+ the potential and perceived advantages of our drug candidates over alternative
 treatments;
-(cid:129) the prevalence and severity of any side effects;
-(cid:129) product labelling or product insert requirements of regulatory authorities;
-(cid:129) limitations or warnings contained in the labelling approved by regulatory
+ the prevalence and severity of any side effects;
+ product labelling or product insert requirements of regulatory authorities;
+ limitations or warnings contained in the labelling approved by regulatory
 authorities;
-(cid:129) the timing of market introduction of our drug candidates as well as competitive
+ the timing of market introduction of our drug candidates as well as competitive
 drugs;
-(cid:129) the cost of treatment in relation to alternative treatments;
-(cid:129) the availability of adequate coverage, reimbursement and pricing by third-party
+ the cost of treatment in relation to alternative treatments;
+ the availability of adequate coverage, reimbursement and pricing by third-party
 payers and government authorities;
-(cid:129) the willingness of patients to pay out-of-pocket in the absence of coverage and
+ the willingness of patients to pay out-of-pocket in the absence of coverage and
 reimbursement by third-party payers and government authorities; and
-(cid:129) the effectiveness of our sales and marketing efforts.
+ the effectiveness of our sales and marketing efforts.
 – 80 –
 
 === PAGE 90 ===
@@ -4277,21 +4277,21 @@ We have no experience in manufacturing of our products for commercial use. Moreo
 the manufacturing of pharmaceutical products is highly complex. If we manufacture our
 products for commercial use by ourselves in the future, problems may arise during
 manufacturing for a variety of reasons, including but not limited to:
-(cid:129) equipment malfunction;
-(cid:129) failure to follow specific protocols and procedures;
-(cid:129) changes in product specification;
-(cid:129) low quality or insufficient supply of raw materials;
-(cid:129) delays in the construction of new facilities as a result of changes in manufacturing
+ equipment malfunction;
+ failure to follow specific protocols and procedures;
+ changes in product specification;
+ low quality or insufficient supply of raw materials;
+ delays in the construction of new facilities as a result of changes in manufacturing
 production sites and limits to manufacturing capacity due to regulatory
 requirements;
-(cid:129) changes in the types of products produced;
-(cid:129) advances in manufacturing techniques;
+ changes in the types of products produced;
+ advances in manufacturing techniques;
 – 87 –
 
 === PAGE 97 ===
 RISK FACTORS
-(cid:129) physical limitations that could inhibit continuous supply; and
-(cid:129) man-made or natural disasters and other environmental factors.
+ physical limitations that could inhibit continuous supply; and
+ man-made or natural disasters and other environmental factors.
 Products with quality issues may have to be discarded, resulting in product shortages or
 additional expenses. This could lead to, among other things, increased costs, lost revenue,
 damage to customer relationships, time and expense spent investigating the cause and,
@@ -4529,38 +4529,38 @@ licenseagreementwithEAPharmarelatingtotheresearchofonenoveltargetforinflammatory
 and metabolic diseases. For details, see “Business – Collaboration and License Agreements.”
 Our strategic collaboration with partners involves numerous risks, which may include the
 following:
-(cid:129) collaboration partners have significant discretion in determining the efforts and
+ collaboration partners have significant discretion in determining the efforts and
 resources that they will apply to a collaboration;
-(cid:129) collaboration partners may not pursue development and commercialization of our
+ collaboration partners may not pursue development and commercialization of our
 drug candidates or may fail to effectively implement commercialization plans and
 strategies, or may not continue or renew development or commercialization
 programs based on clinical trial results, or change their strategic focus due to the
 acquisition of competitive products, availability of funding, or other external
 factors, such as a business combination that diverts resources or creates competing
 priorities;
-(cid:129) collaboration partners may delay clinical trials, provide insufficient funding for a
+ collaboration partners may delay clinical trials, provide insufficient funding for a
 clinical trial, stop a clinical trial, abandon a drug candidate, repeat or conduct new
 clinical trials, or require a new design of a drug candidate for clinical testing;
 – 93 –
 
 === PAGE 103 ===
 RISK FACTORS
-(cid:129) collaboration partners with marketing and distribution rights to one or more
+ collaboration partners with marketing and distribution rights to one or more
 products fail to effectively implement commercialization plans and strategies, or
 may not commit sufficient resources to their marketing and distribution;
-(cid:129) collaboration partners may not properly maintain or defend our intellectual property
+ collaboration partners may not properly maintain or defend our intellectual property
 rights or may use our intellectual property or proprietary information in a way that
 gives rise to actual or threatened litigation that could jeopardize or invalidate our
 intellectual property or proprietary information or expose us to potential liability;
-(cid:129) disputes may arise between us and a collaborator that cause the delay or termination
+ disputes may arise between us and a collaborator that cause the delay or termination
 of the research, development or commercialization of our drug candidates, or that
 result in costly litigation or arbitration that diverts management attention and
 resources;
-(cid:129) our collaborators may breach the collaborations, and any termination of
+ our collaborators may breach the collaborations, and any termination of
 collaborations may result in our inability to generate revenue in the foreseeable
 future and a need for additional capital to pursue further development or
 commercialization of the applicable drug candidates; and/or
-(cid:129) collaboration partners may own or co-own intellectual property covering our drug
+ collaboration partners may own or co-own intellectual property covering our drug
 candidates that results from our collaborating with them, and in such cases, we
 would not have the exclusive right to commercialize such intellectual property.
 We may also form or seek additional collaborations or strategic alliances or enter into
@@ -4598,39 +4598,39 @@ and may not be able to do so for any of our drug candidates. We also intend to c
 third parties as part of our manufacturing process, including for the manufacturing of critical
 reagents and materials. Our anticipated reliance on a limited number of third-party
 manufacturing partners may expose us to the following risks:
-(cid:129) We may be unable to identify manufacturers on acceptable terms or at all because
+ We may be unable to identify manufacturers on acceptable terms or at all because
 the number of potential manufacturers is limited and applicable health authorities
 must approve any manufacturers. This approval would require new testing and good
 manufacturing practices compliance inspections by health authorities. In addition, a
 new manufacturer would have to be educated in, or develop substantially equivalent
 processesfor,productionofthematerialsusedinthemanufacturingofourproducts.
-(cid:129) Our third-party manufacturing partners might be unable to timely manufacture
+ Our third-party manufacturing partners might be unable to timely manufacture
 materials used in the manufacture of our drug candidates, or produce the quantity
 and quality required to meet our clinical and commercial needs, if any.
-(cid:129) Our contract manufacturers may not perform as agreed, may not devote sufficient
+ Our contract manufacturers may not perform as agreed, may not devote sufficient
 resources to us, or may not remain in the contract manufacturing business for the
 time required to supply our clinical trials or to successfully produce, store, and
 distribute the materials used in the manufacture of our drug candidates.
-(cid:129) Manufacturers are subject to ongoing periodic unannounced inspection by the
+ Manufacturers are subject to ongoing periodic unannounced inspection by the
 NMPA and other regulatory authorities to ensure strict compliance with GMPs and
 other government regulations and corresponding foreign standards. We do not have
 control over third-party manufacturing partners’ compliance with these regulations
 and standards.
-(cid:129) We may not own, or may have to share, the intellectual property rights to any
+ We may not own, or may have to share, the intellectual property rights to any
 improvements made by our third-party manufacturing partners in the manufacturing
 process for our products, or in the manufacture of the custom materials used in the
 manufacture thereof.
-(cid:129) Our third-party manufacturing partners could breach or terminate their agreement
+ Our third-party manufacturing partners could breach or terminate their agreement
 with us.
 – 95 –
 
 === PAGE 105 ===
 RISK FACTORS
-(cid:129) Rawmaterialsandcomponentsusedinthemanufacturingprocess,particularlythose
+ Rawmaterialsandcomponentsusedinthemanufacturingprocess,particularlythose
 for which we have no other source or supplier, may not be available or may not be
 suitable or acceptable for use due to material or component defects, or may
 introduce variability into our final products.
-(cid:129) Our contract manufacturers and critical suppliers may be subject to inclement
+ Our contract manufacturers and critical suppliers may be subject to inclement
 weather, as well as natural or man-made disasters.
 We depend on a stable and adequate supply of quality materials, including reagents and
 consumables and R&D and manufacturing equipment, from our suppliers, and price
@@ -4778,33 +4778,33 @@ Trials,” and “Business – Non-Oncology Pipeline Products – TT-01025: Irre
 Inhibitor – Summary of Clinical Trial.” Undesirable adverse events caused by our drug
 candidates,orcausedbyourdrugcandidateswhenusedincombinationwithotherdrugs,could
 potentially cause significant negative consequences, including but not limited to:
-(cid:129) regulatory authorities could interrupt, delay or halt pending clinical trials;
-(cid:129) we may suspend, delay or alter development or marketing of our drug candidates;
-(cid:129) regulatory authorities may order us to cease further development of, or deny
+ regulatory authorities could interrupt, delay or halt pending clinical trials;
+ we may suspend, delay or alter development or marketing of our drug candidates;
+ regulatory authorities may order us to cease further development of, or deny
 approval of, our drug candidates for any or all targeted indications if results of our
 trials reveal a high and unacceptable severity or prevalence of certain adverse
 events;
-(cid:129) regulatory authorities may delay or deny approval of our drug candidates;
-(cid:129) regulatory authorities may withdraw approvals or revoke licenses of an approved
+ regulatory authorities may delay or deny approval of our drug candidates;
+ regulatory authorities may withdraw approvals or revoke licenses of an approved
 drug candidate, or we may determine to do so even if not required;
-(cid:129) regulatory authorities may require additional warnings on the label of an approved
+ regulatory authorities may require additional warnings on the label of an approved
 drug candidate or impose other limitations on an approved drug candidate;
 – 99 –
 
 === PAGE 109 ===
 RISK FACTORS
-(cid:129) we may be required to develop a risk evaluation mitigation strategy for the drug
+ we may be required to develop a risk evaluation mitigation strategy for the drug
 candidate,or,ifoneisalreadyinplace,toincorporateadditionalrequirementsunder
 the risk evaluation mitigation strategy, or to develop a similar strategy as required
 by a comparable regulatory authority;
-(cid:129) we may be required to conduct post-market studies;
-(cid:129) we could be subject to litigation proceedings and held liable for harm caused to
+ we may be required to conduct post-market studies;
+ we could be subject to litigation proceedings and held liable for harm caused to
 patients exposed to or taking our drug candidates may suffer from adverse events
 related to the treatment and patients;
-(cid:129) the patient enrolment may be insufficient or slower than we anticipate or patients
+ the patient enrolment may be insufficient or slower than we anticipate or patients
 may drop out or fail to return for post-treatment follow-up at a higher rate than
 anticipated; and
-(cid:129) the costs of clinical trials of our drug candidates may be substantially higher than
+ the costs of clinical trials of our drug candidates may be substantially higher than
 anticipated.
 Any of these events could prevent us from achieving or maintaining market acceptance
 of the particular drug candidate, and could significantly harm our business, results of
@@ -4855,13 +4855,13 @@ unknown problems with the drug, including problems with third-party manufacturer
 manufacturing processes, or failure to comply with regulatory requirements. If any of the
 foregoing occurs with respect to any of our drug candidates, it may result in, among other
 things:
-(cid:129) restrictions on the marketing or manufacturing of the drug, withdrawal of the drug
+ restrictions on the marketing or manufacturing of the drug, withdrawal of the drug
 from the market, or voluntary or mandatory drug recalls;
-(cid:129) fines, warning letters or holds on clinical trials;
-(cid:129) regulatory refusal to approve pending applications or supplements to approved
+ fines, warning letters or holds on clinical trials;
+ regulatory refusal to approve pending applications or supplements to approved
 applications filed by us, or suspension or revocation of drug license approvals;
-(cid:129) drug seizure or detention, or refusal to permit the import or export of drugs; and
-(cid:129) injunctions or the imposition of civil, administrative or criminal penalties being
+ drug seizure or detention, or refusal to permit the import or export of drugs; and
+ injunctions or the imposition of civil, administrative or criminal penalties being
 imposed on us.
 Any government investigation of alleged violations of law could require us to expend
 significant time and resources and could generate negative publicity.
@@ -5454,28 +5454,28 @@ indications and to invest in additional clinical development programs. According
 likelyrequirefurtherfundingthroughpublicorprivateofferings,debtfinancing,collaboration,
 and licensing arrangements or other sources. Our future funding requirements will depend on
 many factors, including:
-(cid:129) the progress, timing, scope, results and costs of our clinical trials, including the
+ the progress, timing, scope, results and costs of our clinical trials, including the
 ability to timely enroll patients in our planned and potential future clinical trials;
-(cid:129) the progress of third-party clinical trials relating to products with respect to which
+ the progress of third-party clinical trials relating to products with respect to which
 we have rights of first refusal, options or other rights to acquire;
-(cid:129) the outcome, timing and cost of regulatory approvals of our drug candidates;
-(cid:129) the cost and timing of development and completion of commercial-scale
+ the outcome, timing and cost of regulatory approvals of our drug candidates;
+ the cost and timing of development and completion of commercial-scale
 manufacturing activities;
-(cid:129) the number and characteristics of drug candidates that we may develop;
-(cid:129) the cost of filing, prosecuting, defending and enforcing any patent claims or other
+ the number and characteristics of drug candidates that we may develop;
+ the cost of filing, prosecuting, defending and enforcing any patent claims or other
 intellectual property rights;
-(cid:129) selling and marketing costs associated with any future drug candidates that may be
+ selling and marketing costs associated with any future drug candidates that may be
 approved, including the cost and timing of expanding our marketing and sales
 capabilities;
 – 115 –
 
 === PAGE 125 ===
 RISK FACTORS
-(cid:129) the terms and timing of any potential future collaborations, licensing or other
+ the terms and timing of any potential future collaborations, licensing or other
 arrangements that we may establish;
-(cid:129) general cash requirements for maintaining our R&D platform and process
+ general cash requirements for maintaining our R&D platform and process
 development; and
-(cid:129) our headcount growth and associated costs.
+ our headcount growth and associated costs.
 Adequate additional funding may not be available to us on acceptable terms, or at all. If
 we are unable to raise capital when needed or on attractive terms, we would be forced to delay,
 reduce or eliminate our research and development programs or future commercialization
@@ -5805,23 +5805,23 @@ From time to time, we may evaluate various acquisitions and strategic partnershi
 including licensing or acquiring complementary products, intellectual property rights,
 technologies or businesses. Any completed, in-process or potential acquisition or strategic
 partnership may entail numerous risks, including:
-(cid:129) increased operating expenses and cash requirements;
-(cid:129) the assumption of additional indebtedness or contingent or unforeseen liabilities;
-(cid:129) the issuance of our equity securities;
+ increased operating expenses and cash requirements;
+ the assumption of additional indebtedness or contingent or unforeseen liabilities;
+ the issuance of our equity securities;
 – 123 –
 
 === PAGE 133 ===
 RISK FACTORS
-(cid:129) assimilation of operations, intellectual property and products of an acquired
+ assimilation of operations, intellectual property and products of an acquired
 company, including difficulties associated with integrating new personnel;
-(cid:129) thediversionofourmanagement’sattentionfromourexistingproductprogramsand
+ thediversionofourmanagement’sattentionfromourexistingproductprogramsand
 initiatives in pursuing such a strategic merger or acquisition;
-(cid:129) retention of key employees, the loss of key personnel, and uncertainties in our
+ retention of key employees, the loss of key personnel, and uncertainties in our
 ability to maintain key business relationships;
-(cid:129) risks and uncertainties associated with the other party to such a transaction,
+ risks and uncertainties associated with the other party to such a transaction,
 including the prospects of that party and their existing drugs or drug candidates and
 regulatory approvals; and
-(cid:129) our inability to generate revenue from acquired technology and/or products
+ our inability to generate revenue from acquired technology and/or products
 sufficient to meet our objectives in undertaking the acquisition or even to offset the
 associated acquisition and maintenance costs.
 In addition, if we undertake acquisitions, we may issue dilutive securities, assume or
@@ -6134,30 +6134,30 @@ materially and adversely affect our business and results of operations.
 Because we operate in China, the U.S. and other jurisdictions, our business is subject to
 risks associated with doing business globally. Accordingly, our business and financial results
 in the future could be adversely affected due to a variety of factors, including:
-(cid:129) changesinaspecificcountry’sorregion’spoliticalandculturalclimateoreconomic
+ changesinaspecificcountry’sorregion’spoliticalandculturalclimateoreconomic
 condition;
 – 131 –
 
 === PAGE 141 ===
 RISK FACTORS
-(cid:129) unexpected changes in laws and regulatory requirements in local jurisdictions;
-(cid:129) efforts to develop an international sales, marketing and distribution organization
+ unexpected changes in laws and regulatory requirements in local jurisdictions;
+ efforts to develop an international sales, marketing and distribution organization
 may increase our expenses, divert our management’s attention from the acquisition
 or development of drug candidates or cause us to forgo profitable licensing
 opportunities in these geographies;
-(cid:129) the occurrence of economic weakness, including inflation or political instability;
-(cid:129) the burden of complying with a variety of foreign laws including difficulties in
+ the occurrence of economic weakness, including inflation or political instability;
+ the burden of complying with a variety of foreign laws including difficulties in
 effective enforcement of contractual provisions in local jurisdictions;
-(cid:129) inadequate intellectual property protection in certain jurisdictions;
-(cid:129) enforcement of anti-corruption and anti-bribery laws;
-(cid:129) trade-protection measures, import or export licensing requirements and fines,
+ inadequate intellectual property protection in certain jurisdictions;
+ enforcement of anti-corruption and anti-bribery laws;
+ trade-protection measures, import or export licensing requirements and fines,
 penalties or suspension or revocation of export privileges;
-(cid:129) delays resulting from difficulty in obtaining export licenses, tariffs and other
+ delays resulting from difficulty in obtaining export licenses, tariffs and other
 barriers and restrictions, potentially longer payment cycles, greater difficulty in
 accounts receivable collection and potentially adverse tax treatment;
-(cid:129) the effects of applicable local tax regimes and potentially adverse tax consequences;
+ the effects of applicable local tax regimes and potentially adverse tax consequences;
 and
-(cid:129) significant adverse changes in local currency exchange rates.
+ significant adverse changes in local currency exchange rates.
 Furthermore, we are subject to general geopolitical risks in foreign countries where we
 operate, such as political and economic instability and changes in diplomatic and trade
 relationships, which could cause our results to fluctuate and our revenue to decline. The
@@ -7176,7 +7176,7 @@ the FDA had approved 102 types of novel small molecule oncology targeted drugs, 
 NMPA had approved 95 such drugs. From 2018 to 2023, one third of the oncology drugs
 approved by the FDA and the NMPA are small molecule targeted drugs.
 Significant Medical Needs
-(cid:129) Drug Resistance. Despite the improved efficacy of small molecule oncology
+ Drug Resistance. Despite the improved efficacy of small molecule oncology
 targeted therapies, one of the key concerns that arises in small molecule oncology
 targeted therapies is the frequent development of drug resistance of disease
 progression. Most cancer patients treated with small molecule targeted drugs
@@ -7188,13 +7188,13 @@ plasticity and other mechanisms. For HR+/HER2− breast cancer, after receiving 
 first-line treatment, including CDK4/6 inhibitors, most patients will eventually
 develop acquired drug resistance. Therefore, there are significant medical needs for
 second-line treatment of these cancer patients.
-(cid:129) Low Five-Year Survival Rates. Currently, there is no direct assay for early detection
+ Low Five-Year Survival Rates. Currently, there is no direct assay for early detection
 of CCA. Hence, the CCApatients are normally diagnosed at the late stage of cancer
 with low survival rate. Characterized by its high malignancy, invasive nature, and
 rapid progression, CCA stands out with a five-year survival rate of approximately
 10%, which is significantly lower than the five-year survival rate of all cancer types
 combined, which is 69% in the U.S.
-(cid:129) Major Cancer Types with High Incidence and Mortality. In 2023, breast and prostate
+ Major Cancer Types with High Incidence and Mortality. In 2023, breast and prostate
 cancers ranked as the top two cancers in terms of incidence in the U.S., accounting
 for the highest number of new cancer cases. Similarly, in China, breast cancer and
 prostate cancer also ranked among the top ten cancers in terms of incidence,
@@ -7202,7 +7202,7 @@ occupying the sixth and ninth positions, respectively. Moreover, breast cancer a
 prostate cancer were among the top five causes of cancer-related mortality in the
 U.S. in 2023, with breast cancer ranking fourth and prostate cancer ranking fifth. In
 China, breast cancer ranked the seventh in terms of mortality.
-(cid:129) Increasing demand. With the expanding pool of cancer patients, the demand for
+ Increasing demand. With the expanding pool of cancer patients, the demand for
 innovativedrugswithimprovedefficacyisalsogrowing.Thisisparticularlytruefor
 cancers with limited treatment options, where novel targets such as FGFR, KRAS,
 and c-MET have garnered significant development focus in recent years.
@@ -7211,25 +7211,25 @@ and c-MET have garnered significant development focus in recent years.
 === PAGE 171 ===
 INDUSTRY OVERVIEW
 Entry Barriers
-(cid:129) In-depth Understanding of Disease Mechanisms and Key Pathogenic Factors. A
+ In-depth Understanding of Disease Mechanisms and Key Pathogenic Factors. A
 thorough understanding of disease mechanisms and the identification of key
 pathogenic factors are essential for precise molecular targeting of various critical
 targets. Effective cellular entry and accurate targeting are central to the research and
 development of small molecule targeted drugs.
-(cid:129) Target Discovery, Compound Screening, and Optimization. The success of small
+ Target Discovery, Compound Screening, and Optimization. The success of small
 molecule targeted drug development hinges on target discovery, compound
 screening, and optimization. Key challenges include intense competition around
 popular targets, coupled with a scarcity of novel targets and innovative technical
 approaches. Breakthroughs in target discovery and compound design are crucial for
 overcoming these barriers to entry.
-(cid:129) Drug Design for a Broad Patient Population. Small molecule targeted drugs are
+ Drug Design for a Broad Patient Population. Small molecule targeted drugs are
 generally effective only in patients with specific genetic mutations, limiting their
 broad-spectrum applicability. For example, when selecting targeted anti-tumor
 drugs, identifying the specific gene mutations in patients is often a prerequisite,
 highlighting the critical role of genetic testing in the deployment of targeted
 therapies. Designing therapies that could potentially treat a wider patient population
 remains a significant challenge.
-(cid:129) Addressing Drug Resistance Issues. Overcoming drug resistance is another
+ Addressing Drug Resistance Issues. Overcoming drug resistance is another
 significant hurdle for small molecule targeted drugs. Nearly all the small molecule
 targeted drugs face resistance issues after a period of clinical use. Resistance
 mechanisms include increased drug efflux, reduced cellular uptake, target cell gene
@@ -7478,8 +7478,8 @@ Other recommended regimens Useful in certain circumstances
 regimens
 • RT with concurrent fluoropyrimidine
 • NTRK-fusion positive: NTRK • Locoregional therapy
-• Durvalumab + inhibitor (cid:2) RT
-F L i i r n s e t • + G P e G + m + C b r P C o P lizumab • S C i o n m gl b e i - n a a g t e io n n t C ch h e e m m o o t t h h e e r r a a p p y y or • • M T in M h S i I B b -H i - t H o /d r : M PD M -1 R : i n P h D ib - i 1 t o in r h + i b C it T o L r A-4 • (cid:2) Be s A t r s t u e p ri p a o ll r y ti v d e ir c e a c r te e d therapies
+• Durvalumab + inhibitor RT
+F L i i r n s e t • + G P e G + m + C b r P C o P lizumab • S C i o n m gl b e i - n a a g t e io n n t C ch h e e m m o o t t h h e e r r a a p p y y or • • M T in M h S i I B b -H i - t H o /d r : M PD M -1 R : i n P h D ib - i 1 t o in r h + i b C it T o L r A-4 • Be s A t r s t u e p ri p a o ll r y ti v d e ir c e a c r te e d therapies
 • RET mutation-positive: RET
 inhibitor
 Disease Preferred
@@ -7497,7 +7497,7 @@ Third
 No specific recommended regimens
 Line
 The limitations of current CCA treatment are largely attributable to the following:
-(cid:129) Limited Treatment Options and Acquired Resistance. For patients with advanced
+ Limited Treatment Options and Acquired Resistance. For patients with advanced
 CCA, surgical treatments are not effective nor applicable due to cancer invasion.
 The first-line recommended treatment, which is gemcitabine in combination with
 cisplatin, has limited efficacy with significant systemic adverse effects. Highly
@@ -7510,11 +7510,11 @@ patients who have progressed on these treatments due to acquired resistance.
 
 === PAGE 178 ===
 INDUSTRY OVERVIEW
-(cid:129) High Disease Heterogeneity. The molecular and cellular mechanisms of CCA are
+ High Disease Heterogeneity. The molecular and cellular mechanisms of CCA are
 diverse, as the origins of cancer cells vary, leading to different symptoms across
 disease stages of CCA. Additionally, gene alterations among different subtypes of
 CCA vary.
-(cid:129) Recurrence Rate. A high recurrence rate is one of the major reasons for the failure
+ Recurrence Rate. A high recurrence rate is one of the major reasons for the failure
 of CCA treatment. For early-stage patients of CCA, the current early treatment
 mainlyconsistsofsurgerycombinedwithchemotherapyandradiotherapy.However,
 the postoperative recurrence rate is high, with poor survival rate. Additionally, if a
@@ -7833,33 +7833,33 @@ No prior docetaxel chemotherapy Prior docetaxel chemotherapy
 2nd Generation No prior novel Prior novel No prior novel Prior novel
 AR Antagonists hormone therapy hormone therapy hormone therapy hormone therapy
 Drug options Drug options Drug options Drug options
-(cid:129)Abiraterone
-(cid:129)Abiraterone (cid:129)Docetaxel (cid:129)Abiraterone
-(cid:129)Enzalutamide
-(cid:129)Enzalutamide (cid:129)Cabazitaxel + (cid:129)Cabazitaxel
-Apalutamide (cid:129)Lu-177-PSMA-
-(cid:129)Docetaxel Carboplatin (cid:129)Cabazitaxel +
+ Abiraterone
+ Abiraterone Docetaxel Abiraterone
+ Enzalutamide
+ Enzalutamide Cabazitaxel + Cabazitaxel
+Apalutamide Lu-177-PSMA-
+ Docetaxel Carboplatin Cabazitaxel +
 617 (PSMA+)
-(cid:129)BRCAm: (cid:129)BRCAm: Carboplatin
-Darolutamide (cid:129)Cabazitaxel
-PARP inhibitor PARP inhibitor (cid:129)Enzalutamide
-(cid:129)Docetaxel
-(cid:129)Radium-223 (cid:129)Sipuleucel-T (cid:129)Mitoxantrone
+ BRCAm: BRCAm: Carboplatin
+Darolutamide Cabazitaxel
+PARP inhibitor PARP inhibitor Enzalutamide
+ Docetaxel
+ Radium-223 Sipuleucel-T Mitoxantrone
 Enzalutamide rechallenge
-(cid:129)Sipuleucel-T (cid:129)MSI-H/dMMR: (cid:129)BRCAm:
-(cid:129)Cabazitaxel +
-(cid:129)MSI-H/dMMR: PD-1 inhibitor PARP inhibitor
+ Sipuleucel-T MSI-H/dMMR: BRCAm:
+ Cabazitaxel +
+ MSI-H/dMMR: PD-1 inhibitor PARP inhibitor
 Carboplatin
-PD-1 inhibitor (cid:129)Radium-223
-(cid:129)Mitoxantrone
-(cid:129)Sipuleucel-T
-(cid:129)BRCAm:
-(cid:129)MSI-H/dMMR:
+PD-1 inhibitor Radium-223
+ Mitoxantrone
+ Sipuleucel-T
+ BRCAm:
+ MSI-H/dMMR:
 PARP inhibitor
 PD-1 inhibitor
-(cid:129)MSI-H/dMMR:
+ MSI-H/dMMR:
 PD-1 inhibitor
-(cid:129)Radium-223
+ Radium-223
 Source: CSCO2023, NCCN2024 V3, Frost & Sullivan analysis
 Competitive Landscape
 As of the Latest Practicable Date, there were five small molecule targeted therapies
@@ -7987,28 +7987,28 @@ Treatment Paradigm of Advanced HR+/HER2− Breast Cancer
 in the U.S. and China
 Chemotherapy options: HER2- with visceral crisis or Systemic therapy options: HR+ with HER2- and
 endocrine refractory no visceral crisis
-(cid:129) First-line options:
-(cid:129) Aromatase inhibitor with CDK4/6 inhibitor
-(cid:129) Anthracyclines (cid:129) Fulvestrant with CDK4/6 inhibitor
-Preferred (cid:129) Taxanes (cid:129) Second-line and next-line options:
-options (cid:129) Anti-metabolites (cid:129) Fulvestrant with CDK4/6 inhibitor
-(cid:129) Microtubule inhibitors if CDK4/6 inhibitor not used before
-(cid:129) PIK3CA inhibitor with Fulvestrant
-(cid:129) Aromatase inhibitor with mTOR inhibitor
-(cid:129) Aromatase inhibitor with HDAC inhibitor
+ First-line options:
+ Aromatase inhibitor with CDK4/6 inhibitor
+ Anthracyclines Fulvestrant with CDK4/6 inhibitor
+Preferred Taxanes Second-line and next-line options:
+options Anti-metabolites Fulvestrant with CDK4/6 inhibitor
+ Microtubule inhibitors if CDK4/6 inhibitor not used before
+ PIK3CA inhibitor with Fulvestrant
+ Aromatase inhibitor with mTOR inhibitor
+ Aromatase inhibitor with HDAC inhibitor
 (CSCO recommends)
-(cid:129) Aromatase inhibitor
+ Aromatase inhibitor
 Other
-(cid:129) Chemotherapy options (cid:129) Selective estrogen receptor down-regulator
+ Chemotherapy options Selective estrogen receptor down-regulator
 recommended
-(cid:129) Selective estrogen receptor modulator
-(cid:129) Progestogens
-(cid:129) Estrogen
-Used in some (cid:129) NTRK fusion-positive: NTRK inhibitor
-(cid:129) Combination chemotherapy options
-cases (cid:129) MSI-H/dMMR: PD-1 inhibitor
-(cid:129) TMB-H: PD-1 inhibitor
-(cid:129) RET fusion-positive: RET inhibitor
+ Selective estrogen receptor modulator
+ Progestogens
+ Estrogen
+Used in some NTRK fusion-positive: NTRK inhibitor
+ Combination chemotherapy options
+cases MSI-H/dMMR: PD-1 inhibitor
+ TMB-H: PD-1 inhibitor
+ RET fusion-positive: RET inhibitor
 In addition to patients initially diagnosed with TNBC, some HR+/HER2– breast cancers
 are found to be transformed into TNBC after receiving treatment of CDK4/6 inhibitor. For
 TNBC patients, chemotherapy is the current primary treatment option. In addition, for
@@ -8517,7 +8517,7 @@ Chinese medicine and ultraviolet therapy. Topical therapy includes corticosteroi
 inhibitors (tacrolimus and pimecrolimus), and antimicrobial agents. Systemic therapy includes
 antihistamines (loratadine and cetirizine), systemic anti-infective drugs (erythromycin family
 and tetracycline family), immunosuppressants (cyclosporine and methotrexate), glucocorticoid
-and IL-4R(cid:3) inhibitor. Safety concerns limit the long-term use of the current treatment options,
+and IL-4R inhibitor. Safety concerns limit the long-term use of the current treatment options,
 particularlyforchildren,duetotheincreasedbodysurfaceareatomassratioinchildren,which
 results in increased absorption and systemic exposure. In addition, the current treatment
 optionshavebeenreportedtobeassociatedwithsideeffects,includingapplicationsiteburning
@@ -8807,7 +8807,7 @@ local people’s governments at or above the county level are responsible for th
 management of drugs within the scope of their respective functions and duties.
 Compared with the Drug Administration Law revised in 2015, the changes in the Drug
 Administration Law currently in effect mainly focus on the following four aspects:
-(cid:129) Further optimize the drug management system and encourage drug innovation: An
+ Further optimize the drug management system and encourage drug innovation: An
 expert consultation system is established. The communication and exchange
 mechanism with registered applicants is completed. The review process is
 optimized. The review efficiency is improved.At the same time, regarding approval
@@ -8817,7 +8817,7 @@ management, and priority review and approval are implemented. Green channels are
 established for drugs in short supply that are urgently needed in clinical settings,
 newdrugsforthepreventionandtreatmentofseriousinfectiousdiseasesandorphan
 diseases, and drugs for children, subject to priority review and approval.
-(cid:129) Establish the system of drug marketing authorization holder: The marketing
+ Establish the system of drug marketing authorization holder: The marketing
 authorization holder is legally responsible for the safety, effectiveness and quality
 controllability of drugs that are either in the process of R&D, production and
 trading. Meanwhile, the marketing authorization holder is required to establish a
@@ -8828,13 +8828,13 @@ reporting and handling.
 
 === PAGE 210 ===
 REGULATORY OVERVIEW
-(cid:129) Establishandimprovethedrugtracingsystem:Undertheprincipleof“tracingbased
+ Establishandimprovethedrugtracingsystem:Undertheprincipleof“tracingbased
 on one code for one item”, the marketing authorization holder is required to
 establish a drug tracing system so as to make drugs in minimum package unit
 traceable and verifiable. Information-based measures are taken to ensure the quality
 andsafetyofdrugproductionandmanagement,preventfakeandinferiordrugsfrom
 entering into legal channels, and enable drug risk control and precise recall.
-(cid:129) The definition and scope of fake and inferior drugs are modified, more severe
+ The definition and scope of fake and inferior drugs are modified, more severe
 punishment is imposed on illegal acts such as production, operation and sale of fake
 and inferior drugs, and criminal responsibility will be investigated according to law
 for any act that violates the Drug Administration Law and constitutes a crime.
@@ -9760,17 +9760,17 @@ being conducted in accordance with the IRB’s requirements or if the product ha
 associated with unexpected serious harm to subjects.
 Clinicaltrialsgenerallyareconductedinthreesequentialphases,knownasPhaseI,Phase
 II and Phase III, and may overlap.
-(cid:129) Phase I clinical trials generally involve a small number of healthy volunteers or
+ Phase I clinical trials generally involve a small number of healthy volunteers or
 disease-affectedpatientswhoareinitiallyexposedtoasingledoseandthenmultiple
 doses of the product candidate. The primary purpose of these clinical trials is to
 assess the metabolism, pharmacologic action, side effect, tolerability and safety of
 the product candidate.
-(cid:129) Phase II clinical trials involve studies on disease-affected patients to evaluate proof
+ Phase II clinical trials involve studies on disease-affected patients to evaluate proof
 ofconceptand/ordeterminethedoserequiredtoproducethedesiredbenefits.Atthe
 same time, safety and further PK and PD information is collected, possible adverse
 effects and safety risks are identified and a preliminary evaluation of efficacy is
 conducted.
-(cid:129) Phase III clinical trials generally involve a large number of patients at multiple sites
+ Phase III clinical trials generally involve a large number of patients at multiple sites
 and are designed to provide the data necessary to demonstrate the effectiveness of
 the product for its intended use, its safety in use and to establish the overall
 benefit/risk relationship of the product and provide an adequate basis for product
@@ -11835,14 +11835,14 @@ of BTC.The encouraging clinical data ofTinengotinib have been published or prese
 at major international medical conferences such as theAmerican Society of Clinical Oncology,
 the European Society of Medical Oncology, the San Antonio Breast Cancer Symposium, and
 American Association for Cancer Research.
-(cid:129) CCA.Tinengotinib is the world’s first and only investigational drug that has entered
+ CCA.Tinengotinib is the world’s first and only investigational drug that has entered
 registrational clinical stage to treat FGFR inhibitor relapsed or refractory CCA
 patients. We are currently conducting a Phase III multi-regional clinical trial across
 the U.S., South Korea, United Kingdom, eight countries in the EU and Taiwan. We
 are also conducting a Phase II pivotal trial in China under an accelerated approval
 protocol. We expect to launch Tinengotinib in China first after we receive the
 conditional marketing approval, followed by other regions.
-(cid:129) mCRPC.Tinengotinib is also the world’s first and only investigational drug that has
+ mCRPC.Tinengotinib is also the world’s first and only investigational drug that has
 the potential to simultaneously inhibit the FGFR/JAK pathway with clinical
 evidence in the treatment of mCRPC. Further combination study to explore
 Tinengotinib and novel hormone therapies has been initiated in the U.S., targeting
@@ -12629,7 +12629,7 @@ combination study to explore Tinengotinib and novel hormone therapies has been i
 the U.S., targeting mCRPC patients who have developed resistance to prior hormone therapy
 treatment.
 Other Indications
-(cid:129) Hepatocellular carcinoma. Preclinical data indicated that Tinengotinib
+ Hepatocellular carcinoma. Preclinical data indicated that Tinengotinib
 demonstrated encouraging antitumor activity against hepatocellular carcinoma
 (“HCC”). Cadonilimab or Ivonescimab in combination with Tinengotinib is
 expected to achieve multifaceted tumor eradication through dual immune
@@ -12639,7 +12639,7 @@ combinations. This approach holds potential as a first-line treatment for advanc
 HCC in patients who are unsuitable for curative surgical resection or local therapy,
 or who have experienced disease progression after surgical resection or local
 therapy.
-(cid:129) Breast cancer. Similar promising efficacy of Tinengotinib has also been observed
+ Breast cancer. Similar promising efficacy of Tinengotinib has also been observed
 in heavily pre-treated HR+/HER2− breast cancer patients and TNBC patients. In a
 pooled analysis of breast cancer patients in the U.S. and China, Tinengotinib
 monotherapy demonstrated an ORR of 50% (8/16) and a DCR of 88% (14/16) in
@@ -12647,14 +12647,14 @@ patients who were originally diagnosed as HR+/HER2−. Notably, among the 16
 patients, five transformed TNBC patients reached 60% ORR (3/5) and 100% DCR
 (5/5). One HR+/HER2− breast cancer patient has been on the treatment for over 20
 months and reached confirmed complete response.
-(cid:129) Biliary tract cancer. Preclinical data demonstrated Tinengotinib was capable of
+ Biliary tract cancer. Preclinical data demonstrated Tinengotinib was capable of
 modulating tumor microenvironment, indicating its potential to enhance the efficacy
 of immunotherapy. From our Phase Ib/II clinical trial, among 28 efficacy-evaluable
 CCA patients treated with Tinengotinib plus atezolizumab, the ORR and the DCR
 were 25.0% (7/28) and 75.0% (21/28), respectively. The combination therapy was
 well tolerated. These encouraging data suggested Tinengotinib’s potential in
 combination therapy with immunotherapies.
-(cid:129) Pan-FGFR solid tumor. Tinengotinib has unique binding mode to FGFR 1/2/3
+ Pan-FGFR solid tumor. Tinengotinib has unique binding mode to FGFR 1/2/3
 kinase proteins, enabling it to be potent to key mutations within FGFR 1/2/3 kinase
 domains.This differentiated feature has brought good clinical responses to a variety
 of solid tumor patients with FGFR 1/2/3 alterations, especially point mutations. In
@@ -12717,12 +12717,12 @@ Leveraging our extensive experience in drug design, we have internally discovere
 developed Tinengotinib, which can overcome acquired resistance associated with FGFR
 inhibitors. Namely, Tinengotinib has the following characteristics that enable it to overcome
 FGFR inhibitor resistance:
-(cid:129) Distinct Binding Mode: Tinengotinib binds to FGFR2 kinase domain through a
+ Distinct Binding Mode: Tinengotinib binds to FGFR2 kinase domain through a
 unique binding mode other than existing FGFR inhibitors. Due to its smaller size,
 it does not extend to the hydrophobic pocket deeper within the FGFR2 kinase
 domain, making its binding to the FGFR2 kinase domain less likely to be affected
 by mutations of amino acids prone to contribute to acquired resistance.
-(cid:129) High Affinity: When binding to FGFR2 kinase domain, Tinengotinib forms three
+ High Affinity: When binding to FGFR2 kinase domain, Tinengotinib forms three
 hydrogen bonds with the amino acid residues in the hinge region of FGFR2 kinase,
 resulting in high affinity. Surface plasmon resonance experiments have also
 confirmed Tinengotinib’s tight binding and durable affinity.
@@ -12824,16 +12824,16 @@ Designation to Tinengotinib for the treatment of mCRPC.
 
 === PAGE 290 ===
 Waterfall plots of mCRPC patients (N=13)
-(cid:306)(cid:305)
-(cid:305)
-(cid:302)(cid:306)(cid:305)
-(cid:302)(cid:307)(cid:305)
-(cid:302)(cid:308)(cid:305)
-(cid:302)(cid:309)(cid:305)
-(cid:302)(cid:310)(cid:305)
-(cid:302)(cid:311)(cid:305)
-(cid:302)(cid:312)(cid:305)
-(cid:337)(cid:339) (cid:340)(cid:325) (cid:337)(cid:325) (cid:336)(cid:367)(cid:360)(cid:368)(cid:362)(cid:367)(cid:360) *
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ *
 )%(
 enilesaB
 morf
@@ -12855,7 +12855,7 @@ As a unique MTK inhibitor,Tinengotinib can comprehensively regulate cell prolife
 angiogenesis, and the immunological pathways, inhibiting the development of various solid
 tumors and modulating the tumor microenvironment.As such, it can exert antitumor effects in
 a wide range of tumors other than CCA and mCRPC.
-(cid:129) Breast cancer. Breast cancer can be categorized by different gene expression and
+ Breast cancer. Breast cancer can be categorized by different gene expression and
 receptor status – most commonly, estrogen receptor and progesterone receptor,
 together referred to as HR, and HER2. HR+ means that tumor cells have receptors
 for the hormones estrogen or progesterone, which can promote the growth of HR+
@@ -12908,7 +12908,7 @@ ADC=antibody-drug conjugate.
 T-D=Fam-trastuzumab deruxtecan-nxki; SG=Sacituzumab govitecan-hziy.
 –: patient did not take this drug.
 Source: Company data
-(cid:129) Biliary tract cancer. Due to the novel mechanism of both targeted therapy and TME
+ Biliary tract cancer. Due to the novel mechanism of both targeted therapy and TME
 modulation, Tinengotinib can be used in combination with immune checkpoint
 inhibitors to potentially generate synergistic antitumor effect. Tinengotinib blocks
 angiogenesis by inhibiting VEGFR. It also completely abolishes the differentiation
@@ -12921,7 +12921,7 @@ Phase Ib/II clinical trial, among 28 efficacy-evaluable CCA patients treated wit
 Tinengotinib plus atezolizumab, the ORR and the DCR were 25.0% (7/28) and
 75.0% (21/28), respectively. These encouraging data suggest Tinengotinib’s
 promising potential in combination therapy with immunotherapies.
-(cid:129) Pan-FGFRsolidtumor.FGFRalterationsareprevalentinpatientswithsolidtumors,
+ Pan-FGFRsolidtumor.FGFRalterationsareprevalentinpatientswithsolidtumors,
 accounting for approximately 7.1% of all solid tumor patients. FGFR alterations
 include gene amplifications, fusions/rearrangements, and point mutations.
 Tinengotinib can potentially overcome the acquired resistance to FGFR1/2/3
@@ -12948,7 +12948,7 @@ developed resistance to prior standard therapies. In addition to oncology diseas
 exploring innovative treatment options for chronic diseases that are challenging to be
 controlled or cured, such as inflammatory and cardiometabolic diseases.
 Our Oncology Pipeline
-(cid:129) TT-00973 is an internally discovered and developed, potential best-in-class, novel
+ TT-00973 is an internally discovered and developed, potential best-in-class, novel
 AXL/FLT3 inhibitor with significantly high potency against AXL. AXL belongs to
 the TYRO3-AXL-MER family, which is a homologous type I receptor-tyrosine
 kinasethathasbeenfoundtobeoverexpressedinvariouscancersincludingNSCLC,
@@ -12972,7 +12972,7 @@ of the Latest Practicable Date, we were conducting a Phase I study of TT-00973 i
 patients with solid tumors, and we have observed that TT-00973 was well tolerated
 with good PK profile to support once daily dosing, and achieved partial responses
 in patients with solid tumors.
-(cid:129) TT-01488 is an internally developed, potential best-in-class, noncovalent, reversible
+ TT-01488 is an internally developed, potential best-in-class, noncovalent, reversible
 BTK inhibitor that is used for treating various relapsed or refractory hematologic
 malignancies. Due to its unique molecular design, it can overcome mutations
 associated with acquired resistance caused by covalent BTK inhibitors. BTK plays
@@ -13008,7 +13008,7 @@ across all patients.Among the 14 patients evaluable for efficacy, the ORR was 57
 (8/14), comprising 3 CR and 5 PR.An ORR of 100% (7/7) was observed in patients
 with MCL, WM, and MZL.
 Pipeline for Other Diseases
-(cid:129) TT-01688 is a highly selective oral S1P1 modulator currently in clinical stage, with
+ TT-01688 is a highly selective oral S1P1 modulator currently in clinical stage, with
 the potential to treat various inflammatory diseases.According to Frost & Sullivan,
 the prevalence of UC andAD in China was approximately 583.2 thousand and 72.9
 million, respectively, in 2024. For patients receiving biologics, over 60% of patients
@@ -13045,7 +13045,7 @@ Phase II clinical trial ofTT-01688 for the treatment ofAD in China in January 20
 In December 2024, we obtained regulatory clearance from the NMPA for us to
 conduct a registrational Phase II/III clinical trial of TT-01688 for the treatment of
 UC in China.
-(cid:129) TT-00920 is an internally discovered and developed, highly selective oral PDE9
+ TT-00920 is an internally discovered and developed, highly selective oral PDE9
 inhibitor, targeting chronic heart failure. According to Frost & Sullivan, the
 prevalence of heart failure has been steadily increasing, reaching approximately
 33.3 million globally and 13.0 million in China in 2024. Based on left ventricular
@@ -13086,7 +13086,7 @@ and highly efficient and cost-effective R&D capabilities.
 We consistently adopt our ACE approach to efficiently optimize the drug research and
 development process for each asset to maximize their therapeutic potential as well as clinical
 and commercial value. The following are the characteristics of our “ACE” approach.
-(cid:129) Adaptive, focusing on clinically meaningful drug differentiation. Through robust
+ Adaptive, focusing on clinically meaningful drug differentiation. Through robust
 biological science-driven discovery capabilities, we carefully select and evaluate
 potential targets with solid biological mechanisms and strong disease link. Through
 competitive landscape analysis, we identify key limitations and deficiencies
@@ -13099,7 +13099,7 @@ identify a potent compound targeting key FGFR kinase domain mutations. By
 developing a set of internally designed biological assays for screening compound
 scaffolds, we successfully identified a novel scaffold, which ultimately led to the
 discovery of Tinengotinib.
-(cid:129) Comprehensive, focusing on high quality drug properties. While developing drug
+ Comprehensive, focusing on high quality drug properties. While developing drug
 candidates with differentiated profile, we also recognize the importance to improve
 their druggability. We have developed a comprehensive list of drug parameters to
 select a final drug candidate with a most desirable drug profile. Internally, a
@@ -13111,7 +13111,7 @@ candidate, boosting the likelihood of clinical development success.
 
 === PAGE 297 ===
 BUSINESS
-(cid:129) Expandable, focusing on indication expansions. We strategically tailor our drug
+ Expandable, focusing on indication expansions. We strategically tailor our drug
 candidates to expand into new indications. Such strategy is accomplished mainly
 through two routes. First is to leverage our R&D system and our in-depth
 understandingofmechanismsofactionofcandidates,theirpotentialtargetedpatient
@@ -13164,19 +13164,19 @@ corporations and domestic-leading biopharmaceutical companies, including LG Chem
 Teijin, and EA Pharma. Our partnerships cover various business collaboration models,
 including clinical collaboration, joint research and development, and in-licensing arrangement.
 All of these collaborations are strategy-driven to maximize the value of the assets.
-(cid:129) Clinical collaboration. In 2021, we entered into a collaboration agreement with
+ Clinical collaboration. In 2021, we entered into a collaboration agreement with
 Roche to explore and maximize the potential value of the combination of
 Tinengotinib and atezolizumab for patients with BTC in China. We view such
 collaboration with a global leading multinational pharmaceutical company as a
 convincing testament to our strong R&D capabilities.
-(cid:129) Jointresearchanddevelopment.In2020,weenteredintotwostrategiccollaboration
+ Jointresearchanddevelopment.In2020,weenteredintotwostrategiccollaboration
 agreementswithTeijinforjointresearchanddevelopmentofinnovativedrugsinthe
 target fields of oncology and inflammatory diseases. In 2023, we entered a
 collaboration agreement with EA Pharma for joint research of a novel target for
 inflammatory and metabolic diseases. We believe our collaborations with Teijin and
 EAPharma enable us to gain access to new technology, accelerate the R&D of new
 programs and extend our reach to the overseas market.
-(cid:129) In-licensing arrangement. We have established a proven track record of in-licensing
+ In-licensing arrangement. We have established a proven track record of in-licensing
 deals and patent acquisitions to enrich our focused portfolio. In April 2021, we
 in-licensed TT-01688 from LG Chem to develop and commercialize the novel S1P1
 modulator in Greater China, which brought us a clinical stage, potentially
@@ -13250,21 +13250,21 @@ of our drug candidates.
 Advance Registrational Trial of Tinengotinib for Commercialization
 We have implemented and will continue implementing a comprehensive clinical
 development strategy for our Core Product Tinengotinib, to fully explore its potentials.
-(cid:129) We are conducting a multi-centered, controlled, open-label, global Phase III
+ We are conducting a multi-centered, controlled, open-label, global Phase III
 registrational trial in CCA across the U.S., South Korea, United Kingdom, eight
 countriesintheEUandTaiwan.WeplantocompletepatientenrollmentofthePhase
 III registrational trial in the second half of 2026. In addition to the global
 registrational clinical trial, we are conducting an open-label, single-arm pivotal
 Phase II trial in China in CCA. We plan to complete this trial in the second half of
 2025, and then submit the NDA to the NMPA for conditional marketing approval.
-(cid:129) In addition to multiple clinical trials we have initiated to evaluate the safety and
+ In addition to multiple clinical trials we have initiated to evaluate the safety and
 efficacyofTinengotinibmonotherapyinsolidtumors,withmCRPCbeingoneofthe
 recruited indications, an investigator-initiated Phase Ib/II trial has been initiated at
 MSKCC in the U.S. to explore the combination therapy of Tinengotinib with NHT
 for mCRPC in August 2024. In addition, with the IND approval obtained from the
 NMPA in February 2024, we expect to initiate a Phase II trial of Tinengotinib in
 combination with NHT in China in the second half of 2025.
-(cid:129) After securing the IND approval from the NMPA, we expect to initiate a Phase II
+ After securing the IND approval from the NMPA, we expect to initiate a Phase II
 trial of Tinengotinib in combination with Cadonilimab or Ivonescimab for the
 treatment of advanced HCC in patients who are unsuitable for curative surgical
 resection or local therapy, or who have experienced disease progression after
@@ -13273,7 +13273,7 @@ surgical resection or local therapy in China in the second half of 2025.
 
 === PAGE 301 ===
 BUSINESS
-(cid:129) We have completed a Phase Ib/II trial in China to explore the combination therapy
+ We have completed a Phase Ib/II trial in China to explore the combination therapy
 of Tinengotinib and atezolizumab for BTC and Tinengotinib monotherapy for solid
 tumors in December 2024. We plan to conduct a Phase II/III clinical trial of
 Tinengotinib in combination with immunotherapy for BTC (or a subtype of the BTC
@@ -13294,14 +13294,14 @@ Specifically, we will continue our exploration in the antitumor treatment realm 
 TT-00973 and TT-01488.Additionally, we remain committed to the research and development
 of drugs for the treatment of inflammatory and cardiometabolic diseases, an area that we have
 also been focusing on since our inception.
-(cid:129) TT-00973. As of the Latest Practicable date, we were conducting a Phase I trial of
+ TT-00973. As of the Latest Practicable date, we were conducting a Phase I trial of
 TT-00973 in solid tumors in China. We expect to complete the Phase I trial in the
 first half of 2026.
-(cid:129) TT-01488. As of the Latest Practicable Date, we were conducting a Phase I trial of
+ TT-01488. As of the Latest Practicable Date, we were conducting a Phase I trial of
 TT-01488 in patients with B-Cell malignancies in China. Upon the results of the
 primary endpoint of the Phase I trial expected to be obtained in the second half of
 2025, we plan to initiate a Phase II trial in the first half of 2026.
-(cid:129) TT-01688. As of the Latest Practicable Date, LG Chem has completed the Phase I
+ TT-01688. As of the Latest Practicable Date, LG Chem has completed the Phase I
 clinical trial in healthy subjects in South Korea, which showed that TT-01688 was
 well tolerated in all doses tested. We have completed the Phase Ib study for UC in
 July 2024, and the Phase II study for AD in China in January 2025. In December
@@ -14612,16 +14612,16 @@ in China in the second half of 2025.
 
 === PAGE 320 ===
 Waterfall plots of mCRPC patients (N=13)
-(cid:306)(cid:305)
-(cid:305)
-(cid:302)(cid:306)(cid:305)
-(cid:302)(cid:307)(cid:305)
-(cid:302)(cid:308)(cid:305)
-(cid:302)(cid:309)(cid:305)
-(cid:302)(cid:310)(cid:305)
-(cid:302)(cid:311)(cid:305)
-(cid:302)(cid:312)(cid:305)
-(cid:337)(cid:339) (cid:340)(cid:325) (cid:337)(cid:325) (cid:336)(cid:367)(cid:360)(cid:368)(cid:362)(cid:367)(cid:360) *
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ *
 )%(
 enilesaB
 morf
@@ -14668,7 +14668,7 @@ cancer and TNBC who have undergone multiple treatments. In the Phase I and Phase
 clinical trials, total 36 patients with metastatic breast cancer were enrolled and received
 treatment. Among them, 11 patients were with efficacy evaluable HR+/HER2− disease. As of
 March 30, 2024, after receiving Tinengotinib monotherapy, the ORR was 45% (5/11), the
-clinical benefit rate (CBR, CR+PR+SD(cid:2)24 weeks) was 64% (7/11) and the DCR was 82%
+clinical benefit rate (CBR, CR+PR+SD 24 weeks) was 64% (7/11) and the DCR was 82%
 (9/11).
 Waterfall plots of HR+/HER2− breast cancer patients (N=11)
 Abbreviations:CR=completeresponse;PR=partialresponse;SD=stabledisease;PD=progressiondisease;BC:breast
@@ -14810,16 +14810,16 @@ within the livers.
 Encouraging Tolerability of Tinengotinib
 As of September 26, 2023, 350 patients with advanced solid tumors have received at least
 one dose of Tinengotinib treatment across multiple clinical trials, including 295 patients in the
-U.S.and55patientsinChina.TRAEswerereportedin302(86.3%)patients.(cid:2)Grade3TRAEs
-occurred in 173 (49.4%) patients. The most common ((cid:2)20%) study drug related TRAEs were
+U.S.and55patientsinChina.TRAEswerereportedin302(86.3%)patients. Grade3TRAEs
+occurred in 173 (49.4%) patients. The most common ( 20%) study drug related TRAEs were
 hypertension (44.3%), stomatitis (26.9%), diarrhea (24.9%) and palmar-plantar
-erythrodysaesthesia syndrome (22.0%). Among these observed TRAEs, the (cid:2)Grade 3 study
+erythrodysaesthesia syndrome (22.0%). Among these observed TRAEs, the Grade 3 study
 drug related hypertension was observed in less than 20% patients with good clinical
 managementmeasures.ClinicaldatademonstratedgoodsafetyandtolerabilityofTinengotinib,
 with a minimal incidence of adverse reactions commonly associated with FGFR inhibitors,
 such as hyperphosphatemia, ocular toxicity, and nail toxicity.
-Summary of the most common ((cid:2)20%) TRAEs in patients with advanced solid tumors
-Preferred Term All Grades (cid:2) Grade 3
+Summary of the most common ( 20%) TRAEs in patients with advanced solid tumors
+Preferred Term All Grades Grade 3
 N (%) N (%)
 Hypertension 155 (44.3) 69 (19.7)
 Stomatitis 94 (26.9) 21 (6.0)
@@ -14835,8 +14835,8 @@ Overview of Clinical Studies of Tinengotinib
 An overview of the clinical studies of Tinengotinib is summarized below:
 Competent
 NCT/CTRNo. Phase Site StudyDesign Status Authority PatientCohorts KeyInclusionCriteria
-NCT05948475 III U.S.; Randomized,controlled, Initiatedin FDA, PartA:Tinengotinib(8mg, (cid:129) AdultCCApatients
-(registrational) EU; globalmulticenterstudy December2023 EMA, 10mg)andphysician’s (cid:129) Histologicallyor
+NCT05948475 III U.S.; Randomized,controlled, Initiatedin FDA, PartA:Tinengotinib(8mg, AdultCCApatients
+(registrational) EU; globalmulticenterstudy December2023 EMA, 10mg)andphysician’s Histologicallyor
 United toevaluatetheefficacy Active, MHRA, choice cytologically
 Kingdom; andsafetyoforal recruiting MFDS, confirmed
 South Tinengotinibvs. TFDA PartB:Tinengotinib CCA/adenocarcinoma
@@ -14844,11 +14844,11 @@ Korea; physician’schoicein selecteddose(8mgor ofbiliaryoriginwith
 Taiwan subjectswithFGFR- 10mg)andphysician’s radiologicalevidence
 altered,chemotherapy- choice ofunresectableor
 andFGFRInhibitor- metastaticdisease
-refractory/relapsedCCA (cid:129) Documentationof
+refractory/relapsedCCA Documentationof
 FGFR2
 fusion/rearrangement
 genestatus
-(cid:129) Subjectsmusthave
+ Subjectsmusthave
 receivedatleastone
 lineofprior
 chemotherapyand
@@ -14862,8 +14862,8 @@ futibatinib)
 BUSINESS
 Competent
 NCT/CTRNo. Phase Site StudyDesign Status Authority PatientCohorts KeyInclusionCriteria
-CTR20232860 II(pivotal) China Open-label,multicenter Initiatedin NMPA N/A (cid:129) AdultCCApatients
-studytoevaluatethe November2023 (cid:129) Histologicallyor
+CTR20232860 II(pivotal) China Open-label,multicenter Initiatedin NMPA N/A AdultCCApatients
+studytoevaluatethe November2023 Histologicallyor
 efficacyandsafetyof Active, cytologically
 oralTinengotinibtablets recruiting confirmed
 insubjectswithCCA CCA/adenocarcinoma
@@ -14871,24 +14871,24 @@ whofailedorrelapsedto ofbiliaryoriginwith
 priortreatmentof radiologicalevidence
 chemotherapyandFGFR ofunresectableor
 inhibitor metastaticdisease
-(cid:129) Subjectsmusthave
+ Subjectsmusthave
 receivedoneortwo
 linesofpriorsystemic
 chemotherapy
-(cid:129) Documentationof
+ Documentationof
 FGFR2genealteration
 andmusthavefailed
 topriortreatmentof
 exactlyoneFGFR
 inhibitor
-NCT04919642 II U.S. Open-label,multicenter Initiatedin FDA CohortA1:FGFR2fusions (cid:129) AdultCCApatients
-studytoevaluatethe November2021, whohavefailedatleast (cid:129) Advanced/metastatic
+NCT04919642 II U.S. Open-label,multicenter Initiatedin FDA CohortA1:FGFR2fusions AdultCCApatients
+studytoevaluatethe November2021, whohavefailedatleast Advanced/metastatic
 efficacyandsafetyof andcompleted oneprevioustreatment orsurgically
 Tinengotinibtabletin inJuly2024 withanFGFRinhibitor unresectableCCA
 adultpatientswithCCA CohortA2:FGFR2fusions afteratleastoneline
 whohaverespondedon ofsystemic
 atleastoneprevious chemotherapy
-treatmentwithanFGFR (cid:129) DocumentedFGFR
+treatmentwithanFGFR DocumentedFGFR
 inhibitorand status
 discontinueddueto
 progressivedisease
@@ -14904,15 +14904,15 @@ alteration
 BUSINESS
 Competent
 NCT/CTRNo. Phase Site StudyDesign Status Authority PatientCohorts KeyInclusionCriteria
-NCT04742959 Ib/II U.S. Multicenter,open-label InitiatedinAugust FDA CohortA:advancedsolid (cid:129) Adultcancerpatients
-studyofTinengotinib 2021and tumors(1) (cid:129) Locallyadvancedor
+NCT04742959 Ib/II U.S. Multicenter,open-label InitiatedinAugust FDA CohortA:advancedsolid Adultcancerpatients
+studyofTinengotinib 2021and tumors(1) Locallyadvancedor
 tablet,asmonotherapy completedin CohortB:HER2−breast metastaticsolid
 orincombination December2024 cancer(2) tumorswithout
 regimens,inpatients CohortC:advancedsolid standardtherapy
 withadvancedsolid tumors(3)
 tumors
-CTR20212760 Ib/II China Multicenter,open-label InitiatedinApril NMPA CohortA:advancedsolid (cid:129) Adultcancerpatients
-studyofTinengotinib 2022and tumors (cid:129) Locallyormetastatic
+CTR20212760 Ib/II China Multicenter,open-label InitiatedinApril NMPA CohortA:advancedsolid Adultcancerpatients
+studyofTinengotinib 2022and tumors Locallyormetastatic
 tablet,asmonotherapy completedin CohortB:BTC advancedsolidtumors
 orincombination December2024 CohortC:TNBC BTC/TNBCwithout
 regimens,inpatients standardtherapy
@@ -14922,18 +14922,18 @@ regimensinbiliarytract
 carcinomaandHER2−
 breastcancerincluding
 TNBC
-NCT03654547/ I U.S.and First-in-human, Initiatedin FDAand DoseEscalationCohort: (cid:129) Adultcancerpatients
-CTR20190522 China multicenter,open-label January2019 NMPA advancedsolidtumors (cid:129) Locallyadvancedor
+NCT03654547/ I U.S.and First-in-human, Initiatedin FDAand DoseEscalationCohort: Adultcancerpatients
+CTR20190522 China multicenter,open-label January2019 NMPA advancedsolidtumors Locallyadvancedor
 studyinadultpatients andcompleted DoseExpansionCohort: metastaticsolid
 withadvancedsolid inDecember TNBCandselected tumorswithout
 tumorsandtriple 2023 advancedtumors standardtherapy
 negativebreastcancers
-NCT04705922 I U.S. Single-center,open-label, Initiatedin FDA N/A (cid:129) Adulthealthysubjects
+NCT04705922 I U.S. Single-center,open-label, Initiatedin FDA N/A Adulthealthysubjects
 3-waycrossover, December2020 agedbetween18and
 randomizedfoodeffect andcompleted 64
-andrelative inMarch2021 (cid:129) BMI:18-32kg/m2,
+andrelative inMarch2021 BMI:18-32kg/m2,
 bioavailabilitystudyin weightatleast50kg
-healthyvolunteers (cid:129) Healthyconditionas
+healthyvolunteers Healthyconditionas
 determinedbythe
 investigator
 Notes:
@@ -15041,7 +15041,7 @@ in Cohort A2, 13 in Cohort B, and 13 in Cohort C. 58.2% of the enrolled patients
 three lines of prior therapy. ECOG PS was 0 in 50.9% patients.Among 42 patients with FGFR
 alterations, 78.6% had at least one prior FGFR inhibitor therapy.
 Safety Profile. Among 55 treated patients, the most common Grade 3 TEAEs
-(incidence (cid:2) 10%) were hypertension (32.7%), abdominal pain (12.7%), palmar-plantar
+(incidence 10%) were hypertension (32.7%), abdominal pain (12.7%), palmar-plantar
 erythrodysesthesia syndrome (12.7%), and stomatitis (10.9%). No Grade 5 TRAE was
 observed.
 Efficacy Profile. Results showed that a DCR of 100% was observed in CCA patients
@@ -15095,7 +15095,7 @@ events, clinical laboratory tests, physical examination, vital signs, weight and
 electrocardiogram. Dose escalation cohort’s primary safety endpoint is DLT. The secondary
 efficacy endpoints are ORR, DCR, DOR, PFS and OS. The secondary PK endpoints are
 AUC ,AUC , C , t , t ,V ,V /F, CLor CL/F, C , C and fluctuation percentage.
-0-(cid:5) 0-t max 1/2 max ss ss min ave
+0- 0-t max 1/2 max ss ss min ave
 – 324 –
 
 === PAGE 334 ===
@@ -15110,18 +15110,18 @@ enrolled in combination cohort.
 Safety Profile. Tinengotinib TRAEs in monotherapy arms were reported in 127/172
 (73.8%) patients. Sixty-three (36.6%) were Grade 1-2, 62/172 (36.0%) were Grade 3, 2/172
 (1.2%) were Grade 4 (large intestine perforation, glutamic pyruvic transaminase/glutamic
-oxaloacetic transaminase increased), no Grade 5 TRAE reported. Common TRAEs ((cid:2)10%)
+oxaloacetic transaminase increased), no Grade 5 TRAE reported. Common TRAEs ( 10%)
 were hypertension (32.0%), stomatitis (22.1%), diarrhea (16.3%), palmar-plantar
 erythrodysesthesia syndrome (14.0%), nausea (12.8%) and fatigue (10.5%). All six (100%)
 patientsreceivingtinengotinibincombinationwithnab-paclitaxelexperiencedTRAEs.Among
 them, 16.7% were Grade 1, 66.7% were Grade 3, no patient had Grade 4 TRAEs, and one
-patient had Grade 5 (pulmonary hemorrhage). Common TRAEs ((cid:2)20%) of Tinengotinib in
+patient had Grade 5 (pulmonary hemorrhage). Common TRAEs ( 20%) of Tinengotinib in
 combination with nab-paclitaxel were neutrophil count decreased/neutropenia (50.0%),
 stomatitis (50.0%), hypertension (33.3%), hyponatremia (33.3%), hypokalemia (33.3%) and
 nausea (33.3%).
 Efficacy Profile. In 124 efficacy-evaluable patients of Tinengotinib monotherapy arms,
 the ORR and DCR were 15% (18/124) and 65% (80/124), respectively. All tumor responses
-were partial response. Clinical benefit (CR + PR + SD (cid:2) 6 months) were observed in 25%
+were partial response. Clinical benefit (CR + PR + SD 6 months) were observed in 25%
 (31/124) patients, including CCA, prostate cancer, HR+/HER2− breast cancer, TNBC, ovarian
 cancer, squamous oropharyngeal carcinoma, fallopian tube cancer, urothelial carcinoma,
 cervical cancer, bladder cancer, endometrial cancer, leiomyosarcoma, cancer of duodenum,
@@ -15176,7 +15176,7 @@ events, clinical laboratory tests, physical examination, vital signs, weight, an
 electrocardiogram. Dose escalation cohort’s primary safety endpoint is DLT. The secondary
 efficacy endpoints are ORR, DCR, DOR, PFS and OS. The secondary PK endpoints are
 AUC ,AUC , C , t , t ,V ,V /F, CLor CL/F, C , C and fluctuation percentage.
-0-(cid:5) 0-t max 1/2 max ss ss min ave
+0- 0-t max 1/2 max ss ss min ave
 Trial Status. We initiated the trial in April 2022, and completed the trial in December
 2024. As of September 8, 2023, 50 patients with solid tumors were enrolled and treated with
 monotherapy (Arm A). Based on the preliminary efficacy observed in the subjects with
@@ -15190,20 +15190,20 @@ altered advanced solid tumors have been opened for enrollment inArmA.As of Septe
 2024, 31 patients were enrolled inArm B and treated with Tinengotinib plus atezolizumab. No
 patients were enrolled in Arm C.
 Safety Profile.
-(cid:129) Arm A: Tinengotinib-related AEs in monotherapy arms were reported in 49/50
+ Arm A: Tinengotinib-related AEs in monotherapy arms were reported in 49/50
 (98.0%) patients. 20/50 (40.0%) were Grade 1-2, 28/50 (56.0%) were Grade 3, 1/50
-(2.0%) was Grade 4, and no Grade 5 TRAE was reported. Common (cid:2)Grade 3
-TRAEs ((cid:2)5%) were hypertension, white blood cell count decreased, anaemia,
+(2.0%) was Grade 4, and no Grade 5 TRAE was reported. Common Grade 3
+TRAEs ( 5%) were hypertension, white blood cell count decreased, anaemia,
 neutrophil count decreased, platelet count decreased, proteinuria and palmar-plantar
 erythrodysesthesia syndrome.
-(cid:129) Arm B: No DLT was observed in the dose escalation phase. TRAEs were reported
+ Arm B: No DLT was observed in the dose escalation phase. TRAEs were reported
 in 31 (100%) patients, 20 patients experienced Grade 3 or above TRAEs. No Grade
 5 TRAEs were observed. The most common TRAEs (Grade 3 or 4, incidence rate
-(cid:2)5%) included hypertension, platelet count decreased, neutrophil count decreased,
+ 5%) included hypertension, platelet count decreased, neutrophil count decreased,
 palmar-plantar erythrodysesthesia syndrome, diarrhea and hepatic enzyme
 increased.
 Efficacy Profile.
-(cid:129) Arm A: Among 39 efficacy-evaluable patients treated with Tinengotinib
+ Arm A: Among 39 efficacy-evaluable patients treated with Tinengotinib
 monotherapy, the median PFS have reached 5.7 months. For 31 efficacy-evaluable
 patients with measurable target lesions, the ORR and the DCR were 19% (6/31) and
 84% (26/31), respectively. PRs were observed in six patients with CCA, prostate
@@ -15213,7 +15213,7 @@ DCR was 83% (10/12). For four CCA patients who harbored FGFR2 fusion, the
 ORR was 75% and the DCR was 100%. Two responders with prior FGFR inhibitor
 treatments achieved tumor reductions of 44% and 32%. Another responder with no
 prior FGFR inhibitor treatment achieved 81% tumor reduction.
-(cid:129) Arm B: Among 31 enrolled patients (all efficacy-evaluable) treated with
+ Arm B: Among 31 enrolled patients (all efficacy-evaluable) treated with
 Tinengotinib plus atezolizumab, the median PFS has reached 4.1 months. The ORR
 andtheDCRwere22.6%(7/31)and74.2%(23/31),respectively.Among28patients
 with CCA, the ORR and DCR were 25.0% (7/28) and 75.0% (21/28), respectively,
@@ -15253,7 +15253,7 @@ SafetyProfile.Overall,Tinengotinibwaswelltolerated.MosttoxicitieswereGrade1and
 2. No drug related Grade 4-5 toxicities were reported.
 Among the total 48 subjects who received Tinengotinib and were evaluable for safety in
 both dose escalation and dose expansion, 41 subjects (85.4%) had a study drug relatedTEAEs.
-The most common study drug related TEAEs ((cid:2) 20%) were hypertension (50%), diarrhea
+The most common study drug related TEAEs ( 20%) were hypertension (50%), diarrhea
 (33.3%), palmar-plantar erythrodysaesthesia syndrome (29.2%), stomatitis (29.2%), nausea
 (22.9%), and vomiting (20.8%). 21 subjects (43.8%) had drug-related Grade 3 TEAEs,
 including hypertension (27.1%), stomatitis (4.2%), diarrhea (2.1%), palmar-plantar
@@ -15273,7 +15273,7 @@ one dose of Tinengotinib and had at least one post-baseline scan (dose escalatio
 expansion, n=7). Seven subjects (16.3%) achieved a PR, including three subjects with CCA(8
 mg, 10 mg, and 12 mg doses), two subjects with HR+/HER2- breast cancer (10 mg and 12 mg
 doses), one subject with TNBC (12 mg dose), and one subject with CRPC (12 mg dose). 23
-subjects (53.3%) had stable disease (SD), including six subjects (14.0%) with SD lasting (cid:2) 24
+subjects (53.3%) had stable disease (SD), including six subjects (14.0%) with SD lasting 24
 weeks.
 Conclusion. In summary, the preliminary safety and efficacy data from the Phase I
 clinical trial supported the continuous clinical investigation of Tinengotinib in humans. The
@@ -15307,7 +15307,7 @@ Trial Status. The trial was initiated in December 2020 and completed in March 20
 BUSINESS
 Safety Profile. Tinengotinib tablet and/or capsule were administered as single dose in
 each treatment period. All healthy subjects tolerated the assigned treatment well. No SAE or
-(cid:2) Grade 3 CTCAE AEs were reported. No study drug related clinically significant laboratory
+ Grade 3 CTCAE AEs were reported. No study drug related clinically significant laboratory
 abnormalities occurred. The most common study drug related AE reported was low grade
 hypertension. The occurrence of hypertension was in line with the anti-angiogenesis effect of
 Tinengotinib. The common AEs reported in the healthy subjects were consistent with the
@@ -15413,12 +15413,12 @@ As Tinengotinib is internally discovered and developed by us, we maintain the gl
 rights to develop and commercialize Tinengotinib.
 Material Communications
 For Tinengotinib monotherapy:
-(cid:129) In September 2018 and February 2019, we received IND approvals for conducting
+ In September 2018 and February 2019, we received IND approvals for conducting
 clinical trials ofTinengotinib capsules in solid tumors from the FDAand the NMPA,
 respectively. In November 2020 and May 2021, we received IND approvals for
 conducting clinical trials of Tinengotinib tablets in solid tumors from the FDA and
 the NMPA, respectively;
-(cid:129) Starting in March 2023, we communicated with the NMPA, the FDA, regulatory
+ Starting in March 2023, we communicated with the NMPA, the FDA, regulatory
 authorities in eight EU countries, TFDA, MFDS and MHRA, either through End-of
 Phase I meetings or clinical trial applications, regarding the design and target
 indications of the registrational/pivotal clinical trials. The submitted materials
@@ -15427,33 +15427,33 @@ of the upcoming clinical trials. As of Latest Practicable Date, all regulatory
 authorities have acknowledged the rationale for the selected indications and patient
 population in the current registrational/pivotal clinical trials, and the key
 registration trials have been approved to proceed in each jurisdiction. Specifically:
-(cid:2) In July 2023, we received regulatory clearance from the FDA and the NMPA
+ In July 2023, we received regulatory clearance from the FDA and the NMPA
 for conducting registrational/pivotal clinical trials in patients with FGFR
 inhibitor relapsed or refractory CCA;
 – 332 –
 
 === PAGE 342 ===
 BUSINESS
-(cid:2) In October 2023, we received the IND approval from theTFDAfor conducting
+ In October 2023, we received the IND approval from theTFDAfor conducting
 registrational clinical trials in patients with FGFR inhibitor relapsed or
 refractory CCA;
-(cid:2) In November 2023, we received the IND approval from the MFDS for
+ In November 2023, we received the IND approval from the MFDS for
 conducting registrational clinical trials in patients with FGFR inhibitor
 relapsed or refractory CCA;
-(cid:2) In February to March 2024, we received the IND approval from regulatory
+ In February to March 2024, we received the IND approval from regulatory
 authorities of eight EU countries for conducting registrational clinical trials in
 patients with FGFR inhibitor relapsed or refractory CCA; and
-(cid:2) In June 2024, we received the IND approval from the MHRA for conducting
+ In June 2024, we received the IND approval from the MHRA for conducting
 registrational clinical trials in patients with FGFR inhibitor relapsed or
 refractory CCA.
 For Tinengotinib combination therapy:
-(cid:129) In November 2020, we received the IND approval from the FDA for conducting
+ In November 2020, we received the IND approval from the FDA for conducting
 Phase Ib/II clinical trials of Tinengotinib tablets in combination with nab-paclitaxel
 in patients with breast cancer;
-(cid:129) In May 2021, we received the IND approval from the NMPA for conducting Phase
+ In May 2021, we received the IND approval from the NMPA for conducting Phase
 I/II clinical trials of Tinengotinib tablets in combination with anti-PD-L1 antibody
 in patients with BTC; and
-(cid:129) In February 2024, we received the IND approval from the NMPAto conduct a Phase
+ In February 2024, we received the IND approval from the NMPAto conduct a Phase
 II clinical trial ofTinengotinib tablets in combination with NHTfor the treatment of
 mCRPC.Safetyandefficacydataobtainedfromotherclinicaltrialsandnon-clinical
 studies provided sufficient support for initiating a Phase II clinical study of
@@ -15462,7 +15462,7 @@ repeat a Phase I clinical trial. Specifically, the supporting data were collecte
 preclinical studies, includingTinengotinib monotherapy and combination therapy in
 mouse models for mCRPC, as well as clinical trials, including Phase I and Phase II
 studies of Tinengotinib monotherapy in patients with mCRPC.
-(cid:129) In February 2025, we received the IND approval from the NMPAto conduct a Phase
+ In February 2025, we received the IND approval from the NMPAto conduct a Phase
 II clinical trial of Tinengotinib tablets in combination with Cadonilimab or
 Ivonescimab for the treatment of advanced HCC.
 We had not received any relevant regulatory agency’s objections to our clinical
@@ -15503,7 +15503,7 @@ BUSINESS
 TT-00973 is capable of inhibiting AXL in a variety of cancer cells
 → Stimulation/Induction/Activation; Inhibition
 Abbreviations: GAS6=Growth arrest-specific 6; PI3K=phosphoinositide 3-kinase; JAK=Janus kinase; MEK
-=MAPKK, mitogen-activated protein kinase kinase; NF-(cid:6)B=nuclear factor kappa-light-chain-enhancer of activated
+=MAPKK, mitogen-activated protein kinase kinase; NF- B=nuclear factor kappa-light-chain-enhancer of activated
 B cells; STAT=signal transducer and activator of transcription; Erk1/2=extracellular signal-regulated kinases 1 and
 2; MAPK=mitogen-activated protein kinase.
 Source: Company data
@@ -15584,13 +15584,13 @@ Mechanism of Action
 BTK is one of the Tec-family non-receptor tyrosine kinases, a key component of BCR
 signaling pathway, functioning as an important regulator of cell proliferation and cell survival
 in various B cell malignancies. BCR activation triggers the formation of a signalosome, which
-includes protein tyrosine kinases LYN, SYK and BTK, as well as PLC(cid:4)2 and phosphoinositide
+includes protein tyrosine kinases LYN, SYK and BTK, as well as PLC 2 and phosphoinositide
 – 337 –
 
 === PAGE 347 ===
 3-kinase. Within the signalosome, BTK is phosphorylated by LYN and SYK. SYK and BTK
-subsequently phosphorylate PLC(cid:4)2, leading to calcium mobilization, activation of ERK,AKT
-andnuclearfactor-(cid:6)B,whichsubsequentlyresultsincellsurvival,proliferation,differentiation
+subsequently phosphorylate PLC 2, leading to calcium mobilization, activation of ERK,AKT
+andnuclearfactor- B,whichsubsequentlyresultsincellsurvival,proliferation,differentiation
 and antibody production.
 Covalent irreversible small-molecule inhibitors of BTK have shown encouraging
 antitumor activity in preclinical and clinical studies and have transformed the management of
@@ -15621,9 +15621,9 @@ MAPK NK-κB
 pathway pathway
 Bcell proliferation, survival,anddifferentiation
 → Stimulation/Induction/Activation; Inhibition
-Abbreviations: BCR=B cell receptor; BTK=Bruton’s tyrosine kinase; PLC(cid:4)2=phospholipase C gamma 2; PKC
+Abbreviations: BCR=B cell receptor; BTK=Bruton’s tyrosine kinase; PLC 2=phospholipase C gamma 2; PKC
 =protein kinase C; CBM=CARMA1-BCL10-MALT1 complex; ERK=extracellular signal-regulated kinase;
-I(cid:6)B(cid:3)=inhibitors of (cid:6)B kinase alpha.
+I B =inhibitors of B kinase alpha.
 Source: Company data
 – 338 –
 
@@ -15734,7 +15734,7 @@ and efficacy data from the dose escalation cohorts and dose expansion cohorts.
 Trial Status. As of the Latest Practicable Date, the study was on-going.
 Safety Profile. As of the cut-off date of October 2, 2024, 18 patients with pre-treated
 B-cell malignancies were enrolled in this study. The results demonstrated that TT-01488 was
-well-tolerated in all patients. The most common TRAE (incidence rate (cid:2)20%) were
+well-tolerated in all patients. The most common TRAE (incidence rate 20%) were
 hypertriglyceridemia, nausea, hypokalemia and alanine aminotransferase increased.
 Efficacy Profile. Among 14 efficacy evaluable patients, the ORR was 57% (8/14),
 including 3 CR and 5 PR. 100% (7/7) of ORR was achieved in patients with MCL, WM and
@@ -15794,8 +15794,8 @@ cardiovascular risk. The diagram below illustrates the mechanism of action for T
 BUSINESS
 TT-01688, a S1P1 modulator, reduces circulating lymphocytes by inducing S1P1
 receptor internalization
-(cid:28616)(cid:28616)(cid:28577)(cid:28580)(cid:28581)(cid:28586)(cid:28588)(cid:28588)
-→ Stimulation/Induction/Activation; → (cid:28772) Inhibition
+ 
+→ Stimulation/Induction/Activation; → Inhibition
 Source: LG Chem Data
 Market Opportunity and Competition
 TT-01688 is a selective S1P1 modulator which triggers anti-inflammatory effect through
@@ -15812,11 +15812,11 @@ According to the Frost & Sullivan, aminosalicylates are the standard of care for
 first-line treatment of adult UC and these agents are largely effective for mild to moderate
 disease. Moderate to severe UC can be provided with biologic therapies. However, for those
 patients who do receive biologics, approximately 30%-35% of moderate and severe UC
-patients fail to response to anti-TNF-(cid:3) agents, and approximately 30%-40% of moderate and
-severe UC patients using anti-TNF-(cid:3) agents are able to achieve one-year clinical remission.
+patients fail to response to anti-TNF- agents, and approximately 30%-40% of moderate and
+severe UC patients using anti-TNF- agents are able to achieve one-year clinical remission.
 Furthermore, patients who respond to biologic drugs can lose response over time due to the
 development of anti-drug antibodies. In addition, the association of current conventional
-immunosuppressants and anti-TNF-(cid:3) agents with malignancy and opportunistic infections is
+immunosuppressants and anti-TNF- agents with malignancy and opportunistic infections is
 not ideal. Finally, the subcutaneous or intravenous route of delivery is not convenient.
 Together, these circumstances suggest there is an opportunity for an effective and well-
 tolerated oral, small molecule drug to become established as the standard of care in China for
@@ -15839,7 +15839,7 @@ available in China, including basic therapies to protect the skin barrier (e.g. 
 topical therapy, systemic therapy, traditional Chinese medicine and phototherapy. Topical
 therapy includes corticosteroids, calcineurin inhibitors (Tacrolimus and Pimecrolimus), and
 antimicrobial agents. Systemic therapy includes antihistamines (loratadine and cetirizine),
-immunosuppressive drugs (cyclosporine and methotrexate), glucocorticoid and IL-4R(cid:3)
+immunosuppressive drugs (cyclosporine and methotrexate), glucocorticoid and IL-4R 
 Inhibitor(dupilumab).Safetyconcernslimitthelong-termuseofthecurrenttreatmentoptions,
 particularlyforchildren,duetotheincreasedbodysurfaceareatomassratioinchildren,which
 results in increased absorption and systemic exposure. In addition, the current treatment
@@ -16321,7 +16321,7 @@ moderate, and no SAEs were reported. Clinical PK results showed that over the do
 100 mg to 1500 mg, peak TT-00920 plasma concentrations appeared to increase in a slightly
 greater than dose-proportional manner. In the presence of food, the TT-00920 primary PK
 parameters, C , AUC and AUC increased by approximately 60%, 70% and 66%,
-max 0-t 0-(cid:5)
+max 0-t 0- 
 respectively. Though not formally tested, the presence of food did not appear to change T .
 max
 – 355 –
@@ -16358,7 +16358,7 @@ tolerated. Clinical PK results showed that over the dose range of 300 to 500 mg,
 max
 00920 plasma concentrations appeared to increase in a slightly lower than dose-proportional
 manner and both AUC and AUC increased in a dose-proportional manner.
-0-t 0-(cid:5)
+0-t 0- 
 Licenses, Rights and Obligations
 As TT-00920 is internally discovered and developed by us, we maintain the global rights
 to develop and commercialize TT-00920.
@@ -16634,7 +16634,7 @@ Mechanism of Action
 The NLRP3 inflammasome is a critical component of the innate immune response,
 activatedbyvariousstimulisuchasPAMPs,DAMPs,andtissuedamagesignals.Whensensing
 intracellular damage signal, it triggers the organization of inflammasome complex. This
-inflammasome complex leads to maturation of IL-1(cid:2), IL-18, and Gasdermin D to promote a
+inflammasome complex leads to maturation of IL-1 , IL-18, and Gasdermin D to promote a
 downstream inflammatory response as well as pyroptosis. Inappropriate activation of NLRP3
 has been implicated in a variety of inflammatory diseases, including inflammatory bowel
 diseases, metabolic diseases and neurodegenerative diseases. Notably, numerous preclinical
@@ -16664,7 +16664,7 @@ ProGSDMD Active GSDMD Pyroptosis
 Source: Company data
 Competitive Advantages
 TT-02332, A High Potent and Selective NLRP3 Inhibitor
-(cid:129) Highly potent and selective NLRP3 inhibitor
+ Highly potent and selective NLRP3 inhibitor
 In vitro assays have shown that TT-02332 exhibits potent inhibition of the NLRP3
 inflammasome in human macrophages cell line THP-1, and human whole blood, highlighting
 its potential clinical efficacy. Moreover, TT-02332 demonstrated high selectivity for the
@@ -16682,7 +16682,7 @@ Source: Company Data
 
 === PAGE 374 ===
 BUSINESS
-(cid:129) Dose dependent PD response in mouse model
+ Dose dependent PD response in mouse model
 In the acute peritonitis model induced by LPS/ATP, TT-02332 demonstrated a remarkable
 dose-dependent inhibition of the NLRP3 inflammasome in vivo. This finding highlighted the
 potent and effective inhibitory effects of TT-02332 on the NLRP3 inflammasome in a relevant
@@ -17885,16 +17885,16 @@ duties in a manner that complies with our protocols and applicable laws and regu
 that protects the integrity of the data resulting from our trials. Below is a summary of the
 material terms and conditions of an agreement that we typically enter into with a CRO, CMO,
 or CDMO (including the agreement we entered into with PharmaBlock):
-(cid:129) Services. The CRO, CMO or CDMO provides us with services such as the
+ Services. The CRO, CMO or CDMO provides us with services such as the
 implementationofaclinicalresearchprojectortheproductionofproductcandidates
 as specified in the master agreement or a work order.
-(cid:129) Term.The CRO, CMO or CDMO is required to perform its services according to the
+ Term.The CRO, CMO or CDMO is required to perform its services according to the
 prescribed timeframe set out in the master agreement or a work order.
-(cid:129) Payment. We are required to make payments to the CRO, CMO or CDMO in
+ Payment. We are required to make payments to the CRO, CMO or CDMO in
 accordance with the payment schedule agreed by the parties.
-(cid:129) Confidentiality. We and the CRO, CMO or CDMO both agree to keep confidential
+ Confidentiality. We and the CRO, CMO or CDMO both agree to keep confidential
 any information in relation to the performance of the master agreement.
-(cid:129) Intellectual Property. We own all intellectual property derived from the clinical
+ Intellectual Property. We own all intellectual property derived from the clinical
 research project, and we are entitled to apply patent for such intellectual properties.
 Wealsoprocurerawmaterialsandequipmentforthedevelopmentandmanufactureofour
 product candidates from industry-leading and highly reputable manufacturers and suppliers
@@ -18292,19 +18292,19 @@ violates applicable law, we could become subject to fines or penalties or incur 
 materially adversely affect the success of our business.”
 We will adopt various strategies and measures to identify, assess, manage and mitigate
 environmental, social and climate-related risks, including but not limited to:
-(cid:129) reviewing and assessing the ESG reports of similar companies in the industry to
+ reviewing and assessing the ESG reports of similar companies in the industry to
 ensure that all relevant ESG-related risks are identified on a timely basis.
-(cid:129) discussing among management from time to time to ensure all the material ESG
+ discussing among management from time to time to ensure all the material ESG
 areas are recognized and reported.
-(cid:129) discussing with key stakeholders on key ESG principles and practices to ensure that
+ discussing with key stakeholders on key ESG principles and practices to ensure that
 the significant aspects are covered.
-(cid:129) organising a specific ESG risk management process to identify and consider ESG
+ organising a specific ESG risk management process to identify and consider ESG
 risks and opportunities separate from other business risks and opportunities.
 – 403 –
 
 === PAGE 413 ===
 BUSINESS
-(cid:129) settingtargetsforenvironmentKPI,includingwithregardtoemission,pollutionand
+ settingtargetsforenvironmentKPI,includingwithregardtoemission,pollutionand
 other impact on the environment aimed at reducing emissions and natural resource
 consumption.
 Environmental Matters
@@ -18318,11 +18318,11 @@ indirect impacts from supply chain disruption as a result of extreme weather eve
 make the corresponding contingency plans and disaster preparedness plan, we believe that we
 have the ability to deal with climate crisis.
 Resource Consumption
-(cid:129) Electricity consumption. We monitor our electricity consumption levels and
+ Electricity consumption. We monitor our electricity consumption levels and
 implement measures to improve energy efficiency. For the years ended December
 31, 2023 and 2024, our electricity consumption levels were 1.1 million kWh and 1.0
 million kWh, respectively.
-(cid:129) Water consumption. We monitor our water consumption levels and implement
+ Water consumption. We monitor our water consumption levels and implement
 measures to promote water conservation. For the years ended December 31, 2023
 and 2024, our water consumption levels were 3,426 tons and 3,126 tons,
 respectively.
@@ -18390,25 +18390,25 @@ We have adopted comprehensive measures below to mitigate environmental impact fr
 our business, strategy and financial performance, which we will continue to evaluate and
 improve in the future:
 Focus area Key measures
-Exhaust gas management (cid:129) Adopt exhaust gas treatment system and install
+Exhaust gas management Adopt exhaust gas treatment system and install
 active carbon filters
-Greenhouse gas management (cid:129) Increase the use of clean energy
-(cid:129) Use energy efficient equipment
-Sewage management (cid:129) Install sewage treatment system
-Solid waste management (cid:129) Require proper handling and disposal of solid
+Greenhouse gas management Increase the use of clean energy
+ Use energy efficient equipment
+Sewage management Install sewage treatment system
+Solid waste management Require proper handling and disposal of solid
 waste
-(cid:129) Set up hazardous waste storage sites in
+ Set up hazardous waste storage sites in
 accordance with relevant standards and
 establish standardized hazardous waste
 management system
-(cid:129) Engage qualified third-party suppliers for solid
+ Engage qualified third-party suppliers for solid
 waste disposal
-Energy consumption (cid:129) Require our employees to turn off lights after
+Energy consumption Require our employees to turn off lights after
 work
-(cid:129) Set the air-conditioning to a moderate
+ Set the air-conditioning to a moderate
 temperature
-(cid:129) Check faucets regularly to avoid leaks
-(cid:129) Post water-saving and power-saving signs at
+ Check faucets regularly to avoid leaks
+ Post water-saving and power-saving signs at
 eye-catching areas in our offices
 Our directors are of the view that such measures will not have a material impact on our
 operations and financial performance.
@@ -18545,7 +18545,7 @@ We have established an audit committee and also adopted a series of risk managem
 policies which set out a risk management framework to identify, assess, evaluate and monitor
 key risks associated with our strategic objectives on an ongoing basis. The following key
 principles outline our approach to risk management:
-(cid:129) Our audit committee will oversee and manage the overall risks associated with our
+ Our audit committee will oversee and manage the overall risks associated with our
 business operation, including (i) reviewing and approving our risk management
 policies to ensure that it is consistent with our corporate objectives; (ii) reviewing
 and approving our corporate risk tolerance; (iii) monitoring the most significant
@@ -18553,7 +18553,7 @@ risks associated with our business operation and our management’s handling of 
 risks; (iv) reviewing our corporate risk in light of our corporate risk tolerance; and
 (v) monitoring and ensuring the appropriate application of our risk management
 framework across our Company.
-(cid:129) We have established an audit compliance department to be responsible for (i)
+ We have established an audit compliance department to be responsible for (i)
 formulatingandupdatingourriskmanagementpolicyandtargets;(ii)reviewingand
 approving major risk management issues of our Company; (iii) promulgating risk
 managementmeasures;(iv)providingguidanceonourriskmanagementapproachto
@@ -18563,7 +18563,7 @@ ofourriskmanagementmeasuresbytherelevantdepartments;(vii)ensuringthatthe
 appropriate structure, processes and competencies are in place across our Company;
 (viii) reporting to our audit committee on our material risks; and (ix) cooperating
 with external auditors in the audit work of the company.
-(cid:129) The relevant departments in our Company, including but not limited to the finance
+ The relevant departments in our Company, including but not limited to the finance
 department, the legal department and the human resources department, are
 responsible for implementing our risk management policy and carrying out our
 day-to-day risk management practice. In order to standardize risk management
@@ -18589,7 +18589,7 @@ set out a framework to identify, assess, evaluate and monitor key risks associat
 strategic objectives on an ongoing basis.
 Below is a summary of the internal control policies, measures and procedures we have
 implemented or plan to implement:
-(cid:129) We have established anti-bribery and anti-corruption measures, which set forth
+ We have established anti-bribery and anti-corruption measures, which set forth
 procedures for identifying potential frauds and corruption, implementing relevant
 anti-corruption procedures and setting out anti-corruption responsibilities for
 relevant personnel. We strictly prohibit bribery or other improper payments in any
@@ -18614,7 +18614,7 @@ in our history.
 
 === PAGE 421 ===
 BUSINESS
-(cid:129) We have established procedures to protect the confidentiality of patients’ personal
+ We have established procedures to protect the confidentiality of patients’ personal
 data. We maintain policies which require our personnel to be trained on collecting,
 and safeguarding personal information. We also require our CROs to have data
 protection clauses in our agreements with them under which they are responsible for
@@ -18627,26 +18627,26 @@ patients and the data usage shall be consistent with the informed consent form. 
 have a number of ongoing or planned clinical studies. Any transfer of clinical trial
 data in connection with our product development efforts and regulatory
 communications is subject to the applicable data and privacy protection laws.
-(cid:129) We have adopted various measures and procedures regarding each aspect of our
+ We have adopted various measures and procedures regarding each aspect of our
 business operation, such as protection of intellectual property, environmental
 protection,andoccupationalhealthandsafety.Weprovideperiodictrainingonthese
 measures and procedures to our employees as part of our employee training
 program. We also constantly monitor the implementation of those measures and
 procedures through our on-site internal control team for each stage of the product
 development process.
-(cid:129) Our Directors (who are responsible for monitoring the corporate governance of our
+ Our Directors (who are responsible for monitoring the corporate governance of our
 Company), with help from our legal advisors, will also periodically review our
 compliance status with all relevant laws and regulations after the Listing.
-(cid:129) We have established an audit committee, which (i) makes recommendations to our
+ We have established an audit committee, which (i) makes recommendations to our
 Directors on the appointment and removal of external auditors; (ii) reviews the
 financial information and renders advice in respect of financial reporting; and (iii)
 oversee internal control procedures of our Company.
-(cid:129) We have engaged Central China International Capital Limited as our compliance
+ We have engaged Central China International Capital Limited as our compliance
 advisor to provide advice to our Directors and management team. Our Compliance
 Advisor is expected to, upon our consultation, provide advice and guidance in
 respect of compliance with the applicable laws and Listing Rules including various
 requirements of directors’ duties and internal control in a timely fashion.
-(cid:129) We plan to engage a PRC law firm to advise us on and keep us abreast of PRC laws
+ We plan to engage a PRC law firm to advise us on and keep us abreast of PRC laws
 and regulations after the Listing. We will continue to arrange various trainings
 sessions to be provided by external legal advisors from time to time when necessary,
 and/or any appropriate accredited institution to update our Directors, senior
@@ -18655,12 +18655,12 @@ management and relevant employees on the latest PRC laws and regulations.
 
 === PAGE 422 ===
 BUSINESS
-(cid:129) We will comply with the Corporate Governance Code, except for the deviation from
+ We will comply with the Corporate Governance Code, except for the deviation from
 the code provision A.2.1 of the Corporate Governance Code. We have set out
 respective terms of reference of directors and senior management in compliance
 with the Corporate Governance Code. For further details, see the section headed
 “Directors, Supervisors and Senior Management.”
-(cid:129) Our Directors believe that compliance creates value for us and dedicate to
+ Our Directors believe that compliance creates value for us and dedicate to
 cultivating a compliance culture among all of our employees. To ensure such
 compliancecultureisembeddedintoeverydayworkflowandsettheexpectationsfor
 individual behaviour across the organization, we regularly conduct internal
@@ -19987,16 +19987,16 @@ COMPLIANCE ADVISER
 WehaveappointedCentralChinaInternationalCapitalLimitedasourcomplianceadviser
 pursuant to Rule 3A.19 of the Listing Rules. Pursuant to Rule 3A.23 of the Listing Rules, the
 compliance adviser will advise us on the following circumstances:
-(cid:129) before the publication of any regulatory announcements, circulars or financial
+ before the publication of any regulatory announcements, circulars or financial
 reports;
-(cid:129) where a transaction, which might be a notifiable or connected transaction under
+ where a transaction, which might be a notifiable or connected transaction under
 Chapters 14 and 14A of the Listing Rules is contemplated, including share issues,
 sales or transfers of treasury shares and share repurchases;
-(cid:129) where our Company proposes to use the proceeds from the Global Offering in a
+ where our Company proposes to use the proceeds from the Global Offering in a
 manner different from that detailed in this prospectus or where our business
 activities, developments or results deviate from any forecast, estimate or other
 information in this prospectus; and
-(cid:129) where the Stock Exchange makes an inquiry of our Company regarding unusual
+ where the Stock Exchange makes an inquiry of our Company regarding unusual
 price movement and trading volume or other issues under Rule 13.10 of the Listing
 Rules.
 The terms of the appointment shall commence on the Listing Date and end on the date
@@ -20111,7 +20111,7 @@ with our senior management members and other key personnel (other than Directors
 sets forth the key terms of these contracts we enter into with our senior management and other
 key personnel.
 Confidentiality
-(cid:129) Confidentiality obligations. The employee shall, during the course of employment with
+ Confidentiality obligations. The employee shall, during the course of employment with
 our Company and thereafter, keep in confidence all technical, operational information or
 tradesecretsbelongingtoourCompanyorotherthirdpartiestowhomourCompanyowes
 confidentiality obligations. Without our Company’s prior consent, the employee shall not
@@ -20120,7 +20120,7 @@ third party (including employees who are not privy to such trade secrets) any su
 secrets of our Company or the aforementioned third parties in any manner and shall not
 utilize such trade secret beyond his or her scope of work.
 Ownership of intellectual work products
-(cid:129) Acknowledgement: The employee acknowledges and agrees that our Company shall own
+ Acknowledgement: The employee acknowledges and agrees that our Company shall own
 all intellectual work products he or she produces during the course of employment with
 our Company for the purposes of undertaking their duties and responsibilities.
 – 449 –
@@ -20128,12 +20128,12 @@ our Company for the purposes of undertaking their duties and responsibilities.
 === PAGE 459 ===
 DIRECTORS, SUPERVISORS AND SENIOR MANAGEMENT
 Non-competition
-(cid:129) Non-competition obligation during employment term. During the term of his/her
+ Non-competition obligation during employment term. During the term of his/her
 employment with our Company, unless with our Company’s prior consent, the employee
 shall not engage in any business that competes with or are similar to that of our
 Company’s business.
 Compensation for breach of covenants
-(cid:129) If the employee breaches the obligations under the confidentiality and intellectual
+ If the employee breaches the obligations under the confidentiality and intellectual
 property agreements, our Company shall be entitled to recover from the employee any
 losses incurred and any profits earned by the employee as a result of the breaches.
 COMPENSATION OF DIRECTORS, SUPERVISORS AND MANAGEMENT
@@ -20339,19 +20339,19 @@ particularly as we advance the clinical development of our clinical assets, cont
 and development of our preclinical assets and initiate additional clinical trials of, and seek
 regulatory approvals for, these and other future drug candidates. These expenditures may
 include the following, among others:
-(cid:129) expenses incurred for payments to CROs, investigators and clinical trial sites that
+ expenses incurred for payments to CROs, investigators and clinical trial sites that
 conduct our clinical studies;
 – 455 –
 
 === PAGE 465 ===
 FINANCIAL INFORMATION
-(cid:129) employee related expenses, including salaries, benefits and share-based payment
+ employee related expenses, including salaries, benefits and share-based payment
 expenses;
-(cid:129) licensing fees to collaboration partners;
-(cid:129) costs of acquiring, developing, and manufacturing clinical study materials;
-(cid:129) facilities, depreciation, and other expenses, which include office leases and other
+ licensing fees to collaboration partners;
+ costs of acquiring, developing, and manufacturing clinical study materials;
+ facilities, depreciation, and other expenses, which include office leases and other
 overhead expenses; and
-(cid:129) costs associated with preclinical activities and regulatory approvals.
+ costs associated with preclinical activities and regulatory approvals.
 MATERIALACCOUNTING POLICIES AND ESTIMATES
 Our discussion and analysis of our financial condition and results of operations is based
 on our financial statements, which have been prepared in accordance with accounting
@@ -21102,17 +21102,17 @@ FINANCIAL INFORMATION
 Our senior management team and the finance department are mainly responsible for
 making, implementing and supervising our investment decisions. We have implemented the
 following treasury policies and internal authorization controls:
-(cid:129) We have formulated the Standardized Management Protocol for Funds Management
+ We have formulated the Standardized Management Protocol for Funds Management
 (《資金管理標準管理規程》) to control our process of investment in wealth
 management products;
-(cid:129) Our Board reviews and approves the annual cap of our investment in wealth
+ Our Board reviews and approves the annual cap of our investment in wealth
 management products;
-(cid:129) Our senior management team is responsible for the overall planning and approval of
+ Our senior management team is responsible for the overall planning and approval of
 our investment in wealth management products;
-(cid:129) Our finance department is responsible for the analysis and research of investment in
+ Our finance department is responsible for the analysis and research of investment in
 wealth management products, as well as the long-term routine management of such
 investment;
-(cid:129) Investments in wealth management products could be made when we have surplus
+ Investments in wealth management products could be made when we have surplus
 cash that is not required for our short-term working capital purposes and in no event
 beyond the amount authorized by our senior management team.
 Priortomakinganinvestment,weensurethatthereremainssufficientworkingcapitalfor
@@ -22174,12 +22174,12 @@ in the ballot may not receive any Hong Kong Offer Shares.
 For allocation purposes only, the total number of Offer Shares available under the Hong
 Kong Public Offering is to be divided equally (to the nearest board lot) into two pools (with
 any odd lots being allocated to pool A):
-(cid:129) Pool A: The Hong Kong Offer Shares in pool A will be allocated on an equitable
+ Pool A: The Hong Kong Offer Shares in pool A will be allocated on an equitable
 basis to applicants who have applied for the Hong Kong Offer Shares with an
 aggregate subscription price of HK$5.0 million or less (excluding brokerage, SFC
 transaction levy, Hong Kong Stock Exchange trading fee andAFRC transaction levy
 payable); and
-(cid:129) Pool B: The Hong Kong Offer Shares in pool B will be allocated on an equitable
+ Pool B: The Hong Kong Offer Shares in pool B will be allocated on an equitable
 basis to applicants who have applied for the Hong Kong Offer Shares with an
 aggregate subscription price of more than HK$5.0 million and up to the value of
 pool B (excluding brokerage, SFC transaction levy, Hong Kong Stock Exchange
@@ -22205,14 +22205,14 @@ of increasing the number of Offer Shares under the Hong Kong Public Offering to 
 percentage of the total number of Offer Shares offered under the Global Offering if the
 International Offering is fully subscribed or oversubscribed and certain prescribed total
 demand levels are reached as further described below:
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 15 times or more but less than 50 times the number of Offer
 Shares initially available for subscription under the Hong Kong Public Offering,
 then Offer Shares will be reallocated to the Hong Kong Public Offering from the
 International Offering so that the total number of Offer Shares available under the
 Hong Kong Public Offering will be 4,584,500 Offer Shares, representing
 approximately30%oftheOfferSharesinitiallyavailableundertheGlobalOffering;
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 50 times or more but less than 100 times the number of Offer
 Shares initially available for subscription under the Hong Kong Public Offering,
 then the number of Offer Shares to be reallocated to the Hong Kong Public Offering
@@ -22220,7 +22220,7 @@ from the International Offering will be increased so that the total number of Of
 Shares available under the Hong Kong Public Offering will be 6,112,500 Offer
 Shares,representingapproximately40%oftheOfferSharesinitiallyavailableunder
 the Global Offering; and
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 100 times or more the number of Offer Shares initially available
 for subscription under the Hong Kong Public Offering, then the number of Offer
 Shares to be reallocated to the Hong Kong Public Offering from the International
@@ -22384,22 +22384,22 @@ described in (ii), (iii), (iv) and (v) above.
 === PAGE 520 ===
 STRUCTURE OF THE GLOBAL OFFERING
 Specifically, prospective applicants for and investors in the Offer Shares should note that:
-(cid:129) the Stabilizing Manager, or any person acting for it may, in connection with the
+ the Stabilizing Manager, or any person acting for it may, in connection with the
 stabilizing action, maintain a long position in the H Shares;
-(cid:129) there is no certainty regarding the extent to which and the time or period for which
+ there is no certainty regarding the extent to which and the time or period for which
 the Stabilizing Manager, or any person acting for it, will maintain such a long
 position;
-(cid:129) liquidation of any such long position by the Stabilizing Manager, or any person
+ liquidation of any such long position by the Stabilizing Manager, or any person
 acting for it, may have an adverse impact on the market price of the H Shares;
-(cid:129) nostabilizingactioncanbetakentosupportthepriceoftheHSharesforlongerthan
+ nostabilizingactioncanbetakentosupportthepriceoftheHSharesforlongerthan
 thestabilizingperiodwhichwillbeginontheListingDate,andisexpectedtoexpire
 on the 30th day after the last day for the lodging of applications under the Hong
 Kong Public Offering (i.e. Friday, July 18, 2025). After this date, when no further
 stabilizing action may be taken, demand for the H Shares, and therefore the price of
 the H Shares, could fall;
-(cid:129) the price of the H Shares cannot be assured to stay at or above the Offer Price by
+ the price of the H Shares cannot be assured to stay at or above the Offer Price by
 the taking of any stabilizing action; and
-(cid:129) stabilizing bids may be made or transactions effected in the course of the stabilizing
+ stabilizing bids may be made or transactions effected in the course of the stabilizing
 action at any price at or below the Offer Price, which means that stabilizing bids
 may be made or transactions effected at a price below the price paid by applicants
 for, or investors in, the H Shares.
@@ -22567,16 +22567,16 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
-(cid:129) are 18 years of age or older;
-(cid:129) have a Hong Kong address (for the HK eIPO White Form service only);
-(cid:129) are outside the United States; and
-(cid:129) are not a legal or natural mainland China person (except qualified domestic
+ are 18 years of age or older;
+ have a Hong Kong address (for the HK eIPO White Form service only);
+ are outside the United States; and
+ are not a legal or natural mainland China person (except qualified domestic
 institutional investors).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the
 person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or close associates; or
-(cid:129) are a Director or a Supervisor or any of his/her close associates.
+ are an existing Shareholder or close associates; or
+ are a Director or a Supervisor or any of his/her close associates.
 2. Application Channels
 The Hong Kong Public Offering period will begin at 9:00 a.m. on Friday, June 13,
 2025 and end at 12:00 noon on Wednesday, June 18, 2025 (Hong Kong time).
@@ -22661,19 +22661,19 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual Applicants For Corporate Applicants
-(cid:129) Full name(s)2 as shown on your (cid:129) Full name(s)2 as shown on your
+ Full name(s)2 as shown on your Full name(s)2 as shown on your
 identity document identity document
-(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
+ Identity document’s issuing country or Identity document’s issuing country or
 jurisdiction jurisdiction
-(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
+ Identity document type, with order of Identity document type, with order of
 priority: priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification ii. Certificate of incorporation; or
 document; or
 iii. Business registration certificate;
 iii. Passport; and or
-(cid:129) Identity document number iv. Other equivalent document; and
-(cid:129) Identity document number
+ Identity document number iv. Other equivalent document; and
+ Identity document number
 Notes:
 1. If you are applying through the HK eIPO White Form service, you are required to provide a valid
 e-mailaddress,acontacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclare
@@ -22713,9 +22713,9 @@ above.
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -22986,21 +22986,21 @@ application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “–A.Applications for Hong Kong Offer Shares – 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
 – 527 –
 
 === PAGE 537 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated; or
-(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated; or
+ we or the Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -23118,9 +23118,9 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Wednesday, June 18, 2025 if, there is:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) an “extreme conditions” announcement issued after a super typhoon (“Extreme
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ an “extreme conditions” announcement issued after a super typhoon (“Extreme
 Conditions”),
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon onWednesday, June
@@ -23199,23 +23199,23 @@ supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund cheque and HK eIPO White Form e-Auto
+ processing your application and refund cheque and HK eIPO White Form e-Auto
 Refund payment instruction(s), where applicable, verification of compliance with
 the terms and application procedures set out in this prospectus and announcing
 results of allocation of Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the Shares and/or regulators and/or any other purposes to which
 applicants and holders of the Shares may from time to time agree.
@@ -23229,21 +23229,21 @@ for and holders of Hong Kong Offer Shares will be kept confidential but the Comp
 H Share Registrar may, to the extent necessary for achieving any of the above purposes,
 disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to, from
 or with any of the following:
-(cid:129) our Company’s appointed agents such as financial advisers, receiving bank and
+ our Company’s appointed agents such as financial advisers, receiving bank and
 principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar, in each case for the purposes of providing its
 services or facilities or performing its functions in accordance with its rules or
 procedures and operating FINI and CCASS (including where applicants for the
 Hong Kong Offer Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H
 Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of personal data
@@ -23268,11 +23268,11 @@ APPENDIX I ACCOUNTANTS’ REPORT
 The following is the text of a report, prepared for inclusion in this document, received
 from the independent reporting accountants of the Group, Ernst & Young, Certified Public
 Accountants, Hong Kong.
-Ernst & Young (cid:11120)(cid:15391)(cid:14058)(cid:23023)(cid:11794)(cid:7794)(cid:8896)(cid:12839) Tel (cid:26338)(cid:23128): +852 2846 9888
+Ernst & Young Tel : +852 2846 9888
 27/F, One Taikoo Place
-(cid:27008)(cid:15894)(cid:27625)(cid:27457)(cid:15731)(cid:21208)(cid:18030)(cid:24634)979(cid:22086) Fax (cid:8346)(cid:18182): +852 2868 4432
+ 979 Fax : +852 2868 4432
 979 King’s Road
-(cid:10513)(cid:9163)(cid:10033)(cid:7655)(cid:11918)27(cid:14842) ey.com
+ 27 ey.com
 Quarry Bay, Hong Kong
 ACCOUNTANTS’ REPORT ON HISTORICAL FINANCIAL INFORMATION TO THE
 DIRECTORS OF TRANSTHERA SCIENCES (NANJING), INC., CITIC SECURITIES
@@ -23910,8 +23910,8 @@ with net changes in fair value recognised in the statement of profit or loss.
 Derecognition of financial assets
 Afinancialasset(or,whereapplicable,apartofafinancialassetorpartofagroupofsimilarfinancialassets)
 is primarily derecognised (i.e., removed from the Group’s consolidated statement of financial position) when:
-(cid:129) the rights to receive cash flows from the asset have expired; or
-(cid:129) the Group has transferred its rights to receive cash flows from the asset or has assumed an obligation
+ the rights to receive cash flows from the asset have expired; or
+ the Group has transferred its rights to receive cash flows from the asset or has assumed an obligation
 to pay the received cash flows in full without material delay to a third party under a “pass-through”
 arrangement;andeither(a)theGrouphastransferredsubstantiallyalltherisksandrewardsoftheasset,
 or(b)theGrouphasneithertransferrednorretainedsubstantiallyalltherisksandrewardsoftheasset,
@@ -24025,11 +24025,11 @@ Group operates.
 Deferred tax is provided, using the liability method, on all temporary differences at the end of the reporting
 period between the tax bases of assets and liabilities and their carrying amounts for financial reporting purposes.
 Deferred tax liabilities are recognised for all taxable temporary differences, except:
-(cid:129) when the deferred tax liability arises from the initial recognition of goodwill or an asset or liability in
+ when the deferred tax liability arises from the initial recognition of goodwill or an asset or liability in
 a transaction that is not a business combination and, at the time of the transaction, affects neither the
 accounting profit nor taxable profit or loss and does not give rise to equal taxable and deductible
 temporary differences; and
-(cid:129) inrespectoftaxabletemporarydifferencesassociatedwithinvestmentsinsubsidiaries,whenthetiming
+ inrespectoftaxabletemporarydifferencesassociatedwithinvestmentsinsubsidiaries,whenthetiming
 of the reversal of the temporary differences can be controlled and it is probable that the temporary
 differences will not reverse in the foreseeable future.
 – I-20 –
@@ -24040,11 +24040,11 @@ Deferredtaxassetsarerecognisedforalldeductibletemporarydifferences,andthecarryfo
 creditsandanyunusedtaxlosses.Deferredtaxassetsarerecognisedtotheextentthatitisprobablethattaxableprofit
 willbeavailableagainstwhichthedeductibletemporarydifferences,andthecarryforwardofunusedtaxcreditsand
 unused tax losses can be utilised, except:
-(cid:129) when the deferred tax asset relating to the deductible temporary differences arises from the initial
+ when the deferred tax asset relating to the deductible temporary differences arises from the initial
 recognition of an asset or liability in a transaction that is not a business combination and, at the time
 ofthetransaction,affectsneithertheaccountingprofitnortaxableprofitorlossanddoesnotgiverise
 to equal taxable and deductible temporary differences; and
-(cid:129) inrespectofdeductibletemporarydifferencesassociatedwithinvestmentsinsubsidiaries,deferredtax
+ inrespectofdeductibletemporarydifferencesassociatedwithinvestmentsinsubsidiaries,deferredtax
 assetsareonlyrecognisedtotheextentthatitisprobablethatthetemporarydifferenceswillreversein
 the foreseeable future and taxable profit will be available against which the temporary differences can
 be utilised.
@@ -25473,11 +25473,11 @@ into subsequent to 31 December 2024.
 
 === PAGE 599 ===
 APPENDIX II UNAUDITED PRO FORMA FINANCIAL INFORMATION
-Ernst & Young (cid:11120)(cid:15391)(cid:14058)(cid:23023)(cid:11794)(cid:7794)(cid:8896)(cid:12839) Tel (cid:26338)(cid:23128): +852 2846 9888
+Ernst & Young Tel : +852 2846 9888
 27/F, One Taikoo Place
-(cid:27008)(cid:15894)(cid:27625)(cid:27457)(cid:15731)(cid:21208)(cid:18030)(cid:24634)979(cid:22086) Fax (cid:8346)(cid:18182): +852 2868 4432
+ 979 Fax : +852 2868 4432
 979 King’s Road
-(cid:10513)(cid:9163)(cid:10033)(cid:7655)(cid:11918)27(cid:14842) ey.com
+ 27 ey.com
 Quarry Bay, Hong Kong
 B. INDEPENDENT REPORTING ACCOUNTANTS’ASSURANCE REPORT ON THE
 COMPILATION OF PRO FORMA FINANCIAL INFORMATION
@@ -25544,8 +25544,8 @@ performing procedures to assess whether the applicable criteria used by the Dire
 compilation of the Pro Forma Financial Information provide a reasonable basis for presenting
 the significant effects directly attributable to the transaction, and to obtain sufficient
 appropriate evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the Pro Forma Financial Information reflects the proper application of those
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the Pro Forma Financial Information reflects the proper application of those
 adjustments to the unadjusted financial information.
 – II-4 –
 
@@ -27981,16 +27981,16 @@ Pursuant to the scheme documents (the “Scheme Documents”) and the award offe
 employees, senior management members and employees who had great contribution to
 the development of our Company. The Scheme Documents provided that the following
 employees may not be selected as participants to the Schemes (as applicable):
-(cid:129) Employees who have caused the material losses of our Company due to the
+ Employees who have caused the material losses of our Company due to the
 willful intent or significant negligence;
-(cid:129) Employees who have convicted of crime;
-(cid:129) Employees who have caused the material losses of our Company due to the
+ Employees who have convicted of crime;
+ Employees who have caused the material losses of our Company due to the
 violation of the laws and regulations, the Articles of Association of our
 Company, the Company’s management policies;
-(cid:129) Employees who have misappropriated, stole and revealed our Company’s
+ Employees who have misappropriated, stole and revealed our Company’s
 technology and secrets or commit damage to our Company’s interest or
 reputation; and
-(cid:129) Employees who are otherwise not eligible according to the discretionary
+ Employees who are otherwise not eligible according to the discretionary
 decision by the Board.
 Grant of Awards
 The general partner of each of NanjingYipu and NanjingYicheng is Dr. Wu and Dr.

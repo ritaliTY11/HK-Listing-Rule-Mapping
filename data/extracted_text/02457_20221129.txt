@@ -7606,21 +7606,21 @@ BUSINESS
 SALESANDDISTRIBUTION
 Overview
 DuringtheTrackRecordPeriod,oursalesmechanismcanbesummarizedasbelow:
-(cid:129) Select customers
-(cid:129) Background and qualification check
+ Select customers
+ Background and qualification check
 Taking order
-(cid:129) Receive purchase order, confirm sales details
-(cid:129) Review purchase order by relevant departments
-(cid:129) Finalize purchase order and file for record
+ Receive purchase order, confirm sales details
+ Review purchase order by relevant departments
+ Finalize purchase order and file for record
 Receiving
 order
-(cid:129) The sales department and production department coordinate to
+ The sales department and production department coordinate to
 produce the monthly order plan according to the order list, and the
 production department and sales department will schedule the
 Production production and shipping time according to the monthly order plan.
-(cid:129) Confirm sales list with customer
-(cid:129) Finalize shipment date and arrange shipment from warehouse
-(cid:129) Collect payment according to purchase order or other credit
+ Confirm sales list with customer
+ Finalize shipment date and arrange shipment from warehouse
+ Collect payment according to purchase order or other credit
 Shipment
 arrangement with the customer
 and collection

@@ -142,11 +142,11 @@ Latest time for completing electronic applications under
 the HK eIPO White Form service through
 one of the ways below:(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11:30 a.m. on
 Wednesday, September 28, 2022
-(cid:129) the IPO App, which can be downloaded by
+ the IPO App, which can be downloaded by
 searching “IPO App” in App Store or
 Google Play or downloaded at
 www.hkeipo.hk/IPOApp or www.tricorglobal.com/IPOApp
-(cid:129) the designated website www.hkeipo.hk
+ the designated website www.hkeipo.hk
 Application lists for the Hong Kong Public Offering open(3) . . . . . . . . . . . . . . . .11:45 a.m.
 Wednesday, September 28, 2022
 Latest time for (a) completing payment for the HK eIPO White Form
@@ -164,11 +164,11 @@ Application lists close(3) . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Wednesday, September 28, 2022
 Expected Price Determination Date(5) . . . . . . . . . . . . . . . . .Wednesday, September 28, 2022
 Announcement of:
-(cid:129) the Offer Price;
-(cid:129) indications of the level of interest in the International
+ the Offer Price;
+ indications of the level of interest in the International
 Offering and the level of applications in the
 Hong Kong Public Offering; and
-(cid:129) the basis of allocations of the Hong Kong Offer Shares
+ the basis of allocations of the Hong Kong Offer Shares
 to be published on our website at www.calb-tech.com(6)
 and the website of the Hong Kong Stock Exchange
 at www.hkexnews.hk(6) on or before(10) . . . . . . . . . .Wednesday, October 5, 2022
@@ -179,11 +179,11 @@ EXPECTED TIMETABLE(1)
 the results of allocations in the Hong Kong Public Offering (with
 successful applicants’ identification document numbers, where appropriate)
 to be available through a variety of channels, including
-(cid:129) in the announcement to be posted on the website
+ in the announcement to be posted on the website
 of our Company at www.calb-tech.com and the website
 of the Hong Kong Stock Exchange at www.hkexnews.hk(10) . . . . . . . Wednesday,
 October 5, 2022
-(cid:129) from the “IPO Results” function in the IPO App
+ from the “IPO Results” function in the IPO App
 or the designated results of allocations website
 at www.hkeipo.hk/IPOResult
 (or www.tricor.com.hk/ipo/result)
@@ -191,7 +191,7 @@ with a “search by ID” function from(10) . . . . . . . . . . . . .8:00 a.m. o
 October 5, 2022
 to 12:00 midnight on
 Tuesday, October 11, 2022
-(cid:129) from the allocation results telephone enquiry line
+ from the allocation results telephone enquiry line
 by calling +852 3691 8488 between 9:00 a.m. and
 6:00 p.m. from(10) . . . . . . . . . . . . . . . . . . . . . . . . . . Wednesday, October 5, 2022
 to Monday, October 10, 2022
@@ -377,15 +377,15 @@ We are a leading new energy technology company mainly engaged in the design, R&D
 production and sales of EV batteriesNote 1 and ESS productsNote 2.
 Market Ranking
 In terms of installed capacity:
-(cid:129) we, with a 5.7% market share in 2020, 5.9% market share in 2021 and 8.2% market
+ we, with a 5.7% market share in 2020, 5.9% market share in 2021 and 8.2% market
 share for the three months ended March 31, 2022, ranked fourth and third in 2020;
 and third and second in both 2021 and the three months ended March 31, 2022,
 among EVbattery companies in China and among third-party EVbattery companies
 in ChinaNote 3 & Note 4, respectively;
-(cid:129) we, with a 2.7% market share in 2020, 3.2% market share in 2021 and 4.5% market
+ we, with a 2.7% market share in 2020, 3.2% market share in 2021 and 4.5% market
 share for the three months ended March 31, 2022, ranked seventh, seventh and sixth
 globally among EV battery companies, respectively; and
-(cid:129) we were the only company with over 100% year-on-year growth rate from 2019 to
+ we were the only company with over 100% year-on-year growth rate from 2019 to
 2021 among the top ten EV battery companies in ChinaNote 5 in 2021.
 Note 1: Batteries that provide power to new energy vehicles (NEV).
 Note 2: Batteries applied to energy storage scenarios.
@@ -440,18 +440,18 @@ We are one of the few EV battery companies with comprehensive independent R&D
 capabilities and the ability to solely complete the production of EV batteries. Our innovative
 capability allowed us to develop a series of advanced technologies to apply in our
 first-to-the-market products, including:
-(cid:129) thehigh-voltageternarybattery,whichfeatureshighenergydensity,longbatterylife
+ thehigh-voltageternarybattery,whichfeatureshighenergydensity,longbatterylife
 andexcellentsafety,makingitoneofthebestbatterysystemsolutionsforpassenger
 vehicles with mass capacity installation;
 – 2 –
 
 === PAGE 13 ===
 SUMMARY
-(cid:129) the “magazine battery” launched by us, which is the first of its kind in the industry
+ the “magazine battery” launched by us, which is the first of its kind in the industry
 to prevent fire in the nail penetration test of the ternary battery system. Our
 “magazine battery” significantly improves the thermal safety level of the ternary
 battery system; and
-(cid:129) “One-stop BetteryNote 1” battery with the newly developed minimalist structure,
+ “One-stop BetteryNote 1” battery with the newly developed minimalist structure,
 which has advantages in energy density, safety and economy and was also the first
 of its kind in the industry.
 Our R&D team is composed of over 2,900 R&D personnel who have multi-disciplinary
@@ -465,7 +465,7 @@ Energy density and safety performance are two key features of EV batteries and o
 products possess both high energy density and consistent safety performance. It is important
 for EV battery product to balance high energy density and consistent safe performance within
 EV batteries for NEV:
-(cid:129) Through high-voltage technology, we have achieved the ternary battery cell energy
+ Through high-voltage technology, we have achieved the ternary battery cell energy
 density of 260Wh/kg and 280Wh/kg for medium-nickel high-voltage 5-series and
 6-series battery products, respectively, allowing NEV installed with our products to
 achieve longer driving range up to 800km, which could parallel that of the 8-series
@@ -477,7 +477,7 @@ density of more than 180Wh/Kg. Our battery system provided an energy density of
 up to 225Wh/kg, which is well above the industry average level. Such EV battery
 products have been widely recognized by leading NEV manufacturers and
 successfully installed in many best-selling models of leading NEV manufacturers.
-(cid:129) Battery safety performance is the priority when evaluating the performance of EV
+ Battery safety performance is the priority when evaluating the performance of EV
 batteries. Pursuit of a higher level of safety has always been the goal of the EV
 battery industry. Nail penetration test is one of the most rigorous EV battery safety
 performance tests in the industry. Such test requires that the EV battery pack to not
@@ -1002,22 +1002,22 @@ For further details in our suppliers, please see “Business – Our Supply Chai
 Management”.
 OUR COMPETITIVE ADVANTAGES
 Our competitive advantages include:
-(cid:129) We are a leading EV battery company
-(cid:129) We continue to build an influential innovation center and lead industry development
-(cid:129) We have in-depth manufacture engineering foundations and industry leading scaled
+ We are a leading EV battery company
+ We continue to build an influential innovation center and lead industry development
+ We have in-depth manufacture engineering foundations and industry leading scaled
 operational capabilities
 – 7 –
 
 === PAGE 18 ===
 SUMMARY
-(cid:129) Wehaveindustrypartnerswithstrategicsynergyandhighmutualtrustwhiledriving
+ Wehaveindustrypartnerswithstrategicsynergyandhighmutualtrustwhiledriving
 industry development together
-(cid:129) We have a visionary management team with shared mission
+ We have a visionary management team with shared mission
 OUR DEVELOPMENT STRATEGIES
 Our development strategies include:
-(cid:129) All around technology advancement strategy
-(cid:129) Scaling-up strategy
-(cid:129) Promoting a sustainable industry development
+ All around technology advancement strategy
+ Scaling-up strategy
+ Promoting a sustainable industry development
 – 8 –
 
 === PAGE 19 ===
@@ -2871,7 +2871,7 @@ the Global Offering and assuming the Over-allotment Option is not exercised.
 SUMMARY
 In accordance with our strategy, we plan to use the proceeds for the following intended
 purposes in the amounts set forth below:
-(cid:129) Approximately 80.0% of the proceeds (approximately HK$9,248.3 million) will be
+ Approximately 80.0% of the proceeds (approximately HK$9,248.3 million) will be
 used as partial expenditures for the construction of production lines of EV battery
 and ESS of totally 95 GWh for our new production facilities at Chengdu Project
 Phase I, Wuhan Project Phase II, Hefei Project Phase I and Phase II, Guangdong
@@ -2921,7 +2921,7 @@ scale, support our business expansion and continue to drive the development of E
 batteryindustry.BasedonourexpectationthattheEVbatterymarketandESSmarketwill
 continue to grow rapidly, we believe it is crucial to expand our production capacity and
 establish new production bases.
-(cid:129) Approximately 10% of the proceeds (approximately HK$1,156.1 million) will be
+ Approximately 10% of the proceeds (approximately HK$1,156.1 million) will be
 used for R&D of advanced technologies to maintain technological leadership, which
 include:
 (i) approximately 5.6% (approximately HK$647.4 million) will be used for the
@@ -2930,7 +2930,7 @@ and battery lifespan management.
 (ii) approximately 4.4% (approximately HK$508.7 million) will be used for
 experiments, pilot capacity building and advanced manufacturing technology
 development.
-(cid:129) Approximately 10% of the proceeds (approximately HK$1,156.1 million) will be
+ Approximately 10% of the proceeds (approximately HK$1,156.1 million) will be
 used for working capital and general corporate purposes.
 If the Offer Price is fixed at HK$51.0 per Offer Share (being the high end of the Offer
 Price range stated in this prospectus), we will receive additional net proceeds of approximately
@@ -3194,26 +3194,26 @@ materially affect the data shown in the Accountants’ Report in Appendix I.
 SUMMARY
 SUMMARY OF MAJOR RISK FACTORS
 Our major risk factors include:
-(cid:129) Our success as a leading EV battery company depends to a great extent on our R&D
+ Our success as a leading EV battery company depends to a great extent on our R&D
 capabilities and failure of our technology and product R&D efforts to meet our
 expectations may hurt our competitiveness and profitability.
-(cid:129) We have limited operating history in EV battery industry and our ability to develop,
+ We have limited operating history in EV battery industry and our ability to develop,
 manufacture and deliver EVbatteries is still evolving, and we may not be successful
 in expanding our operations or managing our growth effectively.
-(cid:129) We are exposed to price fluctuations of raw materials, which may result in gross
+ We are exposed to price fluctuations of raw materials, which may result in gross
 loss.
-(cid:129) We may be subject to the adverse impact of raw material price changes in
+ We may be subject to the adverse impact of raw material price changes in
 association with our order locking of raw materials.
-(cid:129) Our business is subject to the market forces in the EV battery industry and our
+ Our business is subject to the market forces in the EV battery industry and our
 results are dependent in part on the changes in industries of our customers and
 market demand for their end products.
-(cid:129) We may not be able to prevent the unauthorized use of our intellectual property
+ We may not be able to prevent the unauthorized use of our intellectual property
 rights by others, which could damage our business and competitive position.
-(cid:129) We may be involved in intellectual property infringement claims and invalidation
+ We may be involved in intellectual property infringement claims and invalidation
 applications, which may be time consuming and result in us bearing expenses.
-(cid:129) We face risks of sharing relevant R&D results with our collaboration partners at the
+ We face risks of sharing relevant R&D results with our collaboration partners at the
 level of jointly established entities.
-(cid:129) We may be required to perform our obligations under put options to acquire certain
+ We may be required to perform our obligations under put options to acquire certain
 interests in the relevant companies and the fair value change for and valuation
 uncertainty of the put option liabilities may adversely affect our financial condition
 and results of operations.
@@ -4506,26 +4506,26 @@ looking statements by words such as “aim,” “anticipate,” “believe,” 
 “expect,” “intend,” “may,” “might,” “plan,” “potential,” “predict,” “project,” “propose,”
 “seek,” “should,” “will,” “would” or similar expressions, or their negatives. These forward-
 looking statements include, without limitation, statements relating to:
-(cid:129) any changes in the laws, rules and regulations of the central and local governments
+ any changes in the laws, rules and regulations of the central and local governments
 in the PRC and the rules, regulations and policies of the relevant governmental
 authorities relating to all aspects of our business and our business plans;
-(cid:129) our business and operating strategies and our ability to implement such strategies;
-(cid:129) our ability to control or reduce costs;
-(cid:129) our capability to identify and integrate suitable acquisition targets;
-(cid:129) expected growth of and changes in the EV battery industry;
-(cid:129) our ability to maintain good relationships with relevant governmental authorities;
-(cid:129) our ability to work closely with customers or suppliers;
-(cid:129) our future business development, results of operations and financial condition;
-(cid:129) the future competitive environment for the EV battery industry;
-(cid:129) determination of the fair value of our Shares;
-(cid:129) our dividend policy;
-(cid:129) capital market development;
+ our business and operating strategies and our ability to implement such strategies;
+ our ability to control or reduce costs;
+ our capability to identify and integrate suitable acquisition targets;
+ expected growth of and changes in the EV battery industry;
+ our ability to maintain good relationships with relevant governmental authorities;
+ our ability to work closely with customers or suppliers;
+ our future business development, results of operations and financial condition;
+ the future competitive environment for the EV battery industry;
+ determination of the fair value of our Shares;
+ our dividend policy;
+ capital market development;
 – 68 –
 
 === PAGE 79 ===
 FORWARD-LOOKING STATEMENTS
-(cid:129) exchange rate fluctuations and restrictions; and
-(cid:129) risks identified under “Risk Factors” of this prospectus.
+ exchange rate fluctuations and restrictions; and
+ risks identified under “Risk Factors” of this prospectus.
 This prospectus also contains market data and projections that are based on a number of
 assumptions.The markets may not grow at the rates projected by the market data, or at all.The
 failure of the markets to grow at the projected rates may materially and adversely affect our
@@ -4597,13 +4597,13 @@ control, such as construction progress, local laws and regulations, government s
 customer demand for expanded capacity. Our future operating results depend to a large extent
 on our ability to manage our expansion and growth successfully. Risks that we face in
 undertaking our construction/expanding plan, among others:
-(cid:129) managing our supply chain to support fast business growth;
-(cid:129) managing a continuing growing organization as we expand;
-(cid:129) continuing to improve our operating efficiency;
-(cid:129) controlling expenses and investments in anticipation of expanded operations;
-(cid:129) implementing and enhancing administrative infrastructure, system and processes;
-(cid:129) executing our strategies and business initiative successfully; and
-(cid:129) addressing new markets and potentially unforeseen challenges as they arise.
+ managing our supply chain to support fast business growth;
+ managing a continuing growing organization as we expand;
+ continuing to improve our operating efficiency;
+ controlling expenses and investments in anticipation of expanded operations;
+ implementing and enhancing administrative infrastructure, system and processes;
+ executing our strategies and business initiative successfully; and
+ addressing new markets and potentially unforeseen challenges as they arise.
 If we are unable to manage our growth effectively, we may be unable to take advantage
 of market opportunities, execute our business strategies or respond to competitive pressures
 which could have a material adverse effect on our results of operation and prospects.
@@ -4810,11 +4810,11 @@ urge us to take licenses. Our uses of trademarks relating to our design, softwar
 could be found to infringe upon existing trademark ownership and rights owned by others. In
 addition, if we are found to have infringed upon a third party’s intellectual property rights, we
 may be required to do one or more of the following:
-(cid:129) cease to sell products that are involved in the challenged intellectual property rights
+ cease to sell products that are involved in the challenged intellectual property rights
 owned by others;
-(cid:129) pay damages;
-(cid:129) redesign our products; or
-(cid:129) establish and maintain alternative branding for our products.
+ pay damages;
+ redesign our products; or
+ establish and maintain alternative branding for our products.
 The validity and scope of any potential claims/requests can be complicated and involve
 complex scientific, legal and factual questions and analysis and, therefore, may be highly
 uncertain. The defense and prosecution of intellectual property suits, patent opposition
@@ -5592,11 +5592,11 @@ COVID-19 outbreak has caused disruption to the global economy. The global econom
 continue to deteriorate in the future and continue to have an adverse impact on the PRC’s
 economy. Any significant slowdown in the PRC’s economy could have a material adverse
 effect on our business and operations. In particular:
-(cid:129) duringaperiodofeconomicslowdown,thereisagreaterlikelihoodthatmoreofour
+ duringaperiodofeconomicslowdown,thereisagreaterlikelihoodthatmoreofour
 customers or contractual parties could become delinquent in respect of their
 obligations to us;
-(cid:129) we may not be able to raise additional capital on favorable terms, or at all; or
-(cid:129) trade and capital flows may further contract as a result of protectionist measures
+ we may not be able to raise additional capital on favorable terms, or at all; or
+ trade and capital flows may further contract as a result of protectionist measures
 introduced in certain markets, which could cause a further slowdown in economies
 and materially and adversely affect our business and prospects.
 – 94 –
@@ -6899,7 +6899,7 @@ provided the initial allocation of H Shares under the Hong Kong Public Offering 
 less than 5% of the Global Offering, in the event of over-subscription, the Joint Global
 Coordinators and the Overall Coordinators, after consultation with us, shall apply a clawback
 mechanism following the closing of the application lists on the following basis:
-(cid:129) if the number of the Offer Shares validly applied for under the Hong Kong Public
+ if the number of the Offer Shares validly applied for under the Hong Kong Public
 Offering represents 15 times or more but less than 50 times of the number of the
 Offer Shares initially available for subscription under the Hong Kong Public
 Offering,thenthenumberofOfferSharestobereallocatedtotheHongKongPublic
@@ -6911,7 +6911,7 @@ Offering from the International Offering will be increased, so that the total nu
 of Offer Shares available under the Hong Kong Public Offering will be 19,938,400
 H Shares, representing approximately 7.5% of the Offer Shares initially available
 under the Global Offering;
-(cid:129) if the number of the Offer Shares validly applied for under the Hong Kong Public
+ if the number of the Offer Shares validly applied for under the Hong Kong Public
 Offering represents 50 times or more but less than 100 times of the number of the
 Offer Shares initially available for subscription under the Hong Kong Public
 Offering,thenthenumberofOfferSharestobereallocatedtotheHongKongPublic
@@ -6919,7 +6919,7 @@ Offering from the International Offering will be increased, so that the total nu
 of the Offer Shares available under the Hong Kong Public Offering will be
 26,584,600HShares,representingapproximately10.0%oftheOfferSharesinitially
 available under the Global Offering; and
-(cid:129) if the number of the Offer Shares validly applied for under the Hong Kong Public
+ if the number of the Offer Shares validly applied for under the Hong Kong Public
 Offering represents 100 times or more of the number of the Offer Shares initially
 available for subscription under the Hong Kong Public Offering, then the number of
 Offer Shares to be reallocated to the Hong Kong Public Offering from the
@@ -7123,8 +7123,8 @@ Cathodes Anodes Cells Modules Packs ElectricVehicles
 Electrolytes Separators
 AuxiliaryParts
 ……
-Casings BMS ElectricalParts (cid:129) PassengerVehicles
-ManufacturingEquipment (cid:129) CommercialVehicles
+Casings BMS ElectricalParts PassengerVehicles
+ManufacturingEquipment CommercialVehicles
 ThermalManagementSystems ……
 WasteBatteryrecycling
 Source: Frost & Sullivan
@@ -7386,13 +7386,13 @@ models of leading NEV manufacturers.
 In the EV battery industry, the leading edge in products and technologies is necessary for
 the leading companies. Among the peer comparison, our Company has products with industry
 leading energy density, including:
-(cid:129) the high-voltage ternary system features high energy density, long battery life and
+ the high-voltage ternary system features high energy density, long battery life and
 excellent safety, making it one of the best battery system solutions for passenger
 vehicles and realized mass capacity installation;
-(cid:129) all tab laminated battery has excellent volumetric energy density and outstanding
+ all tab laminated battery has excellent volumetric energy density and outstanding
 fast charging performance. It has been successfully installed by a number of key
 customers in their mainstream new platform models; and
-(cid:129) “One-stop BetteryNote 2” battery with the newly developed minimalist structure,
+ “One-stop BetteryNote 2” battery with the newly developed minimalist structure,
 which has advantages in energy density, safety and economy, making it the focal
 point and also the first of its kind in the industry.
 Cycle life
@@ -12076,15 +12076,15 @@ We are a leading new energy technology company mainly engaged in the design, R&D
 production and sales of EV batteries and ESS products.
 Market Ranking
 In terms of installed capacity:
-(cid:129) we, with a 5.7% market share in 2020, 5.9% market share in 2021 and 8.2% market
+ we, with a 5.7% market share in 2020, 5.9% market share in 2021 and 8.2% market
 share for the three months ended March 31, 2022, ranked fourth and third in 2020;
 and third and second in both 2021 and the three months ended March 31, 2022,
 among EVbattery companies in China and among third-party EVbattery companies
 in ChinaNote 1 & Note 2, respectively;
-(cid:129) we, with a 2.7% market share in 2020, 3.2% market share in 2021 and 4.5% market
+ we, with a 2.7% market share in 2020, 3.2% market share in 2021 and 4.5% market
 share for the three months ended March 31, 2022, ranked seventh, seventh and sixth
 globally among EV battery companies, respectively; and
-(cid:129) we were the only company with over 100% year-on-year growth rate from 2019 to
+ we were the only company with over 100% year-on-year growth rate from 2019 to
 2021 among the top ten EV battery companies in ChinaNote 3 in 2021.
 Competitive Edge and Achievements
 Leading EV battery companies must possess comprehensive strengths in advanced R&D
@@ -12118,13 +12118,13 @@ challenging to new players who plan to enter the market. As one of the few EV ba
 companies with comprehensive independent R&D capabilities and the ability to solely
 complete the production of EV batteries, our innovative capability allowed us to develop a
 series of advance technologies to apply in our first-to-the-market products, including:
-(cid:129) thehigh-voltageternarybattery,whichfeatureshighenergydensity,longbatterylife
+ thehigh-voltageternarybattery,whichfeatureshighenergydensity,longbatterylife
 andexcellentsafety,makingitoneofthebestbatterysystemsolutionsforpassenger
 vehicles with mass capacity installation;
-(cid:129) the “magazine battery”, which is the first of its kind in the industry to prevent fire
+ the “magazine battery”, which is the first of its kind in the industry to prevent fire
 in the nail penetration test of the ternary battery system. Our “magazine battery”
 significantly improves the thermal safety level of the ternary battery system; and
-(cid:129) “One-stop BetteryNote 1” battery with the newly developed minimalist structure,
+ “One-stop BetteryNote 1” battery with the newly developed minimalist structure,
 which has advantages in energy density, safety and economy and was also the first
 of its kind in the industry.
 Our R&D team is composed of over 2,900 R&D personnel with multi-disciplinary and
@@ -12152,7 +12152,7 @@ important for EV battery product to balance high energy density and consistent s
 performance within EV batteries for NEV, and to support long driving range that are similar
 to that of traditional vehicles can do. Our products possess both high energy density and
 consistent safety performance:
-(cid:129) The driving range that a NEV can achieve after fully charged, which is determined
+ The driving range that a NEV can achieve after fully charged, which is determined
 by battery energy density, is one of the key determining factor for purchasing NEV.
 Energy density is a core indicator for measuring EVbattery performance. Generally,
 under the same conditions, the higher the energy density is, the longer the driving
@@ -12175,7 +12175,7 @@ Our battery system provided an energy density of up to 225Wh/kg, well above the
 industry average level. Such EV battery products have been widely recognized by
 leading NEV manufacturers and successfully installed in many best-selling models
 of leading NEV manufacturers.
-(cid:129) Battery safety performance is a priority when evaluating the performance of electric
+ Battery safety performance is a priority when evaluating the performance of electric
 vehicles. Pursuit of higher level of safety has always been the goal of the EVbattery
 industry. Nail penetration test is one of the most rigorous EV battery safety
 performance tests in the industry. Such test requires that the EV battery pack to not
@@ -12198,7 +12198,7 @@ provided by our Company. The “magazine battery” launched by our Company is t
 first of its kind in the industry to prevent fire in the nail penetration test of the
 ternary battery system, which significantly improves the thermal safety level of the
 ternary battery system and realized satisfactory application.
-(cid:129) DuringtheTrackRecordPeriodanduptotheLatestPracticableDate,(i)wehadnot
+ DuringtheTrackRecordPeriodanduptotheLatestPracticableDate,(i)wehadnot
 received any material complaints relating to product quality; and (ii) we had not
 experienced any product recalls or fatal accidents due to product defects. Given our
 product capability, we are able to compete effectively with other industry players.
@@ -12274,15 +12274,15 @@ We are a leading EV battery company
 Our achievements in quality, technology and R&D laid the foundation for our leading
 product capability.
 According to Frost & Sullivan, in terms of installed capacity:
-(cid:129) we, with a 5.7% market share in 2020, 5.9% market share in 2021 and 8.2% market
+ we, with a 5.7% market share in 2020, 5.9% market share in 2021 and 8.2% market
 share for the three months ended March 31, 2022, ranked fourth and third in 2020;
 and third and second in both 2021 and the three months ended March 31, 2022,
 among EVbattery companies in China and among third-party EVbattery companies
 in ChinaNote 1 & Note 2, respectively;
-(cid:129) we, with a 2.7% market share in 2020, 3.2% market share in 2021 and 4.5% market
+ we, with a 2.7% market share in 2020, 3.2% market share in 2021 and 4.5% market
 share for the three months ended March 31, 2022, ranked seventh, seventh and sixth
 globally among EV battery companies, respectively; and
-(cid:129) we were the only company with over 100% year-on-year growth rate from 2019 to
+ we were the only company with over 100% year-on-year growth rate from 2019 to
 2021 among the top ten EV battery companies in ChinaNote 3 in 2021.
 We have established a scaled operation, which in turn, has helped us manage our
 exponential growth in an effective manner. As scaled operation is a key entry barrier for the
@@ -12315,17 +12315,17 @@ We are committed to a product competitiveness-oriented approach, for NEVs and ES
 products while abiding to the efficient use of resources and to support sustainable social
 development. We have products with industry leading energy density and safety features,
 including:
-(cid:129) the high-voltage ternary system, which features high energy density, long battery
+ the high-voltage ternary system, which features high energy density, long battery
 life and excellent safety, making it one of the best battery system solutions for
 passenger vehicles and realized mass capacity installation;
-(cid:129) the “magazine battery”, which is the first of its kind in the industry to prevent fire
+ the “magazine battery”, which is the first of its kind in the industry to prevent fire
 in the nail penetration test of the ternary battery system. Our “magazine battery”
 significantly improves the thermal safety level of the ternary battery system and
 realized satisfactory application;
-(cid:129) all tab laminated battery, which has excellent volumetric energy density and
+ all tab laminated battery, which has excellent volumetric energy density and
 outstanding fast charging performance. It has been successfully installed by a
 number of key customers in their mainstream new platform models; and
-(cid:129) “One-stop Bettery(Note 1)” battery with the newly developed minimalist structure,
+ “One-stop Bettery(Note 1)” battery with the newly developed minimalist structure,
 which has advantages in energy density, safety and economy, making it the focal
 point and also the first of its kind in the industry.
 We are driven by continuous technological innovation.According to Frost & Sullivan, we
@@ -12526,23 +12526,23 @@ increasing R&D investment and maintaining a leading position in advanced chemica
 storage materials, high-performance batteries, smart manufacturing, new-type batteries and
 battery life-cycle management technologies, so as to ensure the competitive advantages of our
 products in various application fields.
-(cid:129) In the field of chemical energy storage materials, we will continue to focus on the
+ In the field of chemical energy storage materials, we will continue to focus on the
 balance between high energy density and resource utilization efficiency, accelerate
 the industrial application of new material technology and increase R&D investment
 in next-generation materials;
-(cid:129) In terms of high-performance battery and system technology, we seek to build a
+ In terms of high-performance battery and system technology, we seek to build a
 comprehensive leadership advantage in the fields of high specific energy, long life,
 high degree of safety, high power and all-climate technology;
-(cid:129) In the field of smart manufacturing technology, we seek to achieve high-efficiency
+ In the field of smart manufacturing technology, we seek to achieve high-efficiency
 manufacturing technology upgrades through battery structure innovation and
 high-integration manufacturing process innovation, and at the same time realizing
 high-reliability and large-scale delivery capabilities that are fully ahead of
 competitors in the same industry through smart technologies for high quality and
 high efficiency production;
-(cid:129) In the field of new batteries, we will continue to increase the R&D investment in
+ In the field of new batteries, we will continue to increase the R&D investment in
 solid-statelithiumbatteriesandlithium-sulfurbatteries,soastobuildaleadingedge
 in next-generation battery technology;
-(cid:129) In terms of battery life-cycle management, with the goal of maximizing the value of
+ In terms of battery life-cycle management, with the goal of maximizing the value of
 battery life cycle, we will continue to invest in the development of smart battery
 management technology, so as to realize a safe, reliable and long-life operation of
 battery. Meanwhile, to achieve a sustainable social value, we will actively explore
@@ -12705,23 +12705,23 @@ party to issue a feasibility study report on the expansion plan only if the inte
 satisfactory conclusion.
 The feasibility study generally includes the key criteria we consider for our investment
 plan:
-(cid:129) Market demand and product outline
-(cid:129) Technology and equipment
-(cid:129) Material supply
-(cid:129) Construction site and natural conditions
-(cid:129) Project design proposal
-(cid:129) Organization, labor quota and personnel training
-(cid:129) Project implementation schedule
-(cid:129) Investment estimation and financing
-(cid:129) Economic analysis
-(cid:129) Risk analysis and preventive measures
+ Market demand and product outline
+ Technology and equipment
+ Material supply
+ Construction site and natural conditions
+ Project design proposal
+ Organization, labor quota and personnel training
+ Project implementation schedule
+ Investment estimation and financing
+ Economic analysis
+ Risk analysis and preventive measures
 – 232 –
 
 === PAGE 243 ===
 BUSINESS
-(cid:129) Environmental protection, occupational safety and health, fire protection, energy
+ Environmental protection, occupational safety and health, fire protection, energy
 conservation
-(cid:129) Analysis of economic and social benefits
+ Analysis of economic and social benefits
 According to the feasibility study report on our new construction/expansion plan issued
 by the qualified third party we engaged, the projects we plan to expand is in a state-supported
 industry in line with national development policies, and can promote economic growth and
@@ -12770,7 +12770,7 @@ investments,collaborationattheproductdevelopmentlevelandjointtechnologicalinnova
 which shall benefit us and our partners and achieve a win-win situation.The projects below are
 representative examples that illustrate our deepening relationship with upstream and
 downstream major partners.
-(cid:129) Investment in and cooperation with upstream companies
+ Investment in and cooperation with upstream companies
 Tianqi Lithium Corporation
 As of the Latest Practicable Date, we participated in the cornerstone placing of H shares
 of Tianqi Lithium Corporation (“Tianqi Lithium”) at a consideration of approximately
@@ -12819,7 +12819,7 @@ of the relevant products under development and Supplier A carry out method desig
 relevant products according to our plan. Through such technical cooperation in the upstream
 field of new energy, we have strengthened our close cooperation with upstream partner and
 become partner in sustainable development.
-(cid:129) Cooperation with downstream companies
+ Cooperation with downstream companies
 Customer X
 Customer X is one of our customers, and we entered into a component procurement
 agreement with Customer X in September 2020 for a term commencing from September 2020
@@ -13088,13 +13088,13 @@ Containerized ESS • Energy
 8,000 times
 In addition to EV batteries and ESS products, we also sell waste materials, degraded
 products, raw materials, slow-moving products, etc.
-(cid:129) Waste materials mainly refers to leftovers generated during our production process.
-(cid:129) Degraded products mainly refer to products that have slight defects in appearance
+ Waste materials mainly refers to leftovers generated during our production process.
+ Degraded products mainly refer to products that have slight defects in appearance
 and whose performance does not meet the normal needs of our customers during the
 production process.
-(cid:129) Slow-moving products mainly refer to some of our products that have been slower
+ Slow-moving products mainly refer to some of our products that have been slower
 to sell due to changes in market demand.
-(cid:129) Raw materials mainly refer to the raw materials required in the production process
+ Raw materials mainly refer to the raw materials required in the production process
 of lithium batteries.
 Note: Cycle life (or life cycle) refers to the number of times (or cycles) that the EV battery can undergo the
 process of complete charging and discharging until the end of its life, and the end life of a EV battery
@@ -13362,21 +13362,21 @@ accelerating our joint development with Customer X on various new models.
 BUSINESS
 The major terms of our joint technology development agreement typically include the
 following:
-(cid:129) Ownershipofintellectualproperty.Anyintellectualproperty(“IP”),includingbut
+ Ownershipofintellectualproperty.Anyintellectualproperty(“IP”),includingbut
 not limited to technological innovations, discoveries, inventions, designs, formula,
 know-how, trade secrets, tests performance data, production methods created from
 the joint development work performed in accordance with the agreement, shall be
 owned by both parties. Neither party shall assign, transfer, pledge, dispose of or
 apply for patent or other protection of such IP without written consent by the other
 party.
-(cid:129) Confidentiality. Any information obtained during joint development shall not be
+ Confidentiality. Any information obtained during joint development shall not be
 disclosed to third party.The confidentiality obligation under the agreement shall not
 be affected by termination or lapse of the agreement.
-(cid:129) Term and termination. The term of the agreement varies from one year to four
+ Term and termination. The term of the agreement varies from one year to four
 years on a case-by-case basis.
-(cid:129) Development progress. Each party shall inform the other one in writing of any
+ Development progress. Each party shall inform the other one in writing of any
 delay or any anticipatory delay in development of the relevant products.
-(cid:129) Sharing of costs. Each party bears its own costs.
+ Sharing of costs. Each party bears its own costs.
 – 251 –
 
 === PAGE 262 ===
@@ -13423,28 +13423,28 @@ utilizationandrecyclingofbatteries testing”phase
 === PAGE 263 ===
 BUSINESS
 Our key R&D programs include the following:
-(cid:129) Energy storage materials
-(cid:129) Continue to focus on the balance between high specific energy and resource
+ Energy storage materials
+ Continue to focus on the balance between high specific energy and resource
 utilization efficiency, accelerate the industrial application of new material
 technology and increase R&D investment in next-generation materials.
-(cid:129) Smart manufacturing technology
-(cid:129) We seek to achieve technology upgrades efficiently through the battery
+ Smart manufacturing technology
+ We seek to achieve technology upgrades efficiently through the battery
 structure innovation and the high-integration manufacturing process
 innovation.
-(cid:129) At the same time, we expect to realize reliable and large-scale delivery
+ At the same time, we expect to realize reliable and large-scale delivery
 capabilities through quality and efficient production supported by smart
 technology.
-(cid:129) High-performance battery and system technology
-(cid:129) We seek to build a competitive advantage in the fields of energy utilization,
+ High-performance battery and system technology
+ We seek to build a competitive advantage in the fields of energy utilization,
 long life cycle, high degree of safety, high power and all-climate technology.
-(cid:129) New batteries
-(cid:129) We will continue to increase the R&D investment in solid-state EV batteries
+ New batteries
+ We will continue to increase the R&D investment in solid-state EV batteries
 and lithium-sulfur batteries, so as to build a leading edge in next-generation
 battery technology.
-(cid:129) Battery life-cycle management
-(cid:129) We will continue to invest in the development of smart battery management
+ Battery life-cycle management
+ We will continue to invest in the development of smart battery management
 technology, so as to realize a safe, reliable and long-life battery operation.
-(cid:129) Meanwhile, to create a sustainable social value, we will actively explore
+ Meanwhile, to create a sustainable social value, we will actively explore
 various recycling technology, promote the closed loop of battery resource
 recycling, and build a green and environmentally friendly battery industry
 ecosystem.
@@ -13632,9 +13632,9 @@ in our production process.
 Battery cell: Battery cell is an important component to provide energy sources for NEVs
 and ESS products. The characteristics of battery cell play a decisive role in the overall
 performance of EV batteries. A lithium-ion battery cell mainly comprises four parts:
-(cid:129) cathode and anode – store the lithium;
-(cid:129) electrolyte – carries lithium-ions between the cathode and anode; and
-(cid:129) separator – a thin plastic filter that physically separates the cathode and anode, only
+ cathode and anode – store the lithium;
+ electrolyte – carries lithium-ions between the cathode and anode; and
+ separator – a thin plastic filter that physically separates the cathode and anode, only
 allowing ions to pass through.
 A battery cell mainly comprises of four parts, i.e. cathode, anode, separator and
 electrolyte. The flowchart and the description below shows the major steps of the production
@@ -13642,16 +13642,16 @@ of battery cells and a general description of the production process.
 Calendering Winding/ Electrolyte
 Mixture Coating Assembling Baking Formation
 /Cutting Stacking injection
-(cid:129) Fully automatic slurry preparation and delivery system mixes cathode and anode
+ Fully automatic slurry preparation and delivery system mixes cathode and anode
 materials, conductive agent and binder to form slurry.
-(cid:129) Coating process uses a double-layer high-speed wide-width coating machine to
+ Coating process uses a double-layer high-speed wide-width coating machine to
 uniformly coat the slurry on the conductive current collector.
-(cid:129) Abare cell is formed by combining the cathode and anode pieces and separators by
+ Abare cell is formed by combining the cathode and anode pieces and separators by
 winding or stacking.
-(cid:129) The tabs on the bare cells are connected with the cover plate by ultrasonic or laser
+ The tabs on the bare cells are connected with the cover plate by ultrasonic or laser
 welding.After the cell is put into the case, the process of sealing, baking, injection
 and formation are carried out to complete the production of the battery cell.
-(cid:129) Batterycellscanbeshippedseparately,ortheycanbeconnectedinseriesorparallel
+ Batterycellscanbeshippedseparately,ortheycanbeconnectedinseriesorparallel
 to form modules.
 – 258 –
 
@@ -13666,14 +13666,14 @@ Side seam Insulation and Busbar All dimension
 Circuit Stacking Offline test
 welding pressure test welding inspection1
 Voltage test
-(cid:129) The battery cells are connected in series or parallel to stack and form a reliable unit,
+ The battery cells are connected in series or parallel to stack and form a reliable unit,
 and a metal casing is added to the outside of the unit.
-(cid:129) Thesplicingofthemetalcasingsadoptsaprecisionlaserweldingprocesstoachieve
+ Thesplicingofthemetalcasingsadoptsaprecisionlaserweldingprocesstoachieve
 a reliable connection between the casings.
-(cid:129) The insulation of metal casing and the battery are tested.
-(cid:129) Thelaserweldingprocessisusedtoweldtheconductivestripsandeachbatterypole
+ The insulation of metal casing and the battery are tested.
+ Thelaserweldingprocessisusedtoweldtheconductivestripsandeachbatterypole
 together, so that each battery cell is connected in series or parallel to output energy.
-(cid:129) Inthefinalstep,werunanonlineautomatictestonthewirebondingquality,module
+ Inthefinalstep,werunanonlineautomatictestonthewirebondingquality,module
 size, module electrical performance and appearance quality.
 Battery modules can be directly delivered and can be assembled into battery packs for
 delivery.
@@ -13685,19 +13685,19 @@ Assembly of high Liquid cooling and
 Liquid cooling and low voltage Gluing Modules End-of-line air tightness test System test
 air tightness test into cases test
 components of the whole packs
-(cid:129) In the metal case, a layer of thermally conductive adhesive is evenly coated,
+ In the metal case, a layer of thermally conductive adhesive is evenly coated,
 following which a certain number of batteries are assembled into the metal case and
 fastened.
-(cid:129) The modules, battery disconnect units, battery management system and other
+ The modules, battery disconnect units, battery management system and other
 components are connected through the low-voltage wiring harness to form a
 complete power system, then each functional component is tested for its reliability.
-(cid:129) The case cover and the case body are tightened and sealed for testing the air
+ The case cover and the case body are tightened and sealed for testing the air
 tightness of the whole pack.
 – 259 –
 
 === PAGE 270 ===
 BUSINESS
-(cid:129) The last step is to perform a complete system dynamic test to test the electrical
+ The last step is to perform a complete system dynamic test to test the electrical
 performance of the relevant system.
 The battery pack, as the highest level of the power unit, can be directly delivered and
 assembled into the vehicle.
@@ -13854,31 +13854,31 @@ BUSINESS
 With our profound technical capability, we actively participated in the formulation of
 industry standards, implement the national enterprise standard “Front-runner” system, and
 strive to be the “Leader” of the “Front-runner” system. Our key achievements include:
-(cid:129) Jointly with ChinaAutomotive Engineering Research Institute Co., Ltd. drafted the
+ Jointly with ChinaAutomotive Engineering Research Institute Co., Ltd. drafted the
 “Front-runner Standard Evaluation Requirements” in the field of EV batteries, as an
 important standard for the industry’s recognized “Front-runner”.
-(cid:129) Cooperated with the China Automobile Center (the Secretariat of the National
+ Cooperated with the China Automobile Center (the Secretariat of the National
 Automotive Standardization Technical Committee) to actively promote the
 formulation of objectives of the National Industrial standard.
-(cid:129) Amendment to GB/T 31467 “Li-ion EV Battery Packs for Electric Vehicles and
+ Amendment to GB/T 31467 “Li-ion EV Battery Packs for Electric Vehicles and
 System Electrical Performance Test Methods” and GB/T 31486 “Electric
 Performance Requirements andTest Methods of EVBatteries for ElectricVehicles”.
-(cid:129) Participated in the compilation of two industry standards for key components of EV
+ Participated in the compilation of two industry standards for key components of EV
 battery systems-thermal management systems: QC/T “Electric Vehicle EV Battery
 Thermal Management System Part 1: General Requirements” and QC/T “Electric
 Vehicles EV Battery Thermal Management System Part 2: Liquid Cooling System”.
-(cid:129) Cooperated with the ChinaAutomotive EngineeringAssociation (CSAE) to lead the
+ Cooperated with the ChinaAutomotive EngineeringAssociation (CSAE) to lead the
 drafting of T/CSAE “Guidelines for Life Evaluation of Electric Vehicle EV
 Batteries” and T/CSAE “Technical Conditions for Decommissioning of Electric
 Vehicle EV Batteries”, and proposed opinions in relation to static pressure
 difference of retired batteries.
 At the same time, we have obtained various certifications including:
-(cid:129) The IATF16949 certification.
-(cid:129) ISO9001 certified by the China Quality Association.
-(cid:129) Audit certification (VDA standard, ASES standard, QIP standard) designated by
+ The IATF16949 certification.
+ ISO9001 certified by the China Quality Association.
+ Audit certification (VDA standard, ASES standard, QIP standard) designated by
 various international vehicle customers.
-(cid:129) Our after-sales management system has passed the GB/T 27922:2011 certification.
-(cid:129) Our testing laboratory has been accredited by the China National Accreditation
+ Our after-sales management system has passed the GB/T 27922:2011 certification.
+ Our testing laboratory has been accredited by the China National Accreditation
 Service for Conformity Assessment CNAS (ISO/IEC17025), and is also an
 authorized laboratory of TÜV and SGS.
 – 264 –
@@ -13886,10 +13886,10 @@ authorized laboratory of TÜV and SGS.
 === PAGE 275 ===
 BUSINESS
 Our products have also obtained:
-(cid:129) China’s mandatory inspection certification (GB 38031, GB 38032, GB/T 31484,
+ China’s mandatory inspection certification (GB 38031, GB 38032, GB/T 31484,
 GB/T 31486), energy storage type inspection, mining certification, classification
 society certification;
-(cid:129) International certification: UN certification, ROHS certification, hazardous
+ International certification: UN certification, ROHS certification, hazardous
 characteristics classification certification, cargo transportation appraisal report (sea,
 land, air); EU TÜV certification, battery directive, REACH certification; North
 America UL certification; India BIS certification.
@@ -14017,18 +14017,18 @@ We generally enter into the following agreements with our supplier, including, t
 procurement framework agreement, the strategic cooperation agreement and purchase order.
 The major contract terms of procurement framework agreements we enter into with our
 suppliers generally include the following:
-(cid:129) Validity period: Generally three years.
-(cid:129) Purchase order – We shall notify the suppliers of the type, specification, unit price,
+ Validity period: Generally three years.
+ Purchase order – We shall notify the suppliers of the type, specification, unit price,
 quantity and date of delivery of the raw materials we need in writing.
-(cid:129) Price – Prices will be determined and set out in each purchase order.
-(cid:129) Inspection and product returns – Product inspection shall take place within a
+ Price – Prices will be determined and set out in each purchase order.
+ Inspection and product returns – Product inspection shall take place within a
 specified period after delivery of the raw materials to us. We shall be entitled to
 returntothesuppliersthedefectiverawmaterialsthatdonotmeettheagreedquality
 standard, and the suppliers shall remedy the same, including product return and
 replacement.
-(cid:129) Credit terms and payment method – The credit period and payment method shall be
+ Credit terms and payment method – The credit period and payment method shall be
 in accordance with the purchase order.
-(cid:129) Intellectual property rights – matters in relation to the intellectual property rights
+ Intellectual property rights – matters in relation to the intellectual property rights
 that should be complied with during the performance of the agreement, and
 guaranteefromoursuppliersthattheproductssupplieddonotinfringetherightsand
 interests of any third party.
@@ -14393,7 +14393,7 @@ marketing,weundertakevarioustargetedmarketingactivitiestoenhancethemarketawarene
 of our products and our brand recognition. Our typical marketing activities includes the
 following.
 Self-Promotion Exhibition and Forums Joint Promotion with Customers
-• We initiate and hold various (cid:129) We also participate in (cid:129) We cooperate with key
+• We initiate and hold various We also participate in We cooperate with key
 conferences including global industry-related exhibitions customers to carry out special
 partner conferences, strategy and forums to promote our promotion campaigns for
 release conferences, new products to parties in the relevant products and/or
@@ -14403,7 +14403,7 @@ plan to customers, suppliers, for the delivery of keynote promote our prismatic 
 media and other relevant speeches at the relevant to exhibit the high safety
 parties. conferences. features through nail
 penetration experiment.
-(cid:129) We also apply online marketing
+ We also apply online marketing
 channels to promote our brand
 awareness and increase market
 attention.
@@ -15054,7 +15054,7 @@ policy relating to driving range between 2018 and 2019 is compared as below tabl
 
 === PAGE 303 ===
 BUSINESS
-150(cid:2)R<200 200(cid:2)R<250 250(cid:2)R<300 300(cid:2)R<400 R(cid:3)400
+150 R<200 200 R<250 250 R<300 300 R<400 R 400
 Subsidy policy of 2018 (RMB) 15,000 24,000 34,000 45,000 50,000
 Subsidy policy of 2019 (RMB) – – 18,000 18,000 25,000
 Note: R refers to the driving range of NEVs in terms of km.
@@ -15351,25 +15351,25 @@ We enter into long-term sales agreement, sales agreement or online purchase orde
 our customers.
 Our sales agreements with customers contain similar terms, although the specific content
 varies, it usually includes the following key terms:
-(cid:129) Duration. Generally one year.
-(cid:129) Inspection. Since our business also involves the development of products and
+ Duration. Generally one year.
+ Inspection. Since our business also involves the development of products and
 technologies for customers, we usually set relevant technical standard clauses in the
 sales contract. According to such clauses, we officially produce and sell our
 products after the customer checks and confirms that the product development
 technology is satisfactory.
-(cid:129) Price. We specify the price of each product and service provided to customers in the
+ Price. We specify the price of each product and service provided to customers in the
 framework sales contract, including product price, development cost, trial
 production cost, test cost, production line construction cost, etc..
-(cid:129) Joint development. For customers that we provide product development and
+ Joint development. For customers that we provide product development and
 customization services, we assign from time to time a number of researchers with
 qualifications that meet the customer’s requirements to the work location designated
 by the customer to jointly engage in product development at the research stage. Our
 researchers should strictly abide by the confidentiality obligations stipulated by
 customers.
-(cid:129) Confidentiality. We usually set confidentiality clauses in the framework sales
+ Confidentiality. We usually set confidentiality clauses in the framework sales
 contracts with customers, and the period of confidentiality obligations may be
 extended to five years after the expiration of the sales contract.
-(cid:129) Ownership of intellectual property rights. We usually require matters related to
+ Ownership of intellectual property rights. We usually require matters related to
 the ownership of intellectual property rights. Generally, the new intellectual
 property rights and related rights and interests completed independently by the each
 of the two parties belong to themselves respectively. All new intellectual property
@@ -15380,18 +15380,18 @@ parties. Neither party shall apply for patents or other intellectual property pr
 for jointly owned intellectual property and related interests without the written
 consent of the other party. Benefits derived from jointly owned intellectual property
 rights shall be shared between the parties.
-(cid:129) Payment term. Due to different payment practices in different sales areas and
+ Payment term. Due to different payment practices in different sales areas and
 differentcollectionmethodsfordifferentcustomersofourCompany,ourcustomers’
 payment terms vary in the sales agreements, but typically lasts for 30-90 days.
 – 300 –
 
 === PAGE 311 ===
 BUSINESS
-(cid:129) Delivery term. We are usually responsible for delivering the goods to the domestic
+ Delivery term. We are usually responsible for delivering the goods to the domestic
 delivery location designated by the customers, and bear the risks in the delivery
 process. The fee of overseas transportation depends on the specified time and the
 destination country.
-(cid:129) Warranty deposit/Warranty. Certain sales agreements provide that a small
+ Warranty deposit/Warranty. Certain sales agreements provide that a small
 percentage of the purchase price may be withheld by our customers as warranty
 deposit and released after an agreed period of time. We usually provide our NEV
 customers with a warranty period of no less than 8 years or no less than 120,000
@@ -15517,11 +15517,11 @@ use an industry-leading three-dimensional warehouse
 in the logistics field for fire protection, effectively
 guaranteeing the storage safety of our products. We
 have achieved:
-(cid:129) efficient coordination among warehousing,
+ efficient coordination among warehousing,
 delivery and production requirements;
-(cid:129) a high degree of automation in the entire
+ a high degree of automation in the entire
 logistics process;
-(cid:129) smart monitoring and controlling of the quality
+ smart monitoring and controlling of the quality
 status, storage environment, precise traceability
 and operation process of materials and finished
 products.
@@ -16146,7 +16146,7 @@ BUSINESS
 Metrics and Targets on Environmental, Social and Climate-related Risks
 In order to better assess and manage our environmental, social and climate risks, we have
 set the following emission targets:
-(cid:129) Greenhouse gas emission reduction target: From 2022 until the end of 2025, we
+ Greenhouse gas emission reduction target: From 2022 until the end of 2025, we
 strive to reduce greenhouse gas emissions per unit of product by 5% per annum; our
 long-termgoalistoachievecarbon-neutralby2050.Inaddition,ourgreenhousegas
 emissions per unit of product in 2021 decreased by 4.4% compared with 2020.
@@ -16159,7 +16159,7 @@ gas emissions (CO ). Our greenhouse gas emission level per unit product was
 2
 emission target to 20.0gCO /Wh in 2025.
 2
-(cid:129) Energy consumption reduction target: By 2025, we strive to reduce comprehensive
+ Energy consumption reduction target: By 2025, we strive to reduce comprehensive
 energy consumption per unit product by 5% per annum compared to the previous
 year. In addition, our 2021 comprehensive energy consumption per unit of product
 decreased by 9% compared with 2020.
@@ -16169,7 +16169,7 @@ consumption, 51.0 thousand liters of diesel consumption and 1,104.7 thousand ton
 of water consumption. Our energy consumption per unit product is 6.9 Kilogram of
 Coal Equivalent/kWh in 2021, and we plan to further decrease our energy
 consumption reduction target to 4.6 Kilogram of Coal Equivalent/kWh in 2025.
-(cid:129) Waste treatment target: To achieve green packaging, we strive to reach the target of
+ Waste treatment target: To achieve green packaging, we strive to reach the target of
 100%recyclabilityproductpackaging;westrivetoincreasetherecyclablerateofall
 general industrial waste to more than 80% in 2022, and increase year over year. In
 addition, our industrial solid waste recyclability rates in 2021 and 2020 were 77%
@@ -16177,7 +16177,7 @@ and 69%, respectively.
 For the year ended December 31, 2021, we disposed 7,712.0 tons of general waste
 discharge and 825.7 tons of hazardous waste discharge. We plan to increase our
 waste recycling rate from 77% in 2021 to 90% in 2025.
-(cid:129) Wastewaterandexhaustgasreductionemissiontargets:Wededicatetoachievingthe
+ Wastewaterandexhaustgasreductionemissiontargets:Wededicatetoachievingthe
 discharge of waste water and exhaust gas in fully compliance with the applicable
 standards.Ouremissionconcentrationin2021wasfarbelowtheapplicablestandard
 value; meanwhile, our noise pollution at the boundary of the factory were
@@ -16259,27 +16259,27 @@ eliminate pollutant emissions, releases, and waste generation at source, such as
 pollution control equipment, improving production, maintenance and facility processes, or
 taking other measures. Our key governance measures for our key environment-related risks are
 as follows:
-(cid:129) Hazardous substances: we identify, and control hazardous chemicals and other
+ Hazardous substances: we identify, and control hazardous chemicals and other
 substances released into the environment to ensure that these substances are
 handled, transported, stored, used, recycled or reused and disposed of in a safe
 manner.
-(cid:129) Solid waste: we use a systematic approach to identify, manage, reduce, legally
+ Solid waste: we use a systematic approach to identify, manage, reduce, legally
 dispose of or recycle solid waste (non-hazardous waste).
 – 322 –
 
 === PAGE 333 ===
 BUSINESS
-(cid:129) Exhaust emissions: volatile organic chemicals, sprays, corrosive substances,
+ Exhaust emissions: volatile organic chemicals, sprays, corrosive substances,
 suspended particles, ozone-depleting substances and combustion by-products
 arising from our operation shall be classified, routinely monitored, controlled and
 disposed of as required before being discharged. Ozone-depleting substances shall
 be effectively managed in accordance with the Montreal Protocol and applicable
 regulations. Operation of air emission control system shall be monitored in a regular
 way.
-(cid:129) Restricted substances: we comply with relevant laws, regulations and customer
+ Restricted substances: we comply with relevant laws, regulations and customer
 requirementsregardingtheprohibitionorrestrictionofcertainsubstances(including
 recycling and disposal signs) in our products and during the manufacturing process.
-(cid:129) Wastewater treatment: we comply with the wastewater discharge requirements
+ Wastewater treatment: we comply with the wastewater discharge requirements
 imposedbylawsandregulationssuchas“TaihuBasinManagementRegulation”and
 “Pollutant Discharge Standards for Battery Industry”. We implement water
 resourcesmanagementprogramstorecord,classifyandmonitorwaterresourcesand
@@ -16288,7 +16288,7 @@ pollutionchannels.Allwastewaterisrequiredtobeclassified,monitored,controlled
 and disposed of prior to discharge or disposal. Operation of wastewater treatment
 and control systems are monitored regularly to ensure optimum performance and
 compliance.
-(cid:129) Air pollution: we shall set greenhouse gas reduction targets. We shall track, record
+ Air pollution: we shall set greenhouse gas reduction targets. We shall track, record
 and publicly report energy consumption and all relevant Category 1 and Category 2
 GHG emissions based on our GHG reduction targets. We explore and develop
 cost-effective ways to improve energy efficiency and minimize energy consumption
@@ -16315,15 +16315,15 @@ emergency disposal can be carried out in case of emergencies.
 BUSINESS
 Emission/Discharge Targets
 Our emission/discharge targets include:
-(cid:129) Greenhouse gas emission reduction target: to reduce the greenhouse gas emission
+ Greenhouse gas emission reduction target: to reduce the greenhouse gas emission
 per unit product annually and to achieve carbon neutrality target by 2050.
-(cid:129) Waste treatment target: disposal of hazardous waste completely compliant with laws
+ Waste treatment target: disposal of hazardous waste completely compliant with laws
 and regulations.
-(cid:129) Wastewater discharge target: zero discharge of wastewater.
-(cid:129) Exhaust gas emission target: exhaust gas emissions meeting the standards.
-(cid:129) Noise emission target: noise at the factory meeting the standards with zero noise
+ Wastewater discharge target: zero discharge of wastewater.
+ Exhaust gas emission target: exhaust gas emissions meeting the standards.
+ Noise emission target: noise at the factory meeting the standards with zero noise
 pollution.
-(cid:129) Chemical leakage control target: zero chemical leakage accident.
+ Chemical leakage control target: zero chemical leakage accident.
 Carbon emission management
 Energy saving and consumption reduction
 We actively improve our technology to reduce energy consumption in the production
@@ -16364,16 +16364,16 @@ for Responsible Mineral Supply Chains” and incorporate it into our management 
 chain. We have implemented “Codes of Responsible Minerals Procurement” internal control
 code to ensure that we strictly follow such policy. Set forth below are some examples of our
 internal policies:
-(cid:129) Our suppliers should formulate policies to reasonably ensure that the cobalt,
+ Our suppliers should formulate policies to reasonably ensure that the cobalt,
 tantalum, tin, gold, and tungsten contained in their manufactured products do not
 directly or indirectly fund armed groups in the Democratic Republic of Congo or
 neighboring countries/regions that commit serious human rights abuses.
-(cid:129) We will neither tolerate nor profit from, contribute to, assist or facilitate the
+ We will neither tolerate nor profit from, contribute to, assist or facilitate the
 commission of human rights violations and abuse.
-(cid:129) We will not tolerate any direct or indirect support to non-state armed groups through
+ We will not tolerate any direct or indirect support to non-state armed groups through
 the extraction, transport, trade, handling or export of minerals.
-(cid:129) We strictly prohibit child and forced or compulsory labour.
-(cid:129) Our suppliers shall not purchase conflict minerals. The same prohibition extends to
+ We strictly prohibit child and forced or compulsory labour.
+ Our suppliers shall not purchase conflict minerals. The same prohibition extends to
 their downstream suppliers, whom will be investigated by these suppliers.
 – 325 –
 
@@ -16511,10 +16511,10 @@ Company until of our disposal of it in November 2021) without our Company.
 V and/or Patent VI as specified in the Claims.
 Claims
 CATL made similar claims in each of the Claims, asking the Courts to require us to:
-(cid:129) immediately stop infringing the relevant patents, including, without limitation, to
+ immediately stop infringing the relevant patents, including, without limitation, to
 cease manufacturing, selling or offering to sell concerned products that apply the
 aforementioned patents.
-(cid:129) pay in aggregate amount of RMB615 millionNote 1 (including royalties payable
+ pay in aggregate amount of RMB615 millionNote 1 (including royalties payable
 during the temporary protection period for invention patents) to compensate CATL
 for its economic losses arising from such alleged infringements.
 Notes 1 & 2: The contingent compensation of RMB615 million and the expenses of RMB3.2 million do not
@@ -16539,7 +16539,7 @@ Company will bear its respective portion of compensation as determined by the Co
 
 === PAGE 340 ===
 BUSINESS
-(cid:129) bear the expenses of RMB3.2 millionNote 2, which CATLclaims to have incurred for
+ bear the expenses of RMB3.2 millionNote 2, which CATLclaims to have incurred for
 trying to stop such alleged infringements.
 The amount of RMB615 million claimed by CATL against our Group, which is CATL’s
 estimated loss of economic benefits, represents neither the fair value of the alleged patents in
@@ -16554,7 +16554,7 @@ Company to act for it in the Claims and has not participated in the process of t
 Therefore, Haiwen would not be able to assume any responsibility with respect to the progress
 oftheClaimsoritsultimateresult.SetoutbelowistheanalysisandviewsofV&TandHaiwen
 in respect of each of the concerned Patents:
-(cid:129) Patent I
+ Patent I
 a. Background
 Patent I relates to battery cathode piece technology. The pleadings from CATL
 alleged that Patent I is adopted in one type of our battery products (the “Concerned
@@ -16604,7 +16604,7 @@ c. Impact on the Concerned Product related to Patent I
 According to the aforementioned views of V&T and Haiwen, the likelihood that our
 Group is required to cease the manufacturing of the Concerned Product related to Patent I
 is low.
-(cid:129) Patent II
+ Patent II
 a. Background
 Patent II relates to an air tightness detection structure of explosion-proof device
 arranged on the cover of the battery. The pleadings from CATL alleged that Patent II is
@@ -16706,7 +16706,7 @@ Concerned Products related to Patent II. Hence, our Group has not ceased the pro
 and sales of the type of Concerned Products related to Patent II during the Track Record
 Period and up to the Latest Practicable Date, and has never experienced any interruption
 in relation to sales of Concerned Products related to Patent II as a result of the Claim.
-(cid:129) Patent III
+ Patent III
 a. Background
 Patent III relates to retaining structure that remains fixed when the connector of
 battery current collector is bending. The pleadings from CATL alleged that Patent III is
@@ -16776,7 +16776,7 @@ in relation to sales of Concerned Product related to Patent III as a result of t
 
 === PAGE 346 ===
 BUSINESS
-(cid:129) Patent IV
+ Patent IV
 a. Background
 Patent IV relates to battery negative pole piece technology. The pleadings from
 CATL alleged that Patent IV is adopted in one type of our battery products (the
@@ -16820,7 +16820,7 @@ c. Impact on the Concerned Product related to Patent IV
 According to the aforementioned views of V&T and Haiwen, the likelihood that our
 Group is required to cease the manufacturing of the Concerned Product related to Patent
 IV is low.
-(cid:129) Patent V
+ Patent V
 a. Background
 Patent V relates to the structure of the turnover sheet on the battery cover plate. The
 pleadings from CATLalleged that Patent V is adopted in one type of our battery products
@@ -16895,7 +16895,7 @@ impact on the Concerned Product related to Patent V.
 
 === PAGE 349 ===
 BUSINESS
-(cid:129) Patent VI
+ Patent VI
 a. Background
 Patent VI relates to an EV battery package assembly. The pleadings from CATL
 alleged that our Company and Luoyang Company adopted Patent VI in two types of
@@ -17150,7 +17150,7 @@ structure of EV batteries and EV batteries with such structure* (動力電池蓋
 電池)” (the “Utility Model Patent V”).
 In preparation of our Listing, we engaged V&T as our special IP counsel. Set out below
 is the analysis and views of V&T in respect of each of the Patent Invalidation Applications:
-(cid:129) Invention Patent I
+ Invention Patent I
 The grant of Invention Patent I as an invention patent is subject to substantive
 examinationbyCNIPA,whichhasconfirmedthenoveltyandinventivenessofInventionPatent
 I in compliance with the relevant provisions of the Patent Law of the PRC.
@@ -17168,7 +17168,7 @@ May 5, 2022, we received the notice for withdrawal of Patent InvalidationApplica
 Invention Patent I. Subsequently on June 20, 2022, we received notice of a new Patent
 InvalidationApplication against Invention Patent I, to which we are in the process of preparing
 the response.
-(cid:129) Utility Model Patents II, III, IV and V
+ Utility Model Patents II, III, IV and V
 After verification of the evidence in relation to Utility Model Patents II, III, IV and V
 (collectively referred to as “Utility Model Patents”) submitted by the invalidation applicant,
 V&T is of the view that the scope of protection of Utility Model Patents are clear and
@@ -17547,22 +17547,22 @@ and ESS products upon its disposal by our Company. Please see the section headed
 transactions” in this prospectus for further details in relation to the entrusted processing
 services arrangement. The retained businesses of Luoyang Company upon and subsequent to
 the Listing (the “Retained Businesses”) include:
-(cid:129) R&D, manufacturing and sales of EV batteries for military industrial use;
-(cid:129) provision of entrusted processing services of EV battery products for civil use and
+ R&D, manufacturing and sales of EV batteries for military industrial use;
+ provision of entrusted processing services of EV battery products for civil use and
 ESS products to our Group; and
-(cid:129) with our expressed consent, R&D, manufacturing and sales of EV battery products
+ with our expressed consent, R&D, manufacturing and sales of EV battery products
 for civil use and ESS products.
 Please see “Financial Information” of this prospectus for details of the financial results
 of Luoyang Company during the Track Record Period.
 With regard to the Retained Businesses, Luoyang Company undertakes to our Company
 (for ourself and as trustee for the benefit of each member of our Group) the following:
-(cid:129) in respect of the entrusted processing business of EV battery and ESS products of
+ in respect of the entrusted processing business of EV battery and ESS products of
 Luoyang Company, Luoyang Company shall not engage in production, R&D and
 sales of EV battery products for civil use and ESS products, unless our demands
 have been satisfied and our expressed consent has been obtained;
-(cid:129) it shall comply with the obligations under the entrusted processing framework
+ it shall comply with the obligations under the entrusted processing framework
 agreement entered into by it with our Company dated December 31, 2021; and
-(cid:129) it shall only use the patents jointly owned by it and our Company and our
+ it shall only use the patents jointly owned by it and our Company and our
 subsidiaries in the Retained Businesses, and unless prior written consent having
 been obtained from our Company, it shall not authorize or permit any third party to
 use such patents.
@@ -17625,35 +17625,35 @@ and their respective close associates:
 Member of
 our Board or Role(s) in Role(s) in Jintan Group and their
 senior management our Group respective close associates
-Mr. Zhou Sheng Non-executive (cid:129) Executive director and legal
+Mr. Zhou Sheng Non-executive Executive director and legal
 Director representative of Jinsha Investment
-(cid:129) Chairman of the board of directors
+ Chairman of the board of directors
 and legal representative of Jintan
 Hualuogeng
-(cid:129) Executive director and legal
+ Executive director and legal
 representative of Huake Investment
-(cid:129) Executive director and legal
+ Executive director and legal
 representative of Changzhou Huakeyi
 Technology Investment Co., Ltd.*
 (常州華科易科技投資有限公司)
-(cid:129) General manager, executive director
+ General manager, executive director
 and legal representative of Changzhou
 Huakerui Technology Investment
 Co., Ltd.* (常州華科瑞科技投資有限
 公司)
-(cid:129) Executive director at Changzhou
+ Executive director at Changzhou
 Huake Venture Capital Co., Ltd.* (常
 州華科創業投資有限公司)
-(cid:129) Supervisor at Changzhou ECTEK
+ Supervisor at Changzhou ECTEK
 Automotive Electronic Systems Co.,
 Ltd.* (常州易控汽車電子股份有限公
 司), a company listed on National
 Equities Exchange and Quotations (全
 國中小企業股份轉讓系統) (stock code:
 870930.OC)
-(cid:129) Executive director and legal
+ Executive director and legal
 representative of Huake Engineering
-(cid:129) Executive director and legal
+ Executive director and legal
 representative of Changzhou Jinsha
 Capital Management Co., Ltd.*
 (常州金沙資金管理有限公司)
@@ -17664,36 +17664,36 @@ RELATIONSHIP WITH JINTAN GROUP
 Member of
 our Board or Role(s) in Role(s) in Jintan Group and their
 senior management our Group respective close associates
-(cid:129) Director of Jiangsu Chengdong
+ Director of Jiangsu Chengdong
 Construction Projects Co., Ltd.*
 (江蘇城東建設工程有限公司)
-(cid:129) Executive Director and legal
+ Executive Director and legal
 representative of Jiangsu Jiangnan
 Clean Energy Research Institute Co.,
 Ltd.* (江蘇江南清潔能源研究院有限公
 司)
-(cid:129) Executive Director and legal
+ Executive Director and legal
 representative of Changzhou Huake
 Zhuolin Industrial Investment Co.,
 Ltd.* (常州華科卓林實業投資有限公
 司)
-(cid:129) General manager, executive director
+ General manager, executive director
 and legal representative of Changzhou
 Huakewo Industrial Investment Co.,
 Ltd.* (常州華科沃實業投資有限公司)
-Mr. Zhang Guoqing Non-executive (cid:129) Executive director and legal
+Mr. Zhang Guoqing Non-executive Executive director and legal
 Director representative of Changzhou Changjin
 Technology Investment Co., Ltd.*
 (常州常金科技投資有限公司)
-(cid:129) Executive director and legal
+ Executive director and legal
 representative of Changzhou
 Zhongcheng Industrial Co., Ltd.*
 (常州眾成實業發展有限公司)
-(cid:129) Executive Director and legal
+ Executive Director and legal
 representative of Jiangsu Jintan
 Financial Guarantee Co., Ltd.*
 (江蘇金壇融資擔保有限公司)
-(cid:129) Director of Jintan Hualuogeng
+ Director of Jintan Hualuogeng
 Ournon-executiveDirectors,Mr.ZhouShengandMr.ZhangGuoqing(the“Overlapping
 Directors”) serve as the members of the Board and participate in decision making of
 significant matters such as formulation of our general overall development strategies and
@@ -17720,13 +17720,13 @@ conflict of interest involving Jintan Group. In the event of any conflict of int
 believe we have sufficient and effective control measures to enable our Directors and senior
 management of our Company to discharge their duties independently and protect the interests
 of our Shareholders as a whole on the following grounds:
-(cid:129) Jintan Group has entered into the Non-Competition Agreement, pursuant to which
+ Jintan Group has entered into the Non-Competition Agreement, pursuant to which
 each member of Jintan Group agrees not to compete, either directly or indirectly,
 with us and will notify us of any new business opportunities. The independent
 non-executive Directors will decide whether to take up or bid for the new business
 opportunities according to the relevant provisions of the Non-Competition
 Agreement.
-(cid:129) The decision-making mechanism of our Board set out in theArticles ofAssociation
+ The decision-making mechanism of our Board set out in theArticles ofAssociation
 already includes relevant provisions to avoid conflict of interest, including but not
 limited to, for example, in the event that conflict of interest arises and resolutions
 havebeenproposedforconsiderationanddiscussioninrelationtoatransactionwith
@@ -17734,7 +17734,7 @@ Jintan Group, our Directors connected to Jintan Group shall abstain from voting 
 shall not be counted in the quorum. Those resolutions are subject to the approval of
 more than half of our Directors attending the meeting who are independent in
 respect of the matter they are voting for.
-(cid:129) The two Directors who hold positions in Jintan Group or their respective associates
+ The two Directors who hold positions in Jintan Group or their respective associates
 are non-executive Directors, who, as the members of our Board, are responsible for
 making important decisions in respect of our general overall development strategies
 and corporate operation strategies but do not take part in the daily management of
@@ -17746,21 +17746,21 @@ employees, are responsible for the daily management of our Company.
 
 === PAGE 370 ===
 RELATIONSHIP WITH JINTAN GROUP
-(cid:129) Neither our Directors or members of the senior management of our Company have
+ Neither our Directors or members of the senior management of our Company have
 any equity interests in Jintan Group or their respective associates, nor, save as the
 Overlapping Directors, have any of them received any remuneration, benefit and
 bonus from Jintan Group.
-(cid:129) Each of our Directors is aware of his/her fiduciary duties, which require, among
+ Each of our Directors is aware of his/her fiduciary duties, which require, among
 others, that he/she acts for the benefit and in the best interests of our Company and
 does not allow conflict between his/her duties as a Director and his personal
 interests.
-(cid:129) We have three independent non-executive Directors who have extensive experience
+ We have three independent non-executive Directors who have extensive experience
 in different professions. They have been appointed pursuant to the requirements
 under the Listing Rules to ensure that the decisions of the Board are made only after
 due consideration of independent and impartial opinions. Our Directors believe that
 thepresenceofourindependentnon-executiveDirectorsfromdifferentbackgrounds
 provides a balance of views and opinions.
-(cid:129) We have adopted a series of corporate governance measures to manage conflicts of
+ We have adopted a series of corporate governance measures to manage conflicts of
 interest, if any, between our Group and Jintan Group which would support our
 independent management. Please see “Corporate governance measures” in this
 section for further details.
@@ -17844,19 +17844,19 @@ of each member of our Group) that it shall refer to and procure its close associ
 investment or business opportunity related to Restricted Business (“New Business
 Opportunities” and each, a “New Business Opportunity”) to our Company in the following
 manner:
-(cid:129) As soon as it becomes aware of any New Business Opportunity, gives written notice
+ As soon as it becomes aware of any New Business Opportunity, gives written notice
 (the“OfferNotice”)tousidentifyingthetargetcompany(ifrelevant)andthenature
 of the New Business Opportunity, detailing all information available to it for our
 Company to consider whether to pursue such New Business Opportunity (including
 details of any investment or acquisition costs and the contact details of the third
 parties offering, proposing or presenting the New Business Opportunity).
-(cid:129) Our Company shall, as soon as practicable and in any case within 30 business days
+ Our Company shall, as soon as practicable and in any case within 30 business days
 from the receipt of the Offer Notice (the “Offer Notice Period”) notify the relevant
 Covenantor in writing of any decision taken to pursue or decline the New Business
 Opportunity. During the Offer Notice Period, our Company may negotiate with the
 third party and the relevant Covenantor shall use its best endeavors to assist us in
 obtaining such New Business Opportunity on the same or more favorable terms.
-(cid:129) As confirmed by the respective Covenantors, our Company is required to seek
+ As confirmed by the respective Covenantors, our Company is required to seek
 approvalfromourDirectorswhodonothaveamaterialinterestintheNewBusiness
 Opportunities and the resolution need to be passed by more than half of the voting
 rights held by such Directors as to whether to pursue or decline the New Business
@@ -17869,9 +17869,9 @@ of the transaction in the subject matter of such New Business Opportunity.
 
 === PAGE 373 ===
 RELATIONSHIP WITH JINTAN GROUP
-(cid:129) The relevant Covenantor may, at its absolute discretion, consider extending the
+ The relevant Covenantor may, at its absolute discretion, consider extending the
 Offer Notice Period as appropriate.
-(cid:129) The relevant Covenantor is entitled but not obliged to carry on, engage, invest,
+ The relevant Covenantor is entitled but not obliged to carry on, engage, invest,
 participate or be interested (economically or otherwise) in the New Business
 Opportunity (whether individually or jointly with another person and whether
 directly or indirectly or on behalf of or to assist any other person) on the same, or
@@ -17883,7 +17883,7 @@ Opportunity; or
 decline the New Business Opportunity within 30 business days from our
 receipt of the Offer Notice, or any extended Offer Notice Period, in which case
 our Company shall be deemed to have declined the New Business Opportunity.
-(cid:129) If there is a change in the nature or proposal of the New Business Opportunity
+ If there is a change in the nature or proposal of the New Business Opportunity
 pursued by the relevant Covenantor, it/he/she shall refer the New Business
 Opportunityasrevisedandshallprovidetousdetailsofallavailableinformationfor
 us to consider whether to pursue the New Business Opportunity as revised.
@@ -18735,23 +18735,23 @@ was director and general manager of Tianma. Ms. Liu was mainly responsible for t
 operationandmanagementofTianmaGroupandhadgainedextensiveinternationalexperience
 during her tenure in Tianma Group, including mergers and acquisitions in Japan.
 Ms. Liu has received many honors including:
-(cid:129) in April 2021, she was awarded the honorary title of “Model Worker in Jintan
+ in April 2021, she was awarded the honorary title of “Model Worker in Jintan
 District of Changzhou City” (常州市金壇區勞動模範) by the People’s Government
 of Jintan District of Changzhou City;
-(cid:129) in February 2021, she was awarded the honorary title of “Advanced Person
+ in February 2021, she was awarded the honorary title of “Advanced Person
 Contributing to Jintan District” (貢獻金壇先進人物) by the People’s Government of
 Jintan District of Changzhou City;
-(cid:129) in November 2020, she was awarded the honorary title of “Women Achievement
+ in November 2020, she was awarded the honorary title of “Women Achievement
 Model” (巾幗建功標兵) in Jintan District of Changzhou City;
-(cid:129) in February 2020, she was awarded the title of “Excellent Entrepreneur” (優秀企業
+ in February 2020, she was awarded the title of “Excellent Entrepreneur” (優秀企業
 家) by the People’s Government of Jintan District of Changzhou City;
-(cid:129) in November 2019, she won the award of “LiXiang Person of the Year 2019” (鋰想
+ in November 2019, she won the award of “LiXiang Person of the Year 2019” (鋰想
 2019年度人物獎) at the 4th International Summit on EVBatteryApplication* (第四
 屆動力電池應用國際峰會);
-(cid:129) in June 2019, she was elected as the chairwoman of the first session of Jiangsu
+ in June 2019, she was elected as the chairwoman of the first session of Jiangsu
 Power and Energy Storage Battery Industry Innovation Alliance* (江蘇省動力及儲
 能電池產業創新聯盟); and
-(cid:129) in April 2016, she won the first prize of the “Industry Contributing Nation Jade
+ in April 2016, she won the first prize of the “Industry Contributing Nation Jade
 Award”; (產業報國玉獎) awarded by the AVIC.
 Ms. Liu has been a senior accountant recognized by the Senior Professional Technical
 Position Review Committee of China Aviation Industry Corporation I since December 2005
@@ -18839,45 +18839,45 @@ March 2007, mainly responsible for management of financial special funds and int
 work.
 Mr.ZhoualsoservesatvariouspositionsinJintanGroupandtheirrespectivesubsidiaries
 including:
-(cid:129) since January 2022, he has served as an executive director and a legal representative
+ since January 2022, he has served as an executive director and a legal representative
 of Changzhou Zhongcheng Industrial Co., Ltd* (常州眾成實業發展有限公司)
 (“Changzhou Zhongcheng”), a subsidiary of Jintan Hualuogeng;
-(cid:129) since December 2021, he has served as an executive director and a legal
+ since December 2021, he has served as an executive director and a legal
 representative of Jinsha Investment;
 – 388 –
 
 === PAGE 399 ===
 DIRECTORS, SUPERVISORS AND SENIOR MANAGEMENT
-(cid:129) since December 2021, he has served as an executive director and legal
+ since December 2021, he has served as an executive director and legal
 representative of Changzhou Jinsha Capital Management Co., Ltd* (常州金沙資金
 管理有限公司) (“Jinsha Capital Management”), a subsidiary of Jintan Holding;
-(cid:129) sinceOctober2021,hehasservedasanexecutivedirectorandalegalrepresentative
+ sinceOctober2021,hehasservedasanexecutivedirectorandalegalrepresentative
 of Jiangsu Jiangnan Clean Energy Research Institute Co., Ltd.* (江蘇江南清潔能源
 研究院有限公司) (“Jiangnan Clean Energy”), a subsidiary of Jintan Hualuogeng;
-(cid:129) since May 2021, he has served as an executive director and a legal representative of
+ since May 2021, he has served as an executive director and a legal representative of
 ChangzhouHuakeZhuolinIndustrialInvestmentCo.,Ltd.*(常州華科卓林實業投資
 有限公司) (“Huake Zhuolin”), a subsidiary of Jintan Hualuogeng;
-(cid:129) since December 2020, he has served as a general manager, an executive director and
+ since December 2020, he has served as a general manager, an executive director and
 a legal representative of Changzhou Huakewo Industrial Investment Co., Ltd.* (常
 州華科沃實業投資有限公司), a subsidiary of Huake Engineering;
-(cid:129) since May 2018, he has served as an executive director and legal representative of
+ since May 2018, he has served as an executive director and legal representative of
 Changzhou Huakeyi Technology Investment Co., Ltd.* (常州華科易科技投資有限
 公司), a subsidiary of Huake Engineering;
-(cid:129) since April 2018, he has served as a general manager, executive director and legal
+ since April 2018, he has served as a general manager, executive director and legal
 representative of Changzhou HuakeruiTechnology Investment Co., Ltd.* (常州華科
 瑞科技投資有限公司), a subsidiary of Huake Engineering;
-(cid:129) since January 2018, he has served as chairman of the supervisory committee of
+ since January 2018, he has served as chairman of the supervisory committee of
 Changzhou ECTEK Automotive Electronic Systems Co., Ltd.* (常州易控汽車電子
 股份有限公司), a company primarily engaged in development and sales of
 automobile engine and technology promotion services;
-(cid:129) since January 2018, he has served as a director of Jiangsu Chengdong Construction
+ since January 2018, he has served as a director of Jiangsu Chengdong Construction
 Projects Co., Ltd* (江蘇城東建設工程有限公司), a subsidiary of Jintan Holding;
-(cid:129) since March 2017, he has served as an executive director of Changzhou Huake
+ since March 2017, he has served as an executive director of Changzhou Huake
 Venture Capital Co., Ltd.* (常州華科創業投資有限公司) (“Huake Venture
 Capital”), a subsidiary of Jintan Hualuogeng;
-(cid:129) sinceMarch2017,hehasservedasanexecutivedirectorandthelegalrepresentative
+ sinceMarch2017,hehasservedasanexecutivedirectorandthelegalrepresentative
 of Huake Investment; and
-(cid:129) since March 2017, he has served as an executive director and legal representative of
+ since March 2017, he has served as an executive director and legal representative of
 Huake Engineering.
 – 389 –
 
@@ -18932,13 +18932,13 @@ City in Beijing Office* (金壇市建設局駐北京辦事處) from December 200
 and his last position was chief of Financial Section.
 Concurrently, Mr. Zhang also serves at various positions in Jintan Group and their
 respective subsidiaries including:
-(cid:129) since January 2022, he has been a supervisor of Changzhou Zhongcheng;
-(cid:129) since October 2021, he has been a supervisor of Jiangnan Clean Energy;
-(cid:129) since May 2021, he has been a supervisor of Huake Zhuolin. Concurrently, he has
+ since January 2022, he has been a supervisor of Changzhou Zhongcheng;
+ since October 2021, he has been a supervisor of Jiangnan Clean Energy;
+ since May 2021, he has been a supervisor of Huake Zhuolin. Concurrently, he has
 been the legal representative and executive director of Changzhou Changjin
 Technology Investment Co., Ltd.* (常州常金科技投資有限公司), a non-direct
 subsidiary of Jinsha Investment;
-(cid:129) since April 2021, he has been a supervisor of the following companies:
+ since April 2021, he has been a supervisor of the following companies:
 – Jintan Holdings
 – Jintan Hualuogeng
 – Jincheng Technology
@@ -18951,19 +18951,19 @@ subsidiary of Jinsha Investment
 – Huake Venture Capital
 – Jiangsu Changdang Lake Agricultural Technology Industrial Park Co., Ltd.*
 (江蘇長蕩湖農業科技產業園有限公司)
-(cid:129) since January 2021, he has been a supervisor of Changzhou Yijing Optoelectronics
+ since January 2021, he has been a supervisor of Changzhou Yijing Optoelectronics
 Technology Co., Ltd.* (常州億晶光電科技有限公司);
-(cid:129) since July 2017, he has been an executive director and legal representative of
+ since July 2017, he has been an executive director and legal representative of
 Jiangsu Jintan Financial Guarantee Co., Ltd.* (江蘇金壇融資擔保有限公司), a
 subsidiary of Jintan Holding;
 – 391 –
 
 === PAGE 402 ===
 DIRECTORS, SUPERVISORS AND SENIOR MANAGEMENT
-(cid:129) since May 2017, he has been an executive director and legal representative of
+ since May 2017, he has been an executive director and legal representative of
 Changzhou Changjin Technology Investment Co., Ltd.* (常州常金科技投資有限公
 司) a subsidiary of Jinsha Investment; and
-(cid:129) since May 2017, he has been a director of Jintan Hualuogeng.
+ since May 2017, he has been a director of Jintan Hualuogeng.
 Mr. Zhang has been a non practising member of Beijing Institute of Certified Public
 Accountants in the PRC since September 2010.
 Mr. Zhang served as a director in the following companies, which were established in the
@@ -19005,29 +19005,29 @@ Ltd.* (廈門市融資擔保有限公司, formerly known as Xiamen City Guaranty
 DIRECTORS, SUPERVISORS AND SENIOR MANAGEMENT
 Mr. Li also serves at various positions in Jinyuan Investment and its subsidiaries
 including:
-(cid:129) since July 2021, he has served as a director of Zhongbing Shunjing Equity
+ since July 2021, he has served as a director of Zhongbing Shunjing Equity
 Investment Management Co., Ltd.* (中兵順景股權投資管理有限公司).
-(cid:129) since June 2021, he has served as a director of Xiamen Jinyuan Financial Leasing
+ since June 2021, he has served as a director of Xiamen Jinyuan Financial Leasing
 Co., Ltd.* (廈門金圓融資租賃有限公司); and
-(cid:129) since December 2020, he has served as a director of Fujian Sangang (Group) Co.,
+ since December 2020, he has served as a director of Fujian Sangang (Group) Co.,
 Ltd.* (福建三鋼(集團)有限公司);
-(cid:129) since June 2020, he has served as the director of Jinyuan President Securities Co.,
+ since June 2020, he has served as the director of Jinyuan President Securities Co.,
 Ltd.* (金圓統一證券有限公司);
-(cid:129) since May 2020, he has served as a director of Xiamen Venture Capital Co., Ltd.*
+ since May 2020, he has served as a director of Xiamen Venture Capital Co., Ltd.*
 (廈門創業投資有限公司);
-(cid:129) sinceApril 2020, he has served as a director of QingyuanTechnology (Xiamen) Co.,
+ sinceApril 2020, he has served as a director of QingyuanTechnology (Xiamen) Co.,
 Ltd.* (清源科技(廈門)股份有限公司);
-(cid:129) since December 2018, he has served as a director of Jinyuan Industry Equity
+ since December 2018, he has served as a director of Jinyuan Industry Equity
 Investment Co., Ltd.* (廈門金圓股權投資有限公司);
-(cid:129) sinceJune2018,hehasservedasadirectorofXiamenInternationalTrustCo.,Ltd.*
+ sinceJune2018,hehasservedasadirectorofXiamenInternationalTrustCo.,Ltd.*
 (廈門國際信託有限公司);
-(cid:129) since April 2018, he has served as a director of Jinyuan Industry Jinkong Holdings
+ since April 2018, he has served as a director of Jinyuan Industry Jinkong Holdings
 Co., Ltd.* (廈門金圓金控股份有限公司);
-(cid:129) since March 2018, he has served as a director of Xiamen Asset Management Co.,
+ since March 2018, he has served as a director of Xiamen Asset Management Co.,
 Ltd.* (廈門資產管理有限公司);
-(cid:129) since March 2018, he has served as a director of Xiamen Financial Holdings Co.,
+ since March 2018, he has served as a director of Xiamen Financial Holdings Co.,
 Ltd.* (廈門金融控股有限公司); and
-(cid:129) since January 2018, he has served as the chairman and legal representative of
+ since January 2018, he has served as the chairman and legal representative of
 Jinyuan Capital Management (Xiamen) Co., Ltd* (金圓資本(廈門)有限公司).
 – 393 –
 
@@ -19159,14 +19159,14 @@ toApril 2017, Mr. Wang worked at the Economics and Management School of Harbin I
 of Technology Shenzhen Graduate School* (哈爾濱工業大學深圳研究生院) as a professor.
 Mr. Wang also currently serves as independent director at Tianma and other listed
 companies including:
-(cid:129) Changyuan Technology Group Joint Stock Company Limited* (長園科技集團股份
+ Changyuan Technology Group Joint Stock Company Limited* (長園科技集團股份
 有限公司), a company whose shares are listed on the Shanghai Stock Exchange
 (stock code: 600525) and principally engaged in the R&D and manufacturing of
 intelligent digitalization of industrial and power systems;
-(cid:129) Shahe Industrial Co., Ltd* (沙河實業股份有限公司), a company whose shares are
+ Shahe Industrial Co., Ltd* (沙河實業股份有限公司), a company whose shares are
 listed on the Shenzhen Stock Exchange (stock code: 000014) and principally
 engaged in real estate development and operation; and
-(cid:129) Guangdong Wedge Co., Ltd* (廣東萬澤實業股份有限公司), a company whose
+ Guangdong Wedge Co., Ltd* (廣東萬澤實業股份有限公司), a company whose
 shares are listed on the Shenzhen Stock Exchange (stock code: 000534) and
 principally engaged in real estate development.
 Mr. Wang has been qualified as a certified public accountant (non-practising member) in
@@ -19224,15 +19224,15 @@ listed on the Main Board of Stock Exchange (currently known as Glory Sun Land Gr
 Limited) (stock code: 00299).
 Mr. Chen also currently serves as independent director at Tianma and other companies
 including:
-(cid:129) Sino Life Insurance Co., Ltd* (生命人壽保險有限公司);
-(cid:129) Sino Life Asset Management Co., Ltd* (生命保險資產管理有限公司);
+ Sino Life Insurance Co., Ltd* (生命人壽保險有限公司);
+ Sino Life Asset Management Co., Ltd* (生命保險資產管理有限公司);
 – 398 –
 
 === PAGE 409 ===
 DIRECTORS, SUPERVISORS AND SENIOR MANAGEMENT
-(cid:129) Sino Life Insurance Holding Joint Stock Limited Company* (生命保險控股股份有
+ Sino Life Insurance Holding Joint Stock Limited Company* (生命保險控股股份有
 限公司); and
-(cid:129) Shenzhen Nanshan Power Co., Ltd* (深圳南山熱電股份有限公司), a company
+ Shenzhen Nanshan Power Co., Ltd* (深圳南山熱電股份有限公司), a company
 whose shares are listed on Shenzhen Stock Exchange (stock code: 000037) and
 principally engaged in production and operation of power supply, heating and
 general contracting of construction projects of power plants.
@@ -19358,14 +19358,14 @@ with matters in relation to the board meetings.
 === PAGE 412 ===
 DIRECTORS, SUPERVISORS AND SENIOR MANAGEMENT
 Ms. Cheng has received a number of awards over the years including:
-(cid:129) excellent Board Secretary of Listed Companies in Sichuan Province of the Year (四
+ excellent Board Secretary of Listed Companies in Sichuan Province of the Year (四
 川上市公司年度優秀董事會秘書) for years of 2016, 2015 and 2013 awarded by
 SichuanAssociation of Listed Companies in October 2017, July 2016 and July 2014
 respectively;
-(cid:129) top 100 Board Secretaries of Listed Companies in China’s Small and Medium
+ top 100 Board Secretaries of Listed Companies in China’s Small and Medium
 Enterprise Board 2011 (2011中國中小板上市公司百佳董秘) awarded by Securities
 Times in 2012; and
-(cid:129) excellent Board Secretaries of Listed Companies in China’s Small and Medium
+ excellent Board Secretaries of Listed Companies in China’s Small and Medium
 Enterprise Board 2010 (2010中國中小板上市公司百佳董秘) awarded by Securities
 Times in 2010.
 Ms. Cheng has been a Senior International Finance Manager (高級國際財務管理師)
@@ -19499,29 +19499,29 @@ and major project research.
 In September 2017, Dr. Pan obtained the qualification of a senior engineer awarded by
 AVIC.
 Dr. Pan received many honors, including:
-(cid:129) in February 2021, she was awarded the honorary title of “2020 Outstanding
+ in February 2021, she was awarded the honorary title of “2020 Outstanding
 Entrepreneur” (2020年度優秀企業家) by the People’s Government of Jintan
 District, Changzhou City;
-(cid:129) in February 2021, she was awarded the honorary title of “2016-2020 Advanced
+ in February 2021, she was awarded the honorary title of “2016-2020 Advanced
 Person of Moving Jintan” (2016-2020年感動金壇先進人物) by the People’s
 Government of Jintan District, Changzhou City;
-(cid:129) in June 2019, she was appointed as a member of theTechnical Committee of Jiangsu
+ in June 2019, she was appointed as a member of theTechnical Committee of Jiangsu
 Power and Energy Storage Battery Industry Innovation Alliance* (江蘇省動力及儲
 能電池產業創新聯盟技術委員會);
-(cid:129) in April 2019, she was awarded the honorary title of “Outstanding Expert of
+ in April 2019, she was awarded the honorary title of “Outstanding Expert of
 Luoyang City” (洛陽市優秀專家) by the People’s Government of Luoyang City;
-(cid:129) in January 2019, she was awarded the honorary title of “Leader of Academic
+ in January 2019, she was awarded the honorary title of “Leader of Academic
 Technology in Henan Province” (河南省學術技術帶頭人) by the People’s
 Government of Henan Province;
-(cid:129) in January 2019, she was awarded the second prize of Henan Science and
+ in January 2019, she was awarded the second prize of Henan Science and
 Technology Progress Award (河南省科學技術進步獎) by the People’s Government
 of Henan Province for the project of “Technology Development of High Specific
 Energy EV Battery Based on Hybrid Cathode Material” (基於混合正極材料的高比
 能量動力電池技術開發);
-(cid:129) in October 2017, she was awarded the honorary title of “Winner of Luoyang Youth
+ in October 2017, she was awarded the honorary title of “Winner of Luoyang Youth
 Science and Technology Award” (洛陽市青年科技獎獲獎者) by the Luoyang Talent
 Work Leading Group (洛陽市人才工作領導小組);
-(cid:129) in September 2017, she was awarded the second prize of the Fujian Science and
+ in September 2017, she was awarded the second prize of the Fujian Science and
 Technology Progress Award by the People’s Government of Fujian Province (福建
 省科學技術進步獎) for the project of “High-Safety Ceramic Separator and Its
 Application in Power Lithium-ion Batteries” (高安全陶瓷隔膜及其在動力鋰離子電
@@ -19530,15 +19530,15 @@ Application in Power Lithium-ion Batteries” (高安全陶瓷隔膜及其在動
 
 === PAGE 416 ===
 DIRECTORS, SUPERVISORS AND SENIOR MANAGEMENT
-(cid:129) in December 2016, she was awarded the second prize of Henan Science and
+ in December 2016, she was awarded the second prize of Henan Science and
 Technology Progress Award (河南省科學技術進步獎) by the People’s Government
 of Henan Province for the project of “High Safety CAM72FI Metal Shell
 Lithium-ion EV Battery” (高安全性CAM72FI金屬殼鋰離子動力電池);
-(cid:129) in July 2015, she was awarded the first prize of the Luoyang Science and
+ in July 2015, she was awarded the first prize of the Luoyang Science and
 Technology Progress Award (洛陽市科學技術進步獎) by the Luoyang Municipal
 People’s Government for the project of “CAM72FI Metal Shell Battery
 Development” (CAM72FI金屬殼電池研製); and
-(cid:129) in March 2015, she was awarded the honorary title of “Outstanding Scientific and
+ in March 2015, she was awarded the honorary title of “Outstanding Scientific and
 Technological Worker” (優秀科技工作者) by AVIC.
 Dr. Pan obtained her doctoral degree in physical chemistry from University of Science
 and Technology of China (中國科學技術大學) in June 2011.
@@ -20107,28 +20107,28 @@ OUR CORNERSTONE INVESTORS
 THE CORNERSTONE PLACING
 We have entered into cornerstone investment agreements (the “Cornerstone Investment
 Agreements”) with the following cornerstone investors:
-(cid:129) Tianqi Lithium HK Co., Limited (天齊鋰業香港有限公司) (“Tianqi Lithium HK”)
-(cid:129) Wang Sing International Resources Limited (宏盛國際資源有限公司) (“Wang Sing
+ Tianqi Lithium HK Co., Limited (天齊鋰業香港有限公司) (“Tianqi Lithium HK”)
+ Wang Sing International Resources Limited (宏盛國際資源有限公司) (“Wang Sing
 International”)
-(cid:129) Han’s Laser Technology Co., Limited (大族激光科技股份有限公司) (“Han’s Laser
+ Han’s Laser Technology Co., Limited (大族激光科技股份有限公司) (“Han’s Laser
 Technology”)
-(cid:129) CNGR Hong Kong Material Science & Technology Co., Limited (中偉(香港)新材料科技
+ CNGR Hong Kong Material Science & Technology Co., Limited (中偉(香港)新材料科技
 貿易有限公司) (“CNGR HK”)
-(cid:129) Tibet Nord Technology Co., Ltd* (西藏諾德科技有限公司) (“Tibet Nord”)
-(cid:129) Zhenshi Group (HK) Heshi Composite Materials Co., Limited (振石集團(香港)和石複合
+ Tibet Nord Technology Co., Ltd* (西藏諾德科技有限公司) (“Tibet Nord”)
+ Zhenshi Group (HK) Heshi Composite Materials Co., Limited (振石集團(香港)和石複合
 材料有限公司) (“Heshi Composite”)
-(cid:129) Changzhou Jingce New Energy Tech Co., Ltd* (常州精測新能源技術有限公司)
+ Changzhou Jingce New Energy Tech Co., Ltd* (常州精測新能源技術有限公司)
 (“Changzhou Jingce”)
-(cid:129) XING FA (HONG KONG) IMP.&EXP. LIMITED (興發香港進出口有限公司) (“XING
+ XING FA (HONG KONG) IMP.&EXP. LIMITED (興發香港進出口有限公司) (“XING
 FA HK”)
-(cid:129) XPeng Inc. (小鵬汽車有限公司) (“XPeng”)
-(cid:129) TMA International PTE. LTD. (TMA國際私人有限公司) (“TMA”)
-(cid:129) Mr. Lv Lizhi (呂禮志)
-(cid:129) Jiangsu Pure Precision Technology Co., Ltd.* (江蘇普正精密科技有限公司) (“Jiangsu
+ XPeng Inc. (小鵬汽車有限公司) (“XPeng”)
+ TMA International PTE. LTD. (TMA國際私人有限公司) (“TMA”)
+ Mr. Lv Lizhi (呂禮志)
+ Jiangsu Pure Precision Technology Co., Ltd.* (江蘇普正精密科技有限公司) (“Jiangsu
 Pure Precision”)
-(cid:129) vivo Mobile Communication Co., Ltd* (維沃移動通信有限公司) (“vivo Mobile”)
-(cid:129) Jiangmen New Energy
-(cid:129) Hefei Beicheng Construction Investment (Group) Company Limited* (合肥北城建設投資
+ vivo Mobile Communication Co., Ltd* (維沃移動通信有限公司) (“vivo Mobile”)
+ Jiangmen New Energy
+ Hefei Beicheng Construction Investment (Group) Company Limited* (合肥北城建設投資
 (集團)有限公司) (“Hefei Beicheng”)
 (collectively, the “Cornerstone Investors”).
 – 421 –
@@ -21753,15 +21753,15 @@ of the industry chain, leading the progress and development of the industry.
 === PAGE 448 ===
 FINANCIAL INFORMATION
 According to Frost & Sullivan, in terms of installed capacity:
-(cid:129) we, with a 5.7% market share in 2020, 5.9% market share in 2021 and 8.2% market
+ we, with a 5.7% market share in 2020, 5.9% market share in 2021 and 8.2% market
 share for the three months ended March 31, 2022, ranked fourth and third in 2020;
 and third and second in both 2021 and the three months ended March 31, 2022,
 among EVbattery companies in China and among third-party EVbattery companies
 in ChinaNote 1 & Note 2, respectively;
-(cid:129) we, with a 2.7% market share in 2020, 3.2% market share in 2021 and 4.5% market
+ we, with a 2.7% market share in 2020, 3.2% market share in 2021 and 4.5% market
 share for the three months ended March 31, 2022, ranked seventh, seventh and sixth
 globally among EV battery companies, respectively; and
-(cid:129) we were the only company with over 100% year-on-year growth rate from 2019 to
+ we were the only company with over 100% year-on-year growth rate from 2019 to
 2021 among the top ten EV battery companies in ChinaNote 3 in 2021.
 BASIS OF PREPARATION
 The historical financial information has been prepared in accordance with all applicable
@@ -21794,12 +21794,12 @@ Our business and historical financial condition and results of operations have b
 affectedbyanumberofimportantfactorswhichwebelievewillcontinuetoaffectourfinancial
 condition and results of operations in the future. Our results are primarily affected by the
 following factors:
-(cid:129) macroeconomic conditions and the growth of overall EV battery market;
-(cid:129) continuous investment and innovation in our technology;
-(cid:129) end markets that we serve and fluctuation in customer demand;
-(cid:129) management and expansion of our production capacity;
-(cid:129) our ability to control cost of sales and operating expenses; and
-(cid:129) government policies and regulations for NEVs and smart technology, such as
+ macroeconomic conditions and the growth of overall EV battery market;
+ continuous investment and innovation in our technology;
+ end markets that we serve and fluctuation in customer demand;
+ management and expansion of our production capacity;
+ our ability to control cost of sales and operating expenses; and
+ government policies and regulations for NEVs and smart technology, such as
 subsidies for NEV purchases and government grants for NEV manufacturers.
 Specific Factors Affecting Our Results of Operations
 Besides the general factors affecting the industry, our business and results of operations
@@ -23770,12 +23770,12 @@ time lag in our sales collection, we incurred net operating cash outflow within 
 With the subsequent return of funds, our operating cash flow is expected to be improved and
 results in a net inflow.
 In addition, we have adopted the measures below to improve our operating cash flow:
-(cid:129) Optimise the sales collection period and settlement method to expedite the cycle of
+ Optimise the sales collection period and settlement method to expedite the cycle of
 recovering trade receivables;
-(cid:129) Strengthen customer credit management and speed up the return of funds;
-(cid:129) Enhance cooperation with suppliers and optimise the payment period and settlement
+ Strengthen customer credit management and speed up the return of funds;
+ Enhance cooperation with suppliers and optimise the payment period and settlement
 method for purchases;
-(cid:129) Performmonthlyreviewontradereceivablesandaginganalysisandcloselymonitor
+ Performmonthlyreviewontradereceivablesandaginganalysisandcloselymonitor
 the status of cash flow.
 For the year ended December 31, 2021, net cash generated from operating activities
 amounted to RMB1,586.0 million, and was derived primarily from the following amounts plus
@@ -24347,7 +24347,7 @@ We have established a set of investment policies and internal control measures t
 reasonable returns on our investments of structured products or similar wealth management
 products while mitigating our exposure to investment risks. These policies and measures
 primarily include:
-(cid:129) Our finance department is responsible for the purchase of structured products. We
+ Our finance department is responsible for the purchase of structured products. We
 generally designate professional personnel in our finance department to execute
 investment plan of structured products. The investment decisions are subject to a
 series of internal approval processes and are ultimately approved by management.
@@ -24355,16 +24355,16 @@ Our management monitors the volume of investments in structured products and the
 associated risks and is required to report such matter to the Board from time to time
 as appropriate. In general, we are only allowed to make investments to the products
 with relatively simple structure and principal guaranteed;
-(cid:129) We make investment decisions based on our estimated capital requirements in the
+ We make investment decisions based on our estimated capital requirements in the
 near future and our annual financial forecast, taking into account the assessment on
 product terms and prices, expected returns, investment duration and risks of the
 products;
-(cid:129) Weperiodicallyassesstheliquidity,capitalstructureandinvestmentspositionofour
+ Weperiodicallyassesstheliquidity,capitalstructureandinvestmentspositionofour
 Group and make capital expenditure arrangement and cash flow forecast. We also
 regularly analyse the difference between our actual cash outflow and cash flow
 forecast or budget and make investment decisions based on such assessment and
 analysis results accordingly; and
-(cid:129) We assess on a case-by-case basis, carefully consider a number of factors including
+ We assess on a case-by-case basis, carefully consider a number of factors including
 the macroeconomic environment, general market conditions and the expected profit
 or potential loss of the proposed investment, and ensure that the proposed
 investmentdoesnotinterferewithourday-to-dayoperationsandbusinessprospects.
@@ -24996,14 +24996,14 @@ ceased to an associate of our Group after the disposal of Luoyang Company but wa
 connected party to our Group.
 During the Track Record Period, our Group had the following material transactions with
 Luoyang Company:
-(cid:129) revenue from sales of goods to Luoyang Company, which was primarily derived
+ revenue from sales of goods to Luoyang Company, which was primarily derived
 from the sales of raw materials and products to Luoyang Company before the
 acquisition as of July 1, 2019 and after the disposal as of November 8, 2021.
-(cid:129) Entrusted processing services provided by Luoyang Company, which is also a
+ Entrusted processing services provided by Luoyang Company, which is also a
 continuing connected transaction.
-(cid:129) Purchase of intangible assets from Luoyang Company, which was primarily derived
+ Purchase of intangible assets from Luoyang Company, which was primarily derived
 from the sales of patents to the Group after the disposal.
-(cid:129) Disposal of property, plant and equipment to Luoyang Company after the disposal.
+ Disposal of property, plant and equipment to Luoyang Company after the disposal.
 In November 2021, our Group disposed 51% equity interest in Luoyang Company to
 Jincheng Technology at a consideration of RMB1,132.2 million.
 – 525 –
@@ -25061,7 +25061,7 @@ the Global Offering and assuming the Over-allotment Option is not exercised.
 USE OF PROCEEDS
 In accordance with our strategy, we plan to use the proceeds for the following intended
 purposes in the amounts set forth below:
-(cid:129) Approximately 80.0% of the proceeds (approximately HK$9,248.3 million) will be
+ Approximately 80.0% of the proceeds (approximately HK$9,248.3 million) will be
 used as partial expenditures for the construction of production lines of EV battery
 and ESS of totally 95GWh for our new production facilities at Chengdu Project
 Phase I, Wuhan Project Phase II, Hefei Project Phase I and Phase II, Guangdong
@@ -25260,7 +25260,7 @@ the EV battery products are mainly sold to external customers instead of their o
 
 === PAGE 542 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) Approximately 10.0% of the proceeds (approximately HK$1,156.1 million) will be
+ Approximately 10.0% of the proceeds (approximately HK$1,156.1 million) will be
 used for R&D of advanced technologies to maintain our technological leadership in
 batteries and its production process, which include:
 i approximately 5.6% (approximately HK$647.4 million) will be used for the
@@ -25314,7 +25314,7 @@ technologies to continuously optimize the production process and reduce potentia
 quality control risks, improving the quality of the products and services provided to
 our customers to increase the sales and revenue of our products, ensuring that we
 will continue to introduce quality products to the market.
-(cid:129) Approximately 10.0% of the proceeds (approximately HK$1,156.1 million) will be
+ Approximately 10.0% of the proceeds (approximately HK$1,156.1 million) will be
 used for working capital and general corporate purposes.
 If the Offer Price is fixed at HK$51.0 per Offer Share (being the high end of the Offer
 Price range stated in this prospectus), we will receive additional net proceeds of approximately
@@ -26369,26 +26369,26 @@ in full or in part for any reason at their discretion.
 2. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying:
-(cid:129) are 18 years of age or older;
-(cid:129) are outside the United States (within the meaning of Regulation S), and are a person
+ are 18 years of age or older;
+ are outside the United States (within the meaning of Regulation S), and are a person
 described in paragraph (h)(3) of Rule 902 of Regulation S;
-(cid:129) are not an existing Shareholder and/or his/her/its close associate;
+ are not an existing Shareholder and/or his/her/its close associate;
 – 560 –
 
 === PAGE 571 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) are not a core connected person of our Company and will not become a core
+ are not a core connected person of our Company and will not become a core
 connected person of our Company immediately upon completion of the Global
 Offering; and
-(cid:129) have not been allocated and have not applied for or indicated interest in any Offer
+ have not been allocated and have not applied for or indicated interest in any Offer
 Share under the International Offering.
 If you apply for Hong Kong Offer Shares online through the HK eIPO White Form
 service, in addition to the above, you must also:
-(cid:129) have a valid Hong Kong identity card number/passport number (for individual
+ have a valid Hong Kong identity card number/passport number (for individual
 applicant) or Hong Kong business registration number /certificate of incorporation
 number (for body corporate applicant);
-(cid:129) have a Hong Kong address; and
-(cid:129) provide a valid e-mail address and a contact telephone number.
+ have a Hong Kong address; and
+ provide a valid e-mail address and a contact telephone number.
 The number of joint applicants may not exceed four.
 If you are a firm, the application must be in the individual members’ names.
 If you are applying for the Hong Kong Offer Shares online by instructing your broker or
@@ -26397,12 +26397,12 @@ electronic application instructions via CCASS terminals, please contact them for
 required for the application.
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Offer Shares
 if:
-(cid:129) you are an existing beneficial owner of the Shares in our Company and/or any of its
+ you are an existing beneficial owner of the Shares in our Company and/or any of its
 subsidiaries;
-(cid:129) you are a Director, Supervisor or chief executive of our Company and/or any of our
+ you are a Director, Supervisor or chief executive of our Company and/or any of our
 Company’s subsidiaries;
-(cid:129) you are a close associate of any of the above persons; or
-(cid:129) you have been allocated or have applied for or indicated an interest in any
+ you are a close associate of any of the above persons; or
+ you have been allocated or have applied for or indicated an interest in any
 International Offer Shares or otherwise participated in the International Offering.
 – 561 –
 
@@ -26602,26 +26602,26 @@ behalf:
 (i) HKSCC Nominees will only be acting as a nominee for you and is not liable
 for any breach of the terms and conditions of this document;
 (ii) HKSCC Nominees will do the following things on your behalf:
-(cid:129) agreethattheHongKongOfferSharestobeallottedshallbeissuedinthe
+ agreethattheHongKongOfferSharestobeallottedshallbeissuedinthe
 name of HKSCC Nominees and deposited directly into CCASS for the
 credit of the CCASS Participant’s stock account on your behalf or your
 CCASS Investor Participant’s stock account;
-(cid:129) agree to accept the Hong Kong Offer Shares applied for or any lesser
+ agree to accept the Hong Kong Offer Shares applied for or any lesser
 number allocated;
-(cid:129) undertake and confirm that you have not applied for or taken up, will not
+ undertake and confirm that you have not applied for or taken up, will not
 applyforortakeup,orindicateaninterestfor,anyOfferSharesunderthe
 International Offering;
-(cid:129) (if the electronic application instruction is given for your benefit)
+ (if the electronic application instruction is given for your benefit)
 declare that only one set of electronic application instructions have been
 given for your benefit;
-(cid:129) (if you are an agent for another person) declare that you have only given
+ (if you are an agent for another person) declare that you have only given
 one set of electronic application instructions for the other person’s
 benefit and are duly authorized to give those instructions as their agent;
-(cid:129) confirm that you understand that our Company, the Directors, and the
+ confirm that you understand that our Company, the Directors, and the
 OverallCoordinatorswillrelyonyourdeclarationsandrepresentationsin
 deciding whether or not to allocate any of the Hong Kong Offer Shares
 to you and that you may be prosecuted if you make a false declaration;
-(cid:129) authorize our Company to place HKSCC Nominees name on our
+ authorize our Company to place HKSCC Nominees name on our
 Company’s register of members as the holder of the Hong Kong Offer
 Shares allocated to you and to send H Share certificate(s) and/or refund
 monies under the arrangements separately agreed between us and
@@ -26630,22 +26630,22 @@ HKSCC;
 
 === PAGE 578 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) confirm that you have read the terms and conditions and application
+ confirm that you have read the terms and conditions and application
 procedures set out in this document and agree to be bound by them;
-(cid:129) confirmthatyouhavereceivedandreadacopyofthisdocumentandhave
+ confirmthatyouhavereceivedandreadacopyofthisdocumentandhave
 relied only on the information and representations in this document in
 causing the application to be made, save as set out in any supplement to
 this document;
-(cid:129) agree that none of our Company or the Relevant Persons is or will be
+ agree that none of our Company or the Relevant Persons is or will be
 liable for any information and representations not contained in this
 document (and any supplement to it);
-(cid:129) agree to disclose to our Company, the H Share Registrar, the receiving
+ agree to disclose to our Company, the H Share Registrar, the receiving
 bank and the Relevant Persons any personal data which they may require
 about you;
-(cid:129) agree (without prejudice to any other rights which you may have) that
+ agree (without prejudice to any other rights which you may have) that
 once HKSCC Nominees application has been accepted, it cannot be
 rescinded for innocent misrepresentation;
-(cid:129) agree that any application made by HKSCC Nominees on your behalf is
+ agree that any application made by HKSCC Nominees on your behalf is
 irrevocable on or before the fifth day after the time of the opening of the
 applicationlists(excludinganydaywhichisaSaturday,Sundayorpublic
 holiday in Hong Kong), such agreement to take effect as a collateral
@@ -26663,7 +26663,7 @@ document under Section 40 of the Companies (Winding Up and
 Miscellaneous Provisions) Ordinance gives a public notice under that
 section which excludes or limits that person’s responsibility for this
 document;
-(cid:129) agree that once HKSCC Nominees’ application is accepted, neither that
+ agree that once HKSCC Nominees’ application is accepted, neither that
 application nor your electronic application instructions can be revoked,
 and that acceptance of that application will be evidenced by our
 Company’s announcement of the results of the Hong Kong Public
@@ -26672,12 +26672,12 @@ Offering;
 
 === PAGE 579 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree to the arrangements, undertakings and warranties under the
+ agree to the arrangements, undertakings and warranties under the
 participant agreement between you and HKSCC, read with the General
 Rules of CCASS and the CCASS Operational Procedures, for giving
 electronic application instructions to apply for Hong Kong Offer
 Shares;
-(cid:129) agreewithourCompany,foritselfandforthebenefitofeachShareholder
+ agreewithourCompany,foritselfandforthebenefitofeachShareholder
 (and so that our Company will be deemed by its acceptance in whole or
 in part of the application by HKSCC Nominees to have agreed, for itself
 and on behalf of each of the Shareholders, with each CCASS Participant
@@ -26685,7 +26685,7 @@ giving electronic application instructions) to observe and comply with
 the Companies Ordinance, the Special Regulations, the Companies
 (Winding Up and Miscellaneous Provisions) Ordinance and the Articles
 of Association;
-(cid:129) agreewithourCompany,foritselfandforthebenefitofeachShareholder
+ agreewithourCompany,foritselfandforthebenefitofeachShareholder
 of our Company and each director, supervisor, manager and other senior
 officer of our Company (and so that our Company will be deemed by its
 acceptanceinwholeorinpartofthisapplicationtohaveagreed,foritself
@@ -26701,15 +26701,15 @@ accordance with the Articles of Association of our Company;
 conclusive; and
 (c) that the arbitration tribunal may conduct hearings in open sessions
 and publish its award;
-(cid:129) agree with our Company (for our Company itself and for the benefit of
+ agree with our Company (for our Company itself and for the benefit of
 each shareholder of our Company) that the H Shares are freely
 transferable by their holders;
-(cid:129) authorise the Company to enter into a contract on its behalf with each
+ authorise the Company to enter into a contract on its behalf with each
 Director, Supervisor and officer of the Company whereby each such
 director and officer undertakes to observe and comply with his
 obligations to shareholders stipulated in theArticles ofAssociation of the
 Company; and
-(cid:129) agreethatyourapplication,anyacceptanceofitandtheresultingcontract
+ agreethatyourapplication,anyacceptanceofitandtheresultingcontract
 will be governed by and construed in accordance with the laws of Hong
 Kong.
 – 569 –
@@ -26721,10 +26721,10 @@ ByapplyingthroughtheCCASSEIPOservice,you(and,ifyouarejointapplicants,
 each of you jointly and severally) are deemed to have done the following things. Neither
 HKSCC nor HKSCC Nominees shall be liable to our Company or any other person in
 respect of the things mentioned below:
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees (acting as
+ instructed and authorized HKSCC to cause HKSCC Nominees (acting as
 nominee for the relevant CCASS Participants) to apply for the Hong Kong
 Offer Shares on your behalf;
-(cid:129) instructed and authorized HKSCC to arrange payment of the maximum Offer
+ instructed and authorized HKSCC to arrange payment of the maximum Offer
 Price,brokerage,SFCtransactionlevy,theHongKongStockExchangetrading
 fee and the FRC transaction levy by debiting your designated bank account
 and, in the case of a wholly or partially unsuccessful application and/or if the
@@ -26732,7 +26732,7 @@ Offer Price is less than the maximum Offer Price per Offer Share initially paid
 on application, refund of the application monies (including brokerage, SFC
 transaction levy and the Hong Kong Stock Exchange trading fee and the FRC
 transaction levy) by crediting your designated bank account; and
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees to do on your
+ instructed and authorized HKSCC to cause HKSCC Nominees to do on your
 behalf all the things stated in this document.
 Time for Inputting Electronic Application Instructions1
 CCASS Clearing/Custodian Participants can input electronic application
@@ -26823,25 +26823,25 @@ and the H Share Registrar immediately of any inaccuracies in the personal data s
 Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means)
 for the following purposes:
-(cid:129) processing your application and refund cheque and e-Auto Refund payment
+ processing your application and refund cheque and e-Auto Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this document and announcing results of
 allocation of the Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
 – 572 –
 
 === PAGE 583 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) registeringnewissuesortransfersintooroutofthenamesoftheholdersofthe
+ registeringnewissuesortransfersintooroutofthenamesoftheholdersofthe
 H Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of our Company;
-(cid:129) verifying identities of the holders of the H Shares;
-(cid:129) establishing benefit entitlements of holders of the H Shares, such as dividends,
+ maintaining or updating the register of members of our Company;
+ verifying identities of the holders of the H Shares;
+ establishing benefit entitlements of holders of the H Shares, such as dividends,
 rights issues, bonus issues, etc.;
-(cid:129) distributing communications from our Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the H Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to
+ distributing communications from our Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the H Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to
 enable our Company and the H Share Registrar to discharge their obligations
 toholdersoftheHSharesand/orregulatorsand/oranyotherpurposestowhich
 the holders of the H Shares may from time to time agree.
@@ -26851,18 +26851,18 @@ of the Hong Kong Offer Shares will be kept confidential but our Company and the 
 Share Registrar may, to the extent necessary for achieving any of the above purposes,
 disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to,
 from or with any of the following:
-(cid:129) ourCompany’sappointedagentssuchasfinancialadvisers,receivingbankand
+ ourCompany’sappointedagentssuchasfinancialadvisers,receivingbankand
 overseas principal H Share Registrar;
-(cid:129) where applicants for the Hong Kong Offer Shares request a deposit into
+ where applicants for the Hong Kong Offer Shares request a deposit into
 CCASS, HKSCC or HKSCC Nominees, who will use the personal data for the
 purposes of operating CCASS;
-(cid:129) any agents, contractors or third-party service providers who offer
+ any agents, contractors or third-party service providers who offer
 administrative, telecommunications, computer, payment or other services to
 our Company or the H Share Registrar in connection with their respective
 business operation;
-(cid:129) the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
+ the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
 governmentalbodiesorotherwiseasrequiredbylaws,rulesorregulations;and
-(cid:129) any persons or institutions with which the holders of the Hong Kong Offer
+ any persons or institutions with which the holders of the Hong Kong Offer
 Shares have or propose to have dealings, such as their bankers, solicitors,
 accountants or stockbrokers etc.
 – 573 –
@@ -26918,14 +26918,14 @@ EIPO service (directly or indirectly through a broker and custodian) or through 
 White Form service, is made for your benefit (including the part of the application made by
 HKSCC Nominees acting on electronic application instructions).
 If an application is made by an unlisted company and:
-(cid:129) the principal business of that company is dealing in securities; and
-(cid:129) you exercise statutory control over that company,
+ the principal business of that company is dealing in securities; and
+ you exercise statutory control over that company,
 then the application will be treated as being for your benefit.
 “Unlistedcompany”meansacompanywithnoequitysecuritieslistedontheHongKong
 Stock Exchange. “Statutory control” means you:
-(cid:129) control the composition of the board of directors of our company;
-(cid:129) control more than half of the voting power of our company; or
-(cid:129) hold more than half of the issued share capital of our company (not counting any
+ control the composition of the board of directors of our company;
+ control more than half of the voting power of our company; or
+ hold more than half of the issued share capital of our company (not counting any
 part of it which carries no right to participate beyond a specified amount in a
 distribution of either profits or capital).
 B. HOW MUCH ARE THE HONG KONG OFFER SHARES
@@ -26956,9 +26956,9 @@ Offering – Pricing and Allocation” in this prospectus.
 C. EFFECT OF BAD WEATHER AND/OR EXTREME CONDITIONS ON THE
 OPENING AND CLOSING OF THE APPLICATION LISTS
 The application lists will not open or close if there is:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a “black” rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above;
+ a “black” rainstorm warning; and/or
+ Extreme Conditions,
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Wednesday,
 September 28, 2022. Instead they will open between 11:45 a.m. and 12:00 noon on the next
 business day which does not have either of those warnings and/or Extreme Conditions in Hong
@@ -26981,14 +26981,14 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 The results of allocations and the Hong Kong identity card/passport/Hong Kong business
 registration/certificate of incorporation numbers of successful applicants under the Hong Kong
 Public Offering will be available at the times and date and in the manner specified below:
-(cid:129) in the announcement to be posted on our Company’s website at www.calb-tech.com
+ in the announcement to be posted on our Company’s website at www.calb-tech.com
 andtheHongKongStockExchange’swebsiteatwww.hkexnews.hkbynolaterthan
 9:00 a.m. on Wednesday, October 5, 2022;
-(cid:129) fromthe“IPOResults”functionintheIPOApporthedesignatedresultsofallocations
+ fromthe“IPOResults”functionintheIPOApporthedesignatedresultsofallocations
 website at www.hkeipo.hk/IPOResult (or www.tricor.com.hk/ipo/result) with a
 “search by ID” function on a 24-hour basis from Wednesday, October 5, 2022 to
 12:00 midnight on Tuesday, October 11, 2022;
-(cid:129) from the allocation results telephone enquiry line by calling +852 3691 8488
+ from the allocation results telephone enquiry line by calling +852 3691 8488
 between 9:00 a.m. and 6:00 p.m. from Wednesday, October 5, 2022 to Monday,
 October 10, 2022 (exclude Saturday, Sunday and public holiday in Hong Kong).
 If our Company accepts your offer to purchase (in whole or in part), which it may do by
@@ -27037,13 +27037,13 @@ any application, or to accept only part of any application, without giving any r
 (iii) If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Listing Committee of
 the Hong Kong Stock Exchange does not grant permission to list the H Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Listing Committee notifies our
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Listing Committee notifies our
 Company of that longer period within three weeks of the closing date of the
 application lists.
 (iv) If:
-(cid:129) you make multiple applications or suspected multiple applications;
-(cid:129) you or the person for whose benefit you are applying have applied for or taken
+ you make multiple applications or suspected multiple applications;
+ you or the person for whose benefit you are applying have applied for or taken
 up, or indicated an interest for, or have been or will be placed or allocated
 (including conditionally and/or provisionally) Hong Kong Offer Shares and
 International Offer Shares;
@@ -27051,15 +27051,15 @@ International Offer Shares;
 
 === PAGE 589 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) your electronic application instructions through the HK eIPO White Form
+ your electronic application instructions through the HK eIPO White Form
 service are not completed in accordance with the instructions, terms and
 conditions in the IPO App or on the designated website at www.hkeipo.hk;
-(cid:129) your payment is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) our Company or the Overall Coordinators believes or believe that by accepting
+ your payment is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ our Company or the Overall Coordinators believes or believe that by accepting
 your application, it or they would violate applicable securities or other laws,
 rules or regulations; or
-(cid:129) your application is for more than approximately 50% of the Hong Kong Offer
+ your application is for more than approximately 50% of the Hong Kong Offer
 Shares initially offered under the Hong Kong Public Offering.
 F. REFUND OF APPLICATION MONIES
 If an application is rejected, not accepted or accepted in part only, or if the Offer Price
@@ -27129,18 +27129,18 @@ joint applications, the first-named applicant) by ordinary post at your own risk
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 (ii) If you apply through the CCASS EIPO service
 Allocation of Hong Kong Offer Shares
-(cid:129) For the purposes of allocating Hong Kong Offer Shares, HKSCC
+ For the purposes of allocating Hong Kong Offer Shares, HKSCC
 Nominees will not be treated as an applicant. Instead, each CCASS
 Participant who gives electronic application instructions or each person
 for whose benefit instructions are given will be treated as an applicant.
 Deposit of H Share Certificates into CCASS and Refund of Application Monies
-(cid:129) If your application is wholly or partially successful, your H Share
+ If your application is wholly or partially successful, your H Share
 certificate(s) will be issued in the name of HKSCC Nominees and
 deposited into CCASS for the credit of your designated CCASS
 Participant’s stock account or your CCASS Investor Participant stock
 account onWednesday, October 5, 2022, or, on any other date determined
 by HKSCC or HKSCC Nominees.
-(cid:129) Our Company expects to publish the application results of CCASS
+ Our Company expects to publish the application results of CCASS
 Participants (and where the CCASS Participant is a broker or custodian,
 our Company will include information relating to the relevant beneficial
 owner), your Hong Kong identity card number/passport number or other
@@ -27152,7 +27152,7 @@ You should check the announcement published by our Company and
 report any discrepancies to HKSCC before 5:00 p.m. on Wednesday,
 October 5, 2022 or such other date as determined by HKSCC or HKSCC
 Nominees.
-(cid:129) If you have instructed your broker or custodian to give electronic
+ If you have instructed your broker or custodian to give electronic
 application instructions on your behalf, you can also check the number
 of Hong Kong Offer Shares allocated to you and the amount of refund
 monies (if any) payable to you with that broker or custodian.
@@ -27160,7 +27160,7 @@ monies (if any) payable to you with that broker or custodian.
 
 === PAGE 592 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) If you have applied as a CCASS Investor Participant, you can also check
+ If you have applied as a CCASS Investor Participant, you can also check
 the number of Hong Kong Offer Shares allocated to you and the amount
 of refund monies (if any) payable to you via the CCASS Phone System
 and the CCASS Internet System (under the procedures contained in
@@ -27172,7 +27172,7 @@ to you an activity statement showing the number of Hong Kong Offer
 SharescreditedtoyourCCASSInvestorParticipantstockaccountandthe
 amount of refund monies (if any) credited to your designated bank
 account.
-(cid:129) Refund of your application monies (if any) in respect of wholly and
+ Refund of your application monies (if any) in respect of wholly and
 partially unsuccessful applications and/or difference between the Offer
 Price and the maximum Offer Price per Offer Share initially paid on
 application (including brokerage, SFC transaction levy, the Hong Kong
@@ -35151,8 +35151,8 @@ APPENDIX II UNAUDITED PRO FORMA FINANCIAL INFORMATION
 in the compilation of the Unaudited Pro Forma Financial Information provide a reasonable
 basis for presenting the significant effects directly attributable to the event or transaction, and
 to obtain sufficient appropriate evidence about whether:
-(cid:129) The related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) The Unaudited Pro Forma Financial Information reflects the proper application of
+ The related pro forma adjustments give appropriate effect to those criteria; and
+ The Unaudited Pro Forma Financial Information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountant’s judgment, having regard to
 the reporting accountant’s understanding of the nature of the Group, the event or transaction
@@ -39062,11 +39062,11 @@ preparation method*
 (一種高能量密度三元
 電池及其製備方法)
 12. Preparation method of Our 201710510766.8 Invention 2020.08.18 2037.06.27
-(cid:2)-aluminum oxide Company patent
+ -aluminum oxide Company patent
 applied to lithium-ion
 battery separator*
 (一種鋰離子電池隔膜
-用(cid:2)－氧化鋁的製備方
+用 －氧化鋁的製備方
 法)
 13. Cathode material of Our 201310073175.0 Invention 2016.06.22 2033.03.06
 lithium-ion battery, Company patent

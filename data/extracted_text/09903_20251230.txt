@@ -37,7 +37,7 @@ Sole Sponsor, Sponsor-Overall Coordinator
 Overall Coordinators, Joint Global Coordinators,
 Joint Bookrunners and Joint Lead Managers
 Joint Global Coordinators, Joint Bookrunners and Joint Lead Managers
-(cid:64)(cid:58)(cid:57)(cid:41)(cid:1047)(cid:2123)(cid:11498)(cid:26290)
+ 
 Joint Bookrunners and Joint Lead Managers
 HongKongExchangesandClearingLimited,TheStockExchangeofHongKongLimitedandHongKongSecuritiesClearingCompanyLimitedtakenoresponsibility
 forthecontentsofthisprospectus,makenorepresentationastoitsaccuracyorcompletenessandexpresslydisclaimanyliabilitywhatsoeverforanylosshowsoever
@@ -358,16 +358,16 @@ efficient integration, and adaptability across diverse application scenarios.
 === PAGE 11 ===
 SUMMARY
 AI Computing Solutions
-(cid:2)GPGPU Servers Enhanced
-(cid:2)GPGPU Clusters Efficiency
+ GPGPU Servers Enhanced
+ GPGPU Clusters Efficiency
 Software
-(cid:2)Librariesandframeworks
-(cid:2)Compilersanddrivers GPGPU Products High
+ Librariesandframeworks
+ Compilersanddrivers GPGPU Products High
 Compatibility
 Hardware Strong
 Adaptability
-(cid:2)GPGPUarchitecture
-(cid:2)Instructionset
+ GPGPUarchitecture
+ Instructionset
 OUR PRODUCTS AND SOLUTIONS
 Our portfolio of GPGPU products include chips and accelerators for both training and
 inference scenarios. Leveraging our proprietary GPGPU products, we also offer AI computing
@@ -4176,18 +4176,18 @@ parallel processing across the AI workflow.
 Upstream Midstream Downstream
 R&D of GPGPU
 Raw Materials Training Scenarios
-(cid:129) Semiconductor wafer (cid:129) AI model training in computing clusters
-(cid:129) Memory Training Inference (cid:129) Computing centers
-(cid:129) ... GPGPU GPGPU (cid:129) ...
+ Semiconductor wafer AI model training in computing clusters
+ Memory Training Inference Computing centers
+ ... GPGPU GPGPU ...
 Inference Scenarios
 Toolchains Manufacturing of GPGPU
-(cid:129) Edge AI Inference deployed in edge
-(cid:129) EDA tools (cid:129) Fabricating
+ Edge AI Inference deployed in edge
+ EDA tools Fabricating
 environments
-(cid:129) IP cores (cid:129) Packaging
-(cid:129) cloud-based real-time AI services
-(cid:129) ... (cid:129) ...
-(cid:129) ...
+ IP cores Packaging
+ cloud-based real-time AI services
+ ... ...
+ ...
 Source: Frost & Sullivan report
 Market Size
 Driven by explosive growth in AI applications (particularly large language models), rapid
@@ -7724,16 +7724,16 @@ across diverse application scenarios.
 
 === PAGE 184 ===
 AI Computing Solutions
-(cid:2)GPGPU Servers Enhanced
-(cid:2)GPGPU Clusters Efficiency
+ GPGPU Servers Enhanced
+ GPGPU Clusters Efficiency
 Software
-(cid:2)Librariesandframeworks
-(cid:2)Compilersanddrivers GPGPU Products High
+ Librariesandframeworks
+ Compilersanddrivers GPGPU Products High
 Compatibility
 Hardware Strong
 Adaptability
-(cid:2)GPGPUarchitecture
-(cid:2)Instructionset
+ GPGPUarchitecture
+ Instructionset
 Strong Research and Development Capabilities Supporting Product Leadership
 We specialize in the research, design, and deployment of advanced GPGPU products and
 AI computing solutions across diverse industries. Our core R&D personnel possess invaluable
@@ -16684,9 +16684,9 @@ APPENDIX I ACCOUNTANTS’ REPORT
 The following is the text of a report received from the Company’s reporting accountants,
 Ernst & Young, Certified Public Accountants, Hong Kong, for the purpose of incorporation in this
 Prospectus.
-Ernst & Young (cid:4445)(cid:8716)(cid:7383)(cid:16348)(cid:5119)(cid:1119)(cid:2221)(cid:6164) Tel(cid:19663)(cid:16453): +852 2846 9888
-27/F, One Taikoo Place (cid:20333)(cid:9219)(cid:20950)(cid:20782)(cid:9056)(cid:14533)(cid:11355)(cid:17959)(cid:28)(cid:26)(cid:28)(cid:15411) Fax(cid:1671)(cid:11507): +852 2868 4432
-979 King’s Road (cid:3838)(cid:2488)(cid:3358)(cid:980)(cid:5243)(cid:21)(cid:26)(cid:8167) ey.com
+Ernst & Young Tel : +852 2846 9888
+27/F, One Taikoo Place Fax : +852 2868 4432
+979 King’s Road ey.com
 Quarry Bay, Hong Ko ng
 ACCOUNTANTS’ REPORT ON HISTORICAL FINANCIAL INFORMATION TO THE
 DIRECTORS OF SHANGHAI ILUVATAR COREX SEMICONDUCTOR CO., LTD., AND
@@ -21102,9 +21102,9 @@ prospectus, received from the reporting accountants, Ernst & Young, Certified Pu
 Hong Kong, in respect of the unaudited pro forma financial information.
 B. INDEPENDENT REPORTING ACCOUNTANTS’ ASSURANCE REPORT ON THE
 COMPILATION OF UNAUDITED PRO FORMA FINANCIAL INFORMATION
-Ernst & Young (cid:4445)(cid:8716)(cid:7383)(cid:16348)(cid:5119)(cid:1119)(cid:2221)(cid:6164) Tel(cid:19663)(cid:16453): +852 2846 9888
-27/F, One Taikoo Place (cid:20333)(cid:9219)(cid:20950)(cid:20782)(cid:9056)(cid:14533)(cid:11355)(cid:17959)(cid:28)(cid:26)(cid:28)(cid:15411) Fax(cid:1671)(cid:11507): +852 2868 4432
-979 King’s Road (cid:3838)(cid:2488)(cid:3358)(cid:980)(cid:5243)(cid:21)(cid:26)(cid:8167) ey.com
+Ernst & Young Tel : +852 2846 9888
+27/F, One Taikoo Place Fax : +852 2868 4432
+979 King’s Road ey.com
 Quarry Bay, Hong Ko ng
 To the Directors of Shanghai Iluvatar CoreX Semiconductor Co., Ltd.
 We have completed our assurance engagement to report on the compilation of unaudited

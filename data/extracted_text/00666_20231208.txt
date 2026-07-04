@@ -174,11 +174,11 @@ December 13, 2023
 Expected Price Determination Date(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Thursday,
 December 14, 2023
 Announcement of:
-(cid:129) the final Offer Price;
-(cid:129) the level of applications of the Hong Kong Public Offering;
-(cid:129) the level of indications of interest in the
+ the final Offer Price;
+ the level of applications of the Hong Kong Public Offering;
+ the level of indications of interest in the
 International Offering; and
-(cid:129) the basis of allocation of the Hong Kong Offer Shares
+ the basis of allocation of the Hong Kong Offer Shares
 to be published on the website of the
 Stock Exchange at www.hkexnews.hk and
 our website at www.chinarept.com(6) . . . . . . . . . . . . .on or before 11:00 p.m. on Friday,
@@ -193,17 +193,17 @@ document numbers, where appropriate) to be made
 available through a variety of channels as described
 in the section headed “How to Apply for the Hong Kong
 Offer Shares – Publication of Results,” including:
-(cid:129) on the website of the Stock Exchange at
+ on the website of the Stock Exchange at
 www.hkexnews.hk and our website at
 www.chinarept.com(6) respectively . . . . . . . . . . . . . . . . . . . . .on or before 11:00 p.m.
 on Friday, December 15, 2023
-(cid:129) on the designated results of allocation website at
+ on the designated results of allocation website at
 www.iporesults.com.hk (alternatively:
 www.eipo.com.hk/eIPOAllotment)
 with a “search by ID” function . . . . . . . . . . . . . . . . . . . . . from 11:00 p.m. on Friday,
 December 15, 2023 to 12:00 midnight
 on Thursday, December 21, 2023
-(cid:129) from the allocation results telephone enquiry
+ from the allocation results telephone enquiry
 line by at +852 2862 8555 between 9:00 a.m.
 and 6:00 p.m. . . . . . . . . . . . . . . . . . . . . . . . . . . . .from Monday, December 18, 2023 to
 Thursday, December 21 2023
@@ -433,21 +433,21 @@ We have a series of technologies with advantages in terms of battery materials, 
 design and battery structure, production technique and equipment, which helped us build up a
 product portfolio that is able to achieve safety, reliability and strong performance, while
 improving production efficiency. We have the following R&D highlights:
-(cid:129) WenDing (“問頂”) technology. InAugust 2022, we launched prismatic batteries that
+ WenDing (“問頂”) technology. InAugust 2022, we launched prismatic batteries that
 utilized our WenDing (“問頂”) technology, such technology can be applied to LFP
 battery products as well as ternary lithium battery products to achieve strong
 performance. Such technology could increase energy density of both LFP and
 ternary lithium batteries.
-(cid:129) Easy-for-Tera cells (“ET電芯”). Our Easy-for-Tera cells (“ET電芯”) are flat
+ Easy-for-Tera cells (“ET電芯”). Our Easy-for-Tera cells (“ET電芯”) are flat
 batteries adopting high-speed winding, cutting or stacking integration technology,
 which improves the efficiency of the production process and battery performance.
-(cid:129) Versatile power station. Our versatile power station can be used in various use cases
+ Versatile power station. Our versatile power station can be used in various use cases
 such as electrical energy storage, vehicle charging and utility power backup.
-(cid:129) Semi-solidprismaticbatteries.Wehavedeliveredprototypesofsemi-solidprismatic
+ Semi-solidprismaticbatteries.Wehavedeliveredprototypesofsemi-solidprismatic
 batteries to a luxury vehicle company in Europe, with whom we are conducting
 battery performance tests. The semi-solid batteries technology can further increase
 the mass-energy density and safety performance.
-(cid:129) Sodium-ion battery. We are in the process of developing sodium-ion batteries. Such
+ Sodium-ion battery. We are in the process of developing sodium-ion batteries. Such
 batteries are likely to reduce the cost of ESS batteries by lowering the dependence
 on lithium as the cost of sodium is lower than lithium. As of the Latest Practicable
 Date, we had completed the sample prototyping of sodium-ion battery, but had not
@@ -514,21 +514,21 @@ Suppliers.”
 SUMMARY
 OUR COMPETITIVE STRENGTHS
 Our competitive strengths include:
-(cid:129) Emerging battery manufacturer in an expanding industry
-(cid:129) Strong R&D capabilities
-(cid:129) High-quality and diverse customer base
-(cid:129) Long-term, stable and cost-effective supply chain
-(cid:129) Strong mass production capability
-(cid:129) Experienced and dedicated team
-(cid:129) Commitment to green and sustainable development with high ESG standard
+ Emerging battery manufacturer in an expanding industry
+ Strong R&D capabilities
+ High-quality and diverse customer base
+ Long-term, stable and cost-effective supply chain
+ Strong mass production capability
+ Experienced and dedicated team
+ Commitment to green and sustainable development with high ESG standard
 OUR DEVELOPMENT STRATEGIES
 Our development strategies include:
-(cid:129) Further our dual-focus on EV and ESS batteries
-(cid:129) Devote to R&D
-(cid:129) Expand our production capacity steadily and orderly according to market demand
+ Further our dual-focus on EV and ESS batteries
+ Devote to R&D
+ Expand our production capacity steadily and orderly according to market demand
 while pursuing cost leadership
-(cid:129) Ensure stable and cost-effective supply of raw materials
-(cid:129) Promote green and sustainable development with high ESG standards
+ Ensure stable and cost-effective supply of raw materials
+ Promote green and sustainable development with high ESG standards
 COMPETITION
 The global lithium-ion battery market is highly competitive and concentrated, and we
 expect that the competition will be more intense in the future. According to the F&S Report,
@@ -622,7 +622,7 @@ to set out our product prices more competitively in the short term in considerat
 share growth.We believe that we will be able to become profitable and generate operating cash
 inflow in 2025, and we plan to achieve that through the following in addition to our adjustment
 of product prices:
-(cid:129) Improving production efficiency. We have taken several initiatives in recent years to
+ Improving production efficiency. We have taken several initiatives in recent years to
 improve our production efficiency. We will continue to utilize our production
 technologies, equipment and machinery, and further optimize our production
 processesandtechniquestoimproveourproductionefficiencyandaimtoreducethe
@@ -635,7 +635,7 @@ improvement.
 
 === PAGE 17 ===
 SUMMARY
-(cid:129) Strengthening Resilience to Raw Material Cost Fluctuations. As we expand our
+ Strengthening Resilience to Raw Material Cost Fluctuations. As we expand our
 business and production scale, we will need more raw materials. In response to the
 rapid and sharp fluctuation in raw material prices, we have historically taken and
 going forward will continue to take measures such as (i) strategic cooperation with
@@ -651,13 +651,13 @@ network to help our suppliers source feedstock materials, such as lithium carbon
 However, we may not have strong bargaining power with customers and suppliers,
 and may not be able to effectively mitigate the impact of raw material price
 fluctuations despite all the measures being put in place.
-(cid:129) Increasing Sales Revenue. Going forward, we aim to continue our dual-focus
+ Increasing Sales Revenue. Going forward, we aim to continue our dual-focus
 strategy and strategically allocate our production capacity for both EV and ESS
 battery products to capitalize on the expected strong growths in both areas. In
 particular, we plan to further increase our sales through (i) improved product
 offerings and increasing bargaining power, and (ii) optimizing customer base and
 improving product mix.
-(cid:129) Forming Economies of Scale. Higher margins are typically associated with the
+ Forming Economies of Scale. Higher margins are typically associated with the
 economies of scale.As we grow our operational scale and achieve better economies
 of scale, we expect our operation expenses, largely of relatively fix nature, to
 account for a decreasing proportion of our revenue.
@@ -1610,30 +1610,30 @@ has been no event since June 30, 2023 that would materially affect the informati
 in the Accountants’ Report in Appendix I to this prospectus.
 SUMMARY OF MAJOR RISK FACTORS
 Our major risk factors include:
-(cid:129) We have a limited operating history, making it difficult to evaluate our business
+ We have a limited operating history, making it difficult to evaluate our business
 prospects, and we may not be successful in expanding our operations or managing
 our growth.
-(cid:129) We recorded net losses in the past, and we have not been profitable yet.
-(cid:129) Our plans to achieve profitability may not develop as expected, which may affect
+ We recorded net losses in the past, and we have not been profitable yet.
+ Our plans to achieve profitability may not develop as expected, which may affect
 our business sustainability.
-(cid:129) We are exposed to risks relating to price fluctuations of raw materials.
-(cid:129) We may not be able to derive the desired benefits from our R&D efforts, which may
+ We are exposed to risks relating to price fluctuations of raw materials.
+ We may not be able to derive the desired benefits from our R&D efforts, which may
 negatively affect our competitiveness and profitability.
-(cid:129) We may not be able to increase our production capacity as planned, and even if our
+ We may not be able to increase our production capacity as planned, and even if our
 production expansion projects proceed as planned, we may not be able to increase
 our production output in a timely manner or at all as envisaged.
 – 31 –
 
 === PAGE 41 ===
 SUMMARY
-(cid:129) We purchase certain key raw materials and components from third parties, and we
+ We purchase certain key raw materials and components from third parties, and we
 may not be able to secure our supply of key raw materials in a stable and timely
 manner.
-(cid:129) We may be required to purchase certain amounts of raw materials under the
+ We may be required to purchase certain amounts of raw materials under the
 long-term off-take agreements entered into with some of our raw material suppliers,
 which may exceed our production needs.
-(cid:129) We face competition in our business.
-(cid:129) Wemayfailtorecoverourtradeandbillsreceivablesinatimelymanner,whichmay
+ We face competition in our business.
+ Wemayfailtorecoverourtradeandbillsreceivablesinatimelymanner,whichmay
 affect our financial condition and results of operations.
 – 32 –
 
@@ -2785,21 +2785,21 @@ our present and future business strategies and the environment in which we will 
 future. Important factors that could cause our actual performance or achievements to differ
 materially from those in the forward-looking statements include, among other things, the
 following:
-(cid:129) general political and economic conditions, including those related to the PRC;
-(cid:129) our ability to successfully implement our business plans and strategies;
-(cid:129) future developments, trends and conditions in the industry and markets in which we
+ general political and economic conditions, including those related to the PRC;
+ our ability to successfully implement our business plans and strategies;
+ future developments, trends and conditions in the industry and markets in which we
 operate or into which we intend to expand;
-(cid:129) our business operations and prospects;
-(cid:129) our capital expenditure plans;
-(cid:129) the actions and developments of our competitors;
-(cid:129) our financial condition and performance;
-(cid:129) capital market developments;
-(cid:129) our dividend policy;
-(cid:129) any changes in the laws, rules and regulations of the central and local governments
+ our business operations and prospects;
+ our capital expenditure plans;
+ the actions and developments of our competitors;
+ our financial condition and performance;
+ capital market developments;
+ our dividend policy;
+ any changes in the laws, rules and regulations of the central and local governments
 in the PRC and other relevant jurisdictions and the rules, regulations and policies of
 the relevant governmental authorities relating to all aspects of our business and our
 business plans; and
-(cid:129) various business opportunities that we may pursue.
+ various business opportunities that we may pursue.
 – 64 –
 
 === PAGE 74 ===
@@ -2840,12 +2840,12 @@ Comprehensive Income – Revenue.” However, our historical revenue growth shou
 considered as an indicator of our future performance. Investors should comprehensively
 consider our business and prospects in light of the risks and challenges we face in our industry
 as a new entrant, including but not limited to our ability to:
-(cid:129) design and produce safe, reliable and quality products;
-(cid:129) continuously improve our R&D capabilities;
-(cid:129) improve operating efficiency and achieve economies of scale;
-(cid:129) build a well-recognized and respected brand;
-(cid:129) expand our customer base; and
-(cid:129) effectively manage our supply chain.
+ design and produce safe, reliable and quality products;
+ continuously improve our R&D capabilities;
+ improve operating efficiency and achieve economies of scale;
+ build a well-recognized and respected brand;
+ expand our customer base; and
+ effectively manage our supply chain.
 – 66 –
 
 === PAGE 76 ===
@@ -3080,16 +3080,16 @@ However, even if we manage to expand our production capacity as planned, there i
 assurancethatwemayincreaseourproductionoutputinatimelymanneroratallasenvisaged.
 Our ability to increase our production output is subject to significant constraints and
 uncertainties, including but not limited to:
-(cid:129) delays by our suppliers and equipment vendors and cost overruns as a result of a
+ delays by our suppliers and equipment vendors and cost overruns as a result of a
 number of factors, many of which may be beyond our control or cannot be foreseen,
 such as increases in raw material prices and problems with equipment vendors;
-(cid:129) delays in government approval process or denial of required approvals for
+ delays in government approval process or denial of required approvals for
 production by relevant government authorities;
-(cid:129) our ability to configure the production lines for specific products in a timely
+ our ability to configure the production lines for specific products in a timely
 manner;
-(cid:129) the performance of the manufacturing equipment we procured and the production
+ the performance of the manufacturing equipment we procured and the production
 expertise we retained; and
-(cid:129) diversion of significant management attention and other resources.
+ diversion of significant management attention and other resources.
 Moreover, our product development, manufacturing and testing protocols are complex
 and require significant technological and production process expertise. Any change in our
 processes could cause one or more production errors, requiring a temporary suspension or
@@ -3225,11 +3225,11 @@ urge us to obtain licenses. Our uses of trademarks relating to our design, softw
 could be found to infringe upon existing intellectual property rights owned by others. In
 addition, if we are found to have infringed upon a third party’s intellectual property rights, we
 may be required to do one or more of the following:
-(cid:129) cease to sell products that are involved in the challenged intellectual property rights
+ cease to sell products that are involved in the challenged intellectual property rights
 owned by others;
-(cid:129) pay damages;
-(cid:129) redesign our products; or
-(cid:129) establish and maintain alternative branding for our products.
+ pay damages;
+ redesign our products; or
+ establish and maintain alternative branding for our products.
 – 75 –
 
 === PAGE 85 ===
@@ -3307,15 +3307,15 @@ well as the global ESS market, were major drivers for our growth during the Trac
 Period. See “Financial Information – Significant Factors Affecting Our Results of Operations
 – End Market that We Serve and Fluctuation in Customer Demand.” The downstream demands
 for EVs and ESSs are affected by many factors, such as:
-(cid:129) the specifications of EVs, such as purchase price, charging time, driving range,
+ the specifications of EVs, such as purchase price, charging time, driving range,
 reliability and battery life; and of ESSs, such as the cost of renewable energy and
 the cost of corresponding energy storage systems;
-(cid:129) the government policies which promote the development of EVs and ESSs;
-(cid:129) the seasonality of China’s EV market, where historically the sales volume of EV in
+ the government policies which promote the development of EVs and ESSs;
+ the seasonality of China’s EV market, where historically the sales volume of EV in
 the fist half year was generally lower than that of the second half year, which was
 affected by factors such as consumption habits, launch time of new EVs and
 holidays; and
-(cid:129) the macro-economies which affected the consumption habits of the society.
+ the macro-economies which affected the consumption habits of the society.
 – 77 –
 
 === PAGE 87 ===
@@ -3859,23 +3859,23 @@ may incorporate our battery products and sell their end-products overseas. See �
 Information – Revenue – Revenue by Region.” While we expect the PRC will continue to be
 our primary market, we may expand the sales of our products overseas, which will expose us
 to a number of risks, including, but not limited to:
-(cid:129) fluctuations in foreign currency exchange rates;
-(cid:129) increased costs associated with maintaining the ability to understand the local
+ fluctuations in foreign currency exchange rates;
+ increased costs associated with maintaining the ability to understand the local
 markets and develop and maintain effective marketing and distributing presence in
 various countries;
-(cid:129) providing customer service and support in these markets;
-(cid:129) difficulty with staffing and managing overseas operations;
-(cid:129) failure to develop and implement appropriate risk management and internal control
+ providing customer service and support in these markets;
+ difficulty with staffing and managing overseas operations;
+ failure to develop and implement appropriate risk management and internal control
 structures tailored to overseas operations;
-(cid:129) difficulty and cost relating to compliance with different commercial and legal
+ difficulty and cost relating to compliance with different commercial and legal
 requirementsoftheoverseasmarketsinwhichweofferorplantoofferourproducts;
-(cid:129) failure to obtain or maintain permits for our products or services in these markets;
-(cid:129) different safety concerns and measures needed to address accident related risks in
+ failure to obtain or maintain permits for our products or services in these markets;
+ different safety concerns and measures needed to address accident related risks in
 different countries and regions;
-(cid:129) inability to obtain, maintain or enforce intellectual property rights;
-(cid:129) unanticipated changes in prevailing economic conditions and regulatory
+ inability to obtain, maintain or enforce intellectual property rights;
+ unanticipated changes in prevailing economic conditions and regulatory
 requirements; and
-(cid:129) trade barriers such as export requirements, tariffs, taxes and other restrictions and
+ trade barriers such as export requirements, tariffs, taxes and other restrictions and
 expenses.
 Moreover, we intend to establish overseas production facilities in the future. The success
 of our overseas expansion plans depends on whether we could adequately, timely and
@@ -4383,11 +4383,11 @@ time in the future. Due to the current economic, political, social and regulator
 itmaybedifficultforustopredictalltherisksanduncertaintieswemayface,andaslow-down
 of China’s economy may have a material adverse effect on our business and results of
 operations, in particular:
-(cid:129) duringaperiodofeconomicslowdown,thereisagreaterlikelihoodthatmoreofour
+ duringaperiodofeconomicslowdown,thereisagreaterlikelihoodthatmoreofour
 customers or contractual parties could become delinquent in respect of their
 obligations to us;
-(cid:129) we may not be able to raise additional capital on favorable terms, or at all; or
-(cid:129) trade and capital flows may further contract as a result of protectionist measures
+ we may not be able to raise additional capital on favorable terms, or at all; or
+ trade and capital flows may further contract as a result of protectionist measures
 introduced in certain markets, which could cause a further slowdown in economies
 and materially and adversely affect our business and prospects.
 In addition, factors such as consumer, corporate and government spending, business
@@ -4726,17 +4726,17 @@ RISK FACTORS
 Furthermore,thepriceandtradingvolumeofourHSharesmaybevolatile.Thefollowing
 factors, among others, may cause the market price of our H Shares after the Global Offering
 to vary significantly from the Offer Price:
-(cid:129) variations in our revenue, earnings and cash flow;
-(cid:129) unexpected business interruptions resulting from natural disasters or power
+ variations in our revenue, earnings and cash flow;
+ unexpected business interruptions resulting from natural disasters or power
 shortages;
-(cid:129) major changes in our key personnel or senior management;
-(cid:129) our inability to obtain or maintain regulatory approval for our operations;
-(cid:129) our inability to compete effectively in the market;
-(cid:129) political, economic, financial and social developments in China and Hong Kong and
+ major changes in our key personnel or senior management;
+ our inability to obtain or maintain regulatory approval for our operations;
+ our inability to compete effectively in the market;
+ political, economic, financial and social developments in China and Hong Kong and
 in the global economy;
-(cid:129) fluctuations in stock market prices and volume;
-(cid:129) changes in analysts’ estimates of our financial performance; and
-(cid:129) involvement in material litigation.
+ fluctuations in stock market prices and volume;
+ changes in analysts’ estimates of our financial performance; and
+ involvement in material litigation.
 Moreover, shares of other companies listed on the Stock Exchange with operations and
 assets in China have experienced significant price volatility in the past. It is possible that our
 H Shares may be subject to changes in price not directly related to our performance and as a
@@ -4823,14 +4823,14 @@ relevant debt obligations and our liquidity and financial conditions may be mate
 adversely affected.
 Our ability to obtain additional capital on acceptable terms is subject to a variety of
 uncertainties, including:
-(cid:129) investors’ perception of, and demand for, securities of battery producers;
-(cid:129) conditions in Hong Kong and other capital markets in which we may seek to raise
+ investors’ perception of, and demand for, securities of battery producers;
+ conditions in Hong Kong and other capital markets in which we may seek to raise
 funds;
-(cid:129) our future results of operations, financial condition and cash flows;
-(cid:129) the PRC governmental regulation of foreign investment in new energy sectors in
+ our future results of operations, financial condition and cash flows;
+ the PRC governmental regulation of foreign investment in new energy sectors in
 China;
-(cid:129) economic, political and other conditions in China; and
-(cid:129) the PRC governmental policies relating to foreign currency borrowings.
+ economic, political and other conditions in China; and
+ the PRC governmental policies relating to foreign currency borrowings.
 We cannot assure you that financing will be available in the amounts or on terms
 acceptable to us, if at all. If we fail to raise additional funds, we may need to sell debt or
 additional equity securities or reduce our growth to a level that can be supported by our cash
@@ -5625,7 +5625,7 @@ developing and expanding the Company’s business, (ii) attracting and retaining
 the Group and (iii) streamlining the shareholding structure, the Company undertook several
 rounds of increases in registered capital and/or share transfers. Details of such major equity
 transfer and capital increase are summarized below:
-(cid:129) in January 2018, Mr. Yu Zhaoyu transferred his shareholdings in the Company,
+ in January 2018, Mr. Yu Zhaoyu transferred his shareholdings in the Company,
 representing 9% and 7% of the Company’s then registered capital, to Irestal and Dr.
 Cao Hui at a consideration of nil and RMB6 million, respectively; Mr. Liu Si
 transferred his shareholdings in the Company, representing 2% and 3% of the
@@ -5635,7 +5635,7 @@ transferred his shareholdings in the Company, representing 3% of the Company’s
 then registered capital, to Dr. Hou Min at a consideration of RMB3 million. The
 considerationsofaboveequitytransfersweredeterminedbasedontheamountofthe
 paid-up register capital of the Company contributed by the transferors;
-(cid:129) in July 2018, Irestal, Zhejiang Tsingshan and REPTTechnology transferred all their
+ in July 2018, Irestal, Zhejiang Tsingshan and REPTTechnology transferred all their
 respective shareholdings in the Company, representing 48%, 19% and 1% of the
 Company’s total registered capital, to Yongqing Technology at a consideration of
 RMB48 million, RMB19 million and RMB1 million, respectively. The
@@ -5645,13 +5645,13 @@ paid-up register capital of the Company contributed by the transferors;
 
 === PAGE 145 ===
 HISTORY AND DEVELOPMENT
-(cid:129) in July 2018, the registered capital of the Company increased from RMB100 million
+ in July 2018, the registered capital of the Company increased from RMB100 million
 to RMB300 million, among which RMB136 million was contributed by Yongqing
 Technology and RMB64 million was contributed by Shanghai Fuqin Enterprise
 Development Partnership (Limited Partnership) (上海孚勤企業發展合夥企業(有限
 合夥), “Shanghai Fuqin”), a non-wholly-owned subsidiary of Yongqing
 Technology;
-(cid:129) in June 2020, (i) Yongqing Technology, Shanghai Fuqin, Mr. Jiang Sen and Irestal
+ in June 2020, (i) Yongqing Technology, Shanghai Fuqin, Mr. Jiang Sen and Irestal
 transferredallorpartoftheirrespectiveshareholdingsintheCompany,representing
 68.00%,3.33%,0.67%and2.47%oftheCompany’sthenregisteredcapital,toRuitu
 Energy, a wholly-owned subsidiary of Yongqing Technology, at a consideration of
@@ -8972,11 +8972,11 @@ batteries have longer cycle life and lower materials cost. Benefiting from gover
 subsidies, ternary batteries with higher energy density gained the most of market share from
 2018 to 2020 in China. From 2021 onwards, LFP battery has become more widely applied in
 EVs than ternary battery in China mainly due to the following drivers:
-(cid:129) Inherent advantages over ternary battery: LFP battery has better thermal stability
+ Inherent advantages over ternary battery: LFP battery has better thermal stability
 with better safety characteristic, higher cycle life which normally reaches 2,000 –
 4,000 times, as well as lower cost. In comparison, ternary batteries usually have a
 cycle life of 1,500-2,000 times;
-(cid:129) Abundant upstream raw materials: Ferrous lithium phosphate is used as cathode
+ Abundant upstream raw materials: Ferrous lithium phosphate is used as cathode
 material of LFP battery, which is abundant in nature, while ternary battery contains
 metals such as cobalt and nickel, which are scarce resources that are more
 vulnerable to supply and price fluctuations;
@@ -8984,12 +8984,12 @@ vulnerable to supply and price fluctuations;
 
 === PAGE 192 ===
 INDUSTRY OVERVIEW
-(cid:129) Suitability for vehicle application: Although the energy density of LFP battery is
+ Suitability for vehicle application: Although the energy density of LFP battery is
 lower than that of ternary battery, the battery capacity is sufficient for daily
 commuting, which makes LFPbattery more suitable for low-and middle-end EVs to
 keep costs down and provide cost-effective options, which caters to the affordability
 needs of the large population base in China;
-(cid:129) OEMs applying LFP battery successively: As Chinese EV battery manufacturers
+ OEMs applying LFP battery successively: As Chinese EV battery manufacturers
 continue to develop and introduce LFP battery with higher energy density based on
 cutting-edge technologies, downstream OEMs continue to apply more LFPbatteries
 to their vehicle models, in consideration of the improving drive range and lower
@@ -10339,15 +10339,15 @@ and sales of EV and ESS lithium-ion battery products including battery cells, mo
 packs (including battery boxes, battery racks and energy storage containers for ESS packs).
 According to the F&S Report, in China, in 2022 and the six months ended June 30, 2023, we
 were:
-(cid:129) the tenth largest lithium-ion battery manufacturer globally in both periods in terms
+ the tenth largest lithium-ion battery manufacturer globally in both periods in terms
 of annual installation for new energy applications, which include EV battery and
 ESS battery;
-(cid:129) the sixth largest lithium-ion battery manufacturer in China in both periods in terms
+ the sixth largest lithium-ion battery manufacturer in China in both periods in terms
 of global annual installations for new energy applications, which include EVbattery
 and ESS battery;
-(cid:129) the tenth largest lithium-ion battery manufacturer globally in both periods in terms
+ the tenth largest lithium-ion battery manufacturer globally in both periods in terms
 of China EV battery installations;
-(cid:129) the third and fourth largest lithium-ion battery manufacturer globally in terms of
+ the third and fourth largest lithium-ion battery manufacturer globally in terms of
 global ESS battery installations, respectively
 According to the F&S Report, there has been an undersupply of EV and ESS battery
 products in recent years and the markets of EV and ESS battery products still have great
@@ -10362,7 +10362,7 @@ products, combined with the ability to quickly roll out large-scale production c
 pursuit of dual-focus strategy on EV and ESS batteries, enabled us to penetrate the lithium-ion
 battery market, expand business scale, build up our customer base and achieve robust revenue
 growth within a short timeframe. More specifically:
-(cid:129) Our R&D capabilities and high-quality products: Our strong R&D capabilities
+ Our R&D capabilities and high-quality products: Our strong R&D capabilities
 enabled us to design and develop high-quality lithium-ion battery products with
 features catered to the specific needs of customers in a timely manner, which in turn
 enhanced our customer loyalty and built up our customer base. For example, as of
@@ -10378,7 +10378,7 @@ battery packs we sold in 2019 were highly customized with features such as
 frequency adjustment which facilitated stable energy supply and surplus energy
 storage to suit the special condition of the standalone power grid in the large-scale
 industrial park in Indonesia operated by a subsidiary of the Tsingshan Group.
-(cid:129) Our mass production capabilities: We have strong execution capabilities in
+ Our mass production capabilities: We have strong execution capabilities in
 designing, constructing and operating large-scale production facilities. In particular,
 our capability in comprehensive evaluation of our investment and operating costs in
 plant construction and production line planning enabled us to achieve quick
@@ -10392,7 +10392,7 @@ provide adequate and stable supply of high-quality products to downstream
 customers.Ourgrowthinsalesvolumeofourbatteryproductsweregenerallyinline
 with the growth in our designed annual production capacity during theTrack Record
 Period.
-(cid:129) Our dual-focus strategy and customer acquisition:We pursue a dual-focus strategy
+ Our dual-focus strategy and customer acquisition:We pursue a dual-focus strategy
 on EV and ESS batteries. The sales of the customized ESS battery packs to
 Indonesia in 2019 jump-started our business. In 2020, as some of our EV battery
 products passed the verification processes required by our EV manufacturer
@@ -10519,19 +10519,19 @@ We have a series of technologies with advantages in terms of battery materials, 
 design and battery structure, production technique and equipment, which helped us build up a
 product portfolio that is able to achieve safety, reliability, excellent driving range and strong
 performance, while improving production efficiency. We have the following R&D highlights:
-(cid:129) WenDing (“問頂”) technology. InAugust 2022, we launched prismatic batteries that
+ WenDing (“問頂”) technology. InAugust 2022, we launched prismatic batteries that
 utilized our WenDing (“問頂”) technology. Such technology can be applied to LFP
 battery products as well as ternary lithium battery products to achieve strong
 performance.
-(cid:129) Easy-for-Tera cells (“ET電芯”). Our Easy-for-Tera cells (“ET電芯”) are flat
+ Easy-for-Tera cells (“ET電芯”). Our Easy-for-Tera cells (“ET電芯”) are flat
 batteries adopting high-speed winding, cutting or stacking integration technology,
 which improves the efficiency of the production process and battery performance.
-(cid:129) Versatile power station. Our versatile power station can be used in various use cases
+ Versatile power station. Our versatile power station can be used in various use cases
 such as electrical energy storage, vehicle charging and utility power backup.
-(cid:129) Semi-solidprismaticbatteries.Wehavedeliveredprototypesofsemi-solidprismatic
+ Semi-solidprismaticbatteries.Wehavedeliveredprototypesofsemi-solidprismatic
 batteries to a luxury vehicle company in Europe, with whom we are conducting
 battery performance tests.
-(cid:129) Sodium-ion battery. We are in the process of developing sodium-ion batteries. Such
+ Sodium-ion battery. We are in the process of developing sodium-ion batteries. Such
 batteries are likely to reduce the cost of ESS batteries and lower the dependence on
 lithium.
 Our Financial Performance
@@ -10581,30 +10581,30 @@ Amid the global energy transition, the downstream EV industry and ESS industry a
 expanding, which present significant growth opportunities for us. Driven by downstream
 demands, we expect to maintain our high growth in the foreseeable future. According to the
 F&S Report:
-(cid:129) EV sales volume in China is expected to reach 18.1 million units, growing at a
+ EV sales volume in China is expected to reach 18.1 million units, growing at a
 CAGR of 21.3% from 2022 to 2027, with penetration rates being 65.3% and 19.1%
 for passenger EV and commercial EV in 2027, respectively;
 – 220 –
 
 === PAGE 230 ===
 BUSINESS
-(cid:129) global penetration rate of passenger EV and commercial EV is expected to reach
+ global penetration rate of passenger EV and commercial EV is expected to reach
 44.6% and 3.1% respectively, and the global sales volume of EV is expected to
 increase at a CAGR of 26.1% from 11.0 million units in 2022 to 35.2 million units
 in 2027;
-(cid:129) EVbatteryannualinstallationsinChinaisexpectedtoincreaseataCAGRof41.1%
+ EVbatteryannualinstallationsinChinaisexpectedtoincreaseataCAGRof41.1%
 from 294.6GWh in 2022 to 1,648.6GWh in 2027; and
-(cid:129) global EV battery annual installation is expected to increase at a CAGR of 38.8%
+ global EV battery annual installation is expected to increase at a CAGR of 38.8%
 from 504.5GWh in 2022 to 2,597.1GWh in 2027.
 Renewable energy such as wind and solar power has proliferated as part of the global
 energy transits and carbon neutrality efforts, which presents challenges to the scale and
 efficiency of power grid. ESS have emerged to resolve the challenges faced by power
 generators, power grids and power users, and the development of ESS industry has been
 supported by favorable policies in many countries.
-(cid:129) According to the F&S Report, the global annual ESS battery installations is
+ According to the F&S Report, the global annual ESS battery installations is
 expected to increase at a CAGR of 53.7% from 119.3GWh in 2022 to 1,023.1GWh
 in 2027.
-(cid:129) China’s ESS market, especially grid energy storage and commercial and industrial
+ China’s ESS market, especially grid energy storage and commercial and industrial
 energy storage, is also expected to achieve massive growth in the coming years
 benefiting from various favorable policies.
 We believe that we are well-positioned to seize the tremendous growth opportunities in
@@ -10633,14 +10633,14 @@ technology, green and detachable CTP technology and minimalism cover, among othe
 are supported by our equipment such as the ultrahigh-pressure high speed liquid injection
 machine.We are also able to customize our products to suit the specific needs of our customers
 in return for higher prices.
-(cid:129) Our SCL technology improves the safety performance of batteries, increases the
+ Our SCL technology improves the safety performance of batteries, increases the
 volumetric energy density and improve the utilization of battery space.
-(cid:129) Our green and detachable CTP technology enables the dismantling of large battery
+ Our green and detachable CTP technology enables the dismantling of large battery
 packs, which reduces the maintenance requirements for batteries and allow for
 convenient recycling.
-(cid:129) Our minimalism battery top cover technology can increase the effective usable
+ Our minimalism battery top cover technology can increase the effective usable
 capacity and space of battery cells and reduce battery weight and production cost.
-(cid:129) Our ultra-high pressure high speed liquid injection machine ensures higher
+ Our ultra-high pressure high speed liquid injection machine ensures higher
 efficiency of electrolyte injection inside the battery cell and is effective in
 improving the stability of the battery’s long cycle performance.
 As of the Latest Practicable Date, we had 2,912 patent applications, including
@@ -10651,16 +10651,16 @@ invention patents and 11 design patents.
 We are also devoted to developing innovative technology in the industry through the
 application of advanced material and structure technologies. We have developed various
 battery prototypes that we expect to put into commercial production, including:
-(cid:129) prismatic LFP and ternary batteries that utilized our WenDing (“問頂”) technology.
+ prismatic LFP and ternary batteries that utilized our WenDing (“問頂”) technology.
 The volumetric energy density, mass energy density and driving range of such
 batteries exceeded industry average, according to the F&S Report.
-(cid:129) Easy-for-Tera cell (“ET電芯”) are flat batteries adopting high-speed winding,
+ Easy-for-Tera cell (“ET電芯”) are flat batteries adopting high-speed winding,
 cutting or stacking integration technology in our flat batteries, which improves the
 efficiency of the production process and battery performance.
-(cid:129) Twin Star (“雙子星”) battery combines the advantages of LFPand ternary batteries,
+ Twin Star (“雙子星”) battery combines the advantages of LFPand ternary batteries,
 and can be applied in various use cases. It improves user experience through
 fast-charging and high safety performance.
-(cid:129) Ourversatilepowerstationcanbeusedinvarioususecasessuchaselectricalenergy
+ Ourversatilepowerstationcanbeusedinvarioususecasessuchaselectricalenergy
 storage, vehicle charging and utility power backup. It is equipped with automatic
 fire prevention system, including high-sensitivity detectors of temperature, smoke
 and gas, to improve the safety of the energy storage system.
@@ -10733,7 +10733,7 @@ battery product with energy capacity of more than 300Ah to obtain the UL9540Acer
 in the industry. To capture overseas demands, we have been in the process of establishing
 after-sales service centers in Europe. Our ESS battery was mainly adopted in the following
 scenarios:
-(cid:129) Household ESS sector. We have received extensive recognition in the performance
+ Household ESS sector. We have received extensive recognition in the performance
 and safety of our battery products for household ESS, and have established stable
 and long-term cooperation with leading inverter manufacturers, which helped us
 achieve strong customer recognition and loyalty. Our customers, such as Sungrow
@@ -10742,7 +10742,7 @@ their inverters into household ESS systems through smart hardware and software,
 which are sold to end-users in Europe, Australia and the United States, which
 reflects our contributions to the application of green energy for household
 worldwide.
-(cid:129) Domestic and overseas commercial and industrial ESS sector. We actively expand
+ Domestic and overseas commercial and industrial ESS sector. We actively expand
 our domestic and overseas presence by undertaking energy storage projects with
 industrial and commercial customers. In China, we have carried out a number of
 large-scale energy storage projects such as the “State Grid Shandong Xintai
@@ -10789,7 +10789,7 @@ equipment that will enable us to rapidly achieve stable mass production while in
 minimum production cost, thereby seizing the opportunity in the coming “TWh era.”
 Specifically, we believe the following are critical to our success in terms of achieving
 production efficiency and cost reduction:
-(cid:129) Outstanding manufacturing capabilities. We operate a standardized manufacturing
+ Outstanding manufacturing capabilities. We operate a standardized manufacturing
 platform for EV and ESS battery products and exercise standardized control on
 various aspects in the mass production process, such as plant environment, raw
 materials, equipment, production process and subcomponents of products. These
@@ -10803,7 +10803,7 @@ require some quick set-up before switch to manufacturing another products.
 
 === PAGE 235 ===
 BUSINESS
-(cid:129) Intelligent manufacturing and digitalized production process control. We automate
+ Intelligent manufacturing and digitalized production process control. We automate
 ourproductionprocessanddigitalizeourproductionmanagementthroughtheuseof
 ERP, MES, WMS, WCS and other intelligent control systems and automatic
 collection of data relating to materials, equipment, personnel, logistics and
@@ -10863,7 +10863,7 @@ and safety management system, saving energy and protecting the environment. Our 
 havepassedrelevantenvironmentinspections,andstrictlycomplywithrelevantenvironmental
 protection standards. More specifically, we have implemented the following measures and
 systems:
-(cid:129) Supply chain traceability and management. We have included ESG related
+ Supply chain traceability and management. We have included ESG related
 performance into our supplier evaluation criteria. We pay close attention to carbon
 emissions caused by the suppliers, and are committed to working with suppliers to
 address pollution during raw materials production. For instance, we purchase raw
@@ -10871,19 +10871,19 @@ materials from Tsingshan Group, while Tsingshan Group is in the process of
 installing a 25MW solar farm in its joint-venture lithium salt lake project
 Centenario-Ratones in Argentina, which will significantly lower the carbon
 footprint.
-(cid:129) Energy Utilization. We have established a photovoltaic green energy system in our
+ Energy Utilization. We have established a photovoltaic green energy system in our
 Wenzhoufacility.Thephotovoltaicgreenenergysystemisabletosavestandardcoal
 and reduce the emission of carbon dioxide. We also have set up a special heat
 recovery system to reduce the consumption of natural gas, which allowed us to save
 approximately 700,000 m3 of natural gas per annum.
-(cid:129) Discharge and recycle of waste.We use special boilers that reduce the concentration
+ Discharge and recycle of waste.We use special boilers that reduce the concentration
 of carbon dioxide and other pollutants in our emissions. We have been able to meet
 emission standards and comply with the Emission Standard of Air Pollutants for
 Boiler since our inception. In terms of solid waste recycling, we cooperate with
 professional resource recycling operators, leverage their expertise and technology
 and recycle general solid waste through detailed classification, which has increased
 the recycle value of the solid waste.
-(cid:129) Occupational health and safety.We are committed to occupational health and safety
+ Occupational health and safety.We are committed to occupational health and safety
 of our employees. Since our inception and up to the Latest Practicable Date, we did
 not experience any material accidents involving personal injury or property damage,
 and we were not subject to any material claims, lawsuits, penalties or disciplinary
@@ -10892,7 +10892,7 @@ actions as a result of any material accidents.
 
 === PAGE 237 ===
 BUSINESS
-(cid:129) Corporate social responsibility framework. We have set up a social responsibility
+ Corporate social responsibility framework. We have set up a social responsibility
 management team in which the chairman of the board serves as the responsible
 person and the chief executive as the management representative. We have been
 recognized by the ISO 45001:2018 – Occupational Health and Safety Management
@@ -10904,7 +10904,7 @@ generally refer to the rates provided by EcoVadis which awarded us the bronze
 medal as mentioned above, which helped our exports to Europe. As of the Latest
 Practicable Date, the bronze medal for corporate social responsibility awarded by
 EcoVadis was expired and we were in the process of reapplying for it.
-(cid:129) Battery recycling. We are also committed to establishing and developing
+ Battery recycling. We are also committed to establishing and developing
 technologies to recycle lithium-ion batteries. In November 2021 and July 2022, we
 enteredintostrategiccooperationagreementswithGEM(格林美)tojointlypromote
 the safe recycling for EV batteries for the safe recycling, storage and green disposal
@@ -10920,7 +10920,7 @@ achieve such goal by implementing the following development strategies:
 Further our dual-focus on EV and ESS batteries
 We believe that both the EV and ESS battery markets have significant growth potential.
 We intend to actively seize the opportunities in both markets through the following initiatives:
-(cid:129) EV batteries. We plan to focus on expanding passenger vehicle customer base, in
+ EV batteries. We plan to focus on expanding passenger vehicle customer base, in
 particular mid- to high- end passenger vehicle manufacturers in China and overseas.
 In addition, we plan to expand the application of our products to more scenarios,
 including mining equipment, construction machineries and vessels. We also plan to
@@ -10932,7 +10932,7 @@ increasing our market share.
 
 === PAGE 238 ===
 BUSINESS
-(cid:129) ESS batteries. We plan to consolidate and deepen our cooperative relationship with
+ ESS batteries. We plan to consolidate and deepen our cooperative relationship with
 our existing domestic customers and increase penetration rate. In addition, we are
 contemplating to expand our customer base to include more overseas ESS
 integrators, thereby increasing our export sales. We also intend to increase the
@@ -10942,24 +10942,24 @@ We intend to further our commitment on R&D to strengthen our market position and
 out competitive products. We plan to focus our R&D efforts to improve energy density, cycle
 life, safety, fast-charging and cost-effectiveness of our products. In particular, we intend to
 advance our R&D in the following areas:
-(cid:129) Composite material system. We aim to improve the safety performance and power
+ Composite material system. We aim to improve the safety performance and power
 performance of battery products employing the ternary composite phosphate system
 to meet various application scenarios.
-(cid:129) Lithiummanganese-ironphosphatebatterysystem.Wehavestartedthedevelopment
+ Lithiummanganese-ironphosphatebatterysystem.Wehavestartedthedevelopment
 and production of lithium manganese-iron phosphate batteries. Due to the
 characteristics of high voltage and abundant supply of manganese, lithium
 manganese-iron phosphate batteries can achieve higher energy density, lower cost
 per Wh and better performance in low temperature environment compared to LFP
 batteries, and have better safety performance compared to ternary batteries.
-(cid:129) Solid-state battery. We are currently conducting research in on the all-solid-state
+ Solid-state battery. We are currently conducting research in on the all-solid-state
 battery electrolyte materials, solid-state electrolyte reaction interface performance
 and solid-state battery production process.The purpose of developing all-solid-state
 battery is to achieve a balance of safety and energy density.
-(cid:129) Sodium-ion battery. To reduce the cost of ESS batteries and lower the dependence
+ Sodium-ion battery. To reduce the cost of ESS batteries and lower the dependence
 on metals such as lithium, nickel, and cobalt, we have conducted research on anode
 and cathode material system, electrolyte system and process of the sodium-ion
 battery production.
-(cid:129) Recycling technologies. We plan to focus on recycling technologies such as EV
+ Recycling technologies. We plan to focus on recycling technologies such as EV
 battery residual energy testing and secondary use solutions and processes to
 maximize the cost-effectiveness of EV batteries and focus on improving the safety,
 stability and cycle life of recycled products. We also aim to reduce the costs of
@@ -10976,10 +10976,10 @@ production capacity. Our goal is to have a production capacity of over 150GWh by
 2025. As of June 30, 2023, our designed annual production capacity reached 35.2GWh. We
 plan to increase our production capacity to 62GWh by the end of 2023. We plan to implement
 the following plans:
-(cid:129) Expansion of existing facilities. We plan to expand our production capacity at our
+ Expansion of existing facilities. We plan to expand our production capacity at our
 Jiashan facilities to 77GWh by the end of 2025. We also plan to expand our
 production capacity at our Wenzhou facilities to 50GWh by the end of 2025.
-(cid:129) New production facilities. We plan to establish new production facilities at Foshan,
+ New production facilities. We plan to establish new production facilities at Foshan,
 Liuzhou and Chongqing, with planned production capacity of 32GWh, 20GWh and
 30GWh, respectively. We plan to complete the construction and commence
 commercial production at Liuzhou production facility in late December 2023, at
@@ -11053,39 +11053,39 @@ Fansaike include a subsidiary of SAIC-GM-Wuling Automobile Co., Ltd. Trade Union
 通用五菱汽車股份有限公司工會), a subsidiary of SAIC-Motor, and other independent third
 party shareholders. We have not identified more definitive investment targets so far. When
 considering investment plans, we will take into account the following criteria:
-(cid:129) Supply of raw material: whether the target will allow us to secure high-quality and
+ Supply of raw material: whether the target will allow us to secure high-quality and
 stable raw material supplies with low cost;
 – 231 –
 
 === PAGE 241 ===
 BUSINESS
-(cid:129) Location: whether the geographic location is in the vicinity of our production
+ Location: whether the geographic location is in the vicinity of our production
 facilities/customers; and
-(cid:129) Form of investment: we may consider, among others, direct equity investment and
+ Form of investment: we may consider, among others, direct equity investment and
 other forms such as debt or royalty investment that would allow us to gain economic
 exposure to upstream business.
 Promote green and sustainable development with high ESG Standards
 We are committed to fulfilling our social responsibilities and promoting green and
 sustainable development with high ESG standards. In particular, we plan to undertake
 initiatives in the following aspects:
-(cid:129) Green supply chain. We plan to keep monitoring at our environmental impact across
+ Green supply chain. We plan to keep monitoring at our environmental impact across
 our supply chain, and carrying out comprehensive green supply chain assessment to
 ensure that our supply chain partners meet all the applicable environmental
 standards.
-(cid:129) Green production. We plan to implement the eco-design concept at product design
+ Green production. We plan to implement the eco-design concept at product design
 phase and integrate the environmental management system into all aspects of
 production activities. We will pay close attention to the energy-saving and
 environmental protection technologies of our factories and equipment, including
 waste heat recovery, solid waste treatment and gas emissions, and recycle all waste
 materials generated in the manufacturing process to the extent practicable.
-(cid:129) Energy use. We plan to reduce the use of fossil fuel energy in our operations with
+ Energy use. We plan to reduce the use of fossil fuel energy in our operations with
 green energy sources such as solar power, wind power and hydropower to further
 increasegreenenergyratio.Weplantoinstallrooftopphotovoltaicpowergeneration
 and intelligent micro-grid ESS projects at our Liuzhou facility. In addition, we plan
 to utilize facility management and control system to closely monitor various energy
 consumptiondatasuchaselectricity,gasandwater,andconductoptimalscheduling,
 balanced forecasting and energy saving management of energy resources.
-(cid:129) Battery recycling. We plan to reduce the environmental impact in the recycling
+ Battery recycling. We plan to reduce the environmental impact in the recycling
 process with our technologies. We also plan to cooperate with the end-users of our
 ESS battery products for echelon utilization of retired batteries. Furthermore, we
 plan to extract lithium, nickel, cobalt and other metals from end-of-life lithium-ion
@@ -11187,12 +11187,12 @@ EV Battery Products
 Our EV battery products are produced and sold in the form of battery cells, battery
 modules and battery packs depending on the needs of our customers. EV batteries that are
 installed in EVs are typically battery packs.
-(cid:129) A battery cell is the basic unit that converts chemical energy into electrical energy
+ A battery cell is the basic unit that converts chemical energy into electrical energy
 and is the core and smallest function unit in the product. It consists mainly of
 cathode, anode, separators, electrolytes and housing components.
-(cid:129) A battery module combines more than one battery cell, and is resistant to external
+ A battery module combines more than one battery cell, and is resistant to external
 shock, heat and vibration.
-(cid:129) A battery pack consists of multiple battery cells or battery modules, battery
+ A battery pack consists of multiple battery cells or battery modules, battery
 management system, temperature management system and other control and
 protectionsystems.AbatterypackcanbeinstalledinEVsasapowersource,obtains
 electrical energy from outside and outputs energy externally.
@@ -11203,7 +11203,7 @@ LFP Battery Product Battery Product
 Product Type Product Picture Features Features
 EV Battery Cells mass energy density: mass energy density:
 170~200Wh/kg; cycle 230~280Wh/kg; cycle
-life: (cid:2)4000 times; life: (cid:2)2500 times;
+life: 4000 times; life: 2500 times;
 capacity: 104~230Ah capacity: 155~243Ah
 – 235 –
 
@@ -11220,7 +11220,7 @@ diffusion prevention; explosion suppression
 explosion suppression and fireproof
 and fireproof
 EV Battery Packs mass energy density: N/A
-(cid:2)140Wh/kg;
+ 140Wh/kg;
 high volumetric
 utilization rate; green,
 removable CTP;
@@ -11234,13 +11234,13 @@ Our ESS battery products are LFP battery products and are mainly produced and so
 battery cells, battery modules and battery packs which include battery boxes, battery racks and
 energy storage containers. Battery racks and energy storage containers can be directly applied
 in various energy storage use cases.
-(cid:129) Abattery cell, similar to our EVbattery cell, is the basic unit that converts chemical
+ Abattery cell, similar to our EVbattery cell, is the basic unit that converts chemical
 energy into electrical energy, and is the core and smallest function unit in the
 product. A battery cell consists mainly of anode, cathode, electrolytes, separators
 and housing components.
-(cid:129) A battery module, similar to our EV battery module, stacks the battery cells into a
+ A battery module, similar to our EV battery module, stacks the battery cells into a
 frame to protect them from external shock, heat or vibration.
-(cid:129) Abattery pack consists of several battery modules and may be produced in the form
+ Abattery pack consists of several battery modules and may be produced in the form
 of battery boxes, battery racks and energy storage containers.
 (i) A battery box is the smallest installation and maintenance unit and building
 block for an ESS, consisting of several battery modules, connectors, high and
@@ -11275,7 +11275,7 @@ ESS Battery cycle life: 4,000~8,000 times; in
 Modules accordance with GB, UL, IEC, JIS
 and other domestic and
 international standards
-(cid:129) ESS battery air-cooled and liquid-cooled
+ ESS battery air-cooled and liquid-cooled
 boxes standard ESS battery boxes; in
 compliance with GB, UL, IEC and
 other domestic and international
@@ -11285,11 +11285,11 @@ standards
 === PAGE 247 ===
 BUSINESS
 Product Type Product Picture Product Features
-ESS Battery (cid:129) ESS battery voltage level compatible with
+ESS Battery ESS battery voltage level compatible with
 Packs racks 850V~1500V; in compliance with
 GB, UL, IEC and other domestic
 and international standards
-(cid:129) Energy storage highly integrated; equipped with
+ Energy storage highly integrated; equipped with
 containers air-cooled and liquid-cooled heat
 management systems; voltage of
 850V and 1500V; multiple joint
@@ -11322,40 +11322,40 @@ BUSINESS
 Certain details of our Shanghai R&D center, Wenzhou R&D center and Jiashan R&D
 center are set out as follows:
 R&D center Departments and major responsibilities
-Shanghai R&D center (cid:129) The Battery Technology Department is composed of
+Shanghai R&D center The Battery Technology Department is composed of
 product team, materials team and pioneer technology
 team, which are responsible for the development of
 battery products, raw materials and new technologies,
 respectively.
-(cid:129) The Systems Technology Department mainly focus on
+ The Systems Technology Department mainly focus on
 the research and development of passenger vehicles,
 commercial vehicles and ESS.
-(cid:129) The Test Department conducts initial tests of batteries
+ The Test Department conducts initial tests of batteries
 and module systems.
-Wenzhou R&D center (cid:129) The Battery Technology Department, consisting of
+Wenzhou R&D center The Battery Technology Department, consisting of
 product team and material team, develops new
 products and provides technical support.
-(cid:129) The Systems Technology Department is responsible
+ The Systems Technology Department is responsible
 for the industrialization of module system products.
-(cid:129) Test and Trial Production Department conducts pilot
+ Test and Trial Production Department conducts pilot
 tests of our products and systems, focuses on product
 certification, standardization and other related work.
-(cid:129) The Process and Equipment Department is responsible
+ The Process and Equipment Department is responsible
 for conducting research on new technology and
 equipment.
-Jiashan R&D center (cid:129) The Artificial Intelligence Manufacturing Department
+Jiashan R&D center The Artificial Intelligence Manufacturing Department
 is responsible for the intelligent manufacturing of
 products to ensure the high quality and reliability of
 mass-produced products.
-(cid:129) The Process and Equipment Innovation Department is
+ The Process and Equipment Innovation Department is
 responsible for the development of new production
 process and new equipment, improving production
 efficiency and reducing energy consumption.
-(cid:129) The System Structure Innovation Department is
+ The System Structure Innovation Department is
 responsible for the innovation and optimization of the
 full vehicle and industrial and commercial ESS
 structure.
-(cid:129) The Testing and Certification Department is
+ The Testing and Certification Department is
 responsible for the testing of materials, batteries and
 module systems, covering physical, electrical,
 mechanical, thermal and safety tests.
@@ -11431,17 +11431,17 @@ capabilitiesandexperiencedanddedicatedleadershipteam,weareabletodevelopandproduc
 products that meet our customers’ requirements. We are committed to continuously improving
 R&D capabilities for our technologies, so as to ensure the competitive advantages of our
 products in various application fields. Set forth below are our key technologies:
-(cid:129) SCLtechnology.Thistechnologyeffectivelyincreasesthevolumetricenergydensity
+ SCLtechnology.Thistechnologyeffectivelyincreasesthevolumetricenergydensity
 of the battery cell and improves the utilization of battery space by avoiding burrs on
 the top of pole pieces caused by double cutter step at the die-cutting stage.
-(cid:129) Minimalismbatterytopcover.Thistechnologysimplifiesbatterystructure,increases
+ Minimalismbatterytopcover.Thistechnologysimplifiesbatterystructure,increases
 the effective usable capacity and space of battery cells and reduces battery weight
 and production cost.
 – 241 –
 
 === PAGE 251 ===
 BUSINESS
-(cid:129) Green and detachable CTP. This technology further improves the space utilization
+ Green and detachable CTP. This technology further improves the space utilization
 of the battery pack by optimizing the individual and module structural design,
 realizing the de-structuring of the battery pack and effectively improving the pack
 integration rate. This technology enables the dismantling of large battery packs
@@ -11450,18 +11450,18 @@ traditional structural bottom adhesives, thus reducing the maintenance requireme
 for batteries and allow for convenient recycling. This system also enables the cells
 to be adapted to different chassis space sizes, allowing for increased battery volume
 utilization.
-(cid:129) Internal circulation and auto-equalization technology. This technology enables
+ Internal circulation and auto-equalization technology. This technology enables
 flexible adjustments in electricity level among different battery cells in the charging
 process by using special additives in the battery, which improves the consistency of
 electricity level in batteries and the quality of our products.
-(cid:129) High safety battery technology. This technology allows battery to maintain
+ High safety battery technology. This technology allows battery to maintain
 performance in high temperature by optimizing the selection of positive and
 negative electrode materials and adopting high safety separator and electrolyte
 material. It ensures high cathode and anode density, and utilizes semi-solid-state
 technology to improve battery safety. In addition, it has fireproof characteristics.
 The relevant product has passed the Japan JET certification and has been enrolled
 in the Japan SII list. Furthermore, the product has passed nail penetrating test(1).
-(cid:129) Battery management system technology. Our BMS technology covers passenger
+ Battery management system technology. Our BMS technology covers passenger
 vehicles, commercial vehicles and ESSs. It improves the reliability and safety of the
 battery system through a cross-border cloud-based remote debugging technology,
 which includes remote real-time monitoring and big data analytics. It also improves
@@ -11472,7 +11472,7 @@ speed, according to the F&S Report.
 Our key technologies and R&D achievements improve our products’ structure and
 manufacturing process. Our key technologies and R&D achievements also improve the
 performance of our products. Specifically:
-(cid:129) Mass energy density.We develop and produce products with high energy density.As
+ Mass energy density.We develop and produce products with high energy density.As
 of the Latest Practicable Date, we achieved mass energy density of 180-200Wh/kg
 for our mass-produced LFP battery cells and 200-230Wh/kg for our prototype
 Note:
@@ -11487,7 +11487,7 @@ composite battery cells, both of which are at the top level in the industry, acc
 to the F&S Report. As of the Latest Practicable Date, we achieved mass energy
 density of 245-255Wh/kg for our mass-produced ternary lithium battery cells and
 more than 300Wh/kg for our prototype high nickel lithium battery cells.
-(cid:129) Volumetric energy density. (i) Our proprietary SCL and minimalism battery top
+ Volumetric energy density. (i) Our proprietary SCL and minimalism battery top
 cover technologies can effectively improve the space utilization of the cell, increase
 the height of the cathode pole piece by optimizing the internal space of the cell,
 simplify the coating process, and reduce the production cost. (ii) Our green and
@@ -11499,21 +11499,21 @@ the battery pack. Our products can reach a volumetric energy density of up to
 This is considered market-leading, as the industry average volumetric energy
 density is 300Wh/Lto 400Wh/Lfor LFPbattery products and 500Wh/Lto 600Wh/L
 for ternary battery products, according to the F&S Report.
-(cid:129) Fast charging. Through double-layer coating technology and ultra-fast conducting
+ Fast charging. Through double-layer coating technology and ultra-fast conducting
 ionic material surface coating technology, our fast charging technology
 comprehensively improves the low-temperature charging performance
 (-10°C~-12°C) and fast-charging performance of the battery cell. Mass produced
 products can realize 15-18 minute fast charging and products on development can
 realize 9-12 minute fast charging. Our products that have been put into mass
 production are able to meet the fast charging needs of EV customers.
-(cid:129) Battery cycle life. According to the F&S Report, we are the first in the industry to
+ Battery cycle life. According to the F&S Report, we are the first in the industry to
 have developed the internal circulation and auto-equalization technology, which has
 substantially improved the consistency and cycle life of large-capacity vehicles and
 ESSs, and further increase the battery life of large energy storage systems. The
 highly reliable components can further help the products meet the demands for
 8,000-12,000 cycles and 15-20 years of calender life.According to the F&S Report,
 the industry average battery cycle life is approximately 5,000 to 8,000 cycle.
-(cid:129) Safety and reliability. We improve the stable temperature of the thermal box by
+ Safety and reliability. We improve the stable temperature of the thermal box by
 optimizing the selection of cathode and anode materials and using high safety
 separatorsandelectrolytesystems.Inadditiontomaterialselection,weoptimizethe
 manufacturingprocesswithover2,000qualitycontrolpoints,whichensuresproduct
@@ -11526,7 +11526,7 @@ of our battery cell products have passed the UL9540A thermal runaway test.
 BUSINESS
 Set forth below are our key R&D achievements and prototypes that are or expected to
 become designated supply products for some customers:
-(cid:129) WenDing (“問頂”) prismatic batteries. The WenDing (“問頂”) Technology is
+ WenDing (“問頂”) prismatic batteries. The WenDing (“問頂”) Technology is
 applied in our prismatic LFP and ternary batteries. We have become a designated
 supplier to our customer with our LFP WenDing (“問頂”) batteries. This is a new
 technology integrated with improvements in lithium-ion battery structures and in
@@ -11549,14 +11549,14 @@ typical for the current LFP battery products according to the F&S Report.
 compared with 500Wh/L to 600Wh/L volumetric energy density, 230Wh/kg to
 260Wh/kg mass energy density, and 400km to 700km driving range that is
 typical for the current ternary battery products according to the F&S Report.
-(cid:129) Easy-for-Tera cells (“ET電芯”). Our Easy-for-Tera cells (“ET電芯”) are flat
+ Easy-for-Tera cells (“ET電芯”). Our Easy-for-Tera cells (“ET電芯”) are flat
 batteries that use stainless steel shell, which are thinner and thus improve the
 volumetric energy utilization efficiency as compared to traditional aluminum shell.
 It adopts high-speed winding, cutting or stacking integration technology in our flat
 batteries, which improves the efficiency of the production process and battery
 performance. Our Easy-for-Tera cells (“ET電芯”) has a mass energy density of
 190~210Wh/kg and a volumetric energy density of 420~480Wh/L.
-(cid:129) Twin Star (“雙子星”) battery. Our Twin Star (“雙子星”) battery applies dual
+ Twin Star (“雙子星”) battery. Our Twin Star (“雙子星”) battery applies dual
 chemistry of cathode material. It is developed from new materials and combines the
 advantage of LFP and ternary batteries. It has high energy density, safety
 performance and low production costs. The energy density of Twin Star (“雙子星”)
@@ -11569,7 +11569,7 @@ Practicable Date and will be ready for mass production before June 2025.
 
 === PAGE 254 ===
 BUSINESS
-(cid:129) Semi-solid state battery. The semi-solid battery under development adopts high
+ Semi-solid state battery. The semi-solid battery under development adopts high
 nickel cathode and silicon carbon anode matched with semi-solid technology. Such
 technology can further increase the mass-energy density and performance safety of
 battery products.We have produced semi-solid electrolyte systems through different
@@ -11577,7 +11577,7 @@ gelation routes and have produced semi-solid soft pack battery samples.We are al
 conducting battery performance tests and have launched samples of semi-solid
 square batteries in mid-2022. We have sent prototype semi-solid state battery
 products to a leading luxury vehicle company in Europe for verification.
-(cid:129) Versatile power station. Our versatile power station can be used in various use cases
+ Versatile power station. Our versatile power station can be used in various use cases
 such as electrical energy storage, vehicle charging and utility power backup. It has
 electrical control functions such as parallel and off-grid switching, alternate use of
 multiple batteries, multi-level electrical protection and anti-reverse current. It is
@@ -11655,32 +11655,32 @@ to market condition.
 === PAGE 256 ===
 BUSINESS
 To achieve our R&D objectives, we adopt the following R&D principles and methods:
-(cid:129) We combine R&D of future-ready solutions with market-driven, present-focused
+ We combine R&D of future-ready solutions with market-driven, present-focused
 innovations. On the one hand, we undertake medium- to long-term R&D projects in
 the direction of the next-generation of batteries based on our understanding of the
 development in battery technologies; on the other hand, we closely track the
 customers’ demands and engage in targeted short- to medium-term technology
 innovations. Furthermore, we gain insights from downstream customers to facilitate
 the choice of our R&D direction;
-(cid:129) We strive to improve R&D efficiency in a cost-effective way, and include cost
+ We strive to improve R&D efficiency in a cost-effective way, and include cost
 calculations throughout the R&D process, so that we make technological
 innovations while keeping a focus on cost reduction;
-(cid:129) We hold technology innovation conferences from time to time, and inspire our R&D
+ We hold technology innovation conferences from time to time, and inspire our R&D
 personnel’s creativity and vitality through a scientific management system and
 incentive means.At the same time, we aim to speed up the commercialization of our
 technologyreservesthroughcollaborationwithuniversitiesandresearchinstitutions
 on relevant research projects and technology topics; and
-(cid:129) We have a dedicated department to carry out the R&D of next-generation
+ We have a dedicated department to carry out the R&D of next-generation
 technologies. This will help us maintain a long-term technological advantages in the
 industry competition.
 To underpin future growth, we intend to continue our efforts on the R&D of our products
 and systems. We plan to capitalize on the strength of our R&D team to further enhance our
 technological edge in the battery production industry. In particular, we intend to advance our
 R&D in the following areas:
-(cid:129) Composite material system. We aim to improve the safety performance and power
+ Composite material system. We aim to improve the safety performance and power
 performance of the ternary composite phosphate system to meet various application
 scenarios.
-(cid:129) Recycled material system battery. By recycling used batteries, separating cathode
+ Recycled material system battery. By recycling used batteries, separating cathode
 materials, and applying decomposition and staged processing technologies as well
 as blending applications, we are able to design and construct low-cost materials to
 produce recyclable batteries. Such technology can comprehensively reduce the
@@ -11693,19 +11693,19 @@ and start mass production by December 2030.
 
 === PAGE 257 ===
 BUSINESS
-(cid:129) Lithiummanganese-ironphosphatebatterysystem.Wehavestartedthedevelopment
+ Lithiummanganese-ironphosphatebatterysystem.Wehavestartedthedevelopment
 and production of lithium manganese-iron phosphate batteries. Due to the
 characteristics of high voltage and abundant supply of manganese, lithium
 manganese-iron phosphate batteries can achieve higher energy density, lower cost
 per Wh and better performance in low temperature environment compared to LFP
 batteries, and have better safety performance compared to ternary batteries.
-(cid:129) Solid-state battery. We are currently conducting research in on the all-solid-state
+ Solid-state battery. We are currently conducting research in on the all-solid-state
 battery electrolyte materials, solid-state electrolyte reaction interface performance
 and solid-state battery production process.The purpose of developing all-solid-state
 battery is to achieve a balance of safety and energy density. By improving the
 interface characteristics of solid-state battery, we intend to scale up trial production
 and ultimately achieve mass production of solid state battery.
-(cid:129) Sodium-ion battery. To reduce the cost of ESS batteries and lower the dependence
+ Sodium-ion battery. To reduce the cost of ESS batteries and lower the dependence
 on lithium, we have conducted research on anode and cathode material system,
 electrolytesystemandprocessofthesodium-ionbatteryproduction.AsoftheLatest
 Practicable Date, we had completed the sample prototyping of sodium-ion battery,
@@ -11819,7 +11819,7 @@ Formation Sealing Grading sorting Packing
 === PAGE 260 ===
 BUSINESS
 We apply the following technologies in our battery cell production process.
-(cid:129) ISO-6 cleanliness environmental standards for key processes: We have established
+ ISO-6 cleanliness environmental standards for key processes: We have established
 a comprehensive on-line workshop cleanliness detection system, and manage and
 controltheworkshopenvironmentinaccordancewiththesub-environmentalcontrol
 standard, to meet the optimal cleanliness standard. Particularly, the implementation
@@ -11827,24 +11827,24 @@ of such standards enabled significant reduction in the number of dust particles 
 unit volume of air in our production environment, allowing us to achieve a Class
 10,000 cleanroom in a dynamic environment, and thus, improved the quality of our
 battery products.
-(cid:129) Fully automatic high-speed double-roller rolling and roll contact: This technology
+ Fully automatic high-speed double-roller rolling and roll contact: This technology
 is used for pole pieces thickness measurement and closed-loop pressure adjustment,
 which can improve consistency of pole pieces’ thickness. Multi-pole stretching is
 applied to improve the consistency of stretching. This technology increased the
 width that the relevant equipment can handle from one meter to 1.5 meters, thereby
 improving our production efficiency.
-(cid:129) SCL die-cutting technology: This proprietary technology reduces quality issues at
+ SCL die-cutting technology: This proprietary technology reduces quality issues at
 cutting stage, where the sharp points may pierce through the diaphragm and cause
 shortcircuit.Itcanalsoimproveenergydensityofthebatterycell.Wehaveobtained
 six patents in relation to this technology.
-(cid:129) High efficiency liquid injection process: This process uses bell type ultra-high
+ High efficiency liquid injection process: This process uses bell type ultra-high
 pressure isobaric liquid injection equipment, achieving high injection pressure of
 maximum 1200KPa and increases injection speed and equipment efficiency.
-(cid:129) High efficiency pulping technology: This proprietary technology was developed to
+ High efficiency pulping technology: This proprietary technology was developed to
 match the performance of kneader with disperser, which increases the dispersion
 uniformity of the pulp, reduces pulping time as well as the number of mixers
 required per production line, which in turn improves our production efficiency.
-(cid:129) Adapter welding technology: This proprietary technology allows adapter plate to be
+ Adapter welding technology: This proprietary technology allows adapter plate to be
 welded in the middle area, thereby changing the shape of lugs and reducing short
 circuits caused by lug insertion. Such technology allowed us to shorten the lugs,
 reduce the use of raw materials, improve energy density in vertical direction,
@@ -11862,10 +11862,10 @@ Module stack Plasma treat Side plate welding Side plate coating
 Module offline test Laser etching Glue curing Busbar welding
 We configured a total of 82 error-proof items for module production and we apply the
 following technologies in our battery module production process:
-(cid:129) The Statistical Process Control (SPC) tool analyses and continuously improves all
+ The Statistical Process Control (SPC) tool analyses and continuously improves all
 process variations to reduce the probability of defects, eliminates defect run-off and
 ensures the quality of our products.
-(cid:129) Through continuous process optimization and the introduction of new equipment,
+ Through continuous process optimization and the introduction of new equipment,
 welding surface formation and stability have been significantly improved. Welding
 spatter has been reduced to 50 parts per million and the overall defective welding
 rate has been reduced to less than 3.4 parts per million, effectively ensuring our
@@ -11881,10 +11881,10 @@ Battery Pack Performance and Connect high
 Sealed lid
 offline test communication test and low voltage
 We apply the following technologies in our battery pack production process:
-(cid:129) Automated equipment to monitor the entire battery pack production process.
-(cid:129) MES system that tracks and processes approximately 2,700 data points to accurate
+ Automated equipment to monitor the entire battery pack production process.
+ MES system that tracks and processes approximately 2,700 data points to accurate
 monitoring of production process for better quality control.
-(cid:129) Data and intelligent calculations that further improve product safety and efficiency,
+ Data and intelligent calculations that further improve product safety and efficiency,
 optimizing the value of the battery throughout its life cycle.
 – 252 –
 
@@ -12140,7 +12140,7 @@ We were able to achieve development in production technique and equipment throug
 high-speed coating equipment, high-speed assembly line, ultrahigh-pressure and high speed
 liquid injection machine, fast-baking machine, ultrahigh-speed stacker and ultrahigh-speed
 mixer, among others.
-(cid:129) We achieve a significant increase in coating heating efficiency through a new heat
+ We achieve a significant increase in coating heating efficiency through a new heat
 transfer structure of heat-conducting oil. With the support of artificial intelligence
 detection system, we achieve ultra-high precision detection and wet film coating
 position prediction, while achieving high precision coating requirements under high
@@ -12151,7 +12151,7 @@ requirements.
 
 === PAGE 268 ===
 BUSINESS
-(cid:129) We have adopted a fully automatic core assembly line. Through design optimization
+ We have adopted a fully automatic core assembly line. Through design optimization
 of key equipment and development of the automation mechanism of the entire line,
 we achieved significant increase in the efficiency of the assembly line and
 improvement in product quality. We also jointly developed equipment with the
@@ -12159,21 +12159,21 @@ leading equipment manufacturers in the industry, which provides more reliable
 control for the stable operation of our high-speed line in mass production. We have
 obtained six patents in relation to the welding process, technique and equipment
 used in the assembly line.
-(cid:129) We have jointly developed a new ultrahigh-pressure high speed liquid injection
+ We have jointly developed a new ultrahigh-pressure high speed liquid injection
 machine to meet the higher production capacity of single production lines. It has
 now achieved mass production. The ultra-high pressure high speed liquid injection
 machine ensures higher efficiency of electrolyte injection inside the battery cell and
 is effective in improving the stability of the battery’s long cycle performance.
-(cid:129) We developed the fast-baking machine to solve the problems of high cost and high
+ We developed the fast-baking machine to solve the problems of high cost and high
 power consumption of traditional baking machines. By replacing contact-less
 heating with heating plates, it effectively reduces drying time and increases baking
 efficiency. The temperature of baking machine’s heating plate can be automatically
 detected and fed back, achieving precision in temperature control.
-(cid:129) The ultrahigh-speed stacker adopts an innovative stacking mechanism that greatly
+ The ultrahigh-speed stacker adopts an innovative stacking mechanism that greatly
 improves the stacking speed, while ensuring the accuracy of the mass production
 process. Particularly, such mechanism increased the operating speed of stackers
 from approximately 30 meters per minute to over 60 meters per minute.
-(cid:129) The mixing efficiency of ultrahigh-speed mixer is much higher than that of the
+ The mixing efficiency of ultrahigh-speed mixer is much higher than that of the
 traditional mixer. The floor space and height of the mixer are significantly reduced,
 which reduces the size and height requirements of the mixing plant. The
 ultrahigh-speed mixer significantly improves the quality of the battery cells, and
@@ -12256,17 +12256,17 @@ investigations/actions by relevant authorities or consumer groups which may lead
 recall.
 Our Quality Accreditations
 We have obtained various certification including:
-(cid:129) The IATF16949 certification certified by Shanghai NQA Certification Co., Ltd.;
-(cid:129) ISO9001 certified by Shanghai NQA Certification Co., Ltd.;
-(cid:129) Audit certification (VDA standard, ASES standard, BIQS standard) designated by
+ The IATF16949 certification certified by Shanghai NQA Certification Co., Ltd.;
+ ISO9001 certified by Shanghai NQA Certification Co., Ltd.;
+ Audit certification (VDA standard, ASES standard, BIQS standard) designated by
 various international vehicle customers; and
-(cid:129) ISO/IEC17025 accredited by the China National Accreditation Service for
+ ISO/IEC17025 accredited by the China National Accreditation Service for
 Conformity Assessment CNAS,
 Our products have also obtained:
-(cid:129) China’s mandatory inspection certification (GB 38031-2020, GB 38032-2020, GB/T
+ China’s mandatory inspection certification (GB 38031-2020, GB 38032-2020, GB/T
 31484-2015, GB/T31485-2015, GB/T31486-2015), energy storage type inspection,
 GB/T 36276-2018, classification society certification GD22-2019; and
-(cid:129) International certification: UN38.3 certification, ROHS certification, hazardous
+ International certification: UN38.3 certification, ROHS certification, hazardous
 characteristics classification certification, cargo transportation appraisal report (sea,
 land, air); EU TÜV certification IEC62619, battery directive, REACH certification;
 NorthAmerica ULcertification (UL1642, UL1973, UL2580, UL9540A); Japan JET
@@ -12324,29 +12324,29 @@ Improvement
 BUSINESS
 In addition, we strive to build a high-quality, efficient and environmentally friendly
 customer service system. Our achievements in quality control include the following:
-(cid:129) We have obtained the IATF16949 certification certified by Shanghai NQA
+ We have obtained the IATF16949 certification certified by Shanghai NQA
 Certification Co., Ltd. and have a sound quality management organization structure
 and management process. We adopt the “customer-centered” concept to ensure that
 relevant laws and regulations as well as customer requirements are met.We enhance
 customer trust by making continuous improvements to the quality of our products,
 thus enabling us to achieve long-term development.
-(cid:129) We employ MES and ERP systems in the quality control process. We monitor
+ We employ MES and ERP systems in the quality control process. We monitor
 product characteristics of key manufacturing processes through the linkage of the
 systems and related visual inspections, double-frame X-ray surface density
 measuring instruments and X-Ray inspection equipment. We also achieve SPC
 statistical analysis and prediction of the quality of the production process by
 utilizing the MES system together with the fault detection criteria of SPC.
-(cid:129) When the product is detected as abnormal, the MES system can achieve multi-
+ When the product is detected as abnormal, the MES system can achieve multi-
 dimensional information traceability of people, machines, materials, methods and
 measurements to quickly track the risk range of materials and provide accurate and
 complete product information support so as to achieve rapid response.
 RAW MATERIALS, COMPONENTS AND SUPPLIERS
 Raw Materials, Components and Supply Agreements
 The key raw materials for our battery products are:
-(cid:129) cathode materials, primarily including LFP, lithium NCM and aluminum foil;
-(cid:129) anode materials, primarily including graphite and copper foil;
-(cid:129) separators; and
-(cid:129) electrolyte solutions.
+ cathode materials, primarily including LFP, lithium NCM and aluminum foil;
+ anode materials, primarily including graphite and copper foil;
+ separators; and
+ electrolyte solutions.
 In 2020, 2021 and 2022 and the six months ended June 30, 2022 and 2023, cost of raw
 materials amounted to RMB537.1 million, RMB1,662.0 million, RMB10,835.8 million,
 RMB3,088.8 million and RMB4,370.0 million, respectively, accounting for 67.5%, 68.3%,
@@ -12430,7 +12430,7 @@ confidentiality obligations may be extended to
 after the expiration of the agreements.
 We entered into long-term off-take agreements with our raw material suppliers. In
 particular:
-(cid:129) In 2022, we secured LFP through off-take agreements with certain raw material
+ In 2022, we secured LFP through off-take agreements with certain raw material
 suppliers. The total minimum purchase commitment under these agreements was
 approximately 22,800 tons, representing approximately 55.7% of our LFP
 procurement in 2022. The purchase prices were subject to the periodic review and
@@ -12443,7 +12443,7 @@ terminated.
 
 === PAGE 275 ===
 BUSINESS
-(cid:129) We also entered into off-take agreements for PVDF. In 2021 and 2022, the purchase
+ We also entered into off-take agreements for PVDF. In 2021 and 2022, the purchase
 amount of PVDF under the off-take agreement was approximately 10 tons and 31
 tons, accounting for approximately 7.9% and 3.4% of the total PVDF purchased
 during the year, respectively. The average purchase prices under the off-take
@@ -12464,7 +12464,7 @@ commitment for PVDF under the off-take agreement, and the off-take agreement for
 supplies of PVDF was terminated as mutually agreed. No dispute was raised by the
 Company or the PVDF supplier under the off-take agreement during the Track
 Record Period and up to the Latest Practicable Date.
-(cid:129) In addition, during the Track Record Period, we entered into three off-take
+ In addition, during the Track Record Period, we entered into three off-take
 agreements for electrolyte solutions, the price of which was calculated based on the
 prices of several raw materials used to produce electrolyte solutions. Among those
 rawmaterials,thepriceofonekeyrawmaterial,lithiumhexafluorophosphate,under
@@ -13099,13 +13099,13 @@ factors, as they are directly related to customer satisfaction and help in shapi
 purchase decisions. We have adopted a Disposing Customer Complaint and Return Procedure
 to effectively handle customer complaints and returned products. Our achievements in
 customer service include the following:
-(cid:129) Our high coverage ratio of customer service outlets enables us to respond to
+ Our high coverage ratio of customer service outlets enables us to respond to
 customer complaints in a timely manner. In addition to leveraging our own customer
 service outlets, we entered into strategic cooperation with an auto service provider
 to provide customer services. We plan to leverage on their network resources to set
 up as many as 50 after-sales service outlets, with 15 regional technical experts
 serving our customers nationwide.
-(cid:129) We have a rapid response mechanism. We require after-sale customer requests to be
+ We have a rapid response mechanism. We require after-sale customer requests to be
 respondedwithintwohours,eighthours,onebusinessdayandtwobusinessdaysfor
 local, same province, inter-province, and domestic long-distance customer requests,
 respectively. In addition, we assign technical staff to provide guidance on-site so as
@@ -13150,7 +13150,7 @@ received any material customer complaints.
 Overlapping Customer and Suppliers
 During the Track Record Period, to the best knowledge and belief of our Directors, we
 had three major suppliers who are also our customers.
-(cid:129) Tsingshan Group is a Controlling Shareholder and related party of the Company.
+ Tsingshan Group is a Controlling Shareholder and related party of the Company.
 Tsingshan Group is our major supplier and also our major customer. We purchased
 electrolytes, PVDF and copper foil from Tsingshan Group as it has an extensive
 cooperation network and good relationships with upstream battery materials
@@ -13164,7 +13164,7 @@ the terms and conditions with other comparable customers. The prices for sales
 made to Tsingshan Group were negotiated on an arm’s length basis and we believe
 thegrossprofitmarginforsuchsaleswouldbesimilarhadTsingshanGroupnotalso
 been our supplier.
-(cid:129) Jiujiang Tinci Materials Technology Co., Ltd. is our major supplier and also our
+ Jiujiang Tinci Materials Technology Co., Ltd. is our major supplier and also our
 customer. In addition to purchasing raw materials from Jiujiang Tinci Materials
 Technology Co., Ltd., we also sold wastes to them. In each of 2020, 2021 and 2022
 and the six months ended June 30, 2023, revenue from Jiujiang Tinci Materials
@@ -13180,7 +13180,7 @@ Jiujiang Tinci Materials Technology Co., Ltd. were generally in line with the te
 and conditions with other comparable customers. The gross profit margin of the
 sales to Jiujiang Tinci Materials Technology Co., Ltd. during the Track Record
 Period was generally marginal.
-(cid:129) Shenyang East Chemical Science-tech Co., Ltd. is our major supplier and also our
+ Shenyang East Chemical Science-tech Co., Ltd. is our major supplier and also our
 customer. We purchased electronic grade high concentration NMP to use as solvent
 in the production process from Shenyang East Chemical Science-tech Co., Ltd. and
 sold back the low concentration crude NMP to Shenyang East Chemical Science-
@@ -13722,7 +13722,7 @@ battery products to capitalize on the expected strong growths in both areas.
 BUSINESS
 In addition to the planned production capacity expansion to meet the expected strong
 growth in market demand, we plan to further increase our sales through the following:
-(cid:129) Improved product offerings and increasing bargaining power. As there has been a
+ Improved product offerings and increasing bargaining power. As there has been a
 growing demand for EV and ESS products, we believe that with our expanded
 production capacity, commitment to R&D, and increased brand awareness and
 customerloyalty,wewillcontinuetoimprovetheproductofferingsandincreaseour
@@ -13745,7 +13745,7 @@ with the fluctuation of raw material prices, and would only match down on the
 pricing of leading enterprises in the industry and the pricing of our direct
 competitors in certain circumstances, including for attracting new customers,
 entering new markets or strategic projects.
-(cid:129) Optimizing customer base and improving product mix. To capture the rapidly
+ Optimizing customer base and improving product mix. To capture the rapidly
 growing downstream demands, we plan to further expand our production capacity to
 over150GWhbytheendof2025.Goingforward,weaimtocontinueourdual-focus
 strategy and strategically allocate our production capacity for both EV and ESS
@@ -13860,11 +13860,11 @@ with automated logistics equipment. Meanwhile, we
 use a three-dimensional warehouse in the logistics
 field for fire protection, effectively guaranteeing the
 storage safety of our products. We have achieved:
-(cid:129) efficient coordination among warehousing,
+ efficient coordination among warehousing,
 delivery and production requirements;
-(cid:129) a high degree of automation in the entire logistics
+ a high degree of automation in the entire logistics
 process; and
-(cid:129) smart monitoring and controlling of the quality
+ smart monitoring and controlling of the quality
 status, storage environment, precise traceability
 and operation process of materials and finished
 products.
@@ -14319,7 +14319,7 @@ Protection Regulations, Fire Protection Law of the People’s Republic of China 
 Construction Works (《建設工程質量管理條例》) (the “Quality Management Regulations”)
 and other relevant regulations for phase I of Jiashan facility project (“Jiashan Phase I”), a
 project of BatteroTech Jiashan, before commencing production in June 2022.
-(cid:129) In relation to environmental protection inspection and acceptance processes,
+ In relation to environmental protection inspection and acceptance processes,
 according to the Environmental Protection Regulations, production facilities are
 required to complete relevant environmental protection inspection and acceptance
 processes before commencing production. For projects that commenced production
@@ -14333,7 +14333,7 @@ authority may suspend the operation or production of such project.As of the Late
 Practicable Date, we had completed the environmental protection inspection and
 acceptance process in accordance with relevant laws and regulations and fully
 rectified this non-compliance.
-(cid:129) In relation to fire protection inspection and acceptance processes, according to the
+ In relation to fire protection inspection and acceptance processes, according to the
 Fire Protection Law, projects that are subject to fire protection inspection and
 acceptance processes according to PRC law are required to complete fire protection
 inspectionandacceptanceprocessesbeforecommencingoperation.Forprojectsthat
@@ -14348,7 +14348,7 @@ inspection records, thus to eliminate potential fire hazards in a timely manner.
 have also established a factory-level fire department and a team-level emergency
 response team to ensure the safe production of our Jiashan Phase I facility.As of the
 Latest Practicable Date, this non-compliance has been fully rectified.
-(cid:129) In relation to construction completion inspection and acceptance processes,
+ In relation to construction completion inspection and acceptance processes,
 according to the Quality Management Regulations, construction projects are
 required to complete construction completion inspection and acceptance processes.
 For projects put into operations before completing construction completion
@@ -14361,7 +14361,7 @@ BUSINESS
 construction project. The maximum potential penalties which may be imposed on us
 for failing to complete construction completion inspection and acceptance processes
 for Jiashan Phase I is RMB31 million.
-(cid:129) During the Track Record Period, BatteroTech Jiashan completed construction
+ During the Track Record Period, BatteroTech Jiashan completed construction
 inspection and acceptance for 496,647.68 sq.m. of Jiashan Phase I, but did not
 obtain the property ownership certificates. There remained three property with a
 total size of 1,396.39 sq.m., including a warehouse, a storage tank and a garbage
@@ -14637,19 +14637,19 @@ ENVIRONMENTAL, SOCIALAND GOVERNANCE MATTERS
 Metrics and Targets on Environmental, Social and Climate-related Risks
 In order to better assess and manage our environmental, social and climate risks, we have
 set the following emission targets:
-(cid:129) Greenhouse gas emission reduction target: From 2023 until the end of 2025, we
+ Greenhouse gas emission reduction target: From 2023 until the end of 2025, we
 strive to reduce greenhouse gas emissions per unit of products. Our greenhouse gas
 emission level in 2020, 2021 and 2022 were 26.0 thousand tons per GWh, 25.3
 thousand tons per GWh and 18.5 thousand tons per GWh, respectively. We aim to
 reduce our greenhouse gas emission per unit of battery products by 5% by end of
 each year of 2023, 2024 and 2025.
-(cid:129) Waste treatment target: We discharged waste per unit of our battery products of
+ Waste treatment target: We discharged waste per unit of our battery products of
 834.3 ton per GWh in 2020, 731.8 ton per GWh in 2021 and 621.2 ton per GWh in
 2022.We strive to maintain the waste recycling rate at over 99% rate going forward.
 Our waste recycling rates in 2020, 2021 and 2022 were 99.7%, 97.6% and 99.0%,
 respectively. We aim to reduce our waste per unit of battery products by 2% by end
 of each year of 2023, 2024 and 2025.
-(cid:129) Wastewater and exhaust gas reduction emission targets: We are dedicated to
+ Wastewater and exhaust gas reduction emission targets: We are dedicated to
 achieving the discharge of wastewater and exhaust gas in fully compliance with the
 applicable standards. In 2022, we discharged 9,580.5 tons of wastewater, but we
 recorded nil discharge of wastewater in 2020 and 2021. We emitted 51.9 million
@@ -14771,13 +14771,13 @@ the national “dual carbon” goals, we set carbon reduction targets to increas
 renewable energy use.
 Our ESG-Related Accreditations
 We have obtained various ESG-related accreditations including:
-(cid:129) The ISO14001 Environmental Management System Certification certified by
+ The ISO14001 Environmental Management System Certification certified by
 Beijing Xinjiyuan Certification Co., Ltd.;
-(cid:129) The ISO45001 Occupational Health and Safety Management System Certification
+ The ISO45001 Occupational Health and Safety Management System Certification
 certified by Beijing Xinjiyuan Certification Co., Ltd.;
-(cid:129) The IECQ QC 080000 Hazardous Substance Management System Certification
+ The IECQ QC 080000 Hazardous Substance Management System Certification
 certified by Shanghai NQA Certification Co., Ltd.; and
-(cid:129) The ISO50001 energy management certification certified by BCC Inc.
+ The ISO50001 energy management certification certified by BCC Inc.
 Occupational Health and Safety
 We have well-established quality management, environmental management, occupational
 health and safety management and energy management systems, and have obtained
@@ -19225,29 +19225,29 @@ To safeguard the interests of the Company and Shareholders as a whole, including
 minority Shareholders, the Company will put in place certain internal approval and monitoring
 procedures relating to the proposed connected transactions contemplated under the agreements
 mentioned above, which include the following:
-(cid:129) we will formulate internal guidelines according to the Listing Rules, which provide
+ we will formulate internal guidelines according to the Listing Rules, which provide
 approval procedures for connected transactions based on their nature and amounts;
 – 435 –
 
 === PAGE 445 ===
 CONNECTED TRANSACTIONS
-(cid:129) if under similar conditions of purchase, the commercial terms and pricing of the
+ if under similar conditions of purchase, the commercial terms and pricing of the
 connected transactions should be no less favorable than the terms and prices
 provided by independent third parties or provided to independent third parties in
 respect of similar products or services;
-(cid:129) the Company shall collect the transaction amount information regularly and conduct
+ the Company shall collect the transaction amount information regularly and conduct
 analysis of the data to manage the connected transactions;
-(cid:129) the independent non-executive Directors and auditors will conduct annual review of
+ the independent non-executive Directors and auditors will conduct annual review of
 the non-exempt continuing connected transactions mentioned above and provide
 annual confirmations in accordance with the Listing Rules that the non-exempt
 continuing connected transactions are conducted in accordance with terms of the
 relevant agreements, on normal commercial terms and in accordance with the
 pricing policy and do not exceed the proposed applicable annual caps;
-(cid:129) in respect of the connected transactions not governed by the existing framework
+ in respect of the connected transactions not governed by the existing framework
 agreements (if any), the relevant operating entities shall communicate with the
 headquarters in advance and provide necessary documents to facilitate related
 decision-making and disclosure process; and
-(cid:129) additional approvals are required for transactions exceeding the proposed annual
+ additional approvals are required for transactions exceeding the proposed annual
 caps (if applicable).
 WAIVER APPLICATION FOR NON-EXEMPT CONTINUING CONNECTED
 TRANSACTIONS
@@ -21352,23 +21352,23 @@ If you apply for Hong Kong Offer Shares, then you may not apply for or indicate 
 interest for International Offer Shares.
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying:
-(cid:129) are 18 years of age or older;
-(cid:129) have a Hong Kong address (for the White Form eIPO service only); and
-(cid:129) are outside the United States (within the meaning of Regulation S), and are a person
+ are 18 years of age or older;
+ have a Hong Kong address (for the White Form eIPO service only); and
+ are outside the United States (within the meaning of Regulation S), and are a person
 described in paragraph (h)(3) of Rule 902 of Regulation S.
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Hong Kong Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you
 or the person(s) for whose benefit you are applying for:
-(cid:129) are an existing beneficial owner of our Shares and/or a substantial shareholder of
+ are an existing beneficial owner of our Shares and/or a substantial shareholder of
 any of our subsidiaries;
-(cid:129) are director, chief executive officer or supervisor of ours and/or any of our
+ are director, chief executive officer or supervisor of ours and/or any of our
 subsidiaries;
 – 491 –
 
 === PAGE 501 ===
 HOW TO APPLY FOR THE HONG KONG OFFER SHARES
-(cid:129) are a close associate of any of the above persons; or
-(cid:129) have been allocated or have applied for any International Offer Shares or otherwise
+ are a close associate of any of the above persons; or
+ have been allocated or have applied for any International Offer Shares or otherwise
 participate in the International Offering.
 2 Application Channels
 The Hong Kong Public Offering period will begin at 9:00 a.m. on Friday, December
@@ -21452,19 +21452,19 @@ HOW TO APPLY FOR THE HONG KONG OFFER SHARES
 3 Information Required to Apply
 You must provide the following information with your application:
 For Individual/Joint Applicants For Corporate Applicants
-(cid:129) Fullname(s)2asshownonyouridentity (cid:129) Fullname(s)2asshownonyouridentity
+ Fullname(s)2asshownonyouridentity Fullname(s)2asshownonyouridentity
 document document
-(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
+ Identity document’s issuing country or Identity document’s issuing country or
 jurisdiction jurisdiction
-(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
+ Identity document type, with order of Identity document type, with order of
 priority: priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification document; ii. Certificate of incorporation; or
 or
 iii. Business Registration Certificate;
 iii. Passport; and or
-(cid:129) Identity document number iv. Other equivalent document; and
-(cid:129) Identity document number
+ Identity document number iv. Other equivalent document; and
+ Identity document number
 Notes:
 1. If you are applying through the White Form eIPO service, you are required to provide a valid e-mail
 address,acontacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclarethatthe
@@ -21498,9 +21498,9 @@ above.
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 (1) Subject to change, if the Company’s Articles of Association and applicable company law prescribe a
@@ -21784,8 +21784,8 @@ application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Hong Kong Stock Exchange
 does not grant permission to list our Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Hong Kong Stock Exchange notifies
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Hong Kong Stock Exchange notifies
 us of that longer period within three weeks of the closing date of the application
 lists.
 – 501 –
@@ -21793,13 +21793,13 @@ lists.
 === PAGE 511 ===
 HOW TO APPLY FOR THE HONG KONG OFFER SHARES
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “– Applications for Hong Kong Offer Shares – 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated; or
-(cid:129) we or the Overall Coordinators believe that by accepting your application, we or
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated; or
+ we or the Overall Coordinators believe that by accepting your application, we or
 they would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -21921,9 +21921,9 @@ SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Wednesday, December 13, 2023 if, there
 is (are):
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a “black” rainstorm warning; and/or
-(cid:129) Extreme Conditions
+ a tropical cyclone warning signal number 8 or above;
+ a “black” rainstorm warning; and/or
+ Extreme Conditions
 (collectively,“SevereWeatherSignals”)inforceinHongKongatanytimebetween9:00a.m.
 and 12:00 noon on Wednesday, December 13, 2023.
 Instead they will open between 11:45 a.m. and 12:00 noon and/or close at 12:00 noon on
@@ -22000,27 +22000,27 @@ the H Share Registrar immediately of any inaccuracies in the personal data suppl
 Purposes
 Yourpersonal data may be used, held, processed, and/orstored (by whatevermeans)
 for the following purposes:
-(cid:129) processing your application and refund cheque and White Form e-Refund payment
+ processing your application and refund cheque and White Form e-Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of
 allocation of Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
 – 507 –
 
 === PAGE 517 ===
 HOW TO APPLY FOR THE HONG KONG OFFER SHARES
-(cid:129) registering new issues or transfers into or out of the names of the holders of our
+ registering new issues or transfers into or out of the names of the holders of our
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating our register of members;
-(cid:129) verifying identities of applicants for and holders of our Shares and identifying any
+ maintaining or updating our register of members;
+ verifying identities of applicants for and holders of our Shares and identifying any
 duplicate applications for our Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of our Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of our Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from us and our subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of our Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable us
+ distributing communications from us and our subsidiaries;
+ compiling statistical information and profiles of the holder of our Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to enable us
 and the H Share Registrar to discharge our or their obligations to applicants and
 holders of our Shares and/or regulators and/or any other purposes to which the
 applicants and holders of the Shares may from time to time agree.
@@ -22030,25 +22030,25 @@ holders of Hong Kong Offer Shares will be kept confidential, but we and the H Sh
 may, to the extent necessary for achieving any of the above purposes, disclose, obtain or
 transfer (whether within or outside Hong Kong) the personal data to, from or with any of the
 following:
-(cid:129) our appointed agents such as financial advisers, receiving bank(s) and overseas
+ our appointed agents such as financial advisers, receiving bank(s) and overseas
 principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and
 operating FINI and CCASS (including where applicants for the Hong Kong Offer
 Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to us or the H Share
 Registrar in connection with their respective business operation;
 – 508 –
 
 === PAGE 518 ===
 HOW TO APPLY FOR THE HONG KONG OFFER SHARES
-(cid:129) the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
+ the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
 governmentalbodiesorotherwiseasrequiredbylaws,rulesorregulationsincluding
 for the purpose of the Hong Kong Stock Exchange’s administration of the Listing
 Rules and the SFC’s performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or
 stockbrokers, etc.
 Retention of personal data
@@ -23157,8 +23157,8 @@ measured reliably.
 Derecognition of financial assets
 Afinancialasset(or,whereapplicable,apartofafinancialassetorpartofagroupofsimilarfinancialassets)
 is primarily derecognized (i.e., removed from the Group’s consolidated statement of financial position) when:
-(cid:129) the rights to receive cash flows from the asset have expired; or
-(cid:129) the Group has transferred its rights to receive cash flows from the asset or has assumed an obligation
+ the rights to receive cash flows from the asset have expired; or
+ the Group has transferred its rights to receive cash flows from the asset or has assumed an obligation
 to pay the received cash flows in full without material delay to a third party under a “pass-through”
 arrangement;andeither(a)theGrouphastransferredsubstantiallyalltherisksandrewardsoftheasset,
 or(b)theGrouphasneithertransferrednorretainedsubstantiallyalltherisksandrewardsoftheasset,
@@ -23288,20 +23288,20 @@ Group operates.
 Deferred tax is provided, using the liability method, on all temporary differences at the end of the reporting
 period between the tax bases of assets and liabilities and their carrying amounts for financial reporting purposes.
 Deferred tax liabilities are recognized for all taxable temporary differences, except:
-(cid:129) when the deferred tax liability arises from the initial recognition of goodwill or an asset or liability in
+ when the deferred tax liability arises from the initial recognition of goodwill or an asset or liability in
 a transaction that is not a business combination and, at the time of the transaction, affects neither the
 accounting profit nor taxable profit or loss; and
-(cid:129) in respect of taxable temporary differences associated with investments in subsidiaries, associates and
+ in respect of taxable temporary differences associated with investments in subsidiaries, associates and
 joint ventures, when the timing of the reversal of the temporary differences can be controlled and it is
 probable that the temporary differences will not reverse in the foreseeable future.
 Deferred tax assets are recognized for all deductible temporary differences, and the carry forward of unused
 taxcreditsandanyunusedtaxlosses.Deferredtaxassetsarerecognizedtotheextentthatitisprobablethattaxable
 profit will be available against which the deductible temporary differences, and the carry forward of unused tax
 credits and unused tax losses can be utilized, except:
-(cid:129) when the deferred tax asset relating to the deductible temporary differences arises from the initial
+ when the deferred tax asset relating to the deductible temporary differences arises from the initial
 recognition of an asset or liability in a transaction that is not a business combination and, at the time
 of the transaction, affects neither the accounting profit nor taxable profit or loss; and
-(cid:129) in respect of deductible temporary differences associated with investments in subsidiaries, associates
+ in respect of deductible temporary differences associated with investments in subsidiaries, associates
 and joint ventures, deferred tax assets are only recognized to the extent that it is probable that the
 temporarydifferenceswillreverseintheforeseeablefutureandtaxableprofitwillbeavailableagainst
 which the temporary differences can be utilized.
@@ -27167,8 +27167,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the Unaudited Pro Forma Financial Information provide a reasonable
 basis for presenting the significant effects directly attributable to the transaction, and to obtain
 sufficient appropriate evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the Unaudited Pro Forma Financial Information reflects the proper application of
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the Unaudited Pro Forma Financial Information reflects the proper application of
 those adjustments to the unadjusted financial information.
 – II-4 –
 

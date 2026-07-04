@@ -417,7 +417,7 @@ AI systems that automate the process of machine learning, application, decision-
 evaluation driven by our AutoML algorithms, featuring quick, simple build-up, low- and/or
 no-code environment, and implementation without significant involvement of AI experts. Our
 Sage Platform is primarily composed of the following:
-(cid:129) Sage AIOS is an AI operating system featuring a user-friendly interface,
+ Sage AIOS is an AI operating system featuring a user-friendly interface,
 standardized data processing, automated resource management and allocation and
 fully compatible middleware that are comparable to personal computer operating
 systems. Specifically, Sage AIOS provides a more user-friendly interface to
@@ -427,7 +427,7 @@ and operate numerousAI applications, SageAIOS is able to empower enterprises to
 deploy AI on a large scale. Based on multiple versions of products and underlying
 technologypreviouslydevelopedbyus,weofficiallylaunchedSageAIOSinAugust
 2020, an upgraded and integrated AI operating system with expanded features.
-(cid:129) HyperCycle series with no-code development tools and Sage Studio series with
+ HyperCycle series with no-code development tools and Sage Studio series with
 low-code and no-code development tools are our core platform-centricAI solutions
 by which our users can quickly and easily deploy large-scale AI applications.
 In addition, we offer ready-to-use AI applications that users could directly deploy to
@@ -450,22 +450,22 @@ SUMMARY
 OUR COMPETITIVE STRENGTHS
 We believe the following strengths contribute to our success and differentiate us from our
 competitors:
-(cid:129) Our leading position in platform-centric enterprise AI solutions and core
+ Our leading position in platform-centric enterprise AI solutions and core
 technologies;
-(cid:129) Our end-to-end AI solutions with strong value proposition, continuously driving
+ Our end-to-end AI solutions with strong value proposition, continuously driving
 user success;
-(cid:129) High quality, diverse and loyal user base resulting from our levered go-to-market
+ High quality, diverse and loyal user base resulting from our levered go-to-market
 strategy;
-(cid:129) AI ecosystem to ensure sustainable long-term growth; and
-(cid:129) Strong, experienced and elite management combining academic excellence and
+ AI ecosystem to ensure sustainable long-term growth; and
+ Strong, experienced and elite management combining academic excellence and
 business insights.
 OUR STRATEGIES
 We intend to pursue the following strategies to achieve our long-term goal of helping
 enterprises achieve AI transformation:
-(cid:129) Further strengthen our R&D capabilities;
-(cid:129) Continue to create value for users and establish industry standards;
-(cid:129) Strengthen collaboration with business partners within our ecosystem; and
-(cid:129) Enhance our commercialization capabilities.
+ Further strengthen our R&D capabilities;
+ Continue to create value for users and establish industry standards;
+ Strengthen collaboration with business partners within our ecosystem; and
+ Enhance our commercialization capabilities.
 OUR ENTERPRISE AI SOLUTIONS
 Driven by our mission to empower AI transformation and advance AI for all businesses,
 we have developed Sage Platform, a full suite of end-to-end AI solutions that can be rapidly
@@ -476,7 +476,7 @@ develop, and operate AI applications at scale. The plug-and-play and low- and/or
 nature of Sage Platform lowers the barrier ofAI deployment, enabling large-scale deployment
 within a few days and without involvement of experts or other personnel with significant
 experience in AI.
-(cid:129) SageAIOS is anAI operating system featuring user-friendly interface, standardized
+ SageAIOS is anAI operating system featuring user-friendly interface, standardized
 data processing, automated resource management and allocation and fully
 compatiblemiddlewarethatarecomparabletopersonalcomputeroperatingsystems.
 Based on multiple versions of products and underlying technology previously
@@ -504,7 +504,7 @@ Runtime kernel is capable of automatically scheduling and managing heterogeneous
 resources without affecting user experience, thereby enhancing computation
 resource utilization rates, and optimize the efficiency of developing AI models and
 applications.
-(cid:129) Built on Sage AIOS, there are two AI developer suites, for which users can choose
+ Built on Sage AIOS, there are two AI developer suites, for which users can choose
 depending on their coding capabilities, one being the HyperCycle series with
 no-code development tool and the other one being the Sage Studio series with
 low-code and no-code development tools. AI applications in different use cases
@@ -608,7 +608,7 @@ areprimarilybasedontheestimatedcomputingpowerconsumption.Basedoncommunications
 with users, we understand their business needs and estimate the computing power consumption
 based on the complexity of the use cases, dimensions of the AI models, and the estimated
 amount of data involved therein.
-(cid:129) The price of our software license is primarily based on the estimated computing
+ The price of our software license is primarily based on the estimated computing
 power consumption by reference to theAI applications our users plan to deploy. We
 consider data volume and other specific requests such as the latency, concurrency,
 queries per seconds, and the number of replicas, among others.
@@ -616,7 +616,7 @@ queries per seconds, and the number of replicas, among others.
 
 === PAGE 17 ===
 SUMMARY
-(cid:129) To complement the sales of software, we also offer SageOne, our software-defined
+ To complement the sales of software, we also offer SageOne, our software-defined
 “All-in-One” solutions with pre-built Sage Platform and applications on servers and
 other related hardware. We charge customers of SageOne by taking into account the
 number of hardware units, license fees of our software and cost of hardware based
@@ -709,38 +709,38 @@ Our business faces risks including those set out in the section headed “Risk F
 different investors may have different interpretations and criteria when determining the
 significance of a risk, you should read the “Risk Factors” section in its entirety before you
 decide to invest in our H Shares. Some of the major risks that we face include:
-(cid:129) AI technologies are constantly evolving. Any flaws or inappropriate usage of AI
+ AI technologies are constantly evolving. Any flaws or inappropriate usage of AI
 technologies, whether actual or perceived, whether intended or inadvertent, whether
 committed by us or by other third parties, could have negative impact on our
 business, reputation and the general acceptance of AI solutions by the society.
-(cid:129) Our business depends substantially on continuing efforts of our senior management
+ Our business depends substantially on continuing efforts of our senior management
 and other key personnel, as well as a competent pool of talents who support our
 existing operations and future growth. If we are unable to retain, attract, recruit and
 train such personnel, our business may be materially and adversely affected.
-(cid:129) The industries in which we operate are characterized by constant changes. If we fail
+ The industries in which we operate are characterized by constant changes. If we fail
 to continuously innovate our technology and provide useful solutions that meet the
 expectations of our customers, our business, financial condition and results of
 operations may be materially and adversely affected.
-(cid:129) We may not be able to sustain our historical growth rates, and our historical growth
+ We may not be able to sustain our historical growth rates, and our historical growth
 may not be indicative of our future growth or financial results.
-(cid:129) Weareinvestingheavilyonourresearchanddevelopment,andsuchinvestmentmay
+ Weareinvestingheavilyonourresearchanddevelopment,andsuchinvestmentmay
 negatively impact our profitability and operating cash flow in the short term and
 may not generate the results we expect to achieve.
-(cid:129) We have recorded net losses, net liabilities and operating cash outflow during the
+ We have recorded net losses, net liabilities and operating cash outflow during the
 Track Record Period, and we may not be able to achieve or subsequently maintain
 profitability.
-(cid:129) Our solutions are primarily not offered on a recurring subscription basis. If we fail
+ Our solutions are primarily not offered on a recurring subscription basis. If we fail
 to retain existing customers, attract new customers or increase the spending by our
 customers, our business and results of operations may be materially and adversely
 affected.
-(cid:129) If we fail to compete effectively, our business, financial condition and results of
+ If we fail to compete effectively, our business, financial condition and results of
 operations may be materially and adversely affected.
-(cid:129) We may be subject to complex and evolving laws and regulations regarding privacy
+ We may be subject to complex and evolving laws and regulations regarding privacy
 and data protection. Actual or alleged failure to comply with privacy and data
 protection laws and regulations could damage our reputation, deter current and
 potential customers from using our solutions and could subject us to significant
 legal, financial and operational consequences.
-(cid:129) We are subject to the risks associated with international trade policies, geopolitics
+ We are subject to the risks associated with international trade policies, geopolitics
 and trade protection measures, and our business, financial condition and results of
 operations could be adversely affected. Effective March 2, 2023, BIS added certain
 entity(ies) to the Entity List, which restricts their ability to purchase or otherwise
@@ -748,7 +748,7 @@ access certain goods, software and technology. Out of an abundance of caution an
 unless or until we receive further clarification from BIS, we will assume that all
 entities located at the address provided in the Entity List are subject to the Entity
 List restrictions in order to comply with relevant restrictions.
-(cid:129) The trading price of our H Shares may be volatile, which could result in substantial
+ The trading price of our H Shares may be volatile, which could result in substantial
 losses to you.
 – 10 –
 
@@ -1050,7 +1050,7 @@ launch of SageOne, we incurred an increased cost of finished goods sold as a per
 revenue during the Track Record Period. We expect our cost of revenues as a percentage of
 revenue may vary from period to period in the short term as a result of the mix of our solution
 offerings, while it will generally decrease in the long term due to the following factors:
-(cid:129) As we continue to optimize our algorithms and to enhance the compatibility of
+ As we continue to optimize our algorithms and to enhance the compatibility of
 software and hardware, we expect to improve the computing efficiency of our
 solutions, which enables us to enhance user experience while optimizing cost
 structure; and
@@ -1058,7 +1058,7 @@ structure; and
 
 === PAGE 26 ===
 SUMMARY
-(cid:129) We have invested heavily in developing technology capabilities and infrastructure,
+ We have invested heavily in developing technology capabilities and infrastructure,
 in order to provide highly scalable, standardized and flexible solutions for our users.
 The solutions we offer are highly modularized, which allows us to address users’
 customized demands effectively and efficiently, and in turn, enabling us to achieve
@@ -1068,7 +1068,7 @@ Our selling and marketing expenses (excluding share-based compensation) accounte
 three months ended March 31, 2022 and 2023, respectively. We expect that our sales and
 marketing expenses as a percentage of total revenue will generally decrease in the long term
 due to the following factors:
-(cid:129) Our go-to-market strategy starts with market leaders in each industry we target to
+ Our go-to-market strategy starts with market leaders in each industry we target to
 enter who are also early adopters ofAI. We are able to leverage our experience and
 success in existing industry and scenario to expand into new industries with similar
 scenario. We demonstrate the value of our solutions through one or a few entry
@@ -1079,7 +1079,7 @@ of the industries, our reputation established through collaborating with industr
 leaders, and our AI ecosystem to further enhance our influence in such industries,
 enabling us to further penetrate and provide solutions to other players, without
 incurring significant sales and marketing efforts;
-(cid:129) We expect to accumulate a larger user base and higher user stickiness as we
+ We expect to accumulate a larger user base and higher user stickiness as we
 continuously solidify our market leadership. We expect this to enable us to attract
 and retain users and, in the long-term, reduce spending on promotions and
 advertisements. As our users develop moreAI applications for new use cases on our
@@ -1088,11 +1088,11 @@ power, they will need to purchase additional licenses from us for additional
 computing power, which in turn allows us to capture additional monetization
 opportunities with low marginal cost after the initial sale and improve our
 profitability;
-(cid:129) We expect to benefit from more efficient user acquisition through word-of-mouth
+ We expect to benefit from more efficient user acquisition through word-of-mouth
 referrals and enhanced brand awareness. With our established brand reputation and
 large use bases, we expect to continuously generate significant word-of-mouth
 referrals and organic user growth; and
-(cid:129) We plan to strengthen our relationships with solution partners to retain and expand
+ We plan to strengthen our relationships with solution partners to retain and expand
 our user base across various industries, which will help improve our sales and
 marketing efficiency in the long run.
 Our general and administrative expenses (excluding share-based compensation)
@@ -1446,13 +1446,13 @@ policy. The Board has approved a dividend policy, which will become effective up
 Under the dividend policy, we may provide our Shareholders with interim or annual dividends
 as the Board deems appropriate. The Board will consider, among other things, the following
 factors when proposing dividends and determining the amount of dividends:
-(cid:129) our actual and projected financial performance;
-(cid:129) our estimated working capital requirements, capital expenditure requirements and
+ our actual and projected financial performance;
+ our estimated working capital requirements, capital expenditure requirements and
 future business expansion plan;
-(cid:129) our present and future cash flow;
-(cid:129) other internal and external factors that may have an impact on our business
+ our present and future cash flow;
+ other internal and external factors that may have an impact on our business
 operations or financial performance and position; and
-(cid:129) other factors that our Board deem relevant.
+ other factors that our Board deem relevant.
 Any declaration and payment as well as the amount of dividends will be subject to our
 constitutional documents, including (where required) the approval of our Shareholders.
 PRC laws require that dividends be paid only out of our distributable profits, for which
@@ -1482,16 +1482,16 @@ million. We will bear the underwriting commissions, SFC transaction levy and Sto
 trading fee payable by us in connection with the issue of new Shares together with any
 applicable fees relating to the Global Offering. We intend to use the net proceeds we will
 receive from this offering for the following purposes:
-(cid:129) Approximately 60%, or HK$531.0 million, will be allocated over the next three
+ Approximately 60%, or HK$531.0 million, will be allocated over the next three
 years to enhance our fundamental research, technological capabilities and solution
 development.
-(cid:129) Approximately 20%, or HK$177.0 million, will be allocated over the next three
+ Approximately 20%, or HK$177.0 million, will be allocated over the next three
 years to expand our offerings, build our brand and enter into new industry sectors.
-(cid:129) Approximately 10%, or HK$88.5 million, will be allocated over the next three years
+ Approximately 10%, or HK$88.5 million, will be allocated over the next three years
 to pursue strategic investment and acquisition opportunities to implement our
 long-term growth strategy to develop our solutions and expand and penetrate the
 industry verticals we cover.
-(cid:129) Approximately 10%, or HK$88.5 million, will be used for general corporate
+ Approximately 10%, or HK$88.5 million, will be used for general corporate
 purposes.
 LISTING EXPENSES
 Based on the mid-point Offer Price of HK$58.38 (being the mid-point of our Offer Price
@@ -3442,40 +3442,40 @@ opportunities that we believe can extend and solidify our leading market positio
 overallbusinessstrategy.Wemaybeengagedindiscussionsornegotiationswithrespecttoone
 or more of these types of transactions. These transactions involve significant challenges and
 risks, including:
-(cid:129) difficulties in integrating the acquired personnel, operations, solutions and/or
+ difficulties in integrating the acquired personnel, operations, solutions and/or
 services into our operations;
-(cid:129) potential issues with technology, internal controls and financial reporting of the
+ potential issues with technology, internal controls and financial reporting of the
 companies we acquire;
-(cid:129) disruptions of our ongoing business, distractions of the attention of our management
+ disruptions of our ongoing business, distractions of the attention of our management
 and employees and increase of our expenses;
-(cid:129) lossofskilledprofessionalsandestablishedclientrelationshipsofthebusinesseswe
+ lossofskilledprofessionalsandestablishedclientrelationshipsofthebusinesseswe
 invest in or acquire;
-(cid:129) for investments over which we do not obtain management and operational control,
+ for investments over which we do not obtain management and operational control,
 lack of influence over the controlling partner or shareholder, which may prevent us
 from achieving our strategic goals in such investments;
 – 76 –
 
 === PAGE 86 ===
 RISK FACTORS
-(cid:129) new regulatory requirements and compliance risks that we become subject to as a
+ new regulatory requirements and compliance risks that we become subject to as a
 result of investments or acquisitions in new industries or otherwise;
-(cid:129) actual or alleged misconduct or noncompliance by any company we acquire or
+ actual or alleged misconduct or noncompliance by any company we acquire or
 invest in (or by its affiliates) that occurred prior to our acquisition or investment,
 which may lead to negative publicity, government inquiry or investigations against
 such company or against us;
-(cid:129) unforeseen or hidden liabilities or costs that may adversely affect us following our
+ unforeseen or hidden liabilities or costs that may adversely affect us following our
 acquisition of such targets;
-(cid:129) compliance matters including the antimonopoly and competition laws, rules and
+ compliance matters including the antimonopoly and competition laws, rules and
 regulations of the PRC and other countries in connection with any proposed
 investments and acquisitions;
-(cid:129) the risk that any of our pending or other future proposed investments or acquisitions
+ the risk that any of our pending or other future proposed investments or acquisitions
 does not close;
-(cid:129) the costs of identifying and consummating investments and acquisitions;
-(cid:129) the use of substantial amounts of cash and potentially dilutive issuances of equity
+ the costs of identifying and consummating investments and acquisitions;
+ the use of substantial amounts of cash and potentially dilutive issuances of equity
 securities;
-(cid:129) the occurrence of significant goodwill impairment charges and amortization
+ the occurrence of significant goodwill impairment charges and amortization
 expenses for other intangible assets; and
-(cid:129) uncertainties in achieving the expected benefits of synergies and growth
+ uncertainties in achieving the expected benefits of synergies and growth
 opportunities in connection with these acquisitions and investments.
 Any such negative developments described above could disrupt our existing business and
 have a material adverse effect on our business, reputation, financial condition and results of
@@ -4717,10 +4717,10 @@ Share Registrar has agreed, not to register the subscription, purchase or transf
 Shares in the name of any particular holder unless and until such holder delivers a signed form
 to our H Share Registrar in respect of those H Shares bearing statements to the effect that the
 holder:
-(cid:129) agrees with us and each of our Shareholders, and we agree with each Shareholder,
+ agrees with us and each of our Shareholders, and we agree with each Shareholder,
 to observe and comply with the PRC Company Law, the Overseas Listing Trial
 Measures and our Articles of Association;
-(cid:129) agrees with us, each of our Shareholders, Directors, Supervisors, managers and
+ agrees with us, each of our Shareholders, Directors, Supervisors, managers and
 officers, and we act for ourselves and for each of our Directors, Supervisors,
 managers and officers agree with each of our Shareholders, to refer all differences
 and claims arising from our Articles of Association or any rights or obligations
@@ -4729,13 +4729,13 @@ administrative regulations concerning our affairs to arbitration, and any refere
 arbitration shall be deemed to authorize the arbitration tribunal to conduct hearings
 in open session and to publish its award, which arbitration shall be final and
 conclusive;
-(cid:129) agrees with us and each of our Shareholders that the H Shares are freely transferable
+ agrees with us and each of our Shareholders that the H Shares are freely transferable
 by the holders thereof; and
 – 106 –
 
 === PAGE 116 ===
 INFORMATION ABOUT THIS PROSPECTUS AND THE GLOBAL OFFERING
-(cid:129) authorizes us to enter into a contract on his or her behalf with each of our Directors,
+ authorizes us to enter into a contract on his or her behalf with each of our Directors,
 Supervisors, managers and officers whereby such Directors, Supervisors, managers
 and officers undertake to observe and comply with their obligations to our
 Shareholders as stipulated in our Articles of Association. Persons applying for or
@@ -5429,12 +5429,12 @@ growing smarter and capable of solving real-world problems in a more efficient w
 === PAGE 133 ===
 INDUSTRY OVERVIEW
 Advancement of both computational and algorithmic infrastructure
-(cid:129) Surging computing power: Computing power is closely related to the development
+ Surging computing power: Computing power is closely related to the development
 of chips. Most chip firms have their AI chip lineups vastly improved on the
 computing power compared to prior generations. According to the CIC Report, the
 computing power of newly developed generation ofAI chips by major chip firms is
 improved to as high as ten times that of the previous generation of the same lineup.
-(cid:129) Reduced time and cost of model training: New algorithms and frameworks have
+ Reduced time and cost of model training: New algorithms and frameworks have
 emerged to boost the efficiency of AI training and industrial deployment. For
 example, with transfer learning technology, the insights gained by one trained AI
 model are transferrable and reproducible; with automated machine learning
@@ -5473,33 +5473,33 @@ andisestimatedtogrowtoRMB691.0billionin2027withaCAGRof25.1%.Chinaisamajor
 AI market with increasing global influences, evidenced by the following facts according to the
 CIC Report and “Artificial Intelligence Index Report 2022” by Stanford Institute for
 Human-Centered Artificial Intelligence (HAI):
-(cid:129) China was the second largest AI market globally in terms of AI spending in 2022,
+ China was the second largest AI market globally in terms of AI spending in 2022,
 capturing approximately 18% of global AI spending.
-(cid:129) With surging demand forAI, the growth of China’sAI spending is expected to reach
+ With surging demand forAI, the growth of China’sAI spending is expected to reach
 a CAGR of 25.1% from 2022 to 2027, outpacing the growth of global AI spending
 over the same period.
-(cid:129) China has consistently been the largest market globally in terms of the number ofAI
+ China has consistently been the largest market globally in terms of the number ofAI
 patent application since 2016, with one of the largest talent pools of top-tiered AI
 researchers.
-(cid:129) China has consistently been the largest market globally in terms of both the number
+ China has consistently been the largest market globally in terms of both the number
 of AI journal publications and AI journal citations since 2016.
 China’s AI industry can be categorized into four major segments in terms of fields of
 application: decision-making AI, visual AI, speech and semantics AI and AI robots. The
 following sets forth the definition and typical application scenarios for each of the four
 categories:
-(cid:129) Decision-making AI recognizes patterns hidden in data, guides decision-making
+ Decision-making AI recognizes patterns hidden in data, guides decision-making
 process on data insights, and addresses issues that are most pertinent to core
 business operations. Typical applications include, but are not limited to, smart sales
 and marketing, risk management, and supply chain management.
-(cid:129) VisualAI identifies, tracks and measures objects based on visual data, and translates
+ VisualAI identifies, tracks and measures objects based on visual data, and translates
 such information into insights and judgments. Typical applications include, but are
 not limited to, smart access control, public safety surveillance, optical character
 recognition (“OCR”).
-(cid:129) Speech and semanticsAI aims to recognize, generate and exchange voices, texts and
+ Speech and semanticsAI aims to recognize, generate and exchange voices, texts and
 other language information with human beings to save human labor in certain
 repetitivecommunicationscenarios.Typicalapplicationsinclude,butarenotlimited
 to, smart customer service, intelligent transcription, interactive voice response.
-(cid:129) AI robots are designed to replace human beings in performing certain repetitive or
+ AI robots are designed to replace human beings in performing certain repetitive or
 dangerous tasks. TypicalAI robots include, but are not limited to, industrial drones,
 automated guided vehicles (“AGVs”), surgical robots.
 Amongtheabovesegments,decision-makingAIisexpectedtobethefastest-growingone
@@ -5802,20 +5802,20 @@ technologies and usage scenarios, and therefore, value propositions, which make 
 complementary than competitive in real-world application. The table below demonstrates a
 detailed comparison between LLMs and decision making AI models.
 Comparison items LLMs Decision making AI models
-Value propositions (cid:129) Provide plausible answers (cid:129) Provide predictive
+Value propositions Provide plausible answers Provide predictive
 to generic topics analysis and guide
 business decision making
 in specified scenarios
-Underlying technology (cid:129) Generative model (cid:129) Distinctive model
-Usage scenarios (cid:129) Generation of answers (cid:129) Prediction of future status
+Underlying technology Generative model Distinctive model
+Usage scenarios Generation of answers Prediction of future status
 based on retrospection of based on summarizing
 massive historical data on patterns of historical data
 generic topics on specific events and
 real-time input
-Data requirements and (cid:129) Extremely large data (cid:129) Adequate data scope,
+Data requirements and Extremely large data Adequate data scope,
 TCO scope, typically of largely typically related to
 diverse and generic topics specific business tasks
-(cid:129) High TCO due to high (cid:129) Affordable TCO thanks to
+ High TCO due to high Affordable TCO thanks to
 training cost of such training of only the most
 massive data relevant data
 – 132 –
@@ -9880,7 +9880,7 @@ Our Core AI Technologies
 We have been leading in the research of advanced AI technologies and the utilization of
 these technologies in commercial solutions. Core technologies underlying our AI solutions
 include:
-(cid:129) AutoML. Our AutoML technology automates the process of machine learning and
+ AutoML. Our AutoML technology automates the process of machine learning and
 enables algorithms to automatically discover new patterns, hence minimizing the
 involvement of AI engineers responsible for building, adjusting, maintaining and
 refining the AI models.
@@ -9888,19 +9888,19 @@ refining the AI models.
 
 === PAGE 203 ===
 BUSINESS
-(cid:129) Transfer Learning. Our transfer learning technology expands application of AI to
+ Transfer Learning. Our transfer learning technology expands application of AI to
 industries in which data is sensitive or scarce and resolves privacy issues
 surrounding application of AI in fields involving sensitive data subjects. It equips
 our algorithms with the ability to “transfer” analysis conducted and patterns
 discovered in one industry or scenario to another with similarity, hence being able
 to provide AI solutions even where data is not readily available or accessible.
-(cid:129) Environment Learning. Our environment learning technology reduces the cost of
+ Environment Learning. Our environment learning technology reduces the cost of
 modeltrainingandensuressafetybytrainingmodelsinasimulatedenvironment.As
 compared to traditional simulation technologies, our environment learning
 technology is able to build a high-precision simulated environment without
 complete domain knowledge, enabling the application of intelligent decision-
 making technologies in more use cases.
-(cid:129) AutoRL. Our AutoRL technology automates the process of reinforcement learning,
+ AutoRL. Our AutoRL technology automates the process of reinforcement learning,
 which refers to the training of machine learning models to make a sequence of
 decisions in a dynamic, uncertain, potentially complex environment. Our AutoRL
 technology provides an end-to-end and automatic suite of tools for reinforcement
@@ -9914,7 +9914,7 @@ customized AI systems that automate the process of machine learning, application
 making and evaluation driven by our AutoML algorithms, featuring quick, simple build-up,
 low- and/or no-code environment, and implementation without significant involvement of AI
 experts.
-(cid:129) SageAIOS is anAI operating system featuring user-friendly interface, standardized
+ SageAIOS is anAI operating system featuring user-friendly interface, standardized
 data processing, automated resource management and allocation and fully
 compatiblemiddlewarethatarecomparabletopersonalcomputeroperatingsystems.
 Major components of Sage AIOS include data kernel and runtime kernel. Data
@@ -9930,7 +9930,7 @@ applications.
 
 === PAGE 204 ===
 BUSINESS
-(cid:129) Built on Sage AIOS, there are two AI developer suites, for which users can choose
+ Built on Sage AIOS, there are two AI developer suites, for which users can choose
 depending on their coding capabilities, one being the HyperCycle series with
 no-code development tool and the other one being the Sage Studio series with
 low-code and no-code development tools. AI applications in different use cases
@@ -10266,16 +10266,16 @@ resources without affecting user experience, thereby enhancing computation resou
 utilization rates, and optimize the efficiency of developing AI models and applications. The
 key component of runtime kernel is OpenAIOS, which is able to automatically coordinate AI
 tasks among heterogeneous devices. Key features of our runtime kernel include:
-(cid:129) High performance. Our runtime kernel is able to automatically split tasks for
+ High performance. Our runtime kernel is able to automatically split tasks for
 parallel computation, and use different designated computing chips to further
 accelerate processing, thereby improving the performance of current AI computing
 framework by 500%, according to CIC.
-(cid:129) Cost effective. Our runtime kernel is able to expand memory size through an
+ Cost effective. Our runtime kernel is able to expand memory size through an
 automatic scaling strategy without modifying of the existing applications and codes.
 As a result, we are able to reduce the overall memory cost while increasing the
 success rate of tasks, thereby reducing the TCO for current AI data processing
 engines by 90%, according to CIC.
-(cid:129) High utilization rate. Our runtime kernel is able to offer a low-latency and
+ High utilization rate. Our runtime kernel is able to offer a low-latency and
 high-throughput communication framework in the process of machine learning.
 Combined with our device virtualization technologies, our runtime kernel is able to
 enhance GPU utilization rate by ten times as compared to other mainstream
@@ -10521,14 +10521,14 @@ services offered by us. SageGPT is compatible with users’ existing business sy
 applications and internal database, and does not require purchase of our other products or
 services. As of the Latest Practicable Date, SageGPT is still in an early stage of
 commercialization. Key advantages of SageGPT include:
-(cid:129) Secure data – SageGPT can be deployed on-premise, and does not require large
+ Secure data – SageGPT can be deployed on-premise, and does not require large
 external models. Therefore end users’ data are retained and processed on their
 premise to ensure security.
-(cid:129) Trusted content – SageGPT process data from trusted source, including end user’s
+ Trusted content – SageGPT process data from trusted source, including end user’s
 existingAI applications, business systems and internal database. SageGPT supports
 cross-validationofknowledgegraphtoensurethereliabilityandaccuracyofcontent
 generated. Original source of the output can be identified for verification.
-(cid:129) Cost-efficiency –As SageGPT is designed for enterprises instead of individuals, we
+ Cost-efficiency –As SageGPT is designed for enterprises instead of individuals, we
 have streamlined theAI models and generating process of SageGPT which requires
 less computing power. SageGPT does not require significant cost and investment by
 end users on computing power and hardware.
@@ -10652,11 +10652,11 @@ based on the estimated computing power consumption. Based on communications with
 we understand their business needs and estimate the computing power consumption based on
 thecomplexityoftheusecases,dimensionsoftheAImodels,andtheestimatedamountofdata
 involved therein.
-(cid:129) The price of our software license is primarily based on the estimated computing
+ The price of our software license is primarily based on the estimated computing
 power consumption by reference to theAI applications our users plan to deploy. We
 consider data volume and other specific requests such as the latency, concurrency,
 queries per seconds, and the number of replicas, among others.
-(cid:129) To complement the sales of software, we also offer SageOne, our software-defined
+ To complement the sales of software, we also offer SageOne, our software-defined
 “All-in-One” solutions with pre-built Sage Platform and applications on servers and
 other related hardware. We charge customers of SageOne by taking into account the
 number of hardware units, license fees of our software and cost of hardware based
@@ -10681,14 +10681,14 @@ parameters such as the estimated network gateway, latency, the complexity of fea
 engineering, among others. Typically, more computing power is required for applications with
 larger data volume, more requirements on other parameters, more complex algorithms and
 certain specific features such as real-time analytics.
-(cid:129) For software license, we charge customers software license fees based on the
+ For software license, we charge customers software license fees based on the
 required number of CPU cores multiplied by the agreed license fee for each CPU
 core.
 – 215 –
 
 === PAGE 225 ===
 BUSINESS
-(cid:129) For SageOne, based on the estimated computing power consumption and the
+ For SageOne, based on the estimated computing power consumption and the
 optimisationeffectthatcouldberealisedourhardware,weproposetoourclientsthe
 appropriate model, configuration and number of hardware required for their needs.
 Price for SageOne is charged based on the number of hardware units, which already
@@ -10970,11 +10970,11 @@ launch of SageOne, we incurred an increased cost of finished goods sold as a per
 revenue during the Track Record Period. We expect our cost of revenues as a percentage of
 revenue may vary from period to period in the short term as a result of the mix of our solution
 offerings, while it will generally decrease in the long term due to the following factors:
-(cid:129) As we continue to optimize our algorithms and to enhance the compatibility of
+ As we continue to optimize our algorithms and to enhance the compatibility of
 software and hardware, we expect to improve the computing efficiency of our
 solutions, which enables us to enhance user experience while optimizing cost
 structure; and
-(cid:129) We have invested heavily in developing technology capabilities and infrastructure,
+ We have invested heavily in developing technology capabilities and infrastructure,
 in order to provide highly scalable, standardized and flexible solutions for our users.
 The solutions we offer are highly modularized, which allows us to address users’
 customized demands effectively and efficiently, and in turn, enabling us to achieve
@@ -10984,7 +10984,7 @@ Our selling and marketing expenses (excluding share-based compensation) accounte
 three months ended March 31, 2022 and 2023, respectively. We expect that our sales and
 marketing expenses as a percentage of total revenue will generally decrease in the long term
 due to the following factors:
-(cid:129) Our go-to-market strategy starts with market leaders in each industry we target to
+ Our go-to-market strategy starts with market leaders in each industry we target to
 enter who are also early adopters ofAI. We are able to leverage our experience and
 success in existing industry and scenario to expand into new industries with similar
 scenario. We demonstrate the value of our solutions through one or a few entry
@@ -10995,7 +10995,7 @@ of the industries, our reputation established through collaborating with industr
 leaders, and our AI ecosystem to further enhance our influence in such industries,
 enabling us to further penetrate and provide solutions to other players, without
 incurring significant sales and marketing efforts;
-(cid:129) We expect to accumulate a larger user base and higher user stickiness as we
+ We expect to accumulate a larger user base and higher user stickiness as we
 continuously solidify our market leadership. We expect this to enable us to attract
 and retain users and, in the long-term, reduce spending on promotions and
 advertisements. As our users develop moreAI applications for new use cases on our
@@ -11010,11 +11010,11 @@ opportunities with low marginal cost after the initial sale and improve our
 profitability. Our ability to create value for users is evidenced by a net dollar
 expansion rate of 167%, 140% and 126% for our lighthouse users in 2020, 2021 and
 2022, respectively;
-(cid:129) We expect to benefit from more efficient user acquisition through word-of-mouth
+ We expect to benefit from more efficient user acquisition through word-of-mouth
 referrals and enhanced brand awareness. With our established brand reputation and
 large use bases, we expect to continuously generate significant word-of-mouth
 referrals and organic user growth; and
-(cid:129) We plan to strengthen our relationships with solution partners to retain and expand
+ We plan to strengthen our relationships with solution partners to retain and expand
 our user base across various industries, which will help improve our sales and
 marketing efficiency in the long run.
 Our general and administrative expenses (excluding share-based compensation)
@@ -11571,11 +11571,11 @@ solution partners, there was no material difference in the contract terms and th
 services. The value of our contracts with customers can vary substantially from customer to
 customer, depending on their business needs. The salient terms and conditions of our
 agreements with customers are set out below:
-(cid:129) Deliverables: For sales of our Sage Platform and applications, we typically provide
+ Deliverables: For sales of our Sage Platform and applications, we typically provide
 non-exclusive licenses of use rights of our solutions and maintenance services
 related to the solutions. For application development and other services, we
 typically develop customized applications based on the customer’s specification.
-(cid:129) Pricing: The price of our software license is primarily based on the estimated
+ Pricing: The price of our software license is primarily based on the estimated
 computing power consumption by reference to theAI applications our users plan to
 deploy. We charge users of SageOne by taking into account the number of hardware,
 – 236 –
@@ -11586,10 +11586,10 @@ required computing power, license fees of our software and service fees for
 deployment, operation and maintenance. For application development and other
 services, we typically charge customers on a project basis, the pricing of which is
 primarily based on the manpower consumption of the relevant services.
-(cid:129) CustomerSupport:Wetypicallyprovidefreetechnicalsupportforoneyearafterthe
+ CustomerSupport:Wetypicallyprovidefreetechnicalsupportforoneyearafterthe
 sale of our solutions and free training to help our customers learn to use and
 maintain our solutions.
-(cid:129) Ownership: All intellectual property rights relating to the solutions that we deliver
+ Ownership: All intellectual property rights relating to the solutions that we deliver
 under the agreement, including but not limited to copyrights, patents ownership of
 the proprietary technologies and trademarks, belong to us. The other party may not
 conduct any reverse engineering, decompiling, disassembly or use other methods to
@@ -11910,28 +11910,28 @@ accounted for approximately 3.4%, 6.5%, 10.1% and 14.7% of our total purchases i
 2021, 2022 and in the three months ended March 31, 2023, respectively.
 Key terms of our agreements with providers of research and development services are set
 out below:
-(cid:129) R&D services. Our suppliers provide research and development services based on
+ R&D services. Our suppliers provide research and development services based on
 our requirements as specified in the agreement.
-(cid:129) Delivery and inspection. Our suppliers shall complete the project within the
+ Delivery and inspection. Our suppliers shall complete the project within the
 prescribed time period, and deliver all relevant software and documents. We are
 entitled to inspect their work products and provide written comments for suppliers
 to address.
-(cid:129) Copyright. We are entitled to all copyrights in relation to the R&D projects,
+ Copyright. We are entitled to all copyrights in relation to the R&D projects,
 including but not limited to the technical materials, documents, source codes and
 applications.
-(cid:129) Termination. The agreement may be terminated upon mutual consent between the
+ Termination. The agreement may be terminated upon mutual consent between the
 parties.
 Keytermsofouragreementswithprovidersofimplementationservicesaresetoutbelow:
-(cid:129) Implementationservices.Weshallprovidedetailedrequirementsandexplanationsin
+ Implementationservices.Weshallprovidedetailedrequirementsandexplanationsin
 written for our suppliers to provide implementation services accordingly. We are
 entitled to change the implementation cycle, alter the services or terminate the
 agreement with prior written notice.
-(cid:129) Pricing and payment. Prices of implementation services are based on the estimated
+ Pricing and payment. Prices of implementation services are based on the estimated
 manpower consumption as agreed by both parties. Fees are typically settled on a
 monthly basis.
-(cid:129) Indemnification. Each party shall indemnify the other party for any damages caused
+ Indemnification. Each party shall indemnify the other party for any damages caused
 by its fault.
-(cid:129) Termination. The agreement may be terminated upon mutual consent between the
+ Termination. The agreement may be terminated upon mutual consent between the
 parties, or unilaterally terminated by each party due to breach of agreement by the
 other party. In addition, we are also entitled to terminate the agreement with prior
 written notice, provided that we shall pay the suppliers all fees and expenses they
@@ -12602,40 +12602,40 @@ would cause it to cast any doubt on the views of the Directors, or on the views 
 Internal Control Measures
 We have recently established a series of export control compliance measures to address
 and mitigate risks related to U.S. export controls, including the following:
-(cid:129) We engaged outside U.S. export controls compliance counsel (separate from JBK)
+ We engaged outside U.S. export controls compliance counsel (separate from JBK)
 to advise on the development of a trade controls compliance program to mitigate the
 risk of violation U.S. export controls and sanctions.
-(cid:129) On April 7, 2023, we adopted a Global Trade Controls Compliance Policy, as well
+ On April 7, 2023, we adopted a Global Trade Controls Compliance Policy, as well
 as standard operating procedures addressing sanctions and export controls
 compliance. The policy and each set of procedures were formally approved by our
 management and leadership team.
-(cid:129) OnApril 7, 2023, our management circulated to all Group employees a management
+ OnApril 7, 2023, our management circulated to all Group employees a management
 commitment statement, outlining and restating our commitment to compliance with
 applicable export controls. We are in the process of implementing the measures
 outlined in the policy and procedures.
-(cid:129) We also adopted standard language for use in our sales contracts and purchase
+ We also adopted standard language for use in our sales contracts and purchase
 contracts addressing compliance with applicable export controls and sanctions laws
 and regulations. The contractual language requires the Group’s business partners to
 comply with all applicable export control and economic and trade sanction laws,
 regulations and resolutions formulated by China, the United States, and other
 applicable jurisdictions and to disclose to us any connections to restricted persons.
-(cid:129) Ourcustomersmustalsoattesttotheaccuracyoftheinformationprovidedregarding
+ Ourcustomersmustalsoattesttotheaccuracyoftheinformationprovidedregarding
 the end-use and end-users of our products, and refrain from selling or exporting our
 products to restricted persons or persons in sanctioned or high-risk countries or for
 prohibited end uses.
-(cid:129) The Company’s suppliers must attest to the accuracy of the information provided in
+ The Company’s suppliers must attest to the accuracy of the information provided in
 the supplier certificates, and that the items supplied are not supplied in violation of
 U.S. export control laws.
 – 261 –
 
 === PAGE 271 ===
 BUSINESS
-(cid:129) We screened our current customers, suppliers, business partners of the Listed
+ We screened our current customers, suppliers, business partners of the Listed
 Entities, and other third parties with which these companies currently do business,
 against sanctions and export control restricted party lists maintained by the EU,
 United States, and U.K. and determined that none of our existing business partners
 are listed on any such lists.
-(cid:129) Our outside U.S. export controls compliance counsel recently conducted two
+ Our outside U.S. export controls compliance counsel recently conducted two
 separate training programs for us on compliance with U.S. sanctions and export
 controls. These training programs were attended by our senior executives and
 management. Pursuant to the GlobalTrade Controls Compliance Policy we adopted,
@@ -13355,15 +13355,15 @@ of three Directors, namely Mr. Li Jianbin, Mr. Liu Chijin and Dr. Yang Qiang. Mr
 who holds the appropriate professional qualifications as required under Rules 3.10(2) and 3.21
 of the Listing Rules, serves as the Chairman of theAudit Committee.The primary duties of the
 Audit Committee include, but not limited to, the following:
-(cid:129) proposing the appointment or change of external auditors to our Board, and
+ proposing the appointment or change of external auditors to our Board, and
 monitoring the independence of external auditors and evaluating their performance;
-(cid:129) guiding internal audit work;
-(cid:129) examining the financial information of our Company, reviewing financial reports
+ guiding internal audit work;
+ examining the financial information of our Company, reviewing financial reports
 and statements of our Company and giving comments on relevant matters;
-(cid:129) assessing the effectiveness of internal control;
-(cid:129) coordinating the communication among management, internal audit department,
+ assessing the effectiveness of internal control;
+ coordinating the communication among management, internal audit department,
 related departments and external audit agency; and
-(cid:129) dealing with other matters that are authorized by the Board or involved in relevant
+ dealing with other matters that are authorized by the Board or involved in relevant
 laws and regulations.
 Remuneration Committee
 We have established a Remuneration Committee with written terms of reference in
@@ -13372,14 +13372,14 @@ the Listing Rules. The Remuneration Committee consists of three Directors, namel
 Yele, Dr. Yang Qiang and Mr. Li Jianbin. Ms. Ke Yele serves as the Chairlady of the
 Remuneration Committee.The primary duties of the Remuneration Committee include, but not
 limited to, the following:
-(cid:129) formulating individual remuneration plans for Directors, Supervisors and members
+ formulating individual remuneration plans for Directors, Supervisors and members
 of the senior management in accordance with the terms of reference of the job
 responsibilities, the importance of their positions as well as the remuneration
 benchmarks for the relevant positions in the other comparable companies;
-(cid:129) examining the criteria of performance evaluation of Directors and the senior
+ examining the criteria of performance evaluation of Directors and the senior
 management of our Company, and conducting annual performance evaluation;
-(cid:129) supervising the implementation of the remuneration plan of the Company; and
-(cid:129) dealing with other matters that are authorized by the Board.
+ supervising the implementation of the remuneration plan of the Company; and
+ dealing with other matters that are authorized by the Board.
 – 281 –
 
 === PAGE 291 ===
@@ -13391,28 +13391,28 @@ the Listing Rules. The Nomination Committee consists of three Directors, namely 
 Wenyuan, Mr. Liu Chijin and Mr. Li Jianbin. Dr. Dai Wenyuan serves as the Chairman of the
 Nomination Committee. The primary duties of the Nomination Committee include, but not
 limited to, the following:
-(cid:129) making recommendations to our Board with regards to the size and composition of
+ making recommendations to our Board with regards to the size and composition of
 our Board based on our Company’s business operation, asset scale and equity
 structure;
-(cid:129) researching and developing standards and procedures for the election of our Board
+ researching and developing standards and procedures for the election of our Board
 members, general managers and members of the senior management, and making
 recommendations to our Board;
-(cid:129) conducting extensive search and providing to our Board suitable candidates for
+ conducting extensive search and providing to our Board suitable candidates for
 Directors, general managers and other members of the senior management;
-(cid:129) examining our Board candidates, general manager and members of the senior
+ examining our Board candidates, general manager and members of the senior
 management and making recommendations to our Board;
-(cid:129) assessing and reviewing the independence of independent non-executive Directors;
+ assessing and reviewing the independence of independent non-executive Directors;
 and
-(cid:129) dealing with other matters that are authorized by our Board.
+ dealing with other matters that are authorized by our Board.
 EMPLOYMENT ARRANGEMENT OF SENIOR MANAGEMENT
 We normally enter into (i) an employment contract and (ii) a confidentiality and
 non-competition agreement with each of our senior management members. The key terms of
 such contracts are set forth below.
-(cid:129) Terms: We normally enter into a four-year or non-fixed term employment contract
+ Terms: We normally enter into a four-year or non-fixed term employment contract
 with our senior management members. For details of the expiration date of the
 employment contracts of our senior management members, please refer to the
 paragraph headed “— Senior Management” in this section.
-(cid:129) Non-competition: the non-competition obligations shall subsist throughout the
+ Non-competition: the non-competition obligations shall subsist throughout the
 employee’s period of employment and up to two years after termination of
 employment. During the non-competition period, without prior written consent from
 our Company, the employee shall not (i) instigate, induce, solicit or encourage any
@@ -13427,7 +13427,7 @@ substantially reduce the transaction amount with us; and (iii) engage in a busin
 in any other entity which engages in similar business, develops and sells similar
 solutions developed or sold by our Company, or competes with our Company.
 Confidentiality
-(cid:129) Confidentialinformation:Theemployeeshallkeepconfidentialinformation,namely
+ Confidentialinformation:Theemployeeshallkeepconfidentialinformation,namely
 confidential business-related information of our Company, including but not limited
 to any invention, product, computer software, and technical solutions that were
 developed in the course of work or based on our Company’s technology or business
@@ -13435,7 +13435,7 @@ information. The employee shall also keep in confidence business secrets and
 related business arrangements of our business partners that he or she becomes aware
 in the course of work, and any confidential business information that the employee
 is responsible to keep for any other third parties.
-(cid:129) Obligation and duration: The employee shall not, without prior written approval
+ Obligation and duration: The employee shall not, without prior written approval
 from the Company, divulge, publish, transfer or otherwise disclose any confidential
 information to any third party, or any of our employees who is not permitted to
 receive such information under the confidentiality policy. Such obligation of
@@ -14368,11 +14368,11 @@ customized AI systems that automate the process of machine learning, application
 making and evaluation driven by our AutoML algorithms, featuring quick, simple build-up,
 low- and/or no-code environment and implementation without significant involvement of AI
 experts. Our Sage Platform is primarily composed of the following:
-(cid:129) Sage AIOS is an AI operating system featuring a user-friendly interface,
+ Sage AIOS is an AI operating system featuring a user-friendly interface,
 standardized data processing, automated resource management and allocation and
 fully compatible middleware that are comparable to personal computer operating
 systems.
-(cid:129) HyperCycle series with no-code development tools and Sage Studio series with
+ HyperCycle series with no-code development tools and Sage Studio series with
 low-code and no-code development tools are our core platform-centricAI solutions
 by which our users can quickly and easily deploy large-scale AI applications.
 In addition, we offer ready-to-use AI applications that users could directly deploy to
@@ -14403,13 +14403,13 @@ General Factors
 Our results of operations are affected by a number of general factors affecting the overall
 growthandprosperityoftheAIindustryinChina,inparticularthedecision-makingAImarket,
 including:
-(cid:129) China’s overall economic growth;
-(cid:129) the ongoing digitalization of China’s economy;
-(cid:129) technology development of the AI industry, including, but not limited to, the
+ China’s overall economic growth;
+ the ongoing digitalization of China’s economy;
+ technology development of the AI industry, including, but not limited to, the
 innovations in analytical instruments, the development of computing infrastructure
 and the accumulation of high quality data;
-(cid:129) accumulation of AI experts in China; and
-(cid:129) awareness of enterprises to deploy AI applications.
+ accumulation of AI experts in China; and
+ awareness of enterprises to deploy AI applications.
 Specific Factors Affecting Our Results of Operations
 We believe that our results of operations are primarily and more directly affected by the
 following specific factors:
@@ -14808,10 +14808,10 @@ Other intangible assets mainly include software and copyright, technology and cu
 relationship. They are initially recognized and measured at cost or fair value of intangible
 assets acquired through business combination. We amortize these intangible assets with a
 limited useful life using the straight-line method over the following periods:
-(cid:129) Software and copyright 3-5 years
-(cid:129) Technology 5 years
-(cid:129) Customer relationship 5-7 years
-(cid:129) Brand name 10 years
+ Software and copyright 3-5 years
+ Technology 5 years
+ Customer relationship 5-7 years
+ Brand name 10 years
 When determining the length of useful lives of these intangible assets, management take
 into account the (i) estimated period during which such asset can bring economic benefits to
 us and (ii) the useful life estimated by comparable companies in the market.
@@ -14823,27 +14823,27 @@ and the remaining period of its business license in determining its estimated us
 (c) Research and development expenditures
 Research expenditures are recognized as an expense as incurred. Development cost is
 capitalized only if all of the following conditions are satisfied:
-(cid:129) it is technically feasible to complete the software so that it will be available for use;
-(cid:129) management intends to complete the software and use or sell it;
-(cid:129) there is an ability to use or sell the software;
+ it is technically feasible to complete the software so that it will be available for use;
+ management intends to complete the software and use or sell it;
+ there is an ability to use or sell the software;
 – 316 –
 
 === PAGE 326 ===
 FINANCIAL INFORMATION
-(cid:129) it can be demonstrated how the software will generate probable future economic
+ it can be demonstrated how the software will generate probable future economic
 benefits;
-(cid:129) adequate technical, financial and other resources to complete the development and
+ adequate technical, financial and other resources to complete the development and
 to use or sell the software are available; and
-(cid:129) the expenditure attributable to the software during its development can be reliably
+ the expenditure attributable to the software during its development can be reliably
 measured.
 Other development expenditures that do not meet these criteria are recognized as an
 expense as incurred.
 Investments and other financial assets
 (a) Classification
 We classify our financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through other comprehensive
+ those to be measured subsequently at fair value (either through other comprehensive
 income, or through profit or loss); and
-(cid:129) those to be measured at amortized cost.
+ those to be measured at amortized cost.
 The classification depends on our business model for managing the financial assets and
 the contractual terms of the cash flows.
 For assets measured at fair value, gains and losses will either be recorded in profit or loss
@@ -14869,14 +14869,14 @@ Debt instruments
 Subsequent measurement of debt instruments depends on our business model for
 managing the asset and the cash flow characteristics of the asset. There are three
 measurement categories into which we classify our debt instruments:
-(cid:129) Amortized cost: Assets that are held for collection of contractual cash flows
+ Amortized cost: Assets that are held for collection of contractual cash flows
 where those cash flows represent solely payments of principal and interest are
 measured at amortized cost. A gain or loss on a debt investment that is
 subsequently measured at amortized cost and is not part of a hedging
 relationship is recognized in profit or loss when the asset is derecognized or
 impaired. Interest income from these financial assets is included in finance
 income using the effective interest rate method.
-(cid:129) Fair value through other comprehensive income (“FVOCI”): Assets that are
+ Fair value through other comprehensive income (“FVOCI”): Assets that are
 heldforcollectionofcontractualcashflowsandforsellingthefinancialassets,
 where the assets’ cash flows represent solely payments of principal and
 interest, are measured at FVOCI. Movements in the carrying amount are taken
@@ -14889,7 +14889,7 @@ included in finance income using the effective interest rate method. Foreign
 exchange gains and losses are presented in other gains, net and impairment
 expenses are presented as a separate line item in the consolidated statement of
 comprehensive income.
-(cid:129) Fair value through profit or loss: Assets that do not meet the criteria for
+ Fair value through profit or loss: Assets that do not meet the criteria for
 amortized cost or FVOCI are measured at fair value through profit or loss. A
 gain or loss on a debt investment that is subsequently measured at fair value
 through profit or loss and is not part of a hedging relationship is recognized in
@@ -14935,8 +14935,8 @@ risks and rewards of ownership of the financial asset.
 Where a transfer of a financial asset in its entirety meets the criteria for
 derecognition, the difference between the two amounts below is recognized in profit or
 loss:
-(cid:129) the carrying amount of the financial asset transferred;
-(cid:129) the sum of the consideration received from the transfer and any cumulative
+ the carrying amount of the financial asset transferred;
+ the sum of the consideration received from the transfer and any cumulative
 gain or loss that has been recognized directly in equity.
 – 319 –
 
@@ -14973,14 +14973,14 @@ instruments is recognized as an expense on the consolidated statement of compreh
 income with a corresponding increase in equity.
 In terms of the options and shares awarded to employees, the total amount to be expensed
 is determined by reference to the fair value of the options and shares granted:
-(cid:129) including any market performance conditions;
-(cid:129) excludingtheimpactofanyserviceandnon-marketperformancevestingconditions;
+ including any market performance conditions;
+ excludingtheimpactofanyserviceandnon-marketperformancevestingconditions;
 and
 – 320 –
 
 === PAGE 330 ===
 FINANCIAL INFORMATION
-(cid:129) including the impact of any non-vesting conditions.
+ including the impact of any non-vesting conditions.
 Service and non-marketing performance vesting conditions are included in calculation of
 the number of options and shares that are expected to vest. The total amount expensed is
 recognized over the vesting period, which is the period over which all of the specified vesting
@@ -15229,7 +15229,7 @@ Sub-total 618,929 65.7 1,014,554 50.3 1,491,851 48.4 247,852 51.4 271,735 42.2
 Applicationdevelopment
 andotherservices 323,309 34.3 1,003,845 49.7 1,590,786 51.6 234,409 48.6 372,662 57.8
 Total 942,238 100.0 2,018,399 100.0 3,082,637 100.0 482,261 100.0 644,397 100.0
-(cid:129) Sage Platform and applications. We offer enterprise AI solutions and generate
+ Sage Platform and applications. We offer enterprise AI solutions and generate
 revenue from sales of our Sage Platform and applications. The Sage Platform and
 applications are delivered primarily through (i) license of software installed
 on-premise at servers of our end users and (ii) software-defined “All-in-One”
@@ -15248,7 +15248,7 @@ operation and maintenance.
 
 === PAGE 337 ===
 FINANCIAL INFORMATION
-(cid:129) Application development and other services. At our users’ request, we primarily
+ Application development and other services. At our users’ request, we primarily
 offer application development services to help them develop customized AI
 applications on Sage Platform based on their business needs. We charge them on a
 project basis, the pricing of which is primarily based on the manpower consumption
@@ -15613,7 +15613,7 @@ RMB6.7 million to RMB9.4 million in the same periods.
 
 === PAGE 346 ===
 FINANCIAL INFORMATION
-(cid:129) Sage Platform and applications. Revenue from sales of our Sage Platform and
+ Sage Platform and applications. Revenue from sales of our Sage Platform and
 applications increased by 9.6% from RMB247.9 million in the three months ended
 March 31, 2022 to RMB271.7 million in the three months ended March 31, 2023 as
 a result of our business expansion efforts. More specifically, revenue from software
@@ -15624,7 +15624,7 @@ licensing. Revenue from SageOne increased by 4.7% from RMB160.7 million in the
 three months ended March 31, 2022 to RMB168.3 million in the three months ended
 March 31, 2023, primarily due to an expansion of our user base for SageOne as it
 becomes increasingly well received by users.
-(cid:129) Application development and other services. Revenue from application
+ Application development and other services. Revenue from application
 development and other services increased by 59.0% from RMB234.4 million in the
 three months ended March 31, 2022 to RMB372.7 million in the three months ended
 March 31, 2023. We believe that these increases were mainly due to the growth of
@@ -15739,7 +15739,7 @@ development and other services from RMB1,003.8 million in 2021 to RMB1,590.8 mil
 2022. Our revenue increases were primarily driven by the expansion in our number of users
 from 245 in 2021 to 409 in 2022, as well as increased user spending evidenced by the increase
 of our average revenue per lighthouse user from 13.7 million in 2021 to 17.9 million.
-(cid:129) Sage Platform and applications. Revenue from sales of our Sage Platform and
+ Sage Platform and applications. Revenue from sales of our Sage Platform and
 applications increased by 47.0% from RMB1,014.6 million in 2021 to RMB1,491.9
 million in 2022 as a result of our business expansion efforts. More specifically,
 revenue from software licensing increased by 67.3% from RMB356.2 million in
@@ -15748,7 +15748,7 @@ and user spending on our software licensing. Revenue from SageOne increased by
 36.1%fromRMB658.4millionin2021toRMB895.9millionin2022,primarilydue
 to an expansion of our user base for SageOne as it becomes increasingly well
 received by users.
-(cid:129) Application development and other services. Revenue from application
+ Application development and other services. Revenue from application
 development and other services increased by 58.5% from RMB1,003.8 million in
 2021 to RMB1,590.8 million in 2022. We believe that these increases were mainly
 due to the growth of our user base.
@@ -15847,7 +15847,7 @@ years. Our revenue increases were primarily driven by the expansion in our numbe
 from 156 in 2020 to 245 in 2021 and the increased spending of our users, especially the
 spending of our lighthouse users, evidenced by the increase of our average revenue per
 lighthouse user from RMB12.3 million in 2020 to RMB13.7 million in 2021.
-(cid:129) Sage Platform and applications. Revenue from sales of our Sage Platform and
+ Sage Platform and applications. Revenue from sales of our Sage Platform and
 applications increased by 63.9% from RMB618.9 million in 2020 to RMB1,014.6
 million in 2021 as a result of our business expansion efforts. More specifically,
 revenue from software licensing increased significantly from RMB157.9 million in
@@ -15856,7 +15856,7 @@ of users and the increased spending of our users. Revenue from SageOne increased
 by 42.8% from RMB461.0 million in 2020 to RMB658.4 million in 2021, primarily
 due to an expansion of our user base for SageOne as it becomes increasingly well
 received by users.
-(cid:129) Application development and other services. Revenue from application
+ Application development and other services. Revenue from application
 development and other services increased by 210.5% from RMB323.3 million in
 2020 to RMB1,003.8 million in 2021. We believe that these increases were mainly
 due to the increase of our use cases and users that need customized AI applications
@@ -17198,13 +17198,13 @@ policy. The Board has approved a dividend policy, which will become effective up
 Under the dividend policy, we may provide our Shareholders with interim or annual dividends
 as the Board deems appropriate. The Board will consider, among other things, the following
 factors when proposing dividends and determining the amount of dividends:
-(cid:129) our actual and projected financial performance;
-(cid:129) our estimated working capital requirements, capital expenditure requirements and
+ our actual and projected financial performance;
+ our estimated working capital requirements, capital expenditure requirements and
 future business expansion plan;
-(cid:129) our present and future cash flow;
-(cid:129) other internal and external factors that may have an impact on our business
+ our present and future cash flow;
+ other internal and external factors that may have an impact on our business
 operations or financial performance and position; and
-(cid:129) other factors that our Board deem relevant.
+ other factors that our Board deem relevant.
 Any declaration and payment as well as the amount of dividends will be subject to our
 constitutional documents, including (where required) the approval of our Shareholders.
 PRC laws require that dividends be paid only out of our distributable profits, for which
@@ -17326,27 +17326,27 @@ after deducting the underwriting commissions and other estimated expenses in con
 the Global Offering.
 We intend to use the net proceeds we expect to receive from the Global Offering for the
 purposes and in the amounts set out below.
-(cid:129) Approximately 60%, or HK$531.0 million, will be allocated over the next three
+ Approximately 60%, or HK$531.0 million, will be allocated over the next three
 years to enhance our fundamental research, technological capabilities and solution
 development. We plan to further apportion the use of proceeds as follows.
-(cid:129) Approximately 25%, or HK$221.2 million, will be used to strengthen our
+ Approximately 25%, or HK$221.2 million, will be used to strengthen our
 research and development team over the next three years, including:
 (i) approximately 20%, or HK$177.0 million for the research and
 development team of our core technologies. Specifically, we intend to
 allocate:
-(cid:129) approximately 11%, or HK$97.3 million for our AutoML
+ approximately 11%, or HK$97.3 million for our AutoML
 technologies.AdvancementsinAutoMLwilllowerthebarrierforAI
 application development, help us attract more developers, and
 expandandupgradeourdevelopersuites,especiallytheHyperCycle
 series;
-(cid:129) approximately 3%, or HK$26.5 million for our transfer learning
+ approximately 3%, or HK$26.5 million for our transfer learning
 technologies, which will further enhance the ability of our solutions
 to be applied across difference scenarios, thereby reducing the cost
 of expansion into new use cases and industry vectors;
-(cid:129) approximately 3%, or HK$26.5 million for our environment
+ approximately 3%, or HK$26.5 million for our environment
 learning technologies, which helps further improve data quality and
 reduce the cost of model training;
-(cid:129) approximately 3%, or HK$26.5 million for our AutoRL
+ approximately 3%, or HK$26.5 million for our AutoRL
 technologies,whichwillfurtherlowerthebarriersforreinforcement
 learning by automating the process.
 – 380 –
@@ -17387,7 +17387,7 @@ in industry levels and maintain the competitiveness of our compensation
 package. Specifically, we intend to gradually increase their cash salary
 and offer share-based incentives to motivate them by providing such
 persons an opportunity share our business growth and future success.
-(cid:129) Approximately 35%, or HK$309.7 million, will be used to strengthen our
+ Approximately 35%, or HK$309.7 million, will be used to strengthen our
 research and development capabilities. Specifically:
 (i) approximately 4%, or HK$35.4 million for the procurement and
 installation of equipment, devices and/or software to support our
@@ -17443,21 +17443,21 @@ innovative developer activities (e.g. live-stream discussions).
 
 === PAGE 392 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) Approximately20%,orHK$177.0million,willbeallocatedtoexpandourofferings,
+ Approximately20%,orHK$177.0million,willbeallocatedtoexpandourofferings,
 build our brand and enter into new industry sectors. As of the Latest Practicable
 Date, we do not have any concrete plans on the new industry verticals that we will
 enter into. We plan to select industries with considerable monetization opportunities
 for us, and will conduct careful evaluation and analysis on the expected market size,
 competitive landscape and potential challenges before entering into new verticals.
 We plan to further apportion the use of proceeds as follows.
-(cid:129) Approximately 12%, or HK$106.2 million, will be used to recruit and retain
+ Approximately 12%, or HK$106.2 million, will be used to recruit and retain
 talents in various industries to strengthen our sales and marketing team,
 thereby leveraging their industry-specific sales experiences to expand our user
 base and to increase our customer loyalty, which in turn may increase
 customers’ spending on our platform. We plan to hire approximately 300
 additional sales and marketing staff in the next five years to support our
 business growth.
-(cid:129) Approximately 8%, or HK$70.8 million, will be used to promote our solutions
+ Approximately 8%, or HK$70.8 million, will be used to promote our solutions
 and offerings by engaging in more marketing activities through both offline
 and online channels. Specifically:
 (i) approximately 6%, or HK$53.1 million will be allocated for organizing
@@ -17469,7 +17469,7 @@ influential industry conferences to increase our brand exposure.
 (ii) approximately2%,orHK$17.7millionwillbeallocatedforcollaborating
 with online media partners to promote our brand awareness among users
 and potential users.
-(cid:129) Approximately 10%, or HK$88.5 million, will be allocated over the next three years
+ Approximately 10%, or HK$88.5 million, will be allocated over the next three years
 to pursue strategic investment and acquisition opportunities to implement our
 long-term growth strategy to develop our solutions and expand and penetrate the
 industry verticals we cover.We plan to prudently evaluate and consider a wide array
@@ -17508,7 +17508,7 @@ theConsolidatedStatementsofFinancialPosition–Assets–FinancialAssetsatFair
 Value through Profit or Loss” for details of our investment approval process. As of
 the Latest Practicable Date, we did not identify any investment or acquisition target
 in this regard.
-(cid:129) Approximately 10%, or HK$88.5 million, will be used for general corporate
+ Approximately 10%, or HK$88.5 million, will be used for general corporate
 purposes.
 If the Offer Price is fixed at the high-end or low-end of the Offer Price range (assuming
 the Over-allotment Option is not exercised), the net proceeds will increase or decrease by
@@ -18513,10 +18513,10 @@ their discretion.
 Eligibility for the Application
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying:
-(cid:129) are 18 years of age or older;
-(cid:129) are outside the United States, and are not a United States Person (as defined in
+ are 18 years of age or older;
+ are outside the United States, and are not a United States Person (as defined in
 Regulation S under the U.S. Securities Act); and
-(cid:129) are not a legal or natural person of the PRC.
+ are not a legal or natural person of the PRC.
 If you are a firm, the application must be in the individual members’ names.
 The number of joint applicants may not exceed four.
 – 410 –
@@ -18525,11 +18525,11 @@ The number of joint applicants may not exceed four.
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Offer Shares
 if you are:
-(cid:129) an existing beneficial owner of Shares in the Company and/or any its subsidiaries;
-(cid:129) a Director, chief executive officer or supervisor of the Company and/or any of its
+ an existing beneficial owner of Shares in the Company and/or any its subsidiaries;
+ a Director, chief executive officer or supervisor of the Company and/or any of its
 subsidiaries;
-(cid:129) a close associate (as defined in the Listing Rules) of any of the above; and
-(cid:129) have been allocated, applied for or indicated an interest in any Placing Shares or
+ a close associate (as defined in the Listing Rules) of any of the above; and
+ have been allocated, applied for or indicated an interest in any Placing Shares or
 otherwise participated in the International Offering.
 Items Required for the Application
 If you apply for the Hong Kong Offer Shares online through the HK eIPO White Form
@@ -18714,36 +18714,36 @@ breach of the terms and conditions of this Prospectus;
 === PAGE 425 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 (ii) HKSCC Nominees will do the following things on your behalf:
-(cid:129) agree that the Hong Kong Offer Shares to be allotted shall be issued in the
+ agree that the Hong Kong Offer Shares to be allotted shall be issued in the
 name of HKSCC Nominees and deposited directly into CCASS for the credit
 of the CCASS Participant’s stock account on your behalf or your CCASS
 Investor Participant’s stock account;
-(cid:129) agree to accept the Hong Kong Offer Shares applied for or any lesser number
+ agree to accept the Hong Kong Offer Shares applied for or any lesser number
 allocated;
-(cid:129) undertake and confirm that you have not applied for or taken up, will not apply
+ undertake and confirm that you have not applied for or taken up, will not apply
 for or take up, or indicate an interest for, any Offer Shares under the
 International Offering;
-(cid:129) (if the electronic application instructions are given for your benefit) declare
+ (if the electronic application instructions are given for your benefit) declare
 that only one set of electronic application instructions has been given for
 your benefit;
-(cid:129) (if you are an agent for another person) declare that you have only given one
+ (if you are an agent for another person) declare that you have only given one
 set of electronic application instructions for the other person’s benefit and
 are duly authorized to give those instructions as their agent;
-(cid:129) confirm that you understand that the Company, the Director, the Overall
+ confirm that you understand that the Company, the Director, the Overall
 Coordinators will rely on your declarations and representations in deciding
 whether or not to make any allotment of any of the Hong Kong Offer Shares
 to you and that you may be prosecuted if you make a false declaration;
-(cid:129) authorize the Company to place HKSCC Nominees’ name on the Company’s
+ authorize the Company to place HKSCC Nominees’ name on the Company’s
 register of members as the holder of the Hong Kong Offer Shares allotted to
 you and to send H Share certificate(s) and/or refund monies under the
 arrangements separately agreed between the Company and HKSCC;
-(cid:129) confirmthatyouhavereadthetermsandconditionsandapplicationprocedures
+ confirmthatyouhavereadthetermsandconditionsandapplicationprocedures
 set out in this Prospectus and agree to be bound by them;
-(cid:129) confirm that you have received and/or read a copy of this Prospectus and have
+ confirm that you have received and/or read a copy of this Prospectus and have
 reliedonlyontheinformationandrepresentationsinthisProspectusincausing
 the application to be made, save as set out in any supplement to this
 Prospectus;
-(cid:129) agree that none of the Company, the Joint Global Coordinators, the Overall
+ agree that none of the Company, the Joint Global Coordinators, the Overall
 Coordinators, the Underwriters, the Capital Market Intermediaries, their
 respective directors, officers, employees, partners, agents, advisers and any
 other parties involved in the Global Offering, is or will be liable for any
@@ -18753,14 +18753,14 @@ supplement to this Prospectus);
 
 === PAGE 426 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree to disclose your personal data to the Company, our H Share Registrar,
+ agree to disclose your personal data to the Company, our H Share Registrar,
 receiving banks, the Joint Global Coordinators, the Overall Coordinators, the
 Capital Market Intermediaries, the Underwriters and/or its respective advisers
 and agents;
-(cid:129) agree (without prejudice to any other rights which you may have) that once
+ agree (without prejudice to any other rights which you may have) that once
 HKSCC Nominees’ application has been accepted, it cannot be rescinded for
 innocent misrepresentation;
-(cid:129) agree that any application made by HKSCC Nominees on your behalf is
+ agree that any application made by HKSCC Nominees on your behalf is
 irrevocable before the fifth day after the time of the opening of the application
 lists (excluding any day which is Saturday, Sunday or public holiday in Hong
 Kong), such agreement to take effect as a collateral contract with us and to
@@ -18776,15 +18776,15 @@ holiday in Hong Kong) if a person responsible for this Prospectus under
 Section 40 of the Companies (Winding Up and Miscellaneous Provisions)
 Ordinancegivesapublicnoticeunderthatsectionwhichexcludesorlimitsthat
 person’s responsibility for this Prospectus;
-(cid:129) agree that once HKSCC Nominees’ application is accepted, neither that
+ agree that once HKSCC Nominees’ application is accepted, neither that
 application nor your electronic application instructions can be revoked, and
 that acceptance of that application will be evidenced by the Company’s
 announcement of the Hong Kong Public Offering results;
-(cid:129) agree to the arrangements, undertakings and warranties under the participant
+ agree to the arrangements, undertakings and warranties under the participant
 agreement between you and HKSCC, read with the General Rules of CCASS
 and the CCASS Operational Procedures, for the giving electronic application
 instructions to apply for Hong Kong Offer Shares;
-(cid:129) agree with the Company, for itself and for the benefit of each Shareholder (and
+ agree with the Company, for itself and for the benefit of each Shareholder (and
 so that the Company will be deemed by its acceptance in whole or in part of
 the application by HKSCC Nominees to have agreed, for itself and on behalf
 of each of the Shareholders, with each CCASS Participant giving electronic
@@ -18795,7 +18795,7 @@ Special Regulations on Listing Overseas, and the Articles of Association;
 
 === PAGE 427 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree with the Company, for itself and for the benefit of each shareholder of
+ agree with the Company, for itself and for the benefit of each shareholder of
 theCompanyandeachdirector,supervisor,managerandotherseniorofficerof
 the Company (and so that the Company will be deemed by its acceptance in
 whole or in part of this application to have agreed, for itself and on behalf of
@@ -18810,28 +18810,28 @@ the Articles of Association of the Company;
 (b) that any award made in such arbitration shall be final and conclusive; and
 (c) that the arbitration tribunal may conduct hearings in open sessions and
 publish its award;
-(cid:129) agree with the Company (for the Company itself and for the benefit of each
+ agree with the Company (for the Company itself and for the benefit of each
 shareholder of the Company) that H Shares in the Company are freely
 transferable by their holders;
-(cid:129) authorize the Company to enter into a contract on its behalf with each director
+ authorize the Company to enter into a contract on its behalf with each director
 and officer of the Company whereby each such director and officer undertakes
 to observe and comply with his obligations to shareholders stipulated in the
 Articles of Association of the Company; and
-(cid:129) agree that your application, any acceptance of it and the resulting contract will
+ agree that your application, any acceptance of it and the resulting contract will
 be governed by the laws of Hong Kong.
 Effect of Applying through the CCASS EIPO Service
 ByapplyingthroughtheCCASSEIPOservice,you(and,ifyouarejointapplicants,each
 of you jointly and severally) are deemed to have done the following things. Neither HKSCC
 nor HKSCC Nominees shall be liable to the Company or any other person in respect of the
 things mentioned below:
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees (acting as nominee
+ instructed and authorized HKSCC to cause HKSCC Nominees (acting as nominee
 for the relevant CCASS Participants) to apply for the Hong Kong Offer Shares on
 your behalf;
 – 418 –
 
 === PAGE 428 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) instructed and authorized HKSCC to arrange payment of the maximum Offer Price,
+ instructed and authorized HKSCC to arrange payment of the maximum Offer Price,
 brokerage, SFC transaction levy, Stock Exchange trading fee and Accounting and
 Financial Reporting Council transaction levy by debiting your designated bank
 account and, in the case of a wholly or partially unsuccessful application and/or if
@@ -18839,15 +18839,15 @@ the Offer Price is less than the maximum Offer Price per Offer Share initially p
 on application, refund of the application monies (including brokerage, SFC
 transaction levy, the Stock Exchange trading fee and Accounting and Financial
 Reporting Council transaction levy) by crediting your designated bank account; and
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees to do on your behalf
+ instructed and authorized HKSCC to cause HKSCC Nominees to do on your behalf
 all the things stated in this Prospectus.
 Time for Inputting Electronic Application Instructions(1)
 CCASS Clearing/Custodian Participants can input electronic application instructions at
 the following times on the following dates:
-(cid:129) Monday, September 18, 2023 – 9:00 a.m. to 8:30 p.m.
-(cid:129) Tuesday, September 19, 2023 – 8:00 a.m. to 8:30 p.m.
-(cid:129) Wednesday, September 20, 2023 – 8:00 a.m. to 8:30 p.m.
-(cid:129) Thursday, September 21, 2023 – 8:00 a.m. to 12:00 noon
+ Monday, September 18, 2023 – 9:00 a.m. to 8:30 p.m.
+ Tuesday, September 19, 2023 – 8:00 a.m. to 8:30 p.m.
+ Wednesday, September 20, 2023 – 8:00 a.m. to 8:30 p.m.
+ Thursday, September 21, 2023 – 8:00 a.m. to 12:00 noon
 CCASS Investor Participants can input electronic application instructions from 9:00
 a.m. on Monday, September 18, 2023 until 12:00 noon on Thursday, September 21, 2023 (24
 hours daily, except on Thursday, September 21, 2023, the last application day).
@@ -18895,25 +18895,25 @@ the H Share Registrar immediately of any inaccuracies in the personal data suppl
 Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund check, where applicable, verification of
+ processing your application and refund check, where applicable, verification of
 compliance with the terms and application procedures set out in this Prospectus and
 announcing results of allocation of the Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
 – 420 –
 
 === PAGE 430 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) registering new issues or transfers into or out of the names of the holders of the
+ registering new issues or transfers into or out of the names of the holders of the
 Company’s Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the Company’s Register of Members;
-(cid:129) verifying identities of the holders of the Company’s Shares;
-(cid:129) establishing benefit entitlements of holders of the Company’s Shares, such as
+ maintaining or updating the Company’s Register of Members;
+ verifying identities of the holders of the Company’s Shares;
+ establishing benefit entitlements of holders of the Company’s Shares, such as
 dividends, rights issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Company’s
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Company’s
 Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the H Share Registrar to discharge their obligations to holders of the
 Company’s Shares and/or regulators and/or any other purposes to which the
 securities’ holders may from time to time agree.
@@ -18923,21 +18923,21 @@ the Hong Kong Offer Shares will be kept confidential but the Company and its H S
 Registrarmay,totheextentnecessaryforachievinganyoftheabovepurposes,disclose,obtain
 or transfer (whether within or outside Hong Kong) the personal data to, from or with any of
 the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving bankers and
+ the Company’s appointed agents such as financial advisers, receiving bankers and
 overseas principal share registrar;
-(cid:129) where applicants for the Hong Kong Offer Shares request a deposit into CCASS,
+ where applicants for the Hong Kong Offer Shares request a deposit into CCASS,
 HKSCC or HKSCC Nominees, who will use the personal data for the purposes of
 operating CCASS;
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H
 Share Registrar in connection with their respective business operation;
-(cid:129) the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
+ the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
 governmental bodies or otherwise as required by laws, rules or regulations; and
 – 421 –
 
 === PAGE 431 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) any persons or institutions with which the holders of the Hong Kong Offer Shares
+ any persons or institutions with which the holders of the Hong Kong Offer Shares
 have or propose to have dealings, such as their bankers, solicitors, accountants or
 stockbrokers etc.
 Retention of personal data
@@ -19024,15 +19024,15 @@ Since applications are subject to personal information collection statements, be
 owner identification codes displayed are redacted. Applicants with beneficial names only but
 not identification document numbers are not disclosed due to personal privacy issue.
 If an application is made by an unlisted company and:
-(cid:129) the principal business of that company is dealing in securities; and
-(cid:129) you exercise statutory control over that company,
+ the principal business of that company is dealing in securities; and
+ you exercise statutory control over that company,
 then the application will be treated as being made for your benefit.
 “Unlisted company” means a company with no equity securities listed on the Stock
 Exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypart
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypart
 of it which carries no right to participate beyond a specified amount in a distribution
 of either profits or capital).
 9. HOW MUCH ARE THE HONG KONG OFFER SHARES
@@ -19064,9 +19064,9 @@ the Global Offering – Pricing of the Global Offering” in this Prospectus.
 10. EFFECT OF BAD WEATHER AND/OR EXTREME CONDITIONS ON THE
 OPENING AND CLOSING OF THE APPLICATION LISTS
 The application lists will not open if there is:
-(cid:129) a tropical cyclone warning signal number 8 or above; or
-(cid:129) a “black” rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above; or
+ a “black” rainstorm warning; and/or
+ Extreme Conditions,
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Thursday, September
 21, 2023. Instead they will open between 11:45 a.m. and 12:00 noon on the next business day
 which does not have either of those warnings and/or Extreme Conditions in Hong Kong in
@@ -19090,14 +19090,14 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 The results of allocations and the Hong Kong identity card/passport/Hong Kong business
 registration/certificateofincorporationnumbersofsuccessfulapplicantsundertheHongKong
 Public Offering will be available at the times and dates and in the manner specified below:
-(cid:129) in the announcement to be posted on the Company’s website at
+ in the announcement to be posted on the Company’s website at
 www.4paradigm.com and the Stock Exchange’s website at www.hkexnews.hk by
 no later than 8:00 a.m. on Wednesday, September 27, 2023;
-(cid:129) from the “IPO Results” functions in the IPO App or the designated results of
+ from the “IPO Results” functions in the IPO App or the designated results of
 allocations website at www.hkeipo.hk/IPOResult or www.tricor.com.hk/ipo/result
 with a “search by ID” function on a 24-hour basis from 8:00 a.m. on Wednesday,
 September 27, 2023 to 12:00 midnight, on Tuesday, October 3, 2023; and
-(cid:129) from the allocation results telephone enquiry line by calling +852 3691 8488
+ from the allocation results telephone enquiry line by calling +852 3691 8488
 between 9:00 a.m. and 6:00 p.m. from Wednesday, September 27, 2023 to Tuesday,
 October 3, 2023 (excluding Saturday, Sunday and public holiday in Hong Kong).
 If the Company accepts your offer to purchase (in whole or in part), which it may do by
@@ -19153,13 +19153,13 @@ to accept only part of any application, without giving any reasons.
 (iii) If the allotment of Hong Kong Offer Shares is void:
 The allotment of Hong Kong Offer Shares will be void if the Listing Committee of the
 Stock Exchange does not grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Listing Committee notifies the
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Listing Committee notifies the
 Company of that longer period within three weeks of the closing date of the
 application lists.
 (iv) If:
-(cid:129) you make multiple applications or suspected multiple applications;
-(cid:129) you or the person for whose benefit you are applying have applied for or taken up,
+ you make multiple applications or suspected multiple applications;
+ you or the person for whose benefit you are applying have applied for or taken up,
 or indicated an interest for, or have been or will be placed or allocated (including
 conditionally and/or provisionally) Hong Kong Offer Shares and International Offer
 Shares;
@@ -19167,14 +19167,14 @@ Shares;
 
 === PAGE 437 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) your electronic application instructions through the HK eIPO White Form
+ your electronic application instructions through the HK eIPO White Form
 service are not completed in accordance with the instructions, terms and conditions
 in the IPO App or on the designated website;
-(cid:129) your payment is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) the Company, the Overall Coordinators, believe that by accepting your application,
+ your payment is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ the Company, the Overall Coordinators, believe that by accepting your application,
 it or they would violate applicable securities or other laws, rules or regulations; or
-(cid:129) your application is for more than 50% of the Hong Kong Offer Shares initially
+ your application is for more than 50% of the Hong Kong Offer Shares initially
 offered under the Hong Kong Public Offering.
 13. REFUND OF APPLICATION MONIES
 If an application is rejected, not accepted or accepted in part only, or if the Offer Price
@@ -20083,7 +20083,7 @@ RMB6,683,937,000 and such amount has been reclassified as current liabilities (N
 Information has been prepared on a going concern basis as the directors of the Company have given careful
 considerationofthefollowingfactsandcircumstanceswhichmayhaveimpactonthecurrentandanticipatedfuture
 liquidity of the Group:
-(cid:129) Pursuant to the supplemental agreement as mentioned in Note 31, the respective investors’ rights to
+ Pursuant to the supplemental agreement as mentioned in Note 31, the respective investors’ rights to
 request the Company to settle the redemption liabilities will be reinstated and become exercisable
 immediately if the initial public offering, listing and trading of the Company’s shares on a recognized
 stockexchangedoesnotoccurbeforeDecember30,2023.InMayandJune2023,certaininvestorshave
@@ -20094,14 +20094,14 @@ liabilities will be re-classified to equity upon the successful listing of the C
 progress of the Company’s listing application, the directors of the Company are of the view that it is
 unlikely that the Group will have significant cash outflows for the settlement of redemption liabilities
 in the next twelve months from March 31, 2023;
-(cid:129) The Group has unutilised banking facilities of RMB1,200,000,000 as of the date of this accountant’s
+ The Group has unutilised banking facilities of RMB1,200,000,000 as of the date of this accountant’s
 report which can be utilized by the Group as and when any funding needs are arising;
-(cid:129) The Group can withdraw and utilize the long-term deposit with carrying amount of RMB760,000,000
+ The Group can withdraw and utilize the long-term deposit with carrying amount of RMB760,000,000
 asatMarch31,2023asandwhenanyfundingneedsarearising(withlimitedlossofinterests)andthe
 subsequentrealizationofthecontractliabilitiesofapproximatelyRMB342,614,000(includedincurrent
 liabilitiesasatMarch31,2023)asrevenueoftheGroupdoesnotnecessaryresultinanycashoutflows
 for the same amount; and
-(cid:129) Basedontheworkingcapitalforecast,thedirectorsoftheCompanybelievethattheGrouphassufficient
+ Basedontheworkingcapitalforecast,thedirectorsoftheCompanybelievethattheGrouphassufficient
 working capital for the present requirements and for the next 12 months from the date of this
 accountant’s report.
 Havingtakenintoaccounttheabove,thedirectorsoftheCompanybelievethattheGroupwillhavesufficient
@@ -20203,20 +20203,20 @@ income are reclassified to profit or loss where appropriate.
 Theacquisitionmethodofaccountingisusedtoaccountforbusinesscombinationsnotundercommoncontrol,
 regardless of whether equity instruments or other assets are acquired. The consideration transferred for the
 acquisition of a subsidiary comprises the:
-(cid:129) fair values of the assets transferred;
-(cid:129) liabilities incurred to the former owners of the acquired business;
-(cid:129) equity interests issued by the Group;
-(cid:129) fair value of any asset or liability resulting from a contingent consideration arrangement; and
-(cid:129) fair value of any pre-existing equity interest in the subsidiary.
+ fair values of the assets transferred;
+ liabilities incurred to the former owners of the acquired business;
+ equity interests issued by the Group;
+ fair value of any asset or liability resulting from a contingent consideration arrangement; and
+ fair value of any pre-existing equity interest in the subsidiary.
 Identifiable assets acquired and liabilities and contingent liabilities assumed in a business combination are,
 with limited exceptions, measured initially at their fair values at the acquisition date. The Group recognizes any
 non-controlling interest in the acquired entity on an acquisition-by-acquisition basis either at fair value or at the
 non-controlling interest’s proportionate share of the acquired entity’s net identifiable assets.
 Acquisition-related costs are expensed as incurred.
 The excess of the:
-(cid:129) consideration transferred;
-(cid:129) amount of any non-controlling interest in the acquired entity; and
-(cid:129) acquisition-date fair value of any previous equity interest in the acquired entity
+ consideration transferred;
+ amount of any non-controlling interest in the acquired entity; and
+ acquisition-date fair value of any previous equity interest in the acquired entity
 overthefairvalueofthenetidentifiableassetsacquiredisrecordedasgoodwill.Ifthoseamountsarelessthanthe
 fairvalueofthenetidentifiableassetsofthebusinessacquired,thedifferenceisrecognizeddirectlyinprofitorloss
 as a bargain purchase.
@@ -20271,13 +20271,13 @@ carried at fair value are reported as part of the fair value gain or loss.
 The results and financial position of all the Group entities (none of which has the currency of a
 hyper-inflationary economy) that have a functional currency different from the presentation currency are
 translated into the presentation currency as follows:
-(cid:129) assetsandliabilitiesforeachbalancesheetpresentedaretranslatedattheclosingrateatthedate
+ assetsandliabilitiesforeachbalancesheetpresentedaretranslatedattheclosingrateatthedate
 of that balance sheet;
-(cid:129) income and expenses for each statements of comprehensive income are translated at average
+ income and expenses for each statements of comprehensive income are translated at average
 exchangerates(unlessthisaverageisnotareasonableapproximationofthecumulativeeffectof
 ratesprevailingonthetransactiondates,inwhichcaseincomeandexpensesaretranslatedatthe
 rate on the dates of the transactions); and
-(cid:129) all resulting currency translation differences are recognized in other comprehensive income.
+ all resulting currency translation differences are recognized in other comprehensive income.
 – I-24 –
 
 === PAGE 465 ===
@@ -20293,9 +20293,9 @@ oftheitemcanbemeasuredreliably.Thecarryingamountofthereplacedpartisderecognized.
 maintenance are charged to profit or loss during the financial period in which they are incurred.
 Depreciation on property and equipment is calculated using the straight-line method to allocate their cost to
 their residual values over their estimated useful lives, as follows:
-(cid:129) Server and electronic equipment 3-5 years
-(cid:129) Office equipment 3-5 years
-(cid:129) Leasehold improvements Estimated useful lives or remaining lease terms, whichever is
+ Server and electronic equipment 3-5 years
+ Office equipment 3-5 years
+ Leasehold improvements Estimated useful lives or remaining lease terms, whichever is
 shorter
 The assets’ residual values and useful lives are reviewed, and adjusted if appropriate, at the end of each
 reporting period.
@@ -20331,10 +20331,10 @@ Other intangible assets mainly include software and copyright, technology, custo
 brand name. They are initially recognized and measured at cost or fair value of intangible assets acquired
 throughbusinesscombination.TheGroupamortizestheseintangibleassetswithalimitedusefullifeusingthe
 straight-line method over the following periods:
-(cid:129) Software and copyright 3-5 years
-(cid:129) Technology 5 years
-(cid:129) Customer relationship 5-7 years
-(cid:129) Brand name 10 years
+ Software and copyright 3-5 years
+ Technology 5 years
+ Customer relationship 5-7 years
+ Brand name 10 years
 When determining the length of useful lives of these intangible assets, management take into account
 the(i)estimatedperiodduringwhichsuchassetcanbringeconomicbenefitstotheGroup;and(ii)theuseful
 life estimated by comparable companies in the market.
@@ -20346,13 +20346,13 @@ in determining its estimated useful life.
 (c) Research and development expenditures
 Researchexpendituresisrecognizedasanexpenseasincurred.Developmentcostiscapitalizedonlyif
 all of the following conditions are satisfied:
-(cid:129) it is technically feasible to complete the software so that it will be available for use;
-(cid:129) management intends to complete the software and use or sell it;
-(cid:129) there is an ability to use or sell the software;
-(cid:129) it can be demonstrated how the software will generate probable future economic benefits;
-(cid:129) adequatetechnical,financialandotherresourcestocompletethedevelopmentandtouseorsell
+ it is technically feasible to complete the software so that it will be available for use;
+ management intends to complete the software and use or sell it;
+ there is an ability to use or sell the software;
+ it can be demonstrated how the software will generate probable future economic benefits;
+ adequatetechnical,financialandotherresourcestocompletethedevelopmentandtouseorsell
 the software are available; and
-(cid:129) the expenditure attributable to the software during its development can be reliably measured.
+ the expenditure attributable to the software during its development can be reliably measured.
 Otherdevelopmentexpendituresthatdonotmeetthesecriteriaarerecognizedasanexpenseasincurred.
 2.9 Impairment of non-financial assets
 Intangibleassetsthathaveanindefiniteusefullifearenotsubjecttoamortizationandaretestedannuallyfor
@@ -20367,9 +20367,9 @@ impairment at the end of each reporting period.
 2.10 Investments and other financial assets
 2.10.1 Classification
 The Group classifies its financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through other comprehensive income, or
+ those to be measured subsequently at fair value (either through other comprehensive income, or
 through profit or loss), and
-(cid:129) those to be measured at amortized cost.
+ those to be measured at amortized cost.
 – I-26 –
 
 === PAGE 467 ===
@@ -20395,13 +20395,13 @@ Debt instruments
 Subsequent measurement of debt instruments depends on the Group’s business model for
 managing the asset and the cash flow characteristics of the asset. There are three measurement
 categories into which the Group classifies its debt instruments:
-(cid:129) Amortized cost:Assets that are held for collection of contractual cash flows where those
+ Amortized cost:Assets that are held for collection of contractual cash flows where those
 cash flows represent solely payments of principal and interest are measured at amortized
 cost.Again or loss on a debt investment that is subsequently measured at amortized cost
 and is not part of a hedging relationship is recognized in profit or loss when the asset is
 derecognizedorimpaired.Interestincomefromthesefinancialassetsisincludedinfinance
 income using the effective interest rate method.
-(cid:129) Fair value through other comprehensive income (“FVOCI”): Assets that are held for
+ Fair value through other comprehensive income (“FVOCI”): Assets that are held for
 collection of contractual cash flows and for selling the financial assets, where the assets’
 cash flows represent solely payments of principal and interest, are measured at FVOCI.
 Movements in the carrying amount are taken through OCI, except for the recognition of
@@ -20412,7 +20412,7 @@ recognized in other gains/losses, net. Interest income from these financial asse
 included in finance income using the effective interest rate method. Foreign exchange
 gains and losses are presented in other gains/losses, net and impairment expenses are
 presented as separate line item in the consolidated statement of comprehensive income.
-(cid:129) Fairvaluethroughprofitorloss:Assetsthatdonotmeetthecriteriaforamortizedcostor
+ Fairvaluethroughprofitorloss:Assetsthatdonotmeetthecriteriaforamortizedcostor
 FVOCI are measured at fair value through profit or loss. A gain or loss on a debt
 investmentthatissubsequentlymeasuredatfairvaluethroughprofitorlossandisnotpart
 of a hedging relationship is recognized in profit or loss and presented net in the
@@ -20455,8 +20455,8 @@ meets all the conditions of de-recognition of transfer of cash flows (“pass th
 transfers substantially all the risks and rewards of ownership of the financial asset.
 Where a transfer of a financial asset in its entirety meets the criteria for derecognition, the
 difference between the two amounts below is recognized in profit or loss:
-(cid:129) the carrying amount of the financial asset transferred;
-(cid:129) thesumoftheconsiderationreceivedfromthetransferandanycumulativegainorlossthat
+ the carrying amount of the financial asset transferred;
+ thesumoftheconsiderationreceivedfromthetransferandanycumulativegainorlossthat
 has been recognized directly in equity.
 IftheGroupneithertransfersnorretainssubstantiallyalltherisksandrewardsofownershipand
 continuestocontrolthetransferredasset,theGroupcontinuestorecognizetheassettotheextentofits
@@ -20483,17 +20483,17 @@ after deducting rebates and discounts. Net realizable value is the estimated sel
 business less the estimated costs of completion and the estimated costs necessary to make the sale.
 TheGroupalsorecognizestheinventoryofcontractfulfilmentcostfromthecostsincurredtofulfilacontract
 only if those costs meet all of the following criteria:
-(cid:129) thecostsrelatedirectlytoacontractortoananticipatedcontractthattheentitycanspecificallyidentify;
-(cid:129) thecostsgenerateorenhanceresourcesoftheentitythatwillbeusedinsatisfying(orincontinuingto
+ thecostsrelatedirectlytoacontractortoananticipatedcontractthattheentitycanspecificallyidentify;
+ thecostsgenerateorenhanceresourcesoftheentitythatwillbeusedinsatisfying(orincontinuingto
 satisfy) performance obligations in the future; and
-(cid:129) the costs are expected to be recovered.
+ the costs are expected to be recovered.
 The contract fulfilment cost recognized shall be amortized to profit or loss on a systematic basis that is
 consistent with the transfer to the customer of the services to which the asset relates.
 The Group recognizes an impairment loss in profit or loss to the extent that the carrying amount of contract
 fulfilment cost recognized exceeds:
-(cid:129) theremainingamountofconsiderationthattheentityexpectstoreceiveinexchangefortheservicesto
+ theremainingamountofconsiderationthattheentityexpectstoreceiveinexchangefortheservicesto
 which the asset relates; less
-(cid:129) thecoststhatrelatedirectlytoprovidingthoseservicesandthathavenotbeenrecognizedasexpenses.
+ thecoststhatrelatedirectlytoprovidingthoseservicesandthathavenotbeenrecognizedasexpenses.
 2.13 Trade and other receivables
 Trade receivables are amounts due from customers for products sold or services performed in the ordinary
 courseofbusiness.Majorityofotherreceivablesaredeposits,loantoathirdpartyandotherreceivablefromathird
@@ -20648,9 +20648,9 @@ valueoftheservicesreceivedinexchangeforthegrantoftheequityinstrumentsisrecognize
 on the consolidated statement of comprehensive income with a corresponding increase in equity.
 Intermsoftheoptionsandsharesawardedtoemployees,thetotalamounttobeexpensedisdetermined
 by reference to the fair value of the options and shares granted:
-(cid:129) including any market performance conditions;
-(cid:129) excluding the impact of any service and non-market performance vesting conditions; and
-(cid:129) including the impact of any non-vesting conditions.
+ including any market performance conditions;
+ excluding the impact of any service and non-market performance vesting conditions; and
+ including the impact of any non-vesting conditions.
 Serviceandnon-marketingperformancevestingconditionsareincludedincalculationofthenumberof
 optionsandsharesthatareexpectedtovest.Thetotalamountexpensedisrecognizedoverthevestingperiod,
 which is the period over which all of the specified vesting conditions are to be satisfied.
@@ -20730,17 +20730,17 @@ depending on the relationship between the Group’s performance and the customer
 2.25 Earnings per share
 (a) Basic earnings per share
 Basic earnings per share is calculated by dividing:
-(cid:129) the profit attributable to owners of the Company, excluding any costs of servicing equity other
+ the profit attributable to owners of the Company, excluding any costs of servicing equity other
 than ordinary shares; and
-(cid:129) bytheweightedaveragenumberofordinarysharesoutstandingduringthefinancialyear/period,
+ bytheweightedaveragenumberofordinarysharesoutstandingduringthefinancialyear/period,
 adjusted for bonus elements in ordinary shares issued during the year/period and excluding
 treasury shares.
 (b) Diluted earnings per share
 Diluted earnings per share adjusts the figures used in the determination of basic earnings per share to
 take into account:
-(cid:129) theafter-incometaxeffectofinterestandotherfinancingcostsassociatedwithdilutivepotential
+ theafter-incometaxeffectofinterestandotherfinancingcostsassociatedwithdilutivepotential
 ordinary shares; and
-(cid:129) the weighted average number of additional ordinary shares that would have been outstanding
+ the weighted average number of additional ordinary shares that would have been outstanding
 assuming the conversion of all dilutive potential ordinary shares.
 2.26 Dividend income
 Dividend income is recognized when the right to receive payment is established.
@@ -20886,14 +20886,14 @@ assessment on the recoverability of other receivables based on historical settle
 experiences. The Group measures credit risk using Probability of Default (“PD”), Exposure at Default
 (“EAD”) and Loss Given Default (“LGD”). This is similar to the approach used for the purposes of
 measuring ECLunder IFRS 9.
-(cid:129) Otherreceivablesthatarenotcredit-impairedoninitialrecognitionareclassifiedin‘Stage
+ Otherreceivablesthatarenotcredit-impairedoninitialrecognitionareclassifiedin‘Stage
 1’andhavetheircreditriskcontinuouslymonitoredbytheGroup.Theexpectedcreditloss
 is measured on a 12-month basis.
-(cid:129) If a significant increase in credit risk (specifically, when the debtor is more than 30 day
+ If a significant increase in credit risk (specifically, when the debtor is more than 30 day
 past due on its contractual payments) since initial recognition is identified, the financial
 instrumentismovedto‘Stage2’butisnotyetdeemedtobecredit-impaired.Theexpected
 credit loss is measured on lifetime basis.
-(cid:129) Ifthefinancialinstrumentiscredit-impaired(specifically,whenthedebtorismorethan90
+ Ifthefinancialinstrumentiscredit-impaired(specifically,whenthedebtorismorethan90
 dayspastdueonitscontractualpayments),thefinancialinstrumentisthenmovedto‘Stage
 3’. The expected credit loss is measured on lifetime basis.
 Astherehasbeennosignificantincreaseincreditrisksinceinitialrecognition,alloftheGroup’s
@@ -20977,10 +20977,10 @@ debt servicing, dividend payments and other cash requirements going forward.
 ThetablebelowanalyzestheGroup’sfinancialinstrumentscarriedatfairvalueasateachbalancesheetdates,
 byleveloftheinputstovaluationtechniquesusedtomeasurefairvalue.Suchinputsarecategorizedintothreelevels
 within a fair value hierarchy as follows:
-(cid:129) Quoted prices (unadjusted) in active markets for identical assets or liabilities (level 1);
-(cid:129) Inputsotherthanquotedpricesincludedwithinlevel1thatareobservablefortheassetorliability,either
+ Quoted prices (unadjusted) in active markets for identical assets or liabilities (level 1);
+ Inputsotherthanquotedpricesincludedwithinlevel1thatareobservablefortheassetorliability,either
 directly (that is, as prices) or indirectly (that is, derived from prices) (level 2); and
-(cid:129) Inputs for the asset or liability that are not based on observable market data (that is, unobservable
+ Inputs for the asset or liability that are not based on observable market data (that is, unobservable
 inputs) (level 3).
 The following tables present the Group’s assets that are measured at fair value at December 31, 2020, 2021
 and 2022 and March 31, 2023.
@@ -23876,8 +23876,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
-(cid:129) The related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) The unaudited pro forma financial information reflects the proper application of
+ The related pro forma adjustments give appropriate effect to those criteria; and
+ The unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountant’s judgment, having regard to
 the reporting accountant’s understanding of the nature of the company, the event or transaction
@@ -24987,26 +24987,26 @@ resolution when the resolution was voted on, and that such objection was recorde
 minutes of the meeting, such director shall be relieved from that liability.
 Under the PRC Company Law, the following person may not serve as a director in a
 company:
-(cid:129) a person who is unable or has limited ability to undertake any civil liabilities;
+ a person who is unable or has limited ability to undertake any civil liabilities;
 – IV-18 –
 
 === PAGE 572 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGAL AND
 REGULATORY PROVISIONS
-(cid:129) apersonwhohasbeenconvictedofanoffenseofcorruption,bribery,embezzlement,
+ apersonwhohasbeenconvictedofanoffenseofcorruption,bribery,embezzlement,
 misappropriation of property or destruction of the socialist market economic order,
 orwhohasbeendeprivedofhispoliticalrightsduetohiscrimes,ineachcasewhere
 less than five years have elapsed since the date of completion of the sentence;
-(cid:129) a person who has been a former director, factory manager or manager of a company
+ a person who has been a former director, factory manager or manager of a company
 or an enterprise that has entered into insolvent liquidation and who was personally
 liable for the insolvency of such company or enterprise, where less than three years
 have elapsed since the date of the completion of the bankruptcy and liquidation of
 the company or enterprise;
-(cid:129) a person who has been a legal representative of a company or an enterprise that has
+ a person who has been a legal representative of a company or an enterprise that has
 had its business license revoked due to violations of the law or has been ordered to
 close down by law and the person was personally responsible, where less than three
 years have elapsed since the date of such revocation;
-(cid:129) a person who is liable for a relatively large amount of debts that are overdue.
+ a person who is liable for a relatively large amount of debts that are overdue.
 Where a company elects or appoints a director to which any of the above circumstances
 applies, such election or appointment shall be null and void. A director to which any of the
 above circumstances applies during his/her term of office shall be released of his/her duties by
@@ -26526,20 +26526,20 @@ iii. Any other suitable person identified by the award working team (“Award Wo
 Team”), set up for the daily management of the Scheme.
 TheSchemeDocumentsfurtherprovidethatthefollowingemployeesmaynotbeselected
 as participants to the Scheme:
-(cid:129) Employees who hold shares, positions, or received remuneration in any company
+ Employees who hold shares, positions, or received remuneration in any company
 that has a business competition (or potential business competition) with the Group;
 and
 – VI-10 –
 
 === PAGE 615 ===
 APPENDIX VI STATUTORY AND GENERAL INFORMATION
-(cid:129) Employees who have received warnings, administrative penalties or other
+ Employees who have received warnings, administrative penalties or other
 disciplinary actions due to material violation of applicable laws and regulations or
 rules of any stock exchange for the preceding three years.
 Administration of the Scheme
 Our Board retains full discretion over the following matters of the Scheme:
-(cid:129) the selection of participants in the Scheme; and
-(cid:129) the implementation, amendment and termination of the Scheme.
+ the selection of participants in the Scheme; and
+ the implementation, amendment and termination of the Scheme.
 Restrictions on Transfer
 Pursuant to the terms of the Scheme, except as otherwise agreed between the Employee
 Incentive Platform and the Eligible Participants, and except for written approval by the

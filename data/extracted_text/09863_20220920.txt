@@ -10872,7 +10872,7 @@ development stage of our E/E architecture:
 DomainCentralizedArchitecture
 DistributedArchitecture VehicleCentralizedE/EArchitecture
 (Currently employed)
-(cid:17814)(cid:17627)(cid:6615)(cid:2150)(cid:3224)
+ 
 BCM
 Cloudservice Cloudservice
 Gateway CentralGateway
@@ -11021,13 +11021,13 @@ process from design and simulation to product testing. As of the Latest Practica
 wehad169patentsandpatentapplicationsrelatedtobatterysystem.Thefollowingchart
 sets forth our battery system development process:
 Design Simulation Testing
-• BMS-related software, hardware (cid:129) Thermal management (cid:129) Design verification
-and algorithm system (cid:129) Process verification
-(cid:129) Battery module and pack (cid:129) BMS (cid:129) End-of-line testing
-structure (cid:129) Structure (cid:129) National standards testing
-(cid:129) Battery heat management (cid:129) Reliability
+• BMS-related software, hardware Thermal management Design verification
+and algorithm system Process verification
+ Battery module and pack BMS End-of-line testing
+structure Structure National standards testing
+ Battery heat management Reliability
 system
-(cid:129) High- and low-voltage
+ High- and low-voltage
 electrical system
 – 238 –
 

@@ -738,7 +738,7 @@ l l a a b b o o l l G G
 sromuT
 diloS
 onoM
-2 ) R ni (cid:2) e - t F or G p T n /1 oi - s D u P f(
+2 ) R ni e - t F or G p T n /1 oi - s D u P f(
 510-LBL
 enummiotuA
 )APMN(
@@ -1066,7 +1066,7 @@ T cell-mediated killing
 LBL-054-ADC CDH17-TOP1i LBL-024 PD-L1/4-1BB LBL-034 GPRC5D/CD3
 LBL-058 DLL3/CD3-TOP1i LBL-007 LAG3 LBL-033 MUC16/CD3
 LBL-061 EGFR/PD-L1-TOP1i LBL-019 TNFR2 LBL-043 LILRB4/CD3
-Next-Gen ADC LBL-015 PD-1/TGF-(cid:2)R2 LBL-051 CD19/BCMA/CD3
+Next-Gen ADC LBL-015 PD-1/TGF- R2 LBL-051 CD19/BCMA/CD3
 LBL-054-TCE CDH17/CD3
 Our Core Product — LBL-024 (PD-L1/4-1BB BsAb)
 LBL-024, our Core Product, is a bispecific antibody simultaneously targeting PD-L1 and
@@ -13316,7 +13316,7 @@ T cell-mediated killing
 LBL-054-ADC CDH17-TOP1i LBL-024 PD-L1/4-1BB LBL-034 GPRC5D/CD3
 LBL-058 DLL3/CD3-TOP1i LBL-007 LAG3 LBL-033 MUC16/CD3
 LBL-061 EGFR/PD-L1-TOP1i LBL-019 TNFR2 LBL-043 LILRB4/CD3
-Next-Gen ADC LBL-015 PD-1/TGF-(cid:2)R2 LBL-051 CD19/BCMA/CD3
+Next-Gen ADC LBL-015 PD-1/TGF- R2 LBL-051 CD19/BCMA/CD3
 LBL-054-TCE CDH17/CD3
 Our six clinical-stage drug candidates have all shown the potential encouraging antitumor
 activityandfavorablesafetyprofileinclinicaltrials.Ourexperienceinadvancingdrugcandidates
@@ -13690,7 +13690,7 @@ l l a a b b o o l l G G
 sromuT
 diloS
 onoM
-2 ) R ni (cid:2) e - t F or G p T n /1 oi - s D u P f(
+2 ) R ni e - t F or G p T n /1 oi - s D u P f(
 510-LBL
 enummiotuA
 )APMN(
@@ -15564,7 +15564,7 @@ l l a a b b o o l l G G
 sromuT
 diloS
 onoM
-2 ) R ni (cid:2) e - t F or G p T n /1 oi - s D u P f(
+2 ) R ni e - t F or G p T n /1 oi - s D u P f(
 510-LBL
 enummiotuA
 )APMN(
@@ -17053,9 +17053,9 @@ formatsofourT-cellengagercandidates,aimingtoachieveanoptimalbalancebetweensafety
 efficacy. Further, LBL-034 obtained the ODD from the FDA for the treatment of MM in October
 2024.
 The molecular structure of LBL-034 is illustrated below:
-(cid:2) Composed of three parts: H, L and scFv
-(cid:2) MW: 173KDa, PI: 8.63
-(cid:2) 2:1 format: two Fabs targeting
+ Composed of three parts: H, L and scFv
+ MW: 173KDa, PI: 8.63
+ 2:1 format: two Fabs targeting
 GPRC5D, one scFv targeting CD3ε
 LBL-034
 • Humanized anti-GPRC5D, binding to the extracellular
@@ -17512,7 +17512,7 @@ MR: 25.0% PR: 16.7%
 10
 MR: 5.6%
 0
-≤ 80 (cid:3)g/kg 200 (cid:3)g/kg 400 (cid:3)g/kg 800 (cid:3)g/kg
+≤ 80 g/kg 200 g/kg 400 g/kg 800 g/kg
 N=8 N=7 N=18 N=5
 )%(
 esnopseR
@@ -17527,44 +17527,44 @@ Source:Companydata(asofMarch11,2025)
 === PAGE 373 ===
 BUSINESS
 The following bar chart sets forth the tumor evaluation of LBL-034:
-01001 (10 (cid:3)g/kg) sCR
-01002 (30 (cid:3)g/kg) CR
-01003 (80 (cid:3)g/kg)
-01004 (80 (cid:3)g/kg) VGPR
-06002 (80 (cid:3)g/kg) PR
-06001 (80 (cid:3)g/kg) MR
-01006 (80 (cid:3)g/kg) SD
-01007 (80 (cid:3)g/kg) PD
-03001 (200 (cid:3)g/kg)
-04004 (200 (cid:3)g/kg)
-01011 (200 (cid:3)g/kg)
-05001 (200 (cid:3)g/kg)
-01010 (200 (cid:3)g/kg)
-01005 (200 (cid:3)g/kg)
-13001 (200 (cid:3)g/kg)
-03002 (400 (cid:3)g/kg)
-01008 (400 (cid:3)g/kg)
-07001 (400 (cid:3)g/kg)
-01012 (400 (cid:3)g/kg)
-07002 (400 (cid:3)g/kg)
-01013 (400 (cid:3)g/kg)
-16001 (400 (cid:3)g/kg)
-04006 (400 (cid:3)g/kg)
-17001 (400 (cid:3)g/kg)
-20002 (400 (cid:3)g/kg)
-14001 (400 (cid:3)g/kg)
-03005 (400 (cid:3)g/kg)
-01015 (400 (cid:3)g/kg)
-17003 (400 (cid:3)g/kg)
-12001 (400 (cid:3)g/kg)
-15001 (400 (cid:3)g/kg)
-07003 (400 (cid:3)g/kg)
-04003 (400 (cid:3)g/kg)
-03004 (800 (cid:3)g/kg)
-05002 (800 (cid:3)g/kg)
-16002 (800 (cid:3)g/kg)
-17007 (800 (cid:3)g/kg)
-17005 (800 (cid:3)g/kg)
+01001 (10 g/kg) sCR
+01002 (30 g/kg) CR
+01003 (80 g/kg)
+01004 (80 g/kg) VGPR
+06002 (80 g/kg) PR
+06001 (80 g/kg) MR
+01006 (80 g/kg) SD
+01007 (80 g/kg) PD
+03001 (200 g/kg)
+04004 (200 g/kg)
+01011 (200 g/kg)
+05001 (200 g/kg)
+01010 (200 g/kg)
+01005 (200 g/kg)
+13001 (200 g/kg)
+03002 (400 g/kg)
+01008 (400 g/kg)
+07001 (400 g/kg)
+01012 (400 g/kg)
+07002 (400 g/kg)
+01013 (400 g/kg)
+16001 (400 g/kg)
+04006 (400 g/kg)
+17001 (400 g/kg)
+20002 (400 g/kg)
+14001 (400 g/kg)
+03005 (400 g/kg)
+01015 (400 g/kg)
+17003 (400 g/kg)
+12001 (400 g/kg)
+15001 (400 g/kg)
+07003 (400 g/kg)
+04003 (400 g/kg)
+03004 (800 g/kg)
+05002 (800 g/kg)
+16002 (800 g/kg)
+17007 (800 g/kg)
+17005 (800 g/kg)
 0 4 8 12 16 20 24 32 28 36 40 44 48 52 56 60
 Weeks Following First Dose
 Continued treatment
@@ -17622,21 +17622,21 @@ form of MUC16 cleaved from the cell membrane). Additionally, LBL-033 features an
 scFvCD3engagingarmtominimizethepotentialriskofCRSandTcellexhaustion,enhancingits
 safety and efficacy profile.
 The molecular structure of LBL-033 is illustrated below:
-(cid:2)(cid:3)Composed of three parts: H, L and scFv
-(cid:2)(cid:3)MW: 173KDa, PI: 8.46
-(cid:2)(cid:3)2:1 format: 2 Fabs targeting MUC16, 1
+ Composed of three parts: H, L and scFv
+ MW: 173KDa, PI: 8.46
+ 2:1 format: 2 Fabs targeting MUC16, 1
 scFv targeting CD3ɛ
-(cid:2)(cid:3)Glycosylating site: N297 in Fc
-(cid:4) Humanized anti-MUC16, binding to the
+ Glycosylating site: N297 in Fc
+ Humanized anti-MUC16, binding to the
 membrane-proximal domain of MUC16
-(cid:4) Cross activity to both human and monkey
-(cid:4) Humanized aCD3e scFv (derived SP34), 3x(G4S)
+ Cross activity to both human and monkey
+ Humanized aCD3e scFv (derived SP34), 3x(G4S)
 w/o disulfide bonds for aCD3e
-(cid:4) Cross activity to both human and monkey
-(cid:4) Human IgG1 Fc constant region. Mutated to
+ Cross activity to both human and monkey
+ Human IgG1 Fc constant region. Mutated to
 eliminate Fc effector functions but keep the
 binding with FcRn
-(cid:4) KIH mutations for HC heterodimerization, with DS
+ KIH mutations for HC heterodimerization, with DS
 for enhanced stability
 Source:Companydata
 Mechanism ofAction
@@ -18948,7 +18948,7 @@ Days after treatment
 )3mm(
 emulov
 romuT
-MES(cid:4)naeM
+MES naeM
 BUSINESS
 TDCC to NCI-H929 NCI-H929 Tumor Model
 G1 PBS, i.p. BIW
@@ -19112,8 +19112,8 @@ stnuoC
 CDp
 Antibody Conc. (nM)
 )lm/gp(
-(cid:5)-NFI
-Eliminated pDC by ADCC Function Inhibited IFN-(cid:5) Production by pDC
+ -NFI
+Eliminated pDC by ADCC Function Inhibited IFN- Production by pDC
 Antibody Conc. (nM)
 sULR
 Inhibited B cells proliferation
@@ -26278,10 +26278,10 @@ APPENDIX I ACCOUNTANTS’ REPORT
 The following is the text of a report received from the independent reporting accountants,
 Ernst & Young, Certified Public Accountants, Hong Kong, prepared for the purpose of
 incorporation in this Prospectus.
-Ernst & Young (cid:1549)(cid:2123)(cid:15093)(cid:23348)(cid:13171)(cid:1079)(cid:10621)(cid:1777) Tel (cid:26338)(cid:23128): +852 2846 9888
-27/F, One Taikoo Place (cid:3034)(cid:2196)(cid:27599)(cid:27431)(cid:2181)(cid:2614)(cid:2331)(cid:2867)(cid:31)(cid:29)(cid:31)(cid:3)(cid:22457) Fax (cid:8346)(cid:18182): +852 2868 4432
+Ernst & Young Tel : +852 2846 9888
+27/F, One Taikoo Place Fax : +852 2868 4432
 979 King’s Road
-(cid:1503)(cid:1358)(cid:11600)(cid:9650)(cid:1671)(cid:24)(cid:29)(cid:3)(cid:15779) ey.com
+ ey.com
 Quarry Bay, Hong Kong
 ACCOUNTANTS’ REPORT ON HISTORICAL FINANCIAL INFORMATION TO THE
 DIRECTORS OF NANJING LEADS BIOLABS CO., LTD., MORGAN STANLEY ASIA
@@ -28997,10 +28997,10 @@ Young, Certified Public Accountants, Hong Kong, the Company’s reporting accoun
 forth in Appendix I to this prospectus, and is included herein for information purpose only.
 B. INDEPENDENT REPORTING ACCOUNTANTS’ ASSURANCE REPORT ON THE
 COMPILATION OF UNAUDITED PRO FORMA FINANCIAL INFORMATION
-Ernst & Young (cid:1549)(cid:2123)(cid:15093)(cid:23348)(cid:13171)(cid:1079)(cid:10621)(cid:1777) Tel (cid:26338)(cid:23128): +852 2846 9888
-27/F, One Taikoo Place (cid:3034)(cid:2196)(cid:27599)(cid:27431)(cid:2181)(cid:2614)(cid:2331)(cid:2867)(cid:31)(cid:29)(cid:31)(cid:3)(cid:22457) Fax (cid:8346)(cid:18182): +852 2868 4432
+Ernst & Young Tel : +852 2846 9888
+27/F, One Taikoo Place Fax : +852 2868 4432
 979 King’s Road
-(cid:1503)(cid:1358)(cid:11600)(cid:9650)(cid:1671)(cid:24)(cid:29)(cid:3)(cid:15779) ey.com
+ ey.com
 Quarry Bay, Hong Kong
 To the Directors of Nanjing Leads Biolabs Co., LTD
 Wehavecompletedourassuranceengagementtoreportonthecompilationofunauditedpro

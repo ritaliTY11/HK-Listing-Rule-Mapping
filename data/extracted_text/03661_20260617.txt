@@ -163,15 +163,15 @@ Stock Exchange at www.hkexnews.hk and on the Company’s
 websiteatwww.sg-micro.com(5)atorbefore ................. 11:00p.m.onThursday,June25,2026
 The results of allocations in the Hong Kong Public Offering (with successful applicants’ identification document
 numbers,whereappropriate)tobeavailablethroughavarietyofchannels,including:
-(cid:129) in the announcement to be posted on our website and the
+ in the announcement to be posted on our website and the
 website of the Stock Exchange at www.sg-micro.com and atorbefore11:00p.m.onThursday,June25,
 www.hkexnews.hk,respectively ........................ 2026
-(cid:129) Results of allocation for the Hong Kong Public Offering will
+ Results of allocation for the Hong Kong Public Offering will
 be available at the “Allotment Results” page from the
 designated results of allocations website at
 www.hkeipo.hk/IPOResult (or www.tricor.com.hk/ipo/ 11:00p.m.onThursday,June25,2026to
 result)witha“searchbyID”functionfrom ............... 12:00midnightonWednesday,July1,2026
-(cid:129) from the allocation results telephone enquiry line by calling Friday,June26,2026to
+ from the allocation results telephone enquiry line by calling Friday,June26,2026to
 +85236918488between9:00a.m.and6:00p.m.from ...... Thursday,July2,2026
 (exceptSaturday,Sundayandpublicholidaysin
 HongKong)
@@ -359,7 +359,7 @@ ContinuousAnalogSignal Digital Signal (Discrete Binary Code) Digital Signal (Dis
 RealWorld DigitalWorld RealWorld
 BlockDiagramofMainComponentsinElectronicSystems
 Ourleadershipinproductofferingsrestsonseveralcorestrengths:
-(cid:129) A Comprehensive, Expanding Portfolio. We provide customers with a breadth of
+ A Comprehensive, Expanding Portfolio. We provide customers with a breadth of
 differentiated analog ICs and sensors engineered to work cohesively out-of-the-box,
 simplifying component selection and system-level architecture decisions. Among over
 7,200 products, (i) 19 categories are signal chain products that cover the entire signal path
@@ -371,7 +371,7 @@ categories are sensors including temperature sensors and magnetic sensors. With 
 customer-centric innovation cycle, we maintain a rapid product rollout cadence, launching
 approximately 3,400 new products during the Track Record Period and up to the Latest
 PracticableDate.
-(cid:129) Forward-Leaning Analog Design. Our product development strategy focuses on
+ Forward-Leaning Analog Design. Our product development strategy focuses on
 differentiated solutions that address critical gaps in high-performance analog markets,
 particularly in applications requiring high voltage tolerance, high integration and novel
 power delivery architectures. According to Frost & Sullivan, we have introduced a series
@@ -381,7 +381,7 @@ ultra-low-noise op amp with an input voltage noise density of 1.6 nanovolts per 
 roothertz,an18-bitSARADCwithasamplingrateof2MSPSandasignal-to-noiseratio
 (“SNR”) of 99 decibels, a high-accuracy Thermo-Electric Cooler (“TEC”) controller and
 Electro-absorptionModulatedLaser(“EML”)biaspowersupply.
-(cid:129) High-Integrity Analog Performance. Our analog innovations achieve high precision,
+ High-Integrity Analog Performance. Our analog innovations achieve high precision,
 minimal noise, high-speed response and low power consumption for high-performance
 and high-reliability systems. They maintain consistent accuracy across wide operating
 conditions, protect signal integrity in sensitive applications and respond swiftly to
@@ -392,7 +392,7 @@ applications.
 
 === PAGE 11 ===
 SUMMARY
-(cid:129) System-Level Cost Optimization. Our products are optimized beyond mere datasheet
+ System-Level Cost Optimization. Our products are optimized beyond mere datasheet
 specifications to deliver lower total cost of ownership. We achieve this through premium
 quality, inherent reliability and long lifecycle support, reducing the need for over-design
 andmitigatingfieldfailurerisks.
@@ -400,7 +400,7 @@ OURTECHNOLOGY
 Our technological edge derives from proprietary R&D in advanced circuit design and process
 technologies, driving analog breakthroughs in signal and power integrity as well as system reliability
 andsafetyacrossdiverseapplications.
-(cid:129) Solid Design Capabilities. Our design strengths deliver strong performance in
+ Solid Design Capabilities. Our design strengths deliver strong performance in
 high-performance signal conditioning, efficient power management and advanced sensor
 solutions to power next-generation electronic systems. The signal conditioning suite spans
 high-precision, low-noise, high-speed, high-voltage and low-power analog functions,
@@ -417,7 +417,7 @@ efficiency in a minimal footprint. Our sensor technologies, including high-sensi
 magnetic and high-precision temperature sensors, integrate signal processing, flexible output
 interfaces and built-in calibration to deliver accuracy, stability and operational robustness in
 rigorousenvironments.
-(cid:129) Proprietary Process Technology. We believe our proprietary process technology is a
+ Proprietary Process Technology. We believe our proprietary process technology is a
 strategic asset. By adapting foundry process recipes, we have developed processes that
 deliver higher performance than standard flows, aligning with our broad product portfolio
 and enabling us to serve diverse applications and markets without being tied to a single
@@ -426,7 +426,7 @@ the standard fabless model. By fine-tuning key parameters across performance, yi
 cost, our products achieve the stringent requirements of precision-driven applications,
 delivering high-level performance and improved power efficiency while scaling efficiently
 fromprototypingtohigh-volumemanufacturing.
-(cid:129) Vast IP Repertoire. We have developed an extensive suite of analog products leveraging
+ Vast IP Repertoire. We have developed an extensive suite of analog products leveraging
 proprietary IP and process technologies. For instance, we hold a patent for the single-
 inductor, multiple-output (“SIMO”) topology for power management ICs and AMOLED
 displays,deliveringmultiplesupplyvoltagesfromasingleinductorwithhighefficiency,a
@@ -457,7 +457,7 @@ discoveries. The intelligence era is characterized by ubiquitous sensing, hyper-
 computing, artificial general intelligence and pervasive connectivity. These convergent forces are
 reshaping the global economic and technological landscape, creating an arena where product
 innovationandperformanceareparamount.
-(cid:129) Industrial & Energy. Emerging technologies such as predictive maintenance, digital
+ Industrial & Energy. Emerging technologies such as predictive maintenance, digital
 twins, smart grids and embodied AI in robotics and industrial machinery are ushering in a
 new industrial era. These developments are driving expansion in the analog IC market for
 the industrial & energy sector, which is estimated to reach RMB77.3 billion by 2030,
@@ -466,7 +466,7 @@ with products continuously optimized on par with evolving demands. High-voltage,
 current motor driver ICs enable precise, reliable control of robotic actuators and industrial
 machinery, supporting greater efficiency, precision and autonomy on the factory floor and
 acrossenergyandinfrastructurenetworks.
-(cid:129) Automotive. The automotive industry is shifting beyond electrification toward smart
+ Automotive. The automotive industry is shifting beyond electrification toward smart
 mobility and connectivity, fueling growth in the automotive analog IC market to reach
 RMB105.3billionby2030,withaCAGRof16.9%from2026to2030,accordingtoFrost&
 Sullivan. We support leading OEMs with a focused portfolio supporting LiDAR, radar,
@@ -476,7 +476,7 @@ powerswitching,circuitprotectionandaccuratepositionsensingforEVsandsmartvehicles
 The portfolio meets stringent automotive-grade reliability and functional safety standards,
 including ISO 26262 compliance, enabling advanced sensing and centralized E/E
 architectures.
-(cid:129) Networking & Computing. Hyperscalers race to build next-generation data centers and
+ Networking & Computing. Hyperscalers race to build next-generation data centers and
 secure critical computing capacity, creating an execution gap where adoption is outpacing
 the ability to deploy at scale. According to Frost & Sullivan, the analog IC market for the
 networking & computing sector is forecasted to reach RMB132.7 billion by 2030, with a
@@ -489,7 +489,7 @@ phase DC/DC controllers and DrMOS enable efficient, high-current, fast-transient
 delivery for CPUs and microprocessors, while our high-precision clock management
 devices (such as retimers) deliver timing synchronization in servers and high-speed
 interconnectequipment.
-(cid:129) Consumer Electronics. The rise of AI-native consumer electronics is propelling the
+ Consumer Electronics. The rise of AI-native consumer electronics is propelling the
 consumer electronics analog IC market to an estimated RMB74.1 billion by 2030,
 according to Frost & Sullivan. We deliver differentiated, high-performance analog
 products characterized by ultra-low power and high integration. For example, our 60nA
@@ -505,20 +505,20 @@ maintained sustainable profitability throughout the Track Record Period. Our gro
 RMB388.7million,RMB576.0million,andRMB693.5million,respectively.
 OURSTRENGTHS
 Ourstrengthsinclude:
-(cid:129) Comprehensiveproductportfoliopoweringwideadoption;
-(cid:129) Customer-centric,tech-poweredinnovationamplifiedbystrategicsynergy;
-(cid:129) Fabless model integrating proprietary process expertise with full-lifecycle quality
+ Comprehensiveproductportfoliopoweringwideadoption;
+ Customer-centric,tech-poweredinnovationamplifiedbystrategicsynergy;
+ Fabless model integrating proprietary process expertise with full-lifecycle quality
 management;
-(cid:129) High-touchcustomerengagementfuelingwidespreadadoption;and
-(cid:129) Expert-ledteamcatalyzinginnovationandgrowth.
+ High-touchcustomerengagementfuelingwidespreadadoption;and
+ Expert-ledteamcatalyzinginnovationandgrowth.
 See“Business—OurStrengths”formoredetails.
 OURSTRATEGIES
 Ourstrategiesinclude:
-(cid:129) AdvanceR&Dtoleadintechnologyandmarket;
-(cid:129) Furtherexpandanalogportfoliofornext-generationapplications;
-(cid:129) Optimizeourbusinessmodelleveragingscalablesupplychain;
-(cid:129) Deepencustomercollaborationtopowerproductinnovation;and
-(cid:129) Pursuestrategicexpansionandalliancesandexpandoverseasmarketreach.
+ AdvanceR&Dtoleadintechnologyandmarket;
+ Furtherexpandanalogportfoliofornext-generationapplications;
+ Optimizeourbusinessmodelleveragingscalablesupplychain;
+ Deepencustomercollaborationtopowerproductinnovation;and
+ Pursuestrategicexpansionandalliancesandexpandoverseasmarketreach.
 See“Business—OurStrategies”formoredetails.
 5
 
@@ -858,27 +858,27 @@ RISKFACTORS
 Our operations and the Global Offering involve certain risks and uncertainties, which are set
 out in the section headed “Risk Factors” in this prospectus. You should read that section in its entirety
 carefullybeforeyoudecidetoinvestinourShares.Someofthemajorriskswefaceinclude:
-(cid:129) Ourbusinessgrowthandprospectsareaffectedbyourabilitytocontinuouslyinnovateand
+ Ourbusinessgrowthandprospectsareaffectedbyourabilitytocontinuouslyinnovateand
 iterateourexistingproductsandtoexpandourproductmix.
-(cid:129) Our inability to continuously develop our analog IC design and other technological
+ Our inability to continuously develop our analog IC design and other technological
 capabilities could render our products uncompetitive and obsolete, which may impede our
 abilitytoaddresstherequirementsintechnologysegmentsexpectedtodriveourgrowth.
-(cid:129) Our business operates in a knowledge-intensive industry, and our failure to attract and
+ Our business operates in a knowledge-intensive industry, and our failure to attract and
 retaintalentcouldweakenourcorecompetitivenessandadverselyaffectourbusiness.
-(cid:129) Wedependonalimitednumberofthird-partysupplierstomanufactureourproducts.
-(cid:129) WehavebeenandintendtocontinueinvestingsignificantlyinR&Dactivities,whichmay
+ Wedependonalimitednumberofthird-partysupplierstomanufactureourproducts.
+ WehavebeenandintendtocontinueinvestingsignificantlyinR&Dactivities,whichmay
 adversely affect our profitability and operating cash flow and may not generate the results
 weexpecttoachieve.
-(cid:129) Theindustryinwhichweoperateishighlycompetitive.Ifwefailtocompeteagainstother
+ Theindustryinwhichweoperateishighlycompetitive.Ifwefailtocompeteagainstother
 market players, our business, financial condition and results of operations may be
 materiallyandadverselyaffected.
-(cid:129) Our business and results of operations are subject to general macroeconomic conditions
+ Our business and results of operations are subject to general macroeconomic conditions
 andtheinherentcyclicalityofthesemiconductorindustry.
-(cid:129) The markets for our products may not grow as anticipated, and we may be unable to
+ The markets for our products may not grow as anticipated, and we may be unable to
 capitalizeongrowthopportunities.
-(cid:129) We may not be able to implement our growth plan and our business and results of
+ We may not be able to implement our growth plan and our business and results of
 operationsmaybeadverselyaffected.
-(cid:129) Our failure to obtain, maintain and enforce adequate protection for our intellectual
+ Our failure to obtain, maintain and enforce adequate protection for our intellectual
 property and proprietary technology could adversely affect our business, financial
 condition,resultsofoperations,competitivepositionandprospects.
 OURCONTROLLINGSHAREHOLDERS
@@ -1003,15 +1003,15 @@ by us in connection with the Global Offering, assuming the maximum Offer Price o
 HShare,andassumingtheOver-allotmentOptionisnotexercised.
 Inlinewithourstrategies, weintendtousethenetproceeds forthefollowingpurposes,subject
 tochangesinlightofourevolvingbusinessneedsandchangingmarketconditions:
-(cid:129) Approximately60.0%ofthenetproceeds, orHK$2,699.9million,areexpected tobeused
+ Approximately60.0%ofthenetproceeds, orHK$2,699.9million,areexpected tobeused
 to enhance our R&D capabilities and expand our product portfolio over the next five
 years.
-(cid:129) Approximately26.0%ofthenetproceeds, orHK$1,170.0million,areexpected tobeused
+ Approximately26.0%ofthenetproceeds, orHK$1,170.0million,areexpected tobeused
 forstrategicinvestmentand/oracquisitionsaimedatintegratingindustryresources.
-(cid:129) Approximately6.0%ofthenetproceeds,orHK$270.0million,areexpectedtobeusedfor
+ Approximately6.0%ofthenetproceeds,orHK$270.0million,areexpectedtobeusedfor
 expanding overseas sales network, particularly enhancing sales and marketing capabilities
 inEurope,Japan,SouthKorea,andSingaporeoverthenextfiveyears.
-(cid:129) Approximately 8.0% of the net proceeds, or HK$360.0 million, will be allocated to
+ Approximately 8.0% of the net proceeds, or HK$360.0 million, will be allocated to
 workingcapitalandgeneralcorporatepurposes.
 See “Future Plans and Use of Proceeds” for more details relating to our future plans and use of
 proceedsfromtheGlobalOffering.
@@ -1043,12 +1043,12 @@ primarily attributable to an increase in ourrevenue generated fromsales ofsignal
 management ICs, mainly due to the continued introduction of new and high-end products, the
 expansion of our product applications and our customer base, which drove the growing demand from
 endcustomers.
-(cid:129) PowerManagementICs:OurrevenuefromsalesofpowermanagementICsincreasedby
+ PowerManagementICs:OurrevenuefromsalesofpowermanagementICsincreasedby
 41.9% from RMB466.6 million for the three months ended March 31, 2025 to
 RMB662.1 million for the three months ended March 31, 2026. This increase was
 primarily attributable to the rapid growth in the market demand for our power
 managementICs.
-(cid:129) Signal Chain ICs: Our revenue from sales of signal chain ICs increased by 33.8% from
+ Signal Chain ICs: Our revenue from sales of signal chain ICs increased by 33.8% from
 RMB316.5 million for the three months ended March 31, 2025 to RMB423.7 million for
 the three months ended March 31, 2026. The increase was primarily due to the rapid
 growthinthemarketdemandforoursignalchainICs,backedbytheirpremiumquality.
@@ -1774,27 +1774,27 @@ In some cases, these forward-looking statements can be identified by words or ph
 “estimate,”“intend,”“could,”“should,”“consider,”“plan,”“believe,”“predict,”“project,”“potential,”
 “continue,” “outlook,” “schedule,” “going forward,” “is/are likely to” or other similar expressions.
 Theseforward-lookingstatementsinclude,amongotherthings,statementsrelatingto:
-(cid:129) ouroperationsandbusinessprospects;
-(cid:129) ourfinancialconditionandperformance;
-(cid:129) ourcapitalexpenditureplan;
-(cid:129) ourabilitytomaintaingoodrelationshipswithourbusinesspartners;
-(cid:129) future developments, trends and conditions (including economic, political and business
+ ouroperationsandbusinessprospects;
+ ourfinancialconditionandperformance;
+ ourcapitalexpenditureplan;
+ ourabilitytomaintaingoodrelationshipswithourbusinesspartners;
+ future developments, trends and conditions (including economic, political and business
 conditions)intheindustriesandmarketsinwhichweoperateorplantooperate;
-(cid:129) changestotheregulatoryenvironmentintheindustriesandmarketsinwhichweoperate;
-(cid:129) theactionsanddevelopmentsofourcompetitors;
-(cid:129) the ability of third parties to perform in accordance with contractual terms and
+ changestotheregulatoryenvironmentintheindustriesandmarketsinwhichweoperate;
+ theactionsanddevelopmentsofourcompetitors;
+ the ability of third parties to perform in accordance with contractual terms and
 specifications;
-(cid:129) ourabilitytoretainseniormanagementandkeypersonnelandrecruitqualifiedstaff;
-(cid:129) ourabilitytocontrolorreducecosts;
-(cid:129) ourabilitytocontrolourrisks;
-(cid:129) ourfinancialconditionandperformance,debtlevelsandcapitalneeds;
-(cid:129) ourdividendpolicy;
-(cid:129) variousbusinessopportunitiesthatwemaypursue;
-(cid:129) ourbusinessstrategies,objectivesandplansandourabilitytoachievethesestrategies;
-(cid:129) changesorvolatilityininterestrates,foreignexchangerates,equitypricesorotherratesor
+ ourabilitytoretainseniormanagementandkeypersonnelandrecruitqualifiedstaff;
+ ourabilitytocontrolorreducecosts;
+ ourabilitytocontrolourrisks;
+ ourfinancialconditionandperformance,debtlevelsandcapitalneeds;
+ ourdividendpolicy;
+ variousbusinessopportunitiesthatwemaypursue;
+ ourbusinessstrategies,objectivesandplansandourabilitytoachievethesestrategies;
+ changesorvolatilityininterestrates,foreignexchangerates,equitypricesorotherratesor
 prices, including those pertaining to the PRC and the industry and markets in which we
 operate;and
-(cid:129) capitalmarketdevelopments.
+ capitalmarketdevelopments.
 These forward-looking statements are subject to risks, uncertainties and assumptions, some of
 which are beyond our control. In addition, these forward-looking statements reflect our current views
 with respect to future events and are not a guarantee of future performance. Actual outcomes may
@@ -2016,14 +2016,14 @@ applications of our products, expand into overseas markets and cultivate our tal
 our product portfolio requires significant R&D efforts and expenses, and we may not be able to
 successfullyupgradeourexistingordevelopnewproducts.
 Toeffectivelymanageourgrowth,weneedto:
-(cid:129) monitorandcontrolourexpensesandinvestmentsinanticipationofexpandedoperations;
-(cid:129) improveoursupplychaintosupportourgrowth;
-(cid:129) enhanceouradministrativeinfrastructureandsystems;
-(cid:129) refineourtalentmanagementstructureandrecruitadditionalkeypersonnel;
-(cid:129) improve our operational, financial and management internal controls and reporting
+ monitorandcontrolourexpensesandinvestmentsinanticipationofexpandedoperations;
+ improveoursupplychaintosupportourgrowth;
+ enhanceouradministrativeinfrastructureandsystems;
+ refineourtalentmanagementstructureandrecruitadditionalkeypersonnel;
+ improve our operational, financial and management internal controls and reporting
 systems;
-(cid:129) complywithdifferentoradditionallawsandregulations;and
-(cid:129) timelyaddressunforeseenchallengesastheyarise.
+ complywithdifferentoradditionallawsandregulations;and
+ timelyaddressunforeseenchallengesastheyarise.
 Our current and planned structures, systems and policies may not be adequate to support the
 long-term growth of our operations. If we fail to effectively and successfully manage our growth, our
 expenses may increase and we may not respond to challenges or execute our business strategies in a
@@ -2039,14 +2039,14 @@ impact our current performance. We may not be able to identify profitable overse
 RISKFACTORS
 we identifyprofitableoverseas markets, we maynotbeabletoenterintoorcompeteeffectivelydueto
 factorsincluding,butnotlimitedto:
-(cid:129) ourorourdistributors’limitedbusinessexperienceintheoverseasmarkets;
-(cid:129) competition from local competitors with greater resources and more favorable market
+ ourorourdistributors’limitedbusinessexperienceintheoverseasmarkets;
+ competition from local competitors with greater resources and more favorable market
 positions;
-(cid:129) differentdemanddynamicsforourproducts;
-(cid:129) the diversity of end-customer preferences and demand, and our ability to anticipate or
+ differentdemanddynamicsforourproducts;
+ the diversity of end-customer preferences and demand, and our ability to anticipate or
 respondtothem;
-(cid:129) compliancewithapplicablelawsandregulations;and
-(cid:129) potentiallyadversetaxconsequences.
+ compliancewithapplicablelawsandregulations;and
+ potentiallyadversetaxconsequences.
 Any of such circumstances could adversely affect our reputation, business, financial condition
 andresultsofoperations.
 Ourfailuretoobtain,maintainandenforceadequateprotectionforourintellectualpropertyand
@@ -2133,24 +2133,24 @@ government authorities for the acquisitions and comply with applicable laws and 
 Obtainingsuchapprovalsandlicensesmaydelay,ifnothalt,ouracquisitionefforts.
 Future acquisitions and the subsequent integration of new assets and businesses into our own
 mayentailanumberofrisks,including:
-(cid:129) difficulties in accurately assessing the fair value of potential targets, particularly those
+ difficulties in accurately assessing the fair value of potential targets, particularly those
 with significant intangible assets that derive value from novel tools or operate in niche
 markets,whichmayresultinoverpaymentorimpairmentofgoodwill;
-(cid:129) inability to realize the anticipated synergies, cost savings or efficiencies, which may lead
+ inability to realize the anticipated synergies, cost savings or efficiencies, which may lead
 tolower-than-anticipatedreturns;
-(cid:129) difficulties in integrating the acquired personnel, operations, and solutions into our
+ difficulties in integrating the acquired personnel, operations, and solutions into our
 operations;
-(cid:129) disruptions of our ongoing business, distractions of the attention of our management and
+ disruptions of our ongoing business, distractions of the attention of our management and
 employeesandincreasesinourexpenses;
-(cid:129) potentialissueswithtechnology,internalcontrolsandfinancialreportingofthecompanies
+ potentialissueswithtechnology,internalcontrolsandfinancialreportingofthecompanies
 weacquireorinvestin;
-(cid:129) actual or alleged misconduct or noncompliance by any company we acquire or invest in
+ actual or alleged misconduct or noncompliance by any company we acquire or invest in
 (orbyitsaffiliates)thatoccurredpriortoouracquisitionorinvestment,whichmayleadto
 negative publicity, government inquiry or investigations against such company or against
 us;
-(cid:129) unforeseen or hidden liabilities or costs that may adversely affect us following our
+ unforeseen or hidden liabilities or costs that may adversely affect us following our
 acquisitionofsuchtargets;and
-(cid:129) compliance matters including the anti-monopoly and competition laws, rules and
+ compliance matters including the anti-monopoly and competition laws, rules and
 regulations of the PRC and other countries in connection with any proposed investments
 andacquisitions.
 If we overestimate the value of a target company, rely on flawed valuation methodologies, or
@@ -2211,15 +2211,15 @@ oursales volume.Thereisnoassurance thatourcurrentorfuturecontractswithourdistrib
 renewedornegotiatedontermsandpricesequivalenttoorbetterthancurrenttermsandprices.
 The effectiveness of our distributors in selling and distributing our products may also be
 affectedbyanumberoffactors,manyofwhichareoutofourcontrol,including:
-(cid:129) ourdistributors’strategiesinpromotingourproducts;
-(cid:129) ourdistributors’ownbusinessandfinancialperformance;
+ ourdistributors’strategiesinpromotingourproducts;
+ ourdistributors’ownbusinessandfinancialperformance;
 46
 
 === PAGE 55 ===
 RISKFACTORS
-(cid:129) ourdistributors’abilitiestoexpandendcustomerbaseandpenetratenewmarkets;
-(cid:129) ourdistributors’strategiestoextendgeographicalcoverageofourproducts;and
-(cid:129) ourabilitytomaintainandexpandourdistributionnetwork.
+ ourdistributors’abilitiestoexpandendcustomerbaseandpenetratenewmarkets;
+ ourdistributors’strategiestoextendgeographicalcoverageofourproducts;and
+ ourabilitytomaintainandexpandourdistributionnetwork.
 In the event our distributors fail to effectively sell and distribute our products, or prioritize
 promotion of competing product lines over our products, it could result in a significant decrease in our
 sales volume, which may materially and adversely affect our business, financial condition and results
@@ -2275,19 +2275,19 @@ industrial & energy, automotive, networking & computing and consumer electronics
 factors that adversely affect these industries and sectors or our end customer base therein could also
 materially and adversely affect our business, financial condition, results of operations and prospects.
 Thesefactorsinclude,amongothers:
-(cid:129) a decline in demand for, or negative perception of, or publicity about, products of these
+ a decline in demand for, or negative perception of, or publicity about, products of these
 industries;
-(cid:129) rising material and labor costs relating to the design and production of analog ICs in these
+ rising material and labor costs relating to the design and production of analog ICs in these
 industries;
-(cid:129) the reduction or elimination of preferential tax treatments and economic incentives for
+ the reduction or elimination of preferential tax treatments and economic incentives for
 manufacturersintheseindustries;
-(cid:129) regulatory restrictions, trade disputes, industry-specific quotas, tariffs, non-tariff barriers
+ regulatory restrictions, trade disputes, industry-specific quotas, tariffs, non-tariff barriers
 andtaxesthatmayhavetheeffectoflimitingexportsoftheseindustriesfromChina;
-(cid:129) a downturn in general economic conditions or major countries and regions that import
+ a downturn in general economic conditions or major countries and regions that import
 productsoftheseindustries;
-(cid:129) increasing level of competition from analog IC providers in these industries in other
+ increasing level of competition from analog IC providers in these industries in other
 countriesandregions;and
-(cid:129) anyfinancialdifficulties,marketshareloss,orreputationalharmtoendcustomersthatuse
+ anyfinancialdifficulties,marketshareloss,orreputationalharmtoendcustomersthatuse
 ourproducts.
 We have limited control over the operations of our distributors. Our business may be adversely
 affected due to risks relating to the acts of our distributors and their potential breach of
@@ -2616,10 +2616,10 @@ andelsewhere.Sufficientexternalfinancingmaynotbeavailabletousonatimelybasis,onre
 marketterms,oratall.Asaresult,wemaybeforcedtocurtailourexpansionandmodificationplansor
 delaythedeploymentofneworexpandedproductlinesuntilweobtainsuchfinancing.
 Ourabilitytoobtainadditionalcapitaldependsonfactors,including,butnotlimitedto:
-(cid:129) ourmarketpositionandcompetitivenessintheanalogICindustry;
-(cid:129) ouroverallfinancialcondition,resultsofoperationsandfutureprofitability;
-(cid:129) generalmarketconditionsforfinancingactivitiesinChina;and
-(cid:129) generaleconomicandpoliticalconditionsinChinaandinternationally.
+ ourmarketpositionandcompetitivenessintheanalogICindustry;
+ ouroverallfinancialcondition,resultsofoperationsandfutureprofitability;
+ generalmarketconditionsforfinancingactivitiesinChina;and
+ generaleconomicandpoliticalconditionsinChinaandinternationally.
 If our capital needs are materially different from that currently planned, we may initiate
 financing activities for additional capital sooner than anticipated. Such financing may not be available
 on favorable terms on a timely basis, or at all. If we cannot obtain adequate capital on terms favorable
@@ -4136,18 +4136,18 @@ breakthroughs, Chinese companies are steadily expanding their presence and marke
 analogICindustry.
 OverviewofMajorDownstreamApplicationsofAnalogICs
 Industrial and Energy Automotive Networking and Computing Consumer Electronics
-• High-precision ADC/DACs (cid:129) Automotive-grade operational amplifiers (cid:129) Multiphase controllers and DrMOS (cid:129) Display power supply ICs
-Product (cid:129) Precision operational amplifiers (cid:129) BMS (cid:129) High-current DC/DC converters (cid:129) Battery charger ICs
-(cid:129) High-speed comparators (cid:129) Motor drivers (cid:129) SerDes (cid:129) LDOs
-(cid:129) … (cid:129) (cid:129) H … igh-Side drivers (cid:129) … (cid:129) …
-(cid:129) Capture and convert (cid:129) Condition and amplify sensor signals in ECUs, ADAS, (cid:129) Deliver sub-microsecond transient response (cid:129) Provide multiple regulated voltage rails (e.g.,
+• High-precision ADC/DACs Automotive-grade operational amplifiers Multiphase controllers and DrMOS Display power supply ICs
+Product Precision operational amplifiers BMS High-current DC/DC converters Battery charger ICs
+ High-speed comparators Motor drivers SerDes LDOs
+ … H … igh-Side drivers … …
+ Capture and convert Condition and amplify sensor signals in ECUs, ADAS, Deliver sub-microsecond transient response Provide multiple regulated voltage rails (e.g.,
 micro-volt sensor signals and infotainment units to ensure accurate system and tight voltage regulation for CPUs / ASICs. AVDD, VGH, VGL, VCI) required by
 into high-resolution digital performance; AMOLED displays, ensuring stable
-signals; (cid:129) Manage 12 V/48 V batteries and high-phase motors in (cid:129) Provide high-efficiency, large-current power brightness and color performance;
-(cid:129) Provide low-noise EV power-train, body, and chassis systems. delivery for servers, high-performance (cid:129) Manage mobile device charging with voltage
-F P u r n o c d t u io c n t a l s e i m g v n e p l a l i l s f h i i c n i a f t t e t i i g n o r g n i t , t y o f ; i l p te re ri s n e g rv a e nd (cid:129) D v an e r h d iv i c c e o l e a m s n p d w r c i e t o h h n e i n t n r s o t i e l v g t e r r a a p t c r e t o d i t o e g n c a t o t i e o r n a d u r f i x e v a i e l t i r u a s r r , e y c s u m f r o r o r e t n o h t r i s g s h e in n - s e i l n e g c , tric (cid:129) c e E q o n u m a i b p p l m u e t e i m n n g u t. l s ti y - s g t i e g m ab s i , t a h n i d g h n - e s t p w e o e r d k s in e g rial data c p c o h ro n a t r v e g e c i r t n s i g o io . n n f , o c r u s r a re fe n t a r n e d g u ef la fi t c io ie n n , t a b n a d t tery
-(cid:129) Enable fast threshold efficiency and reliable operation. transmission and clock recovery for data- (cid:129) Offer ultra-low-dropout, high-PSRR voltage
-d l p c o i e o r o t w c e p u c e s i t r t i f s o s o . u n r p m a p n o l d i t e o p s r r a o d n t r e d iv c s e t a i s o f , e n ty (cid:129) P c d c i h i r r s o a c t s v r u s i i i b i d t s u e p t s r i r y o o o s n t b t e e u c a m s t c i t r o s o h . n s i , g s e h a n - u v a t o b o l l m t i a n o g g t e i s v l a e o f a e p d o a n w sw d e i r e t - f c t f r h i a c i i n i n e g , n b a t n o p d d o y w s , h e a o r n rt d - c o l a a e n p t n d t e i t n c e A c a r y S l i n I n a C t e n e t s d r w . c l o o o r n w k n - e b j c i a t t c t s e k , r b 5 l o G in n k e in s s , f r r s e a u q s p t u r p i u r o c e r t d t u i n b re g y , l C a o n P w d U - s, r s e b e u t a c g c t . t u h , e l e r a a y n t s i s l o c u i n f a r e m i t . n o e g r s a s u t p a se b p n l l e y s o o n r p o s e , i s r a e a n - t d i s o e a n n u s a d i n t i i o d v e s e y x c s t i e r te c n m u d i e s ts d ,
+signals; Manage 12 V/48 V batteries and high-phase motors in Provide high-efficiency, large-current power brightness and color performance;
+ Provide low-noise EV power-train, body, and chassis systems. delivery for servers, high-performance Manage mobile device charging with voltage
+F P u r n o c d t u io c n t a l s e i m g v n e p l a l i l s f h i i c n i a f t t e t i i g n o r g n i t , t y o f ; i l p te re ri s n e g rv a e nd D v an e r h d iv i c c e o l e a m s n p d w r c i e t o h h n e i n t n r s o t i e l v g t e r r a a p t c r e t o d i t o e g n c a t o t i e o r n a d u r f i x e v a i e l t i r u a s r r , e y c s u m f r o r o r e t n o h t r i s g s h e in n - s e i l n e g c , tric c e E q o n u m a i b p p l m u e t e i m n n g u t. l s ti y - s g t i e g m ab s i , t a h n i d g h n - e s t p w e o e r d k s in e g rial data c p c o h ro n a t r v e g e c i r t n s i g o io . n n f , o c r u s r a re fe n t a r n e d g u ef la fi t c io ie n n , t a b n a d t tery
+ Enable fast threshold efficiency and reliable operation. transmission and clock recovery for data- Offer ultra-low-dropout, high-PSRR voltage
+d l p c o i e o r o t w c e p u c e s i t r t i f s o s o . u n r p m a p n o l d i t e o p s r r a o d n t r e d iv c s e t a i s o f , e n ty P c d c i h i r r s o a c t s v r u s i i i b i d t s u e p t s r i r y o o o s n t b t e e u c a m s t c i t r o s o h . n s i , g s e h a n - u v a t o b o l l m t i a n o g g t e i s v l a e o f a e p d o a n w sw d e i r e t - f c t f r h i a c i i n i n e g , n b a t n o p d d o y w s , h e a o r n rt d - c o l a a e n p t n d t e i t n c e A c a r y S l i n I n a C t e n e t s d r w . c l o o o r n w k n - e b j c i a t t c t s e k , r b 5 l o G in n k e in s s , f r r s e a u q s p t u r p i u r o c e r t d t u i n b re g y , l C a o n P w d U - s, r s e b e u t a c g c t . t u h , e l e r a a y n t s i s l o c u i n f a r e m i t . n o e g r s a s u t p a se b p n l l e y s o o n r p o s e , i s r a e a n - t d i s o e a n n u s a d i n t i i o d v e s e y x c s t i e r te c n m u d i e s ts d ,
 Source: Frost&Sullivan
 90
 
@@ -4345,13 +4345,13 @@ ADC/DAC market. In the China power management IC market, we ranked first among d
 companies and the top three among global companies in the LDO market, and first among domestic
 companiesandthetopfouramongglobalcompaniesintheAMOLEDpowersupplyICmarket.
 Ourcorerankingsin2025intermsofrevenueareasfollows:
-(cid:129) In the China analog IC market, we ranked first among domestic companies and eighth
+ In the China analog IC market, we ranked first among domestic companies and eighth
 amongglobalcompanies.
-(cid:129) In the China signal chain IC market, we ranked first among domestic companies and sixth
+ In the China signal chain IC market, we ranked first among domestic companies and sixth
 amongglobalcompanies.
-(cid:129) IntheChinapowermanagementICmarket,werankedsecondamongdomesticcompanies
+ IntheChinapowermanagementICmarket,werankedsecondamongdomesticcompanies
 andseventhamongglobalcompanies.
-(cid:129) In the China market for amplifier & comparator, ADC/DAC, AMOLED power supply IC,
+ In the China market for amplifier & comparator, ADC/DAC, AMOLED power supply IC,
 andLDO,werankedfirstamongalldomesticcompanies.
 RankingofAnalogICCompaniesbyRevenue,China,2025
 Rank CompanyName Revenue(RMBbn) MarketShare(%)
@@ -5297,20 +5297,20 @@ OccupationalSafetyandHealthOrdinance(Chapter509oftheLawsofHongKong)(“OSHO”)
 The OSHO provides for the safety and health protection to employees in workplace, both
 industrial and non-industrial. Under section 6 of the OSHO, every employer must, so faras reasonably
 practicable,ensurethesafetyandhealthatworkofalltheemployer’semployeesby:
-(cid:129) providing and maintaining plant and systems of work that are safe and without risks to
+ providing and maintaining plant and systems of work that are safe and without risks to
 health;
 116
 
 === PAGE 125 ===
 REGULATORYOVERVIEW
-(cid:129) making arrangements forensuring safety and absence ofrisks tohealth inconnection with
+ making arrangements forensuring safety and absence ofrisks tohealth inconnection with
 theuse,handling,storageortransportofplantandsubstances;
-(cid:129) providing information, instruction, training and supervision as may be necessary to ensure
+ providing information, instruction, training and supervision as may be necessary to ensure
 thesafetyandhealthatworkoftheemployees;
-(cid:129) as regards any workplace under the employer’s control, maintaining the workplace in a
+ as regards any workplace under the employer’s control, maintaining the workplace in a
 condition that is safe and without risks to health or providing or maintaining means of
 accesstoandegressfromtheworkplacethataresafeandwithoutanysuchrisks;and
-(cid:129) providing or maintaining a working environment for the employees that is safe and
+ providing or maintaining a working environment for the employees that is safe and
 withoutriskstohealth.
 Failuretocomplywiththeaboveprovisionsconstitutesanoffenseandtheemployerisliableon
 conviction to a fine of HK$200,000. An employer who fails to do so intentionally, knowingly or
@@ -5471,10 +5471,10 @@ HK$100,000 and to imprisonment for two years, and if the offense continues after
 daily penalty of HK$2,000. It is a defense tothe above offense ifthe data user shows thathe exercised
 allduediligencetocomplywiththeenforcementnotice.
 ThePDPOalsogivesdatasubjectscertainrights,interalia:
-(cid:129) the right to be informed by a data user whether the data user holds personal data of which
+ the right to be informed by a data user whether the data user holds personal data of which
 theindividualisthedatasubject;
-(cid:129) ifthedatauserholdssuchdata,tobesuppliedwithacopyofsuchdata;and
-(cid:129) therighttorequestcorrectionofanydatatheyconsidertobeinaccurate.
+ ifthedatauserholdssuchdata,tobesuppliedwithacopyofsuchdata;and
+ therighttorequestcorrectionofanydatatheyconsidertobeinaccurate.
 120
 
 === PAGE 129 ===
@@ -5823,7 +5823,7 @@ ContinuousAnalogSignal Digital Signal (Discrete Binary Code) Digital Signal (Dis
 RealWorld DigitalWorld RealWorld
 BlockDiagramofMainComponentsinElectronicSystems
 Ourleadershipinproductofferingsrestsonseveralcorestrengths:
-(cid:129) A Comprehensive, Expanding Portfolio. We provide customers with a breadth of
+ A Comprehensive, Expanding Portfolio. We provide customers with a breadth of
 differentiated analog ICs and sensors engineered to work cohesively out-of-the-box,
 simplifying component selection and system-level architecture decisions. Among over
 7,200 products, (i) 19 categories are signal chain products that cover the entire signal path
@@ -5834,7 +5834,7 @@ and lithium battery charging and protection ICs, and (iii) two categories are se
 including temperature sensors and magnetic sensors. With an agile, customer-centric
 innovation cycle, we maintain a rapid product rollout cadence, launching approximately
 3,400newproductsduringtheTrackRecordPeriodanduptotheLatestPracticableDate.
-(cid:129) Forward-Leaning Analog Design. Our product development strategy focuses on
+ Forward-Leaning Analog Design. Our product development strategy focuses on
 differentiated solutions that address critical gaps in high-performance analog markets,
 particularly in applications requiring high voltage tolerance, high integration and novel
 power delivery architectures. According to Frost & Sullivan, we have introduced a series
@@ -5843,13 +5843,13 @@ capability, such as a 60nA ultra-low quiescent current synchronous buck converte
 ultra-low-noise op amp with an input voltage noise density of 1.6 nanovolts per square
 root hertz, an 18-bit SAR ADC with a sampling rate of 2 MSPS and an SNR of 99
 decibels,ahigh-accuracyTECcontrollerandEMLbiaspowersupply.
-(cid:129) High-Integrity Analog Performance. Our analog innovations achieve high precision,
+ High-Integrity Analog Performance. Our analog innovations achieve high precision,
 minimal noise, high-speed response and low power consumption for high-performance
 and high-reliability systems. They maintain consistent accuracy across wide operating
 conditions, protect signal integrity in sensitive applications and respond swiftly to time-
 critical operations. Engineered for energy efficiency, our analog products achieve peak
 performancewithminimalpowerdraw,makingthemidealfordemandingapplications.
-(cid:129) System-Level Cost Optimization. Our products are optimized beyond mere datasheet
+ System-Level Cost Optimization. Our products are optimized beyond mere datasheet
 specifications to deliver lower total cost of ownership. We achieve this through premium
 quality, inherent reliability and long lifecycle support, reducing the need for over-design
 andmitigatingfieldfailurerisks.
@@ -5861,7 +5861,7 @@ OurTechnology
 Our technological edge derives from proprietary R&D in advanced circuit design and process
 technologies, driving analog breakthroughs in signal and power integrity as well as system reliability
 andsafetyacrossdiverseapplications.
-(cid:129) Solid Design Capabilities. Our design strengths deliver strong performance in high-
+ Solid Design Capabilities. Our design strengths deliver strong performance in high-
 performance signal conditioning, efficient power management and advanced sensor solutions
 to power next-generation electronic systems. The signal conditioning suite spans high-
 precision, low-noise, high-speed, high-voltage and low-power analog functions, delivering
@@ -5877,7 +5877,7 @@ inductor,capacitorandDC/DCconvertertodeliveroutstandingpowerefficiencyinaminimal
 footprint. Our sensor technologies, including high-sensitivity magnetic and high-precision
 temperature sensors, integrate signal processing, flexible output interfaces and built-in
 calibrationtodeliveraccuracy,stabilityandoperationalrobustnessinrigorousenvironments.
-(cid:129) Proprietary Process Technology. We believe our proprietary process technology is a
+ Proprietary Process Technology. We believe our proprietary process technology is a
 strategic asset. By adapting foundry process recipes, we have developed processes that
 deliver higher performance than standard flows, aligning with our broad product portfolio
 and enabling us to serve diverse applications and markets without being tied to a single
@@ -5886,7 +5886,7 @@ into the standard fabless model. By fine-tuning key parameters across performanc
 and cost, our products achieve the stringent requirements of precision-driven applications,
 deliveringhigh-levelperformanceandimprovedpowerefficiencywhilescalingefficiently
 fromprototypingtohigh-volumemanufacturing.
-(cid:129) Vast IP Repertoire. We have developed an extensive suite of analog products leveraging
+ Vast IP Repertoire. We have developed an extensive suite of analog products leveraging
 proprietary IP and process technologies. For instance, we hold a patent for the SIMO
 topology for power management ICs and AMOLED displays, delivering multiple supply
 voltages from a single inductor with high efficiency, a reduced board footprint and lower
@@ -5916,7 +5916,7 @@ discoveries. The intelligence era is characterized by ubiquitous sensing, hyper-
 computing, artificial general intelligence and pervasive connectivity. These convergent forces are
 reshaping the global economic and technological landscape, creating an arena where product
 innovationandperformanceareparamount.
-(cid:129) Industrial & Energy. Emerging technologies such as predictive maintenance, digital
+ Industrial & Energy. Emerging technologies such as predictive maintenance, digital
 twins, smart grids and embodied AI in robotics and industrial machinery are ushering in a
 new industrial era. These developments are driving expansion in the analog IC market for
 the industrial & energy sector, which is estimated to reach RMB77.3 billion by 2030,
@@ -5925,7 +5925,7 @@ with products continuously optimized on par with evolving demands. High-voltage,
 current motor driver ICs enable precise, reliable control of robotic actuators and industrial
 machinery, supporting greater efficiency, precision and autonomy on the factory floor and
 acrossenergyandinfrastructurenetworks.
-(cid:129) Automotive. The automotive industry is shifting beyond electrification and toward smart
+ Automotive. The automotive industry is shifting beyond electrification and toward smart
 mobility and connectivity, fueling growth in the automotive analog IC market to reach
 RMB105.3 billion by 2030, with a CAGR of 16.9% from 2026 to 2030, according to
 Frost & Sullivan. We support leading OEMs with a focused portfolio supporting LiDAR,
@@ -5938,7 +5938,7 @@ battery management ICs deliver high-performance signal conditioning and monitori
 across vehicle systems. The portfolio meets stringent automotive-grade reliability and
 functional safety standards, including ISO 26262 compliance, enabling advanced sensing
 andcentralized E/Earchitectures.
-(cid:129) Networking & Computing. Hyperscalers race to build next-generation data centers and
+ Networking & Computing. Hyperscalers race to build next-generation data centers and
 secure critical computing capacity, creating an execution gap where adoption is outpacing
 the ability to deploy at scale. According to Frost & Sullivan, the analog IC market for the
 networking & computing sector is forecasted to reach RMB132.7 billion by 2030, with a
@@ -5947,7 +5947,7 @@ multi-phase DC/DC controllers and DrMOS devices enable efficient, high-current, 
 transient power delivery for CPUs and microprocessors, while our high-precision clock
 management devices (such as retimers) deliver timing synchronization in servers and
 high-speedinterconnectequipment.
-(cid:129) Consumer Electronics. The rise of AI-native consumer electronics is propelling the
+ Consumer Electronics. The rise of AI-native consumer electronics is propelling the
 consumer electronics analog IC market to an estimated RMB74.1 billion by 2030,
 according to Frost & Sullivan. We deliver differentiated, high-performance analog
 132
@@ -5986,13 +5986,13 @@ endenergycontrol,frombatterychargingICsandprotectioncircuitstosystem-levelpowerc
 and distribution, delivering high efficiency, ultra-low power consumption, fast transient response and
 robust safety performance across applications. Our comprehensive coverage is exemplified through
 severalkeyproductfamilies:
-(cid:129) High-Performance Op Amps. We offer a broad range of op amps featuring low-noise,
+ High-Performance Op Amps. We offer a broad range of op amps featuring low-noise,
 high-precision, low-power, high-speed and zero-drift variants, rivaling the bandwidth and
 performance of global industry leaders, according to Frost & Sullivan. Specifically, our
 high-precision variants achieve internationally advanced levels in critical parameters such
 as input bias current, offset voltage and temperature drift, enabling their successful
 adoptioninsophisticatedmarketssuchasindustrialautomationandmedicaldevices.
-(cid:129) Analog-to-Digital Converters. Our ADC platform combines multiple architectures to
+ Analog-to-Digital Converters. Our ADC platform combines multiple architectures to
 tackle diverse design challenges. Our 24-bit, 16-channel ADC achieves a remarkably low
 133
 
@@ -6002,32 +6002,32 @@ input-referred noise, capturing extremely weak signals for breakthroughs in medi
 imaging, industrial automation and test & measurement. Our 18-bit, single-channel SAR
 ADC delivers outstanding signal fidelity, making it optimal for widespread use in
 industrialautomation,communicationsandautomotive.
-(cid:129) Digital-to-Analog Converters. Complementing our high-performance ADCs, our DAC
+ Digital-to-Analog Converters. Complementing our high-performance ADCs, our DAC
 portfolio includes general-purpose DACs and specialized audio DACs, providing
 comprehensive signal chain solutions for both precision instrumentation and high-fidelity
 audioapplications,ensuringcompletedigital-to-analogoutputcapability.
-(cid:129) Full-Stack Charge Guard. We deliver a power pathway from advanced battery charging
+ Full-Stack Charge Guard. We deliver a power pathway from advanced battery charging
 ICs and protection circuits to optimized BMS, providing superior safety and an extended
 lifespan for smartphones, tablets, wearables and EVs. Features such as high integration,
 supportforrapidchargingprotocols(“PD/QC”),superiorefficiencyandultra-lowstandby
 power make these solutions preferred choices for top-tierglobalbrands, particularlyinthe
 lithiumbattery-chargingICsegment.
-(cid:129) Pixel-Perfect Display Power & Drivers. Our display power and driver ICs for liquid
+ Pixel-Perfect Display Power & Drivers. Our display power and driver ICs for liquid
 crystal display (“LCD”) and OLED panels power immersive visuals in smart devices,
 automotive infotainment and high-end industrial displays. Characterized by ultra-low
 noise, high efficiency, minimal power consumption and compact integration, these
 products have positioned us as a strategic partner to top global consumer electronics
 brands.
-(cid:129) High-Efficiency DC/DC Converters. Covering buck, boost, buck-boost and multi-phase
+ High-Efficiency DC/DC Converters. Covering buck, boost, buck-boost and multi-phase
 architectures, our DC/DC converters deliver extreme efficiency, fast transient response,
 high-voltage/current capability and robust thermal performance, well-suited for servers
 andnext-generationautomotivesystems.
-(cid:129) Ultra-Low-Power LDOs. Defined by rock-bottom quiescent current, high Power Supply
+ Ultra-Low-Power LDOs. Defined by rock-bottom quiescent current, high Power Supply
 Rejection Ratio (“PSRR”) and minimal noise, our LDOs are the go-toforpower-sensitive
 applications in consumer electronics, wearables, high-end audio and networking. Our
 AEC-Q100-qualified, automotive-grade LDOs are already achieving volume shipments in
 automotiveapplications.
-(cid:129) Intelligent Load Switches / eFuses. Our high-voltage, high-current load switches and eFuse
+ Intelligent Load Switches / eFuses. Our high-voltage, high-current load switches and eFuse
 products have achieved volume adoption in applications such as portable devices, personal
 computing and data centers, delivering robust protection and precise power distribution and
 enhancingsystemsafetyandreliabilityinspace-constrained,power-denseenvironments.
@@ -6213,14 +6213,14 @@ electronics.
 We have a comprehensive analog portfolio comprising signal chain ICs and power
 management ICs. We are also strategically expanding into sensor products, enhancing our ability to
 providesensingandprocessingsolutionsfordiverseapplications.
-(cid:129) Signal chain ICs are designed to sense, condition and process real-world analog signals
+ Signal chain ICs are designed to sense, condition and process real-world analog signals
 (such as temperature, pressure, sound and light) and convert them into precise digital data
 for further processing. These ICs perform critical functions including signal amplification
 (using op amps and instrumentation amplifiers), filtering, data conversion (both ADC and
 DAC) and signal conditioning. By accurately translating continuous physical phenomena
 into digital information, they form the foundation for measurement and control in a wide
 arrayofapplications.
-(cid:129) PowermanagementICsaredesignedtoregulate,distributeandoptimizeelectricalpower
+ PowermanagementICsaredesignedtoregulate,distributeandoptimizeelectricalpower
 within electronic systems. They enhance energy efficiency, promote operational reliability
 138
 
@@ -6233,7 +6233,7 @@ sequencing, supervision (featuring power-on reset and under-/overvoltage protect
 load switching. This high degree of integration results in a compact, efficient and
 thermally optimized power solution that simplifies overall system design and improves
 performance.
-(cid:129) Sensors are designed to perceive and measure real-world physical phenomena, such as
+ Sensors are designed to perceive and measure real-world physical phenomena, such as
 temperature, magnetic fields, position and pressure, and convert them into electrical
 signals for processing by electronic systems. They serve as the bridge between the
 physical and digital domains, providing critical input data for measurement, monitoring,
@@ -6761,7 +6761,7 @@ OurR&Dinvestmentsareconcentratedonthreefoundationaltechnologydomains:signalchain
 ICs, power management ICs, and sensor products. Through sustained commitment and capability-
 building in these pillars, we have developed a robust suite of core technologies that not only address
 evolvingcustomerrequirementsbutalsoalignwithindustrytrends:
-(cid:129) High-PerformanceSignalConditioningandOtherKeyTechnologies.Ourhigh-performance
+ High-PerformanceSignalConditioningandOtherKeyTechnologies.Ourhigh-performance
 signal conditioning technology platform includes technologies for high-precision op amps,
 low-noise op amps, high-speed op amps, high-voltage op amps, low-power op amps, high-
 speed comparators, low-power comparators, high-precision and high-speed ADCs and
@@ -6769,7 +6769,7 @@ DACs, high-end audio ICs, high-fidelity analog switches, and fast level-shifting
 high-speed interface ICs, providing a complete range of high-fidelity signal conditioning
 functions. In addition, our RF team is continuously developing a range of RF products to
 meettheneedsofthewirelesscommunicationmarket.
-(cid:129) Automotive Electronics Technology. We believe the rapid development of China’s EV
+ Automotive Electronics Technology. We believe the rapid development of China’s EV
 market has provided us with a significant opportunity to collaborate directly with
 automakers and Tier-1 suppliers. We are dedicated to developing a wide range of
 automotive-grade analog ICs that meet the stringent industry requirements for wide
@@ -6780,7 +6780,7 @@ and current monitoring ICs, small logic ICs, and magnetic sensors. As of the Lat
 Practicable Date, we had over 600 automotive-grade IC products in mass production and
 nearly 200 automotive-grade IC projects in our R&D pipeline, with a particular focus on
 applicationswithinthecoresystemsofEVs.
-(cid:129) Efficient, Low-Power Power Management Technology. We are dedicated to providing
+ Efficient, Low-Power Power Management Technology. We are dedicated to providing
 advanced power management solutions. These include: (i) battery charging and protection,
 whereweaddressthesubstantialdemandfromportableelectronicsbydevelopinginnovative
 technologies such as switched-capacitor chargers for faster and more efficient charging;
@@ -6793,7 +6793,7 @@ solutions foradvanceddisplayslikeAMOLED,andvarioushigh-efficiencydriversolutions
 for LED backlights and flashlights; and (iii) high-efficiency, low-power DC/DC converters
 and LDOs for various power conversion needs. These products are widely used in
 applicationsrangingfromwearablestosmartphonesandtablets.
-(cid:129) Sensor Technology. This includes high-sensitivity magnetic sensors and high-precision
+ Sensor Technology. This includes high-sensitivity magnetic sensors and high-precision
 temperature sensors that deliver excellent performance and can be widely used in
 consumer electronics, industrial automation, and automotive applications. For example,
 our AMR-based magnetic encoder for off-axis mounting is housed in a compact
@@ -6806,7 +6806,7 @@ production efficiency for our customers. Its built-in functions for offset compe
 amplitude compensation, and temperature compensation provide excellent vibration
 resistance and low temperature drift characteristics, making it suitable for various
 demandingoperatingenvironments.
-(cid:129) Small Form Factor and High-Density Integration Technology. As portable devices and
+ Small Form Factor and High-Density Integration Technology. As portable devices and
 various space-constrained applications demand increasingly smaller footprints, the ability
 to achieve miniaturization without compromising performance has become a core
 competitive advantage. We have established miniaturization as a key R&D focus,
@@ -6821,7 +6821,7 @@ power modules that integrate an inductor, capacitor, and DC/DC converter within 
 achieve ultra-compact dimensions of 2mm×2mm. This capability to strike an optimal
 balance between size, power consumption, and performance allows us to empower our
 customerstodevelopmorecompactandefficientend-products.
-(cid:129) Technological and Process Advantage of Our Portfolio. The majority of our product
+ Technological and Process Advantage of Our Portfolio. The majority of our product
 portfolio is comprised of active products developed using newer-generation process
 technologies.Wehaveestablishedaproprietaryprocessteamanddevelopedthemrapidly,
 building a complete process device development system and device testing laboratories.
@@ -6941,13 +6941,13 @@ Directors and their respective associates, or Shareholders who own 5% or more of
 Shares had any interest in any of our five largest suppliers in each year during the Track Record
 Period.
 Salienttermsofouragreementswithmajorsupplierstypicallyinclude:
-(cid:129) Duration.Thedurationofouragreementtypicallyspansatleasttwoyears.
-(cid:129) Price.Thepriceisspecifiedinthepurchaseorders.
-(cid:129) Transfer of Risk. The risk transfers to us after we complete inspection and confirm receipt
+ Duration.Thedurationofouragreementtypicallyspansatleasttwoyears.
+ Price.Thepriceisspecifiedinthepurchaseorders.
+ Transfer of Risk. The risk transfers to us after we complete inspection and confirm receipt
 oftheproducts.
-(cid:129) ProductReturnorExchange.Wehavetherighttoreturnorexchangeproductsifthereare
+ ProductReturnorExchange.Wehavetherighttoreturnorexchangeproductsifthereare
 reasonablegrounds,suchasproductdefects.
-(cid:129) Termination. We are entitled to terminate the purchase order when the supplier fails to
+ Termination. We are entitled to terminate the purchase order when the supplier fails to
 performanddoesnotmaketimelycorrectionsafterreceiptofourwrittennotice.
 SupplierConcentration
 During the Track Record Period, we procured wafers and packaging and testing services from
@@ -7051,12 +7051,12 @@ Company,oursubsidiaries, ourshareholderswhoown5%ormoreofthetotalissuedShares,Dir
 orseniormanagementoranyoftheirrespectiveassociates.
 PrincipalContractualTermswithDistributors
 Thekeytermsofthecontractsweenteredintowithdistributorsareasfollows:
-(cid:129) Term.Thedurationofouragreementspansaperiodoftwoyears.
-(cid:129) Purchase. Purchases are made through individual purchase orders placed by our
+ Term.Thedurationofouragreementspansaperiodoftwoyears.
+ Purchase. Purchases are made through individual purchase orders placed by our
 distributors.Ouragreementsdonotincludeaminimumpurchasecommitment.
-(cid:129) Selling Price. The purchase price for our products is confirmed in each individual
+ Selling Price. The purchase price for our products is confirmed in each individual
 purchaseorder.
-(cid:129) Product Return or Exchange. Generally, we allow product returns or exchanges for
+ Product Return or Exchange. Generally, we allow product returns or exchanges for
 distributors under specific circumstances. Distributors are generally entitled to a certain
 return quota provided that the returned products have not been damaged or altered and
 remain in a resalable condition. If the products were purchased directlyfromus withinthe
@@ -7069,7 +7069,7 @@ finalapprovalbeforethereturncanbeexecuted.
 
 === PAGE 164 ===
 BUSINESS
-(cid:129) Termination. Generally, the contract may be terminated if the distributor fails to perform
+ Termination. Generally, the contract may be terminated if the distributor fails to perform
 its obligations. We are entitled to unilaterally terminate the agreement under the
 circumstances including (i) there is a material adverse change in the distributor’s
 management or ownership; (ii) the distributor violates applicable laws and regulations; or
@@ -7080,19 +7080,19 @@ AccordingtoFrost&Sullivan,ourreturnpolicywithdistributorsisconsistentwiththeindu
 DistributorManagement
 An effective management system has been set up for our distributors to maintain the long-term
 andstablerelationshipswithourdistributors.
-(cid:129) Selection. We are prudent in selecting our distribution partners, seeking to establish
+ Selection. We are prudent in selecting our distribution partners, seeking to establish
 long-termrelationshipsbasedonmutualtrust.
-(cid:129) PerformanceReview.Weachievemutuallyagreed-uponsalestargetswithdistributors.
-(cid:129) Price Management. We manage the price range for their resale to end customers. This
+ PerformanceReview.Weachievemutuallyagreed-uponsalestargetswithdistributors.
+ Price Management. We manage the price range for their resale to end customers. This
 strategy is designed to maintain a stable and consistent pricing structure, ensuring
 consistentpricemanagementacrossourentiredistributionchannel.
-(cid:129) Cannibalization Management. We have established and strictly enforce a channel
+ Cannibalization Management. We have established and strictly enforce a channel
 management system to prevent unauthorized sales and other forms of cannibalization,
 ensuringthatourpricingsystemandmarketorderwillnotbedisrupted.
-(cid:129) Distributor InventoryManagement.Distributorsareresponsibleformanagingtheirown
+ Distributor InventoryManagement.Distributorsareresponsibleformanagingtheirown
 inventory.Toenhancesupplyflexibility,ourdistributorstypicallymaintainareasonable
 levelofsafetystocktobetterservicetheendcustomers.
-(cid:129) ChannelStuffingManagement.Weoperateonabuyoutmodel,meaningourdistributors
+ ChannelStuffingManagement.Weoperateonabuyoutmodel,meaningourdistributors
 purchaseproductsforresaleandbeartheprimaryinventoryrisk.
 OurDirectSales
 We have adopted a direct sales model, which serves as an effective complement to our
@@ -7384,7 +7384,7 @@ have implemented an ESG management organizational structure to ensure the effect
 our ESG strategies and policies. This structure is designed to provide clear lines of responsibility and
 facilitate both top-down oversight and bottom-up implementation. The structure is organized as
 follows:
-(cid:129) Our Board Office takes the lead in our ESG management system, responsible for the
+ Our Board Office takes the lead in our ESG management system, responsible for the
 overall coordination and planning of our ESG initiatives and steering the relevant
 functional departments. Our Board has the ultimate responsibility for our ESG strategy
 and performance. The Board provides overall leadership and direction for our ESG
@@ -7393,11 +7393,11 @@ interests of our shareholders and other stakeholders. The Board’s responsibili
 among others, reviewing and approving our material ESG policies and targets, overseeing
 the implementation of our ESG management systems, and monitoring our performance
 againstourESGobjectives.
-(cid:129) Our various functional departments, including human resources, operations, quality,
+ Our various functional departments, including human resources, operations, quality,
 internal control, and information technology, are responsible for the implementation of
 specific ESG-related tasks and initiatives that fall within their respective areas of
 expertise.
-(cid:129) We have established an ESG Working Group to coordinate day-to-day ESG management,
+ We have established an ESG Working Group to coordinate day-to-day ESG management,
 communication, and information disclosure. The ESG Working Group is also responsible
 for tracking progress against our ESG goals and reporting such progress and results to the
 Boardonaregularbasis.
@@ -7417,7 +7417,7 @@ Climate-relatedRisksandOpportunities
 We recognize that climate change poses both risks and opportunities to our business. Our
 operations and those of our key suppliers in the value chain could be susceptible to the following
 climate-relatedrisks:
-(cid:129) Transition Risks. These risks arise from the transition to a lower-carbon economy, which
+ Transition Risks. These risks arise from the transition to a lower-carbon economy, which
 mayentailextensive policy,legal,technology,andmarketchanges. Theseinclude(i)risks
 associated with increasingly stringent environmental laws and regulations, such as those
 163
@@ -7428,10 +7428,10 @@ relatedtocarbonemissionsandenergyconsumption,whichcouldincreaseourcompliance
 costs; and (ii) market risks related to shifts in customer preferences towards products with
 a smaller environmental footprint. Failure to align our products and operations with these
 trendscouldadverselyaffectourmarketcompetitiveness.
-(cid:129) Physical Risks. Our global operations and supply chain may be exposed to physical risks
+ Physical Risks. Our global operations and supply chain may be exposed to physical risks
 from climate change, such as extreme weather events. Such events could potentially
 disruptouroperations,interruptoursupplychain,andadverselyimpactourbusiness.
-(cid:129) Opportunities. Concurrently, we believe the transition to a low-carbon economy presents
+ Opportunities. Concurrently, we believe the transition to a low-carbon economy presents
 opportunities for our business. Our strategic focus on “green R&D” and the development
 of high-efficiency, low-power consumption products positions us to meet the growing
 market demand for green and energy-saving technologies. We have generally optimized
@@ -7449,12 +7449,12 @@ lead to supply chain disruptions and reputational damage. See “ — Social Res
 ChainManagement”formoredetails.
 RiskIdentification,AssessmentandManagementProcess
 Ourriskidentificationandmanagementprocessinvolvesthefollowingkeysteps:
-(cid:129) Risk Identification. We identify and analyze potential risks from internal and external
+ Risk Identification. We identify and analyze potential risks from internal and external
 sources by taking into account our development strategy, the characteristics of the
 industry,andthemacroeconomicenvironment.
-(cid:129) Risk Assessment. We assess the identified risks based on their nature, likelihood of
+ Risk Assessment. We assess the identified risks based on their nature, likelihood of
 occurrence,andthepotentialseverityoftheirimpactonouroperationsandstrategy.
-(cid:129) RiskResponse. Based ontheassessment results,weformulateandimplementtargetedrisk
+ RiskResponse. Based ontheassessment results,weformulateandimplementtargetedrisk
 mitigation measures, which include continuously monitoring risks, updating our response
 plans, allocating necessary resources to ensure business continuity, and conducting
 relevantcompliancetrainingtoenhancetheriskmanagementawarenessofouremployees.
@@ -7532,7 +7532,7 @@ EnergyConservationandClimateActions
 We established and implemented an environmental management system certified to the ISO
 14001 standard. We have formulated our Environmental Management Manual to guide our daily
 operations.Ourkeyinitiativestoconserveenergyandaddressclimatechangeinclude:
-(cid:129) Energy-efficientOperations.Wehaveimplementedvariousenergy-savingmeasuresinour
+ Energy-efficientOperations.Wehaveimplementedvariousenergy-savingmeasuresinour
 offices, such as utilizing energy-efficient LED lighting systems and promoting energy and
 water conservation awareness among our employees. We also encourage paperless
 operationsbyleveragingouronlinemeetingsystemsandsmartconferencetablets.Weuse
@@ -7541,7 +7541,7 @@ with company regulations. In the next three years, we plan to continuously optim
 energy usage structure. Specifically, we intend to utilize photovoltaic power generated
 from our own rooftops and purchase renewable electricity to reduce our reliance on
 traditionalenergysourcesandlowerourcarbonfootprint.
-(cid:129) Green R&D. We have integrated the concept of “Green R&D” into our product
+ Green R&D. We have integrated the concept of “Green R&D” into our product
 development process. We have accumulated a batch of core technologies, intellectual
 properties, and products in areas such as reducing chip power consumption, improving
 power conversion efficiency, optimizing processes, and minimizing chip area. Examples
@@ -7549,7 +7549,7 @@ include ultra-low power series op amps, comparators, LDOs, boost and buck DC/DC
 converters, and more. We are dedicated to designing and developing products with low
 power consumption, smaller form factors, and high efficiency, thereby helping to reduce
 theenergyconsumptionofend-userelectronicdevices.
-(cid:129) Responsible Sourcing. In the processes of raw material selection, wafer manufacturing,
+ Responsible Sourcing. In the processes of raw material selection, wafer manufacturing,
 packaging and testing, we strictly require our supply chain partners to adhere to green
 166
 
@@ -7576,7 +7576,7 @@ We believe that our employees are our most valuable asset and the core driver of
 sustainable growth. We are committed to protecting the rights and interests of our employees,
 providing a safe and healthy work environment, and offering competitive remuneration and
 comprehensivedevelopmentopportunities.
-(cid:129) Employee Health and Occupational Safety. We place the utmost importance on the health
+ Employee Health and Occupational Safety. We place the utmost importance on the health
 and safety of our employees. We have established a robust occupational health and safety
 management system, guided by our Occupational Health and Safety Manual and
 structured in accordance with the requirements of the ISO 45001 standard. We have
@@ -7586,7 +7586,7 @@ fire drills, and performing routine safety inspections of our facilities and equ
 result of our efforts, during the Track Record Period, no major work-related accidents or
 work-related fatalities were recorded, our rate of recordable incidents was zero and our
 employeehealthcheckupcoverageratewas100%.
-(cid:129) Remuneration,WelfareandEmployeeCare.Weoffercompetitivecompensationpackages
+ Remuneration,WelfareandEmployeeCare.Weoffercompetitivecompensationpackages
 linked to corporate and individual performance. We are firmly committed to the principle
 of equal pay for equal work, irrespective of gender. In addition to statutory social
 insuranceandhousingprovidentfunds,whichcover100%ofouremployees,weprovidea
@@ -7595,7 +7595,7 @@ accident insurance, paid sick leave, and festive allowances. We foster a caring 
 supportive corporate culture through various employee activities, including regular sports
 clubs and team-building events. Notably, we organize Women’s Development Forum to
 supportthepersonalandprofessionalgrowthofourfemaleemployees.
-(cid:129) Employee Development and Training. We are committed to fostering the professional
+ Employee Development and Training. We are committed to fostering the professional
 growth of our employees and have established a comprehensive training and development
 167
 
@@ -7606,7 +7606,7 @@ career aspirations. Our training system is designed to empower employees at all 
 their careers, featuring various technical training and programs for managers and new
 graduates. In 2025, our training initiatives covered 100% of our employees, with an
 averageof78.7traininghoursperperson.
-(cid:129) Diversity and Equal Opportunity. We are committed to creating a diverse, equitable, and
+ Diversity and Equal Opportunity. We are committed to creating a diverse, equitable, and
 inclusive workplace. We have established policies that ensure equal opportunity in all
 aspects of employment, including recruitment, promotion, and remuneration, strictly
 prohibiting discrimination based on race, gender, religion, age, disability, or any other
@@ -7635,7 +7635,7 @@ SupplyChainManagement
 We recognize that a responsible and resilient supply chain is critical to our business. We have
 implemented a rigorous supply chain management system to ensure that our suppliers adhere to the
 samehighstandardsofenvironmental,social,andethicalconductthatweuphold.
-(cid:129) Supplier ESG Management. Our supplier management process integrates comprehensive
+ Supplier ESG Management. Our supplier management process integrates comprehensive
 ESG criteria. When onboarding new suppliers, we conduct a multi-dimensional
 assessment that includes their environmental and social responsibility performance. We
 require our suppliers to obtain and maintain key management system certifications,
@@ -7648,7 +7648,7 @@ terminationofourbusinessrelationship.
 
 === PAGE 177 ===
 BUSINESS
-(cid:129) Responsible Sourcing and Conflict Minerals Management. We are highly committed to
+ Responsible Sourcing and Conflict Minerals Management. We are highly committed to
 responsible sourcing of minerals. We have a zero-tolerance policy for conflict minerals.
 We utilize the Conflict Minerals Reporting Template developed by the Responsible
 Minerals Initiative to survey our suppliers and ensure the traceability of minerals such as
@@ -7784,16 +7784,16 @@ IMPACTOFTHEOUTBOUNDINVESTMENTRULE
 Our Sanctions Legal Adviser is of the view that the Outbound Investment Rule will not have
 any material impact on the Global Offering, the operations, financial performance, or investment
 prospectsofourCompanyforthereasonsoutlinedbelow:
-(cid:129) We are a Covered Foreign Person. Our business constitutes “covered activities,” and
+ We are a Covered Foreign Person. Our business constitutes “covered activities,” and
 investments by U.S. persons in us constitute “notifiable transactions” under the Outbound
 Investment Rule. However, they do not constitute “prohibited transactions” because our
 integrated circuits do not meet the criteria of advanced ICs or any other parameters under
 “prohibitedtransactions”.
-(cid:129) An investment by a U.S. person in a publicly traded security is exempted under the
+ An investment by a U.S. person in a publicly traded security is exempted under the
 Outbound Investment Rule. Therefore, U.S. investors who acquire publicly traded shares
 in us are excepted from the notification requirements as long as the investment does not
 affordtheU.S.personsrightsbeyondstandardminorityshareholderprotections.
-(cid:129) Should the investments by U.S. persons be considered “notifiable transactions,” the
+ Should the investments by U.S. persons be considered “notifiable transactions,” the
 obligation to report the “notifiable transactions” to the U.S. Department of the Treasury
 fallsontheU.S.personsiftheysubscribe fortheSharesintheGlobalOffering,butnoton
 us. Investments by persons other than U.S. persons are not subject to the Outbound
@@ -8050,9 +8050,9 @@ affectourbusinessandresultsofoperations.
 GeneralFactors
 In addition, our results of operations and financial position have been and are expected to be
 affectedbythefollowinggeneralfactors:
-(cid:129) globalandChina’smacroeconomicconditions;
-(cid:129) technologyadvancementsandcompetitionintheanalogICindustry;and
-(cid:129) relevantlawsandregulations,andgovernmentalpoliciesandinitiatives.
+ globalandChina’smacroeconomicconditions;
+ technologyadvancementsandcompetitionintheanalogICindustry;and
+ relevantlawsandregulations,andgovernmentalpoliciesandinitiatives.
 MATERIALACCOUNTINGPOLICIESANDESTIMATES
 We have identified certain accounting policies that are significant to the preparation of our
 financialstatements.Intheapplicationofouraccountingpolicies,ourmanagementisrequiredtomake
@@ -8480,12 +8480,12 @@ duetotheincreased sales volumeinlinewiththeincreasingdemandfromendcustomers.Spec
 FINANCIALINFORMATION
 the analog IC market has begun to recover since 2024, and driven by the continued adoption of AI
 applications,thedemandforanalogICsexpanded,accordingtoFrost&Sullivan.
-(cid:129) Power Management ICs. Our revenue generated from sales of power management ICs
+ Power Management ICs. Our revenue generated from sales of power management ICs
 increased by 9.1% from RMB2,181.7 million in 2024 to RMB2,379.8 million in 2025,
 primarily due to an increase in our sales volume of power management ICs from
 3,934.6 million units in 2024 to 5,022.8 million units in 2025, which was due to an
 increasingdemandfromendcustomers.
-(cid:129) Signal Chain ICs. Our revenue generated from sales of signal chain ICs increased by
+ Signal Chain ICs. Our revenue generated from sales of signal chain ICs increased by
 27.2% from RMB1,156.7 million in 2024 to RMB1,471.0 million in 2025, primarily due
 toanincreaseinoursalesvolumeofsignalchainICsfrom2,012.7millionunitsin2024to
 2,792.6 million units in 2025, mainly due to (i) growing demand from end customers, in
@@ -8558,13 +8558,13 @@ to the increased sales volume in line with our growing business scale. Besides, 
 FINANCIALINFORMATION
 Sullivan, consumer electronics shipments began to recover in 2024, partially supported by AI-related
 infrastructureupgrades,andtheanalogICmarketaccordinglyresumeditsgrowthtrajectoryin2024.
-(cid:129) Power Management ICs. Our revenue generated from sales of power management ICs
+ Power Management ICs. Our revenue generated from sales of power management ICs
 increased by 25.0% from RMB1,746.0 million in 2023 to RMB2,181.7 million in 2024,
 primarily due to an increase in our sales volume of power management ICs from
 3,060.6 million units in 2023 to 3,934.6 million units in 2024, which was due to growing
 demand from end customers in the consumer electronics sector, driven by the recovery of
 theanalogICmarketin2024.
-(cid:129) Signal Chain ICs. Our revenue generated from sales of signal chain ICs increased by
+ Signal Chain ICs. Our revenue generated from sales of signal chain ICs increased by
 33.8% from RMB864.2 million in 2023 to RMB1,156.7 million in 2024, primarily due to
 an increase in our sales volume of signal chain ICs from 1,427.4 million units in 2023 to
 2,012.7 million units in 2024, mainly due to (i) the gradual recovery of the analog IC
@@ -10446,7 +10446,7 @@ by us in connection with the Global Offering, assuming the maximum Offer Price o
 Share,andassumingtheOver-allotmentOptionisnotexercised.
 Inlinewithourstrategies, weintendtousethenetproceeds forthefollowingpurposes,subject
 tochangesinlightofourevolvingbusinessneedsandchangingmarketconditions:
-(cid:129) Approximately 60.0% of the net proceeds, or HK$2,699.9 million, is expected to be used
+ Approximately 60.0% of the net proceeds, or HK$2,699.9 million, is expected to be used
 to enhance our R&D capabilities and expand our product portfolio over the next five
 years.Webelievesuchinvestmentwillenableustocapturethecoretrendsandapplication
 scenarios driving the evolution and value growth of analog semiconductor technologies,
@@ -10498,7 +10498,7 @@ R&D;and
 inR&Dinfrastructure.Specifically,weplantopurchase(i)R&Dsoftwaretools,such
 as EDA software, and (ii) R&D-related equipment such as testing equipment and
 probestations.
-(cid:129) Approximately 26.0% of the net proceeds, or HK$1,170.0 million, is expected to be used
+ Approximately 26.0% of the net proceeds, or HK$1,170.0 million, is expected to be used
 for strategic investment and/or acquisitions aimed at integrating industry resources. We
 seek potential investment and acquisition opportunities worldwide to invest in or acquire
 companies in signal chain ICs, power management ICs, sensors and other synergistic
@@ -10518,7 +10518,7 @@ We believe thatsuch industryresourceintegrationwouldstrengthenourcompetitiveedge
 accelerate our growth and enhance our market position. As of the Latest Practicable Date,
 we have not negotiated with any specific acquisition targets nor identified any such
 targets.
-(cid:129) Approximately 6.0% of the net proceeds, or HK$270.0 million, is expected to be used for
+ Approximately 6.0% of the net proceeds, or HK$270.0 million, is expected to be used for
 expanding overseas sales network, particularly enhancing sales and marketing capabilities
 inEurope,Japan,SouthKorea,andSingaporeoverthenextfiveyears.Specifically:
 (i) approximately 5.0% of the net proceeds, or HK$225.0 million, will be used to
@@ -10537,7 +10537,7 @@ directlyengagewithpotentialcustomers;and
 (ii) approximately 1.0% of the net proceeds, or HK$45.0 million, will be used to expand
 and establish sales centers in Europe, Japan, South Korea, and Singapore to enhance
 ourlocalizeddevelopmentandcustomerservicecapabilities.
-(cid:129) Approximately 8.0% of the net proceeds, or HK$360.0 million, will be allocated to
+ Approximately 8.0% of the net proceeds, or HK$360.0 million, will be allocated to
 workingcapitalandgeneralcorporatepurposes.
 If the Over-allotment Option is exercised in full, the net proceeds that we will receive will be
 approximately HK$5,181.7 million, assuming the maximum Offer Price of HK$85.20 per H Share. In
@@ -11530,13 +11530,13 @@ andtheextenttowhichthisoccursfromdaytodaycannotbeestimated.
 UNDERWRITING
 Itshouldbenotedthatwhenengaginginanyoftheseactivities,theSyndicateMemberswillbe
 subjecttocertainrestrictions,includingthefollowing:
-(cid:129) the Syndicate Members (other than the Stabilizing Manager or any person acting for it)
+ the Syndicate Members (other than the Stabilizing Manager or any person acting for it)
 must not, in connection with the distribution of the Offer Shares, effect any transactions
 (including issuing or entering into any option or other derivative transactions relating to
 the Offer Shares), whether in the open market or otherwise, with a view to stabilizing or
 maintaining the market price of any of the Offer Shares at levels other than those which
 mightotherwiseprevailintheopenmarket;and
-(cid:129) the Syndicate Members must comply with all applicable laws and regulations, including
+ the Syndicate Members must comply with all applicable laws and regulations, including
 the market misconduct provisions of the SFO, including the provisions prohibiting insider
 dealing,falsetrading,priceriggingandstockmarketmanipulation.
 CertainoftheSyndicateMembersortheirrespectiveaffiliateshaveprovidedfromtimetotime,
@@ -11893,18 +11893,18 @@ A. APPLICATIONFORHONGKONGOFFERSHARES
 1. WhoCanApply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you are
 applying:
-(cid:129) are18yearsofageorolder;
-(cid:129) haveaHongKongaddress(fortheHKeIPOWhiteFormserviceonly);and
-(cid:129) are outside the United States, and are not a United States Person (as defined in
+ are18yearsofageorolder;
+ haveaHongKongaddress(fortheHKeIPOWhiteFormserviceonly);and
+ are outside the United States, and are not a United States Person (as defined in
 RegulationSundertheU.S.SecuritiesAct).
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Offer Shares if
 youortheperson(s)forwhosebenefityouareapplying:
-(cid:129) areanexistingShareholderorits/his/hercloseassociates;
-(cid:129) areaDirectororanyofhis/hercloseassociates;
-(cid:129) are a core connected person (as defined in the Listing Rules) of the Company or will
+ areanexistingShareholderorits/his/hercloseassociates;
+ areaDirectororanyofhis/hercloseassociates;
+ are a core connected person (as defined in the Listing Rules) of the Company or will
 become a core connected person of the Company immediately upon completion of the
 GlobalOffering;or
-(cid:129) have been allocated or have applied for any International Offer Shares or otherwise
+ have been allocated or have applied for any International Offer Shares or otherwise
 participatedintheInternationalOffering.
 2. ApplicationChannels
 The Hong Kong Public Offering period will begin at 9:00 a.m. on Wednesday, June 17,
@@ -11976,16 +11976,16 @@ andconditionsofthisprospectus.
 3. InformationRequiredtoApply
 Youmustprovidethefollowinginformationwithyourapplication:
 ForIndividual/JointApplicants ForCorporateApplicants
-(cid:129) Fullname(s)(2)asshownonyouridentitydocument (cid:129) Fullname(s)(2)asshownonyouridentity
+ Fullname(s)(2)asshownonyouridentitydocument Fullname(s)(2)asshownonyouridentity
 document
-(cid:129) Identitydocument’sissuingcountryorjurisdiction (cid:129) Identitydocument’sissuingcountryorjurisdiction
-(cid:129) Identitydocumenttype,withorderofpriority: (cid:129) Identitydocumenttype,withorderofpriority:
+ Identitydocument’sissuingcountryorjurisdiction Identitydocument’sissuingcountryorjurisdiction
+ Identitydocumenttype,withorderofpriority: Identitydocumenttype,withorderofpriority:
 i. HongKongidentitycard(“HKID”);or i. LegalEntityIdentifier(“LEI”)registration
 document;or
 ii. Nationalidentificationdocument;or ii. Certificateofincorporation;or
 iii. Passport;and iii. Businessregistrationcertificate;or
 iv. Otherequivalentdocument;and
-(cid:129) Identitydocumentnumber (cid:129) Identitydocumentnumber
+ Identitydocumentnumber Identitydocumentnumber
 Notes:
 (1) IfyouareapplyingthroughtheHKeIPOWhiteFormservice,youarerequiredtoprovideavalide-mailaddress,acontacttelephone
 number and a Hong Kong address. You are also required to declare that the identity information provided by you follows the
@@ -12016,9 +12016,9 @@ requiredinformationinyourapplicationasstatedabove.
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 “Unlistedcompany”meansacompanywithnoequitysecuritieslistedontheStockExchangeoranyotherstockexchange.
 “Statutorycontrol”meansyou:
-(cid:129) controlthecompositionoftheboardofdirectorsofthecompany;
-(cid:129) controlmorethanhalfofthevotingpowerofthecompany;or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhichcarriesnorighttoparticipatebeyond
+ controlthecompositionoftheboardofdirectorsofthecompany;
+ controlmorethanhalfofthevotingpowerofthecompany;or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhichcarriesnorighttoparticipatebeyond
 aspecifiedamountinadistributionofeitherprofitsorcapital).
 For those applying through the HKSCC EIPO channel and making an application under a
 powerofattorney,theOverallCoordinatorsmayacceptitattheirdiscretionandonanyconditionsthey
@@ -12278,21 +12278,21 @@ withoutgivinganyreasons.
 3. IftheallocationofHongKongOfferSharesisvoid:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not grant
 permissiontolisttheShareseither:
-(cid:129) withinthreeweeksfromtheclosingdateoftheapplicationlists;or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that longer
+ withinthreeweeksfromtheclosingdateoftheapplicationlists;or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that longer
 periodwithinthreeweeksoftheclosingdateoftheapplicationlists.
 4. IF:
-(cid:129) you make multiple applications or suspected multiple applications. For details, see “— A.
+ you make multiple applications or suspected multiple applications. For details, see “— A.
 Application for Hong Kong Offer Shares 5. — Multiple Applications Prohibited” in this
 section;
-(cid:129) yourapplicationinstructionisincomplete;
-(cid:129) yourpayment(orconfirmationoffunds,asthecasemaybe)isnotmadecorrectly;
-(cid:129) theUnderwritingAgreementsdonotbecomeunconditionalorareterminated;or
+ yourapplicationinstructionisincomplete;
+ yourpayment(orconfirmationoffunds,asthecasemaybe)isnotmadecorrectly;
+ theUnderwritingAgreementsdonotbecomeunconditionalorareterminated;or
 277
 
 === PAGE 286 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) the Company or the Overall Coordinators believe that by accepting your application, it or
+ the Company or the Overall Coordinators believe that by accepting your application, it or
 theywouldviolateapplicablesecuritiesorotherlaws,rulesorregulations.
 5. IfthereismoneysettlementfailureforallottedShares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC Participants
@@ -12386,9 +12386,9 @@ arrangements as agreed between them. For details, see “— E. Severe Weather A
 section.
 E. SEVEREWEATHERARRANGEMENTS
 TheapplicationlistswillnotopenorcloseonTuesday,June23,2026ifthereis/are:
-(cid:129) atropicalcyclonewarningsignalnumber8orabove;
-(cid:129) a“black”rainstormwarning;and/or
-(cid:129) ExtremeConditions
+ atropicalcyclonewarningsignalnumber8orabove;
+ a“black”rainstormwarning;and/or
+ ExtremeConditions
 (collectively,“SevereWeatherSignals”)
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Tuesday, June 23,
 2026(HongKongtime).
@@ -12454,27 +12454,27 @@ andtheHShareRegistrarimmediatelyofanyinaccuraciesinthepersonaldatasupplied.
 3. Purposes
 Your personal data may be used, held, processed and/or stored (by whatever means) for the
 followingpurposes:
-(cid:129) processing your application and refund check and HK eIPO White Form e-Auto Refund
+ processing your application and refund check and HK eIPO White Form e-Auto Refund
 payment instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of allocation of
 HongKongOfferShares;
-(cid:129) compliancewithapplicablelawsandregulationsinHongKongandelsewhere;
+ compliancewithapplicablelawsandregulationsinHongKongandelsewhere;
 281
 
 === PAGE 290 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) registering new issues or transfers into or out of the names of the holders of the H Shares
+ registering new issues or transfers into or out of the names of the holders of the H Shares
 including,whereapplicable,HKSCCNominees;
-(cid:129) maintainingorupdatingtheCompany’sregisterofmembers;
-(cid:129) verifying identities of applicants for and holders of the H Shares and identifying any
+ maintainingorupdatingtheCompany’sregisterofmembers;
+ verifying identities of applicants for and holders of the H Shares and identifying any
 duplicateapplicationsfortheHShares;
-(cid:129) facilitatingHongKongOfferSharesballoting;
-(cid:129) establishing benefit entitlements of holders of the H Shares, such as dividends, rights
+ facilitatingHongKongOfferSharesballoting;
+ establishing benefit entitlements of holders of the H Shares, such as dividends, rights
 issues,bonusissues,etc.;
-(cid:129) distributingcommunicationsfromtheCompanyanditssubsidiaries;
-(cid:129) compilingstatisticalinformationandprofilesoftheholderoftheHShares;
-(cid:129) disclosingrelevantinformationtofacilitateclaimsonentitlements;and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable the
+ distributingcommunicationsfromtheCompanyanditssubsidiaries;
+ compilingstatisticalinformationandprofilesoftheholderoftheHShares;
+ disclosingrelevantinformationtofacilitateclaimsonentitlements;and
+ any other incidental or associated purposes relating to the above and/or to enable the
 Company and the H Share Registrar to discharge their obligations to applicants for and
 holders of the H Shares and/or regulators and/or any other purposes to which applicants
 forandholdersoftheHSharesmayfromtimetotimeagree.
@@ -12483,21 +12483,21 @@ Personal data held by the Company and the H Share Registrar relating to the appl
 holders of Hong Kong Offer Shares will be kept confidential but the Company and the H Share
 Registrar may, to the extent necessary for achieving any of the above purposes, disclose, obtain or
 transfer(whetherwithinoroutsideHongKong)thepersonaldatato,fromorwithanyofthefollowing:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving bank and overseas
+ the Company’s appointed agents such as financial advisers, receiving bank and overseas
 principalshareregistrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar, in each case for the purposes of providing its
 services or facilities or performing its functions in accordance with its rules or procedures
 and operating FINI and CCASS (including where applicants for the Hong Kong Offer
 SharesrequestadepositintoCCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H Share
 Registrarinconnectionwiththeirrespectivebusinessoperations;
-(cid:129) theStockExchange,theSFCandanyotherstatutoryregulatoryorgovernmentalbodiesor
+ theStockExchange,theSFCandanyotherstatutoryregulatoryorgovernmentalbodiesor
 otherwise as requiredbylaws, rules orregulations,includingforthepurposesoftheStock
 Exchange’s administration of the Listing Rules and the SFC’s performance of its statutory
 functions;and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have or
+ any persons or institutions with which the holders of Hong Kong Offer Shares have or
 proposetohavedealings,suchastheirbankers,solicitors,accountantsorbrokersetc.
 5. RetentionofPersonalData
 The Company and the H Share Registrar will keep the personal data of the applicants for and
@@ -14150,8 +14150,8 @@ Derecognitionoffinancialassets
 A financial asset (or, where applicable, a part of a financial asset or part of a group of similar
 financial assets) is primarily derecognized (i.e., removed from the Group’s consolidated statement of
 financialposition)when:
-(cid:129) therightstoreceivecashflowsfromtheassethaveexpired;or
-(cid:129) the Group has transferred its rights to receive cash flows from the asset or has assumed an
+ therightstoreceivecashflowsfromtheassethaveexpired;or
+ the Group has transferred its rights to receive cash flows from the asset or has assumed an
 obligation to pay the received cash flows in full without material delay to a third party
 under a “pass-through” arrangement; and either (a) the Group has transferred substantially
 all the risks and rewards of the asset, or (b) the Group has neither transferred nor retained
@@ -14320,22 +14320,22 @@ Deferred tax is provided, using the liability method, on all temporary differenc
 the reporting period between the tax bases of assets and liabilities and their carrying amounts for
 financialreportingpurposes.
 Deferredtaxliabilitiesarerecognizedforalltaxabletemporarydifferences,except:
-(cid:129) when the deferred tax liability arises from the initialrecognitionofgoodwilloran asset or
+ when the deferred tax liability arises from the initialrecognitionofgoodwilloran asset or
 liability in a transaction that is not a business combination and, at the time of the
 transaction, affects neither the accounting profit nor taxable profit or loss and does not
 giverisetoequaltaxableanddeductibletemporarydifferences;and
-(cid:129) inrespectoftaxabletemporarydifferencesassociated withinvestmentsinsubsidiariesand
+ inrespectoftaxabletemporarydifferencesassociated withinvestmentsinsubsidiariesand
 associates, when the timing of the reversal of the temporary differences can be controlled
 anditisprobablethatthetemporarydifferenceswillnotreverseintheforeseeablefuture.
 Deferred tax assets are recognized for all deductible temporary differences, and the
 carryforwardofunused tax credits and any unused tax losses. Deferred tax assets arerecognizedtothe
 extent that it is probable that taxable profit will be available against which the deductible temporary
 differences,andthecarryforwardofunusedtaxcreditsandunusedtaxlossescanbeutilized,except:
-(cid:129) whenthedeferredtaxassetrelatingtothedeductibletemporarydifferencesarisesfromthe
+ whenthedeferredtaxassetrelatingtothedeductibletemporarydifferencesarisesfromthe
 initialrecognitionofanasset orliabilityinatransactionthatisnotabusinesscombination
 and,atthetimeofthetransaction,affectsneithertheaccountingprofitnortaxableprofitor
 lossanddoesnotgiverisetoequaltaxableanddeductibletemporarydifferences;and
-(cid:129) in respect of deductible temporary differences associated with investments in subsidiaries
+ in respect of deductible temporary differences associated with investments in subsidiaries
 and associates, deferred tax assets are only recognized to the extent that it is probable that
 the temporary differences will reverse in the foreseeable future and taxable profit will be
 availableagainstwhichthetemporarydifferencescanbeutilized.
@@ -15472,19 +15472,19 @@ Netcarryingamount ................................................ 80,875 78,692
 Impairmenttestingofgoodwill
 Goodwill acquired through business combinations is allocated to the group of Cash-Generating
 Units(“CGU”or“CGUs”)forimpairmenttestingasbelow:
-(cid:129) SuzhouQingxinfang
-(cid:129) ShanghaiFangtai
-(cid:129) DalianAlpha
-(cid:129) HangzhouShenan
+ SuzhouQingxinfang
+ ShanghaiFangtai
+ DalianAlpha
+ HangzhouShenan
 I-60
 
 === PAGE 352 ===
 APPENDIXI ACCOUNTANTS’REPORT
 IINOTESTOTHEHISTORICALFINANCIALINFORMATION—continued
 18. GOODWILL—continued
-(cid:129) ShanghaiPingsheng
-(cid:129) ChangzhouGanrui
-(cid:129) TeraDevicesInc
+ ShanghaiPingsheng
+ ChangzhouGanrui
+ TeraDevicesInc
 Thecarryingamountofgoodwillallocatedtoeachofthecash-generatingunitsisasfollows:
 Asat31December
 2023 2024 2025
@@ -19632,8 +19632,8 @@ procedures to assess whether the applicable criteria used by the Directors in th
 Unaudited Pro Forma Financial Information provide a reasonable basis for presenting the significant
 effects directly attributable to the transaction, and to obtain sufficient appropriate evidence about
 whether:
-(cid:129) therelatedproformaadjustmentsgiveappropriateeffecttothosecriteria;and
-(cid:129) the Unaudited Pro Forma Financial Information reflects the proper application of those
+ therelatedproformaadjustmentsgiveappropriateeffecttothosecriteria;and
+ the Unaudited Pro Forma Financial Information reflects the proper application of those
 adjustmentstotheunadjustedfinancialinformation.
 The procedures selected depend on the reporting accountants’ judgment, having regard to the
 reportingaccountants’understandingofthenatureoftheGroup,thetransactioninrespectofwhichthe

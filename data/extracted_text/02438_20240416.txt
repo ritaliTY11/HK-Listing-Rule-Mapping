@@ -43,7 +43,7 @@ Stockcode : 2438
 JointSponsors,JointOverallCoordinators,JointGlobalCoordinators,JointBookrunnersandJointLeadManagers
 JointGlobalCoordinators,JointBookrunnersandJointLeadManagers
 JointBookrunnersandJointLeadManagers
-(cid:64)(cid:58)(cid:57)(cid:41)(cid:1047)(cid:2123)(cid:11498)(cid:26290)
+ 
 Hong Kong Exchanges and Clearing Limited, The Stock Exchange of Hong Kong Limited and Hong Kong Securities Clearing Company Limited take no
 responsibilityforthecontentsofthisprospectus,makenorepresentationastoitsaccuracyorcompletenessandexpresslydisclaimanyliabilitywhatsoeverfor
 anylosshowsoeverarisingfromorinrelianceuponthewholeoranypartofthecontentsofthisprospectus.
@@ -176,17 +176,17 @@ The results of allocations in the Hong Kong Public Offering (with
 successful applicants’ identification document numbers, where
 appropriate) to be available through a variety of channels,
 including:
-(cid:129) in the announcement to be posted on our website
+ in the announcement to be posted on our website
 and the website of the Stock Exchange at
 www.chumenwenwen.com and
 www.hkexnews.hk, respectively(9) . . . . . . . . . . . . . . . . . . . . . . . . at or before 11:00 p.m. on
 Tuesday, April 23, 2024
-(cid:129) from the designated results of allocations website at
+ from the designated results of allocations website at
 www.iporesults.com.hk (alternatively:
 www.eipo.com.hk/eIPOAllotment) with a “search by ID”
 function from(10). . . . . . . . . . . . . . . . . . . . . . . . . . . 11:00 p.m. on Tuesday, April 23, 2024 to
 12:00 midnight on Monday, April 29, 2024
-(cid:129) from the allocation results telephone enquiry line by calling
+ from the allocation results telephone enquiry line by calling
 +852 2862 8555 between 9:00 a.m. and 6:00 p.m. from(9) . . . . Wednesday, April 24, 2024 to
 Monday, April 29, 2024
 (except weekend and public holiday
@@ -474,24 +474,24 @@ world. As of the Latest Practicable Date, we had attracted approximately 865,000
 paying users for our AIGC solutions and achieved over one million payments since the launch of
 the solutions. As of the Latest Practicable Date, we had built our AIGC solution matrix enabling
 content creators to achieve efficient content generation:
-(cid:129) AI voiceover assistant: “Moyin Workshop” — provides high-quality AI voiceover
+ AI voiceover assistant: “Moyin Workshop” — provides high-quality AI voiceover
 solutions, serving millions of users, especially video creators, worldwide as of the
 Latest Practicable Date.
 – 4 –
 
 === PAGE 15 ===
 SUMMARY
-(cid:129) AI writing assistant: “Mozhuan Writing” and “Qi Miao Wen”(Note 4) — offer
+ AI writing assistant: “Mozhuan Writing” and “Qi Miao Wen”(Note 4) — offer
 distinguished AI written content generation solutions.
-(cid:129) AI avatar: “Weta365” — provides AI video generation and virtual live streaming
+ AI avatar: “Weta365” — provides AI video generation and virtual live streaming
 solutions.
-(cid:129) Integrated solutions: “DupDub” — provides high-quality AI voiceover solutions,
+ Integrated solutions: “DupDub” — provides high-quality AI voiceover solutions,
 distinguished AI written content generation solutions and AI Avatar generation.
 To enterprises:
 Leveraging our strong software-hardware integration capability and voice interaction
 technologies, we are able to customize AI Software Solutions for enterprises from automotive,
 finance, TMT and others such as healthcare and retail industries, for instance:
-(cid:129) AI voice interaction solutions: With comprehensive interaction as foundation, we offer
+ AI voice interaction solutions: With comprehensive interaction as foundation, we offer
 humanized and intelligent AI voice interaction solutions to various industries including
 automotive and finance industry. Software solutions include voice-interacted in-car
 control which helps achieve phone call answering, navigation, weather checking, hotel
@@ -499,7 +499,7 @@ booking functions, through default or personalized hot words, and AI anti-fraud 
 to the enterprises we serve to prevent theft and falsification. Additionally, enterprise
 solutions may also be provided to enterprises with AI software-embedded hardware to
 further cater to the highly customized demand of the enterprises we serve.
-(cid:129) Intelligent customer service solutions: We apply intelligent voice interaction
+ Intelligent customer service solutions: We apply intelligent voice interaction
 technologies into customer service scenarios to reduce costs and increase operating
 efficiency. For instance, our intelligent customer service solutions can perform AI
 customer service, make callbacks and provide humanoid responses.
@@ -556,15 +556,15 @@ smart treadmill — Mobvoi Home Treadmill Incline. We have gradually applied adv
 technology in three major human-machine interaction life scenarios of “wearable, automotive and
 smart homes” through software-hardware integrated devices. Our relevant smart devices can be
 interconnected by our personal virtual assistant — “Xiaowen”:
-(cid:129) User experience : Our TicWatch series have been highly recognized with numerous
+ User experience : Our TicWatch series have been highly recognized with numerous
 international awards.
-(cid:129) Strategic cooperation: We have established in-depth strategic cooperation with a
+ Strategic cooperation: We have established in-depth strategic cooperation with a
 world-leading multinational technology company focusing on search engine technology and a
 multinational technology corporation that creates semiconductors, software, and services
 related to wireless technology. Benefiting from the long-term cooperation on multiple projects,
 we have effectively improved our technological and solution capabilities.As a result, we have
 developed and maintained a pre-eminent research and development team.
-(cid:129) Design and algorithms : Our sport, health algorithms and sensors feed the
+ Design and algorithms : Our sport, health algorithms and sensors feed the
 human-machine interaction to the relative technology modules to achieve constant
 optimization and efficient iteration. Our iconic “dual-screen and dual-system” design
 resolves the two major pain points of smart watches: low battery life and low visibility
@@ -589,28 +589,28 @@ industry since 2020 by our solutions since 2020 since 2020
 OUR STRENGTHS
 We believe the following competitive advantages have contributed to our success and
 differentiated us from our competitors, and will continue to drive our growth in the future:
-(cid:129) Strong large language model capabilities and vertical module technologies;
-(cid:129) Well-established solution matrix of AI-empowered, voice-enabled, end-to-end and
+ Strong large language model capabilities and vertical module technologies;
+ Well-established solution matrix of AI-empowered, voice-enabled, end-to-end and
 software-hardware integrated solutions to serve diverse customer groups;
-(cid:129) Solid commercialization capabilities of our AI technologies and user-in-the-loop
+ Solid commercialization capabilities of our AI technologies and user-in-the-loop
 ecosystem;
-(cid:129) Well-positioned business exposure with international vision; and
-(cid:129) Visionary management team and innovative corporate culture.
+ Well-positioned business exposure with international vision; and
+ Visionary management team and innovative corporate culture.
 For details, please refer to the paragraph headed “Business — Our Strengths” in this
 prospectus.
 OUR STRATEGIES
 To achieve our mission and further solidify our market position, we intend to pursue the
 following strategies:
-(cid:129) Continuously improve and enrich our solution matrix;
+ Continuously improve and enrich our solution matrix;
 – 8 –
 
 === PAGE 19 ===
 SUMMARY
-(cid:129) Continuous investment in research and development and optimize capabilities of our
+ Continuous investment in research and development and optimize capabilities of our
 large language model with multi-modal generative capability, “Sequence Monkey”;
-(cid:129) Further strengthening our commercialization capabilities;
-(cid:129) Expand our international reach; and
-(cid:129) Pursue strategic cooperation, investments and acquisitions.
+ Further strengthening our commercialization capabilities;
+ Expand our international reach; and
+ Pursue strategic cooperation, investments and acquisitions.
 For details, please refer to the paragraph headed “Business — Our Strategies” in this
 prospectus.
 OUR CUSTOMERS AND SUPPLIERS
@@ -641,27 +641,27 @@ RISK FACTORS
 Our business and the Global Offering involve certain risks as set out in “Risk Factors” in this
 prospectus. You should read that section in its entirety carefully before you decide to invest in our
 Shares. The following is a non-exhaustive list of some of the major risks we face:
-(cid:129) The competitiveness of our solutions is based on our research and development
+ The competitiveness of our solutions is based on our research and development
 capabilities. If we fail to continuously develop and upgrade our solutions with
 technological innovation, we may not be able to retain existing customers, attract new
 customers or maintain our market position in the industry;
-(cid:129) We face fierce competition in the AI industry; in particular, certain leading technology
+ We face fierce competition in the AI industry; in particular, certain leading technology
 companies have signalled their intention on price competition for gaining share in the
 AIGC market. If we do not compete effectively, we may suffer from loss of customers
 and our business, results of operations, financial conditions or business prospects could
 be materially and adversely affected as a result;
-(cid:129) Any actual or perceived misuse of AI technologies committed by us or by other third
+ Any actual or perceived misuse of AI technologies committed by us or by other third
 parties intentionally or inadvertently, could materially and adversely affect our business,
 results of operations, financial conditions and business prospects;
-(cid:129) We may be subject to complex and evolving laws and regulations in China. Any failure
+ We may be subject to complex and evolving laws and regulations in China. Any failure
 to comply with the evolving PRC laws and regulations relating to AIGC services, data
 security, privacy and personal information protection may subject us to legal or
 administrative proceedings, which may materially and adversely affect our reputation
 and business operations;
-(cid:129) We have been and will continue investing in research and development, which may
+ We have been and will continue investing in research and development, which may
 adversely affect our profitability and operating cash flow in the short term and may not
 generate the results we expect to achieve; and
-(cid:129) The continuous and collaborative efforts of our senior management and key employees
+ The continuous and collaborative efforts of our senior management and key employees
 are crucial to our success, and our business may be harmed if we lose their services.
 For details, please refer to the section headed “Risk Factors” in this prospectus.
 APPLICATION FOR LISTING ON THE STOCK EXCHANGE
@@ -734,15 +734,15 @@ We define “adjusted net (loss)/profit” (non-IFRS measure) as loss for the ye
 continuing operations excluding changes in the carrying amount of contingently redeemable
 preferred shares and ordinary shares, share-based compensation and listing expenses. We have
 made adjustments to the following items consistently during the Track Record Period:
-(cid:129) Changes in the carrying amount of contingently redeemable preferred shares and
+ Changes in the carrying amount of contingently redeemable preferred shares and
 ordinary shares, which are affected primarily by the changes in the redemption price of
 the preferred shares and ordinary shares. We do not expect to record such changes in the
 future as our contingently redeemable preferred shares and ordinary shares will be
 automatically converted into equity upon completion of the Listing;
-(cid:129) Share-based compensation, which represents the non-cash employee benefit expenses
+ Share-based compensation, which represents the non-cash employee benefit expenses
 incurred. It relates to the share rewards we offered to our employees under the Pre-IPO
 Share Option Scheme, which is a non-cash expense; and
-(cid:129) Listing expenses relating to the Global Offering.
+ Listing expenses relating to the Global Offering.
 – 12 –
 
 === PAGE 23 ===
@@ -1249,16 +1249,16 @@ Over-allotment Option is not exercised; and (ii) each Preferred Share is convert
 without taking into account any Shares that may be issued under the Pre-IPO Share Option
 Scheme. In line with our strategies, we intend to use our proceeds from the Global Offering for the
 purposes and in the amounts set forth below:
-(cid:129) Approximately 44.3% or HK$122.0 million (RMB110.6 million) will be used for
+ Approximately 44.3% or HK$122.0 million (RMB110.6 million) will be used for
 continuously enhancing our modeling technology to carry out model training, vertical
 optimization on our underlying foundation model and improvement on our existing
 program algorithm of our solutions by introducing prominent technologies and talents;
-(cid:129) Approximately 35.7% or HK$98.3 million (RMB89.1 million), for solution development
+ Approximately 35.7% or HK$98.3 million (RMB89.1 million), for solution development
 and marketing;
-(cid:129) Approximately 10.0% or HK$27.5 million (RMB25.0 million) will be allocated to
+ Approximately 10.0% or HK$27.5 million (RMB25.0 million) will be allocated to
 pursue strategic alliances, investments and acquisitions to implement our long-term
 growth strategies for solution development; and
-(cid:129) Approximately 10.0% or HK$27.5 million (RMB25.0 million) will be used for working
+ Approximately 10.0% or HK$27.5 million (RMB25.0 million) will be used for working
 capital and general corporate purposes.
 For details, please refer to the section headed “Future Plans and Use of Proceeds” in this
 prospectus.
@@ -2094,30 +2094,30 @@ uncertainties, and assumptions, including the other risk factors as described in
 are strongly cautioned that reliance on any forward-looking statements involves known and
 unknown risks and uncertainties. The risks and uncertainties faced by the Company which could
 affect the accuracy of forward-looking statements include, but are not limited to, the following:
-(cid:129) our business prospects;
-(cid:129) future developments, trends and conditions in the industry and markets in which we
+ our business prospects;
+ future developments, trends and conditions in the industry and markets in which we
 operate;
-(cid:129) our business and growth strategies and our ability to achieve such strategies;
-(cid:129) general economic, political and business conditions in the markets in which we operate;
-(cid:129) changes to the regulatory environment and general outlook in the industry and markets
+ our business and growth strategies and our ability to achieve such strategies;
+ general economic, political and business conditions in the markets in which we operate;
+ changes to the regulatory environment and general outlook in the industry and markets
 in which we operate;
-(cid:129) the effects of the global financial markets and economic crisis;
-(cid:129) our ability to reduce costs;
-(cid:129) our capital expenditure plans;
-(cid:129) our dividend policy;
-(cid:129) capital market developments;
-(cid:129) the actions and developments of our competitors;
-(cid:129) our ability to identify and integrate suitable acquisition targets;
-(cid:129) changes or volatility in interest rates, foreign exchange rates, equity prices or other rates
+ the effects of the global financial markets and economic crisis;
+ our ability to reduce costs;
+ our capital expenditure plans;
+ our dividend policy;
+ capital market developments;
+ the actions and developments of our competitors;
+ our ability to identify and integrate suitable acquisition targets;
+ changes or volatility in interest rates, foreign exchange rates, equity prices or other rates
 or prices in the industry and markets in which we operate;
 – 51 –
 
 === PAGE 62 ===
 FORWARD-LOOKING STATEMENTS
-(cid:129) certain statements in the section headed “Financial Information” with respect to trends
+ certain statements in the section headed “Financial Information” with respect to trends
 in prices, volumes, operations, margins, overall market trends, risk management and
 exchange rates; and
-(cid:129) other statements in this prospectus that are not historical facts.
+ other statements in this prospectus that are not historical facts.
 The words “aim”, “anticipate”, “believe”, “can”, “continue”, “could”, “estimate”, “expect”,
 “going forward”, “intend”, “ought to”, “may”, “might”, “plan”, “potential”, “predict”, “project”,
 “seek”, “should”, “will”, “would” or similar expressions or the negative thereof, as they relate to
@@ -4990,12 +4990,12 @@ Source: CIC
 === PAGE 139 ===
 INDUSTRY OVERVIEW
 Market drivers of AI market
-(cid:129) Advancement of AI technology based on generative algorithms
+ Advancement of AI technology based on generative algorithms
 Generative algorithms such as generative adversarial networks (GANs), transformers, and
 diffusion models provide a deep learning framework for data training. The advancement of
 generative algorithms empower AI to become AI CoPilot for professional content creators,
 enterprises and general users to generate various content and improve productivity.
-(cid:129) Increased demand for AI products and services
+ Increased demand for AI products and services
 Accelerated economic growth and increased per capita income have generated substantial
 demand for consumption. Personal consumers tend to prioritize user experience and
 personalization in selecting AI-empowered products and services. Enterprise consumers seek for AI
@@ -5005,12 +5005,12 @@ According to CIC, the number of global and China’s content creators reached 30
 million, respectively, by 2022, and these content creators have strong demands to improve their
 content productivity. As a result, AI products and services such as AIGC platforms and
 AI-empowered hardware solutions are continuously gaining popularity in the market.
-(cid:129) Advanced infrastructure fuels sufficient computing power
+ Advanced infrastructure fuels sufficient computing power
 The development of digital infrastructure including 5G and cloud computing guarantees
 efficient real-time data processing and lower computing costs. It provides sufficient computing
 power and economic feasibility for large language model training and generative algorithm
 optimization.
-(cid:129) Supportive policies promote the development of AI
+ Supportive policies promote the development of AI
 Recently, China’s digital content creation sector has flourished benefiting from the supportive
 policies for the content creator economy and gradually become a new economic growth catalyst.
 The national “14th Five-Year Plan” emphasizes the importance of developing the emerging digital
@@ -5042,7 +5042,7 @@ Future trends of AI markets — Artificial General Intelligence (AGI)
 With the breakthrough of cutting-edge AI technologies, AI is undergoing fundamental change.
 AGI has become the development focus and frontier area of the AI revolution, with versatile
 processing capabilities in various contexts.
-(cid:129) Definition and characteristics of AGI
+ Definition and characteristics of AGI
 AGI is defined as a system that possesses generalized human cognitive abilities to perceive,
 learn, and carry out intellectual tasks in a variety of different contexts. Features of AGI includes
 (i) self-iteration, the ability to optimize and iterate itself during the process of solving complex
@@ -5051,7 +5051,7 @@ previous experience and transform the knowledge from one problem or context to a
 human-like common sense, the ability to perform decision-making process with human-like
 common sense; (iv) abstract thinking, the ability to achieve abstract thinking through
 understanding and breaking down abstract concepts.
-(cid:129) Application of AGI
+ Application of AGI
 The rapid evolution of AI and digital technologies has propelled AGI to become a main driver
 in industrial revolution. AGI is able to be commercialized through user-oriented AI CoPilot. The
 commercial application scenarios of AGI include (i) AGI software service empowering enterprises,
@@ -5164,7 +5164,7 @@ OVERVIEW OF THE AI SOFTWARE SOLUTION MARKET
 Definition and classification of AI software solution service
 AI software solution uses AI technology to provide AI software and AI software-empowered
 hardware solutions in numerous industries.
-(cid:129) Classification of AI software solution service by technical application
+ Classification of AI software solution service by technical application
 From the perspective of technical applications, AI software can be categorized into computer
 vision, AI voice and NLP, and data science. AI computer vision software refers to the field of AI
 that enables software to interpret visual inputs such as images and videos and derive meaningful
@@ -5176,7 +5176,7 @@ INDUSTRY OVERVIEW
 software to have the ability to process human language in the form of text or voice data and
 respond to spoken commands. AI data science software refers to the field of AI that enables
 software to process data, perform data analytics and present insightful information.
-(cid:129) Classification of AI software solution service by downstream application scenarios
+ Classification of AI software solution service by downstream application scenarios
 AI software solutions can be categorized into (i) creative content generators, (ii) enterprise
 operating and marketing toolkits, and (iii) end-consumer-oriented applications, based on different
 end-user types. The major downstream application scenarios of AI software solutions include
@@ -5344,20 +5344,20 @@ As % of global
 AIGC market 8.6% 9.6% 25.5%
 Source: CIC
 Entry barriers and key success factors in the AIGC market
-(cid:129) Robust commercialization capability and clear path to profitability
+ Robust commercialization capability and clear path to profitability
 The ability to identify customer actual needs and realize commercialization is instrumental
 for AIGC companies to acquire paying users in a sustainable manner. Currently, China’s AIGC
 industry is in the exploration period of its commercialization. The ability to accurately identify the
 scenarios with broad commercialization potential, and the ability to obtain and accumulate paying
 users is the key to successful commercialization.
-(cid:129) Training of high-quality data
+ Training of high-quality data
 Abundant high-quality data obtained from vertical markets and paying users can facilitate the
 efficiency of training algorithms and significantly optimize models. This ability could continuously
 enhance the flexibility of content and diversification of models, and enrich the application
 scenarios. Furthermore, with the further improvement of the user experiences following the
 continuous technology enhancement, more users will be attracted and ultimately create a data
 flywheel effect.
-(cid:129) Self-developed large language models
+ Self-developed large language models
 With the increasing application of AIGC technology, the underlying models require
 continuous innovation and iteration to maintain versatility and be adaptive to various demand of
 different vertical markets and application scenarios. The ability to self-develop the multimodal
@@ -5370,7 +5370,7 @@ for new market players to enter.
 === PAGE 149 ===
 INDUSTRY OVERVIEW
 Competitive landscape of global and China’s AIGC markets
-(cid:129) Competitive landscape of the global AIGC market
+ Competitive landscape of the global AIGC market
 According to CIC, the global AIGC market consists of various AI companies offering
 different AIGC solutions. Among the major global AI companies that have achieved
 commercialization in AIGC, we ranked 8th in the global market and 1st in Asia in terms of revenue
@@ -5388,7 +5388,7 @@ focusesonreinforcementlearningandoffers
 self-developedlargelanguagemodels.It
 offersgenerativeAIproductsandservicesfor
 globalusersandenterprises.
-(cid:2)
+ 
 2 CompanyB U.S. AnunlistedAI-basedcontentcreationcompany 55-80 10.3%
 foundedin2021andheadquarteredinAustin,
 Texas.ItoffersAItextgenerativeplatforms
@@ -5399,7 +5399,7 @@ foundedin2021andheadquarteredinSan
 Francisco,California.ItoffersAIarts
 generatorsforcreatingimageswith
 self-developedlargelanguagemodels.
-(cid:2)
+ 
 4 CompanyD U.S. AnunlistedAI-basedsoftwaredevelopment 20-50 5.3%
 companyfoundedin2017andheadquartered
 inSanFrancisco,California.Itfocuseson
@@ -5413,7 +5413,7 @@ INDUSTRY OVERVIEW
 Revenue(2) Self-developed
 (USDmillion, largelanguage
 Ranking Company Country Description 2022) MarketShare(3) models(4)
-(cid:2)
+ 
 5 CompanyE U.K. AnunlistedAI-basedcontentcreationprovider 20-30 3.8%
 foundedin2017andheadquarteredin
 London.Itfocusonscalablevideo
@@ -5424,7 +5424,7 @@ foundedin2020andheadquarteredin
 London.Itoffersself-developedlarge
 languagemodelsandfocusesonimage
 generation.
-(cid:2)
+ 
 7 CompanyG U.S. AnunlistedAI-basedcontentcreationcompany 5-15 1.5%
 foundedin2020andheadquarteredin
 Memphis,Tennessee.Itfocusesontext
@@ -5432,7 +5432,7 @@ generationandoffersAI-poweredcopywriting
 platformsforbusinesscustomers.
 8 OurGroup China Pleasereferto“Business—Whoweare”in 5.7 0.9%
 thisprospectus.
-(cid:2)
+ 
 9 CompanyH U.S. AnunlistedAI-basedcontentcreationcompany 3-5 0.6%
 foundedin2020andheadquarteredinSan
 Francisco,California.ItoffersAI-powered
@@ -5456,7 +5456,7 @@ Source: CIC
 
 === PAGE 151 ===
 INDUSTRY OVERVIEW
-(cid:129) Competitive landscape of the AIGC market in China
+ Competitive landscape of the AIGC market in China
 As of the Latest Practicable Date, there were over 300 large language models in training or
 testing phases that had been launched in China. According to CIC, the AIGC market in China is
 relatively fragmented with the leading five market participants accounting for a share of
@@ -5487,7 +5487,7 @@ andAI.Itoffers
 self-developedlarge
 languagemodeland
 generativeAIproducts.
-(cid:2) (cid:2)
+ 
 3 CompanyK Alistedsoftwaresolution 5 Image,Video 5.1 1.2%
 providerfoundedin2003
 andheadquarteredin
@@ -5504,7 +5504,7 @@ Thenumberof Thecategoryof Self-developed
 commercialized commercialized voicestyle Self-developed Revenue(4)
 AIGC modalitiesof transfer largelanguage (RMBmillion,
 Ranking Company Description applications(2) AIGC(2) technology(3) models 2022) MarketShare
-(cid:2)
+ 
 4 CompanyS Anunlistedsmartsolution 2 Text,Image 2.0 0.5%
 providerfoundedin2009
 andheadquarteredin
@@ -5512,7 +5512,7 @@ Shanghai.Itoffers
 applicationsoftware
 productsbasedonAI
 technology.
-(cid:2)
+ 
 5 CompanyT AnunlistedAI-basedcontent 1 Text 1.5 0.3%
 creationcompanyfounded
 in2021andheadquartered
@@ -5530,12 +5530,12 @@ possess that style.
 competitors’ revenue is estimated based on CIC’s internal database and market research.
 Source: CIC
 Future trends of the AIGC industry
-(cid:129) Continuous enhancement of AGI capabilities
+ Continuous enhancement of AGI capabilities
 With the rapid iteration of the large language model, AIGC is expected to act as an AI
 CoPilot, that can penetrate various application scenarios and expand to all industry verticals by
 completing particular skills to all-around problem-solving abilities, indicating strong universal AGI
 technology capability.
-(cid:129) Improvement of cost efficiency of content creation
+ Improvement of cost efficiency of content creation
 AI technology advancements can fundamentally reshape the content creation industry. The
 AIGC solution will significantly facilitate content creators to improve content quality and cost
 efficiency in content generating, enlarge content diversity, and maximize creativity value, bringing
@@ -5544,12 +5544,12 @@ significant value to the development of the content creation industry.
 
 === PAGE 153 ===
 INDUSTRY OVERVIEW
-(cid:129) Building-up forerunning advantages
+ Building-up forerunning advantages
 Generative AI algorithms require enormous data to solve tasks and optimize models, which is
 completed through training on large amounts of high-quality datasets. Therefore, early entrants in
 the market can continuously upgrade their models to stay ahead of competitors and build up
 forerunning advantages.
-(cid:129) Extension of AI market boundary
+ Extension of AI market boundary
 AIGC will significantly drive the AI technology industry to develop rapidly and expand the
 AI market boundary, by generating new application scenarios and business models.
 OVERVIEW OF AI-EMPOWERED HARDWARE SOLUTION MARKET
@@ -5665,11 +5665,11 @@ Source: CIC
 === PAGE 156 ===
 INDUSTRY OVERVIEW
 Future trends of the AI-empowered hardware solution market
-(cid:129) Enhanced software-hardware synergy
+ Enhanced software-hardware synergy
 The hardware will become more adaptive to algorithms designated for different application
 scenarios, which facilities a synergistic software-hardware integration and thus ensuring a
 streamlined and seamless user experience across different AI-empowered hardware.
-(cid:129) Improved interaction based on AGI models
+ Improved interaction based on AGI models
 By leveraging cutting-edge AI technologies, AI-empowered hardware solutions will be
 propelled towards the era of AGI with more generalized ability to realize deeper human-machine
 interaction. The AI-empowered hardware solutions will become more sensible in perceiving
@@ -5677,16 +5677,16 @@ different environments and tasks, and interact with the device owner in brand ne
 AI-empowered hardware solution products with high-frequency usage like smart watches will
 become the main industry growth driver.
 Entry barriers and key success factors in the AI-empowered hardware solution market
-(cid:129) Well-established brand recognition
+ Well-established brand recognition
 Major players with years of operation in the industry have established good brand
 recognition. With many players in the AI-empowered hardware solution market, well-established
 brand recognition is vital for players to accumulate abundant client resources and maintain a
 competitive position.
-(cid:129) Stabilized supply chain
+ Stabilized supply chain
 A stabilized supply chain ensures the stability of the manufacturing process and business
 operations. At the same time, upstream supplier resources determine the quality and pricing of
 AI-empowered hardware products, which are the key elements to attract consumers.
-(cid:129) Established distribution channel
+ Established distribution channel
 The distribution channels of AI-empowered hardware largely determine the sales volume and
 consumer experience, among which the sales of smart wearables such as smart watches are
 particularly dependent on the construction of distribution channels. It is difficult for new entrants
@@ -6183,21 +6183,21 @@ subject to substantial uncertainty.
 According to the Draft Regulation, data processors who use networks to carry out data
 processing activities shall be subject to the Draft Regulation. As a data processor, we are required
 to perform the following obligations after the Draft Regulation is formally adopted:
-(cid:129) to establish and improve the data security management system and technical protection
+ to establish and improve the data security management system and technical protection
 mechanism in accordance with the provisions of relevant laws and regulations;
-(cid:129) to conduct data processing activities in a manner that respects social morality and ethics
+ to conduct data processing activities in a manner that respects social morality and ethics
 and does not contravene prohibitions stipulated in the Draft Regulation or other laws
 and regulations;
-(cid:129) to comply with the requirements of the cybersecurity classified protection system;
-(cid:129) to establish emergency response mechanisms for cyber security and data security, data
+ to comply with the requirements of the cybersecurity classified protection system;
+ to establish emergency response mechanisms for cyber security and data security, data
 security complaint and reporting channels and other relevant measures;
-(cid:129) to acquire personal information with authorization and to preserve relevant evidence for
+ to acquire personal information with authorization and to preserve relevant evidence for
 data collection, especially user consent; and
 – 159 –
 
 === PAGE 170 ===
 REGULATORY OVERVIEW
-(cid:129) to establish protocols to process personal information with clear and reasonable
+ to establish protocols to process personal information with clear and reasonable
 purposes and follow the principles of legality, rightfulness and necessity.
 We have adopted the Data Security Management System and relevant measures required by
 the Draft Regulation and other relevant laws and regulations.
@@ -9007,12 +9007,12 @@ world. As of the Latest Practicable Date, we had attracted approximately 865,000
 paying users for our AIGC solutions and achieved over one million payments since the launch of
 the solutions. As of the Latest Practicable Date, we had built our AIGC solution matrix enabling
 content creators to achieve efficient content generation:
-(cid:129) AI voiceover assistant: “Moyin Workshop” — provides high-quality AI voiceover
+ AI voiceover assistant: “Moyin Workshop” — provides high-quality AI voiceover
 solutions, serving millions of users, especially video creators, worldwide as of the
 Latest Practicable Date.
-(cid:129) AI writing assistant: “Mozhuan Writing” and “Qi Miao Wen”(Note 4) — offer
+ AI writing assistant: “Mozhuan Writing” and “Qi Miao Wen”(Note 4) — offer
 distinguished AI written content generation solutions.
-(cid:129) AI avatar: “Weta365” — provides AI video generation and virtual live streaming
+ AI avatar: “Weta365” — provides AI video generation and virtual live streaming
 solutions.
 Note:
 4. After the launch of “Qi MiaoWen”, content creators will gradually be guided from “MozhuanWriting” to “Qi Miao
@@ -9023,13 +9023,13 @@ timeframe or any anticipated schedule for the replacement as of the Latest Pract
 
 === PAGE 235 ===
 BUSINESS
-(cid:129) Integrated solutions: “DupDub” — provides high-quality AI voiceover solutions,
+ Integrated solutions: “DupDub” — provides high-quality AI voiceover solutions,
 distinguished AI written content generation solutions and AI Avatar generation.
 To enterprises:
 Leveraging our strong software-hardware integration capability and voice interaction
 technologies, we are able to customize AI Software Solutions for enterprises from automotive,
 finance, TMT and others such as healthcare and retail industries, for instance:
-(cid:129) AI voice interaction solutions: With comprehensive interaction as foundation, we offer
+ AI voice interaction solutions: With comprehensive interaction as foundation, we offer
 humanized and intelligent AI voice interaction solutions to various industries including
 automotive and finance industry. Software solutions include voice-interacted in-car
 control which help achieve phone call answering, navigation, weather checking, hotel
@@ -9037,7 +9037,7 @@ booking functions, through default or personalized hot words, and AI anti-fraud 
 to the enterprises we serve to prevent theft and falsification. Additionally, enterprise
 solutions may also be provided to enterprises with AI software-embedded hardware to
 further cater to the highly customized demand of the enterprises we serve.
-(cid:129) Intelligent customer service solutions: We apply intelligent voice interaction
+ Intelligent customer service solutions: We apply intelligent voice interaction
 technologies into customer service scenarios to reduce costs and increase operating
 efficiency. For instance, our intelligent customer service solutions can perform AI
 customer service, make callbacks, and provide humanoid responses.
@@ -9085,9 +9085,9 @@ smart treadmill — Mobvoi Home Treadmill Incline. We have gradually applied adv
 technology in three major human-machine interaction life scenarios of “wearable, automotive and
 smart homes” through software-hardware integrated devices. Our relevant smart devices can be
 interconnected by our personal virtual assistant — “Xiaowen”:
-(cid:129) User experience: Our TicWatch series have been highly recognized with numerous
+ User experience: Our TicWatch series have been highly recognized with numerous
 international awards.
-(cid:129) Strategic cooperation: We have established in-depth strategic cooperation with a
+ Strategic cooperation: We have established in-depth strategic cooperation with a
 world-leading multinational technology company focusing on search engine technology
 and a multinational technology corporation that creates semiconductors, software, and
 services related to wireless technology. Benefiting from the long-term cooperation on
@@ -9098,7 +9098,7 @@ BUSINESS
 multiple projects, we have effectively improved our technological and solution
 capabilities. As a result, we have developed and maintained a pre-eminent research and
 development team.
-(cid:129) Design and algorithms: Our sport, health algorithms and sensors feed the
+ Design and algorithms: Our sport, health algorithms and sensors feed the
 human-machine interaction to the relative technology modules to achieve constant
 optimization and efficient iteration. Our iconic “dual-screen and dual-system” design
 resolves the two major pain points of smart watches: low battery life and low visibility
@@ -9181,19 +9181,19 @@ capabilities.
 Leveraging our experiences accumulated in the past, we have possessed four vertical modules
 consisting of image, language, dialogue and voice modules through our robust research and
 technological capabilities:
-(cid:129) The image module possesses image recognition and generation capabilities. By using
+ The image module possesses image recognition and generation capabilities. By using
 this module which can accurately analyze the existing images, users can generate
 high-quality and diverse images;
-(cid:129) The language module possesses language understanding and generation capabilities,
+ The language module possesses language understanding and generation capabilities,
 allowing in-depth analysis and processing of natural language, and is capable of
 understanding and processing various linguistic expressions quickly and accurately. In
 addition, it can also generate high-quality text content on demand, such as, dialogue
 responses, story composition and advertising scripts;
-(cid:129) The dialogue module enables users to enhance the flow of human-machine
+ The dialogue module enables users to enhance the flow of human-machine
 conversations, and effectively improves the efficiency and accuracy of conversations. It
 also allows multiple rounds of conversations and intelligently adjusts the response
 strategies based on users’ feedback and needs; and
-(cid:129) The voice module possesses superior speech-to-text and text-to-speech capabilities,
+ The voice module possesses superior speech-to-text and text-to-speech capabilities,
 providing highly accurate speech recognition and natural speech synthesis. It supports
 multiple deployment measures including cloud and embedded deployment. With the
 advantage of low latency, our voice module brings users a faster response experience. It
@@ -9212,20 +9212,20 @@ elevate the overall user experience through seamless integration of AI-empowered
 including image, language, dialogue and voice modules. It is an application built upon large
 language models to optimize and elevate users’ efficiency and experience.
 We are one of the market players to launch all-in-one AIGC platform early in the industry.
-(cid:129) Based on our in-depth understanding of content creation processes, we are one of the market
+ Based on our in-depth understanding of content creation processes, we are one of the market
 players to launch AIGC creator-oriented solutions early in the industry to promote the content
 creator economy with the application of AI technologies.
-(cid:129) Our long-term endeavors in AI solutions and technologies enable us to develop AIGC
+ Our long-term endeavors in AI solutions and technologies enable us to develop AIGC
 solutions through our modularized technologies and strategically design our solutions
 effectively. As a result, we have developed an all-in-one AIGC platform, providing distinctive
 user experiences.
-(cid:129) Our self-developed and middleware-based algorithm architecture system provides great
+ Our self-developed and middleware-based algorithm architecture system provides great
 flexibility for the design and development of our solutions. This enables us to efficiently
 integrate various capabilities of our universal AI platform and to rapidly develop new
 solutions on application level.
 Our well-developed enterprise solutions serve various industry verticals and enable
 multi-scenario interaction experience.
-(cid:129) We provide enterprises with language interaction experiences and noise reduction algorithms,
+ We provide enterprises with language interaction experiences and noise reduction algorithms,
 in different industries such as automotive, finance, TMT and others such as healthcare and
 retail industries. Empowered by AIGC solutions features, we can deliver exclusive and
 high-quality API voice services or integrated AI avatar services to enterprises. We are also
@@ -9237,7 +9237,7 @@ enterprises’ highly customized demand for software-hardware integrated solutio
 BUSINESS
 We provide global consumers with software-hardware integrated Smart Devices and Other
 Accessories.
-(cid:129) Since our establishment, we have launched Smart Devices and Other Accessories, including
+ Since our establishment, we have launched Smart Devices and Other Accessories, including
 AI smart watch — TicWatch series and other AI-empowered hardware products and non-AI
 products, to the global market, and created a smart devices ecosystem which supports
 multi-scenario application. We believe smart watch is one of the most important smart
@@ -9351,7 +9351,7 @@ We will continuously improve and enrich our existing solution matrix by developi
 innovative solutions to meet the diverse and evolving needs of our users. The upgraded solutions
 are expected to empower content creators, enterprises and consumers by means of the following:
 To content creators — connecting the entire content creation process:
-(cid:129) Enhance features and functions: We plan to further enhance our AIGC content creator
+ Enhance features and functions: We plan to further enhance our AIGC content creator
 solutions, for instance “Moyin Workshop”, “DupDub”, “Mozhuan Writing”, “Weta365” and
 “Qi Miao Wen” in terms of comprehension, generation and transformation abilities, to
 empower content creators with further enhanced efficiency and conversion accuracy. We will
@@ -9360,13 +9360,13 @@ further develop new features and functions. As a result, our AIGC solutions is e
 become more adaptive to specific demands from content creators and thereby equipped us
 with the ability to assist content creators throughout the entire content creation process with
 our AIGC solutions.
-(cid:129) Streamline adaptability to multiple systems: We will strengthen the adaptability of our AIGC
+ Streamline adaptability to multiple systems: We will strengthen the adaptability of our AIGC
 solutions to multiple systems, such as Android, iOS, and mini-programs.
-(cid:129) Globalization: We will also enhance our ability of globalization, including continuously
+ Globalization: We will also enhance our ability of globalization, including continuously
 upgrading “DupDub” with our latest features and functions, and adopting different languages
 in our AIGC solutions.
 To enterprises — optimizing the capabilities of AI CoPilot in different application scenarios:
-(cid:129) Embrace the AGI era: AI CoPilot for enterprises has been meticulously tailored to meet their
+ Embrace the AGI era: AI CoPilot for enterprises has been meticulously tailored to meet their
 specific needs, empowering enterprises to enhance their existing repositories of data and
 product specifications. This enhancement significantly enhances the capabilities of our large
 language models, improving their responsiveness and competence in delivering informative
@@ -9379,7 +9379,7 @@ challenges in the AGI era.
 
 === PAGE 245 ===
 BUSINESS
-(cid:129) Expand industry verticals as well as application scenarios: Leveraging our “Sequence
+ Expand industry verticals as well as application scenarios: Leveraging our “Sequence
 Monkey”, a large language model with multi-model generative capability, we are capable of
 assisting enterprises in performing and completing tasks across multiple industry verticals.
 With our experiences accumulated from serving enterprises across multiple industry verticals
@@ -9388,11 +9388,11 @@ upgrade of automotive AI assistant and upgrade of bank intelligent customer serv
 dialogue compatibility. We aim to expand the scenarios to cover new industry verticals such
 as education and lifestyle, and to further promote AGI technology to all industry verticals.
 To consumers — continuous improvement of consumer smart devices:
-(cid:129) AI CoPilot technologies: We have equipped our Smart Devices and Other Accessories with AI
+ AI CoPilot technologies: We have equipped our Smart Devices and Other Accessories with AI
 CoPilot technologies and will continuously invest in the research and development of our
 human-machine interaction model, aiming to roll out a full-function AI personal virtual
 assistant which can communicate and interact with users without time or location limit.
-(cid:129) Software-hardware integration capabilities: Leveraging our accumulated software-hardware
+ Software-hardware integration capabilities: Leveraging our accumulated software-hardware
 integration capabilities, we will continue to develop new smart devices and accessories,
 particular focusing on the development of our TicWatch series.
 Continuous investment in research and development and optimize capabilities of our
@@ -10012,13 +10012,13 @@ compatible with major coding methods such as JAVA, Python2 and Python3.
 === PAGE 271 ===
 BUSINESS
 Such integration would provide benefits to our content creators through:
-(cid:129) Increased functionality with time and cost efficiency: Our solutions APIs can provide
+ Increased functionality with time and cost efficiency: Our solutions APIs can provide
 access to additional functionalities that may not be available natively on our content
 creators’ website or application. Rather than developing new functionality from scratch,
 integrating APIs can save time and cost by leveraging our mature and well-developed
 technologies in AIGC solutions. This can be particularly beneficial for small businesses
 or startup companies with limited resources.
-(cid:129) Scalability: Our solutions offered through APIs can increase the scalability of our
+ Scalability: Our solutions offered through APIs can increase the scalability of our
 client’s websites by increasing their traffic handling capability without compromising
 performance. By offloading certain tasks to our APIs, they can focus on delivering a
 better user experience without worrying about scalability issues.
@@ -10108,16 +10108,16 @@ as well as the cross-scenario connections between automotive and external networ
 === PAGE 274 ===
 BUSINESS
 Our intelligent automotive solutions offer key features as follows:
-(cid:129) Voice interaction functions. Underpinned by our proprietary AI-based language
+ Voice interaction functions. Underpinned by our proprietary AI-based language
 technologies, our intelligent automotive solutions can offer all mainstream voice
 interaction functions available in the market. For example, users can enjoy our
 intelligent automotive solutions, with auxiliary functions such as phone calls,
 navigation, air conditioning, and checking of weather, flights and hotels through default
 hot words and personalized hot words.
-(cid:129) Multiple languages and dialects. As of the Latest Practicable Date, our intelligent
+ Multiple languages and dialects. As of the Latest Practicable Date, our intelligent
 automotive solutions had supported four languages and dialects, including Mandarin,
 Cantonese, Taiwanese and Sichuan dialect.
-(cid:129) Accurate online and offline recognition. Our intelligent automotive solutions enable
+ Accurate online and offline recognition. Our intelligent automotive solutions enable
 both online and offline access. Our solutions can achieve at least 91% of accuracy rate
 of online ASR and at least 88% of offline ASR.
 Case Study
@@ -10144,19 +10144,19 @@ institutions that could lower their manpower consumption.
 === PAGE 275 ===
 BUSINESS
 Applications
-(cid:129) Fraud detection: Financial institutions can conduct multi-round dialogues with their
+ Fraud detection: Financial institutions can conduct multi-round dialogues with their
 customers based on a dynamic questionnaire and cross check responses provided on a rolling
 basis, thereby recognizing any inconspicuous deficiencies. This solution also features
 multi-modality biometric recognition technologies by employing a combination of face
 recognition, voiceprint recognition and micro-expression detection. Based on detection
 results, an evaluation report encompassing risk warnings and a risk conclusion will be
 generated on a real-time basis, and then sent back to financial institutions for reference.
-(cid:129) Intelligent contact center: Our solution understands human languages and detect human
+ Intelligent contact center: Our solution understands human languages and detect human
 intentions while conducting multi-round dialogues to generate the most favourable answers.
 Financial institutions can delegate simple functions, such as customer service and callback, to
 our solutions, as such they can deal with their end customers’ demands in an efficient
 manner.
-(cid:129) Meeting transcription: Our solution transcribes audio messages into text and displays the
+ Meeting transcription: Our solution transcribes audio messages into text and displays the
 converted text on screen in real-time. It also generates the converted text in Word document
 format for users’ records. The accuracy rate of the transcription exceeds 90%. Enterprises can
 save up manpower for taking notes in meeting and enjoy a smooth meeting with real-time
@@ -10218,7 +10218,7 @@ university and a PRC research institute. For details of our collaboration with T
 Corporation A, please refer to the paragraph headed “— Our Strategic Collaboration —
 Technology Corporation A” in this section.
 Application
-(cid:129) Embedding assisting functions such as schedule notifications and Bluetooth positioning onto
+ Embedding assisting functions such as schedule notifications and Bluetooth positioning onto
 smart watches
 Case Study
 Background. Our client is a worldwide renowned intelligent image technology provider,
@@ -10247,16 +10247,16 @@ provide users with a more accurate and practical guidances for exercise and heal
 === PAGE 278 ===
 BUSINESS
 Applications
-(cid:129) Performing monitoring functions on heart rate and respiration rate.
-(cid:129) Measuring number of floors climbed, distance walked over, HRV pressure and calories.
-(cid:129) Monitoring sleep habits with measuring and analysis functions of, for instance, respiration
+ Performing monitoring functions on heart rate and respiration rate.
+ Measuring number of floors climbed, distance walked over, HRV pressure and calories.
+ Monitoring sleep habits with measuring and analysis functions of, for instance, respiration
 rate, bedtime, sleeping stage, sleeping quality, degree of snoring and skin temperature during
 sleep.
-(cid:129) One-tap measurement of multiple health metrics, upgraded sleep tracking with premium
+ One-tap measurement of multiple health metrics, upgraded sleep tracking with premium
 membership and 24-hours continuous heart rate monitoring.
-(cid:129) Fitness tracking with more than one hundred workout modes, including open water
+ Fitness tracking with more than one hundred workout modes, including open water
 swimming, sailing, outdoor rock climbing and rugby.
-(cid:129) Additional ecosystem services, including Sports and Health Data Platform, TimeShow and
+ Additional ecosystem services, including Sports and Health Data Platform, TimeShow and
 Mobvoi Treadmill App, provide users with seamless and immersive experience.
 Case Study
 Background. Our client is a US company specializing in the R&D, manufacturing and sales of
@@ -10287,19 +10287,19 @@ enquiries through the customized multi-round dialogues.
 Channels Voice
 Applications
 recognition
-(cid:129) Phones Semantic Visual (cid:129) Marketingrobots
-understanding Management (cid:129) Customerservicerobots
-(cid:129) APPs Tool (cid:129) Shoppingguiderobots
+ Phones Semantic Visual Marketingrobots
+understanding Management Customerservicerobots
+ APPs Tool Shoppingguiderobots
 Voice
-(cid:129) Web
+ Web
 synthesis
 Applications
-(cid:129) Intelligent customer services and auxiliary functions: Leveraging the speech recognition
+ Intelligent customer services and auxiliary functions: Leveraging the speech recognition
 system, we are able to transcribe in real-time the conversation between the customer and the
 customer service personnel into text, analyze the semantics and keywords in the text, and
 integrate with that particular enterprise’s business systems and database, in order to provide
 the customer service personnel with real-time suggestions on appropriate answers.
-(cid:129) Intelligent telemarketing: The intelligent voice robot of the enterprises makes phone calls to
+ Intelligent telemarketing: The intelligent voice robot of the enterprises makes phone calls to
 its terminal customers, and conducts outbound call scenarios such as information notification
 or telemarketing in the form of voice interaction, including contract return visit, marketing
 activity notification, sales willingness survey and bill return notification.
@@ -10355,7 +10355,7 @@ The Relevant IPs were self-developed by our Group.
 BUSINESS
 Milestones and payment Our Group shall deliver to Automotive Sub A three batches
 arrangement of deliverables:
-(cid:129) the first batch of deliverables included software
+ the first batch of deliverables included software
 development kit, descriptions of technology and
 functions through training sessions provided by our
 Group to employees of Automotive Sub A, and
@@ -10363,14 +10363,14 @@ transfer agreements for co-ownership of the Relevant
 IPs, which shall be delivered by our Group by
 November 2021 for the first payment in the sum of
 US$15 million;
-(cid:129) the second batch of deliverables included the
+ the second batch of deliverables included the
 co-ownership certificates of certain Relevant IPs,
 source code and documentation in relation to the
 backend technology, know-how, training materials and
 domain name replacement, which shall be delivered
 by our Group by December 2021 for the second
 payment in the sum of US$18.5 million; and
-(cid:129) the final batch of deliverables included co-ownership
+ the final batch of deliverables included co-ownership
 certificates of the remaining Relevant IPs and
 handover of the backend technology which shall be
 delivered by our Group by June 2023 for the final
@@ -10694,7 +10694,7 @@ power consumption yet with powerful computing power, providing a solid foundatio
 modules and software apps. In turn, the optimized integration of our hardware components and our
 advanced AI modules and software apps could provide the end users of our TicWatches with
 astonishing user experiences.
-(cid:129) AI modules for TicWatch: Our TicWatch is preloaded with a suite of AI modules
+ AI modules for TicWatch: Our TicWatch is preloaded with a suite of AI modules
 including Voice Assistant, Voice Memo and TicMotion. While all the AI modules share
 the similar algorithms and backend as in other verticals, they might use various sensor
 specific to the smart watch to provide special features. Those sensors can (i) monitor on
@@ -10737,7 +10737,7 @@ wake-up word.
 
 === PAGE 293 ===
 BUSINESS
-(cid:129) APPs for TicWatches: As TicWatch is either based on Android OS or iOS, a user can
+ APPs for TicWatches: As TicWatch is either based on Android OS or iOS, a user can
 download the “Ticwear” app from Appstore and connect their watches to phone device,
 and download apps from app stores and run them on TicWatch. This greatly enriches the
 application scenarios of TicWatch as any third-party developer can develop an App for
@@ -10837,7 +10837,7 @@ design platform.
 
 === PAGE 296 ===
 BUSINESS
-(cid:129) Hardware for TicWatch: In TicWatch, major hardware components include, among
+ Hardware for TicWatch: In TicWatch, major hardware components include, among
 others, chipset platforms, wireless/GPS transceivers, sensors, display screens, audio
 receivers, antennae, and batteries. We design mechanics carefully to integrate these
 components altogether to offer a consumer-standard product to our end customers. We
@@ -10875,14 +10875,14 @@ Mobvoi brand. As of the Latest Practicable Date, we had launched three generatio
 Treadmill with five SKUs in total for consumers.
 Home Treadmill is a product that requires jointly optimizing software and hardware in order
 to provide the best user experience:
-(cid:129) Hardware for Home Treadmill: Home Treadmill has five-layered, water-resistant and
+ Hardware for Home Treadmill: Home Treadmill has five-layered, water-resistant and
 anti-slip running belt which helps absorbing shock and pressure on the joints of the
 users during the workout. Equipped with remote control, the users can adjust the speed
 to change the workout mode from running to jogging instantly. Through the LED
 console, the users can view their performance via real-time feedback on their workout
 time, speed, distance and calories burnt. The Home Treadmill also has a special design
 which allows users to fine tune the treadmill incline up to 15 degree from the ground.
-(cid:129) Software for Home Treadmill Mobvoi Treadmill App: Home Treadmill is compatible
+ Software for Home Treadmill Mobvoi Treadmill App: Home Treadmill is compatible
 with the Mobvoi Treadmill App on smartwatches (including TicWatch), allowing users
 to connect the treadmill with smart watches to enjoy real-time synchronization of live
 workout data. In pairing up the smart watches with the treadmill, the users cannot only
@@ -12632,7 +12632,7 @@ We strive to (i) retain the core group of loyal and paying users in our solution
 paying user in our new pipelines with our gradually advanced technologies and solutions. To
 further enhance our monetization potential, we will continue to pursue a healthy and high-quality
 user growth and retain and attract more users through various measures. These measures include:
-(cid:129) Launching new features and functionalities with regard to our AIGC solution matrix
+ Launching new features and functionalities with regard to our AIGC solution matrix
 We will continue to develop and enrich features and functions for AI-generated content and
 video built-in in our AIGC platforms designated for content creators, as well as to expand the
 variety of application scenarios. With our robust research and development capabilities, we will
@@ -12676,7 +12676,7 @@ professional video editing enterprises.
 
 === PAGE 349 ===
 BUSINESS
-(cid:129) Upgrading our underlying technologies in relation to our multi-modal large language model,
+ Upgrading our underlying technologies in relation to our multi-modal large language model,
 “Sequence Monkey”
 We plan to continue upgrading our multi-modal large language model, “Sequence Monkey”,
 to enhance its AI development capabilities by (i) collecting and curating additional training data to
@@ -12693,7 +12693,7 @@ generation, text generation, action generation, 3D motion generation and video g
 believe our robust AI infrastructure does support the constant advancement of “Sequence
 Monkey”, helping us stay at the forefront of technological advancement and deliver innovative AI
 solutions with strong performance.
-(cid:129) Implementing monetization marketing and promotion strategies
+ Implementing monetization marketing and promotion strategies
 We will start to expand and diversify our revenue streams by a series of marketing efforts.
 We also plan to invite KOLs to help advertise our solutions domestically, and implement
 promotion and marketing strategies on social medias and e-commerce platforms in China, such as
@@ -13047,14 +13047,14 @@ model with multi-modal generative capability, “Sequence Monkey”, by enhancin
 computing power to increase its scale, versatility, and computational accuracy. Nevertheless, we
 believe that our R&D expenses will generally decrease as a percentage of total revenue in the long
 run due to the following factors:
-(cid:129) we expect to have stronger bargaining power against our suppliers for outsourced
+ we expect to have stronger bargaining power against our suppliers for outsourced
 research and development services as we scale up, and are thus able to obtain more
 favorable pricing terms;
 – 348 –
 
 === PAGE 359 ===
 BUSINESS
-(cid:129) leveraging our large language model’s capabilities accumulated in the AI industry, we
+ leveraging our large language model’s capabilities accumulated in the AI industry, we
 believe we are able to consolidate various industry data and marketing information from
 time to time, including customers’ preferences and terminologies and case studies from
 different industries. Further, we will also acquire more comprehensive market data from
@@ -13062,7 +13062,7 @@ various industry research groups to strengthen our data analytical capabilities.
 the above processes, we believe we are capable of possessing and accumulating market
 intelligence, and are well-positioned to provide more comprehensive and cost-efficient
 AI research and development services to our end users; and
-(cid:129) we plan to continuously upgrade, iterate and optimize our “Sequence Monkey”, a
+ we plan to continuously upgrade, iterate and optimize our “Sequence Monkey”, a
 multi-modal large language model, to improve the capabilities of our AIGC solutions,
 and thereby to better adapt to user needs, as disclosed in the below paragraph.
 In the future, we will continue to invest resources in our R&D capabilities in a cost-effective
@@ -13092,20 +13092,20 @@ BUSINESS
 We expect that our sales and marketing expenses and the proportion of sales and marketing
 expenses to our total revenue will increase in the short term and the latter will generally decrease
 in the long term, due to the following factors:
-(cid:129) we expect our selling and marketing expenses will decrease in the long run as the
+ we expect our selling and marketing expenses will decrease in the long run as the
 segment of our AIGC solutions was in its early stage of explosive revenue growth and
 thus needed more marketing and advertising efforts to educate market and early adopters
 during the Track Record Period;
-(cid:129) we will constantly monitor the sales and marketing performance of our personnel to
+ we will constantly monitor the sales and marketing performance of our personnel to
 ensure they are complying with our cost control measures; and our management will
 also from time to time communicate with them on their experience of cost control;
-(cid:129) we expect to accumulate a larger user base and higher user stickiness as we
+ we expect to accumulate a larger user base and higher user stickiness as we
 continuously solidify our market position. We expect this will enable us to attract and
 retain users and, in the long-term, reduce spending on promotions and advertisements.
 Our ability to accumulate a larger user base is evidenced by the rapid increase in the
 number of our paying users from approximately 1,000 in 2020 to approximately 410,000
 in 2023; and
-(cid:129) we expect that, as we are currently in an expansion phase, significant investment in
+ we expect that, as we are currently in an expansion phase, significant investment in
 sales and marketing expenses is required to seize market share in the short run.
 Additionally, we are more inclined to offer terms favorable to our partners during this
 phase. When our market position becomes more established, we will shift our focus
@@ -13235,14 +13235,14 @@ Although we are not subject to material environmental or climate-related risks, 
 dedicated to put in efforts towards environmental protection through implementing a number of
 policies to reduce energy consumption. As such, we implemented the following measures in the
 course of our business operations:
-(cid:129) save water at washroom and tea room;
-(cid:129) we encourage our employees to practice “paperless working” by using digital working
+ save water at washroom and tea room;
+ we encourage our employees to practice “paperless working” by using digital working
 means as much as possible;
-(cid:129) we keep indoor air-conditioning temperature at 25ºC during summer;
-(cid:129) we purchase and use energy-saving equipment such as LED lightbulbs in all offices;
-(cid:129) our administrative staffs perform regular check in our office daily and turn off lights for
+ we keep indoor air-conditioning temperature at 25ºC during summer;
+ we purchase and use energy-saving equipment such as LED lightbulbs in all offices;
+ our administrative staffs perform regular check in our office daily and turn off lights for
 unused conference rooms or working areas; and
-(cid:129) we post reminders or memos to our employees in appropriate office settings to
+ we post reminders or memos to our employees in appropriate office settings to
 encourage employees to act environmental-responsibly.
 We keep track of our energy consumption as a mean to evaluate the effectiveness of our
 environmental protection measures. We will continue to monitor our energy consumption in order
@@ -13420,7 +13420,7 @@ Group’s financial performance during the Track Record Period.
 Voice-enabled end-to-end language technologies
 For years, we have devoted ourselves to the research and development of language
 technologies covering the entire lifecycle of voice interaction, encompassing:
-(cid:129) DSP (Digital signal processing). Voice signals will be digitalized by specific convertors
+ DSP (Digital signal processing). Voice signals will be digitalized by specific convertors
 and then delivered to digital signal processors for further processing, including voice
 localization, directional capture, signal enhancement, beamforming, echo cancellation,
 echo residual suppression, noise reduction and dereverberation. By directionally
@@ -13431,30 +13431,30 @@ with high quality for subsequent procedures.
 
 === PAGE 370 ===
 BUSINESS
-(cid:129) Hot words triggering. Capture hot words and trigger devices through long-term
+ Hot words triggering. Capture hot words and trigger devices through long-term
 monitoring. We have developed a precise hot-word trigger system with ultra-low power
 consumption in order to adapt to digital signal processors, micro control units or
 low-end central processing units.
-(cid:129) ASR. ASR technologies convert voice into text. Focusing on semantic analysis, ASR
+ ASR. ASR technologies convert voice into text. Focusing on semantic analysis, ASR
 technologies are typically used for transcription, translation, text extraction and
 automatic axis printing. In addition, ASR also serves as the training framework for
 WeNet.
-(cid:129) NLU (Natural language understanding). The main function of the NLU module is to
+ NLU (Natural language understanding). The main function of the NLU module is to
 map the user’s natural language input into the user’s intention and the corresponding
 slot value. Our NLU technologies can accomplish a broad range of functions including
 intention recognition, slot filling, domain classification and normalization.
-(cid:129) NLG (Natural language generation). NLG technologies convert computerized data into
+ NLG (Natural language generation). NLG technologies convert computerized data into
 natural language that is grammatically correct and fluent. Relying on end-to-end deep
 neural network technologies, our NLG technologies can generate multiple languages and
 dialects including Mandarin, Cantonese and English, and offer a variety of
 pronunciations as well as tones.
-(cid:129) Dialogue management. Dialogue management technologies comprise dialogue modeling
+ Dialogue management. Dialogue management technologies comprise dialogue modeling
 technologies, whereby dialogue status can be closely tracked, and dialogue control
 technologies, whereby the next actions can be determined. Our dialogue management
 technologies support multi-round human-machine dialogues in various scenarios, such as
 task-based scenario, Q&A-based scenario, and chat-based scenario, and enable a free
 and seamless switch across such scenarios.
-(cid:129) TTS (Text-to-speech). TTS technologies convert text into a natural voice. Our TTS
+ TTS (Text-to-speech). TTS technologies convert text into a natural voice. Our TTS
 technologies support both monolingual and multilingual outputs, with appropriate
 emotion infused. Evidenced by MOS scores of over 4.2 in various scenarios, we are
 capable to deliver quality voice outputs. MeetHiFiVoice, the Mobvoi End-to-end TTS
@@ -13466,20 +13466,20 @@ low latency.
 BUSINESS
 While developing the above AI technologies, we continuously focus on optimizing the
 following aspects:
-(cid:129) Minimize end-to-end response time
+ Minimize end-to-end response time
 We have achieved near real-time voice search experience through the proprietary
 integrated and individualized optimization of the end-to-end pipeline, including ASR, NLU
 and TTS. We also developed a comprehensive end-to-end latency monitoring and tracking
 system for performance evaluation that allows constantly optimizing the end-to-end response
 time to improve users’ satisfaction rate.
-(cid:129) Optimize end-to-end search quality
+ Optimize end-to-end search quality
 User experience depends directly on the end-to-end search quality that measures the
 percentage of customer satisfaction in user queries. Our dedicated search quality team
 conducts voice search satisfaction surveys periodically to continuously improve search
 quality by fixing bugs and adopting new technologies. To better serve user’s broad range of
 queries, we have also connected with over 100 content/service providers who could provide
 information including weather, hotel, flight, train, restaurant, music.
-(cid:129) Optimize for flexibility in extending to new domains and languages
+ Optimize for flexibility in extending to new domains and languages
 We have developed a pipeline-based language processing engine with numerous building
 modules. It is easy to compose these modules dynamically to form an end-to-end solution
 that satisfies the specific needs of a new application domain. Moreover, the modules are
@@ -13487,7 +13487,7 @@ mostly language independent, so extending our language processing engine to a ne
 involves mainly pre- and post-processing of the input/output data, but not modifying
 intermediate modules. We also provide visualization tools for non-engineers to easily
 configure, test, debug, and bugfix the system.
-(cid:129) Optimize the embedded platforms
+ Optimize the embedded platforms
 While our algorithms can run efficiently in the cloud, they have also been ported and
 highly optimized to run in many embedded platforms. We have spent tremendous research
 and engineering efforts, including but not limited to optimized data structure,
@@ -13508,7 +13508,7 @@ hardware capabilities. We continually update our technologies to achieve the fol
 themes of design considerations.
 Our AI-empowered technologies involved in our Smart Devices and Other Accessories are
 self-developed and owned by our Group.
-(cid:129) Optimize for AI integration
+ Optimize for AI integration
 Our Smart Devices and Other Accessories are usually preloaded with our own AI
 modules, such as voice assistant and TicMotion. To support these computationally heavy AI
 algorithms with the limited resources on our Smart Devices and Other Accessories, we ported
@@ -13520,7 +13520,7 @@ run on-demand on the resource-rich but high-power-consuming chipsets. In additio
 efficiently support the voice assistant, we developed a proprietary Bluetooth protocol (instead
 of the common HFP protocol) to minimize the latency between wearables and their connected
 Mobile phone.
-(cid:129) Digital health enabling technologies
+ Digital health enabling technologies
 We believe that digital health is the next wave of technology innovation; therefore, we
 have been continuously investing in this area and built up our technology niche in health
 wearables. Heart rate is one of the most important vital signals. We developed our own heart
@@ -13534,7 +13534,7 @@ Variability) for stress monitoring, breath rate measurement and sleep tracking.
 
 === PAGE 373 ===
 BUSINESS
-(cid:129) Minimize power consumption
+ Minimize power consumption
 Efficient power consumption of AI smart devices is vital to customer satisfaction. It is a
 known obstacle to wearables due to their thin and slim appearance, which limits the battery
 size and hence capacity. To overcome the challenge of offering long battery life on small
@@ -13553,7 +13553,7 @@ switch between the two displays and their related “modes” allows the users t
 unprecedented battery life and control over their battery usage. We developed a smart
 algorithm that supports seamlessly automatic switching between the two display modes when
 needed, namely the Smart Mode and Essential Mode.
-(cid:129) 2G/3G/4G related technologies for independent usage scenarios of smart watches
+ 2G/3G/4G related technologies for independent usage scenarios of smart watches
 A growing usage need for smart watches is to be independent of a mobile phone or even
 partly replace it in many usage scenarios. It then demands smart watches constantly
 connected with the cellular network. We have accumulated extensive experiences in cellular
@@ -13692,22 +13692,22 @@ BUSINESS
 Our Group has also adopted a comprehensive set of internal control measures with an aim to
 protect our intellectual property rights and to avoid infringement of third-party’s intellectual
 property rights, including the following:
-(cid:129) we have adopted policies such as “Intellectual Property’s Legal Dispute Handling
+ we have adopted policies such as “Intellectual Property’s Legal Dispute Handling
 Control System” 《( 知識產權法律糾紛處理控制制度》), “Intellectual Property’s Risk
 Control System” 《( 知識產權風險管控制度》), “Intellectual Property Maintenance
 Management System” 《( 知識產權維護管理制度》) and “Intellectual Property
 Application Management System” 《( 知識產權申請管理制度》);
-(cid:129) the intellectual property department of our Group (“ IP Department”) perform searches
+ the intellectual property department of our Group (“ IP Department”) perform searches
 and analysis on related intellectual property rights to make sure our intellectual property
 rights will not be challenged or being registered by third parties;
-(cid:129) our IP Department files trademarks and patents with the relevant authorities to ensure
+ our IP Department files trademarks and patents with the relevant authorities to ensure
 we are authorized to use the relevant intellectual property. Our IP Department would
 from time to time monitor the registration of trademarks and the related legal documents
 so as to ensure the validity of our intellectual property rights;
-(cid:129) in case of any suspected infringement of third-party’s intellectual property rights, our IP
+ in case of any suspected infringement of third-party’s intellectual property rights, our IP
 Department shall immediately seek advice from our legal department and our external
 legal adviser from time to time, as and when needed to avoid any infringement;
-(cid:129) during the selection process of our suppliers and business partners, through a
+ during the selection process of our suppliers and business partners, through a
 combination of due diligence and independent investigation by our Group, we strictly
 assess whether or not the suppliers and/or business partners have legal intellectual
 property rights or licensed rights over the products they supply and/or provide, in order
@@ -13715,7 +13715,7 @@ to mitigate the risk of exposing our Group to any intellectual property infringe
 claims of components sourced from third parties. We also require both our suppliers and
 business partners to avoid infringement of intellectual property rights of other third
 parties; and
-(cid:129) in case of any updates of intellectual property’s regulations, our IP Department will
+ in case of any updates of intellectual property’s regulations, our IP Department will
 provide trainings to relevant personnels so as to ensure they are working in compliance
 with the latest intellectual property’s regulations.
 Our Group has engaged the Internal Control Consultant to perform a review over selected
@@ -14019,7 +14019,7 @@ example only the security administrators can access archived data. Our database 
 isolated among different business lines.
 We process customer data for (i) provision of real-time data processing services; and (ii)
 development of AI models:
-(cid:129) (i) Provision of real-time data processing services: We process data from our
+ (i) Provision of real-time data processing services: We process data from our
 customers, which involve their end users’ data containing personal information, in the
 course of providing real-time data processing services. The personal information we
 – 375 –
@@ -14029,7 +14029,7 @@ BUSINESS
 may collect includes: (i) contact information (such as name, mobile phone number,
 delivery address and profile photo); (ii) biometrics information; (iii) location
 information; (iv) search and browse records; and (v) conversation records.
-(cid:129) (ii) Development of AI models: We do not have ownership over the data from our
+ (ii) Development of AI models: We do not have ownership over the data from our
 customers and only process such data on an as-needed basis to fulfill the purposes of
 development of our AI models. We will only use users’ data for training our models in
 the case of a customized AI development contract that is concluded between a specific
@@ -15013,46 +15013,46 @@ and Mr. Yang Zhe. The chairperson of the Audit Committee is Mr. Chen Yilyu, bein
 independent non-executive Director with the appropriate professional accounting or related
 financial management expertise required under Rule 3.10(2) of the Listing Rules. The primary
 duties of the Audit Committee include, among others:
-(cid:129) reviewing our compliance, accounting policies and financial reporting procedures;
-(cid:129) supervising the implementation of our internal audit system;
-(cid:129) advising on the appointment or replacement of external auditors;
-(cid:129) liaising between our internal audit department and external auditors; and
-(cid:129) other responsibilities as authorized by our Board.
+ reviewing our compliance, accounting policies and financial reporting procedures;
+ supervising the implementation of our internal audit system;
+ advising on the appointment or replacement of external auditors;
+ liaising between our internal audit department and external auditors; and
+ other responsibilities as authorized by our Board.
 Remuneration Committee
 Our Company has established the Remuneration Committee with written terms of reference in
 compliance with Rule 3.25 of the Listing Rules and paragraph E.1 of the Corporate Governance
 Code. The Remuneration Committee consists of three Directors, being Prof. Lu Yuanzhu, Ms. Li
 and Mr. Chen Yilyu. The chairperson of the Remuneration Committee is Prof. Lu Yuanzhu. The
 primary duties of the Remuneration Committee include, among others:
-(cid:129) making recommendations to the Board on our policy and structure concerning
+ making recommendations to the Board on our policy and structure concerning
 remuneration of our Directors and members of the senior management;
-(cid:129) making recommendations to the Board on the specific remuneration package of each
+ making recommendations to the Board on the specific remuneration package of each
 Director and members of the senior management;
-(cid:129) reviewing and approving compensations payable to executive Directors and members of
+ reviewing and approving compensations payable to executive Directors and members of
 senior management for any loss or termination of office or appointment to ensure that it
 is consistent with contractual terms and is otherwise fair and not excessive;
 – 404 –
 
 === PAGE 415 ===
 DIRECTORS AND SENIOR MANAGEMENT
-(cid:129) reviewing and approving compensation arrangements relating to dismissal or removal of
+ reviewing and approving compensation arrangements relating to dismissal or removal of
 any Director for his or her misconduct to ensure that such arrangements are consistent
 with contractual terms and are otherwise reasonable and appropriate; and
-(cid:129) other responsibilities as authorized by our Board.
+ other responsibilities as authorized by our Board.
 Nomination Committee
 Our Company has established the Nomination Committee with written terms of reference in
 compliance with paragraph B.3 of the Corporate Governance Code. The Nomination Committee
 consists of three Directors, being Dr. Li, Mr. Chen Yilyu and Mr. Yang Zhe. The chairperson of the
 Nomination Committee is Dr. Li. The primary duties of the Nomination Committee include, among
 others:
-(cid:129) reviewing the structure, size and composition of the Board annually, and advising on
+ reviewing the structure, size and composition of the Board annually, and advising on
 any changes of the Board proposed in accordance with the strategies of our Company;
-(cid:129) identifying, selecting or making recommendations to our Board on the selection of
+ identifying, selecting or making recommendations to our Board on the selection of
 individuals nominated for directorships;
-(cid:129) making recommendations to the Board on relevant matters relating to the appointment
+ making recommendations to the Board on relevant matters relating to the appointment
 and re-appointment of our Directors;
-(cid:129) assessing the independence of independent non-executive Directors; and
-(cid:129) other responsibilities as authorized by our Board.
+ assessing the independence of independent non-executive Directors; and
+ other responsibilities as authorized by our Board.
 REMUNERATION OF OUR DIRECTORS AND SENIOR MANAGEMENT
 Our Directors and members of senior management receive remuneration from our Company
 in the form of salaries and other emoluments, discretionary bonuses, share-based payments and
@@ -15218,14 +15218,14 @@ COMPLIANCE ADVISOR
 We have appointed Altus Capital Limited as our compliance advisor pursuant to Rule 3A.19
 of the Listing Rules. Pursuant to Rule 3A.23 of the Listing Rules, our compliance advisor will
 advise our Company in the following circumstances:
-(cid:129) before the publication of any regulatory announcement, circular or financial report;
-(cid:129) where a transaction, which might be a notifiable or connected transaction, is
+ before the publication of any regulatory announcement, circular or financial report;
+ where a transaction, which might be a notifiable or connected transaction, is
 contemplated, including share issues and share repurchases;
-(cid:129) where our Company proposes to use the proceeds of the Global Offering in a manner
+ where our Company proposes to use the proceeds of the Global Offering in a manner
 that is different from that detailed in this prospectus or where our business activities
 developments or results deviate from any forecasts, estimates or other information in
 this prospectus; and
-(cid:129) where the Stock Exchange makes an inquiry of our Company regarding unusual
+ where the Stock Exchange makes an inquiry of our Company regarding unusual
 movements in the price or trading volume of the Shares, the possible development of a
 false market in the Shares or any other matters.
 The initial term of the appointment of our compliance advisor will commence on the Listing
@@ -15340,17 +15340,17 @@ General mandate to issue Shares
 Subject to the Global Offering becoming unconditional, our Directors have been granted a
 general unconditional mandate to allot, issue and deal with Shares with a total nominal value of
 not more than the sum of:
-(cid:129) 20% of the aggregate nominal value of our Shares in issue immediately following
+ 20% of the aggregate nominal value of our Shares in issue immediately following
 completion of the Global Offering; and
-(cid:129) the aggregate nominal value of Shares repurchased by us under the authority referred to
+ the aggregate nominal value of Shares repurchased by us under the authority referred to
 in the paragraph headed “— General mandate to repurchase shares” in this section.
 This general mandate to issue Shares will expire at the earliest of:
-(cid:129) the conclusion of the next annual general meeting of our Company unless otherwise
+ the conclusion of the next annual general meeting of our Company unless otherwise
 renewed by an ordinary resolution of our Shareholders in a general meeting, either
 unconditionally or subject to conditions; or
-(cid:129) the expiration of the period within which our Company’s next annual general meeting is
+ the expiration of the period within which our Company’s next annual general meeting is
 required by the Articles of Association or any other applicable laws to be held; or
-(cid:129) the date on which it is varied or revoked by an ordinary resolution of our Shareholders
+ the date on which it is varied or revoked by an ordinary resolution of our Shareholders
 in a general meeting.
 Please refer to the paragraph headed “Statutory and General Information — A. Further
 Information about our Group — 5. Resolutions of the Shareholders passed on March 30, 2024” in
@@ -15372,12 +15372,12 @@ of the relevant Listing Rules is set out in the paragraph headed “Statutory an
 — A. Further Information about our Group — 5. Resolutions of the Shareholders passed on March
 30, 2024” in Appendix IV to this prospectus.
 This general mandate to repurchase Shares will expire at the earliest of:
-(cid:129) the conclusion of the next annual general meeting of our Company unless otherwise
+ the conclusion of the next annual general meeting of our Company unless otherwise
 renewed by an ordinary resolution of our Shareholders in a general meeting, either
 unconditionally or subject to conditions; or
-(cid:129) the expiration of the period within which our Company’s next annual general meeting is
+ the expiration of the period within which our Company’s next annual general meeting is
 required by the Articles of Association or any other applicable laws to be held; or
-(cid:129) the date on which it is varied or revoked by an ordinary resolution of our Shareholders
+ the date on which it is varied or revoked by an ordinary resolution of our Shareholders
 passed in a general meeting.
 For details of the repurchase mandate, please refer to the paragraph headed “Statutory and
 General Information — A. Further Information about our Group — 5. Resolutions of the
@@ -15668,10 +15668,10 @@ FINANCIAL INFORMATION
 MAJOR FACTORS AFFECTING OUR RESULTS OF OPERATIONS
 Our business and results of operations have been and are expected to be continuously affected
 by a number of key factors, including the followings:
-(cid:129) the overall economic growth in China and around the globe;
-(cid:129) the development of AI technologies;
-(cid:129) the market growth and competitive landscape of the AI industry; and
-(cid:129) the governmental regulations, policies, initiatives and incentives affecting the AI
+ the overall economic growth in China and around the globe;
+ the development of AI technologies;
+ the market growth and competitive landscape of the AI industry; and
+ the governmental regulations, policies, initiatives and incentives affecting the AI
 industry in China.
 In addition to the general factors mentioned above, we believe that our results of operations
 are more directly affected by the following specific factors:
@@ -16055,7 +16055,7 @@ customer segments, the loss allowance based on past due status is not further di
 between our Group’s different customer bases.
 Our Group recognizes a loss allowance for expected credit losses (ECLs) on the following
 items:
-(cid:129) financial assets measured at amortized cost (including cash and cash equivalents, trade
+ financial assets measured at amortized cost (including cash and cash equivalents, trade
 receivables and other receivables which are held for the collection of contractual cash
 flows which represent solely payments of principal and interest);
 The provision of ECLs is sensitive to changes in estimates. The information about the ECLs
@@ -16078,18 +16078,18 @@ the loan is drawn down.
 FINANCIAL INFORMATION
 The expected cash shortfalls are discounted using the following discount rates where the
 effect of discounting is material:
-(cid:129) fixed-rate financial assets, trade and other receivables and contract assets: effective
+ fixed-rate financial assets, trade and other receivables and contract assets: effective
 interest rate determined at initial recognition or an approximation thereof;
-(cid:129) variable-rate financial assets: current effective interest rate;
-(cid:129) loan commitments: current risk-free rate adjusted for risks specific to the cash flows.
+ variable-rate financial assets: current effective interest rate;
+ loan commitments: current risk-free rate adjusted for risks specific to the cash flows.
 The maximum period considered when estimating ECLs is the maximum contractual period
 over which the Group is exposed to credit risk. In measuring ECLs, the Group takes into account
 reasonable and supportable information that is available without undue cost or effort. This includes
 information about past events, current conditions and forecasts of future economic conditions.
 ECLs are measured on either of the following bases:
-(cid:129) 12-month ECLs: these are losses that are expected to result from possible default events
+ 12-month ECLs: these are losses that are expected to result from possible default events
 within the 12 months after the reporting date; and
-(cid:129) lifetime ECLs: these are losses that are expected to result from all possible default
+ lifetime ECLs: these are losses that are expected to result from all possible default
 events over the expected lives of the items to which the ECL model applies.
 Trade receivables
 Trade receivables that do not contain a significant financing component are initially measured
@@ -16114,8 +16114,8 @@ Classification as a discontinued operation occurs upon disposal or when the oper
 the criteria to be classified as held for sale, if earlier. It also occurs if the operation is abandoned.
 Where an operation is classified as discontinued, a single amount is presented on the face of the
 statement of profit or loss and other comprehensive income, which comprises:
-(cid:129) the post-tax profit or loss of the discontinued operation; and
-(cid:129) the post-tax gain or loss recognized on the measurement to fair value less costs to sell,
+ the post-tax profit or loss of the discontinued operation; and
+ the post-tax gain or loss recognized on the measurement to fair value less costs to sell,
 or on the disposal, of the assets or disposal group(s) constituting the discontinued
 operation.
 Contingently redeemable preferred shares and ordinary shares
@@ -16239,15 +16239,15 @@ We define “adjusted net (loss)/profit” (non-IFRS measure) as loss for the ye
 continuing operations excluding changes in the carrying amount of contingently redeemable
 preferred shares and ordinary shares, share-based compensation and listing expenses. We have
 made adjustments to the following items consistently during the Track Record Period:
-(cid:129) Changes in the carrying amount of contingently redeemable preferred shares and
+ Changes in the carrying amount of contingently redeemable preferred shares and
 ordinary shares, which are affected primarily by the changes in the redemption price of
 the preferred shares and ordinary shares. We do not expect to record such changes as
 our contingently redeemable preferred shares and ordinary shares will be automatically
 converted into equity upon completion of the Listing;
-(cid:129) Share-based compensation, which represents the non-cash employee benefit expenses
+ Share-based compensation, which represents the non-cash employee benefit expenses
 incurred. It relates to the share rewards we offered to our employees under the Pre-IPO
 Share Option Scheme, which is a non-cash expense; and
-(cid:129) Listing expenses relating to the Global Offering.
+ Listing expenses relating to the Global Offering.
 – 440 –
 
 === PAGE 451 ===
@@ -17181,12 +17181,12 @@ Fair values are categorized into the three-level fair value hierarchy as defined
 “Fair Value Measurement”. All assets and liabilities for which fair value is measured or disclosed
 are categorized within the fair value hierarchy, described as follows, based on the lowest level
 input that is significant to the fair value measurement as a whole:
-(cid:129) Level 1 valuations: Fair value measured using only Level 1 inputs i.e. unadjusted quoted
+ Level 1 valuations: Fair value measured using only Level 1 inputs i.e. unadjusted quoted
 prices in active markets for identical assets or liabilities at the measurement date.
-(cid:129) Level 2 valuations: Fair value measured using Level 2 inputs i.e. observable inputs
+ Level 2 valuations: Fair value measured using Level 2 inputs i.e. observable inputs
 which fail to meet Level 1, and not using significant unobservable inputs. Unobservable
 inputs are inputs for which market data are not available.
-(cid:129) Level 3 valuations: Fair value measured using significant unobservable inputs.
+ Level 3 valuations: Fair value measured using significant unobservable inputs.
 We measure our wealth management products and other investment in equity securities at fair
 value at the end of each of the Track Record Period.
 We have estimated the fair value of other investment in equity securities purchased by us by
@@ -17708,7 +17708,7 @@ FUTURE PLANS AND USE OF PROCEEDS
 algorithm of our solutions by introducing prominent technologies and talents with continuous
 investment in research and development. The breakdown of the intended use of net proceeds is set
 out below:
-(cid:129) Approximately 20.7% or HK$57.0 million (RMB51.7 million) will be allocated to
+ Approximately 20.7% or HK$57.0 million (RMB51.7 million) will be allocated to
 expanding our computing power by renting up to 100 NVIDIA A100 GPU-based cloud
 servers or equivalent from server companies, such as GPU and other hardware. By way
 of renting instead of purchasing, we can reduce the cost of fixed assets investment and
@@ -17720,14 +17720,14 @@ improved coherently. We will enter into long-term cooperation agreement with lea
 cloud server companies in return of extra computing power and data of various industry
 verticals. The primary type of server we will rent is NVIDIA A100 GPU-based cloud
 servers or equivalent, from server companies.
-(cid:129) Approximately 15.7% or HK$43.2 million (RMB39.2 million) will be used to upgrade
+ Approximately 15.7% or HK$43.2 million (RMB39.2 million) will be used to upgrade
 the existing program algorithm and implement our globalization strategy. We plan to
 recruit over 20 AI talents with an international vision and from overseas educational or
 research institutions, with a bachelor’s degree or above in computer science,
 mathematics, electrical engineering or equivalent with at least three years of experience
 in AI and AIGC algorithm, products development or related experience in AI industry;
 and
-(cid:129) Approximately 7.9% or HK$21.8 million (RMB19.7 million) will be allocated to
+ Approximately 7.9% or HK$21.8 million (RMB19.7 million) will be allocated to
 enhancing our database, among which:
 — approximately 4.9% or HK$13.5 million (RMB12.2 million) will be used to utilize
 data from various industry verticals through our cooperation with business partners
@@ -17747,7 +17747,7 @@ In order to expand our market reach and enhance our marketing capabilities, appr
 35.7% or HK$98.3 million (RMB89.1 million) will be used in the next three years, for solution
 development and market expansion. The breakdown of the intended use of net proceeds is set out
 below:
-(cid:129) Approximately 29.3% or HK$80.7 million (RMB73.1 million) will be used for
+ Approximately 29.3% or HK$80.7 million (RMB73.1 million) will be used for
 enhancing our global business exposure through market expansion. We are looking to
 expand our business into regions such as North America, Europe, Southeast Asia and
 Greater China, among which:
@@ -17768,7 +17768,7 @@ and our data storage needs, approximately 3.6% or HK$9.9 million (RMB9.0
 million) will be used for cloud servers and to expand our data storage capability by
 renting additional 300 to 400 storage machines each year. We will continue to
 optimize our server utilization to align with our growth needs.
-(cid:129) Approximately 6.4% or HK$17.6 million (RMB16.0 million) will be used for
+ Approximately 6.4% or HK$17.6 million (RMB16.0 million) will be used for
 development of our AIGC solutions with a continuous enhancement in solution function,
 multi-terminal adaptation, multi-modal development and data counterattacks efficiency.
 We will further upgrade our one-stop content creator solutions and platforms, namely
@@ -17819,7 +17819,7 @@ any strategic investment or acquisition target.
 === PAGE 497 ===
 FUTURE PLANS AND USE OF PROCEEDS
 Working capital and general corporate purposes
-(cid:129) Approximately 10.0% or HK$27.5 million (RMB25.0 million) will be used for working
+ Approximately 10.0% or HK$27.5 million (RMB25.0 million) will be used for working
 capital and general corporate purposes in the next three years.
 If the Offer Price is set at the high-end of the Offer Price range or the low-end of the Offer
 Price range, the net proceeds of the Global Offering will increase or decrease by approximately
@@ -18566,20 +18566,20 @@ under the Global Offering, from Mobvoi AGI Limited pursuant to the Stock Borrowi
 The stock borrowing arrangement is not subject to the restrictions of Rule 10.07(1)(a) of the
 Listing Rules, provided that the requirements set forth in Rule 10.07(3) of the Listing Rules are
 complied with as follows:
-(cid:129) such stock borrowing arrangement is fully described in this prospectus and must be for
+ such stock borrowing arrangement is fully described in this prospectus and must be for
 the sole purpose of covering any short position prior to the exercise of the
 Over-allotment Option;
-(cid:129) the maximum number of Shares to be borrowed from Mobvoi AGI Limited by the
+ the maximum number of Shares to be borrowed from Mobvoi AGI Limited by the
 Stabilizing Manager (or any person acting for it) is the maximum number of Shares that
 may be issued upon full exercise of the Over-allotment Option;
-(cid:129) the same number of Shares so borrowed must be returned to Mobvoi AGI Limited or its
+ the same number of Shares so borrowed must be returned to Mobvoi AGI Limited or its
 nominee(s) within three business days following the earlier of (a) the last day on which
 the Over-allotment Option may be exercised, (b) the day on which the Over-allotment
 Option is exercised in full, and (c) such earlier time as the parties to the Stock
 Borrowing Agreement may from time to time agree in writing;
-(cid:129) the stock borrowing arrangement will be effected in compliance with all applicable
+ the stock borrowing arrangement will be effected in compliance with all applicable
 listing rules, laws and other regulatory requirements; and
-(cid:129) no consideration will be paid to Mobvoi AGI Limited by the Stabilizing Manager (or
+ no consideration will be paid to Mobvoi AGI Limited by the Stabilizing Manager (or
 any person acting for it) in relation to such stock borrowing arrangement.
 STABILIZATION
 Stabilization is a practice used by underwriters in some markets to facilitate the distribution
@@ -18807,13 +18807,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you are
 applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the White Form eIPO service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the White Form eIPO service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the person(s)
 for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or close associates; or
-(cid:129) are a Director or any of his/her close associates.
+ are an existing Shareholder or close associates; or
+ are a Director or any of his/her close associates.
 – 515 –
 
 === PAGE 526 ===
@@ -18887,17 +18887,17 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual/JointApplicants For CorporateApplicants
-(cid:129) Full name(s) 2 as shown on your identity (cid:129) Full name(s) 2 as shown on your identity
+ Full name(s) 2 as shown on your identity Full name(s) 2 as shown on your identity
 document document
-(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
+ Identity document’s issuing country or Identity document’s issuing country or
 jurisdiction jurisdiction
-(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
+ Identity document type, with order of Identity document type, with order of
 priority: priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification document; or ii. Certificate of incorporation; or
 iii. Passport; and iii. Business registration certificate; or
-(cid:129) Identity document number iv. Other equivalent document; and
-(cid:129) Identity document number
+ Identity document number iv. Other equivalent document; and
+ Identity document number
 Notes:
 1. If you are applying through the White Form eIPO service, you are required to provide a valid e-mail address, a
 contact telephone number and a Hong Kong address. You are also required to declare that the identity information
@@ -18928,9 +18928,9 @@ benefit and you should provide the required information in your application as s
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any other stock
 exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) hold more than half of the issued share capital of the company (not counting any part of it which carries no
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ hold more than half of the issued share capital of the company (not counting any part of it which carries no
 right to participate beyond a specified amount in a distribution of either profits or capital).
 For those applying through HKSCC EIPO channel, and making an application under a power
 of attorney, we and the Joint Overall Coordinators, as our agent, have discretion to consider
@@ -19163,21 +19163,21 @@ of any application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not grant
 permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 – 525 –
 
 === PAGE 536 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications. You may refer to the
+ you make multiple applications or suspected multiple applications. You may refer to the
 paragraph headed “— A. Applications for Hong Kong Offer Shares — 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Joint Overall Coordinators believe that by accepting your application, it or we
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Joint Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC Participants
@@ -19291,9 +19291,9 @@ at your own risk
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Friday, April 19, 2024 if, there is/are:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ Extreme Conditions,
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Friday, April 19, 2024.
 Instead they will open between 11:45 a.m. and 12:00 noon and/or close at 12:00 noon on the
@@ -19313,12 +19313,12 @@ Registrar will make appropriate arrangements for the delivery of the share certi
 CCASS Depository’s service counter so that they would be available for trading on Wednesday,
 April 24, 2024.
 If a Severe Weather Signal is hoisted on Tuesday, April 23, 2024:
-(cid:129) for physical share certificates of less than 1,000,000 Offer Shares issued under your own
+ for physical share certificates of less than 1,000,000 Offer Shares issued under your own
 name, despatch will be made by ordinary post when the post office re-opens after the
 Severe Weather Signal is lowered or cancelled (e.g. in the afternoon of Tuesday, April
 23, 2024 or on Wednesday, April 24, 2024).
 If a Severe Weather Signal is hoisted on Wednesday, April 24, 2024:
-(cid:129) for physical share certificates of 1,000,000 or more Offer Shares issued under your own
+ for physical share certificates of 1,000,000 or more Offer Shares issued under your own
 name, you may pick them up from the Hong Kong Share Registrar’s office after the
 Severe Weather Signal is lowered or cancelled (e.g. in the afternoon of Wednesday,
 April 24, 2024 or on Thursday, April 25, 2024).
@@ -19373,23 +19373,23 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for the
 following purposes:
-(cid:129) processing your application and refund cheque and White Form e-Refund payment
+ processing your application and refund cheque and White Form e-Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of allocation of
 Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the Shares
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the Shares
 including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable the
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to enable the
 Company and the Hong Kong Share Registrar to discharge their obligations to
 applicants and holders of the Shares and/or regulators and/or any other purposes to
 which applicants and holders of the Shares may from time to time agree.
@@ -19403,21 +19403,21 @@ applicants for and holders of Hong Kong Offer Shares will be kept confidential b
 and the Hong Kong Share Registrar may, to the extent necessary for achieving any of the above
 purposes, disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to,
 from or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving bank and overseas
+ the Company’s appointed agents such as financial advisers, receiving bank and overseas
 principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the Hong Kong Share Registrar for the purposes of providing its
 services or facilities or performing its functions in accordance with its rules or
 procedures and operating FINI and CCASS (including where applicants for the Hong
 Kong Offer Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the Hong
 Kong Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies
 or otherwise as required by laws, rules or regulations, including for the purpose of the
 Stock Exchange’s administration of the Listing Rules and the SFC’s performance of its
 statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have or
+ any persons or institutions with which the holders of Hong Kong Offer Shares have or
 propose to have dealings, such as their bankers, solicitors, accountants or brokers etc.
 5. Retention of personal data
 The Company and the Hong Kong Share Registrar will keep the personal data of the
@@ -20981,13 +20981,13 @@ consistent with the way in which information is reported internally to the Group
 decision maker (“CODM”) for the purposes of resource allocation and performance assessment,
 the Group has presented the following three reportable segments. No operating segments have been
 aggregated to form the following reportable segments.
-(cid:129) AI Software Solutions: this segment includes AI enterprise solutions and AIGC
+ AI Software Solutions: this segment includes AI enterprise solutions and AIGC
 solutions.
 AI enterprise solutions: this segment includes innovative full-stack AI-based solutions
 primarily to enterprise customers; and
 AIGC solutions: this segment includes the use of AI technologies to assist users to
 generate content.
-(cid:129) Smart Devices and Other Accessories: this segment includes the sale of smart devices;
+ Smart Devices and Other Accessories: this segment includes the sale of smart devices;
 (i) Segment results
 For the purposes of assessing segment performance and allocating resources between
 segments, the Group’s CODM monitors the results attributable to each reportable segment on the
@@ -22565,12 +22565,12 @@ the end of the reporting period on a recurring basis, categorized into the three
 hierarchy as defined in IFRS 13, Fair value measurement. The level into which a fair value
 measurement is classified is determined with reference to the observability and significance of the
 inputs used in the valuation technique as follows:
-(cid:129) Level 1 valuations: Fair value measured using only Level 1 inputs i.e. unadjusted quoted
+ Level 1 valuations: Fair value measured using only Level 1 inputs i.e. unadjusted quoted
 prices in active markets for identical assets or liabilities at the measurement date.
-(cid:129) Level 2 valuations: Fair value measured using Level 2 inputs i.e. observable inputs
+ Level 2 valuations: Fair value measured using Level 2 inputs i.e. observable inputs
 which fail to meet Level 1, and not using significant unobservable inputs. Unobservable
 inputs are inputs for which market data are not available.
-(cid:129) Level 3 valuations: Fair value measured using significant unobservable inputs.
+ Level 3 valuations: Fair value measured using significant unobservable inputs.
 The following table presents the Group’s financial assets and financial liabilities that are
 measured at fair value at the end of each reporting date:
 Fair value
@@ -22940,8 +22940,8 @@ to assess whether the applicable criteria used by the Directors in the compilati
 financial information provide a reasonable basis for presenting the significant effects directly
 attributable to the event or transaction, and to obtain sufficient appropriate evidence about
 whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the pro forma financial information reflects the proper application of those adjustments
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the pro forma financial information reflects the proper application of those adjustments
 to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgment, having regard to the
 reporting accountants’ understanding of the nature of the Group, the event or transaction in respect
@@ -24251,10 +24251,10 @@ The exercise in full of the Repurchase Mandate, on the basis of 1,491,493,482 Sh
 immediately following the completion of the Global Offering could accordingly result in up to
 approximately 149,149,348 Shares being repurchased by our Company during the period prior to
 the earliest of:
-(cid:129) the conclusion of the next annual general meeting of our Company;
-(cid:129) the expiration of the period within which the next annual general meeting of our
+ the conclusion of the next annual general meeting of our Company;
+ the expiration of the period within which the next annual general meeting of our
 Company is required to be held by any applicable law or the Articles of Association; or
-(cid:129) the time when it is varied or revoked by an ordinary resolution of our Shareholders in
+ the time when it is varied or revoked by an ordinary resolution of our Shareholders in
 general meeting.
 None of our Directors nor, to the best of their knowledge having made all reasonable
 enquiries, any of their close associates currently intends to sell any Shares to our Company.

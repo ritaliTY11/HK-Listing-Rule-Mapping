@@ -4518,7 +4518,7 @@ Power Management 12.9% 12.1%
 Signal Chain 12.4% 9.1%
 Total 12.7% 11.0%
 334.6
-Unit(cid:18454) Billions RMB
+Unit Billions RMB
 300.7
 271.1
 245.1
@@ -4757,7 +4757,7 @@ analog ICs in China’s automotive industry will increase to 20%.
 China AutomotiveAnalog IC Market Size, by Sale Revenue
 CAGR 2020-2024 2025E-2029E
 Automotive Analog IC 23.9% 17.6% 85.8
-Unit(cid:18454) Billions RMB 72.0
+Unit Billions RMB 72.0
 61.0
 52.6
 44.9
@@ -4872,7 +4872,7 @@ Image Sensor 12.8% 19.8%
 Flow Sensor 5.2% 12.9%
 19.0
 Position Sensor 7.1% 14.1%
-Unit(cid:18454) Billion RMB
+Unit Billion RMB
 Others 9.3% 17.0% 490.4 156.7
 Total 10.5% 18.2% 14.6
 409.4
@@ -7464,7 +7464,7 @@ three main sectors:
 Energy and Industry
 Automotive Electronics Consumer Electronics
 Automation
-(cid:2) (cid:2) (cid:2) (cid:2) S C B C F m u o h o e n a d a l n s r y / t s e H i c C s y t o i b v a n r i n t i t d y d r / o D S V l a r a e i f n v h e d i t i n c y g L le / i C g P o h o c ti w k n p g e i r t train (cid:2) (cid:2) (cid:2) (cid:2) I B O T n h a B v e t e C t r e r m / t r D e y a r C l / M P M - o a D a n w C n a e g a / r P g e t D r m e a m U i e n n en t t S S y y st s e te m m (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) P S E R C h m n e h o e s a a i r t r d r o g g t e v y i G n n o S g t r l i t t i a a d P o l i r i c E l a e g a n n e e d r S g W y y s t S i e n t m d o r P a o g w e er (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) U S S T I I n n u e e n d d r p l i e u u v n p c e s s t l o t t e r y r r r m i i P r a a u o l l P p w A M o ti e u w b o r t l t e o e S o r m u r P S p D a o u p t w r i p l o i y p v e n l e r y (cid:2) (cid:2) (cid:2) W A M P H e p e o h r a p i b i p l t l t i e i h l h a e e n A a r c P a n p e h l d p s s o l C i n a e a n s r c , e e P s (P , A o H D r o t , a m a b n e le d (cid:2) (cid:2) (cid:2) (cid:2) P D C E A o q o u a r u t m d t a i i a p p o S b m u - l t V e t o e e i r n E r d a s t l e g e a o e c n t E d ro n P n t e e ic r r i t P p a h i r n o e m d ra u e l c n t t s
+ S C B C F m u o h o e n a d a l n s r y / t s e H i c C s y t o i b v a n r i n t i t d y d r / o D S V l a r a e i f n v h e d i t i n c y g L le / i C g P o h o c ti w k n p g e i r t train I B O T n h a B v e t e C t r e r m / t r D e y a r C l / M P M - o a D a n w C n a e g a / r P g e t D r m e a m U i e n n en t t S S y y st s e te m m P S E R C h m n e h o e s a a i r t r d r o g g t e v y i G n n o S g t r l i t t i a a d P o l i r i c E l a e g a n n e e d r S g W y y s t S i e n t m d o r P a o g w e er U S S T I I n n u e e n d d r p l i e u u v n p c e s s t l o t t e r y r r r m i i P r a a u o l l P p w A M o ti e u w b o r t l t e o e S o r m u r P S p D a o u p t w r i p l o i y p v e n l e r y W A M P H e p e o h r a p i b i p l t l t i e i h l h a e e n A a r c P a n p e h l d p s s o l C i n a e a n s r c , e e P s (P , A o H D r o t , a m a b n e le d P D C E A o q o u a r u t m d t a i i a p p o S b m u - l t V e t o e e i r n E r d a s t l e g e a o e c n t E d ro n P n t e e ic r r i t P p a h i r n o e m d ra u e l c n t t s
 Medical Devices)
 The following table sets forth our revenue generated during the Track Record Period in terms of
 the application sectors:
@@ -7520,27 +7520,27 @@ BUSINESS
 The diagram below sets forth a comprehensive overview of our products in automotive electronic
 applications:
 Inverter/Powertrain
-Smart Connectivity/Driving/Cockpit (cid:2) S S a m f a e r ty t I D so r l i a v t e ed Drive/Functional (cid:2) (cid:2) M Di a g g it n a e l t I ic so C la u t r o r r ent Sensor
-(cid:2) High/Low-Side Switch (cid:2) Large Screen
+Smart Connectivity/Driving/Cockpit S S a m f a e r ty t I D so r l i a v t e ed Drive/Functional M Di a g g it n a e l t I ic so C la u t r o r r ent Sensor
+ High/Low-Side Switch Large Screen
 Backlight Driver
-(cid:2) Seat Airbag MEMS (cid:2) Antenna/Camera
-(cid:2) Pressure Sensor (cid:2) L V o o a lt d a g P e r o M te o c n ti i o to n ring
+ Seat Airbag MEMS Antenna/Camera
+ Pressure Sensor L V o o a lt d a g P e r o M te o c n ti i o to n ring
 Battery Management System
-(cid:2) Isolated Digital Relay (cid:2) Isolated Power Supply
-(cid:2) Digital Isolator (cid:2) Hall Current Sensor
-(cid:2) Isolated & Non-Isolated
+ Isolated Digital Relay Isolated Power Supply
+ Digital Isolator Hall Current Sensor
+ Isolated & Non-Isolated
 Operational Amplifier
 Body Control and Lighting
-(cid:2) High/Low-Side Switch (cid:2) Magnetic Angle Sensor
-(cid:2) Electronic Fuse eFuse (cid:2) Digital Relay
-(cid:2) Antenna/Camera Load (cid:2) Taillight/Headlight OBC/DC-DC/PDU
-Protection Driver (cid:2) Isolated & (cid:2) Magnetic Current Sensor
-Non-Isolated Power Drive (cid:2) Isolated Current
-(cid:2) Digital Isolator Voltage Sampling
-(cid:2) Isolated & Non-Isolated
+ High/Low-Side Switch Magnetic Angle Sensor
+ Electronic Fuse eFuse Digital Relay
+ Antenna/Camera Load Taillight/Headlight OBC/DC-DC/PDU
+Protection Driver Isolated & Magnetic Current Sensor
+Non-Isolated Power Drive Isolated Current
+ Digital Isolator Voltage Sampling
+ Isolated & Non-Isolated
 Operational Amplifier
 Chassis and Safety Fuel/Hybrid Vehicle Powertrain Thermal Management System
-(cid:2) (cid:2) M ME ag M ne S t i P c r A es n s g u l r e e S S e e n n s s o o r r (cid:2) (cid:2) P E M o le a s c g it t n i r o e o n t n i c i S c S e F n w u s i s o t e c r h e Fuse (cid:2) (cid:2) E S Fu e n n e g l s i o n V r e a I p n o t r a k M e E M M a S ni f P o r l e d s s M ur E e M Se S n P so re r ssure (cid:2) (cid:2) I D D s i r o g i l v i a t e t a e l d I s & o l N at o o n r -Isolated Power (cid:2) (cid:2) M P C r o a e n g s d s n u i e t r i t e o ic n S i A e n n n g s g c o l h r e i S S p i e g n n s a o l r
+ M ME ag M ne S t i P c r A es n s g u l r e e S S e e n n s s o o r r P E M o le a s c g it t n i r o e o n t n i c i S c S e F n w u s i s o t e c r h e Fuse E S Fu e n n e g l s i o n V r e a I p n o t r a k M e E M M a S ni f P o r l e d s s M ur E e M Se S n P so re r ssure I D D s i r o g i l v i a t e t a e l d I s & o l N at o o n r -Isolated Power M P C r o a e n g s d s n u i e t r i t e o ic n S i A e n n n g s g c o l h r e i S S p i e g n n s a o l r
 Certain examples of our product applications on automotive electronics include:
 • Digital isolators: In NEVs, our digital isolation chips play a critical role in ensuring the
 safety and reliability of electrical systems. These chips enable safe isolation between
@@ -7660,28 +7660,28 @@ used to achieve functions such as precise sensing, motion control and efficient 
 functions may be used on humanoid robots. The diagram below sets forth an illustration of how our
 products may be applied in humanoid robots:
 Perception/Communication
-(cid:2) Camera/Radar/Millimeter-Wave SOC
-(cid:2) Power Supply/Operational Amplifier
-(cid:2) Pressure Sensor/Angle-Position
+ Camera/Radar/Millimeter-Wave SOC
+ Power Supply/Operational Amplifier
+ Pressure Sensor/Angle-Position
 Sensor/Temperature Sensor
 Power BMS
-(cid:2) Power Supply
-(cid:2) Current Sense Joint Control
+ Power Supply
+ Current Sense Joint Control
 Amplifier
-(cid:2) Pressure Sensor (cid:2) Sensor
-(cid:2) Temperature Sensor (cid:2) Motor Drive
-(cid:2) Current Sense
+ Pressure Sensor Sensor
+ Temperature Sensor Motor Drive
+ Current Sense
 Amplifier
-(cid:2) Power
+ Power
 Supply/Operational
 Amplifier
 Dexterous Hand
 Thermal Management
-(cid:2) Sensor
-(cid:2) Motor Drive
-(cid:2) Motor Control SoC (cid:2) Fan Control
-(cid:2) Hall Switch (cid:2) Valve Control
-(cid:2) Temperature Sensor
+ Sensor
+ Motor Drive
+ Motor Control SoC Fan Control
+ Hall Switch Valve Control
+ Temperature Sensor
 – 200 –
 
 === PAGE 210 ===

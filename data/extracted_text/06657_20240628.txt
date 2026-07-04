@@ -174,19 +174,19 @@ The results of allocations in the Hong Kong Public Offering
 (with successful applicants’ identification document numbers,
 where appropriate) to be available through a variety of channels,
 including:
-(cid:129) in the announcement to be posted on our website
+ in the announcement to be posted on our website
 and the website of the Stock Exchange at
 www.baiwang.com and
 www.hkexnews.hk respectively . . . . . . . . . . . . . . . . . . . by 11:00 p.m. on Monday,
 July 8, 2024
-(cid:129) from the designated results of allocations
+ from the designated results of allocations
 website at www.iporesults.com.hk
 (alternatively: www.eipo.com.hk/eIPOAllotment)
 with a “search by ID” function from . . . . . . . . . . . . . . . . . . .11:00 p.m. on Monday,
 July 8, 2024
 to 12:00 midnight on Sunday,
 July 14, 2024
-(cid:129) from the allocation results telephone enquiry
+ from the allocation results telephone enquiry
 by calling 2862 8555 between 9:00 a.m. and
 6:00 p.m. on . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Tuesday, July 9, 2024
 Wednesday, July 10, 2024
@@ -358,17 +358,17 @@ data analytics capabilities, we facilitate the automated and digitalized busines
 making by financial service providers and other enterprise customers. We have achieved the
 leadership position in the markets we operate in as evidenced by the following, according to
 the F&S Report:
-(cid:129) we ranked first in China’s cloud financial and tax-related transaction digitalization
+ we ranked first in China’s cloud financial and tax-related transaction digitalization
 marketin2023intermsofrevenue,representingamarketshareof7.1%,andsecond
 in China’s financial and tax-related transaction digitalization market in 2023 in
 terms of revenue, representing a market share of 4.9%1;
-(cid:129) we ranked first among financial and tax-related transaction digitalization solution
+ we ranked first among financial and tax-related transaction digitalization solution
 providers in China, with approximately 0.7 billion invoice processing requests
 fulfilled through our cloud solutions in 2023;
-(cid:129) werankedsecondamongfinancialandtax-relatedtransactiondigitalizationsolution
+ werankedsecondamongfinancialandtax-relatedtransactiondigitalizationsolution
 providers in China, with approximately 2.6 billion VAT invoices issued through our
 cloud solutions in 2023; and
-(cid:129) we ranked second in China’s transaction-based big data analytics for SMB financing
+ we ranked second in China’s transaction-based big data analytics for SMB financing
 market in 2023 in terms of revenue, representing a market share of 6.4%2.
 (1) The market size of China’s financial and tax-related transaction digitalization market, as a percentage
 ofthetotaltransactiondigitalizationmarketinChinaintermsofrevenue,was4.0%and3.4%in2019
@@ -448,10 +448,10 @@ signature OFD Bigdata AI
 analytics
 Principal
 Solutions ProductsandServices KeyFunctionsandFeatures Customers/Users Pricing
-Cloudfinancial&tax Taxinvoicecompliance Enablecustomerstodigitalizethe Enterprisesofall (cid:129) Annualsubscriptionfees;
-digitalization managementsolutions processof,amongothers,taxinvoice sizesacrossvarious (cid:129) Usage-basedfees;
-solutions(雲化財稅數 (票據合規管理解決方 issuance,deliveryandcompliance industrysectors (cid:129) Sales-basedfees;and
-字化解決方案) 案) (cid:129) Solutiondeliveryfees
+Cloudfinancial&tax Taxinvoicecompliance Enablecustomerstodigitalizethe Enterprisesofall Annualsubscriptionfees;
+digitalization managementsolutions processof,amongothers,taxinvoice sizesacrossvarious Usage-basedfees;
+solutions(雲化財稅數 (票據合規管理解決方 issuance,deliveryandcompliance industrysectors Sales-basedfees;and
+字化解決方案) 案) Solutiondeliveryfees
 Financialandtax Enablecustomerstorecord,storeand
 managementsolutions verifytaxinvoicesreceivedbythem,
 (財稅管理解決方案) streamlineaccountingdocument
@@ -459,13 +459,13 @@ archivingandcompletetaxfiling
 Supplychain Enablecustomerstoautomateaccount
 collaborationsolutions paymentandsettlementwiththeir
 (供應鏈協同解決方案) businesspartners
-Data-drivenanalytics Digitalprecision Recommendfinancialproductslaunched Financialservice (cid:129) Sales-basedfees
+Data-drivenanalytics Digitalprecision Recommendfinancialproductslaunched Financialservice Sales-basedfees
 services(數據驅動的 marketingservices(精 byfinancialserviceprovidersto providersand
 分析服務) 準數字營銷服務) potentialproductusers licensedcredit
 reportingagencies
-Riskmanagement (1) Enablecustomerstounderstand (cid:129) Annualsubscriptionfees;
-services(風險管理服 businessperformanceandoperation (cid:129) Usage-basedfees;and
-務) statusofpotentialandexistingusers (cid:129) Project-basedfees
+Riskmanagement (1) Enablecustomerstounderstand Annualsubscriptionfees;
+services(風險管理服 businessperformanceandoperation Usage-basedfees;and
+務) statusofpotentialandexistingusers Project-basedfees
 basedontheirtaxinvoiceand
 transactionrecords
 – 3 –
@@ -480,12 +480,12 @@ serviceproviders
 (3) Optimizecustomers’riskcontrol
 modelingandriskmanagement
 measures
-On-premisesfinancial (1) Centralizeandautomatetaxinvoice Largeenterprisesand (cid:129) Softwarelicensefees;
-&taxdigitalization complianceandtaxmanagement corporate (cid:129) Implementationfees;
-solutions(本地部署財 withon-premisesapplication conglomerates (cid:129) Annualmaintenancefees;
+On-premisesfinancial (1) Centralizeandautomatetaxinvoice Largeenterprisesand Softwarelicensefees;
+&taxdigitalization complianceandtaxmanagement corporate Implementationfees;
+solutions(本地部署財 withon-premisesapplication conglomerates Annualmaintenancefees;
 稅數字化解決方案) and
 (2) Collectandstorestructureddatafor
-(cid:129) Hardwareequipmentfees
+ Hardwareequipmentfees
 enterpriseexpenditureandrelated
 taxinvoiceslocallyinacentralized
 database
@@ -2041,26 +2041,26 @@ undue reliance on any of these forward-looking statements. Important factors tha
 actual results to differ materially from those in the forward-looking statements include
 regional, national or global political, economic, business, competitive, market and regulatory
 conditions and the following:
-(cid:129) our business prospects;
-(cid:129) our business strategies and plans to achieve these strategies;
-(cid:129) future developments, trends and conditions in and competitive environment for the
+ our business prospects;
+ our business strategies and plans to achieve these strategies;
+ future developments, trends and conditions in and competitive environment for the
 industries and markets in which we operate;
-(cid:129) general economic, political and business conditions in locations where we operate;
-(cid:129) our financial condition and performance;
-(cid:129) our capital expenditure plans;
-(cid:129) our dividend policy;
+ general economic, political and business conditions in locations where we operate;
+ our financial condition and performance;
+ our capital expenditure plans;
+ our dividend policy;
 – 41 –
 
 === PAGE 52 ===
 FORWARD-LOOKING STATEMENTS
-(cid:129) changes to the regulatory environment, policies, operating conditions of and general
+ changes to the regulatory environment, policies, operating conditions of and general
 outlook in the industries and markets in which we operate;
-(cid:129) our expectations with respect to our ability to acquire and maintain regulatory
+ our expectations with respect to our ability to acquire and maintain regulatory
 licenses or permits;
-(cid:129) the extent and nature of, and potential for, future development of our business;
-(cid:129) the actions of and developments affecting our competitors;
-(cid:129) the actions of and developments affecting our major customers and suppliers; and
-(cid:129) certain statements in the sections headed “Risk Factors,” “Industry Overview,”
+ the extent and nature of, and potential for, future development of our business;
+ the actions of and developments affecting our competitors;
+ the actions of and developments affecting our major customers and suppliers; and
+ certain statements in the sections headed “Risk Factors,” “Industry Overview,”
 “Regulatory Overview,” “Business,” “Financial Information,” “Relationship with
 our Controlling Shareholders” and “Future Plans and Use of Proceeds” with respect
 to trends in interest rates, foreign exchange rates, prices, volumes, operations,
@@ -2104,25 +2104,25 @@ not have been fully proven or accepted by customers.
 Our relatively limited operating history and evolving business make it difficult to
 evaluateourprospectsandtherisksandchallengesweface.Theserisksandchallengesinclude
 our ability to:
-(cid:129) attract new customers and retain existing ones;
-(cid:129) effectively leverage cross- or up-selling opportunities;
-(cid:129) comply with existing and new laws and regulations applicable to our business;
-(cid:129) accurately forecast our revenues and expenses;
+ attract new customers and retain existing ones;
+ effectively leverage cross- or up-selling opportunities;
+ comply with existing and new laws and regulations applicable to our business;
+ accurately forecast our revenues and expenses;
 – 43 –
 
 === PAGE 54 ===
 RISK FACTORS
-(cid:129) successfully develop new platform features, offerings and services to enhance the
+ successfully develop new platform features, offerings and services to enhance the
 customer experience;
-(cid:129) optimize our solution offerings and mix;
-(cid:129) plan for and manage capital expenditures for our current and future solution and
+ optimize our solution offerings and mix;
+ plan for and manage capital expenditures for our current and future solution and
 service offerings;
-(cid:129) improve our operational efficiency;
-(cid:129) effectively manage our growth;
-(cid:129) increase our market share in existing industries and expand into new ones;
-(cid:129) hire and retain talented employees;
-(cid:129) ensure compliance in an evolving and complex regulatory environment; and
-(cid:129) anticipate and adapt to evolving market conditions, including technological
+ improve our operational efficiency;
+ effectively manage our growth;
+ increase our market share in existing industries and expand into new ones;
+ hire and retain talented employees;
+ ensure compliance in an evolving and complex regulatory environment; and
+ anticipate and adapt to evolving market conditions, including technological
 developments and changes in the competitive landscape.
 If we fail to address any or all of these risks and challenges, our business, financial
 condition and results of operations may be materially and adversely affected.
@@ -3380,12 +3380,12 @@ extentthatourfundingrequirementsexceedourfinancialresources,wewillberequiredtose
 additional financing or to defer planned expenditures.There is no assurance that we can obtain
 additional funds on terms acceptable to us, or at all. In addition, our ability to raise additional
 funds in the future is subject to a variety of uncertainties, including but not limited to:
-(cid:129) investors’ perception of, and demand for, the securities in companies like us;
-(cid:129) conditions of the capital markets in which we may seek to raise funds;
-(cid:129) development of PRC laws and regulations on the industries in which we operate;
-(cid:129) our future results of operations, financial condition and cash flows;
-(cid:129) general market conditions for capital raising and debt financing activities; and
-(cid:129) economic, political and other conditions in China and elsewhere.
+ investors’ perception of, and demand for, the securities in companies like us;
+ conditions of the capital markets in which we may seek to raise funds;
+ development of PRC laws and regulations on the industries in which we operate;
+ our future results of operations, financial condition and cash flows;
+ general market conditions for capital raising and debt financing activities; and
+ economic, political and other conditions in China and elsewhere.
 – 73 –
 
 === PAGE 84 ===
@@ -3911,22 +3911,22 @@ RISK FACTORS
 Offering or that the market price of our H Shares will not decline following the Global
 Offering. Furthermore, the market price and trading volume of our H Shares may be volatile.
 The following factors may affect the trading volume and market price of our H Shares:
-(cid:129) our financial condition;
-(cid:129) actual or anticipated fluctuations in our operating performance;
-(cid:129) news regarding recruitment or departure of key personnel by us or our competitors;
-(cid:129) the history of, and the prospects for, us and the industry in which we operate;
-(cid:129) announcements of competitive developments, acquisitions or strategic alliances in
+ our financial condition;
+ actual or anticipated fluctuations in our operating performance;
+ news regarding recruitment or departure of key personnel by us or our competitors;
+ the history of, and the prospects for, us and the industry in which we operate;
+ announcements of competitive developments, acquisitions or strategic alliances in
 our industry;
-(cid:129) changes or proposed changes in laws or regulations, or differing interpretations
+ changes or proposed changes in laws or regulations, or differing interpretations
 thereof, affecting our ability to obtain or maintain regulatory approval for our
 services;
-(cid:129) potential litigation or regulatory investigations;
-(cid:129) general market conditions or other developments affecting us or our industry;
-(cid:129) inadequate protection of our intellectual property rights or legal proceedings
+ potential litigation or regulatory investigations;
+ general market conditions or other developments affecting us or our industry;
+ inadequate protection of our intellectual property rights or legal proceedings
 brought against us for infringement of third parties’ intellectual property rights;
-(cid:129) the operating and stock price performance of other companies and industries, and
+ the operating and stock price performance of other companies and industries, and
 other events or factors beyond our control; and
-(cid:129) general political, financial, social and economic conditions.
+ general political, financial, social and economic conditions.
 Moreover, the capital market has from time to time experienced significant price and
 trading volume fluctuations that were unrelated or not directly related to the operating
 performance of the underlying companies in the market. These broad market and industry
@@ -5081,12 +5081,12 @@ government implemented the VAT and the accompanying major fiscal reform project 
 Tax Project,” which mandates the use of information technologies to improve compliance with
 China’s VAT laws. Since its initial launch in 1994, China’s Golden Tax Project has progressed
 through the following phases.
-(cid:129) TheFirstPhasewasintroducedin1994throughanationwidecomputerizedtaxation
+ TheFirstPhasewasintroducedin1994throughanationwidecomputerizedtaxation
 network, including the implementation ofVATcross-auditing software system (增值
 稅交叉稽核系統) and VAT anti-counterfeit control software system (增值稅防偽稅
 控系統), that connected tax authorities at different administrative levels to prevent
 the fraudulent issuance and forgery of VAT invoices.
-(cid:129) The Second Phase was introduced in 1998 and built upon the work of First Phase to
+ The Second Phase was introduced in 1998 and built upon the work of First Phase to
 enhance the nationwide monitoring network and further prevent illegal activities
 related to VAT invoices, through the introduction of four software subsystems,
 includingVATanti-counterfeiting tax control invoicing subsystem (增值稅防偽稅控
@@ -5097,7 +5097,7 @@ and Tax Control Disk (稅控盤), each a specific type of information security
 hardware, were first introduced during the Second Phase to accommodate the
 invoice issuance requirement. See “—Invoice Issuance through VAT Invoicing
 Software” for details.
-(cid:129) TheThirdPhase,launchedin2013,focusesonunifyingandintegratingnationaland
+ TheThirdPhase,launchedin2013,focusesonunifyingandintegratingnationaland
 local taxation data to enable the swift exchange of tax information between national
 and local tax authorities. The Third Phase laid the groundwork for the Business Tax
 to Value-Added Tax reform launched by the PRC government in 2012 as a major
@@ -5121,7 +5121,7 @@ Administration of Taxation of the PRC (“SAT”) during the Third Phase.
 
 === PAGE 128 ===
 INDUSTRY OVERVIEW
-(cid:129) The Fourth Phase (also known as the digital invoice reform), introduced in 2021,
+ The Fourth Phase (also known as the digital invoice reform), introduced in 2021,
 marks the SAT’s transition from “managing tax through invoices” to “managing tax
 through big data.” The Fourth Phase involves collecting, integrating, and analyzing
 tax-related data from more fields through the digital invoice reform. The SAT has
@@ -5198,7 +5198,7 @@ Software are typically referred to as VAT Invoicing Software (Golden Tax Disk ve
 (稅務UKey版)), respectively. The history and development of the three types of information
 security hardware and their respective corresponding VAT Invoicing Software, including our
 cooperation with the SAT, was summarized as follows:
-(cid:129) Golden Tax Disk was the first generation of information security hardware
+ Golden Tax Disk was the first generation of information security hardware
 commissioned by the SAT, and launched during the Second Phase of the GoldenTax
 Project and used for taxpayers’ invoice issuance. The SAT commissioned the
 developmentandmanufactureofGoldenTaxDisk,aswellasthedevelopmentofthe
@@ -5210,13 +5210,13 @@ market.
 
 === PAGE 130 ===
 INDUSTRY OVERVIEW
-(cid:129) The SAT further commissioned the development and manufacture of Tax Control
+ The SAT further commissioned the development and manufacture of Tax Control
 Disk, as well as the development of VAT Invoicing Software (Tax Control Disk
 version). Prior to the introduction of VAT Invoicing Software (Tax UKey version),
 enterprises in China typically purchased Golden Tax Disk or Tax Control Disk and
 installedthecorrespondingSAT’sVATInvoicingSoftwareinordertocompleteVAT
 invoice issuance.
-(cid:129) Since early 2020, the SATlaunchedTax UKey, which has been provided by the SAT
+ Since early 2020, the SATlaunchedTax UKey, which has been provided by the SAT
 to enterprises in China free of charge. Tax UKey is a type of information security
 hardware typically developed by manufacturers selected by local branches of the
 SAT through public tendering process. Since the launch of Tax UKey and VAT
@@ -5265,37 +5265,37 @@ digital invoices facilitates the formation of a nationwide and uniform tax code 
 the total invoice issuance amount, and sets up digital invoice accounts to realize the automatic
 transfer and data collection of invoices. The following sets forth the main differences between
 digital invoices and e-invoices (i.e., digitalized form of traditional paper invoices):
-(cid:129) Pre-issuance process: Before issuance, e-invoices require taxpayers to apply for
+ Pre-issuance process: Before issuance, e-invoices require taxpayers to apply for
 invoice type approval, information security hardware, and invoice numbers from
 relevant tax authorities. In contrast, digital invoices do not require such prepositive
 procedure before issuance.
-(cid:129) Issuance limitation: Same as traditional paper invoices, e-invoices can only be
+ Issuance limitation: Same as traditional paper invoices, e-invoices can only be
 issued within a set quantity and face value limits, which requires taxpayers to apply
 for additional quantity and face value if such limitation is reached. Digital invoices
 utilize a “quota system,” where taxpayers can issue any amount and any number of
 invoices within the total face value granted by the SAT.
-(cid:129) Invoice content: Digital invoices no longer display information such as address and
+ Invoice content: Digital invoices no longer display information such as address and
 bank account, invoice code, and cipher area that is typically found on e-invoices.
 Digital invoices have a 20-digit code, compared to the 8-digit code for e-invoices.
 Digital invoices also eliminate the 8 line-item restriction found on e-invoices.
-(cid:129) Issuance platform: E-invoices are issued on public service platforms and can be
+ Issuance platform: E-invoices are issued on public service platforms and can be
 issued offline. Digital invoices are issued on the Digital Invoice Service Platform,
 and can only be issued online.
 – 121 –
 
 === PAGE 132 ===
 INDUSTRY OVERVIEW
-(cid:129) Invoice types: E-invoices only include generic and special VAT e-invoices. Digital
+ Invoice types: E-invoices only include generic and special VAT e-invoices. Digital
 invoices integrate 17 standard invoice types into one electronic invoice category,
 and covers invoice types such as motor vehicle invoices, electronic passenger
 itineraries for air transportation, rail tickets, and general medical service invoices,
 among others.
-(cid:129) Delivery method: After issuance, e-invoices require the issuer to deliver the
+ Delivery method: After issuance, e-invoices require the issuer to deliver the
 electronic data file (in formats such as open fixed-layout document (“OFD”)) to the
 recipient via email, SMS or mail. On the other hand, digital invoices automatically
 send the electronic data file to both issuer’s and recipient’s digital invoice accounts,
 which can automatically collect data on various types of invoices.
-(cid:129) File format: The electronic data file format for e-invoices is in OFD. Digital
+ File format: The electronic data file format for e-invoices is in OFD. Digital
 invoices add an internationally recognized XML pure data format while retaining
 formats like OFD and PDF.
 Overview of China’s Financial and Tax-related Transaction Digitalization Market
@@ -7252,7 +7252,7 @@ PRE-IPO INVESTMENTS
 Backgrounds of the Pre-IPO Investments
 Set out below the general backgrounds of our SeriesAto Series C+ pre-IPO investments:
 (1) Series A Pre-IPO Investment:
-(cid:129) On December 1, 2017, Shanghai Fosun High Technology (Group) Co., Ltd.
+ On December 1, 2017, Shanghai Fosun High Technology (Group) Co., Ltd.
 (上海復星高科技(集團)有限公司) (“Fosun High-Tech”), Shanghai Fosun
 Weishi Fund (上海復星惟實一期股權投資基金合夥企業(有限合夥)) (“Fosun
 Weishi”), Mr. Huang Miao (黃淼) and Ms. Zhu Liping (朱莉萍) (collectively,
@@ -7270,7 +7270,7 @@ RMB49.5 million, (iii) Mr. Huang Miao subscribed for 45,215 Shares in
 settlement of their convertible loans of RMB500,000, and (iv) Ms. Zhu Liping
 subscribed for 45,215 Shares in settlement of their convertible loans of
 RMB500,000; and
-(cid:129) onSeptember20,2018,Alibaba(China)TechnologyCo.,Ltd.(阿里巴巴(中國)
+ onSeptember20,2018,Alibaba(China)TechnologyCo.,Ltd.(阿里巴巴(中國)
 網絡科技有限公司) (“Alibaba”) entered into a capital increase agreement with
 our Company and our then Shareholders, pursuant to which, among others,
 Alibaba invested approximately RMB317.7 million in our Company, among
@@ -7281,7 +7281,7 @@ Company.
 === PAGE 176 ===
 HISTORY AND CORPORATE STRUCTURE
 (2) Series B Pre-IPO Investment:
-(cid:129) on August 15, 2019, Shenzhen Capital Group Co., Ltd. (深圳市創新投資集團
+ on August 15, 2019, Shenzhen Capital Group Co., Ltd. (深圳市創新投資集團
 有限公司) (“SCGC”), Shenzhen Hongtu Intelligent Equity Investment Fund
 Partnership (Limited Partnership) (深圳市紅土智能股權投資基金合夥企業(有
 限合夥)) (“Shenzhen Hongtu”), Dongguan Hongtu Venture Capital Fund
@@ -7302,12 +7302,12 @@ respectively; and (ii) Shenzhen Oriental Fortune and SME Fund invested
 RMB120.0 million and RMB80.0 million, respectively, in our Company,
 among which RMB6,255,607 and RMB4,170,404 were contributed to the
 registered capital of our Company, respectively;
-(cid:129) on December 24, 2019, Tianjin Duoying and Shenzhen Gongtong Jiayuan
+ on December 24, 2019, Tianjin Duoying and Shenzhen Gongtong Jiayuan
 Management Co., Ltd. (深圳市共同家園管理有限公司) (“Gongtong Jiayuan”)
 entered into a share transfer agreement, pursuant to which, among others,
 Tianjin Duoying transferred 4,347,826 Shares to Gongtong Jiayuan, at a
 consideration of approximately RMB100.0 million;
-(cid:129) onDecember26,2019,FosunHigh-TechandFosunWeishienteredintoashare
+ onDecember26,2019,FosunHigh-TechandFosunWeishienteredintoashare
 transfer agreement with Yancheng Yannan Unicorn Investment Fund
 Partnership (Limited Partnership) (鹽城市鹽南獨角獸投資基金合夥企業(有限
 合夥)) (“Yancheng Yannan Fund”), Mr. Guo Xixing (郭夕興) and Mr. Huang
@@ -7321,14 +7321,14 @@ and RMB2.0 million, respectively; and
 
 === PAGE 177 ===
 HISTORY AND CORPORATE STRUCTURE
-(cid:129) on June 18, 2020, Huida Gaoxin and Hongzheng Junfang Investment Co., Ltd.
+ on June 18, 2020, Huida Gaoxin and Hongzheng Junfang Investment Co., Ltd.
 (紅正均方投資有限公司) (“Hongzheng Junfang”) entered into a share transfer
 agreement, pursuant to which, among others, Huida Gaoxin transferred
 4,687,500 Shares to Hongzheng Junfang at a consideration of RMB102.0
 million. Upon completion of the transaction, Huida Gaoxin ceased to be our
 Shareholder.
 (3) Series C Pre-IPO Investment:
-(cid:129) on January 5, 2021, Jinjiang Fangzhou No. 2 Equity Investment Partnership
+ on January 5, 2021, Jinjiang Fangzhou No. 2 Equity Investment Partnership
 (Limited Partnership) (晉江方舟二號股權投資合夥企業(有限合夥)) (“Jinjiang
 Fangzhou”), Suzhou Wanjia Venture Capital Partnership (Limited Partnership)
 (蘇州萬佳創業投資合夥企業(有限合夥)) (“Suzhou Wanjia”), Suzhou Muhua
@@ -7357,7 +7357,7 @@ RMB340,171, RMB3,401,708, RMB340,171, RMB2,007,008, RMB2,714,563,
 RMB40,820, RMB13,607, RMB10,205, RMB13,607, RMB408,205 and
 RMB108,855 were contributed to the registered capital of our Company,
 respectively;
-(cid:129) on January 20, 2021, Shanghai Dazhong Public Utilities (Group) Co., Ltd. (上
+ on January 20, 2021, Shanghai Dazhong Public Utilities (Group) Co., Ltd. (上
 海大眾公用事業(集團)股份有限公司) (“Dazhong Public”) entered into a share
 transfer agreement with Pusu Capital, pursuant to which Dazhong acquired
 7,000,000 Shares from Pusu Capital at a consideration of RMB182.0 million;
@@ -7365,7 +7365,7 @@ transfer agreement with Pusu Capital, pursuant to which Dazhong acquired
 
 === PAGE 178 ===
 HISTORY AND CORPORATE STRUCTURE
-(cid:129) on June 23, 2021, Pusu Capital entered into share transfer agreements with
+ on June 23, 2021, Pusu Capital entered into share transfer agreements with
 Chongqing Liangjiang Zhongxin Jialiang Financial Technology RMB Equity
 Investment Fund Partnership (Limited Partnership) (重慶兩江中新嘉量金融科
 技人民幣股權投資基金合夥企業(有限合夥))(“ZhongxinJialiang”),Mr.Zhang
@@ -7384,24 +7384,24 @@ RMB 19.5 million, (v) Beijing Cuihu acquired 350,000 Shares from Pusu
 Capital at a consideration of RMB9.1 million. Upon completion of the
 transactions, Pusu Capital ceased to be our Shareholder.
 (4) Series C+ Pre-IPO Investment:
-(cid:129) on November 10, 2021, Ms. Chen and Suqian Jiuzhao Yunlian Equity
+ on November 10, 2021, Ms. Chen and Suqian Jiuzhao Yunlian Equity
 Investment Partnership (Limited Partnership) (宿遷玖兆雲聯股權投資合夥企
 業(有限合夥)) (“Jiuzhao Yunlian”) entered into a share transfer agreement,
 pursuant to which, among others, Ms. Chen transferred 300,000 Shares to
 Jiuzhao Yunlian, at a consideration of RMB7.8 million;
-(cid:129) on November 19, 2021, our Company and our Controlling Shareholders
+ on November 19, 2021, our Company and our Controlling Shareholders
 entered into a capital increase agreement with Jinan Haiwang Equity
 Investment Partnership (Limited partnership) (濟南海望股權投資合夥企業(有
 限合夥)) (“Jinan Haiwang”), pursuant to which, among others, Jinan Haiwang
 invested approximately RMB29.4 million in our Company, among which
 RMB1.0 million was contributed to the registered capital of our Company;
-(cid:129) on November 29, 2021, Shanghai GuoxinVenture Capital Investment Co., Ltd.
+ on November 29, 2021, Shanghai GuoxinVenture Capital Investment Co., Ltd.
 (上海國鑫創業投資有限公司) (“Shanghai Guoxin”) entered into share transfer
 agreements with Ms. Chen and Alibaba, respectively, pursuant to which,
 among others, Shanghai Guoxin acquired 1,000,000 Shares and 3,000,000
 Shares from Ms. Chen andAlibaba, at considerations of RMB26.0 million and
 RMB78.0 million, respectively;
-(cid:129) on November 29, 2021, our Company and our Controlling Shareholders
+ on November 29, 2021, our Company and our Controlling Shareholders
 entered into capital increase agreements with Shanghai Guoxin and Mr. Wen
 Xiaoming (文曉鳴), respectively, pursuant to which, among others, (i)
 Shanghai Guoxin invested RMB46.0 million in our Company, among which
@@ -7413,7 +7413,7 @@ RMB1,564,786 was contributed to the registered capital of our Company and
 (ii) Mr. Wen Xiaoming invested approximately RMB10.0 million in our
 Company, among which RMB340,171 was contributed to the registered capital
 of our Company; and
-(cid:129) on December 27, 2021, Watertek, as the transferor, entered into share transfer
+ on December 27, 2021, Watertek, as the transferor, entered into share transfer
 agreements with 13 transferees, respectively, pursuant to which, among others,
 Watertek transferred an aggregate of 8,536,534 Shares to the transferees at a
 total consideration of RMB221.95 million. Subsequent to the share transfers,
@@ -7475,7 +7475,7 @@ Chuanjiang Investment Co., Ltd. (川江投 192,307 5.0 million
 Investment”)
 Ms. Zhu Liping 82,692 2.15 million
 Mr. Chen Xin (陳欣) 61,538 1.6 million
-(cid:129) On October 17, 2022, Qingdao Hongma Shengshi Private Equity Investment
+ On October 17, 2022, Qingdao Hongma Shengshi Private Equity Investment
 Fund Partnership (Limited Partnership) (青島紅馬盛世私募股權投資基金合夥
 企業（有限合夥）) (“Qingdao Hongma”) entered into a share transfer
 agreementwithGongtongJiayuan(whichwassupplementedbyasupplemental
@@ -8850,17 +8850,17 @@ data analytics capabilities, we facilitate the automated and digitalized busines
 making by financial service providers and other enterprise customers. We have achieved the
 leadership position in the markets we operate in, as evidenced by the following, according to
 the F&S Report:
-(cid:129) we ranked first in China’s cloud financial and tax-related transaction digitalization
+ we ranked first in China’s cloud financial and tax-related transaction digitalization
 marketin2023intermsofrevenue,representingamarketshareof7.1%,andsecond
 in China’s financial and tax-related transaction digitalization market in 2023 in
 terms of revenue, representing a market share of 4.9%(1);
-(cid:129) we ranked first among financial and tax-related transaction digitalization solution
+ we ranked first among financial and tax-related transaction digitalization solution
 providers in China, with approximately 0.7 billion invoice processing requests
 fulfilled through our cloud solutions in 2023;
-(cid:129) werankedsecondamongfinancialandtax-relatedtransactiondigitalizationsolution
+ werankedsecondamongfinancialandtax-relatedtransactiondigitalizationsolution
 providers in China, with approximately 2.6 billion VAT invoices issued through our
 cloud solutions in 2023; and
-(cid:129) we ranked second in China’s transaction-based big data analytics for SMB financing
+ we ranked second in China’s transaction-based big data analytics for SMB financing
 market in 2023 in terms of revenue, representing a market share of 6.4%(2).
 (1) The market size of China’s financial and tax-related transaction digitalization market, as a percentage
 ofthetotaltransactiondigitalizationmarketinChinaintermsofrevenue,was4.0%and3.4%in2019
@@ -9614,10 +9614,10 @@ The following table summarizes our main solution offerings and their respective
 functions and features, principal customers/users and pricing model.
 Principal
 Solutions ProductsandServices KeyFunctionsandFeatures Customers/Users Pricing
-Cloudfinancial&tax Taxinvoicecompliance Enablecustomerstodigitalizethe Enterprisesofall (cid:129) Annualsubscriptionfees;
-digitalization managementsolutions processof,amongothers,taxinvoice sizesacrossvarious (cid:129) Usage-basedfees;
-solutions(雲化財稅數 (票據合規管理解決方 issuance,deliveryandcompliance industrysectors (cid:129) Sales-basedfees;and
-字化解決方案) 案) (cid:129) Solutiondeliveryfees
+Cloudfinancial&tax Taxinvoicecompliance Enablecustomerstodigitalizethe Enterprisesofall Annualsubscriptionfees;
+digitalization managementsolutions processof,amongothers,taxinvoice sizesacrossvarious Usage-basedfees;
+solutions(雲化財稅數 (票據合規管理解決方 issuance,deliveryandcompliance industrysectors Sales-basedfees;and
+字化解決方案) 案) Solutiondeliveryfees
 Financialandtax Enablecustomerstorecord,storeand
 managementsolutions verifytaxinvoicesreceivedbythem,
 (財稅管理解決方案) streamlineaccountingdocument
@@ -9631,13 +9631,13 @@ collaborationsolutions paymentandsettlementwiththeir
 BUSINESS
 Principal
 Solutions ProductsandServices KeyFunctionsandFeatures Customers/Users Pricing
-Data-drivenanalytics Digitalprecision Recommendfinancialproductslaunched Financialservice (cid:129) Sales-basedfees
+Data-drivenanalytics Digitalprecision Recommendfinancialproductslaunched Financialservice Sales-basedfees
 services(數據驅動的 marketingservices(精 byfinancialserviceprovidersto providersand
 分析服務) 準數字營銷服務) potentialproductusers licensedcredit
 reportingagencies
-Riskmanagement (1) Enablecustomerstounderstand (cid:129) Annualsubscriptionfees;
-services(風險管理服 businessperformanceandoperation (cid:129) Usage-basedfees;and
-務) statusofpotentialandexistingusers (cid:129) Project-basedfees
+Riskmanagement (1) Enablecustomerstounderstand Annualsubscriptionfees;
+services(風險管理服 businessperformanceandoperation Usage-basedfees;and
+務) statusofpotentialandexistingusers Project-basedfees
 basedontheirtaxinvoiceand
 transactionrecords
 (2) Recommendpotentialusersof
@@ -9646,12 +9646,12 @@ serviceproviders
 (3) Optimizecustomers’riskcontrol
 modelingandriskmanagement
 measures
-On-premisesfinancial (1) Centralizeandautomatetaxinvoice Largeenterprisesand (cid:129) Softwarelicensefees;
-&taxdigitalization complianceandtaxmanagement corporate (cid:129) Implementationfees;
-solutions(本地部署財 withon-premisesapplication conglomerates (cid:129) Annualmaintenancefees;
+On-premisesfinancial (1) Centralizeandautomatetaxinvoice Largeenterprisesand Softwarelicensefees;
+&taxdigitalization complianceandtaxmanagement corporate Implementationfees;
+solutions(本地部署財 withon-premisesapplication conglomerates Annualmaintenancefees;
 稅數字化解決方案) and
 (2) Collectandstorestructureddatafor
-(cid:129) Hardwareequipmentfees
+ Hardwareequipmentfees
 enterpriseexpenditureandrelated
 taxinvoiceslocallyinacentralized
 database
@@ -9834,7 +9834,7 @@ tax invoices that lack the requisite information or contain errors that may resu
 rejections, and correct such deficiencies before actual issuance. Such function ensures that tax
 invoices issued through our solutions comply with applicable laws and regulations in the
 following aspects.
-(cid:129) Transaction compliance management. Invoices should only be issued for authentic
+ Transaction compliance management. Invoices should only be issued for authentic
 transactions and for actual transaction amount incurred, and fraudulent issuance of
 invoices, including tax invoices, may constitute criminal offense under PRC laws.
 Our solutions synchronize with customers’ internal ERP system to access the
@@ -9843,14 +9843,14 @@ provided and transaction amount. Based on such system records, our solutions
 generatetaxinvoicesthataresupportedbyverifiableandauthentictransactions.The
 automated tax invoice generation process greatly reduces the incidence of non-
 compliant invoices caused by manual errors.
-(cid:129) Risk monitoring and alerts. We issue alerts when it detects potential or existing
+ Risk monitoring and alerts. We issue alerts when it detects potential or existing
 non-compliance incidents to assist enterprises in maintaining compliance with
 relevant tax and invoice regulations. These non-compliance incidents include
 insufficient blank invoices, tax invoice verification failures and incomplete tax
 declaration and filing. Moreover, we monitor enterprises’ daily invoice issuance
 activities and conduct regular checks on underlying invoice and transaction
 information, so as to prevent tax invoice issuance irregularities.
-(cid:129) Format eligibility. Tax invoices must be issued and delivered in compliance with
+ Format eligibility. Tax invoices must be issued and delivered in compliance with
 designated formats, including portable document format (“PDF”) and OFD format.
 Therefore,enterprisesshouldpossesstechnicalcapabilitytogenerateandreviewtax
 invoices in OFD format. Tax invoices generated through our solutions are in OFD
@@ -9955,7 +9955,7 @@ enterprise expenditures, primarily through the following functions.
 
 === PAGE 226 ===
 BUSINESS
-(cid:129) Input VAT management. Upon our customers’receipt of tax invoices issued by their
+ Input VAT management. Upon our customers’receipt of tax invoices issued by their
 transaction partners, our solutions automatically examine information accuracy and
 conduct compliance checks of such tax invoices. See “—Tax Invoice Compliance
 Management Solutions—Tax Invoice Compliance Control” for details. If we
@@ -9965,7 +9965,7 @@ history in tax related matters may be deemed as invalid, and present tax complia
 risks for enterprises that have already recorded or taken tax deductions for such tax
 invoices. Our solutions can continuously monitor tax invoice validity status for our
 customers.
-(cid:129) Expenditure management. Through our solutions, customers can manage enterprise
+ Expenditure management. Through our solutions, customers can manage enterprise
 expenditures, generate expenditure vouchers and make reimbursement payment.
 Moreover, we analyze customers’budget control demands and examine tax invoices
 against the expenditure and voucher information submitted by employees, thereby
@@ -10006,16 +10006,16 @@ Our tax filing management solutions enable customers to complete tax filings, in
 among others, enterprise income tax and VAT filings, within a few clicks. Our solutions also
 improve enterprises’ tax compliance and risk management capabilities, primarily through the
 following functions.
-(cid:129) Tax data collection. Through synchronization with customers’internal systems, our
+ Tax data collection. Through synchronization with customers’internal systems, our
 solutions extract and collect tax data, such as those derived from their financial,
 sales, contract and invoice records, and centralize the management and tracking of
 tax data.
-(cid:129) Automatic tax amount calculations.After collecting relevant tax data, our solutions
+ Automatic tax amount calculations.After collecting relevant tax data, our solutions
 automatically calculate tax payable or return amount pursuant to applicable
 calculation and verification formula. Our solutions adopt configuration similar to
 tax forms and utilize tax declaration guidance for standardized and accurate online
 tax calculations for our customers.
-(cid:129) Centralized tax filing. Customers can generate standard tax declaration forms
+ Centralized tax filing. Customers can generate standard tax declaration forms
 through our solutions, which conducts data and form verification against applicable
 tax calculation and filing rules to ensure accuracy. Customers can then submit and
 complete tax filings with a few simple clicks. Enterprise groups with geographically
@@ -10513,9 +10513,9 @@ the service fees it receives from financial service providers.
 BUSINESS
 The salient terms of our strategic collaboration agreement with Guangxi United are
 summarized as follows.
-(cid:129) Term. The collaboration agreement has a term of three years, automatically
+ Term. The collaboration agreement has a term of three years, automatically
 renewable upon expiration for additional three years.
-(cid:129) Scope of collaboration. We agree to provide enterprise data, invoice records and
+ Scope of collaboration. We agree to provide enterprise data, invoice records and
 other relevant information to Guangxi United, after obtaining necessary
 authorization. Guangxi United agrees to perform data analytics and processing
 based on enterprise data and invoice records supplied by us, produce and deliver
@@ -10525,14 +10525,14 @@ into for each service agreement between Guangxi United and the relevant financia
 service provider for specific services to be rendered. In rare cases, the financial
 service provider, Guangxi United and we will enter into a tripartite service
 agreement.
-(cid:129) Pricing. We charge information collection service fees based on the number of
+ Pricing. We charge information collection service fees based on the number of
 enterprises whose information is supplied to Guangxi United. The information
 collection service fees shall be settled monthly. Guangxi United shall charge
 financial service providers service fees based on the number of enterprises included
 in the enterprise operation reports. Guangxi United generally pays us 95% of the
 service fees it received from financial service providers, which, according to the
 F&S Report, is consistent with the industry average range of 95% to 99%.
-(cid:129) Obligations. We guarantee the legality of information supplied to Guangxi United.
+ Obligations. We guarantee the legality of information supplied to Guangxi United.
 Guangxi United represents that it possesses and shall maintain all requisite licenses
 and qualifications required to perform the collaboration agreement.
 In 2022 and 2023, our revenue attributable to Guangxi United was RMB3.9 million and
@@ -10587,7 +10587,7 @@ Advisor, we believe our measures adopted in ensuring proper enterprise authoriza
 enterprise operation reporting services are effective and sufficient to discharge the aforesaid
 legal obligation as prescribed by the 2021 Administrative Measures, on the basis of the
 following reasons:
-(cid:129) To ensure that consent from enterprises is obtained prior to any service delivery, we
+ To ensure that consent from enterprises is obtained prior to any service delivery, we
 and relevant parties have adopted the following measures and work flow: (1) we
 obtain necessary and proper authorization from enterprises before collecting their
 invoice records and other transaction information and transmitting such information
@@ -10607,7 +10607,7 @@ providedtousbythelicensedcreditreportingagencies;and(5)thefinancialservice
 providers will not be able to access the enterprise operation reports until licensed
 credit reporting agencies and we have been furnished with the abovementioned
 filing numbers.
-(cid:129) According to the Several Provisions on the Prohibition ofActs of Infringement upon
+ According to the Several Provisions on the Prohibition ofActs of Infringement upon
 Trade Secrets (1998 Revision) (關於禁止侵犯商業秘密行為的若干規定(1998年修
 訂)) issued by the StateAdministration for Industry and Commerce of the PRC, acts
 such as theft, inducement, coercion or other unjust means to acquire another party’s
@@ -10622,7 +10622,7 @@ advised that, since we collect enterprise data and invoice records with proper
 authorization for the purpose of providing services to our customers, such data
 collection is considered as with a legitimate purpose pursuant to PRC laws and
 regulations.
-(cid:129) We had not received any inquiry, notice or penalty from any PRC government
+ We had not received any inquiry, notice or penalty from any PRC government
 authority, or any complaint from any user or customer, due to unauthorized data
 usage or information collection for our enterprise operation reporting services.
 As advised by our PRC Legal Advisor, relevant PRC laws and regulations do not
@@ -10660,15 +10660,15 @@ effectiveness of the 2021 Administrative Measures, the possibility is remote tha
 administrative penalties may be imposed on us for our past provision of enterprise operation
 reportingserviceswithoutcompletingtherecord-filingprocedure,onthebasisofthefollowing
 reasons:
-(cid:129) We obtained the authorization from relevant enterprises and through financial
+ We obtained the authorization from relevant enterprises and through financial
 service providers.
-(cid:129) The 2021 Administrative Measures provide legal basis for us to collaborate with
+ The 2021 Administrative Measures provide legal basis for us to collaborate with
 licensed credit reporting agencies.
-(cid:129) The PBOC granted the 18-month compliance period, and we had completed the
+ The PBOC granted the 18-month compliance period, and we had completed the
 adjustment of our enterprise operation reporting services pursuant to the adjusted
 service delivery model during such period. We have been providing our services
 pursuant to the adjusted service delivery model since June 30, 2023.
-(cid:129) As confirmed through consultation by us with the Nanning Central Branch of the
+ As confirmed through consultation by us with the Nanning Central Branch of the
 PBOC on July 26, 2022, with respect to our cooperation with Guangxi United under
 theadjustedservicedeliverymodel,(1)suchadjustedmodelcomplieswiththe2021
 Administrative Measures, (2) the performance of the Legacy Contracts under the
@@ -10692,7 +10692,7 @@ above.
 
 === PAGE 241 ===
 BUSINESS
-(cid:129) During the Track Record Period and up to the Latest Practicable Date, we had not
+ During the Track Record Period and up to the Latest Practicable Date, we had not
 been required by any competent government authorities to complete the record-
 filingprocedureforenterprisecreditreportingbusinessesasaresultofourprovision
 of enterprise operation reporting services. Nor had there been investigations or
@@ -10889,13 +10889,13 @@ product or service to help maintain and upgrade the functions of our products an
 have adopted the integrated product development (“IPD”) methodology for the initial
 development and subsequent iteration of our solutions, which primarily comprises the
 following steps.
-(cid:129) Step 1: Demand analysis. Our product manager and product owner (“PO”) teams
+ Step 1: Demand analysis. Our product manager and product owner (“PO”) teams
 collect, compile and prioritize customer and market demands, government guidance
 and analyze corresponding product functionalities. We then conceptualize such
 demands into minimum deliverable units. We subsequently conduct research to
 understand and analyze the associated challenges, financial profitability, technical
 feasibility in developing the product candidates.
-(cid:129) Step 2: Product development. After a project is approved, our product development
+ Step 2: Product development. After a project is approved, our product development
 teamwilldevisedetailedsprintplanning,whichsetsoutsprintdesignspecifications,
 project progress schedules and resource demands. In the product development stage,
 – 235 –
@@ -10906,7 +10906,7 @@ our product development team identifies system demands, designates design
 requirements, defines system structure, formulate design evaluation reports
 schemes, and sets out development and trial guidelines based on product
 functionality and quality objectives.
-(cid:129) Step 3: Product testing. To ensure the quality of our products, our testing personnel
+ Step 3: Product testing. To ensure the quality of our products, our testing personnel
 devise integrated testing plans, conduct tests on the product candidates, and devise
 greyscale release scheme. Testing personnel are responsible for recording and
 following up on bugs or issues spotted during the testing stage. Upon passing
@@ -10914,11 +10914,11 @@ internal testing, we deliver the products to our customers for trial testing, an
 customers raise reasonable correction or optimization requests, our product
 development team will timely address such requests, and once the customer is
 satisfied with our products, we will conduct product deployment tests.
-(cid:129) Step 4: Product launch and delivery. Product candidates that successfully pass the
+ Step 4: Product launch and delivery. Product candidates that successfully pass the
 testing procedures in Step 3 will be launched and available for customer use. After
 product launches, we continuously collect customer feedback and market response,
 which serve as the basis for further R&D initiative and iterative development.
-(cid:129) Step 5: Product iteration. After product launch, we collect customer feedback,
+ Step 5: Product iteration. After product launch, we collect customer feedback,
 market response, product operation statistics to continuously integrate data and
 analyze interaction behavior and drive product iteration and innovation with such
 data analysis.
@@ -10934,7 +10934,7 @@ management technology, digital signature management technology, digital certific
 management technology and blockchain platform. These technologies provide a safe and
 reliable environment for our customers to conduct their tax invoice and transaction
 management through our solutions in compliance with relevant laws and regulations.
-(cid:129) OFD template management technology (OFD版式管理技術). OFD is the file format
+ OFD template management technology (OFD版式管理技術). OFD is the file format
 prescribed by PRC national standard. OFD is the designated format for invoice
 issuance, delivery and storage and is also the preferred format for the storage,
 exchange and filing of electronic documents, electronic licenses and electronic
@@ -10955,7 +10955,7 @@ devices, computers and other servers. Our OFD template management technology
 therefore equips our services with comprehensive OFD document capability that
 enables our customers to manage their financial and tax matters more conveniently
 and in compliance with relevant taxation and accounting laws and regulations.
-(cid:129) Digital signature management technology (數字簽名管理技術). Our digital
+ Digital signature management technology (數字簽名管理技術). Our digital
 signaturemanagementtechnologyenablese-invoicesissuedthroughoursolutionsto
 comply with the reliability requirement set by the Electronic Signature Law (電子
 簽名法), and our technology satisfies state cryptography requirements to prevent
@@ -10963,14 +10963,14 @@ tampering and counterfeit and ensure signatory authenticity. Our digital signatu
 management technology utilizes various signature algorithms such as MD5 and
 SM2, among others, and is mainly applied in privacy data encryption, OFD
 document service and document integrity verification.
-(cid:129) Digital certificate management technology (數字證書管理技術). Our digital
+ Digital certificate management technology (數字證書管理技術). Our digital
 certificate management technology, utilizing state cryptography algorithms, applies
 to e-invoice management to achieve functions of, among others, identity
 verification, anti-counterfeiting, encryption, and automated processing. Our digital
 certificate management technology, combined with our digital signature
 technologies, can improve the completeness and authenticity of e-invoice data, and
 enhance the reliability of our tax invoice compliance management solutions.
-(cid:129) Blockchain platform technology (區塊鏈平台技術). Based on distributed ledger
+ Blockchain platform technology (區塊鏈平台技術). Based on distributed ledger
 technology and cryptography technology, our blockchain platform technology
 enables collection, transmission, and circulation of e-invoices and digital invoices
 and other transaction vouchers across multiple domains and institutions. Data
@@ -11028,7 +11028,7 @@ BUSINESS
 We also continuously refine our own operational efficiency and upgrade our solutions
 based on cloud technologies, including cloud aggregation technology, auto scaling technology,
 service mesh framework and distributed data storage technology.
-(cid:129) Cloud aggregation technology. The prevalent use of information security hardware
+ Cloud aggregation technology. The prevalent use of information security hardware
 by enterprises in managing their invoice, financial and tax matters creates an
 obstacle for digitalized transformation in these areas, as multiple information
 security hardware installed in scattered geographical regions pose difficulty for the
@@ -11038,12 +11038,12 @@ aggregationtechnologythateffectuatesthedigitalutilization,concurrentconnection
 and multi-scenario application of various information security hardware, enabling
 customers to simultaneously manage all information security hardware through our
 solutions.
-(cid:129) Auto scaling technology. Our solutions utilize auto scaling technology to timely
+ Auto scaling technology. Our solutions utilize auto scaling technology to timely
 scale up or down computing power and memory storage. When customer service
 requests surge, we scale up our computing power to guarantee timely service
 response and stable service provision, and when customer service requests are
 reduced, we scale down computing power to save operating costs.
-(cid:129) Service mesh framework. Cloud architectures typically comprise hundreds of
+ Service mesh framework. Cloud architectures typically comprise hundreds of
 services, all with their own instances that operate in a live environment, which
 presents huge challenges for tracking and making changes to a certain service or
 component without interfering the operation of other services or components. We
@@ -11051,7 +11051,7 @@ adopt service mesh framework that containerizes each service or component and
 separately manages different services or components, so that we can constantly
 refine our product and only need to make updates on a single infrastructure layer of
 our platform without interfering the others.
-(cid:129) Distributed data storage technology. Distributed data storage technology utilizes
+ Distributed data storage technology. Distributed data storage technology utilizes
 object storage, wide-column database, relational database and cache clusters
 technologies to achieve the production, storage, retrieval and analysis of invoice
 data. Specifically, we use object storage technology to store invoice data, wide-
@@ -11157,11 +11157,11 @@ enterprise customers engaged through direct sales was approximately 3,200, 6,900
 in 2021, 2022 and 2023, respectively.
 Our service agreements with direct sales customers for our financial & tax digitalization
 solutions typically include the following major terms.
-(cid:129) Term. The agreement generally ranges from one to five years.
-(cid:129) Service scope. The agreement generally specifies subscribed service modules,
+ Term. The agreement generally ranges from one to five years.
+ Service scope. The agreement generally specifies subscribed service modules,
 maintenance services and hardware equipment purchases, as applicable. It also
 specifies the number of employees and the amount of time required for the project.
-(cid:129) Payment arrangement. We designate different payment arrangement in our service
+ Payment arrangement. We designate different payment arrangement in our service
 contracts based on service types. We set implementation service fees for both cloud
 and on-premises financial & tax digitalization solutions factoring into labor and
 time costs, which are typically paid in installment based on the actual project
@@ -11170,45 +11170,45 @@ development and delivery schedule. Recurring subscription fees for cloud financi
 schedule. For on-premises financial & tax digitalization solutions, we charge
 one-time software license fees. Hardware purchases, if any, shall be settled in a
 one-time payment. Maintenance service fees are paid annually.
-(cid:129) Software installment and testing. We undertake to assist customers with software
+ Software installment and testing. We undertake to assist customers with software
 installment, testing and configuration, as applicable. Both parties typically execute
 inspection reports to confirm software inspection and delivery.
-(cid:129) Confidentiality. Both parties undertake not to transfer, appropriate or disclose data
+ Confidentiality. Both parties undertake not to transfer, appropriate or disclose data
 of or relating to the other party without such parties’ written consent.
-(cid:129) Intellectual property rights. Intellectual property rights owned by each party at the
+ Intellectual property rights. Intellectual property rights owned by each party at the
 contract inception shall remain with the relevant party. Upon customer requests,
 intellectual property rights derived from product customization may belong to our
 customers, provided that such arrangement does not run counter to our intellectual
 property rights and future intellectual property strategy.
-(cid:129) Termination. Either party can terminate the agreement upon the material breach by
+ Termination. Either party can terminate the agreement upon the material breach by
 the other party as stipulated in the agreements and seek damages.
 Service agreements with direct sales customers of data-driven analytics services typically
 include the following major terms.
-(cid:129) Term. The service agreement typically ranged from one to three years.
+ Term. The service agreement typically ranged from one to three years.
 – 242 –
 
 === PAGE 253 ===
 BUSINESS
-(cid:129) Servicescope.Theagreementgenerallyspecifiesservicemodulesthattherespective
+ Servicescope.Theagreementgenerallyspecifiesservicemodulesthattherespective
 customer subscribes to.
-(cid:129) Payment arrangement. Fee and discount schedules are specified in the service
+ Payment arrangement. Fee and discount schedules are specified in the service
 agreement. We typically settle with customers on a monthly basis. For our risk
 analytics services, we charge a project-based fee.
-(cid:129) Undertakings. Both parties undertake to obtain and maintain valid licenses and
+ Undertakings. Both parties undertake to obtain and maintain valid licenses and
 approvals as prescribed by the service agreement. We typically undertake to obtain
 all relevant consent for data utilized or provided to customers and such data service
 complies with applicable laws and regulations.
-(cid:129) Intellectualproperty.Intellectualpropertyrightsownedbyeachpartyatthecontract
+ Intellectualproperty.Intellectualpropertyrightsownedbyeachpartyatthecontract
 inception shall remain with the relevant contract party. Intellectual property rights
 derived from the execution of the service agreements shall belong to our customers.
-(cid:129) Data security. For our enterprise operation reporting services, if the relevant
+ Data security. For our enterprise operation reporting services, if the relevant
 enterprise included in enterprise operation reports withdraws its consent for any
 reasons,theperformanceoftheserviceagreementsshallterminate,andneitherparty
 shall be responsible for such termination. We also undertake to adopt data security
 measures and guarantee the timeliness and stability of data processing and
 transmission. Our customers covenant not to use, transfer, process, copy, sell or
 otherwise disclose contents or data involved in our services.
-(cid:129) Termination. Either party can terminate the agreement upon the material breach by
+ Termination. Either party can terminate the agreement upon the material breach by
 the other party as stipulated in the agreements and seek damages.
 For our digital precision marketing services, we rely on our in-house sales force to
 develop and maintain customer relationships with financial service providers, which are the
@@ -11324,15 +11324,15 @@ Nearly all of our revenue from digital precision marketing services was attribut
 charged to financial service providers for sales of financial products facilitated by us to users
 referred by our marketing agents during the Track Record Period.
 Salient terms of our agreement with marketing agents include the following:
-(cid:129) Term. Our agreement with marketing agents typically has a term of one year,
+ Term. Our agreement with marketing agents typically has a term of one year,
 automatically renewable for a successive one-year term.
-(cid:129) Obligations. Marketing agents are obligated to identify potential financial product
+ Obligations. Marketing agents are obligated to identify potential financial product
 users, refer such users to our online platform and assist them to fill in the basic
 application information on our platform. We have discretion on whether to refer
 such potential users to financial service providers, and we will notify the marketing
 agents of our decision within five business days of receiving basic application
 information of such potential users.
-(cid:129) Undertakings. Marketing agents are required to undertake that the basic application
+ Undertakings. Marketing agents are required to undertake that the basic application
 information supplied by them shall be true, accurate and complete, and marketing
 agentsshallindemnifyusforanylossresultingfromuntrueinformationprovidedby
 marketing agents. Marketing agents further undertake not to transfer, appropriate or
@@ -11341,7 +11341,7 @@ performance of the collaboration agreement. With respect to users that have
 successfully applied for financial products through our services, marketing agents
 undertake not to recommend any other financial products or similar services of our
 competitors during the term of the relevant financial products.
-(cid:129) Minimum performance target. We set minimum performance targets in terms of the
+ Minimum performance target. We set minimum performance targets in terms of the
 number of referred financial product users that successfully apply for financial
 products and the value of financial products purchased by users referred by such
 marketing agents. Should marketing agents fail to meet the designated performance
@@ -11350,19 +11350,19 @@ Record Period, despite that certain marketing agents failed to achieve their
 respective performance targets, we did not terminate collaboration with them for
 such failure, so as to maintain collaborative relationships with our marketing agents
 to support our business needs.
-(cid:129) Referral fees and settlement. Marketing agents are entitled to a referral fee equal to
+ Referral fees and settlement. Marketing agents are entitled to a referral fee equal to
 theproductof(1)thevalueoffinancialproductsthatwefacilitateinsellingwiththe
 assistance of these marketing agents, multiplied by (2) a pre-negotiated referral fee
 ratio. We settle referral fees with marketing agents within 15 business days of
 receiving relevant service fees from financial service providers.
-(cid:129) Confidentiality.Marketingagentsarenotallowedtotransfer,appropriateordisclose
+ Confidentiality.Marketingagentsarenotallowedtotransfer,appropriateordisclose
 user data or information relating to us that are obtained during the performance of
 the collaboration agreement.
 – 246 –
 
 === PAGE 257 ===
 BUSINESS
-(cid:129) Termination. The agreement may be terminated upon mutual consent or material
+ Termination. The agreement may be terminated upon mutual consent or material
 breach as specified in the agreement.
 During the Track Record and up to the Latest Practicable Date, there had not been any
 other past or present relationships (including financing, trust or otherwise) between us and our
@@ -11628,7 +11628,7 @@ BUSINESS
 Our Directors are of the view that our revenue concentration in relation to Customer A
 will not materially and adversely affect our operations and financial performance for the
 following reasons:
-(cid:129) According to the F&S Report, the sales of financial products launched by financial
+ According to the F&S Report, the sales of financial products launched by financial
 service providers in China’s transaction-based big data analytics for SMB financing
 market often depend on the marketing capability of the big data analytics solution
 providers to precisely identify potential financial product users with matching
@@ -11643,7 +11643,7 @@ marketing capabilities to promote such financial product to suitable financial
 product users on a large scale, and we grew our digital precision marketing services
 businessthroughfacilitatingthesalesofsuchfinancialproducttopotentialfinancial
 product users.
-(cid:129) According to the F&S Report, financial service providers in China’s transaction-
+ According to the F&S Report, financial service providers in China’s transaction-
 based big data analytics for SMB financing market have launched a substantial
 number of credit facility products and loan products that give rise to huge potential
 market demands for our digital precision marketing services. We have been actively
@@ -11674,15 +11674,15 @@ year.As we upgrade and optimize our products on a continuous basis, we also prov
 of after-sales services to ensure that our customers are sufficiently and adequately equipped
 with knowledge about our products and services. To this end, we have instituted the following
 after-sales services.
-(cid:129) Manuals and handbooks. Video tutorials, user manuals, and FAQs of our products
+ Manuals and handbooks. Video tutorials, user manuals, and FAQs of our products
 are available on our official website and through the backend of our platform.
-(cid:129) One-on-one after-sale guidance. We designate exclusive after-sales service team
+ One-on-one after-sale guidance. We designate exclusive after-sales service team
 member for certain key customers.
-(cid:129) Online training. We provide our customers with scheduled online training presented
+ Online training. We provide our customers with scheduled online training presented
 by our R&D team ensuring that our customers are familiarized with the various
 functions of our products in a timely manner. Such training includes operation
 demonstration, real-time Q&A and operation coaching.
-(cid:129) Offline training. We provide scheduled offline training to our customers as well,
+ Offline training. We provide scheduled offline training to our customers as well,
 especially customers of our on-premises products and services, helping them fully
 understand our products through guidance on product functions and backend
 operation, collecting feedback from our customers and optimizing our products and
@@ -11862,14 +11862,14 @@ affiliated with our customers that use our various services. Prior to providing 
 we will obtain their prior consent to providing certain personal information relevant to the
 services offered. The following summary sets forth the types of personal information accessed
 and collected through our various solution offerings.
-(cid:129) Tax invoice compliance management solutions. We collect contact, account and
+ Tax invoice compliance management solutions. We collect contact, account and
 device information of individuals affiliated with our customers for service provision
 purposes. We do not provide such personal information to third parties.
-(cid:129) Financial and tax management solutions. We collect contact, account and device
+ Financial and tax management solutions. We collect contact, account and device
 information of individuals affiliated with our customers for service provision
 purposes. We do not provide such personal information to third parties or use such
 information for data mining or personalized recommendation.
-(cid:129) Supply chain collaboration solutions. Similar to aforementioned solutions, we
+ Supply chain collaboration solutions. Similar to aforementioned solutions, we
 primarily collect contact, account and device information of individuals affiliated
 with our customers for service provision purposes. Specifically for our contingent
 workforce management services, we also collect contact, account and real-name
@@ -11879,7 +11879,7 @@ authorization letters signed by such individuals. We will provide such individua
 service providers’name, personal identification numbers, contact and bank account
 information to local tax authorities, payor banks and our enterprise customers, to
 complete our contingent workforce management services.
-(cid:129) Data-driven analytics services. We collect the names, personal identification
+ Data-driven analytics services. We collect the names, personal identification
 numbers and contact information primarily for service provision purposes.
 Non-paying users of our complimentary applications generally need to provide us with
 the names of their companies and their tax identification numbers to use our applications, and
@@ -11991,16 +11991,16 @@ policies to govern information transmission and communication mechanisms within 
 and information access for our personnel at different levels. We implement internal approval
 process to monitor and control employees’information access. In addition, we implement the
 following internal policies to ensure our data privacy:
-(cid:129) Software usage. The software on our internal platform has received and maintained
+ Software usage. The software on our internal platform has received and maintained
 valid IT and safety certificates.
-(cid:129) Internal training. We provide regular trainings to our staff on internal policies and
+ Internal training. We provide regular trainings to our staff on internal policies and
 procedures for data security, on software technical skills to prevent data leakage,
 and on other aspects that are relevant to their day-to-day work.
-(cid:129) Data protection software. Our data protection software is updated timely and
+ Data protection software. Our data protection software is updated timely and
 efficiently to prevent data leakage and cyber-attack.
-(cid:129) Cyber security monitoring. We have established a comprehensive system to detect
+ Cyber security monitoring. We have established a comprehensive system to detect
 and prevent data breaches, cyber threats, and other system vulnerabilities.
-(cid:129) Data encryption and penetration testing. Sensitive business information is routinely
+ Data encryption and penetration testing. Sensitive business information is routinely
 encrypted and we conduct system-wide vulnerability scanning to continually
 improve our data security measures.
 Furthermore, we enter into confidentiality agreements with our employees who have
@@ -12255,7 +12255,7 @@ logistics, and further enhanced our presence in existing industry verticals.Alth
 solutions are not industry-specific, industry-specific marketing strategies and product
 customization are essential for our customer retention. Specifically, we intend to prioritize our
 marketing efforts in the following industry verticals:
-(cid:129) Banking and insurance industries. We have accumulated extensive experiences
+ Banking and insurance industries. We have accumulated extensive experiences
 serving leading banking and insurance companies, including all six major state-
 owned banks in China, 9 of the 12 national joint-stock commercial banks in China,
 and more than 130 insurance companies among the top 176 insurance companies in
@@ -12267,7 +12267,7 @@ costs to switch to other service providers); and the increase in the contract va
 with customers operating in banking and insurance industries from RMB41.5
 million in the four months ended April 30, 2023 to RMB49.6 million in the four
 months ended April 30, 2024.
-(cid:129) Lifestyle services industry. We have accumulated substantial experiences in serving
+ Lifestyle services industry. We have accumulated substantial experiences in serving
 companies in the lifestyle services industry, especially the hotel and catering
 industries. Our customers included five hotel brands among the top 10 hotel brands
 in terms of operation scale ranked by qcc.com, and six catering companies among
@@ -12288,7 +12288,7 @@ lifestyle services industry through strategic cooperation with leading industry
 platforms. For instance, in the catering industry, through cooperation with certain
 leading digitalized service platform and hotel system service provider, we served
 more than 300 restaurants and 800 hotels, respectively.
-(cid:129) Retail and manufacturing industries. Four of the top five enterprises in the home
+ Retail and manufacturing industries. Four of the top five enterprises in the home
 appliances industry ranked by Fortune China are our customers. Retail and
 manufacturing companies are in huge demand for inventory and sales volume
 monitoring capacity and automated reconciliation and payment settlement
@@ -12301,7 +12301,7 @@ monitoring, payment reconciliation and settlement and invoice management. In the
 four months ended April 30, 2024, the contract value with customers in the home
 appliances, high-tech and chemical industries was RMB3.3 million, as compared to
 RMB1.7 million in the four months ended April 30, 2023.
-(cid:129) Logistics industry. According to Frost & Sullivan, we have served seven out of top
+ Logistics industry. According to Frost & Sullivan, we have served seven out of top
 ten listed logistics companies with principal business operations in China ranked by
 Oriental Fortune. We have innovated product function of logistics service fee
 settlement to adapt to customer needs arising from their massive network of local
@@ -12369,16 +12369,16 @@ network in southwestern, central, northeastern and northwestern China.
 Increasing Cross-sales and Up-sales of Our Solutions and Services
 We have been able to expand our customer base and increase their spending on our
 solutions and services, as demonstrated by the following data points.
-(cid:129) In 2021, 2022 and 2023, 118, 129 and 235 of our KAcustomers subscribed to more
+ In 2021, 2022 and 2023, 118, 129 and 235 of our KAcustomers subscribed to more
 than one solution among tax invoice compliance management solutions, financial
 and tax management solutions and supply chain collaboration solutions, accounting
 for 57.6%, 59.4% and 64.2% of the total number of our KA customers in the same
 periods, respectively.
-(cid:129) In 2021, 2022 and 2023, 80, 100 and 165 of our KA customers subscribed to our
+ In 2021, 2022 and 2023, 80, 100 and 165 of our KA customers subscribed to our
 data-driven analytics services and/or on-premises solutions, accounting for 39.0%,
 46.1% and 45.1% of the total number of our KA customers in the same periods,
 respectively.
-(cid:129) In 2021, 2022 and 2023, more than 50% of our top 100 customers, in terms of
+ In 2021, 2022 and 2023, more than 50% of our top 100 customers, in terms of
 revenue contribution, subscribed to more than one solution or service among our
 cloud financial & tax digitalization solutions, data-driven analytics services and
 on-premises solutions.
@@ -12704,19 +12704,19 @@ BUSINESS
 We believe, however, that we are equipped with the ability to compete with other market
 participants and that our ability to compete effectively depends upon many factors both within
 and beyond our control, including:
-(cid:129) profound experience in digitalization of enterprise transactions;
-(cid:129) the popularity, price, utility, ease of use, performance and reliability of our solution
+ profound experience in digitalization of enterprise transactions;
+ the popularity, price, utility, ease of use, performance and reliability of our solution
 and service offerings compared to those of our competitors;
-(cid:129) our ability, compared to the ability of our competitors, to develop new product and
+ our ability, compared to the ability of our competitors, to develop new product and
 service offerings in response to customers’ pain points;
-(cid:129) our ability to scale up by attracting and retaining customers and our comprehensive
+ our ability to scale up by attracting and retaining customers and our comprehensive
 customer base coverage in terms of industry sectors and growth stages;
-(cid:129) the expansiveness and influence of our business collaborators and marketing agents;
-(cid:129) our ability to provide superior customer experience;
-(cid:129) our reputation and brand strength relative to our competitors;
-(cid:129) our ability to attract, retain and motivate talented employees;
-(cid:129) our ability to raise additional capital; and
-(cid:129) acquisitions or consolidation within our industry.
+ the expansiveness and influence of our business collaborators and marketing agents;
+ our ability to provide superior customer experience;
+ our reputation and brand strength relative to our competitors;
+ our ability to attract, retain and motivate talented employees;
+ our ability to raise additional capital; and
+ acquisitions or consolidation within our industry.
 INTELLECTUAL PROPERTY
 We regard our proprietary domain names, copyrights, trademarks, trade secrets, and other
 intellectual property critical to our business operations. As of the Latest Practicable Date, we
@@ -13023,20 +13023,20 @@ The Board sets our strategic direction, ensuring alignment between our ESG strat
 values, and core businesses. The ESG strategy is developed through evaluating, prioritizing,
 and managing these issues and risks. The Board will adopt the following approach to manage
 material ESG issues:
-(cid:129) Identify—The Board will engage internal and external stakeholders (including, but
+ Identify—The Board will engage internal and external stakeholders (including, but
 not limited to, shareholders/investors, the management and employees, customers,
 business partners, suppliers, regulatory authorities, and community/non-
 governmental organizations) to identify material ESG issues and risks inherent in
 our business operations. The Board believes that open dialogue with stakeholders
 plays a crucial role in maintaining our business sustainability.
-(cid:129) Strategic Planning—The Board will set up risk management and internal control
+ Strategic Planning—The Board will set up risk management and internal control
 systems, which are designed to meet our business needs and minimize our risk
 exposure.
-(cid:129) Assess—Apart from assessing the performance of our ESG measures through
+ Assess—Apart from assessing the performance of our ESG measures through
 discussion with our stakeholders, the Board will engage an independent third party
 to identify and assess our performance in respect of environmental protection and
 climate change.
-(cid:129) Review—The Board will review the metrics and progress made against ESG-related
+ Review—The Board will review the metrics and progress made against ESG-related
 goals annually to guide us to achieve better ESG performance. Through our ESG
 policy, a set of systematic risk management practices has been put in place to ensure
 financial and operational functions, compliance control systems, material control,
@@ -13073,10 +13073,10 @@ increased variability in weather patterns, and rising sea levels. While we rely 
 telecommunications network providers for transmission bandwidth and do not own or operate
 data centers, disruptions in telecommunications infrastructure and power outages can still pose
 risks to our business operations.
-(cid:129) Disruptions in telecommunications infrastructure—Extreme weather events such
+ Disruptions in telecommunications infrastructure—Extreme weather events such
 as hurricanes, storms, or floods, can damage or disrupt the telecommunications
 infrastructure, leading to service outages and interruptions in data transmission.
-(cid:129) Power Outages—Extreme weather events can cause widespread power outages,
+ Power Outages—Extreme weather events can cause widespread power outages,
 affecting the availability and reliability of the telecommunications network and our
 provision of services.
 Transition Risks
@@ -13091,17 +13091,17 @@ solutions, may be necessary to mitigate climate risks.
 
 === PAGE 298 ===
 BUSINESS
-(cid:129) Policy and legal changes—Regulatory or policy changes can influence the
+ Policy and legal changes—Regulatory or policy changes can influence the
 availability of services and operating costs for both telecommunications providers
 and us, thereby affecting our capacity to meet customer demands.
-(cid:129) Market—Cost of energy can become more volatile as the demand for energy
+ Market—Cost of energy can become more volatile as the demand for energy
 increases, leading to potential price increases that could impact the operating costs
 ofserverfarmsanddatacenters,andultimatelythepriceschargedbyservercustody
 and/or cloud computing services provided to us.
-(cid:129) Reputation—Given the increasing customer consciousness regarding climate and
+ Reputation—Given the increasing customer consciousness regarding climate and
 sustainability concerns, neglecting climate risks and insufficient sustainability
 practices can lead to reputational damage and the loss of customers.
-(cid:129) Technology—Adoption of sustainable technologies and practices is crucial for
+ Technology—Adoption of sustainable technologies and practices is crucial for
 achieving a low-carbon transition. However, implementing and transitioning to
 these sustainable measures may entail substantial costs and potential disruptions to
 business models or structures during the implementation phase.
@@ -13140,21 +13140,21 @@ subject to any material fine, claim or administrative penalties arising from non
 with applicable environmental laws and regulations. We have adopted the following
 environmental policies to promote our substantially development:
 Resources Management
-(cid:129) Strive to continuously improve our resource management, by responsibly manage
+ Strive to continuously improve our resource management, by responsibly manage
 and utilize energy and water resources for the benefit of the business and society;
 and
-(cid:129) Implement effective energy and water management measures.
+ Implement effective energy and water management measures.
 Energy Efficiency and Emissions Management
-(cid:129) Reduce energy consumption so as to reduce carbon footprint;
-(cid:129) Encourage the adoption of energy-efficient machinery, system and equipment in the
+ Reduce energy consumption so as to reduce carbon footprint;
+ Encourage the adoption of energy-efficient machinery, system and equipment in the
 procurement process;
-(cid:129) Avoidunnecessaryvehicleuseandencourageouremployeestousepublictransport;
+ Avoidunnecessaryvehicleuseandencourageouremployeestousepublictransport;
 and
-(cid:129) Turn off the unnecessary electrical equipment and lights.
+ Turn off the unnecessary electrical equipment and lights.
 Waste Management
-(cid:129) Handle waste in accordance with national and local laws and regulations;
-(cid:129) Minimize the generation of all kinds of waste where applicable; and
-(cid:129) Reuse and recycle as much as possible.
+ Handle waste in accordance with national and local laws and regulations;
+ Minimize the generation of all kinds of waste where applicable; and
+ Reuse and recycle as much as possible.
 – 289 –
 
 === PAGE 300 ===
@@ -13290,53 +13290,53 @@ enhancements in our sustainability practices. Through the establishment of these
 aim to demonstrate our dedication to environmental protection by proactively adopting
 measures to mitigate our environmental impact.
 Category Targets for the next 10 years Plans to achieve targets
-GHG emissions Reduce total greenhouse gas (cid:129) Actively improve energy efficiency to
+GHG emissions Reduce total greenhouse gas Actively improve energy efficiency to
 emission (Scope 1 and Scope 2) reduce GHG emissions from gasoline
 intensity by 10% within and purchased electricity consumption;
 10 years, with the year ended
-December 31, 2022 as the (cid:129) Actively conduct research and explore
+December 31, 2022 as the Actively conduct research and explore
 base year. sustainable technologies and practices
 to minimize our carbon footprint; and
-(cid:129) Closely collaborate with customers,
+ Closely collaborate with customers,
 telecommunications providers and
 industry organizations to develop
 sustainable solutions.
-Energy Reduce total purchased electricity (cid:129) Purchase energy-efficient equipment,
+Energy Reduce total purchased electricity Purchase energy-efficient equipment,
 efficiency consumption intensity by 10% electronic appliances and devices
 within 10 years, with the year throughout the whole Group;
 ended December 31, 2022 as the
-base year. (cid:129) Continuously monitor the energy
+base year. Continuously monitor the energy
 consumption of our offices; and
-(cid:129) Train and educate employees to turn off
+ Train and educate employees to turn off
 unnecessary and idling equipment,
 electronic appliances, and devices.
 Social Responsibility Policies
 Human Resources
 We have adopted policies on compensation and dismissal, equal opportunities, diversity,
 anti-discrimination, training and development and other benefits and welfare which include:
-(cid:129) Ensuring employees receive fair and compensation based on factors such as job
+ Ensuring employees receive fair and compensation based on factors such as job
 responsibilities, skills and market rates;
 – 293 –
 
 === PAGE 304 ===
 BUSINESS
-(cid:129) Ensuring clear procedures and guidelines for recruitment, handling terminations and
+ Ensuring clear procedures and guidelines for recruitment, handling terminations and
 dismissals;
-(cid:129) Establishing an employee performance appraisal management system for evaluation
+ Establishing an employee performance appraisal management system for evaluation
 of the performance of our employees;
-(cid:129) Committed to providing equal opportunities for all individuals regardless of their
+ Committed to providing equal opportunities for all individuals regardless of their
 race, nationality, religion, physical condition, disability, gender, pregnancy, sexual
 orientation, political status, age or any other discrimination prohibited by applicable
 laws and regulations;
-(cid:129) Prohibitingdiscrimination,harassment,andretaliationinallaspectsofemployment;
-(cid:129) Promoting diversity and inclusion in the workplace to foster an inclusive culture;
-(cid:129) Providing training programs to raise awareness about discrimination, promote
+ Prohibitingdiscrimination,harassment,andretaliationinallaspectsofemployment;
+ Promoting diversity and inclusion in the workplace to foster an inclusive culture;
+ Providing training programs to raise awareness about discrimination, promote
 inclusiveness, and prevent discriminatory behaviors;
-(cid:129) Providing a comprehensive benefits package to employees to ensure our
+ Providing a comprehensive benefits package to employees to ensure our
 competitiveness in attracting high-caliber talent;
-(cid:129) Ensuring a safe and healthy workplace and provide necessary resources for
+ Ensuring a safe and healthy workplace and provide necessary resources for
 employee well-being; and
-(cid:129) Providing an appropriate channel and a feedback mechanism for employees to raise
+ Providing an appropriate channel and a feedback mechanism for employees to raise
 internal grievances or complaints.
 Our employee handbook effectively communicates our human resources management
 system, salary management system, reward and punishment system, and code of conduct to our
@@ -13345,8 +13345,8 @@ Occupational Health and Safety
 We strive to provide and maintain a safe and healthy working environment whilst
 complying with all applicable laws and regulations. These include, but not limited to the
 following:
-(cid:129) Law of the PRC on the Prevention and Treatment of Occupational Diseases
-(cid:129) Work Safety Law of the PRC
+ Law of the PRC on the Prevention and Treatment of Occupational Diseases
+ Work Safety Law of the PRC
 – 294 –
 
 === PAGE 305 ===
@@ -13354,12 +13354,12 @@ BUSINESS
 In addition to compliance with laws and regulations, we have implemented occupational
 health and safety guidelines in which our employees are required to strictly comply. Our
 occupational health and safety policy is shown below:
-(cid:129) Ensure establishment of an occupational health and safety management system that
+ Ensure establishment of an occupational health and safety management system that
 complies with applicable laws and regulations;
-(cid:129) Ensure establishment of a system for recording and handling accidents;
-(cid:129) Maintain a health and work safety compliance record;
-(cid:129) Provide a safe and healthy workplace and work systems for all employees; and
-(cid:129) Provide adequate resources for implementing the health and safety plan, employee
+ Ensure establishment of a system for recording and handling accidents;
+ Maintain a health and work safety compliance record;
+ Provide a safe and healthy workplace and work systems for all employees; and
+ Provide adequate resources for implementing the health and safety plan, employee
 training and supervision.
 During the Track Record Period and up to the Latest Practicable Date, we did not
 experience any material accidents involving personal injury or property damage, and we were
@@ -13374,25 +13374,25 @@ We are committed to ensuring the quality of the products and services we offer, 
 have complied with all applicable laws and regulations regarding product responsibility.
 In addition to compliance with laws and regulations, we have adopted measures as
 follows:
-(cid:129) Deliver services that meet industrial standards and fulfill clients’ expectations;
-(cid:129) Provide clear and accurate information to clients regarding services, terms, and
+ Deliver services that meet industrial standards and fulfill clients’ expectations;
+ Provide clear and accurate information to clients regarding services, terms, and
 pricing;
-(cid:129) Safeguard consumer data privacy complying with relevant laws and regulations;
-(cid:129) Establish a comprehensive system to detect and prevent data breaches, cyber threats
+ Safeguard consumer data privacy complying with relevant laws and regulations;
+ Establish a comprehensive system to detect and prevent data breaches, cyber threats
 and other system vulnerabilities;
 – 295 –
 
 === PAGE 306 ===
 BUSINESS
-(cid:129) Implement robust security measures to protect user data from unauthorized access,
+ Implement robust security measures to protect user data from unauthorized access,
 disclosure and alteration;
-(cid:129) Securedataback-upsystemsanddisasterrecoveryplanstominimizetheriskofuser
+ Securedataback-upsystemsanddisasterrecoveryplanstominimizetheriskofuser
 data loss or leakage;
-(cid:129) Develop incident response plans and report cybersecurity incidents to relevant
+ Develop incident response plans and report cybersecurity incidents to relevant
 authorities, and take appropriate measures to mitigate risk;
-(cid:129) Continuously perform R&D to deliver solutions that effectively address customers’
+ Continuously perform R&D to deliver solutions that effectively address customers’
 management and compliance requirement; and
-(cid:129) Establish mechanisms to address complaints and provide timely resolutions to
+ Establish mechanisms to address complaints and provide timely resolutions to
 maintain good customer relations.
 Supply Chain Management
 We regularly assess the pricing, product quality standards, business condition, and
@@ -16731,18 +16731,18 @@ confirmation, we will issue and send invoices to relevant customers, and the cor
 portionofcontractassetswillberecognizedastradereceivables.Thebillingcycleandaverage
 timeframe from recognition of contract assets to subsequent cash settlement for each type of
 our solutions and services are set forth below.
-(cid:129) Cloudfinancial&taxdigitalizationsolutions.Thebillingcycleforcustomersofour
+ Cloudfinancial&taxdigitalizationsolutions.Thebillingcycleforcustomersofour
 cloud financial & tax digitalization solutions charged by usage model is usually 12
 months, and such customers typically maintain lengthy internal procedures for
 verification and confirmation of billing reports and fee payments after receiving the
 invoices. As a result, the timeframe from recognition of contract assets to
 subsequent cash settlement is usually one to 18 months.
-(cid:129) Digital precision marketing services. The billing cycle is typically one month, and
+ Digital precision marketing services. The billing cycle is typically one month, and
 the timeframe from recognition of contract assets to subsequent cash settlement is
 usually one to three months, after taking into consideration of time required for
 preparing billing reports, obtaining customer confirmation, issuing invoices and
 receiving actual payment.
-(cid:129) Risk management services (especially the enterprise operation reporting services).
+ Risk management services (especially the enterprise operation reporting services).
 The billing cycle is typically one month, and therefore, the timeframe from
 recognition of contract assets to subsequent cash settlement is usually one to three
 months,aftertakingintoconsiderationoftimerequiredforpreparingbillingreports,
@@ -16806,7 +16806,7 @@ the revenue for the same period, and multiplied by 365 days for the years ended 
 Our Directors considered that we do not have any material recoverability issue for our
 trade receivables and contract assets and the allowance for expected credit losses was adequate
 and reasonable for the following reasons.
-(cid:129) We estimate and assess the estimated credit loss (“ECL”) rates on trade receivables
+ We estimate and assess the estimated credit loss (“ECL”) rates on trade receivables
 with significant balances and contract assets with significant balances or credit
 impairment individually, based on the probability of default and loss given default,
 adjusted for forward-looking factors. The ECL rates for trade receivables assessed
@@ -16846,7 +16846,7 @@ allowance for credit losses of RMB3.1 million, RMB4.1 million and RMB6.2
 million, respectively, of which 88.4%, 92.1%, and 91.6% related to trade
 receivables, including amounts due from related parties, aged 181 days or above as
 of the same dates, respectively.
-(cid:129) In preparing the financial statements, we have engaged an independent valuer to
+ In preparing the financial statements, we have engaged an independent valuer to
 evaluate the provision for both our trade receivables and contract assets. The
 independent valuer adopted simplified approach and used provision matrix model
 and probability of default and loss, adjusted for forward-looking factors, to assess
@@ -16856,7 +16856,7 @@ believe that the credit loss allowances with respect to our trade receivables an
 contract assets are adequately provisioned, and we do not foresee material
 recoverability issue with respect to our trade receivables and contract assets,
 including those aged 181 days or above.
-(cid:129) To manage risk arising from trade receivables and contract assets, we have policies
+ To manage risk arising from trade receivables and contract assets, we have policies
 in place to ensure that credit terms are made to counterparties with an appropriate
 credit history and management performs ongoing credit evaluations of the
 counterparties. Such credit evaluation includes assessment of credit quality of these
@@ -17016,11 +17016,11 @@ We made judgments and estimates in determining the fair values of the financial
 instruments that are recognized and measured at fair value in the financial statements. To
 indicate the reliability of inputs in determining the fair values, we classified our financial
 instruments into three levels prescribed under the accounting standards:
-(cid:129) Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets
+ Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets
 or liabilities that the entity can access at the measurement date;
-(cid:129) Level 2 inputs are inputs, other than quoted prices included within Level 1, that are
+ Level 2 inputs are inputs, other than quoted prices included within Level 1, that are
 observable for the asset or liability, either directly or indirectly; and
-(cid:129) Level 3 inputs are unobservable inputs for the asset or liability.
+ Level 3 inputs are unobservable inputs for the asset or liability.
 There were no transfers between level 1, level 2 and level 3 during the Track Record
 Period. The following table sets forth the fair value measurement hierarchy of our financial
 assets and liabilities.
@@ -17885,7 +17885,7 @@ Working capital and other
 general purposes 1.0 1.5 2.5 3.5 5.3 6.7
 Total 18.5 24.6 30.6 44.2 58.8 69.6
 The basis and details of our estimated use of the net proceeds are set out as below.
-(cid:129) Approximately 31.5% of the net proceeds, or HK$77.5 million (RMB71.0 million),
+ Approximately 31.5% of the net proceeds, or HK$77.5 million (RMB71.0 million),
 will be used to upgrade and enhance the functions and features of our solutions and
 further expand our solution portfolio. See “Business—Growth Strategies—Continue
 to enrich solution functions and expand solution portfolio” for details.
@@ -18013,7 +18013,7 @@ million of the net proceeds from the Global Offering will be used to
 provide salary and compensation for such personnel. Approximately
 HK$3.4 million will be used to purchase software and hardware
 equipment for such personnel’s use in office.
-(cid:129) Approximately 29.4% of the net proceeds, or HK$72.5 million (RMB66.4
+ Approximately 29.4% of the net proceeds, or HK$72.5 million (RMB66.4
 million), will be used to enhance R&D capabilities. See “Business—Growth
 Strategies—Invest in core technologies and drive product innovation on Baiwang
 Cloud platform” for details.
@@ -18077,7 +18077,7 @@ retention.
 
 === PAGE 428 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) Approximately 19.3% of the net proceeds, or HK$47.5 million (RMB43.5 million),
+ Approximately 19.3% of the net proceeds, or HK$47.5 million (RMB43.5 million),
 will be used to develop our sales and marketing initiatives. We intend to build and
 scale our sales network in southwestern, central, northeastern and northwestern
 China to establish a nationwide customer network. We intend to recruit a total of
@@ -18089,7 +18089,7 @@ marketing. We expect annual salary and compensation for these personnel to range
 from RMB0.2 million to RMB0.4 million. See “Business—Growth
 Strategies—Expand customer base in more industry verticals and improve
 monetization opportunities” for details.
-(cid:129) Approximately 11.5% of the net proceeds, or HK$28.2 million (RMB25.8 million),
+ Approximately 11.5% of the net proceeds, or HK$28.2 million (RMB25.8 million),
 will be used to collaborate with, and selectively pursue strategic investment and
 acquisition opportunities that are complementary or synergistic with our businesses
 to expand our existing product and service offerings, improve our technology
@@ -18116,7 +18116,7 @@ China.Asofthedateofthisprospectus,wehavenotidentifiedanyinvestmenttarget
 or entered into any definitive investment agreement. See “Business—Growth
 Strategies—Cultivatebusinessecosystemthroughstrategiccooperation,investment,
 mergers and acquisitions” for details.
-(cid:129) Approximately 8.3% of the net proceeds, or HK$20.5 million (RMB18.8 million),
+ Approximately 8.3% of the net proceeds, or HK$20.5 million (RMB18.8 million),
 for working capital and other general corporate purposes.
 – 418 –
 
@@ -18782,13 +18782,13 @@ percentages of the total number of Offer Shares to be offered under the Global O
 certain prescribed total demand levels in the Hong Kong Public Offering are reached.
 Assuming that the Over-allotment Option is not exercised, the allocation of the Offer
 Shares shall be subject to reallocation on the following basis:
-(cid:129) 926,200 Offer Shares are initially available in the Hong Kong Public Offering,
+ 926,200 Offer Shares are initially available in the Hong Kong Public Offering,
 representing approximately 10.0% of the Offer Shares initially available under the
 Global Offering;
-(cid:129) thefinalOfferPriceshallbefixedatorabovetheindicativeOfferPricerangestated
+ thefinalOfferPriceshallbefixedatorabovetheindicativeOfferPricerangestated
 in this Prospectus.
 in the event that the International Offer Shares are fully subscribed or over-subscribed:
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 15 times or more but less than 50 times of the total number of
 Offer Shares initially available for subscription under the Hong Kong Public
 Offering,thentheOfferShareswillbereallocatedtotheHongKongPublicOffering
@@ -18796,7 +18796,7 @@ from the International Offering, so that the total number of Offer Shares availa
 under the Hong Kong Public Offering will be 2,778,600 Offer Shares, representing
 30% of the total number of Offer Shares initially available under the Global
 Offering;
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 50 times or more but less than 100 times of the total number of
 Offer Shares initially available for subscription under the Hong Kong Public
 Offering,thentheOfferShareswillbereallocatedtotheHongKongPublicOffering
@@ -18808,7 +18808,7 @@ Offering;
 
 === PAGE 447 ===
 STRUCTURE OF THE GLOBAL OFFERING
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 100 times or more of the total number of Offer Shares initially
 available for subscription under the Hong Kong Public Offering, then the Offer
 Shares will be reallocated to the Hong Kong Public Offering from the International
@@ -19147,18 +19147,18 @@ addresses above.
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or any person(s) for whose benefit you
 are applying:
-(cid:129) are 18 years of age or older;
-(cid:129) have a Hong Kong address (for the White Form eIPO service only); and
-(cid:129) are outside the United States (within the meaning of Regulation S) or are a person
+ are 18 years of age or older;
+ have a Hong Kong address (for the White Form eIPO service only); and
+ are outside the United States (within the meaning of Regulation S) or are a person
 described in paragraph (h)(3) of Rule 902 of Regulation S.
 If you apply for Hong Kong Offer Shares online through the White Form eIPO service,
 in addition to the above, you must also:
-(cid:129) have a valid Hong Kong identity card number; and
+ have a valid Hong Kong identity card number; and
 – 445 –
 
 === PAGE 456 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) provide a valid e-mail address and a contact telephone number.
+ provide a valid e-mail address and a contact telephone number.
 Ifanapplicationismadebyapersonunderapowerofattorney,ourCompany,theOverall
 Coordinators, as our Company’s agent, may accept it at their discretion, and on any conditions
 they think fit, including requiring evidence of the attorney’s authority.
@@ -19170,14 +19170,14 @@ electronic application instructions via CCASS terminals, please contact them for
 required for the application.
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Offer Shares
 if:
-(cid:129) you are an existing beneficial owner of Shares and/or a substantial shareholder of
+ you are an existing beneficial owner of Shares and/or a substantial shareholder of
 any of our Company’s subsidiaries;
-(cid:129) you are a director, supervisor or chief executive of our Company and/or any of our
+ you are a director, supervisor or chief executive of our Company and/or any of our
 Company’s subsidiaries;
-(cid:129) you are a close associate of any of the above persons;
-(cid:129) aconnectedpersonoftheCompanyorapersonwhowillbecomeaconnectedperson
+ you are a close associate of any of the above persons;
+ aconnectedpersonoftheCompanyorapersonwhowillbecomeaconnectedperson
 of the Company immediately upon the completion of the Global Offering; or
-(cid:129) you have been allocated or have applied for any International Offer Shares or
+ you have been allocated or have applied for any International Offer Shares or
 otherwise participate in the International Offering.
 – 446 –
 
@@ -19314,9 +19314,9 @@ above.
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -19573,21 +19573,21 @@ application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the H Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “—A.Applications for Hong Kong Offer Shares—5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
 – 456 –
 
 === PAGE 467 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted H Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -19698,13 +19698,13 @@ You may refer to “—E. Severe WeatherArrangements” in this section.
 (E) SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Thursday, July 4, 2024 if, there is:
-(cid:129) a tropical cyclone warning signal number 8 or above;
+ a tropical cyclone warning signal number 8 or above;
 – 459 –
 
 === PAGE 470 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) a black rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a black rainstorm warning; and/or
+ Extreme Conditions,
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Thursday, July 4,
 2024.
@@ -19783,23 +19783,23 @@ supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund cheque and White Form e-Refund payment
+ processing your application and refund cheque and White Form e-Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of
 allocation of Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the H
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the H
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the H Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the H Shares and identifying any
 duplicate applications for the H Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the H Shares, such as dividends,
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the H Shares, such as dividends,
 rights issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the H Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the H Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the H Shares and/or regulators and/or any other purposes to which
 applicants and holders of the H Shares may from time to time agree.
@@ -19813,21 +19813,21 @@ for and holders of Hong Kong Offer Shares will be kept confidential but the Comp
 H Share Registrar may, to the extent necessary for achieving any of the above purposes,
 disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to, from
 or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving bank and
+ the Company’s appointed agents such as financial advisers, receiving bank and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and
 operating FINI and CCASS (including where applicants for the Hong Kong Offer
 Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H
 Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of personal data
@@ -20306,20 +20306,20 @@ set out below.
 4.1 Basis of consolidation
 The Historical Financial Information incorporates the financial statements of the Company and entities
 controlled by the Group. Control is achieved when the Company:
-(cid:129) has power over the investee;
-(cid:129) is exposed, or has rights, to variable returns from its involvement with the investee; and
-(cid:129) has the ability to use its power to affect its returns.
+ has power over the investee;
+ is exposed, or has rights, to variable returns from its involvement with the investee; and
+ has the ability to use its power to affect its returns.
 The Group reassesses whether or not it controls an investee if facts and circumstances indicate that there are
 changes to one or more of the three elements of control listed above.
 WhentheGrouphaslessthanamajorityofthevotingrightsofaninvestee,ithaspowerovertheinvesteewhen
 the voting rights are sufficient to give it the practical ability to direct the relevant activities of the investee
 unilaterally.TheGroupconsidersallrelevantfactsandcircumstancesinassessingwhetherornottheGroup’svoting
 rights in an investee are sufficient to give it power, including:
-(cid:129) the size of the Group’s holding of voting rights relative to the size and dispersion of holdings of the
+ the size of the Group’s holding of voting rights relative to the size and dispersion of holdings of the
 other vote holders;
-(cid:129) potential voting rights held by the Group, other vote holders or other parties;
-(cid:129) rights arising from other contractual arrangements; and
-(cid:129) any additional facts and circumstances that indicate that the Group has, or does not have, the current
+ potential voting rights held by the Group, other vote holders or other parties;
+ rights arising from other contractual arrangements; and
+ any additional facts and circumstances that indicate that the Group has, or does not have, the current
 ability to direct the relevant activities at the time that decisions need to be made, including voting
 patterns at previous shareholders’meetings.
 – I-13 –
@@ -20356,16 +20356,16 @@ Framework for the Preparation and Presentation of Financial Statements (replaced
 Framework for Financial Reporting issued in September 2010).
 Attheacquisitiondate,theidentifiableassetsacquiredandtheliabilitiesassumedarerecognizedattheir
 fair value, except that:
-(cid:129) deferredtaxassetsorliabilities,andassetsorliabilitiesrelatedtoemployeebenefitarrangements
+ deferredtaxassetsorliabilities,andassetsorliabilitiesrelatedtoemployeebenefitarrangements
 are recognized and measured in accordance with IAS 12 Income Taxes and IAS 19 Employee
 Benefits respectively;
-(cid:129) liabilities or equity instruments related to share-based payment arrangements of the acquiree or
+ liabilities or equity instruments related to share-based payment arrangements of the acquiree or
 share-based payment arrangements of the Group entered into to replace share-based payment
 arrangements of the acquiree are measured in accordance with IFRS 2 at the acquisition date;
-(cid:129) assets (or disposal groups) that are classified as held for sale in accordance with IFRS 5
+ assets (or disposal groups) that are classified as held for sale in accordance with IFRS 5
 Non-currentAssetsHeldforSaleandDiscontinuedOperationsaremeasuredinaccordancewith
 that standard; and
-(cid:129) leaseliabilitiesarerecognizedandmeasuredatthepresentvalueoftheremainingleasepayments
+ leaseliabilitiesarerecognizedandmeasuredatthepresentvalueoftheremainingleasepayments
 (asdefinedinIFRS16)asiftheacquiredleasesarenewleasesattheacquisitiondate,exceptfor
 leases for which (a) the lease term ends within 12 months of the acquisition date; or (b) the
 underlying asset is of low value. Right-of-use assets are recognized and measured at the same
@@ -20443,11 +20443,11 @@ Aperformance obligation represents a good or service (or a bundle of goods or se
 series of distinct goods or services that are substantially the same.
 Control is transferred over time and revenue is recognized over time by reference to the progress towards
 complete satisfaction of the relevant performance obligation if one of the following criteria is met:
-(cid:129) the customer simultaneously receives and consumes the benefits provided by the Group’s performance
+ the customer simultaneously receives and consumes the benefits provided by the Group’s performance
 as the Group performs;
-(cid:129) theGroup’sperformancecreatesorenhancesanassetthatthecustomercontrolsastheGroupperforms;
+ theGroup’sperformancecreatesorenhancesanassetthatthecustomercontrolsastheGroupperforms;
 or
-(cid:129) the Group’s performance does not create an asset with an alternative use to the Group and the Group
+ the Group’s performance does not create an asset with an alternative use to the Group and the Group
 has an enforceable right to payment for performance completed to date.
 Otherwise,revenueisrecognizedatapointintimewhenthecustomerobtainscontrolofthedistinctgoodor
 service.
@@ -20626,10 +20626,10 @@ months or less from the commencement date and do not contain a purchase option. 
 short-term leases are recognized as expense on a straight-line basis over the lease term.
 Right-of-use assets
 The cost of right-of-use assets includes:
-(cid:129) the amount of the initial measurement of the lease liability;
-(cid:129) anyleasepaymentsmadeatorbeforethecommencementdate,lessanyleaseincentivesreceived;
-(cid:129) any initial direct costs incurred by the Group; and
-(cid:129) an estimate of costs to be incurred by the Group in dismantling and removing the underlying
+ the amount of the initial measurement of the lease liability;
+ anyleasepaymentsmadeatorbeforethecommencementdate,lessanyleaseincentivesreceived;
+ any initial direct costs incurred by the Group; and
+ an estimate of costs to be incurred by the Group in dismantling and removing the underlying
 assets, restoring the site on which it is located or restoring the underlying asset to the condition
 required by the terms and conditions of the lease.
 Right-of-useassetsaremeasuredatcost,lessanyaccumulateddepreciationandimpairmentlosses,and
@@ -20647,16 +20647,16 @@ presentvalueofleasepaymentsthatareunpaidatthatdate.Incalculatingthepresentvalueo
 theGroupusestheincrementalborrowingrateattheleasecommencementdateiftheinterestrateimplicitin
 the lease is not readily determinable.
 The lease payments include:
-(cid:129) fixedpayments(includingin-substancefixedpayments)lessanyleaseincentivesreceivable;and
-(cid:129) payments of penalties for terminating a lease, if the lease term reflects the Group exercising an
+ fixedpayments(includingin-substancefixedpayments)lessanyleaseincentivesreceivable;and
+ payments of penalties for terminating a lease, if the lease term reflects the Group exercising an
 option to terminate the lease.
 After the commencement date, lease liabilities are adjusted by interest accretion and lease payments.
 TheGroupremeasuresleaseliabilities(andmakesacorrespondingadjustmenttotherelatedright-of-use
 assets) whenever:
-(cid:129) theleasetermhaschangedorthereisachangeintheassessmentofexerciseofapurchaseoption,
+ theleasetermhaschangedorthereisachangeintheassessmentofexerciseofapurchaseoption,
 inwhichcasetherelatedleaseliabilityisremeasuredbydiscountingtherevisedleasepayments
 using a revised discount rate at the date of reassessment.
-(cid:129) theleasepaymentschangeduetochangesinmarketrentalratesfollowingamarketrentreview,
+ theleasepaymentschangeduetochangesinmarketrentalratesfollowingamarketrentreview,
 inwhichcasestherelatedleaseliabilityisremeasuredbydiscountingtherevisedleasepayments
 using the initial discount rate.
 – I-20 –
@@ -20667,9 +20667,9 @@ The Group presents lease liabilities as a separate line item on the consolidated
 position.
 Lease modifications
 The Group accounts for a lease modification as a separate lease if:
-(cid:129) themodificationincreasesthescopeoftheleasebyaddingtherighttouseoneormoreunderlying
+ themodificationincreasesthescopeoftheleasebyaddingtherighttouseoneormoreunderlying
 assets; and
-(cid:129) theconsiderationfortheleasesincreasesbyanamountcommensuratewiththestand-aloneprice
+ theconsiderationfortheleasesincreasesbyanamountcommensuratewiththestand-aloneprice
 fortheincreaseinscopeandanyappropriateadjustmentstothatstand-alonepricetoreflectthe
 circumstances of the particular contract.
 For a lease modification that is not accounted for as a separate lease, the Group remeasures the lease
@@ -20905,9 +20905,9 @@ net carrying amount on initial recognition.
 Financial assets
 Classification and subsequent measurement
 Financial assets that meet the following conditions are subsequently measured at amortized cost:
-(cid:129) thefinancialassetisheldwithinabusinessmodelwhoseobjectiveistocollectcontractualcash
+ thefinancialassetisheldwithinabusinessmodelwhoseobjectiveistocollectcontractualcash
 flows; and
-(cid:129) the contractual terms give rise on specified dates to cash flows that are solely payments of
+ the contractual terms give rise on specified dates to cash flows that are solely payments of
 principal and interest on the principal amount outstanding.
 – I-25 –
 
@@ -20965,14 +20965,14 @@ historical experience and forward-looking information that is available without 
 APPENDIX I ACCOUNTANTS’ REPORT
 In particular, the following information is taken into account when assessing whether credit risk has
 increased significantly:
-(cid:129) anactualorexpectedsignificantdeteriorationinthefinancialinstrument’sexternal(ifavailable)
+ anactualorexpectedsignificantdeteriorationinthefinancialinstrument’sexternal(ifavailable)
 or internal credit rating;
-(cid:129) significantdeteriorationinexternalmarketindicatorsofcreditrisk,e.g.asignificantincreasein
+ significantdeteriorationinexternalmarketindicatorsofcreditrisk,e.g.asignificantincreasein
 the credit spread, the credit default swap prices for the debtor;
-(cid:129) existing or forecast adverse changes in business, financial or economic conditions that are
+ existing or forecast adverse changes in business, financial or economic conditions that are
 expected to cause a significant decrease in the debtor’s ability to meet its debt obligations;
-(cid:129) an actual or expected significant deterioration in the operating results of the debtor;
-(cid:129) an actual or expected significant adverse change in the regulatory, economic, or technological
+ an actual or expected significant deterioration in the operating results of the debtor;
+ an actual or expected significant adverse change in the regulatory, economic, or technological
 environmentofthedebtorthatresultsinasignificantdecreaseinthedebtor’sabilitytomeetits
 debt obligations.
 Irrespective of the outcome of the above assessment, the Group presumes that the credit risk has
@@ -21022,9 +21022,9 @@ accordancewiththecontractandthecashflowsthattheGroupexpectstoreceive,discounteda
 interest rate determined at initial recognition.
 For collective assessment, the Group takes into consideration the following characteristics when
 formulating the grouping:
-(cid:129) Past-due status;
-(cid:129) Nature, size and industry of debtors; and
-(cid:129) External credit ratings where available.
+ Past-due status;
+ Nature, size and industry of debtors; and
+ External credit ratings where available.
 The grouping is regularly reviewed by the Directors to ensure the constituents of each group continue
 to share similar credit risk characteristics.
 The Group recognizes an impairment gain or loss in profit or loss for all financial instruments.
@@ -21059,13 +21059,13 @@ ofanacquirerinabusinesscombinationtowhichIFRS3applies,(ii)heldfortradingor(iii)i
 as at FVTPL.
 A financial liability other than a financial liability held for trading or contingent consideration of an
 acquirer in a business combination may be designated as at FVTPL upon initial recognition if:
-(cid:129) suchdesignationeliminatesorsignificantlyreducesameasurementorrecognitioninconsistency
+ suchdesignationeliminatesorsignificantlyreducesameasurementorrecognitioninconsistency
 that would otherwise arise; or
-(cid:129) the financial liability forms part of a group of financial assets or financial liabilities or both,
+ the financial liability forms part of a group of financial assets or financial liabilities or both,
 whichismanagedanditsperformanceisevaluatedonafairvaluebasis,inaccordancewiththe
 Group’sdocumentedriskmanagementorinvestmentstrategy,andinformationaboutthegrouping
 is provided internally on that basis; or
-(cid:129) itformspartofacontractcontainingoneormoreembeddedderivatives,andIFRS9permitsthe
+ itformspartofacontractcontainingoneormoreembeddedderivatives,andIFRS9permitsthe
 entire combined contract to be designated as at FVTPL.
 For financial liabilities that are designated as at FVTPL, the amount of change in the fair value of the
 financial liability that is attributable to changes in the credit risk of that liability is recognized in other
@@ -21109,9 +21109,9 @@ setofftherecognizedamounts;andintendseithertosettleonanetbasis,ortorealizetheass
 liability simultaneously.
 4.19 Cash and cash equivalents
 For the purposes of the consolidated statements of cash flows, cash and cash equivalents consist of:
-(cid:129) cash, which comprises of cash on hand and demand deposits, excluding bank balances that are subject
+ cash, which comprises of cash on hand and demand deposits, excluding bank balances that are subject
 to regulatory restrictions that result in such balances no longer meeting the definition of cash; and
-(cid:129) cash equivalents, which comprises of short-term (generally with original maturity of three months or
+ cash equivalents, which comprises of short-term (generally with original maturity of three months or
 less), highly liquid investments that are readily convertible to a known amount of cash and which are
 subjecttoaninsignificantriskofchangesinvalue.Cashequivalentsareheldforthepurposeofmeeting
 short-term cash commitments rather than for investment or other purposes.
@@ -24080,8 +24080,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the unaudited pro forma financial information reflects the proper application of
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’judgment, having regard to
 the reporting accountants’ understanding of the nature of the Group, the event or transaction

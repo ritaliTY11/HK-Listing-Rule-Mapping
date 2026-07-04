@@ -3758,19 +3758,19 @@ Packaging
 Design Manufacturing
 • Silicon Wafer and Testing
 White Goods
-(cid:129) Photoresist
-(cid:129) Polishing Material Fabless Model
-(cid:129) Sputtering Target Electric Tools
-(cid:129) Others Fabless companies are responsible for the design, fab Power
+ Photoresist
+ Polishing Material Fabless Model
+ Sputtering Target Electric Tools
+ Others Fabless companies are responsible for the design, fab Power
 companies are responsible for the manufacturing, and Sports and Leisure
 packaging and testing factories are responsible for the
 packaging and testing of BLDC motor control and driver
 Equipment chips. Stator Industrial
-(cid:129) Lithography Machine IDM Model Automotive
-(cid:129) Etch Equipment Rotor
-(cid:129) Packaging Equipment IDM integrates the design, manufacturing, packaging Robots
-(cid:129) Cleaning Equipment and testing of BLDC motor control and driver chips and Sensor
-(cid:129) Others other industrial chain.
+ Lithography Machine IDM Model Automotive
+ Etch Equipment Rotor
+ Packaging Equipment IDM integrates the design, manufacturing, packaging Robots
+ Cleaning Equipment and testing of BLDC motor control and driver chips and Sensor
+ Others other industrial chain.
 Others
 Source: Frost&Sullivan
 – 92 –
@@ -5202,14 +5202,14 @@ are the first motor control IC company in China with dedicated teams specializin
 technological fields.
 Our comprehensive achievement of technologies in the three core technological fields include:
 IC design Motor control algorithms Motor design
-(cid:2) ME core (our proprietary (cid:2) High torque density
+ ME core (our proprietary High torque density
 motor control processor core)
-(cid:2) Sensorless FOC algorithms
-(cid:2) Hardware-based algorithms (cid:2) Three-phase low-speed
-(cid:2) Sensorless high-torque motor motors
+ Sensorless FOC algorithms
+ Hardware-based algorithms Three-phase low-speed
+ Sensorless high-torque motor motors
 startup
-(cid:2) Functional integration ability
-in chip products (cid:2) Ultra-thin motors
+ Functional integration ability
+in chip products Ultra-thin motors
 Please see “Our Core Technological Strengths” in this section for details of these technologies.
 The synergies among our IC design, motor control algorithms, and motor design allow us to
 deliver high-quality products that satisfy the needs of our end customers’ diverse applications. Guided

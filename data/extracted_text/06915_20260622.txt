@@ -4508,20 +4508,20 @@ essential to maintaining product stability during transport. Finally, healthcare
 administer antiserum products in hospitals, clinics, and emergency settings to treat patients
 effectively. The following chart illustrates the industry chain of antiserum market:
 Industry Chain Analysis of Antiserum Market
-(cid:129) Providers of biological
+ Providers of biological
 Blood Collection
 materials, chemicals and
-(cid:129) Raw material supply
+ Raw material supply
 reagents for serum
-Upstream (cid:129) Development and testing of target antigen
+Upstream Development and testing of target antigen
 processing
-(cid:129) Animal immunization
+ Animal immunization
 Raw Serum Extraction and Customer Lot Testing Storage and
 Process Purification and Reservations Distribution
-(cid:129) Antiserum products
+ Antiserum products
 Midstream manufacturers
-(cid:129) Distribution channels
-Downstream Pharmaceutical Distributors Healthcare Institutions (cid:129) End-user industries
+ Distribution channels
+Downstream Pharmaceutical Distributors Healthcare Institutions End-user industries
 Source: Literature Review, Frost & Sullivan Analysis
 Key techniques in the production of antiserum products include, among other:
 . Development and Testing of Antigen: The target antigens, whether typically inactivated
@@ -5467,7 +5467,7 @@ Hemostatics Vitamin K3
 others
 Tetanus Antitoxin
 therapeutics
-Recombinant Porcine Interferon (cid:2)
+Recombinant Porcine Interferon 
 Infectious Disease Drugs Penicillin
 Bursal Peptide Injection
 Immunomodulators

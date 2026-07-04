@@ -37,7 +37,7 @@ Nominalvalue : HK$0.01perShare
 Stockcode : 2536
 SoleSponsor,SoleOverallCoordinator,JointGlobalCoordinator,JointBookrunnerandJointLeadManager
 JointGlobalCoordinators,JointBookrunnersandJointLeadManagers
-(cid:64)(cid:58)(cid:57)(cid:41)(cid:1047)(cid:2123)(cid:11498)(cid:26290)
+ 
 JointBookrunnersandJointLeadManagers
 HongKongExchangesandClearingLimited,TheStockExchangeofHongKongLimitedandHongKongSecuritiesClearingCompanyLimitedtakenoresponsibilityforthe
 contentsofthisprospectus,makenorepresentationastoitsaccuracyorcompletenessandexpresslydisclaimanyliabilitywhatsoeverforanylosshowsoeverarisingfromorin

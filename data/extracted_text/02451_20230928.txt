@@ -151,11 +151,11 @@ Thursday, September 28
 Latest time to complete electronic applications
 under the HK eIPO White Form service through
 one of the ways below:
-(cid:129) the IPO App, which can be downloaded by
+ the IPO App, which can be downloaded by
 searching “IPO App” in App Store or
 Google Play or downloaded at
 www.hkeipo.hk/IPOApp or www.tricorglobal.com/IPOApp
-(cid:129) the designated website www.hkeipo.hk(Note 2) . . . . . . . . . . . . . . . . . . . . .11:30 a.m. on
+ the designated website www.hkeipo.hk(Note 2) . . . . . . . . . . . . . . . . . . . . .11:30 a.m. on
 Wednesday, October 4
 Application lists of the Hong Kong Public
 Offering open(Note 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11:45 a.m. on
@@ -180,11 +180,11 @@ Expected Price Determination Date(Note 5) . . . . . . . . . . . . . . . . . . . 
 === PAGE 7 ===
 EXPECTED TIMETABLE
 Announcement of:
-(cid:129) the Offer Price;
-(cid:129) the indication of the levels of interest in the
+ the Offer Price;
+ the indication of the levels of interest in the
 International Offering and the level of applications
 in the Hong Kong Public Offering; and
-(cid:129) the basis of allocation of the Hong Kong Offer Shares
+ the basis of allocation of the Hong Kong Offer Shares
 to be published on website of the Stock Exchange at
 http://www.hkexnews.hk(Note 6) and our Company’s
 website at www.luyuan.cn(Note 6) on or before(Note 9) . . . . . . . . Wednesday, October 11
@@ -192,16 +192,16 @@ Results of allocations in the Hong Kong Public Offering
 (with successful applicants’ identification document
 numbers, where appropriate) to be available through
 a variety of channels, including:
-(cid:129) in the announcement to be posted on our
+ in the announcement to be posted on our
 Company’s website at www.luyuan.cn(Note 6)
 and the website of the Stock Exchange at
 www.hkexnews.hk(Note 8 and 9) . . . . . . . . . . . . . . . . . . . . . . . . . Wednesday, October 11
-(cid:129) at the “IPO Results” function in the IPO App and
+ at the “IPO Results” function in the IPO App and
 the designated results of allocations
 website at www.tricor.com.hk/ipo/result or
 www.hkeipo.hk/IPOResult with a “search by ID”
 function from(Note 9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Wednesday, October 11
-(cid:129) from the allocation results telephone enquiry line
+ from the allocation results telephone enquiry line
 by calling +852 3691 8488 between 9:00 a.m. and
 6:00 p.m. from(Note 9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Wednesday, October 11
 Dispatch/collection of refund cheques or HK eIPO White Form
@@ -938,15 +938,15 @@ HK$668.6 million (after deducting underwriting fees and estimated expenses payab
 connection with the Global Offering), assuming an Offer Price of HK$7.00 per Offer Share,
 being the mid-point of the Offer Price range of HK$6.00 to HK$8.00 per Offer Share. We
 intend to use the net proceeds from the Global Offering in the following manner:
-(cid:129) approximately 30.0%, or HK$200.6 million, is expected to be used for our research and
+ approximately 30.0%, or HK$200.6 million, is expected to be used for our research and
 development efforts to maintain our technical edge.
-(cid:129) approximately30.0%,orHK$200.6million,isexpectedtobeusedtostrengthenoursales
+ approximately30.0%,orHK$200.6million,isexpectedtobeusedtostrengthenoursales
 and distribution channels and for branding and marketing activities to raise our brand
 awareness.
-(cid:129) approximately 30.0%, or HK$200.6 million, is expected to be used to strengthen our
+ approximately 30.0%, or HK$200.6 million, is expected to be used to strengthen our
 production capabilities, mainly involving the construction of new production facilities
 and upgrading of production equipment and machinery.
-(cid:129) approximately 10.0%, or HK$66.9 million, is expected to be used for working capital and
+ approximately 10.0%, or HK$66.9 million, is expected to be used for working capital and
 other general corporate purposes.
 DIVIDEND
 Under the Articles of Association, our Company in general meeting may declare dividends in
@@ -1766,23 +1766,23 @@ the other risk factors as described in this prospectus. You are strongly caution
 on any forward-looking statements involves known and unknown risks and uncertainties. The
 risks and uncertainties facing our company which could affect the accuracy of forward-looking
 statements include, but are not limited to, the following:
-(cid:129) our operations and business prospects;
-(cid:129) future developments, trends and conditions in the industry and markets in which we
+ our operations and business prospects;
+ future developments, trends and conditions in the industry and markets in which we
 operate;
-(cid:129) our business strategies and plans to achieve these strategies;
-(cid:129) general economic, political and business conditions in the markets in which we operate;
-(cid:129) changes to the regulatory environment and general outlook in the industry and markets in
+ our business strategies and plans to achieve these strategies;
+ general economic, political and business conditions in the markets in which we operate;
+ changes to the regulatory environment and general outlook in the industry and markets in
 which we operate;
-(cid:129) the effects of the global financial markets and economic crisis;
-(cid:129) our ability to control or reduce costs;
-(cid:129) our dividend policy;
-(cid:129) the amount and nature of, and potential for, future development of our business;
-(cid:129) capital market developments;
-(cid:129) the actions and developments of our competitors;
-(cid:129) certain statements in the sections headed “Business” and “Financial Information” in this
+ the effects of the global financial markets and economic crisis;
+ our ability to control or reduce costs;
+ our dividend policy;
+ the amount and nature of, and potential for, future development of our business;
+ capital market developments;
+ the actions and developments of our competitors;
+ certain statements in the sections headed “Business” and “Financial Information” in this
 prospectus with respect to trends in prices, operations, margins, overall market trends,
 and risk management; and
-(cid:129) change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
+ change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
 operations, margins, risk management and overall market trends.
 – 39 –
 
@@ -2023,12 +2023,12 @@ channels accounted for 70.7%, 82.4%, 89.8%, 92.3% and 89.3% of our revenue, resp
 As we mainly sell and distribute our products through distributors, any one of the following
 events could cause fluctuations or declines in our revenue and could have an adverse effect on
 our financial condition and results of operations:
-(cid:129) reduction, delay or cancelation of orders from one or more of our distributors;
-(cid:129) selection or increased sales by our distributors of our competitors’ products;
-(cid:129) failure to renew distribution agreements and maintain relationships with our existing
+ reduction, delay or cancelation of orders from one or more of our distributors;
+ selection or increased sales by our distributors of our competitors’ products;
+ failure to renew distribution agreements and maintain relationships with our existing
 distributors;
-(cid:129) failure to establish relationships with new distributors on favorable terms; and
-(cid:129) inability to timely identify and appoint additional or replacement distributors upon the
+ failure to establish relationships with new distributors on favorable terms; and
+ inability to timely identify and appoint additional or replacement distributors upon the
 loss of one or more of our distributors.
 We may not be able to compete successfully against larger and better-funded sales and
 marketing campaigns of some of our current or future competitors, especially if these
@@ -2147,28 +2147,28 @@ Our capacity expansion and equipment upgrade have required and will continue to 
 substantial capital investment, significant engineering efforts, timely delivery of
 manufacturing equipment and dedicated management attention, and are subject to the
 following risks and uncertainties:
-(cid:129) negative effect on the working capital available to us;
-(cid:129) the need to finance our equipment upgrade and capacity expansion through bank or other
+ negative effect on the working capital available to us;
+ the need to finance our equipment upgrade and capacity expansion through bank or other
 borrowings, which may not be available on commercially reasonable terms or at all;
 – 48 –
 
 === PAGE 59 ===
 RISK FACTORS
-(cid:129) increase in depreciation charges associated with our new equipment and interest expenses
+ increase in depreciation charges associated with our new equipment and interest expenses
 associated with our future borrowings for planned upgrade or expansion;
-(cid:129) cost overruns, construction delays, manufacturing equipment problems, including delays
+ cost overruns, construction delays, manufacturing equipment problems, including delays
 in equipment delivery or delivery of equipment that does not meet our specifications, and
 other operating difficulties;
-(cid:129) failure to improve our operational and financial systems and risk monitoring and
+ failure to improve our operational and financial systems and risk monitoring and
 management system in line with our upgrade or expansion;
-(cid:129) decrease in the prices of our products, which fail to cover our increased production costs;
-(cid:129) failure to maintain or establish relationships with our existing or prospective customers
+ decrease in the prices of our products, which fail to cover our increased production costs;
+ failure to maintain or establish relationships with our existing or prospective customers
 and suppliers to match our increased production output;
-(cid:129) the failure of our new equipment to perform as expected and lower our manufacturing
+ the failure of our new equipment to perform as expected and lower our manufacturing
 cost;
-(cid:129) insufficient management resources to properly oversee and manage our planned capacity
+ insufficient management resources to properly oversee and manage our planned capacity
 expansion; and
-(cid:129) delay in or denial of government approvals, permits or documents of similar nature
+ delay in or denial of government approvals, permits or documents of similar nature
 necessary and required for our expansion.
 Any of the abovementioned or similar risks or uncertainties could significantly delay or
 constrain our ability to execute our equipment upgrade and capacity expansion as planned,
@@ -4682,11 +4682,11 @@ Electric bicycles Electric mopeds motorcycles
 National Standard GB17761-2018 GB/T24158-2018 GB/T24158-2018
 Production Qualification No requirement Required Required
 CCC Certification Required Required Required
-Motor Power (cid:2)400W 400W-4kW >4kW
+Motor Power 400W 400W-4kW >4kW
 (non-compulsory) (non-compulsory)
-Battery (cid:2)48V No requirement No requirement
-Top Speed (cid:2)25km/h (cid:2)50km/h >50km/h
-Curb Weight (cid:2)55kg No requirement No requirement
+Battery 48V No requirement No requirement
+Top Speed 25km/h 50km/h >50km/h
+Curb Weight 55kg No requirement No requirement
 Carriage of people One child under Prohibited One person
 twelve depending
 on region
@@ -8236,7 +8236,7 @@ We are recognized as a National High-tech Enterprise (國家級高新技術企�
 been named Provincial-level Enterprise Research Institute (省級企業研究院) and Provincial-
 level Enterprise Technology Center (省級企業技術中心) by relevant government departments.
 We believe that the following projects demonstrate our research and development capabilities:
-(cid:129) Liquid-cooled motor technology – Our in-house developed liquid-cooled motor
+ Liquid-cooled motor technology – Our in-house developed liquid-cooled motor
 technology is currently the only technology related to electric two-wheeled vehicle
 motors that has been awarded the Science and Technology Progress Award (科學技術進
 步獎) issued by China National Light Industry Council (中國輕工業聯合會). By using an
@@ -8246,7 +8246,7 @@ products and significantly improves the service life of our vehicles and the bat
 also provide a ten-year warranty for our liquid-cooled motors, while the industry average
 for motors is approximately three years.As of the Latest Practicable Date, we have been
 granted 30 patents concerning our liquid-cooled motor technology.
-(cid:129) Safe braking system – We use ceramic brake pads on electric two-wheeled vehicles. With
+ Safe braking system – We use ceramic brake pads on electric two-wheeled vehicles. With
 brakepadsmadeofceramicmaterials,ceramicbrakeshelpincreasevehiclesafetyasthey
 are able to reduce breaking distance due to higher value of friction coefficient compared
 to traditional brakes and have more stable performance under high temperature. In 2021,
@@ -8256,7 +8256,7 @@ safety. Compared with mainstream metal brake pads, our ceramic braking system ca
 shorten braking distance by approximately 30%, and has lower noises, stronger resistance
 to high temperature and corrosion, while extending comprehensive service life by
 approximately 500%.
-(cid:129) Graphene range-extension steel cord tires – Graphene range-extension steel cord tires
+ Graphene range-extension steel cord tires – Graphene range-extension steel cord tires
 have been extensively applied to our products. By adding a layer of steel cord
 anti-puncture net on the ply of a vacuum tire, steel cord tires offer increased puncture
 resistance. With graphene added into steel cord tires as well as tire crowns made of
@@ -8539,21 +8539,21 @@ BUSINESS
 advantages of our technologies. Based on our liquid-cooled motor technology, we plan to
 further expand our product portfolio to cover other product categories including electric
 strollers, electric skateboards and electric three-wheelers. In particular:
-(cid:129) In terms of the product appearance, we plan to continue to leverage our position as the
+ In terms of the product appearance, we plan to continue to leverage our position as the
 first and only China Color Innovation Center for Electric Two-wheeled Vehicles
 designated by China Fashion Color Association and release fashion colors and lead the
 color trend of electric two-wheeled vehicles. We plan to further attract young and
 fashionable consumer groups by launching vehicle models in collaboration with artists or
 IPs. We also plan to cooperate with professional design teams to create blockbuster
 products to promote our brand image.
-(cid:129) In terms of functional details such as feedback from saddles, handlebars, lights, review
+ In terms of functional details such as feedback from saddles, handlebars, lights, review
 mirrors and brakes, we plan to increase the number of focal points of our internal product
 review to enhance user experience.
-(cid:129) In terms of new functions, we plan to optimize user experience by launching an updated
+ In terms of new functions, we plan to optimize user experience by launching an updated
 versionoftheLuyuanAPP,whichcomprehensivelystrengthensinteractionbetweenusers
 and our vehicles, so that the smart functions such as saddle sensors and voice interaction
 can be fully integrated into our new products.
-(cid:129) We plan to launch more derivatives for electric two-wheeled vehicles, such as
+ We plan to launch more derivatives for electric two-wheeled vehicles, such as
 high-quality rearview mirrors, aluminum alloy windshields and customized caterpillar
 saddles, further completing our brand system.
 We intend to apply approximately 9.0% or HK$60.2 million of the net proceeds from the
@@ -8832,9 +8832,9 @@ summary of certain features of our electric motorcycles, electric mopeds and ele
 as of April 30, 2023.
 Electric Motorcycles Electric Mopeds Electric Bicycles
 Representative model MKK (極影) MOO (MODA3) ZQQ (INNO9)
-Motor power (cid:3)1,200W 600W-1,000W (cid:2)400W
-Maximum speed >50km/h (cid:2)50km/h (cid:2)25km/h
-Load capacity (cid:2)150kg (cid:2)75kg (cid:2)75kg
+Motor power 1,200W 600W-1,000W 400W
+Maximum speed >50km/h 50km/h 25km/h
+Load capacity 150kg 75kg 75kg
 Driving range 50km ~ 100km 40km ~ 100km 30km ~ 100km
 Suggested retail price RMB2,599 ~ 5,299 RMB2,399 ~ 4,599 RMB1,399 ~ 5,099
 (including batteries
@@ -8943,7 +8943,7 @@ Vehicle Searching
 Vehicle Location Vehicle Tracking
 Non-contact Function Vehicle Sharing
 Vehicle Information
-(cid:129) Digital keys. We have developed digital keys to enhance customer convenience. Our
+ Digital keys. We have developed digital keys to enhance customer convenience. Our
 customers can unlock their vehicles through our mobile app by utilizing Bluetooth or
 NFC functions, allowing our users to forget about carrying or losing physical keys. Once
 users successfully install our app and pair their smartphones with their vehicles, they can
@@ -8957,12 +8957,12 @@ function.
 BUSINESS
 Non-contact
 VehicleFunctions Selectable Sensitivity Function Button
-(cid:129) Anti-theft features. Our vehicles are equipped with positioning systems, that pinpoints the
+ Anti-theft features. Our vehicles are equipped with positioning systems, that pinpoints the
 location of the vehicle on our mobile app. It can also track riding information such as
 riding time, distance, average speed, and routes. In the event of attempted theft,
 movementsensorsandanti-theftalertstheusersbymessageiftheirvehiclesarereceiving
 unexpected or unauthorized movement.
-(cid:129) Remote vehicle sharing. Our Luyuan mobile app allows owners to remotely share access
+ Remote vehicle sharing. Our Luyuan mobile app allows owners to remotely share access
 to other users, such as family and friends, by entering information of the user and sending
 a digital key through instant messaging apps. Owners can manage the user accounts and
 cut off their connections to the vehicles after the sharing. We believe, in addition to
@@ -9072,25 +9072,25 @@ As part of our effort to ensure that we deliver the best products with consisten
 to consumers, we maintain a standard product development process, product standards and
 critical control points for each of our core products. Our product development process
 primarily consists of the following key steps:
-(cid:129) Project planning and feasibility assessment. In the product planning phase, our sales and
+ Project planning and feasibility assessment. In the product planning phase, our sales and
 marketing department crafts proposals for new products after analyzing end user needs,
 competitive environment and market feedback. Our research and development team then
 assesses feasibility in terms of product engineering, quality assurance, safety, aesthetics,
 function, costs and manufacturability. Upon completion of feasibility assessment, such
 proposals are submitted to our management for approval.
-(cid:129) Structuralandtechnicaldesign.Onceapprovalisreceived,ourresearchanddevelopment
+ Structuralandtechnicaldesign.Onceapprovalisreceived,ourresearchanddevelopment
 team then develop the structural and technical design and sets out the specifications and
 details of raw materials, components and accessories required to manufacture the product
 and ensure the best possible user experience. Based on the confirmed design, our research
 and development team will work with our suppliers to produce prototype vehicles.
-(cid:129) Trial production and trial sales. Once a prototype passes testing phase with satisfactory
+ Trial production and trial sales. Once a prototype passes testing phase with satisfactory
 results, we conduct trial production to evaluate safety, performance and reliability of the
 prototypes and the manufacturing process to enhance production efficiency. Our research
 and development department then partners with our marketing department to roll out the
 new products to selected regions for small-scale trial sales to test market acceptance. Our
 sales and marketing department will closely monitor our sales and customer feedback and
 assist our research and development team in adjusting the prototype as needed.
-(cid:129) Mass production. After receiving positive feedback from trial sales, we pass on the
+ Mass production. After receiving positive feedback from trial sales, we pass on the
 product to our manufacturing facilities for mass production.
 Our Technologies
 Leveraging our in-house research and development capabilities and collaborations with
@@ -9231,23 +9231,23 @@ accurate procurement and production plan and maintain suitable inventory level.
 Production Process
 Our production process is designed to ensure high standards of quality and timely delivery to
 meet market demands. Set forth below are the key steps of our production process:
-(cid:129) Preproduction quality control. We conduct quality inspection over raw materials and
+ Preproduction quality control. We conduct quality inspection over raw materials and
 components provided by suppliers against our internal standards and relevant rules and
 regulations prior to production.
-(cid:129) Bending and welding of vehicle frame. Pipes are bended and welded into vehicle frames.
+ Bending and welding of vehicle frame. Pipes are bended and welded into vehicle frames.
 We use welding robots in this process to increase efficiency.
-(cid:129) Surface treatment of vehicle frame. Vehicle frames are further treated and polished to
+ Surface treatment of vehicle frame. Vehicle frames are further treated and polished to
 enhance resistance and outlook.
-(cid:129) Processing and assembly of components. We fine tune each component, including the
+ Processing and assembly of components. We fine tune each component, including the
 electric control unit, electric motor, brakes and wheels before mounting them onto the
 assembly lines for assembly.
-(cid:129) Surface treatment of plastic parts. Premade plastic parts are processed and painted
+ Surface treatment of plastic parts. Premade plastic parts are processed and painted
 according to different designs.
-(cid:129) Vehicle assembly. At the final assembly process, motors, wheels, plastic parts and other
+ Vehicle assembly. At the final assembly process, motors, wheels, plastic parts and other
 components are assembled onto the vehicle frame forming a complete vehicle.
-(cid:129) Post-production quality control. We conduct quality inspection and test drive each and
+ Post-production quality control. We conduct quality inspection and test drive each and
 every complete vehicle.
-(cid:129) Packaging. After inspection and test drives, vehicles are generally packaged with
+ Packaging. After inspection and test drives, vehicles are generally packaged with
 protective films or carton boxes. Batteries and certain other components are stored
 separately.
 – 220 –
@@ -9294,20 +9294,20 @@ We purchase various production and testing equipment and parts mainly from domes
 suppliers which are then assembled in-house. We have also internally developed many of the
 production technologies and required customization of certain equipment.
 Setforthbelowarecertaincriticalmachineryandequipmentappliedinourproductionprocess.
-(cid:129) Robot manipulator – Robot manipulators are humanoid and programmable production
+ Robot manipulator – Robot manipulators are humanoid and programmable production
 machinery used primarily for the production of vehicles frames and handles, etc. Robot
 manipulators are especially suitable for flexible production of multiple product types of
 different production volumes.
-(cid:129) Welding robots – We use welding robots to streamline the welding process, enhance
+ Welding robots – We use welding robots to streamline the welding process, enhance
 productionefficiencyandstabilizeproductquality.Theuseofweldingrobotsalsoshields
 our employees from hazardous fumes, dusts and welding arc flash.
-(cid:129) Coil winding machines – For motors, we use unmanned coil winding machines that offer
+ Coil winding machines – For motors, we use unmanned coil winding machines that offer
 stable performance and high precision and produces tighter coils using less wires.
-(cid:129) Electro-coating lines – We use electro-coating lines to apply a uniform, even and
+ Electro-coating lines – We use electro-coating lines to apply a uniform, even and
 corrosion resistance coating on metal vehicle frames and other metal parts. Our
 electro-coatinglinesrequireminimalhumanoperationandincreaselaborefficiency.They
 are also relatively environmentally friendly as they offer high paint recycle rates.
-(cid:129) Assembly lines – We equip our assembly lines with unmanned transport systems which
+ Assembly lines – We equip our assembly lines with unmanned transport systems which
 significantly lower labor intensity, save valuable floor space and increase production
 efficiency.
 Based on our replacement schedule, the expected useful lives of our major machinery and
@@ -10134,23 +10134,23 @@ legal compliance status, understanding of our brand concept and business philoso
 quality of employee team, and warehousing and logistics capabilities. Only candidates that
 passourselectionandevaluationcriteriawillbequalifiedasourcontractedofflinedistributors.
 Set forth below are certain details of our selection and evaluation criteria for distributors.
-(cid:129) Licensesandcertifications.Distributorsmusthaveobtainedbusinesslicenseorotherwise
+ Licensesandcertifications.Distributorsmusthaveobtainedbusinesslicenseorotherwise
 have been approved by the relevant authorities to conduct business in the sales of electric
 two-wheeled vehicles.
-(cid:129) Industry experience. In order to ensure the sustainable and healthy development of our
+ Industry experience. In order to ensure the sustainable and healthy development of our
 brand and business and avoid cannibalization, we set strict regional designated
 distribution areas and sales experience requirements in the process of distributor
 selection.
-(cid:129) Financial conditions. Distributors shall have sufficient start-up and working capital to
+ Financial conditions. Distributors shall have sufficient start-up and working capital to
 support their operating activities and continuous operation.
-(cid:129) Business premises. We require distributors to have their own properties or leased
+ Business premises. We require distributors to have their own properties or leased
 properties to be used as their retail outlets to ensure certain storefront advantages.
-(cid:129) Brand concept and service awareness. Distributors shall abide by our regulations in their
+ Brand concept and service awareness. Distributors shall abide by our regulations in their
 operations, understand and recognize our brand concept and business philosophy. At the
 same time, distributors shall have the motivation and awareness to provide warm and
 thoughtful service to consumers and shall be able to improve the shopping experience of
 consumers under our guidance.
-(cid:129) Administrative penalties. We pay close attention to the nature, severity and results of
+ Administrative penalties. We pay close attention to the nature, severity and results of
 distributors’past legal compliance status. Past administrative penalties, if any, shall have
 been properly settled and distributors must recognize the importance of operating in
 compliance with laws and regulations.
@@ -10366,7 +10366,7 @@ We proactively manage our distributors to ensure healthy and orderly distributio
 mitigate cannibalization among distributors and distribution channels, avoid channel stuffing
 and to protect our brand and reputation. Set forth below are key aspects of our distributor
 management policies and measures.
-(cid:129) Geographic exclusivity. We grant specific geographic regions to our offline distributors
+ Geographic exclusivity. We grant specific geographic regions to our offline distributors
 so that we can reduce the degree of competition between different offline distributors.We
 take into account a number of factors when determining designated geographic regions
 for offline distributors, including geographic location of the relevant retail outlets,
@@ -10375,7 +10375,7 @@ The distribution agreements we signed with distributors generally specify the de
 geographic areas. Our distribution agreements generally prohibit the distributors from
 selling the products outside the respective designated geographical regions or online
 channels;
-(cid:129) Periodic and ad hoc on-site inspections.We leverage a variety of measures to inspect and
+ Periodic and ad hoc on-site inspections.We leverage a variety of measures to inspect and
 monitor our distributor and sub-distributor retail outlets in addition to real time
 monitoring through our distributor management system. Our regional sales teams conduct
 scheduled and occasional unannounced on-site inspections of our distributor and
@@ -10411,7 +10411,7 @@ timely manner.
 
 === PAGE 255 ===
 BUSINESS
-(cid:129) Monitoring of sales and inventory records. As of the Latest Practicable Date, all of our
+ Monitoring of sales and inventory records. As of the Latest Practicable Date, all of our
 distributors and sub-distributors have access to and have adopted our in-house developed
 distributor management system which provides transparency of sales activities of
 distributors and sub-distributors and enables us to monitor sales data and estimate the
@@ -10549,11 +10549,11 @@ associates, except for being employee or former employees of our Group and in th
 as a distributor of our Group. In addition, we have adopted the following measures to
 continuously improve our corporate governance in terms of independence of distributors and
 sub-distributors:
-(cid:129) we prohibit employees to engage in any business collaboration with our Group either in
+ we prohibit employees to engage in any business collaboration with our Group either in
 his/her personal capacity or through entities controlled by him/her;
-(cid:129) we request each newly hired employee to sign a form of declaration of interests
+ we request each newly hired employee to sign a form of declaration of interests
 confirming their independence from our distributors and sub-distributors; and
-(cid:129) our human resource department performs background checks on our distributors and
+ our human resource department performs background checks on our distributors and
 sub-distributors (to the extent of available information on sub-distributors provided by
 distributors) on a sampling basis to ascertain if there is any relationship between
 distributors/sub-distributors and our employees.
@@ -10571,13 +10571,13 @@ including the adoption of our retail outlet decoration, product display and pric
 and (iii) monitoring and conducting on-site inspections of distributor retail outlets. Set forth
 below are key distributor management measures and support and services we provide to our
 distributors in connection with distributor retail outlet management.
-(cid:129) Assessment of retail outlet locations. Prior to engagement of potential distributors, our
+ Assessment of retail outlet locations. Prior to engagement of potential distributors, our
 sales and marketing team assists potential distributors to identify potential retail outlet
 sites. Our sales and marketing team considers a number of factors including geographic
 location, population density, consumer purchasing power and competition in the
 surrounding area. Such assistance helps our distributors make informed decisions on their
 site selection processes and also helps us manage competition between our distributors.
-(cid:129) Retail outlet decoration and product display. To provide standardized shopping
+ Retail outlet decoration and product display. To provide standardized shopping
 experiences and deliver a consistent brand image to end-customers, we directly manage
 the decoration and refurbishment of retail outlets and have borne the relevant decoration
 and refurbishment costs since July 2019. For retail outlets that are relatively smaller in
@@ -10686,12 +10686,12 @@ vehicle manufacturers. In return, distributors and sub-distributors commit to mi
 sales volumes and maintaining retail outlets exclusive to our products. This approach
 helps us stay competitive and benefit in the long run from increased brand visibility and
 distribution network expansion.
-(cid:129) Training. We place great emphasis on the training of retail outlet staff and provide our
+ Training. We place great emphasis on the training of retail outlet staff and provide our
 distributors with training on a variety of topics, including our brand history, brand image,
 marketing strategies, product knowledge and repair and maintenance skills. We also
 provide periodical training to our distributors to help them understand our distribution
 policies such as prohibition of cannibalization.
-(cid:129) After-sale services. we maintain telephone and online channels to answer distributors’
+ After-sale services. we maintain telephone and online channels to answer distributors’
 questions or troubleshoot problems on issues such as product quality, technical
 difficulties, product return and exchange, and handling customers’ complaints.
 Webelieveoursupportandservicestodistributorsandtheirsub-distributorshavestrengthened
@@ -11349,13 +11349,13 @@ prevent material deviation from recommended retail prices. For further details o
 aspects of our distributor management policies and measures, see “– Sales and Distribution –
 Offline Channels – Distribution Agreements with Offline Distributors” and “– Sales and
 Distribution – Offline Channels – Management of Offline Distributors.”
-(cid:129) Accountability. Distributors that violate the distribution agreements or our policies, such
+ Accountability. Distributors that violate the distribution agreements or our policies, such
 as material deviation from recommended prices, will be penalized, such as cancellation
 or reduction of rebates or termination of relevant distribution agreements for their
 cannibalization activities. Distributors are also responsible for ensuring that their
 sub-distributors comply with our pricing policies and we are entitled to require
 distributors to terminate violating sub-distributors in serious events.
-(cid:129) On-site inspections and monitoring through the distributor management system. Our
+ On-site inspections and monitoring through the distributor management system. Our
 regional sales teams conduct scheduled and occasional unannounced on-site inspections
 of our distributor and sub-distributor retail outlets to monitor business operations of
 distributors and sub-distributors including their compliance with our policies and
@@ -11365,7 +11365,7 @@ which enables more complete and timely collection of selling prices and other sa
 information. In the event that relevant salesperson or personnel discover any material
 abnormalities in terms of product pricing, it will promptly report to us and require
 relevant retail outlets to rectify.
-(cid:129) Mutual supervision. We encourage distributors to supervise each other and report
+ Mutual supervision. We encourage distributors to supervise each other and report
 cross-regionsalesandcannibalizationactivitiesbyotherdistributorsandsub-distributors.
 We have a hotline in place that can be used for such purpose.
 In certain circumstances, we may set minimum retail price for products that distributors have
@@ -11696,12 +11696,12 @@ us in planning, managing and standardizing our production, quality control, inve
 sales and distribution, budgeting, human resources and financial reporting functions, thereby
 improving our management and operational efficiency. Our main information technology
 systems include the following:
-(cid:129) ERP system. We utilize the enterprise resource planning, or ERP, system to retrieve and
+ ERP system. We utilize the enterprise resource planning, or ERP, system to retrieve and
 analyze our operational data to support decision-making and increase productivity and
 profitability. The ERP system covers various aspects of our operations, including
 manufacturing, financial accounting, forecast and planning, purchasing, order
 management, enterprise performance management and human capital management.
-(cid:129) BI system. We utilize the business intelligence, or BI, system to manage orders and sales
+ BI system. We utilize the business intelligence, or BI, system to manage orders and sales
 of our retail outlets nationwide. This system comprises Retail BI, Product BI, Distributor
 BI and Order BI: (i) Retail BI provides sales data of our retail outlets, which helps us
 timelyidentifyabnormalretailoutlets;(ii)ProductBIreflectstheprofile,grossprofitand
@@ -11714,7 +11714,7 @@ delivery data, to identify unusual conditions through period-over-period compari
 
 === PAGE 285 ===
 BUSINESS
-(cid:129) MES system. We utilize the manufacturing execution system, or MES, to monitor, track,
+ MES system. We utilize the manufacturing execution system, or MES, to monitor, track,
 document, control and support our production process. We deploy this system to boost
 production efficiency at our production facilities as it enables real-time monitoring of
 production process by recording the progress of each production line and transmit
@@ -11727,12 +11727,12 @@ management, energy management and environmental and waste management. Data
 recorded from our production facilities are immediately made available to relevant
 decision-makers across our integrated systems for further consolidation, analysis and
 reporting.
-(cid:129) APS system. We utilize the advanced planning and scheduling, or APS, system to
+ APS system. We utilize the advanced planning and scheduling, or APS, system to
 optimize our production efficiency through advanced scheduling and optimal use of
 resources and supplies. As a supplement to our ERP system, the APS system not only
 helps optimize our production process, but also the entire process from production to
 logistics, warehousing and delivery of products.
-(cid:129) OAsystem.Weutilizetheofficeautomation,orOA,systemwhichprovidesaplatformfor
+ OAsystem.Weutilizetheofficeautomation,orOA,systemwhichprovidesaplatformfor
 paperless information sharing and dissemination within our Group, enhances
 administrative records management and optimizes various approval procedures for our
 business operations.
@@ -13223,10 +13223,10 @@ on our business, results of operations and financial condition is remote on the 
 
 === PAGE 300 ===
 BUSINESS
-(cid:129) basedonthePRCPatentLaw,weshallbeexemptfromliabilityforinfringementdamages
+ basedonthePRCPatentLaw,weshallbeexemptfromliabilityforinfringementdamages
 ifwecanprovethattheproductwesoldhasalegitimatesourceandwewereunawarethat
 the product was manufactured and sold without the patent owner’s authorization; and
-(cid:129) in the event that the court rules in favor of the plaintiff, (i) the Company’s ordinary sales
+ in the event that the court rules in favor of the plaintiff, (i) the Company’s ordinary sales
 of products would not be affected given that the patent at issue has expired and become
 invalid,andtheplaintiffisnotentitledtoseekinjunctivereliefunderthePRCPatentLaw,
 and (ii) the amount of the monetary damages that the plaintiff is entitled to receive from
@@ -13250,11 +13250,11 @@ We intend to defend ourselves vigorously. Although there is uncertainty regardin
 or ultimate resolution of this lawsuit, taking into account the view of our PRC LegalAdvisors,
 our Directors are of the view that this lawsuit will not have any material adverse impact on our
 business, results of operations and financial conditions on the following basis:
-(cid:129) we confirm that we are unaware of any unauthorized manufacturing or sale of the product
+ we confirm that we are unaware of any unauthorized manufacturing or sale of the product
 at issue. Therefore, in the event the court finds the product infringing, we intend to claim
 exemption from liability for infringement damages pursuant to the PRC Patent Law as
 described by our PRC Legal Advisors above;
-(cid:129) the plaintiff’s claim for RMB100 million against us is groundless as he based his claimed
+ the plaintiff’s claim for RMB100 million against us is groundless as he based his claimed
 amount on our total battery sales revenue during the Track Record Period as publicly
 disclosed in this prospectus. We believe a reasonable claim would be limited to the profit
 from the specific alleged infringing product, not blanket revenue from all of our battery
@@ -13265,12 +13265,12 @@ PRC Legal Advisors, based on preliminary information and evidence submitted by t
 plaintiff, the monetary damages the plaintiff is entitled to receive from us, with reference
 to our operating profit as generated from the allegedly infringing products, will not
 exceed RMB18,024, accounting for an insignificant portion of our operating profit;
-(cid:129) we did not procure any FengNiao product in 2023. From March 8, 2022, when the patent
+ we did not procure any FengNiao product in 2023. From March 8, 2022, when the patent
 at issue expired and became invalid, to the Latest Practicable Date, we sold only 78
 FengNiao products accounting for RMB179,142 in revenue, which is insignificant to our
 overall business operations. As of the Latest Practicable Date, we have no unsold
 inventory of FengNiao products; and
-(cid:129) pursuant to our procurement agreement with FengNiao, (i) FengNiao ensures that it is the
+ pursuant to our procurement agreement with FengNiao, (i) FengNiao ensures that it is the
 legal manufacturer or seller of the products supplied to us, and that its products do not
 infringe upon any intellectual property right of other third parties, and (ii) we are entitled
 to indemnity from FengNiao.
@@ -14180,7 +14180,7 @@ directors of a listed issuer under Rules 3.08 and 3.09 of the Listing Rules or t
 listing of our Company under Rule 8.04 of the Listing Rules, and (iii) our Directors have the
 competency, integrity and ability, and are willing to, manage our business in a law-abiding
 manner, on the following basis:
-(cid:129) our Directors did not intentionally cause our Group to breach any of the applicable laws
+ our Directors did not intentionally cause our Group to breach any of the applicable laws
 and regulations and the occurrence of the non-compliance incidents were not due to the
 dishonesty, gross negligence or recklessness of our Directors nor for illegitimate
 purposes, especially considering the non-compliance with respect to social insurance and
@@ -14188,7 +14188,7 @@ housing provident fund contributions were mainly the result of practical difficu
 thattherootcauseofsuchnon-complianceisoutofourGroup’scontroldespiteouractive
 efforts to comply and through no fault of our internal control measures. For details, see
 “– Non-compliance with PRC Law” above;
-(cid:129) all our executive Directors have substantial experience in business management and none
+ all our executive Directors have substantial experience in business management and none
 of them is subject to any legal or administrative proceedings arising from the
 non-compliance incidents or legal proceedings above; Our executive Directors exercised
 fiduciary duty, duty of care and skill during the daily operation of our Group and have
@@ -14201,7 +14201,7 @@ since 2019, it is estimated, for complying manufacturers, common legal risks in 
 industry such as being involved in fire or traffic accidents will gradually decrease. For
 details, see “Industry Overview – Key Development Drivers and Market Opportunities –
 Development of Regulations and Supervisions and Analysis of Legal Risks”;
-(cid:129) asadvisedbyourPRCLegalAdvisors,basedonthecompliancecertificatesissuedbyand
+ asadvisedbyourPRCLegalAdvisors,basedonthecompliancecertificatesissuedbyand
 interviews with the local government authorities governing the business operation of the
 operating entities in the Group in respect of industry and commerce, quality supervision,
 work safety, social insurance, housing provident fund, tax, properties and environmental
@@ -14210,7 +14210,7 @@ confirmations from us, save for the non-compliance incidents disclosed above in 
 Non-compliance with PRC Law”, the Group has complied with the applicable PRC laws
 and regulations for our business operations in all material aspects during the Track
 Record Period;
-(cid:129) the non-compliance incidents, individually or collectively, have not had any material
+ the non-compliance incidents, individually or collectively, have not had any material
 impact on our business operations and financial position. We have fully settled all
 administrative penalties and have made sufficient provision with respect to all non-
 compliance incidents, where applicable;
@@ -14218,7 +14218,7 @@ compliance incidents, where applicable;
 
 === PAGE 314 ===
 BUSINESS
-(cid:129) our Directors have shown their willingness and commitment to ensure our future
+ our Directors have shown their willingness and commitment to ensure our future
 compliance based on the facts that (i) we have taken rectification and remedial actions
 immediately upon identification of the non-compliance incidents, whether in the past or
 during the preparation of the Listing, (ii) we have engaged a third-party internal control
@@ -14233,10 +14233,10 @@ advise on compliance with relevant laws and regulations. For further details of 
 internal control measures, see “– Risk Management and Internal Control – Internal
 Control Measures to Prevent the Recurrence of Non-compliance Incidents and Mitigate
 Risks of Fire or Major Accidents”;
-(cid:129) since the implementation of the enhanced internal control measures and up to the Latest
+ since the implementation of the enhanced internal control measures and up to the Latest
 Practicable Date, our Directors confirmed that our Group had not had any material breach
 of rules and regulations other than the non-compliance incidents as disclosed above; and
-(cid:129) our Directors are aware of the requirements and obligations as directors of a listed issuer
+ our Directors are aware of the requirements and obligations as directors of a listed issuer
 pursuant to the Listing Rules and have undertaken to observe and comply with all the
 relevant rules and regulations.
 Based on the due diligence conducted by the Sole Sponsor, nothing has come to the Sole
@@ -14266,18 +14266,18 @@ To monitor the ongoing implementation of our risk management policies and corpor
 governancemeasuresaftertheListing,apartfromestablishingriskmanagementcommittee,we
 haveimplemented,andwillcontinuetoimplement,thefollowingriskmanagementandinternal
 control measures on our Group level:
-(cid:129) We plan to establish our audit committee to oversee our accounting policies, internal
+ We plan to establish our audit committee to oversee our accounting policies, internal
 audits, financial conditions, significant investments, and trading activities. For the
 professional qualification and experience of the members of our audit committee, see
 “Directors and Senior Management” in this prospectus;
-(cid:129) adopt various policies to ensure compliance with the Listing Rules, including but not
+ adopt various policies to ensure compliance with the Listing Rules, including but not
 limited to aspects related to connected transactions and information disclosure;
-(cid:129) continue to organize training sessions for our Directors and senior management in respect
+ continue to organize training sessions for our Directors and senior management in respect
 of the relevant requirements of the Listing Rules and duties of directors of companies
 listed in Hong Kong;
-(cid:129) We have appointed an internal control consultant to review our internal control measures
+ We have appointed an internal control consultant to review our internal control measures
 and provide recommendations; and
-(cid:129) We have appointed Jun Hui International Finance Limited as our compliance adviser to
+ We have appointed Jun Hui International Finance Limited as our compliance adviser to
 advise on ongoing compliance with the Listing Rules and other applicable securities laws
 and regulations in Hong Kong.
 Our Directors are of the view that our enhanced internal control system is adequate and
@@ -14291,7 +14291,7 @@ control measures, including engaging our Internal Control Consultant and Special
 Control Consultant and making rectifications pursuant to their recommendations. The major
 enhancedinternalcontrolmeasuresadoptedbyusinconnectionwithnon-complianceincidents
 and fire and other material accidents are set forth below:
-(cid:129) Failure to obtain pollutant discharge permits, approval for environmental impact report
+ Failure to obtain pollutant discharge permits, approval for environmental impact report
 andcompleteinspectionandacceptancefiling.OurDirectorsandrelevantpersonnelhave
 attended comprehensive trainings provided by our PRC Legal Advisors on the legal
 requirements, necessary approvals, permits and licenses relating to construction of
@@ -14307,7 +14307,7 @@ BUSINESS
 permits and documents to timely identify any potential delay. With respect to our future
 production expansion plans, we will assign experienced and trained staff on-site to
 perform regular review and ensure the effectiveness of our internal control measures.
-(cid:129) Product conformity and compliance with legal requirements and national standards. We
+ Product conformity and compliance with legal requirements and national standards. We
 have arranged comprehensive and tailored trainings for our Directors and staff from our
 research and development, procurement, production, quality control and sales provided
 by industry experts and our PRC Legal Advisors in respect of applicable national and
@@ -14351,10 +14351,10 @@ alteration through enhanced technologies.”
 
 === PAGE 317 ===
 BUSINESS
-(cid:129) Social Insurance and housing provident fund. For details of our enhanced internal control
+ Social Insurance and housing provident fund. For details of our enhanced internal control
 measures with respect to social insurance and housing provident fund, see “– Legal
 Proceedings and Compliance – Compliance – Non-compliance with PRC Law” above.
-(cid:129) Fireandmajoraccidents.Wearecommittedtopreventfireandmajoraccidentsinvolving
+ Fireandmajoraccidents.Wearecommittedtopreventfireandmajoraccidentsinvolving
 our vehicles through various measures mainly including the following:
 – We have adopted a number of policies which have been distributed to distributors
 and sub-distributors to raise their awareness on fire safety and prevent fire accidents
@@ -14606,7 +14606,7 @@ Enhanced Remedial and Distributor Control Measures
 We have implemented a number of measures and procedures with respect to unauthorized
 alteration of our vehicles by distributors to manage risks and prevent re-occurrence, which
 mainly include the following aspects:
-(cid:129) Preventingalterationthroughenhancedtechnologies.Wehavebeenactivelyengagedin
+ Preventingalterationthroughenhancedtechnologies.Wehavebeenactivelyengagedin
 developing and adopting new technologies and designs with respect to various aspects of
 our vehicles including maximum speed, voltage, the controller, batteries and saddles to
 – 312 –
@@ -14624,7 +14624,7 @@ Following recommendations of the Special Internal Control Consultant, we have al
 enhanced our internal policies to systemically manage technical upgrades of our vehicles
 and require relevant personnel to continuously focus on anti-tampering technologies
 throughout the lifecycle of our products and research and development process.
-(cid:129) Increasing education and management of distributors. We have revised our distributor
+ Increasing education and management of distributors. We have revised our distributor
 management policies and standard distribution agreement to specify, among other things,
 that distributors are strictly prohibited from altering our products without our
 authorizationandareobligedtoinspectandcheckifourproductsconformwiththeirCCC
@@ -14659,7 +14659,7 @@ distributors and when engaging new distributors.
 
 === PAGE 324 ===
 BUSINESS
-(cid:129) On-site inspection. We require our sales staff to inspect vehicles during their regular and
+ On-site inspection. We require our sales staff to inspect vehicles during their regular and
 random site visits to retail outlets of distributors and sub-distributors. We require them to
 examine a number of aspects of the vehicles and whether such aspects are consistent with
 the relevant product certificates, including the external appearance of the vehicle and the
@@ -14676,12 +14676,12 @@ sub-distributors will agree to make unauthorized alterations following consumers
 requests. Relevant personnel are also required to conduct desktop searches to ascertain if
 any new administrative penalties or measures are issued against our distributors or
 sub-distributors.
-(cid:129) Monitoring and report. We have established hotlines for distributors and the public in
+ Monitoring and report. We have established hotlines for distributors and the public in
 general to report to us in a timely manner if they notice any non-conforming vehicles.We
 also require distributors to promptly notify us when they face inspections by relevant
 administrative agencies. Failure to do so will result in termination of distributorship
 pursuant to our policies.
-(cid:129) Consumer education. We emphasize on consumer education in terms of rules and
+ Consumer education. We emphasize on consumer education in terms of rules and
 regulations of electric two-wheeled vehicles, their respective features and riding safety.
 For example, our distributors would remind consumers not to make modifications to
 products to ensure safety. They will also remind consumers to wear helmets and obey
@@ -15066,7 +15066,7 @@ Department (浙江省住房和城鄉建設廳).
 In line with our vision for sustainable development, we oversee our environmental protection
 performance in aspects such as pollutant management and the use of electricity and water.
 Pollutant Management
-(cid:129) Management of Sewage. We generate sewage during the production process. We have
+ Management of Sewage. We generate sewage during the production process. We have
 installed sewage treatment systems at our production facilities to monitor and reduce the
 discharge of sewage. Water used in our paint spraying process can be diluted with fresh
 water and recycled until reaching a certain concentration level and needs to be
@@ -15074,7 +15074,7 @@ discharged. We monitor our sewage discharge levels on a periodic basis. In 2020,
 and 2022 and the four months ended April 30, 2023, our sewage discharge levels were
 67,402 tons, 64,647 tons, 64,757 tons and 27,878 tons, respectively, and such sewage was
 properly treated prior to discharge.
-(cid:129) Management of Solid Waste. We generate solid waste (including certain hazardous
+ Management of Solid Waste. We generate solid waste (including certain hazardous
 substances) during our production processes, including sludge from surface treatment,
 waste paint residue, spent activated carbon and used filter cotton. We adopt various
 measures to minimize the environmental impact including, among others, (i) we optimize
@@ -15096,7 +15096,7 @@ industrial hazardous waste and ordinary waste. Domestic solid waste is collected
 city sanitation department.According to our arrangements with qualified waste treatment
 companies, we discharged approximately 435 tons, 386 tons, 615 tons and 191 tons in
 2020, 2021 and 2022 and the four months ended April 30, 2023, respectively.
-(cid:129) ManagementofWasteGas.Wegeneratewastegasduringtheproductionprocessandhave
+ ManagementofWasteGas.Wegeneratewastegasduringtheproductionprocessandhave
 invested in upgrading our waste gas equipment and technologies to help test the level of
 our waste gas emission and ensure that it is within the permitted range as stipulated by
 relevant laws and regulations. On the one hand, our Guangxi Plant and Shandong Plant
@@ -15104,7 +15104,7 @@ adopted activated carbon adsorption and desorption technology to achieve qualifi
 emission. On the other hand, our Zhejiang Plant adopted a rotary adsorption technology
 to achieve qualified emission.
 Resource Consumption
-(cid:129) Electricity consumption. We have been actively advocating photovoltaic power
+ Electricity consumption. We have been actively advocating photovoltaic power
 generation and have equipped the rooftops of our Zhejiang Plant and Guangxi Plant with
 relevant technologies and equipment which allow them to generate power for their
 operations and even send surplus energy back to the electric grid. During the Track
@@ -15113,14 +15113,14 @@ kWh of electricity. In 2020, 2021 and 2022 and the four months endedApril 30, 20
 electricity consumption amounted to 16,174.2 MWh, 20,941.6 MWh, 26,765.3 MWh and
 10,009.1 MWh, respectively, representing 11.0, 10.7, 11.0 and 10.8 kWh per vehicle sold
 for the same years, respectively.
-(cid:129) Water consumption. In 2020, 2021 and 2022 and the four months ended April 30, 2023,
+ Water consumption. In 2020, 2021 and 2022 and the four months ended April 30, 2023,
 our water consumption amounted to 193,436 tons, 236,188 tons, 353,139 tons and
 140,639 tons, respectively, representing 0.13, 0.12, 0.15 and 0.15 ton per vehicle sold for
 the same years, respectively. Our water saving measures mainly focus on recycling water
 used in the painting process. For example, our wastewater treatment station reduces the
 consumption of fresh water during the painting process by leveraging a reclaimed water
 reuse system and a paint mist capture system.
-(cid:129) Packaging materials. Our packaging materials primarily include cardboard boxes,
+ Packaging materials. Our packaging materials primarily include cardboard boxes,
 wooden frames, PE packaging bags, bubble wrap and PE foam.When delivering products
 to distributors, for those that are located closer to our production bases, we only use PE
 packaging bags, bubble wrap and PE foam to reduce the amount of cardboard boxes and
@@ -15230,17 +15230,17 @@ approximately 5.1%, 5.6%, 5.4%, 4.6% and 6.0% of our total revenue for the years
 December 31, 2020, 2021 and 2022 and the four months ended April 30, 2022 and 2023,
 respectively. Our intensive efforts in advertising and marketing included, but not limited to the
 following:
-(cid:129) we have also been proactively engaging in marketing activities and increasing our
+ we have also been proactively engaging in marketing activities and increasing our
 promotional efforts to enhance our brand awareness to attract young consumers;
-(cid:129) we sponsored a number of variety shows to more effectively reach the young generation
+ we sponsored a number of variety shows to more effectively reach the young generation
 and rejuvenate our brand image;
 – 327 –
 
 === PAGE 338 ===
 FINANCIAL INFORMATION
-(cid:129) we actively run our social media accounts on major social media platforms to interact
+ we actively run our social media accounts on major social media platforms to interact
 with customers, addressing their questions while promoting our vehicles; and
-(cid:129) we cooperate with internet celebrities to promote our vehicles through live streaming or
+ we cooperate with internet celebrities to promote our vehicles through live streaming or
 posting engaging content on major social media platforms, to achieve broad exposure to
 onlineconsumers.Theseinternetcelebritiestypicallytestrideourvehiclesandsharetheir
 riding experience with their audience and followers.
@@ -15414,9 +15414,9 @@ Non-financial assets other than goodwill that suffered an impairment are reviewe
 reversal of the impairment at the end of each reporting period.
 Investment and Other Financial Assets
 The Group classifies its financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through other comprehensive
+ those to be measured subsequently at fair value (either through other comprehensive
 income (“OCI”) or through profit or loss), and
-(cid:129) those to be measured at amortized cost.
+ those to be measured at amortized cost.
 The classification depends on the entity’s business model for managing the financial assets and
 the contractual terms of the cash flows.
 For assets measured at fair value, gains and losses will either be recorded in profit or loss or
@@ -15479,11 +15479,11 @@ is distinct or a series of distinct goods or services that are substantially the
 Control is transferred over time and revenue is recognized over time by reference to the
 progress towards complete satisfaction of the relevant performance obligation if one of the
 following criteria is met:
-(cid:129) the customer simultaneously receives and consumes the benefits provided by the Group’s
+ the customer simultaneously receives and consumes the benefits provided by the Group’s
 performance as the Group performs;
-(cid:129) the Group’s performance creates or enhances an asset that the customer controls as the
+ the Group’s performance creates or enhances an asset that the customer controls as the
 Group performs; or
-(cid:129) the Group’s performance does not create an asset with an alternative use to the Group and
+ the Group’s performance does not create an asset with an alternative use to the Group and
 the Group has an enforceable right to payment for performance completed to date.
 Otherwise, revenue is recognized at a point in time when the customer obtains control of the
 distinct good or service.
@@ -16563,15 +16563,15 @@ tax rate of 7.0%, 3.8% and 3.5%, respectively. For the four months ended April 3
 2023, we recognized income tax credit of RMB6.8 million and RMB2.0 million, with an
 effective income tax rate of (70.3)% and (5.0)%, respectively. The statutory EIT rate for our
 businesses in mainland China during the Track Record Period is 25%, except that:
-(cid:129) In 2021, Zhejiang Luyuan applied the extension of the high-tech certificate original
+ In 2021, Zhejiang Luyuan applied the extension of the high-tech certificate original
 obtained in December 2009. The latest high-tech certificate was obtained in December
 2021 with an effective period for three years. Its applicable EITrate throughout theTrack
 Record Period was 15%.
-(cid:129) In 2020, Shandong Luyuan applied the extension of the high-tech certificate originally
+ In 2020, Shandong Luyuan applied the extension of the high-tech certificate originally
 obtained in December 2017. The latest high-tech certificate was obtained inAugust 2020
 with an effective period for three years. Its applicable EIT rate throughout the Track
 Record Period was 15%.
-(cid:129) Jinhua Yicheng and Ludong (Jinhua) are small low-profit enterprises during the Track
+ Jinhua Yicheng and Ludong (Jinhua) are small low-profit enterprises during the Track
 RecordPeriod.DuringtheperiodfromJanuary1,2020toDecember31,2020,theportion
 of annual taxable income amount of a small low-profit enterprise which does not exceed
 RMB1 million shall be computed at a reduced rate of 25% as taxable income amount, and
@@ -19378,13 +19378,13 @@ We have appointed Jun Hui International Finance Limited as our compliance advise
 “ComplianceAdviser”) upon listing of our Shares on the Stock Exchange in compliance with
 Rule 3A.19 of the Listing Rules. Pursuant to Rule 3A.23 of the Listing Rules, the Compliance
 Adviser will provide advice to us when consulted by us in the following circumstances:
-(cid:129) before the publication of any regulatory announcement, circular or financial report;
-(cid:129) where a transaction, which might be a notifiable or connected transaction, is
+ before the publication of any regulatory announcement, circular or financial report;
+ where a transaction, which might be a notifiable or connected transaction, is
 contemplated, including share issues and share repurchases;
-(cid:129) where we propose to use the proceeds of the Global Offering in a manner different from
+ where we propose to use the proceeds of the Global Offering in a manner different from
 that detailed in this prospectus or where our business activities, developments or results
 deviate from any forecast, estimate, or other information in this prospectus; and
-(cid:129) where the Stock Exchange makes an inquiry of our Company regarding unusual
+ where the Stock Exchange makes an inquiry of our Company regarding unusual
 movements in the price or trading volume of the Shares, the possible development of a
 false market in the Shares, or any other matters in accordance with Rule 13.10 of the
 Listing Rules.
@@ -19608,7 +19608,7 @@ HK$6.00 to HK$8.00 per Offer Share, will be approximately HK$668.6 million, afte
 deduction of underwriting fees and commissions and other estimated expenses paid and
 payable by us in relation to the Global Offering. We intend to use the net proceeds from the
 Global Offering for the purposes and in the amounts set forth below:
-(cid:129) approximately 30.0%, or HK$200.6 million, is expected to be used for our research and
+ approximately 30.0%, or HK$200.6 million, is expected to be used for our research and
 development efforts to maintain our technical edge. In particular:
 (i) approximately 24.0%, or HK$160.5 million, will be used for the research and
 developmentofnewandupgradedproductsaswellastechnologies.Weplantooffer
@@ -19644,7 +19644,7 @@ shortfall will be met by our internal resources and/or bank borrowings. For furt
 details, see “Business – Strategies – Further enhance our research and development
 capabilities to solidify our position in product and technology” and “Business –
 Strategies – Continue to attract, train and motivate talented professionals”.
-(cid:129) approximately30.0%,orHK$200.6million,isexpectedtobeusedtostrengthenoursales
+ approximately30.0%,orHK$200.6million,isexpectedtobeusedtostrengthenoursales
 and distribution channels and for branding and marketing activities to raise our brand
 awareness. In particular:
 (i) approximately 18.0%, or HK$120.3 million, will be used for the expansion of our
@@ -19718,7 +19718,7 @@ met by our internal resources and/or bank borrowings.
 
 === PAGE 448 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) approximately 30.0%, or HK$200.6 million, is expected to be used to strengthen our
+ approximately 30.0%, or HK$200.6 million, is expected to be used to strengthen our
 production capabilities, mainly involving the construction of new production facilities
 and upgrading of production equipment and machinery. In particular:
 (i) approximately 12.0%, or HK$80.2 million, will be used for acquisition of land use
@@ -19870,7 +19870,7 @@ products in 2023 is expected to exceed the aggregated maximum production capacit
 our production plants of our three production plants as of December 31, 2022. As such,
 weexpecttobeabletofulfilcustomerdemandandtheneedsofourrapidbusinessgrowth
 with the expanded production capacity of our production plants.
-(cid:129) approximately 10.0%, or HK$66.9 million, is expected to be used for working capital and
+ approximately 10.0%, or HK$66.9 million, is expected to be used for working capital and
 other general corporate purposes.
 RANGE OF NET PROCEEDS
 If the Offer Price is fixed at HK$8.00 per Offer Share (being the high end of the Offer Price
@@ -20941,11 +20941,11 @@ in the ballot may not receive any Hong Kong Offer Shares.
 For allocation purposes only, the total number of Hong Kong Offer Shares available under the
 Hong Kong Public Offering (after taking into account any reallocation referred to below) will
 be divided equally (to the nearest board lot) into two pools: pool A and pool B.
-(cid:129) The Hong Kong Offer Shares in pool A will be allocated on an equitable basis to
+ The Hong Kong Offer Shares in pool A will be allocated on an equitable basis to
 applicants who have applied for Hong Kong Offer Shares with an aggregate price of
 HK$5 million (excluding the brokerage, the SFC transaction levy, the AFRC transaction
 levy and the Stock Exchange trading fee payable) or less.
-(cid:129) The Hong Kong Offer Shares in pool B will be allocated on an equitable basis to
+ The Hong Kong Offer Shares in pool B will be allocated on an equitable basis to
 applicants who have applied for Hong Kong Offer Shares with an aggregate price of more
 than HK$5 million (excluding the brokerage, the SFC transaction levy, the AFRC
 transaction levy and the Stock Exchange trading fee payable) and up to the total value in
@@ -21200,13 +21200,13 @@ made available in a variety of channels in the manner described in the section h
 to Apply for Hong Kong Offer Shares – 11. Publication of Results.”
 CONDITIONS OF THE GLOBAL OFFERING
 Acceptance of all applications for Offer Shares is conditional on:
-(cid:129) the Listing Committee granting approval for the listing of, and permission to deal in, our
+ the Listing Committee granting approval for the listing of, and permission to deal in, our
 Shares in issue and to be issued as described in this prospectus;
-(cid:129) theOfferPricehavingbeenagreedbetweenusandtheSoleOverallCoordinator(foritself
+ theOfferPricehavingbeenagreedbetweenusandtheSoleOverallCoordinator(foritself
 and on behalf of the Underwriters);
-(cid:129) the execution and delivery of the International Underwriting Agreement on or about the
+ the execution and delivery of the International Underwriting Agreement on or about the
 Price Determination Date; and
-(cid:129) the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
+ the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
 Agreement and the obligations of the International Underwriters under the International
 Underwriting Agreement becoming unconditional and not having been terminated in
 accordance with the terms of the respective agreements,
@@ -21324,41 +21324,41 @@ at our or their discretion.
 Eligibility for the Application
 You can apply for Hong Kong Offer Shares if you or any person(s) for whose benefit you
 are applying:
-(cid:129) are 18 years of age or older
+ are 18 years of age or older
 The number of joint applicants may not exceed four.
 If you are a firm, the application must be in the individual members’ names.
 Unless permitted by the Hong Kong Listing Rules, you cannot apply for any Hong Kong
 Offer Shares if:
-(cid:129) you are an existing beneficial owner of Shares in the Company and/or any of our
+ you are an existing beneficial owner of Shares in the Company and/or any of our
 subsidiaries;
 – 478 –
 
 === PAGE 489 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) you are a Director or chief executive of the Company and/or a director or chief
+ you are a Director or chief executive of the Company and/or a director or chief
 executive officer of any of its subsidiaries;
-(cid:129) you are a close associate (as defined in the Hong Kong Listing Rules) of any of the
+ you are a close associate (as defined in the Hong Kong Listing Rules) of any of the
 above persons;
-(cid:129) you are a core connected person (as defined in the Hong Kong Listing Rules) of the
+ you are a core connected person (as defined in the Hong Kong Listing Rules) of the
 Company or will become a core connected person of the Company immediately
 upon the completion of the Global Offering; or
-(cid:129) you have been allocated or have applied for or indicated an interest in any
+ you have been allocated or have applied for or indicated an interest in any
 International Offer Shares or otherwise participate in the International Offering.
 Items Required for the Application
 If you apply for Hong Kong Offer Shares online through the HK eIPO White Form
 service, you must:
-(cid:129) have a valid Hong Kong identity card number/passport number (for individual
+ have a valid Hong Kong identity card number/passport number (for individual
 applicant) or Hong Kong business registration number/certificate of incorporation
 number (for body corporate applicant);
-(cid:129) have a Hong Kong address; and
-(cid:129) provide a valid e-mail address and a contact telephone number.
+ have a Hong Kong address; and
+ provide a valid e-mail address and a contact telephone number.
 If you are applying for the Hong Kong Offer Shares online by instructing your broker or
 custodian who is a CCASS Clearing Participant or a CCASS Custodian Participant to
 give electronic application instructions via CCASS terminals, please contact them for
 the items required for the application.
 3. Terms and Conditions of an Application
 By applying through the application channels specified in this prospectus you:
-(cid:129) undertake to execute all relevant documents and instruct and authorize us and/or the Sole
+ undertake to execute all relevant documents and instruct and authorize us and/or the Sole
 GlobalCoordinator(ortheiragentsornominees),asouragents,toexecuteanydocuments
 for you and to do on your behalf all things necessary to register any Hong Kong Offer
 Shares allocated to you in your name or in the name of HKSCC Nominees as required by
@@ -21367,63 +21367,63 @@ the Articles of Association;
 
 === PAGE 490 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree to comply with our Memorandum and Articles of Association, the Companies
+ agree to comply with our Memorandum and Articles of Association, the Companies
 (Winding Up and Miscellaneous Provisions) Ordinance and Cayman Companies Act;
-(cid:129) confirm that you have read the terms and conditions and application procedures set out
+ confirm that you have read the terms and conditions and application procedures set out
 in this prospectus and agree to be bound by them;
-(cid:129) confirm that you have received and read this prospectus and have relied only on the
+ confirm that you have received and read this prospectus and have relied only on the
 informationandrepresentationsinthisprospectusinmakingyourapplicationandwillnot
 rely on any other information or representations, except those in any supplement to this
 prospectus;
-(cid:129) confirm that you are aware of the restrictions on the Global Offering set out in this
+ confirm that you are aware of the restrictions on the Global Offering set out in this
 prospectus;
-(cid:129) agree that none of us, the Sole Sponsor, the Sole Global Coordinator, the Joint
+ agree that none of us, the Sole Sponsor, the Sole Global Coordinator, the Joint
 Bookrunners, the Underwriters, their respective directors, officers, employees, partners,
 agents, advisers and any other parties involved in the Global Offering (the “Relevant
 Persons”), and the HK eIPO White Form Service Provider is or will be liable for any
 information and representations not in this prospectus (and any supplement to this
 prospectus);
-(cid:129) undertake and confirm that you or the person(s) for whose benefit you have made the
+ undertake and confirm that you or the person(s) for whose benefit you have made the
 application have not applied for or taken up, or indicated an interest for, and will not
 apply for or take up, or indicate an interest for, any International Offer Shares nor
 participated in the International Offering;
-(cid:129) agree to disclose to us, the Hong Kong Share Registrar, the receiving bank and the
+ agree to disclose to us, the Hong Kong Share Registrar, the receiving bank and the
 Relevant Persons any personal data which we or any of them may require about you and
 the person(s) for whose benefit you have made the application;
-(cid:129) if the laws of any place outside Hong Kong apply to your application, agree and warrant
+ if the laws of any place outside Hong Kong apply to your application, agree and warrant
 that you have complied with all such laws and neither we nor the Relevant Persons will
 breach any laws outside Hong Kong as a result of the acceptance of your offer to
 purchase, or any action arising from your rights and obligations under the terms and
 conditions in this prospectus;
-(cid:129) agree that once your application has been accepted, you may not rescind it because of an
+ agree that once your application has been accepted, you may not rescind it because of an
 innocent misrepresentation;
-(cid:129) agree that your application, any acceptance of it and the resulting contract will be
+ agree that your application, any acceptance of it and the resulting contract will be
 governed by, and construed in accordance with the laws of Hong Kong;
-(cid:129) warrant that the information you have provided is true and accurate;
+ warrant that the information you have provided is true and accurate;
 – 480 –
 
 === PAGE 491 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree to accept the Hong Kong Offer Shares applied for or any lesser number allocated
+ agree to accept the Hong Kong Offer Shares applied for or any lesser number allocated
 to you under the application;
-(cid:129) authorize (i) us to place your name(s) or the name of HKSCC Nominees on our register
+ authorize (i) us to place your name(s) or the name of HKSCC Nominees on our register
 of members as the holder(s) of any Hong Kong Offer Shares allocated to you and such
 other registers as required under our Memorandum andArticles ofAssociation and (ii) us
 and/or our agents to send any Share certificate(s) and/or any e-Auto Refund payment
 instructions and/or any refund check(s) to you or the first-named applicant for joint
 applications by ordinary post at your own risk to the address stated on the application,
 unless you are eligible to collect the Share certificate(s) and/or refund check(s) in person;
-(cid:129) declare and represent that this is the only application made and the only application
+ declare and represent that this is the only application made and the only application
 intended by you to be made to benefit you or the person for whose benefit you are
 applying;
-(cid:129) understand that we, our Directors and the Sole Global Coordinator will rely on your
+ understand that we, our Directors and the Sole Global Coordinator will rely on your
 declarations and representations in deciding whether or not to allocate any of the Hong
 Kong Offer Shares to you and that you may be prosecuted for making a false declaration;
-(cid:129) (if the application is made for your own benefit) warrant that no other application has
+ (if the application is made for your own benefit) warrant that no other application has
 been or will be made for your benefit by giving electronic application instructions to
 HKSCC directly or indirectly or through the HK eIPO White Form service by you or by
 any one as your agent or by any other person; and
-(cid:129) (if you are making the application as an agent for the benefit of another person) warrant
+ (if you are making the application as an agent for the benefit of another person) warrant
 that(i)nootherapplicationhasbeenorwillbemadebyyouasagentfororforthebenefit
 of that person or by that person or by any other person as agent for that person by giving
 electronic application instructions to HKSCC or to the HK eIPO White Form Service
@@ -21526,29 +21526,29 @@ Applying through the CCASS EIPO Service
 Where you have applied through the CCASS EIPO service (either indirectly through a
 broker or custodian or directly) and an application is made by HKSCC Nominees on your
 behalf:
-(cid:129) HKSCC Nominees will only be acting as a nominee for you and is not liable for any
+ HKSCC Nominees will only be acting as a nominee for you and is not liable for any
 breach of the terms and conditions of this prospectus; and
-(cid:129) HKSCC Nominees will do the following things on your behalf:
-(cid:129) agreethattheHongKongOfferSharestobeallocatedshallberegisteredinthe
+ HKSCC Nominees will do the following things on your behalf:
+ agreethattheHongKongOfferSharestobeallocatedshallberegisteredinthe
 name of HKSCC Nominees and deposited directly into CCASS for the credit
 of the CCASS Participant’s stock account on your behalf or your CCASS
 Investor Participant’s stock account;
-(cid:129) agree to accept the Hong Kong Offer Shares applied for or any lesser number
+ agree to accept the Hong Kong Offer Shares applied for or any lesser number
 allocated;
-(cid:129) undertake and confirm that you have not applied for or taken up, or indicated
+ undertake and confirm that you have not applied for or taken up, or indicated
 an interest for, and will not apply for or take up, or indicate an interest for, any
 International Offer Shares nor participated in the International Offering;
-(cid:129) (if the electronic application instructions are given for your benefit) declare
+ (if the electronic application instructions are given for your benefit) declare
 that only one set of electronic application instructions has been given for
 your benefit;
-(cid:129) (if you are an agent for another person) declare that you have only given one
+ (if you are an agent for another person) declare that you have only given one
 set of electronic application instructions for the other person’s benefit and
 are duly authorized to give those instructions as its agent;
-(cid:129) confirm that you understand that we, our Directors and the Sole Global
+ confirm that you understand that we, our Directors and the Sole Global
 Coordinator will rely on your declarations and representations in deciding
 whether or not to allocate any of the Hong Kong Offer Shares to you and that
 you may be prosecuted for making a false declaration;
-(cid:129) authorize us to place HKSCC Nominees’ name on our register of members as
+ authorize us to place HKSCC Nominees’ name on our register of members as
 the holder of the Hong Kong Offer Shares allocated to you, and dispatch Share
 certificate(s) and/or refund monies in accordance with the arrangements
 separately agreed between us and HKSCC;
@@ -21556,22 +21556,22 @@ separately agreed between us and HKSCC;
 
 === PAGE 495 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) confirmthatyouhavereadthetermsandconditionsandapplicationprocedures
+ confirmthatyouhavereadthetermsandconditionsandapplicationprocedures
 set out in this prospectus and agree to be bound by them;
-(cid:129) confirm that you have received and read a copy of this prospectus and have
+ confirm that you have received and read a copy of this prospectus and have
 relied only on the information and representations in this prospectus in causing
 the application to be made and will not rely on any other information or
 representations, except those in any supplement to this prospectus;
-(cid:129) agree that neither we nor any of the Relevant Persons is or will be liable for
+ agree that neither we nor any of the Relevant Persons is or will be liable for
 anyinformationandrepresentationsnotinthisprospectus(andanysupplement
 to this prospectus);
-(cid:129) agree to disclose to us, the Hong Kong Share Registrar, the receiving bank and
+ agree to disclose to us, the Hong Kong Share Registrar, the receiving bank and
 the Relevant Persons any personal data which we or they may require about
 you;
-(cid:129) agree (without prejudice to any other rights which you may have) that once
+ agree (without prejudice to any other rights which you may have) that once
 HKSCC Nominees’ application has been accepted, it cannot be rescinded for
 innocent misrepresentation;
-(cid:129) agree that any application made by HKSCC Nominees on your behalf is
+ agree that any application made by HKSCC Nominees on your behalf is
 irrevocable on or before the fifth day after the time of opening of the
 application lists (excluding any days which is Saturday, Sunday or public
 holiday in Hong Kong), such agreement to take effect as a collateral contract
@@ -21594,32 +21594,32 @@ Kong) which excludes or limits that person’s responsibility for this prospectu
 
 === PAGE 496 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree that once HKSCC Nominees’ application is accepted, neither that
+ agree that once HKSCC Nominees’ application is accepted, neither that
 application nor your electronic application instructions can be revoked, and
 that acceptance of that application will be evidenced by the announcement of
 the results of the Hong Kong Public Offering by us;
-(cid:129) agree to the arrangements, undertakings and warranties under the participant
+ agree to the arrangements, undertakings and warranties under the participant
 agreement between you and HKSCC, read with the General Rules of CCASS
 and the CCASS Operational Procedures, for giving electronic application
 instructions to apply for Hong Kong Offer Shares;
-(cid:129) agreewithus,forourselvesandforthebenefitofeachShareholder(andsothat
+ agreewithus,forourselvesandforthebenefitofeachShareholder(andsothat
 we will be deemed by our acceptance in whole or in part of the application by
 HKSCC Nominees to have agreed, for us and on behalf of each Shareholder,
 with each CCASS Participant giving electronic application instructions) to
 observe and comply with our Memorandum and Articles of Association, the
 Companies (Winding Up and Miscellaneous Provisions) Ordinance and
 Cayman Companies Act; and
-(cid:129) agree that your application, any acceptance of it and the resulting contract will
+ agree that your application, any acceptance of it and the resulting contract will
 be governed by, and construed in accordance with the laws of Hong Kong.
 Effect of Applying through the CCASS EIPO Service
 ByapplyingthroughtheCCASSEIPOservice,you(and,ifyouarejointapplicants,each
 of you jointly and severally) are deemed to have done the following things. Neither
 HKSCC nor HKSCC Nominees will be liable to us or any other person in respect of the
 things mentioned below:
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees (acting as nominee
+ instructed and authorized HKSCC to cause HKSCC Nominees (acting as nominee
 for the relevant CCASS Participants) to apply for the Hong Kong Offer Shares on
 your behalf;
-(cid:129) instructed and authorized HKSCC to arrange payment of the maximum Offer Price,
+ instructed and authorized HKSCC to arrange payment of the maximum Offer Price,
 brokerage, SFC transaction levy, AFRC transaction levy and Hong Kong Stock
 Exchange trading fee by debiting your designated bank account and, in the case of
 a wholly or partially unsuccessful application and/or if the Offer Price is less than
@@ -21627,7 +21627,7 @@ the maximum Offer Price initially paid on application, refund of the application
 monies (including brokerage, SFC transaction levy, AFRC transaction levy and
 Hong Kong Stock Exchange trading fee) by crediting your designated bank account;
 and
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees to do on your behalf
+ instructed and authorized HKSCC to cause HKSCC Nominees to do on your behalf
 all the things stated in this prospectus.
 – 486 –
 
@@ -21687,24 +21687,24 @@ Kong Share Registrar immediately of any inaccuracies in the personal data suppli
 Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund check, where applicable, verification of
+ processing your application and refund check, where applicable, verification of
 compliance with the terms and application procedures set out in this prospectus and
 announcing results of allocation of the Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of our
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of our
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating our register of members;
-(cid:129) verifying identities of the holders of our Shares;
-(cid:129) establishing benefit entitlements of holders of our Shares, such as dividends, rights
+ maintaining or updating our register of members;
+ verifying identities of the holders of our Shares;
+ establishing benefit entitlements of holders of our Shares, such as dividends, rights
 issues, bonus issues, etc.;
 – 488 –
 
 === PAGE 499 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) distributing communications from us and our subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of our Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable us
+ distributing communications from us and our subsidiaries;
+ compiling statistical information and profiles of the holder of our Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to enable us
 and the Hong Kong Share Registrar to discharge our or their obligations to holders
 of our Shares and/or regulators and/or any other purposes to which the securities’
 holders may from time to time agree.
@@ -21714,17 +21714,17 @@ Hong Kong Offer Shares will be kept confidential but we and our Hong Kong Share
 Registrar may, to the extent necessary for achieving any of the above purposes, disclose,
 obtain or transfer (whether within or outside Hong Kong) the personal data to, from or
 with any of the following:
-(cid:129) our appointed agents such as financial advisers, receiving bankers and overseas
+ our appointed agents such as financial advisers, receiving bankers and overseas
 principal share registrar;
-(cid:129) where applicants for the Hong Kong Offer Shares request a deposit into CCASS,
+ where applicants for the Hong Kong Offer Shares request a deposit into CCASS,
 HKSCC or HKSCC Nominees, who will use the personal data for the purposes of
 operating CCASS;
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to us or the Hong Kong
 Share Registrar in connection with their respective business operation;
-(cid:129) the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
+ the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
 governmental bodies or otherwise as required by laws, rules or regulations; and
-(cid:129) any persons or institutions with which the holders of the Hong Kong Offer Shares
+ any persons or institutions with which the holders of the Hong Kong Offer Shares
 have or propose to have dealings, such as their bankers, solicitors, accountants or
 stockbrokers, etc.
 Retention of personal data
@@ -21804,8 +21804,8 @@ Since applications are subject to personal information collection statements, be
 identification codes displayed are redacted. Applicants with beneficial names only but not
 identification document numbers are not disclosed due to personal privacy issue.
 If an application is made by an unlisted company and:
-(cid:129) the principal business of that company is dealing in securities; and
-(cid:129) you exercise statutory control over that company,
+ the principal business of that company is dealing in securities; and
+ you exercise statutory control over that company,
 then the application will be treated as being made for your benefit.
 “Unlisted company” means a company with no equity securities listed on the Hong Kong
 Stock Exchange.
@@ -21814,9 +21814,9 @@ Stock Exchange.
 === PAGE 502 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) hold more than half of the issued share capital of the company (not counting any part of
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ hold more than half of the issued share capital of the company (not counting any part of
 it which carries no right to participate beyond a specified amount in a distribution of
 either profits or capital).
 9. How Much are the Hong Kong Offer Shares
@@ -21848,9 +21848,9 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 10. Effect of BadWeatherand/orExtreme Conditions on the Opening and Closing of the
 Application Lists
 The application lists will not open or close if there is/are:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a “black” rainstorm warning; and/or
-(cid:129) Extreme Conditions;
+ a tropical cyclone warning signal number 8 or above;
+ a “black” rainstorm warning; and/or
+ Extreme Conditions;
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Wednesday, October
 4, 2023. Instead they will open between 11:45 a.m. and 12:00 noon on the next business day
 which does not have any of those warnings and/or Extreme Conditions in Hong Kong in force
@@ -21871,10 +21871,10 @@ website of Hong Kong Stock Exchange at www.hkexnews.hk.
 The results of allocations and the Hong Kong identity card/passport/Hong Kong business
 registration/certificate of incorporation numbers of successful applicants under the Hong Kong
 Public Offering will be available at the times and dates and in the manner set out below:
-(cid:129) in the announcement to be posted on our website and the website of Hong Kong Stock
+ in the announcement to be posted on our website and the website of Hong Kong Stock
 Exchange at www.luyuan.cn and www.hkexnews.hk, respectively, by no later than 9:00
 a.m. on Wednesday, October 11, 2023;
-(cid:129) from the “IPO Results” function in the IPOApp and the designated results of allocations
+ from the “IPO Results” function in the IPOApp and the designated results of allocations
 website at www.tricor.com.hk/ipo/result or www.hkeipo.hk/IPOResult with a “search
 by ID” function on a 24-hour basis from 8:00 a.m. on Wednesday, October 11, 2023 to
 12:00 midnight on Tuesday, October 17, 2023; and
@@ -21882,7 +21882,7 @@ by ID” function on a 24-hour basis from 8:00 a.m. on Wednesday, October 11, 20
 
 === PAGE 504 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) from the allocation results telephone enquiry line by calling +852 3691 8488 between
+ from the allocation results telephone enquiry line by calling +852 3691 8488 between
 9:00 a.m. and 6:00 p.m. fromWednesday, October 11, 2023 to Monday, October 16, 2023
 (exclude Saturday, Sunday and public holiday in Hong Kong).
 If we accept your offer to purchase (in whole or in part), which it may do by announcing the
@@ -21906,14 +21906,14 @@ Your application or the application made by HKSCC Nominees on your behalf may on
 be revoked on or before the fifth day after the time of opening of the application lists
 (excluding any days which is Saturday, Sunday or public holiday in Hong Kong) in the
 following circumstances:
-(cid:129) if a person responsible for this prospectus under Section 40 of the Companies
+ if a person responsible for this prospectus under Section 40 of the Companies
 (Winding Up and Miscellaneous Provisions) Ordinance (as applied by Section 342E
 of the Companies (Winding Up and Miscellaneous Provisions) Ordinance) gives a
 public notice under that section on or before the fifth day after the time of the
 opening of the application lists (excluding any day which is a Saturday, Sunday or
 public holiday in Hong Kong) which excludes or limits that person’s responsibility
 for this prospectus; or
-(cid:129) if any supplement to this prospectus is issued, in which case applicants who have
+ if any supplement to this prospectus is issued, in which case applicants who have
 already submitted an application will be notified that they are required to confirm
 their applications. If applicants have been so notified but have not confirmed their
 applications in accordance with the procedure to be notified, all unconfirmed
@@ -21935,26 +21935,26 @@ application, or to accept only part of any application, without giving any reaso
 If the allotment of Hong Kong Offer Shares is void:
 The allotment of Hong Kong Offer Shares will be void if the Hong Kong Stock Exchange
 does not grant permission to the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Hong Kong Stock Exchange notifies
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Hong Kong Stock Exchange notifies
 the Company of that longer period within three weeks of the closing date of the
 application lists.
 If:
-(cid:129) you make multiple applications or are suspected of making multiple applications;
-(cid:129) you or the person for whose benefit you apply for, have applied for or taken up, or
+ you make multiple applications or are suspected of making multiple applications;
+ you or the person for whose benefit you apply for, have applied for or taken up, or
 indicated an interest for, or have been or will be placed or allocated (including
 conditionally and/or provisionally) Hong Kong Offer Shares and International Offer
 Shares;
-(cid:129) your payment is not made correctly;
-(cid:129) your electronic application instructions through the HK eIPO White Form
+ your payment is not made correctly;
+ your electronic application instructions through the HK eIPO White Form
 service are not completed in accordance with the instructions, terms and conditions
 in the IPO App or on the designated website at www.hkeipo.hk;
-(cid:129) you apply for more than 5,333,500 Hong Kong Offer Shares, being 50% of the
+ you apply for more than 5,333,500 Hong Kong Offer Shares, being 50% of the
 10,667,000 Hong Kong Offer Shares initially available under the Hong Kong Public
 Offering;
-(cid:129) we or the Sole Global Coordinator believe that by accepting your application, a
+ we or the Sole Global Coordinator believe that by accepting your application, a
 violation of applicable securities or other laws, rules or regulations would result; or
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated.
+ the Underwriting Agreements do not become unconditional or are terminated.
 – 495 –
 
 === PAGE 506 ===
@@ -21988,8 +21988,8 @@ beforethattime.InvestorswhotradeSharesonthebasisofpubliclyavailableallocationdet
 or prior to the receipt of the Share certificates or prior to the Share certificates becoming valid
 do so entirely at their own risk.
 Personal Collection
-(cid:129) If you apply through the HK eIPO White Form service:
-(cid:129) If you apply for 1,000,000 Hong Kong Offer Shares or more through the HK
+ If you apply through the HK eIPO White Form service:
+ If you apply for 1,000,000 Hong Kong Offer Shares or more through the HK
 eIPO White Form service and your application is wholly or partially
 successful, you may collect your Share certificate(s) (where applicable) in
 person from the Hong Kong Share Registrar, Tricor Investor Services Limited,
@@ -22007,28 +22007,28 @@ bear a letter of authorization from your corporation stamped with your
 corporation’s chop. Both individuals and authorized representatives must
 produce, at the time of collection, evidence of identity acceptable to the Hong
 Kong Share Registrar.
-(cid:129) If you do not personally collect your Share certificate(s) within the time
+ If you do not personally collect your Share certificate(s) within the time
 specified for collection, they will be sent to the address specified in your
 application instructions by ordinary post and at your own risk.
-(cid:129) If you apply for less than 1,000,000 Hong Kong Offer Shares through the HK
+ If you apply for less than 1,000,000 Hong Kong Offer Shares through the HK
 eIPOWhite Form service, your Share certificate(s) (where applicable) will be
 sent to the address specified in your application instructions on or before
 Wednesday, October 11, 2023 by ordinary post and at your own risk.
-(cid:129) If you apply and pay the application monies from a single bank account, any
+ If you apply and pay the application monies from a single bank account, any
 refund monies will be dispatched to that bank account in the form of e-Auto
 Refundpaymentinstructions.Ifyouapplyandpaytheapplicationmoniesfrom
 multiple bank accounts, any refund monies will be dispatched to the address
 specified in your application instructions in the form of refund check(s) in
 favour of the applicant (or, in the case of joint applications, the first-named
 applicant) by ordinary post and at your own risk.
-(cid:129) If you apply through the CCASS EIPO service:
+ If you apply through the CCASS EIPO service:
 Allocation of Hong Kong Offer Shares
-(cid:129) For the purposes of allocating Hong Kong Offer Shares, HKSCC Nominees
+ For the purposes of allocating Hong Kong Offer Shares, HKSCC Nominees
 will not be treated as an applicant. Instead, each CCASS Participant who gives
 electronic application instructions or each person for whose benefit
 instructions are given will be treated as an applicant.
 Deposit of Share Certificates into CCASS and Refund of Application Monies
-(cid:129) If your application is wholly or partially successful, your Share certificate(s)
+ If your application is wholly or partially successful, your Share certificate(s)
 will be issued in the name of HKSCC Nominees and deposited into CCASS for
 the credit of your designated CCASS Participant’s stock account or your
 CCASS Investor Participant stock account on Wednesday, October 11, 2023 or
@@ -22037,7 +22037,7 @@ on any other date determined by HKSCC or HKSCC Nominees.
 
 === PAGE 508 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) We expect to publish the application results of CCASS Participants (and where
+ We expect to publish the application results of CCASS Participants (and where
 the CCASS Participant is a broker or custodian, we will include information
 relating to the relevant beneficial owner), your Hong Kong identity
 card/passport/Hong Kong business registration number or other identification
@@ -22048,13 +22048,13 @@ on Wednesday, October 11, 2023. You should check the announcement
 published by us and report any discrepancies to HKSCC before 5:00 p.m. on
 Wednesday, October 11, 2023 or such other date as determined by HKSCC or
 HKSCC Nominees.
-(cid:129) If you have instructed your broker or custodian who is a CCASS Clearing
+ If you have instructed your broker or custodian who is a CCASS Clearing
 Participant or a CCASS Custodian Participant to give electronic application
 instructionsviaCCASSterminalstoapplyfortheHongKongOfferShareson
 your behalf, you can also check the number of the Hong Kong Offer Shares
 allocated to you and the amount of refund monies (if any) payable to you with
 that broker or custodian.
-(cid:129) If you have applied as a CCASS Investor Participant, you can also check the
+ If you have applied as a CCASS Investor Participant, you can also check the
 number of Hong Kong Offer Shares allocated to you and the amount of refund
 monies (if any) payable to you via the CCASS Phone System and the CCASS
 Internet System (under the procedures contained in HKSCC’s “An Operating
@@ -22065,7 +22065,7 @@ account,HKSCCwillalsomakeavailabletoyouanactivitystatementshowing
 the number of Hong Kong Offer Shares credited to your CCASS Investor
 Participant stock account and the amount of refund monies (if any) credited to
 your designated bank account.
-(cid:129) Refund of your application monies (if any) in respect of wholly and partially
+ Refund of your application monies (if any) in respect of wholly and partially
 unsuccessful applications and/or difference between the Offer Price and the
 maximum Offer Price per Offer Share initially paid on application (including
 brokerage, SFC transaction levy,AFRC transaction levy and Hong Kong Stock
@@ -22666,11 +22666,11 @@ described in Note 2.9.
 Theacquisitionmethodofaccountingisusedtoaccountforallbusinesscombinations,regardlessofwhetherequity
 instrumentsorotherassetsareacquired.Theconsiderationtransferredfortheacquisitionofasubsidiarycomprises
 the:
-(cid:129) fair values of the assets transferred
-(cid:129) liabilities incurred to the former owners of the acquired business
-(cid:129) equity interests issued by the Group
-(cid:129) fair value of any asset or liability resulting from a contingent consideration arrangement, and
-(cid:129) fair value of any pre-existing equity interest in the subsidiary.
+ fair values of the assets transferred
+ liabilities incurred to the former owners of the acquired business
+ equity interests issued by the Group
+ fair value of any asset or liability resulting from a contingent consideration arrangement, and
+ fair value of any pre-existing equity interest in the subsidiary.
 – I-16 –
 
 === PAGE 526 ===
@@ -22681,9 +22681,9 @@ non-controlling interest in the acquired entity on an acquisition-by-acquisition
 non-controlling interest’s proportionate share of the acquired entity’s net identifiable assets.
 Acquisition-related costs are expensed as incurred.
 The excess of the:
-(cid:129) consideration transferred,
-(cid:129) amount of any non-controlling interest in the acquired entity, and
-(cid:129) acquisition-date fair value of any previous equity interest in the acquired entity.
+ consideration transferred,
+ amount of any non-controlling interest in the acquired entity, and
+ acquisition-date fair value of any previous equity interest in the acquired entity.
 overthefairvalueofthenetidentifiableassetsacquiredisrecordedasgoodwill.Ifthoseamountsarelessthanthe
 fairvalueofthenetidentifiableassetsofthebusinessacquired,thedifferenceisrecognizeddirectlyinprofitorloss
 as a bargain purchase.
@@ -22742,13 +22742,13 @@ income.
 The results and financial positions of some group entities (none of which has the currency of a
 hyperinflationary economy) that have a functional currency different from the presentation currency are
 translated into the presentation currency as follows:
-(cid:129) assets and liabilities for each statement of financial position of the group entities are translated at the
+ assets and liabilities for each statement of financial position of the group entities are translated at the
 closing rate at the date of that consolidated balance sheet;
-(cid:129) income and expenses for each statement of comprehensive income are translated at average exchange
+ income and expenses for each statement of comprehensive income are translated at average exchange
 rates (unless this is not a reasonable approximation of the cumulative effect of the rates prevailing on
 thetransactiondates,inwhichcaseincomeandexpensesaretranslatedatthedatesofthetransactions);
 and
-(cid:129) all resulting exchange differences are recognized in other comprehensive income.
+ all resulting exchange differences are recognized in other comprehensive income.
 On consolidation, exchange differences arising from the translation of any net investment in foreign entities,
 and of borrowings and other financial instruments designated as hedges of such investments, are recognized
 inothercomprehensiveincome(OCI).Whenaforeignoperationissoldoranyborrowingsformingpartofthe
@@ -22796,13 +22796,13 @@ whenever there is an indication that the intangible asset may be impaired.
 Researchexpenditureisrecognizedasanexpenseasincurred.Costsincurredondevelopmentprojects
 (relating to the design and testing of new and improved products) are recognized as intangible assets
 when the following criteria are met:
-(cid:129) It is technically feasible to complete the patent so that it will be available for use;
-(cid:129) Management intends to complete the patent and use or sell it;
-(cid:129) There is an ability to use or sell the patent;
-(cid:129) It can be demonstrated how the patent will generate probable future economic benefits;
-(cid:129) Adequatetechnical,financialandotherresourcestocompletethedevelopmentandtouseorsell
+ It is technically feasible to complete the patent so that it will be available for use;
+ Management intends to complete the patent and use or sell it;
+ There is an ability to use or sell the patent;
+ It can be demonstrated how the patent will generate probable future economic benefits;
+ Adequatetechnical,financialandotherresourcestocompletethedevelopmentandtouseorsell
 the patent are available; and
-(cid:129) The expenditure attributable to the patent during its development can be reliably measured.
+ The expenditure attributable to the patent during its development can be reliably measured.
 Directly attributable costs that are capitalized as part of the patent include the software development
 employee costs and an appropriate portion of relevant overheads.
 Otherdevelopmentexpendituresthatdonotmeetthesecriteriaarerecognizedasanexpenseasincurred.
@@ -22826,8 +22826,8 @@ possible reversal of the impairment at the end of each reporting period.
 2.10 Investments and other financial assets
 2.10.1 Classification
 The Group classifies its financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through OCI or through profit or loss), and
-(cid:129) those to be measured at amortized cost.
+ those to be measured subsequently at fair value (either through OCI or through profit or loss), and
+ those to be measured at amortized cost.
 Theclassificationdependsontheentity’sbusinessmodelformanagingthefinancialassetsandthecontractual
 terms of the cash flows.
 For assets measured at fair value, gains and losses will either be recorded in profit or loss or OCI. For
@@ -22852,13 +22852,13 @@ Debt instruments
 SubsequentmeasurementofdebtinstrumentsdependsontheGroup’sbusinessmodelformanagingthe
 asset and the cash flow characteristics of the asset.
 There are three measurement categories into which the Group classifies its debt instruments:
-(cid:129) Amortized cost: Assets that are held for collection of contractual cash flows where those cash
+ Amortized cost: Assets that are held for collection of contractual cash flows where those cash
 flowsrepresentsolelypaymentsofprincipalandinterestaremeasuredatamortizedcost.Interest
 incomefromthesefinancialassetsisincludedinfinanceincomeusingtheeffectiveinterestrate
 method. Any gain or loss arising on derecognition is recognized directly in profit or loss and
 presented in other gains/(losses) together with foreign exchange gains and losses. Impairment
 losses are presented as separate line item in the consolidation income statement.
-(cid:129) FVOCI:Assetsthatareheldforcollectionofcontractualcashflowsandforsellingthefinancial
+ FVOCI:Assetsthatareheldforcollectionofcontractualcashflowsandforsellingthefinancial
 assets, where the assets’ cash flows represent solely payments of principal and interest, are
 measured at FVOCI. Movements in the carrying amount are taken through OCI, except for the
 recognitionofimpairmentgainsorlosses,interestincomeandforeignexchangegainsandlosses
@@ -22872,7 +22872,7 @@ gains/(losses).Interestincomefromthesefinancialassetsisincludedinfinanceincomeus
 effective interest rate method. Foreign exchange gains and losses are presented in other
 gains/(losses) and impairment expenses are presented as separate line item in the consolidation
 income statement.
-(cid:129) FVTPL:AssetsthatdonotmeetthecriteriaforamortizedcostorFVOCIaremeasuredatFVTPL.
+ FVTPL:AssetsthatdonotmeetthecriteriaforamortizedcostorFVOCIaremeasuredatFVTPL.
 A gain or loss on a debt investment that is subsequently measured at FVTPL is recognized in
 profit or loss and presented net within other gains/(losses) in the period in which it arises.
 Equity instruments
@@ -22996,10 +22996,10 @@ Aperformance obligation represents a good or service (or a bundle of goods or se
 of distinct goods or services that are substantially the same.
 Controlistransferredovertimeandrevenueisrecognizedovertimebyreferencetotheprogresstowardscomplete
 satisfaction of the relevant performance obligation if one of the following criteria is met:
-(cid:129) thecustomersimultaneouslyreceivesandconsumesthebenefitsprovidedbytheGroup’sperformanceasthe
+ thecustomersimultaneouslyreceivesandconsumesthebenefitsprovidedbytheGroup’sperformanceasthe
 Group performs;
-(cid:129) the Group’s performance creates or enhances an asset that the customer controls as the Group performs; or
-(cid:129) the Group’s performance does not create an asset with an alternative use to the Group and the Group has an
+ the Group’s performance creates or enhances an asset that the customer controls as the Group performs; or
+ the Group’s performance does not create an asset with an alternative use to the Group and the Group has an
 enforceable right to payment for performance completed to date.
 Otherwise,revenueisrecognizedatapointintimewhenthecustomerobtainscontrolofthedistinctgoodorservice.
 AcontractliabilityrepresentstheGroup’sobligationtotransfergoodsorservicestoacustomerforwhichtheGroup
@@ -23094,12 +23094,12 @@ lease agreements do not impose any covenants other than the security interests i
 the lessor. Leased assets may not be used as security for borrowing purposes.
 Assetsandliabilitiesarisingfromaleaseareinitiallymeasuredonapresentvaluebasis.Leaseliabilitiesincludethe
 net present value of the following lease payments:
-(cid:129) fixed payments (including in-substance fixed payments), less any lease incentives receivable
-(cid:129) variableleasepaymentthatarebasedonanindexorarate,initiallymeasuredusingtheindexorrateasatthe
+ fixed payments (including in-substance fixed payments), less any lease incentives receivable
+ variableleasepaymentthatarebasedonanindexorarate,initiallymeasuredusingtheindexorrateasatthe
 commencement date
-(cid:129) amounts expected to be payable by the Group under residual value guarantees
-(cid:129) the exercise price of a purchase option if the Group is reasonably certain to exercise that option, and
-(cid:129) payments of penalties for terminating the lease, if the lease term reflects the Group exercising that option.
+ amounts expected to be payable by the Group under residual value guarantees
+ the exercise price of a purchase option if the Group is reasonably certain to exercise that option, and
+ payments of penalties for terminating the lease, if the lease term reflects the Group exercising that option.
 Leasepaymentstobemadeunderreasonablycertainextensionoptionsarealsoincludedinthemeasurementofthe
 liability.
 The lease payments are discounted using the interest rate implicit in the lease. If that rate cannot be readily
@@ -23111,11 +23111,11 @@ to the right-of-use asset in a similar economic environment with similar terms, 
 === PAGE 535 ===
 APPENDIX I ACCOUNTANT’S REPORT
 To determine the incremental borrowing rate, the Group:
-(cid:129) wherepossible,usesrecentthird-partyfinancingreceivedbytheindividuallesseeasastartingpoint,adjusted
+ wherepossible,usesrecentthird-partyfinancingreceivedbytheindividuallesseeasastartingpoint,adjusted
 to reflect changes in financing conditions since third party financing was received
-(cid:129) usesabuild-upapproachthatstartswitharisk-freeinterestrateadjustedforcreditriskforleasesheldbythe
+ usesabuild-upapproachthatstartswitharisk-freeinterestrateadjustedforcreditriskforleasesheldbythe
 entity, which does not have recent third party financing, and
-(cid:129) makes adjustments specific to the lease, e.g. term, country, currency and security.
+ makes adjustments specific to the lease, e.g. term, country, currency and security.
 Ifareadilyobservableamortizingloanrateisavailabletotheindividuallessee(throughrecentfinancingormarket
 data) which has a similar payment profile to the lease, then the group entities use that rate as a starting point to
 determine the incremental borrowing rate.
@@ -23123,10 +23123,10 @@ Leasepaymentsareallocatedbetweenprincipalandfinancecost.Thefinancecostischargedt
 statementovertheleaseperiodsoastoproduceaconstantperiodicrateofinterestontheremainingbalanceofthe
 liability for each period.
 Right-of-use assets are measured at cost comprising the following:
-(cid:129) the amount of the initial measurement of lease liability,
-(cid:129) any lease payments made at or before the commencement date less any lease incentives received,
-(cid:129) any initial direct costs, and
-(cid:129) restoration costs.
+ the amount of the initial measurement of lease liability,
+ any lease payments made at or before the commencement date less any lease incentives received,
+ any initial direct costs, and
+ restoration costs.
 Right-of-use assets are generally depreciated over the shorter of the asset’s useful life and the lease term on a
 straight-line basis. If the Group is reasonably certain to exercise a purchase option, the right-of-use asset is
 depreciated over the underlying asset’s useful life.
@@ -23167,17 +23167,17 @@ period.
 2.24 Earnings per share
 (i) Basic earnings per share
 Basic earnings per share is calculated by dividing:
-(cid:129) the profit attributable to owners of the Company, excluding any costs of servicing equity other than
+ the profit attributable to owners of the Company, excluding any costs of servicing equity other than
 ordinary shares
-(cid:129) by the weighted average number of ordinary shares outstanding during the financial year/period,
+ by the weighted average number of ordinary shares outstanding during the financial year/period,
 adjusted for bonus elements in ordinary shares issued during the year/period and excluding treasury
 shares
 (ii) Diluted earnings per share
 Dilutedearningspershareadjuststhefiguresusedinthedeterminationofbasicearningspersharetotakeinto
 account:
-(cid:129) the after-income tax effect of interest and other financing costs associated with dilutive potential
+ the after-income tax effect of interest and other financing costs associated with dilutive potential
 ordinary shares, and
-(cid:129) theweightedaveragenumberofadditionalordinarysharesthatwouldhavebeenoutstandingassuming
+ theweightedaveragenumberofadditionalordinarysharesthatwouldhavebeenoutstandingassuming
 the conversion of all dilutive potential ordinary shares.
 3 FINANCIALRISK MANAGEMENT
 3.1 Financial risk factors
@@ -24747,15 +24747,15 @@ the years ended December 31, 2020, 2021 and 2022 and four months endedApril 30, 
 accordance with the relevant regulations of the PRC after considering the available tax benefits from refunds and
 allowances. The general PRC CIT rate is 25% during the year ended December 31, 2020, 2021 and 2022 and four
 months endedApril 30, 2022 and 2023 except:
-(cid:129) In 2021, Zhejiang Luyuan applied the extension of the high-tech certificate originally obtained in December
+ In 2021, Zhejiang Luyuan applied the extension of the high-tech certificate originally obtained in December
 2009.Thelatesthigh-techcertificatewasobtainedinDecember2021withaneffectiveperiodfor3years.The
 incometaxratefortheyearendedDecember31,2020,2021and2022andfourmonthsendedApril30,2022
 and 2023 is 15%.
-(cid:129) In2020,ShandongLuyuanappliedtheextensionofthehigh-techcertificateoriginallyobtainedinDecember
+ In2020,ShandongLuyuanappliedtheextensionofthehigh-techcertificateoriginallyobtainedinDecember
 2017. The latest high-tech certificate was obtained inAugust 2020 with an effective period for 3 years. The
 incometaxratefortheyearendedDecember31,2020,2021and2022andfourmonthsendedApril30,2022
 and 2023 is 15%.
-(cid:129) JinhuaYichengandLudong(Jinhua)aresmalllow-profitenterprisesduringtheTrackRecordPeriod.During
+ JinhuaYichengandLudong(Jinhua)aresmalllow-profitenterprisesduringtheTrackRecordPeriod.During
 theperiodfromJanuary1,2020toDecember31,2020,theportionofannualtaxableincomeamountofasmall
 low-profit enterprise which does not exceed RMB1 million shall be computed at a reduced rate of 25% as
 taxableincomeamount,andbesubjecttoenterpriseincometaxat20%taxrate;theportionofannualtaxable
@@ -26325,8 +26325,8 @@ performing procedures to assess whether the applicable criteria used by the dire
 compilation of the unaudited pro forma financial information provide a reasonable basis for
 presenting the significant effects directly attributable to the event or transaction, and to obtain
 sufficient appropriate evidence about whether:
-(cid:129) The related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) The unaudited pro forma financial information reflects the proper application of those
+ The related pro forma adjustments give appropriate effect to those criteria; and
+ The unaudited pro forma financial information reflects the proper application of those
 adjustments to the unadjusted financial information.
 – II-4 –
 
@@ -27372,14 +27372,14 @@ Appendix I. Save for the subsidiaries mentioned in the Accountant’s Report, we
 any other subsidiaries.
 The following subsidiaries have been incorporated within two years immediately preceding the
 date of this prospectus:
-(cid:129) Luyuan Technology Holding (Zhejiang) Co., Ltd (綠源科技控股(浙江)有限公司) was
+ Luyuan Technology Holding (Zhejiang) Co., Ltd (綠源科技控股(浙江)有限公司) was
 established in the PRC as a wholly-foreign owned enterprise on December 7, 2021 with
 a registered capital of RMB50,000,000; and
-(cid:129) Zhejiang Luyuan International Trade was established in the PRC as a wholly-foreign
+ Zhejiang Luyuan International Trade was established in the PRC as a wholly-foreign
 owned enterprise on March 22, 2022 with a registered capital of RMB10,000,000.
 The following changes in the share capital of our subsidiaries have taken place within the two
 years immediately preceding the date of this prospectus:
-(cid:129) On December 23, 2021, the registered capital of Zhejiang Luyuan was decreased from
+ On December 23, 2021, the registered capital of Zhejiang Luyuan was decreased from
 US$53,000,000 to US$12,000,000.
 Save as disclosed above, there has been no alteration in the share capital of our subsidiaries
 within the two years immediately preceding the date of this prospectus.

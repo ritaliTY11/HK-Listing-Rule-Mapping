@@ -31,7 +31,7 @@ Stockcode : 2501
 Sole Sponsor
 Sole Overall Coordinator, Joint Global Coordinator, Joint Bookrunner and Joint Lead Manager
 Joint Global Coordinators, Joint Bookrunners and Joint Lead Managers (in alphabetical order)
-(cid:64)(cid:58)(cid:57)(cid:41)(cid:1047)(cid:2123)(cid:11498)(cid:26290)
+ 
 Joint Bookrunners and Joint Lead Managers (in alphabetical order)
 HongKongExchangesandClearingLimited,TheStockExchangeofHongKongLimitedandHongKongSecuritiesClearingCompanyLimitedtakenoresponsibilityfor
 thecontentsofthisprospectus,makenorepresentationastoitsaccuracyorcompletenessandexpresslydisclaimanyliabilitywhatsoeverforanylosshowsoeverarising
@@ -1779,16 +1779,16 @@ unknown risks, uncertainties and other factors, including those listed in “Ris
 cause our actual results, performance or achievements to be materially different from performance
 or achievements expressed or implied by the forward-looking statements. These forward-looking
 statements include, without limitation, statements relating to:
-(cid:129) our business strategies and operating plans;
-(cid:129) our capital expenditure and expansion plans;
-(cid:129) our objectives and expectations regarding our future operations, profitability, liquidity
+ our business strategies and operating plans;
+ our capital expenditure and expansion plans;
+ our objectives and expectations regarding our future operations, profitability, liquidity
 and capital resources;
-(cid:129) our ability to identify and successfully take advantage of new business development
+ our ability to identify and successfully take advantage of new business development
 opportunities;
-(cid:129) our prospective financial information;
-(cid:129) the performance of global and the PRC financial markets, including changes in our
+ our prospective financial information;
+ the performance of global and the PRC financial markets, including changes in our
 ability to access the capital markets and changes in the level of interest rates; and
-(cid:129) the regulatory environment and industry outlook for the industry and markets in which
+ the regulatory environment and industry outlook for the industry and markets in which
 we operate.
 The words “anticipate”, “believe”, “could”, “estimate”, “expect”, “intend”, “may”, “plan”,
 “seek”, “will”, “would” and the negative of these terms and other similar expressions, as they
@@ -1797,25 +1797,25 @@ forward-looking statements reflect our current views with respect to future even
 guarantee of future occurrence of such events. Actual outcomes may differ materially from
 information contained in the forward-looking statements as a result of a number of uncertainties
 and factors, including but not limited to:
-(cid:129) our ability to collect our receivables and recover the amount due from our customers for
+ our ability to collect our receivables and recover the amount due from our customers for
 projects;
-(cid:129) our ability to sustain and achieve growth of existing businesses and expansion of
+ our ability to sustain and achieve growth of existing businesses and expansion of
 operations through investments;
 – 41 –
 
 === PAGE 52 ===
 FORWARD-LOOKING STATEMENTS
-(cid:129) our ability to attract and retain customers;
-(cid:129) our ability to integrate new businesses and create synergies;
-(cid:129) the effect of COVID-19 in the PRC, Hong Kong and other parts of the world;
-(cid:129) any changes in the laws, rules and regulations of the PRC relating to any aspect of our
+ our ability to attract and retain customers;
+ our ability to integrate new businesses and create synergies;
+ the effect of COVID-19 in the PRC, Hong Kong and other parts of the world;
+ any changes in the laws, rules and regulations of the PRC relating to any aspect of our
 business or operations;
-(cid:129) general economic, market and business conditions in the PRC and Hong Kong, including
+ general economic, market and business conditions in the PRC and Hong Kong, including
 sustainability of the economic growth in the PRC and Hong Kong;
-(cid:129) inflationary pressures or changes or volatility in interest rates, foreign exchange rates or
+ inflationary pressures or changes or volatility in interest rates, foreign exchange rates or
 other rates or prices;
-(cid:129) various business opportunities that we may pursue; and
-(cid:129) the risk factors discussed in this prospectus as well as other factors beyond our control.
+ various business opportunities that we may pursue; and
+ the risk factors discussed in this prospectus as well as other factors beyond our control.
 Subject to the requirements of applicable laws, rules and regulations, we do not have any
 obligation to update or otherwise revise the forward-looking statements in this prospectus, whether
 as a result of new information, future events or otherwise. As a result of these and other risks,
@@ -2671,11 +2671,11 @@ given in compliance with the Companies (WUMP) Ordinance, the Securities and Futu
 Market Listing) Rules (Chapter 571V of the Laws of Hong Kong) and the Listing Rules for the
 purpose of giving information to the public with regard to us. Our Directors, having made all
 reasonable enquiries, confirm that to the best of their knowledge and belief:
-(cid:129) the information contained in this prospectus is accurate and complete in all material
+ the information contained in this prospectus is accurate and complete in all material
 respects and not misleading or deceptive;
-(cid:129) there are no other matters the omission of which would make any statement herein or
+ there are no other matters the omission of which would make any statement herein or
 this prospectus misleading; and
-(cid:129) all opinions expressed in this prospectus have been arrived at after due and careful
+ all opinions expressed in this prospectus have been arrived at after due and careful
 consideration and are founded on basis and assumptions that are fair and reasonable.
 CONFIRMATION OF FILING BY THE CSRC
 The CSRC has issued the Notice of Filing on the Overseas Offering and Listing to the
@@ -3424,11 +3424,11 @@ development potentials for the education IT solutions market. The expected stron
 education IT solutions market in Guangxi will be mainly driven by the rising public expenditure
 on education and strong policy support. Some of the more recently implemented or published
 supportive government policies are summarised below:
-(cid:129) according to the “Major Tasks for Basic Education in 2022” 《( 教育部2022年工作要
+ according to the “Major Tasks for Basic Education in 2022” 《( 教育部2022年工作要
 點》) issued by the MOE in 2022, the PRC government is implementing the strategic
 direction of digital education and promoting the development of “Internet + Education”
 in order to improve the informatisation of the education IT solutions market;
-(cid:129) the National Development and Reform Commission is currently mobilising local
+ the National Development and Reform Commission is currently mobilising local
 governments to implement mid-to-long term loan financing programs for 16 major areas,
 including technical upgrades in the education IT solutions market. In this relation,
 low-rate loans with a total amount of RMB1.5 trillion will be available for high schools,
@@ -3436,7 +3436,7 @@ vocational schools and other educational facilities to procure new IT devices an
 improve their IT development programs. Commercial banks are also encouraged to
 expand their mid-to-long term loan programs and provide the sufficient amount of
 financing for those construction projects and for equipment upgrading;
-(cid:129) since 2021, the Guangxi government has promulgated several favourable policies to
+ since 2021, the Guangxi government has promulgated several favourable policies to
 promote the development of the education IT solutions market. First of all, according to
 “The 14th Five Year Plan for the Development of Education in Guangxi” 《( 廣西教育事
 業發展十四五規劃》) issued by the People’s Government of Guangxi in 2021, the
@@ -3447,7 +3447,7 @@ construction of education information technology as an important part of the new
 infrastructure. The plan promotes increasing investments in educational infrastructure
 and full utilisation of information technology to improve the professionalism and
 scientific characteristics of education;
-(cid:129) according to “The Development Plan for Guangxi on the ‘Digital Silk Road’ for ASEAN
+ according to “The Development Plan for Guangxi on the ‘Digital Silk Road’ for ASEAN
 (2021−2025)” 《( 廣西面向東盟的‘數字絲綢之路’發展規劃(2021−2025)》) issued by the
 People’s Government of Guangxi in 2021, the Guangxi government cooperates with the
 Association of Southeast Asian Nations (ASEAN) to work on various projects relating to
@@ -3459,7 +3459,7 @@ significantly drive the market to consistently grow; and
 
 === PAGE 98 ===
 INDUSTRY OVERVIEW
-(cid:129) in 2022, the Department of Education in Guangxi has also announced the “Notice of the
+ in 2022, the Department of Education in Guangxi has also announced the “Notice of the
 Education Department of the Autonomous Region on the organisation of the second
 batch of Guangxi basic education information integration and innovation experimental
 areas and the establishment of experimental schools” 《( 自治區教育廳關於組織開展第
@@ -3603,7 +3603,7 @@ development and iteration of information technologies will continue to promote t
 education industry by providing diverse IT solutions, which in turn drives the growth of education
 IT solutions market.
 Opportunities to the Education IT Solutions Market in Guangxi
-(cid:129) The outbreak of COVID-19 spawns demand for more education IT solutions: In early 2020,
+ The outbreak of COVID-19 spawns demand for more education IT solutions: In early 2020,
 the outbreak of COVID-19 caused the massive suspension of school operation. In February
 2020, the MOE issued the “Notice on Supporting Education and Teaching with IT during the
 period of Epidemic Prevention and Control” 《( 關於疫情防控期間以信息化支援教育教學工
@@ -3612,19 +3612,19 @@ the period of epidemic prevention and control. Multiple regular works of schools
 transferred from offline to online, including online remote teaching, online campus
 management, human resource management, etc. The influence of COVID-19 on schools is
 expected to create strong demand for education IT solutions services.
-(cid:129) Technology improvement generates more development opportunities: Advanced technologies
+ Technology improvement generates more development opportunities: Advanced technologies
 such as cloud computing, big data analytics and AI are strongly supported by government
 policies such as “Action Plan for Promoting the Development of Big Data” 《( 促進大數據發
 展行動綱要》) and “13th Five-Year National Information Plans” 《( 十三五國家信息化規劃》).
 The technology improvement will further improve the ability of acquiring and analysing data,
 which in turn generates more businesses and raises the product quality and service efficiency
 in the education IT solutions market.
-(cid:129) Self R&D Capability: IT solutions services providers with own research and development
+ Self R&D Capability: IT solutions services providers with own research and development
 capability can provide services that can better satisfy the distinctive needs of their customers
 and help them to achieve greater efficiency in terms of budget and resource allocation, and
 thus shall have a competitive edge over the other market players.
 Challenges of the Education IT Solutions Market in Guangxi
-(cid:129) Data security: Along with the promotion of education IT solutions in schools and education
+ Data security: Along with the promotion of education IT solutions in schools and education
 institutions, data security has always been a big challenge for education IT solutions services
 providers. Once the information is leaked or illegally used by others, there will be huge risks
 to education institutions. Moreover, education IT solutions services such as big data
@@ -3632,7 +3632,7 @@ application system and face recognition software normally store large amount of 
 information of students. The leakage of data could potentially threaten the privacy
 information of students, which will bring technical challenges for the education IT solutions
 services providers.
-(cid:129) Increasing labour costs: As a knowledge-intensive industry, education IT solutions market
+ Increasing labour costs: As a knowledge-intensive industry, education IT solutions market
 has a strong demand for IT talents. With the rapid technology development and iteration,
 education IT solutions providers are increasingly demanding for high-end talents who possess
 capability relating to new emerging technologies. On the other hand, labour cost in education
@@ -3644,7 +3644,7 @@ providers.
 
 === PAGE 102 ===
 INDUSTRY OVERVIEW
-(cid:129) Management of cash flow and working capital: Education IT solutions services providers
+ Management of cash flow and working capital: Education IT solutions services providers
 need to have sufficient capital for its operation. They require a large initial capital investment
 in research and development as well as in the improvements and upgrades of existing
 products and services. IT solutions services providers are also usually required to pay a
@@ -3656,7 +3656,7 @@ for companies with limited financial capability. As the capital requirement and 
 will increase along with the number and scale of projects undertaken by education IT
 solutions services providers, a sufficient financial reserve is essential.
 Entry Barriers to Education IT Solutions Market in Guangxi
-(cid:129) Industry experience and track records: As the projects of education IT solutions are usually
+ Industry experience and track records: As the projects of education IT solutions are usually
 complex and involve multiple IT segments, education institutions are increasingly willing to
 select experienced service providers with successful track records. Such companies have
 accumulated rich experience and deep know-how in education IT solutions. In addition,
@@ -3664,7 +3664,7 @@ schools usually select education IT solutions services providers through bidding
 generally evaluating the product performance, successful past cases, technologies, goodwill
 and other benchmarks to filter quality suppliers. It is difficult for new entrants in lack of
 industry experience to compete with experienced service providers.
-(cid:129) Technical strength: As a knowledge-intensive industry, education IT solutions market usually
+ Technical strength: As a knowledge-intensive industry, education IT solutions market usually
 requires players to equip with strong technical strength. With the rapid technology
 development and upgrade, market participants are not only proficient in system design, data
 modelling and other software engineering technologies, but also able to quickly adopt to new
@@ -3672,11 +3672,11 @@ emerging technologies and applications such as big data, AI, clouding computing,
 addition, for integrated IT solutions services providers, the capability of providing customised
 education IT solutions services are key success factors in the market. Hence, strong technical
 strength requirement has created a high entry barrier for new entrants.
-(cid:129) Sales channel: Through years of operation, existing education IT solutions services providers
+ Sales channel: Through years of operation, existing education IT solutions services providers
 generally have already established a well-known brand name in the operating regions and
 solid relationship with education institutions. New entrants cannot establish a good brand
 image and good relationships with local institutions in a short time.
-(cid:129) Solid relationship with suppliers: The integrated IT solutions services providers have
+ Solid relationship with suppliers: The integrated IT solutions services providers have
 established solid business relationship with suppliers of hardware equipment and software
 services. These suppliers tend to cooperate with integrated IT solutions services providers
 with solid business relationship, rich industry experience and considerable number of
@@ -4074,18 +4074,18 @@ Documents on Foreign Exchange Control 《( 國家外匯管理局關於廢止和�
 whose main business is investment is allowed to make equity investment in PRC using the
 Renminbi funds converted from its registered capital. Meanwhile, the use of such Renminbi funds
 converted cannot be:
-(cid:129) directly or indirectly used for the payment beyond the business scope of the enterprises
+ directly or indirectly used for the payment beyond the business scope of the enterprises
 or any payment prohibited by national laws and regulations;
-(cid:129) unless otherwise provided by laws and regulations, directly or indirectly used or
+ unless otherwise provided by laws and regulations, directly or indirectly used or
 investment in securities or other financial products investment (except the bank
 capital-protection products);
 – 102 –
 
 === PAGE 113 ===
 REGULATORY OVERVIEW
-(cid:129) granting loans to non-related enterprises unless permitted under the scope of business;
+ granting loans to non-related enterprises unless permitted under the scope of business;
 or
-(cid:129) for construction or purchase of real estate not for self-use, save for real estate
+ for construction or purchase of real estate not for self-use, save for real estate
 enterprises.
 In October 2019, the SAFE released the Notice on Further Promoting the Facilitation of
 Cross-border Trade and Investment 《( 國家外匯管理局關於進一步促進跨境貿易投資便利化的通
@@ -6780,24 +6780,24 @@ The following table sets out the summary of our self-developed product offerings
 Associatedregistered
 intellectualpropertyrights
 Productname (Note) TargetUsers Mainfocus
-MaiyueUnifiedIdentityVerificationSystem MaiyueUnifiedIdentity (cid:129) Education Throughprovidingfunctionsincludingdata
+MaiyueUnifiedIdentityVerificationSystem MaiyueUnifiedIdentity Education Throughprovidingfunctionsincludingdata
 (邁越統一身份認證系統) . . . . . . . . . VerificationSystem institutions collection,datamanagement,applicationsystem
 v1.0 connectionandverificationmanagement,the
-(邁越統一身份認證系 (cid:129) Government systemprovidesaunifiedidentityandaccess
+(邁越統一身份認證系 Government systemprovidesaunifiedidentityandaccess
 統v1.0) authorities managementsystemfororganisationstoallow
 (Registrationyear: userstoaccessdifferentITsystemsacrossthe
 2019) organisations.
-MaiyueDataDiagnosisPlatform(邁越信息 MaiyueDataDiagnosis (cid:129) Education Throughprovidingmanagementanddiagnosis
+MaiyueDataDiagnosisPlatform(邁越信息 MaiyueDataDiagnosis Education Throughprovidingmanagementanddiagnosis
 化診改平台) . . . . . . . . . . . . . . . Platformv2.0(邁越信 institutions functionswiththeutilisationofbigdataanalytic
 息化診改平台v2.0) technology,theplatformoffersaninternal
 (Registrationyear: diagnosissystemforeducationinstitutionswith
 2019) anaimtoassistthemtoimprovetheteachers’
 teachingqualityandthestudents’academic
 behaviours.
-MaiyueDataCentrePlatform MaiyueDataCentre (cid:129) Education Throughtheuseofdatacollectionandcomputing
+MaiyueDataCentrePlatform MaiyueDataCentre Education Throughtheuseofdatacollectionandcomputing
 (邁越數據中心平台). . . . . . . . . . . . Platformv1.0 institutions technologiessuchasdistributedcollectionand
 (邁越數據中心平台 distributedcomputing,adatacentreplatformis
-v1.0) (cid:129) Government setuptocollect,processandanalyseallthedata
+v1.0) Government setuptocollect,processandanalyseallthedata
 (Registrationyear: authorities oftheorganisations,andoptimisethevalueof
 2020) data.
 – 171 –
@@ -6807,32 +6807,32 @@ BUSINESS
 Associatedregistered
 intellectualpropertyrights
 Productname (Note) TargetUsers Mainfocus
-MaiyueBigDataAnalysisPlatform(邁越大 MaiyueBigData (cid:129) Education Throughtheuseofbigdataanalyticrelated
+MaiyueBigDataAnalysisPlatform(邁越大 MaiyueBigData Education Throughtheuseofbigdataanalyticrelated
 數據分析平台) . . . . . . . . . . . . . . AnalysisPlatformv1.0 institutions technology,theplatformenhancesthedata
 (邁越大數據分析平台 miningcapabilitiesoforganisationsbyproviding
-v1.0) (cid:129) Government themanagementoftheorganisationsvarious
+v1.0) Government themanagementoftheorganisationsvarious
 (Registrationyear: authorities typesofbigdataanalysisandapplication
 2020) functionstofacilitatetheirdecision-making
 processes.
-ChuangpengCloudDesktopVirtualisation ChuangpengCloud (cid:129) Education Throughtheuseofcloudcomputingtechnology,
+ChuangpengCloudDesktopVirtualisation ChuangpengCloud Education Throughtheuseofcloudcomputingtechnology,
 System(創鵬雲桌面虛擬化系統). . . . . . Desktop institutions thesystemallowscentralisedserverstoprovide
 VirtualisationSystem andmanagevirtualdesktops,whereendusers
-v6.0 (cid:129) Government canaccesstotheirindividualdesktopsthrough
+v6.0 Government canaccesstotheirindividualdesktopsthrough
 (創鵬雲桌面虛擬化系 authorities networkwithdifferentdevicesatdifferent
 統v6.0) locationsoftheorganisation.
 (Registrationyear:
 2020)
-MaiyueOne-stopWebOfficeAutomation MaiyueOne-stopWeb (cid:129) Education Throughtheuseoftechnologiessuchasworkflow
+MaiyueOne-stopWebOfficeAutomation MaiyueOne-stopWeb Education Throughtheuseoftechnologiessuchasworkflow
 System OfficeAutomation institutions engineandAItechnology(naturallanguage
 (邁越一站式網上辦事大廳系統) . . . . . . Systemv1.0(邁越一站 processing),thesystemoffersaunifiedoffice
-式網上辦事大廳系統 (cid:129) Government automationplatformfororganisationswhich
+式網上辦事大廳系統 Government automationplatformfororganisationswhich
 v1.0) authorities providescross-systemandcross-department
 (Registrationyear: officeprocessingfunctionswiththesupportof
 2018) intelligentfunctions.
-MaiyueDataVisualisation MaiyueData (cid:129) Education Throughtheuseofdatatechnologies,including
+MaiyueDataVisualisation MaiyueData Education Throughtheuseofdatatechnologies,including
 Platform(邁越數據可視化平台). . . . . . Visualisation institutions dataminingandaccurateportraitproduction,the
 Platformv1.0(邁越數 systemhelpsourcustomerstoincreasethevalue
-據可視化平台v1.0) (cid:129) Government oftheirdata.
+據可視化平台v1.0) Government oftheirdata.
 (Registrationyear: authorities
 2021)
 Note: See “Statutory and General Information — B. Further information about our business — 2. Intellectual property
@@ -7382,7 +7382,7 @@ semester school
 === PAGE 197 ===
 BUSINESS
 Our landmark projects
-(cid:129) Education sector — Big Data Platform (大數據平台) in Beibu Gulf University (北部灣大學),
+ Education sector — Big Data Platform (大數據平台) in Beibu Gulf University (北部灣大學),
 Qinzhou City, Guangxi in 2018
 Beibu Gulf University is a tertiary institution that focuses on the fields of engineering,
 science and management. With the aim to improve its informatisation, the university engaged us to
@@ -7413,7 +7413,7 @@ lectures or classes in a frequent manner.
 
 === PAGE 198 ===
 BUSINESS
-(cid:129) Government sector — Digitalisation and informatisation of Qingxiu District Government
+ Government sector — Digitalisation and informatisation of Qingxiu District Government
 Service Centre (青秀政務服務中心), Nanning City, Guangxi in 2019
 Qingxiu District Government Service Centre is mainly responsible for approving and issuing
 various documentations, certificates and licences in Qingxiu District, Nanning City. With the view
@@ -7439,7 +7439,7 @@ Hyper-converged data centre system The service includes a hyper-converged data c
 can address real-time query, multi-dimensional request and
 massive information query. The system processes and analyses
 big data arising from the operation of the centre.
-(cid:129) Education sector — Public class learning centre (公共課學習中心) in Guangxi University in
+ Education sector — Public class learning centre (公共課學習中心) in Guangxi University in
 2020
 Guangxi University is one of the largest universities in Guangxi. With the aim to improve its
 informatisation, the university engaged us to build a public class learning centre. It is a teaching
@@ -7488,7 +7488,7 @@ classrooms and meeting rooms.
 
 === PAGE 200 ===
 BUSINESS
-(cid:129) Education sector — Informatisation of Guangxi Modern Polytechnic College (廣西現代職業
+ Education sector — Informatisation of Guangxi Modern Polytechnic College (廣西現代職業
 技術學院), Hechi city, Guangxi in 2021
 Guangxi Modern Polytechnic College is a higher vocational education institution which has
 seven colleges and 41 specialties. We provided integrated IT solutions which include information
@@ -7527,7 +7527,7 @@ efficiencies of them.
 
 === PAGE 201 ===
 BUSINESS
-(cid:129) Education sector — Virtual reality innovation laboratory (虛擬現實創新實驗中心) in
+ Education sector — Virtual reality innovation laboratory (虛擬現實創新實驗中心) in
 Guangxi University in 2022
 The virtual reality innovation laboratory provides virtual reality teaching for the university. It
 provides students with a shared environment for scientific research and innovation. At the same
@@ -9171,16 +9171,16 @@ details.
 BUSINESS
 The following sets out a summary of the key quality control measures which we have
 implemented:
-(cid:129) Service quality control
+ Service quality control
 Our project management and technical teams are responsible for ensuring the quality of our
 services by conducting testing on the services provided by us.
-(cid:129) Product quality control
+ Product quality control
 Our procurement team will be responsible for quality control of the procurement, storage and
 sales of the hardware and software. Our product quality control team places emphasis on the
 quality control and logistics arrangements of the IT products and will conduct a full inspection on
 all the IT products procured from our suppliers and sold to our customers. We are entitled to return
 the IT products which do not meet our quality standards to the suppliers for replacement.
-(cid:129) Supplier management
+ Supplier management
 We will monitor the performance of our suppliers in planned intervals. The performance will
 be measured against the service targets and other contractual obligations. The performance results
 will be documented and reviewed to identify any non-conformities or room for improvement so as
@@ -9328,16 +9328,16 @@ board meeting on our ESG performance and the effectiveness of these ESG systems.
 Measures to identify, assess and manage ESG related risks
 Under our ESG policies, we intend to adopt various strategies and measures to identify,
 assess and manage ESG risks, including but not limited to:
-(cid:129) reviewing and assessing ESG reports of similar companies in the IT industry to ensure
+ reviewing and assessing ESG reports of similar companies in the IT industry to ensure
 relevant ESG related risks are identified on a timely basis;
-(cid:129) making reference to the local and international guidelines such as the Sustainability
+ making reference to the local and international guidelines such as the Sustainability
 Accounting Standards Board Standards for the industry-specific ESG risks;
-(cid:129) discussing with management from time to time to ensure material ESG related issues are
+ discussing with management from time to time to ensure material ESG related issues are
 reported and addressed;
-(cid:129) establishing communication channels and discussing with key stakeholders on an
+ establishing communication channels and discussing with key stakeholders on an
 ongoing basis to understand ESG related concerns and monitor how our environmental,
 social and climate-related performance has impacted key stakeholders; and
-(cid:129) engaging professional advisers to advise on compliance with ESG matters.
+ engaging professional advisers to advise on compliance with ESG matters.
 – 242 –
 
 === PAGE 253 ===
@@ -10131,11 +10131,11 @@ control policies, procedures and programs designed to provide reasonable assuran
 objectives including effective and efficient operations, reliable financial reporting and compliance
 with applicable laws and regulations. Highlights of our internal control system include the
 followings:
-(cid:129) Code of conduct: Our code of conduct explicitly communicates to each employee our
+ Code of conduct: Our code of conduct explicitly communicates to each employee our
 values, acceptable criteria for decision-making and our ground rules for behaviour. Our
 code of conduct also includes whistleblowing policies to encourage all employees to
 speak up against any sub-standard behaviour.
-(cid:129) Anti-corruption: Our anti-corruption policies provide the tools and resources necessary
+ Anti-corruption: Our anti-corruption policies provide the tools and resources necessary
 to enable, monitor and enforce full compliance with the anti-bribery and anti-corruption
 laws of China and other countries where we conduct our business operations. Our
 anti-corruption policies and measures include (i) distributing staff handbook to our staff
@@ -10155,14 +10155,14 @@ corruption or other related misconduct or fraudulent activities. In cases where
 misconduct is found, we may take disciplinary actions as appropriate, report to the
 relevant regulatory authorities and/or initiate legal actions to recover any losses suffered
 by us as a result of such misconduct.
-(cid:129) Compliance with the Listing Rules and relevant laws and regulations: Our various
+ Compliance with the Listing Rules and relevant laws and regulations: Our various
 policies aim to ensure compliance with the Listing Rules, including but not limited to
 aspects related to corporate governance, connected transactions and securities
 transactions by our senior management and Directors. We have appointed Quam Capital
 Limited as our compliance adviser upon Listing and will engage external legal advisers
 to advise us and provide trainings to our Directors and senior management on
 compliance with the Listing Rules and relevant laws and regulations.
-(cid:129) Internal Audit: Our Company will establish an internal audit function that regularly
+ Internal Audit: Our Company will establish an internal audit function that regularly
 monitors key controls and procedures in order to assure our management and our Board
 that the internal control system is functioning as intended. The audit committee in our
 Board is responsible for supervising our internal audit function.
@@ -10170,14 +10170,14 @@ The ultimate goal of our risk management process is to identify and focus on the
 our business operations that create impediments to our success. Our risk management process
 starts with identifying the major risks associated with our corporate strategy, goals and objectives.
 The key process points in our risk management include:
-(cid:129) Identify: We identify current and emerging risks in our business operations and
+ Identify: We identify current and emerging risks in our business operations and
 categorise those risks into a reasonable profile based on timeframe, likelihood, intensity
 and impact severity. We establish four risk categories, including strategic risks, financial
 risks, operating risks and legal risks.
-(cid:129) Assess: We assess and prioritise risks so that the most important risks can be identified
+ Assess: We assess and prioritise risks so that the most important risks can be identified
 and dealt with. Based on both qualitative and quantitative analyses, we prioritise risks in
 terms of likelihood and impact severity.
-(cid:129) Mitigate: Based on our assessment of (i) the probability and impact severity of the risks;
+ Mitigate: Based on our assessment of (i) the probability and impact severity of the risks;
 and (ii) cost and benefit of the mitigation plans, we choose the appropriate option for
 dealing with risks, including risk elimination by suspending the associated business
 activities, risk reduction by adopting appropriate control measures, risk transfer by
@@ -10187,7 +10187,7 @@ risks of low priority.
 
 === PAGE 274 ===
 BUSINESS
-(cid:129) Measure: We measure our risk management by determining if changes have been
+ Measure: We measure our risk management by determining if changes have been
 implemented and if these changes are effective. In the event of any weakness in control,
 we follow up by adjusting our risk management measures and reporting material issues
 to our Directors.
@@ -12447,20 +12447,20 @@ increase in our revenue from the provision of integrated IT solutions services f
 million to RMB198.5 million; and (ii) the increase in revenue generated from sales of hardware
 and/or software from RMB26.8 million to RMB41.0 million, partially offset by the decrease in
 revenue from the provision of standalone IT services from RMB5.6 million to RMB3.8 million.
-(cid:129) Integrated IT solutions services. Our revenue generated from the provision of integrated
+ Integrated IT solutions services. Our revenue generated from the provision of integrated
 IT solutions services increased by 17.2% from RMB169.3 million for the year ended 31
 December 2021 to RMB198.5 million for the year ended 31 December 2022, primarily
 due to our continuous effort in expanding our market share in the education IT solutions
 market under the expanding market backdrop, thereby securing integrated IT solutions
 services projects with larger contract sum from customers in the education sector.
-(cid:129) Sales of hardware and/or software. Our revenue generated from the sales of hardware
+ Sales of hardware and/or software. Our revenue generated from the sales of hardware
 and/or software increased by 53.0% from RMB26.8 million for the year ended 31
 December 2021 to RMB41.0 million for the year ended 31 December 2022, primarily
 because of our increased market presence as a result of our business expansion in our
 integrated IT solutions services business, which is our main business, and our
 continuous marketing effort under the expanding market backdrop. As a result, we have
 secured orders from new customers in 2022 for sales of hardware and/or software.
-(cid:129) Standalone IT services. Our revenue generated from the provision of standalone IT
+ Standalone IT services. Our revenue generated from the provision of standalone IT
 services decreased by 32.1% from RMB5.6 million for the year ended 31 December
 2021 to RMB3.8 million for the year ended 31 December 2022, primarily because
 several warranty contracts in 2022 were entered into close to the year end, where the
@@ -12553,7 +12553,7 @@ due to the decrease in our revenue from the provision of integrated IT solutions
 RMB189.5 million to RMB169.3 million, partially offset by the increase in our revenue generated
 from sales of hardware and/or software from RMB12.2 million to RMB26.8 million for the
 respective period.
-(cid:129) Integrated IT solutions services. Our revenue generated from the provision of integrated
+ Integrated IT solutions services. Our revenue generated from the provision of integrated
 IT solutions services decreased by 10.7% from RMB189.5 million for the year ended 31
 December 2020 to RMB169.3 million for the year ended 31 December 2021, primarily
 due to (i) the decreased number of projects tendered and accepted in the education
@@ -12566,7 +12566,7 @@ software suppliers to Digital Guangxi during the year.
 
 === PAGE 342 ===
 FINANCIAL INFORMATION
-(cid:129) Sales of hardware and/or software. Our revenue generated from the sales of hardware
+ Sales of hardware and/or software. Our revenue generated from the sales of hardware
 and/or software increased by 119.7% from RMB12.2 million for the year ended 31
 December 2020 to RMB26.8 million for the year ended 31 December 2021, primarily
 due to (i) the increase in the number of customers purchasing hardware from us due to
@@ -12576,7 +12576,7 @@ effort under the expanding market backdrop; (ii) the expansion of distribution c
 industry related online procurement platforms for the sales of hardware; and (iii) the
 increase in sales of self-developed software during the year, as a result of our
 continuous research and development effort.
-(cid:129) Standalone IT services. Our revenue generated from the provision of standalone IT
+ Standalone IT services. Our revenue generated from the provision of standalone IT
 services remained relatively stable at RMB5.4 million and RMB5.6 million for the years
 ended 31 December 2020 and 2021, respectively.
 Cost of sales
@@ -13140,7 +13140,7 @@ Digital Guangxi Tripartite
 Agreements . . . . . . . . . . . . . . . . . . . 37,584 76,378 683 802
 Other projects . . . . . . . . . . . . . . . . . . . — 23,381 6,659 871
 37,584 99,759 7,342 1,673
-(cid:129) Digital Guangxi Tripartite Agreements
+ Digital Guangxi Tripartite Agreements
 As detailed in “Business — Our Customers — Tripartite Agreements — Digital Guangxi
 Tripartite Agreements”, similar arrangements were adopted under the five Digital Guangxi
 Tripartite Agreements. In essence, our projects under these Digital Guangxi Tripartite
@@ -13366,7 +13366,7 @@ related party, which is considered recoverable due to its historical payment rec
 Regarding the remaining overdue balances, other than the abovementioned trade receivable of
 RMB1.5 million attributable to Digital Guangxi, our Directors were of the view that no
 recoverability issue arose as:
-(cid:129) among the remaining trade receivables of RMB40.2 million as at 30 April 2023 which
+ among the remaining trade receivables of RMB40.2 million as at 30 April 2023 which
 were past due, not impaired and not subsequently settled as at the Latest Practicable
 Date,
 (a) RMB13.3 million was due from public education institutions and RMB23.7 million
@@ -13378,15 +13378,15 @@ obtaining approval regarding public expenditure; and
 (b) the remaining insignificant amount of RMB3.2 million of the overdue balances was
 due from private education institutions, majority of which have historical payment
 record with us;
-(cid:129) we experienced no major historical default in payment from our customers according to
+ we experienced no major historical default in payment from our customers according to
 our historical collection record. With reference to our historical collection experience,
 despite only less than 23% of the trade receivables as at 31 December 2020 and 2021
 had been settled within four months after the respective year end, 97.4% and 87.8% of
 such trade receivables were subsequently settled as at the Latest Practicable Date,
 respectively;
-(cid:129) we did not have any material disagreement or disputes with our customers on trade
+ we did not have any material disagreement or disputes with our customers on trade
 receivables; and
-(cid:129) there had not been any significant change in creditability of our customers and the
+ there had not been any significant change in creditability of our customers and the
 balances were still considered to be fully recoverable.
 – 354 –
 
@@ -14316,7 +14316,7 @@ other estimated expenses payable by us in connection with the Global Offering, a
 Over-allotment Option is not exercised and assuming an Offer Price of HK$1.225 per Share, being
 the mid-point of the indicative Offer Price range. We intend to use such net proceeds from the
 Global Offering for the purposes and in the amounts set forth below:
-(cid:129) Approximately 20.9%, or HK$20.1 million (equivalent to RMB17.9 million), of the net
+ Approximately 20.9%, or HK$20.1 million (equivalent to RMB17.9 million), of the net
 proceeds from the Global Offering will be used to fund our capital needs and cash flow
 for our new projects as part of our expansion strategy;
 Our Directors consider that, which is also supported by the F&S Report that, IT solutions
@@ -14443,7 +14443,7 @@ additional projects on top of our existing business scale.
 Our Directors will closely monitor the tendering process and progress of projects and also the
 net proceeds from the Global Offering to evaluate our new and/or potential projects, if any, to
 ascertain our working capital needs for different projects from time to time.
-(cid:129) Approximately 27.8%, or HK$26.8 million (equivalent to RMB23.9 million), of the net
+ Approximately 27.8%, or HK$26.8 million (equivalent to RMB23.9 million), of the net
 proceeds from the Global Offering will be used to establish and strengthen our research
 and development centres and recruit additional research and development staff to
 strengthen our research and development capabilities;
@@ -14531,7 +14531,7 @@ Total. . . . . . . . 5.8 13.0
 
 === PAGE 398 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) Approximately 9.1%, or HK$8.8 million (equivalent to RMB7.9 million), of the net
+ Approximately 9.1%, or HK$8.8 million (equivalent to RMB7.9 million), of the net
 proceeds from the Global Offering will be used to recruit additional staff in our sales
 and marketing team, project management team and technical team in support of our
 business expansion;
@@ -14569,7 +14569,7 @@ Total. . . . . . . . 2.1 5.8
 
 === PAGE 399 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) Approximately 11.8%, or HK$11.4 million (equivalent to RMB10.2 million), of the net
+ Approximately 11.8%, or HK$11.4 million (equivalent to RMB10.2 million), of the net
 proceeds from the Global Offering will be used to upgrade our IT infrastructure
 including (i) upgrading and optimising our existing IT infrastructure including
 hardware and software which encompass functions of data storage, electronic
@@ -14599,7 +14599,7 @@ Total. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 === PAGE 400 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) Approximately 20.4%, or HK$19.6 million (equivalent to RMB17.5 million), of the net
+ Approximately 20.4%, or HK$19.6 million (equivalent to RMB17.5 million), of the net
 proceeds from the Global Offering will be used to optimise our capital structure and
 improve our liquidity profile by repaying part of our bank borrowings; and
 As at 30 June 2023, we had bank and other loans of RMB153.9 million. We intend to use net
@@ -14613,7 +14613,7 @@ RMB’000 % RMB’000
 Guilin Bank Nanning Branch . . . . . . . 15,000 7% 26/09/2023 15,000
 China Guangfa Bank Nanning Branch 5,000 2.52% 30/10/2023 2,500
 17,500
-(cid:129) The remaining balance of approximately 10.0%, or HK$9.6 million (equivalent to
+ The remaining balance of approximately 10.0%, or HK$9.6 million (equivalent to
 RMB8.6 million), of the net proceeds from the Global Offering will be used for working
 capital and general corporate purposes.
 If the Offer Price is fixed at HK$1.40 per Share, being the high-end of the indicative Offer
@@ -14641,7 +14641,7 @@ We will issue an appropriate announcement if there is any material change in the
 aforementioned use of proceeds.
 REASONS FOR THE LISTING
 The followings are our main purposes for seeking the Listing:
-(cid:129) Listing provides us with additional access of equity funding by means of the issuance of
+ Listing provides us with additional access of equity funding by means of the issuance of
 new Shares. Our Directors believe that a combination of equity financing, debt financing
 and internal resources will provide a suitable capital structure to support our long term
 growth. Our operating cash flow mainly comprised of cash received from our customers
@@ -14699,7 +14699,7 @@ Shareholders;
 
 === PAGE 403 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) providing a platform for us to access the capital markets for future secondary
+ providing a platform for us to access the capital markets for future secondary
 fund-raising through either (i) the issuance of shares or (ii) for debt securities,
 depending on the prevailing market condition at the time of capital needs. It can also
 provide additional funding sources to cater for our further expansion plans (other than
@@ -14708,13 +14708,13 @@ the ability to obtain bank financing is generally easier with a listed entity as
 to a private entity and our Directors believe that a Listing status will allow us to gain
 leverage in obtaining bank financing with relatively more favourable terms in the PRC
 and Hong Kong, in which the latter in general has a lower interest rate than in the PRC;
-(cid:129) broadening our shareholder base and enhancing the liquidity of the Shares, as compared
+ broadening our shareholder base and enhancing the liquidity of the Shares, as compared
 to the limited liquidity of the Shares that are privately held before the Listing;
-(cid:129) by way of the Listing, we can elevate our corporate image and status and provide
+ by way of the Listing, we can elevate our corporate image and status and provide
 reassurance and confidence to our customers and suppliers, which in turn provides a
 stronger bargaining position when exploring new business opportunities with our
 customers and suppliers; and
-(cid:129) enhancing employee incentive and commitment. As an integrated IT solutions services
+ enhancing employee incentive and commitment. As an integrated IT solutions services
 provider, experienced and quality staff are vital to our business operations and future
 development, being a listed company can help to attract, recruit and retain our valued
 management personnel, employees and skilled professionals to provide additional
@@ -15873,13 +15873,13 @@ may reject or accept any application in full or in part for any reason at their 
 2. WHO CAN APPLY
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you are
 applying:
-(cid:129) are 18 years of age or older;
+ are 18 years of age or older;
 – 427 –
 
 === PAGE 438 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) have a Hong Kong address; and
-(cid:129) are outside the United States, and are not a US Person (as defined in Regulation S under
+ have a Hong Kong address; and
+ are outside the United States, and are not a US Person (as defined in Regulation S under
 the U.S. Securities Act).
 If you apply for Hong Kong Offer Shares online through the HK eIPO White Form service,
 in addition to the above, you must also:
@@ -15902,14 +15902,14 @@ electronic application instructions via CCASS terminals, please contact them for
 required for the application.
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Offer Shares if
 you are:
-(cid:129) an existing beneficial owner of Shares in our Company and/or any its subsidiaries;
-(cid:129) a Director or chief executive officer of our Company and/or any of its subsidiaries;
-(cid:129) a close associate (as defined in the Listing Rules) of any of the above; or
+ an existing beneficial owner of Shares in our Company and/or any its subsidiaries;
+ a Director or chief executive officer of our Company and/or any of its subsidiaries;
+ a close associate (as defined in the Listing Rules) of any of the above; or
 – 428 –
 
 === PAGE 439 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) have been allocated or have applied for any International Placing Shares or otherwise
+ have been allocated or have applied for any International Placing Shares or otherwise
 participate in the International Placing.
 3. TERMS AND CONDITIONS OF AN APPLICATION
 By applying through the application channels specified in this prospectus, among other
@@ -16111,57 +16111,57 @@ HKSCC Nominees on your behalf:
 (i) HKSCC Nominees will only be acting as a nominee for you and is not liable for any
 breach of the terms and conditions of this prospectus;
 (ii) HKSCC Nominees will do the following things on your behalf:
-(cid:129) agree that the Hong Kong Offer Shares to be allotted shall be issued in the name of
+ agree that the Hong Kong Offer Shares to be allotted shall be issued in the name of
 HKSCC Nominees and deposited directly into CCASS for the credit of the CCASS
 Participant’s stock account on your behalf or your CCASS Investor Participant’s
 stock account;
-(cid:129) agree to accept the Hong Kong Offer Shares applied for or any lesser number of
+ agree to accept the Hong Kong Offer Shares applied for or any lesser number of
 such Shares allocated;
-(cid:129) undertake and confirm that you have not applied for or taken up, will not apply for
+ undertake and confirm that you have not applied for or taken up, will not apply for
 or take up, or indicate an interest for, any Offer Shares under the International
 Placing;
 – 435 –
 
 === PAGE 446 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) (if the electronic application instructions are given for your benefit) declare that
+ (if the electronic application instructions are given for your benefit) declare that
 only one set of electronic application instructions has been given for your
 benefit;
-(cid:129) (if you are an agent for another person) declare that you have only given one set of
+ (if you are an agent for another person) declare that you have only given one set of
 electronic application instructions for the other person’s benefit and are duly
 authorised to give those instructions as an agent;
-(cid:129) confirm that you understand that our Company, the Sole Overall Coordinator, the
+ confirm that you understand that our Company, the Sole Overall Coordinator, the
 Joint Global Coordinators, the Joint Bookrunners, the Joint Lead Managers, the
 Hong Kong Underwriters, the Capital Market Intermediaries, and/or their
 respective advisers and agents will rely on your declarations and representations in
 deciding whether or not to make any allotment of any of the Hong Kong Offer
 Shares to you and that you may be prosecuted if you make a false declaration;
-(cid:129) authorise our Company to place HKSCC Nominees’ name on our Company’s
+ authorise our Company to place HKSCC Nominees’ name on our Company’s
 register of members as the holder of the Hong Kong Offer Shares allocated to you
 and to send Share certificate(s) and/or refund monies under the arrangements
 separately agreed between us and HKSCC;
-(cid:129) confirm that you have read the terms and conditions and application procedures set
+ confirm that you have read the terms and conditions and application procedures set
 out in this prospectus and agree to be bound by them;
-(cid:129) confirm that you have received and/or read a copy of this prospectus and have
+ confirm that you have received and/or read a copy of this prospectus and have
 relied only on the information and representations in this prospectus in causing the
 application to be made, save as set out in any supplement to this prospectus;
-(cid:129) agree that none of our Company, the Sole Sponsor, the Sole Overall Coordinator,
+ agree that none of our Company, the Sole Sponsor, the Sole Overall Coordinator,
 the Joint Global Coordinators, the Joint Bookrunners, the Joint Lead Managers, the
 Underwriters, the Capital Market Intermediaries, their respective directors, officers,
 employees, partners, agents, advisers and any other parties involved in the Global
 Offering, is or will be liable for any information and representations not contained
 in this prospectus (and any supplement to it);
-(cid:129) agree to disclose your personal data to our Company, our Hong Kong Share
+ agree to disclose your personal data to our Company, our Hong Kong Share
 Registrar, receiving bank, the Sole Overall Coordinator, the Underwriters, the
 Capital Market Intermediaries and/or their respective advisers and agents;
 – 436 –
 
 === PAGE 447 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree (without prejudice to any other rights which you may have) that once
+ agree (without prejudice to any other rights which you may have) that once
 HKSCC Nominees’ application has been accepted, it cannot be rescinded for
 innocent misrepresentation;
-(cid:129) agree that any application made by HKSCC Nominees on your behalf is
+ agree that any application made by HKSCC Nominees on your behalf is
 irrevocable before the fifth day after the time of the opening of the application lists
 (excluding any day which is a Saturday, Sunday or public holiday in Hong Kong),
 such agreement to take effect as a collateral contract with us and to become
@@ -16176,15 +16176,15 @@ purpose any day which is a Saturday, Sunday or public holiday in Hong Kong) if a
 person responsible for this prospectus under section 40 of the Companies (WUMP)
 Ordinance gives a public notice under that section which excludes or limits that
 person’s responsibility for this prospectus;
-(cid:129) agree that once HKSCC Nominees’ application is accepted, neither that application
+ agree that once HKSCC Nominees’ application is accepted, neither that application
 nor your electronic application instructions can be revoked, and that acceptance
 of that application will be evidenced by our Company’s announcement of the Hong
 Kong Public Offer results;
-(cid:129) agree to the arrangements, undertakings and warranties under the participant
+ agree to the arrangements, undertakings and warranties under the participant
 agreement between you and HKSCC, read with the General Rules of CCASS and
 the CCASS Operational Procedures, for giving electronic application instructions
 to apply for Hong Kong Offer Shares;
-(cid:129) agree with our Company, for itself and for the benefit of each Shareholder (and so
+ agree with our Company, for itself and for the benefit of each Shareholder (and so
 that our Company will be deemed by our acceptance in whole or in part of the
 application by HKSCC Nominees to have agreed, for itself and on behalf of each
 of the Shareholders, with each CCASS Participant giving electronic application
@@ -16194,7 +16194,7 @@ Companies Ordinance and our Articles of Association;
 
 === PAGE 448 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree with our Company, for itself and for the benefit of each shareholder of our
+ agree with our Company, for itself and for the benefit of each shareholder of our
 Company and each director, manager and other senior officer of our Company (and
 so that our Company will be deemed by its acceptance in whole or in part of this
 application to have agreed, for itself and on behalf of each shareholder of our
@@ -16208,14 +16208,14 @@ Articles of Association of our Company;
 (b) that any award made in such arbitration shall be final and conclusive; and
 (c) that the arbitration tribunal may conduct hearings in open sessions and
 publish its award;
-(cid:129) agree with our Company (for our Company itself and for the benefit of each
+ agree with our Company (for our Company itself and for the benefit of each
 shareholder of our Company) that Shares in our Company are freely transferable
 by their holders;
-(cid:129) authorise our Company to enter into a contract on its behalf with each director and
+ authorise our Company to enter into a contract on its behalf with each director and
 officer of our Company whereby each such director and officer undertakers to
 observe and comply with his obligations to shareholders stipulated in the Articles
 of Association; and
-(cid:129) agree that your application, any acceptance of it and the resulting contract will be
+ agree that your application, any acceptance of it and the resulting contract will be
 governed by the laws of Hong Kong.
 Effect of Giving Electronic Application Instructions to HKSCC via CCASS
 By giving electronic application instructions to HKSCC or instructing your broker or
@@ -16223,20 +16223,20 @@ custodian who is a CCASS Clearing Participant or a CCASS Custodian Participant t
 instructions to HKSCC, you (and, if you are joint applicants, each of you jointly and severally) are
 deemed to have done the following things. Neither HKSCC nor HKSCC Nominees shall be liable
 to our Company or any other person in respect of the things mentioned below:
-(cid:129) instructed and authorised HKSCC to cause HKSCC Nominees (acting as nominee for the
+ instructed and authorised HKSCC to cause HKSCC Nominees (acting as nominee for the
 relevant CCASS Participants) to apply for the Hong Kong Offer Shares on your behalf;
 – 438 –
 
 === PAGE 449 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) instructed and authorised HKSCC to arrange payment of the maximum Offer Price,
+ instructed and authorised HKSCC to arrange payment of the maximum Offer Price,
 brokerage, SFC transaction levy, AFRC transaction levy and Stock Exchange trading fee
 by debiting your designated bank account and, in the case of a wholly or partially
 unsuccessful application and/or if the Offer Price is less than the maximum Offer Price
 per Offer Share initially paid on application, refund of the application monies (including
 brokerage, SFC transaction levy, AFRC transaction levy and Stock Exchange trading
 fee) by crediting your designated bank account; and
-(cid:129) instructed and authorised HKSCC to cause HKSCC Nominees to do on your behalf all
+ instructed and authorised HKSCC to cause HKSCC Nominees to do on your behalf all
 the things stated in this prospectus.
 Minimum Purchase Amount and Permitted Numbers
 You may give or cause your broker or custodian who is a CCASS Clearing Participant or a
@@ -16334,21 +16334,21 @@ supplied.
 Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for the
 following purposes:
-(cid:129) processing your application and refund cheque and e-Auto Refund payment
+ processing your application and refund cheque and e-Auto Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this document and announcing results of allocation of
 the Hong Kong Offer Shares;
-(cid:129) enabling compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the Shareholders
+ enabling compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the Shareholders
 including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of the Shareholders;
-(cid:129) establishing benefit entitlements of the Shareholders, such as dividends, rights issues,
+ maintaining or updating the register of members of the Company;
+ verifying identities of the Shareholders;
+ establishing benefit entitlements of the Shareholders, such as dividends, rights issues,
 bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the Shareholders;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable the
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the Shareholders;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to enable the
 Company and the Hong Kong Share Registrar to discharge their obligations to the
 Shareholders and/or regulators and/or any other purposes to which the Shareholders may
 from time to time agree.
@@ -16362,17 +16362,17 @@ holders of the Hong Kong Offer Shares will be kept confidential but the Company 
 Kong Share Registrar may, to the extent necessary for achieving any of the above purposes,
 disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to, from or
 with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving banks and
+ the Company’s appointed agents such as financial advisers, receiving banks and
 overseas principal share registrar;
-(cid:129) where applicants for the Hong Kong Offer Shares request a deposit into CCASS,
+ where applicants for the Hong Kong Offer Shares request a deposit into CCASS,
 HKSCC or HKSCC Nominees, who will use the personal data for the purposes of
 operating CCASS;
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the Hong
 Kong Share Registrar in connection with their respective business operation;
-(cid:129) the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
+ the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
 governmental bodies or otherwise as required by laws, rules or regulations; and
-(cid:129) any persons or institutions with which the holders of the Hong Kong Offer Shares have
+ any persons or institutions with which the holders of the Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or
 stockbrokers, etc.
 Retention of personal data
@@ -16431,15 +16431,15 @@ application. However, any electronic application instructions to make an applica
 Hong Kong Offer Shares given by you or for your benefit to HKSCC will be deemed to be an
 actual application for the purposes of considering whether multiple applications have been made.
 If an application is made by an unlisted company and:
-(cid:129) the principal business of that company is dealing in securities; and
-(cid:129) you exercise statutory control over that company,
+ the principal business of that company is dealing in securities; and
+ you exercise statutory control over that company,
 then the application will be treated as being for your benefit.
 “Unlisted company” means a company with no equity securities listed on the Stock
 Exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) hold more than half of the issued share capital of the company (not counting any part of
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ hold more than half of the issued share capital of the company (not counting any part of
 it which carries no right to participate beyond a specified amount in a distribution of
 either profits or capital).
 – 445 –
@@ -16466,9 +16466,9 @@ Offering — Pricing and allocation”.
 10. EFFECT OF BAD WEATHER AND/OR EXTREME CONDITIONS ON THE OPENING
 OF THE APPLICATION LISTS
 The application lists will not open if there is:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a “black” rainstorm warning signal; or
-(cid:129) Extreme Conditions
+ a tropical cyclone warning signal number 8 or above;
+ a “black” rainstorm warning signal; or
+ Extreme Conditions
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Wednesday, 4 October
 2023. Instead they will open between 11:45 a.m. and 12:00 noon on the next Business Day which
 does not have either of those warnings and/or Extreme Conditions in Hong Kong in force at any
@@ -16489,14 +16489,14 @@ website at www.hkexnews.hk and our Company’s website at www.maiyuesoft.com.
 The results of allocations and the Hong Kong identity card/passport/Hong Kong business
 registration numbers of successful applicants under the Hong Kong Public Offer will be available
 at the times and date and in the manner specified below:
-(cid:129) in the announcement to be posted on the Stock Exchange’s website at
+ in the announcement to be posted on the Stock Exchange’s website at
 www.hkexnews.hk and our Company’s website at www.maiyuesoft.com by no later
 than 9:00 a.m. on Tuesday, 10 October 2023;
-(cid:129) from the designated results of allocations website at www.tricor.com.hk/ipo/result and
+ from the designated results of allocations website at www.tricor.com.hk/ipo/result and
 www.hkeipo.hk/IPOResult or the “IPO Results” function in the IPO App with a
 “search by ID” function on a 24-hour basis from 8:00 a.m. on Tuesday, 10 October 2023
 to 12:00 midnight on Monday, 16 October 2023; and
-(cid:129) by telephone enquiry line by calling 3691 8488 between 9:00 a.m. and 6:00 p.m. from
+ by telephone enquiry line by calling 3691 8488 between 9:00 a.m. and 6:00 p.m. from
 Tuesday, 10 October 2023 to Friday, 13 October 2023 on a business day (excluding
 Saturday, Sunday and Hong Kong public holidays).
 If our Company accepts your offer to purchase (in whole or in part), which it may do by
@@ -16548,26 +16548,26 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 (iii) If the allotment of Hong Kong Offer Shares is void:
 The allotment of Hong Kong Offer Shares will be void if the Listing Committee does not
 grant permission to list the Hong Kong Offer Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Listing Committee notifies our
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Listing Committee notifies our
 Company of that longer period within three weeks of the closing date of the application
 lists.
 (iv) If:
-(cid:129) you make multiple applications or suspected multiple applications;
-(cid:129) you or the person for whose benefit you are applying have applied for or taken up, or
+ you make multiple applications or suspected multiple applications;
+ you or the person for whose benefit you are applying have applied for or taken up, or
 indicated an interest for, or have been or will be placed or allocated (including
 conditionally and/or provisionally) Hong Kong Offer Shares and International Placing
 Shares;
-(cid:129) your electronic application instructions through the HK eIPO White Form service are
+ your electronic application instructions through the HK eIPO White Form service are
 not completed in accordance with the instructions, terms and conditions on the
 designated website at www.hkeipo.hk or in the IPO App;
-(cid:129) your payment is not made correctly or the cheque or banker’s cashier order paid by you
+ your payment is not made correctly or the cheque or banker’s cashier order paid by you
 is dishonoured upon its first presentation;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) our Company, the Sole Sponsor or the Sole Overall Coordinator believe that by
+ the Underwriting Agreements do not become unconditional or are terminated;
+ our Company, the Sole Sponsor or the Sole Overall Coordinator believe that by
 accepting your application, we or they would violate applicable securities or other laws,
 rules or regulations; or
-(cid:129) your application is for more than 50% of the Hong Kong Offer Shares initially offered
+ your application is for more than 50% of the Hong Kong Offer Shares initially offered
 under the Hong Kong Public Offer.
 – 449 –
 
@@ -16635,12 +16635,12 @@ applicant.
 === PAGE 462 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 Deposit of Share Certificates into CCASS and Refund of Application Monies
-(cid:129) If your application is wholly or partially successful, your Share certificate(s) will be issued in
+ If your application is wholly or partially successful, your Share certificate(s) will be issued in
 the name of HKSCC Nominees and deposited into CCASS for the credit of your designated
 CCASS Participant’s stock account or your CCASS Investor Participant stock account on
 Tuesday, 10 October 2023, or, on any other date determined by HKSCC or HKSCC
 Nominees.
-(cid:129) Our Company expects to publish the application results of CCASS Participants (and where
+ Our Company expects to publish the application results of CCASS Participants (and where
 the CCASS Participant is a broker or custodian, our Company will include information
 relating to the relevant beneficial owner), your Hong Kong identity card number/passport
 number or other identification code (Hong Kong business registration number for
@@ -16649,10 +16649,10 @@ specified in “Publication of Results” above on Tuesday, 10 October 2023. You
 the announcement published by our Company and report any discrepancies to HKSCC before
 5:00 p.m. on Tuesday, 10 October 2023 or such other date as determined by HKSCC or
 HKSCC Nominees.
-(cid:129) If you have instructed your broker or custodian to give electronic application instructions
+ If you have instructed your broker or custodian to give electronic application instructions
 on your behalf, you can also check the number of Hong Kong Offer Shares allotted to you
 and the amount of refund monies (if any) payable to you with that broker or custodian.
-(cid:129) If you have applied as a CCASS Investor Participant, you can also check the number of Hong
+ If you have applied as a CCASS Investor Participant, you can also check the number of Hong
 Kong Offer Shares allotted to you and the amount of refund monies (if any) payable to you
 via the CCASS Phone System and the CCASS Internet System (under the procedures
 contained in HKSCC’s “An Operating Guide for Investor Participants” in effect from time to
@@ -16661,7 +16661,7 @@ Offer Shares to your stock account and the credit of refund monies to your bank 
 HKSCC will also make available to you an activity statement showing the number of Hong
 Kong Offer Shares credited to your CCASS Investor Participant stock account and the
 amount of refund monies (if any) credited to your designated bank account.
-(cid:129) Refund of your application monies (if any) in respect of wholly and partially unsuccessful
+ Refund of your application monies (if any) in respect of wholly and partially unsuccessful
 applications and/or difference between the Offer Price and the maximum Offer Price per
 Offer Share initially paid on application (including brokerage, SFC transaction levy, AFRC
 transaction levy and Stock Exchange trading fee but without interest) will be credited to your
@@ -19916,12 +19916,12 @@ the end of each reporting period on a recurring basis, categorised into the thre
 hierarchy as defined in HKFRS13, Fair value measurement. The level into which a fair value
 measurement is classified is determined with reference to the observability and significance of the
 inputs used in the valuation technique as follows:
-(cid:129) Level 1 valuations: Fair value measured using only Level 1 inputs i.e. unadjusted quoted
+ Level 1 valuations: Fair value measured using only Level 1 inputs i.e. unadjusted quoted
 prices in active markets for identical assets or liabilities at the measurement date.
-(cid:129) Level 2 valuations: Fair value measured using Level 2 inputs i.e. observable inputs
+ Level 2 valuations: Fair value measured using Level 2 inputs i.e. observable inputs
 which fail to meet Level 1, and not using significant unobservable inputs. Unobservable
 inputs are inputs for which market data are not available.
-(cid:129) Level 3 valuations: Fair value measured using significant unobservable inputs.
+ Level 3 valuations: Fair value measured using significant unobservable inputs.
 Analysis on fair value measurement of financial instruments as at 31 December 2020, 2021
 and 2022 and 30 April 2023 are as follows:
 As at 31 December As at 30April
@@ -20320,8 +20320,8 @@ to assess whether the applicable criteria used by the Directors in the compilati
 financial information provide a reasonable basis for presenting the significant effects directly
 attributable to the event or transaction, and to obtain sufficient appropriate evidence about
 whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the pro forma financial information reflects the proper application of those adjustments
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the pro forma financial information reflects the proper application of those adjustments
 to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgement, having regard to the
 reporting accountants’ understanding of the nature of the Group, the event or transaction in respect

@@ -190,10 +190,10 @@ Thursday, March 26, 2026
 Expected Price Determination Date(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . by 12:00 noon on
 Friday, March 27, 2026
 Announcement of:
-(cid:129) the Offer Price;
-(cid:129) an indication of the level of interest in the International Offering;
-(cid:129) the level of applications in the Hong Kong Public Offering; and
-(cid:129) the basis of allocation of the Hong Kong Offer Shares
+ the Offer Price;
+ an indication of the level of interest in the International Offering;
+ the level of applications in the Hong Kong Public Offering; and
+ the basis of allocation of the Hong Kong Offer Shares
 to be published and on the websites of the Stock Exchange at
 www.hkexnews.hk and our Company at www.foursemi.com(7)
 at or before. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11:00 p.m. on
@@ -201,7 +201,7 @@ Monday, March 30, 2026
 The results of allocations in the Hong Kong Public Offering (with successful applicants’
 identification document numbers, where appropriate) to be available through a variety of channels,
 including:
-(cid:129) in the website of the Stock Exchange
+ in the website of the Stock Exchange
 at www.hkexnews.hk and the Company’s website
 at www.foursemi.com(7). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . no later than 11:00 p.m. on
 Monday, March 30, 2026
@@ -209,14 +209,14 @@ Monday, March 30, 2026
 
 === PAGE 6 ===
 EXPECTED TIMETABLE
-(cid:129) in the designated results of allocations website at
+ in the designated results of allocations website at
 www.iporesults.com.hk (alternatively:
 www.eipo.com.hk/eIPOAllotment) with
 a “search by ID” function . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . from 11:00 p.m. on
 Monday, March 30, 2026
 to 12:00 midnight on
 Sunday, April 5, 2026
-(cid:129) from the allocation results telephone enquiry line by
+ from the allocation results telephone enquiry line by
 calling +852 2862 8555
 between 9:00 a.m. and 6:00 p.m. . . . . . . . . . . . . . . . . . . . . . . . . on Tuesday, March 31, 2026,
 Wednesday, April 1, 2026,
@@ -898,10 +898,10 @@ IFRSs, we also use adjusted loss (non-IFRS measure) as an additional financial m
 required by, or presented in accordance with, IFRSs.
 We define adjusted loss (non-IFRS measure) as loss, excluding share-based payments and listing
 expenses. We have made the following adjustment consistently during the Track Record Period.
-(cid:129) Share-based payments represent the non-cash employee benefit expenses incurred in
+ Share-based payments represent the non-cash employee benefit expenses incurred in
 connection with our award to key employees. Such expenses in any specific period are not
 expected to result in future cash payments.
-(cid:129) Listing expenses represent the costs incurred in connection with our initial public offering
+ Listing expenses represent the costs incurred in connection with our initial public offering
 on the Hong Kong Stock Exchange. Such expenses in any specific period are not expected to
 result in future cash payments after completion of the listing process.
 The following table reconciles our loss for the year/period presented in accordance with IFRSs to
@@ -1202,18 +1202,18 @@ Share (being the mid-point of the indicative range of the Offer Price of HK$40.0
 Offer Share), without the exercise of the Over-allotment Option.
 We currently intend to use the net proceeds from the Global Offering for the purposes and in the
 amounts as set out below:
-(cid:129) approximately 46.8% of the net proceeds, or HK$224.6 million, will be used for establishing
+ approximately 46.8% of the net proceeds, or HK$224.6 million, will be used for establishing
 a new research and development center to enhance our R&D capabilities and technological
 competitiveness for power amplifier audio chips over the next five years;
-(cid:129) approximately 17.8% of the net proceeds, or HK$85.5 million, for procurement of automatic
+ approximately 17.8% of the net proceeds, or HK$85.5 million, for procurement of automatic
 testing equipment and for construction of an in-house automatic testing verification line, as
 well as recruiting supply chain managing engineers;
-(cid:129) approximately 17.3% of the net proceeds, or HK$83.3 million, to pursue strategic
+ approximately 17.3% of the net proceeds, or HK$83.3 million, to pursue strategic
 acquisitions and partnerships to enhance our industry integration and strengthen our position
 in the power amplifier audio chip industry;
-(cid:129) approximately 8.1% of the net proceeds, or HK$38.9 million, for the marketing and sales of
+ approximately 8.1% of the net proceeds, or HK$38.9 million, for the marketing and sales of
 products; and
-(cid:129) approximately 10.0% of the net proceeds, or HK$48.0 million, for working capital and other
+ approximately 10.0% of the net proceeds, or HK$48.0 million, for working capital and other
 general corporate purposes.
 See “Future Plans and Use of Proceeds” for further information relating to our future plans and
 use of proceeds from the Global Offering, including the adjustment on the allocation of the proceeds in
@@ -2221,22 +2221,22 @@ caution you therefore against placing undue reliance on any of these forward-loo
 Important factors that could cause actual results to differ materially from those in the forward-looking
 statements include regional, national or global political, economic, business, competitive, market and
 regulatory conditions and the following:
-(cid:129) our business prospects;
-(cid:129) our business strategies and plans to achieve these strategies;
-(cid:129) future developments, trends and conditions in and competitive environment for the industries
+ our business prospects;
+ our business strategies and plans to achieve these strategies;
+ future developments, trends and conditions in and competitive environment for the industries
 and markets in which we operate;
-(cid:129) general economic, political and business conditions in locations where we operate;
-(cid:129) our financial condition and performance;
-(cid:129) our capital expenditure plans;
-(cid:129) our dividend policy;
-(cid:129) changes to the regulatory environment, policies, operating conditions of and general outlook
+ general economic, political and business conditions in locations where we operate;
+ our financial condition and performance;
+ our capital expenditure plans;
+ our dividend policy;
+ changes to the regulatory environment, policies, operating conditions of and general outlook
 in the industries and markets in which we operate;
-(cid:129) our expectations with respect to our ability to acquire and maintain regulatory licenses or
+ our expectations with respect to our ability to acquire and maintain regulatory licenses or
 permits;
-(cid:129) the extent and nature of, and potential for, future development of our business;
-(cid:129) the actions of and developments affecting our competitors;
-(cid:129) the actions of and developments affecting our major customers and suppliers; and
-(cid:129) certain statements in the sections headed “Risk Factors”, “Industry Overview”, “Regulatory
+ the extent and nature of, and potential for, future development of our business;
+ the actions of and developments affecting our competitors;
+ the actions of and developments affecting our major customers and suppliers; and
+ certain statements in the sections headed “Risk Factors”, “Industry Overview”, “Regulatory
 Overview”, “Business”, “Financial Information” and “Future Plans and Use of Proceeds”
 with respect to trends in interest rates, foreign exchange rates, prices, volumes, operations,
 margins, risk management and overall market trends.
@@ -2448,19 +2448,19 @@ electronics and electronic vehicles, which are incorporated as part of their off
 customers. Therefore, factors that adversely affect these industries and sectors or the end customer base
 could also materially and adversely affect our business, financial condition, results of operations and
 prospects. These factors include, among others:
-(cid:129) a decline in demand for, or negative perception of, or publicity about, products of these
+ a decline in demand for, or negative perception of, or publicity about, products of these
 industries;
-(cid:129) any operational challenges, decreasing growth, financial difficulties, market share loss, or
+ any operational challenges, decreasing growth, financial difficulties, market share loss, or
 reputational harm to the customers that use our products;
 – 43 –
 
 === PAGE 53 ===
 RISK FACTORS
-(cid:129) regulatory restrictions, trade disputes, industry-specific quotas, tariffs, non-tariff barriers and
+ regulatory restrictions, trade disputes, industry-specific quotas, tariffs, non-tariff barriers and
 taxes that may affect the value chain of such customers;
-(cid:129) the reduction or elimination of preferential tax treatments, economic incentives or other
+ the reduction or elimination of preferential tax treatments, economic incentives or other
 favorable policies for these companies; and
-(cid:129) a downturn in economic conditions in major countries and regions that our customers
+ a downturn in economic conditions in major countries and regions that our customers
 operate their business in.
 Our business is primarily based in China and is susceptible to any policy changes in China
 affecting the power amplifier audio chip industry which may materially and adversely affect our
@@ -2654,14 +2654,14 @@ respect to our products, our ability to effectively sell our products could be n
 As we believe that distributorship is an important component of our sales network, any of the
 following events could cause fluctuations or declines in our revenue and could have an adverse effect
 on our business, results of operations and financial condition:
-(cid:129) reduction, delay or cancelation of orders from one or more of our distributors;
-(cid:129) failure to renew agreements and maintain relationships with our existing distributors;
-(cid:129) failure to establish relationships with new distributors on favorable or even standard terms;
+ reduction, delay or cancelation of orders from one or more of our distributors;
+ failure to renew agreements and maintain relationships with our existing distributors;
+ failure to establish relationships with new distributors on favorable or even standard terms;
 – 47 –
 
 === PAGE 57 ===
 RISK FACTORS
-(cid:129) inability to timely identify and appoint additional or replacement distributors upon the loss
+ inability to timely identify and appoint additional or replacement distributors upon the loss
 of one or more of our distributors.
 In addition, we cannot assure you that the expansion of our distributor network will continue to be
 successful or will generate revenue as expected. The cost of any consolidation or further expansion of
@@ -3028,15 +3028,15 @@ advancements. We may encounter unexpected technical and production challenges or
 completing the development of new and enhanced products in a cost-efficient manner. Successful
 product development and upgrade not only requires us to invest significant resources in research and
 development and also require that we:
-(cid:129) design products with better functionality or other benefits that differentiate from those of our
+ design products with better functionality or other benefits that differentiate from those of our
 competitors;
 – 54 –
 
 === PAGE 64 ===
 RISK FACTORS
-(cid:129) quickly and cost-effectively adjust to evolving customer demands, market conditions and
+ quickly and cost-effectively adjust to evolving customer demands, market conditions and
 industry trends; and
-(cid:129) continuously enhance our current technology stack.
+ continuously enhance our current technology stack.
 If we are unable to complete the development of new and enhanced products and/or technologies
 without delay or at all, we may not be able to satisfy our customers’ demand or achieve broader market
 acceptance of our products, and our business, results of operations, financial condition and competitive
@@ -4409,13 +4409,13 @@ INDUSTRY OVERVIEW
 and speaker coil temperature). The chip’s internal signal processing unit adjusts the signal output in real
 time to enable the speaker to operate in its optimal state, achieving maximum output without damaging
 the speaker and ensuring reliability.
-(cid:129) Adaptive power control audio chips: Adaptive power control audio refers to the process
+ Adaptive power control audio chips: Adaptive power control audio refers to the process
 where the audio chip analyzes the customer’s acoustic cavity structure through modeling and
 uses algorithms to dynamically adjust input and output signals in real time to match the
 acoustic environment. This enables the speaker to operate in an optimal and safe state.
 Meanwhile, the overall audio effect of the system is maximized through audio enhancement
 and scene adaptive algorithms.
-(cid:129) portable power amplifier audio chip: Compared to the adaptive power control audio chip
+ portable power amplifier audio chip: Compared to the adaptive power control audio chip
 series, portable power amplifier audio chip adds current and voltage sensing. By detecting
 the speaker’s current and voltage in real time, the chip can detect and control the speaker
 more accurately, thus achieving the complete closed loop of the system. At the same time,
@@ -4454,7 +4454,7 @@ IDM Model Vertically Integrated Manufacturer
 
 === PAGE 94 ===
 INDUSTRY OVERVIEW
-(cid:129) Prevalence of Distributorship: Due to the wide range of downstream applications, distributors
+ Prevalence of Distributorship: Due to the wide range of downstream applications, distributors
 typically play an important role in the sales process of power amplifier audio chips. Through
 distributor networks, power amplifier audio chip companies can reach dispersed end customers
 and reduce sales costs. The distributorship system plays an irreplaceable role for power amplifier
@@ -4531,11 +4531,11 @@ RMB Billion CAGR 2020-2024 2025E-2029E
 2020 2021 2022 2023 2024 2025E 2026E 2027E 2028E 2029E
 Data Source: Frost & Sullivan
 Drivers of China’s Power Amplifier Audio Chip Market
-(cid:129) Rapid Upgrade in Demand for Audio Interaction in Consumer Electronics: As the demand for
+ Rapid Upgrade in Demand for Audio Interaction in Consumer Electronics: As the demand for
 intelligent voice interaction in consumer electronics increases, there is a need for simultaneous
 enhancement of technologies like power amplifier audio chips and audio power control
 algorithms.
-(cid:129) Demand in Display Devices: The trend of integrating audio and display is becoming more
+ Demand in Display Devices: The trend of integrating audio and display is becoming more
 prominent. In 2024, the global shipment of power amplifier audio chips used in smart displays
 was approximately 90.0 million units. It is projected to continue expanding at a CAGR of 12.0%,
 reaching a shipment volume of 160.0 million units by 2029. In 2024, the shipment volume of
@@ -4543,14 +4543,14 @@ China’s domestically produced power amplifier audio chips for smart screens wa
 45.0 million units. With the wide penetration of smart display devices and domestic substitution
 market size of power amplifier audio chips for smart displays will continue expanding at a CAGR
 of 15.0%, with shipment volume reaching 90.5 million units by 2029.
-(cid:129) Upgrade of In-vehicle Audio Software and Hardware Configuration: The application of
+ Upgrade of In-vehicle Audio Software and Hardware Configuration: The application of
 multi-channel audio systems has become more widespread, including more overhead speakers and
 subwoofer configurations. The mainstream in-vehicle speaker configurations in the market have
 gradually upgraded from around four speakers to 15 or more in 2024, and it is expected that more
 and more vehicle models will be equipped with over 20 speakers in the future. The ability to
 automatically adjust audio effects based on user preferences and the current environment through
 AI algorithms has become a key area of competition.
-(cid:129) Accelerated Penetration in Emerging Sectors: China’s power amplifier audio chip industry has
+ Accelerated Penetration in Emerging Sectors: China’s power amplifier audio chip industry has
 achieved broad coverage in mainstream markets such as consumer electronics, intelligent vehicles,
 and IoT devices (e.g., smart speaker). However, penetration rates remain relatively low in
 emerging application areas like industrial IoT and smart cities. As IoT segments like smart city
@@ -4560,7 +4560,7 @@ engines for future industry growth.
 
 === PAGE 96 ===
 INDUSTRY OVERVIEW
-(cid:129) Cost Trends: The cost structure of power amplifier audio chips is mainly composed of wafer
+ Cost Trends: The cost structure of power amplifier audio chips is mainly composed of wafer
 fabrication, packaging and testing. To reduce overall costs, companies are gradually adopting
 various cost-reduction measures, such as implementing tiered wafer cost control through a
 mixed-process strategy, which can reduce the cost per transistor by 30%−35%; shortening R&D
@@ -4665,14 +4665,14 @@ China 9.0% 17.0%
 2020 2021 2022 2023 2024 2025E 2026E 2027E 2028E 2029E
 Data Source: Frost & Sullivan
 Drivers of China’s Haptic Driver Market
-(cid:129) Surging Demand from Automotive Intelligence: As vehicles become more intelligent, the role of
+ Surging Demand from Automotive Intelligence: As vehicles become more intelligent, the role of
 haptic feedback is evolving from a simple notification tool to a critical component for safety and
 an enhanced user experience.
-(cid:129) Proliferation in Consumer Electronics: Consumer expectations for realistic tactile feedback
+ Proliferation in Consumer Electronics: Consumer expectations for realistic tactile feedback
 during typing, gaming, and notifications continue to push technology towards greater refinement
 and lower power consumption. The trend is also strong in wearable devices like smartwatches and
 emerging AR/VR equipment, which rely on haptics for information delivery and interaction.
-(cid:129) Broadening Applications: The application of haptic technology is expanding into industrial
+ Broadening Applications: The application of haptic technology is expanding into industrial
 automation (for precise robotic control) and the medical field (for rehabilitation robotics and
 remote surgery with force feedback), indicating significant future growth potential.
 – 88 –
@@ -4804,7 +4804,7 @@ primarily engaged in the chip design, manufacturing, sales, and technical servic
 8. CompanyG,foundedin2006andheadquarteredinSouthKorea,islistedontheKoreaExchange,primarilyengagedinthe
 chips for haptic driver, image stabilization, autofocus control, power management.
 Entry Barriers in the Power Amplifier Audio Chip Industry
-(cid:129) Technological Barriers
+ Technological Barriers
 Power amplifier audio chip products have high performance requirements in terms of
 anti-interference capability, detection accuracy, power consumption, and size. Moreover, with the
 continuous upgrading of audio effects in various consumer electronics and intelligent vehicles,
@@ -4812,7 +4812,7 @@ new requirements are being brought up, such as tuning technology, customized des
 algorithms technology for power amplifier audio chips. For new market entrants, it requires a long
 time and substantial resources to carry out technological R&D and to pass patent applications and
 reviews by relevant authorities. Therefore, the industry has high technological barriers.
-(cid:129) Customer Barriers
+ Customer Barriers
 In the power amplifier audio chip industry, especially for highly customized scenarios in
 consumer electronics, intelligent vehicles and robotics, customers have strict audit and
 certification systems for suppliers, involving certifications for functional safety (e.g.,
@@ -4820,7 +4820,7 @@ JESD22-A113), and requiring compliance with reliability standards such as automo
 AEC-Q100 and the quality management system standard (ISO9001). After a partnership is
 established, high switching costs and strong dependence on major customers make it difficult for
 new entrants to break through quickly.
-(cid:129) Supply Chain Barriers
+ Supply Chain Barriers
 The power amplifier audio chip industry in China requires a stable supply chain system.
 Companies must secure a long-term and stable supply of wafer foundry and packaging and testing
 capacity by locking in capacity resources through prepayments and long-term agreements;
@@ -6642,12 +6642,12 @@ Who We Are
 We are a provider of power amplifier audio chips and haptic drivers in China. We specialize in the
 design of low-power audio chips, mid/high-power audio chips and haptic drivers under a fabless model
 to offer a wide array of solutions for emerging application scenarios. According to the F&S report:
-(cid:129) in terms of total shipment volume in 2024 of power amplifier audio chips for use in smart
+ in terms of total shipment volume in 2024 of power amplifier audio chips for use in smart
 displays, we ranked first among power amplifier audio chip providers in China;
-(cid:129) in terms of total shipment volume of power amplifier audio chips in 2024, we ranked second
+ in terms of total shipment volume of power amplifier audio chips in 2024, we ranked second
 among power amplifier audio chip providers in China, and third among power amplifier
 audio chip providers globally; and
-(cid:129) in terms of total shipment volume of haptic drivers in 2024, we ranked fourth among haptic
+ in terms of total shipment volume of haptic drivers in 2024, we ranked fourth among haptic
 driver providers in China.
 Our power amplifier audio chip products
 Our portfolio of products empowers various industries, including consumer electronics and
@@ -6674,9 +6674,9 @@ For example, we have launched multiple China-first chip products under the trend
 substitution, with breakthroughs in algorithm and system architecture, low energy consumption,
 real-time processing, low distortion, and multi-scenario perception. According to the F&S report, we
 introduced:
-(cid:129) China’s first ASIC DSP-integrated portable power amplifier audio chip in 2017;
-(cid:129) China’s first mid/high-power audio chip in 2021; and
-(cid:129) China’s first automotive-grade AEC-Q100-certified power amplifier audio chip in 2023.
+ China’s first ASIC DSP-integrated portable power amplifier audio chip in 2017;
+ China’s first mid/high-power audio chip in 2021; and
+ China’s first automotive-grade AEC-Q100-certified power amplifier audio chip in 2023.
 We have established collaborative relationships with our key customers in the industries through
 research and development initiatives. This approach embeds us within their ecosystem, forming
 synergistic and strategic alliances that enhance our competitiveness and support long-term sustainable
@@ -6688,12 +6688,12 @@ BUSINESS
 starting with smartphones, expanding into smart displays and intelligent vehicles. Leveraging our
 integration-driven approach, we have also successfully expanded across multiple application domains
 and established strong partnerships with customers in each key sector. For instance:
-(cid:129) our power amplifier audio chips have been adopted by nine out of the top ten global
+ our power amplifier audio chips have been adopted by nine out of the top ten global
 smartphone manufacturers in terms of their shipment volume in 2024, according to the F&S
 report;
-(cid:129) our mid/high-power audio chips have been adopted by eight out of the top ten China TV
+ our mid/high-power audio chips have been adopted by eight out of the top ten China TV
 manufacturers in terms of their shipment volume in 2024, according to the same source; and
-(cid:129) we have established a contracted partnership with one of the world’s largest renewable
+ we have established a contracted partnership with one of the world’s largest renewable
 energy vehicle manufacturers for our automotive-grade power amplifier audio chips.
 Our Financial Performance
 We experienced tremendous growth during the Track Record Period. We generate revenue
@@ -6799,7 +6799,7 @@ RMB4.1 billion in 2024 and is expected to expand to RMB10.0 billion by 2029, rep
 of 19.4%.
 Specifically, we have launched multiple China-first chip products, aligning with the trend of
 domestic substitution, including the following:
-(cid:129) In 2017, we launched China’s first ASIC DSP-integrated portable power amplifier audio
+ In 2017, we launched China’s first ASIC DSP-integrated portable power amplifier audio
 chip, marking a pioneering step in the domestic audio technology landscape, according to the
 F&S report. This product integrates an ASIC DSP module enabling speaker protection,
 dynamic gain adjustment, phase correction, and noise suppression, which offers an
@@ -6809,7 +6809,7 @@ achieved mass production and shipment for our customers, demonstrating our succe
 commercialization. Our power amplifier audio chips have been adopted by nine out of the
 top ten global smartphone manufacturers in terms of their shipment volume in 2024,
 according to the F&S report.
-(cid:129) In 2021, we launched China’s first mid/high-power audio chip, according to the F&S report.
+ In 2021, we launched China’s first mid/high-power audio chip, according to the F&S report.
 This product delivers a higher power on a more demanding level while maintaining low
 distortion and flat frequency response, compared with low-power audio chips. In addition to
 its audio performance, this product type stands out due to its stricter requirements in key
@@ -6817,7 +6817,7 @@ areas such as its power amplifier’s high reliability, thermal management and a
 optimization. Our mid/high-power audio chips have been adopted by eight out of the top ten
 China TV manufacturers in terms of their shipment volume in 2024, according to the F&S
 report.
-(cid:129) In 2023, we launched China’s first automotive-grade AEC-Q100-certified power amplifier
+ In 2023, we launched China’s first automotive-grade AEC-Q100-certified power amplifier
 audio chip, according to the F&S report. AEC-Q100 is a rigorous stress test qualification
 standard for automotive-grade chips, ensuring they meet reliability and performance
 requirements under harsh automotive environments such as extreme temperatures, vibrations,
@@ -6931,7 +6931,7 @@ research and development initiatives. This integration approach embeds us within
 forming synergistic and strategic alliances that enhance our competitiveness and support long-term
 sustainable growth.
 We are actively involved across all critical stages of customer engagement:
-(cid:129) Early-stage technical alignment: Our differentiated customization capabilities enable us to
+ Early-stage technical alignment: Our differentiated customization capabilities enable us to
 engage early in the product development cycle, delivering customer-specific audio tuning
 and functionality that help customers craft unique acoustic signatures and create distinctive
 acoustic identities in competitive markets;
@@ -6939,15 +6939,15 @@ acoustic identities in competitive markets;
 
 === PAGE 143 ===
 BUSINESS
-(cid:129) Agile development cycles: According to the F&S report, our project development cycles,
+ Agile development cycles: According to the F&S report, our project development cycles,
 ranging from just two to five months, are among the fastest in China’s power amplifier audio
 chip market. This agility enables us to achieve precise control of the development timeline
 and capture time-sensitive opportunities in fast-moving application sectors such as the
 consumer electronics industry;
-(cid:129) High responsiveness: We maintain exceptional responsiveness to evolving customer needs
+ High responsiveness: We maintain exceptional responsiveness to evolving customer needs
 and technical changes, which has strengthened our relationships with leading brands amid
 intense market competition; and
-(cid:129) Tailored solutions: We offer complimentary tailored solutions, including adaptive sound
+ Tailored solutions: We offer complimentary tailored solutions, including adaptive sound
 enhancement and speaker protection algorithms, as well as customized audio tuning to
 optimize acoustic performance across diverse applications.
 Our solutions have been embedded in the supply chains of top-tier brands across downstream
@@ -7042,29 +7042,29 @@ BUSINESS
 To enhance our technological competitiveness and accelerate the commercialization of our
 innovations, we plan to establish a dedicated research and development platform focused on power
 amplifier audio chips. Our key initiatives include:
-(cid:129) Establishing a new research and development center in the Yangtze River Delta, a
+ Establishing a new research and development center in the Yangtze River Delta, a
 region known for its deep talent pool and robust supply chain ecosystem. This strategic
 location is expected to support faster iteration cycles and foster localized innovation in chip
 design.
-(cid:129) Constructing an automotive-grade laboratory equipped with advanced automated test
+ Constructing an automotive-grade laboratory equipped with advanced automated test
 analytics and reliability validation systems, including but not limited to
 automotive-compliant ATE engineering platforms, Scanning Electron Microscopes (SEM),
 Transmission Electron Microscopes (TEM) and Highly Accelerated Stress Test (HAST)
 equipment. This integrated infrastructure will ensure our power amplifier audio chips meet
 the most stringent automotive reliability standards, including AEC-Q100 compliance, while
 guaranteeing performance integrity under extreme operating conditions.
-(cid:129) Expanding our research and development team by recruiting experienced professionals,
+ Expanding our research and development team by recruiting experienced professionals,
 including chip design engineers, chip testing engineers, algorithm engineers, and senior
 technical experts. We believe this would directly strengthen our innovation capacity in areas
 such as chip design, system architecture, and signal processing.
-(cid:129) Engaging in strategic partnerships with wafer foundries and chip packaging and testing
+ Engaging in strategic partnerships with wafer foundries and chip packaging and testing
 providers, and developing tailor-made process to optimize efficiency.
-(cid:129) Investing in critical design infrastructure, including EDA software tools and intellectual
+ Investing in critical design infrastructure, including EDA software tools and intellectual
 property licenses to empower our engineers with the tools needed to efficiently design and
 simulate next-generation chips. In addition, we will establish deep collaborations with
 upstream wafer factories and OSAT partners to develop tailored customer-owned-technology
 process solutions, jointly optimizing performance and cost.
-(cid:129) Upgrading our hardware infrastructure with enterprise-grade servers to better support
+ Upgrading our hardware infrastructure with enterprise-grade servers to better support
 research and development of power amplifier audio chip features.
 Diversify Product Portfolio and Broaden Customer Base in Key Application Scenarios
 We intend to further expand our product portfolio in chips, emphasizing on high efficiency and
@@ -7080,7 +7080,7 @@ and other devices.
 Our early involvement in scenario-specific product development enables us to collaborate closely
 with our industry customers. Specifically, we intend to broaden our product portfolio for the following
 application scenarios:
-(cid:129) Consumer electronics: We plan to offer multi-chip solutions, such as through a combination
+ Consumer electronics: We plan to offer multi-chip solutions, such as through a combination
 of algorithm, audio, haptic and SAR sensor chips, to enhance the value of our consumer
 electronics solutions. We intend to further increase our market share in the applications for
 smartphones, smart displays, and smart wearables, through the development of
@@ -7098,7 +7098,7 @@ BUSINESS
 power amplifier audio chips with key customers in China.
 ■ In the professional audio market, we are in the process of developing higher-power,
 high-performance audio products for premium and flagship products and applications.
-(cid:129) Intelligent Vehicles: We plan to commercialize more automotive-grade chips. We plan to
+ Intelligent Vehicles: We plan to commercialize more automotive-grade chips. We plan to
 further the implementation of audio chips in in-car voice interaction and automotive safety
 systems, develop multi-channel audio processing chips to improve intelligent cabin
 experience. We are in the process of developing higher-power automotive-grade power
@@ -7106,7 +7106,7 @@ amplifier audio chips, leveraging our robust algorithm development and sound tun
 capabilities to strengthen collaborative alliances with our customers. We are also in the
 process of accelerating automotive certification for haptic feedback solutions to expand our
 market share.
-(cid:129) Robotics: Our core products, power amplifier audio chips, placed us at the forefront of
+ Robotics: Our core products, power amplifier audio chips, placed us at the forefront of
 perception and processing capabilities, particularly in voice interaction. As smart robots
 continue to evolve through multiple generations, language-based interaction is expected to
 catalyze the demand of audio processing capabilities. We intend to leverage our accumulated
@@ -7123,21 +7123,21 @@ chain, we plan to build an ATE testing platform. This initiative is aimed at opt
 improving cost efficiency, enhancing product quality control, reducing reliance on third-party testing
 providers, and ensuring timely delivery to customers across regions. Key components of this initiative
 include:
-(cid:129) Establishing an in-house ATE verification line for semiconductor product testing. This will
+ Establishing an in-house ATE verification line for semiconductor product testing. This will
 allow us to identify and resolve quality issues earlier in the production cycle, improving
 yield rates and reducing rework costs.
-(cid:129) Recruiting and training specialized ATE engineers and operators to build a strong
+ Recruiting and training specialized ATE engineers and operators to build a strong
 internal testing team. This talent investment will ensure we maintain rigorous testing
 standards and can satisfy the automotive-grade certification of AEC-Q100.
-(cid:129) Procuring automated testing equipment to support the testing requirements of our chip
+ Procuring automated testing equipment to support the testing requirements of our chip
 products and ensure that their performances are compliant with automotive standards in all
 scenarios, particularly in light of our customized solutions tailored to meet diverse customer
 needs. This includes high-precision instruments capable of handling complex signal
 processing.
-(cid:129) Enhancing supply chain visibility and control by integrating the ATE platform into our
+ Enhancing supply chain visibility and control by integrating the ATE platform into our
 broader operation systems. This will improve coordination with upstream and downstream
 partners and reduce lead times.
-(cid:129) Supporting long-term scalability by designing the platform to accommodate future product
+ Supporting long-term scalability by designing the platform to accommodate future product
 lines and testing needs.
 We believe this investment will significantly enhance the stability, flexibility, and responsiveness
 of our supply chain, while also supporting our long-term growth and commitment to quality assurance.
@@ -7149,24 +7149,24 @@ Fortify Our Sales Network to Expand Global Reach
 We strive to strengthen our overseas technical support and sales teams to expedite the penetration
 of our products in global markets, particularly in (1) the U.S., (2) Taiwan province, China and (3) South
 Korea, and deepen engagement with global customers. Our key initiatives include:
-(cid:129) Establishing and expanding localized sales and technical service teams in strategic
+ Establishing and expanding localized sales and technical service teams in strategic
 markets such as (1) the U.S., (2) Taiwan province, China and (3) South Korea. They will
 enhance our ability to deliver timely, on-site support, shorten customer validation cycles,
 increase customers’ stickiness and strengthen relationships with industry players. As of the
 Latest Practicable Date, we had already had over 50 million of overseas shipment of our
 products. We believe this strategy will serve our end overseas customers and strengthen our
 relationship with them.
-(cid:129) Investing in marketing initiatives tailored to the unique needs and preferences of specific
+ Investing in marketing initiatives tailored to the unique needs and preferences of specific
 customer. This includes localized campaigns designed to increase brand visibility and drive
 product adoption. We also plan to expand local distributor networks to reach more customers
 through local resources.
-(cid:129) Introducing integrated solutions that combine customized algorithms with our proprietary
+ Introducing integrated solutions that combine customized algorithms with our proprietary
 chips to meet the specific requirements of overseas customers. These offerings are designed
 to enhance customer stickiness and differentiate our value proposition.
-(cid:129) Enhancing local talent capabilities by recruiting, training, and supporting regional service
+ Enhancing local talent capabilities by recruiting, training, and supporting regional service
 teams. This investment will improve the overall customer experience and ensure consistent,
 high-quality service delivery.
-(cid:129) Executing proactive branding and business development efforts, including targeted
+ Executing proactive branding and business development efforts, including targeted
 marketing campaigns, participation in major industry conferences and exhibitions, and
 sponsorship of relevant competitions. We will also pursue industry-specific business
 development initiatives to capture emerging opportunities within key industry verticals.
@@ -7199,12 +7199,12 @@ algorithms and tuning services. We believe the provision of the complimentary cu
 a natural extension of our core business, which also enables us to enhance customer experience,
 maintain our relationship with them and broaden our commercialization potentials. Complementary
 components to our products include our algorithms and application services.
-(cid:129) Algorithms. We have developed complementary adaptive sound enhancement and speaker
+ Algorithms. We have developed complementary adaptive sound enhancement and speaker
 protection algorithms that dynamically adjust to diverse customer applications, including
 speaker protection, audio enhancement, and intelligent scene adaptation. These algorithms
 self-optimize and seamlessly accommodate varying speaker specifications across projects.
 See “—Our Core Technologies” for details.
-(cid:129) Application services. We deliver customized audio tuning services that optimize acoustic
+ Application services. We deliver customized audio tuning services that optimize acoustic
 performance through parameter optimization on demand to meet the unique requirements of
 certain customers for unique sound experience. This empowers our customers to define
 unique sonic signatures and establish distinctive audio identities for their devices.
@@ -7324,13 +7324,13 @@ production and were well-received by our customers, as indicated by our cumulati
 exceeding 200 million units, as of the Latest Practicable Date.
 Our low-power audio chips can be classified into two types based on their features, namely
 adaptive power control audio chips and portable power amplifier audio chips.
-(cid:129) Adaptive power control audio chips employ acoustic chamber structure modeling to analyze
+ Adaptive power control audio chips employ acoustic chamber structure modeling to analyze
 customer-specific designs. Their algorithms dynamically adjust input/output signals in
 real-time to match the acoustic environment, ensuring speakers operate optimally and safely.
 In addition, integrated audio enhancement algorithms and scene-adaptive algorithms
 maximize overall system sound quality. Our adaptive power control audio chips primarily
 serve smartphones, smart wearables, and tablets.
-(cid:129) Compared to the adaptive power control audio chip series, portable power amplifier audio
+ Compared to the adaptive power control audio chip series, portable power amplifier audio
 chips incorporate current and voltage sensing. By monitoring speaker current and voltage
 data in real-time, portable power amplifier audio chips detect and controls the speaker with
 greater precision, establishing a complete closed-loop system. portable power amplifier
@@ -7520,13 +7520,13 @@ BUSINESS
 As of the Latest Practicable Date, our haptic driver product series, FS30, has been widely adopted
 in smartphones, smart wearables, tablets and gaming accessories. Our haptic driver series feature,
 among others, the followings:
-(cid:129) automatically detects motor resonance frequency and precisely matches motor
+ automatically detects motor resonance frequency and precisely matches motor
 characteristics;
-(cid:129) intelligent start-stop technology with activation/deactivation response;
-(cid:129) ultra-low power architecture featuring 1mA static current consumption;
-(cid:129) adaptive low-voltage algorithm enabling operation in UVLO conditions via low-voltage
+ intelligent start-stop technology with activation/deactivation response;
+ ultra-low power architecture featuring 1mA static current consumption;
+ adaptive low-voltage algorithm enabling operation in UVLO conditions via low-voltage
 mode; and
-(cid:129) multi-mode haptic feedback supporting conditional storage, and real-time operation
+ multi-mode haptic feedback supporting conditional storage, and real-time operation
 scenarios.
 We expanded our product offerings to haptic drivers to allow haptic feedback to enhance
 user-device interaction. The following table sets forth a detailed timeline of the development of our
@@ -7927,23 +7927,23 @@ are imposed to restrict key staff from joining competitors or engaging in confli
 prescribed period post-employment. Collectively, these measures are aimed to reduce the likelihood of
 departure among our key personnel and the potential adverse impact on our operations.
 The salient terms of the agreements with our management and technical staff are set out below.
-(cid:129) No conflict. During the employment, the employee shall not engage in any other job,
+ No conflict. During the employment, the employee shall not engage in any other job,
 whether full-time or part-time, without our written consent.
-(cid:129) Non-competition. We have the right to unilaterally initiate a non-competition period of up to
+ Non-competition. We have the right to unilaterally initiate a non-competition period of up to
 two years following the termination of employment. During the term of employment and the
 non-competition period initiated by us, the employee shall not engage in any competitive
 behavior.
-(cid:129) Non-solicitation. During the employment and for two years thereafter, the employee shall
+ Non-solicitation. During the employment and for two years thereafter, the employee shall
 not, directly or indirectly, solicit or attempt to solicit our current and former employees to
 leave their employment or solicit or otherwise influence our relationships with our customers
 or suppliers.
-(cid:129) Inventions arrangement. We own all rights, titles and interests (including patent rights,
+ Inventions arrangement. We own all rights, titles and interests (including patent rights,
 copyrights, trade secret rights and all other intellectual property rights of any sort throughout
 the world) relating to any and all inventions (whether or not patentable), designs, know-how,
 ideas and information made, conceived or reduced to practice, in whole or in part, by the
 employee during the term of the employment contract to the fullest extent allowed by
 applicable laws, and the employee shall promptly disclose all inventions to us.
-(cid:129) Proprietary information arrangement. All inventions and all other business, technical and
+ Proprietary information arrangement. All inventions and all other business, technical and
 financial information (including, without limitation, the identity of and information relating
 to customers or employees) the employee develops, learns or obtains during the term of the
 employment contract that relate to us or our business or demonstrably anticipated business,
@@ -7966,49 +7966,49 @@ conducted through trusted third parties.
 
 === PAGE 164 ===
 BUSINESS
-(cid:129) At the project initiation stage, we conduct a comprehensive evaluation of new project
+ At the project initiation stage, we conduct a comprehensive evaluation of new project
 feasibility from market, technical, operational and financial perspectives. We consider wafer
 fabrication processes, packaging requirements, and cost parameters, refine product
 specifications and perform IP searches and analysis to assess potential risks.
-(cid:129) At the design stage, our R&D personnel proceed with chip design which involves technical
+ At the design stage, our R&D personnel proceed with chip design which involves technical
 process node selection, cost-benefit analysis, competitive benchmarking, system architecture
 design, algorithm development and optimization, analog and digital circuit design and
 simulation, and physical implementation and verification. At this stage, we focus on
 optimizing product performance and quality and achieving innovation and improving our
 product to meet technical and market demands.
-(cid:129) At the verification stage, our supply chain personnel coordinate with the wafer foundry and
+ At the verification stage, our supply chain personnel coordinate with the wafer foundry and
 packaging service providers to produce chip samples. Once the samples are produced, they
 will go through functional and performance validation to ensure alignment with design
 expectations. Our personnel will evaluate product’s manufacturability and compliance with
 production requirements.
-(cid:129) Before entering the mass production stage, we provide ongoing technical support and
+ Before entering the mass production stage, we provide ongoing technical support and
 optimization, as well as managing quality control. We also develop specific application
 solutions aligned with the product characteristics. The product transitions to full-scale mass
 production only after it is confirmed that the product meets customer needs and the
 application solutions receive formal customer approval.
 Our Pipeline Research and Development Projects
 The following sets forth our general plan to continue to advance our technology development:
-(cid:129) Next-generation low-power audio chips: continuing our technological iterations based on
+ Next-generation low-power audio chips: continuing our technological iterations based on
 the existing FS15, FS18, and FS19 series to expand our low-power audio chip product
 portfolio. We are advancing technological iterations of our existing FS15, FS18, and FS19
 series by developing higher-voltage PA models, specifically the 12V-rated FS1985 series and
 15V-rated FS1986 series. These iterations enable increased output power beyond our current
 6.5V−10V portfolio, allowing us to address broader portable audio applications and expand
 into new end-product categories requiring enhanced performance.
-(cid:129) Haptic drivers: expanding the product lineup beyond the current FS3001 series to provide
+ Haptic drivers: expanding the product lineup beyond the current FS3001 series to provide
 more solution options for our customers that will be deployed in intelligent cabins. We are
 expanding our FS3001 series through high-voltage adaptive boost models (FS3002 and
 FS3003 series). This technological evolution extends our haptic solutions beyond
 smartphones, smartwatches, and gaming devices into automotive smart cabins, positioning us
 to capture opportunities in next-generation vehicle human-machine interfaces.
-(cid:129) Automotive-grade power amplifier audio chips: building on the FS5024 (Class D) series
+ Automotive-grade power amplifier audio chips: building on the FS5024 (Class D) series
 to develop additional variants, including Class AB audio chips and higher-rated voltage
 models to meet the rising voltage requirements of renewable energy vehicle infotainment
 systems. Building on our FS5024 series, we are developing two variants: the FS5024LE
 model for broader vehicle compatibility and the new Class AB audio chip FS5010 series.
 These iterations directly address rising voltage requirements in renewable energy vehicle
 infotainment systems and diversify our product coverage across automotive segments.
-(cid:129) New products: developing SAR sensor chips, which are used to measure the distance with
+ New products: developing SAR sensor chips, which are used to measure the distance with
 human bodies and the electromagnetic energy absorption ratio in smart portable devices such
 as smartphones to ensure electromagnetic safety. We believe SAR sensors are transitioning
 from optional to standard components in smartphones and other smart devices, creating a
@@ -8433,11 +8433,11 @@ distributors where the end customer typically requests standard, mature product 
 minimal customization and thus do not entail significant customization costs.
 The following sets out the rationale for each sales model. A distributor may be engaged for the
 following reasons:
-(cid:129) Delivery efficiency. Distributors bridge the operational gap between our long production
+ Delivery efficiency. Distributors bridge the operational gap between our long production
 cycle and our end customers’ dynamic, multi-regional production needs. Distributors
 purchase in more predictable quantities and maintain localized inventory, enabling flexible
 and timely deliveries.
-(cid:129) Credit risk management. Distributors assume the credit risk for sales to end customers,
+ Credit risk management. Distributors assume the credit risk for sales to end customers,
 allowing us to avoid credit risk exposure and reducing the administrative burden of credit
 control and collection. Our payment terms with distributors, typically requiring prepayment
 or offering only short credit periods, also ensure stable and predictable cash flow.
@@ -8445,7 +8445,7 @@ or offering only short credit periods, also ensure stable and predictable cash f
 
 === PAGE 169 ===
 BUSINESS
-(cid:129) Operational efficiency. Distributors manage high-volume order processing (invoicing,
+ Operational efficiency. Distributors manage high-volume order processing (invoicing,
 reconciliation, packing, shipping) and routine after-sales inquiries, tasks that would
 otherwise require a substantial customer service team. This allows us to focus our resources
 on research and development.
@@ -8458,16 +8458,16 @@ coverage.
 For direct sales, we fulfill orders directly to the customer following the same initial engagement,
 technical validation and trial supply process. We engage directly with certain end customers for the
 following reasons:
-(cid:129) Strategic relationship building. Direct engagement allows us to build deeper relationships
+ Strategic relationship building. Direct engagement allows us to build deeper relationships
 with major industry players, which supports long-term collaboration and helps us stay
 abreast of evolving market trends.
-(cid:129) Technical collaboration. Direct interaction with end customers’ technical teams enables us
+ Technical collaboration. Direct interaction with end customers’ technical teams enables us
 to better understand their specific requirements, adapt our algorithms and optimize product
 performance.
-(cid:129) Cross-selling opportunities. Our established direct relationships in the smartphone industry,
+ Cross-selling opportunities. Our established direct relationships in the smartphone industry,
 for example, enabled us to successfully cross-sell our haptic driver chips to key accounts
 following their 2023 launch.
-(cid:129) Expansion into new applications. When entering new sectors such as the automotive
+ Expansion into new applications. When entering new sectors such as the automotive
 industry, we directly target potential customers and adapt our solutions to their specific
 requirements throughout the technical validation phase.
 Our product requires our sales force to possess domain-specific competencies. We prioritize this
@@ -8535,17 +8535,17 @@ BUSINESS
 Principal terms of distribution agreements
 We typically enter into distribution agreements with our distributors. The following paragraphs set
 forth a summary of the salient terms of our arrangements with distributors.
-(cid:129) Term. The term of the distribution agreement is typically one to two years. Upon expiration
+ Term. The term of the distribution agreement is typically one to two years. Upon expiration
 of the prior term, we will renegotiate with distributors.
-(cid:129) Payment term. We generally require prepayments from our distributors before delivery,
+ Payment term. We generally require prepayments from our distributors before delivery,
 while we may grant credit term to certain distributors with good credit profile and/or
 collaborative relationship with us, with a credit term of typically two months.
-(cid:129) Sales amount and sales target. The distributors confirm the purchase amount with us in
+ Sales amount and sales target. The distributors confirm the purchase amount with us in
 written purchase orders specifying product model, specifications, quantity and total amount.
 We do not set sales target for distributors.
-(cid:129) Sub-distribution. Our distributors are not allowed to sub-distribute our products to other
+ Sub-distribution. Our distributors are not allowed to sub-distribute our products to other
 parties without our prior consent.
-(cid:129) Return and exchange. We allow returns and/or exchanges only under limited circumstances
+ Return and exchange. We allow returns and/or exchanges only under limited circumstances
 as specified in the agreement. We may allow return and/or exchange and bear associated
 transportation costs upon distributors’ timely notification of any discrepancy in product
 specifications, or compromised packaging rendering products commercially unusable at
@@ -8554,19 +8554,19 @@ Distributor management
 We have implemented certain measures to monitor and manage our distributors, including those
 on distributor selection, distributor training, authorized scope on geographical territories and product
 lines, restrictions on transfer, IP protection and measures on competition.
-(cid:129) Distributor selection measures and criteria. We adopt a multi-stage distributor selection
+ Distributor selection measures and criteria. We adopt a multi-stage distributor selection
 process to ensure that they align with our strategic objectives and comply with certain
 industry standards. We first identify potential distributors based on operational requirements,
 including technical capabilities, cost efficiency and quality benchmarks, followed by a
 review of technical, commercial, and quality documentation.
-(cid:129) Authorized scope on geographical territories and product lines. We unequivocally define
+ Authorized scope on geographical territories and product lines. We unequivocally define
 each distributors’ permitted geographic territories and product lines in contractual
 agreements, and distributors are not allowed to conduct business beyond the scope.
-(cid:129) Transfer restrictions. We prohibit distributors from transferring, assigning, or delegating
+ Transfer restrictions. We prohibit distributors from transferring, assigning, or delegating
 distribution rights to third parties without our prior written consent.
-(cid:129) IP protection. We refrain distributors from reproducing and modifying our products, as well
+ IP protection. We refrain distributors from reproducing and modifying our products, as well
 as reverse-engineering or infringing our intellectual property.
-(cid:129) Measures on competition. We restrict distributors from representing competing or
+ Measures on competition. We restrict distributors from representing competing or
 substantially similar products, or disclosing our product information or technical
 specifications to our competitors.
 – 162 –
@@ -8958,15 +8958,15 @@ agreements with suppliers.
 
 === PAGE 180 ===
 BUSINESS
-(cid:129) Term. The framework agreement is usually one-year or on an open-ended term.
-(cid:129) Prices. The agreements generally do not specify quantity and price, which we set out in
+ Term. The framework agreement is usually one-year or on an open-ended term.
+ Prices. The agreements generally do not specify quantity and price, which we set out in
 separate purchase orders.
-(cid:129) Payments. The purchase orders set out specific payment terms depending on the type of
+ Payments. The purchase orders set out specific payment terms depending on the type of
 products and/or services to be procured.
-(cid:129) Principal obligations. Suppliers are normally responsible for timely delivery and quality
+ Principal obligations. Suppliers are normally responsible for timely delivery and quality
 assurance of products or services. Generally, our suppliers are required to meet our specified
 quality requirements and are responsible for defects resulting from suppliers’ conduct.
-(cid:129) Termination. Either party may terminate with 30 days’written notice. Active purchase orders
+ Termination. Either party may terminate with 30 days’written notice. Active purchase orders
 remain valid until fulfillment.
 In addition, we enter into quality assurance agreements with certain suppliers to reinforce our
 quality control. Our Directors confirm that we had not experienced any material fluctuations in prices
@@ -9225,14 +9225,14 @@ classified.
 control over, or knowledge of, how end customers ultimately apply these chips.
 We are advancing our commercialization in newer applications, having commenced small-batch
 deliveries with orders pending mass production ramp-up.
-(cid:129) In the NEV market, we recognized revenue of RMB1.2 million from deliveries in 2025. We expect
+ In the NEV market, we recognized revenue of RMB1.2 million from deliveries in 2025. We expect
 to recognize revenue of approximately RMB0.6 million to RMB1.3 million in the first quarter of
 2026. Furthermore, we have begun supplying to a major automotive electronics supplier with over
 RMB10 billion in revenue in 2024, a global battery and automotive electronics provider, and other
 NEV component manufacturers since October 2025. We are also in preliminary pricing discussions
 with a large state-owned automobile manufacturer and have provided samples to another for
 product evaluation, with their mass production projects anticipated in 2026.
-(cid:129) For action cameras, we have partnered with a company in the global panoramic camera market.
+ For action cameras, we have partnered with a company in the global panoramic camera market.
 We recognized revenue of approximately RMB0.6 million from this application in 2025, with a
 gross profit margin of 27.8%. Furthermore, we have secured indicative orders totaling
 approximately RMB1.1 million for delivery in the first half of 2026.
@@ -9865,16 +9865,16 @@ measures and actions to rectify the non-compliance:
 
 === PAGE 198 ===
 BUSINESS
-(cid:129) we will immediately provide training to our human resources department to not enter into
+ we will immediately provide training to our human resources department to not enter into
 any arrangements with our employees for the waiver of social insurance contributions; and
-(cid:129) we will immediately designated our human resources department to review and monitor the
+ we will immediately designated our human resources department to review and monitor the
 reporting and contributions of social insurance and housing provident funds; and
-(cid:129) we will consult our PRC Legal Advisor on a regular basis for advice on relevant PRC laws
+ we will consult our PRC Legal Advisor on a regular basis for advice on relevant PRC laws
 and regulations to keep us abreast of relevant PRC laws and regulatory developments,
 including but not limited to PRC laws and regulations in relation to social insurance and
 housing provident funds, and will provide relevant employees with legal compliance
 trainings relating to the same; and
-(cid:129) in the event that competent government authorities require us to make the contributions to
+ in the event that competent government authorities require us to make the contributions to
 the social insurance and housing provident funds within a stipulated time period or make
 supplementary contributions and late fees, we will duly comply in a timely manner.
 As advised by our PRC Legal Advisor, with the current policies, provided that there are no
@@ -10098,13 +10098,13 @@ BUSINESS
 ESG Governance Structure
 We implemented a comprehensive formal ESG governance framework to ensure systematic
 oversight, strategic alignment, and effective operational execution. Under this structure:
-(cid:129) We established an integrated ESG management system to provide structured governance,
+ We established an integrated ESG management system to provide structured governance,
 informed decision-making, and coordinated implementation of relevant work. Our Board
 serves as the ultimate leadership and decision-making body for ESG matters. Our ESG team
 is responsible for the day-to-day management, coordination, and advancement of ESG
 initiatives. All employees are required to implement ESG-related tasks within their
 functions.
-(cid:129) The specific responsibilities of the relevant parties are as follows:
+ The specific responsibilities of the relevant parties are as follows:
 (1) Our Board is responsible for reviewing, approving, and overseeing our ESG
 management policies and approving our final ESG reports;
 (2) Our ESG team is responsible for incorporating the directives and guidance of our
@@ -10113,15 +10113,15 @@ managing the daily execution of ESG initiatives, and coordinating the preparatio
 ESG reports; and
 (3) All employees are responsible for implementing ESG tasks within their respective
 scope in accordance with our overall plan and providing regular updates on progress.
-(cid:129) When necessary, we may engage specialized consultants or professional parties in relevant
+ When necessary, we may engage specialized consultants or professional parties in relevant
 fields to provide expert recommendations for advancing our ESG initiatives.
-(cid:129) Our Directors are empowered to provide opinions and suggestions regarding the fulfillment
+ Our Directors are empowered to provide opinions and suggestions regarding the fulfillment
 of our ESG responsibilities. Our ESG team shall consolidate such feedback and submit
 actionable resolutions to our Board for deliberation.
-(cid:129) We integrate ESG responsibilities into the management and decision-making processes. For
+ We integrate ESG responsibilities into the management and decision-making processes. For
 major investment decisions, robust social impact assessments serve as an integral component
 of the decision-making framework for our Board.
-(cid:129) We plan to establish structured feedback mechanisms to ensure open and transparent
+ We plan to establish structured feedback mechanisms to ensure open and transparent
 dialogue with our Shareholders prior to the Listing. Where necessary, specific feedback and
 suggestions from our Shareholders may be collected through interviews, meetings, or
 surveys to facilitate and enable continuous improvement in our ESG performance.
@@ -10148,28 +10148,28 @@ business will be affected negatively.
 Strategies for Addressing ESG-related Risks
 We have adopted various strategies and measures to identify, assess, manage and mitigate ESG
 and climate-related risks, including but not limited to:
-(cid:129) reviewing and evaluating ESG reports of our company and comparable companies to identify
+ reviewing and evaluating ESG reports of our company and comparable companies to identify
 potential ESG-related risks in a timely manner.
-(cid:129) hosting meetings with our management team regularly to identify and report relevant ESG
+ hosting meetings with our management team regularly to identify and report relevant ESG
 materials.
-(cid:129) setting up warning systems for ESG-related risks, including the monitoring of threshold
+ setting up warning systems for ESG-related risks, including the monitoring of threshold
 numbers in relation to carbon emissions
 The following sets forth our ESG-related measures to mitigate negative impact on our business,
 strategy and financial planning:
-(cid:129) To mitigate the negative impact of our suppliers’ business operations, we enforce
+ To mitigate the negative impact of our suppliers’ business operations, we enforce
 environmental standards through binding supplier environmental agreements, requiring
 suppliers to restrict hazardous substances in all delivered products, remove banned chemicals
 from packaging materials, and prohibit controlled additives in manufacturing processes. We
 believe such requirements ensure full compliance with the latest environmental regulations
 in all of our target markets.
-(cid:129) To mitigate the negative impact of our suppliers’ business operations, we verify
+ To mitigate the negative impact of our suppliers’ business operations, we verify
 environmental compliance by requiring accredited laboratory test reports for all
 supplier-manufactured products. These reports must verify the absence of (1) prohibited
 metals, including cadmium (Cd), lead (Pb), mercury (Hg) and hexavalent chromium
 (Hex-Cr), (2) restricted halogens, including bromine (Br) and chlorine (Cl), and volatile
 organic compounds. This protocol ensures full compliance with environmental protection
 standards.
-(cid:129) To mitigate the negative impact of our corporate office and employee operations, we
+ To mitigate the negative impact of our corporate office and employee operations, we
 implement active operational measures to reduce emissions, including (1) encouraging and
 enforcing paperless operations, (2) auditing electronics shutdown for unused devices, and (3)
 keeping the office temperature within the energy-saving range. In addition, we embed
@@ -10228,21 +10228,21 @@ policies as necessary.
 Energy Conservation Initiatives
 We actively engage in energy conservation initiatives as part of our commitment to contributing to
 societal environmental preservation efforts. Our initiatives include:
-(cid:129) Product Efficiency: we aim to design energy-efficient products to reduce overall power
+ Product Efficiency: we aim to design energy-efficient products to reduce overall power
 consumption during use;
-(cid:129) Water Conservation: we enhance water conservation practices by promoting responsible
+ Water Conservation: we enhance water conservation practices by promoting responsible
 usage;
-(cid:129) Electricity saving: in the workplace, we implement the principle of “lights off when not in
+ Electricity saving: in the workplace, we implement the principle of “lights off when not in
 use” to minimize unnecessary electricity consumption during operations;
 – 196 –
 
 === PAGE 206 ===
 BUSINESS
-(cid:129) Paper saving: we promote paper-saving practices by adopting electronic office processes to
+ Paper saving: we promote paper-saving practices by adopting electronic office processes to
 reduce paper usage and ensure proper paper recycling;
-(cid:129) Green commuting: we encourage employees to adopt green and low-carbon commuting
+ Green commuting: we encourage employees to adopt green and low-carbon commuting
 practices, such as using public transportation; and
-(cid:129) Facility Optimization: we regulate air-conditioning temperatures in our office space to
+ Facility Optimization: we regulate air-conditioning temperatures in our office space to
 minimize energy waste and improve operational efficiency.
 Corporate Social Responsibility
 We are committed to being responsible corporate citizens, continuously fulfilling corporate social
@@ -10901,10 +10901,10 @@ IFRSs, we also use adjusted loss (non-IFRS measure) as an additional financial m
 required by, or presented in accordance with, IFRSs.
 We define adjusted loss (non-IFRS measure) as loss, excluding share-based payments and listing
 expenses. We have made the following adjustment consistently during the Track Record Period.
-(cid:129) Share-based payments represent the non-cash employee benefit expenses incurred in
+ Share-based payments represent the non-cash employee benefit expenses incurred in
 connection with our award to key employees. Such expenses in any specific period are not
 expected to result in future cash payments.
-(cid:129) Listing expenses represent the costs incurred in connection with our initial public offering
+ Listing expenses represent the costs incurred in connection with our initial public offering
 on the Hong Kong Stock Exchange. Such expenses in any specific period are not expected to
 result in future cash payments after completion of the listing process.
 – 211 –
@@ -11530,7 +11530,7 @@ Revenue
 Our revenue remained relatively stable at RMB288.8 million for the ten months ended October 31,
 2024 and RMB280.8 million for the ten months ended October 31, 2025, primarily due to reasons
 below.
-(cid:129) Low-power audio chips. Our revenue from low-power audio chips remained relatively
+ Low-power audio chips. Our revenue from low-power audio chips remained relatively
 stable at RMB260.8 million for the ten months ended October 31, 2024 and RMB255.5
 million for the ten months ended October 31, 2025, primarily due to a decrease in revenue
 from portable power amplifier audio chips from RMB114.7 million in the ten months ended
@@ -11538,12 +11538,12 @@ October 31, 2024 to RMB110.5 million in the ten months ended October 31, 2025, d
 the lowered sales volume which declined to approximately 92.6 million units in the ten
 months ended October 31, 2025 from 93.4 million units in the ten months ended October 31,
 2024.
-(cid:129) Mid/high-power audio chips. Our revenue from mid/high-power audio chips decreased by
+ Mid/high-power audio chips. Our revenue from mid/high-power audio chips decreased by
 12.8% from RMB23.6 million for the ten months ended October 31, 2024 to RMB20.6
 million for the ten months ended October 31, 2025, primarily due to a decrease in revenue
 from our FS2105 series products resulting from a deliberate strategic reallocation of
 resources towards the R&D and promotion of newer models.
-(cid:129) Haptic drivers. Our revenue from haptic drivers decreased by 13.4% from RMB4.3 million
+ Haptic drivers. Our revenue from haptic drivers decreased by 13.4% from RMB4.3 million
 for the ten months ended October 31, 2024 to RMB3.7 million for the ten months ended
 October 31, 2025, primarily due to a decrease in sales volume. This decline was mainly
 because we directed more resources to promoting new haptic driver models, such as the
@@ -11567,7 +11567,7 @@ with a lower cost structure. Our gross profit margin increased from 13.4% for th
 October 31, 2024 to 20.0% for the ten months ended October 31, 2025, primarily driven by effective
 cost control, which reduced raw material prices and processing fees, coupled with a favorable shift in
 product metrics towards higher-margin PA audio chip products.
-(cid:129) Low-power audio chips. Our gross profit from low-power audio chips increased by 54.5%
+ Low-power audio chips. Our gross profit from low-power audio chips increased by 54.5%
 from RMB32.3 million for the ten months ended October 31, 2024 to RMB50.0 million for
 the ten months ended October 31, 2025, primarily due to a reduction in the cost structure of
 our adaptive power control audio chips achieved through product iteration, declining raw
@@ -11575,11 +11575,11 @@ material and procurement costs, the realization of economies of scale as busines
 combined with a higher revenue contribution from the higher-margin PA audio chip product
 category, collectively driving an increase in the overall gross profit margin for our
 low-power audio chips.
-(cid:129) Mid/high-power audio chips. Our gross profit from mid/high-power audio chips decreased
+ Mid/high-power audio chips. Our gross profit from mid/high-power audio chips decreased
 by 24.4% from RMB6.2 million for the ten months ended October 31, 2024 to RMB4.7
 million for the ten months ended October 31, 2025, primarily due to the corresponding
 revenue decrease, especially the decrease in revenue generated from the FS2105 series.
-(cid:129) Haptic drivers. Our gross profit for haptic drivers decreased by 16.7% from RMB2.8
+ Haptic drivers. Our gross profit for haptic drivers decreased by 16.7% from RMB2.8
 million in the ten months ended October 31, 2024 to RMB2.3 million in the ten months
 ended October 31, 2025, primarily due to the corresponding revenue decrease.
 Other income and gains
@@ -11643,7 +11643,7 @@ Year Ended December 31, 2024 Compared to Year Ended December 31, 2023
 Revenue
 Our revenue increased significantly from RMB150.3 million in 2023 to RMB355.2 million in
 2024, primarily due to the increase in revenue from all product lines for the reasons discussed below.
-(cid:129) Low-power audio chips. Our revenue from low-power audio chips increased significantly
+ Low-power audio chips. Our revenue from low-power audio chips increased significantly
 from RMB140.6 million in 2023 to RMB322.9 million in 2024, primarily because (i) our
 revenue from adaptive power control audio chip increased by 65.1% from RMB104.4 million
 in 2023 to RMB172.3 million in 2024, and (ii) our revenue from portable power amplifier
@@ -11655,19 +11655,19 @@ adaptive power control audio chips increased from approximately 186.7 million un
 chips increased significantly from approximately 27.6 million units in 2023 to approximately
 121.4 million units in 2024, with growth primarily fueled by an enriched and diversified
 product portfolio under our low-power audio chip series.
-(cid:129) Mid/high-power audio chips. Our revenue from mid/high-power audio chips increased
+ Mid/high-power audio chips. Our revenue from mid/high-power audio chips increased
 significantly from RMB8.7 million in 2023 to RMB26.7 million in 2024, primarily, as the sales
 volume of mid/high-power audio chips increased from approximately 3.3 million units in 2023
 to approximately 11.7 million units in 2024, as our mid/high-power audio chips gradually
 gained broader market recognition and momentum following its initial launch in 2021, further
 strengthening our market position in the smart display segment.
-(cid:129) Haptic drivers. Our revenue from haptic drivers increased significantly from RMB1.0
+ Haptic drivers. Our revenue from haptic drivers increased significantly from RMB1.0
 million in 2023 to RMB5.3 million in 2024, primarily as the sales volume of haptic drivers
 increased from approximately 1.0 million units in 2023 to approximately 5.8 million units in
 2024, primarily driven by effective cross-selling through our established customer base and
 market coverage in power amplifier audio chips, which generated strong sales momentum for
 haptic drivers, following the commercialization in 2023.
-(cid:129) Others. We started to generate revenue from other products in 2024 and recognized revenue
+ Others. We started to generate revenue from other products in 2024 and recognized revenue
 from power management chips of RMB0.2 million in 2024.
 Cost of sales
 Our cost of sales increased significantly from RMB150.4 million in 2023 to RMB308.6 million in
@@ -11697,7 +11697,7 @@ power, and reduced procurement costs; (2) revenue growth significantly outpaced 
 sales, supported by strong sales of portable power amplifier audio chips, which had higher gross profit
 margin compared to adaptive power control audio chips; and (3) a richer product portfolio with a higher
 proportion of high-margin offerings.
-(cid:129) Low-power audio chips. Our gross profit from low-power audio chips (before
+ Low-power audio chips. Our gross profit from low-power audio chips (before
 impairment losses on inventories) increased significantly from RMB3.9 million in 2023
 to RMB40.9 million in 2024, and our gross profit margin for low-power audio chips
 increased from 2.7% in 2023 to 12.7% in 2024, primarily due to the increases in gross
@@ -11707,7 +11707,7 @@ profit margin of both our adaptive power control audio chips from 1.5% in 2023 t
 enhanced supply chain stability, which lowered our materials and processing cost; (ii) a
 higher sales contribution from portable power amplifier audio chips, which had
 relatively high gross profit margins compared to adaptive power control audio chips.
-(cid:129) Mid/high-power audio chips. Our gross profit from mid/high-power audio chips increased
+ Mid/high-power audio chips. Our gross profit from mid/high-power audio chips increased
 by 44.8% from RMB3.3 million in 2023 to RMB4.8 million in 2024, primarily due to the
 rapid increase in sales volume from approximately 3.3 million in 2023 to 11.7 million in
 2024, driven by our overall business growth in 2024. Our gross profit margin for
@@ -11723,12 +11723,12 @@ remained stable at approximately RMB3.00 and RMB3.05 in 2023 and 2024, respectiv
 This deliberate shift in product mix led to a lower overall ASP for this product category.
 This competitive pricing strategy was a proactive promotional measure for our product
 transition and was not a reaction to intense price competition from rivals in the market.
-(cid:129) Haptic drivers. Our gross profit from haptic drivers increased significantly from RMB0.5
+ Haptic drivers. Our gross profit from haptic drivers increased significantly from RMB0.5
 million in 2023 to RMB3.5 million in 2024, primarily driven by our overall business growth
 in 2024. Our gross profit margin for haptic drivers increased from 52.6% in 2023 to 64.7%
 in 2024, primarily because our haptic drivers were newly launched in 2023 which initial
 margin was not indicative.
-(cid:129) Others. We recorded gross profit from power management chip products of RMB39
+ Others. We recorded gross profit from power management chip products of RMB39
 thousand and gross profit margin of 15.7% in 2024.
 Other income and gains
 Our other income and gains increased by 20.2% from RMB8.0 million in 2023 to RMB9.6 million
@@ -11781,7 +11781,7 @@ primarily due to the increase in revenue from all product lines for the reasons 
 
 === PAGE 234 ===
 FINANCIAL INFORMATION
-(cid:129) Low-power audio chips. Our revenue from low-power audio chips increased by 11.3% from
+ Low-power audio chips. Our revenue from low-power audio chips increased by 11.3% from
 RMB126.4 million in 2022 to RMB140.6 million in 2023, primarily because our revenue
 from adaptive power control audio chips increased by 26.5% from RMB82.5 million in 2022
 to RMB104.4 million in 2023, underpinned by strong sales volume expansion of our
@@ -11795,13 +11795,13 @@ competition in the power amplifier audio chip sector, successfully driving a not
 in sales volume, particularly for our low-power audio chips. While the pricing adjustment
 temporarily impacted our gross margin, it significantly reinforced our competitive
 positioning indicated by our increased sales volume.
-(cid:129) Mid/high-power audio chips. Our revenue from mid/high-power audio chips increased
+ Mid/high-power audio chips. Our revenue from mid/high-power audio chips increased
 significantly from RMB4.0 million in 2022 to RMB8.7 million in 2023, primarily due to the
 increases in both our sales volume from approximately 1.8 million units in 2022 to
 approximately 3.3 million units in 2023 and the average selling price from RMB2.23 per
 unit in 2022 to RMB2.65 per unit in 2023, reflecting our established technical advantages
 and enhanced business relationship with brand customers.
-(cid:129) Haptic drivers. We started to generate revenue from haptic drivers in 2023 and recognized
+ Haptic drivers. We started to generate revenue from haptic drivers in 2023 and recognized
 revenue from haptic drivers of RMB1.0 million in 2023.
 Cost of sales
 Our cost of sales increased by 24.5% from RMB120.8 million in 2022 to RMB150.4 million in
@@ -11814,7 +11814,7 @@ attributable to a strategic initiative to accelerate market share growth through
 pricing strategy in response to intensifying competition in the power amplifier audio chip sector. As a
 result, our revenue increased from RMB130.3 million in 2022 to RMB150.3 million in 2023, and
 further increased to RMB355.2 million in 2024.
-(cid:129) Low-power audio chips. Our gross profit from and gross profit margin for low-power audio
+ Low-power audio chips. Our gross profit from and gross profit margin for low-power audio
 chips (before impairment losses on inventories) decreased significantly from RMB21.5
 million and 17.0% in 2022 to RMB3.9 million and 2.7% in 2023, respectively, primarily due
 to our decreased average selling price of adaptive power control audio chips from RMB0.91
@@ -11822,7 +11822,7 @@ per unit to RMB0.56 per unit, and our decreased average selling price of portabl
 amplifier audio chips from RMB1.70 per unit to RMB1.31 per unit. This downward was
 mainly attributable to our strategic adoption of a relatively more competitive pricing
 approach to prioritize market share expansion.
-(cid:129) Mid/high-power audio chips. Our mid/high-power audio chips realized a significant
+ Mid/high-power audio chips. Our mid/high-power audio chips realized a significant
 increased from a gross loss of RMB29 thousand in 2022 to a gross profit of RMB3.3 million
 in 2023. Our gross profit margin for mid/high-power audio chips increased to 38.5%. The
 growth was primarily due to (i) the relatively high cost during the initial trial production
@@ -11833,7 +11833,7 @@ brand customers.
 
 === PAGE 235 ===
 FINANCIAL INFORMATION
-(cid:129) Haptic drivers. Our gross profit from haptic drivers was RMB0.5 million and gross profit
+ Haptic drivers. Our gross profit from haptic drivers was RMB0.5 million and gross profit
 margin for haptic drivers was 52.6% in 2023.
 Other income and gains
 Our other income and gains decreased by 21.3% from RMB10.1 million in 2022 to RMB8.0
@@ -13731,7 +13731,7 @@ Share (being the mid-point of the indicative range of the Offer Price of HK$40.0
 Offer Share), without the exercise of the Over-allotment Option.
 We currently intend to use the net proceeds from the Global Offering for the purposes and in the
 amounts as set out below:
-(cid:129) approximately 46.8% of the net proceeds, or HK$224.6 million, will be used for establishing
+ approximately 46.8% of the net proceeds, or HK$224.6 million, will be used for establishing
 a new research and development center to enhance our R&D capabilities and technological
 competitiveness for power amplifier audio chips over the next five years. Specifically, we
 plan to use:
@@ -13792,7 +13792,7 @@ such as photomasks; and
 (6) approximately 0.7% of the net proceeds, or HK$3.4 million, to purchase servers and
 other hardware infrastructures mainly used for R&D data processing and storage and
 for daily business operations, to better support research and development;
-(cid:129) approximately 17.8% of the net proceeds, or HK$85.5 million, for procurement of automatic
+ approximately 17.8% of the net proceeds, or HK$85.5 million, for procurement of automatic
 testing equipment and for construction of an in-house automatic testing verification line, as
 well as recruiting supply chain managing engineers. Specifically, we plan to use:
 (1) approximately 16.2% of the net proceeds, or HK$77.9 million, to purchase automatic
@@ -13812,7 +13812,7 @@ approximately five, eight, 10 and 15 of the aforementioned devices in 2026, 2027
 (2) approximately 1.6% of the net proceeds, or HK$7.6 million, to recruit and train
 approximately 12 specialized engineers for our supply chain quality management in
 total over the next five years;
-(cid:129) approximately 17.3% of the net proceeds, or HK$83.3 million, to pursue strategic
+ approximately 17.3% of the net proceeds, or HK$83.3 million, to pursue strategic
 acquisitions and partnerships to enhance our industry integration and strengthen our position
 in the power amplifier audio chip industry. We seek potential investment and acquisition
 opportunities in both domestic and international markets, aim to expand our product
@@ -13831,7 +13831,7 @@ with respect to any potential target. We intend to pursue horizontal acquisition
 the range or models of chips available for sale, aiming to achieve cross-selling within our
 existing customer base. We plan to acquire a majority stake to secure control in such
 transactions;
-(cid:129) approximately 8.1% of the net proceeds, or HK$38.9 million, for the marketing and sales of
+ approximately 8.1% of the net proceeds, or HK$38.9 million, for the marketing and sales of
 products. Specifically, we plan to use:
 (1) approximately 4.8%, or HK$22.9 million to hire approximately 32 sales personnel in
 total, with a majority of them based in mainland China, over the next four years, to
@@ -13843,7 +13843,7 @@ providing after-sales services post-delivery; and
 (2) approximately 3.3%, or HK$16.0 million for marketing initiatives, including launching
 promotion campaigns, and participating in exhibitions and forums to further enhance
 our brand awareness; and
-(cid:129) approximately 10.0% of the net proceeds, or HK$48.0 million, for working capital and other
+ approximately 10.0% of the net proceeds, or HK$48.0 million, for working capital and other
 general corporate purposes.
 The above allocation of the proceeds will be adjusted on a pro rata basis in the event that the
 Offer Price is fixed below or above the mid-point of the indicative price range. We will receive net
@@ -14487,10 +14487,10 @@ STRUCTURE OF THE GLOBAL OFFERING
 THE GLOBAL OFFERING
 This prospectus is published in connection with the Hong Kong Public Offering as part of the
 Global Offering. The Global Offering comprises:
-(cid:129) the Hong Kong Public Offering of initially 600,000 Offer Shares (subject to reallocation as
+ the Hong Kong Public Offering of initially 600,000 Offer Shares (subject to reallocation as
 mentioned below) in Hong Kong as described below in the paragraph headed “The Hong
 Kong Public Offering”; and
-(cid:129) the International Offering of initially 11,400,000 Offer Shares (subject to reallocation and
+ the International Offering of initially 11,400,000 Offer Shares (subject to reallocation and
 the Over-Allotment Option as described below) outside the United States (including to
 professional, institutional and corporate investors and other investors anticipated to have a
 sizeable demand for the Offer Shares in Hong Kong) in offshore transactions in reliance on
@@ -14535,11 +14535,11 @@ For allocation purposes only, the total number of Offer Shares available under t
 Public Offering is to be divided equally into two pools (subject to the reallocation of the Offer Shares
 between the Hong Kong Public Offering and the International Offering referred to below) (with any odd
 board lots being allocated to pool A):
-(cid:129) Pool A: The Hong Kong Offer Shares in pool A will be allocated on an equitable basis to
+ Pool A: The Hong Kong Offer Shares in pool A will be allocated on an equitable basis to
 applicants who have applied for the Hong Kong Offer Shares with an aggregate subscription
 price of HK$5 million or less (excluding brokerage, SFC transaction levy, AFRC transaction
 levy and Stock Exchange trading fee payable); and
-(cid:129) Pool B: The Hong Kong Offer Shares in pool B will be allocated on an equitable basis to
+ Pool B: The Hong Kong Offer Shares in pool B will be allocated on an equitable basis to
 applicants who have applied for the Hong Kong Offer Shares with an aggregate subscription
 price of more than HK$5 million and up to the value of pool B (excluding brokerage, SFC
 transaction levy, AFRC transaction levy and Stock Exchange trading fee payable).
@@ -14705,23 +14705,23 @@ market price of our H Shares, (v) selling or agreeing to sell any H Shares in or
 position established as a result of those purchases, and (vi) offering or attempting to do anything as
 described in (ii), (iii), (iv) or (v) above.
 Specifically, prospective applicants for and investors in H Shares should note that:
-(cid:129) the Stabilizing Manager (or its affiliates or any person acting for it) may, in connection with
+ the Stabilizing Manager (or its affiliates or any person acting for it) may, in connection with
 the stabilizing action, maintain a long position in the H Shares;
-(cid:129) there is no certainty as to the extent to which and the time or period for which the
+ there is no certainty as to the extent to which and the time or period for which the
 Stabilizing Manager (or its affiliates or any person acting for it) will maintain such a long
 position;
-(cid:129) liquidation of any such long position by the Stabilizing Manager (or its affiliates or any
+ liquidation of any such long position by the Stabilizing Manager (or its affiliates or any
 person acting for it) and selling in the open market may have an adverse impact on the
 market price of the H Shares;
-(cid:129) no stabilizing action can be taken to support the price of the H Shares for longer than the
+ no stabilizing action can be taken to support the price of the H Shares for longer than the
 stabilizing period, which will begin on the Listing Date and is expected to expire on
 Saturday, April 25, 2026, being the 30th day after the last day for lodging applications under
 the Hong Kong Public Offering. After this date, when no further action may be taken to
 support the price of the H Shares, demand for the H Shares, and therefore the price of the H
 Shares, could fall;
-(cid:129) the price of the H Shares cannot be assured to stay at or above the Offer Price by the taking
+ the price of the H Shares cannot be assured to stay at or above the Offer Price by the taking
 of any stabilizing action; and
-(cid:129) stabilizing bids or transactions effected in the course of the stabilizing action may be made
+ stabilizing bids or transactions effected in the course of the stabilizing action may be made
 at any price at or below the Offer Price, which means that stabilizing bids or transactions
 effected may be made at a price below the price paid by applicants for, or investors in, the
 Offer Shares.
@@ -14807,14 +14807,14 @@ expected to be made available in a variety of channels in the manner described i
 Hong Kong Offer Shares—B. Publication of Results”.
 CONDITIONS OF THE GLOBAL OFFERING
 Acceptance of all applications for Offer Shares is conditional on:
-(cid:129) the Listing Committee granting approval for the listing of, and permission to deal in our H
+ the Listing Committee granting approval for the listing of, and permission to deal in our H
 Shares in issue and to be issued as described in this prospectus (including the Offer Shares
 which may be issued pursuant to the exercise of the Over-allotment Option);
-(cid:129) the Offer Price having been agreed between us and the Overall Coordinators (for themselves
+ the Offer Price having been agreed between us and the Overall Coordinators (for themselves
 and on behalf of the Underwriters);
-(cid:129) the execution and delivery of the International Underwriting Agreement on or about the
+ the execution and delivery of the International Underwriting Agreement on or about the
 Price Determination Date; and
-(cid:129) the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
+ the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
 Agreement and the obligations of the International Underwriters under the International
 Underwriting Agreement becoming unconditional and not having been terminated in
 accordance with the terms of the respective agreements,
@@ -14883,12 +14883,12 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you are
 applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the White Form eIPO service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the White Form eIPO service only).
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Offer Shares if you
 or the person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or close associates; or
-(cid:129) are a Director, supervisor or any of his/her close associates.
+ are an existing Shareholder or close associates; or
+ are a Director, supervisor or any of his/her close associates.
 2. Application Channels
 The Hong Kong Public Offering period will begin at 9:00 a.m. on Monday, March 23, 2026 and
 end at 12:00 noon on Thursday, March 26, 2026 (Hong Kong time).
@@ -14955,17 +14955,17 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 ForIndividual/JointApplicants ForCorporateApplicants
-(cid:129) Full name(s)2 as shown on your identity (cid:129) Full name(s)2 as shown on your identity
+ Full name(s)2 as shown on your identity Full name(s)2 as shown on your identity
 document document
-(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
+ Identity document’s issuing country or Identity document’s issuing country or
 jurisdiction jurisdiction
-(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
+ Identity document type, with order of Identity document type, with order of
 priority: priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification document; or ii. Certificate of incorporation; or
 iii. Passport; and iii. Business registration certificate; or
-(cid:129) Identity document number iv. Other equivalent document; and
-(cid:129) Identity document number
+ Identity document number iv. Other equivalent document; and
+ Identity document number
 1. If you are applying through the White Form eIPO service, you are required to provide a valid e-mail address, a contact
 telephonenumberandaHongKongaddress.Youarealsorequiredtodeclarethattheidentityinformationprovidedbyyou
 follows the requirements as described in Note 2 below. In particular, where you cannot provide a HKID number, you must
@@ -14991,9 +14991,9 @@ you exercise statutory control over that company, then the application will be t
 should provide the required information in your application as stated above
 “Unlistedcompany”meansacompanywithnoequitysecuritieslistedontheStockExchangeoranyotherstockexchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhichcarriesnorightto
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhichcarriesnorightto
 participate beyond a specified amount in a distribution of either profits or capital).
 For those applying through HKSCC EIPO channel, and making an application under a power of
 attorney, we and the Overall Coordinators, as our agent, have discretion to consider whether to accept it
@@ -15222,17 +15222,17 @@ without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not grant
 permission to list the H Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that longer
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that longer
 period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications. You may refer to “—A.
+ you make multiple applications or suspected multiple applications. You may refer to “—A.
 Application for Hong Kong Offer Shares—5. Multiple Applications Prohibited” on what
 constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we would
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Overall Coordinators believe that by accepting your application, it or we would
 violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted H Shares
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC Participants will
@@ -15318,9 +15318,9 @@ SevereWeatherArrangements”.
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Thursday, March 26, 2026 if, there is/are:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) an “extreme conditions” announcement issued after a super typhoon (“Extreme
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ an “extreme conditions” announcement issued after a super typhoon (“Extreme
 Conditions”), (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Thursday, March 26, 2026.
 Instead they will open between 11:45 a.m. and 12:00 noon and/or close at 12:00 noon on the next
@@ -15389,23 +15389,23 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for the
 following purposes:
-(cid:129) processing your application and refund cheque and White Form e-Refund payment
+ processing your application and refund cheque and White Form e-Refund payment
 instruction(s), where applicable, verification of compliance with the terms and application
 procedures set out in this prospectus and announcing results of allocation of Hong Kong
 Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the H Shares
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the H Shares
 including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the H Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the H Shares and identifying any
 duplicate applications for the H Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the H Shares, such as dividends, rights issues,
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the H Shares, such as dividends, rights issues,
 bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the H Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable the
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the H Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to enable the
 Company and the H Share Registrar to discharge their obligations to applicants and holders
 of the H Shares and/or regulators and/or any other purposes to which applicants and holders
 of the H Shares may from time to time agree.
@@ -15414,21 +15414,21 @@ Personal data held by the Company and the H Share Registrar relating to the appl
 holders of Hong Kong Offer Shares will be kept confidential but the Company and the H Share
 Registrar may, to the extent necessary for achieving any of the above purposes, disclose, obtain or
 transfer (whether within or outside Hong Kong) the personal data to, from or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving banks and overseas
+ the Company’s appointed agents such as financial advisers, receiving banks and overseas
 principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the personal
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the personal
 data to the H Share Registrar, in each case for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and operating
 FINI and CCASS (including where applicants for the Hong Kong Offer Shares request a
 deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H Share
 Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies or
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies or
 otherwise as required by laws, rules or regulations, including for the purpose of the Stock
 Exchange’s administration of the Listing Rules and the SFC’s performance of its statutory
 functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have or
+ any persons or institutions with which the holders of Hong Kong Offer Shares have or
 propose to have dealings, such as their bankers, solicitors, accountants or brokers, etc.
 – 300 –
 
@@ -16272,8 +16272,8 @@ Derecognition of financial assets
 A financial asset (or, where applicable, a part of a financial asset or part of a group of similar
 financial assets) is primarily derecognised (i.e., removed from the Group’s consolidated statement of
 financial position) when:
-(cid:129) the rights to receive cash flows from the asset have expired; or
-(cid:129) the Group has transferred its rights to receive cash flows from the asset or has assumed an
+ the rights to receive cash flows from the asset have expired; or
+ the Group has transferred its rights to receive cash flows from the asset or has assumed an
 obligation to pay the received cash flows in full without material delay to a third party under
 a “pass-through” arrangement; and either (a) the Group has transferred substantially all the
 risks and rewards of the asset, or (b) the Group has neither transferred nor retained
@@ -16441,22 +16441,22 @@ Deferred tax is provided, using the liability method, on all temporary differenc
 reporting period between the tax bases of assets and liabilities and their carrying amounts for financial
 reporting purposes.
 Deferred tax liabilities are recognised for all taxable temporary differences, except:
-(cid:129) when the deferred tax liability arises from the initial recognition of goodwill or an asset or
+ when the deferred tax liability arises from the initial recognition of goodwill or an asset or
 liability in a transaction that is not a business combination and, at the time of the
 transaction, affects neither the accounting profit nor taxable profit or loss and does not give
 rise to equal taxable and deductible temporary differences; and
-(cid:129) in respect of taxable temporary differences associated with investments in subsidiaries, when
+ in respect of taxable temporary differences associated with investments in subsidiaries, when
 the timing of the reversal of the temporary differences can be controlled and it is probable
 that the temporary differences will not reverse in the foreseeable future.
 Deferred tax assets are recognised for all deductible temporary differences, and the carryforward
 of unused tax credits and any unused tax losses. Deferred tax assets are recognised to the extent that it
 is probable that taxable profit will be available against which the deductible temporary differences, and
 the carryforward of unused tax credits and unused tax losses can be utilised, except:
-(cid:129) when the deferred tax asset relating to the deductible temporary differences arises from the
+ when the deferred tax asset relating to the deductible temporary differences arises from the
 initial recognition of an asset or liability in a transaction that is not a business combination
 and, at the time of the transaction, affects neither the accounting profit nor taxable profit or
 loss and does not give rise to equal taxable and deductible temporary differences; and
-(cid:129) in respect of deductible temporary differences associated with investments in subsidiaries,
+ in respect of deductible temporary differences associated with investments in subsidiaries,
 deferred tax assets are only recognised to the extent that it is probable that the temporary
 differences will reverse in the foreseeable future and taxable profit will be available against
 which the temporary differences can be utilised.
@@ -18929,8 +18929,8 @@ been properly compiled on the basis of the applicable criteria involves performi
 whether the applicable criteria used by the Directors in the compilation of the Pro Forma Financial
 Information provide a reasonable basis for presenting the significant effects directly attributable to the
 transaction, and to obtain sufficient appropriate evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the Pro Forma Financial Information reflects the proper application of those adjustments to
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the Pro Forma Financial Information reflects the proper application of those adjustments to
 the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgment, having regard to the
 reporting accountants’ understanding of the nature of the Group, the transaction in respect of which the
@@ -19538,15 +19538,15 @@ LOSS FOR THE YEAR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (59,
 Revenue
 Our revenue remained relatively stable at RMB355.2 million in 2024 and RMB365.7 million in
 2025, primarily due to the reasons below.
-(cid:129) Low-power audio chips. Our revenue from low-power audio chips increased slightly from
+ Low-power audio chips. Our revenue from low-power audio chips increased slightly from
 RMB322.9 million in 2024 to RMB329.5 million in 2025, primarily due to an increase in
 revenue from adaptive power control audio chips from RMB172.3 million in 2024 to
 RMB184.7 million in 2025.
-(cid:129) Mid/high-power audio chips. Our revenue from mid/high-power audio chips decreased
+ Mid/high-power audio chips. Our revenue from mid/high-power audio chips decreased
 slightly from RMB26.7 million in 2024 to RMB26.5 million in 2025, primarily due to a
 decrease in revenue from our FS2105 series products resulting from a deliberate strategic
 reallocation of resources towards the R&D and promotion of newer models.
-(cid:129) Haptic drivers. Our revenue from haptic drivers increased by 60.8% from RMB5.3 million
+ Haptic drivers. Our revenue from haptic drivers increased by 60.8% from RMB5.3 million
 in 2024 to RMB8.6 million in 2025, primarily because the increased sales volume as we
 strategically directed more resources to promoting new haptic driver models, such as the
 FS3002 series, to expand our portfolio of available haptic driver models.
@@ -19568,17 +19568,17 @@ the introduction of products with a lower cost structure. Our gross profit margi
 in 2024 to 20.8% in 2025, primarily driven by the improved economies of scale and reductions in chip
 size, as well as effective cost control, which reduced raw material prices and processing fees, coupled
 with a favorable shift in product metrics towards higher-margin PA audio chip products.
-(cid:129) Low-power audio chips. Our gross profit from low-power audio chips increased by 66.8%
+ Low-power audio chips. Our gross profit from low-power audio chips increased by 66.8%
 from RMB40.9 million in 2024 to RMB68.2 million in 2025, primarily due to a reduction in
 the cost structure of our adaptive power control audio chips achieved through product
 iteration, declining raw material and procurement costs, the realization of economies of scale
 as business expanded, combined with a higher revenue contribution from the higher-margin
 PA audio chip product category, collectively driving an increase in the overall gross profit
 margin for our low-power audio chips.
-(cid:129) Mid/high-power audio chips. Our gross profit from mid/high-power audio chips increased
+ Mid/high-power audio chips. Our gross profit from mid/high-power audio chips increased
 by 42.2% from RMB4.8 million in 2024 to RMB6.8 million in 2025, primarily due to higher
 sales volume and consequently increased gross profit from the FS2105 series.
-(cid:129) Haptic drivers. Our gross profit for haptic drivers decreased slightly from RMB3.5 million
+ Haptic drivers. Our gross profit for haptic drivers decreased slightly from RMB3.5 million
 in 2024 to RMB2.6 million in 2025.
 Other income and gains
 Our other income and gains decreased by 51.3% from RMB9.6 million in 2024 to RMB4.7 million

@@ -44,7 +44,7 @@ and Joint Lead Manager
 Joint Global Coordinators, Joint Bookrunners and Joint Lead Managers
 (in alphabetical order)
 Joint Bookrunners and Joint Lead Managers (in alphabetical order)
-(cid:64)(cid:58)(cid:57)(cid:41)(cid:1047)(cid:2123)(cid:11498)(cid:26290)
+ 
 Joint Lead Managers (in alphabetical order)
 HongKongExchangesandClearingLimited,TheStockExchangeofHongKongLimitedandHongKongSecuritiesClearingCompanyLimitedtakenoresponsibilityforthecontentsofthisprospectus,
 makenorepresentationastoitsaccuracyorcompletenessandexpresslydisclaimanyliabilitywhatsoeverforanylosshowsoeverarisingfromorinrelianceuponthewholeoranypartofthecontents
@@ -190,18 +190,18 @@ EXPECTED TIMETABLE
 Announcement of results of allocations in the Hong Kong Public Offering (including
 successful applicants’ identification document numbers, where appropriate) to be available
 through a variety of channels including:
-(cid:129) the announcement to be posted on websites of the
+ the announcement to be posted on websites of the
 Stock Exchange at www.hkexnews.hk and
 our Company’s website at
 www.voicecomm.cn(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . Tuesday, July 9, 2024
-(cid:129) from the designated results of allocations for the Hong Kong
+ from the designated results of allocations for the Hong Kong
 Public Offering will be available at www.iporesults.com.hk
 (alternatively: www.eipo.com.hk/eIPOAllotment)
 with a “search by ID” function . . . . . . . . . . . . . . . . . . . . . . . . . . from 11:00 p.m.
 on Tuesday, July 9, 2024
 to 12:00 midnight
 on Monday, July 15, 2024
-(cid:129) from the allocation results telephone enquiry by
+ from the allocation results telephone enquiry by
 calling +852 2862 8555 between
 9:00 a.m. and 6:00 p.m. . . . . . . . . . . . . . . . . . . . from Wednesday, July 10, 2024
 to Monday, July 15, 2024
@@ -458,7 +458,7 @@ E-commerce and retailing, etc., that can be empowered by conversational AI.
 
 === PAGE 13 ===
 SUMMARY
-(cid:129) City Management andAdministration. Our solutions have primarily been applied
+ City Management andAdministration. Our solutions have primarily been applied
 in intelligent community (comprehensive governmental projects involving diverse
 application scenarios), intelligent administration and intelligent internet of things
 (IoT), where our technologies contribute to the establishment of smart cities where
@@ -472,7 +472,7 @@ andfacilitatetheissue-solvingprocesspost-call.Formoredetails,see“OurSolution
 Offerings – Voicecomm Solutions – City Management and Administration – Case
 Study – Case Study 2: Conversational AI “12345” Hotline Solutions” in this
 prospectus.
-(cid:129) Automotive and Transportation. Our solutions have primarily been applied in
+ Automotive and Transportation. Our solutions have primarily been applied in
 customer service for automobile and logistics companies, internet of vehicles (IoV)
 service that enables a smart cockpit and facilitates the intelligent scheduling of
 vehicle resources and route navigation, as well as vehicle-to-everything (V2X)
@@ -486,7 +486,7 @@ interactions based upon different foreign languages. For more details, see “Ou
 Solution Offerings – Voicecomm Solutions –Automotive and Transportation – Case
 Study – Case Study 1: Multinational Intelligent Customer Service Centers” in this
 prospectus.
-(cid:129) Telecommunications. Our solutions can empower telecommunications companies’
+ Telecommunications. Our solutions can empower telecommunications companies’
 communication tools and other value-added services. Such solutions allow various
 communication and management needs of the enterprises that have procured such
 communication tools and value-added services to be intelligently satisfied, while
@@ -506,7 +506,7 @@ Offerings –Voicecomm Solutions –Telecommunications – Case Study – Case S
 
 === PAGE 14 ===
 SUMMARY
-(cid:129) Finance. Our solutions offered to financial institutions have been applied primarily
+ Finance. Our solutions offered to financial institutions have been applied primarily
 to upgrade their customer services and promote the comprehensive intelligent
 transformationofthefinanceindustry.Forexample,oursolutionshavebeenapplied
 in telephone banking, enabling intelligent virtual agents capable of intelligent
@@ -521,26 +521,26 @@ Our Technology Infrastructure – Voicecomm Brain
 Voicecomm Brain, our technology infrastructure, is underpinned by our core technologies
 in both unified communications and AI. Voicecomm Brain affords enterprise-level users with
 the following key values:
-(cid:129) Quality and Reliability. Voicecomm Brain is able to achieve a time interval
+ Quality and Reliability. Voicecomm Brain is able to achieve a time interval
 between failures (the elapsed time between inherent failures during normal system
 operation) of 50 thousand hours, seamless redundant switching of servers without
 user awareness, as well as an average multimodal information transmission success
 rate of 99.999%, which lead above the industry average in China according to the
 iResearch Report.
-(cid:129) High Compatibility. Voicecomm Brain is compatible with the three major
+ High Compatibility. Voicecomm Brain is compatible with the three major
 international protocols for computer telecommunications integration (CTI), i.e.,
 TAPI, TSAPI and CSTA, and the three major types of signal communication
 methods, i.e., analog transmission, digital transmission and SIP-based
 communications. In addition, Voicecomm Brain is compatible with various types of
 organizational operating systems, including but not limited to that on office
 automation, customer relationship management and enterprise resource planning.
-(cid:129) Synergetic Technological Capabilities. Our core technologies in unified
+ Synergetic Technological Capabilities. Our core technologies in unified
 communications and AI synergize with each other effectively. For instance, our
 voiceprint recognition technology is uniquely empowered by our technologies
 analyzing the underlying communication protocols used for transmission of signals
 via different terminal devices, which realizes the accurate audio source separation
 and intelligent analysis of conversations involving multiple speakers.
-(cid:129) Cost Efficiency. Voicecomm Brain can realize cost efficiency for users by
+ Cost Efficiency. Voicecomm Brain can realize cost efficiency for users by
 significantly improving their communication efficiency with substantially lowered
 costs, thereby facilitating the rapid expansion of their operation scale. Take our
 conversationalAI administrative service solution deployed in Zibo, Shandong as an
@@ -560,19 +560,19 @@ enterprise-level conversationalAI solution market, such as the needs of one-stop
 service,convenientapplication-scenarioexpansion,selectabledeliveryandcostefficiency.For
 details, see “Business – Our Solution Offerings” in this prospectus. The major features and
 advantages of Voicecomm Suites are as follows:
-(cid:129) Completeness. Voicecomm Suites in aggregate functionally enable the processing
+ Completeness. Voicecomm Suites in aggregate functionally enable the processing
 and two-way transmission of the underlying communication signals, AI
 empowerment in the application layer, and algorithm-equipped and productized
 operational interface-side tools.
-(cid:129) High Standardization. Characterized by their high level of standardization,
+ High Standardization. Characterized by their high level of standardization,
 Voicecomm Suites can empower users’ business operations in a cost-efficient
 fashion and help us achieve economies of scale by allowing us to readily replicate
 and adjust our solution offerings in similar application scenarios.
-(cid:129) High Scalability. Voicecomm Suites support free combination among themselves
+ High Scalability. Voicecomm Suites support free combination among themselves
 and output differently in accordance with users’ specific business needs, and also
 enable interfacing with their various systems and software, through which we are
 able to diversify our solutions to the degree needed conveniently.
-(cid:129) Low-Code. Voicecomm Suites allow development personnel of users to realize the
+ Low-Code. Voicecomm Suites allow development personnel of users to realize the
 software applications that they want efficiently and agilely based upon application
 programming interfaces (APIs) in a low-code fashion featuring high stability and
 easy-to-use.
@@ -595,22 +595,22 @@ details of use cases showcasing the variations of applications of our core conve
 technologies, see “Business – Our Revenue Model” in this prospectus. The following diagram
 illustrates our revenue model as well as the service flow and funds flow in relation to our
 solutions:
-softw p a lu re s s o o h l n a u l r t y d io / w s n o a s f r t e w are System off o e u ri r n s g o s l b u u ti n o d n l s inngg (cid:129) EEEEEEEEEEnn G te o r v U p e r r s n i e s m r e s e - n L ta e l vel
+softw p a lu re s s o o h l n a u l r t y d io / w s n o a s f r t e w are System off o e u ri r n s g o s l b u u ti n o d n l s inngg EEEEEEEEEEnn G te o r v U p e r r s n i e s m r e s e - n L ta e l vel
 Integrators* entities
-SSSSSSSSSSSSuppliers (cid:129) Automobile
+SSSSSSSSSSSSuppliers Automobile
 • Communication companies
-(cid:129) (cid:129) d S c n te o e e e l m t v e r w v i c p c e o o e u r m r s s t k e m a r a n s u n d n d ic o a th ti e o r n hardware sof p tw l s u o a s l r u h e t a i o o r n d n l w s y a /s r o e f tware (cid:129) (cid:129) (cid:129) T c F O o i e t n m h l a e e p n c r a o c e n i m n a i l e t m e s I r u n p n s r t i i i c s t a u e t s t i i . o o .. n ns
+ d S c n te o e e e l m t v e r w v i c p c e o o e u r m r s s t k e m a r a n s u n d n d ic o a th ti e o r n hardware sof p tw l s u o a s l r u h e t a i o o r n d n l w s y a /s r o e f tware T c F O o i e t n m h l a e e p n c r a o c e n i m n a i l e t m e s I r u n p n s r t i i i c s t a u e t s t i i . o o .. n ns
 resources...
 EEEEEEEEEEEEEEEnnterprise-Level
 Users*
-(cid:129) Governmental
+ Governmental
 entities
-(cid:129) Automobile
+ Automobile
 companies
-Serviceflow (cid:129) Telecommunication
+Serviceflow Telecommunication
 Fundsflow companies
-(cid:129) FinancialInstitutions
-* As our customers (cid:129) Otherenterprises...
+ FinancialInstitutions
+* As our customers Otherenterprises...
 Specifically, our customers for our solutions during theTrack Record Period included: (i)
 system integrators that embedded our solutions into their offerings to enterprise-level users;
 and (ii) enterprise-level users that used our solutions directly. The following table sets forth a
@@ -830,20 +830,20 @@ enterprise-level communications at fingertips.
 OUR COMPETITIVE STRENGTHS
 We believe that the following strengths have contributed to our success and differentiated
 us from our competitors:
-(cid:129) A seasoned IT solution provider with nearly two decades’ dedication to enterprise-
+ A seasoned IT solution provider with nearly two decades’ dedication to enterprise-
 level conversational AI;
-(cid:129) Complete full-stack technology infrastructure;
-(cid:129) Highly standardized and scalable offering capabilities that facilitate solution
+ Complete full-stack technology infrastructure;
+ Highly standardized and scalable offering capabilities that facilitate solution
 launches and continuously improve operating efficiency;
-(cid:129) Sustainable growth empowered by a vibrant conversational AI ecosystem; and
-(cid:129) Industry-dedicated and visionary management team.
+ Sustainable growth empowered by a vibrant conversational AI ecosystem; and
+ Industry-dedicated and visionary management team.
 OUR STRATEGIES
-(cid:129) Further invest in research and development to ensure the leading position and
+ Further invest in research and development to ensure the leading position and
 innovativeness of our conversational AI technologies;
-(cid:129) Strengthen our commercialization capabilities by enriching our solution offerings;
-(cid:129) Enhance our connections with industrial participants to support a more prosperous
+ Strengthen our commercialization capabilities by enriching our solution offerings;
+ Enhance our connections with industrial participants to support a more prosperous
 conversational AI ecosystem that further realizes sustainable development; and
-(cid:129) Actively expand into Southeast Asia and other international markets.
+ Actively expand into Southeast Asia and other international markets.
 RISK FACTORS
 Our business faces risks including those set out in “Risk Factors” in this prospectus. As
 different investors may have different interpretations and criteria when determining the
@@ -1158,17 +1158,17 @@ underwriting commissions and other estimated expenses paid and payable by us in 
 with the Global Offering and assuming that the Over-allotment Option is not exercised. We
 currently intend to use the net proceeds we expect to receive from the Global Offering for the
 following purposes and in the amounts set out below:
-(cid:129) Approximately 60.0%, or HK$343.0 million, will be used to enhance the
+ Approximately 60.0%, or HK$343.0 million, will be used to enhance the
 fundamental research on our key technologies, improve the development of our
 standardizedsolutionsanditerativelylaunchdiversecommercializationapplications
 and functions for more business scenarios.
-(cid:129) Approximately 20.0%, or HK$114.3 million, will be allocated to expand our
+ Approximately 20.0%, or HK$114.3 million, will be allocated to expand our
 solution offerings, build our brand and enhance our commercialization capabilities.
-(cid:129) Approximately 10.0%, or HK$57.2 million, will be used to pursue domestic and
+ Approximately 10.0%, or HK$57.2 million, will be used to pursue domestic and
 overseas strategic investment and acquisition opportunities, so as to implement our
 long-term growth strategy to optimize our solutions and expand and penetrate the
 end-customer industries that we cover.
-(cid:129) Approximately 10.0%, or HK$57.2 million, will be used for general corporate
+ Approximately 10.0%, or HK$57.2 million, will be used for general corporate
 purposes.
 For details, see “Future Plans and Use of Proceeds” in this prospectus.
 DIVIDEND
@@ -2222,21 +2222,21 @@ the other risk factors as described in this prospectus. You are strongly caution
 on any forward-looking statements involves known and unknown risks and uncertainties. The
 risks, uncertainties and other factors facing the Company which could affect the accuracy of
 forward-looking statements include, but are not limited to, the following:
-(cid:129) our business strategies and plans to achieve these strategies;
-(cid:129) our future debt levels and capital needs;
-(cid:129) changes to the political and regulatory environment in the industry and markets in
+ our business strategies and plans to achieve these strategies;
+ our future debt levels and capital needs;
+ changes to the political and regulatory environment in the industry and markets in
 which we operate;
-(cid:129) our expectations with respect to our ability to acquire and maintain regulatory
+ our expectations with respect to our ability to acquire and maintain regulatory
 licenses or permits;
-(cid:129) changesincompetitiveconditionsandourabilitytocompeteundertheseconditions;
-(cid:129) future developments, trends and conditions in the industry and markets in which we
+ changesincompetitiveconditionsandourabilitytocompeteundertheseconditions;
+ future developments, trends and conditions in the industry and markets in which we
 operate;
-(cid:129) general economic, political and business conditions in the markets in which we
+ general economic, political and business conditions in the markets in which we
 operate;
-(cid:129) effects of the global financial markets and economic crisis;
-(cid:129) our financial conditions and performance;
-(cid:129) our dividend policy; and
-(cid:129) change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
+ effects of the global financial markets and economic crisis;
+ our financial conditions and performance;
+ our dividend policy; and
+ change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
 operations, margins, risk management and overall market trends.
 Additionalfactorsthatcouldcauseactualperformanceorachievementtodiffermaterially
 including but not limited to those discussed in “Risk Factors” and elsewhere in this prospectus.
@@ -2649,33 +2649,33 @@ not be indicative of our future performance. We cannot assure you that this leve
 growth will be sustainable or achievable in the future for various reasons. Specifically, our
 growth prospects depend on a number of factors, including but not limited to, our ability to
 continuously:
-(cid:129) maintain and upgrade our technology infrastructure, and develop new technologies;
-(cid:129) further commercialize our solutions;
-(cid:129) expand the features and capabilities of our solutions;
-(cid:129) identify appropriate sites, infrastructure, facilities and equipment to support our
+ maintain and upgrade our technology infrastructure, and develop new technologies;
+ further commercialize our solutions;
+ expand the features and capabilities of our solutions;
+ identify appropriate sites, infrastructure, facilities and equipment to support our
 computing power expansion plans;
-(cid:129) attract new customers and retain existing ones;
-(cid:129) successfully complete and deliver our existing projects to the satisfaction of our
+ attract new customers and retain existing ones;
+ successfully complete and deliver our existing projects to the satisfaction of our
 customers and/or end users, as well as identify, develop and acquire new project
 opportunities;
-(cid:129) achieve widespread acceptance and use of our solutions;
-(cid:129) provide effective and timely customer support;
-(cid:129) maintain the security and reliability of our solutions;
+ achieve widespread acceptance and use of our solutions;
+ provide effective and timely customer support;
+ maintain the security and reliability of our solutions;
 – 61 –
 
 === PAGE 71 ===
 RISK FACTORS
-(cid:129) expand our sales force adequately and increase our brand awareness through
+ expand our sales force adequately and increase our brand awareness through
 marketing and promotional activities;
-(cid:129) attract, retain and motivate key employees, including research and development
+ attract, retain and motivate key employees, including research and development
 talents as well as staff with in-depth industry know-how;
-(cid:129) price our solutions effectively without compromising our profitability;
-(cid:129) successfully compete against established companies and new market entrants;
-(cid:129) expand into new end-customer industries and launch new solutions;
-(cid:129) further expand our business internationally;
-(cid:129) comply with existing and newly enacted applicable laws, regulations and
+ price our solutions effectively without compromising our profitability;
+ successfully compete against established companies and new market entrants;
+ expand into new end-customer industries and launch new solutions;
+ further expand our business internationally;
+ comply with existing and newly enacted applicable laws, regulations and
 governmental policies; and
-(cid:129) defend ourselves against litigations and regulatory, intellectual property, privacy,
+ defend ourselves against litigations and regulatory, intellectual property, privacy,
 data protection or other claims.
 If we are unable to accomplish any one of these goals, our revenue growth may be
 harmed. Further, all of the aforementioned endeavors will require significant capital
@@ -2844,23 +2844,23 @@ government’s fiscal policy. There is no assurance that government spending tha
 business will continue to grow or remain at the current level. Accordingly, our business,
 financial condition and results of operations may be adversely affected by certain events or
 activities, including, but not limited to:
-(cid:129) changes in governmental fiscal or procurement procedures or decreases in available
+ changes in governmental fiscal or procurement procedures or decreases in available
 government spending;
-(cid:129) changes in policies or priorities and resultant funding;
-(cid:129) changes in the government’s assessment of the capabilities that we offer;
-(cid:129) long payment cycle as required by the government’s internal financial management
+ changes in policies or priorities and resultant funding;
+ changes in the government’s assessment of the capabilities that we offer;
+ long payment cycle as required by the government’s internal financial management
 and payment approval processes;
-(cid:129) appeals, disputes, or litigations relating to governmental procurement, including but
+ appeals, disputes, or litigations relating to governmental procurement, including but
 not limited to bid protests by unsuccessful bidders on potential or actual awards of
 contracts granted to us or our business partners by the government;
-(cid:129) additional selection processes administered by the system integrators engaged;
-(cid:129) the adoption of new laws or regulations or developments in existing laws or
+ additional selection processes administered by the system integrators engaged;
+ the adoption of new laws or regulations or developments in existing laws or
 regulations;
-(cid:129) budgetaryconstraints,includingconstraintsimposedbyanylapsesinappropriations
+ budgetaryconstraints,includingconstraintsimposedbyanylapsesinappropriations
 for the governments or certain of their departments and agencies;
-(cid:129) influences by, or competitions from, third parties with respect to existing, pending
+ influences by, or competitions from, third parties with respect to existing, pending
 or new contracts with governmental or public sector customers; and
-(cid:129) potential delays or changes in the government appropriations, including as a result
+ potential delays or changes in the government appropriations, including as a result
 of incidents of natural disasters or epidemics and public health concerns.
 – 66 –
 
@@ -2932,56 +2932,56 @@ believe are complementary to our growth strategies, particularly those that can 
 our solution offerings, enhance our technologies, and expand our customer base. Acquisition
 processes involve certain known and unknown risks that could impose significant challenges,
 including but not limited to that:
-(cid:129) we may not be able to identify suitable acquisition candidates or to consummate
+ we may not be able to identify suitable acquisition candidates or to consummate
 acquisitions on acceptable terms in a timely and cost-effective manner, or at all;
-(cid:129) wemaycompetewithotherstoacquirecomplementarybusinessesandtechnologies,
+ wemaycompetewithotherstoacquirecomplementarybusinessesandtechnologies,
 which could result in decreased availability of, or increased price for, suitable
 acquisition candidates;
-(cid:129) we may not be able to obtain the necessary financing on favorable terms, or at all,
+ we may not be able to obtain the necessary financing on favorable terms, or at all,
 to finance any or all of our potential acquisitions;
 – 68 –
 
 === PAGE 78 ===
 RISK FACTORS
-(cid:129) our results of operations may be harmed due to dilutive issuances of equity
+ our results of operations may be harmed due to dilutive issuances of equity
 securities, the use of our available cash or incurrence of debts; and
-(cid:129) our acquisition activities may be subject to various laws, rules and regulations,
+ our acquisition activities may be subject to various laws, rules and regulations,
 including that on antitrust and competition, of the countries in connection with any
 proposed acquisitions.
 Even if a planned acquisition were consummated, we might not be able to achieve the
 anticipated benefits or synergies from our acquired businesses due to a number of factors,
 including but not limited:
-(cid:129) difficulties in integrating the acquired personnel, products and/or solutions,
+ difficulties in integrating the acquired personnel, products and/or solutions,
 operations and technologies, or effectively managing the combined business
 following the acquisition;
-(cid:129) unanticipated costs or liabilities associated with the acquisition that may adversely
+ unanticipated costs or liabilities associated with the acquisition that may adversely
 affect us following the acquisition;
-(cid:129) for investments over which we do not obtain management and operational control,
+ for investments over which we do not obtain management and operational control,
 lack of influence over the controlling partners or shareholders, which may prevent
 us from achieving our strategic goals in such investments;
-(cid:129) new regulatory requirements and compliance risks that we become subject to as a
+ new regulatory requirements and compliance risks that we become subject to as a
 result of investments or acquisitions in new industries;
-(cid:129) actual or alleged misconduct or non-compliance by the acquired company (or by its
+ actual or alleged misconduct or non-compliance by the acquired company (or by its
 affiliates) that occurred prior to our acquisition, which may lead to negative
 publicity, government inquiries or investigations against such company or us;
-(cid:129) difficulties in converting the customers of the acquired business to our solutions due
+ difficulties in converting the customers of the acquired business to our solutions due
 to disparities in the business model of the acquired company;
-(cid:129) potential issues with the technologies, internal controls and financial reporting of
+ potential issues with the technologies, internal controls and financial reporting of
 the acquired company;
-(cid:129) increased operating costs and expenses;
-(cid:129) disruptions of our ongoing business and diversion of management’s attention from
+ increased operating costs and expenses;
+ disruptions of our ongoing business and diversion of management’s attention from
 other business concerns;
-(cid:129) harm to our existing relationships with our business partners as a result of the
+ harm to our existing relationships with our business partners as a result of the
 acquisition;
-(cid:129) the occurrence of significant goodwill impairment charges and amortization
+ the occurrence of significant goodwill impairment charges and amortization
 expenses for other intangible assets;
 – 69 –
 
 === PAGE 79 ===
 RISK FACTORS
-(cid:129) the loss of our or the acquired business’s key employees and established customer
+ the loss of our or the acquired business’s key employees and established customer
 relationships; and
-(cid:129) diversion of resources that could have been more effectively deployed in other parts
+ diversion of resources that could have been more effectively deployed in other parts
 of our business.
 Any negative developments described above could disrupt our existing business and have
 a material adverse effect on our business, reputation, financial condition and results of
@@ -2995,34 +2995,34 @@ and management attention, and subject us to intellectual property, regulatory, e
 political risks and uncertainties that are different from those in the PRC. As we increase our
 international sales efforts, the various risks and uncertainties that we may face include but are
 not limited to:
-(cid:129) the need to localize and adapt our solutions for specific countries, including
+ the need to localize and adapt our solutions for specific countries, including
 translation into foreign languages and the associated costs and expenses;
-(cid:129) difficulties in staffing and managing foreign operations, particularly in hiring and
+ difficulties in staffing and managing foreign operations, particularly in hiring and
 training qualified sales and service personnel;
-(cid:129) different pricing environments, potentially longer sales and accounts receivable
+ different pricing environments, potentially longer sales and accounts receivable
 payment cycles and collections issues;
-(cid:129) challenges in commercializing our solutions in new markets where we have limited
+ challenges in commercializing our solutions in new markets where we have limited
 experiences with the local market dynamics and no existing or developed sales,
 distribution and marketing infrastructure;
-(cid:129) new and different sources of competitions;
-(cid:129) general economic conditions and political instability in international markets and
+ new and different sources of competitions;
+ general economic conditions and political instability in international markets and
 the unexpected changes thereof;
-(cid:129) fluctuations in between the value of Renminbi and foreign currencies, which may
+ fluctuations in between the value of Renminbi and foreign currencies, which may
 make our solutions more expensive in other countries or may impact our results of
 operations when our revenue are translated into Renminbi;
 – 70 –
 
 === PAGE 80 ===
 RISK FACTORS
-(cid:129) compliance challenges related to the complexity of conflicting and changing
+ compliance challenges related to the complexity of conflicting and changing
 territorial and trans-jurisdictional laws and regulations, including that on privacy
 and data protection, employment, tax and telecommunications, and obtaining the
 necessary licenses, permits and approvals;
-(cid:129) weaker protection for intellectual property and other legal rights, and practical
+ weaker protection for intellectual property and other legal rights, and practical
 difficulties in enforcing or defending against claims thereof;
-(cid:129) increased risk of international telecom fraud;
-(cid:129) laws and business practices favoring local competitors; and
-(cid:129) increased financial accounting and reporting burdens and complexities.
+ increased risk of international telecom fraud;
+ laws and business practices favoring local competitors; and
+ increased financial accounting and reporting burdens and complexities.
 If we are unable to effectively avoid or mitigate these risks, our ability to expand in
 internationalmarketswillbeimpaired,orourinternationalbusinessmaynotbeabletoachieve
 or sustain profitability, which could have a material adverse effect on our business, financial
@@ -3972,15 +3972,15 @@ our overall cash needs, we will need further funding through public or private o
 financing, governmental subsidies, and/or other sources. We cannot assure you that we will be
 able to secure sufficient financial resources to support our operations. Our future funding
 requirements will depend on many factors, including:
-(cid:129) our future liquidity, payment of trade and other payables, capital expenditure plans
+ our future liquidity, payment of trade and other payables, capital expenditure plans
 and repayment of outstanding debt obligations;
-(cid:129) cash requirements of the research and development of our technologies and
+ cash requirements of the research and development of our technologies and
 solutions;
-(cid:129) the terms and timing of any future acquisitions;
-(cid:129) the costs of filing, prosecuting, defending and enforcing any patent claims, trade
+ the terms and timing of any future acquisitions;
+ the costs of filing, prosecuting, defending and enforcing any patent claims, trade
 secret and other intellectual property rights;
-(cid:129) our headcount growth and associated costs; and/or
-(cid:129) selling and marketing costs associated with our solutions, including the costs and
+ our headcount growth and associated costs; and/or
+ selling and marketing costs associated with our solutions, including the costs and
 timing of expanding our sales and marketing team.
 – 93 –
 
@@ -3989,12 +3989,12 @@ RISK FACTORS
 We cannot assure you that we will have sufficient financing from other sources to fund
 our operations. Our ability to obtain additional capital is subject to a variety of uncertainties,
 including:
-(cid:129) our market position and competitiveness in the industry in which we operate;
-(cid:129) our future profitability, overall financial condition, results of operations and cash
+ our market position and competitiveness in the industry in which we operate;
+ our future profitability, overall financial condition, results of operations and cash
 flows;
-(cid:129) general market conditions for capital-raising activities in China;
-(cid:129) overall conditions of the market for conversational AI solutions in China; and
-(cid:129) economic, political and other conditions in China and internationally.
+ general market conditions for capital-raising activities in China;
+ overall conditions of the market for conversational AI solutions in China; and
+ economic, political and other conditions in China and internationally.
 If we are unable to raise capital when needed, we would be forced to delay, reduce or
 eliminate our research and development programs or future commercialization efforts, which
 may materially and adversely affect our continued business operations.
@@ -5195,18 +5195,18 @@ The AI solution market in China can be categorized into segments including
 conversational AI solutions, computer vision AI solutions and AI general technologies
 solutions. The following sets forth the definition and major applications of these three
 categories of technologies:
-(cid:129) Conversational AI comprises the complex of technologies that enable machines to
+ Conversational AI comprises the complex of technologies that enable machines to
 understand the intent behind natural languages and, through effective human-
 machine interactions, respond to human beings or execute various tasks assigned by
 human beings. It realizes speech-based communications between human beings and
 machines by combining technologies including unified communications, automatic
 speech recognition, emotion recognition, natural language processing and text to
 speech.
-(cid:129) ComputerVisionAI enables cameras and computers to identify, track and measure
+ ComputerVisionAI enables cameras and computers to identify, track and measure
 images and videos in lieu of human eyes, through which it allows extraction of
 valuable information and data, and performance of tasks such as analyses and
 automation.
-(cid:129) AI General Technologies refer to those key generally applicable AI technologies
+ AI General Technologies refer to those key generally applicable AI technologies
 other than conversational AI and computer vision AI, such as machine learning,
 which can also play an important role in the aforementioned two areas.
 According to the iResearch Report, conversational AI solutions accounted for 24.9% of
@@ -5249,14 +5249,14 @@ CHINA
 According to the iResearch Report, the conversationalAI solution market in China can be
 divided into that of enterprise-level conversational AI solutions and consumer-level
 conversational AI solutions based on the type of target users, among which:
-(cid:129) Enterprise-Level Conversational AI Solutions target organizations, including
+ Enterprise-Level Conversational AI Solutions target organizations, including
 corporations and government entities, and aim to offer solutions based on
 conversationalAItechnologiesappliedinvariousend-customerindustries.Bybeing
 integrated with organizations’ business procedures on production, sales and post-
 sales services, etc., such solutions are to improve their communication efficiency
 and facilitate the intelligent transformation of their operations, so as to achieve
 cost-efficiency.
-(cid:129) Consumer-Level Conversational AI Solutions aim at providing individual
+ Consumer-Level Conversational AI Solutions aim at providing individual
 consumers with conversational AI-empowered solutions that can be used in daily
 application scenarios to achieve human-machine interactions and device control.
 The following table illustrates a comparison between the current application status of
@@ -5334,26 +5334,26 @@ include speech-related core conversationalAI technologies, i.e., automatic speec
 language understanding (NLU) and natural language generation (NLG)) and text to speech
 (TTS), as well asAI general technologies that can be applied in speech and semantic analysis,
 the details of which are set forth below:
-(cid:129) ASR converts human speech signals into corresponding computer-readable inputs
+ ASR converts human speech signals into corresponding computer-readable inputs
 such as texts, through speech signal processing and pattern recognition based upon
 parameters of speech features. ASR includes such key technological areas as
 voiceprint recognition, accent adaptation, end-to-end recognition, and low-power
 recognition, etc.
-(cid:129) Emotion Recognition suggests the current emotion states of human through
+ Emotion Recognition suggests the current emotion states of human through
 collecting speech, facial expression, gestures and other physiological
 characteristics, as well as the analysis and processing of the same. Specifically,
 emotion recognition extracts the acoustic features expressing emotions from speech
 signals and establishes the mapping relationship between such features and human
 emotions, so as to realize the automatic recognition of the latter.
-(cid:129) NLU allows machines to understand the meaning of human languages through
+ NLU allows machines to understand the meaning of human languages through
 mapping users’ inputs into the semantic slots predefined according to different
 scenarios, which covers the analyses of human pronunciation, vocabulary, grammar,
 semantics and pragmatics, as well as reasonings and logics.
-(cid:129) NLG transforms the abstract expressions output by machines into syntactically
+ NLG transforms the abstract expressions output by machines into syntactically
 sensible and semantically accurate natural language utterances, which covers such
 key steps as content determination, text structuring, sentence aggregation,
 lexicalization, referring expression generation and linguistic realization.
-(cid:129) TTS realizes human-machine speech interactions by firstly generating speech
+ TTS realizes human-machine speech interactions by firstly generating speech
 parameters based on models, and then converting such parameters into natural
 speech streams, thereby giving machines the ability to talk.
 In addition to the abovementioned core conversational AI technologies, enterprise-level
@@ -5400,7 +5400,7 @@ Stimulated by China’s favorable industrial policies facilitating the digitaliz
 organizations on the supply side, and the significant economic scale and considerable social
 activity level giving rise to a rich variety of application scenarios on the demand side, growth
 of the enterprise-level conversational AI solution market in China is primarily driven by:
-(cid:129) OrganizationDigitalization.ThedigitalizationoforganizationsinChinaisalready
+ OrganizationDigitalization.ThedigitalizationoforganizationsinChinaisalready
 a major trend. In 2022, the digital economy in China reached RMB50.2 trillion,
 accounting for 41.5% of the total GDP and substantially impacting the overall
 economy. As a crucial pathway for and process of organization digitalization,
@@ -5420,7 +5420,7 @@ organizations’ accumulation of insights in the aforementioned multimodal forms
 through the digitalization trend further assists the efficient, speedy and scenario-
 oriented research and development of novel algorithms and optimization of machine
 learning models.
-(cid:129) Technological Improvements. With the evolvement of core intelligent-speech
+ Technological Improvements. With the evolvement of core intelligent-speech
 technologies, the boundaries of enterprise-level conversational AI with respect to
 the value it is able to create have been constantly extended. Originated from the
 simple Q&A interactions between human beings and machines, enterprise-level
@@ -5431,7 +5431,7 @@ background and the ability to conceive human emotions. Such progress has been
 efficiently automating business operations and enhancing enterprise-level user
 experiences, and further driving the ongoing expansion of the enterprise-level
 conversational AI solution market in China.
-(cid:129) Application Scenarios Expansion and User Experience Enhancement. As the
+ Application Scenarios Expansion and User Experience Enhancement. As the
 application scenarios of human-machine interactions continue to deepen and
 broaden, enterprise-level conversational AI solutions have been empowering
 business operations through technological offerings, with innovative ones with
@@ -5448,7 +5448,7 @@ AI solutions.
 
 === PAGE 142 ===
 INDUSTRY OVERVIEW
-(cid:129) Favorable Industrial Policies. Enterprise-level conversational AI acts as the key
+ Favorable Industrial Policies. Enterprise-level conversational AI acts as the key
 infrastructure that integrates the digital and real sectors of the Chinese economy. In
 recent years, favorable policies supporting the development of digital economy,
 unified communications and AI technologies have been released in succession, in
@@ -5540,24 +5540,24 @@ automotive and transportation, telecommunications, and finance, where conversati
 technologiesempowervarioustypesoforganizationstooptimizetheirbusinessproceduresand
 iterate their business paradigms, thereby improving their operation efficiency and reducing
 operating costs. Specifically,
-(cid:129) City Management and Administration. Conversational AI empowers local
+ City Management and Administration. Conversational AI empowers local
 administrators’ improving their civil governance and facilitating industrial
 development, as well as other related missions, i.e., upgrading of administrative
 services, intelligent interconnection and scheduling of administrative facilities, and
 establishment of regional intelligent technological infrastructure.
-(cid:129) Automotive and Transportation. ConversationalAI empowers the automobile and
+ Automotive and Transportation. ConversationalAI empowers the automobile and
 logistics industries and the public transportation system through the intelligent
 transformation of customer services of automobile and logistics companies, and the
 realization of internet of vehicles based upon human-vehicle intelligent in-cabin
 speech interactions and vehicle-to-everything autonomous driving.
-(cid:129) Telecommunications. ConversationalAI empowers telecommunications companies
+ Telecommunications. ConversationalAI empowers telecommunications companies
 and users of their services through the intelligent transformation of customer
 services of telecommunications companies and communication tools offered to
 enterprises for the latter’s communication and management needs.
-(cid:129) Finance. Conversational AI empowers financial institutions through the intelligent
+ Finance. Conversational AI empowers financial institutions through the intelligent
 transformation of their customer communication-related services and their
 employment training and management.
-(cid:129) Other Industries. Conversational AI solutions can also be widely applied to other
+ Other Industries. Conversational AI solutions can also be widely applied to other
 industries, such as education, healthcare, tourism, the media, E-commerce and
 retailing, etc.
 – 135 –
@@ -5600,7 +5600,7 @@ communication and essential AI algorithm capabilities are realized by integratin
 third-partyproviders,totrulyandeffectivelysatisfyenterprise-levelusers’needs.Specifically,
 it may not be possible for such non-full-stack solution providers to allow enterprise-level users
 to enjoy:
-(cid:129) One-Stop Service. Considering enterprise-level users’ needs of conversational AI
+ One-Stop Service. Considering enterprise-level users’ needs of conversational AI
 empowerment on a one-stop basis, each product under non-full-stack solutions is
 independentlydesignedanddevelopedbydifferentproviders.Suchfragmentationof
 products and providers will lead to issues with product compatibility, lower overall
@@ -5610,24 +5610,24 @@ silos left unconnected.
 
 === PAGE 146 ===
 INDUSTRY OVERVIEW
-(cid:129) Convenient Application-Scenario Expansion. Notwithstanding that users often
+ Convenient Application-Scenario Expansion. Notwithstanding that users often
 need the solutions to be highly scalable across various scenarios, non-full-stack
 solution providers may not be able to realize the uniform management of the
 resulting solutions due to the fact that each integrated software is associated with its
 own management and monitor platform, making it challenging to deliver a
 “ready-to-use-whenever-needed” user experience.
-(cid:129) In-DepthService.Withrespecttotheuserswhoneedthesolutionstocoverboththe
+ In-DepthService.Withrespecttotheuserswhoneedthesolutionstocoverboththe
 establishment of underlying technological infrastructure and upper-layer
 AI-empowerment of applications, non-full-stack solutions are nevertheless
 generally limited to the application layer, and their providers are hence unable to
 optimize the overall system according to the specific application scenarios.
-(cid:129) Selectable Delivery. Users ultimately choose the delivery, e.g. privatized
+ Selectable Delivery. Users ultimately choose the delivery, e.g. privatized
 deployment, cloud-based subscription or a combination of the same, based on
 various considerations such as business stability, data security, available budget,
 deployment locality and technological iterations, etc. However, it is difficult for
 non-full-stack solution providers to deliver their solutions flexibly to meet the
 rapidly iterative business needs of users.
-(cid:129) Cost Efficiency. According to the iResearch Report, the total cost of ownership of
+ Cost Efficiency. According to the iResearch Report, the total cost of ownership of
 procuringandintegratingmultiplenon-full-stacksolutionsisabout15%-30%higher
 than full-stack solutions due to functional redundancy and lack of standardization,
 causing substantial additional cost of use and operation and maintenance costs.
@@ -5691,26 +5691,26 @@ stack enterprise-level solutions, respectively, and may not be indicative of any
 between two concrete enterprise-level conversationalAI solution providers that are contingent
 upon the specific customer groups, research and development regimes, and solution offerings
 etc., involved. Specifically:
-(cid:129) Capital Investment. To develop complete solutions based upon core technologies
+ Capital Investment. To develop complete solutions based upon core technologies
 in both unified communication andAI, full-stack enterprise-level conversationalAI
 solution providers generally have to invest in wider range of technological segments
 than non-full-stack enterprise-level conversational AI solution providers, when
 achieving equivalent service outcomes and scale, whose solutions based upon their
 expertizedtechnologicalsegmentshavetobeintegratedwiththatofotherproviders.
-(cid:129) Technical Expertise. As mentioned above, full-stack enterprise-level
+ Technical Expertise. As mentioned above, full-stack enterprise-level
 conversationalAI solution providers possess proprietary unified communication and
 essentialAI algorithm capabilities with the ability to self-develop conversationalAI
 applications, whereas non-full-stack enterprise-level conversational AI solution
 providers focus on single-point conversationalAI technological segments, yet some
 or all of the unified communication and essential AI algorithm capabilities are
 realized by integrating with solutions of other providers.
-(cid:129) Pricing. Without considering the specific competitive strategies and business
+ Pricing. Without considering the specific competitive strategies and business
 models of different conversationalAI solution providers, wider range of proprietary
 technologies under full-stack enterprise-level conversationalAI solutions need to be
 priced than that under non-full-stack enterprise-level conversational AI solutions.
 Users have to invest additionally if they want to access the complete range of
 functionalities when they deploy non-full-stack conversational AI solutions.
-(cid:129) Qualifications. The attainment of certain qualifications is essentially an
+ Qualifications. The attainment of certain qualifications is essentially an
 autonomous action of enterprise-level conversational AI solution providers in
 association with their intended scope of business, operational capacities and
 technological capabilities, without mandatory industry-entry standards. Common
@@ -5905,7 +5905,7 @@ Ranking Company in 2023 in 2023
 Top three in total 0.32 13.1
 The key successful factors with respect to the aforementioned enterprise-level
 conversational AI solution market in China primarily include:
-(cid:129) Technologies Accumulation. Technologies for enterprise-level conversational AI
+ Technologies Accumulation. Technologies for enterprise-level conversational AI
 solutions, such as UC, ASR, emotion recognition, NLU, NLG and TTS, as well as
 AI general technologies, are charged with significant technological requirements,
 and featured by high difficulties, long cycle and great expenditures with respect to
@@ -5914,7 +5914,7 @@ difficulty in achieving practicable and sufficient technology accumulations in a
 short period of time, and existing enterprise-level conversational AI solution
 providers lacking the capabilities in technological development and iteration may
 also lose their competitive edges.
-(cid:129) Industry Knowledge. Conversational AI solutions are applied in city management
+ Industry Knowledge. Conversational AI solutions are applied in city management
 and administration, automotive and transportation, telecommunications, finance and
 other end-customer industries. Each industry accordingly requires in-depth
 knowledge of the technological adjustment, solution design, and service process
@@ -5922,7 +5922,7 @@ unique thereto. Therefore, early movers with abundant industry knowledge
 accumulations from previous project experiences usually deliver solutions and
 accompanying services of higher quality and better consistency, thus forming a
 competitive advantage over new market entrants.
-(cid:129) Customer Base. Existing enterprise-level conversational AI solution providers
+ Customer Base. Existing enterprise-level conversational AI solution providers
 dedicated to such solution offerings are also able to enhance their technological
 development capabilities, speed up their model and algorithm training processes,
 accumulate end-customer industry know-how and improve capabilities of serving
@@ -5937,7 +5937,7 @@ sustainably acquire orders in a short period of time.
 
 === PAGE 154 ===
 INDUSTRY OVERVIEW
-(cid:129) Capital Sufficiency. Due to the aforementioned technological requirements,
+ Capital Sufficiency. Due to the aforementioned technological requirements,
 competitors in the enterprise-level conversationalAI solution market are required to
 devote huge capital investments in the establishment of strong technological R&D
 teams by attracting highly qualified, skilled and multi-disciplinary professionals
@@ -5952,10 +5952,10 @@ and standardized hardware devices (communication devices, computers and servers)
 network and telecommunication resources. The historical prices of hardware devices are
 generally stable from 2021 to 2023, which is beneficial for the business development of
 conversational AI solution providers. According to the iResearch Report:
-(cid:129) The global prices of smart phones, as measured by average wholesale price,
+ The global prices of smart phones, as measured by average wholesale price,
 decreased from USD304.6 in 2021 to USD293.4 in 2023, representing a CAGR of
 -1.9% from 2021 to 2023.
-(cid:129) The global prices of typical computing devices including desktop PCs, laptops, and
+ The global prices of typical computing devices including desktop PCs, laptops, and
 storage units have been relatively stable from 2021 to 2023. Detailed global average
 prices of computing devices are set out below:
 For the Year Ended
@@ -5967,7 +5967,7 @@ USD USD %
 Desktop PCs 623.4 625.8 0.2
 Laptops 639.3 637.1 (0.2)
 Storage units 13.5 14.1 2.2
-(cid:129) The global average price of servers increased from USD8,048.7 in 2021 to
+ The global average price of servers increased from USD8,048.7 in 2021 to
 USD10,427.1 in 2023, representing a CAGR of 13.8% from 2021 to 2023.The price
 ofserversworldwidegenerallysawasurgeattributedtoincreaseddemanddrivenby
 escalating technological advancements, supply chain disruptions, and rising
@@ -6922,96 +6922,96 @@ Business Milestones
 The following table illustrates the key milestones of our business and corporate
 developments:
 Time Milestone
-2005 (cid:129) Our Company was established in the PRC with limited liability in
+2005 Our Company was established in the PRC with limited liability in
 December 2005.
-2007 (cid:129) We launched our enterprise-level interactive software products
+2007 We launched our enterprise-level interactive software products
 with unified communications as the core.
-(cid:129) We began providing service for the hotline of a power company in
+ We began providing service for the hotline of a power company in
 the PRC.
-(cid:129) We were awarded the “Software Enterprise Certificate” (軟件企業
+ We were awarded the “Software Enterprise Certificate” (軟件企業
 認定證書) and was accredited as a “Software Enterprise” (軟件企
 業).
-2011 (cid:129) We completed the technology upgrade of our enterprise-level
+2011 We completed the technology upgrade of our enterprise-level
 interactive software products, with the addition of low-code
 business platform software.
-(cid:129) We successfully achieved double software certifications (雙軟認
+ We successfully achieved double software certifications (雙軟認
 證), i.e. having obtained the “Software Product Registration
 Certificate” (軟件產品登記證書) in 2011 in addition to the
 “Software Enterprise Certificate” (軟件企業認定證書) previously
 obtained in 2007.
-(cid:129) We provided services to a company engaging in the provision of
+ We provided services to a company engaging in the provision of
 in-vehicle security systems, which marked our entry into the field
 of IoV.
-2012 (cid:129) We completed the technology upgrade of our enterprise-level
+2012 We completed the technology upgrade of our enterprise-level
 interactive software products to support distributed multi-tenant
 application.
-(cid:129) We obtained the qualification as high-technology enterprise.
-2014 (cid:129) We provided a service platform supporting distributed customer
+ We obtained the qualification as high-technology enterprise.
+2014 We provided a service platform supporting distributed customer
 service application for a telecommunications company in Tianjin.
 – 168 –
 
 === PAGE 178 ===
 HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
 Time Milestone
-2015 (cid:129) The conversion of our Company into a joint stock company with
+2015 The conversion of our Company into a joint stock company with
 limited liability was completed, and our Company was renamed as
 ShanghaiVoicecomm InformationTechnology Co., Ltd. (上海聲通
 信息科技股份有限公司).
-2016 (cid:129) We completed the technology upgrade of our unified
+2016 We completed the technology upgrade of our unified
 communications and AI-empowered platform to support mobile
 terminals and natural language understanding (NLU).
-2017 (cid:129) We were engaged to implement the intelligent town project in
+2017 We were engaged to implement the intelligent town project in
 Chengdu, Sichuan, to facilitate the unification and integration of
 the infrastructure, administration, production and service
 activities, healthcare, security and educations, etc., of more than
 200 towns into one cloud-based platform.
-2018 (cid:129) We completed the technology upgrade of our unified
+2018 We completed the technology upgrade of our unified
 communications and AI-empowered platform to support natural
 language generation (NLG), realizing human-machine
 interactions.
-2019 (cid:129) We were accredited as a specialized and new enterprise (專精特新
+2019 We were accredited as a specialized and new enterprise (專精特新
 企業).
-2020 (cid:129) We completed the technology upgrade of our unified
+2020 We completed the technology upgrade of our unified
 communications andAI-empowered platform to support automatic
 speech recognition (ASR) and text to speech (TTS) technologies.
-(cid:129) We were awarded the “Little Giant” Enterprise in 2019 (2019年度
+ We were awarded the “Little Giant” Enterprise in 2019 (2019年度
 小巨人企業).
-(cid:129) WecompletedourSeriesAFinancingandraisedRMB74.4million.
-2021 (cid:129) The School of Electronic Information and Electrical Engineering
+ WecompletedourSeriesAFinancingandraisedRMB74.4million.
+2021 The School of Electronic Information and Electrical Engineering
 of Shanghai Jiao Tong University and we jointly established the
 Research Laboratory for AI Applications.
-(cid:129) We were awarded the “Golden Voice” – China Best All Media
+ We were awarded the “Golden Voice” – China Best All Media
 Intelligent Customer Service Solution Award, 2021 (金音獎–2021
 中國最佳全媒體智能客服解決方案獎).
-(cid:129) We become a member of the Information Technology Application
+ We become a member of the Information Technology Application
 Innovation Working Committee (信息技術應用創新工作委員會).
-(cid:129) We completed our Series B Financing and raised RMB140.4
+ We completed our Series B Financing and raised RMB140.4
 million.
 – 169 –
 
 === PAGE 179 ===
 HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
 Time Milestone
-2022 (cid:129) We completed the technology upgrade of our unified
+2022 We completed the technology upgrade of our unified
 communications and AI-empowered platform to support video-
 based interaction and emotion recognition.
-(cid:129) We were awarded, among others, the Second prize, ISCSLP 2022
+ We were awarded, among others, the Second prize, ISCSLP 2022
 Conversational Short-Phrase Speaker Diarization Challenge
 (ISCSLP2022會話短語音說話人日誌挑戰賽亞軍).
-(cid:129) We become a member of the National SME Public Service
+ We become a member of the National SME Public Service
 Demonstration Platform (國家中小企業公共服務示範平台).
-(cid:129) We completed our Series B+ Financing and raised RMB104.8
+ We completed our Series B+ Financing and raised RMB104.8
 million.
-2023 (cid:129) Academician He Jifeng (何積豐), an academician of the Chinese
+2023 Academician He Jifeng (何積豐), an academician of the Chinese
 Academy of Sciences and an renowned expert in the field of AI,
 became our chief scientist.
-(cid:129) We completed our Series C Financing and raised approximately
+ We completed our Series C Financing and raised approximately
 RMB180.0 million.
-2024 (cid:129) We were awarded 2023 Outstanding Products in the Information
+2024 We were awarded 2023 Outstanding Products in the Information
 Technology Application Innovation Industry (2023年度優秀信創
 產品) for our Video Call Centre Business Management System
 VC-COMS (視頻呼叫中心業務管理系統VC-COMS)
-(cid:129) We were recognized as one of the 2024 Forbes China Top 50
+ We were recognized as one of the 2024 Forbes China Top 50
 Artificial Intelligence Technology Companies (2024福布斯中國人
 工智能科技企業TOP 50).
 CORPORATE DEVELOPMENT
@@ -9812,25 +9812,25 @@ end-customer industries, primarily including city management and administration,
 and transportation, telecommunications, and finance. We have also established and are further
 expanding the presence of our solutions into other industries such as the media, healthcare,
 E-commerce and retailing, etc., that can be empowered by conversational AI.
-(cid:129) City Management andAdministration. Our solutions have primarily been applied
+ City Management andAdministration. Our solutions have primarily been applied
 in intelligent community (comprehensive governmental projects involving diverse
 application scenarios), intelligent administration and intelligent IoT, where our
 technologies contribute to the establishment of smart cities where city
 infrastructure, public spaces and objects are interactively connected, and also make
 city management and administrative services more convenient and intelligent.
-(cid:129) Automotive and Transportation. Our solutions have primarily been applied in
+ Automotive and Transportation. Our solutions have primarily been applied in
 customer service for automobile and logistics companies, IoV service that enables
 a smart cockpit and facilitates the intelligent scheduling of vehicle resources and
 route navigation, as well as V2X autonomous driving, which helps realize a safe,
 convenient, intelligent and integrated automobile management and travel
 experience.
-(cid:129) Telecommunications. Our solutions can empower telecommunications companies’
+ Telecommunications. Our solutions can empower telecommunications companies’
 communicationtoolsandothervalue-addedservices,suchascloud-basedphoneand
 intelligent work badge. Such solutions allow various communication and
 management needs of the enterprises that have procured such communication tools
 and value-added services to be intelligently satisfied, while substantially lowering
 deployment and maintenance costs.
-(cid:129) Finance. Our solutions offered to financial institutions have been applied primarily
+ Finance. Our solutions offered to financial institutions have been applied primarily
 in telephone banking, thereby upgrading their customer services and promoting the
 comprehensive intelligent transformation of the finance industry. Additionally, we
 also offer solutions in service training that facilitate their internal processes.
@@ -9845,7 +9845,7 @@ enterprise-level users’ various types of operating systems, realizing the inte
 transformation of their internal and external information exchanges and business interactions
 from “communication” to “thinking” and “execution”. Voicecomm Brain affords enterprise-
 level users with the following key values:
-(cid:129) Quality and Reliability. Having cumulatively served hundreds of enterprise-level
+ Quality and Reliability. Having cumulatively served hundreds of enterprise-level
 users for nearly two decades, we place great importance on the stability and
 reliability of our technologies and solutions, for which reason we have been able to
 win trust from the users of our solutions. Notably, Voicecomm Brain is able to
@@ -9853,21 +9853,21 @@ achieve a time interval between failures of 50 thousand hours, seamless redundan
 switching of servers without user awareness, as well as an average multimodal
 information transmission success rate of 99.999%, which lead above the industry
 average in China according to the iResearch Report.
-(cid:129) High Compatibility. Voicecomm Brain is compatible with the three major
+ High Compatibility. Voicecomm Brain is compatible with the three major
 international protocols for computer telecommunications integration (CTI), i.e.,
 TAPI, TSAPI and CSTA, and the three major types of signal communication
 methods, i.e., analog transmission, digital transmission and SIP-based
 communications. In addition, Voicecomm Brain is compatible with various types of
 organizational operating systems, including but not limited to that on office
 automation, customer relationship management and enterprise resource planning.
-(cid:129) Synergetic Technological Capabilities. Our core technologies in unified
+ Synergetic Technological Capabilities. Our core technologies in unified
 communications and AI synergize with each other effectively. For instance,
 leveraging our strong unified communication technological capabilities, our
 voiceprint recognition technology is uniquely empowered by our technologies
 analyzing the underlying communication protocols used for transmission of signals
 via different terminal devices, which realizes the accurate audio source separation
 and intelligent analysis of conversations involving multiple speakers.
-(cid:129) Cost Efficiency. We believe that Voicecomm Brain can realize cost efficiency for
+ Cost Efficiency. We believe that Voicecomm Brain can realize cost efficiency for
 users by significantly improving their communication efficiency with substantially
 lowered costs, thereby facilitating the rapid expansion of their operation scale. Take
 ourconversationalAIadministrativeservicesolutiondeployedinZibo,Shandongas
@@ -9886,23 +9886,23 @@ exchanges and business interactions. The modular combination of such Voicecomm S
 allows us to offer different types of solutions to address the pain points experienced by
 enterprise-level users from various end-customer industries, and deliver the same flexibly and
 selectably. The major features and advantages of Voicecomm Suites are as follows:
-(cid:129) Completeness. Voicecomm Suites in aggregate functionally enable the processing
+ Completeness. Voicecomm Suites in aggregate functionally enable the processing
 and two-way transmission of the underlying communication signals, AI
 empowerment in the application layer, and algorithm-equipped and productized
 operational interface-side tools, so as to effectively empower the whole enterprise-
 level conversational AI process from “communication” to “thinking” and
 “execution” on a one-stop basis.
-(cid:129) High Standardization. Characterized by their high level of standardization,
+ High Standardization. Characterized by their high level of standardization,
 Voicecomm Suites can empower users’ business operations in a cost-efficient
 fashion.Besides,thestandardizationnaturealsohelpsusachieveeconomiesofscale
 by allowing us to readily replicate and adjust our solution offerings in similar
 application scenarios.
-(cid:129) High Scalability. Voicecomm Suites support free combination among themselves
+ High Scalability. Voicecomm Suites support free combination among themselves
 and output differently in accordance with users’ specific business needs, and also
 enable interfacing with their various systems and software, through which we are
 able to deliver comprehensive and highly scalable solutions and diversify the same
 to the degree needed conveniently.
-(cid:129) Low-Code. Voicecomm Suites allow development personnel of users to realize the
+ Low-Code. Voicecomm Suites allow development personnel of users to realize the
 software applications that they want based upon APIs in a low-code fashion
 featuring high stability and easy-to-use, so that their concrete business requirements
 andneedsforcross-scenarioapplicationexpansioncouldbesatisfiedwithefficiency
@@ -9948,7 +9948,7 @@ the iResearch Report, we are one of the participants in the enterprise-level con
 market in China with the broadest presence in different end-customer industries and the most
 abundant application scenarios. In particular, our various types of solutions have been offered
 to users across the following key end-customer industries:
-(cid:129) City Management andAdministration. As of December 31, 2023, solutions of our
+ City Management andAdministration. As of December 31, 2023, solutions of our
 Company had been deployed in eleven provinces/municipalities across China.
 According to the iResearch Report, we are one of the participants in the full-stack
 enterprise-level conversational AI solution market in China with the widest
@@ -9959,15 +9959,15 @@ as measured by revenue therefrom in 2023, according to the same source.
 
 === PAGE 242 ===
 BUSINESS
-(cid:129) Automotive and Transportation. We are one of the earliest enterprise-level
+ Automotive and Transportation. We are one of the earliest enterprise-level
 solution providers that have penetrated into city-level autonomous driving,
 accordingtotheiResearchReport.AsofDecember31,2023,wehadaccumulatively
 served 17 automobile companies, ranging from traditional industry giants to
 new-energy vehicle players and other automotive start-ups in the industry, as well
 as a number of major logistics companies.
-(cid:129) Telecommunications. We have become a strategic conversationalAI partner for the
+ Telecommunications. We have become a strategic conversationalAI partner for the
 four major telecommunications companies in China.
-(cid:129) Finance. As of December 31, 2023, we had accumulatively served 16 nationwide
+ Finance. As of December 31, 2023, we had accumulatively served 16 nationwide
 financial institutions including banks and futures companies.
 Complete Full-Stack Technology Infrastructure
 Thoroughly utilizing our in-depth technological accumulations and rich experiences, we
@@ -9978,17 +9978,17 @@ Our unified communication technologies are fundamental to successfully satisfyin
 enterprise-level users’ increasing demand for efficient and high-quality real-time
 communications in a variety of forms, and unified in the sense of being equipped with the
 following key capabilities:
-(cid:129) Multimodal Communications. Our unified communication technologies support
+ Multimodal Communications. Our unified communication technologies support
 inbound and outbound communications in various formats, such as audios, texts,
 images, videos, and a combination of the same, in a unified platform. Such
 availabilityformultimodalcommunicationsenrichestheinformationexchangedand
 expands the forms of communications, which improves the communication
 efficiency of users.
-(cid:129) Omni-Channel Access. Our unified communication technologies support two-way
+ Omni-Channel Access. Our unified communication technologies support two-way
 transmissionofinformationviavariousintegratablechannels,includingthosebythe
 internet-end, IoV-end, IoT-end and traditional channels, etc., which helps users
 deploy and manage their communication platforms uniformly and conveniently.
-(cid:129) Compatibility with Different Communication Protocols. Our unified
+ Compatibility with Different Communication Protocols. Our unified
 communication technologies support the three major international CTI protocols,
 i.e., TAPI, TSAPI and CSTA, and the three major types of signal communication
 methods, i.e., analog transmission, digital transmission and SIP-based
@@ -9998,7 +9998,7 @@ facilitates the smooth digital transformation of users’ IT infrastructure.
 
 === PAGE 243 ===
 BUSINESS
-(cid:129) Operating System Integration. We have accumulated over 50 categories of APIs
+ Operating System Integration. We have accumulated over 50 categories of APIs
 and enabled the integration of more than ten types of organizational operating
 systems, which help realize the unified collection and distribution of users’
 operating data and simplify their operation processes, thus connecting data silos
@@ -10012,22 +10012,22 @@ through omni-channels. In combination with our in-depth technological accumulati
 unified communications, ourAI technologies are of high compatibility and generality for being
 widely applied in different scenarios, and have multiple-folded technological advantages in
 regard of key functional measurements. Specifically:
-(cid:129) Superior Intelligent Processing Capabilities. We own competitive capabilities of
+ Superior Intelligent Processing Capabilities. We own competitive capabilities of
 processing audio signals with respect to low sample-rate audios, self-adaptive and
 accurate adjustments in complex signal transmission settings, as well as anti-
 interference therefor. In particular, our technologies enable the intelligent
 processing of low sample-rate audios the frequencies of which are as low as 8kHz.
-(cid:129) More Accurate Speech Recognition. Our AI technologies maintain a competitive
+ More Accurate Speech Recognition. Our AI technologies maintain a competitive
 recognition accuracy rate in conversational scenarios involving multiple speakers.
 Inaddition,ourtechnologiescanaccuratelyrecognizeavarietyofforeignlanguages
 such as English, Vietnamese and Thai, etc., as well as Chinese dialects, which also
 leads ahead the industry average. For instance, the accuracy rate for recognizing the
 dialect from Anyang, Henan has reached 95.2%, based on our existing testing.
-(cid:129) Faster Speech Data Processing. To ensure a natural conversation flow, our AI
+ Faster Speech Data Processing. To ensure a natural conversation flow, our AI
 technologies are able to complete the whole interactive process from sound
 collection, recognition, knowledge graph retrieval to speech synthesis and output on
 a hundred millisecond basis.
-(cid:129) More Cutting-Edge Technologies with Huge Application Potentials. Our AI
+ More Cutting-Edge Technologies with Huge Application Potentials. Our AI
 models are designed, trained and optimized under our self-supervised leaning
 framework, and are able to stably support multiple rounds of AI conversations,
 which can be widely applied in emerging areas such as the newer generation of
@@ -10050,18 +10050,18 @@ users on a one-stop basis.Voicecomm Suites allow us to deliver standardized solu
 and selectably, and cater to users’ specific needs by conveniently diversifying the same, as
 evidenced by our speedy and replicable solution deployment in the following exemplary
 projects:
-(cid:129) In our exemplary intelligent town project in Chengdu, Sichuan, our solutions
+ In our exemplary intelligent town project in Chengdu, Sichuan, our solutions
 covered 257 towns within Chengdu as of December 31, 2023, where more than 80
 million person-times had accumulatively been served based upon our solutions. In
 addition, our similar solutions are being rapidly extended to a number of other
 comprehensive governmental projects, such as the intelligent village project in
 Deyang, Sichuan and the intelligent industrial park project in Chongming District,
 Shanghai, across China.
-(cid:129) According to the iResearch Report, our “12345” hotline solutions had encompassed
+ According to the iResearch Report, our “12345” hotline solutions had encompassed
 the most number of prefecture-level administrative regions among participants in
 the full-stack enterprise-level conversational AI solution market in China as of
 December 31, 2023.
-(cid:129) In the ICV project in Zibo, Shandong, which was still ongoing and pending further
+ In the ICV project in Zibo, Shandong, which was still ongoing and pending further
 implementation as of the Latest Practicable Date, our technologies had already
 successfullypiloted19ICVs’operationonanover20-kilometerroute.Itisexpected
 thattheprojectwillbeexpandedfromtheprojectzoneintothewholemunicipalarea
@@ -10090,7 +10090,7 @@ enables players across the value chain to improve their productivity and prosper
 enables us to realize sustainable development by gathering various resources. The key
 components within the conversational AI ecosystem that foster our technological capabilities
 and empower our commercialization success mainly comprise:
-(cid:129) Launch Customers. We believe that the launch customers in an end-customer
+ Launch Customers. We believe that the launch customers in an end-customer
 industry typically have considerable demand for enterprise-level conversational AI
 and sufficient budgets. Such launch customers not only have strong stickiness to our
 solutions, but also contribute significantly to the expansion of our customer base.
@@ -10100,7 +10100,7 @@ service capabilities in complex scenarios and the replicability of our solutions
 during which process we are also able to accumulate vast industry know-how and
 enhance our brand name. As such, we are able to further attract more quality
 customers in multiple end-customer industries and geographical areas.
-(cid:129) Industrial Connections. We have established in-depth business relationships with
+ Industrial Connections. We have established in-depth business relationships with
 influential integrators, financial institutions, automobile companies and sensor
 manufacturers, among others, as our customers, enterprise-level users or suppliers
 across China, which facilitates us in providing and upgrading competitive and
@@ -10128,14 +10128,14 @@ application scenarios.
 
 === PAGE 246 ===
 BUSINESS
-(cid:129) Academic Alliances. We and the School of Electronic Information and Electrical
+ Academic Alliances. We and the School of Electronic Information and Electrical
 Engineering of Shanghai Jiao Tong University have jointly established the Research
 Laboratory for AI Applications, which operates as a specific research and
 development platform covering such primary conversational AI areas such as
 voiceprint recognition, TTS, NLP and knowledge graphs, as well as fundamental
 next-generationconversationalAIstudiesandcutting-edgetopicsthatarecrucialfor
 our further growth prospects.
-(cid:129) Capital Partnerships. We have received strong endorsements from our diversified
+ Capital Partnerships. We have received strong endorsements from our diversified
 strategic investors that include reputable local SOEs and industrial capitals, which
 support our continuous expansion into different end-customer industries and
 geographical areas. We will keep leveraging the synergetic effect between our
@@ -10327,7 +10327,7 @@ exchanges and business interactions. Such modules specifically include that on m
 gateways, intelligent softswitch, speech recognition, emotion recognition, language
 understanding, language generation, speech synthesis, knowledge graphs, product tools and
 workflow tools. The major features and advantages of Voicecomm Suites are as follows:
-(cid:129) Completeness. Voicecomm Suites in aggregate functionally enable the processing
+ Completeness. Voicecomm Suites in aggregate functionally enable the processing
 and two-way transmission of the underlying communication signals, AI
 empowerment in the application layer, and algorithm-equipped and productized
 operational interface-side tools, so as to effectively satisfy varied application
@@ -10375,7 +10375,7 @@ users’ external communication and internal management on a one-stop basis,
 thus closing up the whole process of their end-to-end information exchanges
 and business interactions straightforwardly without any cost of transferring
 between systems.
-(cid:129) High Standardization. Voicecomm Suites are characterized by their high level of
+ High Standardization. Voicecomm Suites are characterized by their high level of
 standardization through our decades’ technological accumulations, and can
 substantially lower users’ cost of use and operation and maintenance cost,
 empowering their business operations in a cost-efficient fashion. Besides, the
@@ -10383,7 +10383,7 @@ standardization nature also helps us achieve economies of scale by allowing us t
 readily replicate and adjust our solution offerings in similar application scenarios,
 so as to shorten the research, development, deployment and commercialization
 cycles.
-(cid:129) High Scalability. Voicecomm Suites support free combination among themselves
+ High Scalability. Voicecomm Suites support free combination among themselves
 and output differently in accordance with users’ specific business needs, and also
 enable interfacing with their various systems and software, through which we are
 able to deliver comprehensive and highly scalable solutions and diversify the same
@@ -10392,7 +10392,7 @@ to the degree needed conveniently.
 
 === PAGE 252 ===
 BUSINESS
-(cid:129) Low-Code. In addition to our ability to output our technological capabilities
+ Low-Code. In addition to our ability to output our technological capabilities
 throughsoftwaredevelopmentkits,VoicecommSuitesallowdevelopmentpersonnel
 of users to realize the software applications that they want based upon APIs. Such
 free configuration of functions in a low-code fashion features high stability and
@@ -10413,23 +10413,23 @@ a number of variant solutions to enterprise-level users from multiple end-custom
 that facilitate and intelligently transform their respective form of information exchanges and
 business interactions, which have primarily empowered:
 City Management and Administration
-(cid:129) Intelligent community
-(cid:129) Intelligent administration (conversational AI-empowered contact service)
-(cid:129) Intelligent IoT (speech-based equipment control and scheduling)
+ Intelligent community
+ Intelligent administration (conversational AI-empowered contact service)
+ Intelligent IoT (speech-based equipment control and scheduling)
 Automotive and Transportation
-(cid:129) Customer service (conversational AI-empowered contact service)
-(cid:129) IoV service (speech-based equipment control and scheduling)
-(cid:129) V2X
+ Customer service (conversational AI-empowered contact service)
+ IoV service (speech-based equipment control and scheduling)
+ V2X
 Telecommunications
-(cid:129) Cloud-based phone (intelligent enterprise communication and management)
-(cid:129) Intelligent work badge (speech-based equipment management and scheduling)
+ Cloud-based phone (intelligent enterprise communication and management)
+ Intelligent work badge (speech-based equipment management and scheduling)
 – 243 –
 
 === PAGE 253 ===
 BUSINESS
 Finance
-(cid:129) Telephone banking (conversational AI-empowered contact service)
-(cid:129) Service training (intelligent enterprise communication and management)
+ Telephone banking (conversational AI-empowered contact service)
+ Service training (intelligent enterprise communication and management)
 The following diagram illustrates specifics of Voicecomm Suites as well as the major
 solutions as applied in different end-customer industries that can be empowered thereby:
 End-Customer Industry Solutions
@@ -10484,7 +10484,7 @@ geographical coverage. Moreover, we rank the first in the full-stack enterprise-
 conversational AI solution market for city management and administration in China, as
 measured by revenue therefrom in 2023, according to the same source. Specifically, we offer
 solutions that are primarily used in the following areas:
-(cid:129) Intelligent Community. Through our technologies, the solutions that we offer in a
+ Intelligent Community. Through our technologies, the solutions that we offer in a
 number of intelligent communities (such as intelligent towns and other similar
 industrial parks) in China uniformly empower the digitalized operations of
 numerous organizations and businesses stationed therein and the follow-up
@@ -10493,7 +10493,7 @@ development of software applications to be utilized therein, in the form of a
 capacity precipitation. For details of our exemplary intelligent town project in
 Chengdu, Sichuan, see “– Case Study – Case Study 1: Intelligent Town Project in
 Chengdu” in this section.
-(cid:129) Intelligent Administration. The communication platforms that we establish for
+ Intelligent Administration. The communication platforms that we establish for
 localgovernments(suchas“12345”hotlinesandpolicehotlines)effectivelysupport
 their inbound/outbound contact needs, so as to help them fulfill their administrative
 roles. According to the iResearch Report, our “12345” hotline solutions had
@@ -10506,7 +10506,7 @@ administrative services.
 
 === PAGE 255 ===
 BUSINESS
-(cid:129) Intelligent IoT. We also offer solutions that can be applied in diverse scenarios
+ Intelligent IoT. We also offer solutions that can be applied in diverse scenarios
 where city administrators have been increasingly exploring ways of digitally
 transforming the landscape of city management by adopting various intelligent IoT
 devices in areas ranging from public utilities to administrative facilities and
@@ -10567,7 +10567,7 @@ technologies could then intelligently transform such interactions. See below for
 technologicalstepsinvolvedinthemanagementandoperationsoftheintelligenttowncluster’s
 tourism functions that were empowered by our unified communication and core conversational
 AI technologies:
-(cid:129) Platform Management. By contrast to traditional communications technology
+ Platform Management. By contrast to traditional communications technology
 facilitating data transmission via singular medium form, our unified communication
 technologies enabled the transmission of text, audio, image and video signals
 concerning onsite tourists to the tourism management center for its to manage the
@@ -10575,7 +10575,7 @@ same in an integrated manner. Equipped with such multimodal information, the
 center could have a holistic and real-time understanding of visitor amount,
 activeness and traffic, etc., allowing it to effectively schedule tourism management
 personnel and other resources; and
-(cid:129) Visitor Communication. Commercial tenants stationed within the town cluster and
+ Visitor Communication. Commercial tenants stationed within the town cluster and
 thesocialmediaplatformofthesaidtourismmanagementcenterwerealsoequipped
 withintelligentvirtualagentsempoweredbyourcomprehensivecoreconversational
 AI technologies. Such intelligent virtual agents were able to more intelligently serve
@@ -10686,7 +10686,7 @@ workflow tools
 BUSINESS
 See below for concrete technological steps involved in the operation of such “12345”
 hotlines that can be empowered by our core conversational AI technologies:
-(cid:129) Dialect Recognition. Various Chinese dialects in different regions have substantial
+ Dialect Recognition. Various Chinese dialects in different regions have substantial
 differences from Mandarin in pronunciation, tones, vocabularies, etc., which can
 makeitdifficultforhumanagentseatstounderstandtherequestsofcallersspeaking
 in dialects and result in poor communication outcomes. In this regard, the
@@ -10697,14 +10697,14 @@ extensive accumulations in dialect recognition, and are able to conduct model
 trainingandoptimizationbaseduponthespecificcharacteristicsofdifferentdialects
 to realize accurate recognition. For instance, our accuracy rate for recognizing the
 dialect from Anyang, Henan has reached 95.2%;
-(cid:129) Automatic Reply. Human agent seats serving hotlines that are purely enabled
+ Automatic Reply. Human agent seats serving hotlines that are purely enabled
 thereby need to manually look up relevant background information pertaining to the
 calling citizens’ questions and answer accordingly. By contrast, our NLU
 technology supports the automatic search of pertinent answers from backend
 systems or against service protocols, and reply accordingly. This saved searching
 and processing time therefore shortens the service process per call and improves the
 hotlines’ operation efficiency;
-(cid:129) Work Ticketing. In the case of citizen requests that would need further handling by
+ Work Ticketing. In the case of citizen requests that would need further handling by
 being distributed to the relevant departments, human agent seats usually need to
 spend a substantial amount of time analyzing and summarizing the requests, which
 isnotonlyinefficientbutalsopronetoerror.Rather,ourASRandNLGtechnologies
@@ -10712,7 +10712,7 @@ allow intelligent analysis of the work tickets automatically generated thereby, 
 grouping of the same based on factors including subject matters, localities,
 competent authorities, and levels of priority, therefore allowing them to be
 accurately distributed to the relevant departments;
-(cid:129) Quality Assurance. Our ASR technology also enables 100% full-volume
+ Quality Assurance. Our ASR technology also enables 100% full-volume
 performance quality assessment on the agent seats’ service process, which lifts the
 burden of human-based conversation quality assurance characterized by selective
 assuranceduetohigh-volumeconversationstobeassessedversuslimitednumberof
@@ -10724,7 +10724,7 @@ with their standards inevitably difficult to be unified); and
 
 === PAGE 260 ===
 BUSINESS
-(cid:129) Automatic Feedback Collection. Our NLG and TTS technologies also enable
+ Automatic Feedback Collection. Our NLG and TTS technologies also enable
 automatic return calls to collect feedback on the status of request completion and
 thus conveniently satisfy city administrators’ outbound communication needs,
 especially during material events, without cumbersome human agent involvement.
@@ -10733,7 +10733,7 @@ operations but also ensure the responsiveness of the administrative service
 platforms.
 See below for concrete technological steps involved in the operation of such “12345”
 hotlines that can be empowered by our unified communication technologies:
-(cid:129) Platform Integration. Our unified communication technological capabilities could
+ Platform Integration. Our unified communication technological capabilities could
 realize the integration of the hotlines with other administrative communication
 systems, such as risk monitoring systems and cross-department communication
 systems, as well as the communications via omni-channel accesses, into one unified
@@ -10741,7 +10741,7 @@ platform. Since administrative service platforms established upon singular
 communication channels will lead to redundancies of administrative resources
 allocatedandinefficiencyintherelevantdepartment’shandlingthematterpromptly,
 this interconnectivity substantially adds to the hotlines’ operational values; and
-(cid:129) Multiple-Channel Feedback Collection. To match with citizen’s diverse
+ Multiple-Channel Feedback Collection. To match with citizen’s diverse
 communication habits, our unified communication technologies also enable
 feedback collection requests to be transmitted via multiple communication channels
 integrated, including WeChat, text messages and emails according to customized
@@ -10806,7 +10806,7 @@ him/her applying our pre-formulated scripts and based upon our scenario-customiz
 knowledge base, after which a work ticket summarizing the fire report would be automatically
 generated. See below for concrete technological steps involved in the fire reporting process
 that were empowered by our core conversational AI and unified communication technologies:
-(cid:129) Streamlined Fire Alarm Response. The traditional fire alarm handling procedure
+ Streamlined Fire Alarm Response. The traditional fire alarm handling procedure
 involvesthealarmoperatorfirstlyreceivingthefirealarmandconfirmingtheplanar
 location and specific floor of the fire, and then notifying relevant onsite personnel.
 This process would elongate the dispatch time and impact rescue efficiency. Instead,
@@ -10824,7 +10824,7 @@ the disaster response efficiency; and
 
 === PAGE 263 ===
 BUSINESS
-(cid:129) Multi-Channel Fire Scene Evaluation and Communication. Our unified
+ Multi-Channel Fire Scene Evaluation and Communication. Our unified
 communication technological capabilities of integrating video calls allowed videos
 fromtheemergencycallerendtoreachthefirecenter.Thisspecificallyallowedstaff
 handlingthemattertocapturethescenethroughtransmissionsofvideosignals,such
@@ -10849,7 +10849,7 @@ companies. The number of customers to whom our solutions in automotive and trans
 had been offered during the Track Record Period increased from 52 in 2021 to 57 in 2022, and
 further to 66 in 2023. Specifically, we offer solutions that are primarily used in the following
 areas:
-(cid:129) Customer Service. We are a seasoned provider for customer service solutions for
+ Customer Service. We are a seasoned provider for customer service solutions for
 automobile companies covering the whole process of their customer contact needs,
 ranging from pre-sale consultations, product sales and marketing to customer
 follow-ups. Depending upon the automobile companies’ specific requirements on
@@ -10862,7 +10862,7 @@ their service processes and improving their service efficiency.
 
 === PAGE 264 ===
 BUSINESS
-(cid:129) InternetofVehicles(IoV)Service.IoVserviceprovidesanothertypicalautomotive
+ InternetofVehicles(IoV)Service.IoVserviceprovidesanothertypicalautomotive
 and transportation application for our technologies, in which we have accumulated
 service experiences for more than one decade. Our solutions enable a smart cockpit
 by empowering the data transmission and interactions between vehicles and the
@@ -10874,7 +10874,7 @@ intelligent analysis of the same, thereby facilitating the intelligent schedulin
 vehicle resources and route navigation. In short, our IoV service realizes data
 interconnectivity and intelligent in-cabin interactions with respect to manned
 vehicles.
-(cid:129) Vehicle-to-Everything (V2X). In addition to the above manned vehicles-related
+ Vehicle-to-Everything (V2X). In addition to the above manned vehicles-related
 application, we have also penetrated into the emerging V2X scenario, a major
 technological path to realize autonomous vehicles. Specifically, our technologies
 facilitate the conversational AI-empowered sharing of information between ICVs
@@ -10922,7 +10922,7 @@ workflow tools
 Seebelowforconcretetechnologicalstepsinvolvedintheoperationofsuchmultinational
 intelligent customer service centers that were empowered by our unified communication, core
 conversational AI and general AI technologies:
-(cid:129) Transnational Signal Transmission. As communication signals in different
+ Transnational Signal Transmission. As communication signals in different
 countries or regions may be transmitted based upon different protocols, the
 technologies of a solution provider serving such multinational customer service
 centers have to be compatible with different protocols and communication methods.
@@ -10931,7 +10931,7 @@ international CTI protocols, i.e., TAPI, TSAPI and CSTA, and the three major typ
 ofsignalcommunicationmethods,i.e.,analogtransmission,digitaltransmissionand
 SIP-based communications, which made the centers’ multinational operation
 possible;
-(cid:129) Recognition of Foreign Language. Operating customer service centers across
+ Recognition of Foreign Language. Operating customer service centers across
 multiple countries introduces language diversity challenges, as many regions have
 relatively lower-usage native languages that pose difficulties for accurate speech
 recognition. OurASR technology overcame this technological challenge based upon
@@ -10949,7 +10949,7 @@ satisfaction due to the removal of language barriers; and
 
 === PAGE 266 ===
 BUSINESS
-(cid:129) Allocation ofAgent Seat Resource. In addition to our unified communications and
+ Allocation ofAgent Seat Resource. In addition to our unified communications and
 core conversational AI technologies, our general AI technologies could realize the
 intelligentroutingofincomingcallstoavailableagentseats.Multinationalcustomer
 service centers regularly handle complex and diverse customer issues, which can
@@ -10972,11 +10972,11 @@ wide array of metrics, including statistics on agent seats and calls received/ma
 companies could have a comprehensive understanding of the overall service performance of
 customer service centers. A latest screenshot of one of such interfaces for a reputed logistics
 company is set forth in the following graphic:
-(cid:27)
-(cid:23)
-(cid:24) (cid:28)
-(cid:25) (cid:29)
-(cid:26) (cid:29)
+ 
+ 
+ 
+ 
+ 
 Notes:
 (1) Basic information, including access date and time, and manager account
 (2) Overview of call-answering statistics of the past seven days
@@ -11028,7 +11028,7 @@ Firstly, based upon the vehicles’ performance ability and the actual topograph
 conditions, our technologies enabled the intelligent scheduling of ICVs from multiple aspects,
 ensuring that they followed the optimal routes intelligently planned to effectively avoid
 congestions, road hazards and on-going constructions, including:
-(cid:129) Vehicle-to-Network (V2N) and Infrastructure-to-Network (I2N) Coordination.
+ Vehicle-to-Network (V2N) and Infrastructure-to-Network (I2N) Coordination.
 Our unified communication technological capabilities enabled the high-speed
 transmission of a variety of signals including images, videos, voices and texts
 generated from on-board units, as well as the roadside units arranged by us, to the
@@ -11038,7 +11038,7 @@ intelligent stations. Our unified communication technological capabilities were
 crucial to the successful operation of ICVs, given that traditional communications
 technology supporting data transmission in singular medium form is not sufficient
 for high-speed transmission of multimodal data required in ICV-related scenarios;
-(cid:129) Intelligent Scheduling of ICVs. Our comprehensive core conversational AI
+ Intelligent Scheduling of ICVs. Our comprehensive core conversational AI
 technologies empowered the intelligent scheduling of ICVs primarily by enabling
 the intelligent speech interactions between ICVs and passengers. Specifically, our
 ASR technology could transcribe passengers’ vocal commands and questions into
@@ -11054,11 +11054,11 @@ in-cabin collaboration was needed. Besides, our ASR and NLU technologies also
 enabled thorough quality assessment and assurance on the service processes of the
 control center, so that it could rigorously perform its control function for safety
 purpose;
-(cid:129) Route Optimization. In addition to our core conversational AI technologies, our
+ Route Optimization. In addition to our core conversational AI technologies, our
 general AI algorithms could analyze massive amounts of real-time traffic data and
 information to automatically generate optimized routes for ICVs, which ensured
 their safety when operated in the said complex topographical conditions; and
-(cid:129) Integration of External Devices. Besides our AI technologies, we also provided
+ Integration of External Devices. Besides our AI technologies, we also provided
 neighboring parks, shopping malls and businesses with access to the ICV
 management system through APIs based upon our unified communication
 technological capabilities, which allowed integration of external devices into the
@@ -11080,12 +11080,12 @@ side interface tools enabled by our product engine technologies that we provided
 detailed analysis of ICVs’ operations through visualized roadmaps, as well as the remote
 configurationofstationsandroutesandmanagementofvariouson-boardandroadsidedevices.
 A latest screenshot of such an interface is set forth in the following graphic:
-(cid:27)
-(cid:23)
-(cid:24)
-(cid:28)
-(cid:25)
-(cid:26)
+ 
+ 
+ 
+ 
+ 
+ 
 Notes:
 (1) Basic column entrances, including smart intersections, unmanned shuttle buses and unmanned retail vehicles
 (2) Basic information panel, including coverage area, smart road coverage, 5G network coverage and length of
@@ -11168,7 +11168,7 @@ solutions not only save users from investing heavily at the upfront for their co
 equipment, but also necessitate no additional working space or maintenance personnel. See
 below for concrete examples of our unified communication technologies empowering the
 functionalities of such cloud-based phone systems:
-(cid:129) Scalability of Communication Resources. Our unified communication
+ Scalability of Communication Resources. Our unified communication
 technological capabilities allow unlimited extensions of amount of terminals
 without additional installment or implementation costs incurred for users, thus
 satisfying enterprises’ scalable communication demand; and
@@ -11176,7 +11176,7 @@ satisfying enterprises’ scalable communication demand; and
 
 === PAGE 272 ===
 BUSINESS
-(cid:129) Integration of Multimodal Information and Devices. Our unified communication
+ Integration of Multimodal Information and Devices. Our unified communication
 technological capabilities also can realize the transmission of multimodal
 information (voices, videos and images, etc.) through multiple types of
 communication terminals including mobile phone, landlines and VoIP phones, and
@@ -11186,7 +11186,7 @@ resources and tying the same to employees’ mobile devices, each individual is 
 to be contacted easily both externally and internally and via different devices.
 See below for the conversational AI empowerment of such cloud-based phone systems
 that further makes our solutions attractive:
-(cid:129) Interactive Voice Response. If an employee is occupied and unable to immediately
+ Interactive Voice Response. If an employee is occupied and unable to immediately
 address upcoming calls, he or she can activate the automated interactive voice
 response system enabled by our core conversational AI technologies. Specifically,
 ourNLPtechnologyhelpsunderstandingthecaller’sintentand,incombinationwith
@@ -11194,7 +11194,7 @@ our TTS technology, navigates the caller through the menus and provides relevant
 responses through natural language. As such, this self-service functionality acts as
 a versatile tool to handle inbound calls and alleviates employees from repetitive,
 low-complexity calls when their availability is limited; and
-(cid:129) Speech-Based Call Initiation. Our ASR technology also enables employees to
+ Speech-Based Call Initiation. Our ASR technology also enables employees to
 initiate calls hands-free by delivering voice instructions, which makes manual
 initiation that is time-consuming and cumbersome in enterprise-level settings
 unnecessary.
@@ -11236,14 +11236,14 @@ information and sending task reminders, such intelligent work badges are empower
 conversational AI technologies for users to effectively monitor the work performance of
 employees wearing them. See below for concrete examples of our core conversational AI
 technologies empowering the functionalities of such intelligent work badges:
-(cid:129) Speaker Identification. With our voiceprint recognition technology which
+ Speaker Identification. With our voiceprint recognition technology which
 accurately separates and extracts audio sources and ensures oriented collection,
 users can realize through the intelligent work badges audio recording of work-
 related activities in designated working areas with respect to employees who have
 signedtoconsenttowearingsuchbadges.Thisapplicationensuresthatvoicesofthe
 persons with whom an employee carrying the badge is interacting will not be
 wrongfully recorded; and
-(cid:129) Performance Supervision. Afterwards, our ASR technology can accurately
+ Performance Supervision. Afterwards, our ASR technology can accurately
 transform such recordings into texts, the service quality indicated thereby is then
 completely and automatically assessed based upon our NLU and emotion
 recognition technologies against the pre-designed protocols on triggering
@@ -11329,7 +11329,7 @@ BUSINESS
 See below for concrete technological steps involved in the service process of such
 intelligent virtual agents that can be empowered by our core conversational AI and unified
 communication technologies:
-(cid:129) Voice Interactions. Our comprehensive core conversationalAI technologies enable
+ Voice Interactions. Our comprehensive core conversationalAI technologies enable
 the intelligent virtual agents to intelligently fulfill various functions in relation to
 telephone banking, such as queries, transaction instructions, marketing,
 identification and customer complaints. Specifically, our ASR technology
@@ -11344,11 +11344,11 @@ transaction lookups and card services, etc. In situations where outbound
 communication is needed for purposes like payment reminders, our TTS technology
 allows intelligent virtual agents to automatically reaching out to customers
 conversationally over phone;
-(cid:129) Sentiment Detection. Moreover, our emotion recognition technology embedded
+ Sentiment Detection. Moreover, our emotion recognition technology embedded
 ensures an accurate detection and understanding of the callers/callees’emotions by
 analyzing their voices, therefore providing them with contextualized responses and
 leading to a more thoughtful service process; and
-(cid:129) Escalation to Human Agent. In addition to our core conversational AI
+ Escalation to Human Agent. In addition to our core conversational AI
 technologies, our unified communication technologies enable transferring calls
 smoothly to human agent seats in situations where the customers require additional
 assistance. Such human agent seats will in turn interact therewith based upon the
@@ -11479,7 +11479,7 @@ BUSINESS
 See below for concrete technological steps involved in the operation of the membership
 management and service platform that can be empowered by of our core conversationalAI and
 unified communication technologies:
-(cid:129) Member Interaction. The intelligent virtual agents based upon our core
+ Member Interaction. The intelligent virtual agents based upon our core
 conversational AI technologies embedded in the campaign management system
 assisted the company in delivering enhanced member engagement and services
 through intelligent interactions. Specifically, our NLU technology could understand
@@ -11497,7 +11497,7 @@ could be used to deeply analyze members’ actual intent, and accordingly revert
 detailed results in response to their questions. Functioning coordinately, our above
 technologies not only optimized costs for the company by automating common
 requests but also delivered consistent and scalable member services; and
-(cid:129) Data Integration. Our unified communication technological capabilities allowed
+ Data Integration. Our unified communication technological capabilities allowed
 omni-channel access for members via a number of mobile user interfaces and
 applications of the company, as well as full integration of data through various other
 E-commerce platform-based membership systems. Such unification of multiple
@@ -11640,22 +11640,22 @@ customers, from which we generated revenue
 BUSINESS
 Thefollowingdiagramillustratesourrevenuemodelaswellastheserviceflowandfunds
 flow in relation to our solutions:
-softw p a lu re s s o o h l n a u l r t y d io / w s n o a s f r t e w are System off o e u ri r n s g o s l b u u ti n o d n l s inngg (cid:129) EEEEEEEEEEnn G te o r v U p e r r s n i e s m r e s e - n L ta e l vel
+softw p a lu re s s o o h l n a u l r t y d io / w s n o a s f r t e w are System off o e u ri r n s g o s l b u u ti n o d n l s inngg EEEEEEEEEEnn G te o r v U p e r r s n i e s m r e s e - n L ta e l vel
 Integrators* entities
-SSSSSSSSSSSSuppliers (cid:129) Automobile
-(cid:129) Communication companies
-(cid:129) (cid:129) d S c n te o e e e l m t v e r w v i c p c e o o e u r m r s s t k e m a r a n s u n d n d ic o a th ti e o r n hardware sof p tw l s u o a s l r u h e t a i o o r n d n l w s y a /s r o e f tware (cid:129) (cid:129) (cid:129) T c F O o i e t n m h l a e e p n c r a o c e n i m n a i l e t m e s I r u n p n s r t i i i c s t a u e t s t i i . o o .. n ns
+SSSSSSSSSSSSuppliers Automobile
+ Communication companies
+ d S c n te o e e e l m t v e r w v i c p c e o o e u r m r s s t k e m a r a n s u n d n d ic o a th ti e o r n hardware sof p tw l s u o a s l r u h e t a i o o r n d n l w s y a /s r o e f tware T c F O o i e t n m h l a e e p n c r a o c e n i m n a i l e t m e s I r u n p n s r t i i i c s t a u e t s t i i . o o .. n ns
 resources...
 EEEEEEEEEEEEEEEnnterprise-Level
 Users*
-(cid:129) Governmental
+ Governmental
 entities
-(cid:129) Automobile
+ Automobile
 companies
-Serviceflow (cid:129) Telecommunication
+Serviceflow Telecommunication
 Fundsflow companies
-(cid:129) FinancialInstitutions
-* As our customers (cid:129) Otherenterprises...
+ FinancialInstitutions
+* As our customers Otherenterprises...
 Specifically, our customers for our solutions during theTrack Record Period included: (i)
 system integrators that embedded our solutions into their offerings to enterprise-level users;
 and (ii) enterprise-level users that used our solutions directly. The following table sets forth a
@@ -13011,14 +13011,14 @@ requirements.InadditiontoourcompletelyAItechnologies,wehavedevelopedaself-adapti
 algorithm engine that is able to automatically switch among algorithms and apply the most
 optimal one for the specific conversational format and scenario. Highlights of the same are set
 forth below:
-(cid:129) ASR. Our ASR technology allows high-performance and real-time conversion of
+ ASR. Our ASR technology allows high-performance and real-time conversion of
 human speech into computer-processable inputs. Compatible with the speech inputs
 of multiple languages, our ASR technology’s accuracy rates for recognizing a
 variety of foreign languages such as English, Vietnamese and Thai, etc., as well as
 Chinesedialectsalsoleadaheadtheindustryaverage.Forinstance,theaccuracyrate
 for recognizing the dialect from Anyang, Henan has reached 95.2%, based on our
 existing testing.
-(cid:129) Emotion Recognition. Based upon our algorithms extracting acoustic features from
+ Emotion Recognition. Based upon our algorithms extracting acoustic features from
 speech signals, such as tone, volume and speed, we also have emotion recognition
 technology that specifically processes and analyzes emotions of the speaker and
 categorizes them into types such as happiness, anger, sadness and anxiety, etc.
@@ -13031,7 +13031,7 @@ specific conversational scenarios, such as those related to customer services.
 
 === PAGE 300 ===
 BUSINESS
-(cid:129) Knowledge Graphs. Our knowledge graphs are a set of intelligent knowledge
+ Knowledge Graphs. Our knowledge graphs are a set of intelligent knowledge
 management and application systems featuring graphical organization and
 presentation of, and structural storage of and interrelationships between, knowledge
 related to different business operations, as well as automatic reasoning and
@@ -13048,7 +13048,7 @@ of users, and revert with accurate and comprehensive result information, which h
 huge application potentials in addressing users’ query needs. Leveraging our
 continuous service for different end-customer industries for decades, we are able to
 develop industry-tailored knowledge graphs for different users.
-(cid:129) NLU. Our NLU technology realizes the intelligent analysis of texts by
+ NLU. Our NLU technology realizes the intelligent analysis of texts by
 understanding logics and semantic structures in natural language interactions.
 Specifically, it enables functions including lexical and syntactic analysis
 (constructing a syntax tree through the identification, disambiguation, word
@@ -13064,7 +13064,7 @@ algorithms support rapidly trainings based upon different languages through soli
 learning of local language materials, which can then be efficiently put into our
 natural language-related functional modules for use and thus substantially enhances
 our engineering capabilities of globally implementing our solutions.
-(cid:129) NLG. Our NLG technology can generate natural language texts based upon our
+ NLG. Our NLG technology can generate natural language texts based upon our
 algorithms and models. In addition to being applied in human-machine interaction-
 related scenarios where texts could be automatically and intelligently generated for
 making responses, the technology also supports generation of summary accounts
@@ -13075,7 +13075,7 @@ management and operation more convenient and efficient.
 
 === PAGE 301 ===
 BUSINESS
-(cid:129) TTS. With the unique intelligent voice controller enabled by the neural network
+ TTS. With the unique intelligent voice controller enabled by the neural network
 speech synthesis engine, our TTS technology can intelligently convert texts into
 natural speech streams and generate smooth, natural and highly human-like audio
 output with expectation-met timbre for listeners in real time, without the raw feeling
@@ -13085,7 +13085,7 @@ output details as volume, speed, pronunciation of specific words and/or terms, v
 features (by female or male) and language (in Mandarin, English or Chinese local
 accents, etc.) according to their specific needs in concrete application scenarios of
 different end-customer industries.
-(cid:129) Self-Adaptive Algorithm Engine. Through developing our solutions to satisfy
+ Self-Adaptive Algorithm Engine. Through developing our solutions to satisfy
 diverse user needs, we have accumulated a number of AI algorithms that are
 respectively at its best in different scenarios and functions (e.g., short texts vs. long
 texts; real time vs. non-real time), including round-robin algorithms, convolution
@@ -13094,7 +13094,7 @@ Accordingly, we are able to embed within our solutions algorithm engine which is
 self-adaptive to different scenarios to allow better performance of our solutions.
 In addition, our core technologies in unified communications andAI as two technological
 pillars synergize with each other effectively. For instance,
-(cid:129) Unified communication technologies effectively synergize withAI technologies.
+ Unified communication technologies effectively synergize withAI technologies.
 Leveraging our strong unified communication technological capabilities, our
 voiceprint recognition technology is uniquely empowered by our technologies
 analyzing the underlying communication protocols used for transmission of signals
@@ -13106,7 +13106,7 @@ analysis of conversations involving multiple speakers. Also, our unified
 communication technologies add on our ASR technology through the capability of
 recognizing and withholding background noise involved in the conversation to
 ensure the accuracy of speech recognition.
-(cid:129) AI technologies effectively synergize with unified communication technologies.
+ AI technologies effectively synergize with unified communication technologies.
 As to scenarios related to identity authentication over telephones, which have
 traditionally been realized by password inputs based on telephone-routing
 technology,theycanfurtherbeempoweredbyourvoiceprintrecognitiontechnology
@@ -13221,13 +13221,13 @@ We plan to continue to enhance our technological capabilities by exploring into 
 areas with which our conversational AI technologies have promising expansion potentials.
 Specifically, we have identified several key technological areas on which we have initiated
 concrete projects, including:
-(cid:129) Reinforcement Learning, Transfer Learning and Federated Learning. We will
+ Reinforcement Learning, Transfer Learning and Federated Learning. We will
 continue our fundamental AI technological explorations under the self-supervised
 learning framework into reinforcement learning, transfer learning and federated
 learning, aiming at further reducing the dependence ofAI algorithms training on the
 amount of data, and significantly enhancing the generalization ability of our
 algorithms.
-(cid:129) Visualizable Conversational AI Empowered by Computer Vision AI. We will
+ Visualizable Conversational AI Empowered by Computer Vision AI. We will
 endeavor to strengthen our technological accumulations in visualizable
 conversational AI that is further empowered by computer vision AI technologies.
 For instance, we aim to launch digital avatars with humanized images based upon
@@ -13238,7 +13238,7 @@ applied in not only customer service scenarios in which it can recognize the
 customers’facialexpressionstointeracttherewithinamorehuman-likefashion,but
 also in wider areas that have demand for more vivid and engaging conversational
 interaction experiences.
-(cid:129) Next-Generation Unified Communications Compatible with Visualizable
+ Next-Generation Unified Communications Compatible with Visualizable
 Conversational AI. Always committed to providing full-stack solutions, we have
 also been exploring into the cutting-edge of unified communication technologies
 compatible with the aforementioned visualizable conversational AI, especially
@@ -13441,22 +13441,22 @@ innovate sustainably and continually expand our technological boundaries, throug
 process they also gain valuable experiences and know-how on solution development that will
 further underpin our strong research and development capabilities. Key steps in our solution
 development process typically consist of:
-(cid:129) Preliminary Study and Communication. We firstly conduct insightful study and
+ Preliminary Study and Communication. We firstly conduct insightful study and
 understand the relevant technological developments and trends, as well as take
 initiatives on industry-oriented research to collect demands, requirements and
 preferences from the existing and prospective users of our solutions.
-(cid:129) Technological Demand Characterization and Analysis. After our preliminary
+ Technological Demand Characterization and Analysis. After our preliminary
 study and communication, we then characterize the specific technological
 requirementsfromtheusers,analyzeourcorecompetitivestrengthsintherespective
 end-customer industries, and establish a clear priority among different demands and
 pain points.
-(cid:129) Project Establishment and Design. We define the key functional and performance
+ Project Establishment and Design. We define the key functional and performance
 parameters to address user demand, develop a detailed project schedule, establish
 efficient workflows and progress monitoring, and set up definitive goals and
 deliverables.
-(cid:129) PilotLaunch.Afterwedeveloptheframeworkdesign,wewillcompletethecoding,
+ PilotLaunch.Afterwedeveloptheframeworkdesign,wewillcompletethecoding,
 testing and solution launch in-house.
-(cid:129) Continuous Optimization. Based on the feedback collected, we make continuous
+ Continuous Optimization. Based on the feedback collected, we make continuous
 efforts to optimize functions and performance of our solutions, and research into
 updated versions with improved features and functionalities where necessary.
 – 300 –
@@ -13596,17 +13596,17 @@ privacy, data protection, personal information protection, and personality right
 we have established data privacy policies to ensure that our data accessing and processing
 activities are for legitimate purposes and conducted in accordance with applicable laws and
 regulations, for instance:
-(cid:129) We strictly process data in the manner that has the least impact on the rights of data
+ We strictly process data in the manner that has the least impact on the rights of data
 subjects. We process data with specific and reasonable purpose, which is limited to
 the minimum scope for achieving the purpose of optimizing our AI models and
 solutions, and data shall not be used for any purpose irrelevant to such purpose;
-(cid:129) BeforeAI models training, we ensure that the input data are not used for individual
+ BeforeAI models training, we ensure that the input data are not used for individual
 identification purposes and are contents pre-treated without personal identifiable
 information attached in nature;
-(cid:129) We implement internal authentication and authorization mechanisms to ensure that
+ We implement internal authentication and authorization mechanisms to ensure that
 the data we process can only be accessed by authorized personnel, with visit records
 documented via system logs; and
-(cid:129) We annotate and conduct training on the data in accordance with the restricted
+ We annotate and conduct training on the data in accordance with the restricted
 purposes of usage and limited time frame of storage as stated in our agreements.
 After the collaborations are completed, we will proceed with deletion or destruction
 of the relevant data to comply with our corresponding obligations promptly and
@@ -13751,19 +13751,19 @@ applicability of the Interim Measures on GAI: (i) whether the services are GAI S
 (ii) whether such services are offered to the public within China. Our PRC LegalAdviser is of
 the view that the definition of “the public” under the Interim Measures on GAI is confined to
 individual users and does not apply to institution users, considering that:
-(cid:129) Textually, the term “the public” (公眾) in Chinese refers to the people, i.e., the
+ Textually, the term “the public” (公眾) in Chinese refers to the people, i.e., the
 general public. It is a collective term for many individuals;
 – 307 –
 
 === PAGE 317 ===
 BUSINESS
-(cid:129) Specifically, Article 2 of the Interim Measures on GAI provides that they will not
+ Specifically, Article 2 of the Interim Measures on GAI provides that they will not
 apply to the industrial organizations, enterprises, educational and scientific research
 institutions, public cultural institutions, and relevant professional institutions that
 develop and apply generative AI technologies and do not provide GAI Services to
 the public within China. Such clause reflects the legislative intent of regulating only
 the GAI Services to be used by individual users; and
-(cid:129) Inaddition,therearevariousotherdetailedrequirementsoftheInterimMeasureson
+ Inaddition,therearevariousotherdetailedrequirementsoftheInterimMeasureson
 GAI for services aimed at individual users, not enterprise-level services, for
 example: (a)Article 10 requires the service provider to disclose the target groups of
 people that its services are designed for and take measures to prevent minor users
@@ -13811,7 +13811,7 @@ used by individual users, or the public, to generate contents. However, after ex
 solutions and our business model, our PRC Legal Adviser believes that this “indirect
 provision” scenario is fundamentally different than the service process of our solutions
 deployed by enterprise-level users based on the following reasons:
-(cid:129) As illustrated by the abovementioned telephone banking solutions case study, the
+ As illustrated by the abovementioned telephone banking solutions case study, the
 functionalities enabled by the AI-based content generating modules embedded
 within our solutions are exclusively used by our enterprise-level users (institutions)
 and none of our solutions provides any data interfaces to allow them to make the
@@ -13826,7 +13826,7 @@ Voicecomm Solution functions are used by Communication through
 (including AI-based content enterprise-level users to generate
 voice or texts
 generating modules) customized responses, etc.
-(cid:129) Inaddition,fromatechnicalfeasibilityperspective,ourAI-basedcontentgenerating
+ Inaddition,fromatechnicalfeasibilityperspective,ourAI-basedcontentgenerating
 modules and other functional modules are encapsulated within our comprehensive
 solutions. Not developed as standalone applications, such modules are able to form
 acompleteprocessingflowonlywhencombinedwitheachothertojointlyassistour
@@ -14069,24 +14069,24 @@ payments from their end customers, which is in line with common practice in the 
 Giventhepotentialtradereceivablescollectionpressurearisingfromtheabovementioned
 business model of selling to system integrators, we have adopted a number of measures to
 specifically manage and mitigate this impact, which include that:
-(cid:129) we have implemented rigorous credit evaluation processes for system integrators to
+ we have implemented rigorous credit evaluation processes for system integrators to
 assess their creditworthiness and payment histories. Establishing credit terms based
 on the credit risk profile of each system integrator, we regularly monitor and review
 their credit exposures and payment performance. We also regularly consult publicly
 available information to gather their information and engage in direct dialogue
 therewith to stay informed about their operational status;
-(cid:129) we have adopted a detailed due diligence procedure to thoroughly evaluate the
+ we have adopted a detailed due diligence procedure to thoroughly evaluate the
 system integrators that we conduct business with to gain better visibility into the
 creditworthiness of their end customers. By assessing their customer base, we verify
 their track record, reputation, and ability to secure contracts with financially solid
 endcustomers,aswellasensurethattheyprimarilyservelargepublic-sectorentities
 supported with reliable funding sources and good credit status, well-established
 enterprises, or end customers with strong credit histories and financial solvency;
-(cid:129) With respect to the system integrators with considerable outstanding historical trade
+ With respect to the system integrators with considerable outstanding historical trade
 balances, we also plan to negotiate more favorable payment terms and consider
 requiring partial upfront payments to reduce credit exposure to the extent possible;
 and
-(cid:129) we have also been actively diversifying our own customer portfolio by pursuing
+ we have also been actively diversifying our own customer portfolio by pursuing
 direct relationships with enterprise-level users, where appropriate, and reduce any
 reliance on a limited number of system integrators, which can further help mitigate
 concentration risk and exposure to specific payment practices.
@@ -15664,25 +15664,25 @@ Information System and Data Security Risk Management
 We have established an information system and data security risk management
 framework, including relevant internal control policies and risk management mechanisms to
 ensure information and data security, which primarily consists of:
-(cid:129) internal authentication and authorization systems that set forth confidentiality
+ internal authentication and authorization systems that set forth confidentiality
 categorization and control access to data, so that confidential and data with
 importance can only be accessed for authorized use and limited purposes, and by
 authorized personnel;
-(cid:129) procedures for regular data backup, encryption and desensitization to prevent
+ procedures for regular data backup, encryption and desensitization to prevent
 unauthorized access, leakage, improper use or modification of, damage to or loss of
 data;
-(cid:129) adoption of multiple layers of safeguards, including both internal and external
+ adoption of multiple layers of safeguards, including both internal and external
 firewalls and anti-virus software, to identity and protect us against security attacks;
-(cid:129) procedures for regular system check, password policy and data recovery test to
+ procedures for regular system check, password policy and data recovery test to
 safeguard our information assets and ensure the proper data management;
-(cid:129) information security incident management policies that evaluate critical risks and
+ information security incident management policies that evaluate critical risks and
 set forth emergency plans for data security incidents;
-(cid:129) provision of information security training to our employees from time to time;
-(cid:129) security audits to be performed periodically and on an as-needed basis so as to
+ provision of information security training to our employees from time to time;
+ security audits to be performed periodically and on an as-needed basis so as to
 strengthen our security measures based on results thereof, which may include
 vulnerability scanning and intrusion detection, data inspection and risk
 identification, and security evaluation of idle equipment, etc.; and
-(cid:129) engagement of if necessary external legal counsel to review and update our internal
+ engagement of if necessary external legal counsel to review and update our internal
 policies and ensure continuous compliance with all applicable laws and regulations;
 – 354 –
 
@@ -15716,13 +15716,13 @@ to be invested.
 To monitor the ongoing implementation of our risk management policies and corporate
 governance measures after the Global Offering, we have also adopted or will adopt, among
 other things, the following risk management and internal control measures:
-(cid:129) the establishment of an audit committee responsible for overseeing our financial
+ the establishment of an audit committee responsible for overseeing our financial
 records, internal control procedures and risk management systems. For details of the
 qualifications and experiences of these committee members as well as a detailed
 description of the responsibility of our audit committee, see “Directors, Supervisors
 and Senior Management – Board Committees – Audit Committee” in this
 prospectus;
-(cid:129) the appointment of Mr. Wenzhao ZHANG as our chief financial officer and Ms.
+ the appointment of Mr. Wenzhao ZHANG as our chief financial officer and Ms.
 Yihan LIU and Mr. Willie Kai Cheong CHEUNG as our joint company secretaries
 to ensure the compliance of our operations with relevant laws and regulations. For
 details of their biographies, see “Directors, Supervisors and Senior Management” in
@@ -15731,9 +15731,9 @@ this prospectus;
 
 === PAGE 365 ===
 BUSINESS
-(cid:129) the appointment of Maxa Capital Limited as our compliance advisor upon the
+ the appointment of Maxa Capital Limited as our compliance advisor upon the
 Listing to advise us on compliance with the Listing Rules; and
-(cid:129) the engagement of external legal advisers to advise us on compliance with the
+ the engagement of external legal advisers to advise us on compliance with the
 Listing Rules and to ensure our compliance with the relevant regulatory
 requirements and applicable laws, where necessary.
 – 356 –
@@ -17541,8 +17541,8 @@ consideration for any effects of a significant financing component if the period
 === PAGE 411 ===
 FINANCIAL INFORMATION
 We generate substantially all of the revenues from the following services and products:
-(cid:129) Enterprise-level solutions;
-(cid:129) Other services primarily include promotion service.
+ Enterprise-level solutions;
+ Other services primarily include promotion service.
 Our enterprise-level solutions are offered either on software platform or solutions come
 with functionalities and interfacing capabilities tailored to customers’ operation environment
 integrated with communication devices or other hardware and other service and software
@@ -17568,9 +17568,9 @@ Property and Equipment
 The following items of property and equipment are stated at cost, which includes
 capitalized borrowing costs, less accumulated depreciation and any accumulated impairment
 losses:
-(cid:129) right-of-use assets arising from leasehold properties where we are not the registered
+ right-of-use assets arising from leasehold properties where we are not the registered
 owner of the property interest; and
-(cid:129) items of plant and equipment, including right-of-use assets arising from leases of
+ items of plant and equipment, including right-of-use assets arising from leases of
 underlying plant and equipment.
 – 402 –
 
@@ -17629,16 +17629,16 @@ measured as the present value of all expected cash shortfalls between contractua
 amounts.
 The expected cash shortfalls are discounted using the following rates if the effect is
 material:
-(cid:129) fixed-rate financial assets and trade and other receivables: effective interest rate
+ fixed-rate financial assets and trade and other receivables: effective interest rate
 determined at initial recognition or an approximation thereof;
-(cid:129) variable-rate financial assets: current effective interest rate.
+ variable-rate financial assets: current effective interest rate.
 The maximum period considered when estimating ECLs is the maximum contractual
 period over which we are exposed to credit risk.
 ECLs are measured on either of the following bases:
-(cid:129) 12-month ECLs: these are the portion of ECLs that result from default events that
+ 12-month ECLs: these are the portion of ECLs that result from default events that
 are possible within the 12 months after the reporting date (or a shorter period if the
 expected life of the instrument is less than 12 months); and
-(cid:129) lifetime ECLs: these are the ECLs that result from all possible default events over
+ lifetime ECLs: these are the ECLs that result from all possible default events over
 the expected lives of the items to which the ECL model applies.
 Loss allowances for trade receivables are always measured at an amount equal to lifetime
 ECLs.
@@ -17655,9 +17655,9 @@ experience and informed credit assessment, that includes forward-looking informa
 We assume that the credit risk on a financial asset has increased significantly if it is more
 than 30 days past due dates.
 We consider a financial asset to be in default when:
-(cid:129) the debtor is unlikely to pay its credit obligations to us in full, without recourse by
+ the debtor is unlikely to pay its credit obligations to us in full, without recourse by
 us to actions such as realising security (if any is held); or
-(cid:129) the financial asset is 90 days past due.
+ the financial asset is 90 days past due.
 ECLs are remeasured at each reporting date to reflect changes in the financial
 instrument’s credit risk since initial recognition.Any change in the ECL amount is recognized
 as an impairment gain or loss in profit or loss. We recognize an impairment gain or loss for all
@@ -17940,7 +17940,7 @@ administration solutions, in each case on a one-stop basis.
 During the Track Record Period, we generated our revenue primarily from providing our
 solutions in a number of end-customer industries, mainly including city management and
 administration, automotive and transportation, telecommunications, and finance:
-(cid:129) City Management andAdministration. Our solutions have primarily been applied
+ City Management andAdministration. Our solutions have primarily been applied
 in intelligent community (comprehensive governmental projects involving diverse
 application scenarios), intelligent administration and intelligent IoT, where our
 technologies contribute to the establishment of smart cities where city
@@ -17950,19 +17950,19 @@ city management and administrative services more convenient and intelligent.
 
 === PAGE 422 ===
 FINANCIAL INFORMATION
-(cid:129) Automotive and Transportation. Our solutions have primarily been applied in
+ Automotive and Transportation. Our solutions have primarily been applied in
 customer service for automobile and logistics companies, IoV service that enables
 a smart cockpit and facilitates the intelligent scheduling of vehicle resources and
 route navigation, as well as V2X autonomous driving, which helps realize a safe,
 convenient, intelligent and integrated automobile management and travel
 experience.
-(cid:129) Telecommunications. Our solutions can empower telecommunications companies’
+ Telecommunications. Our solutions can empower telecommunications companies’
 communicationtoolsandothervalue-addedservices,suchascloud-basedphoneand
 intelligent work badge. Such solutions allow various communication and
 management needs of the enterprises that have procured such communication tools
 and value-added services to be intelligently satisfied, while substantially lowering
 deployment and maintenance costs.
-(cid:129) Finance. Our solutions offered to financial institutions have been applied primarily
+ Finance. Our solutions offered to financial institutions have been applied primarily
 in telephone banking, thereby upgrading their customer services and promoting the
 comprehensive intelligent transformation of the finance industry. Additionally, we
 also offer solutions in service training that facilitate their internal processes.
@@ -19385,7 +19385,7 @@ the Latest Practicable Date, RMB187.2 million, accounting for approximately 26.6
 trade receivables as of December 31, 2023, had been subsequently settled.
 Notwithstanding the foregoing, our Directors are of the view that there is no material
 recoverability issue with our trade receivables, based upon the reasons set forth below:
-(cid:129) Recent Regulatory Development on Clearing up Overdue Payments. The PRC
+ Recent Regulatory Development on Clearing up Overdue Payments. The PRC
 central authorities in recent months have placed a strong emphasis on tackling the
 issue of the public sector’s overdue trade receivables owed to enterprises and urged
 concerted efforts from governmental bodies to proactively clear up trade balances
@@ -19406,7 +19406,7 @@ the Fiscal and Economic Affairs Committee of the 14th National People’s Congre
 況與2024年中央和地方預算草案的審查結果報告》) issued on March 8, 2024 made
 the suggestions for implementing the 2024 budgets and fiscal work that
 governments’overdue payments owed to enterprises shall be cleared up proactively.
-(cid:129) Our Internal Policies and Measures to Manage the Recovery of Our Trade
+ Our Internal Policies and Measures to Manage the Recovery of Our Trade
 Receivables. We have adopted polices and measures to manage our credit risks and
 trade receivables. With respect to customer credit management, we have grouped
 customers into different credit risk levels and monitor such credit risk levels
@@ -19455,7 +19455,7 @@ These evaluations focus on the customer’s past history of making payments when
 due and current ability to pay, taking into account information specific to the
 customer as well as pertaining to the economic environment in which the customer
 operates.
-(cid:129) Solid Credit History of OurCustomers and OurStable RelationshipTherewith.
+ Solid Credit History of OurCustomers and OurStable RelationshipTherewith.
 During the Track Record Period, a significant portion of our solutions were offered
 to the public sector, and we had been expanding our business in the public sector.
 Enterprise-level users from the public sector, mainly including governmental
@@ -19476,7 +19476,7 @@ industries, their financial position, past experience and other factors, we were
 aware of any significant changes in their credit status during the Track Record
 Period. Moreover, we did not have any material disagreement or disputes with our
 customers on trade receivables during the Track Record Period.
-(cid:129) Sufficient Loss Allowance Made on Trade Receivables. Our Directors confirm
+ Sufficient Loss Allowance Made on Trade Receivables. Our Directors confirm
 that sufficient loss allowance has been made on our trade receivables during the
 Track Record Period, as we prudently conduct periodic assessment to closely
 monitor our credit exposure and identify significant increases in credit risks, and,
@@ -20173,10 +20173,10 @@ according to PRC accounting principles, which differ in many aspects from the ge
 accepted accounting principles in other jurisdiction, including the IFRS. According to the
 applicable PRC laws and our Articles of Association, we will pay dividends out of our profit
 after tax only after we have made the following allocations:
-(cid:129) recovery of the losses incurred in the previous year;
-(cid:129) allocations to the statutory common reserve equivalent to 10% of our profit after tax
+ recovery of the losses incurred in the previous year;
+ allocations to the statutory common reserve equivalent to 10% of our profit after tax
 until such reserve has reached more than 50% of our registered capital; and
-(cid:129) allocationtoadiscretionarycommonreserveofourprofitaftertaxthatareapproved
+ allocationtoadiscretionarycommonreserveofourprofitaftertaxthatareapproved
 by a shareholders’ meeting.
 – 470 –
 
@@ -20289,7 +20289,7 @@ underwriting commissions and other estimated expenses paid and payable by us in 
 with the Global Offering and assuming that the Over-allotment Option is not exercised.
 WecurrentlyintendtousethenetproceedsweexpecttoreceivefromtheGlobalOffering
 for the following purposes and in the amounts set out below.
-(cid:129) Approximately 60.0%, or HK$343.0 million, will be used to enhance the
+ Approximately 60.0%, or HK$343.0 million, will be used to enhance the
 fundamental research on our key technologies, improve the development of our
 standardizedsolutionsanditerativelylaunchdiversecommercializationapplications
 and functions for more business scenarios. We plan to further apportion the use of
@@ -20456,7 +20456,7 @@ For details of our exemplary external collaborations during the Track
 Record Period, see “Business – Our Technologies – AI Technologies –
 Technological Collaboration” and “Business – Research and
 Development” in this prospectus.
-(cid:129) Approximately 20.0%, or HK$114.3 million, will be allocated to expand our
+ Approximately 20.0%, or HK$114.3 million, will be allocated to expand our
 solution offerings, build our brand and enhance our commercialization capabilities.
 By leveraging our go-to-market strategies and accumulated industry insights proven
 to be successful in serving our four key end-customer industries, we plan to
@@ -20494,7 +20494,7 @@ the next three years upon the Listing;
 collaborating with our eco-partners in other forms of marketing. We will
 build an eco-collaboration department to promote our brand awareness
 among our existing and potential customers and users.
-(cid:129) Approximately 10.0%, or HK$57.2 million, will be used to pursue domestic and
+ Approximately 10.0%, or HK$57.2 million, will be used to pursue domestic and
 overseas strategic investment and acquisition opportunities, so as to implement our
 long-term growth strategy to optimize our solutions and expand and penetrate the
 end-customer industries that we cover. Specifically, we plan to select businesses (i)
@@ -20520,7 +20520,7 @@ non-controlling) and may consider other forms of investment such as debt or that
 with convertible features if such are better suited for the need of the transaction,
 evaluated on a case-by-case basis. As of the Latest Practicable Date, we did not
 identify any investment and acquisition target in this regard.
-(cid:129) Approximately 10.0%, or HK$57.2 million, will be used for general corporate
+ Approximately 10.0%, or HK$57.2 million, will be used for general corporate
 purposes.
 – 479 –
 
@@ -21763,13 +21763,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the White Form eIPO service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the White Form eIPO service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the
 person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or close associates; or
-(cid:129) are a Director, Supervisor or any of his/her close associates.
+ are an existing Shareholder or close associates; or
+ are a Director, Supervisor or any of his/her close associates.
 – 511 –
 
 === PAGE 521 ===
@@ -21851,19 +21851,19 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual/Joint Applicants For Corporate Applicants
-(cid:129) Full name(s)2 as shown on your (cid:129) Full name(s)2 as shown on your
+ Full name(s)2 as shown on your Full name(s)2 as shown on your
 identity document identity document
-(cid:129) Identity document’s issuing country (cid:129) Identity document’s issuing country
+ Identity document’s issuing country Identity document’s issuing country
 or jurisdiction or jurisdiction
-(cid:129) Identity document type, with order (cid:129) Identity document type, with order
+ Identity document type, with order Identity document type, with order
 of priority: of priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification ii. Certificate of incorporation; or
 document; or
 iii. Business registration
 iii. Passport; and certificate; or
-(cid:129) Identity document number iv. Other equivalent document; and
-(cid:129) Identity document number
+ Identity document number iv. Other equivalent document; and
+ Identity document number
 Notes:
 1. If you are applying through the White Form eIPO service, you are required to provide a valid e-mail
 address,acontacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclarethatthe
@@ -21900,9 +21900,9 @@ above.
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -22149,21 +22149,21 @@ application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “– A. Application for Hong Kong Offer Shares – 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
 – 521 –
 
 === PAGE 531 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Sole Overall Coordinator believe that by accepting your application, it or
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Sole Overall Coordinator believe that by accepting your application, it or
 we would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -22266,9 +22266,9 @@ accounts post at your own risk
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Friday, July 5, 2024 if, there is/are:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ Extreme Conditions,
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Friday, July 5, 2024.
 – 524 –
@@ -22344,7 +22344,7 @@ supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund cheque and White Form e-Refund payment
+ processing your application and refund cheque and White Form e-Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of
 allocation of Hong Kong Offer Shares;
@@ -22352,19 +22352,19 @@ allocation of Hong Kong Offer Shares;
 
 === PAGE 536 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the Shares and/or regulators and/or any other purposes to which
 applicants and holders of the Shares may from time to time agree.
@@ -22374,9 +22374,9 @@ for and holders of Hong Kong Offer Shares will be kept confidential but the Comp
 H Share Registrar may, to the extent necessary for achieving any of the above purposes,
 disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to, from
 or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving banks and
+ the Company’s appointed agents such as financial advisers, receiving banks and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and
 operating FINI and CCASS (including where applicants for the Hong Kong Offer
@@ -22385,14 +22385,14 @@ Shares request a deposit into CCASS);
 
 === PAGE 537 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H
 Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of personal data
@@ -23358,8 +23358,8 @@ interestexpenseaccretedonthecontractliabilityundertheeffectiveinterestmethod.The
 the practical expedient in paragraph 63 of IFRS 15 and does not adjust the consideration for any effects of a
 significant financing component if the period of financing is 12 months or less.
 The Group generates substantially all of the revenues from the following services and products:
-(cid:129) Enterprise-level solutions;
-(cid:129) Other services primarily include promotion service.
+ Enterprise-level solutions;
+ Other services primarily include promotion service.
 The Group’s enterprise-level solutions are offered either on software platform or solutions come with
 functionalities and interfacing capabilities tailored to customers’ operation environment integrated with
 communication devices or other hardware and other service and software license. The Group determines that such
@@ -26448,8 +26448,8 @@ performing procedures to assess whether the applicable criteria used by the Dire
 compilation of the pro forma financial information provide a reasonable basis for presenting
 the significant effects directly attributable to the event or transaction, and to obtain sufficient
 appropriate evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the pro forma financial information reflects the proper application of those
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the pro forma financial information reflects the proper application of those
 adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgement, having regard
 to the reporting accountants’understanding of the nature of the Group, the event or transaction
@@ -27085,22 +27085,22 @@ After the new share issuance has been paid up, the change shall be registered wi
 company registration authorities and an announcement shall be made.
 According to the Company Law, when the company issues shares in registered form, it
 shall maintain a register of shareholders, stating the following matters:
-(cid:129) the name and domicile of each shareholder;
-(cid:129) the number of shares held by each shareholder;
-(cid:129) the serial numbers of shares held by each shareholder; and
-(cid:129) the date on which each shareholder acquired the shares.
+ the name and domicile of each shareholder;
+ the number of shares held by each shareholder;
+ the serial numbers of shares held by each shareholder; and
+ the date on which each shareholder acquired the shares.
 Reduction of Registered Capital
 Acompany may reduce its registered capital in accordance with the following procedures
 prescribed by the Company Law:
-(cid:129) the company shall prepare a balance sheet and an inventory of the assets;
-(cid:129) the reduction of registered capital shall be approved by a general meeting;
-(cid:129) the company shall inform its creditors of the reduction in registered capital within
+ the company shall prepare a balance sheet and an inventory of the assets;
+ the reduction of registered capital shall be approved by a general meeting;
+ the company shall inform its creditors of the reduction in registered capital within
 10 days and publish an announcement of the reduction in the newspaper within 30
 days after the resolution approving the reduction has been passed;
-(cid:129) creditors shall within 30 days after receiving the notice, or within 45 days of the
+ creditors shall within 30 days after receiving the notice, or within 45 days of the
 public announcement if no notice has been received, require the company to pay its
 debts or provide corresponding guarantees covering the debts;
-(cid:129) the company shall apply to the relevant administration of registration for the
+ the company shall apply to the relevant administration of registration for the
 registration of the reduction in registered capital.
 Repurchase of Shares
 According to the Company Law, a joint stock limited company may not purchase its
@@ -27157,23 +27157,23 @@ REGULATORY PROVISIONS
 Shareholders
 According to the Company Law, the rights of holders of ordinary shares of a joint stock
 limited company include:
-(cid:129) the right to attend or appoint a proxy to attend general meetings and to vote thereat;
-(cid:129) the right to transfer shares in accordance with laws, administrative regulations and
+ the right to attend or appoint a proxy to attend general meetings and to vote thereat;
+ the right to transfer shares in accordance with laws, administrative regulations and
 provisions of the articles of association;
-(cid:129) the right to inspect the company’s articles of association, share register, counterfoil
+ the right to inspect the company’s articles of association, share register, counterfoil
 of company debentures, minutes of general meetings, resolutions of meetings of the
 board of directors, resolutions of meetings of the board of supervisors and financial
 and accounting reports and to make proposals or enquiries on the company’s
 operations;
-(cid:129) the right to bring an action in the people’s court to rescind resolutions passed by
+ the right to bring an action in the people’s court to rescind resolutions passed by
 general meetings and board of directors where the articles of association is violated
 by the above resolutions;
-(cid:129) the right to receive dividends and other types of interest distributed in proportion to
+ the right to receive dividends and other types of interest distributed in proportion to
 the number of shares held;
-(cid:129) in the event of the termination or liquidation of the company, the right to participate
+ in the event of the termination or liquidation of the company, the right to participate
 in the distribution of residual properties of the company in proportion to the number
 of shares held; and
-(cid:129) other rights granted by laws, administrative regulations, other regulatory documents
+ other rights granted by laws, administrative regulations, other regulatory documents
 and the company’s articles of association.
 TheobligationsofashareholderincludetheobligationtoabidebytheCompany’sarticles
 of association, to pay the subscription moneys in respect of the shares subscribed for and in
@@ -27184,38 +27184,38 @@ Shareholder’s General Meetings
 The general meeting is the organ of authority of the company, which exercises its powers
 in accordance with the Company Law. According to the Company Law, the general meeting
 exercises the following principal powers:
-(cid:129) to decide on the company’s operational policies and investment plans;
+ to decide on the company’s operational policies and investment plans;
 – IV-9 –
 
 === PAGE 649 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGAL AND
 REGULATORY PROVISIONS
-(cid:129) to elect or remove the directors and supervisors (other than the representative of the
+ to elect or remove the directors and supervisors (other than the representative of the
 employees of the company) and to decide on matters relating to the remuneration of
 directors and supervisors;
-(cid:129) to examine and approve reports of the board of directors;
-(cid:129) to examine and approve reports of the board of supervisors;
-(cid:129) to examine and approve the company’s proposed annual financial budget and final
+ to examine and approve reports of the board of directors;
+ to examine and approve reports of the board of supervisors;
+ to examine and approve the company’s proposed annual financial budget and final
 accounts;
-(cid:129) to examine and approve the company’s proposals for profit distribution plans and
+ to examine and approve the company’s proposals for profit distribution plans and
 loss recovery plans;
-(cid:129) to decide on any increase or reduction of the company’s registered capital;
-(cid:129) to decide on the issue of bonds by the company;
-(cid:129) to decide on issues such as merger, division, dissolution and liquidation of the
+ to decide on any increase or reduction of the company’s registered capital;
+ to decide on the issue of bonds by the company;
+ to decide on issues such as merger, division, dissolution and liquidation of the
 company and other matters;
-(cid:129) to amend the company’s articles of association; and
-(cid:129) other powers as provided for in the articles of association.
+ to amend the company’s articles of association; and
+ other powers as provided for in the articles of association.
 Annual general meeting is required to be held once every year. Extraordinary general
 meeting is required to be held within two months after the occurrence of any of the following:
-(cid:129) thenumberofdirectorsislessthanthenumberstipulatedbythelaworlessthantwo
+ thenumberofdirectorsislessthanthenumberstipulatedbythelaworlessthantwo
 thirds of the number specified in the articles of association;
-(cid:129) the aggregate losses of the company which are not recovered reach one-third of the
+ the aggregate losses of the company which are not recovered reach one-third of the
 company’s total paid-in registered capital;
-(cid:129) when shareholders individually or in aggregate holding 10% or more of the
+ when shareholders individually or in aggregate holding 10% or more of the
 company’s shares request the convening of an extraordinary general meeting;
-(cid:129) whenever the board of directors deems necessary;
-(cid:129) when the board of supervisors so requests; or
-(cid:129) other circumstances as provided for in the articles of associations.
+ whenever the board of directors deems necessary;
+ when the board of supervisors so requests; or
+ other circumstances as provided for in the articles of associations.
 – IV-10 –
 
 === PAGE 650 ===
@@ -27278,18 +27278,18 @@ is not conducted in a timely manner upon the expiry of his term of office, or if
 of directors results in the number of directors being less than the quorum.
 According to the Company Law, the board of directors mainly exercises the following
 powers:
-(cid:129) to convene the general meetings and report on its work to the general meetings;
-(cid:129) to implement the resolutions passed in general meetings;
-(cid:129) to decide on the company’s business plans and investment proposals;
-(cid:129) to formulate the company’s proposed annual financial budget and final accounts;
-(cid:129) to formulate the company’s profit distribution proposals and loss recovery
+ to convene the general meetings and report on its work to the general meetings;
+ to implement the resolutions passed in general meetings;
+ to decide on the company’s business plans and investment proposals;
+ to formulate the company’s proposed annual financial budget and final accounts;
+ to formulate the company’s profit distribution proposals and loss recovery
 proposals;
-(cid:129) to formulate proposals for the increase or reduction of the company’s registered
+ to formulate proposals for the increase or reduction of the company’s registered
 capital and the issuance of corporate bonds;
-(cid:129) to prepare plans for the merger, division, dissolution and change in the form of the
+ to prepare plans for the merger, division, dissolution and change in the form of the
 company;
-(cid:129) to formulate the company’s basic management system; and
-(cid:129) to exercise any other power under the articles of association.
+ to formulate the company’s basic management system; and
+ to exercise any other power under the articles of association.
 – IV-12 –
 
 === PAGE 652 ===
@@ -27325,8 +27325,8 @@ is incapable of performing or not performing his duties, a director nominated by
 of the directors shall perform his duties.
 Qualification of Directors
 The Company Law provides that the following persons may not serve as a director:
-(cid:129) a person who is unable or has limited ability to undertake any civil liabilities;
-(cid:129) a person who has been convicted of an offense of bribery, corruption, embezzlement
+ a person who is unable or has limited ability to undertake any civil liabilities;
+ a person who has been convicted of an offense of bribery, corruption, embezzlement
 or misappropriation of property, or the destruction of socialist market economy
 order;orwhohasbeendeprivedofhispoliticalrightsduetohiscrimes,ineachcase
 where less than five years have elapsed since the date of completion of the sentence;
@@ -27335,16 +27335,16 @@ where less than five years have elapsed since the date of completion of the sent
 === PAGE 653 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGAL AND
 REGULATORY PROVISIONS
-(cid:129) a person who has been a former director, factory manager or manager of a company
+ a person who has been a former director, factory manager or manager of a company
 or an enterprise that has entered into insolvent liquidation and who was personally
 liable for the insolvency of such company or enterprise, where less than three years
 have elapsed since the date of the completion of the bankruptcy and liquidation of
 the company or enterprise;
-(cid:129) a person who has been a legal representative of a company or an enterprise that has
+ a person who has been a legal representative of a company or an enterprise that has
 had its business license revoked due to violations of the law and has been ordered
 to close down by law and the person was personally responsible, where less than
 three years have elapsed since the date of such revocation; or
-(cid:129) a person who is liable for a relatively large amount of debts that are overdue.
+ a person who is liable for a relatively large amount of debts that are overdue.
 Board of Supervisors
 Ajointstocklimitedcompanyshallhaveaboardofsupervisorscomposedofnotlessthan
 three members. The board of supervisors is made up of representatives of the shareholders and
@@ -27379,20 +27379,20 @@ The board of supervisors of a company shall hold at least one meeting every six 
 According to the Company Law, a resolution of the board of supervisors shall be passed by
 more than half of all the supervisors.
 The board of supervisors exercises the following powers:
-(cid:129) to review the company’s financial position;
-(cid:129) to supervise the directors and senior management in their performance of their
+ to review the company’s financial position;
+ to supervise the directors and senior management in their performance of their
 duties and to propose the removal of directors and senior management who have
 violatedlaws,regulations,thearticlesofassociationortheresolutionsofthegeneral
 meeting;
-(cid:129) when the acts of directors and senior management are harmful to the company’s
+ when the acts of directors and senior management are harmful to the company’s
 interests, to require correction of those acts;
-(cid:129) to propose the convening of extraordinary general meetings and to convene and
+ to propose the convening of extraordinary general meetings and to convene and
 preside over general meetings when the board of directors fails to perform the duty
 of convening and presiding over general meeting under this law;
-(cid:129) to initiate proposals for resolutions to general meeting;
-(cid:129) to initiate proceedings against directors and senior management;
-(cid:129) other powers specified in the articles of association; and
-(cid:129) Supervisors may attend board meetings and make enquiries or proposals in respect
+ to initiate proposals for resolutions to general meeting;
+ to initiate proceedings against directors and senior management;
+ other powers specified in the articles of association; and
+ Supervisors may attend board meetings and make enquiries or proposals in respect
 of board resolutions. The board of supervisors may initiate investigations into any
 irregularities identified in the operation of the company and, where necessary, may
 engage an accounting firm to assist their work at the company’s expense.
@@ -27400,22 +27400,22 @@ Manager and Senior Management
 According to the Company Law, a company shall have a manager who shall be appointed
 or removed by the board of directors. The manager shall report to the board of directors and
 may exercise the following powers:
-(cid:129) to supervise the business and administration of the company and arrange for the
+ to supervise the business and administration of the company and arrange for the
 implementation of resolutions of the board of directors;
-(cid:129) to arrange for the implementation of the company’s annual business plans and
+ to arrange for the implementation of the company’s annual business plans and
 investment proposals;
-(cid:129) to formulate the general administration system of the company;
+ to formulate the general administration system of the company;
 – IV-15 –
 
 === PAGE 655 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGAL AND
 REGULATORY PROVISIONS
-(cid:129) to formulate the company’s detailed rules;
-(cid:129) to recommend the appointment and dismissal of deputy managers and person in
+ to formulate the company’s detailed rules;
+ to recommend the appointment and dismissal of deputy managers and person in
 charge of finance;
-(cid:129) to appoint or dismiss other administration officers (other than those required to be
+ to appoint or dismiss other administration officers (other than those required to be
 appointed or dismissed by the board of directors); and
-(cid:129) to other powers conferred by the board of directors or the articles of association.
+ to other powers conferred by the board of directors or the articles of association.
 The manager shall comply with other provisions of the articles of association concerning
 his/her powers. The manager shall attend board meetings.
 According to the Company Law, senior management shall mean the manager, deputy
@@ -27428,15 +27428,15 @@ association, and have fiduciary and diligent duties to the company. Directors, s
 senior management are prohibited from abusing their powers to accept bribes or other unlawful
 income and from misappropriating of the company’s properties. Directors and senior
 management are prohibited from:
-(cid:129) misappropriation of the company’s funds;
-(cid:129) depositing the company’s funds into accounts under his own name or the name of
+ misappropriation of the company’s funds;
+ depositing the company’s funds into accounts under his own name or the name of
 other individuals;
-(cid:129) loaning company funds to others or providing guarantees in favor of others
+ loaning company funds to others or providing guarantees in favor of others
 supported by the company’s assets in violation of the articles of association or
 without prior approval of the general meeting or board of directors;
-(cid:129) entering into contracts or deals with the company in violation of the articles of
+ entering into contracts or deals with the company in violation of the articles of
 association or without prior approval of the general meeting;
-(cid:129) using their position and powers to procure business opportunities for themselves or
+ using their position and powers to procure business opportunities for themselves or
 others that should have otherwise been available to the company or operating for
 their own benefits or managing on behalf of others businesses similar to that of the
 company without prior approval of the general meeting;
@@ -27445,10 +27445,10 @@ company without prior approval of the general meeting;
 === PAGE 656 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGAL AND
 REGULATORY PROVISIONS
-(cid:129) accept and possess commissions paid by a third party for transactions conducted
+ accept and possess commissions paid by a third party for transactions conducted
 with the company;
-(cid:129) unauthorized divulgence of confidential business information of the company; or
-(cid:129) other acts in violation of their duty of loyalty to the company.
+ unauthorized divulgence of confidential business information of the company; or
+ other acts in violation of their duty of loyalty to the company.
 A director, supervisor or senior management who contravenes any law, regulation or the
 company’s articles of association in the performance of his duties resulting in any loss to the
 company shall be personally liable to the company.
@@ -27538,15 +27538,15 @@ stipulated period, creditors may apply to the people’s court and request the c
 relevant personnel to form the liquidation group. The people’s court should accept such
 application and form a liquidation group to conduct liquidation in a timely manner.
 The liquidation group shall exercise the following powers during the liquidation period:
-(cid:129) to handle the company’s assets and to prepare a balance sheet and an inventory of
+ to handle the company’s assets and to prepare a balance sheet and an inventory of
 the assets;
-(cid:129) to notify creditors through notice or public announcement;
-(cid:129) to deal with the company’s outstanding businesses related to liquidation;
-(cid:129) to pay any tax overdue as well as tax amounts arising from the process of
+ to notify creditors through notice or public announcement;
+ to deal with the company’s outstanding businesses related to liquidation;
+ to pay any tax overdue as well as tax amounts arising from the process of
 liquidation;
-(cid:129) to claim credits and pay off debts;
-(cid:129) to handle the company’s remaining assets after its debts have been paid off; and
-(cid:129) to represent the company in civil lawsuits.
+ to claim credits and pay off debts;
+ to handle the company’s remaining assets after its debts have been paid off; and
+ to represent the company in civil lawsuits.
 The liquidation group shall notify the company’s creditors within 10 days after its
 establishment and issue public notices in newspapers within 60 days.Acreditor shall lodge his
 claim with the liquidation group within 30 days after receiving notification, or within 45 days

@@ -130,10 +130,10 @@ Application lists close(3) . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Expected Price Determination Date(5) . . . . . . . . . . . . . . . . . . . . . . . . . . on or before Friday,
 1 December 2023
 Announcement of:
-(cid:129) the final Offer Price;
-(cid:129) the level of applications in the Hong Kong Public Offering;
-(cid:129) the level of indications of interest in the International Offering; and
-(cid:129) the basis of allocation of the Hong Kong Offer Shares to be
+ the final Offer Price;
+ the level of applications in the Hong Kong Public Offering;
+ the level of indications of interest in the International Offering; and
+ the basis of allocation of the Hong Kong Offer Shares to be
 published on the website of the Hong Kong Stock Exchange
 at www.hkexnews.hk(6) and our Company’s website at
 www.sinosynergypower.com(7) on or before. . . . . . . . . . . . . . . . . . . . . . . . Monday,
@@ -1333,7 +1333,7 @@ stacks(1)
 Key specifications
 Rated power 110kW 120kW 240kW 110kW 2kW 640kW
 Power density 555W/kg 714W/kg 906W/kg 319W/kg 268W/kg 160W/kg
-Lifespan (cid:2)20,000h (cid:2)2,000h (cid:2)40,000h
+Lifespan 20,000h 2,000h 40,000h
 Freeze-start temperature -30°C -5°C -30°C
 Note:
 (1) The hydrogen fuel cell stacks used by SynPower M2 were procured from Ballard Power.
@@ -1872,33 +1872,33 @@ in this prospectus), will be approximately HK$1,509.4 million, after deduction o
 fees and commissions and other estimated expenses in connection with the Global Offering,
 withouttakingintoaccountanySharestobeissuedunderthePre-IPOShareIncentiveScheme.
 We intend to use the net proceeds of the Global Offering for the following purposes:
-(cid:129) Approximately HK$603.8 million, or approximately 40.0% of our total estimated
+ Approximately HK$603.8 million, or approximately 40.0% of our total estimated
 net proceeds, is intended to be used to expand the production capabilities of our
 hydrogen fuel cell stacks and hydrogen fuel cell systems.
 – 25 –
 
 === PAGE 34 ===
 SUMMARY
-(cid:129) Approximately HK$302.0 million, or approximately 20.0% of our total estimated
+ Approximately HK$302.0 million, or approximately 20.0% of our total estimated
 net proceeds, is intended to be used to fund the research and development of
 hydrogen fuel cell stacks, hydrogen fuel cell systems, graphite bipolar plates and
 hydrogen production equipment.
-(cid:129) Approximately HK$150.9 million, or approximately 10.0% of our total estimated
+ Approximately HK$150.9 million, or approximately 10.0% of our total estimated
 net proceeds, is intended to be used to fund the investment in, the potential
 acquisition of, or the alliance with companies in our upstream industry in order to
 consolidate and strengthen our supply chain.
-(cid:129) Approximately HK$150.9 million, or approximately 10.0% of our total estimated
+ Approximately HK$150.9 million, or approximately 10.0% of our total estimated
 net proceeds, is intended to be used for the (i) joint development of downstream
 transit and stationary applications of our product portfolios in order to increase the
 downstream demand for our products and (ii) further development of domestic
 applications and the increase of local demands for our products by establishing joint
 ventures with the local governments and companies from both upstream and
 downstream participants of our industry.
-(cid:129) Approximately HK$150.9 million, or approximately 10.0% of our total estimated
+ Approximately HK$150.9 million, or approximately 10.0% of our total estimated
 net proceeds, is intended to be used for team building, talents recruitment and
 training, as well as enhanced compensation and incentives to key personnel to
 support our growth and expansion.
-(cid:129) Approximately HK$150.9 million, or approximately 10.0% of our total estimated
+ Approximately HK$150.9 million, or approximately 10.0% of our total estimated
 net proceeds, will be used for working capital and other general corporate purposes.
 For more details, please refer to “Future Plans and Use of Proceeds”.
 LEGAL PROCEEDINGS AND COMPLIANCE
@@ -2670,23 +2670,23 @@ the other risk factors as described in this prospectus. You are strongly caution
 on any forward-looking statements involves known and unknown risks and uncertainties. The
 risks, uncertainties and other factors facing the Company which could affect the accuracy of
 forward-looking statements include, but are not limited to, the following:
-(cid:129) our operations and business prospects;
-(cid:129) the amount and nature of, and potential for, future development of our business;
-(cid:129) our business strategies and plans to achieve these strategies;
-(cid:129) our future debt levels and capital needs;
-(cid:129) changes to the political and regulatory environment in the industry and markets in
+ our operations and business prospects;
+ the amount and nature of, and potential for, future development of our business;
+ our business strategies and plans to achieve these strategies;
+ our future debt levels and capital needs;
+ changes to the political and regulatory environment in the industry and markets in
 which we operate;
-(cid:129) our expectations with respect to our ability to acquire and maintain regulatory
+ our expectations with respect to our ability to acquire and maintain regulatory
 licenses or permits;
-(cid:129) changesincompetitiveconditionsandourabilitytocompeteundertheseconditions;
-(cid:129) future developments, trends and conditions in the industry and markets in which we
+ changesincompetitiveconditionsandourabilitytocompeteundertheseconditions;
+ future developments, trends and conditions in the industry and markets in which we
 operate;
-(cid:129) general economic, political and business conditions in the markets in which we
+ general economic, political and business conditions in the markets in which we
 operate;
-(cid:129) effects of the global financial markets and economic crisis;
-(cid:129) our financial conditions and performance;
-(cid:129) our dividend policy; and
-(cid:129) change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
+ effects of the global financial markets and economic crisis;
+ our financial conditions and performance;
+ our dividend policy; and
+ change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
 operations, margins, risk management and overall market trends.
 – 49 –
 
@@ -2806,24 +2806,24 @@ of the alternative or new products or technologies, such as battery electric veh
 electric vehicles, may adversely affect our business and prospects in ways we do not currently
 anticipate. Other factors that may affect the development of the hydrogen fuel cell vehicle
 industry and the adoption of hydrogen fuel cell vehicles include:
-(cid:129) the continuous availability of government subsidies and incentives to buy, use and
+ the continuous availability of government subsidies and incentives to buy, use and
 operate hydrogen fuel cell vehicles, or future regulation requiring the increase in the
 use of pollution-free vehicles;
 – 52 –
 
 === PAGE 61 ===
 RISK FACTORS
-(cid:129) perceptions about the quality, safety, design, performance and cost of hydrogen fuel
+ perceptions about the quality, safety, design, performance and cost of hydrogen fuel
 cellvehicles,especiallyifthereareadverseeventsoraccidentsrelatedtothequality
 or safety of hydrogen fuel cell systems, regardless of whether relevant products are
 produced by us or by other manufacturers;
-(cid:129) the number and location of hydrogen refueling stations, the cost of hydrogen and the
+ the number and location of hydrogen refueling stations, the cost of hydrogen and the
 continuous availability of government subsidies for the use of hydrogen;
-(cid:129) the availability and convenience of after-sales services for hydrogen fuel cell
+ the availability and convenience of after-sales services for hydrogen fuel cell
 vehicles and hydrogen fuel cell systems;
-(cid:129) the improvement in hydrogen fuel cell vehicles and hydrogen fuel cell systems;
-(cid:129) the environmental consciousness of consumers; and
-(cid:129) macroeconomic factors.
+ the improvement in hydrogen fuel cell vehicles and hydrogen fuel cell systems;
+ the environmental consciousness of consumers; and
+ macroeconomic factors.
 If there are major changes in the future development trends in the hydrogen fuel cell
 vehicle industry, or the market demand does not grow as we expected, our business, financial
 condition, results of operations, and prospects will be materially and adversely affected.
@@ -3230,7 +3230,7 @@ decline driven by technological breakthroughs and scaled production, according t
 Sullivan.
 Furthermore,ourbusiness,financialconditionandresultsofoperationsmaybematerially
 and adversely affected by, among others, the following factors:
-(cid:129) if there is a significant fluctuation of prices of hydrogen fuel cell stacks and
+ if there is a significant fluctuation of prices of hydrogen fuel cell stacks and
 hydrogen fuel cell systems we produce, our customers may be unwilling to honor
 their contractual commitments to purchase these products at pre-agreed pricing
 terms;
@@ -3238,11 +3238,11 @@ terms;
 
 === PAGE 71 ===
 RISK FACTORS
-(cid:129) a tightening of available credit may make it more difficult for us to obtain, or may
+ a tightening of available credit may make it more difficult for us to obtain, or may
 increase our financing costs for our business;
-(cid:129) a decline in the value of hydrogen fuel cell stacks and hydrogen fuel cell systems
+ a decline in the value of hydrogen fuel cell stacks and hydrogen fuel cell systems
 we produce may result in write-downs; and
-(cid:129) the production of hydrogen fuel cell stacks and hydrogen fuel cell systems may be
+ the production of hydrogen fuel cell stacks and hydrogen fuel cell systems may be
 curtailed or suspended if it is no longer economically viable for us to produce them
 in a cost-effective manner.
 Fluctuations in ourshare of results of joint ventures and associates may affect ouroverall
@@ -3348,17 +3348,17 @@ hydrogen fuel cell system companies in China increased from approximately 70 in 
 approximately 150 in 2022, according to Frost & Sullivan.
 We believe that our ability to compete effectively against other market participants
 depends upon many factors, some of which are beyond our control:
-(cid:129) the performance, reliability and technology advancement of our products compared
+ the performance, reliability and technology advancement of our products compared
 to those of our competitors, which are highly dependent on the research and
 development and technological capabilities of our products, and our insights into
 customer needs and preferences as compared to our competitors;
-(cid:129) our ability to identify and capture new market opportunities in advance of our
+ our ability to identify and capture new market opportunities in advance of our
 competitors;
-(cid:129) our reputation and brand strength relative to our competitors;
-(cid:129) regulations or government policies in the industry where we operate;
-(cid:129) our ability to attract, retain, and motivate talented employees, in particular highly
+ our reputation and brand strength relative to our competitors;
+ regulations or government policies in the industry where we operate;
+ our ability to attract, retain, and motivate talented employees, in particular highly
 qualified research and development personnel; and
-(cid:129) our ability to manage and grow our operations in a cost effective manner.
+ our ability to manage and grow our operations in a cost effective manner.
 Our competitors may have substantially more financial and other resources, research and
 developmentcapabilities,longeroperatinghistories,aswellasbroaderproductapplicationand
 larger market shares. We may be unable to compete successfully against these competitors or
@@ -4383,11 +4383,11 @@ WehaveinstructedBoardroomShareRegistrars(HK)Limited,ourHShareRegistrar,and
 it has agreed not to register the subscription, purchase or transfer of any H Shares in the name
 of any particular holder unless and until the holder delivers a signed form to our H Share
 Registrar in respect of those H Shares bearing statements to the effect that the holder:
-(cid:129) agrees with us and each of our Shareholders, and we agree with each Shareholder,
+ agrees with us and each of our Shareholders, and we agree with each Shareholder,
 to observe and comply with the PRC Company Law, the Companies Ordinance, the
 Companies (Winding Up and Miscellaneous Provisions) Ordinance, the Trial
 Measures and our Articles of Association;
-(cid:129) agrees with us, each of our Shareholders, Directors, Supervisors, managers and
+ agrees with us, each of our Shareholders, Directors, Supervisors, managers and
 officers, and we act for ourselves and for each of our Directors, Supervisors,
 managers and officers agree with each of our Shareholders, to refer all differences
 and claims arising from our Articles of Association or any rights or obligations
@@ -4396,9 +4396,9 @@ administrative regulations concerning our affairs to arbitration, and any refere
 arbitration shall be deemed to authorize the arbitration tribunal to conduct hearings
 in open session and to publish its award, which arbitration shall be final and
 conclusive;
-(cid:129) agrees with us and each of our Shareholders that the H Shares are freely transferable
+ agrees with us and each of our Shareholders that the H Shares are freely transferable
 by the holders thereof; and
-(cid:129) authorizes us to enter into a contract on his behalf with each of our Directors,
+ authorizes us to enter into a contract on his behalf with each of our Directors,
 Supervisors and senior management whereby such Directors, Supervisors and senior
 management undertake to observe and comply with their obligations to our
 Shareholders as stipulated in our Articles of Association. Persons applying for or
@@ -4832,7 +4832,7 @@ USD1.0 trillion in 2050.
 === PAGE 112 ===
 INDUSTRY OVERVIEW
 Industry landscape of the hydrogen energy market in China
-(cid:129) Types of hydrogen
+ Types of hydrogen
 Leveraging the large industry production scale and abundant renewable energy sources,
 Chinahashighavailabilityandsufficientsourcesforhydrogenproduction,demonstratinggreat
 potential for the promotion of hydrogen energy in the future.
@@ -4895,7 +4895,7 @@ energy industry and advancement in hydrogen production, storage and transportati
 technologies, China’s average retail price of hydrogen is expected to drop from the current
 RMB40-70/kg (without subtracting subsidies) in 2022 to less than RMB30/kg in 2025-2030,
 and further to less than RMB10/kg in 2050.
-(cid:129) Hydrogen storage
+ Hydrogen storage
 There are three main types of hydrogen storage methods: gaseous, liquid, and solid.
 Hydrogencanbestoredasgasbyhighpressurecompression,whichisthemainstoragemethod
 currently,withtheadvantagesoffastfillinganddischarging,simplestructureofcontainersand
@@ -4908,7 +4908,7 @@ storage will be increasingly applied in the future.
 
 === PAGE 114 ===
 INDUSTRY OVERVIEW
-(cid:129) Hydrogen transport and distribution
+ Hydrogen transport and distribution
 Depending on the different storage methods, hydrogen can be transported in gaseous,
 liquid and solid forms. The transportation of gaseous hydrogen through long-haul trailers and
 pipelines for long-distance distribution is currently the main method of hydrogen
@@ -4920,7 +4920,7 @@ transportation can improve hydrogen transport efficiency and the supply capacity
 hydrogen refueling station. Solid hydrogen should be stored and transported by low-pressure,
 high-density solid hydrogen storage tanks made of lightweight hydrogen storage materials
 (such as magnesium-based materials), but this method is still in the pilot study stage.
-(cid:129) Trend of hydrogen energy development
+ Trend of hydrogen energy development
 Driven by the strong initiatives tackling climate change and environment pollution,
 hydrogen energy is expected to become one of the mainstream choices of clean energy in the
 future due to its advantages such as high energy density, good combustion performance
@@ -5118,7 +5118,7 @@ Source: Frost & Sullivan
 
 === PAGE 118 ===
 INDUSTRY OVERVIEW
-(cid:129) Transit applications-hydrogen fuel cell vehicles:
+ Transit applications-hydrogen fuel cell vehicles:
 The transit applications of hydrogen fuel cells include hydrogen fuel cell vehicles, trams
 and ships, among which hydrogen fuel cell vehicles are the most widely used. Hydrogen fuel
 cellvehiclesinclude(i)commercialvehiclessuchasbuses,logisticvehicles,materialhandling
@@ -5163,7 +5163,7 @@ Source: Frost & Sullivan
 
 === PAGE 119 ===
 INDUSTRY OVERVIEW
-(cid:129) Transit applications – trams:
+ Transit applications – trams:
 Ahydrogenfuelcelltramisanewenergyrailvehiclethatispoweredbyhydrogenenergy.
 Hydrogen fuel cell tram features advantages such as low noise, low pollution, and long service
 life, providing a new solution for the rail transport system. In 2017, Gaoming District, Foshan
@@ -5179,7 +5179,7 @@ applications of hydrogen energy, and the support will in turn drive the applicat
 fuel cell trams in China. In addition, some Chinese companies have won bids for overseas
 hydrogen fuel cell tram projects, which also shows the growing global demand for hydrogen
 fuel cells for transit applications such as trams.
-(cid:129) Transit applications – ships:
+ Transit applications – ships:
 Hydrogen fuel cells can be used as the main power sources for ships to meet the market
 demand for high-performance green ships in domestic, offshore, and ocean-going routes, and
 this specific application of hydrogen fuel cells is also encouraged by technological
@@ -5209,7 +5209,7 @@ cells will further penetrate in the ship sector in the future.
 
 === PAGE 120 ===
 INDUSTRY OVERVIEW
-(cid:129) Stationary applications:
+ Stationary applications:
 Hydrogen fuel cells are mainly used in backup power stations and stationary power
 stations in the stationary application scenarios. Hydrogen fuel cells were first applied in the
 stationary application scenario in the 2000s while currently still have relatively low
@@ -5302,7 +5302,7 @@ generation and hydrogen energy storage.
 INDUSTRY OVERVIEW
 Drivers and Development Trend Analysis of Hydrogen Fuel Cell Stacks and Systems
 Market in China
-(cid:129) Continued R&D investment in hydrogen fuel cells promotes technological
+ Continued R&D investment in hydrogen fuel cells promotes technological
 breakthroughs and industrialization
 The hydrogen fuel cell stacks are the core components of the hydrogen fuel cell systems,
 and its technical level directly affects the power system as well as the comprehensive
@@ -5351,7 +5351,7 @@ fuel cell industry.
 
 === PAGE 123 ===
 INDUSTRY OVERVIEW
-(cid:129) Thesurgingdemandforhydrogenfuelcellvehiclesbooststhedevelopmentofhydrogen
+ Thesurgingdemandforhydrogenfuelcellvehiclesbooststhedevelopmentofhydrogen
 fuel cell stacks and systems
 Policies introduced by the government to address climate change and environmental
 pollution have led to heightened awareness for environmental protection, with a growing
@@ -5366,7 +5366,7 @@ thousand and 150.4 thousand units in 2027, and 1,091.5 thousand and 412.4 thousa
 well as between 2028 and 2030 will be 90.0% and 38.5% respectively, which will stimulate the
 demand for hydrogen fuel cell stacks and systems and continuous improvement to the
 industrial chain.
-(cid:129) Strong policy support
+ Strong policy support
 To promote the development of hydrogen fuel cells, China has formulated industrial
 policies, emphasizing industrial synergy and increasing R&D support. The Notice on
 Government Subsidies for Promotion andApplication of New Energy Vehicles (關於完善新能
@@ -5401,7 +5401,7 @@ multi-path exploration of frontier technologies, interdisciplinary integration a
 disruptivetechnologies.Hydrogenfuelcellstacksandsystems,asthecoreofthehydrogenfuel
 cell industry chain, are bound to usher in greater development with the aid of all-round,
 multi-level and multi-disciplinary policy dividends.
-(cid:129) Wider application
+ Wider application
 With continuous technological breakthroughs, hydrogen fuel cells will embrace more
 diversified application scenarios integrating with more industries. At present, commercial
 vehicles powered by hydrogen fuel cells in China have entered the early stage of industrial
@@ -5429,7 +5429,7 @@ components of China’s new power system. Driven by the growing demand for appli
 scenarios, manufacturers of hydrogen fuel cell systems tend to tailor products and services to
 the needs of customers.
 Threats to the Development of Hydrogen Fuel Cell Systems Market in China
-(cid:129) Lack of domestic production capability of some key components
+ Lack of domestic production capability of some key components
 China’s fuel cell technology has made great progress over the past few years, but there
 are still certain gaps with the international advanced level of some raw materials and core
 components in terms of independent research and domestic production, such as the production
@@ -5443,18 +5443,18 @@ normal production of hydrogen fuel cell systems. In recent years, China’s lead
 fuel cell stacks and systems companies have reduced their dependence on overseas suppliers
 by actively carrying out research and development of these key components and deploying
 domestic suppliers.
-(cid:129) Insufficient infrastructure system
+ Insufficient infrastructure system
 Since China’s hydrogen energy industry is still at its relatively early development stage,
 the number of the hydrogen refueling stations is still insufficient and most of them rely on
 policy subsidies for construction. Therefore, the inadequate hydrogen infrastructure facilities
 may impede the growth of the fuel cell system market.
-(cid:129) Lack of professional and technical personnel
+ Lack of professional and technical personnel
 As a technology-intensive industry, the fuel cell system market is greatly influenced by
 the quality of professionals, especially R&D personnel. Rapid market growth and intensified
 competition will lead to a greater shortage of technical talents, who will be concentrated in a
 few leading companies, thereby slowing down the pace of technological progress in the fuel
 cell system industry.
-(cid:129) Safety concern of hydrogen storage and transportation
+ Safety concern of hydrogen storage and transportation
 Since hydrogen is easy to leak and explode, the safety concern of hydrogen storage and
 transportation remains a potential challenge for the hydrogen energy industry. The hydrogen
 energy industry needs to further improve the research system and industry standards for
@@ -5544,14 +5544,14 @@ research and development of key technologies; (ii) promoting infrastructure cons
 (iii) stimulating the downstream demand of the hydrogen industry, which is expected to
 potentially lower the cost of hydrogen fuel cell stacks and systems. The following sets forth
 some examples of the policies in each aspect:
-(cid:129) Policies on encouraging the research and development of key technologies: The
+ Policies on encouraging the research and development of key technologies: The
 “Notice on Launching the Pilot Application of Fuel Cell Vehicles (《關於開展燃料
 電池汽車示範應用的通知》)” issued by the PRC government in 2020 encouraged
 the localization of hydrogen fuel cell core components (e.g., hydrogen fuel cell
 stacks, membrane electrodes, bipolar plates, proton exchange membranes, catalysts,
 carbon paper, air compressors, hydrogen circulation systems, etc.), which is
 expected to drive down the price of hydrogen fuel cells stacks and systems.
-(cid:129) Policies on promoting infrastructure construction: According to the relevant local
+ Policies on promoting infrastructure construction: According to the relevant local
 policies regarding the demonstration city cluster of the hydrogen fuel cell vehicles,
 Shanghai City Cluster, Beijing-Tianjin-Hebei City Cluster, Guangdong City Cluster,
 Henan City Cluster and Hebei City Cluster aimed to build at least 100, 49, 200, 80
@@ -5560,7 +5560,7 @@ With the improvement of hydrogen energy industry infrastructure networks such as
 hydrogen refueling stations, it is expected that the demand for hydrogen fuel cell
 vehicles will further increase, thereby reducing the price of hydrogen fuel cells
 stacks and systems.
-(cid:129) Policies on stimulating the downstream demand of the hydrogen industry: Medium
+ Policies on stimulating the downstream demand of the hydrogen industry: Medium
 and Long-term Development Plan for Hydrogen Industry (2021-2035) (《氫能產業
 發展中長期規劃(2021-2035年)》) jointly issued by National Development and
 Reform Commission and National EnergyAdministration of the PRC in 2022 aimed
@@ -6113,7 +6113,7 @@ further advancements in hydrogen fuel cell stack and system technologies.
 === PAGE 141 ===
 INDUSTRY OVERVIEW
 Relevant policies in the use of hydrogen fuel cell systems in the transportation industry:
-(cid:129) Notice on Launching the Pilot Application of Fuel Cell Vehicles (《關於開展燃料電池
+ Notice on Launching the Pilot Application of Fuel Cell Vehicles (《關於開展燃料電池
 汽車示範應用的通知》) issued by Ministry of Finance, Ministry of Industry and
 Information Technology, Ministry of Science and Technology, National Development
 and Reform Commission and National Energy Administration of the PRC in 2020
@@ -6184,7 +6184,7 @@ infrastructure; 4) Improvement of hydrogen energy economy, etc.
 
 === PAGE 143 ===
 INDUSTRY OVERVIEW
-(cid:129) Medium and Long-term Development Plan for Hydrogen Industry (2021-2035) (《氫能
+ Medium and Long-term Development Plan for Hydrogen Industry (2021-2035) (《氫能
 產業發展中長期規劃(2021-2035年)》) jointly issued by National Development and
 Reform Commission and National Energy Administration of the PRC in 2022
 The policy set out the main directions and goals for the development of China’s hydrogen
@@ -6315,9 +6315,9 @@ disclosing the relevant data of the shipment volume and shipment value of hydrog
 To further verify the accuracy of the estimation, Frost & Sullivan validated the data by cross-checking the
 statements and data provided by each expert as well as other relevant data from the secondary resources.
 The following sets forth the detailed calculation methods:
-(cid:129) Shipment volume by power of hydrogen fuel cell stacks = Shipment volume by unit of hydrogen fuel
+ Shipment volume by power of hydrogen fuel cell stacks = Shipment volume by unit of hydrogen fuel
 cell stacks* average power of a single hydrogen fuel cell stack
-(cid:129) Shipmentvalueofhydrogenfuelcellstacks=Shipmentvolumebypowerofhydrogenfuelcellstacks*
+ Shipmentvalueofhydrogenfuelcellstacks=Shipmentvolumebypowerofhydrogenfuelcellstacks*
 average price per kilowatt of hydrogen fuel cell stacks
 Forthosewhosellhydrogenfuelcellsystemsequippedwithself-manufacturedhydrogenfuelcellstacks.The
 totalshipmentvolumeofhydrogenfuelcellstacksequals1)thesalesvolumeofhydrogenfuelcellstackssold
@@ -6335,7 +6335,7 @@ stacks.
 Year
 Company Established/ Listed/
 Name Headquarter Unlisted Business Introduction
-Shanghai 2018, Unlisted (cid:129) The company is engaged in the
+Shanghai 2018, Unlisted The company is engaged in the
 Hydrogen Shanghai, production and R&D of hydrogen
 Propulsion China fuel cell systems and stacks, and
 Technology their components. The company
@@ -6351,7 +6351,7 @@ INDUSTRY OVERVIEW
 Year
 Company Established/ Listed/
 Name Headquarter Unlisted Business Introduction
-Shanghai 2015, Unlisted (cid:129) The company focuses on the
+Shanghai 2015, Unlisted The company focuses on the
 Refire Shanghai, R&D of hydrogen fuel cell
 Energy China technology, production and sales
 Group of hydrogen fuel cell systems and
@@ -6359,7 +6359,7 @@ Co., Ltd. stacks. The company has
 production bases in Shanghai,
 Jiangsu, Zhejiang and
 Guangdong.
-Shanghai 1998, Unlisted (cid:129) The company is a non-wholly
+Shanghai 1998, Unlisted The company is a non-wholly
 SinoFuelCell Shanghai, owned subsidiary of Beijing
 Co., Ltd. China SinoHytec Co., Ltd. The
 company mainly engages in the
@@ -6372,7 +6372,7 @@ production base in Shanghai,
 with a production capacity of
 about 1,000 hydrogen fuel cell
 stacks per year.
-Shanghai 2017, Unlisted (cid:129) The company focuses on the
+Shanghai 2017, Unlisted The company focuses on the
 H-RISE Shanghai, research and development,
 New Energy China production, sales and overall
 Technology solutions of fuel cell stacks. The
@@ -6441,7 +6441,7 @@ Subtotal 90.7% 81.2%
 Year
 Company Established/ Listed/
 Name Headquarter Unlisted Business Introduction
-Beijing 2004, Listed (cid:129) The company is a high-tech
+Beijing 2004, Listed The company is a high-tech
 SinoHytec Beijing, enterprise focusing on the
 Co., Ltd. China development and industrialization
 of hydrogen fuel cell systems.
@@ -6450,7 +6450,7 @@ base in Hebei, with a production
 capacity of around 10,000
 hydrogen fuel cell systems per
 year.
-State Power 2015, Unlisted (cid:129) The company is a large key
+State Power 2015, Unlisted The company is a large key
 Investment Beijing, China state-owned enterprise directly
 Corporation under the central government of
 Limited China. The company develops
@@ -6469,7 +6469,7 @@ Launch Energy
 Time of Rated Power Conversion Freeze-start
 Company Name New Models Power Density Efficiency Temperature Lifespan
 (kW) (W/kg) (%) (°C) (hours)
-The Company 2022 240 906 61 -30 (cid:2)20,000
+The Company 2022 240 906 61 -30 20,000
 Beijing SinoHytec 2021 241 757 58 -35 N/A
 Co., Ltd.
 Shanghai Refire Energy 2021 130 702 60 -30 30,000
@@ -6716,18 +6716,18 @@ spontaneous combustion spontaneous combustion spontaneous combustion
 INDUSTRY OVERVIEW
 Hydrogen Fuel Internal Combustion
 Indicator CellVehicle Battery ElectricVehicle EngineVehicle
-Impact on Environment (cid:129) There is no carbon (cid:129) Pollution is mainly from (cid:129) Waste and emissions
+Impact on Environment There is no carbon Pollution is mainly from Waste and emissions
 emission or pollution the process of battery include CO , CO, SO ,
 2 2
 when operating the production and etc.
 vehicle. recycling.
-(cid:129) Carbon emission is
+ Carbon emission is
 mainly from the
 electricity generation
 based on the current
 fossil fuel dominated
 energy mix.
-(cid:129) There is no carbon
+ There is no carbon
 emission and pollution
 when operating the
 vehicle.
@@ -6735,7 +6735,7 @@ Refueling/ChargingTime 10-15 min Fast charge: 0.5-1h 10 min
 Slow charge: 5-7h
 Driving Range 500-800 km 300-600 km 500-700 km
 Fuel Energy Density of 500-900W/kg NCM Battery System: N/A
-the Power System (cid:2) 150Wh/kg
+the Power System 150Wh/kg
 LFPBattery System:
 115-150Wh/kg
 Energy Conversion 50-60% N/A ~40%
@@ -6836,7 +6836,7 @@ Total Number of HFCV 37.3% 92.7% 47.2%
 2018 2019 2020 2021 2022 2023E 2024E 2025E 2026E 2027E 2028E 2029E 2030E
 Source: China Association of Automobile Manufacturers, Frost & Sullivan
 DriversandDevelopmentTrendAnalysisofHydrogenFuelCellVehiclesMarketinChina
-(cid:129) Supporting government policies
+ Supporting government policies
 In order to support and regulate the hydrogen fuel cell vehicle industry, the Chinese
 government has successively issued a series of encouraging policies in recent years. For
 instance, the Notice on Launching the Pilot Application of Fuel Cell Vehicles (《關於開展燃
@@ -6858,7 +6858,7 @@ thousand units in 2027, with a CAGR of approximately 90.0%, and further to appro
 
 === PAGE 159 ===
 INDUSTRY OVERVIEW
-(cid:129) Vibrant roll-out by vehicle producers
+ Vibrant roll-out by vehicle producers
 Hydrogen fuel cell vehicles, featuring such advantages as zero emission, high payload,
 long driving range and fast fuel replenishment, are heading the way for the new energy vehicle
 industry. Hydrogen fuel cell vehicles are more suitable for long-distance heavy-duty scenarios,
@@ -6869,7 +6869,7 @@ vehicles, represented by the manufacturers of hydrogen fuel cell commercial vehi
 especially those of hydrogen fuel cell heavy trucks, are proactively laying out hydrogen fuel
 cell vehicle business. The enthusiasm of vehicle producers to develop hydrogen fuel cell
 vehicles will drive the market penetration of hydrogen fuel cell vehicles.
-(cid:129) Maturing technologies
+ Maturing technologies
 After a long period of development, China’s hydrogen fuel cell vehicle technologies have
 aligned with the international advanced level in the core parts such as the R&D capability of
 hydrogen fuel cell stacks and systems, etc. In terms of performance, the gap between China’s
@@ -6879,7 +6879,7 @@ temperature starting, etc. is shrinking. Meanwhile, Chinese companies are basica
 with the foreign peers when it comes to fuel economy and vehicle noise levels.The continuous
 breakthroughs in technologies will drive the commercialization of the hydrogen fuel cell
 vehicle industry.
-(cid:129) Declining manufacturing costs
+ Declining manufacturing costs
 Under the guiding policies of local governments, the industry chain of hydrogen fuel cell
 vehicles in China has been continuously optimized, with increasing key upstream materials
 produced domestically and enriching application scenarios. Driven by technological
@@ -10628,7 +10628,7 @@ have set the standards high for competition and promoted the development of tech
 hydrogen fuel cells industry in China.
 We have developed advanced hydrogen fuel cell stacks and hydrogen fuel cell systems
 based on our technologies and our forward development capabilities. In particular,
-(cid:129) in respect of hydrogen fuel cell stacks and hydrogen fuel cell systems, our hydrogen
+ in respect of hydrogen fuel cell stacks and hydrogen fuel cell systems, our hydrogen
 fuel cell stacks have highly reliable sealing and control mechanism under high
 current density, which enable the rapid molding of high-precision plates, continuous
 assembly of the stacks, and rapid activation of the stacks. The latest generation of
@@ -10637,7 +10637,7 @@ Our hydrogen fuel cell systems have advanced lifespan control and low freeze-sta
 temperature technology. Our hydrogen fuel cell systems are generally installed with
 our integrated and self-developed hydrogen fuel cell stacks, which help to achieve
 high power, high integration, and low hydrogen consumption ratio.
-(cid:129) in respect of graphite bipolar plates which we produced mainly for our hydrogen
+ in respect of graphite bipolar plates which we produced mainly for our hydrogen
 fuel cell stacks, being one of the key components of hydrogen fuel cell stacks, we
 use low-cost expanded graphite as raw materials and utilize our independently
 designed molding technology to produce high-strength, air-tight, light-weight, high
@@ -10648,7 +10648,7 @@ than 5%, while the bending strength of the bipolar plates has reached over 50Mpa
 and the thickness of the bipolar plates has been reduced to 1.5 mm. In addition,
 through a series of design simulation adopting the multiphysics coupling of fluids,
 we further optimized the structure and flow field of our bipolar plates.
-(cid:129) produced from all domestically procured raw materials and components, our
+ produced from all domestically procured raw materials and components, our
 SynStack GIII fuel cell stack and SynRoad H series fuel cell system launched in
 April 2022 have led the industry in terms of various performance.Asingle SynStack
 GIII fuel cell stack has a rated power of 204kW and power density of 4.5kW/L, as
@@ -10656,7 +10656,7 @@ well as excellent dynamic load change and freeze-start performance, while the ra
 power of a SynRoad H system can reach 240kW with a power density of 906W/kg.
 The modular design of SynRoad H series fuel cell systems also makes them
 compatible with multi-power platform output.
-(cid:129) with the support of cutting-edge technology, we have led the industry in setting
+ with the support of cutting-edge technology, we have led the industry in setting
 various standards. We have participated in the formulation of a number of national
 andgroupstandardsrelatedtothehydrogenenergyandhydrogenfuelcellindustries
 in China. Among the national and group standards that we participated in the
@@ -10771,7 +10771,7 @@ with downstream hydrogen fuel cell vehicles manufacturers. The rated power of a 
 hydrogen fuel cell stack ranges from 1kW to 204kW, and the rated power of our hydrogen fuel
 cell system range from 2kWto 240kW. Such wide coverage can cater to the electricity demand
 in different fields and makes our products suitable in a variety of applications.
-(cid:129) Hydrogen fuel cell stacks: We have independently developed hydrogen fuel cell
+ Hydrogen fuel cell stacks: We have independently developed hydrogen fuel cell
 stacks including the liquid-cooled SynStack G series and the air-cooled SynairStack
 Gseries,towhichweownintellectualpropertyrightsoftheircoretechnologies.Our
 SynStack GIII fuel cell stack launched in April 2022 has a rated power of 204kW,
@@ -10780,7 +10780,7 @@ freeze-start performance. SynairStack G series air-cooled fuel cell stack target
 low power market, such as emergency power and back-up power, covering power
 range from 1kW to 6kW, to which we also have core independent intellectual
 property rights.
-(cid:129) Hydrogen fuel cell systems: We have independently developed (i) SynRoad series
+ Hydrogen fuel cell systems: We have independently developed (i) SynRoad series
 hydrogen fuel cell systems for road transportation vehicles, (ii) SynRail series
 hydrogen fuel cell systems for rail transit, (iii) SynPower series hydrogen fuel cell
 systems for the stationary power market, and (iv) SynMat series hydrogen fuel cell
@@ -10803,7 +10803,7 @@ generation system products adopt a modular design concept, and we have launched
 a 640kW version that can be expanded, through combination or parallel connection,
 to the megawatt level to meet the application needs of large-scale hydrogen energy
 storage power stations.
-(cid:129) Comprehensive solutions: In order to ensure our product diversity, we also provide
+ Comprehensive solutions: In order to ensure our product diversity, we also provide
 a comprehensive solution to foster an ecosystem for the products of other
 companies.We have worked in strategic collaborations with downstream companies
 including Xiamen King Long United Automotive Industry Co., Ltd. (廈門金龍聯合
@@ -10824,7 +10824,7 @@ have also been in stable operation in 20 provincial administrative regions, incl
 Guangdong Province, Shandong Province, Hebei Province, Zhejiang Province, Shaanxi
 Province, Inner Mongolia, Tianjin and Beijing. We have led in the way of the hydrogen energy
 commercialization for various commercial applications in the PRC:
-(cid:129) In terms of medium- and heavy-duty trucks, we have cooperated with downstream
+ In terms of medium- and heavy-duty trucks, we have cooperated with downstream
 participants in our industry to provide high-power hydrogen fuel cell systems.
 Medium- and heavy-duty trucks equipped with our hydrogen fuel cell systems have
 been widely used in different applications including ports, mines, steel plants,
@@ -10835,12 +10835,12 @@ Mohe, Heilongjiang Province, proving the reliability of our products.
 
 === PAGE 217 ===
 BUSINESS
-(cid:129) In terms of public transportation, we equipped all of the buses running on theYunfu
+ In terms of public transportation, we equipped all of the buses running on theYunfu
 demonstrative bus line with our hydrogen fuel cell products, and it was the bus line
 with the most hydrogen fuel cell buses running in the world when it commenced
 operation in 2017.As of 31 May 2023, each of the public transportation vehicles of
 this bus line had been and was still running steadily.
-(cid:129) In terms of logistics vehicles and forklifts, we continue to upgrade and supply
+ In terms of logistics vehicles and forklifts, we continue to upgrade and supply
 hydrogen fuel cell stacks and hydrogen fuel cell systems to meet the needs of urban
 hydrogenenergylogisticssolutionsandmaterialhandlingsolutions.AsoftheLatest
 Practicable Date, we had entered into cooperation agreements with downstream
@@ -10848,11 +10848,11 @@ partners in Zhejiang Province, Jiangsu Province, Guangdong Province, Guangxi
 Province, Shandong Province, Inner Mongolia, Shaanxi Province, Shanghai, Henan
 Province and Sichuan Province to jointly promote the downstream applications of
 hydrogen energy.
-(cid:129) In terms of rail transit, the world’s first hydrogen-powered rubber-tyred digital rail
+ In terms of rail transit, the world’s first hydrogen-powered rubber-tyred digital rail
 tram equipped with our SynRail series hydrogen fuel cell systems rolled off the
 production line in Lin-Gang Special Area of Shanghai in 2021, and was put into
 commercial operation in 2022, the output power of which reached 115kW.
-(cid:129) As for stationary applications, we have also jointly developed high-power hydrogen
+ As for stationary applications, we have also jointly developed high-power hydrogen
 fuel cell emergency power supply vehicles with China Southern Power Grid
 Technology Co., Ltd. (南方電網電力科技股份有限公司) to meet the needs of
 emergency power protection. Our hydrogen fuel backup power supply system has
@@ -10965,7 +10965,7 @@ BUSINESS
 reduction and production efficiency, and to ensure that the performances of our products are
 at a leading level. In the future, we will put our research and development efforts into our
 products on the following directions:
-(cid:129) In terms of graphite bipolar plates, we plan to continuously upgrade the raw
+ In terms of graphite bipolar plates, we plan to continuously upgrade the raw
 materials, optimize the production process, and increase the bending strength of
 bipolar plates, so as to further reduce the thickness and the defect rate and increase
 production efficiency of graphite bipolar plates at the same time. At present, the
@@ -10974,7 +10974,7 @@ industry leading level according to the Frost & Sullivan Report – and we plan 
 launch the next generation of bipolar plates with further reduced thickness, lower
 contact resistance, higher flexural strength, higher yield, and higher production
 efficiency.
-(cid:129) In terms of hydrogen fuel cell stacks and hydrogen fuel cell systems, we will
+ In terms of hydrogen fuel cell stacks and hydrogen fuel cell systems, we will
 continue to enhance our hydrogen fuel cell technologies leveraging our proprietary
 knowledge and product development expertise to launch state-of-the-art next-
 generation products. We expect to launch next-generation hydrogen fuel cell stacks
@@ -11018,14 +11018,14 @@ storage; and
 their integration technologies, which can lead to more stable and efficient
 hydrogen fuel cell systems while increasing production efficiency and
 lowering production costs.
-(cid:129) In terms of hydrogen production equipment, in the short term we will continue to (i)
+ In terms of hydrogen production equipment, in the short term we will continue to (i)
 develop hydrogen production equipment core technologies such as the system
 integration and system control, (ii) develop independent intellectual properties, and
 (iii) achieve production and sales of megawatt hydrogen production equipment; in
 the long term we will focus on the development of our own megawatt-scale
 electrolyzer technology and to achieve domestic production of advanced hydrogen
 production equipments.
-(cid:129) In terms of laboratory construction, we plan to focus on building laboratories in (a)
+ In terms of laboratory construction, we plan to focus on building laboratories in (a)
 Jiaxing, Zhejiang Province, (b) Guangzhou, Guangdong Province and (c) Beijing,
 which will be equipped with state-of-the-art facilities for research and development.
 Through continuous research and development investment in the above aspects, we aim
@@ -11101,7 +11101,7 @@ ours, or downstream industries through investment, mergers or research and devel
 willcloselyfollowmarketdevelopmenttrendsandfullyactualizeourgrowthpotentialinorder
 to reinforce our technological leading position while accelerating the process of China’s clean
 and low-carbon energy transformation.
-(cid:129) We are committed to expanding into the upstream industries in areas such as major
+ We are committed to expanding into the upstream industries in areas such as major
 raw materials, components and complementary strategic technologies through
 investment and mergers. We will continue to explore the hydrogen energy market to
 find suitable merger and investment targets that are in possession of key
@@ -11109,14 +11109,14 @@ technologies in the industry or those that can create synergies with us. Specifi
 companies engaged in the upstream raw materials and components business such as
 graphite sheet, catalyst, resin, air compressor, and hydrogen circulation pump will
 be our primary merger and acquisition targets.
-(cid:129) We plan to overcome technological bottlenecks and expand our technology
+ We plan to overcome technological bottlenecks and expand our technology
 capabilities into the upstream industries through our own research and development
 and collaborations in aspects such as research and development, communication,
 exploration and testing with leading companies and academic institutions in the
 hydrogen fuel cell industry. For instance, we have been working with companies
 includingSinoHykeyTechnologyGuangzhouCo.,Ltd.(鴻基創能科技(廣州)有限公
 司) to develop high efficiency and long lasting MEAs.
-(cid:129) We will also collaborate with different segments of the hydrogen fuel cell industry,
+ We will also collaborate with different segments of the hydrogen fuel cell industry,
 including other upstream and downstream industry players, as well as local
 governments through the establishment of joint ventures, aimed at exploring local
 applications for further driving market demand and promoting the commercial
@@ -11140,7 +11140,7 @@ Expand the applications of hydrogen fuel cell technology and accelerate the
 commercialization of hydrogen energy industry
 We will further expand our product applications in the diversified markets amid the
 current and future hydrogen industry market opportunities.
-(cid:129) In terms of transit applications, based on our management’s vision and prediction of
+ In terms of transit applications, based on our management’s vision and prediction of
 the market, we plan to (i) focus our commercialization efforts on medium- to
 heavy-duty trucks and buses in the short term, while also making effort for the
 development of rail transit, cold chain logistics vehicles and forklifts applications in
@@ -11153,7 +11153,7 @@ and we also collaborated with one of our strategic partners to develop the world
 first hydrogen-powered rubber-tyred digital rail tram. In the future we will continue
 to seek strategic collaboration with other leading vehicle manufacturers or other
 companies that operate in areas we can expand our product applications into.
-(cid:129) In terms of stationary applications, we will focus on the application of our products
+ In terms of stationary applications, we will focus on the application of our products
 for distributed power generation and energy storage. For instance, (i) we have
 collaborated with a globally renowned internet data center on backup power and
 power generation projects; and (ii) we are engaged in the development of an
@@ -11171,7 +11171,7 @@ hydrogen fuel cell products for power generation, energy storage and electrical 
 
 === PAGE 225 ===
 BUSINESS
-(cid:129) In terms of hydrogen production, our focus will be on electrolysis of water in order
+ In terms of hydrogen production, our focus will be on electrolysis of water in order
 to achieve (i) large scale long-duration energy storage and (ii) transformation from
 “grey” hydrogen made from coal to “green” hydrogen made from electrolysis of
 water. With respect to energy storage, “green” hydrogen production is the better
@@ -11205,7 +11205,7 @@ continue to attract and hire more professional and talents, as well as strengthe
 trainingandteambuildingthroughcollaborationswithdomesticuniversitiestofurtherenhance
 our leading position in the industry.At the same time, we will further strengthen our utilization
 of information technology so as to improve the overall management and operation efficiency.
-(cid:129) As our overall business and our regional subsidiaries expand, we expect to add new
+ As our overall business and our regional subsidiaries expand, we expect to add new
 management executives in the relevant departments and to continue to optimize our
 management capabilities. For our production lines in (i) Jiaxing, Zhejiang Province,
 (ii) Guangzhou, Guangdong Province, (iii) Chongqing, (iv) Lin-Gang Special Area
@@ -11216,7 +11216,7 @@ stability.
 
 === PAGE 226 ===
 BUSINESS
-(cid:129) With respect to research and development, we will continue to attract highly
+ With respect to research and development, we will continue to attract highly
 qualified research and development talents in the field of hydrogen fuel cells. We
 also collaborate with academic institutions such as Tsinghua University (清華大學)
 and Beijing Institute of Technology (北京理工大學) to quickly turn research and
@@ -11224,11 +11224,11 @@ development achievements into commercialized products, and to lay a solid
 foundation for the continuous improvement of our technological capabilities.At the
 same time, we plan to recruit research and development talents with internationally
 leading insight that will give us competitive advantages for our technology.
-(cid:129) In terms of talent training and team building, we will establish an effective talent
+ In terms of talent training and team building, we will establish an effective talent
 training system. Through technical skills training, corporate culture and core values
 training, combined with more attractive compensation schemes, we plan to
 comprehensively train and retain talents to realize their full potential.
-(cid:129) In terms of utilization of information technology, we will further increase our
+ In terms of utilization of information technology, we will further increase our
 information technology advancement level in terms of production and operation
 system, financial system, research and development system and human resources
 system through the combination of in-house development and external procurement,
@@ -12012,14 +12012,14 @@ Lifespan >20,000h >20,000h >30,000h >4,000h
 === PAGE 235 ===
 BUSINESS
 Series 9SSL(1) SynStack GI SynStack GIII SynairStack G
-Applications (cid:129) On-road (cid:129) On-road (cid:129) On-road (cid:129) Emergency
+Applications On-road On-road On-road Emergency
 vehicles vehicles vehicles power
-(cid:129) Industrial (cid:129) Industrial (cid:129) Industrial (cid:129) Back-up power
-vehicles vehicles vehicles (cid:129) Forklifts
-(cid:129) Rail transit (cid:129) Rail transit (cid:129) Rail transit
-(cid:129) Ships (cid:129) Ships (cid:129) Ships
-(cid:129) CHP (cid:129) CHP (cid:129) CHP
-(cid:129) Stationary (cid:129) Stationary (cid:129) Stationary
+ Industrial Industrial Industrial Back-up power
+vehicles vehicles vehicles Forklifts
+ Rail transit Rail transit Rail transit
+ Ships Ships Ships
+ CHP CHP CHP
+ Stationary Stationary Stationary
 power power power
 Internal Internal/external(2) Internal/external Internal/external Internal
 production/external
@@ -12081,14 +12081,14 @@ GIII GIII
 Key specifications
 Rated power 65kW 70kW 80kW 110kW 120kW 240kW
 Power density 402W/kg 412W/kg 503W/kg 555W/kg 714W/kg 906W/kg
-Lifespan (cid:2)20,000h
+Lifespan 20,000h
 Freeze-start temperature -30°C
-Applications (cid:129) On-road (cid:129) On-road (cid:129) On-road (cid:129) On-road (cid:129) On-road (cid:129) On-road
+Applications On-road On-road On-road On-road On-road On-road
 vehicles vehicles vehicles vehicles vehicles vehicles
-(cid:129) Industrial (cid:129) Industrial (cid:129) Industrial (cid:129) Industrial (cid:129) Rail (cid:129) Rail
+ Industrial Industrial Industrial Industrial Rail Rail
 vehicles vehicles vehicles vehicles transit transit
-(cid:129) Ships (cid:129) Ships
-(cid:129) Stationary (cid:129) Stationary
+ Ships Ships
+ Stationary Stationary
 power power
 Commencement of 2019 2020 2022 2020 2022 2022
 production
@@ -12106,15 +12106,15 @@ stacks(1) stacks(1)
 Key specifications
 Rated power 115kW 110kW 110kW 2kW 640kW 10kW
 Power density 214W/kg 268W/kg 319W/kg 268W/kg 160W/kg 25.3W/L
-Lifespan (cid:2)20,000h (cid:2)20,000h (cid:2)20,000h (cid:2)2,000h (cid:2)40,000h (cid:2)20,000h
+Lifespan 20,000h 20,000h 20,000h 2,000h 40,000h 20,000h
 Freeze-start temperature -10°C -30°C -30°C -5°C -30°C -30°C
-Applications (cid:129) Rail (cid:129) Rail (cid:129) Rail (cid:129) Emergency(cid:129) Stationary (cid:129) Material
+Applications Rail Rail Rail Emergency Stationary Material
 transit transit transit power power handling
-(cid:129) Industrial (cid:129) Industrial (cid:129) Industrial (cid:129) Back-up (cid:129) CHP vehicles
-vehicles vehicles vehicles power (cid:129) Forklifts
-(cid:129) Stationary (cid:129) Stacker
-power (cid:129) Material
-(cid:129) Base transport
+ Industrial Industrial Industrial Back-up CHP vehicles
+vehicles vehicles vehicles power Forklifts
+ Stationary Stacker
+power Material
+ Base transport
 station vehicles
 power
 Market launch 2018 2021 2022 2022 2022 2022
@@ -12315,14 +12315,14 @@ Estimated annual
 Commencement production capacity
 Location Site area Primary products of production as of 31 May 2023
 (sq.m.)
-Yunfu, Guangdong Province approximately (cid:129) embossed flexible July 2017 (cid:129) 1,200,000 pieces
+Yunfu, Guangdong Province approximately embossed flexible July 2017 1,200,000 pieces
 12,500 graphite bipolar of embossed
 plates flexible graphite
-(cid:129) hydrogen fuel cell bipolar plates
-stacks (cid:129) 300,000 kWof
-(cid:129) hydrogen fuel cell hydrogen fuel cell
+ hydrogen fuel cell bipolar plates
+stacks 300,000 kWof
+ hydrogen fuel cell hydrogen fuel cell
 systems stacks
-(cid:129) 2,000 units of
+ 2,000 units of
 hydrogen fuel cell
 systems
 Production capacity and utilization rate
@@ -12401,11 +12401,11 @@ systems
 Guangzhou,Guangdong Hydrogenfuel 5,000unitsof 50.0 August2021 August2023(1)
 Province cellsystems hydrogenfuelcell
 systems
-Chongqing Hydrogenfuel (cid:129) 150,000kWof 300.0 October2021 April2023(1)
+Chongqing Hydrogenfuel 150,000kWof 300.0 October2021 April2023(1)
 cellstacks hydrogenfuel
 andhydrogen cellstacks
 fuelcell
-systems (cid:129) 2,000unitsof
+systems 2,000unitsof
 hydrogenfuel
 cellsystems
 Ordos,InnerMongolia Hydrogenfuel 5,000unitsof 200.0 January2022 May2023(1)
@@ -12417,11 +12417,11 @@ systems
 Lin-GangSpecialAreaof Hydrogenfuel 2,000unitsof 101.2 July2022 July2023(1)
 Shanghai cellsystems hydrogenfuelcell
 systems
-Jiaxing,ZhejiangProvince Hydrogenfuel (cid:129) 500,000kWof 600.0 Firsthalfof2024 December2025
+Jiaxing,ZhejiangProvince Hydrogenfuel 500,000kWof 600.0 Firsthalfof2024 December2025
 (PhaseII) cellstacks hydrogenfuel
 andhydrogen cellstacks
 fuelcell
-systems (cid:129) 5,000unitsof
+systems 5,000unitsof
 hydrogenfuel
 cellsystems
 Note:
@@ -12728,7 +12728,7 @@ hydrogen fuel cell systems. We have built a comprehensive technology development
 and strive to continuously upgrade the key parameters of our products including technology
 advancement, ease of use, weather resistance, reliability, durability and safety. Some of our
 main research and development achievements include:
-(cid:129) We have successfully mass-produced and sold a variety of high-powered and
+ We have successfully mass-produced and sold a variety of high-powered and
 highly-integrated hydrogen fuel cell systems such as SynRoad G70 and SynRoad
 G110 that were developed based on our self-developed high-performance hydrogen
 fuel cell stack SynStack GI. Our SynStack G series hydrogen fuel cell stacks were
@@ -12737,7 +12737,7 @@ technology and cooling structure design for our embossed flexible graphite bipol
 plates. As of the Latest Practicable Date, we were in the process of developing the
 next-generation SynRoad H series fuel cell systems with domestic industry-leading
 technology.
-(cid:129) We have successfully developed and achieved mass-production of high-performance
+ We have successfully developed and achieved mass-production of high-performance
 SynStack GI and the high-powered SynStack GIII, to which we own the core
 intellectual property rights. Through our research and development efforts, we
 greatly increased our hydrogen fuel cell stack’s power range to over 200kW and
@@ -12748,7 +12748,7 @@ procured and the stacks themselves are domestically manufactured. SynStack GIII
 has a single stack power of over 200kW, and a power density of 4.5 kW/L,
 representing a substantial improvement in our hydrogen fuel cell stack technology
 and also at an industry-leading level.
-(cid:129) We have achieved mass-production of low-cost embossed flexible graphite bipolar
+ We have achieved mass-production of low-cost embossed flexible graphite bipolar
 plates with domestically procured raw materials, and have incorporated such
 embossed flexible graphite bipolar plates into our SynStack fuel cell stacks. Our
 SynStack GIII graphite bipolar plate has a mere thickness of 1.5 mm which is at the
@@ -12766,25 +12766,25 @@ flexible graphite bipolar plates.
 BUSINESS
 Our technological achievements were grounded in our development of key technologies
 such as:
-(cid:129) multi-dimensional flow field design and water management control technology:
+ multi-dimensional flow field design and water management control technology:
 Through the multi-dimensional design of the flow field structure, we improved the
 uniformity of gas distribution and the drainage capacity of the hydrogen fuel cell
 stacks. In addition, with the coupled electricity, water, and thermal management
 strategies, we were able to improve the performance of the hydrogen fuel cell stacks
 and the operational stability under high electric density;
-(cid:129) moldedgraphitebipolarplatesthinningtechnology:throughtheoptimizationsofthe
+ moldedgraphitebipolarplatesthinningtechnology:throughtheoptimizationsofthe
 structure and the manufacturing process of the graphite bipolar plates, the strength
 of the plates was improved, the thickness of the plates was reduced, and the
 volume-specific power density of the hydrogen fuel cell stacks was effectively
 improved;
-(cid:129) stack rapid activation technology: we adopted methods such as high current, oxidant
+ stack rapid activation technology: we adopted methods such as high current, oxidant
 starvation, and hydrogen pump to reduce the activation time of the hydrogen fuel
 cell stacks;
-(cid:129) low-temperatureunassistedstart-uptechnologyforthehydrogenfuelcellstacks:we
+ low-temperatureunassistedstart-uptechnologyforthehydrogenfuelcellstacks:we
 achieved the unassisted start-up of the hydrogen fuel cell stacks at -35°C by
 employing response surface analysis techniques to establish a cold start model and
 determine the cold start water-heat balance point; and
-(cid:129) intelligent manufacturing technology: we improved the quality and efficiency of
+ intelligent manufacturing technology: we improved the quality and efficiency of
 hydrogen fuel cell stacks production through tolerance transfer analysis and the
 deployment of automated and intelligent manufacturing through technologies such
 as visual recognition, algorithms controls and high-precision alignment of hydrogen
@@ -12946,21 +12946,21 @@ have collaborated with the relevant suppliers to develop (i) all-in-one controll
 energy-recovery air compressors, and (iii) coupled hydrogen return devices, in addition to
 improving the modular design of the hydrogen fuel cell system architecture to further increase
 its range of power. Some of the key ongoing research and development projects include:
-(cid:129) our three-stage PEM electrolyzer research and development project aims to design,
+ our three-stage PEM electrolyzer research and development project aims to design,
 develop and test a megawatt-scale electrolyzer for the development of advanced
 hydrogen production equipment;
-(cid:129) our composite bipolar plates research and development project aims to develop
+ our composite bipolar plates research and development project aims to develop
 graphite-epoxy composite bipolar plates and graphite-metal composite bipolar
 plates to further improve key parameters of our bipolar plates, including their
 thickness, to improve our hydrogen fuel cell stack power density and reduce its size;
-(cid:129) our cooperation with a subsidiary of a state-owned enterprise for the research and
+ our cooperation with a subsidiary of a state-owned enterprise for the research and
 development of hydrogen fuel cell systems for emergency power generation
 applications to be installed in emergency power generation vehicles to meet the
 needs of power grid emergency protection;
-(cid:129) ourcooperationwithadatacenterequipmentmanufacturertodevelophydrogenfuel
+ ourcooperationwithadatacenterequipmentmanufacturertodevelophydrogenfuel
 cell power generation systems for data centers to meet the needs of green power
 generation for data centers; and
-(cid:129) our cooperation with Kewell Technology Co., Ltd (科威爾技術股份有限公司), a
+ our cooperation with Kewell Technology Co., Ltd (科威爾技術股份有限公司), a
 company listed on the Sci-Tech Innovation Board of the Shanghai Stock Exchange
 (stock code: 688551), andTsinghua University (清華大學) to jointly develop a rapid
 activation method to shorten the activation time required during the hydrogen fuel
@@ -13654,17 +13654,17 @@ channel and customer base. We have allocated a sufficient amount of budget for a
 customers, which varies from year to year depending our then strategies and the different focus
 of our customer acquisition plan. We believe we are equipped to broaden our customer base in
 light of the following:
-(cid:129) our potential collaboration with new customers: we plan to actively seek and
+ our potential collaboration with new customers: we plan to actively seek and
 negotiate potential collaborations with downstream hydrogen fuel cell vehicle
 manufacturers that we have not worked with before, for the development of
 hydrogen fuel cell vehicles and the promotion of our products;
-(cid:129) our production expansion: we plan to expand our production capacity nationwide in
+ our production expansion: we plan to expand our production capacity nationwide in
 line with the hydrogen energy industry development policies, plans and market
 demand in different regions. See “– Our Strategies – Expand production capacity in
 accordance with local policies and opportunities”. With our increased footprint, we
 will be able to expand our customer base organically and further explore
 collaborations and business opportunities along the way;
-(cid:129) our excellent product performance and customization appeal to our customers: our
+ our excellent product performance and customization appeal to our customers: our
 excellent technological capabilities and product performance, such as our 1.5 mm
 thick graphite bipolar plates or our 240kW hydrogen fuel cell systems, our
 commitment to research and development, in addition to our ability to customize
@@ -13673,7 +13673,7 @@ particularly those leading players in the vehicle manufacturing and power
 generation industries. See “– Our Strategies – Expand the applications of hydrogen
 fuel cell technology and accelerate the commercialization of hydrogen energy
 industry” for more details; and
-(cid:129) our continuous efforts in marketing and promoting our products and our brands: we
+ our continuous efforts in marketing and promoting our products and our brands: we
 plantoincreaseoureffortsinmarketingandpromotingourhydrogenfuelcellstacks
 and hydrogen fuel cell systems to end-users and to reinforce our leading position in
 the industry.
@@ -14850,19 +14850,19 @@ transacting with such companies.
 In addition, in order to mitigate any inherent risk, we have in place an internal control
 system for approving and continued monitoring of such arrangements to provide adequate
 assurance with respect to the effective management of our credit risk. Specifically,
-(cid:129) we conduct thorough know-your-customer procedures which require any customer
+ we conduct thorough know-your-customer procedures which require any customer
 who is intended to acquire long-term credit term to provide a list of information for
 vetting and to demonstrate its creditworthiness;
-(cid:129) we also conduct due diligence including: (i) verifying the information provided by
+ we also conduct due diligence including: (i) verifying the information provided by
 thecustomer,and(ii)examiningtheoperatingqualityofthecustomer’sbusiness,its
 financial standing and its cash flow;
 – 282 –
 
 === PAGE 291 ===
 BUSINESS
-(cid:129) we review and decide the credit terms on a case-by-case basis and seek approvals
+ we review and decide the credit terms on a case-by-case basis and seek approvals
 from our deputy general manager and general manager; and
-(cid:129) we also regularly review the financial standing and balance of receivables with such
+ we also regularly review the financial standing and balance of receivables with such
 customers.
 For more information on our measures to monitor the outstanding trade receivables,
 please refer to “Financial Information – Certain Statement of Financial Position Items – Trade
@@ -14879,22 +14879,22 @@ time by over six months as we agreed to accept bank acceptance bills.
 Inadditiontothecreditriskmanagementpoliciesandmeasuresmentionedabove,wealso
 implemented measures to perform on-going credit evaluations to both our new and existing
 customers. Specifically,
-(cid:129) we assess a potential customer’s credit quality and associated risks before entering
+ we assess a potential customer’s credit quality and associated risks before entering
 into any sales contract with such customer;
-(cid:129) as part of our customer intake process, we collect background information and build
+ as part of our customer intake process, we collect background information and build
 a customer profile for any new customer, which includes its business operation
 conditions, financial standing and credit history in order to assess its credit risk;
-(cid:129) before we enter a new sales contract with both of our new and existing customers,
+ before we enter a new sales contract with both of our new and existing customers,
 we internally review and confirm the order with our head of sales and marketing and
 obtain approvals from managers of different departments, including the manager of
 sales and marketing, manager of finance, manager of legal, as well as our general
 manager;
-(cid:129) for existing customers, we also consider the customers’ payment history and any
+ for existing customers, we also consider the customers’ payment history and any
 unsettled amount with us at the time;
-(cid:129) we update our credit assessments of existing customers based on their business
+ we update our credit assessments of existing customers based on their business
 operations and financial performance from time to time through information
 obtained from the public domain and regular communications with them; and
-(cid:129) we assign credit limits to our customers and our sales and marketing personnel also
+ we assign credit limits to our customers and our sales and marketing personnel also
 conductreviewsannuallyonsuchcreditlimitstoensurethecustomer’sbusinessand
 finance conditions are properly reviewed.
 – 283 –
@@ -15074,14 +15074,14 @@ positioned as a hydrogen fuel cell system production base, the key management of
 generally appointed by Shanghai Refire. With respect to the articles of association of Guohong
 RefireandthecooperationagreemententeredintobetweenShanghaiRefireandusin2016,the
 major terms included, among others:
-(cid:129) Shanghai Refire had the right to appoint two of Guohong Refire’s five directors
+ Shanghai Refire had the right to appoint two of Guohong Refire’s five directors
 board and we had the right to appoint the remaining three; a resolution of the board
 of directors of Guohong Refire shall be passed only with the approval of two-thirds
 or more of its directors;
-(cid:129) Shanghai Refire had the right to recommend the general manager of Guohong
+ Shanghai Refire had the right to recommend the general manager of Guohong
 Refire, who presided over Guohong Refire’s production and operation management;
 and
-(cid:129) Shanghai Refire and our Company shared the profit of Guohong Refire by our
+ Shanghai Refire and our Company shared the profit of Guohong Refire by our
 respective shareholding interest proportion to the paid-up registered capital in
 Guohong Refire.
 InOctober2016,ShanghaiRefiregrantedthelicenseoftechnologyforthemanufacturing
@@ -15438,7 +15438,7 @@ of Hydrogen Fuel CellVehicles Market in China – Market Size of Hydrogen Fuel C
 in China”. As a leading provider of hydrogen fuel cell stacks and hydrogen fuel cell systems
 in China, we are well-positioned to generate sustainable revenue growth in the future. Our
 revenue growth will be driven by the following factors:
-(cid:129) improving product performance and market competitiveness: we plan to continue
+ improving product performance and market competitiveness: we plan to continue
 our research and development efforts and continue to develop high efficiency and
 high power hydrogen fuel cell stacks and hydrogen fuel cell systems to increase our
 competitiveness in the market and confidence from our customers. For instance,
@@ -15454,7 +15454,7 @@ and stationary power generations. Going forward, we plan to further increase our
 product competitiveness and create more value for customers through continuous
 technological development. For more information, please refer to “– Research and
 Development” above;
-(cid:129) expanding the applications of our hydrogen fuel cell products: we will further
+ expanding the applications of our hydrogen fuel cell products: we will further
 expand our product applications in the diversified markets amid the current and
 future hydrogen industry market opportunities to set ourselves apart from our
 competitors. For the transit applications, we will closely cooperate with our existing
@@ -15466,7 +15466,7 @@ generation, and hydrogen storage. For instance, leveraging our experience, we
 engaged in the development of an “integration of wind-solar-hydrogen energy
 storage (風光氫儲能一體化)” project that utilizes solar or wind power to produce
 hydrogen, which is then stored for generating electricity when needed;
-(cid:129) expanding our geographical presence and production capacity: since August 2021,
+ expanding our geographical presence and production capacity: since August 2021,
 the PRC government has approved five hydrogen fuel cell vehicle demonstrative
 city clusters, including Beijing, Shanghai, Guangdong Province, Hebei Province,
 – 296 –
@@ -15498,7 +15498,7 @@ Vehicles equipped with our hydrogen fuel cell products have been in stable
 operation in 20 provincial administrative regions and key locations include, among
 others, (i) Inner Mongolia, (ii) Shanxi Province, (iii) Shaanxi Province, (iv)
 Shandong Province, (v) Guangdong Province and (vi) Tianjin.
-(cid:129) enhancing marketing efforts: we plan to expand our marketing team with
+ enhancing marketing efforts: we plan to expand our marketing team with
 experienced business and sales personnel who have expertise in the logistics and
 commercial transportation industry and are capable of developing network with
 more end-customers. In addition, we plan to actively promote the application of our
@@ -15510,7 +15510,7 @@ supportive policies for the hydrogen fuel cell industry to enter different marke
 expand our sales channels. During the Track Record Period, our number of
 customersincreasedfrom38fortheyearended31December2020to74fortheyear
 ended 31 December 2022; and
-(cid:129) enlarging and diversifying our customer base: we believe there will be more
+ enlarging and diversifying our customer base: we believe there will be more
 end-customers and market participants involved in the hydrogen fuel cell vehicle
 market resulting from the significant improvement of hydrogen energy
 infrastructureinChinaandthereforetheunderlyingdemandfromtheend-customers
@@ -15572,7 +15572,7 @@ In addition, we plan to take measures such as manufacturing improvement and prod
 upgrades to improve our production efficiency and lower our average production costs. To
 further improve our cost of productions and operating leverage, we plan to carry out the
 following:
-(cid:129) supply management: we plan to continue to leverage our success in the domestic
+ supply management: we plan to continue to leverage our success in the domestic
 procurement of raw materials and components to further drive our costs down. We
 believe that the purchase cost from domestic suppliers is expected to continue to
 decrease as (i) their technology develops and production volume increases as the
@@ -15612,7 +15612,7 @@ For more information, please refer to “Future Plans and Use of Proceeds” in 
 prospectus. In addition, as we continue to grow the scale of our business, our
 purchases from suppliers will further increase and we expect to negotiate and obtain
 more favorable pricings from our suppliers with similar qualities and terms.
-(cid:129) manufacturing improvement: we plan to upgrade our production process and
+ manufacturing improvement: we plan to upgrade our production process and
 production equipment in order to increase our production efficiency and decrease
 our average production costs. For instance, (i) on the one hand, we plan to acquire
 and develop upgraded equipment and software systems to optimize our production
@@ -15671,7 +15671,7 @@ reducing the risk of workplace accidents, and ensuring greater adherence to
 standardized safety protocols throughout the production process. We have also
 implemented work safety and quality control procedures to ensure the well-being of
 our employees and the consistency of our product qualities.
-(cid:129) product upgrade: technology iterations are also key to lowering costs. Leveraging
+ product upgrade: technology iterations are also key to lowering costs. Leveraging
 our ability to self-develop hydrogen fuel cell systems, we have successfully
 increasedthelevelofintegrationforourhydrogenfuelcellsystemsduringtheTrack
 Record Period, which in turn reduced the number of components needed and the
@@ -15702,7 +15702,7 @@ line onto the MEA through injection molding, a method that is expected to reduce
 production costs through reducing the sealing costs of MEAs and increasing the
 passing rate of the airtightness test. We expect to complete both research and
 development projects by the end of the 2023.
-(cid:129) operating leverage: after we have completed our production facilities, increased our
+ operating leverage: after we have completed our production facilities, increased our
 sales efforts, and our products have become more widely accepted, we consider our
 revenue will grow at a relatively fast pace and our operating expenses will not
 increase proportionately to our revenue growth and thus our operating expenses as
@@ -15712,11 +15712,11 @@ To mitigate risks related to our net operating cash outflows, we expect to impro
 cash flow positions by continuously enhancing working capital efficiency. We believe our
 working capital position will be improved and we possess the ability to raise funds when
 necessary, mainly taking into consideration of:
-(cid:129) increased revenue and improved operating leverage: through the aforementioned
+ increased revenue and improved operating leverage: through the aforementioned
 (i) measures to increase our revenue, such as improving product performance and
 expanding product applications, and (ii) measures to manage our costs and improve
 the operating leverage, we expect to improve our net operating cash position;
-(cid:129) enhanced collection efforts and credit assessment: we have been collecting and will
+ enhanced collection efforts and credit assessment: we have been collecting and will
 continue to collect our trade and bills receivables in a more effective manner. We
 have implemented sales and collection policy, which detailed our cash flow and
 liquidity management policy with specific measures to timely collect our payments
@@ -15743,7 +15743,7 @@ background information and build a customer profile for any new customer, which
 includes its business operation conditions, financial standing and credit history in
 order to assess its credit risk, as part of our customer intake process. For more
 information, please refer to “– Customers” in this section of the prospectus;
-(cid:129) stronger supply management: as we continue to grow the scale of our business, our
+ stronger supply management: as we continue to grow the scale of our business, our
 purchases from suppliers will further increase and we expect to obtain more
 favorable terms with them, such as (i) setting up longer payment cycles with our
 suppliers in general, (ii) negotiating flexible means of payment such as commercial
@@ -15752,14 +15752,14 @@ requiring smaller batch but more frequent deliveries to ease the pressure on
 inventory management. For more information on supply management, please see “–
 Raw Materials and Suppliers – Supply Management” in this section of the
 prospectus;
-(cid:129) efficient inventory management: we will continue to carry out our inventory
+ efficient inventory management: we will continue to carry out our inventory
 management policies in place and further adopt additional inventory management
 policies when necessary as we believe that maintaining appropriate levels of
 inventories can help us better plan raw material procurement and deliver our
 products to meet customer’s demand in a timely manner without straining our
 liquidity. For more information on our inventory management policies, please refer
 to “– Inventories – Inventory Management” in this section of the prospectus; and
-(cid:129) financial resources available to us: we have obtained, and believe that we can
+ financial resources available to us: we have obtained, and believe that we can
 continue to obtain, credit facilities from banks for our utilization when needed and
 we would further raise funds through equity and debt financings, if and when
 necessary. As of 30 September 2023, we had unutilized banking facilities of
@@ -16065,19 +16065,19 @@ BUSINESS
 usages from previous years to obtain a more precise estimate of production targets for the
 current year and tailor our procurement accordingly. We also imposed inventory control
 policies to monitor our inventory levels and to prevent inventory obsolesces. For instance,
-(cid:129) we conduct on-site inspections in our warehouses every six months for inventories
+ we conduct on-site inspections in our warehouses every six months for inventories
 of more than one year;
-(cid:129) we regularly adjust our inventory levels based on the consumption of raw materials
+ we regularly adjust our inventory levels based on the consumption of raw materials
 and parts in storage;
-(cid:129) wealsoaskourproduction,salesandafter-salesstafftogiveregularfeedbackonthe
+ wealsoaskourproduction,salesandafter-salesstafftogiveregularfeedbackonthe
 inventory requirements to evaluate whether our inventories are overstocked;
-(cid:129) if there are defects in the outer packaging or the appearance of a product, or if there
+ if there are defects in the outer packaging or the appearance of a product, or if there
 is any issue with the quality of a product based on a preliminary examination, the
 quality control staff will be notified first to confirm whether such a product can
 leavethewarehousefordelivery.Whennecessary,thequalitymanagementstaffwill
 issue relevant inspection reports for record-keeping, and the inspected products will
 be handed over to the production staff for repairs;
-(cid:129) if no defects are found in the finished products during our biannual inspections, the
+ if no defects are found in the finished products during our biannual inspections, the
 quality management staff will still be notified and will perform inspections when a
 product is ready for delivery. Any product that does not meet our quality standards
 will be returned to the production staff for repair before it can be delivered to our
@@ -16172,7 +16172,7 @@ operations.
 To monitor the continuous implementation of risk management policies and corporate
 governance measures after the Listing, we have adopted or will continue to adopt, among other
 things, the following risk management measures:
-(cid:129) Compliance with the Listing Rules: we adopt various policies to ensure compliance
+ Compliance with the Listing Rules: we adopt various policies to ensure compliance
 with the Listing Rules, including aspects related to corporate governance, connected
 transactions and information disclosure, such as:
 (i) Anti-corruption and anti-fraud risk management: our internal control
@@ -16195,7 +16195,7 @@ comply with. Trainings will be arranged for all of our Directors, Supervisors
 and senior management members so as to discuss and study the relevant
 regulatory requirements in relation to our responsibilities and duties under
 these policies.
-(cid:129) Business operations risk management: we have adopted various measures and
+ Business operations risk management: we have adopted various measures and
 procedures regarding each aspect of our business operations, including the
 protection of intellectual property, see “– Intellectual Property” in this section of the
 prospectus, information system risk management, and human resources risk
@@ -16203,11 +16203,11 @@ management. We provide periodic training on these measures and procedures to our
 employees as part of our employee training program. We also regularly monitor the
 implementation of those measures and procedures through our on-site internal
 control team for each stage of the produce development process;
-(cid:129) Financialreportingriskmanagement:wehaveinplaceasetofaccountingpolicies
+ Financialreportingriskmanagement:wehaveinplaceasetofaccountingpolicies
 in connection with our financial reporting risk management. We have various
 procedures in place to implement accounting policies, and our financial department
 reviews our management accounts based on such procedures;
-(cid:129) Audit Committee and Board Oversight: to monitor the ongoing implementation of
+ Audit Committee and Board Oversight: to monitor the ongoing implementation of
 our risk management policies, we have established an Audit Committee to review
 and supervise our financial reporting process and internal control system on an
 ongoing basis to ensure that our internal control system is effective in identifying,
@@ -16437,35 +16437,35 @@ Board.
 Identification, assessment and management
 Our Board and the Safety Management Department have identified the following
 ESG-related risks as our focus during the business operation:
-(cid:129) resource consumption, including greenhouse gas emissions, energy consumption,
+ resource consumption, including greenhouse gas emissions, energy consumption,
 water consumption and electricity consumption;
-(cid:129) waste management;
-(cid:129) employee care;
-(cid:129) diversity and inclusion;
-(cid:129) corporate governance;
-(cid:129) supply chain related risks;
-(cid:129) financial reporting risks;
-(cid:129) human resources risks;
-(cid:129) environmental impact assessment; and
-(cid:129) climate-related risks.
+ waste management;
+ employee care;
+ diversity and inclusion;
+ corporate governance;
+ supply chain related risks;
+ financial reporting risks;
+ human resources risks;
+ environmental impact assessment; and
+ climate-related risks.
 We intend to adopt various strategies and measures to assess and manage the above-
 mentioned risks, including but not limited to:
-(cid:129) reviewing and assessing the ESG reports of similar companies in the industry to
+ reviewing and assessing the ESG reports of similar companies in the industry to
 ensure that all relevant ESG-related risks are identified on a timely basis;
-(cid:129) discussing among management from time to time to ensure all the material ESG
+ discussing among management from time to time to ensure all the material ESG
 areas are recognized and reported;
 – 320 –
 
 === PAGE 329 ===
 BUSINESS
-(cid:129) discussing with key stakeholders on an ongoing basis on key ESG principles and
+ discussing with key stakeholders on an ongoing basis on key ESG principles and
 practices as well as their concerns and expectations to ensure that the significant
 aspects are covered;
-(cid:129) setting targets for each major ESG risks with reference to guidance on ESG released
+ setting targets for each major ESG risks with reference to guidance on ESG released
 by the Stock Exchange, including emission, pollution and other impact on the
 environment aiming at reducing emissions and natural resource consumption and
 evaluating the ESG results annually; and
-(cid:129) adopting incentive policies for the management in relation to ESG matters,
+ adopting incentive policies for the management in relation to ESG matters,
 including but not limited to achievement of the announced ESG targets.
 Upon Listing, our Directors confirm that we will closely monitor and ensure strict
 compliance with the requirements of Appendix 17 to the Listing Rules and all relevant rules
@@ -16589,11 +16589,11 @@ testing and monitoring, spare energy utilization, reducing the energy consumptio
 increasing staff awareness to mitigate environmental impact from our operation in the near,
 medium and long term. Set out below are some of the key procedures which have been adopted
 by our Group during the Track Record Period:
-(cid:129) Regular inspections. We have set up a regular inspection system and stringent
+ Regular inspections. We have set up a regular inspection system and stringent
 environmental management measures which involve the control of emission, waste
 treatment, third party testing and monitoring. We have also held activities to
 increase our staff awareness in such fields.
-(cid:129) Resource consumption. We have improved the layout of workshop equipment and
+ Resource consumption. We have improved the layout of workshop equipment and
 reducedthenumberofheat-generatingequipmenttoreducetheairconditioningload
 and in turn reduce energy consumption. In addition, we have placed the production
 equipment with special requirements for temperature and humidity separately to
@@ -16608,7 +16608,7 @@ plan to continuously explore frontier technologies for energy storage and energy
 efficiency.Wehavesetupinternalmeasurablemetricsandtargetstocloselymonitor
 our resources consumption volume. For details, please refer to “– Metrics and
 targets for ESG-related risks” below.
-(cid:129) Handling of hydrogen and chemicals. Our Safety Management Department is
+ Handling of hydrogen and chemicals. Our Safety Management Department is
 responsibleforthecomprehensivemanagementandtoensuresafetyprecautionsand
 supervision are in place in the storage and handling of hydrogen and other
 chemicals.Personnelengagedinworkrelatedtothestorageanduseofhydrogenand
@@ -16623,7 +16623,7 @@ designated containers.
 
 === PAGE 333 ===
 BUSINESS
-(cid:129) Waste management. We have been granted Pollutant Discharges Permit (排污許可
+ Waste management. We have been granted Pollutant Discharges Permit (排污許可
 證) to discharge wastewater and exhaust gas.We have set up an air emission process
 system and wastewater treatment facilities in our plants and implement relevant
 internalprotocolstoensureproperoperations.Whilewastewaterisprocessedbyour
@@ -16644,7 +16644,7 @@ the loss of hydrogen and in turn improve the utilization rate of hydrogen gas an
 reduce the cost at the same time. During theTrack Record Period, we monitored and
 maintained proper management of hazardous waste water, industrial solid waste and
 carbon emission.
-(cid:129) Climate-related matters. Our operations, financial condition and prospects may be
+ Climate-related matters. Our operations, financial condition and prospects may be
 exposed to risks arising from environmental and climate-related risks, which
 include:(i)physicalrisksthatpotentiallycausephysicalimpacttousduetoextreme
 weather conditions; and (ii) transition risks arising from compliance with the
@@ -16657,7 +16657,7 @@ actively monitor changes in the relevant policies and legislations to prepare fo
 stricter environmental laws and regulations; and (iii) we will continue to enhance
 our research and development capabilities to promote clean production and
 comprehensive utilization of resources.
-(cid:129) Environmental impact assessment. We established procedures to ensure that
+ Environmental impact assessment. We established procedures to ensure that
 environmental impact assessment will be carried out before commencing the
 manufacturing activities as required by the Environmental Impact Assessment Law
 of the PRC (中華人民共和國環境影響評價法). We also performed assessment of
@@ -16880,14 +16880,14 @@ Female 8.7 14.9 16.2 9.9
 Total 10.2 17.2 17.6 11.3
 We are committed to providing a friendly workplace without discrimination, harassment
 of all kinds and violence. In particular,
-(cid:129) we prohibit child labor, and we prohibit using any products or services provided by
+ we prohibit child labor, and we prohibit using any products or services provided by
 any suppliers that employ child labor.
-(cid:129) we strictly prohibit any form of sexual harassment or abuse in the workplace.
-(cid:129) we improve our employees’ welfare by providing competitive salaries, insurance
+ we strictly prohibit any form of sexual harassment or abuse in the workplace.
+ we improve our employees’ welfare by providing competitive salaries, insurance
 and other employee benefits.
-(cid:129) we enhance the appraisal mechanism and employee incentive schemes as long-term
+ we enhance the appraisal mechanism and employee incentive schemes as long-term
 incentives for our employees.
-(cid:129) we provide our employees with diversified training sessions through our online
+ we provide our employees with diversified training sessions through our online
 platforms and offline sessions, according to our business strategies and specific
 needs in future. During theTrack Record Period, the total hours of training provided
 to our employees was over 26,000 hours, and the average attendance rate was over
@@ -16970,7 +16970,7 @@ Four disputes over the ownership of patent applications
 proceedings against Ousen Group to that the applicants to such three
 Hangzhou Intermediate People’s patent applications be changed to us.
 Court (杭州市中級人民法院) for the
-ownership of patent applications to (cid:129) For the litigation regarding patent
+ownership of patent applications to For the litigation regarding patent
 (i) a graphite bipolar plates application to a graphite bipolar
 impregnation system; (ii) a hydrogen plates impregnation system, on 6
 fuel cell flexible graphite bipolar June 2023, the Supreme People’s
@@ -16981,7 +16981,7 @@ loading machine for hydrogen fuel rulingfortheretrialofthecase.As
 cell flexible graphite bipolar plates, of the Latest Practicable Date, we
 all of which were initially filed by were in the process of retrial.
 OusenGroup.Weareoftheviewthat
-OusenGroupdidnothavetherightto (cid:129) For the litigation regarding patent
+OusenGroupdidnothavetherightto For the litigation regarding patent
 file such patent applications as these application to a hydrogen fuel cell
 techniques, know-hows, and other embossed flexible graphite bipolar
 related information were obtained by plates mass production system and
@@ -17002,7 +17002,7 @@ Ousen and us jointly.As such, for the graphite bipolar plates, on 7 June
 intellectual property rights involved 2023,theSupremePeople’sCourt,
 in these lawsuits: as the appellate court, dismissed
 the Ousen Group’s appeal and
-(cid:129) with respect to production systems upheld the original judgment
+ with respect to production systems upheld the original judgment
 and equipment related patent which favored us and confirmed
 applications (excluding the ones our ownership of the right to apply
 related to automatic equipment), for patent of the disputed
@@ -17021,7 +17021,7 @@ and
 === PAGE 343 ===
 BUSINESS
 Proceedings Nature and subject matter Results and status
-(cid:129) with respect to the patent
+ with respect to the patent
 applications for certain automatic
 equipment, we are of the view that
 although such patents can be
@@ -17148,18 +17148,18 @@ firm registered and established in Guangzhou, Guangdong Province and approved by
 competent judicial department of the PRC. As advised by the PRC Litigation Counsel, the
 abovementioned legal proceedings 1 to 9 did not and would not cause any material adverse
 impact on our Group based on the following:
-(cid:129) ouruseoftherelevantunderlyingproductionequipmentandsystemsofthedisputed
+ ouruseoftherelevantunderlyingproductionequipmentandsystemsofthedisputed
 patent applications in proceedings 1 to 2 would not be affected, even if the
 ownershipsofthedisputedpatentapplicationsremainwithOusenGroupbecausewe
 enjoy the prior use rights to such production equipment and systems given that the
 manufacture date of such equipment and systems predated the application date of
 such patent applications;
-(cid:129) for proceedings 5, our PRC Litigation Counsel is of the view that the termination of
+ for proceedings 5, our PRC Litigation Counsel is of the view that the termination of
 the contract does not affect the relevant stipulations regarding the intellectual
 property rights in the Production Equipment Procurement Contract, which was also
 supported by the courts of proceedings 2, 3 and 4 based on the court rulings in such
 proceedings; and
-(cid:129) for proceeding 7, the maximum amount that could be borne by Synergy Power was
+ for proceeding 7, the maximum amount that could be borne by Synergy Power was
 approximately RMB0.5 million, and considering Synergy Power’s current operation
 and financial condition, the maximum penalty in this case would not have a material
 adverse impact on its operation or financial performance. In addition, since the case
@@ -18965,11 +18965,11 @@ The primary function of the Audit Committee is to assist our Board in providing 
 independent view of our financial reporting process, internal control and risk management
 system, overseeing the audit process and performing other duties and responsibilities as
 assigned by our Board which includes, amongst other things:
-(cid:129) proposing to the Board the appointment and replacement of external audit firms;
-(cid:129) supervising the implementation of our internal audit system;
-(cid:129) liaising between our internal audit department and external auditors;
-(cid:129) reviewing our financial information and related disclosures; and
-(cid:129) other duties conferred by the Board of Directors.
+ proposing to the Board the appointment and replacement of external audit firms;
+ supervising the implementation of our internal audit system;
+ liaising between our internal audit department and external auditors;
+ reviewing our financial information and related disclosures; and
+ other duties conferred by the Board of Directors.
 Remuneration Committee
 We have established a remuneration committee with terms of reference in compliance
 with Rule 3.25 of Listing Rules and the Corporate Governance Code on 28 October 2022. The
@@ -18983,13 +18983,13 @@ The primary function of the remuneration committee is to develop remuneration po
 of our Directors, evaluate the performance, make recommendations on the remuneration
 packages of our Directors and senior management and evaluate and make recommendations on
 employee benefit arrangements which includes, among other things:
-(cid:129) establishing, reviewing and making recommendations to our Directors on our policy
+ establishing, reviewing and making recommendations to our Directors on our policy
 and structure concerning remuneration of our Directors and senior management;
-(cid:129) determining the terms of the specific remuneration package of each Director and
+ determining the terms of the specific remuneration package of each Director and
 members of senior management;
-(cid:129) reviewing and approving performance-based remuneration by reference to corporate
+ reviewing and approving performance-based remuneration by reference to corporate
 goals and objectives resolved by our Directors from time to time; and
-(cid:129) other duties conferred by the Board.
+ other duties conferred by the Board.
 Nomination Committee
 We have established a nomination committee with terms of reference in compliance with
 Rule 3.27Aof the Listing Rules and the Corporate Governance Code on 28 October 2022. The
@@ -18997,14 +18997,14 @@ Nomination Committee consists of Mr. Chen, Mr. Liu Xin and Dr. Xing Wei, with Mr
 being the chairman of the committee.
 TheprimaryfunctionoftheNominationCommitteeistomakerecommendationstoourBoard
 in relation to the appointment and removal of Directors which includes, among other things:
-(cid:129) reviewing the structure, size and composition of our Board on a regular basis and
+ reviewing the structure, size and composition of our Board on a regular basis and
 making recommendations to the Board regarding any proposed changes;
-(cid:129) identifying, selecting or making recommendations to our Board on the selection of
+ identifying, selecting or making recommendations to our Board on the selection of
 individuals nominated for directorships;
-(cid:129) assessing the independence of our independent non-executive Directors;
-(cid:129) making recommendations to the Board on relevant matters relating to the
+ assessing the independence of our independent non-executive Directors;
+ making recommendations to the Board on relevant matters relating to the
 appointment, re-appointment and removal of our Directors; and
-(cid:129) other duties conferred by the Board of Directors.
+ other duties conferred by the Board of Directors.
 Strategy Committee
 We have established a strategy committee with terms of reference in compliance with the
 Corporate Governance Code on 28 October 2022. The Strategy Committee consists of
@@ -19019,12 +19019,12 @@ strategyandmaterialinvestmentdecisionsofourCompany.TheStrategyCommitteewillassis
 our Board in discharging its duties with respect to the development and implementation of our
 Company’s strategic plan and the risks associated with such plan which includes, among other
 things:
-(cid:129) researching and making recommendations on our Company’s long-term
+ researching and making recommendations on our Company’s long-term
 development strategic plan;
-(cid:129) researching and making recommendations on material investment and financing
+ researching and making recommendations on material investment and financing
 plans that requires the approval of our Board as stipulated in the Articles of
 Association or authorised by our Shareholders; and
-(cid:129) researching and making recommendations on material capital operations and asset
+ researching and making recommendations on material capital operations and asset
 management projects that require the approval of our Board as stipulated in the
 Articles of Association or authorised by our Shareholders.
 CORPORATE GOVERNANCE
@@ -19896,11 +19896,11 @@ Tax amortisation year 6.83
 Discount rate (%) 15.5
 Our management determined the values assigned to each of the above key assumptions as
 follows:
-(cid:129) Net royalty rate: based on past performance and management’s expectations for the
+ Net royalty rate: based on past performance and management’s expectations for the
 future.
-(cid:129) Effective income tax rate and tax amortisation period: based on management’s
+ Effective income tax rate and tax amortisation period: based on management’s
 expectations for the future.
-(cid:129) Discount rate: this is the weighted average cost of capital, which is based on the
+ Discount rate: this is the weighted average cost of capital, which is based on the
 industry average cost of capital analysed by comparable companies and considering
 the unique risk factors of relevant production line technology.
 – 404 –
@@ -19934,14 +19934,14 @@ Research expenditures are charged to the profit or loss as an expense in the per
 expenditures are incurred. Development costs are recognised as assets if they can be directly
 attributable to a newly developed hydrogen fuel cell stacks and hydrogen fuel cell system
 products and all the following can be demonstrated, if applicable:
-(cid:129) the technical feasibility of completing the intangible assets so that it will be
+ the technical feasibility of completing the intangible assets so that it will be
 available for use or sale;
-(cid:129) the intention to complete the intangible asset and use or sell it;
-(cid:129) the ability to use or sell the intangible assets;
-(cid:129) the intangible asset will generate probable future economic benefits;
-(cid:129) the availability of adequate technical, financial and other resources to complete the
+ the intention to complete the intangible asset and use or sell it;
+ the ability to use or sell the intangible assets;
+ the intangible asset will generate probable future economic benefits;
+ the availability of adequate technical, financial and other resources to complete the
 development and to use or sell the intangible asset; and
-(cid:129) the ability to measure reliably the expenditure attributable to the intangible asset
+ the ability to measure reliably the expenditure attributable to the intangible asset
 during its development.
 – 405 –
 
@@ -19980,15 +19980,15 @@ Record Period. Please refer to Note 29 of the Accountant’s Report as Appendix 
 prospectus for more information. The fair value of the employee service received in exchange
 for the grant of shares is recognised as an expense. The total amount to be expensed is
 determined by reference to the fair value of the equity instruments granted:
-(cid:129) including any market performance conditions (for example, the entity’s share price);
+ including any market performance conditions (for example, the entity’s share price);
 – 406 –
 
 === PAGE 415 ===
 FINANCIAL INFORMATION
-(cid:129) excluding the impact of any service and non-market performance vesting conditions
+ excluding the impact of any service and non-market performance vesting conditions
 (for example, profitability, sales growth targets and remaining an employee of the
 entity over a specified time period), and
-(cid:129) including the impact of any non-vesting conditions (for example, the requirement
+ including the impact of any non-vesting conditions (for example, the requirement
 for employees to save or hold shares for a specific period of time).
 Non-market performance and service conditions are included in assumptions about the
 number of equity instruments that are expected to vest. The total expense is recognised over
@@ -20222,15 +20222,15 @@ batteries) procured from third parties that were sold together with our hydrogen
 systems in order to provide a more comprehensive and ready-for-use hydrogen fuel cell
 solution. For more information, please refer to “Description of Key Statement of Profit or Loss
 Items – Gross Profit and Gross Profit Margin”. Such a trend was mainly attributable to:
-(cid:129) the continuous development of our production technology and the iterations and
+ the continuous development of our production technology and the iterations and
 upgrades of our products and their performances;
-(cid:129) the increased production of scale resulting in the advantages of stronger bargaining
+ the increased production of scale resulting in the advantages of stronger bargaining
 power with our suppliers that helped to lower our unit production cost;
-(cid:129) the shift from international suppliers to domestic suppliers for most of our key raw
+ the shift from international suppliers to domestic suppliers for most of our key raw
 materials and components procurements, which allowed us to procure raw materials
 and components at relatively lower prices to further promote the commercialization
 of hydrogen fuel cell products; and
-(cid:129) our shift from primarily selling hydrogen fuel cell stacks to primarily selling
+ our shift from primarily selling hydrogen fuel cell stacks to primarily selling
 hydrogen fuel cell systems that generally incorporated our self-developed hydrogen
 fuel cell stacks beginning in 2020, which helped to further lower our hydrogen fuel
 cell systems production costs and enabled us to lower the selling prices while
@@ -21930,7 +21930,7 @@ Having considered our customers’business operation condition, payment history 
 expected credit loss rate adopted by other companies in the industry, we believe that the
 provisions made for impairment of trade receivables during the Track Record Period were
 adequate, also taking into consideration that:
-(cid:129) we closely review the balances of trade receivables and any overdue balances on an
+ we closely review the balances of trade receivables and any overdue balances on an
 ongoing basis and assess the collectability of overdue balances; for instance, our
 accounting team, together with the sales team, regularly conduct recoverability analysis
 on the level of recoverability of overdue trade receivables and make impairment
@@ -21940,7 +21940,7 @@ prior periods to identify any material discrepancies. Where the accounting estim
 different from our original estimate, such difference will be reflected in the carrying
 amounts of trade receivables and thus the impairment loss in the period in which such
 estimate is adjusted; and
-(cid:129) we formulate the impairment provision policy according to IFRS 9 and group long-term
+ we formulate the impairment provision policy according to IFRS 9 and group long-term
 and short-term trade receivables based on shared credit risk characteristics and estimate
 the expected credit loss rate of trade receivables on a collective basis based on historical
 credit loss experiences, with adjustment for forward-looking information such as gross
@@ -21951,20 +21951,20 @@ Trade receivables recoverability
 We closely monitor the recoverability of our outstanding trade receivables. We have
 adopted the following measures, among others, to monitor and control our outstanding
 receivables:
-(cid:129) keeping records of overdue receivables and requiring sales personnel to
+ keeping records of overdue receivables and requiring sales personnel to
 communicate with customers regarding the payment plans in advance;
-(cid:129) sending payment notices to customers prior to the payment due date;
-(cid:129) undertaking various measures to collect overdue payments, including (i) negotiate
+ sending payment notices to customers prior to the payment due date;
+ undertaking various measures to collect overdue payments, including (i) negotiate
 with customers to formulate payment plans and monitor the implementation; (ii)
 send overdue payment notices to customers; and (iii) consider to initiate legal
 proceedings as necessary;
-(cid:129) maintaining and regularly updating a list of defaulting customers and designating
+ maintaining and regularly updating a list of defaulting customers and designating
 personnel to collect overdue payments; and
 – 458 –
 
 === PAGE 467 ===
 FINANCIAL INFORMATION
-(cid:129) negotiating more favorable terms with our customers. To begin with, we have
+ negotiating more favorable terms with our customers. To begin with, we have
 offered favorable payment terms in 2023 as incentives for customers to settle before
 payments are due, such as providing a discount at a rate to be agreed by the parties
 when the customer pay in advance. We expect to set the range of discount
@@ -23789,7 +23789,7 @@ Practice Note 18 of the Listing Rules requires a clawback mechanism to be put in
 would have the effect of increasing the number of Offer Shares under the Hong Kong Public
 Offering to a certain percentage of the total number of Offer Shares offered under the Global
 Offering if certain prescribed total demand levels are reached as further described below:
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 15 times or more but less than 50 times the number of Offer
 Shares initially available for subscription under the Hong Kong Public Offering,
 – 506 –
@@ -23800,7 +23800,7 @@ then Offer Shares will be reallocated to the Hong Kong Public Offering from the
 International Offering so that the total number of Offer Shares available under the
 Hong Kong Public Offering will be 23,856,000 Offer Shares, representing 30% of
 the Offer Shares initially available under the Global Offering;
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 50 times or more but less than 100 times the number of Offer
 Shares initially available for subscription under the Hong Kong Public Offering,
 then the number of Offer Shares to be reallocated to the Hong Kong Public Offering
@@ -23808,7 +23808,7 @@ from the International Offering will be increased so that the total number of Of
 Shares available under the Hong Kong Public Offering will be 31,808,000 Offer
 Shares, representing 40% of the Offer Shares initially available under the Global
 Offering; and
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 100 times or more the number of Offer Shares initially available
 for subscription under the Hong Kong Public Offering, then the number of Offer
 Shares to be reallocated to the Hong Kong Public Offering from the International
@@ -24070,13 +24070,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who can apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the eWhite Form service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the eWhite Form service only).
 Unless permitted by the Listing Rules or a waiver and/ or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the
 person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or close associates; or
-(cid:129) are a Director or any of his/ her close associates.
+ are an existing Shareholder or close associates; or
+ are a Director or any of his/ her close associates.
 – 514 –
 
 === PAGE 523 ===
@@ -24157,19 +24157,19 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information required to apply
 You must provide the following information with your application:
 For Individual Applicants For Corporate Applicants
-(cid:129) Full name(s) as shown on your (cid:129) Full name(s) as shown on your
+ Full name(s) as shown on your Full name(s) as shown on your
 identity document identity document
-(cid:129) Identity document’s issuing country (cid:129) Identity document’s issuing country
+ Identity document’s issuing country Identity document’s issuing country
 or jurisdiction or jurisdiction
-(cid:129) Identity document type, with order (cid:129) Identity document type, with order
+ Identity document type, with order Identity document type, with order
 of priority: of priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification ii. Certificate of incorporation; or
 document; or
 iii. Business registration
 iii. Passport; and certificate; or
-(cid:129) Identity document number iv. Other equivalent document; and
-(cid:129) Identity document number
+ Identity document number iv. Other equivalent document; and
+ Identity document number
 Notes:
 1. If you are applying through the eWhite Form service, you are required to provide a valid e-mail
 address,acontacttelephonenumberandaHongKongAddress.Youarealsorequiredtodeclarethatthe
@@ -24206,9 +24206,9 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -24456,17 +24456,17 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “– A.Applications for Hong Kong Offer Shares – 5. Multiple
 applications prohibited” in this section on what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) our Company or the Overall Coordinator believe that by accepting your application,
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ our Company or the Overall Coordinator believe that by accepting your application,
 it or we would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -24546,9 +24546,9 @@ at your own risk
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Thursday, 30 November 2023 if, there is:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) an “extreme conditions” announcement issued after a super typhoon (“Extreme
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ an “extreme conditions” announcement issued after a super typhoon (“Extreme
 Conditions”),
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Thursday, 30
@@ -24570,7 +24570,7 @@ Registrar will make appropriate arrangements for the delivery of the H Share cer
 CCASS Depository’s service counter so that they would be available for trading on Tuesday,
 5 December 2023.
 If a Severe Weather Signal is hoisted on Monday, 4 December 2023:
-(cid:129) for physical H Share certificates of Hong Kong Offer Shares issued under your own
+ for physical H Share certificates of Hong Kong Offer Shares issued under your own
 name,despatchwillbemadebyordinarypostwhenthepostofficere-opensafterthe
 Severe Weather Signal is lowered or cancelled (e.g. in the afternoon of Monday, 4
 December 2023 or on Tuesday, 5 December 2023).
@@ -24627,23 +24627,23 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processingyourapplicationandrefundchequeande-Refundpaymentinstruction(s),
+ processingyourapplicationandrefundchequeande-Refundpaymentinstruction(s),
 where applicable, verification of compliance with the terms and application
 procedures set out in this prospectus and announcing results of allocation of Hong
 Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of our Company;
-(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
+ maintaining or updating the register of members of our Company;
+ verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from our Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenableour
+ distributing communications from our Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenableour
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the Shares and/or regulators and/or any other purposes to which
 applicants and holders of the Shares may from time to time agree.
@@ -24657,21 +24657,21 @@ or with any of the following:
 
 === PAGE 538 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) our Company’s appointed agents such as financial advisers, receiving bank and
+ our Company’s appointed agents such as financial advisers, receiving bank and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar, in each case for the purposes of providing its
 services or facilities or performing its functions in accordance with its rules or
 procedures and operating FINI and CCASS (including where applicants for the
 Hong Kong Offer Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to our Company or the H
 Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of personal data
@@ -25986,10 +25986,10 @@ near term. The identified credit losses are immaterial.
 (ii) Impairment of financial assets and loss allowance for financial guarantee obligation
 The Group has four types of assets and liabilities that are subject to the expected credit loss
 model:
-(cid:129) trade receivables
-(cid:129) contract assets
-(cid:129) other receivables
-(cid:129) financial guarantee obligation
+ trade receivables
+ contract assets
+ other receivables
+ financial guarantee obligation
 The Group
 Trade receivables and contract assets
 The Group applies the IFRS 9 simplified approach to measuring expected credit losses
@@ -30628,8 +30628,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
-(cid:129) The related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) The unaudited pro forma financial information reflects the proper application of
+ The related pro forma adjustments give appropriate effect to those criteria; and
+ The unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountant’s judgment, having regard to
 the reporting accountant’s understanding of the nature of the company, the event or transaction
@@ -31056,14 +31056,14 @@ THE PRC COMPANY LAW, TRIAL MEASURES AND PRC GUIDELINES ON AOA
 A joint stock limited company which was incorporated in the PRC and seeking a listing
 on the Hong Kong Stock Exchange is mainly subject to the following laws and regulations in
 the PRC:
-(cid:129) The PRC Company Law which was promulgated by the Standing Committee of the
+ The PRC Company Law which was promulgated by the Standing Committee of the
 NPC on 29 December 1993, came into effect on 1 July 1994, revised on
 25 December 1999, 28 August 2004, 27 October 2005 and 28 December 2013
 respectively and the latest revision of which was implemented on 26 October 2018;
-(cid:129) TheTrial Measures and its five guidelines which were promulgated by the CSRC on
+ TheTrial Measures and its five guidelines which were promulgated by the CSRC on
 17 February 2023 and came into effect on 31 March 2023, applicable to the overseas
 offering and listing of joint stock limited companies; and
-(cid:129) The Guidelines on the Application of Regulatory Rules – No. 1 for Overseas
+ The Guidelines on the Application of Regulatory Rules – No. 1 for Overseas
 Offering and Listing (《監管規則適用指引 – 境外發行上市類第1號》) which was
 promulgated by the CSRC on 17 February 2023, according to which the domestic
 companies that directly offer and list securities on overseas markets, shall formulate
@@ -31187,10 +31187,10 @@ APPENDIX IV SUMMARY OF PRINCIPAL PRC LEGAL
 AND REGULATORY PROVISION
 UnderthePRCCompanyLaw,whenthecompanyissuessharesinregisteredform,itshall
 maintain a register of shareholders, stating the following matters:
-(cid:129) the name and domicile of each shareholder;
-(cid:129) the number of shares held by each shareholder;
-(cid:129) the serial numbers of shares held by each shareholder; and
-(cid:129) the date on which each shareholder acquired the shares.
+ the name and domicile of each shareholder;
+ the number of shares held by each shareholder;
+ the serial numbers of shares held by each shareholder; and
+ the date on which each shareholder acquired the shares.
 Increase of Share Capital
 According to the PRC Company Law, when the joint stock limited company issues new
 shares, resolutions shall be passed by a shareholders’general meeting, approving the class and
@@ -31204,16 +31204,16 @@ authorities and an announcement shall be made.
 Reduction of Share Capital
 Acompany may reduce its registered capital in accordance with the following procedures
 prescribed by the PRC Company Law:
-(cid:129) it shall prepare a balance sheet and a property list;
-(cid:129) the reduction of registered capital shall be approved by a shareholders’ general
+ it shall prepare a balance sheet and a property list;
+ the reduction of registered capital shall be approved by a shareholders’ general
 meeting;
-(cid:129) it shall inform its creditors of the reduction in capital within 10 days and publish an
+ it shall inform its creditors of the reduction in capital within 10 days and publish an
 announcement of the reduction in the newspaper within 30 days after the resolution
 approving the reduction has been passed;
-(cid:129) creditors may within 30 days after receiving the notice, or within 45 days of the
+ creditors may within 30 days after receiving the notice, or within 45 days of the
 public announcement if no notice has been received, require the company to pay its
 debts or provide guarantees covering the debts; and
-(cid:129) it shall apply to the relevant administration of registration for the registration of the
+ it shall apply to the relevant administration of registration for the registration of the
 reduction in registered capital.
 – IV-8 –
 
@@ -31270,25 +31270,25 @@ months after their resignation from their positions with the company.
 Shareholders
 Under the PRC Company Law and the PRC Guidelines on AoA, the rights of holders of
 ordinary shares of a joint stock limited company include:
-(cid:129) the right to require, convene, preside over, participate in or send proxies of
+ the right to require, convene, preside over, participate in or send proxies of
 shareholders to attend shareholders’ general meeting and to exercise the
 corresponding voting rights according to the law;
-(cid:129) the right to transfer, donate or pledge their shares in accordance with laws,
+ the right to transfer, donate or pledge their shares in accordance with laws,
 administrative regulations and provisions of the articles of association;
-(cid:129) the right to supervise, make suggestions on or question the Company’s operations;
-(cid:129) the right to inspect the company’s articles of association, share register, counterfoil
+ the right to supervise, make suggestions on or question the Company’s operations;
+ the right to inspect the company’s articles of association, share register, counterfoil
 of company debentures, minutes of shareholder’s general meetings, resolutions of
 meetings of the board of directors, resolutions of meetings of the board of
 supervisors and financial and accounting reports;
-(cid:129) any shareholder who has a different view on a resolution on the merger or division
+ any shareholder who has a different view on a resolution on the merger or division
 of the Company made by a shareholders’ general meeting has the right to require the
 Company to buy back his/its shares;
-(cid:129) the right to receive dividends and other types of interest distributed in proportion to
+ the right to receive dividends and other types of interest distributed in proportion to
 the number of shares held;
-(cid:129) in the event of the termination or liquidation of the company, the right to participate
+ in the event of the termination or liquidation of the company, the right to participate
 in the distribution of residual properties of the company in proportion to the number
 of shares held; and
-(cid:129) other rights granted by laws, administrative regulations, other regulatory documents
+ other rights granted by laws, administrative regulations, other regulatory documents
 and the company’s articles of association.
 TheobligationsofashareholderincludetheobligationtoabidebytheCompany’sarticles
 of association, to pay the subscription moneys in respect of the shares subscribed for and in
@@ -31305,39 +31305,39 @@ The shareholders’ general meeting is the organ of authority of the company, wh
 exercises its powers in accordance with the PRC Company Law.
 Under the PRC Company Law, the shareholders’general meeting exercises the following
 principal powers:
-(cid:129) to decide on the company’s operational policies and investment plans;
-(cid:129) to elect or remove the directors and supervisors (other than the representative of the
+ to decide on the company’s operational policies and investment plans;
+ to elect or remove the directors and supervisors (other than the representative of the
 employees of the company) and to decide on matters relating to the remuneration of
 directors and supervisors;
-(cid:129) to examine and approve reports of the board of directors;
-(cid:129) to examine and approve reports of the board of supervisors;
-(cid:129) to examine and approve the company’s proposed annual financial budget and final
+ to examine and approve reports of the board of directors;
+ to examine and approve reports of the board of supervisors;
+ to examine and approve the company’s proposed annual financial budget and final
 accounts;
-(cid:129) to examine and approve the company’s proposals for profit distribution plans and
+ to examine and approve the company’s proposals for profit distribution plans and
 loss recovery plans;
-(cid:129) to decide on any increase or reduction of the company’s registered capital;
-(cid:129) to decide on the issue of bonds by the company;
-(cid:129) to decide on issues such as merger, division, dissolution and liquidation of the
+ to decide on any increase or reduction of the company’s registered capital;
+ to decide on the issue of bonds by the company;
+ to decide on issues such as merger, division, dissolution and liquidation of the
 company and other matters;
-(cid:129) to amend the company’s articles of association; and
-(cid:129) other powers as provided for in the articles of association.
+ to amend the company’s articles of association; and
+ other powers as provided for in the articles of association.
 Shareholders’annual general meetings are required to be held once every year. Under the
 PRC Company Law, an extraordinary shareholders’ general meeting is required to be held
 within two months after the occurrence of any of the following:
-(cid:129) thenumberofdirectorsislessthanthenumberstipulatedbythelaworlessthantwo
+ thenumberofdirectorsislessthanthenumberstipulatedbythelaworlessthantwo
 thirds of the number specified in the articles of association;
-(cid:129) the aggregate losses of the company which are not recovered reach one-third of the
+ the aggregate losses of the company which are not recovered reach one-third of the
 company’s total paid-in share capital;
 – IV-11 –
 
 === PAGE 679 ===
 APPENDIX IV SUMMARY OF PRINCIPAL PRC LEGAL
 AND REGULATORY PROVISION
-(cid:129) when shareholders alone or in aggregate holding 10% or more of the company’s
+ when shareholders alone or in aggregate holding 10% or more of the company’s
 shares request the convening of an extraordinary general meeting;
-(cid:129) whenever the board of directors deems necessary;
-(cid:129) when the board of supervisors so requests; or
-(cid:129) other circumstances as provided for in the articles of associations.
+ whenever the board of directors deems necessary;
+ when the board of supervisors so requests; or
+ other circumstances as provided for in the articles of associations.
 Under the PRC Company Law, shareholders’ general meetings shall be convened by the
 board of directors, and presided over by the chairman of the board of directors. In the event
 that the chairman is incapable of performing or does not perform his duties, the meeting shall
@@ -31400,24 +31400,24 @@ is not conducted in a timely manner upon the expiry of his term of office, or if
 of directors results in the number of directors being less than the quorum.
 Under the PRC Company Law, the board of directors mainly exercises the following
 powers:
-(cid:129) to convene the shareholders’ general meetings and report on its work to the
+ to convene the shareholders’ general meetings and report on its work to the
 shareholders’ general meetings;
-(cid:129) to implement the resolutions passed in shareholders’ general meetings;
-(cid:129) to decide on the company’s business plans and investment proposals;
-(cid:129) to formulate the company’s proposed annual financial budget and final accounts;
+ to implement the resolutions passed in shareholders’ general meetings;
+ to decide on the company’s business plans and investment proposals;
+ to formulate the company’s proposed annual financial budget and final accounts;
 – IV-13 –
 
 === PAGE 681 ===
 APPENDIX IV SUMMARY OF PRINCIPAL PRC LEGAL
 AND REGULATORY PROVISION
-(cid:129) to formulate the company’s profit distribution proposals and loss recovery
+ to formulate the company’s profit distribution proposals and loss recovery
 proposals;
-(cid:129) to formulate proposals for the increase or reduction of the company’s registered
+ to formulate proposals for the increase or reduction of the company’s registered
 capital and the issuance of corporate bonds;
-(cid:129) to prepare plans for the merger, division, dissolution and change in the form of the
+ to prepare plans for the merger, division, dissolution and change in the form of the
 company;
-(cid:129) to formulate the company’s basic management system; and
-(cid:129) to exercise any other power under the articles of association.
+ to formulate the company’s basic management system; and
+ to exercise any other power under the articles of association.
 Board Meetings
 Under the PRC Company Law, meetings of the board of directors of a joint stock limited
 company shall be convened at least twice a year. Notice of meeting shall be given to all
@@ -31453,21 +31453,21 @@ APPENDIX IV SUMMARY OF PRINCIPAL PRC LEGAL
 AND REGULATORY PROVISION
 Qualification of Directors
 The PRC Company Law provides that the following persons may not serve as a director:
-(cid:129) a person who is unable or has limited ability to undertake any civil liabilities;
-(cid:129) a person who has been convicted of an offense of bribery, corruption, embezzlement
+ a person who is unable or has limited ability to undertake any civil liabilities;
+ a person who has been convicted of an offense of bribery, corruption, embezzlement
 or misappropriation of property, or the destruction of socialist market economy
 order;orwhohasbeendeprivedofhispoliticalrightsduetohiscrimes,ineachcase
 where less than five years have elapsed since the date of completion of the sentence;
-(cid:129) a person who has been a former director, factory manager or manager of a company
+ a person who has been a former director, factory manager or manager of a company
 or an enterprise that has entered into insolvent liquidation and who was personally
 liable for the insolvency of such company or enterprise, where less than three years
 have elapsed since the date of the completion of the bankruptcy and liquidation of
 the company or enterprise;
-(cid:129) a person who has been a legal representative of a company or an enterprise that has
+ a person who has been a legal representative of a company or an enterprise that has
 had its business license revoked due to violations of the law and has been ordered
 to close down by law and the person was personally responsible, where less than
 three years have elapsed since the date of such revocation; or
-(cid:129) a person who is liable for a relatively large amount of debts that are overdue.
+ a person who is liable for a relatively large amount of debts that are overdue.
 Board of Supervisors
 Ajointstocklimitedcompanyshallhaveaboardofsupervisorscomposedofnotlessthan
 three members. The board of supervisors is made up of representatives of the shareholders and
@@ -31500,21 +31500,21 @@ office, or if the resignation of supervisors results in the number of supervisor
 the quorum.
 The board of supervisors of a company shall hold at least one meeting every six months.
 The board of supervisors exercises the following powers:
-(cid:129) to review the company’s financial position;
-(cid:129) to supervise the directors and senior management in their performance of their
+ to review the company’s financial position;
+ to supervise the directors and senior management in their performance of their
 duties and to propose the removal of directors and senior management who have
 violated laws, regulations, the articles of association or the resolutions of
 shareholders’ meeting;
-(cid:129) when the acts of directors and senior management are harmful to the company’s
+ when the acts of directors and senior management are harmful to the company’s
 interests, to require correction of those acts;
-(cid:129) to propose the convening of extraordinary shareholders’ general meetings and to
+ to propose the convening of extraordinary shareholders’ general meetings and to
 convene and preside over shareholders’ general meetings when the board of
 directors fails to perform the duty of convening and presiding over shareholders’
 general meeting under this law;
-(cid:129) to initiate proposals for resolutions to shareholders’ general meeting;
-(cid:129) to initiate proceedings against directors and senior management;
-(cid:129) other powers specified in the articles of association; and
-(cid:129) Supervisors may attend board meetings and make enquiries or proposals in respect
+ to initiate proposals for resolutions to shareholders’ general meeting;
+ to initiate proceedings against directors and senior management;
+ other powers specified in the articles of association; and
+ Supervisors may attend board meetings and make enquiries or proposals in respect
 of board resolutions. The board of supervisors may initiate investigations into any
 irregularities identified in the operation of the company and, where necessary, may
 engage an accounting firm to assist their work at the company’s expense.
@@ -31527,17 +31527,17 @@ Manager and Senior Management
 Under the PRC Company Law, a company shall have a manager who shall be appointed
 or removed by the board of directors. The manager shall report to the board of directors and
 may exercise the following powers:
-(cid:129) to supervise the business and administration of the company and arrange for the
+ to supervise the business and administration of the company and arrange for the
 implementation of resolutions of the board of directors;
-(cid:129) to arrange for the implementation of the company’s annual business plans and
+ to arrange for the implementation of the company’s annual business plans and
 investment proposals;
-(cid:129) to formulate the general administration system of the company;
-(cid:129) to formulate the company’s detailed rules;
-(cid:129) to recommend the appointment and dismissal of deputy managers and person in
+ to formulate the general administration system of the company;
+ to formulate the company’s detailed rules;
+ to recommend the appointment and dismissal of deputy managers and person in
 charge of finance;
-(cid:129) to appoint or dismiss other administration officers (other than those required to be
+ to appoint or dismiss other administration officers (other than those required to be
 appointed or dismissed by the board of directors); and
-(cid:129) other powers conferred by the board of directors or the articles of association.
+ other powers conferred by the board of directors or the articles of association.
 The manager shall comply with other provisions of the articles of association concerning
 his/her powers. The manager shall attend board meetings.
 AccordingtothePRCCompanyLaw,seniormanagementshallmeanthemanager,deputy
@@ -31550,27 +31550,27 @@ have fiduciary and diligent duties to the company. Directors, supervisors and se
 management are prohibited from abusing their powers to accept bribes or other unlawful
 income and from misappropriating of the company’s properties. Directors and senior
 management are prohibited from:
-(cid:129) misappropriation of the company’s capital;
-(cid:129) depositing the company’s capital into accounts under his own name or the name of
+ misappropriation of the company’s capital;
+ depositing the company’s capital into accounts under his own name or the name of
 other individuals;
 – IV-17 –
 
 === PAGE 685 ===
 APPENDIX IV SUMMARY OF PRINCIPAL PRC LEGAL
 AND REGULATORY PROVISION
-(cid:129) loaning company funds to others or providing guarantees in favor of others
+ loaning company funds to others or providing guarantees in favor of others
 supported by the company’s assets in violation of the articles of association or
 without prior approval of the shareholders’ general meeting or board of directors;
-(cid:129) entering into contracts or deals with the company in violation of the articles of
+ entering into contracts or deals with the company in violation of the articles of
 association or without prior approval of the shareholders’ general meeting;
-(cid:129) using their position and powers to procure business opportunities for themselves or
+ using their position and powers to procure business opportunities for themselves or
 others that should have otherwise been available to the company or operating for
 their own benefits or managing on behalf of others businesses similar to that of the
 company without prior approval of the shareholders’ general meeting;
-(cid:129) accept and possess commissions paid by a third party for transactions conducted
+ accept and possess commissions paid by a third party for transactions conducted
 with the company;
-(cid:129) unauthorized divulgence of confidential business information of the company; or
-(cid:129) other acts in violation of their duty of loyalty to the company.
+ unauthorized divulgence of confidential business information of the company; or
+ other acts in violation of their duty of loyalty to the company.
 A director, supervisor or senior management who contravenes any law, regulation or the
 company’s articles of association in the performance of his duties resulting in any loss to the
 company shall be personally liable to the company.
@@ -31666,15 +31666,15 @@ accept such application and form a liquidation group to conduct liquidation in a
 APPENDIX IV SUMMARY OF PRINCIPAL PRC LEGAL
 AND REGULATORY PROVISION
 The liquidation group shall exercise the following powers during the liquidation period:
-(cid:129) to handle the company’s assets and to prepare a balance sheet and an inventory of
+ to handle the company’s assets and to prepare a balance sheet and an inventory of
 the assets;
-(cid:129) to notify creditors through notice or public announcement;
-(cid:129) to deal with the company’s outstanding businesses related to liquidation;
-(cid:129) to pay any tax overdue as well as tax amounts arising from the process of
+ to notify creditors through notice or public announcement;
+ to deal with the company’s outstanding businesses related to liquidation;
+ to pay any tax overdue as well as tax amounts arising from the process of
 liquidation;
-(cid:129) to claim credits and pay off debts;
-(cid:129) to handle the company’s remaining assets after its debts have been paid off; and
-(cid:129) to represent the company in civil lawsuits.
+ to claim credits and pay off debts;
+ to handle the company’s remaining assets after its debts have been paid off; and
+ to represent the company in civil lawsuits.
 The liquidation group shall notify the company’s creditors within 10 days after its
 establishment and issue public notices in newspapers within 60 days.Acreditor shall lodge his
 claim with the liquidation group within 30 days after receiving notification, or within 45 days

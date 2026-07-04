@@ -148,19 +148,19 @@ custodian for the latest time for giving such instructions which may be differen
 time as stated above.
 Application lists close(3). . . . . . . . . . . . . . . . . . . . . . . . . 12:00 noon on Tuesday, August 29, 2023
 Announcement of:
-(cid:129) the final Offer Price
-(cid:129) the level of applications in the Hong Kong Public Offering;
-(cid:129) the level of indications of interest in the International Offering; and
-(cid:129) the basis of allocation of the Hong Kong Offer Shares to be
+ the final Offer Price
+ the level of applications in the Hong Kong Public Offering;
+ the level of indications of interest in the International Offering; and
+ the basis of allocation of the Hong Kong Offer Shares to be
 published on our website at www.immuneonco.com(5) and
 the website of the Stock Exchange at www.hkexnews.hk on
 or before. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Monday, September 4, 2023
 Results of allocations in the Hong Kong Public Offering (with successful applicants’ identification
 document numbers, where appropriate) to be available through a variety of channels, including:
-(cid:129) in the announcement to be published on our website at
+ in the announcement to be published on our website at
 www.immuneonco.com(5) and the website of the Stock
 Exchange at www.hkexnews.hk . . . . . . . . . . . . . . . . . . . . . . . . . Monday, September 4, 2023
-(cid:129) from the designated results of allocations website at
+ from the designated results of allocations website at
 www.iporesults.com.hk (alternatively: English
 https://www.eipo.com.hk/en/Allotment; Chinese
 https://www.eipo.com.hk/zh-hk/Allotment) with a
@@ -170,7 +170,7 @@ https://www.eipo.com.hk/zh-hk/Allotment) with a
 
 === PAGE 6 ===
 EXPECTED TIMETABLE(1)
-(cid:129) from the allocation results telephone enquiry by calling
+ from the allocation results telephone enquiry by calling
 +852 2862 8555 between 9:00 a.m. and 6:00 p.m. on . . . . . . . . Monday, September 4, 2023,
 Tuesday, September 5, 2023,
 Wednesday, September 6, 2023
@@ -1122,27 +1122,27 @@ For further details, please refer to the paragraphs headed “Business — Our P
 OUR COMPETITIVE STRENGTHS
 We believe the following strengths have contributed to our success and differentiated us from
 our competitors:
-(cid:129) science-driven biotechnology company with a pipeline harnessing both the innate and
+ science-driven biotechnology company with a pipeline harnessing both the innate and
 adaptive immune systems;
-(cid:129) a comprehensive innate immunity-based portfolio targeting a wide range of solid and
+ a comprehensive innate immunity-based portfolio targeting a wide range of solid and
 hematologic tumors;
-(cid:129) differentiated molecule design to achieve potent efficacy and favorable safety;
-(cid:129) integrated proprietary R&D engine anchored around our deep understanding of tumor
+ differentiated molecule design to achieve potent efficacy and favorable safety;
+ integrated proprietary R&D engine anchored around our deep understanding of tumor
 immunology, continuously driving the discovery and development of immunotherapies;
 and
-(cid:129) seasoned management team with a track record of drug innovation and clinical
+ seasoned management team with a track record of drug innovation and clinical
 development, led by a renowned immunologist founder and backed by blue chip
 investors.
 OUR STRATEGIES
 Leveraging our strengths, we plan to implement the following strategies:
-(cid:129) to advance the development of our drug candidates to unleash their therapeutic potential
+ to advance the development of our drug candidates to unleash their therapeutic potential
 and address substantial unmet medical needs;
-(cid:129) to expand our overseas footprint and maximize the clinical and commercial value of our
+ to expand our overseas footprint and maximize the clinical and commercial value of our
 drug candidates through clinical trials and accretive partnerships;
-(cid:129) to continuously enrich our innovative pipeline through fundamental biological research
+ to continuously enrich our innovative pipeline through fundamental biological research
 and translational medicine;
-(cid:129) to upscale our GMP-compliant manufacturing capacity; and
-(cid:129) to enlarge our talent pool to support our continuous growth.
+ to upscale our GMP-compliant manufacturing capacity; and
+ to enlarge our talent pool to support our continuous growth.
 OUR CUSTOMERS AND SUPPLIERS
 Customers
 During the Track Record Period, since we had not obtained regulatory approval for the
@@ -1708,7 +1708,7 @@ are beyond our control and may affect your decision to invest in us and/or the v
 investment. See the section headed “Risk Factors” for details of our risk factors, which we
 strongly urge you to read in full before making an investment in our Shares. Some of the major
 risks we face include:
-(cid:129) We face substantial competition and our competitors may discover, develop or
+ We face substantial competition and our competitors may discover, develop or
 commercialize competing drugs faster or more successfully than we do. In particular, we
 face intense competition in the development of CD47-targeting molecules. There are
 numerous drug developers of CD47-targeted molecules globally. Potential competitors
@@ -1716,12 +1716,12 @@ also include academic institutions, government agencies, and other public and pr
 research organizations that conduct research, seek patent protection and establish
 collaborative arrangements for research, development, manufacturing and
 commercialization.
-(cid:129) We depend substantially on the success of our clinical-stage and preclinical stage drug
+ We depend substantially on the success of our clinical-stage and preclinical stage drug
 candidates. If we are unable to successfully complete development, obtain regulatory
 approval and commercialize our drug candidates, or if we experience significant delays
 in doing any of the foregoing, our business, financial condition, results of operations
 and prospects will be materially harmed.
-(cid:129) If clinical trials of our drug candidates fail to demonstrate safety and efficacy to the
+ If clinical trials of our drug candidates fail to demonstrate safety and efficacy to the
 satisfaction of regulatory authorities or do not otherwise produce positive results, we
 may incur additional costs or experience delays in completing, or may ultimately be
 unable to complete, the development and commercialization of our drug candidates.
@@ -1729,15 +1729,15 @@ unable to complete, the development and commercialization of our drug candidates
 
 === PAGE 34 ===
 SUMMARY
-(cid:129) We have no track record with very limited experience in launching and marketing
+ We have no track record with very limited experience in launching and marketing
 approved drugs, and we may not be able to successfully create or increase market
 awareness of our drugs or sell our products, which will materially affect our ability to
 generate sales revenue.
-(cid:129) We have incurred significant net losses since inception. We expect that we will continue
+ We have incurred significant net losses since inception. We expect that we will continue
 to incur net losses for the foreseeable future and we may not be able to generate
 sufficient revenue to achieve or maintain profitability. Potential investors are at risk of
 losing substantially all of their investments in our H Shares.
-(cid:129) Third parties may initiate legal proceedings alleging that we are infringing,
+ Third parties may initiate legal proceedings alleging that we are infringing,
 misappropriating or otherwise violating their intellectual property rights, the outcome of
 which would be uncertain. We are aware of certain issued patents in the U.S. belonging
 to third parties that may potentially cover our CD47-based drug candidates and may not
@@ -1748,17 +1748,17 @@ the paragraphs headed “Risk Factors — Key Risks Relating to Our Business, Bu
 Operations, Intellectual Property Rights and Financial Prospects — Third parties may
 initiate legal proceedings alleging that we are infringing, misappropriating or otherwise
 violating their intellectual property rights, the outcome of which would be uncertain.”
-(cid:129) All material aspects of the research, development, manufacturing and commercialization
+ All material aspects of the research, development, manufacturing and commercialization
 of our drug candidates are heavily regulated and are subject to change. Any failure to
 comply with existing regulations and industry standards or any adverse actions by the
 drug-approval authorities against us could negatively impact our reputation and our
 business, financial condition, results of operations and prospects.
-(cid:129) We have entered into collaborations with our partners and may form or seek additional
+ We have entered into collaborations with our partners and may form or seek additional
 collaborations or strategic alliances or enter into licensing arrangements in the future.
 Please refer to the paragraphs headed “Business — Collaboration Agreement” for further
 details. We may not realize any or all benefits of such alliances or licensing
 arrangements, and disputes may arise between us and our collaboration partners.
-(cid:129) No public market currently exists for our H Shares, and an active trading market for our
+ No public market currently exists for our H Shares, and an active trading market for our
 H Shares may not develop, especially taking into account that certain of our existing
 shareholders may be subject to a lock-up period.
 LISTING EXPENSES
@@ -1790,7 +1790,7 @@ and note 21 to the Accountants’ Report set out in the Appendix IA to this pros
 RECENT DEVELOPMENTS
 Our recent developments of our drug candidates since the end of the Track Record Period
 include:
-(cid:129) Following the completion of the Phase Ib trial to evaluate the combination therapy of
+ Following the completion of the Phase Ib trial to evaluate the combination therapy of
 IMM01 and azacitidine for the treatment of R/R MDS and R/R AML, we have initiated
 a Phase II trial mainly for the first-line treatment of HR MDS, unfit AML and CMML in
 June 2022. Interim data as of February 10, 2023 from the Phase Ib/II trial has
@@ -1804,14 +1804,14 @@ HI, which also achieved mCR), resulting in an ORR of 100%, and (ii) among the 16
 evaluable HR MDS patients who have received at least three cycles of treatment, three
 achieved CR (3 CRs), nine achieved mCR (9 mCRs), and seven achieved HI (7 HIs,
 among which 4 also achieved mCR), resulting in an ORR of 93.8%.
-(cid:129) We have obtained an IND approval of a Phase Ib/II trial to evaluate IMM01 in the
+ We have obtained an IND approval of a Phase Ib/II trial to evaluate IMM01 in the
 combination therapy of IMM01 and tislelizumab in solid tumors, including among
 others, NSCLC, SCLC, HNSCC, CRC, from the NMPA. We have completed the Phase
 Ib clinical trial and initiated the Phase II trial in December 2022. In addition, we
 obtained the NMPA’s consent for adding R/R cHL as an additional expansion cohort into
 this ongoing trial in July 2022, and dosed the first patient with R/R cHL in January
 2023.
-(cid:129) We have also observed favorable efficacy and safety data from the ongoing Phase I
+ We have also observed favorable efficacy and safety data from the ongoing Phase I
 clinical trial for IMM0306 since January 2022. According to our initial clinical data as
 of February 27, 2023, IMM0306 was safe and well tolerated up to 2.0 mg/kg. Among
 the evaluable patients across four cohorts dosed from 0.8 mg/kg to 2.0 mg/kg, who had
@@ -1831,16 +1831,16 @@ China, with the first patient dosed in June 2023.
 
 === PAGE 36 ===
 SUMMARY
-(cid:129) We have initiated a Phase Ia/Ib trial for IMM2902 in advanced HER2-positive and
+ We have initiated a Phase Ia/Ib trial for IMM2902 in advanced HER2-positive and
 HER2-low expressing solid tumors, including BC, GC, NSCLC and BTC, in China, and
 are enrolling the sixth cohort for this dose-escalation study in China. We have also
 initiated the clinical trial for advanced HER2-positive and HER2-low expressing solid
 tumors in the U.S. In July 2022, we received the Fast Track Designation for IMM2902
 from the FDA.
-(cid:129) We have obtained IND approvals for IMM2520 from the NMPA in November 2022 and
+ We have obtained IND approvals for IMM2520 from the NMPA in November 2022 and
 from the FDA in December 2022. We dosed the first patient for the Phase I clinical trial
 in China in March 2023.
-(cid:129) Our IND application for the combination therapy of IMM27M and IMM2510 was
+ Our IND application for the combination therapy of IMM27M and IMM2510 was
 accepted by the NMPA on August 17.
 Six Months Ended June 30, 2023 Compared to Six Months Ended June 30, 2022
 We have included our unaudited interim financial report prepared in accordance with IAS 34
@@ -2966,29 +2966,29 @@ In some cases, these forward-looking statements can be identified by words or ph
 as “may,” “will,” “expect,” “anticipate,” “aim,” “estimate,” “intend,” “plan,” “believe,”
 “potential,” “continue,” “is/are likely to” or other similar expressions. These forward-looking
 statements include, among other things, statements relating to:
-(cid:129) our operations and business prospects;
-(cid:129) our financial condition and performance;
-(cid:129) our capital expenditure plan;
-(cid:129) our ability to complete the development and obtain the relevant requisite regulatory
+ our operations and business prospects;
+ our financial condition and performance;
+ our capital expenditure plan;
+ our ability to complete the development and obtain the relevant requisite regulatory
 approvals of our drug candidates;
-(cid:129) our ability to commercialize our approved products in a timely manner;
-(cid:129) future developments, trends and conditions in the industries and markets in which we
+ our ability to commercialize our approved products in a timely manner;
+ future developments, trends and conditions in the industries and markets in which we
 operate or plan to operate;
-(cid:129) general economic, political and business conditions in the markets in which we operate;
-(cid:129) changes to the regulatory environment in the industries and markets in which we
+ general economic, political and business conditions in the markets in which we operate;
+ changes to the regulatory environment in the industries and markets in which we
 operate;
-(cid:129) the effects of the on-going COVID-19 pandemic;
-(cid:129) the actions and developments of our competitors;
-(cid:129) the ability of third parties to perform in accordance with contractual terms and
+ the effects of the on-going COVID-19 pandemic;
+ the actions and developments of our competitors;
+ the ability of third parties to perform in accordance with contractual terms and
 specifications;
-(cid:129) our ability to retain senior management and key personnel and recruit qualified staff;
-(cid:129) our business strategies and plans to achieve these strategies;
-(cid:129) our ability to defend our intellectual rights and protect confidentiality;
-(cid:129) the effectiveness of our quality control systems;
-(cid:129) change or volatility in interest rates, foreign exchange rates, equity prices, trading
+ our ability to retain senior management and key personnel and recruit qualified staff;
+ our business strategies and plans to achieve these strategies;
+ our ability to defend our intellectual rights and protect confidentiality;
+ the effectiveness of our quality control systems;
+ change or volatility in interest rates, foreign exchange rates, equity prices, trading
 volumes, commodity prices and overall market trends, including those pertaining to the
 PRC and the industry and markets in which we operate; and
-(cid:129) capital market developments.
+ capital market developments.
 – 52 –
 
 === PAGE 62 ===
@@ -3099,32 +3099,32 @@ candidates. We have invested a significant portion of our efforts and financial 
 development of our existing drug candidates, and we expect to continue to incur substantial and
 increasing expenditures for the development and commercialization of our drug candidates. The
 success of our drug candidates will depend on several factors, including but not limited to:
-(cid:129) successful completion of preclinical and clinical studies;
-(cid:129) obtaining positive results in our clinical trials demonstrating efficacy, safety and
+ successful completion of preclinical and clinical studies;
+ obtaining positive results in our clinical trials demonstrating efficacy, safety and
 durability of effect of our drug candidates;
-(cid:129) receipt of regulatory approvals for planned clinical trials, future clinical trials or drug
+ receipt of regulatory approvals for planned clinical trials, future clinical trials or drug
 registrations, manufacturing and commercialization;
-(cid:129) successful identification of potential drug candidates based on our research or business
+ successful identification of potential drug candidates based on our research or business
 development methodology or search criteria and process;
-(cid:129) sufficient resources to acquire or discover additional drug candidates;
-(cid:129) establishing sufficient commercial manufacturing capabilities, by expanding our existing
+ sufficient resources to acquire or discover additional drug candidates;
+ establishing sufficient commercial manufacturing capabilities, by expanding our existing
 facilities, building new facilities, and collaborating with CROs and CDMOs;
 – 55 –
 
 === PAGE 65 ===
 RISK FACTORS
-(cid:129) the performance by CROs, CDMOs or other third parties we may retain to conduct
+ the performance by CROs, CDMOs or other third parties we may retain to conduct
 clinical trials, of their duties to us in a manner that complies with our protocols and
 applicable laws and that protects the integrity of the resulting data;
-(cid:129) obtaining, maintaining and enforcing patent, trademark, trade secret and other
+ obtaining, maintaining and enforcing patent, trademark, trade secret and other
 intellectual property protection and regulatory exclusivity for our drug candidates;
-(cid:129) ensuring we do not infringe, misappropriate or otherwise violate the patents, trademarks,
+ ensuring we do not infringe, misappropriate or otherwise violate the patents, trademarks,
 trade secrets or other intellectual property rights of third parties;
-(cid:129) successfully launching commercial sales of our drug candidates, if and when approved;
-(cid:129) obtaining and maintaining favorable governmental and private reimbursement from
+ successfully launching commercial sales of our drug candidates, if and when approved;
+ obtaining and maintaining favorable governmental and private reimbursement from
 third-party payers for drugs, if and when approved;
-(cid:129) competition with other drug products; and
-(cid:129) continued acceptable safety profile of our drug candidates following regulatory
+ competition with other drug products; and
+ continued acceptable safety profile of our drug candidates following regulatory
 approval.
 As of the Latest Practicable Date, we had eight ongoing clinical programs in China and/or the
 U.S., five IND/IND-enabling-stage programs, and multiple discovery- and preclinical-stage assets.
@@ -3194,23 +3194,23 @@ required by the NMPA, the FDA, or similar regulatory authorities, or if there ar
 enrollment of eligible subjects as a result of the competitive clinical enrollment environment.
 Overall, we may experience difficulties in subject enrollment in our clinical trials for a variety of
 reasons, including but not limited to:
-(cid:129) severity of the disease under investigation;
-(cid:129) the size and nature of the subject population;
-(cid:129) the subject eligibility criteria defined in the protocol;
-(cid:129) the size of the study population required for analysis of the trial’s primary endpoints;
-(cid:129) the proximity of subjects to trial sites;
-(cid:129) the design of the trial;
-(cid:129) our ability to recruit clinical trial investigators with the appropriate competencies and
+ severity of the disease under investigation;
+ the size and nature of the subject population;
+ the subject eligibility criteria defined in the protocol;
+ the size of the study population required for analysis of the trial’s primary endpoints;
+ the proximity of subjects to trial sites;
+ the design of the trial;
+ our ability to recruit clinical trial investigators with the appropriate competencies and
 experience;
 – 57 –
 
 === PAGE 67 ===
 RISK FACTORS
-(cid:129) clinicians’ and subjects’ perceptions of the potential advantages and side effects of the
+ clinicians’ and subjects’ perceptions of the potential advantages and side effects of the
 drug candidate under study compared to other available therapies;
-(cid:129) our ability to obtain and maintain subject consents;
-(cid:129) the risk that subjects enrolled in clinical trials will not complete a clinical trial; and
-(cid:129) the availability of approved therapies that are similar in mechanism to our drug
+ our ability to obtain and maintain subject consents;
+ the risk that subjects enrolled in clinical trials will not complete a clinical trial; and
+ the availability of approved therapies that are similar in mechanism to our drug
 candidates.
 Our clinical trials may compete with clinical trials for other drug candidates that are in the
 same therapeutic areas as our drug candidates. This competition will potentially reduce the number
@@ -3272,17 +3272,17 @@ information about our net losses, see “Financial Information — Description o
 Components of Consolidated Statements of Profit or Loss and Other Comprehensive Income” in
 this prospectus. We expect to continue to incur losses and expenses for the foreseeable future,
 primarily arising from the following events:
-(cid:129) conducting clinical trials of our drug candidates;
-(cid:129) engaging with CROs and CDMOs in and out of China;
-(cid:129) constructing our new GMP manufacturing facility;
-(cid:129) seeking regulatory approvals for our drug candidates;
-(cid:129) commercializing our drug candidates upon obtaining marketing approval, including
+ conducting clinical trials of our drug candidates;
+ engaging with CROs and CDMOs in and out of China;
+ constructing our new GMP manufacturing facility;
+ seeking regulatory approvals for our drug candidates;
+ commercializing our drug candidates upon obtaining marketing approval, including
 establishing a sales, marketing and commercialization team for any future approved
 products;
-(cid:129) hiring additional clinical, quality control and R&D personnel;
-(cid:129) seeking to identify additional drug candidates;
-(cid:129) obtaining, maintaining, expanding and protecting our intellectual property portfolio; and
-(cid:129) enforcing and defending any intellectual property claims.
+ hiring additional clinical, quality control and R&D personnel;
+ seeking to identify additional drug candidates;
+ obtaining, maintaining, expanding and protecting our intellectual property portfolio; and
+ enforcing and defending any intellectual property claims.
 In addition, we will continue to incur costs associated with operating as a public company
 and in support of our growth as a development-stage or commercial-stage biopharmaceutical
 company. The size of our future net losses will depend, in part, on the number and scope of our
@@ -3639,28 +3639,28 @@ generate product sales revenue. Our operations have consumed substantial amounts
 our inception. We will need to expend substantial resources on the R&D and commercialization of
 our product pipelines. Our future funding requirements will depend on many factors, including but
 not limited to:
-(cid:129) the progress, timing, scope and costs of our clinical trials, including the ability to timely
+ the progress, timing, scope and costs of our clinical trials, including the ability to timely
 identify and enroll patients in our planned and potential future clinical trials;
-(cid:129) the outcome, timing and costs of regulatory approvals of our drug candidates;
-(cid:129) the progress, timing, scope and costs related to discovery and early development of
+ the outcome, timing and costs of regulatory approvals of our drug candidates;
+ the progress, timing, scope and costs related to discovery and early development of
 additional drug candidates;
-(cid:129) the preparation required for anticipated commercialization of our drug candidates, and if
+ the preparation required for anticipated commercialization of our drug candidates, and if
 regulatory approvals are obtained, to fund the product launch;
-(cid:129) the manufacturing requirements and capabilities related to clinical development and
+ the manufacturing requirements and capabilities related to clinical development and
 future commercialization for any approved drug candidates;
-(cid:129) the construction progress of our manufacturing facilities;
-(cid:129) our effective management of our CROs, CDMOs and other collaboration partners and
+ the construction progress of our manufacturing facilities;
+ our effective management of our CROs, CDMOs and other collaboration partners and
 associated costs;
-(cid:129) selling and marketing costs associated with any future drug candidates that may be
+ selling and marketing costs associated with any future drug candidates that may be
 approved, including the cost and timing of expanding our marketing and sales
 capabilities;
-(cid:129) the cost of filing, prosecuting, defending and enforcing any patent claims or other
+ the cost of filing, prosecuting, defending and enforcing any patent claims or other
 intellectual property rights;
-(cid:129) the amount and timing of any profit sharing, milestone and royalty payments we receive
+ the amount and timing of any profit sharing, milestone and royalty payments we receive
 from our future collaborators;
-(cid:129) cash requirements of any future development of other pipeline drug candidates;
-(cid:129) our headcount growth and associated costs; and
-(cid:129) the costs of operating as a public company and our need to implement additional
+ cash requirements of any future development of other pipeline drug candidates;
+ our headcount growth and associated costs; and
+ the costs of operating as a public company and our need to implement additional
 internal systems and infrastructure, including but not limited to financial and reporting
 systems.
 – 66 –
@@ -3687,31 +3687,31 @@ quarantine requirements had been lifted since then. However, if the pandemic get
 future due to reasons such as the emergence of a more severe variant of COVID-19 and the control
 measures that were once imposed reinitiate, we may experience one or more of the following
 disruptions to drug development efforts and business operations:
-(cid:129) delays or difficulties in enrolling patients in our clinical trials;
-(cid:129) delays or difficulties in clinical site initiation, including difficulties in recruiting clinical
+ delays or difficulties in enrolling patients in our clinical trials;
+ delays or difficulties in clinical site initiation, including difficulties in recruiting clinical
 site investigators and clinical site staff;
-(cid:129) delays or difficulties in dosing patients, or the risk that patients enrolled or dosed in
+ delays or difficulties in dosing patients, or the risk that patients enrolled or dosed in
 clinical trials may drop out of the trials before completion;
-(cid:129) diversion of healthcare resources away from the conduct of clinical trials, including the
+ diversion of healthcare resources away from the conduct of clinical trials, including the
 diversion of hospitals serving as our clinical trial sites and hospital staff supporting the
 conduct of our clinical trials;
-(cid:129) delays in clinical sites receiving the supplies and materials needed to conduct our
+ delays in clinical sites receiving the supplies and materials needed to conduct our
 clinical trials;
-(cid:129) interruption in logistics that may affect the transport of clinical trial materials;
-(cid:129) interruption of key clinical trial activities, such as clinical trial site monitoring;
-(cid:129) changes in local regulations which may require us to change the ways in which our
+ interruption in logistics that may affect the transport of clinical trial materials;
+ interruption of key clinical trial activities, such as clinical trial site monitoring;
+ changes in local regulations which may require us to change the ways in which our
 clinical trials are conducted;
-(cid:129) temporary closure of certain office facilities and adopting remote working where
+ temporary closure of certain office facilities and adopting remote working where
 possible;
-(cid:129) restriction of employee travels, which may adversely affect the sales and marketing
+ restriction of employee travels, which may adversely affect the sales and marketing
 efforts;
-(cid:129) disruption to the manufacturing activities;
-(cid:129) disruption to the supplies of our drug candidates in clinical trials; and
+ disruption to the manufacturing activities;
+ disruption to the supplies of our drug candidates in clinical trials; and
 – 67 –
 
 === PAGE 77 ===
 RISK FACTORS
-(cid:129) delays in or temporary suspension of the construction of our new GMP manufacturing
+ delays in or temporary suspension of the construction of our new GMP manufacturing
 facility.
 To the extent the COVID-19 pandemic adversely affects our business and financial results, it
 may also have the effect of heightening many of the other risks described in this “Risk Factors”
@@ -3747,11 +3747,11 @@ financial, and human resources. We may focus our efforts and resources on potent
 drug candidates that ultimately prove to be unsuccessful. Our research programs or licensing
 efforts may fail to identify, discover or in-license new drug candidates for clinical development
 and commercialization for a number of reasons, including, without limitation, the following:
-(cid:129) the research methodology used may not be successful in identifying potential indications
+ the research methodology used may not be successful in identifying potential indications
 and/or new drug candidates;
-(cid:129) potential drug candidates may, after further study, be shown to have adverse effects or
+ potential drug candidates may, after further study, be shown to have adverse effects or
 other characteristics that indicate they are unlikely to achieve desired efficacy; or
-(cid:129) it may take greater resources to identify additional therapeutic opportunities for our drug
+ it may take greater resources to identify additional therapeutic opportunities for our drug
 candidates or to develop suitable potential drug candidates, thereby limiting our ability
 to diversify and expand our drug portfolio.
 – 68 –
@@ -3768,30 +3768,30 @@ significant negative consequences following any regulatory approval.
 Undesirable adverse events caused by our drug candidates, or caused by our drug candidates
 when used in combination with other drugs, could cause significant negative consequences,
 including but not limited to the following:
-(cid:129) regulatory authorities could interrupt, delay or halt pending clinical trials;
-(cid:129) regulatory authorities may order us to cease further development of, or delay or even
+ regulatory authorities could interrupt, delay or halt pending clinical trials;
+ regulatory authorities may order us to cease further development of, or delay or even
 deny approval of, our drug candidates for any or all targeted indications if results of our
 trials reveal a high and unacceptable severity or prevalence of certain adverse events;
-(cid:129) regulatory authorities may withdraw approvals or revoke licenses of an approved drug
+ regulatory authorities may withdraw approvals or revoke licenses of an approved drug
 candidate, or we may determine to do so even if not required;
-(cid:129) regulatory authorities may require additional warnings on the label of an approved drug,
+ regulatory authorities may require additional warnings on the label of an approved drug,
 issue safety alerts or other communications containing warnings or other safety
 information of such approved drug, or impose other limitations on such approved drug;
-(cid:129) we may suspend, delay or alter development or marketing of our drug candidates;
-(cid:129) we may be required to develop a risk evaluation mitigation strategy, or REMS, for the
+ we may suspend, delay or alter development or marketing of our drug candidates;
+ we may be required to develop a risk evaluation mitigation strategy, or REMS, for the
 drug candidate, or, if one is already in place, to incorporate additional requirements
 under the REMS, or to develop a similar strategy as required by a comparable
 regulatory authority;
-(cid:129) we may be required to change the way the drug candidate is administered or conduct
+ we may be required to change the way the drug candidate is administered or conduct
 post-market studies;
-(cid:129) the patient enrollment may be insufficient or slower than we anticipate, or patients may
+ the patient enrollment may be insufficient or slower than we anticipate, or patients may
 drop out or fail to return for post-treatment follow-up at a higher rate than anticipated;
-(cid:129) the costs of clinical trials of our drug candidates may be substantially higher than
+ the costs of clinical trials of our drug candidates may be substantially higher than
 anticipated;
-(cid:129) we could be required to recall our drug candidates and subject to litigation proceedings
+ we could be required to recall our drug candidates and subject to litigation proceedings
 and regulatory investigations and held liable for harm caused to patients exposed to or
 taking our drug candidates; and
-(cid:129) our reputation may suffer.
+ our reputation may suffer.
 Any of these events could prevent us from achieving or maintaining market acceptance of the
 particular drug candidate, and could significantly harm our business, results of operations and
 prospects.
@@ -3917,17 +3917,17 @@ will be approved for sale. The time required to obtain approvals from the NMPA, 
 other comparable regulatory authorities is often unpredictable, and depends on numerous factors,
 including the substantial discretion of the regulatory authorities. Our drug candidates could fail to
 receive regulatory approval in a timely manner for many reasons, including but not limited to:
-(cid:129) failure to begin or complete clinical trials due to disagreements with regulatory
+ failure to begin or complete clinical trials due to disagreements with regulatory
 authorities;
-(cid:129) failure to demonstrate that a drug candidate is safe and effective or, it is safe, pure, and
+ failure to demonstrate that a drug candidate is safe and effective or, it is safe, pure, and
 potent for its proposed indication;
-(cid:129) failure of clinical trial results to meet the level of statistical significance required for
+ failure of clinical trial results to meet the level of statistical significance required for
 approval;
-(cid:129) data integrity issues related to our clinical trials;
-(cid:129) disagreement with our interpretation of data from preclinical studies or clinical trials;
-(cid:129) failure to conduct a clinical trial in accordance with regulatory requirements or our
+ data integrity issues related to our clinical trials;
+ disagreement with our interpretation of data from preclinical studies or clinical trials;
+ failure to conduct a clinical trial in accordance with regulatory requirements or our
 clinical trial protocols; and
-(cid:129) clinical sites, investigators or other participants in our clinical trials deviating from a
+ clinical sites, investigators or other participants in our clinical trials deviating from a
 trial protocol, failing to conduct the trial in accordance with regulatory requirements, or
 dropping out of a trial.
 In addition, the NMPA, the FDA or a comparable regulatory authority may require more
@@ -4154,18 +4154,18 @@ marketing, it is possible that there could be a subsequent discovery of previous
 problems with the drug, including problems with third-party manufacturers or manufacturing
 processes, or failure to comply with regulatory requirements. If any of the foregoing occurs with
 respect to our drug products, it may result in, among other things:
-(cid:129) restrictions on the marketing or manufacturing of the drug, withdrawal of the drug from
+ restrictions on the marketing or manufacturing of the drug, withdrawal of the drug from
 the market, or voluntary or mandatory drug recalls;
-(cid:129) fines, warning letters or holds on clinical trials;
-(cid:129) refusal by the NMPA, FDA or comparable regulatory authority to approve pending
+ fines, warning letters or holds on clinical trials;
+ refusal by the NMPA, FDA or comparable regulatory authority to approve pending
 applications or supplements to approved applications filed by us, or suspension or
 revocation of drug license approvals;
 – 76 –
 
 === PAGE 86 ===
 RISK FACTORS
-(cid:129) drug seizure or detention, or refusal to permit the import or export of drugs; and
-(cid:129) injunctions or the imposition of civil, administrative or criminal penalties.
+ drug seizure or detention, or refusal to permit the import or export of drugs; and
+ injunctions or the imposition of civil, administrative or criminal penalties.
 In addition, we are subject to ongoing regulatory requirements for our day-to-day business
 operations. Accordingly, we and third parties we work with must continue to expand time, money
 and efforts in all areas of regulatory compliance, including manufacturing, production and quality
@@ -4345,17 +4345,17 @@ products.
 We have limited experience in large-scale manufacturing of our products for commercial use.
 Moreover, the manufacturing of therapeutic biologics is highly complex. Problems may arise
 during manufacturing for a variety of reasons, including but not limited to:
-(cid:129) equipment malfunction;
-(cid:129) failure to follow specific protocols and procedures;
-(cid:129) changes in product specification;
-(cid:129) low quality or insufficient supply of raw materials;
-(cid:129) delays in the construction of new facilities or the expansion of our existing
+ equipment malfunction;
+ failure to follow specific protocols and procedures;
+ changes in product specification;
+ low quality or insufficient supply of raw materials;
+ delays in the construction of new facilities or the expansion of our existing
 manufacturing facilities as a result of changes in manufacturing production sites and
 limits to manufacturing capacity due to regulatory requirements;
-(cid:129) changes in the types of products produced;
-(cid:129) advances in manufacturing techniques;
-(cid:129) physical limitations that could inhibit continuous supply; and
-(cid:129) man-made or natural disasters and other environmental factors.
+ changes in the types of products produced;
+ advances in manufacturing techniques;
+ physical limitations that could inhibit continuous supply; and
+ man-made or natural disasters and other environmental factors.
 Products with quality issues may have to be discarded, resulting in product shortages or
 additional expenses. This could lead to, among other things, increased costs, lost revenue, damage
 to customer relationships, time and expense spent investigating the cause and, depending on the
@@ -4422,11 +4422,11 @@ pharmaceutical and biopharmaceutical industry, including, among other things, ma
 product and supply pricing trends and customer preferences. Any adverse trends in these respects
 could result in operational inefficiency and unused capacity in our facility. We may also experience
 various unfavorable events in the course of developing our new manufacturing facility, such as:
-(cid:129) unforeseen delays due to construction, land use rights or regulatory issues, which could
+ unforeseen delays due to construction, land use rights or regulatory issues, which could
 result in loss of business opportunities;
-(cid:129) construction cost overruns, which may require diverting resources and management’s
+ construction cost overruns, which may require diverting resources and management’s
 attention from other projects; and
-(cid:129) difficulty in finding sufficient numbers of trained and qualified staff.
+ difficulty in finding sufficient numbers of trained and qualified staff.
 The success of our business expansion also depends on our ability to advance drug candidates
 through the development, regulatory approval and commercialization stages. Any delay, suspension
 or termination in such respects would harm our ability to generate satisfactory returns on our
@@ -4443,31 +4443,31 @@ our drug candidates do not achieve an adequate level of acceptance, we may not g
 significant product sales revenue and we may not become profitable. The degree of market
 acceptance of our drug candidates, if approved for commercial sale, will depend on a number of
 factors, including, but not limited to:
-(cid:129) the clinical indications for which our drug candidates are approved;
-(cid:129) physicians, hospitals, medical treatment centers and patients considering our drug
+ the clinical indications for which our drug candidates are approved;
+ physicians, hospitals, medical treatment centers and patients considering our drug
 candidates as a safe and effective treatment;
-(cid:129) the potential and perceived advantages of our drug candidates over alternative
+ the potential and perceived advantages of our drug candidates over alternative
 treatments;
-(cid:129) the prevalence and severity of any side effects;
-(cid:129) product labelling or package insert requirements of regulatory authorities;
-(cid:129) limitations or warnings contained in the labelling approved by regulatory authorities;
-(cid:129) the timing of market introduction of our drug candidates as well as competitive drugs;
-(cid:129) the cost of treatment in relation to alternative treatments;
-(cid:129) the availability of adequate coverage and reimbursement under the national and
+ the prevalence and severity of any side effects;
+ product labelling or package insert requirements of regulatory authorities;
+ limitations or warnings contained in the labelling approved by regulatory authorities;
+ the timing of market introduction of our drug candidates as well as competitive drugs;
+ the cost of treatment in relation to alternative treatments;
+ the availability of adequate coverage and reimbursement under the national and
 provincial reimbursement drug lists in the PRC, or from third-party payers and
 government authorities in other jurisdictions;
 – 82 –
 
 === PAGE 92 ===
 RISK FACTORS
-(cid:129) price control or downward adjustment by the government authorities or other pricing
+ price control or downward adjustment by the government authorities or other pricing
 pressure, including the price reduction during the negotiation for inclusion in the
 national reimbursement drug lists;
-(cid:129) the willingness of patients to pay out-of-pocket in the absence of coverage and
+ the willingness of patients to pay out-of-pocket in the absence of coverage and
 reimbursement by third-party payers and government authorities;
-(cid:129) relative convenience and ease of administration, including as compared to alternative
+ relative convenience and ease of administration, including as compared to alternative
 treatments and competitive therapies; and
-(cid:129) the effectiveness of our sales and marketing efforts.
+ the effectiveness of our sales and marketing efforts.
 If any approved drug candidates that we commercialize fail to achieve market acceptance
 among physicians, patients, hospitals, medical treatment centers or others in the medical
 community, we will not be able to generate revenue as we expect. Even if our future approved
@@ -4826,32 +4826,32 @@ with us for our drug candidate. We may also be restricted under any license agre
 entering into agreements on certain terms or at all with potential collaborators.
 Collaborations involving our drug candidates are subject to specific risks, which include, but
 are not limited to, the following:
-(cid:129) collaborators have significant discretion in determining the efforts and resources that
+ collaborators have significant discretion in determining the efforts and resources that
 they will apply to a collaboration;
 – 89 –
 
 === PAGE 99 ===
 RISK FACTORS
-(cid:129) collaborators may not pursue the development and commercialization of our drug
+ collaborators may not pursue the development and commercialization of our drug
 candidates or may elect to cease collaboration due to change in their strategic focus,
 potential acquisition of competitive drugs, availability of funding, or other external
 factors, such as a business combination that diverts resources or creates competing
 priorities;
-(cid:129) collaborators may delay clinical trials, provide insufficient funding for a clinical trial,
+ collaborators may delay clinical trials, provide insufficient funding for a clinical trial,
 discontinue a clinical trial, repeat or conduct new clinical trials, or require a new
 formulation of a drug candidate for clinical testing;
-(cid:129) collaborators could independently develop, or develop with third parties, drugs that
+ collaborators could independently develop, or develop with third parties, drugs that
 compete directly or indirectly with our drug candidates or future drugs;
-(cid:129) collaborators may not properly maintain or defend our intellectual property rights or
+ collaborators may not properly maintain or defend our intellectual property rights or
 may use our intellectual property or proprietary information in a way that gives rise to
 actual or threatened litigation that could jeopardize or invalidate our intellectual
 property or proprietary information or expose us to potential liability;
-(cid:129) collaborators may not always be cooperative or responsive in providing their services in
+ collaborators may not always be cooperative or responsive in providing their services in
 a clinical trial;
-(cid:129) disputes may arise between us and a collaborator that cause a delay or termination of
+ disputes may arise between us and a collaborator that cause a delay or termination of
 the research, development or commercialization of our drug candidates, or that result in
 costly litigation or arbitration that diverts management attention and resources; and
-(cid:129) collaborators may own or co-own intellectual property covering our drug candidates or
+ collaborators may own or co-own intellectual property covering our drug candidates or
 future drugs that results from our collaborating with them, and in such cases, we would
 not have the exclusive right over such intellectual property.
 As a result, we cannot be certain that, following a strategic transaction or license, we will be
@@ -4889,33 +4889,33 @@ acceptable quality levels or prices, our business could be harmed.
 In addition to our pilot product lines, we currently also engage third parties for the
 manufacturing of certain drug candidates for preclinical studies and clinical use. Such reliance on
 third-party manufacturers would expose us to the following risks:
-(cid:129) we may be unable to identify manufacturers on acceptable terms or at all because the
+ we may be unable to identify manufacturers on acceptable terms or at all because the
 number of potential manufacturers is limited and the NMPA, FDA or other comparable
 regulatory authorities must evaluate and/or approve any manufacturers as part of their
 regulatory oversight of our drug candidates. This evaluation would require new testing
 and GMP-compliance inspections by the NMPA, FDA or other comparable regulatory
 authorities;
-(cid:129) our third-party manufacturers might be unable to timely manufacture our drug
+ our third-party manufacturers might be unable to timely manufacture our drug
 candidates or produce the quantity and quality required to meet our clinical and
 commercial needs, if any;
-(cid:129) manufacturers are subject to ongoing periodic inspection, announced and unannounced,
+ manufacturers are subject to ongoing periodic inspection, announced and unannounced,
 by the regulatory authorities to ensure strict compliance with GMP and other
 government regulations, and we do not have control over third-party manufacturers’
 compliance with these regulations and requirements;
-(cid:129) we may not own, or may have to share, the intellectual property rights to any
+ we may not own, or may have to share, the intellectual property rights to any
 improvements made by our third-party manufacturers in the manufacturing process for
 our drug candidates;
-(cid:129) manufacturers may not properly obtain, protect, maintain, defend or enforce our
+ manufacturers may not properly obtain, protect, maintain, defend or enforce our
 intellectual property rights or may use our intellectual property or proprietary
 information in a way that gives rise to actual or threatened litigation that could
 jeopardize or invalidate our intellectual property or proprietary information or expose us
 to potential liability;
-(cid:129) manufacturers may infringe, misappropriate or otherwise violate the patent, trade secret
+ manufacturers may infringe, misappropriate or otherwise violate the patent, trade secret
 or other intellectual property rights of third parties;
-(cid:129) raw materials and components used in the manufacturing process, particularly those for
+ raw materials and components used in the manufacturing process, particularly those for
 which we have no other source or supplier, may not be available or may not be suitable
 or acceptable for use due to material or component defects; and
-(cid:129) our contract manufacturers may be subject to inclement weather, as well as natural or
+ our contract manufacturers may be subject to inclement weather, as well as natural or
 human-made disasters.
 Each of these risks could delay or suspend R&D activities, result in higher costs, or adversely
 impact commercialization of our future approved drug candidates. In addition, we will rely on
@@ -4995,14 +4995,14 @@ Directors, employees, principal investigators, consultants, commercial partners 
 contractors that could subject us to financial losses and sanctions imposed by government
 authorities, which may adversely affect our reputation. Misconduct by these parties could include,
 but not limited to, intentional, reckless and negligent conduct that fails to:
-(cid:129) comply with the laws of the NMPA, the FDA and other comparable regulatory
+ comply with the laws of the NMPA, the FDA and other comparable regulatory
 authorities;
-(cid:129) provide true, complete and accurate information to the NMPA, the FDA and other
+ provide true, complete and accurate information to the NMPA, the FDA and other
 comparable regulatory authorities;
-(cid:129) comply with manufacturing standards we have established;
-(cid:129) comply with healthcare fraud and abuse laws in China, the U.S. and similar fraudulent
+ comply with manufacturing standards we have established;
+ comply with healthcare fraud and abuse laws in China, the U.S. and similar fraudulent
 misconduct laws applicable to us; or
-(cid:129) report financial information or data accurately or disclose unauthorized activities to us.
+ report financial information or data accurately or disclose unauthorized activities to us.
 If we obtain approval for any of our drug candidates and begin commercializing those drugs
 in China, the U.S., or other applicable jurisdictions, our potential exposure under relevant laws
 will increase significantly, and our costs associated with compliance with such laws are also likely
@@ -5242,30 +5242,30 @@ and adversely affect our business and results of operations.
 As we operate in the PRC, the U.S. and conduct our clinical trials in these jurisdictions, our
 business is subject to risks associated with doing business globally. Accordingly, our business and
 financial results in the future could be adversely affected due to a variety of factors, including:
-(cid:129) changes in a specific country’s or region’s political and cultural climate or economic
+ changes in a specific country’s or region’s political and cultural climate or economic
 condition;
-(cid:129) unexpected changes in laws and regulatory requirements in local jurisdictions;
-(cid:129) differences between national and local practice with respect to laws and regulatory
+ unexpected changes in laws and regulatory requirements in local jurisdictions;
+ differences between national and local practice with respect to laws and regulatory
 requirements in a specific jurisdiction;
-(cid:129) difficulty of effective enforcement of contractual provisions in certain jurisdictions;
-(cid:129) efforts to develop an international sales, marketing and distribution organization may
+ difficulty of effective enforcement of contractual provisions in certain jurisdictions;
+ efforts to develop an international sales, marketing and distribution organization may
 increase our expenses, divert our management’s attention from the acquisition or
 development of drug candidates or cause us to forgo profitable licensing opportunities in
 these geographies;
-(cid:129) the occurrence of economic weakness, including inflation or political instability;
-(cid:129) inadequate intellectual property protection in certain jurisdictions;
-(cid:129) difficulty of ensuring that third-party partners do not infringe, misappropriate, or
+ the occurrence of economic weakness, including inflation or political instability;
+ inadequate intellectual property protection in certain jurisdictions;
+ difficulty of ensuring that third-party partners do not infringe, misappropriate, or
 otherwise violate the patent, trade secret, or other intellectual property rights of others;
-(cid:129) enforcement of anti-corruption and anti-bribery laws;
-(cid:129) trade protection measures, import or export licensing requirements and fines, penalties
+ enforcement of anti-corruption and anti-bribery laws;
+ trade protection measures, import or export licensing requirements and fines, penalties
 or suspension or revocation of export privileges;
-(cid:129) delays resulting from difficulty in obtaining export licenses, tariffs and other barriers
+ delays resulting from difficulty in obtaining export licenses, tariffs and other barriers
 and restrictions, potentially longer payment cycles, and greater difficulty in accounts
 receivable collection;
-(cid:129) compliance with tax, employment, immigration and labor;
-(cid:129) the effects of applicable local tax regimes and potentially adverse tax consequences;
-(cid:129) significant adverse changes in local currency exchange rates; and
-(cid:129) business interruptions resulting from geo-political actions and cultural climate or
+ compliance with tax, employment, immigration and labor;
+ the effects of applicable local tax regimes and potentially adverse tax consequences;
+ significant adverse changes in local currency exchange rates; and
+ business interruptions resulting from geo-political actions and cultural climate or
 economic condition, including war and acts of terrorism, natural disasters, including
 earthquakes, volcanoes, typhoons, floods, hurricanes and fires, or the impact of public
 health pandemics or epidemics, including, for example, the outbreak of COVID-19.
@@ -5288,18 +5288,18 @@ ourselves against the claims, we may incur substantial liabilities or be require
 commercialization of our drug candidates. Even successful defense would require significant
 financial and management resources. Regardless of the merits or eventual outcome, liability claims
 may result in:
-(cid:129) decreased demand for our drug candidates;
-(cid:129) injury to our reputation;
-(cid:129) withdrawal of clinical trial participants and inability to continue clinical trials;
-(cid:129) initiation of investigations by regulatory authorities;
-(cid:129) costs to defend the related litigation;
-(cid:129) a diversion of management’s time and our resources;
-(cid:129) substantial monetary awards to trial participants or patients;
-(cid:129) product recalls, withdrawals or labelling, marketing or promotional restrictions;
-(cid:129) loss of revenue;
-(cid:129) exhaustion of any available insurance and our capital resources;
-(cid:129) the inability to commercialize any approved drug candidate; and
-(cid:129) a decline in the market price of our H Shares.
+ decreased demand for our drug candidates;
+ injury to our reputation;
+ withdrawal of clinical trial participants and inability to continue clinical trials;
+ initiation of investigations by regulatory authorities;
+ costs to defend the related litigation;
+ a diversion of management’s time and our resources;
+ substantial monetary awards to trial participants or patients;
+ product recalls, withdrawals or labelling, marketing or promotional restrictions;
+ loss of revenue;
+ exhaustion of any available insurance and our capital resources;
+ the inability to commercialize any approved drug candidate; and
+ a decline in the market price of our H Shares.
 To cover such liability claims arising from clinical studies, we purchase clinical trial
 insurance to cover adverse events in our clinical trials. It is possible that our liabilities could
 exceed our insurance coverage or that our insurance will not cover all situations in which a claim
@@ -5410,23 +5410,23 @@ From time to time, we may evaluate various acquisitions and strategic partnershi
 licensing or acquiring complementary products, intellectual property rights, technologies or
 businesses. Any completed, in-process or potential acquisition or strategic partnership may entail
 numerous risks, including:
-(cid:129) increased operating expenses and cash requirements;
-(cid:129) the assumption of additional indebtedness or contingent or unforeseen liabilities;
-(cid:129) the issuance of our equity securities;
+ increased operating expenses and cash requirements;
+ the assumption of additional indebtedness or contingent or unforeseen liabilities;
+ the issuance of our equity securities;
 – 101 –
 
 === PAGE 111 ===
 RISK FACTORS
-(cid:129) assimilation of operations, intellectual property and products of an acquired company,
+ assimilation of operations, intellectual property and products of an acquired company,
 including difficulties associated with integrating new personnel;
-(cid:129) the diversion of our management’s attention from our existing product programs and
+ the diversion of our management’s attention from our existing product programs and
 initiatives in pursuing such a strategic merger or acquisition;
-(cid:129) retention of key employees, the loss of key personnel, and uncertainties in our ability to
+ retention of key employees, the loss of key personnel, and uncertainties in our ability to
 maintain key business relationships;
-(cid:129) risks and uncertainties associated with the other party to such a transaction, including
+ risks and uncertainties associated with the other party to such a transaction, including
 the prospects of that party and their existing drugs or drug candidates and regulatory
 approvals; and
-(cid:129) our inability to generate revenue from acquired technology or products sufficient to
+ our inability to generate revenue from acquired technology or products sufficient to
 meet our objectives in undertaking the acquisition or even to offset the associated
 acquisition and maintenance costs.
 In addition, if we undertake acquisitions, we may issue dilutive securities, assume or incur
@@ -5493,14 +5493,14 @@ As our development and commercialization plans and strategies evolve, we must ad
 significant number of additional managerial, operational, manufacturing, sales, marketing, financial
 and other personnel. Our recent growth and any future growth will impose significant added
 responsibilities on our management, including but not limited to:
-(cid:129) identifying, recruiting, integrating, maintaining and motivating additional employees;
-(cid:129) continuing to innovate and develop advanced technology in the highly competitive
+ identifying, recruiting, integrating, maintaining and motivating additional employees;
+ continuing to innovate and develop advanced technology in the highly competitive
 pharmaceutical industry;
-(cid:129) managing our relationships with third parties, including suppliers and partners;
-(cid:129) managing our internal development efforts effectively, including the clinical and
+ managing our relationships with third parties, including suppliers and partners;
+ managing our internal development efforts effectively, including the clinical and
 regulatory authority review process for our drug candidates, while complying with our
 contractual obligations to contractors and other third parties; and
-(cid:129) improving our operational, financial and management controls, reporting systems and
+ improving our operational, financial and management controls, reporting systems and
 procedures.
 If we are not able to effectively manage our growth and further expand our organization by
 hiring new employees and expanding our groups of consultants and contractors as needed, we may
@@ -5768,14 +5768,14 @@ and the market price of the shares of other companies engaging in similar busine
 price and trading volume of our H Shares. In addition to market and industry factors, the price and
 trading volume of our H Shares may be highly volatile for specific business reasons, including the
 following:
-(cid:129) the results of clinical trials of our drug candidates;
-(cid:129) the results of our applications for regulatory approvals of our drug candidates;
-(cid:129) regulatory developments affecting the pharmaceutical industry, healthcare, health
+ the results of clinical trials of our drug candidates;
+ the results of our applications for regulatory approvals of our drug candidates;
+ regulatory developments affecting the pharmaceutical industry, healthcare, health
 insurance and other related matters;
-(cid:129) fluctuations in our revenue, earnings, cash flows, investments and expenditures;
-(cid:129) relationships with our suppliers;
-(cid:129) movements or activities of key personnel; and
-(cid:129) actions taken by competitors.
+ fluctuations in our revenue, earnings, cash flows, investments and expenditures;
+ relationships with our suppliers;
+ movements or activities of key personnel; and
+ actions taken by competitors.
 Moreover, shares of other companies listed on the Stock Exchange have experienced price
 volatility in the past, and it is possible that our H Shares may be subject to changes in price not
 directly related to our performance.
@@ -7241,7 +7241,7 @@ between study arms observed in trials, all of which have been subsequently lifte
 determined that, following a comprehensive review of the safety data from each trial, the clinical
 sponsor had satisfactorily addressed the deficiencies. Barriers to the development of effective and
 safe CD47-targeted drugs are as follows:
-(cid:129) Blood toxicity: Safety issues have been the primary concerns around CD47. Other than
+ Blood toxicity: Safety issues have been the primary concerns around CD47. Other than
 tumor cells, CD47 is also ubiquitously expressed on human red blood cells (RBCs) and
 platelets. Thus, a CD47/SIRPα blocking agent may also bind to normal blood cells and
 cause severe blood toxicity, such as anemia, thrombocytopenia and hemagglutination
@@ -7252,17 +7252,17 @@ INDUSTRY OVERVIEW
 (clumping of RBCs). In fact, a number of clinical-stage CD47 antibodies show severe
 strong RBC binding, leading to severe adverse effects, and cases resulting in trial
 suspensions or termination.
-(cid:129) Antigenic sink: Due to ubiquitous expression of CD47 on normal cells, CD47-targeted
+ Antigenic sink: Due to ubiquitous expression of CD47 on normal cells, CD47-targeted
 agents, especially CD47 antibodies, may be quickly exhausted after administration,
 resulting in limited drug exposure in tumor tissues. “Antigenic sink” issues require a
 higher dose to reach the minimum effective concentration threshold. Higher doses would
 in turn cause more severe blood toxicity, especially when used in combination therapies.
-(cid:129) Fc isotype selection: Due to the inevitable binding of CD47 antibodies to RBCs, most of
+ Fc isotype selection: Due to the inevitable binding of CD47 antibodies to RBCs, most of
 those antibodies resort to a less potent IgG4 Fc region, trading their therapeutic efficacy
 for safety and thus requiring a much higher dose. In contrast, IgG1 Fc is able to elicit
 strong ADCP activity by macrophages through much more efficient engagement with
 activating Fcγ receptors.
-(cid:129) T-cell apoptosis: CD47 is also expressed on T cells. Upon binding with a particular
+ T-cell apoptosis: CD47 is also expressed on T cells. Upon binding with a particular
 CD47 epitope on T cells, certain CD47-targeted antibodies may induce T-cell apoptosis,
 resulting in compromised efficacy, drug resistance and severe side effects.
 These challenges pose high scientific entry barriers for the development of CD47-targeted
@@ -7343,14 +7343,14 @@ TTI-622 (Pfizer) SIRPαFc IgG4 No 2018.5 Yes AML, MM, Lymphoma, OC Ph II (combo)
 CC-90002 Celgene (BMS) mAb IgG4 Yes 2015.2 No AML, MDS, MM, NHL, Solid tumor (Partial Susp P e h n s I i ( o c n o m by b o th ) e Company)
 SRF231 O S n u c r o fa lo c g e y mAb IgG4 Yes 2018.4 No Ad H v e a m nc a e to d l o S g o ic li d C C an a c n e c r e s rs, (Suspens P io h n I b ( y m t o h n e o C ) ompany)
 (E A vo L r X p - a 1 c 4 e 8 pt) ALX Oncology SIRPαFc Fc Ig (I G ne 1 rt) Yes 2017.1 No AML, MDS, NHL, Solid Tumor Ph II/III (combo)
-SHR1603 He (cid:1737) ng (cid:2294) Rui mAb IgG4 Yes 2018.10 No Advanced Malignancies, Lymphoma (Suspens P io h n I b ( y m t o h n e o C ) ompany)
+SHR1603 He ng Rui mAb IgG4 Yes 2018.10 No Advanced Malignancies, Lymphoma (Suspens P io h n I b ( y m t o h n e o C ) ompany)
 AO-176 Arch Oncology mAb IgG2 Minimal 2019.2 No M P M ro , s G ta C te , N C C S a a C n rc c L i e C n r o , , m H En N a d S o C m C e , t r O ia C l , (Suspen P s h io I n /I I b ( y c o th m e b C o o ) mpany)
-(Le I t B ap I1 li 8 m 8 ab) (cid:1170) Inn (cid:24789) o (cid:2303) ve (cid:2258) nt mAb IgG4 Yes 2018.11 No AML, MDS, Lymphoma, Solid Tumor (Partial Su P sp h e I n b s /I i I o I n (c b o y m t b h o e ) Company)
-(Lem T z J o b C p ) a 4 rlima I-Ma / b A b (cid:1502) bV (cid:1483) ie (cid:2303)(cid:2258) mAb IgG4 Minimal 2019.5 No Ly A m M p L h , o M m D a, S A , d M v M an , c C e D d 2 S 0 o P lid o s T it u iv m e o r (Partial Sus P pe h n I s II i o (c n o b m y b t o h ) e Company)
-IMM01 Im (cid:1558) mu (cid:1954) n (cid:1952) eO (cid:2400) nco SIRPαFc IgG1 No 2019.9 Yes MDS, AML, CM T M um L, or HL, NHL, Solid Ph II (combo)12
+(Le I t B ap I1 li 8 m 8 ab) Inn o ve nt mAb IgG4 Yes 2018.11 No AML, MDS, Lymphoma, Solid Tumor (Partial Su P sp h e I n b s /I i I o I n (c b o y m t b h o e ) Company)
+(Lem T z J o b C p ) a 4 rlima I-Ma / b A b bV ie mAb IgG4 Minimal 2019.5 No Ly A m M p L h , o M m D a, S A , d M v M an , c C e D d 2 S 0 o P lid o s T it u iv m e o r (Partial Sus P pe h n I s II i o (c n o b m y b t o h ) e Company)
+IMM01 Im mu n eO nco SIRPαFc IgG1 No 2019.9 Yes MDS, AML, CM T M um L, or HL, NHL, Solid Ph II (combo)12
 Akesobio AML, MDS, Lymphoma, TNBC,
 AK117 mAb IgG4 Minimal 2020.4 No HNSCC, NSCLC, SCLC, OC, CRC, Ph II (combo)
-(cid:1673)(cid:1936)(cid:2303)(cid:2258) HCC
+ HCC
 Notes: (1) Denotes the indications targeted by either combination therapy or monotherapy of each drug candidate. Most
 drug candidates listed in this table are developed primarily through combination strategies rather than as a
 monotherapy. (2) Denotes the latest clinical development stage of each drug candidate considering its
@@ -7423,12 +7423,12 @@ TTI-622 IgG4 No Yes Phase II 2022/08/19 1L or above US
 OC
 ImmuneOnco MDS, AML, CMML,HL,
 IMM01 IgG1 No Yes Phase II 2021/09/23 1L or above China
-(cid:1558)(cid:1954)(cid:1952)(cid:2400) NHL, Solid Tumor
+ NHL, Solid Tumor
 SumgenBio
 SG404 / / / Advanced Malignancy Phase I 2020/12/10 2L or above China
-(cid:1593)(cid:1185)(cid:2303)(cid:2258)
+ 
 HCB101 FBD Biologics IgG4 / / Advanced Solid Tumor， Phase I 2023/06/07 2L or above US
-(cid:2126)(cid:1673)(cid:2303)(cid:1801) NHL
+ NHL
 Notes: (1) Company’s information is from the Company and industry information is as of August 17, 2023. (2) First
 posted date refers to the date on which the study record was first available on Chinadrugtrials.org.cn or
 Clinicaltrials.gov. (3) RoW refers to regions out of China and the U.S. (4) The clinical stage refers to the latest
@@ -7490,21 +7490,21 @@ by the Company)
 Phase Ib/III
 IBI188 Innovent AML, MDS, Lymphoma, Solid
 IgG4 Yes No (Partial Suspend by 2020/07/23 1L or later China, US
-(Letaplimab) (cid:1170)(cid:24789)(cid:2303)(cid:2258) Tumor the Company)
+(Letaplimab) Tumor the Company)
 AML, MDS, Lymphoma, TNBC,
 Akesobio
 AK117 IgG4 Minimal No HNSCC, NSCLC, SCLC, OC, Phase II 2022/01/30 1L or laterChina, RoW
-(cid:1673)(cid:1936)(cid:2303)(cid:2258) CRC, HCC
+ CRC, HCC
 MM, GC, NSCLC, HNSCC, OC, Phase I/II
 AO-176 Arch Oncology IgG2 Minimal No Prostate Cancer, Endometrial (Suspend by the 2019/02/08 2L or later US
 Carcinoma Company)
 AML, MDS, MM, CD20 Positive Phase III
-TJC4 I-Mab (cid:1502)(cid:1483)(cid:2303)(cid:2258) IgG4 Minimal No Lymphoma, Advanced Solid (Partial Suspend by 2021/03/29 1L or later China, US
+TJC4 I-Mab IgG4 Minimal No Lymphoma, Advanced Solid (Partial Suspend by 2021/03/29 1L or later China, US
 (Lemzoparlimab) /AbbVie
 Tumor the Company)
 GenSci AML, MDS, Advanced Solid
 Gentulizumab / / / Phase I 2021/01/12 2L or later China
-(cid:2896)(cid:2772)(cid:21734)(cid:1039) Tumor or Lymphoma
+ Tumor or Lymphoma
 Phase I
 AML, MDS, MM, NHL, Solid
 CC-90002 Celgene (BMS) IgG4 Yes No (Partial Suspend by 2015/02/20 2L or later US
@@ -7518,21 +7518,21 @@ Company)
 Phase I
 HengRui Advanced Malignancies,
 SHR1603 IgG4 Yes No (Suspend by the 2018/10/26 2L or later China
-(cid:1737)(cid:2294) Lymphoma Company)
+ Lymphoma Company)
 Advanced Solid Tumor or
-ZL-1201 ZaiLab (cid:1223)(cid:28367)(cid:1307)(cid:21734) IgG4 Yes / Hematologic Malignancies Phase I 2020/02/06 2L or later China, US
+ZL-1201 ZaiLab IgG4 Yes / Hematologic Malignancies Phase I 2020/02/06 2L or later China, US
 ImmuneOncia/ China, US,
 IMC-002/3D-197 IgG4 No / Lymphoma,Solid Tumor Phase I 2020/03/12 2L or later
-3D Medicines (cid:1731)(cid:2792)(cid:2839) RoW
+3D Medicines RoW
 MabWorks/KeyMed
 Advanced Solid Tumor or
-MIL95/CM312 (cid:1502)(cid:1658)(cid:1560)(cid:2303)(cid:2258)/(cid:1673)(cid:2734)(cid:1086)(cid:2303) / Minimal /
+MIL95/CM312 / / Minimal /
 Lymphoma
 Phase I 2020/11/27 2L or later China
-(cid:2258)
+ 
 Chia Tai Tianqing Advanced Solid Tumors and
 TQB2928 / / / Phase I 2021/04/22 2L or later China
-(cid:2099)(cid:1501)(cid:1502)(cid:1970) Hematological Malignancies
+ Hematological Malignancies
 SwissBiopharma
 sB24M / / / PV; PG; PPG; Pyoderma Phase I 2021/05/20 3L or later RoW
 Med
@@ -7541,16 +7541,16 @@ STI-6643 IgG4 Minimal / Advanced Solid Tumor Phase I 2021/05/25 2L or later US
 Therapeutics
 LanDun
 LD002 / / / Advanced Solid Tumor, NL Phase I 2022/03/09 2L or later China
-(cid:2642)(cid:2349)(cid:21734)(cid:1039)
+ 
 XinShiDai
 F527 / / / Lymphoma Phase I 2022/04/14 2L or later China
-(cid:1935)(cid:1950)(cid:1111)(cid:21734)(cid:1039)
+ 
 HutchMed AML, MDS, Lymphoma, Solid
 HMPL-A83 IgG4 Minimal / Phase I 2022/05/26 2L or later China
-(cid:1401)(cid:3056)(cid:1307)(cid:21734) Tumor
+ Tumor
 Fapon Biopharma
 FP002 IgG4 Minimal / Advanced Malignant Tumor Phase I 2023/06/20 2L or above China
-(cid:2629)(cid:27958)(cid:1266)(cid:21734)
+ 
 Notes: (1) Industry information is as of August 17, 2023. (2) First posted date refers to the date on which the study
 record was first available on Chinadrugtrials.org.cn or Clinicaltrials.gov. (3) RoW refers to regions out of China
 and the U.S. (4) The clinical stage refers to the latest clinical trials as well as the first posted date. (5)As to the
@@ -7675,34 +7675,34 @@ clinical stage globally. The table below sets forth details of the global pipeli
 bispecific molecules:
 Global Pipeline of CD47-targeted Bispecific Molecules
 Target Nam D e ru /C g ode Company Fc isotype effe F c c t or Indications Clinical Stage Firs D tP at o e s ted T P r r L e o i a n p t e o m s o e e f n d t Region
-HX009 H (cid:2539) a (cid:1731) ns (cid:2303) B (cid:2258) io IgG4 No Lymphoma,HNSC M C a , lig B n T a C n , t E M s e o s p o h t a h g e e lio a m lC a ancers,Sarcoma, PhaseII 2021/05/14 2Lorabove China,RoW
-6MW3211 M (cid:24689) ai (cid:1530) we (cid:2303) iB (cid:2258) io / / AML, MDS, RefractoryorR C e a l n a c p e s r edLymphoma, RCC,Lung PhaseII 2022/06/13 1Lorabove China
+HX009 H a ns B io IgG4 No Lymphoma,HNSC M C a , lig B n T a C n , t E M s e o s p o h t a h g e e lio a m lC a ancers,Sarcoma, PhaseII 2021/05/14 2Lorabove China,RoW
+6MW3211 M ai we iB io / / AML, MDS, RefractoryorR C e a l n a c p e s r edLymphoma, RCC,Lung PhaseII 2022/06/13 1Lorabove China
 IBC0966 SunhoBio / / AdvancedMalignancies PhaseI/II 2021/07/08 2Lorabove China
-(cid:2343)(cid:2394)(cid:2303)(cid:2258)
+ 
 IBI322 Innovent IgG4 Minimal AML, MDS, Lymphoma,AdvancedSolidTumor Phase Ia/Ib 2020/03/30 2Lorabove China,US
-(cid:1170)(cid:24789)(cid:2303)(cid:2258)
+ 
 CD47,PD-1/L1 SG12473 SumgenBio / No HL, NSCLC,CRC, HNSCC,EndometrialCarcinoma PhaseIa/Ib 2021/05/13 2Lorabove China
-(cid:1593)(cid:1185)(cid:2303)(cid:2258)
+ 
 PF-07257876 Pfizer IgG1 Yes NSCLC,HNSCC,OC PhaseI 2021/05/11 2Lorabove US
 BAT7104 Bio-Thera / / AdvancedMalignancies PhaseI 2022/02/22 2Lorabove China,RoW
-(cid:2328)(cid:1517)(cid:2154)
+ 
 SH009 SanHome / / AdvancedMalignancies PhaseI 2022/07/01 2Lorabove China
-(cid:1447)(cid:1401)(cid:21734)(cid:1039)
+ 
 IMM2520 ImmuneOnco IgG1 Yes SolidTumor PhaseI 2023/02/07 2Lorabove China,US
-(cid:1558)(cid:1954)(cid:1952)(cid:2400)
+ 
 IMM0306 ImmuneOnco IgG1 Yes RefractoryorRelapsedCD20-positiveB-NHL PhaseI/II 2020/03/23 3Lorabove China,US
-(cid:1558)(cid:1954)(cid:1952)(cid:2400)
+ 
 JMT-Bio (Conjupro
 CD47, CD20 JMT601 Biotherapeutics) IgG1 Yes RefractoryorRelapsedCD20-PositiveB-NHL PhaseI/II 2021/04/21 3Lorabove China,US
-(cid:2161)(cid:1983)(cid:2260)((cid:2368)(cid:21734)(cid:2980)(cid:1437))
+ ( )
 CC-96673 Celgene(BMS) / / NHL PhaseI 2021/04/27 2Lorabove US, RoW
 ISB1442 IchnosSciencesSA IgG1/IgG3 Yes MM PhaseI/II 2022/06/22 4Lorabove US, RoW
 CD47, CD38
 SG2501 SumgenBio / / MM,Lymphoma PhaseI 2022/03/24 2Lorabove US
-(cid:1593)(cid:1185)(cid:2303)(cid:2258)
-CD47, HER2 IMM2902 Im (cid:1558) mu (cid:1954) n (cid:1952) eO (cid:2400) nco IgG1 Yes HER2-positiveand HER2 T L u o m w- o e r xpressionAdvancedSolid PhaseI/II 2021/09/22 2Lorabove China,US
+ 
+CD47, HER2 IMM2902 Im mu n eO nco IgG1 Yes HER2-positiveand HER2 T L u o m w- o e r xpressionAdvancedSolid PhaseI/II 2021/09/22 2Lorabove China,US
 D3L-001 D3 Bio (Wuxi) / / HER-2 Positive Advanced Solid Tumors PhaseI 2023/07/24 / /
-(cid:1716)(cid:14874)(cid:17127)(cid:25110)(cid:22338)(cid:14)(cid:17432)(cid:25485)(cid:15)
+ 
 CD47, CD19 T N G I- - 1 1 7 8 0 0 1 1/ T /N G ov T i h m e m ra u p n e e ut S ic A s IgG1 Yes B-CellLymphoma,ChronicLymphocytic Leukemia PhaseI 2019/01/15 2Lorabove US,RoW
 CD47, CD40L SL-172154 ShattuckLabs IgG4 No AML, MDS, OC,Fallop H ia N n S T C u C be Cancer,PPC,cSCC; (Pa th rt e ia P C l h S o a u m s s e p p a e I n n y d ) by 2020/05/28 2Lorabove US
 CD47,4-1BB DSP107 KahrMedical IgG4 No AML,MDS, CMML,AdvancedSolidTumor PhaseI/II 2020/06/22 2Lorabove US
@@ -7710,10 +7710,10 @@ CD47、MSLN NI-1801 NovimmuneSA IgG1 Yes OC,TNBC,NSCLC PhaseI 2022/06/03 2Lorabo
 PT886 PhanesTherapeutics / / GC,PancreasAdenocarcinoma PhaseI 2022/08/01 2Lorabove /
 CD47 1 , 8 C .2 LDN- BC007 DragonBoat / / AdvancedSolidTumor withCLDN18.2Expression PhaseI 2022/10/31 2Lorabove China
 SG1906 SumgenBio IgG1 / AdvancedSolidTumor withCLDN18.2Expression PhaseI 2023/03/13 2Lorabove China
-(cid:1593)(cid:1185)(cid:2303)(cid:2258)
+ 
 CD47,S DoLuL3rce: CDPET,2 C17linicalPtrhiaanlse,sCThoemrappeauntiycsWebs/ite, Literat/ureReview, FroSsCtL&C,SLuClNlivEaCn,NAEnPCal,yGsEisP-NET PhaseI 2022/12/15 2Lorabove /
 CD47, CD24 IMM4701 ImmuneOnco IgG1 Yes SolidTumor CMC CMC / China,US
-(cid:1558)(cid:1954)(cid:1952)(cid:2400)
+ 
 Notes: (1) Company’s information is from the Company and industry information is as of August 17, 2023. (2) First
 posted date refers to the date on which the study record was first available on Chinadrugtrials.org.cn or
 Clinicaltrials.gov. (3) RoW refers to regions out of China and the U.S. (4) The clinical stage refers to the latest
@@ -9721,16 +9721,16 @@ the IRB’s requirements or if the product has been associated with unexpected s
 subjects.
 Clinical trials generally are conducted in three sequential phases, known as Phase I, Phase II
 and Phase III, and may overlap.
-(cid:129) Phase I clinical trials generally involve a small number of healthy volunteers or
+ Phase I clinical trials generally involve a small number of healthy volunteers or
 disease-affected patients who are initially exposed to a single dose and then multiple
 doses of the product candidate. The primary purpose of these clinical trials is to assess
 the metabolism, pharmacologic action, side effect tolerability and safety of the product
 candidate.
-(cid:129) Phase II clinical trials involve studies in disease-affected patients to evaluate proof of
+ Phase II clinical trials involve studies in disease-affected patients to evaluate proof of
 concept and/or determine the dose required to produce the desired benefits. At the same
 time, safety and further PK and PD information is collected, possible adverse effects
 and safety risks are identified, and a preliminary evaluation of efficacy is conducted.
-(cid:129) Phase III clinical trials generally involve a large number of patients at multiple sites and
+ Phase III clinical trials generally involve a large number of patients at multiple sites and
 are designed to provide the data necessary to demonstrate the effectiveness of the
 product for its intended use, its safety in use and to establish the overall benefit/risk
 relationship of the product and provide an adequate basis for product labeling.
@@ -9913,13 +9913,13 @@ requirements, may result in revisions to the approved labeling to add new safety
 imposition of post-market studies or clinical trials to assess new safety risks; or imposition of
 distribution or other restrictions under a REMS program. Other potential consequences include,
 among other things:
-(cid:129) restrictions on the marketing or manufacturing of the drug or biologic, suspension of the
+ restrictions on the marketing or manufacturing of the drug or biologic, suspension of the
 approval, complete withdrawal of the drug from the market or product recalls;
-(cid:129) fines, warning letters or holds on post-approval clinical trials;
-(cid:129) refusal of the FDA to approve applications or supplements to approved applications, or
+ fines, warning letters or holds on post-approval clinical trials;
+ refusal of the FDA to approve applications or supplements to approved applications, or
 suspension or revocation of drug or biologic approvals; drug or biologic seizure or
 detention, or refusal to permit the import or export of drugs; or
-(cid:129) injunctions or the imposition of civil or criminal penalties.
+ injunctions or the imposition of civil or criminal penalties.
 Patient Protection and Affordable Health Care Act
 The Patient Protection and Affordable Care Act, as amended by the Health Care and
 Education Affordability Reconciliation Act (collectively, the “ACA”), became law in the United
@@ -12041,13 +12041,13 @@ Upon the completion of the Global Offering (assuming that the Over-allotment Opt
 exercised) and the conversion of Unlisted Shares into H Shares, the H Shares held by certain of
 our Shareholders who are, or directly or indirectly controlled by our core connected persons, will
 not be counted towards the public float. Details of these Shareholders are set out below:
-(cid:129) Dr. Tian is one of our Controlling Shareholders and the 35,091,495 H Shares held by
+ Dr. Tian is one of our Controlling Shareholders and the 35,091,495 H Shares held by
 him will not count towards the public float. Further, our Employee Shareholding
 Platforms, namely, Jiaxing Changxian, Jiaxing Changyu and Halo Investment II, are
 ultimately controlled by Dr. Tian, and are also considered as our Controlling
 Shareholders, and the 33,178,478 H Shares held by the Employee Shareholding
 Platforms in aggregate will not count towards the public float.
-(cid:129) ZJ Leading SiQi VC is ultimately controlled by Mr. Yu Xiaoyong, one of our
+ ZJ Leading SiQi VC is ultimately controlled by Mr. Yu Xiaoyong, one of our
 non-executive Directors and therefore it is a close associate of Mr. Yu Xiaoyong and the
 5,554,305 H Shares held by ZJ Leading SiQi VC will not count towards the public float.
 The 145,607,656 Unlisted Shares held by our Shareholders as of the Latest Practicable Date,
@@ -13048,7 +13048,7 @@ BUSINESS
 === PAGE 238 ===
 BUSINESS
 Our CD47-based drug candidates include:
-(cid:129) IMM01, our Core Product, is an innovative CD47-targeted molecule. It is the first
+ IMM01, our Core Product, is an innovative CD47-targeted molecule. It is the first
 SIRPα-Fc fusion protein to enter into clinical stage in China. IMM01 designed with
 IgG1 Fc can fully activate macrophages via a dual mechanism — simultaneously
 blocking the “don’t eat me” signal by disrupting CD47/SIRPα interaction and delivering
@@ -13179,7 +13179,7 @@ than to the Fc end, which ensures undisrupted binding to CD47 and preserves the 
 with full immune effector function. Compared to combination therapies, our bispecific molecules
 targeting the same set of targets have demonstrated stronger antitumor activity at comparable dose
 levels in our preclinical studies. Our CD47-based bispecific molecules include:
-(cid:129) IMM0306, one of our Key Products, is the first CD47×CD20 bispecific molecule
+ IMM0306, one of our Key Products, is the first CD47×CD20 bispecific molecule
 globally to enter into clinical stage. IMM0306 has a higher affinity for CD20 than
 CD47, which enables it to preferentially and simultaneously bind to CD20 and CD47 on
 malignant B cells rather than CD47-positive normal tissues and further mitigate
@@ -13213,7 +13213,7 @@ BUSINESS
 the FDA in January 2021. With further clinical validation in the clinical trials in China,
 we will then decide on our clinical development and collaboration strategy for
 IMM0306 in the U.S.
-(cid:129) IMM2902, one of our Key Products, is currently the only CD47×HER2 bispecific
+ IMM2902, one of our Key Products, is currently the only CD47×HER2 bispecific
 molecule that has entered into clinical stage globally. By simultaneously binding to
 HER2 and CD47, IMM2902 suppresses tumor cell growth and proliferation through the
 blockade of HER2 and CD47/SIRPα inhibitory signals as well as the promotion of
@@ -13229,7 +13229,7 @@ and well tolerated up to 2.0 mg/kg. Dosing is ongoing for higher dose level coho
 have also initiated the clinical trial for advanced HER2-positive and HER2-low
 expressing solid tumors in the U.S. with the first patient dosed in June 2022. We have
 received the Fast Track Designation from the FDA in July 2022.
-(cid:129) IMM2520, one of our Key Products, is a CD47×PD-L1 bispecific molecule for the
+ IMM2520, one of our Key Products, is a CD47×PD-L1 bispecific molecule for the
 treatment of solid tumors. By targeting CD47 and PD-L1 on tumor cells and with its
 functional IgG1 Fc, IMM2520 can simultaneously activate macrophages and T cells to
 achieve strong synergistic effects and induce long-lasting tumor-specific immune
@@ -13251,7 +13251,7 @@ tremendous clinical potential. However, according to Frost & Sullivan, there is 
 targeting CD24 globally. No CD24-targeted drug candidate has entered into clinical stage
 worldwide, except for one drug candidate recently receiving IND approval from the FDA for its
 Phase I clinical trial.
-(cid:129) IMM47 is a potentially global first-in-class humanized monoclonal antibody targeting
+ IMM47 is a potentially global first-in-class humanized monoclonal antibody targeting
 CD24 for cancer treatment. We have successfully screened IMM47 despite the fact that
 the screening of antibodies against CD24 is highly challenging due to the relatively
 weak immunogenicity resulting from its small extracellular domain. With a high affinity
@@ -13279,7 +13279,7 @@ first can help us to begin global clinical trials earlier and accelerate clinica
 of IMM47. Additionally, we believe Australian trial can generate valuable clinical data
 on ethnically diverse populations, thus enhancing our ability to pursue collaboration
 opportunities with global pharmaceutical companies.
-(cid:129) IMM4701 is a bispecific molecule that simultaneously targets CD47 and CD24. It is
+ IMM4701 is a bispecific molecule that simultaneously targets CD47 and CD24. It is
 also developed on our mAb-Trap platform and shares a similar structure as our other
 CD47-based bispecific molecules. We have observed robust antitumor activity of
 IMM4701 in various solid tumor models, in which IMM4701 achieved 122% tumor
@@ -13291,7 +13291,7 @@ We have also been actively evaluating the therapeutic potential of other innate 
 checkpoints, including IL-8, NKG2A and PSGL-1, and we aim to continue to stay at the forefront
 of the development of immunotherapies through scientific innovation.
 Our adaptive immunity-based drug candidates include:
-(cid:129) IMM2510 is a bispecific molecule with a mAb-Trap structure targeting VEGF and
+ IMM2510 is a bispecific molecule with a mAb-Trap structure targeting VEGF and
 PD-L1. IMM2510 can inhibit angiogenesis, leading to tumor shrinkage, and sensitize
 tumor cells to immune responses, while activating T cells, NK cells, and macrophages
 via the blockade of PD-L1/PD-1 interaction and the induction of Fc-mediated
@@ -13307,7 +13307,7 @@ NSCLC patients in the trial so far, we have observed PRs in both patients with b
 tumor shrinkage response of 46% and 35% respectively. We expect to complete this
 dose-escalation study in the third quarter of 2023, and subsequently commence a
 cohort-expansion study.
-(cid:129) IMM27M is a new generation CTLA-4 antibody with enhanced ADCC activity. It can
+ IMM27M is a new generation CTLA-4 antibody with enhanced ADCC activity. It can
 induce potent immune responses targeting CTLA-4 overexpressed immune-suppressive
 T cells and promote T depletion from the TME, thus enhancing T-cell antitumor
 reg reg
@@ -13331,7 +13331,7 @@ Phase Ib/II study to evaluate the combination of IMM27M and a PD-1 antibody for 
 treatment of advanced solid tumors, such as RCC, NSCLC, GC and thymic carcinoma
 (TC), in March 2023. We may initiate clinical trials or explore collaboration
 opportunities for this combination therapy.
-(cid:129) IMM40H is a humanized IgG1 CD70 monoclonal antibody with enhanced ADCC
+ IMM40H is a humanized IgG1 CD70 monoclonal antibody with enhanced ADCC
 activity. It can obstruct the activation and proliferation of T cells through the
 reg
 inhibition of CD70/CD27 signaling. Our in vitro cell-based assay demonstrated that
@@ -13398,7 +13398,7 @@ oIMM01(CD47)
 • IMM01+ Azacitidine PD-L1
 CD47CD24
 • IMM01+ Inetetamab oIMM01+ tislelizumab VEGFTAA
-oIMM0306 (CD47×CD20) oIMM2520(CD47×PD-L1(cid:28626) oIMM2510 (VEGF×PD-L1)
+oIMM0306 (CD47×CD20) oIMM2520(CD47×PD-L1 oIMM2510 (VEGF×PD-L1)
 oIMM2902(CD47×HER2) oIMM47(CD24) oIMM27M(CTLA4ADCC+)
 oIMM51(IL-8) oIMM4701 (CD47×CD24) oIMM40H(CD70)
 oIMM50 (PSGL-1) oIMM2547 (CD24×PD-L1)
@@ -13625,7 +13625,7 @@ mg/kg in patients.
 BUSINESS
 We are actively evaluating IMM01 in combination with other drugs in the following clinical
 trials:
-(cid:129) Combination of IMM01 and azacitidine: The therapeutic benefits of CD47-targeted
+ Combination of IMM01 and azacitidine: The therapeutic benefits of CD47-targeted
 therapies in combination with azacitidine have been validated in multiple clinical trials
 according to publicly reported data. Our in vivo efficacy studies also showed that the
 combination of IMM01 and azacitidine exhibited favorable safety profiles and strong
@@ -13641,7 +13641,7 @@ Phase Ib/II trial has demonstrated a favorable safety profile and promising effi
 profile. For details of clinical data, please refer to the paragraphs headed “Business —
 Our Innate Immune Checkpoint-Targeted Drug Candidates — IMM01 — Summary of
 Clinical Trial Results — IMM01 in combination with azacitidine.”
-(cid:129) Combination of IMM01 and tislelizumab: When combined with PD-1 inhibitors that
+ Combination of IMM01 and tislelizumab: When combined with PD-1 inhibitors that
 typically consist of IgG4 Fc with weaker Fc functions, IMM01, designed with
 distinctive IgG1 Fc, is able to deliver the additional “eat me” signal which is for full
 macrophage activation, in contrast to IgG4 Fc CD47 antibodies. Activation of
@@ -13658,7 +13658,7 @@ treatment and refractory to PD-1 inhibitors achieved PR after three cycles of tr
 with target lesion shrinkage of 40%. For details of preclinical and clinical data, please
 refer to the paragraphs headed “Business Our Innate Immune Checkpoint-Targeted Drug
 Candidates — IMM01— Competitive Advantages.”
-(cid:129) Combination of IMM01 and other drugs: IMM01 has demonstrated a positive efficacy
+ Combination of IMM01 and other drugs: IMM01 has demonstrated a positive efficacy
 and safety profile in its Phase I monotherapy trial, which sets the stage for its
 combination use with other immunotherapies or targeted therapies in our various in vivo
 studies. We are currently exploring the therapeutic potential of IMM01 in combination
@@ -13979,7 +13979,7 @@ treating hematologic tumors. We are developing IMM01, IMM0306 and other pipeline
 for the treatment of hematologic malignancies, such as lymphoma, MDS/CMML and AML,
 through monotherapy and combination strategies. Our clinical development plans for our programs
 that target hematologic malignancies are as follows:
-(cid:129) IMM01 in combination with azacitidine: Upon completion of the Phase Ib trial, we
+ IMM01 in combination with azacitidine: Upon completion of the Phase Ib trial, we
 initiated a Phase II trial to evaluate the combination therapy of IMM01 and azacitidine
 mainly for the first-line treatment of HR MDS, unfit AML and CMML in June 2022,
 from which so far we have observed an encouraging efficacy and safety profile of this
@@ -13989,12 +13989,12 @@ relatively small sample size studies targeting the first-line treatment of CMML,
 type of disease with highly unmet medical needs. Subject to further clinical validation,
 we plan to file an IND application with the FDA for a Phase II study of this
 combination treatment.
-(cid:129) IMM01 in combination with tislelizumab: We are evaluating this combination therapy in
+ IMM01 in combination with tislelizumab: We are evaluating this combination therapy in
 cHL patients who relapsed or progressed after the treatment of PD-1 inhibitors, which
 may allow us to pursue an accelerated marketing approval leveraging the results of
 relatively small sample size studies. We dosed the first patient with R/R cHL in China in
 January 2023.
-(cid:129) IMM0306 (CD47×CD20): We initiated a Phase I trial for IMM0306 in R/R B-NHL in
+ IMM0306 (CD47×CD20): We initiated a Phase I trial for IMM0306 in R/R B-NHL in
 China in May 2020, of which preliminary data showed good safety and promising
 efficacy. We commenced a Phase IIa trial for IMM0306 monotherapy for the third- or
 later-line treatment of FL in March 2023 and plan to seek an accelerated marketing
@@ -14006,7 +14006,7 @@ combination in China, with the first patient dosed in June 2023. We have also re
 an IND approval for IMM0306 from the FDA in January 2021. With further clinical
 validation in the clinical trials in China, we will then decide on our clinical development
 and collaboration strategy for IMM0306 in the U.S.
-(cid:129) IMM40H (CD70 mAb): We have obtained IND approvals for IMM40H from the NMPA
+ IMM40H (CD70 mAb): We have obtained IND approvals for IMM40H from the NMPA
 and the FDA in August 2022, and may initiate Phase I clinical studies or pursue
 potential collaboration opportunities.
 – 247 –
@@ -14020,14 +14020,14 @@ would allow us to tap into a huge market with a large patient population. The sy
 selected innate and adaptive immune targets also multiply the combination potential among our
 pipeline assets for the treatment of a wide range of tumor indications. Our clinical development
 plans for our programs targeting solid tumors are as follows:
-(cid:129) CD47-targeted drug candidates
-(cid:129) IMM01 in combination with tislelizumab: We initiated the Phase Ib/II trial to
+ CD47-targeted drug candidates
+ IMM01 in combination with tislelizumab: We initiated the Phase Ib/II trial to
 evaluate IMM01 in combination with tislelizumab for the treatment of various
 advanced solid tumors that failed to respond to or relapsed from the standard of
 care such as PD-1/PD-L1 inhibitors, including among others, NSCLC, SCLC,
 HNSCC and CRC in May 2022. We expect to initiate a pivotal trial in the fourth
 quarter of 2024.
-(cid:129) IMM2902 (CD47×HER2): We initiated a Phase Ia/Ib trial for IMM2902 in
+ IMM2902 (CD47×HER2): We initiated a Phase Ia/Ib trial for IMM2902 in
 advanced HER2-positive and HER2-low expressing solid tumors, including BC,
 GC, NSCLC and BTC, in China in February 2022. Based on an IND approval for
 IMM2902 in HER2-positive and HER2-low expressing solid tumors granted by the
@@ -14035,7 +14035,7 @@ FDA in August 2021, we have also initiated the clinical trial for advanced
 HER2-positive and HER2-low expressing solid tumors in the U.S. with the first
 patient dosed in June 2022. We expect to largely complete the Phase Ia trials in
 China and the U.S. in 2023.
-(cid:129) IMM2520 (CD47×PD-L1): We have obtained IND approvals for IMM2520 from
+ IMM2520 (CD47×PD-L1): We have obtained IND approvals for IMM2520 from
 the NMPA in November 2022 and from the FDA in December 2022, and dosed the
 first patient for the Phase I clinical trial in China in March 2023. With further
 clinical validation from the Phase I trial in China, the Company will carefully
@@ -14043,15 +14043,15 @@ decide whether to proceed with a clinical trial or explore potential collaborati
 opportunities in the U.S. We will particularly focus on the solid tumors generally
 resistant or not sensitive to the currently available immunotherapies, such as CRC,
 GC, lung cancer and HNSCC, among others.
-(cid:129) CD24-targeted drug candidates
-(cid:129) IMM47 (CD24 mAb): We expect to file IND applications for IMM47 with the
+ CD24-targeted drug candidates
+ IMM47 (CD24 mAb): We expect to file IND applications for IMM47 with the
 NMPA and the FDA for the treatment of solid tumors in 2023, and initiate a Phase
 I dose-escalation study in Australia in August 2023. Initiating a clinical trial in
 Australia first can help us to begin global clinical trials earlier and accelerate
 clinical validation of IMM47. Additionally, we believe Australian trial can generate
 valuable clinical data on ethnically diverse populations, thus enhancing our ability
 to pursue collaboration opportunities with global pharmaceutical companies.
-(cid:129) IMM4701 (CD47×CD24): Further leveraging the data observed from IMM47, we
+ IMM4701 (CD47×CD24): Further leveraging the data observed from IMM47, we
 expect to file IND applications for IMM4701 with the NMPA and the FDA for the
 treatment of solid tumors, and further seek collaboration opportunities with global
 pharmaceutical companies.
@@ -14059,14 +14059,14 @@ pharmaceutical companies.
 
 === PAGE 258 ===
 BUSINESS
-(cid:129) Adaptive immune checkpoint-targeted drug candidates
-(cid:129) IMM2510 (VEGF×PD-L1): We received the IND approval for IMM2510 from the
+ Adaptive immune checkpoint-targeted drug candidates
+ IMM2510 (VEGF×PD-L1): We received the IND approval for IMM2510 from the
 NMPA in December 2020. We commenced the Phase I dose-escalation trial for
 IMM2510 in China in August 2021 for the treatment of a variety of advanced solid
 tumors, including but not limited to, HCC, RCC, GC, NSCLC and STS. We expect
 to complete this dose-escalation study in the third quarter of 2023, and
 subsequently commence a cohort-expansion study.
-(cid:129) IMM27M (CTLA4 ADCC+): We obtained the IND approval for IMM27M from
+ IMM27M (CTLA4 ADCC+): We obtained the IND approval for IMM27M from
 NMPA in November 2021 have commenced the Phase I clinical trial in solid
 tumors, with the first patient dosed in June 2022. We expect to complete this trial
 in the third quarter of 2023. We received an IND approval from the NMPA for a
@@ -14074,7 +14074,7 @@ Phase Ib/II study to evaluate the combination of IMM27M and a PD-1 antibody for
 the treatment of advanced solid tumors, such as RCC, NSCLC, GC and TC, in
 March 2023. We may initiate clinical trials or explore collaboration opportunities
 for this combination therapy.
-(cid:129) IMM40H (CD70): We have obtained IND approvals for IMM40H from the NMPA
+ IMM40H (CD70): We have obtained IND approvals for IMM40H from the NMPA
 and the FDA in August 2022, and may initiate Phase I clinical studies or pursue
 potential collaboration opportunities.
 Upon obtaining supportive clinical evidence from our ongoing trials in patients with cancers
@@ -14931,14 +14931,14 @@ TTI-622 (Pfizer) SIRPαFc IgG4 No 2018.5 Yes AML, MM, Lymphoma, OC Ph II (combo)
 CC-90002 Celgene (BMS) mAb IgG4 Yes 2015.2 No AML, MDS, MM, NHL, Solid tumor (Partial Susp P e h n s I i ( o c n o m by b o th ) e Company)
 SRF231 O S n u c r o fa lo c g e y mAb IgG4 Yes 2018.4 No Ad H v e a m nc a e to d l o S g o ic li d C C an a c n e c r e s rs, (Suspens P io h n I b ( y m t o h n e o C ) ompany)
 (E A vo L r X p - a 1 c 4 e 8 pt) ALX Oncology SIRPαFc Fc Ig (I G ne 1 rt) Yes 2017.1 No AML, MDS, NHL, Solid Tumor Ph II/III (combo)
-SHR1603 He (cid:1737) ng (cid:2294) Rui mAb IgG4 Yes 2018.10 No Advanced Malignancies, Lymphoma (Suspens P io h n I b ( y m t o h n e o C ) ompany)
+SHR1603 He ng Rui mAb IgG4 Yes 2018.10 No Advanced Malignancies, Lymphoma (Suspens P io h n I b ( y m t o h n e o C ) ompany)
 AO-176 Arch Oncology mAb IgG2 Minimal 2019.2 No M P M ro , s G ta C te , N C C S a a C n rc c L i e C n r o , , m H En N a d S o C m C e , t r O ia C l , (Suspen P s h io I n /I I b ( y c o th m e b C o o ) mpany)
-(Le I t B ap I1 li 8 m 8 ab) (cid:1170) Inn (cid:24789) o (cid:2303) ve (cid:2258) nt mAb IgG4 Yes 2018.11 No AML, MDS, Lymphoma, Solid Tumor (Partial Su P sp h e I n b s /I i I o I n (c b o y m t b h o e ) Company)
-(Lem T z J o b C p ) a 4 rlima I-Ma / b A b (cid:1502) bV (cid:1483) ie (cid:2303)(cid:2258) mAb IgG4 Minimal 2019.5 No Ly A m M p L h , o M m D a, S A , d M v M an , c C e D d 2 S 0 o P lid o s T it u iv m e o r (Partial Sus P pe h n I s II i o (c n o b m y b t o h ) e Company)
-IMM01 Im (cid:1558) mu (cid:1954) n (cid:1952) eO (cid:2400) nco SIRPαFc IgG1 No 2019.9 Yes MDS, AML, CM T M um L, or HL, NHL, Solid Ph II (combo)12
+(Le I t B ap I1 li 8 m 8 ab) Inn o ve nt mAb IgG4 Yes 2018.11 No AML, MDS, Lymphoma, Solid Tumor (Partial Su P sp h e I n b s /I i I o I n (c b o y m t b h o e ) Company)
+(Lem T z J o b C p ) a 4 rlima I-Ma / b A b bV ie mAb IgG4 Minimal 2019.5 No Ly A m M p L h , o M m D a, S A , d M v M an , c C e D d 2 S 0 o P lid o s T it u iv m e o r (Partial Sus P pe h n I s II i o (c n o b m y b t o h ) e Company)
+IMM01 Im mu n eO nco SIRPαFc IgG1 No 2019.9 Yes MDS, AML, CM T M um L, or HL, NHL, Solid Ph II (combo)12
 Akesobio AML, MDS, Lymphoma, TNBC,
 AK117 mAb IgG4 Minimal 2020.4 No HNSCC, NSCLC, SCLC, OC, CRC, Ph II (combo)
-(cid:1673)(cid:1936)(cid:2303)(cid:2258) HCC
+ HCC
 Notes: (1) Denotes the indications targeted by either combination therapy or monotherapy of each drug candidate. Most
 drug candidates listed in this table are developed primarily through combination strategies rather than as a
 monotherapy. (2) Denotes the latest clinical development stage of each drug candidate considering its monotherapy
@@ -17432,7 +17432,7 @@ pharmacodynamic (PD), and toxicity in animals. Leveraging our drug discovery and
 development capabilities, we are developing 14 drug candidates at various stages. These in-house
 developed drug candidates all have the potential to be either first-in-class or best-in-class drugs if
 successfully advanced to the market:
-(cid:129) mAb-Trap bispecific platform: Guided by our insights in tumor biology and immunology
+ mAb-Trap bispecific platform: Guided by our insights in tumor biology and immunology
 and our “DbD” concept, we have built the mAb-Trap bispecific platform, which is best
 suited for the targets we have selected, to effectively facilitate our science-driven drug
 design and development. Leveraging this mAb-Trap platform, we have constructed a
@@ -17448,19 +17448,19 @@ BUSINESS
 manufacturing techniques more feasible. The average protein yield for IMM0306,
 IMM2902, and IMM2520 ranges from 3.8g/L to 4.6g/L, much higher than the industry
 average for bispecific molecules of 1.0g/L to 3.0g/L.
-(cid:129) hybridoma technology: With proprietary hybridoma technology and know-how, we can
+ hybridoma technology: With proprietary hybridoma technology and know-how, we can
 effectively accomplish the immunization of mice with particular target antigens and
 efficiently identify and optimize antibody fragments with higher specificity, affinity and
 other required properties for respective targets. We are currently using this hybridoma
 technology to screen therapeutic monoclonal antibodies for several new targets, for
 which no drug has yet been approved globally;
-(cid:129) high-throughput screening: Utilizing our high-throughput screening technology, we have
+ high-throughput screening: Utilizing our high-throughput screening technology, we have
 identified molecules that have desirable characteristics for further cost-efficient
 development. This allows us to rapidly advance our assets to the preclinical and clinical
 evaluation stage and accelerate the drug development process. IMM40H and IMM47 are
 two excellent examples of using our hybridoma technology and high-throughput
 screening for antibody drug development;
-(cid:129) immunoassay and bioassay technology: Our well-established comprehensive
+ immunoassay and bioassay technology: Our well-established comprehensive
 immunoassay and bioassay technology includes, among others, an assay of ADCC,
 CDC, and ADCP, Jurkat-CVR (Chimeric VEGF Receptor) cell line used for bioassay of
 VEGF/VEGFR-targeted drug development, Jurkat-CPR (Chimeric PD-1 Receptor) cell
@@ -17592,16 +17592,16 @@ the data integrity.
 === PAGE 320 ===
 BUSINESS
 Below is a summary of the key terms of an agreement we typically enter into with our CROs:
-(cid:129) Services. The CRO provides the high-quality services to us, including the
+ Services. The CRO provides the high-quality services to us, including the
 implementation and management of a preclinical or clinical research project as specified
 in the agreement.
-(cid:129) Term. The CRO is required to perform its services and complete the preclinical or
+ Term. The CRO is required to perform its services and complete the preclinical or
 clinical research project within the prescribed time limit set out in each agreement.
-(cid:129) Payments. We are required to make payments to the CRO in accordance with the
+ Payments. We are required to make payments to the CRO in accordance with the
 payment schedule agreed by the parties.
-(cid:129) Intellectual property rights. We own all intellectual property rights arising from the
+ Intellectual property rights. We own all intellectual property rights arising from the
 preclinical or clinical research project.
-(cid:129) Risk allocation. Each party should indemnify the other party for losses caused by its
+ Risk allocation. Each party should indemnify the other party for losses caused by its
 fault or gross negligence.
 COMMERCIALIZATION
 As of the Latest Practicable Date, we did not have our internal sales and marketing team. We
@@ -18516,15 +18516,15 @@ future business expansion thoroughly and prudently with a view of balancing busi
 environmental protection to achieve sustainable development. We will also review our KPIs on a
 yearly basis to ensure that they remain appropriate to our Group. Set forth below are our major
 KPIs during the Track Record Period:
-(cid:129) Hazardous waste disposal. We have monitored our hazardous waste disposal levels on a
+ Hazardous waste disposal. We have monitored our hazardous waste disposal levels on a
 periodic basis. For 2021, 2022 and the four months ended April 30, 2023, our hazardous
 waste discharge levels were approximately 6.1 tons, 5.6 tons and 1.5 tons, respectively,
 and such waste was disposed by qualified third parties.
-(cid:129) Electricity consumption. We have monitored our electricity consumption levels and
+ Electricity consumption. We have monitored our electricity consumption levels and
 implement measures to improve energy efficiency. For 2021, 2022 and the four months
 ended April 30, 2023, our electricity consumption levels were approximately 2.2 million
 kWh, 2.7 million kWh and 0.5 million kWh, respectively.
-(cid:129) Water consumption. We have monitored our water consumption levels and implement
+ Water consumption. We have monitored our water consumption levels and implement
 measures to promote water conservation. For 2021, 2022 and the four months ended
 April 30, 2023, our water consumption levels were approximately 4,971 tons, 5,068 tons
 and 982 tons, respectively.
@@ -18715,7 +18715,7 @@ Company and reported to our Directors. Our audit committee, and ultimately our D
 supervise the implementation of our risk management policies.
 The following key principles outline our Group’s approach to risk management and internal
 control:
-(cid:129) Our audit committee will oversee the implementation of, as well as evaluate and
+ Our audit committee will oversee the implementation of, as well as evaluate and
 improve the internal control system, including (i) reviewing the internal control and risk
 management policies, and making suggestions to improve the same; (ii) discussing with
 the management and evaluating the effectiveness of the internal control and risk
@@ -18725,12 +18725,12 @@ material findings in relation to internal control and the relevant measures take
 management; and (iv) overseeing any potential misconduct of the employees with
 respect to internal control, and establishing relevant procedures to investigate and
 handle the complaints of the same and of the internal control of the Company.
-(cid:129) Our Board will be responsible for (i) formulating our risk management policy and
+ Our Board will be responsible for (i) formulating our risk management policy and
 reviewing major risk management issues of our Company; (ii) providing guidance on
 our risk management approach to the relevant teams in our Company; (iii) reviewing the
 relevant teams’ reporting on key risks and providing feedbacks; and (vi) supervising the
 implementation of our risk management measures by the relevant teams.
-(cid:129) The relevant teams in our Company are responsible for implementing our risk
+ The relevant teams in our Company are responsible for implementing our risk
 management policy and carrying out our day-to-day risk management practice. In order
 to formalize risk management across our Company and set a common level of
 transparency and risk management performance, the relevant teams will (i) gather
@@ -18766,21 +18766,21 @@ control.
 During the Track Record Period, we regularly reviewed and enhanced our internal control
 system. Below is a summary of the internal control policies, measures and procedures we have
 implemented or plan to implement:
-(cid:129) We have adopted various measures and procedures regarding each aspect of our business
+ We have adopted various measures and procedures regarding each aspect of our business
 operation, such as related party transaction, risk management, protection of intellectual
 property, environmental protection and occupational health and safety. We provide
 periodic training about these measures and procedures to our employees as part of our
 employee training program. Our internal audit team conducts audit fieldwork to monitor
 the implementation of our internal control policies, reports the weakness identified to
 our management and audit committee and follows up on the rectification actions.
-(cid:129) Our Directors (who are responsible for monitoring the corporate governance of our
+ Our Directors (who are responsible for monitoring the corporate governance of our
 Group) with help from our legal advisors, will also periodically review our compliance
 status with all relevant laws and regulations after the Global Offering.
-(cid:129) We have established an audit committee which, among others, (i) makes
+ We have established an audit committee which, among others, (i) makes
 recommendations to our Board of Directors on the appointment and removal of external
 auditors; and (ii) reviews the financial statements and internal control system of our
 Company.
-(cid:129) We plan to provide various and continuing trainings to update our Directors, senior
+ We plan to provide various and continuing trainings to update our Directors, senior
 management, and relevant employees on the latest PRC laws and regulations from time
 to time with a view to proactively identify any concerns and issues relating to any
 potential non-compliance.
@@ -20056,30 +20056,30 @@ Code. The Audit Committee consists of three Directors, namely Dr. Xu Cong, Dr. Z
 and Mr. Yeung Chi Tat. Mr. Yeung Chi Tat who holds the appropriate professional qualifications as
 required under Rules 3.10(2) and 3.21 of the Listing Rules, serves as the chairman of the Audit
 Committee. The primary duties of the Audit Committee include, but not limited to, the following:
-(cid:129) proposing the appointment or change of external auditors to our Board, and monitoring
+ proposing the appointment or change of external auditors to our Board, and monitoring
 the independence of external auditors and evaluating their performance;
-(cid:129) examining the financial information of our Company and reviewing financial reports and
+ examining the financial information of our Company and reviewing financial reports and
 statements of our Company;
-(cid:129) examining the financial reporting system, the risk management and internal control
+ examining the financial reporting system, the risk management and internal control
 system of our Company, overseeing their rationality, efficiency and implementation and
 making recommendations to our Board; and
-(cid:129) dealing with other matters that are authorized by the Board.
+ dealing with other matters that are authorized by the Board.
 Nomination Committee
 We have established a Nomination Committee with written terms of reference in compliance
 with paragraph A.5 of the Corporate Governance Code. The Nomination Committee consists of
 three Directors, namely Dr. Tian, Dr. Zhenping Zhu and Mr. Yeung Chi Tat. Dr. Tian serves as the
 chairman of the Nomination Committee. The primary duties of the Nomination Committee include,
 but not limited to, the following:
-(cid:129) conducting extensive search and providing to our Board suitable candidates for our
+ conducting extensive search and providing to our Board suitable candidates for our
 Directors, general managers and other members of the senior management;
-(cid:129) reviewing the structure, size and composition of our Board (including but not limited to,
+ reviewing the structure, size and composition of our Board (including but not limited to,
 gender, age, cultural and educational background, ethnicity, skills, knowledge and
 experience) at least annually and make recommendations on any proposed changes to
 the Board to complement our Company’s corporate strategy;
-(cid:129) researching and developing standards and procedures for the election of our Board
+ researching and developing standards and procedures for the election of our Board
 members, general managers and members of the senior management, and making
 recommendations to our Board; and
-(cid:129) dealing with other matters that are authorized by our Board.
+ dealing with other matters that are authorized by our Board.
 Remuneration Committee
 We have established a Remuneration Committee with written terms of reference in
 compliance with paragraph B.1 of the Corporate Governance Code. The Remuneration Committee
@@ -20087,17 +20087,17 @@ consists of five Directors, namely Dr. Tian, Dr. Zhenping Zhu, Mr. Yeung Chi Tat
 and Dr. Kendall Arthur Smith. Dr. Zhenping Zhu serves as the chairman of the Remuneration
 Committee. The primary duties of the Remuneration Committee include, but not limited to, the
 following:
-(cid:129) advising our Board on the overall remuneration plan and structure of our Directors and
+ advising our Board on the overall remuneration plan and structure of our Directors and
 senior management and the establishment of transparent and formal procedures for
 determining remuneration policy of our Company;
 – 361 –
 
 === PAGE 371 ===
 DIRECTORS, SUPERVISORS AND SENIOR MANAGEMENT
-(cid:129) monitoring the implementation of remuneration system of our Company;
-(cid:129) making recommendations on the remuneration packages of our Directors and senior
+ monitoring the implementation of remuneration system of our Company;
+ making recommendations on the remuneration packages of our Directors and senior
 management; and
-(cid:129) other duties conferred by our Board.
+ other duties conferred by our Board.
 COMPETITION
 Each of our Directors confirms that as of the Latest Practicable Date, he or she did not have
 any interest in a business which competes or is likely to compete, directly or indirectly, with our
@@ -20363,11 +20363,11 @@ In addition, for financial reporting purposes, fair value measurements are categ
 Level 1, 2 or 3 based on the degree to which the inputs to the fair value measurements are
 observable and the significance of the inputs to the fair value measurement in its entirety, which
 are described as follows:
-(cid:129) Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or
+ Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or
 liabilities that the entity can access at the measurement date;
-(cid:129) Level 2 inputs are inputs, other than quoted prices included within Level 1, that are
+ Level 2 inputs are inputs, other than quoted prices included within Level 1, that are
 observable for the asset or liability, either directly or indirectly; and
-(cid:129) Level 3 inputs are unobservable inputs for the asset or liability.
+ Level 3 inputs are unobservable inputs for the asset or liability.
 Our most critical accounting policies are summarized below. See note 4 to the Accountants’
 Report set out in Appendix IA to this prospectus for a full description of our significant accounting
 policies.
@@ -20380,23 +20380,23 @@ is distinct or a series of distinct goods or services that are substantially the
 Except for granting of a license that is distinct from other promised goods or services, control
 is transferred over time and revenue is recognized over time by reference to the progress towards
 complete satisfaction of the relevant performance obligation if one of the following criteria is met:
-(cid:129) the customer simultaneously receives and consumes the benefits provided by our
+ the customer simultaneously receives and consumes the benefits provided by our
 performance as we perform;
-(cid:129) our performance creates or enhances an asset that the customer controls as we perform;
+ our performance creates or enhances an asset that the customer controls as we perform;
 or
-(cid:129) our performance does not create an asset with an alternative use to us and we have an
+ our performance does not create an asset with an alternative use to us and we have an
 enforceable right to payment for performance completed to date.
 Otherwise, revenue is recognized at a point in time when the customer obtains control of the
 distinct good or service.
 For granting of a license that is distinct from other promised goods or services, the nature of
 our promise in granting a license is a promise to provide a right to access our intellectual property
 if all of the following criteria are met:
-(cid:129) the contract requires, or the customer reasonably expects, that we will undertake
+ the contract requires, or the customer reasonably expects, that we will undertake
 activities that significantly affect the intellectual property to which the customer has
 rights;
-(cid:129) the rights granted by the license directly expose the customer to any positive or negative
+ the rights granted by the license directly expose the customer to any positive or negative
 effects of our activities; and
-(cid:129) those activities do not result in the transfer of a good or a service to the customer as
+ those activities do not result in the transfer of a good or a service to the customer as
 those activities occur.
 – 368 –
 
@@ -20430,8 +20430,8 @@ circumstances during the reporting period.
 Notwithstanding the above criteria, we shall recognize revenue for a sales-based or
 usage-based royalty promised in exchange for a license of intellectual property only when (or as)
 the later of the following events occurs:
-(cid:129) the subsequent sale or usage occurs; and
-(cid:129) the performance obligation to which some or all of the sales-based or usage-based
+ the subsequent sale or usage occurs; and
+ the performance obligation to which some or all of the sales-based or usage-based
 royalty has been allocated has been satisfied (or partially satisfied).
 Leases
 Definition of a lease
@@ -20451,12 +20451,12 @@ present value of lease payments that are unpaid at that date. In calculating the
 lease payments, we use the incremental borrowing rate at the lease commencement date if the
 interest rate implicit in the lease is not readily determinable.
 The lease payments include:
-(cid:129) fixed payments (including in-substance fixed payments) less any lease incentives
+ fixed payments (including in-substance fixed payments) less any lease incentives
 receivable;
-(cid:129) amounts expected to be paid under residual value guarantees;
-(cid:129) the exercise price of a purchase option if we are reasonably certain to exercise the
+ amounts expected to be paid under residual value guarantees;
+ the exercise price of a purchase option if we are reasonably certain to exercise the
 option; and
-(cid:129) payments of penalties for terminating a lease, if the lease term reflects us exercising the
+ payments of penalties for terminating a lease, if the lease term reflects us exercising the
 option to terminate the lease.
 After the commencement date, lease liabilities are adjusted by interest accretion and lease
 payments.
@@ -20508,13 +20508,13 @@ Financial liabilities at FVTPL
 Financial liabilities are classified as at FVTPL when the financial liability is designated as at
 FVTPL.
 A financial liability may be designated as at FVTPL upon initial recognition if:
-(cid:129) such designation eliminates or significantly reduces a measurement or recognition
+ such designation eliminates or significantly reduces a measurement or recognition
 inconsistency that would otherwise arise; or
-(cid:129) the financial liability forms part of a group of financial assets or financial liabilities or
+ the financial liability forms part of a group of financial assets or financial liabilities or
 both, which is managed and its performance is evaluated on a fair value basis, in
 accordance with our documented risk management or investment strategy, and
 information about the grouping is provided internally on that basis; or
-(cid:129) it forms part of a contract containing one or more embedded derivatives, and IFRS 9
+ it forms part of a contract containing one or more embedded derivatives, and IFRS 9
 permits the entire combined contract to be designated as at FVTPL.
 For financial liabilities that are designated as at FVTPL, the amount of change in the fair
 value of the financial liability that is attributable to changes in the credit risk of that liability is
@@ -22190,18 +22190,18 @@ comprehensive expenses of RMB211.7 million and RMB170.7 million, respectively. O
 comprehensive expenses mainly resulted from research and development expenses and
 administrative expenses.
 Moving forward, we plan to focus on the following key strategies for our business:
-(cid:129) To advance the development of our drug candidates to unleash their therapeutic potential
+ To advance the development of our drug candidates to unleash their therapeutic potential
 and address significant unmet medical needs.
-(cid:129) To expand our global footprint and maximize the clinical and commercial value of our
+ To expand our global footprint and maximize the clinical and commercial value of our
 drug candidates through global clinical trials and accretive partnerships.
-(cid:129) To continuously enrich our innovative pipeline through fundamental biological research
+ To continuously enrich our innovative pipeline through fundamental biological research
 and translational medicine.
-(cid:129) To upscale our GMP-compliant manufacturing capacity.
+ To upscale our GMP-compliant manufacturing capacity.
 – 406 –
 
 === PAGE 416 ===
 FINANCIAL INFORMATION
-(cid:129) To enlarge our talent pool to support our continuous growth.
+ To enlarge our talent pool to support our continuous growth.
 See “Business — Our Strategies” and “Future Plans and Use of Proceeds” for further details.
 DISCLOSURE UNDER RULES 13.13 TO 13.19 OF THE LISTING RULES
 Our Directors have confirmed that, as of the Latest Practicable Date, there was no
@@ -22942,7 +22942,7 @@ the effect of increasing the number of Offer Shares under the Hong Kong Public O
 certain percentage of the total number of Offer Shares offered under the Global Offering if the
 International Offer Shares are fully subscribed or oversubscribed and certain prescribed total
 demand levels are reached as further described below:
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public Offering
+ if the number of Offer Shares validly applied for under the Hong Kong Public Offering
 represents 15 times or more but less than 50 times the number of Offer Shares initially
 available for subscription under the Hong Kong Public Offering, then Offer Shares will
 be reallocated to the Hong Kong Public Offering from the International Offering so that
@@ -22953,14 +22953,14 @@ STRUCTURE OF THE GLOBAL OFFERING
 the total number of Offer Shares available under the Hong Kong Public Offering will be
 5,144,200 Offer Shares, representing approximately 30% of the Offer Shares initially
 available under the Global Offering;
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public Offering
+ if the number of Offer Shares validly applied for under the Hong Kong Public Offering
 represents 50 times or more but less than 100 times the number of Offer Shares initially
 available for subscription under the Hong Kong Public Offering, then the number of
 Offer Shares to be reallocated to the Hong Kong Public Offering from the International
 Offering will be increased so that the total number of Offer Shares available under the
 Hong Kong Public Offering will be 6,859,000 Offer Shares, representing approximately
 40% of the Offer Shares initially available under the Global Offering; and
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public Offering
+ if the number of Offer Shares validly applied for under the Hong Kong Public Offering
 represents 100 times or more the number of Offer Shares initially available for
 subscription under the Hong Kong Public Offering, then the number of Offer Shares to
 be reallocated to the Hong Kong Public Offering from the International Offering will be
@@ -23354,11 +23354,11 @@ discretion.
 Eligibility for the Application
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you are
 applying:
-(cid:129) are 18 years of age or older;
-(cid:129) have a Hong Kong address;
-(cid:129) are outside the United States, and are not a United States Person (as defined in
+ are 18 years of age or older;
+ have a Hong Kong address;
+ are outside the United States, and are not a United States Person (as defined in
 Regulation S under the U.S. Securities Act); and
-(cid:129) are not a legal or natural person of the PRC.
+ are not a legal or natural person of the PRC.
 If an application is made by a person under a power of attorney, the Overall Coordinators
 may accept it at their discretion and on any conditions they think fit, including evidence of the
 attorney’s authority.
@@ -23366,24 +23366,24 @@ The number of joint applicants may not exceed four and they may not apply by mea
 White Form eIPO service for the Hong Kong Offer Shares.
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Offer Shares if
 you are:
-(cid:129) an existing beneficial owner of Shares in the Company and/or any its subsidiaries;
-(cid:129) a Director, a Supervisor or the chief executive officer of the Company and/or any of its
+ an existing beneficial owner of Shares in the Company and/or any its subsidiaries;
+ a Director, a Supervisor or the chief executive officer of the Company and/or any of its
 subsidiaries;
-(cid:129) a close associate (as defined in the Listing Rules) of any of the above;
+ a close associate (as defined in the Listing Rules) of any of the above;
 – 432 –
 
 === PAGE 442 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) a connected person (as defined in the Listing Rules) of the Company or will become a
+ a connected person (as defined in the Listing Rules) of the Company or will become a
 connected person of the Company immediately upon completion of the Global Offering;
 and/or
-(cid:129) have been allocated or have applied for any International Offer Shares or otherwise
+ have been allocated or have applied for any International Offer Shares or otherwise
 participate in the International Offering.
 Items Required for the Application
 If you apply for Hong Kong Offer Shares online through the White Form eIPO service, you
 must:
-(cid:129) have a valid Hong Kong identity card number; and
-(cid:129) provide a valid e-mail address and a contact telephone number.
+ have a valid Hong Kong identity card number; and
+ provide a valid e-mail address and a contact telephone number.
 If you are applying for the Hong Kong Offer Shares online by instructing your broker or
 custodian who is a CCASS Clearing Participant or a CCASS Custodian Participant to give
 electronic application instructions via CCASS terminals, please contact them for the items
@@ -23573,48 +23573,48 @@ or custodian or directly) and an application is made by HKSCC Nominees on your b
 (i) HKSCC Nominees will only be acting as a nominee for you and is not liable for any
 breach of the terms and conditions of this prospectus;
 (ii) HKSCC Nominees will do the following things on your behalf:
-(cid:129) agree that the Hong Kong Offer Shares to be allotted shall be issued in the name of
+ agree that the Hong Kong Offer Shares to be allotted shall be issued in the name of
 HKSCC Nominees and deposited directly into CCASS for the credit of the CCASS
 Participant’s stock account on your behalf or your CCASS Investor Participant’s
 stock account;
-(cid:129) agree to accept the Hong Kong Offer Shares applied for or any lesser number
+ agree to accept the Hong Kong Offer Shares applied for or any lesser number
 allocated;
-(cid:129) undertake and confirm that you have not applied for or taken up or indicated an
+ undertake and confirm that you have not applied for or taken up or indicated an
 interest for, and will not apply for or take up, or indicate an interest for, any
 International Offer Shares under the International Offering nor participated in the
 International Offering;
-(cid:129) (if the electronic application instructions are given for your benefit) declare that
+ (if the electronic application instructions are given for your benefit) declare that
 only one set of electronic application instructions has been given for your
 benefit;
-(cid:129) (if you are an agent for another person) declare that you have only given one set of
+ (if you are an agent for another person) declare that you have only given one set of
 electronic application instructions for the other person’s benefit and are duly
 authorized to give those instructions as their agent;
 – 437 –
 
 === PAGE 447 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) confirm that you understand that the Company, the Directors and the Overall
+ confirm that you understand that the Company, the Directors and the Overall
 Coordinators will rely on your declarations and representations in deciding whether
 or not to make any allotment of any of the Hong Kong Offer Shares to you and
 that you may be prosecuted if you make a false declaration;
-(cid:129) authorize the Company to place HKSCC Nominees’ name on the Company’s H
+ authorize the Company to place HKSCC Nominees’ name on the Company’s H
 Share register as the holder of the Hong Kong Offer Shares allocated to you and to
 send H Share certificate(s) and/or refund monies under the arrangements separately
 agreed between us and HKSCC;
-(cid:129) confirm that you have read the terms and conditions and application procedures set
+ confirm that you have read the terms and conditions and application procedures set
 out in this prospectus and agree to be bound by them;
-(cid:129) confirm that you have received and/or read a copy of this prospectus and have
+ confirm that you have received and/or read a copy of this prospectus and have
 relied only on the information and representations in this prospectus in causing he
 application to be made, save as set out in any supplement to this prospectus;
-(cid:129) agree that none of the Company and Relevant Persons, is or will be liable for any
+ agree that none of the Company and Relevant Persons, is or will be liable for any
 information and representations not contained in this prospectus (and any
 supplement to it);
-(cid:129) agree to disclose your personal data to the Company, our H Share Registrar,
+ agree to disclose your personal data to the Company, our H Share Registrar,
 receiving banks and Relevant Persons;
-(cid:129) agree (without prejudice to any other rights which you may have) that once
+ agree (without prejudice to any other rights which you may have) that once
 HKSCC Nominees’ application has been accepted, it cannot be rescinded for
 innocent misrepresentation;
-(cid:129) agree that any application made by HKSCC Nominees on your behalf is
+ agree that any application made by HKSCC Nominees on your behalf is
 irrevocable before the fifth day after the time of the opening of the application lists
 (excluding any day which is Saturday, Sunday or public holiday in Hong Kong),
 such agreement to take effect as a collateral contract with us and to become
@@ -23629,11 +23629,11 @@ purpose any day which is a Saturday, Sunday or public holiday in Hong Kong) if a
 person responsible for this prospectus under Section 40 of the Companies (Winding
 Up and Miscellaneous Provisions) Ordinance gives a public notice under that
 section which excludes or limits that person’s responsibility for this prospectus;
-(cid:129) agree that once HKSCC Nominees’ application is accepted, neither that application
+ agree that once HKSCC Nominees’ application is accepted, neither that application
 nor your electronic application instructions can be revoked, and that acceptance
 of that application will be evidenced by the Company’s announcement of the Hong
 Kong Public Offering results;
-(cid:129) agree to the arrangements, undertakings and warranties under the participant
+ agree to the arrangements, undertakings and warranties under the participant
 agreement between you and HKSCC, read with the General Rules of CCASS and
 the CCASS Operational Procedures, for the giving electronic application
 instructions to apply for Hong Kong Offer Shares;
@@ -23641,14 +23641,14 @@ instructions to apply for Hong Kong Offer Shares;
 
 === PAGE 448 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree with the Company, for itself and for the benefit of each Shareholder (and so
+ agree with the Company, for itself and for the benefit of each Shareholder (and so
 that the Company will be deemed by its acceptance in whole or in part of the
 application by HKSCC Nominees to have agreed, for itself and on behalf of each
 of the Shareholders, with each CCASS Participant giving electronic application
 instructions) to observe and comply with the Companies Ordinance, the
 Companies (Winding Up and Miscellaneous Provisions) Ordinance and the Articles
 of Association;
-(cid:129) agree with the Company, for itself and for the benefit of each shareholder of the
+ agree with the Company, for itself and for the benefit of each shareholder of the
 Company and each director, supervisor, manager and other senior officer of the
 Company (and so that the Company will be deemed by its acceptance in whole or
 in part of this application to have agreed, for itself and on behalf of each
@@ -23662,24 +23662,24 @@ concerning the affairs of the Company to arbitration;
 (b) that any award made in such arbitration shall be final and conclusive; and
 (c) that the arbitration tribunal may conduct hearings in open sessions and
 publish its award;
-(cid:129) agree with the Company (for the Company itself and for the benefit of each
+ agree with the Company (for the Company itself and for the benefit of each
 shareholder of the Company) that the H Shares are freely transferable by their
 holders;
-(cid:129) authorize the Company to enter into a contract on its behalf with each director and
+ authorize the Company to enter into a contract on its behalf with each director and
 officer of the Company whereby each such director and officer undertakes to
 observe and comply with his obligations to shareholders stipulated in the Articles
 of Association; and
-(cid:129) agree that your application, any acceptance of it and the resulting contract will be
+ agree that your application, any acceptance of it and the resulting contract will be
 governed by the Laws of Hong Kong.
 Effect of Applying through the CCASS EIPO Service
 By applying through the CCASS EIPO service, you (and, if you are joint applicants, each of
 you jointly and severally) are deemed to have done the following things. Neither HKSCC nor
 HKSCC Nominees shall be liable to the Company or any other person in respect of the things
 mentioned below:
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees (acting as nominee for
+ instructed and authorized HKSCC to cause HKSCC Nominees (acting as nominee for
 the relevant CCASS Participants) to apply for the Hong Kong Offer Shares on your
 behalf;
-(cid:129) instructed and authorized HKSCC to arrange payment of the Offer Price, brokerage,
+ instructed and authorized HKSCC to arrange payment of the Offer Price, brokerage,
 SFC transaction levy, the Stock Exchange trading fee and AFRC transaction levy by
 debiting your designated bank account and, in the case of a wholly or partially
 unsuccessful application, refund of the application monies (including brokerage, SFC
@@ -23689,7 +23689,7 @@ crediting your designated bank account; and
 
 === PAGE 449 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees to do on your behalf all
+ instructed and authorized HKSCC to cause HKSCC Nominees to do on your behalf all
 the things stated in this prospectus.
 Time for Inputting Electronic Application Instructions1
 CCASS Clearing/Custodian Participants can input electronic application instructions at the
@@ -23756,20 +23756,20 @@ H Share Registrar immediately of any inaccuracies in the personal data supplied.
 Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for the
 following purposes:
-(cid:129) processing your application and refund check, where applicable, verification of
+ processing your application and refund check, where applicable, verification of
 compliance with the terms and application procedures set out in this prospectus and
 announcing results of allocation of the Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the
 Company’s Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the Company’s Register of Member;
-(cid:129) verifying identities of the holders of the Company’s Shares;
-(cid:129) establishing benefit entitlements of holders of the Company’s Shares, such as dividends,
+ maintaining or updating the Company’s Register of Member;
+ verifying identities of the holders of the Company’s Shares;
+ establishing benefit entitlements of holders of the Company’s Shares, such as dividends,
 rights issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Company’s Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable the
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Company’s Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to enable the
 Company and the H Share Registrar to discharge their obligations to holders of the
 Company’s Shares and/or regulators and/or any other purposes to which the securities’
 holder may from time to time agree.
@@ -23782,17 +23782,17 @@ Personal data held by the Company and its H Share Registrar relating to the hold
 Hong Kong Offer Shares will be kept confidential but the Company and its H Share Registrar may,
 to the extent necessary for achieving any of the above purposes, disclose, obtain or transfer
 (whether within or outside Hong Kong) the personal data, to from or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving banks and
+ the Company’s appointed agents such as financial advisers, receiving banks and
 overseas principal share registrar;
-(cid:129) where applicants for the Hong Kong Offer Shares request a deposit into CCASS,
+ where applicants for the Hong Kong Offer Shares request a deposit into CCASS,
 HKSCC or HKSCC Nominees, who will use the personal data for the purposes of
 operating CCASS; any agents, contractors or third-party service providers who offer
 administrative, telecommunications, computer, payment or other services to the
 Company of the H Share Registrar in connection with their respective business
 operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory of governmental bodies
+ the Stock Exchange, the SFC and any other statutory regulatory of governmental bodies
 or otherwise as required by laws, rules or regulations; and
-(cid:129) any persons or institutions with which the holders of the Hong Kong Offer Shares have
+ any persons or institutions with which the holders of the Hong Kong Offer Shares have
 or purpose to have dealings, such as their bankers, solicitors, accountants or
 stockbrokers etc.
 Retention of Personal Data
@@ -23846,15 +23846,15 @@ application. However, any electronic application instructions to make an applica
 Hong Kong Offer Shares given by you or for your benefit to HKSCC will be deemed to be an
 actual application for the purposes of considering whether multiple applications have been made.
 If an application is made by an unlisted company and:
-(cid:129) the principal business of that company is dealing in securities; and
-(cid:129) you exercise statutory control over that company,
+ the principal business of that company is dealing in securities; and
+ you exercise statutory control over that company,
 then the application will be treated as being for your benefit.
 “Unlisted company” means a company with no equity securities listed on the Stock
 Exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) hold more than half of the issued share capital of the company (not counting any part of
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ hold more than half of the issued share capital of the company (not counting any part of
 it which carries no right to participate beyond a specified amount in a distribution of
 either profits or capital).
 9. HOW MUCH ARE THE HONG KONG OFFER SHARES
@@ -23882,9 +23882,9 @@ Global Offering” in this prospectus.
 10. EFFECT OF BAD WEATHER AND/OR EXTREME CONDITIONS ON THE OPENING
 AND CLOSING OF THE APPLICATION LISTS
 The application lists will not open if there is:
-(cid:129) a tropical cyclone warning signal number 8 or above; or
-(cid:129) a “black” rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above; or
+ a “black” rainstorm warning; and/or
+ Extreme Conditions,
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Tuesday, August 29,
 2023. Instead they will open between 11:45 a.m. and 12:00 noon on the next Business Day which
 does not have either of those warnings and/or Extreme Conditions in Hong Kong in force at any
@@ -23902,19 +23902,19 @@ www.hkexnews.hk.
 The results of allocations and the Hong Kong identity card/passport/Hong Kong business
 registration numbers of successful applicants under the Hong Kong Public Offering will be
 available at the times and date and in the manner specified below:
-(cid:129) in the announcement to be posted on the Company’s website at www.immuneonco.com
+ in the announcement to be posted on the Company’s website at www.immuneonco.com
 and the Stock Exchange’s website at www.hkexnews.hk by no later than 8:00 a.m. on
 Monday, September 4, 2023;
 – 444 –
 
 === PAGE 454 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) from the designated results of allocations website at www.iporesults.com.hk
+ from the designated results of allocations website at www.iporesults.com.hk
 (alternatively: English https://www.eipo.com.hk/en/Allotment; Chinese
 https://www.eipo.com.hk/zh-hk/Allotment) with a “search by ID” function on a 24
 hour basis from 8:00 a.m. on Monday, September 4, 2023 to 12:00 midnight on Sunday,
 September 10, 2023; and
-(cid:129) from the allocation results telephone enquiry line by calling +852 2862 8555 between
+ from the allocation results telephone enquiry line by calling +852 2862 8555 between
 9:00 a.m. and 6:00 p.m. on Monday, September 4, 2023, Tuesday, September 5, 2023,
 Wednesday, September 6, 2023 and Thursday, September 7, 2023.
 If the Company accepts your offer to purchase (in whole or in part), which it may do by
@@ -23960,23 +23960,23 @@ only part of any application, without giving any reasons.
 (iii) If the allotment of Hong Kong Offer Shares is void:
 The allotment of Hong Kong Offer Shares will be void if the Listing Committee of the Stock
 Exchange does not grant permission to list the H Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Listing Committee notifies the Company
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Listing Committee notifies the Company
 of that longer period within three weeks of the closing date of the application lists.
 (iv) If:
-(cid:129) you make multiple applications or suspected multiple applications;
-(cid:129) you or the person for whose benefit you are applying have applied for or taken up, or
+ you make multiple applications or suspected multiple applications;
+ you or the person for whose benefit you are applying have applied for or taken up, or
 indicated an interest for, or have been or will be placed or allocated (including
 conditionally and/or provisionally) Hong Kong Offer Shares and International Offer
 Shares;
-(cid:129) your electronic application instructions through the White Form eIPO service are not
+ your electronic application instructions through the White Form eIPO service are not
 completed in accordance with the instructions, terms and conditions on the designated
 website;
-(cid:129) your payment is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) the Company or the Overall Coordinators believe that by accepting your application, it
+ your payment is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ the Company or the Overall Coordinators believe that by accepting your application, it
 or they would violate applicable securities or other laws, rules or regulations; or
-(cid:129) your application is for more than 857,400 Offer Shares, being 50% of the Hong Kong
+ your application is for more than 857,400 Offer Shares, being 50% of the Hong Kong
 Offer Shares initially offered under the Hong Kong Public Offering.
 13. REFUND OF APPLICATION MONIES
 If an application is rejected, not accepted or accepted in part only, or if the conditions of the
@@ -24038,12 +24038,12 @@ applicant.
 === PAGE 457 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 Deposit of H Share Certificates into CCASS and Refund of Application Monies
-(cid:129) If your application is wholly or partially successful, your H Share certificate(s) will be issued
+ If your application is wholly or partially successful, your H Share certificate(s) will be issued
 in the name of HKSCC Nominees and deposited into CCASS for the credit of your
 designated CCASS Participant’s stock account or your CCASS Investor Participant stock
 account on Monday, September 4, 2023, or, on any other date determined by HKSCC or
 HKSCC Nominees.
-(cid:129) The Company expects to publish the application results of CCASS Participants (and where
+ The Company expects to publish the application results of CCASS Participants (and where
 the CCASS Participant is a broker or custodian, the Company will include information
 relating to the relevant beneficial owner), your Hong Kong identity card number/passport
 number or other identification code (Hong Kong business registration number for
@@ -24052,10 +24052,10 @@ specified in “Publication of Results” above on Monday, September 4, 2023. Yo
 the announcement published by the Company and report any discrepancies to HKSCC before
 5:00 p.m. on Monday, September 4, 2023 or such other date as determined by HKSCC or
 HKSCC Nominees.
-(cid:129) If you have instructed your broker or custodian to give electronic application instructions
+ If you have instructed your broker or custodian to give electronic application instructions
 on your behalf, you can also check the number of Hong Kong Offer Shares allotted to you
 and the amount of refund monies (if any) payable to you with that broker or custodian.
-(cid:129) If you have applied as a CCASS Investor Participant, you can also check the number of Hong
+ If you have applied as a CCASS Investor Participant, you can also check the number of Hong
 Kong Offer Shares allotted to you and the amount of refund monies (if any) payable to you
 via the CCASS Phone System and the CCASS Internet System (under the procedures
 contained in HKSCC’s “An Operating Guide for Investor Participants” in effect from time to
@@ -24064,7 +24064,7 @@ Offer Shares to your stock account and the credit of refund monies to your bank 
 HKSCC will also make available to you an activity statement showing the number of Hong
 Kong Offer Shares credited to your CCASS Investor Participant stock account and the
 amount of refund monies (if any) credited to your designated bank account.
-(cid:129) Refund of your application monies (if any) in respect of wholly and partially unsuccessful
+ Refund of your application monies (if any) in respect of wholly and partially unsuccessful
 applications will be credited to your designated bank account or the designated bank account
 of your broker or custodian on Monday, September 4, 2023.
 15. ADMISSION OF THE H SHARES INTO CCASS
@@ -24546,22 +24546,22 @@ In addition, for financial reporting purposes, fair value measurements are categ
 Level 1, 2 or 3 based on the degree to which the inputs to the fair value measurements are
 observable and the significance of the inputs to the fair value measurement in its entirety, which
 are described as follows:
-(cid:129) Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or
+ Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or
 liabilities that the entity can access at the measurement date;
-(cid:129) Level 2 inputs are inputs, other than quoted prices included within Level 1, that are
+ Level 2 inputs are inputs, other than quoted prices included within Level 1, that are
 observable for the asset or liability, either directly or indirectly; and
-(cid:129) Level 3 inputs are unobservable inputs for the asset or liability.
+ Level 3 inputs are unobservable inputs for the asset or liability.
 The principal accounting policies are set out below.
 Basis of consolidation
 The Historical Financial Information incorporate the financial statements of the Company and
 its subsidiaries. Control is achieved when the Company:
-(cid:129) has power over the investee;
+ has power over the investee;
 – IA-11 –
 
 === PAGE 469 ===
 APPENDIX IA ACCOUNTANTS’ REPORT
-(cid:129) is exposed, or has rights, to variable returns from its involvement with the investee; and
-(cid:129) has the ability to use its power to affect its returns.
+ is exposed, or has rights, to variable returns from its involvement with the investee; and
+ has the ability to use its power to affect its returns.
 The Group reassesses whether or not it controls an investee if facts and circumstances
 indicate that there are changes to one or more of the three elements of control listed above.
 Consolidation of a subsidiary begins when the Group obtains control over the subsidiary and
@@ -24586,11 +24586,11 @@ Except for granting of a license that is distinct from other promised goods or s
 Control is transferred over time and revenue is recognized over time by reference to the progress
 towards complete satisfaction of the relevant performance obligation if one of the following
 criteria is met:
-(cid:129) the customer simultaneously receives and consumes the benefits provided by the
+ the customer simultaneously receives and consumes the benefits provided by the
 Group’s performance as the Group performs;
-(cid:129) the Group’s performance creates or enhances an asset that the customer controls as the
+ the Group’s performance creates or enhances an asset that the customer controls as the
 Group performs; or
-(cid:129) the Group’s performance does not create an asset with an alternative use to the Group
+ the Group’s performance does not create an asset with an alternative use to the Group
 and the Group has an enforceable right to payment for performance completed to date.
 Otherwise, revenue is recognized at a point in time when the customer obtains control of the
 distinct good or service.
@@ -24601,12 +24601,12 @@ APPENDIX IA ACCOUNTANTS’ REPORT
 For granting of a license that is distinct from other promised goods or services, the nature of
 the Group’s promise in granting a license is a promise to provide a right to access the Group’s
 intellectual property if all of the following criteria are met:
-(cid:129) the contract requires, or the customer reasonably expects, that the Group will undertake
+ the contract requires, or the customer reasonably expects, that the Group will undertake
 activities that significantly affect the intellectual property to which the customer has
 rights;
-(cid:129) the rights granted by the license directly expose the customer to any positive or negative
+ the rights granted by the license directly expose the customer to any positive or negative
 effects of the Group’s activities; and
-(cid:129) those activities do not result in the transfer of a good or a service to the customer as
+ those activities do not result in the transfer of a good or a service to the customer as
 those activities occur.
 If the criteria above are met, the Group accounts for the promise to grant a license as a
 performance obligation satisfied over time. Otherwise, the Group considers the grant of license as
@@ -24641,8 +24641,8 @@ APPENDIX IA ACCOUNTANTS’ REPORT
 Notwithstanding the above criteria, the Group shall recognize revenue for a sales-based or
 usage-based royalty promised in exchange for a license of intellectual property only when (or as)
 the later of the following events occurs:
-(cid:129) the subsequent sale or usage occurs; and
-(cid:129) the performance obligation to which some or all of the sales-based or usage-based
+ the subsequent sale or usage occurs; and
+ the performance obligation to which some or all of the sales-based or usage-based
 royalty has been allocated has been satisfied (or partially satisfied).
 Leases
 Definition of a lease
@@ -24668,11 +24668,11 @@ leases and leases of low-value assets are recognized as expense on a straight-li
 systematic basis over the lease term.
 Right-of-use assets
 The cost of right-of-use assets includes:
-(cid:129) the amount of the initial measurement of the lease liability;
-(cid:129) any lease payments made at or before the commencement date, less any lease incentives
+ the amount of the initial measurement of the lease liability;
+ any lease payments made at or before the commencement date, less any lease incentives
 received;
-(cid:129) any initial direct costs incurred by the Group; and
-(cid:129) an estimate of costs to be incurred by the Group in dismantling and removing the
+ any initial direct costs incurred by the Group; and
+ an estimate of costs to be incurred by the Group in dismantling and removing the
 underlying assets, restoring the site on which it is located or restoring the underlying
 asset to the condition required by the terms and conditions of the lease.
 – IA-14 –
@@ -24697,12 +24697,12 @@ at the present value of lease payments that are unpaid at that date. In calculat
 of lease payments, the Group uses the incremental borrowing rate at the lease commencement date
 if the interest rate implicit in the lease is not readily determinable.
 The lease payments include:
-(cid:129) fixed payments (including in-substance fixed payments) less any lease incentives
+ fixed payments (including in-substance fixed payments) less any lease incentives
 receivable;
-(cid:129) amounts expected to be paid under residual value guarantees;
-(cid:129) the exercise price of a purchase option if the Group is reasonably certain to exercise the
+ amounts expected to be paid under residual value guarantees;
+ the exercise price of a purchase option if the Group is reasonably certain to exercise the
 option; and
-(cid:129) payments of penalties for terminating a lease, if the lease term reflects the Group
+ payments of penalties for terminating a lease, if the lease term reflects the Group
 exercising the option to terminate the lease.
 After the commencement date, lease liabilities are adjusted by interest accretion and lease
 payments.
@@ -24715,13 +24715,13 @@ financial position.
 Lease modifications
 Except for Covid-19-related rent concessions in which the Group applied the practical
 expedient, the Group accounts for a lease modification as a separate lease if:
-(cid:129) the modification increases the scope of the lease by adding the right to use one or more
+ the modification increases the scope of the lease by adding the right to use one or more
 underlying assets; and
 – IA-15 –
 
 === PAGE 473 ===
 APPENDIX IA ACCOUNTANTS’ REPORT
-(cid:129) the consideration for the leases increases by an amount commensurate with the
+ the consideration for the leases increases by an amount commensurate with the
 stand-alone price for the increase in scope and any appropriate adjustments to that
 stand-alone price to reflect the circumstances of the particular contract.
 For a lease modification that is not accounted for as a separate lease, the Group remeasures
@@ -24927,14 +24927,14 @@ incurred.
 An internally-generated intangible asset arising from development activities (or from the
 development phase of an internal project) is recognized if, and only if, all of the following have
 been demonstrated:
-(cid:129) the technical feasibility of completing the intangible asset so that it will be available for
+ the technical feasibility of completing the intangible asset so that it will be available for
 use or sale;
-(cid:129) the intention to complete the intangible asset and use or sell it;
-(cid:129) the ability to use or sell the intangible asset;
-(cid:129) how the intangible asset will generate probable future economic benefits;
-(cid:129) the availability of adequate technical, financial and other resources to complete the
+ the intention to complete the intangible asset and use or sell it;
+ the ability to use or sell the intangible asset;
+ how the intangible asset will generate probable future economic benefits;
+ the availability of adequate technical, financial and other resources to complete the
 development and to use or sell the intangible asset; and
-(cid:129) the ability to measure reliably the expenditure attributable to the intangible asset during
+ the ability to measure reliably the expenditure attributable to the intangible asset during
 its development.
 The amount initially recognized for internally-generated intangible asset is the sum of the
 expenditure incurred from the date when the intangible asset first meets the recognition criteria
@@ -24986,10 +24986,10 @@ reversal of an impairment loss is recognized immediately in profit or loss.
 Cash and cash equivalents
 Cash and cash equivalents presented on the consolidated statement of financial position
 include:
-(cid:129) cash, which comprises of cash on hand and demand deposits, excluding bank balances
+ cash, which comprises of cash on hand and demand deposits, excluding bank balances
 that are subject to regulatory restrictions that result in such balances no longer meeting
 the definition of cash; and
-(cid:129) cash equivalents, which comprises of short-term (generally with original maturity of
+ cash equivalents, which comprises of short-term (generally with original maturity of
 three months or less), highly liquid investments that are readily convertible to a known
 amount of cash and which are subject to an insignificant risk of changes in value. Cash
 equivalents are held for the purpose of meeting short-term cash commitments rather than
@@ -25036,9 +25036,9 @@ Financial assets
 Classification and subsequent measurement of financial assets
 Financial assets that meet the following conditions are subsequently measured at amortised
 cost:
-(cid:129) the financial asset is held within a business model whose objective is to collect
+ the financial asset is held within a business model whose objective is to collect
 contractual cash flows; and
-(cid:129) the contractual terms give rise on specified dates to cash flows that are solely payments
+ the contractual terms give rise on specified dates to cash flows that are solely payments
 of principal and interest on the principal amount outstanding.
 – IA-22 –
 
@@ -25092,13 +25092,13 @@ Financial liabilities at FVTPL
 Financial liabilities are classified as at FVTPL when the financial liability is designated as at
 FVTPL.
 A financial liability may be designated as at FVTPL upon initial recognition if:
-(cid:129) such designation eliminates or significantly reduces a measurement or recognition
+ such designation eliminates or significantly reduces a measurement or recognition
 inconsistency that would otherwise arise; or
-(cid:129) the financial liability forms part of a group of financial assets or financial liabilities or
+ the financial liability forms part of a group of financial assets or financial liabilities or
 both, which is managed and its performance is evaluated on a fair value basis, in
 accordance with the Group’s documented risk management or investment strategy, and
 information about the grouping is provided internally on that basis; or
-(cid:129) it forms part of a contract containing one or more embedded derivatives, and IFRS 9
+ it forms part of a contract containing one or more embedded derivatives, and IFRS 9
 permits the entire combined contract to be designated as at FVTPL.
 For financial liabilities that are designated as at FVTPL, the amount of change in the fair
 value of the financial liability that is attributable to changes in the credit risk of that liability is
@@ -27673,8 +27673,8 @@ procedures to assess whether the applicable criteria used by the Directors in th
 unaudited pro forma financial information provide a reasonable basis for presenting the significant
 effects directly attributable to the event or transaction, and to obtain sufficient appropriate
 evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the unaudited pro forma financial information reflects the proper application of those
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the unaudited pro forma financial information reflects the proper application of those
 adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgment, having regard to the
 reporting accountants’ understanding of the nature of the Group, the event or transaction in respect
@@ -28766,23 +28766,23 @@ Incentive Plans include our Company’s senior management members, core employee
 talents as approved by the manager of the Employee Incentive Plans, Dr. Tian (the “Manager”).
 The Plan Documents further provided that the following employees or other talents may not be
 selected as participants to the Employee Incentive Plans (as the case may be):
-(cid:129) Persons who have received administrative penalties from government authorities due to
+ Persons who have received administrative penalties from government authorities due to
 material violation of laws and regulations in the preceding three years;
 – IV-6 –
 
 === PAGE 562 ===
 APPENDIX IV STATUTORY AND GENERAL INFORMATION
-(cid:129) Persons who are forbidden to hold the position of director, supervisor or senior
+ Persons who are forbidden to hold the position of director, supervisor or senior
 management pursuant to the Company Law of the PRC;
-(cid:129) Persons who have breached employment contracts, confidentiality agreements,
+ Persons who have breached employment contracts, confidentiality agreements,
 non-competition agreements or any other agreements entered into with our Company;
-(cid:129) Persons who have seriously violated laws, professional ethics, Articles of Association
+ Persons who have seriously violated laws, professional ethics, Articles of Association
 and the internal policies of our Company, or jeopardized the reputation or interests of
 the Company or cause severe accidents to the Company due to serious misconduct or
 gross negligence;
-(cid:129) Persons who have been considered as unqualified by the Company or the Manager
+ Persons who have been considered as unqualified by the Company or the Manager
 during the probation period; or
-(cid:129) Persons who are otherwise not eligible as determined by the Manager or his/her
+ Persons who are otherwise not eligible as determined by the Manager or his/her
 supervisors.
 (c) Grant of awards
 The general partner of Jiaxing Changxian and Jiaxing Changyu is Jiaxing Hanning Enterprise
@@ -28810,15 +28810,15 @@ The Employee Incentive Plans are implemented by the office of share incentive co
 three responsible employees appointed by the Manager, subject to the terms of the Employee
 Incentive Plans and authorization by the Manager and/or the Board, with respect to the matters
 including (as the case may be):
-(cid:129) the formulation of implement plan of Employee Incentive Plans;
-(cid:129) the management of relevant documents under the Employee Incentive Plans;
-(cid:129) the administration of the general matters of the Employee Incentive Plans;
+ the formulation of implement plan of Employee Incentive Plans;
+ the management of relevant documents under the Employee Incentive Plans;
+ the administration of the general matters of the Employee Incentive Plans;
 – IV-7 –
 
 === PAGE 563 ===
 APPENDIX IV STATUTORY AND GENERAL INFORMATION
-(cid:129) the internal coordination with the selected participants; and
-(cid:129) the regular assessment of the selected participants.
+ the internal coordination with the selected participants; and
+ the regular assessment of the selected participants.
 (e) Restrictions on transfer
 Prior to the Listing, the selected participants may not transfer any or all of his or her interest
 in the relevant Onshore Employee Shareholding Platforms unless approved by the Manager

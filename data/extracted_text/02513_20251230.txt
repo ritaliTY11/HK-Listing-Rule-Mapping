@@ -4308,18 +4308,18 @@ LLM Providers Enterprises and Consumers
 Data Providers
 Infrastructure Hardware Independent LLM Providers (*Where the Enterprises
 Group is at)
-• Servers (cid:129) Financial services
-(cid:129) Storages (cid:129) Providers that are characterized by being (cid:129) Internet
+• Servers Financial services
+ Storages Providers that are characterized by being Internet
 natively built around LLM technology,
-(cid:129) Network products and business models from the (cid:129) Education
-(cid:129) Others early stages of their operations. (cid:129) Others
+ Network products and business models from the Education
+ Others early stages of their operations. Others
 Non-independent LLM Providers
 Infrastructure Software
-(cid:129) Providers that already have an
-(cid:129) Database
+ Providers that already have an
+ Database
 established portfolio of products and Consumers
-(cid:129) Others services before entering the LLM market.
-(cid:129) Individual users
+ Others services before entering the LLM market.
+ Individual users
 They use their existing advantages in
 Data other business areas to expand and
 commercialize their LLM offerings.
@@ -8137,17 +8137,17 @@ foundationmodels.Foundationmodelsandreflectionandruminationmodelsbelongtothebroa
 oflanguagemodels.
 ThefollowingdiagramsetsforthourselectmodelsandAIagentsinourcurrentportfolio:
 Deep Thinking
-(cid:129) GLM-Z1
-(cid:129) GLM-Z1-Rumination
+ GLM-Z1
+ GLM-Z1-Rumination
 Cognition
-(cid:129) CogView
-(cid:129) GLM-4.5V
-(cid:129) CogVideoX
-Tool Use (cid:129) GLM-Realtime
-(cid:129) AutoGLM (cid:129) GLM-4-Voice
-(cid:129) Coco
-(cid:129) CodeGeeX Foundation Model
-(cid:129) GLM-4.5
+ CogView
+ GLM-4.5V
+ CogVideoX
+Tool Use GLM-Realtime
+ AutoGLM GLM-4-Voice
+ Coco
+ CodeGeeX Foundation Model
+ GLM-4.5
 –162–
 
 === PAGE 172 ===

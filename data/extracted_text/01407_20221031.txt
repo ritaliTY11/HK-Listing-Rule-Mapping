@@ -25,8 +25,8 @@ Stock code : 1407
 Sole Sponsor
 Overall Coordinator, Sole Global Coordinator, Joint Bookrunner and Joint Lead Manager
 Joint Bookrunners and Joint Lead Managers
-(cid:1047)(cid:2123)(cid:11498)(cid:26290)
-(cid:64)(cid:46)(cid:53)(cid:52)(cid:45)(cid:58)(cid:39)(cid:47)(cid:3)(cid:47)(cid:52)(cid:58)(cid:43)(cid:56)(cid:52)(cid:39)(cid:58)(cid:47)(cid:53)(cid:52)(cid:39)(cid:50)
+ 
+ 
 HongKongExchangesandClearingLimited,TheStockExchangeofHongKongLimitedandHongKongSecuritiesClearingCompanyLimited
 takenoresponsibilityforthecontentsofthisprospectus,makenorepresentationastoitsaccuracyorcompletenessandexpresslydisclaimany
 liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the contents of this prospectus.
@@ -9490,8 +9490,8 @@ Customer’s responsibility Key steps(Note) Our responsibility
 Application by customer
 User application:
 (1 working day)
-(cid:129) Fill in application form 1. Determine whether the location
-(cid:129) Arrange for on-site inspection is within our Operating Area
+ Fill in application form 1. Determine whether the location
+ Arrange for on-site inspection is within our Operating Area
 On-site inspection, initial design and
 budgeting (2 working days, or
 2. Arrange for on-site inspec tion
@@ -9501,13 +9501,13 @@ pipeline construction is required)
 Project confirmation:
 Signing of the construction and 1. Go through our internal review
 installation services agreement procedures and enter into the
-(cid:129) Go through internal review construction and installation
+ Go through internal review construction and installation
 procedures, enter into the services agreement
 construction and installation
 services agreement and Design of construction plan and 2. Complete the design of
 issue of construction drawings construction drawings
 arrange for payment
-(cid:129) Grant us access for 3. If necessary, coordinate with
+ Grant us access for 3. If necessary, coordinate with
 conducting on-site work the government authority and
 seek administrative approvals
 in order to proceed with
@@ -9520,7 +9520,7 @@ construction and installation:
 commencement of gas supply
 (1 working day and an extra working 1. An acceptance inspection will
 day for network connection if external be organised, and an inspection
-(cid:129) Perform inspection
+ Perform inspection
 pipeline construction is required) and acceptance opinion shall be
 before acceptance
 issued one working day after
@@ -9528,7 +9528,7 @@ passing the inspection
 2. Set up customer accounts before
 commencing gas supply
 After gas supply commences, we
-(cid:129) Perform post-installation
+ Perform post-installation
 Follow-up visits and conduct follow-up visits and
 routine inspection
 after-sale services provide customer services

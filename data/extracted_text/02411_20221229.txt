@@ -584,11 +584,11 @@ dealers supervisedby supervisedby wholesale (paying
 regional us customers members)
 dealers
 Revenuestreams
-Salesoffruitsand (cid:2) –(1) (cid:2) (cid:2) (cid:2) (cid:2) –
+Salesoffruitsand –(1) –
 otherfoodproducts.
-Royaltyincome . . . . (cid:2) (cid:2) (cid:2) – – – –
-Franchisingincome . . (cid:2) (cid:2) (cid:2) – – – –
-Membershipincome – – – – – – (cid:2)
+Royaltyincome . . . . – – – –
+Franchisingincome . . – – – –
+Membershipincome – – – – – – 
 andothers. . . . . .
 Note:
 (1) InsignificantdollaramountduringtheTrackRecordPeriod.Wegenerallydonotengageinsalesoffruitsand
@@ -11011,11 +11011,11 @@ dealers supervisedby supervisedby wholesale (paying
 regional us customers members)
 dealers
 Revenuestreams
-Salesoffruitsand (cid:2) –(1) (cid:2) (cid:2) (cid:2) (cid:2) –
+Salesoffruitsand –(1) –
 otherfoodproducts.
-Royaltyincome . . . . (cid:2) (cid:2) (cid:2) – – – –
-Franchisingincome . . (cid:2) (cid:2) (cid:2) – – – –
-Membershipincome – – – – – – (cid:2)
+Royaltyincome . . . . – – – –
+Franchisingincome . . – – – –
+Membershipincome – – – – – – 
 andothers. . . . . .
 Note:
 (1) Insignificant dollar amount during the Track Record Period. We generally do not engage in sales of
@@ -11808,14 +11808,14 @@ and the franchised stores supervised by them shall be conducted through our ERP
 system, we are able to track and monitor the products in transit. Products provided
 by unapproved suppliers are not able to obtain the bar codes and could not be
 transacted in stores through our POS system. To be specific:
-(cid:2) Regional dealers can only place orders through our ERPsystem from us or the
+ Regional dealers can only place orders through our ERPsystem from us or the
 suppliersapprovedandadmittedbyoursystem.OurERPsystemprovidesalist
 of approved suppliers and each stock-in of the regional dealers, other than
 procurements from us, shall match a single supplier selected from the list.
-(cid:2) Franchised stores supervised by the regional dealers can only place orders
+ Franchised stores supervised by the regional dealers can only place orders
 through our ERP system from the procurements stocked in by the regional
 dealers.
-(cid:2) Moreover, various digitalized store management and customer service
+ Moreover, various digitalized store management and customer service
 functions, such as membership and instant return, further systematically
 prevent transactions that are not approved by us.
 • In addition, our regional store supervisors would always examine and confirm the

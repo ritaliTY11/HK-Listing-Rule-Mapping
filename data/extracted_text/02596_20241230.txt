@@ -42,7 +42,7 @@ Nominal value : RMB1.00 per H Share
 Stock code : 2596
 Joint Sponsors, Overall Coordinators, Joint Global Coordinators and Joint Bookrunners
 Joint Global Coordinators and Joint Bookrunners
-(cid:64)(cid:58)(cid:57)(cid:41)(cid:1047)(cid:2123)(cid:11498)(cid:26290)
+ 
 (in alphabetical order)
 Joint Bookrunners
 (in alphabetical order)
@@ -176,14 +176,14 @@ Application lists of the Hong Kong Public Offering close(3) . . . .12:00 noon on
 January 8, 2025
 Expected Price Determination Date(5) . . . . . . . . . . . . . . . . . . . . .Thursday, January 9, 2025
 (1) Announcement of
-(cid:129) Offer Price;
-(cid:129) an indication of the level of interest in the International Offering;
-(cid:129) the level of applications in the Hong Kong Public Offering; and
+ Offer Price;
+ an indication of the level of interest in the International Offering;
+ the level of applications in the Hong Kong Public Offering; and
 – i –
 
 === PAGE 6 ===
 EXPECTED TIMETABLE(1)
-(cid:129) the basis of allocation of the Hong Kong Offer Shares under the Hong Kong Public
+ the basis of allocation of the Hong Kong Offer Shares under the Hong Kong Public
 Offering;
 to be published on the websites of the Stock Exchange
 at www.hkexnews.hk and our Bank at www.ybccb.com(6)
@@ -441,29 +441,29 @@ and allowance coverage ratio was 1.72% and 254.97%, respectively.
 OUR COMPETITIVE STRENGTHS
 We believe that the following competitive advantages have positioned us favorably in the
 banking industry in Yibin and will contribute to our future growth:
-(cid:129) Integration with the thriving local economy in Yibin, Sichuan Province, entailing
+ Integration with the thriving local economy in Yibin, Sichuan Province, entailing
 significant growth potential;
-(cid:129) Differentiated retail banking business underpinned by the “comprehensive retail
+ Differentiated retail banking business underpinned by the “comprehensive retail
 banking” strategy;
-(cid:129) Solid technological strengths empowering sustainable development;
-(cid:129) Robust shareholder background and corporate governance structure;
-(cid:129) Prudent and effective risk management leading to improved asset quality; and
+ Solid technological strengths empowering sustainable development;
+ Robust shareholder background and corporate governance structure;
+ Prudent and effective risk management leading to improved asset quality; and
 – 2 –
 
 === PAGE 13 ===
 SUMMARY
-(cid:129) Experienced management team and highly skilled workforce.
+ Experienced management team and highly skilled workforce.
 For details of our competitive strengths, see “Business – Our Competitive Strengths.”
 OUR DEVELOPMENT STRATEGIES
 Our vision is to enhance our brand value and become a leading bank with regional
 influence in western China. We intend to achieve this vision through the following strategic
 initiatives:
-(cid:129) Consolidating regional advantages and promoting business transformation;
-(cid:129) Innovating technology-based financial services and advancing digital
+ Consolidating regional advantages and promoting business transformation;
+ Innovating technology-based financial services and advancing digital
 transformation;
-(cid:129) Optimizing governance structure, enhancing risk management and internal control
+ Optimizing governance structure, enhancing risk management and internal control
 capabilities; and
-(cid:129) Strengthening talent leadership and improving incentive mechanisms.
+ Strengthening talent leadership and improving incentive mechanisms.
 For details of our development strategies, see “Business – Our Development Strategies.”
 OUR PRINCIPAL BUSINESS LINES
 Integrated with the thriving local economy in Yibin, Sichuan Province, we provide
@@ -1148,15 +1148,15 @@ Regulatory
 Capital adequacy
 indicators(1)
 Core tier-one capital
-adequacy ratio(2) 15.26% 12.86% 12.22% 13.49% (cid:2)7.5%
+adequacy ratio(2) 15.26% 12.86% 12.22% 13.49% 7.5%
 Tier-one capital adequacy
-ratio(3) 15.30% 12.89% 12.26% 13.52% (cid:2)8.5%
-Capital adequacy ratio(4) 16.47% 14.08% 13.41% 14.74% (cid:2)10.5%
+ratio(3) 15.30% 12.89% 12.26% 13.52% 8.5%
+Capital adequacy ratio(4) 16.47% 14.08% 13.41% 14.74% 10.5%
 Asset quality indicators
-NPL ratio(5) 2.27% 1.77% 1.76% 1.72% (cid:3)5%
-Allowance coverage ratio(6) 198.35% 213.40% 262.02% 254.97% (cid:2)150%
+NPL ratio(5) 2.27% 1.77% 1.76% 1.72% 5%
+Allowance coverage ratio(6) 198.35% 213.40% 262.02% 254.97% 150%
 Allowance to gross loan
-ratio(7) 4.50% 3.78% 4.61% 4.39% (cid:2)2.5%
+ratio(7) 4.50% 3.78% 4.61% 4.39% 2.5%
 Other indicators
 Loan to deposit ratio(8) 74.71% 75.02% 73.64% 69.83% N/A
 Notes:
@@ -1337,11 +1337,11 @@ Impact of Policies Related to Real Estate Market
 Post the Track Record Period, the PBoC and NAFR have introduced a series of policies
 aimed to stimulate the real estate market and enhance economic stability in China. Key
 measures include:
-(cid:129) Deposit Reserve Ratio Reduction. On September 27, 2024, the PBoC announced a
+ Deposit Reserve Ratio Reduction. On September 27, 2024, the PBoC announced a
 reduction in the deposit reserve ratio by 50 basis points, lowering it from 5.5% to
 5.0%. This adjustment does not impact financial institutions, including our Bank,
 which have already been operating with a 5.0% statutory deposit reserve ratio.
-(cid:129) LPR Adjustment. The LPR continued its downward trend post the Track Record
+ LPR Adjustment. The LPR continued its downward trend post the Track Record
 PeriodanduptotheLatestPracticableDate.See“IndustryOverview–Nationaland
 Regional Economy – Impact of Macroeconomic Environment on PRC Banking
 Industry – Monetary Policies” for details. While it may compress our interest
@@ -1351,7 +1351,7 @@ potentially increasing loan demand and stimulating economic activity.
 
 === PAGE 36 ===
 SUMMARY
-(cid:129) Housing Loan Policies. In September 2024, the PBoC and NAFR announced the
+ Housing Loan Policies. In September 2024, the PBoC and NAFR announced the
 removal of the distinction between first and second-home commercial personal
 housing loans, setting a uniform minimum down payment ratio of 15%. While the
 reduced down payment ratio may lower banks’ margins for cost recovery,
@@ -1359,13 +1359,13 @@ particularly with non-performing assets during property devaluation, it is expec
 to attract more housing loan customers. This is especially likely given the declining
 LPR,whichmayalsoreducethelikelihoodofearlyrepayments,therebymaintaining
 interest income.
-(cid:129) Relending Proportion Increase. In September 2024, the PBoC increased the
+ Relending Proportion Increase. In September 2024, the PBoC increased the
 relending proportion for affordable housing loans from 60% to 100% of the loan
 principal for qualifying financial institutions. The policy provides qualifying
 financial institutions with greater liquidity and financial capacity to support
 affordable housing projects, thereby stimulating the growth and stability in the real
 estate sector.
-(cid:129) Mortgage Rate Adjustment. In September 2024, the PBoC optimized the mortgage
+ Mortgage Rate Adjustment. In September 2024, the PBoC optimized the mortgage
 rate pricing mechanism by allowing adjustments to the margin added to the LPR and
 abolishing the minimum one-year interval for adjusting mortgage rates. Such policy
 allows the customers to respond more swiftly to market conditions and interest rate
@@ -2095,26 +2095,26 @@ our present and future business strategies and the environment in which we will 
 future. Important factors that could cause our actual performance or achievements to differ
 materially from those in the forward-looking statements include, among other things, the
 following:
-(cid:129) general political and economic conditions, including those related to the PRC;
-(cid:129) our ability to successfully implement our business plans and strategies;
-(cid:129) future developments, trends and conditions in the industry and markets in which we
+ general political and economic conditions, including those related to the PRC;
+ our ability to successfully implement our business plans and strategies;
+ future developments, trends and conditions in the industry and markets in which we
 operate or into which we intend to expand;
-(cid:129) our business operations and prospects;
-(cid:129) our capital expenditure plans;
-(cid:129) the actions and developments of our competitors;
-(cid:129) our financial condition and performance;
-(cid:129) capital market developments;
-(cid:129) our dividend policy;
-(cid:129) any changes in the laws, rules and regulations of the central and local governments
+ our business operations and prospects;
+ our capital expenditure plans;
+ the actions and developments of our competitors;
+ our financial condition and performance;
+ capital market developments;
+ our dividend policy;
+ any changes in the laws, rules and regulations of the central and local governments
 in the PRC and other relevant jurisdictions and the rules, regulations and policies of
 the relevant governmental authorities relating to all aspects of our business and our
 business plans;
-(cid:129) various business opportunities that we may pursue; and
+ various business opportunities that we may pursue; and
 – 46 –
 
 === PAGE 57 ===
 FORWARD-LOOKING STATEMENTS
-(cid:129) changes or volatility in interest rates, foreign exchange rates, equity prices or other
+ changes or volatility in interest rates, foreign exchange rates, equity prices or other
 rates or prices, including those pertaining to the PRC and Hong Kong and the
 industry and markets in which we operate.
 Additional factors that could cause actual performance or achievements to differ
@@ -2981,17 +2981,17 @@ We will continue to expand our offerings of products and services to our custome
 future. Our expansion in our offerings of products and services has exposed, and will continue
 to expose us to new and potentially increasingly challenging market and operational risks,
 which may include:
-(cid:129) our experience and expertise in managing new products and services;
-(cid:129) our ability to recruit additional qualified staff;
-(cid:129) our ability to provide satisfactory customer services, such as providing sufficient
+ our experience and expertise in managing new products and services;
+ our ability to recruit additional qualified staff;
+ our ability to provide satisfactory customer services, such as providing sufficient
 products and service information and handling customer complaints;
-(cid:129) our ability to guide customers to accept new products;
-(cid:129) our ability to establish an effective management team or to enhance our risk
+ our ability to guide customers to accept new products;
+ our ability to establish an effective management team or to enhance our risk
 management and information technology systems to support a broader range of
 products and services;
-(cid:129) our ability to identify and effectively manage all potential risks associated with our
+ our ability to identify and effectively manage all potential risks associated with our
 products and services; and
-(cid:129) our ability to react to the actions of our competitors and other financial service
+ our ability to react to the actions of our competitors and other financial service
 providers.
 – 67 –
 
@@ -4752,33 +4752,33 @@ Sichuan Province has benefited, and is projected to maintain significant advanta
 numerouspivotalPRCnationalandregionalstrategiesandpolicies.Thesecollectiveinitiatives
 have fostered sustained economic growth, infrastructure enhancement and regional integration
 within the province. Some of these key policies include:
-(cid:129) The Chengdu-Chongqing Dual-City Economic Circle. Initiated in 2021, the plan
+ The Chengdu-Chongqing Dual-City Economic Circle. Initiated in 2021, the plan
 aims at promoting coordinated development of the Chengdu-Chongqing area,
 including 15 cities in Sichuan Province. By leveraging the economic strengths and
 resources of each city, the initiative aims to create an integrated economic region
 that drives the growth and development ofWestern China, and gradually emerges as
 the “fourth tier” of China’s economic growth.
-(cid:129) The China (Sichuan) Pilot Free Trade Zone. Established in 2017, this zone has
+ The China (Sichuan) Pilot Free Trade Zone. Established in 2017, this zone has
 fostered a business-friendly environment for international trade and investment,
 positioning Sichuan as a hub of economic openness. The total import and export
 value of Sichuan’s trade in goods has increased from RMB676.6 billion in 2019 to
 RMB957.5 billion in 2023 with a CAGR of 9.1%, ranking eighth in the country.
-(cid:129) The Yangtze River Economic Belt (“YREB”) strategy. Launched in 2016, this plan
+ The Yangtze River Economic Belt (“YREB”) strategy. Launched in 2016, this plan
 aims to promote economic development along the Yangtze River. As Sichuan is
 located within this region, it has gained from improved infrastructure, ecological
 conservation and regional integration efforts.
-(cid:129) The Belt and Road Initiative (“BRI”). As part of the Silk Road Economic Belt,
+ The Belt and Road Initiative (“BRI”). As part of the Silk Road Economic Belt,
 Sichuan has leveraged its strategic location to enhance connectivity, trade and
 investment with other countries along the Belt. It has emerged as a gateway for
 China’s opening-up to the west and south.
-(cid:129) The “Go West” strategy. Launched in 1999, this initiative aims to boost the
+ The “Go West” strategy. Launched in 1999, this initiative aims to boost the
 development of China’s western regions, including Sichuan, by attracting
 investment, improving infrastructure and promoting innovation.
 – 113 –
 
 === PAGE 124 ===
 INDUSTRY OVERVIEW
-(cid:129) The13thand14thFive-YearPlans.TheseplansoutlineChina’seconomicandsocial
+ The13thand14thFive-YearPlans.TheseplansoutlineChina’seconomicandsocial
 development goals for 2016-2020 and 2021-2025, respectively. Sichuan has
 benefited from various projects and policies under these plans, including those
 related to industrial upgrades, technological innovation, and rural revitalization.
@@ -5270,26 +5270,26 @@ supervision over capital adequacy, enhance risk management, improve modern corpo
 governance and further enhance the capacity of commercial banks to offer financial services
 to real economy. For details of relevant regulations, see “Regulatory Overview.” Some of the
 key requirements of relevant regulations include:
-(cid:129) Risk Management Improvement. The PRC banking regulatory institutions launched
+ Risk Management Improvement. The PRC banking regulatory institutions launched
 various rules and regulations to enhance the overall risk management capacity of
 commercial banks, with specific requirements on the timely identification and
 accuratepredictionofrisksassociatedwithchangesinbusinessmodelandstructure,
 continuous improvement in overall risk management strategy and enhancement of
 risk mitigation capacity through utilizing various capital market instruments.
-(cid:129) Stringent Management on Business Operations. Recent regulatory development
+ Stringent Management on Business Operations. Recent regulatory development
 focused on financial markets business, including (i) encouraging banking financial
 institutions to optimize loan portfolio and improve credit support to the real
 economy,and(ii)takingmeasurestoreducefinancingcostsoftherealeconomyand
 simplify structure of financial products through decreasing the number of entities
 involved in fund flow.
-(cid:129) Enhancement in Corporate Governance. Regulatory focus on corporate governance
+ Enhancement in Corporate Governance. Regulatory focus on corporate governance
 aims at the improvement in the management structure covering the entire entity,
 equity and the operations of board of directors and board of supervisors.
 – 126 –
 
 === PAGE 137 ===
 INDUSTRY OVERVIEW
-(cid:129) Encouraging Capital Replenishment. In February 2019, the State Council issued
+ Encouraging Capital Replenishment. In February 2019, the State Council issued
 policies supporting commercial banks’ capital replenishment through multiple
 channels. The State Council has outlined a raft of measures for commercial banks,
 including raising the efficiency of examination and approvals for the issuance of
@@ -7059,27 +7059,27 @@ Administrative Measures (Provisional), commercial banks are classified into four
 based on their capital adequacy, and the CBRC adopts corresponding actions to these banks,
 the details of which are set forth below:
 Categories Capital adequacy Measures of CBIRC
-Type I Capital adequacy ratio, tier-one (cid:129) to require the commercial
+Type I Capital adequacy ratio, tier-one to require the commercial
 capital adequacy ratio and core bank to improve the analysis
 tier-one capital adequacy ratio and forecast of the reasons
 all meet the capital forthedecreaseofitscapital
 requirements at all levels. adequacy ratios;
-(cid:129) to require the commercial
+ to require the commercial
 bank to formulate a
 practicable capital adequacy
 ratio management plan; and
-(cid:129) to require the commercial
+ to require the commercial
 bank to improve its risk
 control capability.
-Type II Capital adequacy ratio, tier-one (cid:129) to adopt the regulatory
+Type II Capital adequacy ratio, tier-one to adopt the regulatory
 capital adequacy ratio and core measures for Type I banks;
 tier-one capital adequacy ratio
-do not meet capital (cid:129) to hold talks on prudent
+do not meet capital to hold talks on prudent
 requirements of the second practice with the board of
 pillar, but not less than capital directors and the senior
 requirements at other levels. management of the
 commercial bank;
-(cid:129) to issue a regulatory
+ to issue a regulatory
 opinion, which must include
 the problems identified with
 the capital management of
@@ -7094,41 +7094,41 @@ limit;
 === PAGE 180 ===
 REGULATORY OVERVIEW
 Categories Capital adequacy Measures of CBIRC
-(cid:129) to require the commercial
+ to require the commercial
 bank to formulate a
 practicable capital
 replenishment plan and the
 plan for meeting the
 requirements within the
 prescribed time limit;
-(cid:129) to increase the frequency of
+ to increase the frequency of
 supervision and inspection
 of the capital adequacy of
 the commercial bank; and
-(cid:129) to require the commercial
+ to require the commercial
 bank to take risk mitigation
 measures for specific risk
 areas.
-Type III Capital adequacy ratio, tier-one (cid:129) to adopt the regulatory
+Type III Capital adequacy ratio, tier-one to adopt the regulatory
 capital adequacy ratio and core measures for Type I and II
 tier-one capital adequacy ratio banks;
 all meet the minimum capital
-requirement, but do not meet (cid:129) to restrict the commercial
+requirement, but do not meet to restrict the commercial
 capital requirements at other bank from distributing
 levels. dividends and other
 incomes;
-(cid:129) to restrict the commercial
+ to restrict the commercial
 bankfromgrantinganyform
 of incentives to directors
 and senior management;
-(cid:129) to restrict the commercial
+ to restrict the commercial
 bank from making equity
 investments or repurchasing
 capital instruments;
-(cid:129) to restrict the commercial
+ to restrict the commercial
 bank from incurring major
 capital expenditure; and
-(cid:129) to require the commercial
+ to require the commercial
 bank to control the growth
 of risky assets.
 – 170 –
@@ -7136,37 +7136,37 @@ of risky assets.
 === PAGE 181 ===
 REGULATORY OVERVIEW
 Categories Capital adequacy Measures of CBIRC
-Type IV Any of capital adequacy ratio, (cid:129) to adopt the regulatory
+Type IV Any of capital adequacy ratio, to adopt the regulatory
 tier-one capital adequacy ratio measures for Type I, II and
 and core tier-one capital III banks;
 adequacyratiofailstoreachthe
-minimum capital requirement. (cid:129) to require the commercial
+minimum capital requirement. to require the commercial
 bank to significantly
 downsize risky assets;
-(cid:129) to order the commercial
+ to order the commercial
 banktosuspendallhigh-risk
 asset businesses;
-(cid:129) to restrict or prohibit the
+ to restrict or prohibit the
 commercial bank from
 establishing new institutions
 or launching new
 businesses;
-(cid:129) to compulsorily require the
+ to compulsorily require the
 commercial bank to write
 down tier-two capital
 instruments or convert them
 into ordinary shares;
-(cid:129) to order the commercial
+ to order the commercial
 bank to change its directors
 or senior management or
 restrict their rights;
-(cid:129) to lawfully take over the
+ to lawfully take over the
 commercial bank or procure
 the institutional
 reorganization of, or even
 dissolve, the commercial
 bank; and
-(cid:129) to consider other external
+ to consider other external
 factors and take other
 necessary measures in order
 to solve the problems faced
@@ -7355,13 +7355,13 @@ Asof Asof Asof Asof
 Indicator Primary Secondary December31, December31, December31, June30,
 categories indicators indicators Requirement 2021 2022 2023 2024
 (%)
-Liquidityrisk Liquidityratio (cid:2)25 60.51% 75.63% 89.54% 83.58%
-Liquiditygap (cid:2)-10 -4.27% 38.40% 36.38% 30.69%
+Liquidityrisk Liquidityratio 25 60.51% 75.63% 89.54% 83.58%
+Liquiditygap -10 -4.27% 38.40% 36.38% 30.69%
 ratio
 Creditrisk
-Non-performing (cid:3)5 1.79% 1.91% 1.64% 1.63%
+Non-performing 5 1.79% 1.91% 1.64% 1.63%
 loanratio
-Totalcorrelation (cid:3)50 23.25% 23.98% 12.99% 11.84%
+Totalcorrelation 50 23.25% 23.98% 12.99% 11.84%
 ratio
 Core Indicators for Risk-based Supervision of Commercial Banks (Provisional) (《商業
 銀行風險監管核心指標(試行)》) set out certain other indicators, including ratios relating to
@@ -8251,24 +8251,24 @@ The Bank has established a basic committee for the Communist Party of China
 (the “CPC”), which would play a leadership role within the Bank to steer direction, supervise
 decision-making and facilitate implementation for the Bank.The committee primarily assumes
 the following responsibilities:
-(cid:129) consistently following the directions, goals and policies of the CPC, supervising and
+ consistently following the directions, goals and policies of the CPC, supervising and
 ensuring that the CPC’s major decisions and arrangements and the resolutions of
 higher-level party organizations are thoroughly implemented within the Bank;
-(cid:129) discussing material operation management matters, supporting the Shareholders’
+ discussing material operation management matters, supporting the Shareholders’
 general meeting, the Board of Directors, the Board of Supervisors and senior
 management to perform their respective duties and exercise rights in accordance
 with laws and regulations;
-(cid:129) implementing the principle of Party governing the cadre and talents;
-(cid:129) establishing and enhancing the employee’s selecting and using mechanism which
+ implementing the principle of Party governing the cadre and talents;
+ establishing and enhancing the employee’s selecting and using mechanism which
 meets the demand of modern enterprises system requirements and market
 competition requirements;
-(cid:129) implementing the responsibility for strictly administering the CPC and supporting
+ implementing the responsibility for strictly administering the CPC and supporting
 the discipline inspection committee to implement the supervision responsibility for
 building a clean and honest government;
-(cid:129) enhancing the self-building of the organization of the Party and Party members;
-(cid:129) leading our Bank’s ideological and political work and unions, the communist youth
+ enhancing the self-building of the organization of the Party and Party members;
+ leading our Bank’s ideological and political work and unions, the communist youth
 league, women’s organizations, etc.; and
-(cid:129) conducting studies and determining other matters that shall be considered and
+ conducting studies and determining other matters that shall be considered and
 decided by the committee.
 – 194 –
 
@@ -8277,30 +8277,30 @@ HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
 The Committee for Discipline Inspection
 The Bank has established a basic committee for Discipline Inspection. The committee
 primarily assumes, among others, the following responsibilities:
-(cid:129) under the leadership of the Party Committee and the discipline inspection
+ under the leadership of the Party Committee and the discipline inspection
 commissions at higher levels, assisting the Party Committee in promoting stringent
 party governance in a comprehensive manner, reinforcing party culture and integrity
 construction and organizing and collaborating with anti-corruption efforts;
-(cid:129) firmly defending the Constitution of the CPC and other internal regulations of the
+ firmly defending the Constitution of the CPC and other internal regulations of the
 Party, examining the implementation of the Party’s theories and directions, goals
 and policies, and supervising and inspecting the consistent implementation of CPC
 Central Committee’s major decisions and arrangements;
-(cid:129) assisting the Party Committee in promoting stringent party governance in a
+ assisting the Party Committee in promoting stringent party governance in a
 comprehensive manner, tightening supervision on the leadership team of the Party
 Committee, examining the fulfillment of party administration and governance
 responsibilitiesbythemembersoftheleadershipteamofthePartyCommitteeatthe
 same level, and supervising the fulfillment of principal responsibilities by party
 organizations at lower levels;
-(cid:129) strictly following the spirit of the eight requirements of the central government and
+ strictly following the spirit of the eight requirements of the central government and
 the ten requirements of the provincial Party committee and the provincial
 government and the municipal Party committee and the municipal government, and
 exerting consistent efforts in combating and rectifying formalism, bureaucracy,
 hedonism and extravagance;
-(cid:129) generally improving party system such that no one is dared, capable of, or willing
+ generally improving party system such that no one is dared, capable of, or willing
 tocommitcorruption,andthatcorruptionwillalwaysbepunishedwithouttolerance,
 and that behaviors against disciplines of the party and corruption issues will be
 investigated and penalized in accordance with the party’s disciplines and the laws.
-(cid:129) putting more efforts on the investigation of illegal cases, insisting in punishing
+ putting more efforts on the investigation of illegal cases, insisting in punishing
 corruption cases with nil tolerance, and severely investigating the behaviors in
 breach of Party disciplines and corruption-related cases in strict compliance with
 relevant disciplines and laws.
@@ -9014,7 +9014,7 @@ Others(1) 165.0 0.6 155.0 0.4 74.1 0.2 68.8 0.2
 Total corporate loans 28,037.8 100.0 34,485.5 100.0 39,162.2 100.0 41,905.5 100.0
 Note:
 (1) Represents merger and acquisition loans.
-(cid:129) Working Capital Loans. We provide working capital loans to our corporate banking
+ Working Capital Loans. We provide working capital loans to our corporate banking
 customers to address their financing needs in their daily operations. Our working
 capital loans include short-term loans due within one year and medium-term loans
 due in five years. Our working capital loans are generally guaranteed or secured.
@@ -9022,13 +9022,13 @@ due in five years. Our working capital loans are generally guaranteed or secured
 
 === PAGE 224 ===
 BUSINESS
-(cid:129) FixedAsset Loans. We provide fixed asset loans to our corporate banking customers
+ FixedAsset Loans. We provide fixed asset loans to our corporate banking customers
 mainlytoaddresstheirfinancingdemandsforconstruction,purchaseandrenovation
 of fixed assets, including basic construction loans, renovation loans, high-standard
 farmland construction loans, real estate development loans and other fixed assets
 acquisition loans. Generally, our fixed asset loans have maturities between one to
 ten years.
-(cid:129) Others. We also provide financing support of other kinds tailored to our corporate
+ Others. We also provide financing support of other kinds tailored to our corporate
 banking customer’s needs, such as merger and acquisition loans.
 Distribution of Corporate Loans by Maturity
 In terms of loan maturity, our corporate loans can be categorized as short-term loans and
@@ -9092,7 +9092,7 @@ BUSINESS
 We have introduced a wide range of corporate loan products to meet the diverse demands
 of enterprises in various industries, including wholesale and retail trade, construction,
 manufacturing and renting and business activities. Specifically:
-(cid:129) We provide comprehensive products to facilitate infrastructure construction projects
+ We provide comprehensive products to facilitate infrastructure construction projects
 such as park construction, road traffic, land remediation and sewage treatment, and
 extend support to the continuous development of other local industries, including
 manufacturing industries such as chemical, textile and papermaking industries.
@@ -9100,7 +9100,7 @@ Particularly, we offer innovative corporate loan products that serve the entire
 business process of construction enterprises, such as the Migrant Worker’s Wage
 Loan (民工工資貸) for their wage payment, and the Project Progress Loan (工程進
 度貸) for their building material procurement.
-(cid:129) We offer well-tailored corporate loan products for service industries, including
+ We offer well-tailored corporate loan products for service industries, including
 commerce and logistics, culture and tourism, modern finance, e-commerce,
 exhibition and night-time economy sectors. For example, we have launched tailored
 warehouse receipt financing products to bolster bulk commodities transactions, as
@@ -9109,7 +9109,7 @@ commodities in their turnover to secure loan. Additionally, we collaborated with
 ModernLogisticsDevelopmentPromotionAssociationofSichuanProvince(四川省
 現代物流發展促進會) to extend vehicle purchase loan for automotive vehicle
 transportation association.
-(cid:129) We have launched tailored agricultural loans in support of the revival of rural areas.
+ We have launched tailored agricultural loans in support of the revival of rural areas.
 We have introduced innovative financial products such as the Rural Revitalization
 Loan (鄉村振興貸), High Standard Farmland Loan (高標準農田貸), Pig Breeding
 Outsourcing Loan (生豬養殖貸) andVillageAsset loan (村資貸) to fully support the
@@ -9162,19 +9162,19 @@ Pledge Loan was RMB120.0 million, RMB78.0 million, RMB136.7 million and RMB135.7
 million, respectively. The following table sets forth a brief description of these specialized
 products:
 Products Features
-Green Procurement Loan (cid:129) Specifically designed for the purchase of new
+Green Procurement Loan Specifically designed for the purchase of new
 energy vehicles to replace traditional fuel
 vehicles;
-(cid:129) Offered at an interest rate of 50 basis points lower
+ Offered at an interest rate of 50 basis points lower
 than other loans of similar terms;
-(cid:129) Facilitated through a dedicated fast-track approval
+ Facilitated through a dedicated fast-track approval
 process for quicker processing.
 – 217 –
 
 === PAGE 228 ===
 BUSINESS
 Products Features
-Intellectual Property Pledge (cid:129) Loans can be collateralized using legally owned
+Intellectual Property Pledge Loans can be collateralized using legally owned
 Loan and transferable intellectual properties such as
 patents, registered trademarks or copyrights,
 provided either by the borrowers or third parties.
@@ -9182,11 +9182,11 @@ The intellectual properties used as collateral
 should have a validity or protection period that
 exceeds the loan’s repayment period by at least
 five years;
-(cid:129) For loans secured by patents (namely, the Patent
+ For loans secured by patents (namely, the Patent
 Right Pledge Loan), loans can be secured using
 legally granted property rights over invention,
 utility model and design patents;
-(cid:129) The proceeds from these loans can be utilized for
+ The proceeds from these loans can be utilized for
 purposes such as scientific research, development,
 creative work, or the construction, operation and
 management of intellectual property
@@ -9735,12 +9735,12 @@ duly made.
 BUSINESS
 Agency Services
 Our agency services include bancassurance and bus IC card recharge agency services:
-(cid:129) Bancassurance. We sell insurance products to retail banking customers as an agent
+ Bancassurance. We sell insurance products to retail banking customers as an agent
 through our collaboration with leading insurance companies. In 2021, 2022 and
 2023 and the six months ended June 30, 2023 and 2024, our fee and commission
 income from bancassurance amounted to RMB0.4 million, RMB0.2 million,
 RMB0.1 million, RMB0.04 million and RMB0.05 million, respectively.
-(cid:129) Bus IC Card Recharge Agency Services. We are the exclusive agency bank that
+ Bus IC Card Recharge Agency Services. We are the exclusive agency bank that
 provide recharge agency services for customers with bus IC cards at several of our
 sub-branches, being bus card recharging terminals of Yibin Harmony Card Service
 Co., Ltd.. Such services demonstrate our commitment to promoting social welfare
@@ -10355,13 +10355,13 @@ As of December 31, June 30, as of June 30,
 2021 2022 2023 2024 2024
 Capital adequacy indicators
 Core tier-one capital
-adequacy ratio 12.85% 12.65% 11.90% 10.61%(1) (cid:2)7.5%
+adequacy ratio 12.85% 12.65% 11.90% 10.61%(1) 7.5%
 Tier-one capital adequacy ratio 12.85% 12.65% 11.90% 10.61%(1) N/A
-Capital adequacy ratio 12.85% 13.02% 12.69% 12.25%(1) (cid:2)8.5%
+Capital adequacy ratio 12.85% 13.02% 12.69% 12.25%(1) 8.5%
 Asset quality indicators
-NPL ratio 2.85% 1.98% 1.88% 1.73% (cid:3)5%
-Allowance coverage ratio 177.74% 239.65% 232.08% 242.37% (cid:2)150%
-Allowance to gross loan ratio 5.07% 4.74% 4.37% 4.19% (cid:2)2.5%
+NPL ratio 2.85% 1.98% 1.88% 1.73% 5%
+Allowance coverage ratio 177.74% 239.65% 232.08% 242.37% 150%
+Allowance to gross loan ratio 5.07% 4.74% 4.37% 4.19% 2.5%
 Other indicators
 Loan to deposit ratio 81.18% 80.54% 74.71% 78.42% N/A
 – 247 –
@@ -10383,13 +10383,13 @@ As of December 31, June 30, as of June 30,
 2021 2022 2023 2024 2024
 Capital adequacy indicators
 Core tier-one capital
-adequacy ratio 18.99% 14.87% 13.13% 15.11%(1) (cid:2)7.5%
+adequacy ratio 18.99% 14.87% 13.13% 15.11%(1) 7.5%
 Tier-one capital adequacy ratio 18.99% 14.87% 13.13% 15.11%(1) N/A
-Capital adequacy ratio 20.14% 16.00% 14.23% 18.73%(1) (cid:2)8.5%
+Capital adequacy ratio 20.14% 16.00% 14.23% 18.73%(1) 8.5%
 Asset quality indicators
-NPL ratio 3.96% 3.96% 4.95% 4.34% (cid:3)5%
-Allowance coverage ratio 153.09% 222.89% 183.97% 182.57% (cid:2)150%
-Allowance to gross loan ratio 6.06% 8.82% 9.11% 7.92% (cid:2)2.5%
+NPL ratio 3.96% 3.96% 4.95% 4.34% 5%
+Allowance coverage ratio 153.09% 222.89% 183.97% 182.57% 150%
+Allowance to gross loan ratio 6.06% 8.82% 9.11% 7.92% 2.5%
 Other indicators
 Loan to deposit ratio 73.80% 66.34% 74.67% 71.56% N/A
 Note:
@@ -10738,7 +10738,7 @@ The venue for our daily operations is our offices, where the primary resource
 consumption includes electricity, water and paper.We also generate waste and emit greenhouse
 gases during our business operations. We monitor the following metrics to assess and manage
 the environmental and climate-related risks arising from our business operations:
-(cid:129) Electricity and water usage. We evaluate our electricity and water consumption in
+ Electricity and water usage. We evaluate our electricity and water consumption in
 accordance with relevant regulations and policies and endeavor to proactively
 conserve energy in response to the government’s initiatives. Electricity usage is also
 the major source of our GHG emissions during our business operations. We monitor
@@ -10769,7 +10769,7 @@ our daily operation.
 
 === PAGE 267 ===
 BUSINESS
-(cid:129) Paperless operation. We place great emphasis on paper conservation and actively
+ Paperless operation. We place great emphasis on paper conservation and actively
 seeks to reduce paper usage through initiatives such as paperless operations,
 double-sidedprinting,andreducinglinespacingandfontsizeininternaldocuments.
 We also target to deepen the degree of our digital operation by further developing
@@ -10786,7 +10786,7 @@ consumed in 2024. In addition, due to our business expansion, we consumed a
 relatively larger amount of paper in our operations in the six months ended June 30,
 2024. We aim to reduce the number of piece of paper by around 1.5% per year over
 the next three years; and
-(cid:129) Waste generated. Due to the nature of our business, we generate negligible amount
+ Waste generated. Due to the nature of our business, we generate negligible amount
 of hazardous waste during our operations, which includes toner cartridges, ink
 cartridges for printers. In 2023, we recorded annual household waste disposal and
 office waste disposal of approximately 100.4 tons and 57.9 tons, respectively. For
@@ -10800,7 +10800,7 @@ the impact of our disposal of non-hazardous waste on the environment, we monitor
 our waste discharge level on a regular basis. Proper guidelines are provided to our
 employees on waste classification and disposal. We target to maintain 100%
 compliance rate in relation to waste disposal.
-(cid:129) Greenhouse gas emissions. We adopt the concept of sustainable development in our
+ Greenhouse gas emissions. We adopt the concept of sustainable development in our
 business operation and implement certain measures to reduce carbon emissions. For
 the years ended December 31, 2021, 2022 and 2023 and the six months ended June
 30, 2024, we recorded GHG emissions of approximately 3.3 tons per capita, 3.4 tons
@@ -10821,7 +10821,7 @@ commutes. We target to reduce our fuel consumption by more than 1% each year,
 and at the same time, reduce the total usage of fuel pollution in business travel by
 50% during heavily polluted days, in accordance with the pollution control
 requirements of the local government.
-(cid:129) Company car consumption. In 2023, our cars used 107,597.9 liters of gasoline. We
+ Company car consumption. In 2023, our cars used 107,597.9 liters of gasoline. We
 prioritize purchasing new energy vehicles and low-displacement vehicles as office
 cars to reduce fuel consumption and exhaust emissions. We also strictly implement
 the office car use approval policies. Besides, we encourage employees to choose
@@ -11414,7 +11414,7 @@ Owned Properties
 As of the Latest Practicable Date, we owned 410 properties with an aggregate GFA of
 approximately 106,565 square meters. Among these properties, as of the Latest Practicable
 Date:
-(cid:129) For 182 properties with an aggregate GFA of approximately 44,779 square meters
+ For 182 properties with an aggregate GFA of approximately 44,779 square meters
 (accounting for approximately 42.0% of the aggregate GFA of our owned
 properties), we had obtained relevant title certificates. Save for the ten properties as
 disclosed below, as advised by our PRC LegalAdvisors, we have the right to legally
@@ -11442,7 +11442,7 @@ authoritydidnotandwillnotimposeanyadministrativepenaltiesorconfiscate
 our income generated from leasing of such properties. Based on the foregoing,
 we believe that the leasing of such properties would not have any material
 adverse effect on our business, financial condition or results of operations.
-(cid:129) For 228 properties with an aggregate GFA of approximately 61,786 square meters
+ For 228 properties with an aggregate GFA of approximately 61,786 square meters
 (accounting for approximately 58.0% of the aggregate GFA of our owned
 properties), we had not obtained relevant title certificates. Among these properties:
 o For seven properties with an aggregate GFA of approximately 3,259 square
@@ -12157,7 +12157,7 @@ administrative penalties imposed by local branches of PBoC, the former CBIRC and
 These administrative penalties were issued against our head office, several sub-branches and
 rural banks, which resulted in aggregate fines of RMB6.4 million.Among these administrative
 penalties:
-(cid:129) PBoC and its local offices imposed three administrative penalties with aggregate
+ PBoC and its local offices imposed three administrative penalties with aggregate
 fines of RMB1.6 million against us and our rural banks. The main issues identified
 include: (i) failure to send information on opening and closing of accounts to the
 PBoC within the required time, or file with the Renminbi bank settlement account
@@ -12167,7 +12167,7 @@ information and transaction records as per regulations, failure to notify inform
 owner before submitting individual adverse information and failure to adequately
 implement cooperative measures for preventing telecom fraud; and (iii) improper
 handling and reporting of financial statistic data.
-(cid:129) The former CBIRC and NAFR and their local offices imposed seven administrative
+ The former CBIRC and NAFR and their local offices imposed seven administrative
 penalties with aggregate fines of RMB4.8 million against five of our sub-branches
 and one of our rural banks. The main issues identified include: (i) weaknesses in
 certain branch and sub-branches’ loans, post-disbursement management, pre-loan
@@ -12835,19 +12835,19 @@ The overall objective of our risk management is to build and maintain a comprehe
 risk management system so that we can effectively mitigate risks and develop our business in
 a sustainable way. To achieve these objectives, we have implemented the following principles
 in our risk management:
-(cid:129) Compatibility. Our risk management system shall be compatible with our risk
+ Compatibility. Our risk management system shall be compatible with our risk
 exposure and its systemic importance. Meanwhile, our risk management system
 shall be adjusted or updated in response to changes in the market environment.
-(cid:129) Comprehensiveness. Our risk management system shall encompass each business
+ Comprehensiveness. Our risk management system shall encompass each business
 line, branch, sub-branch, department, position, and employee, as well as all types of
 risks and their interactions. All management processes, from decision-making and
 implementation to supervision, shall incorporate the risk management system.
-(cid:129) Independence. We strive to establish an independent risk management
+ Independence. We strive to establish an independent risk management
 organizational structure, empowering our departments relating to risk management
 with sufficient authority and resources. Our departments relating to risk
 management can exercise their duty through scientific and reasonable reporting
 channels to form a balanced operational mechanism within business lines.
-(cid:129) Effectiveness. We integrate the results of our risk management system into our
+ Effectiveness. We integrate the results of our risk management system into our
 operationalmanagement.Weassesstheadequacyofcapitalandliquidityinresponse
 to prevailing risk, market and macroeconomic conditions, thereby effectively
 mitigating overall risk and specific risks.
@@ -13191,19 +13191,19 @@ Pre-loan Investigation
 Our credit business’s investigation evaluation work primarily comprises customer
 investigation evaluation, business investigation evaluation, and guarantee investigation
 evaluation. Specifically:
-(cid:129) Customer Investigation Evaluation. We gain an intuitive understanding of the
+ Customer Investigation Evaluation. We gain an intuitive understanding of the
 customer by reviewing the materials they provide and conducting on-site visits. We
 form an understanding of the customer’s basic profile, operational situation,
 financial situation, credit status, repayment source, and the character of the
 enterprise’s shareholders and legal representatives (or actual controller).
-(cid:129) Credit Business Investigation Evaluation. We conduct a feasibility study on the
+ Credit Business Investigation Evaluation. We conduct a feasibility study on the
 credit business the customer applies for.According to the requirements and methods
 of different types of credit business, we investigate and analyze the customer’s
 capital demand volume and source channels, calculating the actual demand volume
 and usage term of the customer’s credit from us. At the same time, we analyze and
 evaluate the risk points and cost-effectiveness of the credit business, proposing risk
 prevention and resolution plans.
-(cid:129) Guarantee Investigation Evaluation. We conduct on-site visits and investigations to
+ Guarantee Investigation Evaluation. We conduct on-site visits and investigations to
 the guarantors, verify the relevant documents and information provided by the
 guarantors, and rigorously assess the collateral, so as to determine the authenticity,
 validity, legality and compliance of the guarantee.
@@ -13257,13 +13257,13 @@ information transferred by the branch or sub-branch. In addition, the risk revie
 urges the front desk account manager to conduct anti-money laundering investigations and
 identifycustomersinaccordancewithouranti-moneylaunderingmanagementregulations.Our
 pre-loan review includes:
-(cid:129) Subject qualification review. Through the review of the customer’s articles of
+ Subject qualification review. Through the review of the customer’s articles of
 association,businesslicenseandothermaterials,weanalyzewhetherthecustomer’s
 subject and business activities are legal, whether the internal governance structure
 is sound, and whether the financing matters have been authorized by the competent
 authority. We determine whether the customer is qualified as a customer based on
 the relevant laws and our relevant documents on the conditions of the customer.
-(cid:129) Credit status review. We determine the credit status of the customer by examining
+ Credit status review. We determine the credit status of the customer by examining
 the customer and its legal representative, actual controller, guarantor’s credit
 investigation and business integrity performance, analyzing whether it has a major
 bad credit record, and whether it applies for loans through other financial
@@ -13272,15 +13272,15 @@ institutions other than us.
 
 === PAGE 327 ===
 RISK MANAGEMENT
-(cid:129) Review of use of credit. We review the project feasibility study report, purchase and
+ Review of use of credit. We review the project feasibility study report, purchase and
 sales contract and other materials, combined with relevant laws, industrial policies
 andourcreditinvestmentregulations,todeterminewhetherthespecificuseofcredit
 iscompliantandlegal,whetheritisinlinewiththecountry’sindustrialpolicies,and
 whether it complies with our credit direction regulations.
-(cid:129) Repayment capability review. Through the review of the customer’s specific risks
+ Repayment capability review. Through the review of the customer’s specific risks
 and financing project risks, a comprehensive evaluation of the customer’s
 repayment capability is made.
-(cid:129) Guarantee analysis. By reviewing the guarantee method, the basic situation of the
+ Guarantee analysis. By reviewing the guarantee method, the basic situation of the
 guarantor, the financial strength of the guarantor, the relationship between the
 guarantor and the customer, the collateral, the type of pledge, the status of
 ownership, the appraised value, and the cashability, it is determined whether the
@@ -13422,11 +13422,11 @@ Non-performing Asset Management
 We place a high importance on the disposal of non-performing loans. According to the
 actual situation of various types of non-performing loans, we adopt the following conventional
 measures for disposal.
-(cid:129) Enhance corporate repayment capability. For enterprises that are poorly managed
+ Enhance corporate repayment capability. For enterprises that are poorly managed
 and temporarily have difficulty repaying loans, we may assist the companies to
 strengthen management, promote sales, reduce unreasonable expenditures, and
 enhance their ability to repay loans.
-(cid:129) Increase credit input. For non-performing loans formed due to insufficient credit
+ Increase credit input. For non-performing loans formed due to insufficient credit
 input, insufficient funds for corporate production and operation, or gaps in project
 construction funds, we may increase new credit inputs to turn the enterprise’s
 production and operation or project construction to normal, thereby improving the
@@ -13436,19 +13436,19 @@ interest, if we assess that the enterprise’s operation or project has good pro
 
 === PAGE 331 ===
 RISK MANAGEMENT
-(cid:129) Adjust the guarantee method. For non-performing loans without guarantees or
+ Adjust the guarantee method. For non-performing loans without guarantees or
 insufficient original guarantees, we may reduce the possibility and degree of credit
 asset losses by increasing guarantees or changing the method and amount of
 guarantees.
-(cid:129) Corporate asset reorganization. We implement deal with non-performing credit
+ Corporate asset reorganization. We implement deal with non-performing credit
 assets through asset reorganization measures such as mergers, acquisitions,
 customerships, joint ventures, and consolidations of companies.
-(cid:129) Legal means. We protect and recover claims through arbitration, litigation, and
+ Legal means. We protect and recover claims through arbitration, litigation, and
 enforcement according to law, and effectively preserve credit assets by relying on
 legal means.
-(cid:129) Loan for collateral. We obtain the property ownership of the customers through
+ Loan for collateral. We obtain the property ownership of the customers through
 negotiation or legal litigation to compensate for non-performing credit assets.
-(cid:129) Write-off. For credit assets that are indeed irrecoverable, we review and determine
+ Write-off. For credit assets that are indeed irrecoverable, we review and determine
 them according to relevant regulations and offset them after applying for approval
 from the finance or tax department, and we continue to pursue debtors under the
 management of write-off cases.
@@ -13459,12 +13459,12 @@ and timely recovery of non-performing loans. We abide by the principle of fairne
 ofournon-performingloansandadoptthesametransferproceduresforalltypesoftransferees.
 Thetransfersofournon-performingloansareinitiatedbyourBankandfollowthetypical
 procedures including:
-(cid:129) Due diligence on non-performing loans to be transferred out. Once the transfer of
+ Due diligence on non-performing loans to be transferred out. Once the transfer of
 certain non-performing loans is initiated, we designate investigation personnel to
 investigate relevant non-performing loans by means such as documentary review
 and on-site visit, so as to analyze and evaluate the actual and potential impairment
 on the non-performing loans.
-(cid:129) Pricing proposal for the transfer. Our branch and sub-branches are responsible to
+ Pricing proposal for the transfer. Our branch and sub-branches are responsible to
 advise forecast on the recovery of non-performing loans based on the due diligence
 procedures and propose a transfer price with reference to the value of the
 non-performing loans, as well as quoted price from intended transferees, taking into
@@ -13474,16 +13474,16 @@ loans.
 
 === PAGE 332 ===
 RISK MANAGEMENT
-(cid:129) Formation, review and approval on the transfer plan. The due diligence report and
+ Formation, review and approval on the transfer plan. The due diligence report and
 pricing proposal formulated by our branch and sub-branches shall be reviewed and
 signed by the responsible principal and be submitted to the Asset Preservation
 Department and the Risk Management Department of our Bank for review and
 formation of detailed transfer plan. The transfer plan shall be approved by the Risk
 Management Committee and the responsible principal of our Bank.
-(cid:129) Implementation of the transfer.We may transfer the non-performing loans by way of
+ Implementation of the transfer.We may transfer the non-performing loans by way of
 auction, public tender, invited tender or negotiation and execute asset transfer
 agreements with transferees.
-(cid:129) Reporting to competent authorities. We report the transfer of non-performing loans
+ Reporting to competent authorities. We report the transfer of non-performing loans
 to regulatory authorities according to requirements of applicable laws and
 regulations.
 Credit Risk Management for Risk Exposure Related to LGFVs
@@ -13599,13 +13599,13 @@ materials and trading documents. We also implement internal procedures to ensure
 transaction prohibited by the currently effective laws and regulations will be approved.
 Specifically, we have taken the following measures to enhance our management of credit
 risks arising from off-balance sheet commitments:
-(cid:129) Establishing comprehensive risk management system. We have formulated Yibin
+ Establishing comprehensive risk management system. We have formulated Yibin
 City Commercial Bank’s Risk Management Measures for Off-balance Sheet
 Business (《宜賓市商業銀行表外業務風險管理辦法》), which provides
 comprehensive management measures for the risks arising from off-balance sheet
 commitments, such as credit risk, market risk and liquidity risk, enabling us to
 identify, assess, monitor, report and mitigate relevant risks timely;
-(cid:129) Establishing standardized and detailed operational procedures. In respect of letters
+ Establishing standardized and detailed operational procedures. In respect of letters
 of guarantee business, we have formulated Yibin City Commercial Bank’s
 Management Measures for Tender Guarantee Business (《宜賓市商業銀行投標保函
 業務管理辦法》) and Yibin City Commercial Bank’s Management Measures for
@@ -13618,11 +13618,11 @@ accordance with relevant laws and regulations, which stipulates strict managemen
 measures for the whole process. We strengthen the authenticity verification of
 customers’ identity and transactions, and establish an abnormal and suspicious
 transactions monitoring mechanism;
-(cid:129) Formulating a unified credit and limit management mechanism. We incorporate
+ Formulating a unified credit and limit management mechanism. We incorporate
 off-balance-sheet business into our unified credit management, and adopt unified
 credit policy, process, limit and concentration management for both on- and
 off-balance-sheet business; and
-(cid:129) Implementing strict risk classification and adequate allowances for impairment
+ Implementing strict risk classification and adequate allowances for impairment
 losses. For off-balance-sheet business, we classify the risk in accordance with the
 relevant regulations on risk classification of financial assets. In addition, we make
 dynamic adjustments as well as adequate allowances for impairment losses on
@@ -13748,27 +13748,27 @@ decision committee, financial market department, business initiation unit, busin
 development department, accounting management department, planning and finance
 department, risk management department, compliance management department, internal audit
 department.
-(cid:129) The credit business risk review committee is primarily responsible for conducting
+ The credit business risk review committee is primarily responsible for conducting
 credit risk review on the underlying assets of Class B investments in accordance
 with the credit business risk review rules.
 – 328 –
 
 === PAGE 339 ===
 RISK MANAGEMENT
-(cid:129) The interbank investment decision committee is primarily responsible for reviewing
+ The interbank investment decision committee is primarily responsible for reviewing
 the risks, transaction structures and investment plans of Class A SPV investments
 and Class B SPV investments approved by the credit business risk review
 committee, forming collective resolutions and providing reference opinions for the
 headquarters’ authorized approvers to make decisions and approve investment
 business.
-(cid:129) The financial market department is primarily responsible for formulating the
+ The financial market department is primarily responsible for formulating the
 management measures on such investments, actively conducting business, assisting
 business initiation unit in formulating Class B SPV investment plans reviewed and
 approved by the underlying asset credit business risk review committee, entering
 them into the system, establishing ledger, regularly verifying, and initiation or
 completing emergency response processes when there are obvious risk hazards in
 reinvestment.
-(cid:129) The initiation unit of Class B SPV investments is primarily responsible for
+ The initiation unit of Class B SPV investments is primarily responsible for
 conducting due diligence on the projects in accordance with the credit business
 management rules, writing investigation reports, submitting them to the credit
 business risk review committee for review, forming investment plans, and
@@ -13776,25 +13776,25 @@ submitting them for approval level by level, completing subsequent management
 work, assisting in completing the emergency response process for investments with
 risk hazards, sending statistical information at the prescribed frequency, and
 responsible for the subsequent work of relevant file management.
-(cid:129) The business development department is primarily responsible for coordinating the
+ The business development department is primarily responsible for coordinating the
 overallcategoryandstructureofClassB,directingthemarketingandreservesofthe
 headquarters business unit and branch and sub-branch offices, and managing the
 credit concentration of fund users.
-(cid:129) The accounting management department is responsible for accounting and fund
+ The accounting management department is responsible for accounting and fund
 receipt and payment of investments based on the approval documents provided by
 the business department.
-(cid:129) The planning and finance department is responsible for monitoring the liquidity and
+ The planning and finance department is responsible for monitoring the liquidity and
 capital adequacy status, and evaluating the impact of the annual investment plan on
 our liquidity and other regulatory indicators.
-(cid:129) The risk management department is responsible for reviewing investment business
+ The risk management department is responsible for reviewing investment business
 risks and monitoring their operational status.
-(cid:129) The compliance management department is responsible for compliance management
+ The compliance management department is responsible for compliance management
 on investments, reviewing relevant legal documents and issuing review opinions.
 – 329 –
 
 === PAGE 340 ===
 RISK MANAGEMENT
-(cid:129) The internal audit department is responsible for conducting independent internal
+ The internal audit department is responsible for conducting independent internal
 audit of investments, carrying out independent inspection and supervision on the
 complianceofimplementationofinternalcontrolsystemandoperationalprocedures
 by relevant departments and personnel and the integrity of data and ledgers, and
@@ -13918,22 +13918,22 @@ monitoring.Dependingonthecontentofmonitoring,ourdetectionfrequenciesaredividedin
 real-time monitoring, daily monitoring, ten-day monitoring, monthly monitoring, and quarterly
 monitoring.
 We manage liquidity risk mainly through the following measures.
-(cid:129) Implementing strict daytime management of fund positions and fund flows.
+ Implementing strict daytime management of fund positions and fund flows.
 – 332 –
 
 === PAGE 343 ===
 RISK MANAGEMENT
-(cid:129) Gradually implementing limit management for liquidity risk and continuously
+ Gradually implementing limit management for liquidity risk and continuously
 improving the limit system that combines timely early warnings and rigid controls.
 Liquidity risk limit management indicators include the concentration limit of assets
 and liabilities, liquidity risk indicator limit, cash flow gap limit, and internal
 transaction limit of the Group.
-(cid:129) Gradually establishing layered liquidity reserves according to our liquidity status
+ Gradually establishing layered liquidity reserves according to our liquidity status
 and business development situation, and timely organizing evaluations of the
 realization ability of high-quality liquid assets.
-(cid:129) Fully assessing the possible impact on liquidity risk in feasibility studies before
+ Fully assessing the possible impact on liquidity risk in feasibility studies before
 introducing new products, new businesses, and establishing new institutions.
-(cid:129) Developing liquidity risk emergency plans to ensure liquidity needs in emergencies.
+ Developing liquidity risk emergency plans to ensure liquidity needs in emergencies.
 If potential liquidity risk occurs, we will take measures according to the severity of
 the situation.
 OPERATIONAL RISK MANAGEMENT
@@ -14109,14 +14109,14 @@ line of defense is our internal audit department, responsible for auditing the p
 effectiveness of the first and second lines of defense and promptly identifying and correcting
 any issues related to compliance risk management.
 We primarily manage the compliance risk through the following measures:
-(cid:129) We establish a comprehensive process for compliance management, constructing
+ We establish a comprehensive process for compliance management, constructing
 management tools and methods covering all aspects from external regulation
 internalization, internal regulation construction, compliance execution, and
 compliance supervision accountability. This realizes full coverage of operational
 and management activities, emphasizes key areas of compliance management,
 strengthens compliance reporting, and effectively promotes our compliant
 operations.
-(cid:129) We strengthen decision-making in accordance with regulations, and strictly follow
+ We strengthen decision-making in accordance with regulations, and strictly follow
 the prescribed procedures and processes when formulating development strategies,
 annual operation plans, and other significant matters. This thoroughly implements
 legal, rule, and guideline requirements and scientifically grasps the relationship
@@ -14125,16 +14125,16 @@ between business, compliance, and profit.
 
 === PAGE 348 ===
 RISK MANAGEMENT
-(cid:129) We enhance compliance risk management by adopting a combination of qualitative
+ We enhance compliance risk management by adopting a combination of qualitative
 and quantitative methods. We identify and assess compliance risks associated with
 operational and management activities, clarify the focus of compliance
 management, and propose and implement compliance management measures.
-(cid:129) We establish a compliance supervision and evaluation system, to conduct
+ We establish a compliance supervision and evaluation system, to conduct
 compliance checks and evaluations on the operational and management activities of
 employees and various institutions.Through timely discovery and effective removal
 of compliance issues or potential compliance risks, we strengthen our compliant
 operations and compliance management.
-(cid:129) We strengthen compliance management by increasing employee training on legal
+ We strengthen compliance management by increasing employee training on legal
 compliance matters, thus fostering a compliance culture.
 Specifically, we continue to improve the anti-money laundering and counter-terrorist
 financing compliance management structure. We have established a sound anti-money
@@ -17844,47 +17844,47 @@ classification are listed below.
 Normal. Loans are classified as normal only if the borrower can honor the terms of its
 loans and there is no sufficient reason to doubt its ability to repay principal and interest in full
 on a timely basis.
-(cid:129) the borrower pays the principal and interest under the contract;
-(cid:129) the borrower’s operations and business are stable;
-(cid:129) the borrower has a good credit history with us;
-(cid:129) the borrower’s cash flows from the ordinary course of business are stable and
+ the borrower pays the principal and interest under the contract;
+ the borrower’s operations and business are stable;
+ the borrower has a good credit history with us;
+ the borrower’s cash flows from the ordinary course of business are stable and
 sufficient to service the loan; or
-(cid:129) the borrower has strong financing ability and is in a business with good prospects.
+ the borrower has strong financing ability and is in a business with good prospects.
 – 406 –
 
 === PAGE 417 ===
 ASSETS AND LIABILITIES
 Special mention. Loans should be classified as special mention if the borrower is able to
 service its loans, although repayment may be adversely affected by specific factors, including:
-(cid:129) there are adverse changes on certain key financial indicators of the borrower, such
+ there are adverse changes on certain key financial indicators of the borrower, such
 as decreases in cash flow and increases in debts-to-assets ratio; or such financial
 indicators are clearly lower than the industry level;
-(cid:129) loans extension, or past due for a certain period, or such extended loans need to be
+ loans extension, or past due for a certain period, or such extended loans need to be
 repaid by other financing methods;
-(cid:129) there have been material changes in the borrower’s substantial shareholders,
+ there have been material changes in the borrower’s substantial shareholders,
 affiliatedentities,orparentcompaniesorsubsidiariesthatmayaffecttheborrower’s
 repayment capability;
-(cid:129) there have been material changes in the borrower’s senior management that may
+ there have been material changes in the borrower’s senior management that may
 impact the borrower’s repayment capability;
-(cid:129) our loan document is incomplete and the missing documents may affect our ability
+ our loan document is incomplete and the missing documents may affect our ability
 to enforce collectability of the loans;
-(cid:129) the borrower has used the loan proceeds for a purpose inconsistent with the intended
+ the borrower has used the loan proceeds for a purpose inconsistent with the intended
 use of the loan proceeds; or
-(cid:129) there have been adverse changes in the macro-economic environment, industry,
+ there have been adverse changes in the macro-economic environment, industry,
 market, or laws and regulations that may adversely affect the borrower’s repayment
 capability.
 Substandard.Loansshouldbeclassifiedassubstandardiftheborrower’sabilitytoservice
 its loans is in question as it cannot rely entirely on normal business revenues to repay the
 principal and interest, and losses may ensue even if we invoke the collateral or guarantees.
 Loans are generally classified as substandard if any of the following circumstances arises:
-(cid:129) the principal or any interest payments are overdue for over 90 days;
-(cid:129) the loans require restructuring through amendments to repayment terms as a result
+ the principal or any interest payments are overdue for over 90 days;
+ the loans require restructuring through amendments to repayment terms as a result
 of the borrower’s deteriorated financial condition or inability to pay;
-(cid:129) the borrower is disposing of, or selling off, major fixed assets used for production
+ the borrower is disposing of, or selling off, major fixed assets used for production
 or business operation;
-(cid:129) the borrower’s external credit rating has significantly downgraded and affected the
+ the borrower’s external credit rating has significantly downgraded and affected the
 borrower’s repayment capability; or
-(cid:129) the borrower has encountered continuous financial difficulties, or the underlying
+ the borrower has encountered continuous financial difficulties, or the underlying
 project has been significantly delayed resulting in a shortage of cash flows for loan
 repayment and the borrower’s inability to repay the loan on a timely basis.
 – 407 –
@@ -17895,42 +17895,42 @@ Doubtful. Loans should be classified as doubtful if the borrower cannot repay th
 principalandinterestinfullandsignificantlosseswillneedtoberecognizedevenifweinvoke
 the collateral or guarantees. Loans in the doubtful category generally demonstrate the
 following characteristics:
-(cid:129) the principal or any interest payments are overdue for over 270 days;
-(cid:129) the borrower is experiencing financial losses, is unable to repay the loan and cannot
+ the principal or any interest payments are overdue for over 270 days;
+ the borrower is experiencing financial losses, is unable to repay the loan and cannot
 obtain other funding;
-(cid:129) the borrower is unable to make repayment even after receiving funds from the
+ the borrower is unable to make repayment even after receiving funds from the
 disposal of intangible assets, property, equipment or shares;
-(cid:129) theborrower’sproductionoroperationshavebeensuspendedorpartiallysuspended,
+ theborrower’sproductionoroperationshavebeensuspendedorpartiallysuspended,
 or the infrastructure project financed by our loans has been suspended; or
-(cid:129) the loans are still overdue or the borrower is still unable to repay the loans
+ the loans are still overdue or the borrower is still unable to repay the loans
 notwithstanding loan restructuring.
 Loss. Loans should be classified as loss if only a minimal portion or none of the principal
 andinterestcanberecoveredafterallpossiblemeasureshavebeentakenandalllegalremedies
 have been exhausted. Loans in the loss category generally demonstrate the following
 characteristics:
-(cid:129) the principal or any interest payments are overdue for over 360 days;
-(cid:129) we have brought legal actions against the borrower to recover the loan, but even
+ the principal or any interest payments are overdue for over 360 days;
+ we have brought legal actions against the borrower to recover the loan, but even
 after the enforcement of court’s order, we may still incur a significant loss on the
 loan;
-(cid:129) although the borrower’s operation continues, given that there is a lack of market for
+ although the borrower’s operation continues, given that there is a lack of market for
 its product, the borrower has become insolvent and incurred significant losses,
 putting it on the brink of bankruptcy, and the government has no plans to provide
 assistance to alleviate their difficulties, and thus the borrower is evidently unable to
 fulfill their repayment obligations;
-(cid:129) the borrower or the guarantor has been declared bankrupt or been dissolved or
+ the borrower or the guarantor has been declared bankrupt or been dissolved or
 closeddown,andterminatedasalegalentity,orhadtheirbusinesslicensesrevoked,
 the loans thereof remain unpaid after the pursuit of recovery;
-(cid:129) serious natural disasters or unforeseen events have resulted in significant losses of
+ serious natural disasters or unforeseen events have resulted in significant losses of
 theborrowerwithoutinsurancecoverageortheloanremainsunpaidinfullorinpart
 even after payment on insurance claims and our pursuit of recovery;
 – 408 –
 
 === PAGE 419 ===
 ASSETS AND LIABILITIES
-(cid:129) the loans remain unpaid even after the conclusion of a judicial proceeding with
+ the loans remain unpaid even after the conclusion of a judicial proceeding with
 respect to the borrower and the guarantor, or the enforcement of the guarantee or
 foreclosure on the collateral; or
-(cid:129) the action brought against the borrower and the guarantor has lapsed with respect to
+ the action brought against the borrower and the guarantor has lapsed with respect to
 the statute of limitations, or we have lost the important documents evidencing our
 credit rights, and the loans remain unpaid after our pursuit of recovery.
 Distribution of Loans and Advances to Customers by Loan Classification
@@ -20086,15 +20086,15 @@ Regulatory
 Capital adequacy
 indicators(1)
 Core tier-one capital
-adequacy ratio(2) 15.26% 12.86% 12.22% 13.49% (cid:2)7.5%
+adequacy ratio(2) 15.26% 12.86% 12.22% 13.49% 7.5%
 Tier-one capital adequacy
-ratio(3) 15.30% 12.89% 12.26% 13.52% (cid:2)8.5%
-Capital adequacy ratio(4) 16.47% 14.08% 13.41% 14.74% (cid:2)10.5%
+ratio(3) 15.30% 12.89% 12.26% 13.52% 8.5%
+Capital adequacy ratio(4) 16.47% 14.08% 13.41% 14.74% 10.5%
 Asset quality indicators
-NPL ratio(5) 2.27% 1.77% 1.76% 1.72% (cid:3)5%
-Allowance coverage ratio(6) 198.35% 213.40% 262.02% 254.97% (cid:2)150%
+NPL ratio(5) 2.27% 1.77% 1.76% 1.72% 5%
+Allowance coverage ratio(6) 198.35% 213.40% 262.02% 254.97% 150%
 Allowance to gross loan
-ratio(7) 4.50% 3.78% 4.61% 4.39% (cid:2)2.5%
+ratio(7) 4.50% 3.78% 4.61% 4.39% 2.5%
 Other indicators
 Loan to deposit ratio(8) 74.71% 75.02% 73.64% 69.83% N/A
 Notes:
@@ -21321,23 +21321,23 @@ development.
 FINANCIAL INFORMATION
 The salient terms of our general arrangement with customers on acceptance bills are as
 follows:
-(cid:129) Acceptance of Bill: Subject to certain condition precedents, we agree to accept the
+ Acceptance of Bill: Subject to certain condition precedents, we agree to accept the
 acceptance bills submitted by the drawer (customer). Condition precedents include
 but are not limited to the opening of an account with our Bank by the drawer, the
 provision of requested documents such as business license and financial statements,
 the deposit of the agreed security deposit amount, and/or the signing of guarantee
 contracts.
-(cid:129) Guarantee: The drawer shall provide one or more forms of guarantees to our Bank.
+ Guarantee: The drawer shall provide one or more forms of guarantees to our Bank.
 Options include depositing a security deposit, providing a guarantee, mortgage,
 pledge, or other forms of security. For guarantees in terms of security deposit, the
 drawer shall maintain the deposit ratio to not lower than an agreed ratio.
-(cid:129) Acceptance Risk Management Fees:We shall charge a commission fee for handling
+ Acceptance Risk Management Fees:We shall charge a commission fee for handling
 acceptance bills at a certain percentage of the face amount of the acceptance bill,
 which shall be paid in full by the drawer at the time of signing. We shall charge an
 acceptance exposure risk management fee calculated according to our standard for
 acceptance bills with exposure, which shall be paid in full by the drawer at the time
 of signing.
-(cid:129) Payment Obligations:The drawer shall deposit the full amount of the bill before the
+ Payment Obligations:The drawer shall deposit the full amount of the bill before the
 maturity date and authorize us to directly deduct any amount payable under the
 agreement from the drawer’s account with our Bank. If we do not receive payment
 on the maturity date, we reserve the right to charge the drawer a daily penalty
@@ -23031,10 +23031,10 @@ Indebtedness
 As of October 31, 2024, the most recent practicable date for the purpose of ascertaining
 certain information contained in this description of indebtedness, we had the following
 indebtedness:
-(cid:129) interbank certificates of deposit in an aggregate principal amount of RMB1.62
+ interbank certificates of deposit in an aggregate principal amount of RMB1.62
 billion;
-(cid:129) lease liabilities in an amount of RMB27.48 million;
-(cid:129) contingent liabilities, including bank acceptance, letters of guarantee issued, other
+ lease liabilities in an amount of RMB27.48 million;
+ contingent liabilities, including bank acceptance, letters of guarantee issued, other
 commitments and contingencies that arose from our normal course of banking
 business.
 – 521 –
@@ -23086,11 +23086,11 @@ distributable profits or net of accumulated losses, if any, at the beginning of 
 determined under IFRS, and (iv) the unconsolidated net profit of our Bank for the period plus
 distributable profits or net of accumulated losses, if any, at the beginning of such period, as
 determined under IFRS, less:
-(cid:129) appropriations we are required to make to the statutory reserve, which is currently
+ appropriations we are required to make to the statutory reserve, which is currently
 10% of our unconsolidated net profit as determined under PRC GAAP, until such
 reserve reaches an amount equal to 50% of our registered capital;
-(cid:129) a general reserve we are required to set aside; and
-(cid:129) appropriations to a discretionary surplus reserve as approved by our Shareholders in
+ a general reserve we are required to set aside; and
+ appropriations to a discretionary surplus reserve as approved by our Shareholders in
 an annual general meeting.
 Under relevant MOF regulations, we are required to maintain a general reserve no less
 than 1.5% of the balance of our risk-bearing assets from our net profits after tax. This general
@@ -23640,17 +23640,17 @@ STRUCTURE OF THE GLOBAL OFFERING
 THE GLOBAL OFFERING
 This Prospectus is published in connection with the Hong Kong Public Offering as part
 of the Global Offering. The Global Offering comprises:
-(cid:129) the Hong Kong Public Offering of initially 68,840,000 Offer Shares (subject to
+ the Hong Kong Public Offering of initially 68,840,000 Offer Shares (subject to
 reallocation as mentioned below) in Hong Kong as described below in “– The Hong
 Kong Public Offering”; and
-(cid:129) the International Offering of initially 619,560,000 Offer Shares (subject to
+ the International Offering of initially 619,560,000 Offer Shares (subject to
 reallocation and the Over-allotment Option as described below) outside the United
 States (including to professional, institutional and corporate investors and other
 investors anticipated to have a sizeable demand for the Offer Shares in Hong Kong)
 in offshore transactions in reliance on Regulation S.
 Investors may either:
-(cid:129) apply for the Hong Kong Offer Shares under the Hong Kong Public Offering; or
-(cid:129) apply for or indicate an interest, if qualified to do so, for the International Offer
+ apply for the Hong Kong Offer Shares under the Hong Kong Public Offering; or
+ apply for or indicate an interest, if qualified to do so, for the International Offer
 Shares under the International Offering,
 but may not do both.
 The 688,400,000 Offer Shares in the Global Offering will represent 15% of our enlarged
@@ -23691,12 +23691,12 @@ who are not successful in the ballot may not receive any Hong Kong Offer Shares.
 For allocation purposes only, the total number of Offer Shares available under the Hong
 Kong Public Offering is to be divided equally into two pools (with any odd lots being allocated
 to pool A):
-(cid:129) Pool A: The Hong Kong Offer Shares in pool A will be allocated on an equitable
+ Pool A: The Hong Kong Offer Shares in pool A will be allocated on an equitable
 basis to applicants who have applied for the Hong Kong Offer Shares with an
 aggregate subscription price of HK$5 million or less (excluding brokerage, SFC
 transaction levy, AFRC transaction levy and Stock Exchange trading fee payable);
 and
-(cid:129) Pool B: The Hong Kong Offer Shares in pool B will be allocated on an equitable
+ Pool B: The Hong Kong Offer Shares in pool B will be allocated on an equitable
 basis to applicants who have applied for the Hong Kong Offer Shares with an
 aggregate subscription price of more than HK$5 million and up to the value of pool
 B (excluding brokerage, SFC transaction levy, AFRC transaction levy and Stock
@@ -23887,22 +23887,22 @@ Shares, (v) selling or agreeing to sell any H Shares in order to liquidate any p
 established as a result of those purchases, and (vi) offering or attempting to do anything as
 described in (ii), (iii), (iv) or (v) above.
 Specifically, prospective applicants for and investors in H Shares should note that:
-(cid:129) the Stabilizing Manager (or any person acting for it) may, in connection with the
+ the Stabilizing Manager (or any person acting for it) may, in connection with the
 stabilizing action, maintain a long position in the H Shares;
-(cid:129) there is no certainty as to the extent to which and the time or period for which the
+ there is no certainty as to the extent to which and the time or period for which the
 Stabilizing Manager (or any person acting for it) will maintain such a long position;
-(cid:129) liquidation of any such long position by the Stabilizing Manager (or any person
+ liquidation of any such long position by the Stabilizing Manager (or any person
 acting for it) and selling in the open market may have an adverse impact on the
 market price of the H Shares;
-(cid:129) nostabilizingactioncanbetakentosupportthepriceoftheHSharesforlongerthan
+ nostabilizingactioncanbetakentosupportthepriceoftheHSharesforlongerthan
 the stabilizing period which will begin on the Listing Date and is expected to expire
 on Friday, February 7, 2025, being the 30th day after the last day for lodging
 applications under the Hong Kong Public Offering.After this date, when no further
 action may be taken to support the price of the H Shares, demand for the H Shares,
 and therefore the price of the H Shares, could fall;
-(cid:129) the price of the H Shares cannot be assured to stay at or above the Offer Price by
+ the price of the H Shares cannot be assured to stay at or above the Offer Price by
 the taking of any stabilizing action; and
-(cid:129) stabilizing bids or transactions effected in the course of the stabilizing action may
+ stabilizing bids or transactions effected in the course of the stabilizing action may
 be made at any price at or below the Offer Price, which means that stabilizing bids
 or transactions effected may be made at a price below the price paid by applicants
 for, or investors in, the Offer Shares.
@@ -24004,15 +24004,15 @@ If, for any reason, the Offer Price is not agreed between the Overall Coordinato
 Thursday, January 9, 2025, the Global Offering will not proceed and will lapse.
 CONDITIONS OF THE GLOBAL OFFERING
 Acceptance of all applications for Offer Shares is conditional on:
-(cid:129) theListingCommitteegrantingapprovalforthelistingof,andpermissiontodealin,
+ theListingCommitteegrantingapprovalforthelistingof,andpermissiontodealin,
 our H Shares in issue and to be issued as described in this Prospectus (including the
 H Shares which may be issued pursuant to the exercise of the Over-allotment
 Option);
-(cid:129) the Offer Price having been agreed between us and the Overall Coordinators (for
+ the Offer Price having been agreed between us and the Overall Coordinators (for
 themselves and on behalf the Underwriters);
-(cid:129) the execution and delivery of the International UnderwritingAgreement on or about
+ the execution and delivery of the International UnderwritingAgreement on or about
 the Price Determination Date; and
-(cid:129) the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
+ the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
 Agreement and the obligations of the International Underwriters under the
 International UnderwritingAgreement becoming unconditional and not having been
 terminated in accordance with the terms of the respective agreements,
@@ -24072,19 +24072,19 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
-(cid:129) are 18 years of age or older;
-(cid:129) have a Hong Kong address (for the White Form eIPO service only); and
-(cid:129) are outside the United States, and are not a United States Person (as defined in
+ are 18 years of age or older;
+ have a Hong Kong address (for the White Form eIPO service only); and
+ are outside the United States, and are not a United States Person (as defined in
 Regulation S under the U.S. Securities Act).
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Offer Shares
 if you or the person(s) for whose benefit you are applying for:
-(cid:129) are an existing beneficial owner of Shares in our Bank and/or any its subsidiaries;
-(cid:129) are a Director or a Supervisor or chief executive officer of our Bank and/or any of
+ are an existing beneficial owner of Shares in our Bank and/or any its subsidiaries;
+ are a Director or a Supervisor or chief executive officer of our Bank and/or any of
 its subsidiaries;
-(cid:129) are a close associate (as defined in the Listing Rules) of any of the above;
-(cid:129) will become a core connected person (as defined in the Listing Rules) of our Bank
+ are a close associate (as defined in the Listing Rules) of any of the above;
+ will become a core connected person (as defined in the Listing Rules) of our Bank
 upon completion of the Global Offering; or
-(cid:129) have been allocated or have applied for or indicated an interest in any Offer Shares
+ have been allocated or have applied for or indicated an interest in any Offer Shares
 or otherwise participate in the International Offering.
 – 549 –
 
@@ -24173,11 +24173,11 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual/Joint Applicants For Corporate Applicants
-(cid:129) Full name(s)(2) as shown on your (cid:129) Full name(s)(2) as shown on your
+ Full name(s)(2) as shown on your Full name(s)(2) as shown on your
 identity document identity document
-(cid:129) Identity document’s issuing country (cid:129) Identity document’s issuing country
+ Identity document’s issuing country Identity document’s issuing country
 or jurisdiction or jurisdiction
-(cid:129) Identity document type, with order (cid:129) Identity document type, with order
+ Identity document type, with order Identity document type, with order
 of priority: of priority:
 i. Hong Kong identity card i. Legal Entity Identifier (“LEI”)
 (“HKID”); or registration document; or
@@ -24185,8 +24185,8 @@ ii. National identification ii. Certificate of incorporation; or
 document; or
 iii. Business registration
 iii. Passport certificate; or
-(cid:129) Identity document number iv. Other equivalent document
-(cid:129) Identity document number
+ Identity document number iv. Other equivalent document
+ Identity document number
 Notes:
 (1) If you are applying through the White Form eIPO service, you are required to provide a valid e-mail
 address,acontacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclarethatthe
@@ -24219,9 +24219,9 @@ as stated above.
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through the HKSCC EIPO channel and making an application under
@@ -24499,17 +24499,17 @@ application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the H Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 “– A. Application for Hong Kong Offer Shares – 5. Multiple Applications
 Prohibited” above on what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated; or
-(cid:129) our Bank or the Overall Coordinators believe that by accepting your application, it
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated; or
+ our Bank or the Overall Coordinators believe that by accepting your application, it
 or they would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -24643,9 +24643,9 @@ E. Severe Weather Arrangements” in this section.
 E. SEVERE WEATHER ARRANGEMENTS
 The application lists will not open or close on Wednesday, January 8, 2025 if there
 is/are:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a “black” rainstorm warning signal; and/or
-(cid:129) Extreme Conditions
+ a tropical cyclone warning signal number 8 or above;
+ a “black” rainstorm warning signal; and/or
+ Extreme Conditions
 (collectively, “Bad Weather Signals”)
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Wednesday,
 January 8, 2025 (Hong Kong time).
@@ -24722,23 +24722,23 @@ Bank and the H Share Registrar immediately of any inaccuracies in the personal d
 3. Purposes
 Your personal data may be used, held, processed and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund check and White Form e-Refund payment
+ processing your application and refund check and White Form e-Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this Prospectus and announcing results of
 allocation of Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the H
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the H
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating our Bank’s register of members;
-(cid:129) verifying identities of applicants for and holders of the H Shares and identifying any
+ maintaining or updating our Bank’s register of members;
+ verifying identities of applicants for and holders of the H Shares and identifying any
 duplicate applications for the H Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the H Shares, such as dividends,
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the H Shares, such as dividends,
 rights issues, bonus issues, etc.;
-(cid:129) distributing communications from our Bank and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the H Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenableour
+ distributing communications from our Bank and its subsidiaries;
+ compiling statistical information and profiles of the holder of the H Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenableour
 Bank and the H Share Registrar to discharge their obligations to applicants for and
 holders of the H Shares and/or regulators and/or any other purposes to which
 applicants for and holders of the H Shares may from time to time agree.
@@ -24752,21 +24752,21 @@ and holders of Hong Kong Offer Shares will be kept confidential but our Bank and
 Registrarmay,totheextentnecessaryforachievinganyoftheabovepurposes,disclose,obtain
 or transfer (whether within or outside Hong Kong) the personal data to, from or with any of
 the following:
-(cid:129) our Bank’s appointed agents such as financial advisers, receiving banks and
+ our Bank’s appointed agents such as financial advisers, receiving banks and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar, in each case for the purposes of providing its
 services or facilities or performing its functions in accordance with its rules or
 procedures and operating FINI and CCASS (including where applicants for the
 Hong Kong Offer Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to our Bank or the H
 Share Registrar in connection with their respective business operations;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purposes of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of Personal Data
@@ -25668,10 +25668,10 @@ receive, i.e., the present value of all cash shortfalls (among them, for the pur
 originated credit-impaired financial assets, discount shall be based on the credit-adjusted
 effective interest rate of the financial assets).
 The Group measures ECL of a financial instrument in a way that reflects:
-(cid:129) an unbiased and probability-weighted amount that is determined by evaluating
+ an unbiased and probability-weighted amount that is determined by evaluating
 a range of possible outcomes;
-(cid:129) the time value of money;
-(cid:129) reasonable and supportable information that is available without undue cost or
+ the time value of money;
+ reasonable and supportable information that is available without undue cost or
 effort at the balance sheet date about past events, current conditions and
 forecasts of future economic conditions.
 The description of inputs, assumptions and estimation techniques used in measuring
@@ -25699,16 +25699,16 @@ The Group will renegotiate or modify customer loan contracts due to certain spec
 circumstances at times, which will in turn lead to changes in contract cash flows. In such
 cases, the Group will assess if there is a substantial change in the modified contractual
 terms. In making the assessment, factors need to be considered include:
-(cid:129) Where a modification of contract occurs when the borrower is suffering from
+ Where a modification of contract occurs when the borrower is suffering from
 financial difficulties, whether the modification only reduces the contract cash
 flows to the amount that is expected to be repaid by the borrower;
-(cid:129) If there’s any newly added substantial term, for example, a term in regard to
+ If there’s any newly added substantial term, for example, a term in regard to
 right to profits/equity returns is newly added, resulting in a substantial change
 in the risk characteristics of the contract;
-(cid:129) The loan term is significantly extended in the absence of financial difficulties
+ The loan term is significantly extended in the absence of financial difficulties
 for the borrower;
-(cid:129) Material change happens to the loan interest rate;
-(cid:129) New collateral and other credit enhancements dramatically change the level of
+ Material change happens to the loan interest rate;
+ New collateral and other credit enhancements dramatically change the level of
 loan credit risk.
 If the terms are substantially different, the Group derecognises the original financial
 asset and recognises a “new” asset at fair value and recalculates a new effective interest
@@ -26291,45 +26291,45 @@ APPENDIX I ACCOUNTANT’S REPORT
 When triggering one or more of the following quantitative, qualitative, or
 upper bound indicators, the Group considers that the credit risk of financial
 instruments has increased significantly:
-(cid:129) The debtor breaches the contract and the principal or interest of the
+ The debtor breaches the contract and the principal or interest of the
 contract was overdue for more than 30 days, but less than 90 days.
-(cid:129) The debtors exist on external market alert lists.
-(cid:129) The principal or interest of bills, financial investments and financial
+ The debtors exist on external market alert lists.
+ The principal or interest of bills, financial investments and financial
 assets with banks and other financial institutions was overdue for not
 more than 30 days.
-(cid:129) There are significant changes in the economic, technical or legal
+ There are significant changes in the economic, technical or legal
 environment in which the debtor is located in the current period or in the
 near future, and the Group will be affected adversely.
-(cid:129) The debtor’s external credit rating (bond rating or issuer rating) migrates
+ The debtor’s external credit rating (bond rating or issuer rating) migrates
 toaratinglowerthanAA,buthigherthanCCC,comparingwithitsinitial
 recognition date.
-(cid:129) The five-category classification of the financial asset migrates to special
+ The five-category classification of the financial asset migrates to special
 mention.
 (b) Definition of default and loss incurred
 Whenafinancialinstrumentmeetsoneormoreofthefollowingconditions,the
 Group considers the financial asset as having defaulted, and the criteria are
 consistent with the definition of the loss incurred:
-(cid:129) The debtor breached the contract and the principal or interest of the
+ The debtor breached the contract and the principal or interest of the
 contract was overdue for more than 90 days.
-(cid:129) The principal or interest of bills, financial investments and financial
+ The principal or interest of bills, financial investments and financial
 assets with banks and other financial institutions was overdue for more
 than 30 days.
-(cid:129) The five-category classification of the financial asset is sub-standard,
+ The five-category classification of the financial asset is sub-standard,
 doubtful or loss.
-(cid:129) The debtor’s external credit rating (issuer rating) is lower than the CCC
+ The debtor’s external credit rating (issuer rating) is lower than the CCC
 (inclusive) investment grade, or a default has occurred, comparing with
 its initial recognition date.
 – I-43 –
 
 === PAGE 621 ===
 APPENDIX I ACCOUNTANT’S REPORT
-(cid:129) The debtor is likely to go bankrupt or carry out other financial
+ The debtor is likely to go bankrupt or carry out other financial
 restructuring.
-(cid:129) The issuer of financial instruments held by the Group has serious
+ The issuer of financial instruments held by the Group has serious
 financial difficulties.
-(cid:129) The Group has made concessions to the debtor in financial difficulty for
+ The Group has made concessions to the debtor in financial difficulty for
 economic or legal reasons.
-(cid:129) Themarketofrelatedfinancialinstrumentsisdesertedduetothedebtor’s
+ Themarketofrelatedfinancialinstrumentsisdesertedduetothedebtor’s
 financial difficulty.
 The above standards apply to all financial instruments of the Group; the
 definition of default is consistently applied to the calculation of expected credit
@@ -26538,10 +26538,10 @@ of financial position.As shown above, as at December 31, 2021, 2022, 2023 and Ju
 were 50.92%, 54.04%, 54.47% and 54.33%, respectively. The management is confident
 in its ability to continue to control and maintain minimal exposure to credit risk to the
 Group from its loans and advances to customers based on the followings:
-(cid:129) As at December 31, 2021, 2022, 2023 and June 30, 2024, the loans and
+ As at December 31, 2021, 2022, 2023 and June 30, 2024, the loans and
 advances to customers portfolio was considered to be neither overdue nor
 impaired are 96.31%, 97.33%, 97.04% and 96.97%;
-(cid:129) The amount of stage 3 loans constituted 2.37%, 1.96%, 2.57% and 2.61% of
+ The amount of stage 3 loans constituted 2.37%, 1.96%, 2.57% and 2.61% of
 the total loan amount as at December 31, 2021, 2022, 2023 and June 30, 2024
 respectively.
 – I-49 –
@@ -27879,11 +27879,11 @@ IFRS 7 specifies the levels of valuation techniques that based on the inputs of
 valuation techniques that are observable or not. The observable inputs reflect the market
 data obtained from independent sources.These two inputs lead to the following fair value
 hierarchy:
-(cid:129) Level 1 – Quoted prices (unadjusted) in active markets for identical assets or
+ Level 1 – Quoted prices (unadjusted) in active markets for identical assets or
 liabilities.
-(cid:129) Level 2 – Inputs other than quoted prices included within level 1 that are
+ Level 2 – Inputs other than quoted prices included within level 1 that are
 observable for the assets or liabilities, either directly or indirectly.
-(cid:129) Level 3 – Inputs for the assets or liabilities that are not based on observable
+ Level 3 – Inputs for the assets or liabilities that are not based on observable
 market data (that is, unobservable inputs).
 The Group determines the fair value of the financial instrument by valuation
 techniques when it is difficult to obtain quotations from the open market.
@@ -28053,8 +28053,8 @@ Total – 34,914,174 280,240 35,194,414
 === PAGE 667 ===
 APPENDIX I ACCOUNTANT’S REPORT
 Specific valuation techniques used to value financial instruments include:
-(cid:129) Quoted market prices or dealer quotes for similar instruments.
-(cid:129) Other techniques, such as discounted cash flow analysis, are used to determine
+ Quoted market prices or dealer quotes for similar instruments.
+ Other techniques, such as discounted cash flow analysis, are used to determine
 fair value for the remaining financial instruments.
 Movement of Level-3 valuation
 Financial
@@ -28184,19 +28184,19 @@ defaulting and the resulting losses). Explanation of the inputs, assumptions and
 techniques used in measuring ECL is further detailed in Note 3.1 Credit risk.
 It requires a lot of significant judgments to measure ECL under relevant accounting
 standards, such as:
-(cid:129) Segmentation of business operations sharing similar credit risk characteristics,
+ Segmentation of business operations sharing similar credit risk characteristics,
 selection of appropriate models and determination of relevant key parameters;
-(cid:129) Criteria for determining a significant increase in credit risk, default and credit
+ Criteria for determining a significant increase in credit risk, default and credit
 impairments;
 – I-93 –
 
 === PAGE 671 ===
 APPENDIX I ACCOUNTANT’S REPORT
-(cid:129) The use of economic scenario, economic indicator and weight for forward-looking
+ The use of economic scenario, economic indicator and weight for forward-looking
 measurement;
-(cid:129) The management’s accumulated adjustment for significant uncertainties that are not
+ The management’s accumulated adjustment for significant uncertainties that are not
 included in the model; and
-(cid:129) Future cash flows forecast on corporate loans and debt investments at stage 3.
+ Future cash flows forecast on corporate loans and debt investments at stage 3.
 Detailed information on the above judgments and estimates is set out in Note 3.1.
 (b) Fair value of financial instruments
 The Group uses valuation techniques to estimate the fair value of financial instruments
@@ -32713,8 +32713,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
-(cid:129) The related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) The unaudited pro forma financial information reflects the proper application of
+ The related pro forma adjustments give appropriate effect to those criteria; and
+ The unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountant’s judgment, having regard to
 the reporting accountant’s understanding of the nature of the company, the event or transaction
@@ -33260,14 +33260,14 @@ The PRC Company Law, Overseas Listing Trial Measures and Guidelines for AoA
 A joint stock limited company which was incorporated in the PRC and seeking a listing
 on the Hong Kong Stock Exchange is mainly subject to the following laws and regulations in
 the PRC:
-(cid:129) The PRC Company Law which was promulgated by the Standing Committee of the
+ The PRC Company Law which was promulgated by the Standing Committee of the
 NPC on 29 December 1993, came into effect on 1 July 1994, revised on 25
 December 1999, 28August 2004, 27 October 2005 and 28 December 2013, October
 26, 2018 and December 29, 2023 respectively and the latest amendment of which
 will be implemented on July 1, 2024. The version currently in effect was amended
 in October 2018, which will be replaced on July 1, 2024 with December 2023
 revision;
-(cid:129) The Trial Administrative Measures of Overseas Securities Offering and Listing by
+ The Trial Administrative Measures of Overseas Securities Offering and Listing by
 Domestic Companies (《境內企業境外發行證券和上市管理試行辦法》) (the
 “Overseas Listing Trial Measures”) and its five guidelines which were
 promulgated by the CSRC on 17 February 2023 and came into effect on 31 March
@@ -33278,7 +33278,7 @@ companies; and
 === PAGE 806 ===
 APPENDIX V SUMMARY OF PRINCIPAL LEGAL AND
 REGULATORY PROVISIONS
-(cid:129) The Guidelines on the Application of Regulatory Rules – No. 1 for Overseas
+ The Guidelines on the Application of Regulatory Rules – No. 1 for Overseas
 Offering and Listing (《監管規則適用指引–境外發行上市類第1號》) which was
 promulgated by the CSRC on 17 February 2023, according to which the domestic
 companies that directly offer and list securities on overseas markets, shall formulate
@@ -33401,10 +33401,10 @@ APPENDIX V SUMMARY OF PRINCIPAL LEGAL AND
 REGULATORY PROVISIONS
 UnderthePRCCompanyLaw,whenthecompanyissuessharesinregisteredform,itshall
 maintain a register of shareholders, stating the following matters:
-(cid:129) the name and domicile of each shareholder;
-(cid:129) the number of shares held by each shareholder;
-(cid:129) the serial numbers of shares held by each shareholder; and
-(cid:129) the date on which each shareholder acquired the shares.
+ the name and domicile of each shareholder;
+ the number of shares held by each shareholder;
+ the serial numbers of shares held by each shareholder; and
+ the date on which each shareholder acquired the shares.
 Increase in Share Capital
 According to the PRC Company Law, when the joint stock limited company issues new
 shares, resolutions shall be passed by a shareholders’general meeting, approving the class and
@@ -33418,16 +33418,16 @@ authorities and an announcement shall be made.
 Reduction of Share Capital
 Acompany may reduce its registered capital in accordance with the following procedures
 prescribed by the PRC Company Law:
-(cid:129) it shall prepare a balance sheet and a property list;
-(cid:129) the reduction of registered capital shall be approved by a shareholders’ general
+ it shall prepare a balance sheet and a property list;
+ the reduction of registered capital shall be approved by a shareholders’ general
 meeting;
-(cid:129) it shall inform its creditors of the reduction in capital within 10 days and publish an
+ it shall inform its creditors of the reduction in capital within 10 days and publish an
 announcement of the reduction in the newspaper within 30 days after the resolution
 approving the reduction has been passed;
-(cid:129) creditors may within 30 days after receiving the notice, or within 45 days of the
+ creditors may within 30 days after receiving the notice, or within 45 days of the
 public announcement if no notice has been received, require the company to pay its
 debts or provide guarantees covering the debts; and
-(cid:129) it shall apply to the relevant administration of registration for the registration of the
+ it shall apply to the relevant administration of registration for the registration of the
 reduction in registered capital.
 – V-9 –
 
@@ -33484,31 +33484,31 @@ months after their resignation from their positions with the company.
 Shareholders
 Under the PRC Company Law and the Guidelines for AoA, the rights of holders of
 ordinary shares of a joint stock limited company include:
-(cid:129) the right to require, convene, preside over, participate in or send proxies of shareholders
+ the right to require, convene, preside over, participate in or send proxies of shareholders
 to attend shareholders’ general meeting and to exercise the corresponding voting rights
 according to the law;
-(cid:129) the right to petition the people’s court to revoke any resolution passed on a shareholders’
+ the right to petition the people’s court to revoke any resolution passed on a shareholders’
 general meeting or a meeting of the board of directors that has not been convened in
 compliance with the laws, regulations or the articles of association or whose voting has
 been conducted in an invalid manner, or any resolution the contents of which is in
 violation of the articles of association, provided that such petition shall be submitted
 within 60 days of the passing of such resolution;
-(cid:129) the right to transfer, donate or pledge their shares in accordance with laws, administrative
+ the right to transfer, donate or pledge their shares in accordance with laws, administrative
 regulations and provisions of the articles of association;
-(cid:129) the right to supervise, make suggestions or enquiries on the company’s operations;
-(cid:129) the right to inspect the company’s articles of association, share register, counterfoil of
+ the right to supervise, make suggestions or enquiries on the company’s operations;
+ the right to inspect the company’s articles of association, share register, counterfoil of
 company debentures, minutes of shareholder’s general meetings, resolutions of meetings
 oftheboardofdirectors,resolutionsofmeetingsoftheboardofsupervisorsandfinancial
 and accounting reports;
-(cid:129) any shareholder who has a different view on a resolution on the merger or division of the
+ any shareholder who has a different view on a resolution on the merger or division of the
 company made by a shareholders’ general meeting has the right to require the company
 to buy back his/its shares;
-(cid:129) the right to receive dividends and other types of interest distributed in proportion to the
+ the right to receive dividends and other types of interest distributed in proportion to the
 number of shares held;
-(cid:129) in the event of the termination or liquidation of the company, the right to participate in
+ in the event of the termination or liquidation of the company, the right to participate in
 the distribution of residual properties of the company in proportion to the number of
 shares held; and
-(cid:129) other rights granted by laws, administrative regulations, other regulatory documents and
+ other rights granted by laws, administrative regulations, other regulatory documents and
 the company’s articles of association.
 – V-11 –
 
@@ -33525,22 +33525,22 @@ The shareholders’ general meeting is the organ of authority of the company, wh
 exercises its powers in accordance with the PRC Company Law.
 Under the PRC Company Law, the shareholders’general meeting exercises the following
 principal powers:
-(cid:129) to decide on the company’s operational policies and investment plans;
-(cid:129) to elect or remove the directors and supervisors (other than the representative of the
+ to decide on the company’s operational policies and investment plans;
+ to elect or remove the directors and supervisors (other than the representative of the
 employees of the company) and to decide on matters relating to the remuneration of
 directors and supervisors;
-(cid:129) to examine and approve reports of the board of directors;
-(cid:129) to examine and approve reports of the board of supervisors;
-(cid:129) to examine and approve the company’s proposed annual financial budget and final
+ to examine and approve reports of the board of directors;
+ to examine and approve reports of the board of supervisors;
+ to examine and approve the company’s proposed annual financial budget and final
 accounts;
-(cid:129) to examine and approve the company’s proposals for profit distribution plans and
+ to examine and approve the company’s proposals for profit distribution plans and
 loss recovery plans;
-(cid:129) to decide on any increase or reduction of the company’s registered capital;
-(cid:129) to decide on the issue of bonds by the company;
-(cid:129) to decide on issues such as merger, division, dissolution and liquidation of the
+ to decide on any increase or reduction of the company’s registered capital;
+ to decide on the issue of bonds by the company;
+ to decide on issues such as merger, division, dissolution and liquidation of the
 company and other matters;
-(cid:129) to amend the company’s articles of association; and
-(cid:129) other powers as provided for in the articles of association.
+ to amend the company’s articles of association; and
+ other powers as provided for in the articles of association.
 – V-12 –
 
 === PAGE 813 ===
@@ -33549,15 +33549,15 @@ REGULATORY PROVISIONS
 Shareholders’annual general meetings are required to be held once every year. Under the
 PRC Company Law, an extraordinary shareholders’ general meeting is required to be held
 within two months after the occurrence of any of the following:
-(cid:129) thenumberofdirectorsislessthanthenumberstipulatedbythelaworlessthantwo
+ thenumberofdirectorsislessthanthenumberstipulatedbythelaworlessthantwo
 thirds of the number specified in the articles of association;
-(cid:129) the aggregate losses of the company which are not recovered reach one-third of the
+ the aggregate losses of the company which are not recovered reach one-third of the
 company’s total paid-in share capital;
-(cid:129) when shareholders alone or in aggregate holding 10% or more of the company’s
+ when shareholders alone or in aggregate holding 10% or more of the company’s
 shares request the convening of an extraordinary general meeting;
-(cid:129) whenever the board of directors deems necessary;
-(cid:129) when the board of supervisors so requests; or
-(cid:129) other circumstances as provided for in the articles of associations.
+ whenever the board of directors deems necessary;
+ when the board of supervisors so requests; or
+ other circumstances as provided for in the articles of associations.
 Under the PRC Company Law, shareholders’ general meetings shall be convened by the
 board of directors, and presided over by the chairman of the board of directors. In the event
 that the chairman is incapable of performing or does not perform his duties, the meeting shall
@@ -33643,24 +33643,24 @@ is not conducted in a timely manner upon the expiry of his term of office, or if
 of directors results in the number of directors being less than the quorum.
 Under the PRC Company Law, the board of directors mainly exercises the following
 powers:
-(cid:129) to convene the shareholders’ general meetings and report on its work to the
+ to convene the shareholders’ general meetings and report on its work to the
 shareholders’ general meetings;
-(cid:129) to implement the resolutions passed in shareholders’ general meetings;
-(cid:129) to decide on the company’s business plans and investment proposals;
-(cid:129) to formulate the company’s proposed annual financial budget and final accounts;
-(cid:129) to formulate the company’s profit distribution proposals and loss recovery
+ to implement the resolutions passed in shareholders’ general meetings;
+ to decide on the company’s business plans and investment proposals;
+ to formulate the company’s proposed annual financial budget and final accounts;
+ to formulate the company’s profit distribution proposals and loss recovery
 proposals;
-(cid:129) to formulate proposals for the increase or reduction of the company’s registered
+ to formulate proposals for the increase or reduction of the company’s registered
 capital and the issuance of corporate bonds;
-(cid:129) to prepare plans for the merger, division, dissolution and change in the form of the
+ to prepare plans for the merger, division, dissolution and change in the form of the
 company;
-(cid:129) to decide on the setup of the company’s internal management organs;
-(cid:129) to appoint or dismiss the company’s manager and decide on his/her remuneration
+ to decide on the setup of the company’s internal management organs;
+ to appoint or dismiss the company’s manager and decide on his/her remuneration
 and, based on the manager’s recommendation, to appoint or dismiss any deputy
 general manager and financial officer of the company and to decide on their
 remunerations;
-(cid:129) to formulate the company’s basic management system; and
-(cid:129) to exercise any other power under the articles of association.
+ to formulate the company’s basic management system; and
+ to exercise any other power under the articles of association.
 – V-15 –
 
 === PAGE 816 ===
@@ -33696,8 +33696,8 @@ is incapable of performing or not performing his duties, a director nominated by
 of the directors shall perform his duties.
 Qualification of Directors
 The PRC Company Law provides that the following persons may not serve as a director:
-(cid:129) a person who is unable or has limited ability to undertake any civil liabilities;
-(cid:129) a person who has been convicted of an offense of bribery, corruption, embezzlement
+ a person who is unable or has limited ability to undertake any civil liabilities;
+ a person who has been convicted of an offense of bribery, corruption, embezzlement
 or misappropriation of property, or the destruction of socialist market economy
 order;orwhohasbeendeprivedofhispoliticalrightsduetohiscrimes,ineachcase
 where less than five years have elapsed since the date of completion of the sentence;
@@ -33706,16 +33706,16 @@ where less than five years have elapsed since the date of completion of the sent
 === PAGE 817 ===
 APPENDIX V SUMMARY OF PRINCIPAL LEGAL AND
 REGULATORY PROVISIONS
-(cid:129) a person who has been a former director, factory manager or manager of a company
+ a person who has been a former director, factory manager or manager of a company
 or an enterprise that has entered into insolvent liquidation and who was personally
 liable for the insolvency of such company or enterprise, where less than three years
 have elapsed since the date of the completion of the bankruptcy and liquidation of
 the company or enterprise;
-(cid:129) a person who has been a legal representative of a company or an enterprise that has
+ a person who has been a legal representative of a company or an enterprise that has
 had its business license revoked due to violations of the law and has been ordered
 to close down by law and the person was personally responsible, where less than
 three years have elapsed since the date of such revocation; or
-(cid:129) a person who is liable for a relatively large amount of debts that are overdue.
+ a person who is liable for a relatively large amount of debts that are overdue.
 Where a company elects or appoints a director to which any of the above circumstances
 applies, such election or appointment shall be null and void. A director to which any of the
 above circumstances applies during his/her term of office shall be released of his/her duties by
@@ -33756,21 +33756,21 @@ The board of supervisors of a company shall hold at least one meeting every six 
 According to the RPC Company Law, a resolution of the board of supervisors shall be passed
 by more than half of all the supervisors.
 The board of supervisors exercises the following powers:
-(cid:129) to review the company’s financial position;
-(cid:129) to supervise the directors and senior management in their performance of their
+ to review the company’s financial position;
+ to supervise the directors and senior management in their performance of their
 duties and to propose the removal of directors and senior management who have
 violated laws, regulations, the articles of association or the resolutions of
 shareholders’ meeting;
-(cid:129) when the acts of directors and senior management are harmful to the company’s
+ when the acts of directors and senior management are harmful to the company’s
 interests, to require correction of those acts;
-(cid:129) to propose the convening of extraordinary shareholders’ general meetings and to
+ to propose the convening of extraordinary shareholders’ general meetings and to
 convene and preside over shareholders’ general meetings when the board of
 directors fails to perform the duty of convening and presiding over shareholders’
 general meeting under this law;
-(cid:129) to initiate proposals for resolutions to shareholders’ general meeting;
-(cid:129) to initiate proceedings against directors and senior management;
-(cid:129) other powers specified in the articles of association; and
-(cid:129) Supervisors may attend board meetings and make enquiries or proposals in respect
+ to initiate proposals for resolutions to shareholders’ general meeting;
+ to initiate proceedings against directors and senior management;
+ other powers specified in the articles of association; and
+ Supervisors may attend board meetings and make enquiries or proposals in respect
 of board resolutions. The board of supervisors may initiate investigations into any
 irregularities identified in the operation of the company and, where necessary, may
 engage an accounting firm to assist their work at the company’s expense.
@@ -33783,17 +33783,17 @@ Manager and Senior Management
 Under the PRC Company Law, a company shall have a manager who shall be appointed
 or removed by the board of directors. The manager shall report to the board of directors and
 may exercise the following powers:
-(cid:129) to supervise the business and administration of the company and arrange for the
+ to supervise the business and administration of the company and arrange for the
 implementation of resolutions of the board of directors;
-(cid:129) to arrange for the implementation of the company’s annual business plans and
+ to arrange for the implementation of the company’s annual business plans and
 investment proposals;
-(cid:129) to formulate the general administration system of the company;
-(cid:129) to formulate the company’s detailed rules;
-(cid:129) to recommend the appointment and dismissal of deputy managers and person in
+ to formulate the general administration system of the company;
+ to formulate the company’s detailed rules;
+ to recommend the appointment and dismissal of deputy managers and person in
 charge of finance;
-(cid:129) to appoint or dismiss other administration officers (other than those required to be
+ to appoint or dismiss other administration officers (other than those required to be
 appointed or dismissed by the board of directors); and
-(cid:129) other powers conferred by the board of directors or the articles of association.
+ other powers conferred by the board of directors or the articles of association.
 The manager shall comply with other provisions of the articles of association concerning
 his/her powers. The manager shall attend board meetings. However, the manager shall have no
 voting rights at meetings of the board of directors unless he/she concurrently serves as a
@@ -33808,27 +33808,27 @@ have fiduciary and diligent duties to the company. Directors, supervisors and se
 management are prohibited from abusing their powers to accept bribes or other unlawful
 income and from misappropriating of the company’s properties. Directors and senior
 management are prohibited from:
-(cid:129) misappropriation of the company’s capital;
+ misappropriation of the company’s capital;
 – V-19 –
 
 === PAGE 820 ===
 APPENDIX V SUMMARY OF PRINCIPAL LEGAL AND
 REGULATORY PROVISIONS
-(cid:129) depositing the company’s capital into accounts under his own name or the name of
+ depositing the company’s capital into accounts under his own name or the name of
 other individuals;
-(cid:129) loaning company funds to others or providing guarantees in favor of others
+ loaning company funds to others or providing guarantees in favor of others
 supported by the company’s assets in violation of the articles of association or
 without prior approval of the shareholders’ general meeting or board of directors;
-(cid:129) entering into contracts or deals with the company in violation of the articles of
+ entering into contracts or deals with the company in violation of the articles of
 association or without prior approval of the shareholders’ general meeting;
-(cid:129) using their position and powers to procure business opportunities for themselves or
+ using their position and powers to procure business opportunities for themselves or
 others that should have otherwise been available to the company or operating for
 their own benefits or managing on behalf of others businesses similar to that of the
 company without prior approval of the shareholders’ general meeting;
-(cid:129) accept and possess commissions paid by a third party for transactions conducted
+ accept and possess commissions paid by a third party for transactions conducted
 with the company;
-(cid:129) unauthorized divulgence of confidential business information of the company;
-(cid:129) or other acts in violation of their duty of loyalty to the company.
+ unauthorized divulgence of confidential business information of the company;
+ or other acts in violation of their duty of loyalty to the company.
 Income generated by directors or senior management in violation of aforementioned shall
 be returned to the company.
 A director, supervisor or senior management who contravenes any law, regulation or the
@@ -33956,20 +33956,20 @@ established within the stipulated period, creditors may apply to the people’s 
 thecourttoappointrelevantpersonneltoformtheliquidationgroup.Thepeople’scourtshould
 accept such application and form a liquidation group to conduct liquidation in a timely manner.
 The liquidation group shall exercise the following powers during the liquidation period:
-(cid:129) to handle the company’s assets and to prepare a balance sheet and an inventory of
+ to handle the company’s assets and to prepare a balance sheet and an inventory of
 the assets;
-(cid:129) to notify creditors through notice or public announcement;
-(cid:129) to deal with the company’s outstanding businesses related to liquidation;
+ to notify creditors through notice or public announcement;
+ to deal with the company’s outstanding businesses related to liquidation;
 – V-23 –
 
 === PAGE 824 ===
 APPENDIX V SUMMARY OF PRINCIPAL LEGAL AND
 REGULATORY PROVISIONS
-(cid:129) to pay any tax overdue as well as tax amounts arising from the process of
+ to pay any tax overdue as well as tax amounts arising from the process of
 liquidation;
-(cid:129) to claim credits and pay off debts;
-(cid:129) to handle the company’s remaining assets after its debts have been paid off; and
-(cid:129) to represent the company in civil lawsuits.
+ to claim credits and pay off debts;
+ to handle the company’s remaining assets after its debts have been paid off; and
+ to represent the company in civil lawsuits.
 The liquidation group shall notify the company’s creditors within 10 days after its
 establishment and issue public notices in newspapers within 60 days.Acreditor shall lodge his
 claim with the liquidation group within 30 days after receiving notification, or within 45 days

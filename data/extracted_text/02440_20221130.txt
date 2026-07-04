@@ -4769,18 +4769,18 @@ Upstream Midstream Downstream
 Hardware and Software IoT Solutions IoT Applications
 Perception Layer
 Manufacturing
-(cid:129) Perception Equipment, Chip,
+ Perception Equipment, Chip,
 Communication Module and others Logistics
 Hardware Transportation
 Connectivity Network Layer
-• (cid:129) S A e n n te so n r n s as Agriculture
-(cid:129) Router/Gateways (cid:129) Wifi, 4G, 5G, Bluetooth, and others
-(cid:129) Others Mining
+• S A e n n te so n r n s as Agriculture
+ Router/Gateways Wifi, 4G, 5G, Bluetooth, and others
+ Others Mining
 Software Platform Layer Energy
-(cid:129) Intelligent Platform, Big Data and AI
+ Intelligent Platform, Big Data and AI
 Analysis Platforms Healthcare
 Application Service Layer Retail
-(cid:129) Various IoT Applications Others
+ Various IoT Applications Others
 Source:Frost&SullivanReport
 – 112 –
 
@@ -5020,9 +5020,9 @@ Available Bandwidth
 Emergenceof
 MassiveMIMOand
 MacroBaseStation Densification DigitalBeam MillimeterWave
-(cid:129) 2.7GHz – 6GHzFrequency (cid:129) Smallbasestation (cid:129) Bandwidthof6GHz (cid:129) Ultra-highbandwidth
-(cid:129) Increasebandwidth (cid:129) DAS (cid:129) Arrayantennas (cid:129) Ultra-highthroughput
-(cid:129) Increasethefrequency (cid:129) LTE-U
+ 2.7GHz – 6GHzFrequency Smallbasestation Bandwidthof6GHz Ultra-highbandwidth
+ Increasebandwidth DAS Arrayantennas Ultra-highthroughput
+ Increasethefrequency LTE-U
 Source:Frost&SullivanReport
 5G technologies are meant to deliver higher multi-Gbps peak data speeds, ultra-low
 latency, more reliability, massive network capacity, increased availability, and a more uniform
@@ -5274,11 +5274,11 @@ Raw Material IoT Antenna Manufacturers
 Suppliers
 IoT Equipment Producers
 By Features
-(cid:129) Radio Remote Unit (RRU)
-(cid:129) Power Supply Unit (cid:129) Chip Antennas
-(cid:129) Radome (cid:129) PCB Antennas IoT Solution Providers
-(cid:129) Other Components (cid:129) Wire Antennas
-(cid:129) Whip Antennas
+ Radio Remote Unit (RRU)
+ Power Supply Unit Chip Antennas
+ Radome PCB Antennas IoT Solution Providers
+ Other Components Wire Antennas
+ Whip Antennas
 Source:Frost&SullivanReport
 – 123 –
 
@@ -5442,12 +5442,12 @@ Suppliers
 Original Equipment Manufacturer
 (OEMs)
 By Frequency By Application
-(cid:129) Radio Remote Unit (RRU)
-(cid:129) Power Supply Unit
-(cid:129) Radome (cid:129) High Frequency
-(cid:129) Reception Signal
-(cid:129) Other Components (cid:129) Very High Frequency (cid:129) Emit Signal
-(cid:129) Ultra-High Frequency
+ Radio Remote Unit (RRU)
+ Power Supply Unit
+ Radome High Frequency
+ Reception Signal
+ Other Components Very High Frequency Emit Signal
+ Ultra-High Frequency
 Source:Frost&SullivanReport
 Market Size of the Vehicle Mounted Antenna Market in Russia
 Along with the increasing production volume of vehicles and the growing application of
@@ -19412,11 +19412,11 @@ APPENDIX I ACCOUNTANTS’ REPORT
 The following is the text of a report received from the Company’s reporting accountants,
 Ernst & Young, Certified Public Accountants, Hong Kong, for the purpose of incorporation in
 this document.
-Ernst & Young (cid:1549)(cid:2123)(cid:15093)(cid:23348) (cid:13171)(cid:1079)(cid:10621)(cid:1777) Te l (cid:26338)(cid:23128): +852 2846 9888
+Ernst & Young Te l : +852 2846 9888
 27/F, One Taikoo Place
-(cid:3034)(cid:2196)(cid:27599)(cid:27431)(cid:2181)(cid:2614)(cid:2331)(cid:2867)(cid:3)(cid:31)(cid:29)(cid:31)(cid:3)(cid:22457)(cid:3) Fax (cid:8346)(cid:18182): +852 2868 4432
+ Fax : +852 2868 4432
 979 King’s Road
-(cid:1503)(cid:1358)(cid:11600)(cid:9650)(cid:1671)(cid:3)(cid:24)(cid:29)(cid:3)(cid:15779) ey.com
+ ey.com
 Quarry Bay, Hong Kong
 ACCOUNTANTS’ REPORT ON HISTORICAL FINANCIAL INFORMATION TO THE
 DIRECTORS OF HOWKINGTECH INTERNATIONAL HOLDING LIMITED AND
@@ -22453,11 +22453,11 @@ Young, Certified PublicAccountants, Hong Kong, prepared for the purposes of inco
 this prospectus, in respect of the pro forma financial information of the Group.
 B. INDEPENDENT REPORTING ACCOUNTANTS’ ASSURANCE REPORT ON THE
 COMPILATION OF PRO FORMA FINANCIAL INFORMATION
-Ernst & Young (cid:1549)(cid:2123)(cid:15093)(cid:23348) (cid:13171)(cid:1079)(cid:10621)(cid:1777) Te l (cid:26338)(cid:23128): +852 2846 9888
+Ernst & Young Te l : +852 2846 9888
 27/F, One Taikoo Place
-(cid:3034)(cid:2196)(cid:27599)(cid:27431)(cid:2181)(cid:2614)(cid:2331)(cid:2867)(cid:3)(cid:31)(cid:29)(cid:31)(cid:3)(cid:22457)(cid:3) Fax (cid:8346)(cid:18182): +852 2868 4432
+ Fax : +852 2868 4432
 979 King’s Road
-(cid:1503)(cid:1358)(cid:11600)(cid:9650)(cid:1671)(cid:3)(cid:24)(cid:29)(cid:3)(cid:15779) ey.com
+ ey.com
 Quarry Bay, Hong Kong
 To the Directors of Howkingtech International Holding Limited
 We have completed our assurance engagement to report on the compilation of pro forma
@@ -24132,7 +24132,7 @@ trademarks which are material to our business:
 Placeof
 No. Trademark RegistrationNo. Registration TrademarkOwner Class EffectiveDate ExpiryDate
 1. 51398389 PRC NanjingHowking 42 July21,2021 July20,2031
-(cid:24986)(cid:20955)(cid:29488)(cid:19118)
+ 
 2. 26186380 PRC NanjingHowking 42 November7,2018 November6,2028
 3. 11334683 PRC ShenzhenWulian 9 January14,2014 January13,2024
 (b) Domain Name

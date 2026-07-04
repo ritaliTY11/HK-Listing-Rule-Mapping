@@ -4089,12 +4089,12 @@ Geographical area of
 APMEA, Americas, Europe Asia, North American states and Europe
 operations
 • Advanced smart capabilities with AI-driven
-(cid:129) Unified platform for device management with
+ Unified platform for device management with
 automation
 Competitive advantages global expansion
-(cid:129) Self-developed operating system and PaaS platform
-(cid:129) ISV supporting development platform
-(cid:129) Robust ecosystem development with open APIs
+ Self-developed operating system and PaaS platform
+ ISV supporting development platform
+ Robust ecosystem development with open APIs
 GlobalBIoTSolutionMarketSize
 TheglobalBIoTsolutionmarkethasexperiencedsteadygrowth,expandingfromapproximatelyRMB189billion
 in 2020 to around RMB235 billion in 2024, representing a CAGR of approximately 5.6% over the period. BIoT
@@ -4217,10 +4217,10 @@ INDUSTRYOVERVIEW
 from RMB203 billion in 2024 to RMB221 billion in 2029, representing a CAGR of 1.7%. Among them, the market
 sizeofWindows-basedBIoTsolutionamountedtoRMB178billionin2024,accordingtoCIC.
 Android-based BIoT Solution Non-Android-based BIoT Solution
-(cid:129) Mostly based on ARM architecture. (cid:129) Mostly based on x86 architecture
-Technology (cid:129) Android OS (often with custom UI) (cid:129) Windows Embedded OS
-used (cid:129) Lightweight, modular design (cid:129) Heavyweight systems with high compatibility
-(cid:129) Deep cloud-native integration (IoT, remote updates) (cid:129) Non-modular apps integration
+ Mostly based on ARM architecture. Mostly based on x86 architecture
+Technology Android OS (often with custom UI) Windows Embedded OS
+used Lightweight, modular design Heavyweight systems with high compatibility
+ Deep cloud-native integration (IoT, remote updates) Non-modular apps integration
 Product/
 Forms vary, including handheld terminals, tablets, desktops, and more. Primarily desktop AIOs or detachable tablets. Tailored for integration
 service
@@ -4289,46 +4289,46 @@ Theglobalmarketlandscapeisexpectedtograduallyconsolidate,withplayerscapableofsca
 verticalsandgeographiesexpectedtogainalastingcompetitiveedge.
 CompetitiveLandscapeofGlobalAndroid-basedBIoTSolutionProviders,2024
 Player Fou ye n a d r ing 2 R in 0 e 2 v b 4 e i l n ( l R i u o M e n i s B n ) M r i e n a v r e t k e n e r u t m e s s h ( % o a f r ) e G al e c o o g v r e a r p a h g i e c V co e v r e ti r c a a g l e r G eg e i o o g n r s a o p f h s i a c l a e l s rang P e r ( i R ce M B) Product types Technical Capabilities
-(cid:129) Advanced WiFitechnology
-(cid:129) DMP system
-(cid:129) Device-cloud integration
+ Advanced WiFitechnology
+ DMP system
+ Device-cloud integration
 over 200 APMEA,
-The All types of devices and (cid:129) Open source and modular solution
+The All types of devices and Open source and modular solution
 2013 ~3.5 ~11% countries 15 Americas, 0.4k-18.5k
-Company accessories (cid:129) Developer supporting services
+Company accessories Developer supporting services
 and regions Europe
-(cid:129) “Plug-and-Play” applications
-(cid:129) Al algorithms
-(cid:129) Proprietary app store
-(cid:129) Proprietary OS
+ “Plug-and-Play” applications
+ Al algorithms
+ Proprietary app store
+ Proprietary OS
 Desktop digital terminals,
-~120 Asia, North (cid:129) Unified peripheral API & consistent UI
+~120 Asia, North Unified peripheral API & consistent UI
 Company 1.1k-6.2k handheld digital terminals,
-2000 ~3.2 ~10% countries 4 American states (cid:129) Proprietary app store
+2000 ~3.2 ~10% countries 4 American states Proprietary app store
 A integrated cashier scales, self-
-and regions and Europe (cid:129) ISV development supporting platform
+and regions and Europe ISV development supporting platform
 service machines
-(cid:129) Self-developing scanning engine
-~170 (cid:129) RFID enabled
+ Self-developing scanning engine
+~170 RFID enabled
 Company North America Handheld digital terminals and
-1969 ~2.4 ~8% countries 6 5k-14.3k (cid:129) Data capture technologies
+1969 ~2.4 ~8% countries 6 5k-14.3k Data capture technologies
 B and Europe, tablets
-and regions (cid:129) Data analytics technologies
-(cid:129) Voice and video collaboration tools
-(cid:129) Integration with the back-end financial
+and regions Data analytics technologies
+ Voice and video collaboration tools
+ Integration with the back-end financial
 APMEA, Desktop digital terminals,
 ~13 technology
 Company Americas, handheld digital terminals,
-1984 ~2.0 ~6% countries 2 2.5k-13.5k (cid:129) End-to-end encryption
+1984 ~2.0 ~6% countries 2 2.5k-13.5k End-to-end encryption
 C Europe integrated cashier scales, self-
-and regions (cid:129) Vertical software solutions
+and regions Vertical software solutions
 service machines
-(cid:129) Proprietary app store
-(cid:129) Cloud estate and key management
+ Proprietary app store
+ Cloud estate and key management
 Handheld financial digital
-~120 North American (cid:129) Security with PCl PTS v6
+~120 North American Security with PCl PTS v6
 Company terminals, handheld retail
-1980 ~1.4 ~4% countries 6 states and 2.5k-6.3k (cid:129) Proprietary app store
+1980 ~1.4 ~4% countries 6 states and 2.5k-6.3k Proprietary app store
 D terminals, self-service
 and regions Europe machines
 Source:Annualreports,industryexpertinterviews,CIC
@@ -7276,7 +7276,7 @@ Library ··
 ··
 Merchant Interface Display
 Layout Design Tools
-Plug-and-play Func(cid:2)ons
+Plug-and-play Func ons
 Based on our SUNMI Max Program, registered developers are able to develop application templates, and
 potentially we may charge registered developers annual service fee. The SUNMI Max Program provide application
 templatestoregionallocalpartners.Ourregionallocalpartnersareapplicationdevelopers,solutionintegrators,fin-tech
@@ -8352,7 +8352,7 @@ procurement goods
 Based on sales rolling 30-45 days
 forecast/stock level
 Customized products
-(cid:129) Depending on the complexity of
+ Depending on the complexity of
 the customization: approximately
 1 month to 5 months for R&D
 –146–

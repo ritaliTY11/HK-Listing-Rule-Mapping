@@ -189,10 +189,10 @@ Application lists close(3) . . . . . . . . . . . . . . . . . . . . . . . . . . .
 August 5, 2024
 Expected Price Determination Date(5) . . . . . . . . . . . . . . . . . . . . . . .Tuesday, August 6, 2024
 (1) Announcement of:
-(cid:129) the Offer Price;
-(cid:129) an indications of the level of interest in the International Placing, the level of
+ the Offer Price;
+ an indications of the level of interest in the International Placing, the level of
 applications in the Hong Kong Public Offering; and
-(cid:129) the basis of allocations of the Hong Kong Offer Shares
+ the basis of allocations of the Hong Kong Offer Shares
 – i –
 
 === PAGE 6 ===
@@ -388,14 +388,14 @@ next few years due to technological, regulatory, safety, cost and social challen
 to Frost & Sullivan.We strategically prioritize L2 to L3 products at this stage, recognizing that
 product-market fit is crucial for commercial success. Based on our outstanding products and
 customer recognition:
-(cid:129) We had design wins for 23 vehicle models with 16 automotive OEMs and Tier 1
+ We had design wins for 23 vehicle models with 16 automotive OEMs and Tier 1
 suppliers, as of the Latest Practicable Date.
-(cid:129) We started mass-production of Huashan A1000/A1000L SoCs in 2022. We shipped
+ We started mass-production of Huashan A1000/A1000L SoCs in 2022. We shipped
 a total of over 156,000 units of our SoC products as of March 31, 2024.
-(cid:129) We announced our Wudang Series cross-domain SoCs inApril 2023, the first in the
+ We announced our Wudang Series cross-domain SoCs inApril 2023, the first in the
 industry to integrate autonomous driving, smart cockpit, body control and other
 computational domains, according to Frost & Sullivan.
-(cid:129) Our customer base grew from 45 in 2021 to 85 in 2023. We had 21 customers in the
+ Our customer base grew from 45 in 2021 to 85 in 2023. We had 21 customers in the
 three months ended March 31, 2024. We had partnered with over 49 automotive
 OEMs andTier 1 suppliers such as FAWGroup, Dongfeng, JAC, HYCAN, ECARX,
 Baidu, Bosch, ZF Group and Marelli as of the Latest Practicable Date.
@@ -1049,15 +1049,15 @@ SUMMARY
 SUMMARY
 We focus on developing automotive-grade SoCs:
 Huashan Series
-(cid:129) A1000. We launched A1000 in June 2020 with mass-production in 2022. A1000
+ A1000. We launched A1000 in June 2020 with mass-production in 2022. A1000
 offers 58 TOPS10 computing power on INT811. It is the first high-computing power
 autonomous driving SoC with proprietary IPcores developed and launched in China
 and the first SoC for L2+ and L3 withASIL-B andAEC-Q100 Grade 2 certification
 in China, according to Frost & Sullivan.
-(cid:129) A1000L. A1000L was also launched in June 2020 and mass-produced in 2022,
+ A1000L. A1000L was also launched in June 2020 and mass-produced in 2022,
 designed for L2 and L2+ autonomous driving and is ASIL-B and AEC-Q100 Grade
 2 certified. A1000L offers 16 TOPS computing power on INT8.
-(cid:129) A1000 Pro. We launched A1000 Pro in April 2021 for L3 autonomous driving.
+ A1000 Pro. We launched A1000 Pro in April 2021 for L3 autonomous driving.
 A1000 Pro offers 106+ TOPS computing power on INT8. Being the first
 autonomous driving SoC with over 100 TOPS computing power developed and
 launched in China, it offers the highest computing power on INT8 among its peers
@@ -1068,7 +1068,7 @@ automotive-grade SoCs, according to Frost & Sullivan. SoCs with designed computi
 of 250+ TOPS gained positive feedback from multiple automotive OEMs, and we believe we
 are able to seize the market opportunities through launch of A2000.
 Wudang Series
-(cid:129) C1200. We announced C1200 in April 2023, a cross-domain SoC that integrates
+ C1200. We announced C1200 in April 2023, a cross-domain SoC that integrates
 autonomous driving, smart cockpit and other computational functionalities,
 providing an innovative and cost-effective computing solution for intelligent
 vehicles. We have successfully completed the tape-out of C1200 and begun
@@ -1078,32 +1078,32 @@ In addition to our proprietary SoCs, we also offer autonomous driving support so
 to enable customization by customers in developing and deploying their applications on the
 SoCs:
 Software
-(cid:129) Operating System Support. Our self-developed drivers and operating systems for
+ Operating System Support. Our self-developed drivers and operating systems for
 SoCs offer comprehensive compatibility with various applications in intelligent
 vehicles.
 – 8 –
 
 === PAGE 18 ===
 SUMMARY
-(cid:129) Hanhai ADSP Middleware. This platform assists customers in rapidly migrating
+ Hanhai ADSP Middleware. This platform assists customers in rapidly migrating
 and deploying applications, and is widely applicable to autonomous driving and
 vehicle-to-everything application scenarios.
-(cid:129) Perception Algorithms. Our advanced neural network visual perception algorithms
+ Perception Algorithms. Our advanced neural network visual perception algorithms
 fundamentally enhance image processing capabilities for autonomous driving.
 We started offering autonomous driving solutions in 2020 and were one of the earliest in
 China that generated revenue from the sales of autonomous driving solutions, according to
 Frost & Sullivan.
-(cid:129) We offer an integrated closed-loop autonomous driving solution pack, BEST Drive,
+ We offer an integrated closed-loop autonomous driving solution pack, BEST Drive,
 comprising Drive Eye for L1 and L2 support, Drive Sensing for L2+ autonomous
 driving, Drive Brain for L3 domain control and Drive Turing for next-generation
 central computing.
-(cid:129) Our self-developed add-on adaptive safety system, Patronus, provides reliable
+ Our self-developed add-on adaptive safety system, Patronus, provides reliable
 adaptive safety support with innovative system design, offering cost-efficient
 solutions for commercial vehicle OEMs and Tier 1 suppliers.
-(cid:129) Our V2X edge computing solution, BEST Road, targets the emerging road-side
+ Our V2X edge computing solution, BEST Road, targets the emerging road-side
 autonomous driving solution market which has been rapidly developing along with
 the growing prevalence of intelligent new energy vehicles.
-(cid:129) BasedonHuashanseriesSoCs,wehavedevelopedFADplatformtoprovideflexible
+ BasedonHuashanseriesSoCs,wehavedevelopedFADplatformtoprovideflexible
 development and testing services to our trial customers, and Huashan-SOM to
 enable our clients to swiftly develop their products for end customers based on
 varying application scenarios.
@@ -1237,23 +1237,23 @@ through our import agent Shanghai International Science andTechnology Corp., Ltd
 Track Record Period.
 OUR STRENGTHS
 We believe the following competitive strengths contribute to our success:
-(cid:129) Commitment to Intelligent Vehicle SoCs with Expertise
-(cid:129) Proprietary Critical Technology from Purpose-Driven R&D
-(cid:129) Customer-centric Product Portfolio
-(cid:129) A User-friendly Open Platform for Customization and Re-development
-(cid:129) Broad Partners and Customer Base across the Industry Value Chain
-(cid:129) A Team of Veterans Combining Cross-sector and Market Expertise
+ Commitment to Intelligent Vehicle SoCs with Expertise
+ Proprietary Critical Technology from Purpose-Driven R&D
+ Customer-centric Product Portfolio
+ A User-friendly Open Platform for Customization and Re-development
+ Broad Partners and Customer Base across the Industry Value Chain
+ A Team of Veterans Combining Cross-sector and Market Expertise
 – 12 –
 
 === PAGE 22 ===
 SUMMARY
 OUR STRATEGIES
 We will focus on the following key strategies to achieve our mission:
-(cid:129) Continue to Develop IntelligentVehicle SoCs for Broader In-vehicle Computational
+ Continue to Develop IntelligentVehicle SoCs for Broader In-vehicle Computational
 Scenarios
-(cid:129) Further Enhance Our Open Ecosystem
-(cid:129) Further Develop and Commercialize Our Solutions and Technologies
-(cid:129) Extend Our Reach Globally
+ Further Enhance Our Open Ecosystem
+ Further Develop and Commercialize Our Solutions and Technologies
+ Extend Our Reach Globally
 RESEARCH AND DEVELOPMENT
 Our ability to develop new technologies, design new products and solutions, and enhance
 existing products and solutions is critical for maintaining our market position.
@@ -1344,16 +1344,16 @@ our Shares, some of which are beyond our control. If any of such risks and uncer
 materializes, the market price of our Shares could decline, and you may lose all or part of your
 investments. See “Risk Factors” for details of our risk factors, which we urge you to read in
 full before making an investment in our Shares. Some of the major risks we face include:
-(cid:129) If we are unable to develop and introduce new products and solutions, our future
+ If we are unable to develop and introduce new products and solutions, our future
 business, results of operations, financial condition and competitive position would
 be materially and adversely affected.
-(cid:129) We have been and intend to continue investing significantly in R&D, which may
+ We have been and intend to continue investing significantly in R&D, which may
 adversely impact our profitability and operating cash flow and may not generate the
 results we expect to achieve.
-(cid:129) We may not be able to obtain or maintain adequate intellectual property rights
+ We may not be able to obtain or maintain adequate intellectual property rights
 protection for our product and solution candidates, or the scope of such intellectual
 property rights protection may not be sufficiently broad.
-(cid:129) We may become involved in lawsuits to protect or enforce our intellectual property,
+ We may become involved in lawsuits to protect or enforce our intellectual property,
 which could be expensive, time-consuming and unsuccessful. Our patent rights
 relating to our products and solutions could be found invalid or unenforceable if
 beingchallengedincourtorbeforetheCNIPAintellectualpropertyagenciesinother
@@ -1362,18 +1362,18 @@ jurisdictions.
 
 === PAGE 25 ===
 SUMMARY
-(cid:129) If third parties claim that we infringe upon their intellectual property rights, we may
+ If third parties claim that we infringe upon their intellectual property rights, we may
 incur liabilities and financial penalties and may have to redesign or discontinue
 selling the products or solutions involved.
-(cid:129) We have a limited track record in commercialization of our products and solutions.
-(cid:129) There can be no assurance that our efforts seeking design wins for our products and
+ We have a limited track record in commercialization of our products and solutions.
+ There can be no assurance that our efforts seeking design wins for our products and
 solutions will succeed.
-(cid:129) There is no guarantee that the sales results of our products and solutions would meet
+ There is no guarantee that the sales results of our products and solutions would meet
 our forecast even after we achieve design wins.
-(cid:129) We may face supply chain risks and risks of interruption of requisite services,
+ We may face supply chain risks and risks of interruption of requisite services,
 including, as a result of our reliance on a single or limited suppliers and vendors, for
 certain components, equipment and services.
-(cid:129) We depend on TSMC to manufacture our SoCs.
+ We depend on TSMC to manufacture our SoCs.
 OUR SINGLE LARGEST SHAREHOLDER
 As at the date of this Prospectus, Mr. Shan beneficially owned 44,100,000 Shares which
 represents approximately 8.29% of our total issued share capital and, through voting trust
@@ -1935,17 +1935,17 @@ thisProspectus),willbeapproximatelyHK$985.4million,afterdeductionofunderwritingf
 and commissions and estimated expenses payable by us in connection with the Global Offering
 and assuming the Offer Size Adjustment Option and the Over-allotment Option are not
 exercised.We intend to use the net proceeds of the Global Offering for the following purposes:
-(cid:129) Approximately 80.0% or HK$788.3 million will be used for our research and
+ Approximately 80.0% or HK$788.3 million will be used for our research and
 development over the next five years with the detailed breakdown of the proceeds
 to be allocated as follows:
-(cid:129) Approximately 30.0% or HK$295.6 million will be used for the R&D team to
+ Approximately 30.0% or HK$295.6 million will be used for the R&D team to
 develop automotive-grade intelligent vehicle SoCs.
-(cid:129) Approximately 25.0% or HK$246.4 million will be used for the development
+ Approximately 25.0% or HK$246.4 million will be used for the development
 and upgrade of our intelligent vehicle software platform.
-(cid:129) Approximately 20.0% or HK$197.1 million will be used to procure materials,
+ Approximately 20.0% or HK$197.1 million will be used to procure materials,
 tape-out services and software for R&D of intelligent vehicle SoCs and
 automotive-grade IP cores.
-(cid:129) Approximately 5.0% or HK$49.3 million will be used for the development of
+ Approximately 5.0% or HK$49.3 million will be used for the development of
 autonomous driving solutions, such as the next-generation V2X edge
 computing solution and the next-generation add-on adaptive safety system
 Patronus.
@@ -1953,9 +1953,9 @@ Patronus.
 
 === PAGE 39 ===
 SUMMARY
-(cid:129) Approximately 10.0% or HK$98.5 million will be used for improvement of our
+ Approximately 10.0% or HK$98.5 million will be used for improvement of our
 commercialization capability.
-(cid:129) Approximately 10.0% or HK$98.5 million will be used for working capital and
+ Approximately 10.0% or HK$98.5 million will be used for working capital and
 general corporate purposes, in particular for procuring inventories for mass
 production of our SoCs.
 For more details, see “Future Plans and Use of Proceeds.”
@@ -1998,7 +1998,7 @@ products for 23 vehicle models with 16 automotive OEMs and Tier 1 suppliers, amo
 we had collaborated with Geely, Dongfeng, HYCAN, FAW Group, Baolong and a wide range
 of other automotive OEMs for factory-installation of our A1000 SoC on their vehicle models.
 Our Huashan A1000 SoC has been successfully mass-produced for several vehicle models,
-including Geely’s Lynk & Co 08 and HYCAN’s v09 in 2023 and Dongfeng’s e(cid:2)007 and e(cid:2)008
+including Geely’s Lynk & Co 08 and HYCAN’s v09 in 2023 and Dongfeng’s e 007 and e 008
 in the late first quarter and the second quarter of 2024, respectively. We also entered into
 strategic partnership with the Office for Attracting Strategic Enterprises (OASES) of Hong
 Kong in March 2024 to jointly participate in the development of innovation and technology
@@ -3018,32 +3018,32 @@ developments may not be indicative of results or developments in subsequent peri
 number of risks, uncertainties and other factors could cause results and developments to differ
 materially from those expressed or implied by the forward-looking statements including,
 without limitation:
-(cid:129) our operations and business prospects;
-(cid:129) our ability to maintain relationship with, and the actions and developments
+ our operations and business prospects;
+ our ability to maintain relationship with, and the actions and developments
 affecting, our major customers and suppliers;
-(cid:129) future developments, trends and conditions in the industries and markets in which
+ future developments, trends and conditions in the industries and markets in which
 we operate;
-(cid:129) general economic, political and business conditions in the markets in which we
+ general economic, political and business conditions in the markets in which we
 operate;
-(cid:129) changes to the regulatory environment in the industries and markets in which we
+ changes to the regulatory environment in the industries and markets in which we
 operate;
-(cid:129) the ability of third parties to perform in accordance with contractual terms and
+ the ability of third parties to perform in accordance with contractual terms and
 specifications;
 – 58 –
 
 === PAGE 68 ===
 FORWARD-LOOKING STATEMENTS
-(cid:129) our ability to retain senior management and key personnel, and recruit qualified
+ our ability to retain senior management and key personnel, and recruit qualified
 staff;
-(cid:129) ourbusinessstrategiesandplanstoachievethesestrategies,includingourexpansion
+ ourbusinessstrategiesandplanstoachievethesestrategies,includingourexpansion
 plans;
-(cid:129) the actions of and developments affecting our competitors;
-(cid:129) our ability to reduce costs and offer competitive prices;
-(cid:129) our ability to defend our intellectual rights and protect confidentiality;
-(cid:129) change or volatility in interest rates, foreign exchange rates, equity prices, trading
+ the actions of and developments affecting our competitors;
+ our ability to reduce costs and offer competitive prices;
+ our ability to defend our intellectual rights and protect confidentiality;
+ change or volatility in interest rates, foreign exchange rates, equity prices, trading
 volumes, commodity prices and overall market trends;
-(cid:129) capital market developments; and
-(cid:129) our dividend policy.
+ capital market developments; and
+ our dividend policy.
 Forward-looking statements may and often do differ materially from actual results. Any
 forward-looking statements in this Prospectus reflect our management’s current view with
 respect to future events and are subject to risks relating to future events and other risks,
@@ -3107,15 +3107,15 @@ significant unexpected technical and production challenges, or delays in complet
 development of new and enhanced products and solutions and ramping up production in a
 cost-efficient manner, which require us to invest significant resources in R&D and also require
 that we:
-(cid:129) design innovative, accurate, and safety- and comfort-enhancing functions that
+ design innovative, accurate, and safety- and comfort-enhancing functions that
 differentiate our products and solutions from those of our competitors;
-(cid:129) continuously improve the reliability of our autonomous driving and cross-domain
+ continuously improve the reliability of our autonomous driving and cross-domain
 technologies;
-(cid:129) cooperateeffectivelyonnewdesignsanddevelopmentwithourcustomers,suppliers
+ cooperateeffectivelyonnewdesignsanddevelopmentwithourcustomers,suppliers
 and partners;
-(cid:129) respond effectively to technological changes and product announcements by our
+ respond effectively to technological changes and product announcements by our
 competitors; and
-(cid:129) adjust to changing customer requirements, market conditions, and regulatory and
+ adjust to changing customer requirements, market conditions, and regulatory and
 rating standards quickly and cost-effectively.
 If there are delays in, or if we fail to complete when expected or at all, the development
 of new and enhanced products and solutions, we may not be able to satisfy our customers’
@@ -3282,20 +3282,20 @@ knowledge or claim trademark rights that have not been revealed through our sear
 relevantpublicrecords.Oureffortstoidentifyandavoidinfringingonthirdparties’intellectual
 property rights may not always be successful. Any claims of patent or other intellectual
 property infringement, regardless of their merit, could:
-(cid:129) be expensive and time-consuming to defend;
-(cid:129) require us to pay substantial damages to third parties;
-(cid:129) forbid us from making or selling products or solutions that incorporate the
+ be expensive and time-consuming to defend;
+ require us to pay substantial damages to third parties;
+ forbid us from making or selling products or solutions that incorporate the
 challenged intellectual property;
-(cid:129) require us to redesign, reengineer or rebrand our products or solutions;
-(cid:129) require us to enter into royalty or licensing agreements in order to obtain the right
+ require us to redesign, reengineer or rebrand our products or solutions;
+ require us to enter into royalty or licensing agreements in order to obtain the right
 to use a third party’s intellectual property, which agreements may not be available
 on terms acceptable to us or at all;
-(cid:129) divert the attention of our management; or
+ divert the attention of our management; or
 – 65 –
 
 === PAGE 75 ===
 RISK FACTORS
-(cid:129) result in customers terminating, deferring or limiting their purchase of the affected
+ result in customers terminating, deferring or limiting their purchase of the affected
 products until resolution of the litigation.
 In addition, new patents obtained by our competitors could threaten the continued life of
 the product or solution in the market even after it has already been introduced.
@@ -3692,17 +3692,17 @@ We may not be able to obtain additional capital when desired, on favorable terms
 all.
 A majority of our operating expenses are for R&D activities. Our capital requirements
 will be subject to many factors, including, but not limited to:
-(cid:129) technological advancements;
-(cid:129) market acceptance of our products and solutions and product and solution
+ technological advancements;
+ market acceptance of our products and solutions and product and solution
 enhancements, and the overall level of sales of our products and solutions;
-(cid:129) R&D expenses;
-(cid:129) our relationships with our customers and suppliers;
-(cid:129) our ability to control costs;
-(cid:129) sales and marketing expenses;
-(cid:129) enhancementstoourinfrastructureandsystemsandanycapitalimprovementstoour
+ R&D expenses;
+ our relationships with our customers and suppliers;
+ our ability to control costs;
+ sales and marketing expenses;
+ enhancementstoourinfrastructureandsystemsandanycapitalimprovementstoour
 facilities;
-(cid:129) potential acquisitions of businesses and product lines; and
-(cid:129) general economic conditions, inflation, rising interest rates, and international
+ potential acquisitions of businesses and product lines; and
+ general economic conditions, inflation, rising interest rates, and international
 conflicts and their impact on the automotive industry in particular.
 If our capital requirements are materially different from those currently planned, we may
 need additional capital sooner than anticipated. Additional financing may not be available on
@@ -4808,14 +4808,14 @@ Exchange. We cannot assure you that the Global Offering will result in the devel
 active, liquid public trading market for the Shares. In addition, the price and trading volumes
 of the Shares may be volatile. The following factors may affect the trading volume and market
 price of our Shares:
-(cid:129) actual or anticipated fluctuations in our operating and financial results, such as
+ actual or anticipated fluctuations in our operating and financial results, such as
 turnovers, earnings and cash flow;
-(cid:129) changes in earnings estimate or recommendations by financial analysts; general
+ changes in earnings estimate or recommendations by financial analysts; general
 market conditions or other developments affecting us or our industry;
-(cid:129) potential litigation or regulatory investigations;
-(cid:129) the operating and stock price performance of other companies, other industries and
+ potential litigation or regulatory investigations;
+ the operating and stock price performance of other companies, other industries and
 other events or factors beyond our control; and
-(cid:129) the release of lock-up or other transfer restrictions on our outstanding Shares or
+ the release of lock-up or other transfer restrictions on our outstanding Shares or
 sales or perceived sales of additional Shares by us or other Shareholders.
 – 100 –
 
@@ -5929,7 +5929,7 @@ same source, the sales volume of autonomous driving (from L1 to L5) commercial v
 China were 1.0 million units in 2023 with a penetration rate of 24.8%, and the sales volume
 is expected to reach 3.5 million units by 2028 with a penetration rate of 68.9%.
 Growth Drivers of Autonomous Driving
-(cid:129) Trend of automotive electrification. Electric vehicles are now widely regarded as the
+ Trend of automotive electrification. Electric vehicles are now widely regarded as the
 optimal choice for carrying advanced driving functions due to their precision, low latency
 and robust backup systems. The automotive industry’s consensus on the importance of
 NEV development lays a strong foundation for advancing autonomous driving
@@ -5942,7 +5942,7 @@ automotive electrification and intelligence, connectivity and sharing, with a CA
 18.4% from 2023 to 2028. Globally, the sales volume of NEV was 15.1 million units in
 2023 with a penetration rate of 20.9%, and is expected to reach 46.1 million units in 2028
 with a penetration rate of 58.9%, with a CAGR of 25.0% from 2023 to 2028.
-(cid:129) Wide recognition of autonomous driving functions.Autonomous driving technology has
+ Wide recognition of autonomous driving functions.Autonomous driving technology has
 the potential to substantially reduce human errors and accidents on the road by utilizing
 comprehensive sensing capabilities to provide instant response. As vehicles equipped
 with ADAS functions become increasingly attractive to consumers, automotive OEMs
@@ -5951,17 +5951,17 @@ supply and demand, the autonomous driving vehicle market is experiencing rapid g
 Furthermore, advanced autonomous driving technology offers the possibility of
 optimizing traffic conditions and improving travel efficiency with the potential to
 transform the transportation industry.
-(cid:129) Continuous decrease in sensor costs. Benefiting from advancements in technology and
+ Continuous decrease in sensor costs. Benefiting from advancements in technology and
 the scale effect, the decreasing cost of sensors such as cameras and LiDARs makes
 autonomous driving features more affordable. This trend is expected to continue, which
 will further increase the affordability and popularity of ADAS vehicles, as well as the
 commercialization of ADS vehicles in the future.
-(cid:129) Favorable governmental policies. The autonomous driving technology has received
+ Favorable governmental policies. The autonomous driving technology has received
 support from major governments around the world. Specifically, as autonomous driving
 represents a key development focus in the future of the automotive industry, the Chinese
 government has introduced a series of policies and regulations aimed at fostering the
 growth of related industries.
-(cid:2) Pursuant to the IntelligentVehicle Innovation and Development Strategy (《智
+ Pursuant to the IntelligentVehicle Innovation and Development Strategy (《智
 能汽車創新發展戰略》) published in February 2020, the PRC government
 plans to implement initiatives related to autonomous driving vehicles in
 intelligent vehicle technology innovation, industrial ecology, vehicle
@@ -5970,19 +5970,19 @@ infrastructure, regulations, and network security.
 
 === PAGE 141 ===
 INDUSTRY OVERVIEW
-(cid:2) In March 2022, the Ministry of Transport and the Ministry of Science and
+ In March 2022, the Ministry of Transport and the Ministry of Science and
 Technology jointly issued the Outline for the Mid- to Long-Term Development
 of Technological Innovation in the Transportation Sector (2021-2035) (《交通
 領域科技創新中長期發展規劃綱要(2021-2035年)》), outlining initiatives to
 promote the development and large-scale application of autonomous driving
 technology.
-(cid:2) In July 2023, the Ministry of Industry and Information Technology and the
+ In July 2023, the Ministry of Industry and Information Technology and the
 National Standards Committee released the Guidelines for the Construction of
 theNationalStandardSystemfortheConnectedVehicleIndustry(ICVs)(2023
 Edition) (《國家車聯網產業標準體系建設指南》(智能網聯汽車)(2023版)),
 whichdelineatesphasedeffortstoexpeditetheestablishmentofanewstandard
 system for autonomous driving vehicles.
-(cid:2) In November 2023, the Ministry of Industry and Information Technology, the
+ In November 2023, the Ministry of Industry and Information Technology, the
 Ministry of Public Security, the Ministry of Housing and Urban-Rural
 Development, and the Ministry of Transport jointly issued Notification
 regarding the Pilot Implementation of Intelligent Connected Vehicle Access
@@ -6088,10 +6088,10 @@ driving SoC Middleware autonomous
 Semiconductor Packaging & Design driving solution Road
 equipment testing Toolkit
 Source: Frost & Sullivan
-(cid:129) Upstream: The manufacturing of autonomous driving SoC involves semiconductor
+ Upstream: The manufacturing of autonomous driving SoC involves semiconductor
 materials and equipment, wafer fabrication and packaging and testing. Advanced
 semiconductor manufacturing technology is conducive to improved chip performance.
-(cid:129) Midstream: SoC-based solution providers develop autonomous driving SoCs, which are
+ Midstream: SoC-based solution providers develop autonomous driving SoCs, which are
 the core components in autonomous driving solutions. A complete set of SoC-based
 solutionsincludesSoChardwareaswellascomprehensivetechnicalsupportandservices,
 such as chips, basic software, middleware, algorithms and toolkits that enable the
@@ -6100,7 +6100,7 @@ autonomous driving functions in vehicles.
 
 === PAGE 144 ===
 INDUSTRY OVERVIEW
-(cid:129) Downstream: Autonomous driving solution suppliers deploy autonomous driving SoC-
+ Downstream: Autonomous driving solution suppliers deploy autonomous driving SoC-
 based solutions in autonomous vehicles and on intelligent roads. The increase in the
 globalsalesvolumeofautonomousdrivingvehicles,includingNEVsandtraditionalICEs
 that adopt autonomous driving SoC solutions, provides potential for market growth in
@@ -6163,7 +6163,7 @@ positive commercialization progress. China is expected to be the largest market 
 sales volume of ADS vehicles. The ADS SoC market in China is expected to reach RMB3.9
 billion and RMB25.7 billion by 2026 and 2030, respectively.
 Growth Driver of Autonomous Driving SoC
-(cid:129) Increasingsalesvolumeofautonomousdrivingvehicles.TheexpansionoftheADASSoC
+ Increasingsalesvolumeofautonomousdrivingvehicles.TheexpansionoftheADASSoC
 market is largely in line with the growth of the ADAS vehicle sales market. With the
 advancementofautomotiveintelligence,autonomousdrivingfunctionsareexpectedtobe
 thestandardconfigurationofvehicles.TheglobalADASvehiclesalesmarketiscurrently
@@ -6171,7 +6171,7 @@ in a rapid growth phase, and the continuous increase in sales will further drive
 growth of ADAS SoC and the corresponding solutions market. Additionally, the
 commercialization of ADS vehicles in the future will generate new market growth
 opportunities.
-(cid:129) Increasing SoC value in single vehicle. Autonomous driving functions can be extended
+ Increasing SoC value in single vehicle. Autonomous driving functions can be extended
 through remote software upgrades. The computing power of an autonomous driving SoC
 determines the maximum extent of a vehicle’s functional expansion throughout its life
 cycle. Therefore, automotive OEMs typically deploy SoCs with higher computing power
@@ -6179,7 +6179,7 @@ support future autonomous driving upgrades. SoCs with greater computing power
 generally command higher prices in the market, resulting in an expected increase in the
 average value of SoCs per vehicle in terms of the percentage in total cost of an intelligent
 vehicle over the next few years.
-(cid:129) Support from favorable policies. Autonomous driving SoC is an advanced automotive-
+ Support from favorable policies. Autonomous driving SoC is an advanced automotive-
 grade chip that plays a significant role in enabling autonomous driving. Major countries
 around the world pay close attention to the development of SoCs. In particular, the PRC
 government released the New Energy Vehicle Industry Development Plan (2021-2035)
@@ -6193,7 +6193,7 @@ vehicles, trends in autonomous driving SoC pricing and the strategies and plans 
 === PAGE 146 ===
 INDUSTRY OVERVIEW
 Development Trend of Autonomous Driving SoC
-(cid:129) Improving SoC performance. The advancement and prevalence of autonomous driving
+ Improving SoC performance. The advancement and prevalence of autonomous driving
 functions require vehicles to process more data during operation. High-performance
 chips, especially those with strong computing power, have significant advantages in data
 processing capacity and speed. Consequently, there is a growing demand for high-
@@ -6201,7 +6201,7 @@ performance chips in the automotive market. In response to this demand, autonomo
 driving SoC providers invest heavily in the development of high-computing power SoCs.
 They consider the energy efficiency ratio, cost, adaptability and flexibility of SoCs to
 comprehensively enhance the SoC performance.
-(cid:129) Development ofASIC.AnApplication Specific Integrated Circuit (ASIC) is a type of chip
+ Development ofASIC.AnApplication Specific Integrated Circuit (ASIC) is a type of chip
 that is specifically designed for a particular logic function. Compared to traditional
 general-purpose chip solutions, ASICs offer several advantages such as low cost, high
 performance and low power consumption in mass production. In the long run, with the
@@ -6209,20 +6209,20 @@ development of chips solutions and higher demand for processing capacities, the 
 that adopt ASIC structure are expected to replace the traditional general-purpose chip
 solutions and become the mainstream choice for future autonomous driving SoC-based
 solutions.
-(cid:129) Significance of self-developed IP cores. An IP core is a pre-designed circuit module that
+ Significance of self-developed IP cores. An IP core is a pre-designed circuit module that
 is can be integrated into a larger circuit. By creating their own IP cores, autonomous
 driving SoC providers can shorten the chip design process, reduce costs and improve
 performance and reliability. The ability to self-develop IP cores is considered to be key
 to the cutting-edge research capabilities of autonomous driving chips in a highly
 competitive industry. Providers of autonomous driving SoCs will continue to improve
 their research into IP cores in order to improve the competitiveness of their products.
-(cid:129) Increasing adaptability of SoC-based solution. With an increasing number of automotive
+ Increasing adaptability of SoC-based solution. With an increasing number of automotive
 OEMs creating their own autonomous driving systems, they are seeking greater options
 for customization of software and hardware. The adaptability of autonomous driving
 SoC-based solution plays a critical role in enabling this flexibility for automotive OEM
 customization. It is expected that autonomous driving SoC-based solution with higher
 levels of adaptability will enjoy a greater market share in the future.
-(cid:129) Opportunity for domestic suppliers. China is the largest and fastest-growing market for
+ Opportunity for domestic suppliers. China is the largest and fastest-growing market for
 autonomous driving vehicles and autonomous driving SoCs, being at the forefront of
 applicationssuchasthewidespreaddeploymentofhigh-powerSoCs.Chineseautomotive
 OEMs are actively collaborating with local autonomous driving SoC providers to build a
@@ -6263,12 +6263,12 @@ develop in the coming years. According to Frost & Sullivan, the global market si
 SoC-based solutions for intelligent roads is expected to reach approximately RMB15.2 billion
 by 2026 and further to RMB39.8 billion by 2030.
 Entry Barriers for Autonomous Driving SoC Industry
-(cid:129) Technology. Developing autonomous driving SoCs is a challenging interdisciplinary
+ Technology. Developing autonomous driving SoCs is a challenging interdisciplinary
 engineering project. Companies that possess strong R&D capabilities are more
 competitive in this field. The major technological capabilities required include expertise
 in semiconductor and automotive engineering, experienced R&D teams and self-
 developed IP cores.
-(cid:129) Developing cycle and investment. Developing autonomous driving SoCs requires
+ Developing cycle and investment. Developing autonomous driving SoCs requires
 specialized skills, continuous improvement and substantial financial investment. As a
 result, successful development of autonomous driving SoCs requires significant amounts
 of capital investment over an extended period of time.
@@ -6276,7 +6276,7 @@ of capital investment over an extended period of time.
 
 === PAGE 148 ===
 INDUSTRY OVERVIEW
-(cid:129) Customer. Autonomous driving SoCs shall be highly reliable and stable, which can only
+ Customer. Autonomous driving SoCs shall be highly reliable and stable, which can only
 be achieved through technological collaboration with automotive OEMs and a series of
 long-term product verifications. Therefore, it is crucial for autonomous driving SoC
 providers to establish close collaborations with automotive OEMs.
@@ -6285,19 +6285,19 @@ Major participants in the autonomous driving SoC industry
 There are three major types of autonomous driving SoC providers in the autonomous
 driving SoC market, namely specific autonomous driving SoC providers, general chip
 providers, and automotive OEM self-developers.
-(cid:129) Specific autonomous driving SoC providers, which we mainly compete with, have
+ Specific autonomous driving SoC providers, which we mainly compete with, have
 a strong research focus on autonomous driving and possess comprehensive software
 and hardware development capabilities, allowing them to develop customized
 autonomous driving SoC-based solutions for various automotive OEMs. These
 providers primarily serve a diverse range of customers in the automotive sector.
 Their strengths lie in their high degree of specialization and economies of scale.
-(cid:129) General chip providers develop and deliver a broader range of chips compared to
+ General chip providers develop and deliver a broader range of chips compared to
 specialized autonomous driving SoC providers. Their offerings encompass various
 automotive chips or other chips for different applications, such as robotics,
 computers, data centers, cellphones and manufacturing. Therefore, these providers’
 focuses are not solely for autonomous driving, and they have a broad customer base
 across multiple industries.
-(cid:129) Certain automotive OEMs develop their in-house autonomous driving SoCs. This
+ Certain automotive OEMs develop their in-house autonomous driving SoCs. This
 approach enables OEMs to fully customize the SoCs according to their specific
 needs. However, due to the high degree of customization and the competitive
 dynamicswithotherOEMs,thesein-housedevelopedSoCsaretypicallyusedsolely
@@ -7288,7 +7288,7 @@ The 2022 Rule significantly enhanced U.S. export controls as applied to advanced
 integrated circuit (IC) products, related SME and technology and supercomputers, where the
 destination or ultimate end use is in China. Below is an overview of the major changes coming
 out of the 2022 Rule.
-(cid:129) New Commerce Control List (CCL) Controls on ICs and SME: As part of the
+ New Commerce Control List (CCL) Controls on ICs and SME: As part of the
 2022 Rule, BIS expanded CCL-based controls under the Export Administration
 Regulations (EAR) to add additional Export Control Classification Numbers
 (ECCNs). New ECCN 3A090 was created to control certain high-performance ICs
@@ -7304,7 +7304,7 @@ production, or use of such items, as well as computers, electronic assemblies, a
 other items containing the controlled ICs. Finally, the 2022 Rule also expanded
 some CCL-based controls on lower-level computing ICs and associated computer
 commodities through the addition of new ECCNs 3A991.p and 4A994.l.
-(cid:129) Creation of New U.S. Person Restrictions: In the 2022 Rule, BIS expanded
+ Creation of New U.S. Person Restrictions: In the 2022 Rule, BIS expanded
 Section 744.6 of the EAR to inform U.S. persons that a license is required for the
 shipment, transmission, or transfer (in-country) to or within China of certain items
 not subject to the EAR, or the facilitation of such shipments or transfers, or the
@@ -7321,7 +7321,7 @@ and (3) other newly controlled advanced IC SME, regardless of end use or end use
 
 === PAGE 172 ===
 REGULATORY OVERVIEW
-(cid:129) New and Expanded Foreign Direct Product Rules: BIS also expanded certain
+ New and Expanded Foreign Direct Product Rules: BIS also expanded certain
 foreign direct product rules (FDPRs) as part of the 2022 Rule. The EAR’s FDPRs
 extend U.S. export control jurisdiction to certain foreign produced items that are the
 “direct product” of specified U.S. technology or equipment controlled for national
@@ -7348,7 +7348,7 @@ design, development, production, operation, installation, maintenance, checking,
 repair, overhaul, or refurbishing of a supercomputer located in China, or
 incorporated into or used in the development or production of any part, components,
 or equipment that will be used in a supercomputer located in or destined for China.
-(cid:129) New End Use and End User Restrictions: The final major change coming out of
+ New End Use and End User Restrictions: The final major change coming out of
 the 2022 Rule included the introduction of new end use and end user restrictions
 similar to the U.S. person restrictions detailed above, but applicable instead to all
 items subject to the EAR anywhere in the world. Under the “SME End Use Rule,”
@@ -7375,7 +7375,7 @@ REGULATORY OVERVIEW
 Following the 2022 Rule, the 2023 Rule thereafter revised and expanded upon the 2022
 Rule. Below is an overview of the changes coming out of the 2023 Rule as compared to the
 2022 Rule.
-(cid:129) Additional Controls on Semiconductor Manufacturing Equipment: BIS
+ Additional Controls on Semiconductor Manufacturing Equipment: BIS
 expanded the scope of the SME export controls to capture additional tools and
 equipment critical to development of certain advanced ICs and expanded the SME
 controls to restrict exports to additional destinations. Newly controlled items
@@ -7384,7 +7384,7 @@ operations, such as EUV (extreme ultraviolet) etching and advanced deposition
 processing. BIS also removed the de minimis U.S. content threshold for certain
 foreign-produced lithography equipment, making such items subject to the Export
 Administration Regulations (EAR) when produced with any U.S.-origin content.
-(cid:129) Additional Controls on Semiconductors: BIS also expanded the scope of ECCN
+ Additional Controls on Semiconductors: BIS also expanded the scope of ECCN
 3A090 to capture a variety of additional ICs, with the stated purpose of controlling
 ICs that “could provide nearly comparable AI model training capability as those
 controlled” in the 2022 Rule. BIS expanded ECCN 3A090.a to now broadly control
@@ -7404,7 +7404,7 @@ Notification Advanced Computing (NAC), to create a notification requirement for
 certain exports of less sophisticated ICs now controlled under 3A090. BIS also
 created a favorable license application review policy for exports to newly controlled
 destinations.
-(cid:129) Revisions and Additions to Various End Use Controls and US Person
+ Revisions and Additions to Various End Use Controls and US Person
 Restrictions: In addition to controls on new ICs and SME, BIS expanded and
 revised certain end use controls on items “subject to the EAR,” including end use
 controls related to supercomputers and semiconductor manufacturing end uses. BIS
@@ -7421,13 +7421,13 @@ level of ICs.
 
 === PAGE 174 ===
 REGULATORY OVERVIEW
-(cid:129) Additional Geographic Scope Expansion for Advanced Computing FDPR: BIS
+ Additional Geographic Scope Expansion for Advanced Computing FDPR: BIS
 also broadened the country scope of theAdvanced Computing FDPR.TheAdvanced
 Computing FDPR previously controlled foreign produced advanced computer items
 (meeting the performance parameters of 3A090 or 4A090) when destined to China
 if they are the direct product of certain U.S.-origin software or technology.
 Following the 2023 Rule, the geographic scope of the rule was expanded.
-(cid:129) Entity ListAdditions: In conjunction with the 2023 Rule, BIS also added two PRC
+ Entity ListAdditions: In conjunction with the 2023 Rule, BIS also added two PRC
 companies, along with certain subsidiaries, to the Entity List.
 Under the EAR, an item manufactured outside of the United States can be subject to EAR
 jurisdiction if the item incorporates certain above de minimis U.S. controlled content (the de
@@ -11335,14 +11335,14 @@ next few years due to technological, regulatory, safety, cost and social challen
 to Frost & Sullivan.We strategically prioritize L2 to L3 products at this stage, recognizing that
 product-market fit is crucial for commercial success. Based on our outstanding products and
 customer recognition:
-(cid:129) We had design wins for 23 vehicle models with 16 automotive OEMs and Tier 1
+ We had design wins for 23 vehicle models with 16 automotive OEMs and Tier 1
 suppliers, as of the Latest Practicable Date.
-(cid:129) We started mass-production of Huashan A1000/A1000L SoCs in 2022. We shipped
+ We started mass-production of Huashan A1000/A1000L SoCs in 2022. We shipped
 a total of over 156,000 units of our SoC products as of March 31, 2024.
-(cid:129) We announced our Wudang Series cross-domain SoCs inApril 2023, the first in the
+ We announced our Wudang Series cross-domain SoCs inApril 2023, the first in the
 industry to integrate autonomous driving, smart cockpit, body control and other
 computational domains, according to Frost & Sullivan.
-(cid:129) Our customer base grew from 45 in 2021 to 85 in 2023. We had 21 customers in the
+ Our customer base grew from 45 in 2021 to 85 in 2023. We had 21 customers in the
 three months ended March 31, 2024. We had partnered with over 49 OEMs and Tier
 1 suppliers such as FAW Group, Dongfeng, JAC, HYCAN, ECARX, Baidu, Bosch,
 ZF Group and Marelli as of the Latest Practicable Date.
@@ -11359,15 +11359,15 @@ Solutions – Commercialization.”
 Our Offerings Underpinned by Strong R&D
 We focus on developing automotive-grade SoCs:
 Huashan Series
-(cid:129) A1000. We launched A1000 in June 2020 with mass-production in 2022. A1000
+ A1000. We launched A1000 in June 2020 with mass-production in 2022. A1000
 offers 58 TOPS computing power on INT8. It is the first high-computing power
 autonomous driving SoC with proprietary IPcores developed and launched in China
 and the first SoC for L2+ and L3 withASIL-B andAEC-Q100 Grade 2 certification
 in China, according to Frost & Sullivan.
-(cid:129) A1000L. A1000L was also launched in June 2020 and mass-produced in 2022,
+ A1000L. A1000L was also launched in June 2020 and mass-produced in 2022,
 designed for L2 and L2+ autonomous driving and is ASIL-B and AEC-Q100 Grade
 2 certified. A1000L offers 16 TOPS computing power on INT8.
-(cid:129) A1000 Pro. We launched A1000 Pro in April 2021 for L3 autonomous driving.
+ A1000 Pro. We launched A1000 Pro in April 2021 for L3 autonomous driving.
 A1000 Pro offers 106+ TOPS computing power on INT8. Being the first
 autonomous driving SoC with over 100 TOPS computing power developed and
 launched in China, it offers the highest computing power on INT8 among its peers
@@ -11376,7 +11376,7 @@ In addition, targeting L3 and beyond, we are in the process of developing A2000 
 designed computing power of 250+ TOPS, one of the highest in the world among
 automotive-grade SoCs, according to Frost & Sullivan.
 Wudang Series
-(cid:129) C1200. We announced C1200 in April 2023, a cross-domain SoC that integrates
+ C1200. We announced C1200 in April 2023, a cross-domain SoC that integrates
 autonomous driving, smart cockpit, body control and other computational
 functionalities, providing an innovative and cost-effective computing solution for
 intelligent vehicles.
@@ -11388,25 +11388,25 @@ SoCs:
 === PAGE 216 ===
 BUSINESS
 Software
-(cid:129) Operating System Support. Our self-developed drivers and operating systems for
+ Operating System Support. Our self-developed drivers and operating systems for
 SoCs offer comprehensive compatibility with various applications in intelligent
 vehicles.
-(cid:129) Hanhai ADSP Middleware. This platform assists customers in rapidly migrating
+ Hanhai ADSP Middleware. This platform assists customers in rapidly migrating
 and deploying applications, and is widely applicable to autonomous driving and
 V2X application scenarios.
-(cid:129) Perception Algorithms. Our advanced neural network visual perception algorithms
+ Perception Algorithms. Our advanced neural network visual perception algorithms
 fundamentally enhance image processing capabilities for autonomous driving.
 We started offering autonomous driving solutions in 2020 and were one of the earliest in
 China that generated substantial revenue from the sales of autonomous driving solutions,
 according to Frost & Sullivan.
-(cid:129) We offer an integrated closed-loop autonomous driving solution pack, BEST Drive,
+ We offer an integrated closed-loop autonomous driving solution pack, BEST Drive,
 comprising Drive Eye for L1 and L2 support, Drive Sensing for L2+ autonomous
 driving, Drive Brain for L3 domain control and Drive Turing for next-generation
 central computing.
-(cid:129) Our self-developed add-on adaptive safety system, Patronus, provides reliable
+ Our self-developed add-on adaptive safety system, Patronus, provides reliable
 adaptive safety support with innovative system design, offering cost-efficient
 solutions for commercial vehicle OEMs and Tier 1 suppliers.
-(cid:129) Our V2X edge computing solution, BEST Road, targets the emerging road-side
+ Our V2X edge computing solution, BEST Road, targets the emerging road-side
 autonomous driving solution market which has been rapidly developing along with
 the growing prevalence of intelligent NEVs.
 As of March 31, 2024, our R&D team consisted of 908 members, 63.7% of which held
@@ -11532,16 +11532,16 @@ WeplacegreatemphasisonthesafetyofautonomousdrivingvehiclesusingourSoCsand
 solutions. Our autonomous driving SoCs are designed and produced to comply with
 automotive-grade standards. Our products, as well as R&D process, passed various industry-
 recognized certifications and tests for safety and reliability, including:
-(cid:129) our R&D processes are ISO 9001 certified in general, and the process for SoC and
+ our R&D processes are ISO 9001 certified in general, and the process for SoC and
 software are ISO 26262 ASIL-D and ASPICE certified, respectively;
 – 210 –
 
 === PAGE 220 ===
 BUSINESS
-(cid:129) the A1000 Series SoCs are ISO 26262 ASIL-B compliant, qualified as AEC-Q100
+ the A1000 Series SoCs are ISO 26262 ASIL-B compliant, qualified as AEC-Q100
 Grade 2 and in compliance with environmental instructions such as RoHS, HF and
 REACH and applicable laws and regulations; and
-(cid:129) the C1200 SoCs are in compliance with a series of high-level security standards,
+ the C1200 SoCs are in compliance with a series of high-level security standards,
 with its safety island design in compliance with ISO 26262ASIL-D and its security
 module is designed to meet EVITA full qualifications.
 During the Track Record Period and up to the Latest Practicable Date, there had been no
@@ -11585,16 +11585,16 @@ Commitment to Intelligent Vehicle SoCs with Expertise
 We are a renowned pioneer in intelligent vehicle SoCs and stand at the forefront of the
 industry, having consistently achieved “first-in-class” milestones in technologies and products.
 According to Frost & Sullivan:
-(cid:129) We were the first to initiate the mass-production of autonomous driving SoCs with
+ We were the first to initiate the mass-production of autonomous driving SoCs with
 high computing power (50+ TOPS). We also spearheaded the launch of autonomous
 driving SoCs with 100+ TOPS in China.
-(cid:129) We are one of the few providers of autonomous driving SoCs that own self-
+ We are one of the few providers of autonomous driving SoCs that own self-
 developed, automotive-grade IP cores.
-(cid:129) We were among the first companies in China to engineer a single chip solution that
+ We were among the first companies in China to engineer a single chip solution that
 fully supports both driving and parking functionalities.
-(cid:129) Wewerethefirsttoannounceanautomotive-gradecross-domaincomputationalSoC
+ Wewerethefirsttoannounceanautomotive-gradecross-domaincomputationalSoC
 in China.
-(cid:129) We are one of the first companies in China to obtain a full suite of automotive-grade
+ We are one of the first companies in China to obtain a full suite of automotive-grade
 certificates, including the ISO 26262 Functional Safety Expert Certificate, ISO
 26262 ASIL-D Functional Safety Development Process Certificate, ISO 26262
 ASIL-B Functional Safety Product Certificate, and the ASPICE CL2 Certificate.
@@ -11617,29 +11617,29 @@ We have adopted a purpose-driven approach in developing and applying our proprie
 technologies, with a view to building critical SoC-related capabilities for enabling autonomous
 driving on intelligent vehicles and beyond. Selected illustrations of our proprietary
 technologies are as follows:
-(cid:129) Enhanced Vision with Automotive-Grade Image Signal Processor (ISP): Our
+ Enhanced Vision with Automotive-Grade Image Signal Processor (ISP): Our
 NeuralIQ ISP is a high-performance imaging solution. It sustains high-quality and
 multi-mode processing capabilities at high speed, and features cost-effective
 one-processor-for-multi-cameras solution, multi-mode processing for various types
 of vehicle sensors at high speed, and high-quality image processing.
-(cid:129) IntelligenceviaAutomotiveGradeNPUwithDeepNeuralNetworkAccelerator:
+ IntelligenceviaAutomotiveGradeNPUwithDeepNeuralNetworkAccelerator:
 Our DynamAI NN engine increases computing efficiency with low power
 consumption and specialized ASIC structure. It features simultaneous soft- and
 hardware optimization, multi-array and multi-precision support, and powerful
 perception capabilities such as recognizing obstacles, traffic signs, and pedestrians
 under varying environmental conditions.
 Our outstanding and systematic R&D capabilities are also evidenced by:
-(cid:129) Global Talent Pool: We have five R&D centers in China and two centers in Silicon
+ Global Talent Pool: We have five R&D centers in China and two centers in Silicon
 Valley, U.S. and Singapore. Our diverse geographical footprint and industry
 leadership allow us to attract talents focusing on cutting-edge technologies globally
 and amalgamate state-of-the-art technologies.
-(cid:129) Proven and Agile R&D Framework: By proactively tracking market and
+ Proven and Agile R&D Framework: By proactively tracking market and
 technology trends, we formulate long-term R&D blueprints to maintain a significant
 competitive edge. Moreover, we collaborate closely with automotive OEMs at the
 early stages of projects to better assess, adapt to, and fulfil clients’evolving needs.
 Our R&D procedures are ISO 9001 certified, and our SoC and software R&D
 procedures are ISO 26262 ASIL-D and ASPICE certified, respectively.
-(cid:129) Extensive Intellectual Property Portfolio: As of the Latest Practicable Date, we
+ Extensive Intellectual Property Portfolio: As of the Latest Practicable Date, we
 held 133 registered patents and had 163 patent applications, two integrated circuit
 layout design registrations, 104 software copyrights, and 176 registered trademarks
 globally.
@@ -11717,15 +11717,15 @@ As of the Latest Practicable Date, we had collaborated with a large number of ma
 automotive OEMs such as FAWGroup, SAIC, Dongfeng, JAC and leadingTier 1 suppliers like
 Bosch, ECARX, and Hirain. We had design wins from 16 automotive OEMs and Tier 1
 suppliers as of the Latest Practicable Date.
-(cid:129) We partner with FAW Group, one of the largest automotive OEMs in China and the
+ We partner with FAW Group, one of the largest automotive OEMs in China and the
 world, to jointly develop the Hongqi autonomous driving platform with an
 integrated chip-computing system, with factory-installation of A1000 SoCs on
 various mass-produced vehicle models.
-(cid:129) OurcollaborationwithSotereapropelstheiterationofautonomousdrivingsolutions
+ OurcollaborationwithSotereapropelstheiterationofautonomousdrivingsolutions
 and penetration of self-developed SoCs. Through this partnership, we lead in
 implementingmass-scaleself-developedalgorithmsandsolutionstoachievesmooth
 commercialization.
-(cid:129) Jointly with Bosch, we are strategically deploying our SoC as well as cutting-edge
+ Jointly with Bosch, we are strategically deploying our SoC as well as cutting-edge
 solutions in V2X scenarios on both vehicle-side and emerging roadside.
 – 215 –
 
@@ -12378,11 +12378,11 @@ computational SoC in China by unveiling the Wudang Series inApril 2023, accordin
 & Sullivan.
 Our SoC portfolio comprises two major series: the Huashan Series, focusing on
 autonomous driving, and the Wudang Series, targeting cross-domain computation:
-(cid:129) HuashanSeries:TheHuashanA1000SeriesSoC,designedforautonomousdriving,
+ HuashanSeries:TheHuashanA1000SeriesSoC,designedforautonomousdriving,
 supports BEV fusion algorithms for L3 and below application scenarios. We will
 persist in enhancing the computing capacity and utilization for our Huashan Series
 SoCs.
-(cid:129) Wudang Series: The Wudang Series SoC caters to the cross-domain computational
+ Wudang Series: The Wudang Series SoC caters to the cross-domain computational
 needs of intelligent vehicles by integrating computation for autonomous driving,
 smart cockpit, body control and other computational functionalities into a single
 SoC.
@@ -12434,10 +12434,10 @@ Huashan A1000
 The Huashan A1000, launched in June 2020, was the first high-computing power
 autonomousdrivingSoCwithproprietaryIPcoresdevelopedandlaunchedinChina,according
 to Frost & Sullivan. It features:
-(cid:129) Full support for L2+ to L3 autonomous driving;
-(cid:129) Single-chip solution integrating parking and driving;
-(cid:129) Multiple autonomous driving scenarios; and
-(cid:129) Balanced computing power and energy consumption, with the highest energy
+ Full support for L2+ to L3 autonomous driving;
+ Single-chip solution integrating parking and driving;
+ Multiple autonomous driving scenarios; and
+ Balanced computing power and energy consumption, with the highest energy
 efficiency ratio in China at its launch time, according to Frost & Sullivan.
 The Huashan A1000, developed with a 16nm FFC automotive process, offers 58 TOPS
 computing power on INT8 and processes up to 16 channels of HD camera inputs. These SoCs
@@ -12472,9 +12472,9 @@ It has the highest computing power among all autonomous driving SoCs in China (c
 on INT8 by TOPS), being the first autonomous driving SoC with over 100 TOPS computing
 power (106+ TOPS on INT8) developed and launched in China, according to Frost & Sullivan.
 It is:
-(cid:129) designed to support up to 20 channels of HD camera inputs, the most among peers
+ designed to support up to 20 channels of HD camera inputs, the most among peers
 in China, according to Frost & Sullivan; and
-(cid:129) compatible with multiple autonomous driving application scenarios, from urban
+ compatible with multiple autonomous driving application scenarios, from urban
 road and highway driving to parking.
 Huashan A2000
 We are currently developing our next-generation SoC, the Huashan A2000. Employing a
@@ -12526,7 +12526,7 @@ Autonomous Driving Solutions Covering ADAS to L3 and Beyond – BEST Drive
 Our intelligent driving solutions, BEST Drive, offer a comprehensive closed-loop
 integrated solution pack from the collection and analysis of sensor information to decision-
 making and implementation, featuring the following:
-(cid:129) Drive Eye for Visual Perception and Display
+ Drive Eye for Visual Perception and Display
 o L1/L2 ADAS Support: Comprising one A1000 SoC, featuring 8MP front
 camera solution or independent surround view multi-camera parking system.
 o Supporting 8MPfront camera with multiple intelligent cameras in the cockpit.
@@ -12539,7 +12539,7 @@ achieving optimal display performance in the cockpit.
 
 === PAGE 240 ===
 BUSINESS
-(cid:129) Drive Sensing for Integrated Solutions
+ Drive Sensing for Integrated Solutions
 DriveSensingcoversL2+driving,APA/AVP,full3Dsceneandmulti-channelDVR.
 We provide one of the first mass-produced single chip solutions for integrated
 parking and driving in China, according to Frost & Sullivan, providing coordinated
@@ -12561,7 +12561,7 @@ High Way Assist (HWA) — √
 High Way Navigate on Autopilot (NOA) — √
 City Navigate on Autopilot (NOA) — √
 High Way Pilot (HWP) — √
-(cid:129) Drive Brain for L3 Domain Control
+ Drive Brain for L3 Domain Control
 o L3: Comprising two to four A1000 SoCs
 o Multi-sensors solution: Based on our self-developed high computing power
 SoCs, Drive Brain realizes high-level autonomous driving domain control
@@ -12574,7 +12574,7 @@ point navigation driving assistant, HPP/AVP parking, SOA and shadow mode.
 
 === PAGE 241 ===
 BUSINESS
-(cid:129) Drive Turing for Next-generation Autonomous Driving
+ Drive Turing for Next-generation Autonomous Driving
 We are developing the next-generation central computing autonomous driving
 solution Drive Turing, featuring massive computing power, high-level security and
 shared autonomy. Drive Turing will be powered by A2000 SoCs.
@@ -12584,11 +12584,11 @@ Add-on Adaptive Safety System – Patronus
 Our self-developed add-on adaptive safety system Patronus provides reliable adaptive
 safety support with carefully designed structure and material selection to provide cost-efficient
 solutions for commercial vehicle OEMs and Tier 1 suppliers, featuring the following:
-(cid:129) Complete and customized solution across vehicle types:
+ Complete and customized solution across vehicle types:
 o Available for commercial vehicles and vans; and
 o Combining controller, chip, algorithm, reference solution and algorithm
 porting tools, which can be tailored to customer needs.
-(cid:129) Various functions to meet diversified needs:
+ Various functions to meet diversified needs:
 o ADAS & Driving Recording: High accuracy, completeness in objective
 classification, and strong adaptability;
 o DMS (Driver Monitoring System): Driver recognition and monitoring of
@@ -12602,7 +12602,7 @@ V2X Edge Computing Solution – BEST Road
 Our BEST Road solution is designed for V2X edge computing, targeting the emerging
 road-side autonomous driving market, which has been rapidly developing along with the
 market of intelligent and electronic vehicles, featuring the following:
-(cid:129) Combined capabilities with powerful A1000 SoCs to provide 50+ TOPS of
+ Combined capabilities with powerful A1000 SoCs to provide 50+ TOPS of
 aggregated computing power, high-precision perception algorithms, multi-scenario
 image processing and multi-sensor fusion empowering applications for smart
 transportation;
@@ -12610,12 +12610,12 @@ transportation;
 
 === PAGE 242 ===
 BUSINESS
-(cid:129) Vehicle and objective perception: The perception range is 300 meters, with vehicle
+ Vehicle and objective perception: The perception range is 300 meters, with vehicle
 identification accuracy of over 90%, license plate identification accuracy of over
 95% and event accuracy over 95%;
-(cid:129) License plate perception: Covers up to 300 meters of license plate perception and
+ License plate perception: Covers up to 300 meters of license plate perception and
 tracking; and
-(cid:129) Radar-camera fusion: Fusion trajectory error within 50cm.
+ Radar-camera fusion: Fusion trajectory error within 50cm.
 Development and Testing Platform – FAD
 Built on the Huashan series SoCs with single or dual chip options, our FAD platform
 provides flexible development and testing services to our trial customers.
@@ -12667,17 +12667,17 @@ Our smart portrait product supports smart phone portrait editing with a single c
 creating blurred background and highlighting the portrait in the photos, also known as the
 bokeh effect. Smart portrait is empowered by our AI technologies including depth estimation,
 facial detection and portrait segmentation.
-(cid:129) Depth Estimation
+ Depth Estimation
 Depth estimation through AI provides distance information of objects in the photo.
 Through machine learning processes enabled by our customized UNet++ with backbone
 of EfficientNet, our AI models are able to resume the 3D positions of various objects
 shown in a 2D photo, providing a bird’s eye view of the original scope.
-(cid:129) Facial Detection
+ Facial Detection
 Facial detection identifies the positions, sizes and amounts of faces shown in a 2D
 photo. Through repeated training with utilization of deep learning processes empowered
 by our customized YOLO model, our AI models are able to achieve high accuracy of
 facial detection.
-(cid:129) Portrait Segmentation
+ Portrait Segmentation
 Portrait segmentation separates the portrait and the background in the photo. With
 theinformationonpositionsandsizesoffacesthroughfacialdetection,ourAIalgorithms
 supported by our customized UNet with backbone of MobileNet clearly identify the
@@ -12697,7 +12697,7 @@ Smart Super Night View
 Our smart super night view product enhances the imaging under poor lighting conditions,
 especially at nights. Smart super night view is empowered by our AI technologies including
 de-noising and background beautification.
-(cid:129) De-noising
+ De-noising
 Image noise is random variation of brightness or color information in images, an
 undesirable byproduct of image capture that obscures the desired information. Our
 customized UNet AI models trained through high-quality images without noises are able
@@ -12707,7 +12707,7 @@ details, creating a de-noised high-quality photo regardless of the original imag
 
 === PAGE 245 ===
 BUSINESS
-(cid:129) Background Beautification
+ Background Beautification
 Similar to our smart portrait product, after identification and segmentation of
 portrait in the photos, our customized HDRNet AI models trained through high-quality
 images under various background and scenarios conduct background beautification to
@@ -12718,9 +12718,9 @@ lighting conditions at nights.
 Before After
 The salient terms of agreements with our customers of intelligent imaging solutions are
 set out below:
-(cid:129) Customer type: Covering mainly (i) high-end consumer electronics manufacturers,
+ Customer type: Covering mainly (i) high-end consumer electronics manufacturers,
 and (ii) intelligent electronics providers.
-(cid:129) Service scope and pricing: We offer intelligent imaging solutions that empower a
+ Service scope and pricing: We offer intelligent imaging solutions that empower a
 broad range of devices to facilitate intelligent perception and content enhancement
 through algorithms.We mainly (i) license self-developed software and algorithms to
 customers from whom we charge one-off licensing fees; and (ii) sell products such
@@ -12737,7 +12737,7 @@ for algorithms ranging from US$ 0.02 to US$ 0.5 per device depending on the
 volume; (ii) project-based pricing based on algorithms deployed, with total price
 generally ranging from RMB 0.2 million to RMB 0.4 million; and (iii) annual usage
 fee which is determined on a case-by-case basis.
-(cid:129) Principal rights and obligations of parties involved:
+ Principal rights and obligations of parties involved:
 o License of software and algorithms: We are responsible for timely provision
 of software and algorithms as well as necessary upgrades and maintenance
 support that meets customers’requirements. We generally provide operational
@@ -12746,10 +12746,10 @@ payments and no sublicensing is allowed without our permission.
 o Salesofproducts:Weareresponsiblefortimelydeliveryandqualityassurance
 of products. We typically offer product warranty period of 18 months. Our
 customers are responsible for timely payments.
-(cid:129) Payment term: Our customers usually pay us upon delivery, or by milestones
+ Payment term: Our customers usually pay us upon delivery, or by milestones
 defined in the agreement such as agreement signing, delivery of solutions and
 customer’s written acceptance of our solutions.
-(cid:129) Term and Termination: Licensing arrangements shall generally remain valid for the
+ Term and Termination: Licensing arrangements shall generally remain valid for the
 lifetime of the licensed products of our customers.
 Commercialization
 We are dedicated to accelerating the commercialization of autonomous driving products
@@ -13266,7 +13266,7 @@ Our self-developed image signal processor NeuralIQ ISP provides high-performance
 single processor support for multi-cameras on vehicle with high-quality and multi-mode
 processing capabilities at high speed, which was one of the first self-developed automotive
 grade ISP product in China, according to Frost & Sullivan, featuring the following:
-(cid:129) One processor for multi-cameras: NeuralIQ ISP supports the mainstream multi-
+ One processor for multi-cameras: NeuralIQ ISP supports the mainstream multi-
 camera architecture adopted by most ADAS systems and autonomous driving
 vehicles.
 o Cost-effective: with one processor connected to multi-cameras in the system,
@@ -13286,14 +13286,14 @@ with varying intrinsics which increases the flexibility for image quality
 adjustment and tailors to the specific requirements by the backend algorithms
 ofautomotiveOEMs.Forexample,itaccommodates15typesofcameraswhen
 integrated in the Huashan A1000 SoC.
-(cid:129) Multi-mode processing at high speed: Equipped with multi-cameras, NeuralIQ ISP
+ Multi-mode processing at high speed: Equipped with multi-cameras, NeuralIQ ISP
 provides both a high processing rate and a high transmission rate.
 o Input: up to 16 HD cameras;
 o Processing capability: 3.6 billion 3-exposure pps and 1.2 billion single-
 exposure pps for multi channels;
 o Concurrent online video processing; and
 o Supporting online, offline or mixed processing modes.
-(cid:129) High quality image processing:
+ High quality image processing:
 o Supporting HDR processing which meets high quality automotive image
 processing requirements;
 o High dynamic exposure, low-light noise reduction, and suppression of LED
@@ -13306,12 +13306,12 @@ performance neural network acceleration for the data fusion, feature extraction 
 classification of data information generated by the sensors on vehicle with a cost-efficient and
 specialized ASIC architecture, which was one of the first self-developed automotive grade
 NPU in China, according to Frost & Sullivan, featuring the following:
-(cid:129) Simultaneous optimization for software and hardware through adaptive
+ Simultaneous optimization for software and hardware through adaptive
 quantization, structural crop/compression and subgraph planning, with performance
 improved by more than 15 times;
-(cid:129) Supporting multi-array, multi-precision, and high computing power through
+ Supporting multi-array, multi-precision, and high computing power through
 proprietary design of structure; and
-(cid:129) Powerful perception capability: 89% in precision with 87% in recall rate.
+ Powerful perception capability: 89% in precision with 87% in recall rate.
 – 246 –
 
 === PAGE 256 ===
@@ -13325,17 +13325,17 @@ fundamental role in facilitating automotive software and hardware unbundling. Ha
 Middleware allows customers to rapidly and readily deploy the powerful performance of our
 SoCs, improve their R&D efficiency, lower development barrier, reduce overall cost and
 accelerate mass-production. Hanhai ADSP Middleware features the following:
-(cid:129) A full-suite of development toolkits: Consisting of development toolkits targeting
+ A full-suite of development toolkits: Consisting of development toolkits targeting
 SoC, MCU and PC, compatible with the development of autonomous driving and
 V2X application scenarios.
-(cid:129) Openness: The key modules of the autonomous driving system and other basic
+ Openness: The key modules of the autonomous driving system and other basic
 software components are packaged into openAPIs, allowing users to access and use
 the processing capabilities of the Huashan series SoCs swiftly and easily.
-(cid:129) Swiftdeployment:Reducingthedevelopmentworkloadofcustomersandshortening
+ Swiftdeployment:Reducingthedevelopmentworkloadofcustomersandshortening
 the development cycle of applications from the customer end. It can also help
 customers continuously improve the performance of autonomous driving
 applications.
-(cid:129) Broad compatibility: Compatible with a large variety of vehicle models and
+ Broad compatibility: Compatible with a large variety of vehicle models and
 third-party autonomous driving systems and thus reducing customers’development
 and deployment costs.
 Shanhai Development Toolchain
@@ -13343,14 +13343,14 @@ We launched our Shanhai DevelopmentToolchain, an easy-to-use toolchain for algor
 developers to develop software based on our SoCs, which was one of the first self-developed
 automotive-grade development toolchains in China, according to Frost & Sullivan, featuring
 the following:
-(cid:129) Extensibility: supporting Tensorflow, Pytorch, and ONNX frameworks;
-(cid:129) High precision: supporting post-training quantization of AI models, as well as
+ Extensibility: supporting Tensorflow, Pytorch, and ONNX frameworks;
+ High precision: supporting post-training quantization of AI models, as well as
 quantization-aware training (QAT) to ensure the precision of AI models;
-(cid:129) Completeness: equipped with NN models in its Model Zoo and deep learning
+ Completeness: equipped with NN models in its Model Zoo and deep learning
 models, which provides instructions to customers for easily and rapidly developing
 and deploying algorithms. A complete toolchain SDK and application support help
 customers deploy optimized models with ease.
-(cid:129) Flexibility: Flexible deployment with docker images.
+ Flexibility: Flexible deployment with docker images.
 – 247 –
 
 === PAGE 257 ===
@@ -13419,9 +13419,9 @@ and welfare benefits. We also invest in continuing education and training progra
 our key management and technical staff. In the event of termination of employment requested
 by a key staff, we closely communicate with the staff for the reason of departure and feedback
 for us. The salient terms of agreements with management and technical staff are set out below:
-(cid:129) No conflict: During the employment, employee shall not engage in any other job,
+ No conflict: During the employment, employee shall not engage in any other job,
 whether full-time or part-time.
-(cid:129) Inventions arrangement: We shall own all right, title and interest (including patent
+ Inventions arrangement: We shall own all right, title and interest (including patent
 rights, copyrights, trade secret rights, mask work rights, sui generis database rights
 and all other intellectual property rights of any sort throughout the world) relating
 to any and all inventions (whether or not patentable), works of authorship, mask
@@ -13433,7 +13433,7 @@ promptly disclose all inventions to us.
 
 === PAGE 259 ===
 BUSINESS
-(cid:129) Proprietary information arrangement: All inventions and all other business,
+ Proprietary information arrangement: All inventions and all other business,
 technical and financial information (including, without limitation, the identity of
 and information relating to customers or employees) the employee develops, learns
 or obtains during the term of the employment contract that relate to us or the
@@ -13442,17 +13442,17 @@ or in part on our time or using our equipment, supplies, facilities or confident
 information, or that are received by or for us in confidence, constitute proprietary
 information. The employee shall hold in confidence and not disclose or, except
 within the scope of the employment, use any proprietary information.
-(cid:129) Confidentiality: During the employment, except as necessary to perform their
+ Confidentiality: During the employment, except as necessary to perform their
 duties, and for all time thereafter, employees shall not, without our prior written
 consent, disclose, divulge, announce, publish, impart, transfer or otherwise make
 known to any third party, or in any way use any information, such as technical and
 trade secrets, belonging to us or belonging to any other party for which we have a
 duty of confidentiality.
-(cid:129) Non-competition:Wehavetherighttounilaterallyinitiateanon-competitionperiod
+ Non-competition:Wehavetherighttounilaterallyinitiateanon-competitionperiod
 of up to two years following the termination of employment. During the term of
 employment and the non-competition period initiated by us, employee shall not
 engage in any competitive behavior.
-(cid:129) Non-solicitation: During the employment and for all time thereafter, employee shall
+ Non-solicitation: During the employment and for all time thereafter, employee shall
 not, directly or indirectly, solicit or attempt to solicit our employees to leave their
 employment or solicit or otherwise influence our relationships with our customers
 or suppliers.
@@ -13493,18 +13493,18 @@ collaborated with technical service providers in China for certain processes of 
 Such technical service providers provide customized circuit design services with their
 experiencedstaffhavingmorethantenyearsofexperiencesinthechipdesignfield.Thesalient
 terms of our standard outsourced design service agreement are set out below:
-(cid:129) Intellectual Property: All the resulting intellectual properties of the project belong
+ Intellectual Property: All the resulting intellectual properties of the project belong
 to us. The engaged party would not infringe third parties’intellectual properties for
 performance of its obligations under the agreements, and would indemnify us for
 any losses suffered due to third parties’ demand for compensations.
-(cid:129) Pricing and payment: The pricing of the outsourced R&D services depends on the
+ Pricing and payment: The pricing of the outsourced R&D services depends on the
 type of the specific R&D work. We generally pay by milestones as defined in the
 agreement.
-(cid:129) Confidentiality: The engaged party is responsible for keeping strict confidentiality
+ Confidentiality: The engaged party is responsible for keeping strict confidentiality
 of all the information provided by us, and would be responsible for any breach of
 confidentiality. The confidentiality clause applies for three years from the provision
 of information.
-(cid:129) Termination: The agreements will be terminated by mutual agreement, or by other
+ Termination: The agreements will be terminated by mutual agreement, or by other
 means as set forth in the agreements.
 – 251 –
 
@@ -13543,18 +13543,18 @@ suppliers.
 BUSINESS
 The salient terms of our agreements with third-party technology providers are set out
 below:
-(cid:129) Licensing arrangement: IP core providers generally grant us non-transferable,
+ Licensing arrangement: IP core providers generally grant us non-transferable,
 non-exclusive, world-wide license for using, copying and modifying the IPcores for
 purpose of designing the agreed product. Software tool providers generally grant us
 the right to install, access and use the software tools as agreed.We are generally not
 allowed to assign, sub-license or otherwise transfer the license to any third party.
-(cid:129) Fees and payment: We are generally charged of a one-off licensing fee, royalties,
+ Fees and payment: We are generally charged of a one-off licensing fee, royalties,
 as well as separate support and maintenance fees. The pricing is determined by the
 providers’ standard price quote. CPU/GPU IP core prices range from RMB20
 million to RMB90 million. Other IPprices generally range from RMB0.2 million to
 RMB3million.Meanwhile,wearechargedroyaltiesatapercentageof0.1%to3.5%
 of the average selling price.
-(cid:129) Term and Termination: The term of our agreement with third-party technology
+ Term and Termination: The term of our agreement with third-party technology
 providers generally ranges from one to three years and may be terminated upon
 mutual consent or by either party in the event of counterparty’s material breach.
 R&D Process
@@ -13653,7 +13653,7 @@ process, including but not limited to revision, deletion, saving or sharing. The
 results are submitted to our data platform for future references. We have built up a
 comprehensive data management system and formulated a series of technical standards and
 specifications to ensure data security throughout their life cycle:
-(cid:129) Data Collection and Destruction
+ Data Collection and Destruction
 We collect data on the premise that we could ensure the authenticity, accuracy and
 necessity of the data. We only collect personal information upon consent of the relevant
 individuals, and if it is necessary to use personal information beyond the scope due to business
@@ -13664,7 +13664,7 @@ period expires, we would delete the relevant data within 15 working days.
 
 === PAGE 265 ===
 BUSINESS
-(cid:129) Data Processing
+ Data Processing
 Access to the original data through the database is only permitted with due course, and
 the relevant personnel must keep confidentiality of the data they access. When business
 personnel need to access data through the database, such personnel should submit a written
@@ -13678,19 +13678,19 @@ application shall be submitted for unified arrangement of corresponding modifica
 approval of the department head. When modifying the data, the feasibility and safety should
 be fully demonstrated and the modification plan should be determined before the modification
 is carried out to ensure that the system is error-free after the data is modified.
-(cid:129) Data Storage
+ Data Storage
 Access to the database and backup files should be strictly controlled, and unauthorized
 access to the data and backup files is strictly prohibited.The backup data must be safely stored
 and the storage media cannot be placed on the desktop or other exposed places.
 We use a variety of technologies to protect the data we collect, including encryption and
 backup.
-(cid:129) Data Encryption
+ Data Encryption
 We determine the data protection level based on our risk assessment, and assign
 corresponding measures to each level taking into consideration the type and property of
 encryptionalgorithmsandthelengthofthepasswordused.Weroutinelyreviewandamendour
 encryption policies as appropriate, and ensure important information must be encrypted when
 transmitted.
-(cid:129) Data Backup
+ Data Backup
 We maintain data backups for core application systems in two or more copies, and the
 data retention period should be at least two weeks. Daily backup shall be performed for
 business-related data. We conduct mandatory system and data backup before and after
@@ -14200,7 +14200,7 @@ sharing on our social media platforms and interacting with developers.
 CUSTOMERS
 Our major customers are automotive OEMs and Tier 1 suppliers. The salient terms of our
 agreements with automotive OEMs or Tier 1 suppliers are set out below:
-(cid:129) Collaboration or supply arrangement:
+ Collaboration or supply arrangement:
 o Collaboration: We collaborate with automotive OEMs or Tier 1 suppliers to
 tailor intelligent vehicle SoCs or autonomous driving solutions for factory-
 installation on required vehicle models with adjustment based on specific
@@ -14217,7 +14217,7 @@ solutions and FAD platform services to automotive OEMs or Tier 1 suppliers.
 We are responsible for timely delivery and quality assurance of our products or
 services. We typically offer a product warranty period of two years.
 Automotive OEMs or Tier 1 suppliers are responsible for timely payments.
-(cid:129) IP ownership under collaboration arrangement: Generally, automotive OEMs or
+ IP ownership under collaboration arrangement: Generally, automotive OEMs or
 Tier 1 suppliers are entitled to the ownership of intellectual property work or results
 derived from the cooperation between the parties, while each party shall own all
 intellectual property right created or conceived by such party solely in the
@@ -14226,17 +14226,17 @@ performance of development activities.
 
 === PAGE 278 ===
 BUSINESS
-(cid:129) Minimum purchase commitment: Under the framework collaboration agreements,
+ Minimum purchase commitment: Under the framework collaboration agreements,
 generally there are no minimum purchase commitment from automotive OEMs or
 Tier 1 suppliers. Once our products or solutions designed or tailored under the
 framework agreements successfully meet the requirements of automotive OEMs or
 Tier 1 suppliers, they may provide design wins to us for ordering our products or
 solutions, typically with estimated number of products or solutions needed.
-(cid:129) Payment term: For supply agreements, automotive OEMs or Tier 1 suppliers
+ Payment term: For supply agreements, automotive OEMs or Tier 1 suppliers
 generally pay us upon acceptance of our products or services. For collaboration
 arrangements, customers are typically required to make installment payments
 according to prescribed development or production milestones.
-(cid:129) Term and Termination: The term of framework collaboration agreements is
+ Term and Termination: The term of framework collaboration agreements is
 generally five years and may be terminated upon mutual consent. The supply
 agreements are generally terminated upon fulfillment of parties’ obligations.
 Revenue generated from our largest customer in each year or period during the Track
@@ -14491,11 +14491,11 @@ Ex Works delivery (EXW)
 our designated location
 Shanghai International
 The key aspects of our relationship with Shanghai International are as follows:
-(cid:129) Shanghai International has been one of the long-term authorized importers ofTSMC
+ Shanghai International has been one of the long-term authorized importers ofTSMC
 products, and according to Frost & Sullivan, it is a common practice in the industry
 for buyers to make payments and procure products and services through such
 importers.
-(cid:129) According to our agreement with Shanghai International,
+ According to our agreement with Shanghai International,
 o Shanghai International is responsible for delivering certain TSMC-
 manufactured products after customs clearance and declaration to our
 designated place against our prepayment of the purchase price based on the
@@ -14527,14 +14527,14 @@ customer support. We choose our contract manufacturers based on a variety of fac
 includingR&Dcapabilities,productquality,manufacturingcapabilities,historyofcooperation
 and price.
 Below are salient terms of our agreements with contract manufacturers:
-(cid:129) Scope of supply: Contract manufacturers primarily supply wafer products and
+ Scope of supply: Contract manufacturers primarily supply wafer products and
 technical services to us.
-(cid:129) Term and Termination: We usually enter into framework agreements with contract
+ Term and Termination: We usually enter into framework agreements with contract
 manufacturers with a term of one year, which can be automatically extended for
 another one year without notification of termination. The framework agreements set
 out the general terms and conditions of cooperation. We then separate purchase
 orders which are generally terminated upon mutual consent.
-(cid:129) Principal rights and obligations of parties involved: Contract manufacturers are
+ Principal rights and obligations of parties involved: Contract manufacturers are
 responsible for timely delivery and quality assurance of products or services. Our
 contract manufacturers must meet our specified quality requirements and are
 responsible for liabilities resulting from product defects. Contract manufacturers
@@ -14545,23 +14545,23 @@ payments.
 
 === PAGE 285 ===
 BUSINESS
-(cid:129) Pricing and payment term: We generally pay in advance for our purchases from
+ Pricing and payment term: We generally pay in advance for our purchases from
 contract manufacturers.The price of each purchase order depends on factors such as
 thetypeofproductsorservicessupplied,quantity,qualityrequirementsanddelivery
 requirements.
 Below are salient terms of our agreements with import agents:
-(cid:129) Principal rights and obligations of parties involved: We order from contract
+ Principal rights and obligations of parties involved: We order from contract
 manufacturers directly and we engage import agents that are responsible for
 import-related procedures such as import approvals and taxes, custom clearance and
 declaration, as well as transportation related work. Import agents generally pay for
 us to suppliers for our orders made with suppliers. We are responsible for timely
 payments to import agents.
-(cid:129) Pricing and payment term: We generally pay import agents (i) the procurement fee
+ Pricing and payment term: We generally pay import agents (i) the procurement fee
 that needs to be paid to suppliers such as contract manufacturers, (ii) import
 procedure related fees such as taxes, and (iii) the agency service fee, which is
 generally at a fixed ratio to the procurement fee to suppliers such as contract
 manufacturers. We generally pay in advance to import agents.
-(cid:129) Termination: The agreements are generally terminated upon fulfillment of parties’
+ Termination: The agreements are generally terminated upon fulfillment of parties’
 obligations.
 As of the Latest Practicable Date, the arrangements with our contract manufacturers and
 import agents were not subject to any import or export restrictions. K&L Gates, our legal
@@ -14776,7 +14776,7 @@ COMPETITION
 We mainly compete with three major types of autonomous driving SoC providers in the
 autonomous driving SoC market, namely specific autonomous driving SoC providers, general
 chip providers and automotive OEM self-developers.
-(cid:129) Specific autonomous driving SoC providers have a strong research focus on
+ Specific autonomous driving SoC providers have a strong research focus on
 autonomous driving and possess comprehensive software and hardware
 development capabilities, allowing them to develop customized autonomous driving
 SoC-based solutions for various automotive OEMs. These providers primarily serve
@@ -14786,13 +14786,13 @@ high degree of specialization and economies of scale.
 
 === PAGE 291 ===
 BUSINESS
-(cid:129) General chip providers develop and deliver a broader range of chips compared to
+ General chip providers develop and deliver a broader range of chips compared to
 specialized autonomous driving SoC providers. Their offerings encompass various
 automotive chips or other chips for different applications, such as robotics,
 computers, data centers, cellphones and manufacturing. Therefore, these providers’
 focuses are not solely for autonomous driving, which they have a broad customer
 base across multiple industries.
-(cid:129) Certain automotive OEMs also develop their in-house autonomous driving SoCs.
+ Certain automotive OEMs also develop their in-house autonomous driving SoCs.
 This approach enables OEMs to fully customize the SoCs according to their specific
 needs. However, due to the high degree of customization and the competitive
 dynamicswithotherOEMs,thesein-housedevelopedSoCsaretypicallyusedsolely
@@ -15290,7 +15290,7 @@ ISO9001 An internationally accepted standard Our R&D processes are ISO9001
 for quality management, made by the certified in general.
 International Organization for
 Standardization.
-ISO 26262 and ISO 26262 is an internationally (cid:129) We are one of the first
+ISO 26262 and ISO 26262 is an internationally We are one of the first
 ASIL accepted safety standard for companies in China to obtain a
 automotive electronic and electrical full suite of automotive-grade
 products, made by the International certificates, such as the ISO
@@ -15300,11 +15300,11 @@ integrity level (ASIL) as the risk Functional Safety Development
 classification scheme. There are four Process Certificate and ISO
 ASILs identified by the standard: 26262 ASIL-B Functional
 ASIL-A, ASIL-B, ASIL-C, ASIL-D. Safety Product Certificate;
-ASIL-D dictates the highest integrity (cid:129) Our R&D process for SoC is
+ASIL-D dictates the highest integrity Our R&D process for SoC is
 requirements on the product and ISO 26262 ASIL-D certified;
-ASIL-A the lowest. (cid:129) TheA1000 Series SoCs are ISO
+ASIL-A the lowest. TheA1000 Series SoCs are ISO
 26262 ASIL-B compliant; and
-(cid:129) The safety island design of the
+ The safety island design of the
 C1200 SoCs is ISO 26262
 ASIL-D compliant.
 ASPICE Automotive software process Our R&D process for software is
@@ -15401,7 +15401,7 @@ The 2022 Rule significantly enhanced U.S. export controls as applied to advanced
 integrated circuit (IC) products, related SME and technology and supercomputers, where the
 destination or ultimate end use is in China. Below is an overview of the major changes coming
 out of the 2022 Rule.
-(cid:129) New Commerce Control List (CCL) Controls on ICs and SME: As part of the
+ New Commerce Control List (CCL) Controls on ICs and SME: As part of the
 2022 Rule, BIS expanded CCL-based controls under the Export Administration
 Regulations (EAR) to add additional Export Control Classification Numbers
 (ECCNs). New ECCN 3A090 was created to control certain high-performance ICs
@@ -15417,7 +15417,7 @@ production, or use of such items, as well as computers, electronic assemblies, a
 other items containing the controlled ICs. Finally, the 2022 Rule also expanded
 some CCL-based controls on lower-level computing ICs and associated computer
 commodities through the addition of new ECCNs 3A991.p and 4A994.l.
-(cid:129) Creation of New U.S. Person Restrictions: In the 2022 Rule, BIS expanded
+ Creation of New U.S. Person Restrictions: In the 2022 Rule, BIS expanded
 Section 744.6 of the EAR to inform U.S. persons that a license is required for the
 shipment, transmission, or transfer (in-country) to or within China of certain items
 not subject to the EAR, or the facilitation of such shipments or transfers, or the
@@ -15430,7 +15430,7 @@ any ECCN in Product Groups B, C, D, or E in Category 3 of the CCL (IC
 manufacturing equipment, software, and technology) destined to a fabrication
 facility, where you do not know whether the facility fabricates such advanced ICs,
 and (3) other newly controlled advanced IC SME, regardless of end use or end user.
-(cid:129) New and Expanded Foreign Direct Product Rules: BIS also expanded certain
+ New and Expanded Foreign Direct Product Rules: BIS also expanded certain
 foreign direct product rules (FDPRs) as part of the 2022 Rule. The EAR’s FDPRs
 extend U.S. export control jurisdiction to certain foreign produced items that are the
 “direct product” of specified U.S. technology or equipment controlled for national
@@ -15461,7 +15461,7 @@ design, development, production, operation, installation, maintenance, checking,
 repair, overhaul, or refurbishing of a supercomputer located in China, or
 incorporated into or used in the development or production of any part, components,
 or equipment that will be used in a supercomputer located in or destined for China.
-(cid:129) New End Use and End User Restrictions: The final major change coming out of
+ New End Use and End User Restrictions: The final major change coming out of
 the 2022 Rule included the introduction of new end use and end user restrictions
 similar to the U.S. person restrictions detailed above, but applicable instead to all
 items subject to the EAR anywhere in the world. Under the “SME End Use Rule,”
@@ -15488,7 +15488,7 @@ Rule. Below is an overview of the changes coming out of the 2023 Rule as compare
 
 === PAGE 307 ===
 BUSINESS
-(cid:129) Additional Controls on Semiconductor Manufacturing Equipment: BIS
+ Additional Controls on Semiconductor Manufacturing Equipment: BIS
 expanded the scope of the SME export controls to capture additional tools and
 equipment critical to development of certain advanced ICs and expanded the SME
 controls to restrict exports to additional destinations. Newly controlled items
@@ -15497,7 +15497,7 @@ operations, such as EUV (extreme ultraviolet) etching and advanced deposition
 processing. BIS also removed the de minimis U.S. content threshold for certain
 foreign-produced lithography equipment, making such items subject to the Export
 Administration Regulations (EAR) when produced with any U.S.-origin content.
-(cid:129) Additional Controls on Semiconductors: BIS also expanded the scope of ECCN
+ Additional Controls on Semiconductors: BIS also expanded the scope of ECCN
 3A090 to capture a variety of additional ICs, with the stated purpose of controlling
 ICs that “could provide nearly comparable AI model training capability as those
 controlled” in the 2022 Rule. BIS expanded ECCN 3A090.a to now broadly control
@@ -15517,7 +15517,7 @@ Notification Advanced Computing (NAC), to create a notification requirement for
 certain exports of less sophisticated ICs now controlled under 3A090. BIS also
 created a favorable license application review policy for exports to newly controlled
 destinations.
-(cid:129) Revisions and Additions to Various End Use Controls and US Person
+ Revisions and Additions to Various End Use Controls and US Person
 Restrictions: In addition to controls on new ICs and SME, BIS expanded and
 revised certain end use controls on items “subject to the EAR,” including end use
 controls related to supercomputers and semiconductor manufacturing end uses. BIS
@@ -15534,13 +15534,13 @@ level of ICs.
 
 === PAGE 308 ===
 BUSINESS
-(cid:129) Additional Geographic Scope Expansion for Advanced Computing FDPR: BIS
+ Additional Geographic Scope Expansion for Advanced Computing FDPR: BIS
 also broadened the country scope of theAdvanced Computing FDPR.TheAdvanced
 Computing FDPR previously controlled foreign produced advanced computer items
 (meeting the performance parameters of 3A090 or 4A090) when destined to China
 if they are the direct product of certain U.S.-origin software or technology.
 Following the 2023 Rule, the geographic scope of the rule was expanded.
-(cid:129) Entity ListAdditions: In conjunction with the 2023 Rule, BIS also added two PRC
+ Entity ListAdditions: In conjunction with the 2023 Rule, BIS also added two PRC
 companies, along with certain subsidiaries, to the Entity List.
 Under the EAR, an item manufactured outside of the United States can be subject to EAR
 jurisdiction if the item incorporates certain above de minimis U.S. controlled content (the de
@@ -16809,7 +16809,7 @@ GENERAL MANDATE TO ISSUE SHARES
 Subject to the Global Offering becoming unconditional, our Directors have been granted
 a general unconditional mandate, to allot, issue and deal with the Shares with a total nominal
 value of not more than the sum of:
-(cid:129) 20% the aggregate nominal value of the Shares in issue immediately following
+ 20% the aggregate nominal value of the Shares in issue immediately following
 completion of the Global Offering (excluding the additional Shares which may be
 issued pursuant to the exercise of the Offer Size Adjustment Option and the
 Over-allotment Option); and
@@ -16817,17 +16817,17 @@ Over-allotment Option); and
 
 === PAGE 342 ===
 SHARE CAPITAL
-(cid:129) the aggregate nominal value of Shares repurchased by the Company under the
+ the aggregate nominal value of Shares repurchased by the Company under the
 authority referred to in the paragraph headed “– General Mandate to Repurchase
 Shares” in this section.
 This general mandate to issue Shares will expire at the earliest of:
-(cid:129) the conclusion of the next annual general meeting of our Company unless otherwise
+ the conclusion of the next annual general meeting of our Company unless otherwise
 renewed by an ordinary resolution of our Shareholders in a general meeting, either
 unconditionally or subject to conditions;
-(cid:129) the expiration of the period within which our Company’s next annual general
+ the expiration of the period within which our Company’s next annual general
 meeting is required by theArticles ofAssociation or any other applicable laws to be
 held; or
-(cid:129) the time when it is varied or revoked by an ordinary resolution of our Shareholders
+ the time when it is varied or revoked by an ordinary resolution of our Shareholders
 in general meeting.
 See “Statutory and General Information – A. Further Information About Our Group – 4.
 Resolutions of the Shareholders of our Company dated July 26, 2024” in Appendix IV to this
@@ -16846,17 +16846,17 @@ Asummary of the relevant Listing Rules is set out in “Statutory and General In
 Further InformationAbout Our Group – 5. Repurchase of Our Own Securities” inAppendix IV
 to this Prospectus.
 This general mandate to repurchase Shares will expire at the earliest of:
-(cid:129) the conclusion of the next annual general meeting of our Company unless otherwise
+ the conclusion of the next annual general meeting of our Company unless otherwise
 renewed by an ordinary resolution of our Shareholders in a general meeting, either
 unconditionally or subject to conditions;
 – 333 –
 
 === PAGE 343 ===
 SHARE CAPITAL
-(cid:129) the expiration of the period within which our Company’s next annual general
+ the expiration of the period within which our Company’s next annual general
 meeting is required by theArticles ofAssociation or any other applicable laws to be
 held; or
-(cid:129) the time when it is varied or revoked by an ordinary resolution of our Shareholders
+ the time when it is varied or revoked by an ordinary resolution of our Shareholders
 passed in a general meeting.
 See “Statutory and General Information – A. Further Information About Our Group – 4.
 Resolutions of the Shareholders of our Company dated July 26, 2024” in Appendix IV to this
@@ -17402,10 +17402,10 @@ benefit from economies of scale and further improve our operational efficiency.
 General Factors
 Our business and operating results are also affected by general factors affecting the
 automotive industry, which include:
-(cid:129) global demand for automotive vehicles;
-(cid:129) evolution and market acceptance of intelligent vehicle technologies;
-(cid:129) the competitive landscape; and
-(cid:129) relevant laws and regulations, governmental policies and initiatives.
+ global demand for automotive vehicles;
+ evolution and market acceptance of intelligent vehicle technologies;
+ the competitive landscape; and
+ relevant laws and regulations, governmental policies and initiatives.
 IMPACT OF COVID-19
 Since the end of December 2019, the outbreak of a novel strain of coronavirus, or
 COVID-19, has materially and adversely affected the Chinese and global economy. The
@@ -17602,9 +17602,9 @@ and the three months ended March 31, 2024.
 Investments and other financial assets
 Classification
 We classify our financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through OCI, or through
+ those to be measured subsequently at fair value (either through OCI, or through
 profit or loss), and
-(cid:129) those to be measured at amortized cost.
+ those to be measured at amortized cost.
 The classification depends on our business model for managing the financial assets and
 the contractual terms of the cash flows.
 For assets measured at fair value, gains and losses will either be recorded in profit or loss
@@ -17634,7 +17634,7 @@ Debt instruments
 Subsequent measurement of debt instruments depends on our business model for
 managing the asset and the cash flow characteristics of the asset. There are three measurement
 categories into which we classify our debt instruments:
-(cid:129) Amortized cost: Assets that are held for collection of contractual cash flows where
+ Amortized cost: Assets that are held for collection of contractual cash flows where
 those cash flows represent solely payments of principal and interest are measured at
 amortized cost. Interest income from these financial assets is included in “Finance
 income” using the effective interest rate method. Any gain or loss arising on
@@ -17642,7 +17642,7 @@ derecognition is recognized directly in profit or loss and presented in “Other
 gains/(losses) – net” together with foreign exchange gains and losses. Impairment
 losses are presented as separate line item in the consolidated statement of
 comprehensive loss.
-(cid:129) FVOCI:Assets that are held for collection of contractual cash flows and for selling
+ FVOCI:Assets that are held for collection of contractual cash flows and for selling
 the financial assets, where the assets’ cash flows represent solely payments of
 principal and interest, are measured at FVOCI. Movements in the carrying amount
 are taken through OCI, except for the recognition of impairment gains or losses,
@@ -17654,7 +17654,7 @@ assetsisincludedinfinanceincomeusingtheeffectiveinterestratemethod.Foreign
 exchange gains and losses are presented in “other gains/(losses) – net” and
 impairment expenses are presented as separate line item in the consolidated
 statements of comprehensive loss.
-(cid:129) FVPL: Assets that do not meet the criteria for amortized cost or financial assets at
+ FVPL: Assets that do not meet the criteria for amortized cost or financial assets at
 FVOCI are measured at FVPL. A gain or loss on a debt investment that is
 subsequently measured at fair value through profit or loss and is not part of a
 hedging relationship is recognized in profit or loss and presented net in “other
@@ -19598,26 +19598,26 @@ Track Record Period. To assess whether there is a significant increase in credit
 compare the risk of a default occurring on the asset as of the reporting date with the risk of
 default as of the date of initial recognition. We consider available reasonable and supportive
 forwarding-looking information. In particular, the following indicators are incorporated:
-(cid:129) actual or expected significant adverse changes in business, financial or economic
+ actual or expected significant adverse changes in business, financial or economic
 conditions that are expected to cause a significant change to the third party’s ability
 to meet its obligations;
-(cid:129) actual or expected significant changes in the operating results of the third party;
-(cid:129) significant changes in the expected performance and behavior of the third party,
+ actual or expected significant changes in the operating results of the third party;
+ significant changes in the expected performance and behavior of the third party,
 including changes in the payment status of the third party.
 As of December 31, 2021, 2022 and 2023 and March 31, 2024, there was no significant
 increase in credit risk since initial recognition, we determined that the expected credit losses
 for these receivables are not material through using the 12 months expected losses method.
 Credit risk of loan receivables
 We implemented expected credit loss model for loan receivables as summarized below:
-(cid:129) The loan receivables that are not credit-impaired on initial recognition are classified
+ The loan receivables that are not credit-impaired on initial recognition are classified
 in “Stage 1” and have their credit risk continuously monitored by us. The expected
 credit loss is measured on a 12-month basis.
-(cid:129) If a significant increase in credit risk since initial recognition is identified, the
+ If a significant increase in credit risk since initial recognition is identified, the
 financial instrument is moved to ‘Stage 2’ but is not yet deemed to be credit-
 impaired. The expected credit loss is measured on lifetime basis.
-(cid:129) If the financial instrument is credit-impaired, the financial instrument is then moved
+ If the financial instrument is credit-impaired, the financial instrument is then moved
 to “Stage 3”. The expected credit loss is measured on lifetime basis.
-(cid:129) In Stages 1 and 2, interest income is calculated on the gross carrying amount
+ In Stages 1 and 2, interest income is calculated on the gross carrying amount
 (without deducting the loss allowance). If a financial asset subsequently becomes
 credit-impaired (Stage 3), we are required to calculate the interest income by
 applying the effective interest method in subsequent reporting periods to the
@@ -19759,7 +19759,7 @@ expenses in connection with the Global Offering and assuming that the Offer Size
 Option and the Over-allotment Option are not exercised. In line with our strategies, we intend
 to use our proceeds from the Global Offering for the purposes and in the amounts set forth
 below:
-(cid:129) Approximately 80.0% or HK$788.3 million will be used for our research and
+ Approximately 80.0% or HK$788.3 million will be used for our research and
 development over the next five years, with the detailed breakdown of the proceeds
 to be allocated as follows:
 Investments in the R&D of automotive-grade intelligent vehicle SoCs, with the
@@ -19796,24 +19796,24 @@ Position tobehired remunerated Basicselectioncriteria experience annum
 existingand
 newlyhired (RMBin
 personnel) millions)
-Seniorchipdesign 10 20 (cid:129) Master’sdegreeorabove 5-10 0.6
-engineers (cid:129) Overfiveyearsofrelevant
+Seniorchipdesign 10 20 Master’sdegreeorabove 5-10 0.6
+engineers Overfiveyearsofrelevant
 workexperience
-(cid:129) Proficientinhardware
+ Proficientinhardware
 descriptionlanguagesand
 scriptinglanguages;
 proficientinASICdesign
 toolsandfamiliarwithASIC
 designflow
-Algorithmoptimization 20 30 (cid:129) Master’sdegreeorabovein 5-8 0.5
+Algorithmoptimization 20 30 Master’sdegreeorabovein 5-8 0.5
 engineers computerscience,electronic
 information,automation,
 mathematics,vehicle
 engineeringorotherrelevant
 majors
-(cid:129) Overfiveyearsofrelevant
+ Overfiveyearsofrelevant
 workexperience
-(cid:129) Solidprogrammingskillsand
+ Solidprogrammingskillsand
 goodmathematicalmodeling
 skills;familiarwith
 commonlyusedtracking
@@ -19831,7 +19831,7 @@ Position tobehired remunerated Basicselectioncriteria experience annum
 existingand
 newlyhired (RMBin
 personnel) millions)
-Compilerdevelopment 10 20 (cid:129) Master’sdegreeorabovein 3-8 0.5
+Compilerdevelopment 10 20 Master’sdegreeorabovein 3-8 0.5
 engineers computerscience,electrical
 engineeringorotherrelevant
 majorswithoverthreeyears
@@ -19839,19 +19839,19 @@ ofrelevantworkexperience;
 orbachelor’sdegreewith
 overfiveyearsofrelevant
 workexperience
-(cid:129) Deepunderstandingof
+ Deepunderstandingof
 computerarchitectureand
 neuralnetworkcomputing;
 solidembeddedprogramming
 skillsandstrong
 programmingabilities
-ADASalgorithm 20 45 (cid:129) Master’sdegreeorabovein 5-8 0.5
+ADASalgorithm 20 45 Master’sdegreeorabovein 5-8 0.5
 engineers computerscience,
 automation,electronics,or
 otherrelevantmajors
-(cid:129) Overfiveyearsofrelevant
+ Overfiveyearsofrelevant
 workexperience
-(cid:129) Solidprogrammingskillsand
+ Solidprogrammingskillsand
 knowledgebaseinmachine
 learninganddeeplearning
 ii. Approximately 20.0% or HK$197.1 million will be used to procure materials,
@@ -19898,12 +19898,12 @@ Position tobehired remunerated Basicselectioncriteria experience annum
 existingand
 newlyhired (RMBin
 personnel) millions)
-Softwareengineers 30 60 (cid:129) Bachelor’sdegreeorabove 5-10 0.5
+Softwareengineers 30 60 Bachelor’sdegreeorabove 5-10 0.5
 incomputerscience,
 communications,electronics,
 automotiveorotherrelevant
 majors
-(cid:129) Overfiveyearsofrelevant
+ Overfiveyearsofrelevant
 workexperiencewith
 expertiseinmass-produced
 chipprojects
@@ -19941,34 +19941,34 @@ Position tobehired remunerated Basicselectioncriteria experience annum
 existingand
 newlyhired (RMBin
 personnel) millions)
-Firmwaredevelopment 5 5 (cid:129) Bachelor’sdegreeorabove 3-8 0.3
+Firmwaredevelopment 5 5 Bachelor’sdegreeorabove 3-8 0.3
 engineers inelectronics,computer
 scienceorotherrelevant
 majors
-(cid:129) Overthreeyearsofrelevant
+ Overthreeyearsofrelevant
 workexperience
-Softwareengineers 5 10 (cid:129) Bachelor’sdegreeorabove 5-10 0.5
+Softwareengineers 5 10 Bachelor’sdegreeorabove 5-10 0.5
 incomputerscience,
 communications,electronics,
 automotiveorotherrelevant
 majors
-(cid:129) Overfiveyearsofrelevant
+ Overfiveyearsofrelevant
 workexperiencewith
 expertiseinmass-produced
 chipprojects
-Testengineers 10 10 (cid:129) Bachelor’sdegreeorabove 3-8 0.3
+Testengineers 10 10 Bachelor’sdegreeorabove 3-8 0.3
 inautomation,computer
 science,software,
 communications,vehicle
 engineeringorotherrelevant
 majors
-(cid:129) Overthreeyearsofrelevant
+ Overthreeyearsofrelevant
 workexperience
 – 411 –
 
 === PAGE 421 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) Approximately 10.0% or HK$98.5 million will be used for improvement of our
+ Approximately 10.0% or HK$98.5 million will be used for improvement of our
 commercialization capability, which includes:
 i. Approximately 5.0% or HK$49.3 million will be used for sales and marketing
 over the next five years, including expanding our sales and service network,
@@ -19992,21 +19992,21 @@ Position tobehired remunerated Basicselectioncriteria experience annum
 existingand
 newlyhired (RMBin
 personnel) millions)
-Productapplication 5 15 (cid:129) Bachelor’sdegreeorabove 3-8 0.4
+Productapplication 5 15 Bachelor’sdegreeorabove 3-8 0.4
 engineers incomputerscience,
 communications,automation,
 electronics,vehicle
 engineeringorotherrelevant
 majors
-(cid:129) Overthreeyearsofrelevant
+ Overthreeyearsofrelevant
 workexperience
-Productmanagers 5 10 (cid:129) Bachelor’sdegreeorabove 3-8 0.4
+Productmanagers 5 10 Bachelor’sdegreeorabove 3-8 0.4
 incomputerscience,
 communications,automation,
 electronics,vehicle
 engineeringorotherrelevant
 majors
-(cid:129) Overthreeyearsofrelevant
+ Overthreeyearsofrelevant
 workexperience
 – 412 –
 
@@ -20031,13 +20031,13 @@ Position tobehired remunerated Basicselectioncriteria experience annum
 existingand
 newlyhired (RMBin
 personnel) millions)
-Operationspersonnel 15 15 (cid:129) Bachelor’sdegreeorabove 3-5 0.3
-(cid:129) Overthreeyearsofrelevant
+Operationspersonnel 15 15 Bachelor’sdegreeorabove 3-5 0.3
+ Overthreeyearsofrelevant
 workexperience
-Customerfieldsupport 15 15 (cid:129) Bachelor’sdegreeorabove 3-5 0.3
-&deliverypersonnel (cid:129) Overthreeyearsofrelevant
+Customerfieldsupport 15 15 Bachelor’sdegreeorabove 3-5 0.3
+&deliverypersonnel Overthreeyearsofrelevant
 workexperience
-(cid:129) Approximately 10.0% or HK$98.5 million will be used for working capital and
+ Approximately 10.0% or HK$98.5 million will be used for working capital and
 general corporate purposes, in particular for procuring inventories for mass
 production of our SoCs.
 IftheOfferPriceissetatthehigh-endoftheOfferPricerangeorthelow-endoftheOffer
@@ -21216,14 +21216,14 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the HK eIPO White Form service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the HK eIPO White Form service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the
 person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or close associates;
-(cid:129) are a Director or any of his/her close associates; or
-(cid:129) have been allocated or have applied for any International Offer Shares or otherwise
+ are an existing Shareholder or close associates;
+ are a Director or any of his/her close associates; or
+ have been allocated or have applied for any International Offer Shares or otherwise
 participate in the International Offering.
 – 444 –
 
@@ -21304,11 +21304,11 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual/Joint Applicants For Corporate Applicants
-(cid:129) Full name(s)2 as shown on your identity (cid:129) Full name(s)2 as shown on your identity
+ Full name(s)2 as shown on your identity Full name(s)2 as shown on your identity
 document document
-(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
+ Identity document’s issuing country or Identity document’s issuing country or
 jurisdiction jurisdiction
-(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
+ Identity document type, with order of Identity document type, with order of
 priority: priority:
 i. HKID card; or i. Legal entity identifier (“LEI”)
 registration document; or
@@ -21316,9 +21316,9 @@ ii. National identification document; or
 ii. Certificate of incorporation; or
 iii.Passport; and
 iii.Business registration certificate; or
-(cid:129) Identity document number
+ Identity document number
 iv. Other equivalent document; and
-(cid:129) Identity document number
+ Identity document number
 Notes:
 1. If you are applying through the HK eIPO White Form service, you are required to provide a valid
 e-mailaddress,acontacttelephonenumberandaHongKongAddress.Youarealsorequiredtodeclare
@@ -21353,9 +21353,9 @@ above.
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -21615,21 +21615,21 @@ any application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “–A.Applications for Hong Kong Offer Shares – 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
 – 454 –
 
 === PAGE 464 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -21731,9 +21731,9 @@ your own risk
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Monday, August 5, 2024 if, there is:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ Extreme Conditions,
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Monday, August 5,
 2024.
@@ -21814,7 +21814,7 @@ data supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund cheque and HK eIPO White Form e-Auto
+ processing your application and refund cheque and HK eIPO White Form e-Auto
 Refund payment instruction(s), where applicable, verification of compliance with
 the terms and application procedures set out in this prospectus and announcing
 results of allocation of Hong Kong Offer Shares;
@@ -21822,19 +21822,19 @@ results of allocation of Hong Kong Offer Shares;
 
 === PAGE 469 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the Hong Kong Share Registrar to discharge their obligations to
 applicants and holders of the Shares and/or regulators and/or any other purposes to
 which applicants and holders of the Shares may from time to time agree.
@@ -21844,9 +21844,9 @@ applicants for and holders of Hong Kong Offer Shares will be kept confidential b
 Company and the Hong Kong Share Registrar may, to the extent necessary for achieving any
 of the above purposes, disclose, obtain or transfer (whether within or outside Hong Kong) the
 personal data to, from or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving banks and
+ the Company’s appointed agents such as financial advisers, receiving banks and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the Hong Kong Share Registrar, in each case for the purposes of
 providing its services or facilities or performing its functions in accordance with its
 rules or procedures and operating FINI and CCASS (including where applicants for
@@ -21855,14 +21855,14 @@ the Hong Kong Offer Shares request a deposit into CCASS);
 
 === PAGE 470 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the
 Hong Kong Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of personal data
@@ -22625,9 +22625,9 @@ The Group recognises revenue when (or as) a performance obligation is satisfied,
 goods or services underlying the particular performance obligation is transferred to the customer.
 Control is transferred over time and revenue is recognised over time by reference to the progress towards
 complete satisfaction of the relevant performance obligation if one of the following criteria is met:
-(cid:129) provides all of the benefits received and consumed simultaneously by the customer;
-(cid:129) creates and enhances an asset that the customer controls as the Group performs; or
-(cid:129) doesnotcreateanassetwithanalternativeusetotheGroupandtheGrouphasanenforceablerightto
+ provides all of the benefits received and consumed simultaneously by the customer;
+ creates and enhances an asset that the customer controls as the Group performs; or
+ doesnotcreateanassetwithanalternativeusetotheGroupandtheGrouphasanenforceablerightto
 payment for performance completed to date.
 Otherwise,revenueisrecognisedatapointintimewhenthecustomerobtainscontrolofthedistinctgoodsor
 services.
@@ -22838,15 +22838,15 @@ APPENDIX I ACCOUNTANT’S REPORT
 The Group incurs significant costs and efforts on research and development activities. Research
 expenditureisrecognisedasanexpenseasincurred.Costsincurredonresearchanddevelopmentprojectsare
 recognised as intangible assets when the following criteria are met:
-(cid:129) it is technically feasible to complete the research and development project so that it will be
+ it is technically feasible to complete the research and development project so that it will be
 available for use or sale;
-(cid:129) management intends to complete the research and development project and use or sell it;
-(cid:129) there is an ability to use or sell the research and development project;
-(cid:129) it can be demonstrated how the research and development project will generate probable future
+ management intends to complete the research and development project and use or sell it;
+ there is an ability to use or sell the research and development project;
+ it can be demonstrated how the research and development project will generate probable future
 economic benefits;
-(cid:129) adequatetechnical,financialandotherresourcestocompletethedevelopmentandtouseorsell
+ adequatetechnical,financialandotherresourcestocompletethedevelopmentandtouseorsell
 the research and development project are available; and
-(cid:129) theexpenditureattributabletotheresearchanddevelopmentprojectduringitsdevelopmentcan
+ theexpenditureattributabletotheresearchanddevelopmentprojectduringitsdevelopmentcan
 be reliably measured.
 Thecostofaninternallygeneratedintangibleassetisthesumoftheexpendituresincurredfromthedate
 theassetmeetstherecognitioncriteriaabovetothedatewhenitisavailableforuse.Thecostscapitalizedin
@@ -22884,9 +22884,9 @@ APPENDIX I ACCOUNTANT’S REPORT
 2.3.8 Investments and other financial assets
 (a) Classification
 The Group classifies its financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through OCI, or through profit or loss),
+ those to be measured subsequently at fair value (either through OCI, or through profit or loss),
 and
-(cid:129) those to be measured at amortised cost.
+ those to be measured at amortised cost.
 The classification depends on the Group’s business model for managing the financial assets and the
 contractual terms of the cash flows.
 Forassetsmeasuredatfairvalue,gainsandlosseswilleitherberecordedinprofitorlossorOCI.For
@@ -22910,14 +22910,14 @@ Debt instruments
 Subsequent measurement of debt instruments depends on the Group’s business model for
 managing the asset and the cash flow characteristics of the asset. There are three measurement
 categories into which the Group classifies its debt instruments:
-(cid:129) Amortised cost:Assets that are held for collection of contractual cash flows where those
+ Amortised cost:Assets that are held for collection of contractual cash flows where those
 cash flows represent solely payments of principal and interest are measured at amortised
 cost.Interestincomefromthesefinancialassetsisincludedin“Financeincome”usingthe
 effective interest rate method. Any gain or loss arising on derecognition is recognised
 directlyinprofitorlossandpresentedin“Other(losses)/gains–net”togetherwithforeign
 exchange gains and losses. Impairment losses are presented as separate line item in the
 consolidated statements of comprehensive (loss)/income.
-(cid:129) FVOCI: Assets that are held for collection of contractual cash flows and for selling the
+ FVOCI: Assets that are held for collection of contractual cash flows and for selling the
 financial assets, where the assets’cash flows represent solely payments of principal and
 interest, are measured at FVOCI. Movements in the carrying amount are taken through
 OCI,exceptfortherecognitionofimpairmentgainsorlosses,interestincomeandforeign
@@ -22932,7 +22932,7 @@ of comprehensive (loss)/income.
 
 === PAGE 498 ===
 APPENDIX I ACCOUNTANT’S REPORT
-(cid:129) FVPL:AssetsthatdonotmeetthecriteriaforamortisedcostorfinancialassetsatFVOCI
+ FVPL:AssetsthatdonotmeetthecriteriaforamortisedcostorfinancialassetsatFVOCI
 aremeasuredatFVPL.Againorlossonadebtinvestmentthatissubsequentlymeasured
 at fair value through profit or loss and is not part of a hedging relationship is recognised
 inprofitorlossandpresentednetin“Other(losses)/gains–net”intheperiodinwhichit
@@ -23071,32 +23071,32 @@ Lease payments to be made under reasonably certain extension options are also in
 of the liability.
 Assets and liabilities arising from a lease are initially measured on a present value basis. Lease liabilities
 include the net present value of the following lease payments (if applicable):
-(cid:129) fixed payments (including in-substance fixed payments), less any lease incentives receivable;
-(cid:129) variable lease payment that are based on an index or a rate, initially measured using the index or rate
+ fixed payments (including in-substance fixed payments), less any lease incentives receivable;
+ variable lease payment that are based on an index or a rate, initially measured using the index or rate
 as at the commencement date;
-(cid:129) amounts expected to be payable by the Group under residual value guarantees;
+ amounts expected to be payable by the Group under residual value guarantees;
 – I-30 –
 
 === PAGE 501 ===
 APPENDIX I ACCOUNTANT’S REPORT
-(cid:129) the exercise price of a purchase option if the Group is reasonably certain to exercise that option, and
-(cid:129) payments of penalties for terminating the lease, if the lease term reflects the Group exercising that
+ the exercise price of a purchase option if the Group is reasonably certain to exercise that option, and
+ payments of penalties for terminating the lease, if the lease term reflects the Group exercising that
 option.
 Right-of-use assets are measured at cost comprising the following (if applicable):
-(cid:129) the amount of the initial measurement of lease liability;
-(cid:129) any lease payments made at or before the commencement date less any lease incentives received;
-(cid:129) any initial direct costs, and
-(cid:129) restoration costs.
+ the amount of the initial measurement of lease liability;
+ any lease payments made at or before the commencement date less any lease incentives received;
+ any initial direct costs, and
+ restoration costs.
 The lease payments are discounted using the interest rate implicit in the lease. If that rate cannot be readily
 determined,whichisgenerallythecaseforleasesintheGroup,thelessee’sincrementalborrowingrateisused,being
 theratethattheindividuallesseewouldhavetopaytoborrowthefundsnecessarytoobtainanassetofsimilarvalue
 to the right-of-use asset in a similar economic environment with similar terms, security and conditions.
 To determine the incremental borrowing rate, the Group:
-(cid:129) where possible, uses recent third-party financing received by the individual lessee as a starting point,
+ where possible, uses recent third-party financing received by the individual lessee as a starting point,
 adjusted to reflect changes in financing conditions since third party financing was received;
-(cid:129) usesabuild-upapproachthatstartswitharisk-freeinterestrateadjustedforcreditriskforleasesheld
+ usesabuild-upapproachthatstartswitharisk-freeinterestrateadjustedforcreditriskforleasesheld
 by the Group, which does not have recent third party financing, and
-(cid:129) makes adjustments specific to the lease, e.g., term, country, currency and security.
+ makes adjustments specific to the lease, e.g., term, country, currency and security.
 Payments associated with short-term leases are recognised on a straight-line basis as an expense in profit or
 loss. Short-term leases are leases with a lease term of 12 months or less without a purchase option.
 2.3.19 Government grants
@@ -23123,15 +23123,15 @@ APPENDIX I ACCOUNTANT’S REPORT
 2.3.21 (Loss)/earnings per share
 (i) Basic (loss)/earnings per share
 Basic (loss)/earnings per share is calculated by dividing:
-(cid:129) the (loss)/income attributable to equity holders of the company, and
-(cid:129) bytheweightedaveragenumberofordinarysharesoutstandingduringthefinancialyear,adjusted
+ the (loss)/income attributable to equity holders of the company, and
+ bytheweightedaveragenumberofordinarysharesoutstandingduringthefinancialyear,adjusted
 for bonus elements in ordinary shares issued during the year.
 (ii) Diluted (loss)/earnings per share
 Diluted (loss)/earnings per share adjusts the figures used in the determination of basic (loss)/earnings
 per share to take into account:
-(cid:129) theafter-incometaxeffectofinterestandotherfinancingcostsassociatedwithdilutivepotential
+ theafter-incometaxeffectofinterestandotherfinancingcostsassociatedwithdilutivepotential
 ordinary shares, and
-(cid:129) the weighted average number of additional ordinary shares that would have been outstanding
+ the weighted average number of additional ordinary shares that would have been outstanding
 assuming the conversion of all dilutive potential ordinary shares.
 3 FINANCIALRISK MANAGEMENT
 3.1 Financial risk factors
@@ -23320,25 +23320,25 @@ the probability of default on an ongoing basis throughout each reporting period.
 significant increase in credit risk, the Group compares the risk of a default occurring on the asset as at the
 reportingdatewiththeriskofdefaultasatthedateofinitialrecognition.Itconsidersavailablereasonableand
 supportive forwarding-looking information. Especially the following indicators are incorporated:
-(cid:129) Actual or expected significant adverse changes in business, financial economic conditions that
+ Actual or expected significant adverse changes in business, financial economic conditions that
 are expected to cause a significant change to the third party’s ability to meet its obligations;
-(cid:129) Actual or expected significant changes in the operating results of the third party;
-(cid:129) Significant changes in the expected performance and behavior of the third party, including
+ Actual or expected significant changes in the operating results of the third party;
+ Significant changes in the expected performance and behavior of the third party, including
 changes in the payment status of the third party.
 AsatDecember31,2021,2022and2023andMarch31,2024,therewasnosignificantincreaseincredit
 risk since initial recognition, the Group assessed that the expected credit losses for these receivables are not
 material through using the 12 months expected losses method.
 (iv) Credit risk of loan receivables
 The Group implemented expected credit loss model for loan receivables as summarized below:
-(cid:129) Theloanreceivablesthatarenotcredit-impairedoninitialrecognitionareclassifiedin‘Stage1’
+ Theloanreceivablesthatarenotcredit-impairedoninitialrecognitionareclassifiedin‘Stage1’
 and have their credit risk continuously monitored by the Group. The expected credit loss is
 measured on a 12-month basis.
-(cid:129) If a significant increase in credit risk since initial recognition is identified, the financial
+ If a significant increase in credit risk since initial recognition is identified, the financial
 instrumentismovedto‘Stage2’butisnotyetdeemedtobecredit-impaired.Theexpectedcredit
 loss is measured on lifetime basis.
-(cid:129) Ifthefinancialinstrumentiscredit-impaired,thefinancialinstrumentisthenmovedto‘Stage3’.
+ Ifthefinancialinstrumentiscredit-impaired,thefinancialinstrumentisthenmovedto‘Stage3’.
 The expected credit loss is measured on lifetime basis.
-(cid:129) InStages1and2,interestincomeiscalculatedonthegrosscarryingamount(withoutdeducting
+ InStages1and2,interestincomeiscalculatedonthegrosscarryingamount(withoutdeducting
 the loss allowance). If a financial asset subsequently becomes credit-impaired (Stage 3), the
 Group is required to calculate the interest income by applying the effective interest method in
 subsequent reporting periods to the amortized cost of the financial asset (the gross carrying
@@ -23540,8 +23540,8 @@ investors
 preferred shares – – 10,977,065 10,977,065
 (b) Valuation techniques used to determine fair values
 Specific valuation techniques used to value financial instruments include:
-(cid:129) Quoted market prices or dealer quotes for similar instruments; and
-(cid:129) Other techniques, such as discounted cash flow method, binomial option pricing model and forward
+ Quoted market prices or dealer quotes for similar instruments; and
+ Other techniques, such as discounted cash flow method, binomial option pricing model and forward
 pricing model, are used to determine fair value for the remaining financial instruments.
 There were no changes in valuation techniques during the Track Record Period.
 – I-41 –
@@ -25137,9 +25137,9 @@ payroll and welfare payables)
 5,355,342 8,516,378 12,787,196 11,260,303
 21 FINANCIALASSETSAT FAIR VALUE THROUGH PROFIT OR LOSS
 The Group classifies the following financial assets at fair FVPL:
-(cid:129) debt investments that do not qualify for measurement at either amortised cost or at FVOCI;
-(cid:129) equity investments that are held for trading; and
-(cid:129) equity investments for which the entity has not elected to recognise fair value gains or losses through
+ debt investments that do not qualify for measurement at either amortised cost or at FVOCI;
+ equity investments that are held for trading; and
+ equity investments for which the entity has not elected to recognise fair value gains or losses through
 OCI.
 – I-70 –
 
@@ -25996,17 +25996,17 @@ During the years ended December 31, 2021, 2022 and 2023 and the three months end
 2024,theCompanygranted55,465,053,28,222,000,36,701,100,2,962,000and508,000stockoptions,respectively,
 to the Group’s employees under the Pre-IPO Plan. Provided that the personnel’s service with the Company has not
 terminated prior to each vesting date, the vesting schedules of the share options granted are as below:
-(cid:129) Type (i) 25% of the total granted share options shall become vested one year from the Vesting
+ Type (i) 25% of the total granted share options shall become vested one year from the Vesting
 CommencementDateandtheremaining75%vestedoneachmonththereafteroverthenextthreeyears;
-(cid:129) Type (ii) 1/3 of the total granted share options shall become vested one year from the Vesting
+ Type (ii) 1/3 of the total granted share options shall become vested one year from the Vesting
 Commencement Date and the remaining 2/3 vested on each month thereafter over the next two years;
-(cid:129) Type (iii) 50% of the total granted share options shall become vested two years from the Vesting
+ Type (iii) 50% of the total granted share options shall become vested two years from the Vesting
 Commencement Date and the remaining 50% vested on each year thereafter over the next two years;
-(cid:129) Type (iv) 50% of the total granted share options shall become vested one year from the Vesting
+ Type (iv) 50% of the total granted share options shall become vested one year from the Vesting
 Commencement Date and the remaining 50% vested on each month thereafter over the next year;
-(cid:129) Type (v) 100% of the total granted share options shall become vested one year from the Vesting
+ Type (v) 100% of the total granted share options shall become vested one year from the Vesting
 Commencement Date;
-(cid:129) Type (vi) 100% of the total granted share options shall become vested on theVesting Commencement
+ Type (vi) 100% of the total granted share options shall become vested on theVesting Commencement
 Date.
 – I-89 –
 
@@ -26526,8 +26526,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
-(cid:129) The related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) The unaudited pro forma financial information reflects the proper application of
+ The related pro forma adjustments give appropriate effect to those criteria; and
+ The unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountant’s judgment, having regard to
 the reporting accountant’s understanding of the nature of the company, the event or transaction
@@ -27849,13 +27849,13 @@ ShareshavebeenconvertedintoSharesonaone-to-onebasisimmediatelyuponthecompletion
 of the Global Offering, and (iii) without taking into account any Shares that may further be
 issued under the Share Plans) could accordingly result in up to approximately 56,916,925
 Shares being repurchased by our Company during the period prior to the earliest of:
-(cid:129) the conclusion of the next annual general meeting of our Company unless otherwise
+ the conclusion of the next annual general meeting of our Company unless otherwise
 renewed by an ordinary resolution of our Shareholders in a general meeting, either
 unconditionally or subject to conditions;
-(cid:129) the expiration of the period within which our Company’s next annual general
+ the expiration of the period within which our Company’s next annual general
 meeting is required by theArticles ofAssociation or any other applicable laws to be
 held; or
-(cid:129) the time when it is varied or revoked by an ordinary resolution of our Shareholders
+ the time when it is varied or revoked by an ordinary resolution of our Shareholders
 in general meeting.
 None of our Directors nor, to the best of their knowledge having made all reasonable
 enquiries, any of their close associates currently intends to sell any Shares to our Company.

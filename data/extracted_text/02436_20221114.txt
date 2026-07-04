@@ -457,14 +457,14 @@ and 138.8% as to our device subscription services in 2019, 2020 and 2021, respec
 OUR STRENGTHS
 We believe the following competitive strengths have contributed to our success and will
 help drive our growth in the future:
-(cid:129) The first DLM solution provider with a business model covering major phases in
+ The first DLM solution provider with a business model covering major phases in
 device lifecycle and a market-leading position in China;
-(cid:129) Enhanced device utilization and customer stickiness benefiting from the closed-loop
+ Enhanced device utilization and customer stickiness benefiting from the closed-loop
 business model;
-(cid:129) Rapidly expanding customer base through reliable customer outreach channels;
-(cid:129) Robust and multifaceted operational management capabilities;
-(cid:129) Powerful in-house IT system driving operational efficiency; and
-(cid:129) A visionary founder and seasoned management team.
+ Rapidly expanding customer base through reliable customer outreach channels;
+ Robust and multifaceted operational management capabilities;
+ Powerful in-house IT system driving operational efficiency; and
+ A visionary founder and seasoned management team.
 (1) We define EBITDA (a non-IFRS measure) as loss and total comprehensive expense for the year/period by
 excluding the effects of (i) finance costs, (ii) bank interest income, (iii) income tax expense, and (iv)
 depreciation of property, plant and equipment, and right-of-use assets. We exclude the effects of listing
@@ -478,12 +478,12 @@ See “Business – Our Strengths” for further details.
 OUR STRATEGIES
 To achieve our mission and further solidify our market leadership, we plan to pursue the
 following strategies:
-(cid:129) Broaden our customer base and service categories;
-(cid:129) Expand our services in core cities and their CBDs;
-(cid:129) Promote our operational management capabilities of IT devices during the full
+ Broaden our customer base and service categories;
+ Expand our services in core cities and their CBDs;
+ Promote our operational management capabilities of IT devices during the full
 device lifecycle;
-(cid:129) Advance investment in technology to optimize operational efficiency; and
-(cid:129) Strengthen our credit-based supervision mechanism by enhancing our risk
+ Advance investment in technology to optimize operational efficiency; and
+ Strengthen our credit-based supervision mechanism by enhancing our risk
 management capabilities.
 See “Business – Our Strategies” for further details.
 OUR BUSINESS MODEL
@@ -491,7 +491,7 @@ Our DLM solutions directly tackle the pain points of enterprises’management of
 With the aim to transform enterprises’ management of devices through services covering major
 phases of ITdevice lifecycle, our revenue from DLM solutions during theTrack Record Period
 was primarily generated from the following service categories:
-(cid:129) Device recycling business. We purchase de-commissioned IT devices from
+ Device recycling business. We purchase de-commissioned IT devices from
 enterprises for use in our device subscription services after refurbishment or sale
 through our proprietary quotation platform. Some of the de-commissioned devices
 arealsosoldthroughexternale-commerceplatformsafterrefurbishment.Inaddition
@@ -521,7 +521,7 @@ Period, and “Risk Factors – Risks Relating to Our Business and Industry – 
 incurred gross loss for our device subscription services in 2019, and the gross profit
 marginsofourthreeservicelineshadfluctuatedduringtheTrackRecordPeriodand
 may continue to fluctuate in the future” for a detailed analysis on the relevant risks.
-(cid:129) Device subscription services. Our device subscription services primarily include
+ Device subscription services. Our device subscription services primarily include
 selecting IT devices (including brand new devices and de-commissioned devices
 after refurbishment) suitable for users, assembling devices, pre-installing device
 configurationsandcustomizingsystemsettings.Weoffertailor-madeshort-termand
@@ -539,7 +539,7 @@ which in turn would exert downward pressure on the subscription price of existin
 models, or (ii) have been subject to wear-and-tear during their useful lives and the
 repair costs would exceed the expected subscription income to be generated during
 rest of their useful lives. We typically target SMEs for our subscription services.
-(cid:129) IT technical subscription services. We offer IT technical subscription services
+ IT technical subscription services. We offer IT technical subscription services
 primarily coupled with device subscription services and, to a lesser extent, on a
 standalone basis, primarily including solving problems in IT devices and keeping
 devices on the cutting edge of technology through system upgrades. We typically
@@ -764,37 +764,37 @@ this prospectus. These risks can be broadly categorized into: (i) risks relating
 and industry; (ii) risks relating to conducting business in China; and (iii) risks relating to the
 Global Offering. You should read that section in its entirety carefully before you decide to
 invest in our Shares. Some of the major risks we face include the following:
-(cid:129) A significant portion of our revenue has been generated from our device recycling
+ A significant portion of our revenue has been generated from our device recycling
 business, the gross margin of which is low and the amount of which depends on
 factors such as customer demand for particular type and condition of devices, which
 are out of our control;
-(cid:129) Our customers are primarily SMEs which are more susceptible to economic
+ Our customers are primarily SMEs which are more susceptible to economic
 downturn, which would in turn affect our financial performance and future business
 growth;
-(cid:129) Our business, growth and prospects are significantly affected by the usage and
+ Our business, growth and prospects are significantly affected by the usage and
 demand of DLM solutions and our targeted markets in China;
-(cid:129) If we fail to maintain and grow our customer base or keep our customers engaged,
+ If we fail to maintain and grow our customer base or keep our customers engaged,
 our business growth will be negatively impacted;
-(cid:129) Changes and development in the regulatory environment over the industries in
+ Changes and development in the regulatory environment over the industries in
 which our customers operate could adversely affect the business operations of our
 customers, thus negatively impacting our own results of operations and financial
 condition;
-(cid:129) We are exposed to credit risk associated with our customers and the recoverability
+ We are exposed to credit risk associated with our customers and the recoverability
 of our trade and lease receivables and IT devices are subject to uncertainties;
 – 11 –
 
 === PAGE 22 ===
 SUMMARY
-(cid:129) We have incurred significant upfront costs for device procurement during the Track
+ We have incurred significant upfront costs for device procurement during the Track
 Record Period. Failure to manage our liquidity and cash flows or inability to obtain
 additional financing in the future to purchase device could have a material adverse
 impact on our business, results of operations and financial condition;
-(cid:129) Upon expiry of existing subscription agreements, we may not be able to enter into
+ Upon expiry of existing subscription agreements, we may not be able to enter into
 new device subscription agreements at prices we expected. We cannot adjust the
 prices at which our devices are subscribed for during their subscription periods;
-(cid:129) Our initiatives to incorporate new technologies may not succeed, which may limit
+ Our initiatives to incorporate new technologies may not succeed, which may limit
 our future growth; and
-(cid:129) We collect, store and process certain business data of our own business and our
+ We collect, store and process certain business data of our own business and our
 customers. If our information system security is compromised and such business
 data is accessed without authorization, our reputation may be harmed, and we may
 be exposed to potential liability and significant loss of business.
@@ -943,7 +943,7 @@ Adjusted EBITDA 36,850 164,484 224,018 110,475 127,507
 Revenues by service lines
 During the Track Record Period, we derived our revenues primarily from (i) device
 recycling income, (ii) device subscription services, and (iii) IT technical subscription services.
-(cid:129) Device recycling income. We normally request a deposit of total consideration from
+ Device recycling income. We normally request a deposit of total consideration from
 customerswhentheyenteredintocontractswithus.Therevenueisrecognizedwhen
 control of the goods has transferred to the customer, being at the point the goods are
 delivered to the customer. Delivery occurs when the goods have been delivered out
@@ -952,13 +952,13 @@ to customers’ designated locations or picked up by customers.
 
 === PAGE 27 ===
 SUMMARY
-(cid:129) Device subscription services. We receive part of the income at the commencement
+ Device subscription services. We receive part of the income at the commencement
 of the service period and the remaining balance will be received over the service
 period on a monthly basis for long-term device subscription service, or at the end of
 service period for the short-term device subscription service. We recognize revenue
 from device subscription services over time by reference to the progress towards
 complete satisfaction of the relevant performance obligation.
-(cid:129) IT technical subscription services. For the IT technical subscription services
+ IT technical subscription services. For the IT technical subscription services
 coupledwithdevicesubscriptionservices,wereceivethepaymentsforbothservices
 at the same time. Revenue relating to the IT technical subscription services is
 recognized over time on a straight line basis over the subscription period, as the
@@ -1473,12 +1473,12 @@ othercitiesassistedtheseofficesinhandlingtheservicerequestsfromnearbycities.Ther
 no loss of revenue or penalties due to suspension or cancellation of business activities or
 revenue loss of our Group. Our normal operations have not been adversely interrupted during
 the COVID-19 pandemic. Details as follows:
-(cid:129) Device recycling business. Device recycling business can effectively help
+ Device recycling business. Device recycling business can effectively help
 enterprises to cash out from de-commissioned devices at the best price and further
 make the best use of enterprise resources. SMEs that closed down during the
 COVID-19 pandemic have generated more supply of de-commissioned devices for
 device recycling business and market opportunities for DLM solution providers.
-(cid:129) Device subscription services.The COVID-19 pandemic has driven most enterprises,
+ Device subscription services.The COVID-19 pandemic has driven most enterprises,
 SMEs in particular, to transform their operation mode into asset-light mode and
 hence turn to adopt DLM solutions. It has promoted device subscription service
 – 29 –
@@ -1495,7 +1495,7 @@ device subscription customers decreased from 2,881 as of June 30, 2021 to 2,768 
 of June 30, 2022), we seized the market opportunities for providing enterprise
 customers with subscription service for IT devices such as laptop computers when
 their employees worked from home.
-(cid:129) IT technical subscription services. IT technical subscription services are usually
+ IT technical subscription services. IT technical subscription services are usually
 coupled with device subscription services provided by DLM solution providers. It
 not only provides professional IT technical services for enterprises but also helps
 enterprises reduce related IT maintenance and labor costs during the COVID-19
@@ -1676,7 +1676,7 @@ allotmentOptionisnotexercisedandassuminganOfferPriceofHK$8.17perShare(beingthe
 mid-point of the indicative Offer Price range set forth on the cover page of this prospectus).
 We intend to use such net proceeds from the Global Offering for the purposes and in the
 amounts set forth below:
-(cid:129) approximately 45%, or HK$164.9 million, is expected to be used to improve
+ approximately 45%, or HK$164.9 million, is expected to be used to improve
 customer experience to satisfy the evolving customer demands;
 (i) Approximately30%,orHK$110.0million,isexpectedtobeusedtoexpandthe
 scale of IT devices under our management and develop DLM solutions
@@ -1690,7 +1690,7 @@ technical service capabilities, recruit technical professionals with extensive
 technical service experience and provide professional training to the team,
 increasethecoverageofservicepersonnelincorecitiesandCBDs,andaddress
 customers’ demand in a more responsive manner in these regions.
-(cid:129) approximately 25%, or HK$91.6 million, is expected to be used to expand customer
+ approximately 25%, or HK$91.6 million, is expected to be used to expand customer
 base and our market share in targeted markets;
 (i) Approximately 12.5%, or HK$45.8 million, is expected to be used to expand
 our elite sales team and improve the training system for sales team to
@@ -1704,7 +1704,7 @@ customers.
 
 === PAGE 45 ===
 SUMMARY
-(cid:129) approximately 15%, or HK$55.0 million, is expected to be used for system upgrade
+ approximately 15%, or HK$55.0 million, is expected to be used for system upgrade
 and product development;
 (i) Approximately 11%, or HK$40.3 million, is expected to be used to further
 enhance technology capabilities and upgrade system infrastructure to improve
@@ -1720,7 +1720,7 @@ customer service portals with third-party business partners with the core
 capabilities of the DLM system through standard technical interfaces, so that
 third-party business partners can provide DLM solutions on their own
 platforms.
-(cid:129) approximately 5%, or HK$18.3 million, is expected to be used to strengthen risk
+ approximately 5%, or HK$18.3 million, is expected to be used to strengthen risk
 management capabilities; and
 (i) Approximately 2.5%, or HK$9.2 million, is expected to be used to expand the
 application of artificial intelligence technology, upgrade the intelligent risk
@@ -1731,7 +1731,7 @@ assessment.
 (ii) Approximately 2.5%, or HK$9.1 million, is expected to be used to establish
 internal and offline risk control teams, and improve online and offline
 integrated risk control capabilities.
-(cid:129) the remaining approximately 10%, or HK$36.6 million, is expected to be used for
+ the remaining approximately 10%, or HK$36.6 million, is expected to be used for
 working capital and general corporate purposes.
 For more information, see “Future Plans and Use of Proceeds.”
 – 35 –
@@ -2389,32 +2389,32 @@ You are strongly cautioned that reliance on any forward-looking statements invol
 and unknown risks and uncertainties. The risks and uncertainties facing our Company which
 could affect the accuracy of forward-looking statements include, but are not limited to, the
 following:
-(cid:129) our operations and business prospects;
-(cid:129) future developments, trends and conditions in the industry and markets in which we
+ our operations and business prospects;
+ future developments, trends and conditions in the industry and markets in which we
 operate;
-(cid:129) our strategies, plans, objectives and goals and our ability to successfully implement
+ our strategies, plans, objectives and goals and our ability to successfully implement
 these strategies, plans, objectives and goals; our ability to identify and integrate
 suitable acquisition targets;
-(cid:129) general economic, political and business conditions in the markets in which we
+ general economic, political and business conditions in the markets in which we
 operate;
-(cid:129) the effects of the global financial markets and economic crisis;
-(cid:129) changes to the regulatory environment and general outlook in the industry and
+ the effects of the global financial markets and economic crisis;
+ changes to the regulatory environment and general outlook in the industry and
 markets in which we operate;
-(cid:129) our ability to control or reduce costs;
-(cid:129) our dividend policy;
-(cid:129) the amount and nature of, and potential for, future development of our business;
+ our ability to control or reduce costs;
+ our dividend policy;
+ the amount and nature of, and potential for, future development of our business;
 – 54 –
 
 === PAGE 65 ===
 FORWARD-LOOKING STATEMENTS
-(cid:129) capital market developments;
-(cid:129) the actions and developments of our competitors;
-(cid:129) changes or volatility in interest rates, foreign exchange rates, equity prices or other
+ capital market developments;
+ the actions and developments of our competitors;
+ changes or volatility in interest rates, foreign exchange rates, equity prices or other
 rates or prices in the industry and markets in which we operate;
-(cid:129) certainstatementsinsectionsheaded“Business”and“FinancialInformation”inthis
+ certainstatementsinsectionsheaded“Business”and“FinancialInformation”inthis
 prospectus with respect to trends in prices, volumes, operations, margins, overall
 market trends, risk management and exchange rates; and
-(cid:129) other statements in this prospectus that are not historical facts.
+ other statements in this prospectus that are not historical facts.
 This prospectus also contains market data and projections that are based on a number of
 assumptions.The markets may not grow at the rates projected by the market data, or at all.The
 failure of the markets to grow at the projected rates may materially and adversely affect our
@@ -2538,16 +2538,16 @@ portfolio in keeping with the continued development of the market to keep our cu
 engaged. Our ability to achieve renewal of our contracts with existing customers and secure
 new sales depends on many factors, many of which are outside of our control, including,
 among others:
-(cid:129) customer satisfaction with our solutions and services;
-(cid:129) the competitiveness of our pricing and payment terms for our customers;
-(cid:129) our ability to tailor our DLM solutions and delivery in accordance with our
+ customer satisfaction with our solutions and services;
+ the competitiveness of our pricing and payment terms for our customers;
+ our ability to tailor our DLM solutions and delivery in accordance with our
 customers’ evolving demand;
-(cid:129) maintaining the appeal of our marketing tools;
-(cid:129) maintaining stable cooperation relationships with our business partners, including
+ maintaining the appeal of our marketing tools;
+ maintaining stable cooperation relationships with our business partners, including
 reaching the agreements on commercially reasonable terms;
-(cid:129) competition with the same or similar services and solutions offered by our
+ competition with the same or similar services and solutions offered by our
 competitors; and
-(cid:129) the effects of global economic conditions on spending levels of DLM generally.
+ the effects of global economic conditions on spending levels of DLM generally.
 If our existing customers do not continue to use or increase their use of our services, or
 if we are unable to attract new customers and to grow our customer base, our DLM business
 may not grow at a rate we anticipate or at all, which may, in turn, materially and adversely
@@ -3466,12 +3466,12 @@ affect our ability to expand our business or meet unforeseen contingencies.
 To grow our business and remain competitive, we may require additional capital from
 time to time for our daily operations. Our ability to obtain additional capital is subject to a
 variety of uncertainties, including:
-(cid:129) our market position and competitiveness in the industries in which we operate;
-(cid:129) our future profitability, overall financial condition, results of operations and cash
+ our market position and competitiveness in the industries in which we operate;
+ our future profitability, overall financial condition, results of operations and cash
 flows;
-(cid:129) general market conditions for capital-raising activities by our competitors in China;
+ general market conditions for capital-raising activities by our competitors in China;
 and
-(cid:129) economic, political and other conditions in China and internationally.
+ economic, political and other conditions in China and internationally.
 We may be unable to obtain additional capital in a timely manner or on acceptable terms,
 or at all. In addition, our future capital or other business needs could require us to sell
 additional equity securities. The sale of additional equity or equity-linked securities could
@@ -4935,20 +4935,20 @@ comprises a broad portfolio of solutions covering major stages of the full lifec
 device to solve pain points faced by enterprise when managing IT devices. The figure below
 illustrates the major activities included in the full lifecycle of an IT device:
 Device procurement Device maintenance
-(cid:129) Assessment and design: selecting (cid:129) Repair: identifying and resolving
+ Assessment and design: selecting Repair: identifying and resolving
 appropriate IT devices problems in a faulty IT device
-(cid:129) Procurement: purchasing devices or (cid:129) System upgrades
+ Procurement: purchasing devices or System upgrades
 adopting device subscription services
 for long-term use and short-term use
 Full lifecycle
-(cid:129) Development: delivery, installation,
+ Development: delivery, installation,
 data migration of an
 IT device
 Device recycling Device management
-(cid:129) Device deinstallation (cid:129) Tracking the utilization of IT devices:
-(cid:129) Data erasing: securely removing data reporting issues and requesting upgrades
-stored on IT devices (cid:129) User management, user authentication:
-(cid:129) Recycling de-commissioned devices providing a real-time usage overview
+ Device deinstallation Tracking the utilization of IT devices:
+ Data erasing: securely removing data reporting issues and requesting upgrades
+stored on IT devices User management, user authentication:
+ Recycling de-commissioned devices providing a real-time usage overview
 Source: independent research conducted by CIC based on interviews with industry players
 DLM enables better control over the functionality and efficacy of ITdevices, and simpler
 IT device troubleshooting, which in turn may enhance company’s productivity. According to
@@ -5235,7 +5235,7 @@ of PRC major DLM solution providers.
 Note:
 (1) Others primarily include projectors, interactive conference boards and servers.
 Key Growth Drivers for the DLM Market in China
-(cid:129) Expansion of digital transformation. China’s digital transformation strategy and
+ Expansion of digital transformation. China’s digital transformation strategy and
 enterprises’ higher expectations on IT equipment performance are expected to promote
 theDLMmarketinChina.Enterprises’expendituresonhardwareareexpectedtoincrease
 from RMB1.2 trillion in 2021 to RMB2.0 trillion in 2026, and the expansion of digital
@@ -5246,23 +5246,23 @@ fast-growing era.
 
 === PAGE 134 ===
 INDUSTRY OVERVIEW
-(cid:129) Popularity of the DLM business model. The ever-changing corporate behaviors in a fast
+ Popularity of the DLM business model. The ever-changing corporate behaviors in a fast
 growing market have indicated that enterprises now are more willing to pay for the useful
 and beneficial services in order to raise efficiency and utilize the resources without any
 unnecessary waste. The flexibility in office IT device procurement and management as
 well as the tailor-made services catered to the diverse needs of enterprises will lead to a
 growing popularity of the DLM business model.
-(cid:129) Increasingdemandsforcostreductionandefficiencyimprovement.Enterprisesarepaying
+ Increasingdemandsforcostreductionandefficiencyimprovement.Enterprisesarepaying
 more attention to cost reduction and cutting down one-time expenditures, as well as
 improving operational efficiency and resisting business risks during the course of
 business development. As DLM effectively helps with cost reduction of IT devices and
 efficiency improvement in IT equipment management, it has been widely accepted by
 enterprises.
-(cid:129) Diversified office scenarios. The outbreak of COVID-19 has facilitated the popularity of
+ Diversified office scenarios. The outbreak of COVID-19 has facilitated the popularity of
 telecommunicating in China, which stimulated enterprises’demands for new IT devices,
 especially flexible and portable mobile devices and cloud-based video conference
 devices, which will further drive the fast expansion of China’s DLM market.
-(cid:129) Rising environmental awareness. The Chinese government has introduced policies and
+ Rising environmental awareness. The Chinese government has introduced policies and
 incentives to promote the environmental protection in enterprises in recent years. In
 particular, there are action plans, guiding opinions and notices issued by MIIT, NDRC,
 MOF, MOFCOM and other governmental authorities promoting the recycle and
@@ -5356,7 +5356,7 @@ provides DLM related to PCs and printers/photocopiers.
 (5) Incomes are recognized as commission fees for commission-based platform service providers.
 (6) The rankings do not include sales service providers or commissioned-based platform service providers.
 Key Factors for Success of the DLM Market in China
-(cid:129) Service capabilities.As a service-focused industry, DLM involves all aspects of solutions
+ Service capabilities.As a service-focused industry, DLM involves all aspects of solutions
 and services relating to devices, such as equipment maintenance and operation, system
 iteration and update, equipment management and residual value processing services apart
 from device subscription services. Service capabilities such as immediate response to
@@ -5367,21 +5367,21 @@ customers.
 
 === PAGE 137 ===
 INDUSTRY OVERVIEW
-(cid:129) Scale effect. Impacts brought by the scale effect include an increase in the bargaining
+ Scale effect. Impacts brought by the scale effect include an increase in the bargaining
 power with suppliers and a decrease in procurement costs of DLM solution providers.As
 a result, DLM solution providers are able to provide their services at an advantageous
 price, which in turn will attract more potential customers. In addition, a nationwide
 service network enables customers to enjoy timely services, which contributes to
 customer stickiness and can further enhance the competitiveness of DLM solution
 providers.
-(cid:129) Risk management capabilities. Customers make payment in installments for long-term
+ Risk management capabilities. Customers make payment in installments for long-term
 device subscription services and return the provided devices upon completion of services,
 which brings risks of bad debts, equipment damage and failure to retrieve the provided
 equipment to DLM solution providers. A comprehensive risk management system is
 essential to accurate customer credit risk assessment and formulation of targeted risk
 protection measures. A sound risk management system will lay a solid foundation for a
 long-term stable DLM.
-(cid:129) Channel expansion capabilities and stable supplies. DLM solution providers need to
+ Channel expansion capabilities and stable supplies. DLM solution providers need to
 expand their vertical and horizontal channels, including acquisition of suppliers and
 customers as well as marketing and promoting capabilities. Strong channel expansion
 capabilities are crucial to stable services and a healthy business growth. In addition, it’s
@@ -5407,7 +5407,7 @@ and low-cost financing resources.
 === PAGE 138 ===
 INDUSTRY OVERVIEW
 Entry Barriers
-(cid:129) Wide upstream supply channels and strong capital resources. DLM solution providers
+ Wide upstream supply channels and strong capital resources. DLM solution providers
 should be able to build deep collaborative relationships with, and gain strategical support
 from, upstream supply channels and device manufacturers in order to obtain the stable
 supply of quality IT devices at favorable costs in the DLM market. Moreover, DLM
@@ -5415,30 +5415,30 @@ solutionprovidersrequirestrongcapitalresourcestoexpandtheirbusinesscorresponding
 to the market development. As new market participants may not have connection with
 upstream suppliers and substantial capital strength, they may have difficulties in gaining
 competitive advantage or enter the industry in the short term.
-(cid:129) Diversified customer acquisition channels and efficient DLM operation. DLM solution
+ Diversified customer acquisition channels and efficient DLM operation. DLM solution
 providers should be able to diversify their customer acquisition channels to gain the
 competitive advantage. With respect to the DLM operation, building a digital device full
 lifecycle management platform or device management SaaS platform is crucial for DLM
 solution providers to monitor the conditions of devices. Furthermore, it requires the
 construction of nationwide device maintenance and recycling network to realize the high
 efficiency of device operation.
-(cid:129) Refurbishment capabilities. It is crucial for DLM solution providers to possess
+ Refurbishment capabilities. It is crucial for DLM solution providers to possess
 capabilities of refurbishing and remanufacturing IT devices to extend the lifecycle and
 improve the efficiency of IT devices. New entrants without such capabilities and
 techniques may face greater challenges when entering the market.
-(cid:129) Comprehensive risk control system. It is important and requires technology skills for new
+ Comprehensive risk control system. It is important and requires technology skills for new
 DLM solution providers to establish a comprehensive and effective risk control system to
 reduce the loss that may be caused by credit risks from enterprise customers.
 Future Trends for the DLM Market in China
-(cid:129) Asset-lightoperation.FacilitatedbyDLM,runninganasset-lightofficewillbecomemore
+ Asset-lightoperation.FacilitatedbyDLM,runninganasset-lightofficewillbecomemore
 prevalent. As enterprises no longer need to procure fixed IT assets, they will maintain a
 better cash flow to invest in business development.
-(cid:129) Diversified device categories. Corporate needs for multiple IT device categories will
+ Diversified device categories. Corporate needs for multiple IT device categories will
 continue to expand in the next few years. Computers and printers and photocopiers are
 projected to account for the largest share of the long-term subscription market, while
 conference devices meanwhile will maintain the fastest growth as a new entrant to the
 market.
-(cid:129) Broadened service portfolio. As corporate needs for a full-stack IT DLM are increasing,
+ Broadened service portfolio. As corporate needs for a full-stack IT DLM are increasing,
 DLM solution providers have gradually begun to provide a portfolio of services including
 devicerecyclingbusiness,devicesubscriptionservices,ITtechnicalsubscriptionservices
 and device management SaaS.
@@ -5446,7 +5446,7 @@ and device management SaaS.
 
 === PAGE 139 ===
 INDUSTRY OVERVIEW
-(cid:129) Growing penetration rate of DLM. There is a trend that enterprises in China are adopting
+ Growing penetration rate of DLM. There is a trend that enterprises in China are adopting
 DLM. SMEs adopt device subscription services to avoid the large initial procurement
 costs of IT equipment, and large companies are gradually adopting a DLM portfolio. As
 business scenarios of DLM have become more extensive, the market penetration rate will
@@ -8112,11 +8112,11 @@ CAGRof36.4%;andRMB76,424andRMB73,384forthesixmonthsendedJune30,2021and
 See “– Our Business Model – Key Operating Data” for details.
 Our corporate growth history encompasses three eras, representing our past, present and
 future:
-(cid:129) Era 1.0: We became an IT device subscription service provider in China as a
+ Era 1.0: We became an IT device subscription service provider in China as a
 first-mover in the industry
-(cid:129) Era 2.0: We offered the DLM solutions in China, having accomplished integration
+ Era 2.0: We offered the DLM solutions in China, having accomplished integration
 and a closed-loop of DLM
-(cid:129) Era 3.0: We desire to establish a strong network connecting with more market
+ Era 3.0: We desire to establish a strong network connecting with more market
 participants and leverage our industry experience and resources to lead the
 formation of a DLM ecosystem as a forerunner
 Capturing on opportunities brought by new economy companies and emerging business
@@ -8154,11 +8154,11 @@ the utilization rate of, and recreate value for, enterprise IT devices.
 Since our inception in 2004, we have witnessed a rising DLM industry in China. After
 nearly two decades, we have established a reputable corporate image and a strong brand. We
 enjoy a leading position in China’s DLM industry in the following respects:
-(cid:129) First-mover advantage.According to CIC, we are one of the first companies to enter
+ First-mover advantage.According to CIC, we are one of the first companies to enter
 China’s DLM industry. With years of in-depth development and growth assisted by
 our superior capabilities, we have successfully created a closed-loop DLM business
 model.
-(cid:129) Comprehensive service categories. Our comprehensive DLM solutions have
+ Comprehensive service categories. Our comprehensive DLM solutions have
 increased customer stickiness and the likelihood that a new corporate user starts
 purchasing one or more of our services. In addition, we offer a broad range of
 devices with multiple types and configurations for selection, including widely used
@@ -8168,13 +8168,13 @@ number of our long-term device subscription customers increased from 5,068 in
 2019 to 6,671 in 2020 and further to 10,030 in 2021, representing a CAGR of 40.7%
 duringthisperiod;andincreasedby64.5%from6,058forthesixmonthsendedJune
 30, 2021 to 9,966 for the six months ended June 30, 2022.
-(cid:129) Superior operational efficiency. We benefit from our superior operational efficiency
+ Superior operational efficiency. We benefit from our superior operational efficiency
 enabled by the scale of our wide range of services and supported by our powerful
 IT system that covers functions including the front-desk customer service, middle-
 office business processing, order settlement and delivery and office asset
 management, and back-end business integration, automated financial information
 generation and logistics management.
-(cid:129) Strong support from strategic Shareholders. We have received investment and
+ Strong support from strategic Shareholders. We have received investment and
 valuable resources from our strategic Shareholders, including customer resources in
 our downstream business sectors and supply chain resources in our upstream
 business sectors. For example, we have received strong support from, and achieved
@@ -8198,7 +8198,7 @@ initially commenced device subscription services and IT technical subscription s
 later broadened our service categories to include device recycling business and device
 management SaaS. We ultimately formed a closed-loop DLM business model which has
 created synergies among our service categories in the following ways:
-(cid:129) Full utilization of IT devices among different service categories. The use of devices
+ Full utilization of IT devices among different service categories. The use of devices
 across our different service scenarios has increased the ITdevice utilization rate and
 strengthened our business growth while promoting green economy and shared
 economy. In our device recycling business, we purchase and refurbish de-
@@ -8209,7 +8209,7 @@ increased due to their deployment in multiple business scenarios, such as our
 long-termandshort-termdevicesubscriptionservices.OurITtechnicalsubscription
 services together with device management SaaS enable enterprise users to maintain
 and manage a pool of IT devices without hiring a team of IT professionals in-house.
-(cid:129) Increased customer stickiness from the cross-selling among our service categories.
+ Increased customer stickiness from the cross-selling among our service categories.
 The users of our different service categories may be attracted to purchase multiple
 services. This cross-selling process is facilitated by our Bear Butler software
 application by recommending and promoting the advantages of engaging our DLM
@@ -8260,7 +8260,7 @@ Robust and multifaceted operational management capabilities
 Our comprehensive management capabilities are crucial to our business success. We
 possess strong risk control capabilities, device operation management capabilities, information
 security protection capabilities and supply chain capabilities.
-(cid:129) Risk control capabilities. Risk control capabilities are important to our reputation,
+ Risk control capabilities. Risk control capabilities are important to our reputation,
 business development, operational efficiency and financial performance.We believe
 an effective and sound risk control system helps reduce our operational risks while
 at the same time lays the foundation for business innovation, thus improving our
@@ -8286,7 +8286,7 @@ model as a percentage of revenue decreased from 0.4% in 2019 to 0.2% in 2020 and
 further to 0.1% in 2021, which is below the industry average ranging from 2% to
 5%, according to CIC. This is consistent with our continuing effort in strengthening
 risk management capabilities.
-(cid:129) Device operation management capabilities. Leveraging our extensive experience
+ Device operation management capabilities. Leveraging our extensive experience
 and practices accumulated over the years, we have developed an effective IT device
 operation management system, through which our enterprise users are able to
 accurately and efficiently manage configurations and subscription status of IT
@@ -8298,7 +8298,7 @@ management application, Bear Butler, enables enterprise users to manage the
 procurement, allocation, repairment, maintenance and disposal of their office IT
 devices, either in-house or provided by us to our device subscription service
 customers.
-(cid:129) Information security protection capabilities. We adopt prudent measures to ensure
+ Information security protection capabilities. We adopt prudent measures to ensure
 information security of our enterprise users. Our data protection measures feature
 data authorization levels and cross-review mechanisms. We encrypt customers’data
 with our proprietary technologies and ensure our technologies are up-to-date. We
@@ -8307,7 +8307,7 @@ releasing their de-commissioned IT devices which may contain trade secrets that
 needs to be securely protected. By adopting effective data removal and destruction
 techniques, including data erasing and physical destruction of hardware, we ensure
 our customers’ data media are securely protected.
-(cid:129) Supply chain capabilities. Our strong supply chain capabilities have laid a solid
+ Supply chain capabilities. Our strong supply chain capabilities have laid a solid
 foundation for our high-quality services. We have established collaborations with
 leading office equipment manufacturers and internet companies. In particular, we
 are in cooperation with JD.com, a leading supply chain-based technology and
@@ -8498,7 +8498,7 @@ Our DLM solutions directly tackle such pain points of enterprises’ management 
 devices. With the aim to transform enterprises’ management of devices through services
 covering major phases of IT device lifecycle, our revenue from DLM solutions during the
 Track Record Period was primarily generated from the following service categories:
-(cid:129) Device recycling business. We purchase de-commissioned IT devices from
+ Device recycling business. We purchase de-commissioned IT devices from
 enterprises for use in our device subscription services after refurbishment, or sale
 through our proprietary quotation platform. Some of the de-commissioned devices
 arealsosoldthroughexternale-commerceplatformsafterrefurbishment.Inaddition
@@ -8528,7 +8528,7 @@ BUSINESS
 incurred gross loss for our device subscription services in 2019, and the gross profit
 marginsofourthreeservicelineshadfluctuatedduringtheTrackRecordPeriodand
 may continue to fluctuate in the future” for a detailed analysis on the relevant risks.
-(cid:129) Device subscription services. Our device subscription services primarily include
+ Device subscription services. Our device subscription services primarily include
 selecting IT devices (including brand new devices and de-commissioned devices
 after refurbishment) suitable for users, assembling devices, pre-installing device
 configurationsandcustomizingsystemsettings.Weoffertailor-madeshort-termand
@@ -8546,7 +8546,7 @@ which in turn would exert downward pressure on the subscription price of existin
 models, or (ii) have been subject to wear-and-tear during their useful lives and the
 repair costs would exceed the expected subscription income to be generated during
 rest of their useful lives. We typically target SMEs for our subscription services.
-(cid:129) IT technical subscription services. We offer IT technical subscription services
+ IT technical subscription services. We offer IT technical subscription services
 primarily coupled with device subscription services and, to a lesser extent, on a
 standalone basis, primarily including solving problems in IT devices and keeping
 devices on the cutting edge of technology through system upgrades. We typically
@@ -9272,18 +9272,18 @@ BUSINESS
 Key Terms of Agreement with Suppliers of De-commissioned Devices
 Key terms of agreement with suppliers of de-commissioned devices are summarized
 below.
-(cid:129) Agreement term. Our agreement term starts from, and ends on, the dates as specified
+ Agreement term. Our agreement term starts from, and ends on, the dates as specified
 in the agreement as agreed upon by the enterprise users and us.
-(cid:129) Our obligations. We purchase the specific type of devices from enterprises as
+ Our obligations. We purchase the specific type of devices from enterprises as
 specified in the agreement, and generally make payment within five business days.
 We provide door-to-door pick-up services of the recycled devices. Data removal
 process will be provided at the request of and in the manner specified by the
 enterprise users at our venue or any venue as specified by such users.
-(cid:129) Enterprises’ warrants. The enterprise users shall warrant that they have complete
+ Enterprises’ warrants. The enterprise users shall warrant that they have complete
 ownership and disposal rights to the recycled devices.
-(cid:129) Termination. The agreement is automatically terminated upon discharge of both
+ Termination. The agreement is automatically terminated upon discharge of both
 parties’ obligations.
-(cid:129) Dispute resolution. In the event of any dispute related to the enforcement of any
+ Dispute resolution. In the event of any dispute related to the enforcement of any
 agreement during our agreement term, both parties shall negotiate amicably. If an
 agreement cannot be reached, the parties have the right to sue.
 Device Subscription Services
@@ -9467,7 +9467,7 @@ subscribeddevices,takingintoconsiderationthetimeneededforourinternalapprovalproc
 BUSINESS
 Key Terms of Service Agreement
 Key terms of our device subscription service agreement are summarized below.
-(cid:129) Service term. We provide flexible service terms, generally on a monthly basis for a
+ Service term. We provide flexible service terms, generally on a monthly basis for a
 minimum period of six months for long-term device subscription services, and a
 daily basis for short-term device subscription services.The term starts from the date
 specified in a separate order or the day after customers receive the devices,
@@ -9486,20 +9486,20 @@ prevailing of which were less than three months. Specifically, our short-term de
 subscription period was on an average of 43 days in 2019, 54 days in 2020, 56 days
 in 2021, 58 days for the six months ended June 30, 2021 and 59 days for the six
 months ended June 30, 2022.
-(cid:129) Our obligations. We provide subscription services as specified in a separate work
+ Our obligations. We provide subscription services as specified in a separate work
 order. In accordance with such order, we provide door-to-door delivery of the
 subscribed devices or ship the devices to our customers at our expenses. We assist
 our customers to finish set-up of devices, and provide guidance to our customers’
 in-house IT personnel. We abide by our customers’ internal technical and service
 standards during our service process.
-(cid:129) Customers’ obligations. Our customers are obligated to provide authentic and
+ Customers’ obligations. Our customers are obligated to provide authentic and
 effective certificates, licenses and other materials, and make timely payments.
 Customers cannot alter the use of the subscribed devices from their original use, or
 apply the devices for illegal purposes. Customers are also obligated to make
 compensation for any deliberated damage or loss of the devices. Any depreciation
 and depletion arising out of the normal business use of the devices shall not be
 deemed as our customers’ liability.
-(cid:129) Termination. The service agreement may be terminated by the customers if we fail
+ Termination. The service agreement may be terminated by the customers if we fail
 to deliver the subscribed devices as agreed upon or deliver the devices within the
 specified timing. The service agreement may be terminated by us if the customers
 – 214 –
@@ -9509,7 +9509,7 @@ BUSINESS
 (i) fail to pay us within the specified timing; or (ii) relocate the devices without our
 written consent. Upon termination of the agreement, the defaulting party shall make
 compensation to the other’s loss, if any.
-(cid:129) Dispute resolution. In the event of any dispute related to the enforcement of any
+ Dispute resolution. In the event of any dispute related to the enforcement of any
 agreement during our service term, both parties shall negotiate amicably. If an
 agreement cannot be reached, the parties have the right to sue.
 IT Technical Subscription Services
@@ -9604,19 +9604,19 @@ system settings, and provide guidance to our customers’ in-house IT personnel.
 Business Model – Device Subscription Services – Key Terms of Service Agreement.”
 Key terms of the standalone IT technical subscription service agreement are summarized
 below.
-(cid:129) Service term. Our service term starts from, and ends on, the dates as specified in the
+ Service term. Our service term starts from, and ends on, the dates as specified in the
 standalone IT technical subscription service agreement as agreed upon by our
 customers and us. In addition, fees for devices and IT technical services are
 separately set out in contract with customers under both long-term and short-term
 device subscription services.
-(cid:129) Our obligations. We provide IT technical support and related services as specified
+ Our obligations. We provide IT technical support and related services as specified
 in the standalone IT technical subscription service agreement.
-(cid:129) Customers’obligations. Our customers are obligated to make timely payments, and
+ Customers’obligations. Our customers are obligated to make timely payments, and
 are responsible for the confidentiality, maintenance and record-keeping of important
 corporate data and information.
-(cid:129) Termination. The service agreement is automatically terminated upon discharge of
+ Termination. The service agreement is automatically terminated upon discharge of
 both parties’ obligations.
-(cid:129) Dispute resolution. In the event of any dispute related to the enforcement of any
+ Dispute resolution. In the event of any dispute related to the enforcement of any
 agreement during our service term, both parties shall negotiate amicably. If an
 agreement cannot be reached, the parties have the right to sue.
 – 217 –
@@ -9671,22 +9671,22 @@ China’s DLM market with comprehensive coverage over major aspects of enterpris
 management from warehousing, deployment, asset counting, maintenance to disposal and
 recycling. It is an easy-to-use and multi-functional device management tool featuring the
 following characteristics and functions:
-(cid:129) One-click synchronization. Bear Butler is able to be integrated with a variety of
+ One-click synchronization. Bear Butler is able to be integrated with a variety of
 office systems, including OA, ERP and HR systems commonly used by enterprises,
 through a standard interface. An automatically synchronized firm-wide
 organizational hierarchy from users’ existing WeCom (企業微信) or DingTalk (釘
 釘) is also available. Enterprises can upload their data and information through one
 click, making it convenient to manage device assets and allocation.
-(cid:129) Self-serving inventory check. Once the inventory check is initiated by the
+ Self-serving inventory check. Once the inventory check is initiated by the
 administration department of an enterprise, its employees can conduct the inventory
 check and confirm or manage through the user interface on the Bear Butler
 application. This process can be completed in a fast, accurate and efficient manner,
 and avoids loss of office assets due to the mistakes caused by manual counts.
-(cid:129) Availability on multiple platforms. Bear Butler allows access through multiple
+ Availability on multiple platforms. Bear Butler allows access through multiple
 platforms, including website portal through PC, iOS and Android portals through
 smartphones, WeChat mini-program and DingTalk. This versatility allows users to
 work freely and remotely any time, anywhere.
-(cid:129) Multi-dimensional device management. Enterprises are able to manage IT devices
+ Multi-dimensional device management. Enterprises are able to manage IT devices
 used in their business operations through various functions on Bear Butler,
 including asset counts, consumables examination, financial management and overall
 management.
@@ -10246,17 +10246,17 @@ Wepromoteourbrandandattractnewcustomersprimarilythrough(i)directsalesefforts,
 (ii) user traffic gained from our strategic Shareholders and business partners, (iii)
 advertisements on search engines and (iv) referrals by our existing customers. Our marketing
 and branding efforts include the followings:
-(cid:129) Direct sales efforts.We rely on face-to-face marketing, including making cold calls,
+ Direct sales efforts.We rely on face-to-face marketing, including making cold calls,
 sending emails or paying visits to potential customers we meet at executive events,
 trade shows and industry events.
-(cid:129) User traffic gained from our strategic Shareholders and business partners. Our
+ User traffic gained from our strategic Shareholders and business partners. Our
 strategic Shareholders and business partners have opened up access to our services
 with corporate channels, from which we are able to gain large user traffic and
 expand our user base. See “– Our Strengths – Rapidly expanding customer base
 through reliable customer outreach channels.”
-(cid:129) Advertisements on search engines. We post advertisements on search engines and
+ Advertisements on search engines. We post advertisements on search engines and
 social media initiatives to attract customers.
-(cid:129) Referrals by our existing customers. We benefit from word-of-mouth referrals by
+ Referrals by our existing customers. We benefit from word-of-mouth referrals by
 our existing customers.
 Collaboration with Strategic Shareholders and Business Partners
 To market our brand and services in a more efficient way, we collaborate with leading
@@ -10295,18 +10295,18 @@ RMB31.0 million and RMB25.5 million, respectively, accounting for approximately 
 7.8%, 6.6%, 8.7% and 4.1% of our total device recycling income for the respective periods.
 We typically enter into collaboration framework agreements or memoranda with these
 strategic Shareholders and business partners, key terms of which include:
-(cid:129) Collaboration scope. Our strategic Shareholders and business partners primarily
+ Collaboration scope. Our strategic Shareholders and business partners primarily
 provide us with marketing resources by connecting us to their service platforms and
 granting us access to their large user traffic while broadening service offerings to
 their customers.
-(cid:129) Collaboration term. We generally maintain a collaboration term of 2.5 years to 3
+ Collaboration term. We generally maintain a collaboration term of 2.5 years to 3
 years with our strategic Shareholders and business partners. We expect no material
 difficulty in renewing the current or signing another agreement upon expiry of the
 current collaboration framework agreements.
-(cid:129) Confidentiality. No disclosure of information about our collaboration framework
+ Confidentiality. No disclosure of information about our collaboration framework
 agreements to any third party without the other party’s consent is permitted. In case
 of the termination of the agreements, the confidentiality clauses remain valid.
-(cid:129) Disputeresolution.Intheeventofanydispute,bothpartiesshallnegotiateamicably.
+ Disputeresolution.Intheeventofanydispute,bothpartiesshallnegotiateamicably.
 If a consensus cannot be reached, the parties have the right to sue or submit to the
 arbitration commission, as specifically stipulated in the respective agreement.
 JD.com is a leading supply chain-based technology and service provider. We acquainted
@@ -10910,13 +10910,13 @@ Research and Development Process
 Our development process for a new DLM solution or a major new update to existing
 solutions and software can be divided into four stages. Each of the first three stages usually
 takes around one month, while the final stage is an ongoing process.
-(cid:129) Stage 1: Demand Analysis. Our sales and marketing team takes the lead on
+ Stage 1: Demand Analysis. Our sales and marketing team takes the lead on
 conducting market analysis to collect feedback from customers.
-(cid:129) Stage 2: Product Design and Review. We design new solutions and software to
+ Stage 2: Product Design and Review. We design new solutions and software to
 address our customers’ needs.
-(cid:129) Stage 3: Product Development. We complete coding, testing and verification before
+ Stage 3: Product Development. We complete coding, testing and verification before
 officially launching the new solution or software.
-(cid:129) Stage4:OngoingOptimization.WemakecontinuouseffortsinR&Dandtechnology
+ Stage4:OngoingOptimization.WemakecontinuouseffortsinR&Dandtechnology
 innovations and continue to optimize functions and performance based on user
 feedback. We also release updated versions with improved features and
 functionalities regularly.
@@ -10948,10 +10948,10 @@ operation procedures regarding data storage and processing. We have established 
 internal protocols on data security, which set forth detailed, stringent requirements in relation
 to the use, disclosure and protection of confidential information. Among other things, such
 internal protocols:
-(cid:129) provide limited authorization to our employees holding specific positions at specific
+ provide limited authorization to our employees holding specific positions at specific
 levels to access and process corporate data on a need-to-know basis, who shall use
 such data only for the purposes of performing their work assignment; and
-(cid:129) require our employees to obtain written authorizations from users before performing
+ require our employees to obtain written authorizations from users before performing
 any requests.
 We provide data privacy trainings to employees on a periodic basis to increase their
 compliance awareness. In addition, employees are required to sign a confidentiality agreement
@@ -11893,11 +11893,11 @@ million, RMB9.0 million and RMB13.0 million, respectively.
 === PAGE 285 ===
 CONNECTED TRANSACTIONS
 In arriving at the above annual caps, our Directors have considered the following factors:
-(cid:129) the historical transaction amounts for the year ended December 31, 2021 and the six
+ the historical transaction amounts for the year ended December 31, 2021 and the six
 months ended June 30, 2022;
-(cid:129) the estimated revenue to be recognized in relation to the Subscription Services
+ the estimated revenue to be recognized in relation to the Subscription Services
 provided by us, based on the existing contracts with JD Group; and
-(cid:129) the estimated demand from JD Group in relation to the Subscription Services, based
+ the estimated demand from JD Group in relation to the Subscription Services, based
 on the commercial negotiation between our Group and JD Group.
 Beijing JD is ultimately controlled by JD.com, the controlling shareholder of one of our
 substantial shareholders: Tigris Innovation Limited (“JD BVI”). Beijing JD is an associate of
@@ -11966,12 +11966,12 @@ Total 43,000 46,000 50,000
 === PAGE 287 ===
 CONNECTED TRANSACTIONS
 In arriving at the above annual caps, our Directors have considered the following factors:
-(cid:129) the historical transaction amounts for the year ended December 31, 2021 and the six
+ the historical transaction amounts for the year ended December 31, 2021 and the six
 months ended June 30, 2022;
-(cid:129) the estimated purchases of new and second-hand devices by us based on the
+ the estimated purchases of new and second-hand devices by us based on the
 commercial negotiation between our Group and JD Group in respect of supplying of
 new and second-hand devices by JD Group; and
-(cid:129) the estimated increase in demand of our Group taking into account the business
+ the estimated increase in demand of our Group taking into account the business
 expansion of our Group for the two years ending December 31, 2024.
 Beijing JD is ultimately controlled by JD.com, the controlling shareholder of JD BVI.
 Beijing JD is an associate of JD BVI. Therefore, it is a connected person of our Company for
@@ -12014,8 +12014,8 @@ Marketing, Promotion and Maintenance Services Framework Agreement for each of th
 years ending December 31, 2024 will not exceed RMB24.0 million, RMB25.0 million and
 RMB30.0 million, respectively.
 In arriving at the above annual caps, our Directors have considered the following factors:
-(cid:129) the historical transaction amounts during the Track Record Period; and
-(cid:129) the estimated demand of our Group on Marketing, Promotion and Maintenance
+ the historical transaction amounts during the Track Record Period; and
+ the estimated demand of our Group on Marketing, Promotion and Maintenance
 Services taking into account the business expansion of our Group and our
 cooperation with JD.com for the two years ending December 31, 2024.
 Beijing JD is ultimately controlled by JD.com, the controlling shareholder of JD BVI.
@@ -12546,14 +12546,14 @@ COMPLIANCE ADVISOR
 Our Company has appointed Haitong International Capital Limited as our compliance
 advisor pursuant to Rule 3A.19 of the Listing Rules. Pursuant to Rule 3A.23 of the Listing
 Rules, our compliance advisor will advise our Company in the following circumstances:
-(cid:129) before the publication of any regulatory announcement, circular or financial report;
-(cid:129) where a transaction, which might be a notifiable or connected transaction, is
+ before the publication of any regulatory announcement, circular or financial report;
+ where a transaction, which might be a notifiable or connected transaction, is
 contemplated, including shares issues and share repurchases;
-(cid:129) whereourCompanyproposestousetheproceedsoftheGlobalOfferinginamanner
+ whereourCompanyproposestousetheproceedsoftheGlobalOfferinginamanner
 different from that detailed in this prospectus or where our business activities,
 developments or results deviate from any forecast, estimate or other information in
 this prospectus; and
-(cid:129) where the Stock Exchange makes an inquiry of our Company under Rule 13.10 of
+ where the Stock Exchange makes an inquiry of our Company under Rule 13.10 of
 the Listing Rules.
 The term of the appointment of our compliance advisor shall commence on the Listing
 Date and end on the date on which our Company distribute our annual report in respect of our
@@ -12873,7 +12873,7 @@ needs.
 FINANCIAL INFORMATION
 During the Track Record Period, our revenue was generated primarily from the following
 service categories:
-(cid:129) Device recycling business. We purchase de-commissioned IT devices from
+ Device recycling business. We purchase de-commissioned IT devices from
 enterprises for use in our device subscription services after refurbishment, or sale
 through our proprietary quotation platform. Some of the de-commissioned devices
 arealsosoldthroughexternale-commerceplatformsafterrefurbishment.Inaddition
@@ -12886,7 +12886,7 @@ among others, our strategic Shareholders and business partners JD.com and Lenovo
 a team dedicated to develop our network of upstream enterprise suppliers and
 downstream customers for de-commissioned devices, which are primarily
 enterprises engaged in the trading of de-commissioned IT devices.
-(cid:129) Device subscription services. Our device subscription services primarily include
+ Device subscription services. Our device subscription services primarily include
 selecting IT devices (including brand new devices and de-commissioned devices
 after refurbishment) suitable for users, assembling devices, pre-installing device
 configurationsandcustomizingsystemsettings.Weoffertailor-madeshort-termand
@@ -12904,7 +12904,7 @@ which in turn would exert downward pressure on the subscription price of existin
 models, or (ii) have been subject to wear-and-tear during their useful lives and the
 repair costs would exceed the expected subscription income to be generated during
 rest of their useful lives. We typically target SMEs for our subscription services.
-(cid:129) IT technical subscription services. We offer IT technical subscription services
+ IT technical subscription services. We offer IT technical subscription services
 primarily coupled with device subscription services and, to a lesser extent, on a
 standalone basis, primarily including solving problems in IT devices and keeping
 devices on the cutting edge of technology through system upgrades. We typically
@@ -12970,11 +12970,11 @@ primarily include the followings:
 General Factors
 Our business and results of operations are impacted by general factors affecting the DLM
 industry in China, including:
-(cid:129) the overall economic condition in China;
-(cid:129) growth and development of the DLM industry in China and targeted marketing;
-(cid:129) competition in the DLM industry in China;
-(cid:129) the advancement in technologies affecting the DLM industry; and
-(cid:129) governmental policies, initiatives and incentives affecting the DLM industry.
+ the overall economic condition in China;
+ growth and development of the DLM industry in China and targeted marketing;
+ competition in the DLM industry in China;
+ the advancement in technologies affecting the DLM industry; and
+ governmental policies, initiatives and incentives affecting the DLM industry.
 Any unfavorable change in any of these general industry conditions may have a negative
 impact on the demand for our services, and materially affect our results of operations.
 Company Specific Factors
@@ -13096,11 +13096,11 @@ that is distinct or a series of distinct goods or services that are substantiall
 Control is transferred over time and revenue is recognized over time by reference to the
 progress towards complete satisfaction of the relevant performance obligation if one of the
 following criteria is met:
-(cid:129) the customer simultaneously receives and consumes the benefits provided by the
+ the customer simultaneously receives and consumes the benefits provided by the
 Group’s performance as the Group performs;
-(cid:129) the Group’s performance creates or enhances an asset that the customer controls as
+ the Group’s performance creates or enhances an asset that the customer controls as
 the Group performs; or
-(cid:129) the Group’s performance does not create an asset with an alternative use to the
+ the Group’s performance does not create an asset with an alternative use to the
 Group and the Group has an enforceable right to payment for performance
 completed to date.
 Otherwise, revenue is recognized at a point in time when the customer obtains control of
@@ -13175,15 +13175,15 @@ and do not contain a purchase option. Lease payments on short-term leases are re
 expense on a straight-line basis or another systematic basis over the lease term.
 Right-of-use assets
 The cost of right-of-use assets includes:
-(cid:129) the amount of the initial measurement of the lease liability;
-(cid:129) any lease payments made at or before the commencement date, less any lease
+ the amount of the initial measurement of the lease liability;
+ any lease payments made at or before the commencement date, less any lease
 incentives received;
 – 307 –
 
 === PAGE 318 ===
 FINANCIAL INFORMATION
-(cid:129) any initial direct costs incurred by the Group; and
-(cid:129) an estimate of costs to be incurred by the Group in dismantling and removing the
+ any initial direct costs incurred by the Group; and
+ an estimate of costs to be incurred by the Group in dismantling and removing the
 underlyingassets,restoringthesiteonwhichitislocatedorrestoringtheunderlying
 asset to the condition required by the terms and conditions of the lease.
 Right-of-use assets are measured at cost, less any accumulated depreciation and
@@ -14227,7 +14227,7 @@ Revenue
 Our revenue increased by 59.1% from RMB536.9 million for the six months ended June
 30, 2021 to RMB854.0 million for the six months ended June 30, 2022, mainly attributable to
 the increase in revenue across all our service lines.
-(cid:129) Device recycling income. Our device recycling income increased by 76.7% from
+ Device recycling income. Our device recycling income increased by 76.7% from
 RMB357.8 million for the six months ended June 30, 2021 to RMB632.1 million for
 the six months ended June 30, 2022. Such increase was attributable to (i) the
 increase in availability of de-commissioned IT devices as a result of the increasing
@@ -14237,7 +14237,7 @@ de-commissionedITdevicesfrom190forthesixmonthsendedJune30,2021to205
 for the six months ended June 30, 2022.As a result, the number of de-commissioned
 ITdevicessoldincreasedfromapproximately203,000forthesixmonthsendedJune
 30, 2021 to approximately 473,000 for the six months ended June 30, 2022.
-(cid:129) Device subscription services. Our revenue generated from device subscription
+ Device subscription services. Our revenue generated from device subscription
 services increased by 30.7% from RMB115.0 million for the six months ended June
 30, 2021 to RMB150.4 million for the six months ended June 30, 2022, primarily
 due to primarily due to (i) significant growth in number of long-term device
@@ -14254,7 +14254,7 @@ average priced relatively higher.
 
 === PAGE 339 ===
 FINANCIAL INFORMATION
-(cid:129) IT technical subscription services. Our revenue generated from IT technical
+ IT technical subscription services. Our revenue generated from IT technical
 subscription services increased by 11.6% from RMB64.1 million for the six months
 ended June 30, 2021 to RMB71.5 million for the six months ended June 30, 2022,
 which was in line with the revenue growth of our device subscription services. The
@@ -14277,12 +14277,12 @@ attributable to (i) the increase in the cost of inventories sold by 86.0% or RMB
 for more de-commissioned devices purchased in response to the growth of our recycling
 services, and (ii) the increase in the depreciation by 32.0% or RMB25.6 million due to more
 devices purchased for subscription services.
-(cid:129) Device recycling income. Our cost of sales related to device recycling income
+ Device recycling income. Our cost of sales related to device recycling income
 increased by 85.5% from RMB333.9 million for the six months ended June 30, 2021
 toRMB619.2millionforthesixmonthsendedJune30,2022,whichwasinlinewith
 our revenue growth in device recycling business mainly due to more de-
 commissioned IT devices purchased.
-(cid:129) Device subscription services. Our cost of sales related to the provision of device
+ Device subscription services. Our cost of sales related to the provision of device
 subscription services increased by 26.9% from RMB89.2 million for the six months
 ended June 30, 2021 to RMB113.2 million for the six months ended June 30, 2022.
 This was primarily due to an increase in depreciation costs of RMB25.6 million
@@ -14297,7 +14297,7 @@ RMB1,160.4 million as of June 30, 2022.
 
 === PAGE 340 ===
 FINANCIAL INFORMATION
-(cid:129) IT technical subscription services. Our cost of sales related to the provision of IT
+ IT technical subscription services. Our cost of sales related to the provision of IT
 technical subscription services increased by 32.4% from RMB16.7 million for the
 six months ended June 30, 2021 to RMB22.0 million for the six months ended June
 30,2022.Thiswasprimarilyduetotheincreasein(i)staffcostsbyRMB3.3million
@@ -14312,7 +14312,7 @@ ended June 30, 2021 to RMB99.6 million for the six months ended June 30, 2022 as
 of the overall revenue growth for reasons mentioned above. Our gross profit margin decreased
 from 18.1% for the six months ended June 30, 2021 to 11.7% for the six months ended June
 30, 2022.
-(cid:129) Device recycling income. Our gross profit of device recycling business decreased from
+ Device recycling income. Our gross profit of device recycling business decreased from
 RMB23.9 million for the six months ended June 30, 2021 to RMB12.9 million for the six
 months ended June 30, 2022. Our gross profit margin of device recycling business
 decreased from 6.7% for the six months ended June 30, 2021 to 2.0% for the six months
@@ -14322,7 +14322,7 @@ due to the purchase of more de-commissioned IT devices, which is partially offse
 increasing average sales value per device of de-commissioned IT devices by 2.4% from
 RMB1,232.1 for the six months ended June 30, 2021 to RMB1,261.2 for the six months
 ended June 30, 2022.
-(cid:129) Device subscription services. Our gross profit of device subscription services increased
+ Device subscription services. Our gross profit of device subscription services increased
 from RMB25.8 million for the six months ended June 30, 2021 to RMB37.2 million for
 thesixmonthsendedJune30,2022aswemanagedtogeneratemoresubscriptionrevenue
 by increasing the average monthly subscription volume from 318,445 for the six months
@@ -14343,7 +14343,7 @@ stable at 0.14 for the six months ended June 30, 2021 and 2022.
 
 === PAGE 341 ===
 FINANCIAL INFORMATION
-(cid:129) IT technical subscription services. Our gross profit of IT device subscription services
+ IT technical subscription services. Our gross profit of IT device subscription services
 increased from RMB47.5 million for the six months ended June 30, 2021 to RMB49.5
 million for the six months ended June 30, 2022. Our gross profit margin of IT technical
 subscription services decreased from 74.0% for the six months ended June 30, 2021 to
@@ -14435,7 +14435,7 @@ Revenue
 Our revenue increased by 30.2% from RMB1,022.2 million in 2020 to RMB1,330.4
 million in 2021, which was mainly attributable to the increase in revenue across all our service
 lines.
-(cid:129) Device recycling income. Our device recycling income increased by 20.8% from
+ Device recycling income. Our device recycling income increased by 20.8% from
 RMB765.2 million in 2020 to RMB924.4 million in 2021. Such increase was due to
 our effort to strengthen relationship with upstream suppliers, resulting in our
 enhanced procurement capability and better availability of de-commissioned IT
@@ -14443,7 +14443,7 @@ devices, as demonstrated by the increase in upstream suppliers of de-commissione
 IT devices from 277 in 2020 to 317 in 2021. As a result, the number of
 de-commissioned IT devices sold increased from approximately 599,000 in 2020 to
 approximately 857,000 in 2021.
-(cid:129) Device subscription services. Our revenue generated from device subscription
+ Device subscription services. Our revenue generated from device subscription
 services increased by 84.6% from RMB143.8 million in 2020 to RMB265.6 million
 in 2021, primarily due to (i) significant growth in number of device subscription
 customers from 6,671 in 2020 to 10,030 in 2021 as a result of our effort in sales and
@@ -14459,7 +14459,7 @@ relatively higher.
 
 === PAGE 344 ===
 FINANCIAL INFORMATION
-(cid:129) IT technical subscription services. Our revenue generated from IT technical
+ IT technical subscription services. Our revenue generated from IT technical
 subscription services increased by 24.1% from RMB113.1 million in 2020 to
 RMB140.4 million in 2021, which was in line with the revenue growth of our device
 subscription services. The increase in revenue from IT technical subscription
@@ -14477,11 +14477,11 @@ of sales was mainly attributable to (i) the increase in the cost of inventories 
 RMB180.7 million for more de-commissioned devices purchased in response to the growth of
 our recycling services, and (ii) the increase in the depreciation by 48.4% or RMB59.4 million
 due to more devices purchased for subscription services.
-(cid:129) Device recycling income. Our cost of sales related to device recycling income
+ Device recycling income. Our cost of sales related to device recycling income
 increased by 25.1% from RMB715.6 million in 2020 to RMB895.3 million in 2021
 mainly due to more de-commissioned IT devices purchased, which was in line with
 growth in device recycling income.
-(cid:129) Device subscription services. Our cost of sales related to the provision of device
+ Device subscription services. Our cost of sales related to the provision of device
 subscription services increased by 48.4% from RMB137.4 million in 2020 to
 RMB203.9 million in 2021. This was primarily due to an increase in depreciation
 costs of RMB59.4 million caused by more devices purchased for our subscription
@@ -14491,7 +14491,7 @@ subscription services and to maintain our leading market position, we purchased
 more equipment for subscription, the total cost of which increased by 45.7% from
 RMB714.4millionasofDecember31,2020toRMB1,041.0millionasofDecember
 31, 2021.
-(cid:129) IT technical subscription services. Our cost of sales related to the provision of IT
+ IT technical subscription services. Our cost of sales related to the provision of IT
 technical subscription services increased by 70.6% from RMB22.3 million in 2020
 to RMB38.0 million in 2021. This was primarily due to (i) the increase in staff costs
 by RMB9.4 million driven by a larger service team and increase in remuneration for
@@ -14507,7 +14507,7 @@ RMB193.1 million in 2021 as a result of (i) the overall revenue growth for reaso
 above and (ii) increase revenue portion derived from in the device subscription services with
 a higher gross profit margin. Our gross profit margin remained stable at 14.4% in 2020 and
 14.5% in 2021.
-(cid:129) Device recycling income. Our gross profit of device recycling business decreased
+ Device recycling income. Our gross profit of device recycling business decreased
 from RMB49.6 million in 2020 to RMB29.1 million in 2021. Our gross profit
 margin of device recycling business decreased from 6.5% in 2020 to 3.1% in 2021,
 primarily due to (i) we sold our de-commissioned devices to certain leading
@@ -14522,7 +14522,7 @@ a shift in our product mix towards products with lower value of other IT devices
 such as monitors and network switches, the revenue contribution of which increased
 from 2.3% from 2020 to 5.3% to 2021 as a percentage of our total revenue of device
 recycling business.
-(cid:129) Device subscription services. Our gross profit of device subscription services
+ Device subscription services. Our gross profit of device subscription services
 increasedfromRMB6.5millionin2020toRMB61.7millionin2021aswemanaged
 to generate more subscription revenue by increasing the device subscription volume
 from2020to2021.Ourgrossprofitmarginofdevicesubscriptionservicesincreased
@@ -14542,7 +14542,7 @@ extended the service life of IT devices.
 
 === PAGE 346 ===
 FINANCIAL INFORMATION
-(cid:129) IT technical subscription services. Our gross profit of IT device subscription
+ IT technical subscription services. Our gross profit of IT device subscription
 services increased from RMB90.8 million in 2020 to RMB102.4 million in 2021.
 Our gross profit margin of IT technical subscription services decreased from 80.3%
 in 2020 to 72.9% in 2021, primarily attributable to (i) decrease in average monthly
@@ -14620,7 +14620,7 @@ Revenue
 Our revenue increased by 104.3% from RMB500.3 million in 2019 to RMB1,022.2
 million in 2020, primarily due to increase in revenue generated from device recycling income
 and device subscription services.
-(cid:129) Device recycling income. Our device recycling income increased significantly by
+ Device recycling income. Our device recycling income increased significantly by
 152.7% from RMB302.8 million in 2019 to RMB765.2 million in 2020. Such
 increasewasdueto(i)betteravailabilityofde-commissionedITdevices,whichwas
 resulted from a larger supplier base and strengthened relationship with major
@@ -14631,7 +14631,7 @@ RMB252,791 in 2019 to RMB722,566 in 2020, which was partially offset by the
 decrease in the average sales value per device of de-commissioned IT devices from
 RMB1,211.6 in 2019 to RMB914.5 in 2020 due to shift in our product mix towards
 products with lower value such as monitors and network switches.
-(cid:129) Device subscription services. Our revenue generated from device subscription
+ Device subscription services. Our revenue generated from device subscription
 services increased by 75.2% from RMB82.1 million in 2019 to RMB143.8 million
 in 2020, primarily due to (i) growth in number of long-term device subscription
 customers from 5,068 in 2019 to 6,671 in 2020, (ii) increase in number of devices
@@ -14640,7 +14640,7 @@ subscription was purchased to support our business growth, and (iii) the average
 monthlysubscriptionfeesperdevicefordevicesubscriptionservicesincreasedfrom
 RMB43.6 in 2019 to RMB52.0 in 2020 due to increase in average subscription price
 of laptop computers, desktop computers and printers.
-(cid:129) IT technical subscription services. Our revenue generated from IT technical
+ IT technical subscription services. Our revenue generated from IT technical
 subscription services decreased slightly from RMB115.4 million in 2019 to
 RMB113.1 million in 2020 primarily due to the decrease in (i) the average monthly
 subscription price from RMB94.0 to RMB62.4 due to the increasing number of
@@ -14658,11 +14658,11 @@ of sales was mainly attributable to (i) the increase in the cost of inventories 
 or RMB410.6 million, for more de-commissioned devices purchased in response to the growth
 of our recycling services, and (ii) the increase in the depreciation by 62.7% or RMB47.3
 million due to more devices purchased for subscription services.
-(cid:129) Device recycling income. Our cost of sales related to the device recycling business
+ Device recycling income. Our cost of sales related to the device recycling business
 increasedby136.5%fromRMB302.6millionin2019toRMB715.6millionin2020,
 which was in line with our revenue growth in device recycling business mainly due
 to more de-commissioned IT devices purchased.
-(cid:129) Device subscription services. Our cost of sales related to the provision of device
+ Device subscription services. Our cost of sales related to the provision of device
 subscription services increased by 42.5% from RMB96.4 million in 2019 to
 RMB137.4 million in 2020. This was primarily due to an increase in depreciation
 costs of RMB47.3 million as more devices were purchased for our subscription
@@ -14670,7 +14670,7 @@ services, resulting in the increase in the number of devices for subscription fr
 231,505 in 2019 to 347,951 in 2020, which was consistent with the increase in total
 cost of equipment for subscription by 55.9% from RMB458.1 million as of
 December 31, 2019 to RMB714.4 million as of December 31, 2020.
-(cid:129) IT technical subscription services. Our cost of sales related to the provision of IT
+ IT technical subscription services. Our cost of sales related to the provision of IT
 technical subscription services increased by 4.7% from RMB21.3 million in 2019 to
 RMB22.3 million in 2020, which was consistent with our effort to maintain an IT
 technical subscription service team to support our business. Such increase was
@@ -14682,7 +14682,7 @@ Our overall gross profit increased by 83.3% from RMB80.1 million in 2019 to RMB1
 million in 2020 primarily attributable to the revenue growth and increase in gross profit of our
 device recycling income and device subscription services, which was partially offset by the
 decrease in revenue and gross profit from IT technical subscription services.
-(cid:129) Device recycling income. Our gross profit of device recycling business increased
+ Device recycling income. Our gross profit of device recycling business increased
 from RMB0.3 million in 2019 to RMB49.6 million in 2020. Our gross profit margin
 of device recycling business improved significantly from 0.1% in 2019 to 6.5% in
 2020. The relatively low gross profit margin in 2019 was primarily due to the
@@ -14704,7 +14704,7 @@ decided not to participate if the bidding price was too competitive and might
 adversely affect our gross profit margin. In addition, the market prices of ITdevices
 rose due to shortage caused by supply chain disruption during the COVID-19
 pandemic.
-(cid:129) Device subscription services. Gross loss and gross loss margin of our device
+ Device subscription services. Gross loss and gross loss margin of our device
 subscription services in 2019 primarily resulted from lower prices offered to expand
 our device subscription services, which was approximately 16.2% lower than the
 subscription price in 2020. Gross profit of RMB6.5 million and gross profit margin
@@ -14717,7 +14717,7 @@ included in property, plant and equipment”) from 0.23 in 2019 to 0.25 in 2020 
 the reasons discussed in “– Discussion of Results of Operations – Year ended
 December 31, 2021 compared to year ended December 31, 2020 – Gross profit and
 gross profit margin.”
-(cid:129) IT technical subscription services. Our gross profit of IT technical subscription
+ IT technical subscription services. Our gross profit of IT technical subscription
 services decreased from RMB94.1 million in 2019 to RMB90.8 million in 2020 as
 our revenue from IT technical subscription services decreased for the reasons
 discussed above. Our gross profit margin of IT technical subscription services
@@ -15775,7 +15775,7 @@ to Shanghai Banghui.
 Save for the borrowings from related parties, the aforesaid related party transactions were
 trade in nature. Our transaction amounts with the related parties fluctuated during the Track
 Record Period due to the following reasons:
-(cid:129) Purchases of IT equipment: The following table sets forth a breakdown of purchase
+ Purchases of IT equipment: The following table sets forth a breakdown of purchase
 of IT equipment from related parties during the Track Record Period.
 Six months ended
 Year ended December 31, June 30,
@@ -15808,7 +15808,7 @@ the decrease in purchase of IT devices for subscription from the related parties
 the decrease in purchase of de-commissioned ITdevices, which was mainly affected
 by the disposal plans and less supply of de-commissioned IT devices by the related
 parties.
-(cid:129) Marketing, promotion and maintenance services: In 2019, 2020 and 2021 and for
+ Marketing, promotion and maintenance services: In 2019, 2020 and 2021 and for
 thesixmonthsendedJune30,2021and2022,paymentformarketingandpromotion
 servicesprovidedbyrelatedpartieswasRMB5.0million,RMB8.8million,RMB9.6
 million, RMB5.9 million and RMB3.9 million, respectively. In 2019, 2020 and 2021
@@ -15929,12 +15929,12 @@ the service requests from nearby cities. There was no loss of revenue or penalti
 suspension or cancellation of business activities or revenue loss of our Group. Our normal
 operations have not been adversely interrupted during the COVID-19 pandemic. Details as
 follows:
-(cid:129) Device recycling business. Device recycling business can effectively help
+ Device recycling business. Device recycling business can effectively help
 enterprises to cash out from de-commissioned devices at the best price and further
 make the best use of enterprise resources. SMEs that closed down during the
 COVID-19 pandemic have generated more supply of de-commissioned devices for
 device recycling business and market opportunities for DLM solution providers.
-(cid:129) Device subscription services.The COVID-19 pandemic has driven most enterprises,
+ Device subscription services.The COVID-19 pandemic has driven most enterprises,
 SMEs in particular, to transform their operation mode into asset-light mode and
 hence turn to adopt DLM solutions. It has facilitated the device subscription service
 market in China during the COVID-19 pandemic. As a result, the demand of our
@@ -15947,7 +15947,7 @@ device subscription customers decreased from 2,881 as of June 30, 2021 to 2,768 
 of June 30, 2022), we seized the market opportunities for providing enterprise
 customers with subscription service for IT devices such as laptop computers when
 their employees worked from home.
-(cid:129) IT technical subscription services. IT technical subscription services are usually
+ IT technical subscription services. IT technical subscription services are usually
 coupled with device subscription services provided by DLM solution providers. It
 not only provides professional IT technical services for enterprises but also help
 enterprises reduce related IT maintenance and labor costs during the COVID-19
@@ -16205,7 +16205,7 @@ Assuming an Offer Price of HK$7.60 per Offer Share
 prospectus) million
 We intend to use the net proceeds as follows (based on the mid-point of the Offer Price
 range stated in this prospectus):
-(cid:129) Approximately 45%, or HK$164.9 million, is expected to be used to improve
+ Approximately 45%, or HK$164.9 million, is expected to be used to improve
 customer experience to satisfy the evolving customer demands, with detailed
 breakdown of the use of proceeds to be allocated as below:
 (i) Approximately30%,orHK$110.0million,isexpectedtobeusedtoexpandthe
@@ -16249,7 +16249,7 @@ be used for salary payment of these additional technical engineers until 2025.
 The remaining balance of the net proceeds of approximately HK$0.7 million
 will be used to fund the cost of training programs for our IT technical
 engineers.
-(cid:129) Approximately 25%, or HK$91.6 million, is expected to be used to expand customer
+ Approximately 25%, or HK$91.6 million, is expected to be used to expand customer
 base and our market share in targeted markets, with detailed breakdown of the use
 of proceeds to be allocated as below:
 (i) Approximately 12.5%, or HK$45.8 million, is expected to be used to expand
@@ -16291,7 +16291,7 @@ exposure to a large network of qualified investors.
 Inaddition,approximatelyHK$12.8millionisexpectedtobeusedtocoverour
 increasedadvertisingexpendituretostrengthenourbrandawareness,including
 sponsoring events, elevator advertisements and outdoor advertisements.
-(cid:129) Approximately 15%, or HK$55.0 million, is expected to be used for system upgrade
+ Approximately 15%, or HK$55.0 million, is expected to be used for system upgrade
 and product development, with detailed breakdown of the use of proceeds to be
 allocated as below. Enhancing technology capabilities and upgrading system
 infrastructure require substantial capital investment. As of June 30, 2022, we had 79
@@ -16386,7 +16386,7 @@ displayed on third-party platforms through in-house marketing effort and in
 turn reduce our customer acquisition cost per new customer. In the future, we
 will use net proceeds to further develop the customer service portals and
 maintain technical interfaces.
-(cid:129) Approximately 5%, or HK$18.3 million, is expected to be used to strengthen our
+ Approximately 5%, or HK$18.3 million, is expected to be used to strengthen our
 risk management capabilities, with detailed breakdown of the use of proceeds to be
 allocated as below:
 (i) Approximately 2.5%, or HK$9.2 million, is expected to be used to expand the
@@ -16414,7 +16414,7 @@ relevant experience to work with our sales team in customer acquisition in the
 next three years. We expect the net proceeds will be used for salary payment
 until 2028 and (ii) approximately HK$1.8 million for third-party data system
 from 2023 to 2028.
-(cid:129) The remaining approximately 10%, or HK$36.6 million, is expected to be used for
+ The remaining approximately 10%, or HK$36.6 million, is expected to be used for
 working capital and general corporate purposes.
 The table below sets forth the expected implementation timetable of our planned use of
 our proceeds:
@@ -17138,14 +17138,14 @@ a clawback mechanism to be put in place which would have the effect of increasin
 of the Offer Shares under the Hong Kong Public Offering to a certain percentage of the total
 number of the Offer Shares offered under the Global Offering if certain prescribed total
 demand levels are reached as further described below:
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 15 times or more but less than 50 times the number of Offer
 Shares initially available for subscription under the Hong Kong Public Offering,
 then Offer Shares will be reallocated to the Hong Kong Public Offering from the
 International Offering so that the total number of Offer Shares available under the
 Hong Kong Public Offering will be 15,977,700 Offer Shares, representing
 approximately30%oftheOfferSharesinitiallyavailableundertheGlobalOffering;
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 50 times or more but less than 100 times the number of Offer
 Shares initially available for subscription under the Hong Kong Public Offering,
 then the number of Offer Shares to be reallocated to the Hong Kong Public Offering
@@ -17157,7 +17157,7 @@ the Global Offering; and
 
 === PAGE 413 ===
 STRUCTURE OF THE GLOBAL OFFERING
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 100 times or more the number of Offer Shares initially available
 for subscription under the Hong Kong Public Offering, then the number of Offer
 Shares to be reallocated to the Hong Kong Public Offering from the International
@@ -17169,11 +17169,11 @@ International Offering may, in certain circumstances, be reallocated as between 
 at the discretion of the Overall Coordinator and the Sole Global Coordinator. In accordance
 with Guidance Letter HKEX-GL91-18 issued by the Hong Kong Stock Exchange, if such
 reallocation is done other than pursuant to Practice Note 18 of the Listing Rules for:
-(cid:129) if the International Offer Shares are fully subscribed or oversubscribed, and the
+ if the International Offer Shares are fully subscribed or oversubscribed, and the
 number of Offer Shares validly applied for under the Hong Kong Public Offering
 represents less than 15 times the number of the Offer Shares initially available for
 subscription under the Hong Kong Public Offering; or
-(cid:129) if the International Offer Shares are undersubscribed, and the Hong Kong Offer
+ if the International Offer Shares are undersubscribed, and the Hong Kong Offer
 Shares are fully subscribed or oversubscribed (irrespective of the extent of
 over-subscription)
 themaximumtotalnumberofSharesthatmaybereallocatedtotheHongKongPublicOffering
@@ -17316,21 +17316,21 @@ purchases and (vi) offering or attempting to do anything as described in paragra
 === PAGE 417 ===
 STRUCTURE OF THE GLOBAL OFFERING
 Specifically, prospective applicants for and investors in the Offer Shares should note that:
-(cid:129) the Stabilizing Manager, its affiliates or any person acting for it may, in connection
+ the Stabilizing Manager, its affiliates or any person acting for it may, in connection
 with the stabilizing action, maintain a long position in the Shares;
-(cid:129) there is no certainty regarding the extent to which and the time or period for which
+ there is no certainty regarding the extent to which and the time or period for which
 the Stabilizing Manager, or any person acting for it, will maintain such a long
 position;
-(cid:129) liquidation of any such long position by the Stabilizing Manager, its affiliates or any
+ liquidation of any such long position by the Stabilizing Manager, its affiliates or any
 person acting for it may have an adverse impact on the market price of the Shares;
-(cid:129) no stabilizing action can be taken to support the price of the Shares for longer than
+ no stabilizing action can be taken to support the price of the Shares for longer than
 thestabilizingperiodwhichwillbeginontheListingDate,andisexpectedtoexpire
 on the 30th day after the last day for the lodging of applications under the Hong
 Kong Public Offering. After this date, when no further stabilizing action may be
 taken, demand for the Shares, and therefore the price of the Shares, could fall;
-(cid:129) the price of the Shares cannot be assured to stay at or above the Offer Price by the
+ the price of the Shares cannot be assured to stay at or above the Offer Price by the
 taking of any stabilizing action; and
-(cid:129) stabilizing bids may be made or transactions effected in the course of the stabilizing
+ stabilizing bids may be made or transactions effected in the course of the stabilizing
 action at any price at or below the Offer Price, which means that stabilizing bids
 may be made or transactions effected at a price below the price paid by applicants
 for, or investors in, the Shares.
@@ -17603,13 +17603,13 @@ or in part for any reason at their discretions.
 Eligibility for the Application
 You can apply for the Hong Kong Offer Shares if you or any person(s) for whose
 benefit you are applying:
-(cid:129) are 18 years of age or older;
+ are 18 years of age or older;
 – 414 –
 
 === PAGE 425 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) have a Hong Kong address; and
-(cid:129) are outside the United States, and are not a United States Person (as defined in
+ have a Hong Kong address; and
+ are outside the United States, and are not a United States Person (as defined in
 Regulation S under the U.S. Securities Act).
 If an application is made by a person under a power of attorney, our Company and
 the Overall Coordinator and the Sole Global Coordinator may accept it at its discretion
@@ -17617,20 +17617,20 @@ and on any conditions that it thinks fit, including evidence of the attorney’s
 The number of joint applicants may not exceed four.
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Offer
 Shares if you:
-(cid:129) are an existing beneficial owner of any Shares in our Company and/or any of
+ are an existing beneficial owner of any Shares in our Company and/or any of
 its subsidiaries;
-(cid:129) are a Director or chief executive officer of our Company and/or any of its
+ are a Director or chief executive officer of our Company and/or any of its
 subsidiaries;
-(cid:129) are a close associate (as defined in the Listing Rules) of any of the above; or
-(cid:129) have been allocated or have applied for any International Offer Shares or
+ are a close associate (as defined in the Listing Rules) of any of the above; or
+ have been allocated or have applied for any International Offer Shares or
 otherwise participate in the International Offering.
 Items Required for the Application
 If you apply for Hong Kong Offer Shares online through the HK eIPOWhite Form
 service, in addition to the above, you must also:
-(cid:129) have a valid Hong Kong identity card number/passport number (for individual
+ have a valid Hong Kong identity card number/passport number (for individual
 applicant) or Hong Kong business registration number/certificate of
 incorporation number (for body corporate applicant); and
-(cid:129) provide a valid e-mail address and a contact telephone number.
+ provide a valid e-mail address and a contact telephone number.
 If an application is made by a person under a power of attorney, the Company, the
 Overall Coordinator and the Sole Global Coordinator, as the Company’s agent, may
 accept it at their discretion and on any conditions they think fit, including evidence of the
@@ -17863,7 +17863,7 @@ Nominees on your behalf:
 (a) HKSCC Nominees will only be acting as a nominee for you and is not liable
 for any breach of the terms and conditions of this prospectus;
 (b) HKSCC Nominees will do the following things on your behalf:
-(cid:129) agreethattheHongKongOfferSharestobeallottedshallbeissuedinthe
+ agreethattheHongKongOfferSharestobeallottedshallbeissuedinthe
 name of HKSCC Nominees and deposited directly into CCASS for the
 credit of the CCASS Participant’s stock account on your behalf or your
 CCASS Investor Participant’s stock account;
@@ -17871,34 +17871,34 @@ CCASS Investor Participant’s stock account;
 
 === PAGE 432 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree to accept the Hong Kong Offer Shares applied for or any lesser
+ agree to accept the Hong Kong Offer Shares applied for or any lesser
 number allocated;
-(cid:129) undertake and confirm that you have not applied for or taken up, will not
+ undertake and confirm that you have not applied for or taken up, will not
 applyforortakeup,havenotindicatedorwillnotindicateaninterestfor,
 any Offer Shares under the International Offering nor otherwise
 participate in the International Offering;
-(cid:129) (if the electronic application instructions are given for your benefit)
+ (if the electronic application instructions are given for your benefit)
 declare that only one set of electronic application instructions has been
 given for your benefit;
-(cid:129) (if you are an agent for another person) declare that you have only given
+ (if you are an agent for another person) declare that you have only given
 one set of electronic application instructions for the other person’s
 benefit and are duly authorized to give those instructions as its agent;
-(cid:129) confirm that you understand that we, our Directors, the Overall
+ confirm that you understand that we, our Directors, the Overall
 Coordinator and the Sole Global Coordinator will rely on your
 declarations and representations in deciding whether or not to make any
 allotment of any of the Hong Kong Offer Shares to you and that you may
 be prosecuted if you make a false declaration;
-(cid:129) authorize us to place HKSCC Nominees’ name on our register of
+ authorize us to place HKSCC Nominees’ name on our register of
 members as the holder of the Hong Kong Offer Shares allocated to you
 and to send Share certificate(s) and/or refund monies under the
 arrangements separately agreed between us and HKSCC;
-(cid:129) confirm that you have read the terms and conditions and application
+ confirm that you have read the terms and conditions and application
 procedures set out in this prospectus and agree to be bound by them;
-(cid:129) confirm that you have received and/or read a copy of this prospectus and
+ confirm that you have received and/or read a copy of this prospectus and
 have relied only on the information and representations in this prospectus
 in causing the application to be made, save as set out in any supplement
 to this prospectus;
-(cid:129) agree that none of us, the Overall Coordinator, the Sole Global
+ agree that none of us, the Overall Coordinator, the Sole Global
 Coordinator,theJointBookrunners,theJointLeadManagers,theCo-lead
 Managers, the Underwriters, the Capital Market Intermediaries, their
 respective directors, officers, employees, partners, agents, advisors and
@@ -17909,15 +17909,15 @@ any supplement to it);
 
 === PAGE 433 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree to disclose your personal data to us, the Hong Kong Share
+ agree to disclose your personal data to us, the Hong Kong Share
 Registrar, receiving banks, the Overall Coordinator, the Sole Global
 Coordinator,theJointBookrunners,theJointLeadManagers,theCo-lead
 Managers, the Underwriters, the Capital Market Intermediaries and/or its
 respective advisors and agents;
-(cid:129) agree (without prejudice to any other rights which you may have) that
+ agree (without prejudice to any other rights which you may have) that
 once HKSCC Nominees’ application has been accepted, it cannot be
 rescinded for innocent misrepresentation;
-(cid:129) agree that any application made by HKSCC Nominees on your behalf is
+ agree that any application made by HKSCC Nominees on your behalf is
 irrevocable before the fifth day after the time of the opening of the
 application lists (excluding any day which is Saturday, Sunday or public
 holiday in Hong Kong), such agreement to take effect as a collateral
@@ -17934,11 +17934,11 @@ holiday in Hong Kong) if a person responsible for this prospectus under
 Section 40 of the Companies (Winding Up and Miscellaneous Provisions)
 Ordinance gives a public notice under that section which excludes or
 limits that person’s responsibility for this prospectus;
-(cid:129) agree that once HKSCC Nominees’ application is accepted, neither that
+ agree that once HKSCC Nominees’ application is accepted, neither that
 application nor your electronic application instructions can be revoked,
 and that acceptance of that application will be evidenced by our
 Company’s announcement of the Hong Kong Public Offering results;
-(cid:129) agree to the arrangements, undertakings and warranties under the
+ agree to the arrangements, undertakings and warranties under the
 participant agreement between you and HKSCC, read with the General
 Rules of CCASS and the CCASS Operational Procedures, for the giving
 electronic application instructions to apply for Hong Kong Offer
@@ -17947,24 +17947,24 @@ Shares;
 
 === PAGE 434 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agreewithourCompany,foritselfandforthebenefitofeachShareholder
+ agreewithourCompany,foritselfandforthebenefitofeachShareholder
 (and so that our Company will be deemed by its acceptance in whole or
 in part of the application by HKSCC Nominees to have agreed, for itself
 and on behalf of each of the Shareholders, with each CCASS Participant
 giving electronic application instructions) to observe and comply with
 the Companies (Winding up and Miscellaneous Provisions) Ordinance
 and the Articles of Association; and
-(cid:129) agreethatyourapplication,anyacceptanceofitandtheresultingcontract
+ agreethatyourapplication,anyacceptanceofitandtheresultingcontract
 will be governed by the Laws of Hong Kong.
 Effect of Giving Electronic Application Instructions to HKSCC via CCASS
 ByapplyingthroughtheCCASSEIPOservice,you(and,ifyouarejointapplicants,
 each of you jointly and severally) are deemed to have done the following things. Neither
 HKSCC nor HKSCC Nominees shall be liable to our Company or any other person in
 respect of the things mentioned below:
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees (acting as
+ instructed and authorized HKSCC to cause HKSCC Nominees (acting as
 nominee for the relevant CCASS Participants) to apply for the Hong Kong
 Offer Shares on your behalf;
-(cid:129) instructed and authorized HKSCC to arrange payment of the maximum Offer
+ instructed and authorized HKSCC to arrange payment of the maximum Offer
 Price, brokerage, SFC transaction levy, the AFRC Transaction Levy, and the
 Hong Kong Stock Exchange trading fee by debiting your designated bank
 account and, in the case of a wholly or partially unsuccessful application
@@ -17973,7 +17973,7 @@ initially paid on application, refund of the application monies (including
 brokerage, SFC transaction levy, the AFRC Transaction Levy, and the Hong
 Kong Stock Exchange trading fee) by crediting your designated bank account;
 and
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees to do on your
+ instructed and authorized HKSCC to cause HKSCC Nominees to do on your
 behalf all the things stated in this prospectus.
 Minimum Purchase Amount and Permitted Numbers
 You may give or cause your broker or custodian who is a CCASS Clearing
@@ -18054,24 +18054,24 @@ supplied.
 Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means)
 for the following purposes:
-(cid:129) processingyourapplicationandrefundcheck,whereapplicable,verificationof
+ processingyourapplicationandrefundcheck,whereapplicable,verificationof
 compliancewiththetermsandapplicationproceduressetoutinthisprospectus
 and announcing results of allocation of the Hong Kong Offer Shares;
 – 426 –
 
 === PAGE 437 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registeringnewissuesortransfersintooroutofthenamesoftheholdersofour
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registeringnewissuesortransfersintooroutofthenamesoftheholdersofour
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating our register of members;
-(cid:129) verifying identities of the holders of our Shares;
-(cid:129) establishing benefit entitlements of holders of our Shares, such as dividends,
+ maintaining or updating our register of members;
+ verifying identities of the holders of our Shares;
+ establishing benefit entitlements of holders of our Shares, such as dividends,
 rights issues, bonus issues, etc.;
-(cid:129) distributing communications from us and our subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of our Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to
+ distributing communications from us and our subsidiaries;
+ compiling statistical information and profiles of the holder of our Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to
 enable us and the Hong Kong Share Registrar to discharge our or their
 obligations to holders of our Shares and/or regulators and/or any other
 purposes to which the securities’ holders may from time to time agree.
@@ -18081,12 +18081,12 @@ oftheHongKongOfferShareswillbekeptconfidentialbutweandtheHongKongShare
 Registrar may, to the extent necessary for achieving any of the above purposes, disclose,
 obtain or transfer (whether within or outside Hong Kong) the personal data to, from or
 with any of the following:
-(cid:129) our Company’s appointed agents such as financial advisors, receiving bankers
+ our Company’s appointed agents such as financial advisors, receiving bankers
 and overseas principal share registrar;
-(cid:129) where applicants for the Hong Kong Offer Shares request a deposit into
+ where applicants for the Hong Kong Offer Shares request a deposit into
 CCASS, HKSCC or HKSCC Nominees, who will use the personal data for the
 purposes of operating CCASS;
-(cid:129) any agents, contractors or third-party service providers who offer
+ any agents, contractors or third-party service providers who offer
 administrative, telecommunications, computer, payment or other services to
 our Company or the Hong Kong Share Registrar in connection with their
 respective business operation;
@@ -18094,9 +18094,9 @@ respective business operation;
 
 === PAGE 438 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
+ the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
 governmentalbodiesorotherwiseasrequiredbylaws,rulesorregulations;and
-(cid:129) any persons or institutions with which the holders of the Hong Kong Offer
+ any persons or institutions with which the holders of the Hong Kong Offer
 Shares have or propose to have dealings, such as their bankers, solicitors,
 accountants or stockbrokers etc.
 Retention of personal data
@@ -18159,8 +18159,8 @@ application for the Hong Kong Offer Shares given by you or for your behalf to HK
 be deemed to be an actual application for the purposes of considering whether multiple
 applications have been made.
 If an application is made by an unlisted company and:
-(cid:129) the principal business of that company is dealing in securities; and
-(cid:129) you exercise statutory control over that company,
+ the principal business of that company is dealing in securities; and
+ you exercise statutory control over that company,
 then the application will be treated as being made for your benefit.
 “Unlisted company” means a company with no equity securities listed on the Hong Kong
 Stock Exchange.
@@ -18169,9 +18169,9 @@ Stock Exchange.
 === PAGE 440 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypart
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypart
 of it which carries no right to participate beyond a specified amount in a distribution
 of either profits or capital).
 B. HOW MUCH ARE THE HONG KONG OFFER SHARES
@@ -18203,9 +18203,9 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 C. EFFECT OF BAD WEATHER AND/OR EXTREME CONDITIONS ON THE
 OPENING OF THE APPLICATION LISTS
 The application lists will not open if there is/are:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a “black” rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above;
+ a “black” rainstorm warning; and/or
+ Extreme Conditions,
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Thursday, November
 17, 2022. Instead they will open between 11:45 a.m. and 12:00 noon on the next business day
 which does not have either of those warnings and/or Extreme Conditions in Hong Kong in
@@ -18223,10 +18223,10 @@ Exchange at www.hkexnews.hk.
 The results of allocations and the Hong Kong identity card/passport/Hong Kong business
 registration numbers of successful applicants under the Hong Kong Public Offering will be
 available at the times and date and in the manner specified below:
-(cid:129) in the announcement to be posted on our Company’s website at
+ in the announcement to be posted on our Company’s website at
 www.bearrental.com and the Hong Kong Stock Exchange’s website at
 www.hkexnews.hk by no later than 9:00 a.m. on Wednesday, November 23, 2022;
-(cid:129) from the “IPO Results” function in the IPO App and the designated
+ from the “IPO Results” function in the IPO App and the designated
 results of allocations website at www.tricor.com.hk/ipo/result or
 www.hkeipo.hk/IPOResult with a “search by ID” function on a 24-hour basis from
 8:00 a.m. on Wednesday, November 23, 2022 to 12:00 midnight on Tuesday,
@@ -18235,7 +18235,7 @@ November 29, 2022; and
 
 === PAGE 442 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) by telephone enquiry line by calling +852 3691 8488 between 9:00 a.m. and 6:00
+ by telephone enquiry line by calling +852 3691 8488 between 9:00 a.m. and 6:00
 p.m. from Wednesday, November 23, 2022 to Monday, November 28, 2022 on a
 business day (excluding Saturday, Sunday and Hong Kong public holiday).
 If we accept your offer to purchase (in whole or in part), which it may do by announcing
@@ -18284,29 +18284,29 @@ or accept any application, or to accept only part of any application, without gi
 If the allotment of Hong Kong Offer Shares is void:
 The allotment of Hong Kong Offer Shares will be void if the Hong Kong Stock Exchange
 does not grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Hong Kong Stock Exchange notifies
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Hong Kong Stock Exchange notifies
 our Company of that longer period within three weeks of the closing date of the
 application lists.
 If:
-(cid:129) you make multiple applications or suspected multiple applications;
-(cid:129) you or the person for whose benefit you are applying have applied for or taken up,
+ you make multiple applications or suspected multiple applications;
+ you or the person for whose benefit you are applying have applied for or taken up,
 or indicated an interest for, or have been or will be placed or allocated (including
 conditionally and/or provisionally) Hong Kong Offer Shares and International Offer
 Shares;
-(cid:129) your electronic application instructions through the HK eIPO White Form
+ your electronic application instructions through the HK eIPO White Form
 service are not completed in accordance with the instructions, terms and conditions
 in the IPO App or on the designated website at www.hkeipo.hk;
-(cid:129) your payment is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
+ your payment is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
 – 433 –
 
 === PAGE 444 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) our Company, the Overall Coordinator or the Sole Global Coordinator believes that
+ our Company, the Overall Coordinator or the Sole Global Coordinator believes that
 by accepting your application, it or they would violate applicable securities or other
 laws, rules or regulations; or
-(cid:129) your application is for more than 50% of the Hong Kong Offer Shares initially
+ your application is for more than 50% of the Hong Kong Offer Shares initially
 offered under the Hong Kong Public Offering.
 F. REFUND OF APPLICATION MONIES
 If an application is rejected, not accepted or accepted in part only, or if the Offer Price
@@ -18368,7 +18368,7 @@ will not be treated as an applicant. Instead, each CCASS Participant who gives
 electronic application instructions or each person for whose benefit instructions
 are given will be treated as an applicant.
 Deposit of Share Certificates into CCASS and Refund of Application Monies
-(cid:129) If your application is wholly or partially successful, your Share
+ If your application is wholly or partially successful, your Share
 certificate(s) will be issued in the name of HKSCC Nominees and
 deposited into CCASS for the credit of your designated CCASS
 Participant’s stock account or your CCASS Investor Participant stock
@@ -18378,7 +18378,7 @@ determined by HKSCC or HKSCC Nominees.
 
 === PAGE 446 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) We expect to publish the application results of CCASS Participants (and
+ We expect to publish the application results of CCASS Participants (and
 where the CCASS Participant is a broker or custodian, we will include
 information relating to the relevant beneficial owner), your Hong Kong
 identity card number/passport number or other identification code (Hong
@@ -18389,11 +18389,11 @@ should check the announcement published by our Company and report
 any discrepancies to HKSCC before 5:00 p.m. on Wednesday, November
 23, 2022 or such other date as determined by HKSCC or HKSCC
 Nominees.
-(cid:129) If you have instructed your broker or custodian to give electronic
+ If you have instructed your broker or custodian to give electronic
 application instructions on your behalf, you can also check the number
 of Hong Kong Offer Shares allotted to you and the amount of refund
 monies (if any) payable to you with that broker or custodian.
-(cid:129) If you have applied as a CCASS Investor Participant, you can also check
+ If you have applied as a CCASS Investor Participant, you can also check
 the number of Hong Kong Offer Shares allotted to you and the amount of
 refund monies (if any) payable to you via the CCASS Phone System and
 the CCASS Internet System (under the procedures contained in HKSCC’s
@@ -18405,7 +18405,7 @@ to you an activity statement showing the number of Hong Kong Offer
 SharescreditedtoyourCCASSInvestorParticipantstockaccountandthe
 amount of refund monies (if any) credited to your designated bank
 account.
-(cid:129) Refund of your application monies (if any) in respect of wholly and
+ Refund of your application monies (if any) in respect of wholly and
 partially unsuccessful applications and/or difference between the Offer
 Price and the maximum Offer Price per Offer Share initially paid on
 application (including brokerage, SFC transaction levy, the AFRC
@@ -18955,12 +18955,12 @@ asthedirectorsoftheCompanyhavegivencarefulconsiderationtotheimpactofthecurrentan
 liquidity of the Group and are satisfied that:
 i. TheborrowingsfacilitiesfortheGroup’sworkingcapitalrequirementsforthenexttwelvemonthsfrom
 the date of this report will be available as and when required, having regard to the following:
-(cid:129) Up to 30 September 2022, the Group has successfully raised new borrowings or renewed the
+ Up to 30 September 2022, the Group has successfully raised new borrowings or renewed the
 existing borrowings total amounting to approximately RMB132,062,000. The directors of the
 CompanyareintheopinionthatthebankfacilitiesoftheGroupwillbereneweduponorbefore
 the maturity dates after considering the Group’s positive relationships with the external
 financiers, on-going loan covenants compliance and past experience with them; and
-(cid:129) As at 30 September 2022, the Group has unutilized borrowings facilities of approximately
+ As at 30 September 2022, the Group has unutilized borrowings facilities of approximately
 RMB153,648,000.
 ii. The directors of the Company have assessed the terms of the financial liabilities at FVTPL and
 concluded that these financial liabilities at FVTPLare not redeemable in the next twelve months from
@@ -19034,13 +19034,13 @@ As a lessor
 In accordance with the transitional provisions in IFRS 16, the Group is not required to make any adjustment
 ontransitionforleasesinwhichtheGroupisalessorbutaccountfortheseleasesinaccordancewithIFRS16from
 the date of initial application on 1 January 2019.
-(cid:129) Upon application of IFRS 16, new lease contracts entered into but commence after the date of initial
+ Upon application of IFRS 16, new lease contracts entered into but commence after the date of initial
 applicationrelatingtothesameunderlyingassetsunderexistingleasecontractsareaccountedasifthe
 existing leases are modified as at 1 January 2019. The application has had no impact on the Group’s
 consolidatedstatementoffinancialpositionat1January2019.However,effective1January2019,lease
 paymentsrelatingtotherevisedleasetermaftermodificationarerecognizedasincomeonstraight-line
 basis over the extended lease term.
-(cid:129) Effective on 1 January 2019, the Group has applied IFRS 15 Revenue from Contracts with Customers
+ Effective on 1 January 2019, the Group has applied IFRS 15 Revenue from Contracts with Customers
 (“IFRS 15”) to allocate consideration in the contract to each lease and non-lease components. The
 change in allocation basis has had no material impact on the Historical Financial Information of the
 Group for the year ended 31 December 2019.
@@ -19080,14 +19080,14 @@ APPENDIX I ACCOUNTANTS’ REPORT
 Amendments to IAS 1 “Classification of Liabilities as Current or Non-current”
 The amendments provide clarification and additional guidance on the assessment of right to defer settlement
 for at least twelve months from reporting date for classification of liabilities as current or non-current, which:
-(cid:129) specify that the classification of liabilities as current or non-current should be based on rights that are
+ specify that the classification of liabilities as current or non-current should be based on rights that are
 in existence at the end of the reporting period. Specifically, the amendments clarify that:
 (i) the classification should not be affected by management intentions or expectations to settle the
 liability within 12 months; and
 (ii) iftherightisconditionalonthecompliancewithcovenants,therightexistsiftheconditionsare
 met at the end of the reporting period, even if the lender does not test compliance until a later
 date; and
-(cid:129) clarify that if a liability has terms that could, at the option of the counterparty, result in its settlement
+ clarify that if a liability has terms that could, at the option of the counterparty, result in its settlement
 by the transfer of the entity’s own equity instruments, these terms do not affect its classification as
 current or non-current only if the entity recognises the option separately as an equity instrument
 applying IAS 32 Financial Instruments: Presentation.
@@ -19145,18 +19145,18 @@ of Assets.
 Inaddition,forfinancialreportingpurposes,fairvaluemeasurementsarecategorizedintoLevel1,2or3based
 on the degree to which the inputs to the fair value measurements are observable and the significance of the inputs
 to the fair value measurement in its entirety, which are described as follows:
-(cid:129) Level1inputsarequotedprices(unadjusted)inactivemarketsforidenticalassetsorliabilitiesthatthe
+ Level1inputsarequotedprices(unadjusted)inactivemarketsforidenticalassetsorliabilitiesthatthe
 entity can access at the measurement date;
-(cid:129) Level2inputsareinputs,otherthanquotedpricesincludedwithinLevel1,thatareobservableforthe
+ Level2inputsareinputs,otherthanquotedpricesincludedwithinLevel1,thatareobservableforthe
 asset or liability, either directly or indirectly; and
-(cid:129) Level 3 inputs are unobservable inputs for the asset or liability.
+ Level 3 inputs are unobservable inputs for the asset or liability.
 The principal accounting policies adopted are set out below.
 Basis of consolidation
 TheHistoricalFinancialInformationincorporatesthefinancialstatementsoftheentitiesnowcomprisingthe
 Group. Control is achieved when the Group:
-(cid:129) has power over the investee;
-(cid:129) is exposed, or has rights, to variable returns from its involvement with the investee; and
-(cid:129) has the ability to use its power to affect its returns.
+ has power over the investee;
+ is exposed, or has rights, to variable returns from its involvement with the investee; and
+ has the ability to use its power to affect its returns.
 The Group reassesses whether or not it controls an investee if facts and circumstances indicate that there are
 changes to one or more of the three elements of control listed above.
 ConsolidationofasubsidiarybeginswhentheGroupobtainscontroloverthesubsidiaryandceaseswhenthe
@@ -19193,11 +19193,11 @@ Aperformance obligation represents a good or service (or a bundle of goods or se
 series of distinct goods or services that are substantially the same.
 Control is transferred over time and revenue is recognized over time by reference to the progress towards
 complete satisfaction of the relevant performance obligation if one of the following criteria is met:
-(cid:129) the customer simultaneously receives and consumes the benefits provided by the Group’s performance
+ the customer simultaneously receives and consumes the benefits provided by the Group’s performance
 as the Group performs;
-(cid:129) theGroup’sperformancecreatesorenhancesanassetthatthecustomercontrolsastheGroupperforms;
+ theGroup’sperformancecreatesorenhancesanassetthatthecustomercontrolsastheGroupperforms;
 or
-(cid:129) the Group’s performance does not create an asset with an alternative use to the Group and the Group
+ the Group’s performance does not create an asset with an alternative use to the Group and the Group
 has an enforceable right to payment for performance completed to date.
 Otherwise,revenueisrecognizedatapointintimewhenthecustomerobtainscontrolofthedistinctgoodor
 service.
@@ -19247,10 +19247,10 @@ paymentsonshort-termleasesarerecognizedasexpenseonastraight-linebasisoranothersy
 lease term.
 Right-of-use assets
 The cost of right-of-use assets includes:
-(cid:129) the amount of the initial measurement of the lease liability;
-(cid:129) any lease payments made at or before the commencement date, less any lease incentives received;
-(cid:129) any initial direct costs incurred by the Group; and
-(cid:129) an estimate of costs to be incurred by the Group in dismantling and removing the underlying assets,
+ the amount of the initial measurement of the lease liability;
+ any lease payments made at or before the commencement date, less any lease incentives received;
+ any initial direct costs incurred by the Group; and
+ an estimate of costs to be incurred by the Group in dismantling and removing the underlying assets,
 restoringthesiteonwhichitislocatedorrestoringtheunderlyingassettotheconditionrequiredbythe
 terms and conditions of the lease.
 Right-of-use assets are measured at cost, less any accumulated depreciation and impairment losses, and
@@ -19282,9 +19282,9 @@ The Group presents lease liabilities in “borrowings and lease liabilities” o
 financial position.
 Lease modifications
 TheGroupappliedthepracticalexpedient,theGroupaccountsforaleasemodificationasaseparateleaseif:
-(cid:129) the modification increases the scope of the lease by adding the right to use one or more underlying
+ the modification increases the scope of the lease by adding the right to use one or more underlying
 assets; and
-(cid:129) theconsiderationfortheleasesincreasesbyanamountcommensuratewiththestand-alonepriceforthe
+ theconsiderationfortheleasesincreasesbyanamountcommensuratewiththestand-alonepriceforthe
 increaseinscopeandanyappropriateadjustmentstothatstand-alonepricetoreflectthecircumstances
 of the particular contract.
 Foraleasemodificationthatisnotaccountedforasaseparatelease,theGroupremeasurestheleaseliability,
@@ -19434,17 +19434,17 @@ Internally-generated intangible assets – research and development expenditure
 Expenditure on research activities is recognized as an expense in the period in which it is incurred.
 An internally-generated intangible asset arising from development activities (or from the development phase
 of an internal project) is recognized if, all of the following have been demonstrated:
-(cid:129) the technical feasibility of completing the intangible asset so that it will be available for use or sale;
+ the technical feasibility of completing the intangible asset so that it will be available for use or sale;
 – I-24 –
 
 === PAGE 472 ===
 APPENDIX I ACCOUNTANTS’ REPORT
-(cid:129) the intention to complete the intangible asset and use or sell it;
-(cid:129) the ability to use or sell the intangible asset;
-(cid:129) how the intangible asset will generate probable future economic benefits;
-(cid:129) theavailabilityofadequatetechnical,financialandotherresourcestocompletethedevelopmentandto
+ the intention to complete the intangible asset and use or sell it;
+ the ability to use or sell the intangible asset;
+ how the intangible asset will generate probable future economic benefits;
+ theavailabilityofadequatetechnical,financialandotherresourcestocompletethedevelopmentandto
 use or sell the intangible asset; and
-(cid:129) the ability to measure reliably the expenditure attributable to the intangible asset during its
+ the ability to measure reliably the expenditure attributable to the intangible asset during its
 development.
 Theamountinitiallyrecognizedforinternally-generatedintangibleassetisthesumoftheexpenditureincurred
 from the date when the intangible asset first meets the recognition criteria listed above. Where no internally-
@@ -19516,15 +19516,15 @@ net carrying amount on initial recognition.
 Financial assets
 Classification and subsequent measurement of financial assets
 Financial assets that meet the following conditions are subsequently measured at amortized cost:
-(cid:129) thefinancialassetisheldwithinabusinessmodelwhoseobjectiveistocollectcontractualcashflows;
+ thefinancialassetisheldwithinabusinessmodelwhoseobjectiveistocollectcontractualcashflows;
 and
-(cid:129) thecontractualtermsgiveriseonspecifieddatestocashflowsthataresolelypaymentsofprincipaland
+ thecontractualtermsgiveriseonspecifieddatestocashflowsthataresolelypaymentsofprincipaland
 interest on the principal amount outstanding.
 Financial assets that meet the following conditions are subsequently measured at fair value through other
 comprehensive income:
-(cid:129) the financial asset is held within a business model whose objective is achieved by both selling and
+ the financial asset is held within a business model whose objective is achieved by both selling and
 collecting contractual cash flows; and
-(cid:129) thecontractualtermsgiveriseonspecifieddatestocashflowsthataresolelypaymentsofprincipaland
+ thecontractualtermsgiveriseonspecifieddatestocashflowsthataresolelypaymentsofprincipaland
 interest on the principal amount outstanding.
 All other financial assets are subsequently measured at FVTPL.
 – I-26 –
@@ -19564,14 +19564,14 @@ theGroupconsidersbothquantitativeandqualitativeinformationthatisreasonableandsup
 historical experience and forward-looking information that is available without undue cost or effort.
 In particular, the following information is taken into account when assessing whether credit risk has
 increased significantly:
-(cid:129) anactualorexpectedsignificantdeteriorationinthefinancialinstrument’sexternal(ifavailable)
+ anactualorexpectedsignificantdeteriorationinthefinancialinstrument’sexternal(ifavailable)
 or internal credit rating;
-(cid:129) significantdeteriorationinexternalmarketindicatorsofcreditrisk,e.g.asignificantincreasein
+ significantdeteriorationinexternalmarketindicatorsofcreditrisk,e.g.asignificantincreasein
 the credit spread, the credit default swap prices for the debtor;
-(cid:129) existing or forecast adverse changes in business, financial or economic conditions that are
+ existing or forecast adverse changes in business, financial or economic conditions that are
 expected to cause a significant decrease in the debtor’s ability to meet its debt obligations;
-(cid:129) an actual or expected significant deterioration in the operating results of the debtor; or
-(cid:129) an actual or expected significant adverse change in the regulatory, economic, or technological
+ an actual or expected significant deterioration in the operating results of the debtor; or
+ an actual or expected significant adverse change in the regulatory, economic, or technological
 environmentofthedebtorthatresultsinasignificantdecreaseinthedebtor’sabilitytomeetits
 debt obligations.
 Irrespective of the outcome of the above assessment, the Group presumes that the credit risk has
@@ -19628,9 +19628,9 @@ information.
 APPENDIX I ACCOUNTANTS’ REPORT
 Forprovisionmatrixassessment,theGrouptakesintoconsiderationthefollowingcharacteristicswhen
 formulating the grouping:
-(cid:129) Past-due status;
-(cid:129) Nature, size and industry of debtors; and
-(cid:129) External credit ratings where available.
+ Past-due status;
+ Nature, size and industry of debtors; and
+ External credit ratings where available.
 The grouping is regularly reviewed by management to ensure the constituents of each group continue
 to share similar credit risk characteristics.
 Interest income is calculated based on the gross carrying amount of the financial asset unless the
@@ -19661,24 +19661,24 @@ Financial liabilities are classified as at FVTPLwhen the financial liability is 
 an acquirer in a business combination to which IFRS 3 applies, (ii) held for trading or (iii) it is designated as at
 FVTPL.
 Afinancial liability is held for trading if:
-(cid:129) it has been acquired principally for the purpose of repurchasing it in the near term; or
-(cid:129) oninitialrecognitionitispartofaportfolioofidentifiedfinancialinstrumentsthattheGroupmanages
+ it has been acquired principally for the purpose of repurchasing it in the near term; or
+ oninitialrecognitionitispartofaportfolioofidentifiedfinancialinstrumentsthattheGroupmanages
 together and has a recent actual pattern of short-term profit-taking; or
 – I-29 –
 
 === PAGE 477 ===
 APPENDIX I ACCOUNTANTS’ REPORT
-(cid:129) it is a derivative, except for a derivative that is a financial guarantee contract or a designated and
+ it is a derivative, except for a derivative that is a financial guarantee contract or a designated and
 effective hedging instrument.
 Afinancialliabilityotherthanafinancialliabilityheldfortradingorcontingentconsiderationofanacquirer
 in a business combination may be designated as at FVTPL upon initial recognition if:
-(cid:129) such designation eliminates or significantly reduces a measurement or recognition inconsistency that
+ such designation eliminates or significantly reduces a measurement or recognition inconsistency that
 would otherwise arise; or
-(cid:129) the financial liability forms part of a group of financial assets or financial liabilities or both, which is
+ the financial liability forms part of a group of financial assets or financial liabilities or both, which is
 managed and its performance is evaluated on a fair value basis, in accordance with the Group’s
 documented risk management or investment strategy, and information about the grouping is provided
 internally on that basis; or
-(cid:129) itformspartofacontractcontainingoneormoreembeddedderivatives,andIFRS9permitstheentire
+ itformspartofacontractcontainingoneormoreembeddedderivatives,andIFRS9permitstheentire
 combined contract to be designated as at FVTPL.
 The financial liabilities at FVTPLrepresented Series of Investments in LXTechnology and Preferred Shares
 issued by the Company, which contain redemption features and/or other embedded derivatives, are designated as
@@ -21327,13 +21327,13 @@ reporting date for financial liabilities at FVTPL.
 The Group
 If the equity value of LXTechnology as at 31 December 2019, 2020 and 2021 and the equity value of
 the Company as at 30 June 2022 had been changed based on the 5% higher/lower:
-(cid:129) the loss of the Group for the year ended 31 December 2019 would increase by approximately
+ the loss of the Group for the year ended 31 December 2019 would increase by approximately
 RMB10,582,000 and decrease by approximately RMB10,639,000;
-(cid:129) the loss of the Group for the year ended 31 December 2020 would increase by approximately
+ the loss of the Group for the year ended 31 December 2020 would increase by approximately
 RMB26,958,000 and decrease by approximately RMB27,007,000;
-(cid:129) thelossofthetheGroupfortheyearended31December2021wouldincreasebyapproximately
+ thelossofthetheGroupfortheyearended31December2021wouldincreasebyapproximately
 RMB52,359,000 and decrease by approximately RMB52,308,000; and
-(cid:129) the loss of the Group for the six months ended 30 June 2022 would increase by approximately
+ the loss of the Group for the six months ended 30 June 2022 would increase by approximately
 RMB50,562,000 and decrease by approximately RMB50,466,000.
 The Company
 If the equity value of the Company had been changed based on the 5% higher/lower, the loss of the
@@ -22279,8 +22279,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the unaudited pro forma financial information reflects the proper application of
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’judgment, having regard to
 the reporting accountants’ understanding of the nature of the Group, the event or transaction

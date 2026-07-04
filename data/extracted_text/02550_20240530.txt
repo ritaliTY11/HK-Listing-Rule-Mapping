@@ -33,7 +33,7 @@ Stock Code : 2550
 Sole Sponsor, Overall Coordinator, Joint Global Coordinator, Joint Bookrunner and Joint Lead Manager
 Overall Coordinator, Joint Global Coordinator, Joint Bookrunner and Joint Lead Manager
 Joint Bookrunners and Joint Lead Managers
-(cid:64)(cid:58)(cid:57)(cid:41)(cid:1047)(cid:2123)(cid:11498)(cid:26290)
+ 
 HongKongExchangesandClearingLimited,TheStockExchangeofHongKongLimitedandHongKongSecuritiesClearingCompanyLimitedtakenoresponsibilityfor
 thecontentsofthisprospectus,makenorepresentationastoitsaccuracyorcompletenessandexpresslydisclaimanyliabilitywhatsoeverforanylosshowsoeverarising
 fromorinrelianceuponthewholeoranypartofthecontentsofthisprospectus.
@@ -325,7 +325,7 @@ reading platform services and digital marketing services in each year of the Tra
 Specifically, we apply our proprietary intelligent recommendation engine, Easou Recommendation
 Engine, to collect, analyze, match and predict the demand and/or preferences of our users and
 customers to serve their various needs under the following business lines:
-(cid:2) Online reading platform services. We predict users’ preferences, generate
+ Online reading platform services. We predict users’ preferences, generate
 recommendation strategies and make adjustments thereto, and intelligently recommend
 to our users suitable literary content that meets their personalized needs. As a third-party
 platform, we do not produce proprietary digital content and primarily rely on third-party
@@ -339,11 +339,11 @@ that place advertisements to the users who use our free reading resources;
 paid services, including the purchase of our paid reading resources and the
 subscription of our premium membership, from which we do not generate any
 advertising service income;
-(cid:2) Digital marketing services. We collect, analyze and predict users’ appetite for
+ Digital marketing services. We collect, analyze and predict users’ appetite for
 advertising contents and match the needs of our advertising customers for advertisement
 placements with suitable third-party advertising channels. Under this business line, our
 customers are generally advertising customers;
-(cid:2) Online games publishing services. We identify online games with commercial value and
+ Online games publishing services. We identify online games with commercial value and
 market performance that meet our selection criteria, and publish and recommend such
 games to suitable users on our proprietary platform and external channels based on our
 analysis of user behaviors and their preferences in game category or content. Our
@@ -352,7 +352,7 @@ customers under this business line are users of the online games we publish; and
 
 === PAGE 11 ===
 SUMMARY
-(cid:2) Other digital content services. We recommend value-added services of
+ Other digital content services. We recommend value-added services of
 telecommunications operators, including various types of digital content, such as music
 and ringback tones, to help them reach target users on our proprietary platform or
 external channels based on our analysis of the behavior, content preferences and
@@ -465,19 +465,19 @@ model, please refer to the section headed “Business – Our Business Model” 
 We have achieved diversified commercialization, which primarily includes subscription, pay
 per use, advertising income and revenue sharing, among others. The details of our diversified
 monetization model for our various business lines are as follows:
-(cid:2) Online reading platform services. We generate revenue primarily through (i)
+ Online reading platform services. We generate revenue primarily through (i)
 advertisements displayed in the literary resources from our advertising customers in
 connection with reading with advertising in which we charge them on CPC basis and
 CPM basis; and (ii) paid readership, including the purchase of our paid reading
 resources and the subscription of our premium membership, from our users under
 reading with paid services;
-(cid:2) Digital marketing services. We generally cooperate with advertising customers based on
+ Digital marketing services. We generally cooperate with advertising customers based on
 the relevant framework agreements to generate advertising income and charge them
 primarily on CPC basis, CPM basis and CPA basis;
-(cid:2) Online games publishing services. We generally charge users for their in-game purchases
+ Online games publishing services. We generally charge users for their in-game purchases
 and share a portion of the income with third-party game content providers (i.e., revenue
 sharing); and
-(cid:2) Other digital content services. After receiving income settlement from the users, the
+ Other digital content services. After receiving income settlement from the users, the
 telecommunications operators we cooperate with will subsequently share such income
 with us (i.e., revenue sharing) based on agreed-upon proportions.
 – 4 –
@@ -564,7 +564,7 @@ various participants, such as digital content providers, media channels, users, 
 and telecommunications operators, and enables them to interact with each other. This allows us to
 achieve synergy across our various business lines and helps us achieve diversified monetization.
 Our platform primarily consists of following three types of proprietary products:
-(cid:2) Easou Reading App Series. We mainly rely on the Easou Reading App Series to conduct
+ Easou Reading App Series. We mainly rely on the Easou Reading App Series to conduct
 our online reading platform services. Our flagship application, Easou Reading App, was
 launched in 2013 and provides a large number of e-books with diversified product
 – 6 –
@@ -575,10 +575,10 @@ functions featuring personalized reading experience for our users, such as audio
 and eye-care reading mode. In 2017, we launched Easou Reading App Light Version to
 cater to different user needs and usage scenarios and expand our user acquisition
 channels.
-(cid:2) Easou H5 Pages. Easou H5 Pages is mainly designed for users who prefer to read
+ Easou H5 Pages. Easou H5 Pages is mainly designed for users who prefer to read
 online literature through mobile browsers and webpages instead of an App, and serves
 as a channel for us to attract more users to Easou Reading App Series.
-(cid:2) Win Ads. Win Ads is our proprietary intelligent advertising platform that serves as the
+ Win Ads. Win Ads is our proprietary intelligent advertising platform that serves as the
 core platform for our advertising services under our online reading platform services
 business and our digital marketing services business. It is primarily composed of three
 core modules: a demand-side platform, a supply-side platform and an algorithm strategy
@@ -590,20 +590,20 @@ further details, please refer to the section headed “Business – Our Platform
 OUR COMPETITIVE STRENGTHS
 We believe that the following competitive strengths contribute to the success of our business
 and facilitate our future development:
-(cid:129) We are a technology-driven mobile internet company dedicated to the research,
+ We are a technology-driven mobile internet company dedicated to the research,
 development and application of our Easou Recommendation Engine;
-(cid:129) We have successfully applied our Easou Recommendation Engine to a number of
+ We have successfully applied our Easou Recommendation Engine to a number of
 application scenarios;
-(cid:129) We operate the largest third-party online literature platform and the fifth largest online
+ We operate the largest third-party online literature platform and the fifth largest online
 literature APP in China, and provide users with fair, accurate and personalized online
 reading platform services through our Easou Recommendation Engine;
-(cid:129) As a third-party platform that connects content providers and users, we have built a
+ As a third-party platform that connects content providers and users, we have built a
 platform of mutually beneficial businesses and achieved multi-faceted monetization of
 our proprietary platform traffic;
-(cid:129) We are capable of continuously leveraging a large amount of user behavior data
+ We are capable of continuously leveraging a large amount of user behavior data
 generated from our increasing user traffic and user base to optimize our Easou
 Recommendation Engine; and
-(cid:129) Our dedicated and experienced management team possesses the execution capability and
+ Our dedicated and experienced management team possesses the execution capability and
 deep understanding and insights into technology development and evolving industry
 trends.
 – 7 –
@@ -612,12 +612,12 @@ trends.
 SUMMARY
 OUR BUSINESS STRATEGIES
 We intend to pursue the following strategies to facilitate our future development:
-(cid:129) Continue to invest in R&D to maintain long-term technological advantage;
-(cid:129) Further tap the potential of online literature industry to increase our market share and
+ Continue to invest in R&D to maintain long-term technological advantage;
+ Further tap the potential of online literature industry to increase our market share and
 improve our operating metrics;
-(cid:129) Continue to leverage the capability of our Easou Recommendation Engine to increase
+ Continue to leverage the capability of our Easou Recommendation Engine to increase
 the business scale of our digital marketing services; and
-(cid:129) Expand our online games publishing services, primarily in overseas markets.
+ Expand our online games publishing services, primarily in overseas markets.
 CUSTOMERS
 Our customers primarily consist of (i) users of our online reading platform services (reading
 with paid services) and our online games publishing services, who usually make payments through
@@ -1104,26 +1104,26 @@ Our business faces risks including those set out in the section headed “Risk F
 prospectus. As different investors may have different interpretations and criteria when determining
 the significance of a risk, you should read the “Risk Factors” section in its entirety before you
 decide to invest in the Offer Shares. Some of the major risks that we face include:
-(cid:2) If our Easou Recommendation Engine fails to properly analyze and predict the users’
+ If our Easou Recommendation Engine fails to properly analyze and predict the users’
 behavior and preferences or to keep up with the technological changes, our business,
 results of operations, financial condition and prospects may be materially and adversely
 affected;
-(cid:2) We apply our Easou Recommendation Engine to our various business lines, which
+ We apply our Easou Recommendation Engine to our various business lines, which
 involve separate and independent industries, and the developments in those industries
 could subject our business to risks, which makes it difficult to evaluate our business and
 prospects;
-(cid:2) We do not produce proprietary digital content and the content we recommend to our
+ We do not produce proprietary digital content and the content we recommend to our
 users and customers was primarily sourced from third-party content providers of online
 literature, online games and other digital content;
-(cid:2) Our online reading platform services accounted for a significant portion of our revenue
+ Our online reading platform services accounted for a significant portion of our revenue
 during the Track Record Period. If we fail to retain our user or if user engagement
 ceases to grow or declines, which may materially and adversely affect our business,
 financial condition, results of operations and prospects;
-(cid:2) We generate a significant portion of our revenue from digital marketing services. If we
+ We generate a significant portion of our revenue from digital marketing services. If we
 fail to attract new advertising customers, retain existing advertising customers, or
 maintain their demand for our services, our business, results of operations and financial
 condition may be materially and adversely affected;
-(cid:2) We temporarily suspended our online games publishing services beginning in June 2020
+ We temporarily suspended our online games publishing services beginning in June 2020
 and resumed such services in December 2021. If we fail to promote new games with
 good market reception or efficiently and effectively operate our existing games, we may
 not be able to maintain or grow our revenue generated from online game publishing,
@@ -1133,11 +1133,11 @@ adversely affected;
 
 === PAGE 30 ===
 SUMMARY
-(cid:2) If we fail to anticipate user/customer preferences and provide attractive services, or if
+ If we fail to anticipate user/customer preferences and provide attractive services, or if
 we fail to keep up with rapid changes in user behavior or customer requirements, we
 may not be able to retain existing users, attract sufficient user traffic or enhance user/
 customer engagement; and
-(cid:2) We operate in highly competitive industries. If we are unable to compete effectively
+ We operate in highly competitive industries. If we are unable to compete effectively
 against other industry players, our user and customer bases, market share and
 profitability may be materially and adversely affected.
 FUTURE PLANS AND USE OF PROCEEDS
@@ -1147,13 +1147,13 @@ Global Offering (assuming the Over-allotment Option is not exercised), will be a
 HK$56.2 million, assuming an Offer Price of HK$6.90 (being the mid-point of the Offer Price
 Range). We intend to use the net proceeds as follows (based on the mid-point of the Offer Price
 range stated in this prospectus):
-(cid:2) Approximately 45.0%, or HK$25.2 million, will be used to enhance our R&D
+ Approximately 45.0%, or HK$25.2 million, will be used to enhance our R&D
 capabilities to ensure long-term technological advantage;
-(cid:2) Approximately 25.0%, or HK$14.2 million, will be used to reinforce our strength as a
+ Approximately 25.0%, or HK$14.2 million, will be used to reinforce our strength as a
 third-party online literature platform;
-(cid:2) Approximately 15.0%, or HK$8.4 million, will be used to expand our digital marketing
+ Approximately 15.0%, or HK$8.4 million, will be used to expand our digital marketing
 services; and
-(cid:2) Approximately 15.0%, or HK$8.4 million, will be used to expand our online games
+ Approximately 15.0%, or HK$8.4 million, will be used to expand our online games
 publishing services in overseas markets.
 Please refer to “Future Plans and Use of Proceeds” in this prospectus for details.
 GLOBAL OFFERING STATISTICS (1)
@@ -2182,27 +2182,27 @@ materially different from and worse than what we expect.
 You are strongly cautioned that reliance on any forward-looking statements involves known
 and unknown risks and uncertainties. The risks and uncertainties facing our Company that could
 affect the accuracy of forward-looking statements include, but are not limited to, the following:
-(cid:2) our business strategies, plans, objectives and goals and our ability to implement such
+ our business strategies, plans, objectives and goals and our ability to implement such
 strategies, plans, objectives and goals;
-(cid:2) our future business development, financial conditions and results of operations;
-(cid:2) our ability to develop new services and bring them to market in a timely manner and
+ our future business development, financial conditions and results of operations;
+ our ability to develop new services and bring them to market in a timely manner and
 make enhancements to our existing services;
-(cid:2) our ability to acquire new users/customers and enhance their loyalty;
-(cid:2) changes to regulatory and operating conditions in the industry and markets in which we
+ our ability to acquire new users/customers and enhance their loyalty;
+ changes to regulatory and operating conditions in the industry and markets in which we
 operate;
-(cid:2) the future developments and competitive environment in our industry;
-(cid:2) our ability to stay in compliance with laws and regulations that currently apply or
+ the future developments and competitive environment in our industry;
+ our ability to stay in compliance with laws and regulations that currently apply or
 become applicable to our business both in China and internationally;
-(cid:2) our ability to maintain, protect, and enhance our intellectual property;
-(cid:2) margins, overall market trends, risk management and exchange rates;
-(cid:2) the actions and developments of our competitors;
-(cid:2) capital market development;
+ our ability to maintain, protect, and enhance our intellectual property;
+ margins, overall market trends, risk management and exchange rates;
+ the actions and developments of our competitors;
+ capital market development;
 – 48 –
 
 === PAGE 58 ===
 FORWARD-LOOKING STATEMENTS
-(cid:2) other statements in this prospectus that are not historical fact; and
-(cid:2) all other risks and uncertainties described in the section headed “Risk Factors” in this
+ other statements in this prospectus that are not historical fact; and
+ all other risks and uncertainties described in the section headed “Risk Factors” in this
 prospectus.
 Since actual results or outcomes could differ materially from those expressed in any
 forward-looking statements, we strongly caution investors against placing undue reliance on any
@@ -2599,21 +2599,21 @@ may subject us to the dynamic and complex challenges of conducting business in a
 involving multiple languages, cultures, customs, legal systems, alternative dispute resolution
 systems and commercial infrastructures. A number of risks could adversely affect our operations
 and expansion in international markets, including:
-(cid:2) our limited prior experience in international business operation;
-(cid:2) increased and sometimes conflicting regulatory compliance requirements;
-(cid:2) increased costs to protect intellectual property rights and enforce data security;
-(cid:2) inability to cope with protectionist laws and business practices that favor local
+ our limited prior experience in international business operation;
+ increased and sometimes conflicting regulatory compliance requirements;
+ increased costs to protect intellectual property rights and enforce data security;
+ inability to cope with protectionist laws and business practices that favor local
 businesses in some countries;
-(cid:2) inability to recruit and retain talented and capable management and employees with the
+ inability to recruit and retain talented and capable management and employees with the
 experience and insight necessary for global operation;
-(cid:2) inability to cope with challenges caused by distance, language and cultural differences;
-(cid:2) inability to localize and customize our services and other offerings to cater for the
+ inability to cope with challenges caused by distance, language and cultural differences;
+ inability to localize and customize our services and other offerings to cater for the
 preferences of overseas users;
-(cid:2) inability to implement alternative payment methods for virtual items in a manner that
+ inability to implement alternative payment methods for virtual items in a manner that
 complies with local laws and practices and protects us from payment fraud;
-(cid:2) currency exchange rate fluctuations;
-(cid:2) inability to build and maintain strong relationships with local partners; and
-(cid:2) political, economic and social instability.
+ currency exchange rate fluctuations;
+ inability to build and maintain strong relationships with local partners; and
+ political, economic and social instability.
 – 58 –
 
 === PAGE 68 ===
@@ -3428,17 +3428,17 @@ There can be no assurance that we will generate sufficient cash flows from our o
 for our intended future plans. Therefore, we may need to seek equity or debt financing to finance a
 portion of our capital expenditures. Our ability to obtain additional capital is subject to a variety
 of uncertainties, including:
-(cid:129) our market position and competitiveness in the online literature industry, digital
+ our market position and competitiveness in the online literature industry, digital
 marketing industry and online games industry in China;
-(cid:129) our future profitability, overall financial condition, results of operations and cash flow;
-(cid:129) general market conditions for capital raising activities by companies with intelligent
+ our future profitability, overall financial condition, results of operations and cash flow;
+ general market conditions for capital raising activities by companies with intelligent
 recommendation engines and other internet companies in China;
-(cid:129) investor acceptance of our business model; and
+ investor acceptance of our business model; and
 – 76 –
 
 === PAGE 86 ===
 RISK FACTORS
-(cid:129) economic, political and other conditions in China and globally.
+ economic, political and other conditions in China and globally.
 As a result, there can be no assurance that we will be able to obtain adequate financing in a
 timely manner or on acceptable terms, or at all. If we cannot obtain sufficient additional capital,
 our ability to continue to pursue our business objectives, and our business, results of operations,
@@ -3687,25 +3687,25 @@ regulations or lack the necessary permits or licenses to operate our business, t
 regulatory authorities, including but not limited to the MOFCOM, the MIIT and the National Press
 and Publication Administration of the PRC（國家新聞出版署）(the “NPPA”), would have broad
 discretion in dealing with such violations or failures, including, but not limited to:
-(cid:129) requiring the nullification of the Contractual Arrangements;
-(cid:129) revoking our business and operating licenses of relevant entities;
-(cid:129) discontinuing or restricting any related-party transactions between our Company and our
+ requiring the nullification of the Contractual Arrangements;
+ revoking our business and operating licenses of relevant entities;
+ discontinuing or restricting any related-party transactions between our Company and our
 affiliated entities;
-(cid:129) imposing fines, confiscating any of the income from the Consolidated Affiliated Entities
+ imposing fines, confiscating any of the income from the Consolidated Affiliated Entities
 that they deem to have been obtained through illegal operations;
-(cid:129) imposing conditions or requirements with which we or our Consolidated Affiliated
+ imposing conditions or requirements with which we or our Consolidated Affiliated
 Entities may not be able to comply;
-(cid:129) requiring us or our Consolidated Affiliated Entities to restructure the relevant ownership
+ requiring us or our Consolidated Affiliated Entities to restructure the relevant ownership
 structure or operations; or to re-apply for the necessary licenses, or to relocate our
 businesses, staff and assets;
 – 82 –
 
 === PAGE 92 ===
 RISK FACTORS
-(cid:129) restricting or prohibiting our use of the proceeds from the initial public offering or our
+ restricting or prohibiting our use of the proceeds from the initial public offering or our
 other financing activities to finance the business and operations of our Consolidated
 Affiliated Entities; or
-(cid:129) taking other regulatory or enforcement actions that could be harmful to our business.
+ taking other regulatory or enforcement actions that could be harmful to our business.
 Any of these actions could cause significant disruption to our business operations, and may
 materially and adversely affect our business, financial condition and results of operations. In
 addition, it is unclear what impact the PRC government actions would have on us and on our
@@ -4405,19 +4405,19 @@ that the Global Offering will result in the development of an active, liquid pub
 for our Shares.
 The liquidity, trading volume and market price for our Shares could be highly volatile and
 subject to wide fluctuations in response to factors including the following:
-(cid:2) our financial results;
-(cid:2) changes in securities analysts’ estimates, if any, of our financial performance; the
+ our financial results;
+ changes in securities analysts’ estimates, if any, of our financial performance; the
 history of, and the prospects for, us and the industry in which we compete;
-(cid:2) assessments of our management, our past and present operations, and the prospects for,
+ assessments of our management, our past and present operations, and the prospects for,
 and timing of, our future revenue and cost structures such as the views of independent
 research analysts, if any;
-(cid:2) the present state of our development;
-(cid:2) the valuation of publicly traded companies that are engaged in business activities similar
+ the present state of our development;
+ the valuation of publicly traded companies that are engaged in business activities similar
 to ours;
-(cid:2) general market sentiment regarding the entertainment industry and companies;
-(cid:2) changes in laws and regulations in China;
-(cid:2) our ability to compete effectively in the market; and
-(cid:2) political, economic, financial and social developments in China and worldwide.
+ general market sentiment regarding the entertainment industry and companies;
+ changes in laws and regulations in China;
+ our ability to compete effectively in the market; and
+ political, economic, financial and social developments in China and worldwide.
 – 98 –
 
 === PAGE 108 ===
@@ -5491,7 +5491,7 @@ were calculated by Analysys based on national statistics, corporate financial st
 Market Drivers of China’s Intelligent Content Recommendation Industry
 The tremendous upside of China’s intelligent content recommendation industry is supported
 by the following key drivers:
-(cid:2) National favorable policies: In recent years, China introduced a series of policies
+ National favorable policies: In recent years, China introduced a series of policies
 favoring the intelligent recommendation-related technologies and digital content to
 accelerate the development of intelligent content recommendation industry. In terms of
 intelligent recommendation technology, the Outline of the 14th Five-Year Plan for
@@ -5505,13 +5505,13 @@ recommendation technology in digital content areas, the National Strategic Emerg
 Industries Development Plan of 14th Five-Year Plan（《十四五國家戰略性新興產業發展規
 劃》）proposed to cultivate and develop the new generation of information technology
 industry and digital creativity industry.
-(cid:2) Upgrade of technology infrastructure: The continuous improvement of technological
+ Upgrade of technology infrastructure: The continuous improvement of technological
 infrastructure provided a solid foundation for further development of intelligent
 recommendation technology. At the same time, the upgrade of technological
 infrastructure also provided users with more convenient conditions of network access
 and expanded user coverage and usage scenarios of intelligent recommendation
 technology.
-(cid:2) Increased demand from 2B customers and 2C users: The increased demand for
+ Increased demand from 2B customers and 2C users: The increased demand for
 intelligent recommendation technology from enterprises (2B customers) and individual
 users (2C users) was driving and is expected to underpin the continuing growth of
 China’s intelligent content recommendation industry. In terms of 2B customers, the
@@ -5534,7 +5534,7 @@ internet became an important channel for users to obtain information.
 Entry Barriers to China’s Intelligent Content Recommendation Industry
 The main entry barriers of China’s intelligent content recommendation industry include the
 following:
-(cid:2) Barrier of technology: As the AI technology continues to evolve, deep learning has been
+ Barrier of technology: As the AI technology continues to evolve, deep learning has been
 widely used in intelligent recommendation systems whose open-source framework
 characteristics determine the rapid iteration of technology. Enterprises in this industry
 need to focus on the R&D of cutting-edge technology to maintain competitive
@@ -5545,13 +5545,13 @@ requirements. Enterprises need to continuously adjust their models, algorithms a
 technologies to adapt to the changes in their business objectives. It is difficult for new
 participants to obtain the integration of advanced technologies and product applications
 in the short term.
-(cid:2) Barrier of application experience: A mature intelligent recommendation system requires
+ Barrier of application experience: A mature intelligent recommendation system requires
 long-term optimization and iteration in order to adapt to the actual application results
 and business objectives. A long learning curve is necessary for enterprises to optimize
 and iterate the recommendation system according to the actual application results and
 business objectives, so as to adopt the most suitable recommendation method for their
 own business scenarios to improve their operational efficiency.
-(cid:2) Barrier of user resources: The massive amount of personal user data and user behavior
+ Barrier of user resources: The massive amount of personal user data and user behavior
 data constitute the basis of continuous optimization of the recommendation system for
 an industry participant, which enables it to improve the accuracy of intelligent
 recommendations and in turn increases the size of its user base, the level of user
@@ -5563,7 +5563,7 @@ short time.
 
 === PAGE 137 ===
 INDUSTRY OVERVIEW
-(cid:2) Barrier of ecosystem: Intelligent recommendation technology, application experience and
+ Barrier of ecosystem: Intelligent recommendation technology, application experience and
 users constitute the ecological barriers of intelligent content recommendation industry.
 Intelligent recommendation technology provides personalized recommendations based on
 user characteristics, and the continuously accumulated experience in the relevant Apps
@@ -5632,10 +5632,10 @@ Audioandbroadcast Theme park Otherderivatives
 Service and support
 R au e t g h u o l r a i t t o ie ry s Adm Cy in C b i e h s r t i s r n a p a t a i c o e n of Na A ti d o m na in l i C st o r p at y i r o i n ght Na A ti d o T m n e a l i e n l v i R s i t s a r i d a o i t n o io a n nd Suppo p r l t a a tf n o d rm service N su e p tw po o r r t k A di p s p tr l i i b c u a t t i i o o n n P c a h y a m nn e e n l t
 Source: Analysys
-(cid:2) Creators provide original content to the content platforms.
-(cid:2) Content platforms primarily consist of comprehensive online literature platforms and
+ Creators provide original content to the content platforms.
+ Content platforms primarily consist of comprehensive online literature platforms and
 third-party online literature platforms.
-(cid:2) The primary business model of content platforms is copyright operation, through which
+ The primary business model of content platforms is copyright operation, through which
 they recruit contracted writers to obtain the copyrights of their works or purchase
 copyrights from other content creators and then generate revenue from selling the
 relevant copyrights to content distribution channels or obtain the income from the users
@@ -5668,12 +5668,12 @@ trend in the industry, and the neutrality and diversification of third-party onl
 literature platforms will become an important differentiation advantage. The growth rate
 of third-party online literature platforms is expected to be higher than that of
 comprehensive online literature platforms in the future.
-(cid:2) Content distribution channels reach out to the users by distributing content through
+ Content distribution channels reach out to the users by distributing content through
 various system tools, operators’ platforms and media platforms to expand the influence
 of the reading products.
-(cid:2) IP adaptation producers adapt literary content into a series of digital content derivatives,
+ IP adaptation producers adapt literary content into a series of digital content derivatives,
 such as TV series, games, anime and comics, among others.
-(cid:2) Users receive literary content through reading with advertising or reading with paid
+ Users receive literary content through reading with advertising or reading with paid
 services.
 – 130 –
 
@@ -5765,7 +5765,7 @@ Source: Analysys. The data were calculated by Analysys based on national statist
 and industry statistics.
 Market Drivers of China’s Online Literature Industry
 The upside of China’s online literature industry is supported by the following key drivers:
-(cid:2) Enhanced copyright protection: In recent years, China has continued its efforts to
+ Enhanced copyright protection: In recent years, China has continued its efforts to
 improve its copyright-related policies and copyright regulations. The newly revised
 Copyright Law of China（《中華人民共和國著作權法》）was implemented in June 2021,
 – 132 –
@@ -5778,7 +5778,7 @@ protection and strengthened copyright protection for content creators. At the sa
 many enterprises have strengthened their copyright protection. The improvement of
 copyright supervision will motivate content creators to continue their creation and
 provide more content to the industry, which will in turn attract more users.
-(cid:2) Ongoing free-to-read industry trend and expansion of reading with advertising: Since
+ Ongoing free-to-read industry trend and expansion of reading with advertising: Since
 2018, reading with advertising have started to emerge, which provided the users with
 reading with advertising and charged advertising customers for the provision of
 advertising services. Reading with advertising have brought additional users to the
@@ -5787,7 +5787,7 @@ copyright awareness. Reading with advertising has also become the mainstream mod
 and the ongoing industry trend in China’s online literature market, which is evidenced
 by a more rapid growth of user base and broader acceptance of reading with advertising
 by users compared to reading with paid services.
-(cid:2) Increased demand in online entertainment: During the COVID-19 pandemic, with the
+ Increased demand in online entertainment: During the COVID-19 pandemic, with the
 offline activities subject to a number of social restrictions, users’ online entertainment
 habits, such as online literature, games and videos, have gradually developed. In the
 post-COVID era, users have continued to maintain their online entertainment habits.
@@ -5823,7 +5823,7 @@ users and further increased the length of time they spent on online entertainmen
 content.
 Entry Barriers to China’s Online Literature Industry
 The main entry barriers of China’s online literature industry include the following:
-(cid:2) Barrier of technology: Online literature platform involve massive technologies in the
+ Barrier of technology: Online literature platform involve massive technologies in the
 content development, production, recommendation and other aspects. The leadership in
 technologies determines the service quality of each platform and its operational
 efficiency. In terms of content recommendation, based on the user behavior data
@@ -5832,7 +5832,7 @@ intelligent recommendation technologies to recommend content to users and meet t
 personalized reading needs. In terms of system functions, enterprises must strengthen
 technical R&D capabilities to improve system stability, while enriching the diversity of
 fonts, background colors and other functions and features.
-(cid:2) Barrier of content: China’s online literature industry is gradually becoming mature and
+ Barrier of content: China’s online literature industry is gradually becoming mature and
 its competition pattern has been relatively stable. Facing intense competition for
 high-quality content resources, enterprises are required to improve user stickiness, user
 willingness to pay and reduce customer acquisition costs by offering high-quality and
@@ -5843,7 +5843,7 @@ regulatory environment for copyright protection, the crackdown on pirated conten
 continues to increase, which will further enhance public awareness and commercial
 value of literary creation. It is difficult for new industry participants to acquire massive
 or high-quality content in a short period of time.
-(cid:2) Barrier of user resources: User resources are critical to online literature enterprises,
+ Barrier of user resources: User resources are critical to online literature enterprises,
 including user acquisition, conversion, retention and activation, which require these
 enterprises to invest in content and technical resources in the long term and to
 continuously improve their products and services. Due to the differences in content and
@@ -6180,7 +6180,7 @@ Source: Analysys. The data is calculated by Analysys based on national statistic
 industry statistics.
 Market Drivers of China’s Digital Marketing Industry
 The upside of China’s digital marketing industry is supported by the following key drivers:
-(cid:2) Users’ well-developed online consumption habits and 2B customers’ growing digital
+ Users’ well-developed online consumption habits and 2B customers’ growing digital
 marketing demand: Since the COVID-19 pandemic, users have gradually formed online
 consumption habits. Due to travel restrictions and the closure of offline retail stores
 during the pandemic, users have turned to online shopping to meet their needs. The
@@ -6204,7 +6204,7 @@ digital transformation to better adapt to and grasp the development opportunitie
 online market. Correspondingly, they have increased the investment budget of digital
 marketing, further promoting the expansion and growth of the entire digital marketing
 market.
-(cid:2) Increased efficiency of digital marketing services facilitated by improving new
+ Increased efficiency of digital marketing services facilitated by improving new
 technologies: Emerging technologies such as AI, intelligent recommendation and
 blockchain continue to improve the efficiency of digital marketing services and promote
 the development of the industry. The application of AI, intelligent recommendation and
@@ -6265,7 +6265,7 @@ recommendation technologies, which will further amplify the value of advertiseme
 more direct and personalized advertisements for users.
 We expect that the development of digital marketing industry in China will present the
 following trends:
-(cid:2) Further deepening of technology application. In terms of advertisement placement,
+ Further deepening of technology application. In terms of advertisement placement,
 technologies such as AI and big data are becoming more sophisticated. The improving
 ability to process data mining of user behavior by the digital marketing enterprises
 enhances the accuracy of advertisement placement, increases the click-through rate, and
@@ -6276,7 +6276,7 @@ acceptance of digital marketing. In the future, the application of technology in
 marketing will continue to deepen, which contributes to bringing more efficient and
 higher quality advertising content to the market and promoting the sustainable and
 steady development of the industry.
-(cid:2) Continuing development towards standardization. The digital marketing industry will be
+ Continuing development towards standardization. The digital marketing industry will be
 more standardized following a series of laws and regulations, such as China Mobile
 Internet Advertising Standards （《中國移動互聯網廣告標準》）and Personal Information
 – 143 –
@@ -6287,7 +6287,7 @@ Protection Law of the PRC（《中華人民共和國個人信息保護法》）,
 standards on terminologies and technologies used in connection with digital marketing,
 regulate the display forms of digital marketing and thereby promote the standardized
 and rapid development of the digital marketing industry.
-(cid:2) Quality content as the core competitiveness of digital marketing. Media formats are
+ Quality content as the core competitiveness of digital marketing. Media formats are
 becoming increasingly diversified, such as literary content, live streaming and short
 video, which attract users’ attention to different content and require higher quality of the
 information displayed in each media format. Digital marketing is gradually shifting to
@@ -6316,9 +6316,9 @@ RMB100,000, which tend to be lower than male-oriented game products. In comparis
 of developing SLGs are generally more than RMB10.0 million. Further, the capability of female
 game users to pay for online games has been stronger than anticipated, according to Analysys.
 The industry chain of online games market mainly contains following parties:
-(cid:2) IP holders: Provide online game developers with IP licenses, and thus, support the game
+ IP holders: Provide online game developers with IP licenses, and thus, support the game
 development in terms of image, character, picture, plot and other elements.
-(cid:2) Developers: Produce online game content based on the IP licenses acquired or on the
+ Developers: Produce online game content based on the IP licenses acquired or on the
 original content with their proprietary intelligence and creativity. They are primarily
 responsible for game content creation, product development, game updates and technical
 – 144 –
@@ -6328,16 +6328,16 @@ INDUSTRY OVERVIEW
 support. Some developers publish and operate their games independently, while others
 license their game products to publishers, who are in charge of publishing and operating
 the games.
-(cid:2) Publishers: Promote and operate online games by distributing their products to their
+ Publishers: Promote and operate online games by distributing their products to their
 proprietary channels or external channels they collaborate with. Publishers are primarily
 responsible for analyzing game user behavior characteristics (including game type
 preference and willingness to pay, among other things), and continuously optimizing
 game products based on user feedback to achieve refined operation.
-(cid:2) Channels: Provide online game users with game download channels and provide game
+ Channels: Provide online game users with game download channels and provide game
 publishers with promotion, operation, payment and other services. These channels
 primarily include official stores, third-party public platforms, mobile hardware
 manufacturers’ Apps stores and social network platforms.
-(cid:2) Users: Users are online game players, who obtain game information from various
+ Users: Users are online game players, who obtain game information from various
 channels, and download and play games that meet their preferences and needs. Users are
 regarded as the core value of the game industry who contribute in-game purchase
 revenue and advertising income to the developers, publishers and channels. Users can
@@ -6562,14 +6562,14 @@ US$16.4 billion in 2023, with a CAGR of 11.3% from 2018 to 2023. The trend of ov
 development would continue in light of the maturing online games industry and increased
 regulatory supervision in China.
 The following trends have a continual impact on the online games industry:
-(cid:2) Deeper application of online games in the metaverse. With the advancement of VR, AR
+ Deeper application of online games in the metaverse. With the advancement of VR, AR
 and other metaverse-related technologies, users will be able to enjoy better gaming
 experience in the metaverse world. Online games will also be applied to more metaverse
 scenarios, such as film, television, social and education.
-(cid:2) Closer connection of culture and entertainment. Tighter connection between online
+ Closer connection of culture and entertainment. Tighter connection between online
 games and film, TV series and other cultural products helps to enhance the influence of
 the game brands and expand user base.
-(cid:2) Growing trend of overseas development. The performance of China’s online games in
+ Growing trend of overseas development. The performance of China’s online games in
 overseas markets received wide market recognition in the past five years, which
 provided confidence for online game enterprises to continue exploring new markets
 overseas and expand their global presence. In addition, China’s tightening regulations of
@@ -8781,16 +8781,16 @@ corporate governance and enhance our comprehensive competitive strengths. Despit
 previous listing applications, the Directors consider that based on the Group’s current business
 development plan, the Stock Exchange will be a more appropriate platform and the Listing will be
 more beneficial to our Group taking into account the following factors:
-(cid:2) the Listing represents an important step for our Group to solidify and establish our
+ the Listing represents an important step for our Group to solidify and establish our
 brand, promote our corporate image, strengthen our competitiveness and deepen our
 market penetration through the proposed use of proceeds for expansion of our use base,
 collaboration with other industry players and exploring further opportunities in the
 industry;
-(cid:2) the Listing provides an avenue for us to raise further capital in the long run and lay a
+ the Listing provides an avenue for us to raise further capital in the long run and lay a
 foundation for our Group’s long term development and growth as part of our business
 strategies, in particular through increasing investment for the enhancement of our
 technological capabilities and the quality of our product offerings; and
-(cid:2) the Listing can offer more flexibility in terms of business expansion and development,
+ the Listing can offer more flexibility in terms of business expansion and development,
 whereby our Group may explore development potentials, such as the online games
 publishing business, in the overseas market.
 For further details of our competitive strengths and proposed use of proceeds from the
@@ -10564,7 +10564,7 @@ reading platform services and digital marketing services in each year of the Tra
 Specifically, we apply proprietary intelligent recommendation engine, our Easou Recommendation
 Engine, to collect, analyze, match and predict the demand and/or preferences of our users and
 customers to serve their various needs under the following business lines:
-(cid:2) Online reading platform services. We predict users’ preferences, generate
+ Online reading platform services. We predict users’ preferences, generate
 recommendation strategies and make adjustments thereto, and intelligently recommend
 to our users suitable literary content that meets their personalized needs. As a third-party
 platform, we do not produce proprietary digital content and primarily rely on third-party
@@ -10578,16 +10578,16 @@ that place advertisements to the users who use our free reading resources;
 paid services, including the purchase our paid reading resources and the
 subscription of our premium membership, from which we do not generate any
 advertising service income;
-(cid:2) Digital marketing services. We collect, analyze and predict users’ appetite for
+ Digital marketing services. We collect, analyze and predict users’ appetite for
 advertising contents and match the needs of our advertising customers for advertisement
 placements with suitable third-party advertising channels. Under this business line, our
 customers are generally advertising customers;
-(cid:2) Online games publishing services. We identify online games with high commercial value
+ Online games publishing services. We identify online games with high commercial value
 and strong market performance, and publish and recommend such games to suitable
 users on our proprietary platform and external channels based on our analysis of user
 behaviors and their preferences in game category or content. Our customers under this
 business line are users of the online games we publish; and
-(cid:2) Other digital content services. We recommend value-added services of
+ Other digital content services. We recommend value-added services of
 telecommunications operators, including various types of digital content, such as music
 and ringback tones, to help them reach target users on our proprietary platform or
 external channels based on our analysis of the behavior, content preferences and
@@ -10612,19 +10612,19 @@ further increased to 26.0 million in 2023.
 We have achieved diversified commercialization, which primarily include subscription, pay
 per use, advertising income and revenue sharing, among others. The details of our diversified
 monetization model for our various business lines are as follows:
-(cid:2) Online reading. We generate revenue primarily through (i) advertisements displayed or
+ Online reading. We generate revenue primarily through (i) advertisements displayed or
 embedded in the literary resources from our advertising customers in connection with
 reading with advertising in which we charge them on CPC basis and CPM basis; and
 (ii) paid readership, including the purchase of our paid reading resources and the
 subscription of our premium membership, from our users under reading with paid
 services;
-(cid:2) Digital marketing. We generally cooperate with advertising customers based on relevant
+ Digital marketing. We generally cooperate with advertising customers based on relevant
 framework agreements to generate advertising income and charge them primarily on
 CPC basis, CPM basis and CPA basis;
-(cid:2) Online games publishing. We generally charge users for their in-game purchases and
+ Online games publishing. We generally charge users for their in-game purchases and
 share a portion of the income with third-party game content providers (i.e., revenue
 sharing); and
-(cid:2) Other digital content. After receiving income settlement from the users, the
+ Other digital content. After receiving income settlement from the users, the
 telecommunications operators we cooperate with will subsequently share such income
 with us (i.e., revenue sharing) based on agreed-upon proportions.
 We have built an online platform around our Easou Recommendation Engine, our user base
@@ -10681,19 +10681,19 @@ we adopted, please refer to the section headed “– Technology” of this pros
 BUSINESS
 Leveraging our all-round optimized multi-algorithm models, our Easou Recommendation
 Engine demonstrates significant technology advantages in terms of the following aspects:
-(cid:2) Real-time data collection. We collect users’ product usage details on our platform in
+ Real-time data collection. We collect users’ product usage details on our platform in
 real time through user logs. Our distributed data storage technology, which is based on
 open-source clustering and has been enhanced in terms of system stability, disaster
 recovery and ease of use features, greatly improves system efficiency, data security and
 operational convenience.
-(cid:2) Deep data mining. We mainly use natural language processing technology and machine
+ Deep data mining. We mainly use natural language processing technology and machine
 learning technology to conduct deep data mining and processing the content from our
 content providers and users’ behavior log data.
-(cid:2) All-round optimized multi-algorithm model. We apply multi-algorithm model based on
+ All-round optimized multi-algorithm model. We apply multi-algorithm model based on
 different application scenarios to exploit the benefits of different algorithms, avoid
 over-recommendation by a single algorithm and provide users with more personalized
 recommendation services.
-(cid:2) Accurate user profile and real-time recommendation. Our personalized user information
+ Accurate user profile and real-time recommendation. Our personalized user information
 system performs intelligent data mining analysis on the information collected to develop
 user behavior characteristics, as well as analyzes and explores their potential needs and
 interests. Our recommendations based on Easou Recommendation Engine enhance user
@@ -10724,7 +10724,7 @@ scenarios.
 Our Easou Recommendation Engine covers a wide range of application scenarios. Currently,
 we have successfully applied our Easou Recommendation Engine to the following application
 scenarios:
-(cid:2) Online reading. We launched our flagship product, Easou Reading App （宜搜小說
+ Online reading. We launched our flagship product, Easou Reading App （宜搜小說
 App), in 2013, and began to fully utilize our Easou Recommendation Engine in our
 online reading platform services. According to Analysys, in terms of revenue and
 average MAU, Easou Reading App was the largest third-party online literature platform
@@ -10737,21 +10737,21 @@ advertisement platform, Win Ads, to provide data support, assist us to generate
 placement strategies and display suitable advertisements to users who read our free
 reading resources, which utilizes our proprietary platform traffic of Easou Reading App
 Series and Easou H5 Pages.
-(cid:2) Digital marketing. Leveraging our Easou Recommendation Engine, our digital marketing
+ Digital marketing. Leveraging our Easou Recommendation Engine, our digital marketing
 services connect small-to-medium advertising customers with advertising media to
 facilitate cooperation. Our Win Ads mainly provides data support and assists us to
 generate placement strategies and display the advertisements, thereby enabling us to
 attain suitable multi-matching between our advertising customers and third-party media
 platforms and realize accurate advertisement placements to achieve effective
 monetization.
-(cid:2) Online games publishing. We rely on our Easou Recommendation Engine in online
+ Online games publishing. We rely on our Easou Recommendation Engine in online
 game trials to identify online games with commercial value and market performance that
 meet our selection criteria, and recommend such games to suitable users after they are
 launched. Our online games publishing services facilitate the efforts of the game content
 providers to sell the relevant gaming content to our users, obtain user feedback on a
 timely basis, optimize the gaming experience and refine the operations through the
 analysis of users’ behavior data.
-(cid:2) Other digital content. Leveraging the capability of our Easou Recommendation Engine
+ Other digital content. Leveraging the capability of our Easou Recommendation Engine
 in analyzing users’ behavior characteristics, we recommend value-added services of
 telecommunications operators, including various types of digital content such as music
 and ringback tones, to help them reach target users.
@@ -10817,7 +10817,7 @@ business platform connecting participants in the digital content industry to ach
 beneficial results. The participants primarily include online literature and online game content
 providers, online literature and online game users, advertising customers, marketing channels and
 telecommunications operators.
-(cid:2) Long-term and stable cooperative relationships with online literature content providers.
+ Long-term and stable cooperative relationships with online literature content providers.
 In the traditional online literature industry, due to limited internet traffic and
 homogenization of customer base, content that is not highly promoted through traffic
 has limited exposure to users and thus needs more diversified distribution channels to
@@ -10837,7 +10837,7 @@ value of the ratio means the better the effect of the recommendation. Based on t
 foregoing, we have established long-term and stable cooperative relationships with
 digital content providers to obtain comprehensive and high quality digital literary
 content reserves.
-(cid:2) Full coverage of marketing channels including proprietary platform traffic and
+ Full coverage of marketing channels including proprietary platform traffic and
 third-party popular marketing channels to offer accurate advertising placement services.
 We provide advertising customers with full-process advertising placement services
 through our proprietary advertisement platform, Win Ads, which optimizes advertisement
@@ -10846,7 +10846,7 @@ marketing services for advertising customers by offering diversified advertising
 and resources we integrated from third-party marketing channels. We cumulatively
 cooperated with over 180 third-party marketing channels directly during the Track
 Record Period.
-(cid:2) Abundant network resources in China’s online games industry and extensive experience
+ Abundant network resources in China’s online games industry and extensive experience
 in publishing female-oriented games. We maintain close contact with certain leading
 enterprises in this industry, which enables us to obtain first-hand information relating to
 online game products. Through the successful publishing of our first female-oriented
@@ -10860,7 +10860,7 @@ providers that have limited access to publishing channels to reach more suitable
 and game content providers with limited operating experience to improve the user
 experience of their games. As of December 31, 2023, we had cumulatively cooperated
 with approximately 30 game developers in China.
-(cid:2) Long-term cooperation with domestic well-known telecommunications operators to
+ Long-term cooperation with domestic well-known telecommunications operators to
 realize their development in value-added services. We maintain long-term cooperative
 relationships with major telecommunications operators in China by applying our
 AI-based recommendation technology to recommend their various digital content, to
@@ -10929,7 +10929,7 @@ technologies that are available in the industry, which can further enhance the r
 service capability of our Easou Recommendation Engine. We expect that the ratio of R&D
 expenses to revenue will remain at approximately 7.0% to 10.0% in the next three years. We plan
 to utilize our R&D investment in the following aspects:
-(cid:2) focus on a series of key R&D projects, including a project of integrated intelligent
+ focus on a series of key R&D projects, including a project of integrated intelligent
 recommendation engine system, a project of high-concurrent performance tuning based
 on graphics processing unit and a project of algorithms related to deep interest network,
 with the goal to continuously improve the overall performance of Easou
@@ -10939,13 +10939,13 @@ introduce new technologies to maintain and improve our competitiveness;
 
 === PAGE 242 ===
 BUSINESS
-(cid:2) enhance the versatility of our technology in Easou Recommendation Engine to facilitate
+ enhance the versatility of our technology in Easou Recommendation Engine to facilitate
 the application of our technology to new digital content scenarios, such as short videos
 based on new technical architecture;
-(cid:2) increase our investments in equipment to improve our hardware support capabilities,
+ increase our investments in equipment to improve our hardware support capabilities,
 such as the hardware for distributed data storage, and data processing and analysis, to
 enhance our computing capabilities; and
-(cid:2) expand our R&D staff from 64 as of December 31, 2023 to over 70 as of December 31,
+ expand our R&D staff from 64 as of December 31, 2023 to over 70 as of December 31,
 2024 to keep up with the technological advances.
 We plan to invest HK$25.2 million, or 45.0% of the net proceeds of the Global Offering, to
 enhance our R&D capabilities in order to maintain our long-term technological advantage. For
@@ -10957,18 +10957,18 @@ in the next three years. Historically, our online reading platform services acco
 significant portion of our revenue during the Track Record Period. To further tap the potential of
 online literature industry, attract more users and increase our market share, improve the users’
 engagement and retention, we plan to take the following measures:
-(cid:2) Enhance the richness of literary content. We plan to continue to procure the copyright
+ Enhance the richness of literary content. We plan to continue to procure the copyright
 of literary works through entering into agreements with publishers and literature
 websites. We also plan to increase the number of e-books on our platform to over
 300,000 in the next three years and expand our foreign language e-books, such as those
 in English. In addition, we intend to introduce new display forms of literary content
 based on the adaptation of online literature works, such as short videos and mini drama
 in the future.
-(cid:2) Optimize advertisement display in online reading scenario. We plan to improve the
+ Optimize advertisement display in online reading scenario. We plan to improve the
 content and diversity of advertisement. We intend to expand cooperation with
 advertising customers in various industries and businesses to offer diversified
 advertisement content. We also plan to develop more user-friendly user interfaces.
-(cid:2) Expand the traffic channels. We expect that online channels are and will remain our
+ Expand the traffic channels. We expect that online channels are and will remain our
 main venue to attract new users, and promoting our products and services through the
 traffic purchased from media or other third-party platforms will contribute a significant
 portion of the growth of our user base. Our future traffic procurement channels will
@@ -10980,7 +10980,7 @@ traffic and the revenue generated from these users.
 
 === PAGE 243 ===
 BUSINESS
-(cid:2) Expand the user base in low-tier regions. According to Analysys, in 2023, the
+ Expand the user base in low-tier regions. According to Analysys, in 2023, the
 proportion of online literature users in low-tier cities (including third-tier and below
 cities) was 54.6%, which was higher than the proportion of online literature users in
 high-tier cities (including first-tier, new first-tier and second-tier cities). In 2023, there
@@ -10992,7 +10992,7 @@ consumption potential of residents in the low-tier regions. In light of the subs
 market potential in low-tier regions, we plan to adopt a more proactive marketing
 strategy for the expansion in the user base in such regions by leveraging our AI-based
 recommendation technology and collaborating with active media.
-(cid:2) Track the development of and opportunities in China’s overseas online literature market.
+ Track the development of and opportunities in China’s overseas online literature market.
 China’s overseas online literature industry is in the preliminary stage of development
 and has great growth potential. According to Analysys, the market size of China’s
 overseas online literature market increased from RMB0.3 billion to RMB6.1 billion from
@@ -11027,17 +11027,17 @@ expand our digital marketing services through our proprietary advertising platfo
 digital marketing services are and will continue to serve as an important complement to our
 reading with advertising under our online reading platform services, in which we generate
 advertising income. We will expand our digital marketing services in the following aspects:
-(cid:2) Continue to optimize the depth of applications of our Easou Recommendation Engine in
+ Continue to optimize the depth of applications of our Easou Recommendation Engine in
 digital advertising. We intend to further improve the intelligence level of the three
 modules of a DSP, an SSP and an algorithm strategy system, in order to achieve more
 accurate multi-matching between our advertising customers and media, and to enhance
 the core competitiveness of our platform;
-(cid:2) Enhance the scope of cooperation with advertising customers and expand digital
+ Enhance the scope of cooperation with advertising customers and expand digital
 marketing team. We intend to deepen cooperation with advertising customers in various
 industries and businesses and expand our digital marketing team. As of December 31,
 2023, our digital marketing services team consisted of ten personnel. We plan to expand
 the team to 30 personnel in the next three years; and
-(cid:2) Further strengthen the depth of cooperation with media resources and attract more
+ Further strengthen the depth of cooperation with media resources and attract more
 traffic. We will continue to maintain stable cooperation with media resources and strive
 to deepen the level of cooperation and actively attract more traffic to support the
 expansion of our business scope with our advertising customers.
@@ -11065,17 +11065,17 @@ BUSINESS
 is expected to grow from US$17.5 billion in 2024 to US$20.9 billion in 2027, representing a
 CAGR of 6.2%. We will expand our online games publishing businesses in overseas markets
 through the following measures:
-(cid:129) Continue to optimize the application of our Easou Recommendation Engine in online
+ Continue to optimize the application of our Easou Recommendation Engine in online
 gaming scenarios. With the continuous optimization of our AI-based recommendation
 technology, we will continuously improve our ability to predict online games with
 outstanding market performance, thereby strengthen the core competitiveness of our
 online games publishing services;
-(cid:129) Further collaborate with game content providers to explore the potential of the overseas
+ Further collaborate with game content providers to explore the potential of the overseas
 market and expand our overseas games business team. We aim to deepen collaboration
 with game content providers to expand our online games portfolio that we believe is
 suitable for overseas publishing. Meanwhile, we plan to establish a specialized team of
 professionals focusing on overseas markets; and
-(cid:129) Expand publishing channels of our overseas games. Through our overseas channel
+ Expand publishing channels of our overseas games. Through our overseas channel
 partners, we plan to promote our online game products on mainstream overseas
 marketing platforms to attract more users to download and install the online games we
 publish.
@@ -11797,21 +11797,21 @@ Content Advertising Games RingbackTones
 andOthers
 LiteratureCP Advertisers GameCP Operator/SP
 We have the following major elements in our online platform:
-(cid:2) Data and technology: The scale and engagement of our user base generate extensive
+ Data and technology: The scale and engagement of our user base generate extensive
 data that we use to develop recommendation services which can cater to the preferences
 of users and enhance their online experience. Our Easou Recommendation Engine
 continuously optimizes its functions based on user data and technical innovations, which
 enable us to develop and offer cross-scenario and multiple digital content
 recommendation services and marketing services for our users/customers.
-(cid:2) Participants: Content providers, media channels, users, customers and operators are our
+ Participants: Content providers, media channels, users, customers and operators are our
 key participants in our online platform. We cooperate with a large number of content
 providers, and our expanding user base is also critical to our business operations and
 growth. Our users are highly engaged.
-(cid:2) Content: We have a wealth of comprehensive digital content covering online literature,
+ Content: We have a wealth of comprehensive digital content covering online literature,
 games, music, and advertisements. As of December 31, 2023, our Easou Reading App
 Series had an expansive literary library containing approximately 190,000 titles of
 e-books and we published four online games.
-(cid:2) Monetization: We have innovative and multi-faceted monetization models, which are
+ Monetization: We have innovative and multi-faceted monetization models, which are
 seamlessly integrated with our services. These monetization models primarily include
 subscriptions, pay per use, revenue sharing and advertising income. Our strong
 monetization capability supports our long-term investments in Easou Recommendation
@@ -11995,29 +11995,29 @@ BUSINESS
 user-interface layer, which is the carrier of the data generated by the user behavior while he/she
 accesses and uses the content. These six layers are interdependent from each other and together
 form our Easou Recommendation Engine. The details of each layer is set forth below:
-(cid:2) Layer 1: Data Collection. We collect user behavior data primarily in real time from our
+ Layer 1: Data Collection. We collect user behavior data primarily in real time from our
 products through user logs and extract the relevant content from our content providers.
 We also extract characteristic data from content, such as literature content and game
 content. We subsequently generate the data to be used in our data mining at Layer 2.
-(cid:2) Layer 2: Data Mining. Our data system intelligently conducts data mining in order to
+ Layer 2: Data Mining. Our data system intelligently conducts data mining in order to
 collect (i) the characteristics of user behaviors based on system study on users’ scenario
 usage time slots, preferences and payment methods, among others; and (ii) the content
 extractions after a series of processing in illegal content check, content denoising,
 natural language and image and tag system. We apply the results of our data mining to
 our algorithm models at Layer 3.
-(cid:2) Layer 3: Algorithm Model. Based on open source codes in machine learning and deep
+ Layer 3: Algorithm Model. Based on open source codes in machine learning and deep
 learning, we developed our proprietary multi-algorithm models, such as the collaborative
 filtering algorithm, Item2Vec algorithm and GBDT, among others. We use these
 multi-algorithm models to our strategy service at Layer 4.
-(cid:2) Layer 4: Strategy Service. We primarily utilize Nginx service, A/B-Test system,
+ Layer 4: Strategy Service. We primarily utilize Nginx service, A/B-Test system,
 dual-product dispatch and integration of multi-algorithm combined with real-time, recent
 and historical recommendation models. We insert these algorithm models in our API
 models at Layer 5.
-(cid:2) Layer 5: API. We have developed various application modules and have adapted our
+ Layer 5: API. We have developed various application modules and have adapted our
 application modules for the purposes of providing other services, such as payment and
 search. We choose the application modules suitable to each of our business lines and
 adapt these application models to difference usage scenarios at Level 6.
-(cid:2) Layer 6: Application. We have successfully developed a series of mobile applications,
+ Layer 6: Application. We have successfully developed a series of mobile applications,
 H5 Pages, advertising SDK and other products to diversify content presentation.
 We consistently review and optimize our Easou Recommendation Engine regularly and
 continue to iterate our engine as our business develops. We also closely track the leading academic
@@ -13204,9 +13204,9 @@ results on the other hand.
 We set forth a flowchart below to present the application of Easou Recommendation Engine
 in our online reading platform services:
 Easou Recommendation Engine
-• Capture and store (cid:129) Full-text scan (cid:129) Content data mining (cid:129) Users’ behavior data
-(cid:129) Pressure detection (cid:129) Compute popularity analysis
-and content relevance (cid:129) Content
+• Capture and store Full-text scan Content data mining Users’ behavior data
+ Pressure detection Compute popularity analysis
+and content relevance Content
 recommendations
 T P h C r i o o rd v n - i t d p e e a n r r t s t y Books E-book Entry E-bo R o e k v C ie o w ntent Lau E n - c b h o o o k f s New S U u s b er s R s c ’ e r B i a p d r t o i i n o w g n s i a n n g d , A U d s v e e r r s t ’ i s P e a m ym en e t n V t i o ew r
 In terms of the business process of our online reading platform services, our Easou
@@ -13219,13 +13219,13 @@ technology based on high concurrent access.
 
 === PAGE 272 ===
 BUSINESS
-(cid:2) Step 1: E-book entry
+ Step 1: E-book entry
 E-book entry involves the storage and timely update of the chapter contents of a large
 number of e-books. We adopt distributed storage cluster and directed scraping technologies to
 automatically capture and store e-book data, and conduct automatic pressure test according to
 the differences of the website interfaces of third-party content providers to ensure timely
 content update. We have successfully realized the fully automated process of e-book entry.
-(cid:2) Step 2: E-book content review
+ Step 2: E-book content review
 We generally conduct an automated full-text scanning of all e-book content through the
 content review system to identify the content that may be pornographic, obscene or
 defamatory, or would incite violence, endanger the national security, or contravene national
@@ -13233,7 +13233,7 @@ interest, and automatically mark suspected harmful content. The flagged content 
 manual secondary review. At the same time, the content that passes our automated content
 review system enters into our e-book store for pre-launch. For details, please refer to the
 paragraph headed “– Content Monitoring” in this section.
-(cid:2) Step 3: Launch of new e-books
+ Step 3: Launch of new e-books
 We process and compute the popularity and content relevance of new e-books. In this
 step, we apply scraping technology to obtain the popularity of new e-books in terms of their
 rankings on other popular literature platforms, and conduct data mining of the e-book content
@@ -13244,7 +13244,7 @@ incorporate the calculation results into our prediction of users’ interests an
 e-books, and finally recommend the new e-books to suitable users. In addition to the same
 engine models mentioned above, we also utilize AI-based recommendation technology in this
 step.
-(cid:2) Step 4: Users’ browsing, subscription and reading
+ Step 4: Users’ browsing, subscription and reading
 We generally classify our users’ usage status into four main categories based on the
 depth of their exposure to our literary content, namely, no-action users, light users who
 generate a small number of clicks or subscriptions, deep users with clicking, subscribing,
@@ -13258,7 +13258,7 @@ in this step.
 
 === PAGE 273 ===
 BUSINESS
-(cid:2) Step 5: Users’ payment or advertisement view
+ Step 5: Users’ payment or advertisement view
 With respect to reading with paid services, when a user reads the paid content, our
 pop-up link generally directs the user to external third-party payment system, such as WeChat
 payment and Alipay, and we charge the user for the paid content. With respect to reading
@@ -13366,11 +13366,11 @@ access.
 We set forth a flowchart below to present the application of Easou Recommendation Engine
 in our other digital content services:
 Easou SuitableUserson
-Telecommunication (cid:129) Ringbacks Recommendation Engine ProprietaryPlatformand
-OperatorsandOther (cid:129) Musics Suitablecontent Third-partyPlatforms
-DigitalContent (cid:129) Others (cid:129) BehavioralAnalysis
-Providers (cid:129) Predicting Users’
-(cid:129) Recommendation a d ct a iv ta ity P 3 a r r d ty
+Telecommunication Ringbacks Recommendation Engine ProprietaryPlatformand
+OperatorsandOther Musics Suitablecontent Third-partyPlatforms
+DigitalContent Others BehavioralAnalysis
+Providers Predicting Users’
+ Recommendation a d ct a iv ta ity P 3 a r r d ty
 – 266 –
 
 === PAGE 276 ===
@@ -13820,20 +13820,20 @@ Cooperation Agreements with Advertising Customers
 We set forth below the salient terms of the cooperation agreements we entered into with our
 advertising customers under reading with advertising of online reading platform services during the
 Track Record Period:
-(cid:129) Cooperation scope: We place advertisements of our advertising customers on our
+ Cooperation scope: We place advertisements of our advertising customers on our
 proprietary platform, monitor the placement performance of such advertisements, and
 report the placement results to our advertising customers. Our advertising customers
 provide the advertisements to be placed on our proprietary platform.
-(cid:129) Pricing: Primarily charging on the CPC basis and CPM basis based on agreed-upon
+ Pricing: Primarily charging on the CPC basis and CPM basis based on agreed-upon
 charging model.
-(cid:129) Settlement: We generally settle with our advertising customers on a monthly basis and
+ Settlement: We generally settle with our advertising customers on a monthly basis and
 generally grant a credit term for a period of one to three months to our advertising
 customers.
 – 276 –
 
 === PAGE 286 ===
 BUSINESS
-(cid:129) Term and termination: The term of cooperation agreements generally ranges one year.
+ Term and termination: The term of cooperation agreements generally ranges one year.
 The agreement could be terminated in mutual consent, or some other scenarios as
 prescribed in the agreements.
 Since we are a third-party online literature platform, we do not produce literary content.
@@ -13933,18 +13933,18 @@ BUSINESS
 We set forth below the salient terms of the cooperation agreements we entered into with
 third-party media agents who helped us display the advertisement on third-party media platforms
 during the Track Record Period:
-(cid:129) Cooperation scope: We provide the advertisements of our advertising customers or their
+ Cooperation scope: We provide the advertisements of our advertising customers or their
 customers to third-party media platforms. The third-party media platforms place such
 advertisements according to our placement requirements, monitor the placement
 performance of such advertisements and report the placement results to us.
-(cid:129) Pricing: The third-party media agents charge us on CPA basis, CPC basis and CPM
+ Pricing: The third-party media agents charge us on CPA basis, CPC basis and CPM
 basis based on agreed-upon charging model. The prices and payment policies vary
 among third-party media agents.
-(cid:129) Settlement: (i) We prepay a certain amount to the third-party-media channels and they
+ Settlement: (i) We prepay a certain amount to the third-party-media channels and they
 take deductions according to the placement progress of advertisements; or (ii) the
 third-party media agents generally settle with us on a monthly basis and grant a credit
 term of one-month to us.
-(cid:129) Term and termination: The term of cooperation agreements generally ranges one year.
+ Term and termination: The term of cooperation agreements generally ranges one year.
 The agreement could be terminated in mutual consent or some other scenarios as
 prescribed in the agreements.
 Online Games Publishing Services
@@ -14024,16 +14024,16 @@ BUSINESS
 Cooperation Agreements with Telecommunications Operators
 We set forth below the salient terms of the cooperation agreements we entered into with
 telecommunications operators under other digital content services during the Track Record Period:
-(cid:129) Cooperation scope: We and the telecommunications operators jointly serve users by
+ Cooperation scope: We and the telecommunications operators jointly serve users by
 providing digital music, such as ringback tones and music downloads. The
 telecommunications operators provide digital music and relevant products and charging
 channels. We provide various service scenarios, including digital content display, service
 subscription, daily operation of user service, marketing and promotion among others.
-(cid:129) Pricing: The telecommunications operators have the right to determine the price of
+ Pricing: The telecommunications operators have the right to determine the price of
 digital content and charge users directly.
-(cid:129) Settlement: The telecommunications operators share a portion of user income with us
+ Settlement: The telecommunications operators share a portion of user income with us
 based on agreed-upon proportions and settle with us generally on a monthly basis.
-(cid:129) Term and termination: The term of cooperation agreements generally ranges one to two
+ Term and termination: The term of cooperation agreements generally ranges one to two
 years. The agreement could be terminated in mutual consent, or some other scenarios as
 prescribed in the agreements.
 CUSTOMER SERVICE
@@ -15407,17 +15407,17 @@ responsibility to confirm on the effectiveness of our ESG policies and systems (
 Our Directors and management monitor, assess and support our commitment to fulfilling
 environmental and social responsibilities and implement necessary improvement to mitigate
 ESG-related risks, which include but not limited to the following responsibilities:
-(cid:2) keeping abreast of the latest ESG-related laws and regulations, including the applicable
+ keeping abreast of the latest ESG-related laws and regulations, including the applicable
 sections of the Listing Rules, and updating the ESG Policy in accordance with the latest
 regulatory updates;
-(cid:2) identifying our Group’s key stakeholders based on our business operations and
+ identifying our Group’s key stakeholders based on our business operations and
 establishing the communication channels to engage them with respect to ESG matters;
-(cid:2) assessing ESG-related risks and opportunities on a regular basis according to applicable
+ assessing ESG-related risks and opportunities on a regular basis according to applicable
 laws, regulations and policies, especially risks in relation to climate changes, to ensure
 that our obligations with respect to ESG matters are met;
-(cid:2) monitoring the effectiveness and ensuring the implementation of the ESG Policy;
-(cid:2) preparing and reviewing the ESG report; and
-(cid:2) following and monitoring the latest requirements regarding ESG disclosure and
+ monitoring the effectiveness and ensuring the implementation of the ESG Policy;
+ preparing and reviewing the ESG report; and
+ following and monitoring the latest requirements regarding ESG disclosure and
 regulatory compliance.
 Moreover, our management reports to our Directors on a regular basis on the implementation
 and effectiveness of the ESG Policy, and provides assistance in the preparation of ESG report.
@@ -15454,17 +15454,17 @@ matters upon the Listing.
 Measures to Identify, Assess and Manage ESG Risks
 We will adopt various strategies and measures to identify, assess and manage ESG risks
 under the ESG Policy, including, but not limited to:
-(cid:2) reviewing and assessing ESG reports of similar companies in our industries to keep
+ reviewing and assessing ESG reports of similar companies in our industries to keep
 abreast of the latest ESG practice and ensure that the relevant ESG related risks are
 identified on a timely basis;
-(cid:2) making references, where applicable, to the local and international guidelines for the
+ making references, where applicable, to the local and international guidelines for the
 industry-specific ESG risks;
-(cid:2) discussing with the senior management from time to time to ensure that the material
+ discussing with the senior management from time to time to ensure that the material
 ESG-related issues are addressed and reported;
-(cid:2) establishing communication channels and discussing with key stakeholders on an
+ establishing communication channels and discussing with key stakeholders on an
 ongoing basis to understand ESG related concerns and monitor how our environmental,
 social and climate-related performances have impacted the key stakeholders; and
-(cid:2) engaging professional advisors to advise us on the compliance with ESG matters where
+ engaging professional advisors to advise us on the compliance with ESG matters where
 needed.
 ESG-related Risks
 We do not operate any production facilities, and thus, we are not subject to significant health,
@@ -15764,22 +15764,22 @@ review our compliance status with all relevant laws and regulations after the Li
 To monitor the ongoing implementation of our risk management policies and corporate
 governance measures after the Listing, we have adopted, or will adopt, among other things, the
 following measures relating to risk management and internal control:
-(cid:2) We improved the rules of procedures of the Audit Committee to review and supervise
+ We improved the rules of procedures of the Audit Committee to review and supervise
 our financial reporting process and internal control system. For more details, please see
 the section headed ”Directors and Senior Management – Board Committees – Audit
 Committee” in this prospectus.
-(cid:2) We have engaged China Sunrise Capital Limited as our compliance adviser to provide
+ We have engaged China Sunrise Capital Limited as our compliance adviser to provide
 advice to our Directors and management team until the end of the first fiscal year after
 the Listing regarding matters relating to the Listing Rules.
-(cid:2) We have adopted various policies to ensure compliance with the Listing Rules,
+ We have adopted various policies to ensure compliance with the Listing Rules,
 including, but not limited to, aspects relating to risk management, employee daily
 behavior, conflict of interest management, investment management and information
 disclosure.
-(cid:2) We adopted anti-corruption, anti-fraud, anti-money laundering and anti-bribery
+ We adopted anti-corruption, anti-fraud, anti-money laundering and anti-bribery
 compliance training periodically to our senior management and employees to enhance
 their knowledge and compliance with applicable laws and regulations, and included
 relevant policies against non-compliance in employee handbooks.
-(cid:2) We plan to organize training sessions for our Directors and senior management in
+ We plan to organize training sessions for our Directors and senior management in
 respect of the relevant requirements of the Listing Rules and duties of directors of
 companies listed in Hong Kong.
 Risk Management
@@ -15817,7 +15817,7 @@ We have adopted a comprehensive anti-corruption and anti-bribery system in Decem
 which require all of our employees not to conduct activities in ways that could be subject to
 applicable anti-corruption and anti-bribery laws and regulations. These anti-corruption and
 anti-bribery regulations set out, among other things, the following:
-(cid:129) the financial department and the management team of each business line are mainly
+ the financial department and the management team of each business line are mainly
 responsible for the daily execution of anti-bribery measures. The duties of the financial
 department include organizing and implementing our anti-corruption and anti-money
 laundering policies, formulating relevant systems and operating procedures, reporting
@@ -15825,7 +15825,7 @@ large and suspicious transactions, supervising and inspecting the anti-corruptio
 anti-money laundering and economic sanctions of all business departments and
 subsidiaries and others. The operation department of each business line performs “Know
 Your Customer” procedures to decide whether to cooperate with them;
-(cid:129) we require our employees to abide by our professional ethics guidelines and our internal
+ we require our employees to abide by our professional ethics guidelines and our internal
 compliance manual, which consist of strict anti-corruption and anti-bribery clauses. We
 impose penalties on the Directors, senior management and employees for any activities
 concerning bribery and corruption;
@@ -15833,12 +15833,12 @@ concerning bribery and corruption;
 
 === PAGE 324 ===
 BUSINESS
-(cid:129) we enter into sunshine purchase agreements with our customers and suppliers in which
+ we enter into sunshine purchase agreements with our customers and suppliers in which
 we state transparent procurement/sales principles to keep our procurement/sales
 processes fair and open. We require our suppliers and other third parties who cooperate
 with us to comply with our compliance measures, professional ethics guidelines and
 applicable laws and regulations; and
-(cid:129) we have implemented preventive anti-bribery measures in our daily operations. For
+ we have implemented preventive anti-bribery measures in our daily operations. For
 example, we conduct relevant risk assessments, establish comprehensive oversight
 mechanisms, establish reporting channels, and continuously monitor anti-corruption and
 anti-bribery control activities. We believe these measures make it more difficult for an
@@ -17920,18 +17920,18 @@ have achieved multi-faceted monetization model in the aforementioned four applic
 which primarily include subscriptions, pay per use, revenue sharing and advertising income, among
 others. The details of our diversified monetization model for our various business lines are as
 follows:
-(cid:129) Online reading. We generate revenue primarily through (i) advertisements displayed in
+ Online reading. We generate revenue primarily through (i) advertisements displayed in
 the literary resources from our advertising customers in connection with reading with
 advertising in which we charge them on CPC basis and CPM basis; and (ii) paid
 readership, including the purchase of our paid reading resources and the subscription of
 our premium membership, from our users under reading with paid services;
-(cid:129) Digital marketing. We generally cooperate with advertising customers based on relevant
+ Digital marketing. We generally cooperate with advertising customers based on relevant
 framework agreements to generate advertising income and charge them primarily on
 CPC basis, CPM basis and CPA basis;
-(cid:129) Online games publishing. We generally share income from the game user’s in-game
+ Online games publishing. We generally share income from the game user’s in-game
 purchases and share a portion of the income with third-party game content providers
 (i.e., revenue sharing); and
-(cid:129) Other digital content. After receiving income settlement from the users, the
+ Other digital content. After receiving income settlement from the users, the
 telecommunications operators we cooperate with will subsequently share such income
 with us (i.e., revenue sharing) based on agreed-upon proportions.
 We have a large user base. The number of our cumulative registered users of our Easou
@@ -17953,12 +17953,12 @@ limited to the following:
 General Factors
 Our business and operating results are impacted by general factors affecting the internet and
 intelligent content recommendation industries in China, including:
-(cid:129) China’s overall economic growth and level of per capita disposable income;
-(cid:129) growth in internet usage and penetration;
-(cid:129) development of network infrastructure;
-(cid:129) competition with other forms of entertainment in user traffic and online usage time;
-(cid:129) regulatory environment in China; and
-(cid:129) awareness and enforcement of intellectual property protection in China.
+ China’s overall economic growth and level of per capita disposable income;
+ growth in internet usage and penetration;
+ development of network infrastructure;
+ competition with other forms of entertainment in user traffic and online usage time;
+ regulatory environment in China; and
+ awareness and enforcement of intellectual property protection in China.
 Any unfavorable change in any of these general industry conditions may have a negative
 impact on the demand for our services, and materially affect our results of operations.
 Company Specific Factors
@@ -18385,11 +18385,11 @@ for financial reporting purposes.
 === PAGE 389 ===
 FINANCIAL INFORMATION
 Deferred tax liabilities are recognized for all taxable temporary differences, except:
-(cid:2) when the deferred tax liability arises from the initial recognition of goodwill or an asset
+ when the deferred tax liability arises from the initial recognition of goodwill or an asset
 or liability in a transaction that is not a business combination and, at the time of the
 transaction, affects neither the accounting profit nor taxable profit or loss and does not
 give rise to equal taxable and deductible temporary differences; and
-(cid:2) in respect of taxable temporary differences associated with investments in subsidiaries,
+ in respect of taxable temporary differences associated with investments in subsidiaries,
 associates and joint ventures, when the timing of the reversal of the temporary
 differences can be controlled and it is probable that the temporary differences will not
 reverse in the foreseeable future.
@@ -18398,12 +18398,12 @@ carryforward of unused tax credits and any unused tax losses. Deferred tax asset
 the extent that it is probable that taxable profit will be available against which the deductible
 temporary differences, and the carryforward of unused tax credits and unused tax losses can be
 utilized, except:
-(cid:2) when the deferred tax asset relating to the deductible temporary differences arises from
+ when the deferred tax asset relating to the deductible temporary differences arises from
 the initial recognition of an asset or liability in a transaction that is not a business
 combination and, at the time of the transaction, affects neither the accounting profit nor
 taxable profit or loss and does not give rise to equal taxable and deductible temporary
 differences; and
-(cid:2) in respect of deductible temporary differences associated with investments in
+ in respect of deductible temporary differences associated with investments in
 subsidiaries, associates and joint ventures, deferred tax assets are only recognized to the
 extent that it is probable that the temporary differences will reverse in the foreseeable
 future and taxable profit will be available against which the temporary differences can
@@ -19447,25 +19447,25 @@ During the Track Record Period, we made private equity fund investments. Accordi
 generally adopt investment measures that govern our investment activities and have established
 management policies and systems to monitor our investment activities. These measures include,
 among other things, the following:
-(cid:129) Our investments shall comply with applicable laws and regulations and the relevant
+ Our investments shall comply with applicable laws and regulations and the relevant
 provisions of our articles of association;
-(cid:129) Our investments shall be in line with our development strategies and national
+ Our investments shall be in line with our development strategies and national
 industry-wide development policies;
-(cid:129) Our investments shall be conducive to accelerating our sustainable and coordinated
+ Our investments shall be conducive to accelerating our sustainable and coordinated
 development, improving our core strengths, and promoting the benefits of our
 shareholders;
-(cid:129) Our investments shall promote the effective allocation of our resources, improving the
+ Our investments shall promote the effective allocation of our resources, improving the
 quality of our assets, preventing operational risks, improving investment returns and
 safeguarding our shareholders’ rights and interests;
-(cid:129) Our investments shall be conducive to standardizing our operations, improving our
+ Our investments shall be conducive to standardizing our operations, improving our
 operating efficiency and emphasizing the responsibilities of our management;
-(cid:129) Our investments shall be made only in situations where our Group has surplus cash;
-(cid:129) We shall allocate our investments in different types of wealth management products that
+ Our investments shall be made only in situations where our Group has surplus cash;
+ We shall allocate our investments in different types of wealth management products that
 only consist of principal-protected assets or low-risk assets and adhere to the principle
 of risk diversification in connection with such allocation. We shall also monitor our
 investment portfolio on a quarterly basis and make timely adjustments thereto to the
 extent necessary and appropriate to maintain such principle; and
-(cid:129) We shall ensure that more than 50% of our investments consist of wealth management
+ We shall ensure that more than 50% of our investments consist of wealth management
 products with a maturity within one year or redeemable at any time in order to maintain
 sufficient liquidity and financial flexibility. For our remaining investments, we shall also
 ensure a maturity term within three years. We will monitor the maturity of our
@@ -19504,17 +19504,17 @@ the provisions of our investment policies, as the case may be. Except the forego
 decision-making bodies, no other department or individual has the authority to make the decision
 on our investment activities.
 The approval procedures of our investments are set out below:
-(cid:129) For the transactions which exceed 25% of the size test as defined in the Listing Rules,
+ For the transactions which exceed 25% of the size test as defined in the Listing Rules,
 the finance department shall obtain the approval from the general meeting of the
 Shareholders;
-(cid:129) For other material transactions as defined in the laws, regulations, Articles of
+ For other material transactions as defined in the laws, regulations, Articles of
 Association, department guidelines and the investment policies, the finance department
 shall obtain the approval from the general meeting of the Shareholders;
 – 407 –
 
 === PAGE 417 ===
 FINANCIAL INFORMATION
-(cid:129) For investments in wealth management products, in order to ensure the safety of our
+ For investments in wealth management products, in order to ensure the safety of our
 investment principal and to obtain stable investment returns, in general, we only choose
 to purchase principal-protected wealth management products or those with low
 investment risk which are limited to certificates of deposits, treasury notes, investment
@@ -19538,7 +19538,7 @@ investment plan and evaluation analysis, submit such plan for the review of the
 chief financial officer, the chief executive officer and the Board. Once they all
 approve the investment plan, it will be tabled at the generally meeting of the
 Shareholders for final approval.
-(cid:129) After making the investments in wealth management products, we closely monitor their
+ After making the investments in wealth management products, we closely monitor their
 performance and communicate with the fund managers on a monthly basis. The finance
 department is responsible for preparing investment reports and analysis of investment
 returns on a quarterly basis. Quarterly investment analysis reports, which contain,
@@ -21991,12 +21991,12 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit
 you are applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the White Form eIPO service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the White Form eIPO service only).
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Offer
 Shares if you or the person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or close associates; or
-(cid:129) are a Director or any of his/ her close associates.
+ are an existing Shareholder or close associates; or
+ are a Director or any of his/ her close associates.
 2. Application Channels
 The Hong Kong Public Offering period will begin at 9:00 am on Thursday, May 30,
 2024 and end at 12:00 noon on Tuesday, June 4, 2024 (Hong Kong time).
@@ -22075,17 +22075,17 @@ any breach of the terms and conditions of this prospectus.
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual/Joint Applicants For Corporate Applicants
-(cid:129) Full name(s)2 as shown on your identity (cid:129) Full name(s)2 as shown on your identity
+ Full name(s)2 as shown on your identity Full name(s)2 as shown on your identity
 document document
-(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
+ Identity document’s issuing country or Identity document’s issuing country or
 jurisdiction jurisdiction
-(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
+ Identity document type, with order of Identity document type, with order of
 priority: priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification document; or ii. Certificate of incorporation; or
 iii. Passport; and iii. Business registration certificate; or
-(cid:129) Identity document number iv. Other equivalent document; and
-(cid:129) Identity document number
+ Identity document number iv. Other equivalent document; and
+ Identity document number
 – 462 –
 
 === PAGE 472 ===
@@ -22117,9 +22117,9 @@ and you should provide the required information in your application as stated ab
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any other stock
 exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) hold more than half of the issued share capital of the company (not counting any part of it which carries
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ hold more than half of the issued share capital of the company (not counting any part of it which carries
 no right to participate beyond a specified amount in a distribution of either profits or capital).
 For those applying through HKSCC EIPO channel, and making an application under a
 power of attorney, we and the Overall Coordinators, as our agent, have discretion to consider
@@ -22372,22 +22372,22 @@ part of any application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications. You may refer
+ you make multiple applications or suspected multiple applications. You may refer
 to the paragraph headed “– A. Applications for Hong Kong Offer Shares – 5.
 Multiple Applications Prohibited” in this section on what constitutes multiple
 applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
 – 470 –
 
 === PAGE 480 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC participants and HKSCC, HKSCC
@@ -22494,9 +22494,9 @@ your own risk
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Tuesday, June 4, 2024 if, there is/are:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) an Extreme Conditions, (collectively, “Severe Weather Signals”),
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ an Extreme Conditions, (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Tuesday, June
 4, 2024.
 Instead they will open between 11:45 a.m. and 12:00 noon and/or close at 12:00 noon
@@ -22516,12 +22516,12 @@ June 7, 2024.
 === PAGE 483 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 If a Severe Weather Signal is hoisted on Friday, June 7, 2024:
-(cid:129) for physical Share certificates of 500,000 or more Offer Shares issued under your
+ for physical Share certificates of 500,000 or more Offer Shares issued under your
 own name, you may pick them up from the Hong Kong Share Registrar’s office
 after the Severe Weather Signal is lowered or cancelled (e.g. in the afternoon of
 Friday, June 7, 2024 or on Tuesday, June 11, 2024).
 If a Severe Weather Signal is hoisted on Thursday, June 6, 2024:
-(cid:129) for physical Share certificates of less than 500,000 Offer Shares issued under your
+ for physical Share certificates of less than 500,000 Offer Shares issued under your
 own name, despatch will be made by ordinary post when the post office re-opens
 after the Severe Weather Signal is lowered or cancelled (e.g. in the afternoon of
 Thursday, June 6, 2024 or on Friday, June 7, 2024).
@@ -22574,27 +22574,27 @@ personal data supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund cheque and White Form e-Refund payment
+ processing your application and refund cheque and White Form e-Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of
 allocation of Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
+ facilitating Hong Kong Offer Shares balloting;
 – 475 –
 
 === PAGE 485 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements;
-(cid:129) and any other incidental or associated purposes relating to the above and/or to
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements;
+ and any other incidental or associated purposes relating to the above and/or to
 enable the Company and the Hong Kong Share Registrar to discharge their
 obligations to applicants and holders of the Shares and/or regulators and/or any
 other purposes to which applicants and holders of the Shares may from time to
@@ -22605,21 +22605,21 @@ applicants for and holders of Hong Kong Offer Shares will be kept confidential b
 Company and the Hong Kong Share Registrar may, to the extent necessary for achieving any
 of the above purposes, disclose, obtain or transfer (whether within or outside Hong Kong) the
 personal data to, from or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving bank(s) and
+ the Company’s appointed agents such as financial advisers, receiving bank(s) and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the Hong Kong Share Registrar for the purposes of providing its
 services or facilities or performing its functions in accordance with its rules or
 procedures and operating FINI and CCASS (including where applicants for the
 Hong Kong Offer Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the
 Hong Kong Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) and any persons or institutions with which the holders of Hong Kong Offer Shares
+ and any persons or institutions with which the holders of Hong Kong Offer Shares
 have or propose to have dealings, such as their bankers, solicitors, accountants or
 brokers etc.
 – 476 –
@@ -22651,12 +22651,12 @@ the independent reporting accountants of the Company, Ernst & Young, Certified P
 Accountants, Hong Kong. As described in Appendix V headed “Documents Delivered to the
 Registrar of Companies in Hong Kong and Available on Display” to this document, a copy of the
 accountants’ report is available for inspection.
-Ernst & Young (cid:11120)(cid:15391)(cid:14058)(cid:23023)(cid:11794)(cid:7794)(cid:8896)(cid:12839) Tel (cid:26338)(cid:23128): +852 2846 9888
+Ernst & Young Tel : +852 2846 9888
 27/F, One Taikoo Place
-(cid:27008)(cid:15894)(cid:27625)(cid:27457)(cid:15731)(cid:21208)(cid:18030)(cid:24634)979(cid:22086) Fax (cid:8346)(cid:18182): +852 2868 4432
+ 979 Fax : +852 2868 4432
 979 King’s Road
 Quarry Bay, Hong Kong
-(cid:10513)(cid:9163)(cid:10033)(cid:7655)(cid:11918)27(cid:14842) ey.com
+ 27 ey.com
 ACCOUNTANTS’ REPORT ON HISTORICAL FINANCIAL INFORMATION TO THE
 DIRECTORS OF EASOU TECHNOLOGY HOLDINGS LIMITED AND BOCI ASIA
 LIMITED
@@ -23621,12 +23621,12 @@ Derecognition of financial assets
 A financial asset (or, where applicable, a part of a financial asset or part of a group of
 similar financial assets) is primarily derecognised (i.e., removed from the Group’s
 consolidated statement of financial position) when:
-(cid:2) the rights to receive cash flows from the asset have expired; or
+ the rights to receive cash flows from the asset have expired; or
 – I-26 –
 
 === PAGE 513 ===
 APPENDIX I ACCOUNTANTS’ REPORT
-(cid:2) the Group has transferred its rights to receive cash flows from the asset or has
+ the Group has transferred its rights to receive cash flows from the asset or has
 assumed an obligation to pay the received cash flows in full without material delay
 to a third party under a “pass-through” arrangement; and either (a) the Group has
 transferred substantially all the risks and rewards of the asset, or (b) the Group has
@@ -23754,11 +23754,11 @@ Deferred tax is provided, using the liability method, on all temporary differenc
 end of the reporting period between the tax bases of assets and liabilities and their carrying
 amounts for financial reporting purposes.
 Deferred tax liabilities are recognised for all taxable temporary differences, except:
-(cid:2) when the deferred tax liability arises from the initial recognition of goodwill or an
+ when the deferred tax liability arises from the initial recognition of goodwill or an
 asset or liability in a transaction that is not a business combination and, at the time
 of the transaction, affects neither the accounting profit nor taxable profit or loss
 and does not give rise to equal taxable and deductible temporary differences; and
-(cid:2) in respect of taxable temporary differences associated with investments in
+ in respect of taxable temporary differences associated with investments in
 subsidiaries, associates and joint ventures, when the timing of the reversal of the
 temporary differences can be controlled and it is probable that the temporary
 differences will not reverse in the foreseeable future.
@@ -23767,12 +23767,12 @@ carryforward of unused tax credits and any unused tax losses. Deferred tax asset
 recognised to the extent that it is probable that taxable profit will be available against which
 the deductible temporary differences, and the carryforward of unused tax credits and unused
 tax losses can be utilised, except:
-(cid:2) when the deferred tax asset relating to the deductible temporary differences arises
+ when the deferred tax asset relating to the deductible temporary differences arises
 from the initial recognition of an asset or liability in a transaction that is not a
 business combination and, at the time of the transaction, affects neither the
 accounting profit nor taxable profit or loss and does not give rise to equal taxable
 and deductible temporary differences; and
-(cid:2) in respect of deductible temporary differences associated with investments in
+ in respect of deductible temporary differences associated with investments in
 subsidiaries, associates and joint ventures, deferred tax assets are only recognised
 to the extent that it is probable that the temporary differences will reverse in the
 foreseeable future and taxable profit will be available against which the temporary
@@ -24880,14 +24880,14 @@ holders of preferred shares; (ii) to exchange financial assets or financial liab
 preferred shares that are unfavorable to the Company; and (iii) to deliver a variable number of the
 Company’s own ordinary shares. Accordingly, the preferred shares were accounted for as equity. The major
 terms of the preferred shares are set out below:
-(cid:2) Each preferred share may, at the option of the holder thereof, be converted at any time after the date
+ Each preferred share may, at the option of the holder thereof, be converted at any time after the date
 of issuance of such preferred shares or shall be converted automatically upon the consummation of a
 qualified IPO into ordinary shares as a price as determined by dividing the original issue price by the
 conversion price of such preferred shares (the “Conversion Price”). The original issue price, in any
 event not being less than par value per share, subject to the anti-dilution adjustments (as adjusted for
 share subdivision and consolidation, share dividends and distributions, reorganisation, mergers,
 consolidation, reclassification, exchanges, substitutions).
-(cid:2) The Conversion Price shall initially be the preferred share purchase price, resulting in an initial
+ The Conversion Price shall initially be the preferred share purchase price, resulting in an initial
 conversion ratio for the preferred shares of 1:1, and no adjustment in the Conversion Price shall be
 made in respect of the issuance of additional ordinary shares unless the issue price per share for an
 additional ordinary share issued or deemed to be issued is less than the Conversion Price.
@@ -25342,12 +25342,12 @@ B. REPORT ON THE UNAUDITED PRO FORMA FINANCIAL INFORMATIONS
 The following is the text of a report received from the Company’s reporting accountants,
 Ernst & Young, Certified Public Accountants, Hong Kong, for the purpose of inclusion in this
 prospectus.
-Ernst & Young (cid:11120)(cid:15391)(cid:14058)(cid:23023)(cid:11794)(cid:7794)(cid:8896)(cid:12839) Tel (cid:26338)(cid:23128): +852 2846 9888
+Ernst & Young Tel : +852 2846 9888
 27/F, One Taikoo Place
-(cid:27008)(cid:15894)(cid:27625)(cid:27457)(cid:15731)(cid:21208)(cid:18030)(cid:24634)979(cid:22086) Fax (cid:8346)(cid:18182): +852 2868 4432
+ 979 Fax : +852 2868 4432
 979 King’s Road
 Quarry Bay, Hong Kong
-(cid:10513)(cid:9163)(cid:10033)(cid:7655)(cid:11918)27(cid:14842) ey.com
+ 27 ey.com
 INDEPENDENT REPORTING ACCOUNTANTS’ ASSURANCE REPORT ON THE
 COMPILATION OF PRO FORMA FINANCIAL INFORMATION
 To the Directors of Easou Technology Holdings Limited
@@ -25412,8 +25412,8 @@ has been properly compiled on the basis of the applicable criteria involves perf
 to assess whether the applicable criteria used by the Directors in the compilation of the Pro Forma
 Financial Information provide a reasonable basis for presenting the significant effects directly
 attributable to the transaction, and to obtain sufficient appropriate evidence about whether:
-(cid:2) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:2) the Pro Forma Financial Information reflects the proper application of those adjustments
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the Pro Forma Financial Information reflects the proper application of those adjustments
 to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgment, having regard to the
 reporting accountants’ understanding of the nature of the Group, the transaction in respect of

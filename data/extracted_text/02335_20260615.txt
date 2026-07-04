@@ -32,7 +32,7 @@ JointSponsors,OverallCoordinators,Sponsor-OverallCoordinators,
 JointGlobalCoordinators,JointBookrunnersandJointLeadManagers
 JointBookrunnersandJointLeadManagers
 SOMERLEY CAPITAL LIMITED
-(cid:64)(cid:58)(cid:57)(cid:41)(cid:1047)(cid:2123)(cid:11498)(cid:26290)
+ 
 HongKongExchangesandClearingLimited,TheStockExchangeofHongKongLimitedandHongKongSecuritiesClearingCompanyLimitedtake
 noresponsibilityforthecontentsofthisprospectus,makenorepresentationastoitsaccuracyorcompleteness,andexpresslydisclaimanyliability
 whatsoeverforanylosshowsoeverarisingfromorinrelianceuponthewholeoranypartofthecontentsofthisprospectus.
@@ -13750,15 +13750,15 @@ BUSINESS
 R&D Process
 The flowchart below illustrates the key stages of our R&D process, from basic
 research, drug discovery research, drug development research to NDAsubmission:
-(cid:2)(cid:3)Preclinical Evaluation:
+ Preclinical Evaluation:
 Pharmaceutical Druggability Assessment
 Pharmacological Druggability Assessment
-(cid:2)(cid:3)Functional Genes (cid:2)(cid:3)Clinical Evaluation:
-(cid:2)(cid:3)Disease Mechanism Clinical Efficacy and Side Effects Assessment
-(cid:2)(cid:3)Drug Target Industrialisation Feasibility Assessment
+ Functional Genes Clinical Evaluation:
+ Disease Mechanism Clinical Efficacy and Side Effects Assessment
+ Drug Target Industrialisation Feasibility Assessment
 Basic Discovery Development New Drug
 Research Research Research Launch
-(cid:2)(cid:3)Searching for Drug Candidates:
+ Searching for Drug Candidates:
 Pharmacodynamics Evaluation
 Preliminary Toxicology Evaluation
 Preliminary Pharmacokinetics Evaluation
@@ -14165,7 +14165,7 @@ Application Expiration PatentHolder/
 TitleofInvention Number Jurisdiction Status Date Applicant
 Bispecificfusionpolypeptidecompound . . . EP21865532.2 Europe Pending N/A OurCompany
 Bispecificfusionpolypeptidecompound . . . CA3194729 Canada Pending N/A OurCompany
-(cid:55546)(cid:55959)(cid:58431)(cid:55546)(cid:55687)(cid:55483)(cid:59119)(cid:58746)(cid:52018)(cid:58671)(cid:57926)(cid:55546)(cid:50786)(cid:59354)(cid:59119)(cid:52418) . . . KR1020237011659 Korea Pending N/A OurCompany
+ . . . KR1020237011659 Korea Pending N/A OurCompany
 As of the Latest Practicable Date, we had 32 registered trademarks in the PRC and
 sixregisteredtrademarksoverseas.Wearealsotheregisteredowneroffourdomainname.
 See “Risk Factors — Risks Relating to Our Intellectual Property Rights” for a description

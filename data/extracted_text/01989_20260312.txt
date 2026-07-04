@@ -4198,10 +4198,10 @@ at a CAGR of 6.5%, projected to reach US$2.6 billion by 2029.
 INDUSTRY OVERVIEW
 The Market Size of CPU Motherboards of High Performance Server (by Revenue), Global, 2020-2029E
 US$ Billion
-3.0 CAGR(cid:28643)6.5%
+3.0 CAGR 6.5%
 2.6 2.6
 2.5 2.3 2.5
-CAGR(cid:28643)10.7% 2.2
+CAGR 10.7% 2.2
 2.0 1.9
 1.8
 1.6
@@ -5981,44 +5981,44 @@ We conduct feasibility studies on the application and front-end
 Early development and pre-validation
 design of PCB materials, to assist our customers in their server
 development process. This is to ensure compatibility with the new
-(cid:129) Confirming requirements chip specifications, during the initial phase of computing chip
-(cid:129) Forming technology roadmap development by chip manufacturers.
-(cid:129) Initial feasibility test
+ Confirming requirements chip specifications, during the initial phase of computing chip
+ Forming technology roadmap development by chip manufacturers.
+ Initial feasibility test
 We work with our customers to further refine our products and
 Engineering validation test
 design plans. Together, we identify any potential difficulties for
 mass production to further validate the feasibility of the design. We
-(cid:129) Validating design feasibility
+ Validating design feasibility
 also validate the specifications and electrical performance of our
-(cid:129) Identifying engineering issues
+ Identifying engineering issues
 products.
-(cid:129) Ensuring specifications coverage
+ Ensuring specifications coverage
 Based the results of validation, we further improve the design.
 Design validation test
 Our active engagement with our customers ensures early
 identification and rapid resolution of potential issues,
-(cid:129) Ensuring that requirements are
+ Ensuring that requirements are
 significantly improving product stability and performance
 satisfied by design
 reliability.
-(cid:129) Ensuring that mass production is
+ Ensuring that mass production is
 feasible
-(cid:129) Validating reliability and legal
+ Validating reliability and legal
 compliance
 We leverage a digital manufacturing execution system to
 Production validation test
 ensure robust process oversight, including real-time parameter
 optimization for critical processes such as lamination and
-(cid:129) Validating mass production process
+ Validating mass production process
 drilling, and validation of batch consistency.
-(cid:129) Validating stability of supply chain
+ Validating stability of supply chain
 We enforce stringent process controls, including a dual-supply
 Mass production
 chain assurance mechanism (strategic inventory reserves for
 critical materials and dual-supplier management), real-time
-(cid:129) Mass production and delivery
+ Mass production and delivery
 production monitoring, proactive equipment maintenance,
-(cid:129) Continued refinement
+ Continued refinement
 and a comprehensive quality traceability system.
 We provide customers with monthly yield analysis reports to
 drive continuous improvements in production efficiency and
@@ -13520,9 +13520,9 @@ Registrar for the attention of the privacy compliance officer.
 
 === PAGE 310 ===
 APPENDIX I ACCOUNTANTS’ REPORT
-Ernst & Young (cid:4543)(cid:8814)(cid:7481)(cid:16446)(cid:5217)(cid:1217)(cid:2319)(cid:6262) Tel(cid:19761)(cid:16551): +852 2846 98 88
-27/F, One Taikoo Place (cid:20431)(cid:9317)(cid:21048)(cid:20880)(cid:9154)(cid:14631)(cid:11453)(cid:18057)979(cid:15509) Fax(cid:1769)(cid:11605): +852 2868 44 32
-979 King’s Road (cid:3936)(cid:2586)(cid:3456)(cid:1078)(cid:5341)27(cid:8265) ey.com
+Ernst & Young Tel : +852 2846 98 88
+27/F, One Taikoo Place 979 Fax : +852 2868 44 32
+979 King’s Road 27 ey.com
 Quarry Bay, Hong Kong
 ACCOUNTANTS’ REPORT ON HISTORICAL FINANCIAL INFORMATION TO THE
 DIRECTORS OF DELTON TECHNOLOGY (GUANGZHOU) INC. AND CITIC
@@ -17638,9 +17638,9 @@ COMPILATION OF PRO FORMA FINANCIAL INFORMATION
 The following is the text of a report received from the Company’s reporting accountants,
 Ernst &Young, Certified Public Accountants, Hong Kong, for the purpose of incorporation in
 this prospectus.
-Ernst & Young (cid:4543)(cid:8814)(cid:7481)(cid:16446)(cid:5217)(cid:1217)(cid:2319)(cid:6262) Tel(cid:19761)(cid:16551): +852 2846 98 88
-27/F, One Taikoo Place (cid:20431)(cid:9317)(cid:21048)(cid:20880)(cid:9154)(cid:14631)(cid:11453)(cid:18057)979(cid:15509) Fax(cid:1769)(cid:11605): +852 2868 44 32
-979 King’s Road (cid:3936)(cid:2586)(cid:3456)(cid:1078)(cid:5341)27(cid:8265) ey.com
+Ernst & Young Tel : +852 2846 98 88
+27/F, One Taikoo Place 979 Fax : +852 2868 44 32
+979 King’s Road 27 ey.com
 Quarry Bay, Hong Kong
 To the Directors of Delton Technology (Guangzhou) Inc.
 We have completed our assurance engagement to report on the compilation of pro forma

@@ -170,18 +170,18 @@ EXPECTED TIMETABLE(1)
 (3) Results of allocations in the Hong Kong Public Offering (with successful applicants’
 identification document numbers, where appropriate) to be available through a variety of
 channels, including
-(cid:129) the announcement to be posted on our website
+ the announcement to be posted on our website
 at www.saimo.cloud(6) and the website of the
 Stock Exchange at www.hkexnews.hk at
 or before(10) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11:00 p.m. on
 Tuesday, 14 January 2025
-(cid:129) the designated results of allocation
+ the designated results of allocation
 website at www.iporesults.com.hk
 (alternatively: www.eipo.com.hk/eIPOAllotment)
 with a “search by ID” function from(10) . . . . . . . . . . . . . . . . . . . . . 11:00 p.m. on
 Tuesday, 14 January 2025
 to Monday, 20 January 2025
-(cid:129) the allocation results telephone enquiry
+ the allocation results telephone enquiry
 by calling +852 2862 8555 between
 9:00 a.m. and 6:00 p.m. from(10) . . . . . . . . . . . . . . . Wednesday, 15 January 2025
 to Monday, 20 January 2025
@@ -2223,19 +2223,19 @@ FORWARD-LOOKING STATEMENTS
 This prospectus contains forward-looking statements that are, by their nature, subject to
 significantrisksanduncertainties,includingtheriskfactorsdescribedinthisprospectus.These
 forward-looking statements include, but are not limited to, statements relating to:
-(cid:129) our operations and business prospects;
-(cid:129) future developments, trends and competition in industries and markets in which we
+ our operations and business prospects;
+ future developments, trends and competition in industries and markets in which we
 operate or are seeking to operate;
-(cid:129) our business strategies, plans, objectives and goals and our ability to successfully
+ our business strategies, plans, objectives and goals and our ability to successfully
 implement these strategies, plans, objectives and goals;
-(cid:129) prospective financial information regarding our business;
-(cid:129) future financial condition and results of our operations;
-(cid:129) future development of our business;
-(cid:129) our dividend policy;
-(cid:129) our capital expenditure plans;
-(cid:129) general global economic, political and business conditions, in particular, the
+ prospective financial information regarding our business;
+ future financial condition and results of our operations;
+ future development of our business;
+ our dividend policy;
+ our capital expenditure plans;
+ general global economic, political and business conditions, in particular, the
 economic, political and business conditions of Hong Kong and the PRC; and
-(cid:129) changes to the regulatory environment, policies and operating conditions in the
+ changes to the regulatory environment, policies and operating conditions in the
 markets in which we operate or are seeking to operate.
 In some cases we use words such as “believe”, “seek”, “intend”, “anticipate”, “estimate”,
 “project”, “plan”, “aim”, “potential”, “will”, “may”, “should”, “would’, “could”, “expect”,
@@ -2339,19 +2339,19 @@ long-term agreements with most of our customers, and most of our top five custom
 from year to year during the Track Record Period. In addition, our gross profit margin and
 profitability vary from project to project, and the corresponding cost involved depends on,
 including without limitation:
-(cid:129) the nature and scale of the project;
-(cid:129) the type of customer, being public sector customer or private sector customer;
-(cid:129) the scope and complexity of the work to be performed;
-(cid:129) the specification and customisations required by our customer;
-(cid:129) the technical, software, hardware, servers and components requirements;
-(cid:129) the project timeline and the manpower and resources required;
+ the nature and scale of the project;
+ the type of customer, being public sector customer or private sector customer;
+ the scope and complexity of the work to be performed;
+ the specification and customisations required by our customer;
+ the technical, software, hardware, servers and components requirements;
+ the project timeline and the manpower and resources required;
 – 52 –
 
 === PAGE 63 ===
 RISK FACTORS
-(cid:129) the services for deployment and maintenance;
-(cid:129) the R&D expenses; and
-(cid:129) to the extent that is applicable, fees charged by other market participants for
+ the services for deployment and maintenance;
+ the R&D expenses; and
+ to the extent that is applicable, fees charged by other market participants for
 comparable products and services.
 As such, during the Track Record Period, our gross profit margin for our ICV simulation
 testing platforms was 81.3%, 92.6%, 53.0% and 99.1%, respectively.
@@ -2823,16 +2823,16 @@ sector business, our historical growth may not be indicative of our future perfo
 may not be able to sustain our historical growth rates. Our growth prospects should be
 considered in light of the risks and uncertainties that fast-growing companies with a limited
 operating history may encounter, including, among other things, with respect to our ability to:
-(cid:129) maintain and upgrade our ICV simulation testing, validation and evaluation
+ maintain and upgrade our ICV simulation testing, validation and evaluation
 technologies and tools and develop new technologies and tools;
-(cid:129) further commercialise our ICV testing, validation and evaluation solutions;
-(cid:129) launch new products and services;
-(cid:129) retain existing customers and attract new customers to achieve sustainable growth;
-(cid:129) properly promote, market and price our products and services;
-(cid:129) build a well-recognised and reputable brand, in particular in respect of our core
+ further commercialise our ICV testing, validation and evaluation solutions;
+ launch new products and services;
+ retain existing customers and attract new customers to achieve sustainable growth;
+ properly promote, market and price our products and services;
+ build a well-recognised and reputable brand, in particular in respect of our core
 technologies, Sim Pro and Safety Pro, in the industry;
-(cid:129) attract, retain and motivate our core technical staff and highly skilled personnel; and
-(cid:129) adapt to the evolving regulatory environment.
+ attract, retain and motivate our core technical staff and highly skilled personnel; and
+ adapt to the evolving regulatory environment.
 All of these endeavours require significant financial resources and allocation of our
 valuable management and human resources. There is no assurance that we will be able to
 effectively retain our valuable technical staff, manage the expansion or growth of our
@@ -2996,10 +2996,10 @@ products directly to the target end customers. Please refer to “Business – S
 arrangement, any of the following events could cause fluctuations or declines in our revenue,
 and could have a material and adverse effect on our business, financial conditions, results of
 operations and prospects:
-(cid:129) reduction, delay or cancellation of orders from our distributors;
-(cid:129) failure to renew the distributorship agreements at favourable terms and maintain the
+ reduction, delay or cancellation of orders from our distributors;
+ failure to renew the distributorship agreements at favourable terms and maintain the
 established relationship with our existing distributors; or
-(cid:129) inability to timely identify and appoint additional or replacement distributor(s) upon
+ inability to timely identify and appoint additional or replacement distributor(s) upon
 the loss of our distributors.
 Our competitors may launch competitive marketing campaigns and provide more
 favourabletermstoourdistributors.Wecannotassureyouthatwewillnotloseourdistributors
@@ -3211,31 +3211,31 @@ if we do identify such target and successfully consummate such transaction, we m
 achieve the technological, operational or economic benefits as expected. In addition, we may
 be subject to unanticipated material risks and challenges by reason of such strategic
 acquisitions, including:
-(cid:129) theneedtousesubstantialamountsofcash,incuradditionalborrowingsand/orissue
+ theneedtousesubstantialamountsofcash,incuradditionalborrowingsand/orissue
 potentially dilutive equity securities to finance the proposed acquisitions;
-(cid:129) the increased operating expenses and cash flow requirements following such
+ the increased operating expenses and cash flow requirements following such
 acquisitions;
-(cid:129) the assumption of contingent or hidden indebtedness or liabilities, or unforeseen
+ the assumption of contingent or hidden indebtedness or liabilities, or unforeseen
 costs as a result of such acquisitions;
-(cid:129) new regulatory requirements and compliance risks associated with the acquired
+ new regulatory requirements and compliance risks associated with the acquired
 assets or businesses;
-(cid:129) restrictions imposed by applicable anti-monopoly and unfair competition laws,
+ restrictions imposed by applicable anti-monopoly and unfair competition laws,
 regulations and rules that may govern our proposed acquisitions;
 – 73 –
 
 === PAGE 84 ===
 RISK FACTORS
-(cid:129) difficulties in integrating the employees, operations, technologies, products and
+ difficulties in integrating the employees, operations, technologies, products and
 services of the acquired business into those of ours;
-(cid:129) disruptions to our ongoing business and daily operations, and diversion of the
+ disruptions to our ongoing business and daily operations, and diversion of the
 management’s attention and our resources from our existing engagements and
 initiatives;
-(cid:129) impairment to our goodwill when there is deterioration in the capabilities of
+ impairment to our goodwill when there is deterioration in the capabilities of
 acquired companies to generate cash flows, and the fair value of the goodwill drops
 below its book value;
-(cid:129) inability of the acquired targets to share or provide us with the IPrights, technology
+ inability of the acquired targets to share or provide us with the IPrights, technology
 or R&D capacity we required; and/or
-(cid:129) difficulties in motivating and retaining the key employees or maintaining the key
+ difficulties in motivating and retaining the key employees or maintaining the key
 customers and business relationships of the acquired businesses, or the loss of such
 employees, customers or business relationships.
 We may be unable to avoid one or more of the above events, or generate sufficient
@@ -4143,10 +4143,10 @@ We have instructed our H Share Registrar, and our H Share Registrar has agreed, 
 register the subscription, purchase or transfer of any H Shares in the name of any particular
 holder unless and until such holder delivers a signed form to our H Share Registrar in respect
 of those H Shares bearing statements to the effect that the holder:
-(cid:129) agrees with us and each of our Shareholders, and we agree with each Shareholder,
+ agrees with us and each of our Shareholders, and we agree with each Shareholder,
 to observe and comply with the PRC Company Law, the Companies Ordinance and
 our Articles of Association;
-(cid:129) agrees with us, each of our Shareholders, Directors, Supervisors, managers and
+ agrees with us, each of our Shareholders, Directors, Supervisors, managers and
 officers, and we, acting for ourselves and for each of our Directors, Supervisors,
 managers and officers agree with each of our Shareholders, to refer all differences
 and claims arising from our Articles of Association or any rights or obligations
@@ -4156,9 +4156,9 @@ arbitration shall be deemed to authorise the arbitration tribunal to conduct hea
 in open session and to publish its award, which shall be final and conclusive. For
 further details of principal legal and regulatory provisions, please refer to
 Appendix IV to this prospectus;
-(cid:129) agrees with us and each of our Shareholders that the H Shares are freely transferable
+ agrees with us and each of our Shareholders that the H Shares are freely transferable
 by the holders thereof; and
-(cid:129) authorises us to enter into a contract on his behalf with each of our Directors,
+ authorises us to enter into a contract on his behalf with each of our Directors,
 Supervisors, managers and officers whereby such Directors, Supervisors, managers
 and officers undertake to observe and comply with their obligations to our
 Shareholders as stipulated in our Articles of Association. Persons applying for or
@@ -4768,7 +4768,7 @@ Source: F&S
 MARKET DRIVERS AND DEVELOPMENT TRENDS ANALYSIS OF ICV INDUSTRY
 According to the F&S Report, the main market drivers and development trends of the
 PRC ICV industry include the followings:
-(cid:129) Favourable policies
+ Favourable policies
 Multiple stimulus policies and measures ensure the stable development of ICV
 industry in the PRC.The PRC government promulgated the SmartVehicle Innovation and
 Development Strategy (智能汽車創新發展戰略), Autonomous Driving Classification (汽
@@ -4784,7 +4784,7 @@ all help to lay a healthy and mature foundation for the development of ICV indus
 the future, the PRC ICV industry will maintain a rapid development, and the intelligent
 technologies of vehicles will gradually penetrate from high-end vehicles models to
 low-end vehicle models.
-(cid:129) Redefinition of the relationship between people and vehicles
+ Redefinition of the relationship between people and vehicles
 With the increasing demand of people for superior driving experience, vehicles are
 changing from traditional travel tools to mobile living space. Drivers and passengers can
 give instructions to the ICVs through voice, gesture and other ways. The ICVs also have
@@ -4928,7 +4928,7 @@ L3andaboveandrisingpenetrationrateofintelligentdrivingtechnologies;and(ii)contin
 R&D investments by increasing downstream customers.
 The rapid growth of the ICV testing, validation and evaluation solutions industry in the
 PRC is mainly due to the following factors:
-(cid:129) The growth of the ICV industry. The ICV industry has been growing steadily in
+ The growth of the ICV industry. The ICV industry has been growing steadily in
 recent years. The market size of the PRC ICV industry grew from approximately
 7,200 thousand units in 2019 to approximately 15,829.0 thousand units in 2023,
 illustrating a CAGR of approximately 21.8%. Due to advancements in AI, 5G, and
@@ -4938,7 +4938,7 @@ market size of the PRC ICV industry is expected to reach approximately 33,436.0
 thousand units in 2030 at a CAGR of approximately 11.4% from 2024. This has led
 to an increase in the demand for ICV testing, validation, and evaluation solutions to
 ensure the traffic safety and reliability of ICVs.
-(cid:129) The need for compliance with regulations. The PRC government authorities and
+ The need for compliance with regulations. The PRC government authorities and
 regulatory institutions have been imposing regulations on the automotive and ICV
 industries, including requirements for the testing, validation, and evaluation of
 ICVs. For example, in 2023, the MIIT, together with the MPS, the MHURD and the
@@ -4950,7 +4950,7 @@ released, including the “Automotive Information SecurityTechnical Requirements
 “Autonomous Driving Data Recording System for Intelligent Connected Vehicles.”
 ThesestandardswillcomeintoeffectonJanuary1,2026,raisingdetailedandhigher
 regulatoryrequirementsforthedevelopmentofPRCautomotiveandICVindustries.
-(cid:129) Theadvancementoftechnology.ICVsarebecomingmorecomplex,withadvanced
+ Theadvancementoftechnology.ICVsarebecomingmorecomplex,withadvanced
 technologies and functions, such as autonomous driving, ADAS, and connectivity.
 Continuous improvements inAI, sensor technologies, and real-time data processing
 capabilities are further enhancing the performance and safety of ICVs. Innovations
@@ -5013,7 +5013,7 @@ TESTING, VALIDATION AND EVALUATION SOLUTIONS INDUSTRY
 Key market drivers and trends
 The key drivers and trends of the PRC ICV testing, validation and evaluation solutions
 industry include the followings:
-(cid:129) Accelerated development of ICV industry
+ Accelerated development of ICV industry
 With the growing acceptance of the concept of “software defined vehicle”, the
 leading technology companies, intelligent driving software companies and automotive
 manufacturers in the PRC have continuously dedicate a large amount of investment to
@@ -5041,7 +5041,7 @@ Guangzhou, Shenzhen, Chongqing, Wuhan, Suzhou, etc., which accelerates the
 development of the ICV industry.As the number of ICV manufacturers keeps increasing,
 the demand for testing, validation and evaluation solutions after mass production is
 considerable.
-(cid:129) Strengthening and standardisation of the new and evolving market regulation
+ Strengthening and standardisation of the new and evolving market regulation
 ICV testing, validation and evaluation are key to the widespread deployment and
 commercialisation of ICVs as they are the core foundation to the regulation of ICVs’
 product quality and the administration of data security in the ICV industry. The
@@ -5080,7 +5080,7 @@ technology and the issue of the national unified access standards, there will be
 mass-produced intelligent connectivity software/systems that need to undergo the ICV
 simulation and road tests to enter the market, which will stimulate the expansion of the
 industry.
-(cid:129) Demand for sophisticated data platform
+ Demand for sophisticated data platform
 The establishment of data platform and the application in the field of ICVis of great
 significance to promote industry development and innovation. The foundation of an ICV
 testing, validation and evaluation solution is data collection and sharing. On the
@@ -5099,7 +5099,7 @@ and sharing and promote ICV industry development and innovation.
 
 === PAGE 128 ===
 INDUSTRY OVERVIEW
-(cid:129) Increasing competitiveness of domestic market players
+ Increasing competitiveness of domestic market players
 With the rise of domestic alternatives in the ICV testing, validation, and evaluation
 solutions market, an increasing number of automotive manufacturers in the PRC are
 showing a preference for domestic suppliers. These suppliers offer ICV testing-related
@@ -5109,7 +5109,7 @@ local needs, cost-effectiveness, and compliance with local industry standards. T
 concerns regarding user-friendliness and data security of foreign ICV simulation testing
 software as well as the uncertainties in foreign partnerships due to political relations also
 drive the increasing competitiveness of the domestic market players.
-(cid:129) Closer cooperation of the industry participants
+ Closer cooperation of the industry participants
 TheICVtesting,validationandevaluationsolutionsproviderswillfurthercooperate
 closely with the upstream and downstream participants of the industrial chain, strengthen
 independent R&D, and accelerate the speed of upgrading of the ICV industry, and
@@ -5123,7 +5123,7 @@ governments, universities, scientific research institutions, and vehicle busines
 providers also actively cooperate with ICV testing, validation and evaluation solutions
 providers to ensure the consistency with the latest standards of the industry, aiming to
 enhance the performance and reliability of the latest ICVs.
-(cid:129) Increasing demand for cloud-based solutions
+ Increasing demand for cloud-based solutions
 At present, the demand for cloud-based ICV testing, validation and evaluation
 solutionsisincreasing.Withcloud-basedICVtesting,validationandevaluationsolutions,
 downstream customers are capable of resolving the limitations of non-cloud-based
@@ -5137,7 +5137,7 @@ ICVmarket participants for cloud-based ICVtesting, validation and evaluation sol
 
 === PAGE 129 ===
 INDUSTRY OVERVIEW
-(cid:129) Increasing demand for highly customisable applications and solutions
+ Increasing demand for highly customisable applications and solutions
 At present, downstream automotive manufacturers tend to design and develop
 intelligent driving systems that align with their brand positioning, vehicle model
 development strategies, and driving environments of their target sales markets. These
@@ -5149,7 +5149,7 @@ and evaluation solutions industry towards highly customisable applications and s
 ENTRY BARRIER
 The entry barriers of the PRC ICV testing, validation and evaluation solutions industry
 include the following:
-(cid:129) Customer relationship
+ Customer relationship
 The customers of ICV testing, validation and evaluation solutions providers usually
 have stringent criteria and lengthy process to select partners, which makes it harder for
 new entrants to enter into the market. For the sake of time cost and opportunity cost, once
@@ -5159,7 +5159,7 @@ time. Some downstream customers will require ICV testing, validation and evaluat
 solutions providers to have multiple large-scale project experience, which makes it
 difficult for new entrants to become their suppliers. Therefore, for enterprises newly
 entering the industry, obtaining stable customer relationship is a key barrier.
-(cid:129) Talent resources
+ Talent resources
 The high-calibre talents with extensive industry knowledge and rich experience play
 an important role in the successful operation of the ICVtesting, validation and evaluation
 solutions industry. The talents not only help the company to handle the daily business
@@ -5172,7 +5172,7 @@ capability, which will take a certain amount of time for training and learning.
 
 === PAGE 130 ===
 INDUSTRY OVERVIEW
-(cid:129) R&D investment
+ R&D investment
 Since the ICV testing, validation and evaluation solutions industry needs to validate
 and evaluate the safety of intelligent driving technologies and the actual effect of
 intelligent connectivity functions, which are all based on high-tech software, the industry
@@ -7691,7 +7691,7 @@ largest market player in China’s ICV simulation testing software and platforms
 marketshareofapproximately5.9%intermsofrevenuein2023.Wearealsooneoftheseveral
 market players capable of providing one-stop ICV testing, validation and evaluation solutions
 in China. Our main solutions and products include the following:
-(cid:129) The world’s first simulation testing, validation and evaluation tool chain to have
+ The world’s first simulation testing, validation and evaluation tool chain to have
 obtained ISO 26262 ASIL D certification – Sim Pro
 Based on the cutting-edge AI technologies and our extensive engineering
 experiences, we independently developed our ICV simulation testing, validation and
@@ -7716,7 +7716,7 @@ solution, which usually only incorporates one or only a few models.
 
 === PAGE 193 ===
 BUSINESS
-(cid:129) FuSa and SOTIF analysis tool – Safety Pro
+ FuSa and SOTIF analysis tool – Safety Pro
 Safety Pro is one of the only few safety analysis tools in the world that is capable
 of supporting SOTIF analysis, according to F&S. It also possesses the ISO 26262 TCL 2
 certification. It is used to analyse and identify the potential hazards in the overall
@@ -7740,7 +7740,7 @@ solutions, including Sim Pro and Safety Pro, are generally easier to use for dom
 customersascomparedtoourforeignpeers,whichisprimarilyattributabletothefactthat
 domestic solutions (including their built-in scenarios) are more compatible with the
 driving environment and driver habits in China.
-(cid:129) Cloud-based high-performance ICV simulation testing solutions
+ Cloud-based high-performance ICV simulation testing solutions
 Our cloud-based ICV simulation testing solutions are customisable cloud solutions.
 They seamlessly integrate Sim Pro (with built-in scenario databases), Safety Pro and/or
 other tools in a single solution. Their compliance with the standard OpenX file formats
@@ -7813,18 +7813,18 @@ experience in the software engineering industry.
 Our technological capabilities have been widely recognised and adopted by the PRC
 government authorities and industry participants, and we have obtained multiple awards,
 certifications and recognition, including without limitation to the following:
-(cid:129) Certifications in relation to product safety and quality, including (i) ISO 26262
+ Certifications in relation to product safety and quality, including (i) ISO 26262
 ASIL D and TCL 2 certifications; (ii) Quality Management System Certification;
 and (iii) Information Security Management System Certification;
-(cid:129) Honours and awards, including Key Software Enterprise* (重點軟件企業),
+ Honours and awards, including Key Software Enterprise* (重點軟件企業),
 Specialised, Sophisticated, Special and New “Little Giant” Enterprise* (專精特新「
 小巨人」企業) (issued by the MIIT), Specialised, Sophisticated, Special and New
 “Little Giant” Enterprise of Beijing* (北京市專精特新「小巨人」企業), National
 High and New Technology Enterprise* (國家級高新技術企業) and Zhongguancun
 High and New Technology Enterprise* (中關村高新技術企業);
-(cid:129) LaboratoryaccreditationandexpandedfunctionalsafetyaccreditationbytheCNAS;
+ LaboratoryaccreditationandexpandedfunctionalsafetyaccreditationbytheCNAS;
 and
-(cid:129) Provision of support for the MIITKey Laboratory for Intelligent Connected Driving
+ Provision of support for the MIITKey Laboratory for Intelligent Connected Driving
 Testing and Evaluation* (智能網聯駕駛測試與評價工信部重點實驗室).
 Our core technologies are covered by IP right protection. As at the Latest Practicable
 Date, we (i) possessed 75 registered patents and applied for 92 patents for registration in the
@@ -8142,7 +8142,7 @@ opportunities in other industries
 With our proprietary core technologies as well as technical know-how and expertise
 accumulated over the years, we plan to explore new commercialisation opportunities and
 application scenarios of our simulation technologies in the following areas:
-(cid:129) Drone-related solutions
+ Drone-related solutions
 In recent years, drones have become increasingly important and are widely used in
 urban settings. The market size of the industrial drone industry in terms of sales value in
 the PRC increased from approximately RMB15.2 billion in 2019 to approximately
@@ -8158,7 +8158,7 @@ Leveraging our experiences from such projects, we aim to further increase our
 involvement in assisting both public and private sector customers in the operation
 management, testing and commercial application of drones, in particular, government
 authorities and technology companies.
-(cid:129) Digital city twin
+ Digital city twin
 According to F&S, digital city twin is a digitalised copy of a city in the real world.
 As a completely virtual model, it allows the simulation of city development plans which
 helps city planner perform city planning and problem analysis through data-rich digital
@@ -8174,7 +8174,7 @@ technological capabilities centring around ICV simulation testing solutions. We 
 thatgovernmentauthoritiesandotherpublicsectororganisations(suchasuniversitiesand
 researchinstitutes)willhaveincreasingdemandfordigitalcitytwinsolutionstofacilitate
 their administration or research activities in respect of urban transportation improvement.
-(cid:129) Intelligent agriculture
+ Intelligent agriculture
 We also plan to work on the R&D and, more importantly, the commercialisation of
 simulation solutions to test intelligent agriculture machines, which are expected to target
 customers in the intelligent agriculture market, in particular, manufacturers of such
@@ -8255,7 +8255,7 @@ ygolonhcetdnaerawtfoS
 yllarenegsieuneveR
 dnaetavirphtoB
 gnitsetnoitalumisVCIgnidliuB
-(cid:129)
+ 
 erawtfosgnitsetnoitalumisVCI
 yletamixorppa
 stsocffats
@@ -8271,7 +8271,7 @@ sreilppusstnenopmocdna
 tnavelerehtnehwemit
 sremotsuc
 erawtfosenoladnatsgnilleS
-(cid:129)
+ 
 ehtdna,secivresdna
 otderevilederastcudorp
 stcudorp
@@ -8292,7 +8292,7 @@ stnenopmocdnaerawdraH
 yllarenegsieuneveR
 dnaetavirphtoB
 smroftalpatadVCIgnidliuB
-(cid:129)
+ 
 rehtodnasmroftalpatadVCI
 yletamixorppa
 stsocffats
@@ -8301,7 +8301,7 @@ sreilppus
 nitniopatadesingocer
 rotcescilbup
 stcudorprehtognidivorP
-(cid:129)
+ 
 stcudorp
 shtnom21
 tnavelerehtnehwemit
@@ -8331,7 +8331,7 @@ A/N
 yllarenegsieuneveR
 etavirpylniaM
 dnastsetnoitalumisgnidivorP
-(cid:129)
+ 
 secivresdetalerdnagnitsetVCI
 yletamixorppa
 noitaicerped
@@ -8349,7 +8349,7 @@ stroperyrosivda/gnitset
 sremotsucfosnoitacilppa
 ruootdereviledera
 etisesruoc-desolcVCIgnidivorP
-(cid:129)
+ 
 sremotsuc
 otsecivresdetalerdnastset dnaD&Rdetaler-VCInitsissa ruofoseitivitcassenisubrehto
 sremotsuc
@@ -8360,7 +8360,7 @@ sredivorpsecivreS
 yllarenegsieuneveR
 dnacilbuphtoB
 otsecivresyrosivdagnidivorP
-(cid:129)
+ 
 secivresrehtodnayrosivdA
 shtnom31
 seeflanoisseforp
@@ -8378,14 +8378,14 @@ detalerehtdna
 seigolonhcetnwo
 stroperyrosivda/gnitset
 nitnemnrevoggnitsissA
-(cid:129)
+ 
 ruootdereviledera
 ninoitasinagroecnerefnoc
 sremotsuc
 detalerdnaVCIotnoitaler
 seirtsudni
 secivresdetaler-enordgnidivorP
-(cid:129)
+ 
 erewdnadoirePdroceRkcarTehtgniruddeniatboewhcihwstcejorpehtfo)secivres/stcudorpfoyreviledottcartnocfogningismorf(emitdaelehtfoegnarehtotsrefersihT
 :etoN
 .deniatrecsa
@@ -8654,13 +8654,13 @@ vehicle to be tested; and (ii) the testing scenarios, i.e. the simulated scenari
 real-world environment and traffic situations where the ego vehicle will drive through during
 the simulation tests, which are further explained below:
 (1) Ego vehicle, which mainly consists of the following two elements:
-(cid:129) Vehicledynamicmodel,whichmodelsthebehavioursanddynamicfeaturesof
+ Vehicledynamicmodel,whichmodelsthebehavioursanddynamicfeaturesof
 real vehicles. Sim Pro constructs the vehicle dynamic models mainly based on
 vehicle component and system models in combination with vehicle data
 collected from real world. Such models can more realistically replicate the
 behaviours and dynamics of real vehicles. Sim Pro may also use external
 vehicle dynamic models for testing.
-(cid:129) Sensor models, which model real-world sensors (such as millimetre-wave
+ Sensor models, which model real-world sensors (such as millimetre-wave
 radar, LiDAR and cameras) that perceive the surrounding environments and
 provide sensor signals to the ego vehicle. Users can choose different sensor
 models in Sim Pro and customise such sensor models by changing their
@@ -8671,13 +8671,13 @@ sensitivity level in terms of maximum length and degree of detection).
 === PAGE 214 ===
 BUSINESS
 (2) Testing scenarios, which generally consists of the following two parts:
-(cid:129) Maps or the static environment: our simulation testing solutions support the
+ Maps or the static environment: our simulation testing solutions support the
 restoration of high-resolution maps collected from real world. Users may use
 or compile the existing maps in Sim Pro, or use the road editor within Sim Pro
 to design and create customised static driving environment from scratch
 including, among others, roads, roadside buildings, traffic signs and traffic
 lights.
-(cid:129) Dynamic scenarios, which are scenarios with dynamic traffic features enabled
+ Dynamic scenarios, which are scenarios with dynamic traffic features enabled
 by the use of dynamic objects (such as humans, animals and other non-testing
 vehicles). Users can directly use existing dynamic scenarios in the scenario
 databases within Sim Pro, or create new ones by customising the
@@ -8691,14 +8691,14 @@ Once the simulation testing process has completed, users can view the automatica
 generated evaluation results in Sim Pro, which will show how the ego vehicle has performed
 during the simulation process according to certain pre-determined criteria, including the
 following three criteria that are most commonly used by Sim Pro:
-(cid:129) Compliance evaluation analyses whether the ICV complies with applicable traffic
+ Compliance evaluation analyses whether the ICV complies with applicable traffic
 regulationsincludingrequirementsinrelationtotrafficlightsandsignals,stoplines,
 lane lines, and speed limit signs, etc.
-(cid:129) Safety evaluation analyses ICVs’ safety performance based on whether there is
+ Safety evaluation analyses ICVs’ safety performance based on whether there is
 collision or expected occurrence of collisions as measure by the safety distance with
 surrounding vehicles in all directions. When a collision occurs, their performance
 will be recorded and the corresponding data will be stored for replay and evaluation.
-(cid:129) Comfortability evaluation refers to the use of subjective and objective criteria to
+ Comfortability evaluation refers to the use of subjective and objective criteria to
 calculate the acceleration or deceleration value of ICVs with reference to relevant
 industry standards, including the Method of Running Test – Automotive Ride
 Comfort GB/T 4970-2008* (汽車平順性試驗方法GB/T 4970-2008), a PRC national
@@ -11041,7 +11041,7 @@ advancement of the intelligent driving technologies and the release of ICV marke
 policiesandstandardsinthefuture,moreandmoreICVsandrelatedproductswillrequire
 simulation and/or road testing to be able to enter the market, thus boosting the growth of
 the ICV testing, validation and evaluation solutions market.
-(cid:129) Mandatory regulatory requirements for ICV simulation tests, open-road
+ Mandatory regulatory requirements for ICV simulation tests, open-road
 tests and closed-course site tests
 The MIIT Opinions imposed, among others, the requirement of the ICV
 simulation tests, open-road tests and closed-course site tests on manufacturers
@@ -11064,7 +11064,7 @@ simulation tests and related services to help ICV manufacturers test and verify
 the intelligent driving functions and safety levels of their ICV products and
 technologies and (iii) ICV closed-course site tests and related services which
 can help ICV manufacturers conduct the required closed-course site tests.
-(cid:129) Regulatory requirements for the market entry of ICVs at L3 and above
+ Regulatory requirements for the market entry of ICVs at L3 and above
 According to F&S, ICVs equipped with L3, L4 and L5 autonomous
 driving technologies are currently not allowed to be sold to the public and can
 only operate in the specific scenarios for the purpose of experiment and
@@ -11105,21 +11105,21 @@ ICV manufacturers Manufacturers of the We can offer the
 Pilot ICVs must, following products
 among others: and services to ICV
 manufacturers to
-(cid:129) have internal systems assist them in
+ have internal systems assist them in
 for ensuring safety fulfilling relevant
 and managing risks regulatory
 and emergencies; requirements under
 the Pilot Notice:
-(cid:129) be equipped with a
-platform to monitor (cid:129) ICV simulation
+ be equipped with a
+platform to monitor ICV simulation
 Pilot ICVs; testing software and
 platforms: to enable
-(cid:129) have the capabilities ICV manufacturers to
+ have the capabilities ICV manufacturers to
 to ensure driving conduct simulation
 safety, cyber security tests and FuSa and
 and data security of SOTIF analysis
 the Pilot ICVs. themselves;
-(cid:129) ICV data platforms
+ ICV data platforms
 and other products:
 to equip the ICV
 manufacturers with
@@ -11136,10 +11136,10 @@ BUSINESS
 Key regulatory
 requirements under
 Target customer the Pilot Notice Our products/services
-The Pilot ICVs must, (cid:129) ICV testing services:
+The Pilot ICVs must, ICV testing services:
 among others:
 – leveraging our
-(cid:129) meet various self-developed
+ meet various self-developed
 requirements in core technologies,
 relation to, among Sim Pro and
 others, FuSa, SOTIF, Safety Pro, we
@@ -11149,12 +11149,12 @@ software update (i.e. services;
 the OTA
 technologies); and – we operate the
 Shunyi Testing
-(cid:129) complete required Site and can
+ complete required Site and can
 tests, including provide closed-
 simulation tests, course site tests
 closed-course tests, for ICVs; and
 actual road tests,
-cyber security and (cid:129) Advisory and other
+cyber security and Advisory and other
 data security tests, services: we can
 software update tests issue advisory reports
 and data recording on whether the ICV
@@ -11313,7 +11313,7 @@ during the Track Record Period
 During the Track Record Period, we managed to secure several projects from
 our existing customers of our ICV simulation testing software and platforms
 and ICV data platforms, the major examples of which are set forth below:
-(cid:129) The Relevant Customer
+ The Relevant Customer
 The Relevant Customer first awarded two contracts to our Group to
 purchase ICV simulation testing software in 2021. Subsequently, in 2022 and
 2023, it further awarded our Group two projects for the sale of ICV simulation
@@ -11326,7 +11326,7 @@ Customer might be used for its own R&D; and (ii) in 2022, the Relevant
 Customer purchased the ICV simulation testing solutions from us and
 integrated such solutions with its own cloud infrastructure for building
 cloud-based simulation testing platforms for automotive manufacturers.
-(cid:129) Customer B
+ Customer B
 To the best of our Directors’knowledge, belief and information, the local
 government in Hangzhou has been actively promoting the development of the
 local ICV industry in recent years. Thus, it is necessary for the government to
@@ -11343,12 +11343,12 @@ operation and maintenance services in 2021.
 
 === PAGE 281 ===
 BUSINESS
-(cid:129) Customer E
+ Customer E
 Customer E first became a customer of our Group in 2021 by purchasing
 a set of Sim Pro from us. In 2022, it purchased another 10 sets of Sim Pro and
 10 sets of Safety Pro from us, in order to support the development of
 ICV-relatedproductsandtechnologies(suchastheoperationsystemsofICVs).
-(cid:129) An automotive manufacturer
+ An automotive manufacturer
 As mentioned in the example relating to the Relevant Customer above,
 the Relevant Customer integrated our ICV simulation testing solutions with its
 own cloud infrastructure for automotive manufacturers. In 2023, one of such
@@ -13169,20 +13169,20 @@ services we require from suppliers for the provision of each type of such produc
 and services are also varied. Specifically, the major types of products and/or
 services provided by our suppliers in connection with each type of our products and
 services are as follows:
-(cid:129) ICV simulation testing software and platforms mainly require (i) technology
+ ICV simulation testing software and platforms mainly require (i) technology
 and software suppliers to conduct non-core R&D exercises or provide software
 components; and (ii) hardware and components suppliers to supply necessary
 hardware components that we do not manufacture;
-(cid:129) ICV data platforms and other products mainly require hardware and
+ ICV data platforms and other products mainly require hardware and
 components suppliers to supply necessary hardware, such as servers, parts and
 components, that we do not manufacture;
 – 311 –
 
 === PAGE 322 ===
 BUSINESS
-(cid:129) ICV testing and related services generally do not require external suppliers to
+ ICV testing and related services generally do not require external suppliers to
 provide any products or services; and
-(cid:129) Advisory and other services mainly require services providers to provide (i)
+ Advisory and other services mainly require services providers to provide (i)
 eventplanningservices,livestreamingservicesandadvertisingservices,etc.to
 assist us in organising industry seminars and conferences; and (ii)
 transportation services via drones to assist us in providing drone-related
@@ -13741,7 +13741,7 @@ PRC in all material respects.
 We have in place comprehensive internal control measures and policies to make sure we
 do not violate any applicable laws or regulations on data protection and privacy or infringe
 upon any third party rights in our collection and processing of data. These measures include:
-(cid:129) Our data is collected on an as-needed basis. We are required to make a
+ Our data is collected on an as-needed basis. We are required to make a
 comprehensive judgement based on the circumstances as to the necessity of data
 collection. In the case that the relevant data collection subject authorises us to
 collect its data, we will not process the data beyond the scope and purpose
@@ -13750,26 +13750,26 @@ authorised by the data subject;
 
 === PAGE 336 ===
 BUSINESS
-(cid:129) We strictly control our data collection method and monitor the data collection
+ We strictly control our data collection method and monitor the data collection
 process.Ourdatacollectionpersonnelarenotallowedtoinfringethesecuritypolicy
 or violate the encryption rules;
-(cid:129) The data processed by our own data acquisition devices and software is
+ The data processed by our own data acquisition devices and software is
 automatically desensitised upon collection through cleansing, encryption and
 anonymisation in accordance with applicable laws, regulations and policies and
 standards regarding security and privacy;
-(cid:129) We strictly analyse the type of data prior to collection. Personal information,
+ We strictly analyse the type of data prior to collection. Personal information,
 materials attached with IP rights or containing trade secrets of third parties will not
 be collected without first obtaining authorisation;
-(cid:129) We are required to limit the volume of data to be collected to a reasonable level,
+ We are required to limit the volume of data to be collected to a reasonable level,
 durationtokeepthedatatoaminimallevelandconsiderthepotentialpublicinterest
 implications. We evaluate whether such data collection will subject us to
 reputational risks or disputes;
-(cid:129) We have implemented various internal control measures to ensure secured storage
+ We have implemented various internal control measures to ensure secured storage
 and transmission of data, including establishment of a dedicated team responsible
 for cyber security and data security management to oversee the implementation and
 assessment of our data security measures, and prohibiting any unnecessary access to
 our database; and
-(cid:129) We have adopted internal management procedures to ensure the safety management
+ We have adopted internal management procedures to ensure the safety management
 of data, including data processing guidelines covering the full-cycle of data
 processing, facility entry control (unauthorised persons are prevented from gaining
 physical access to the premises), use control (prevention of use/installation of
@@ -15105,13 +15105,13 @@ Directors, three non-executive Directors and three independent non-executive Dir
 Directors are of the view that our Board and management team are able to manage our business
 independently from the Controlling Shareholders and their close associates for the following
 reasons:
-(cid:129) Our daily operational and management activities are made collectively by our
+ Our daily operational and management activities are made collectively by our
 executive Directors and our management team.
-(cid:129) Each Director is aware of his/her fiduciary duties as a Director of our Company
+ Each Director is aware of his/her fiduciary duties as a Director of our Company
 which require, among other things, that he/she acts for the benefit and in the best
 interests of our Company and does not allow any conflict between his/her duties as
 a Director and his/her personal interest.
-(cid:129) In the event that there is a potential conflict of interest arising out of any transaction
+ In the event that there is a potential conflict of interest arising out of any transaction
 to be entered into between our Group and our Directors and/or their respective close
 associates, the interested Director(s) and his/her/their respective close associates
 shall abstain from voting at the relevant board meetings of our Company in respect
@@ -15120,13 +15120,13 @@ of such transactions.
 
 === PAGE 371 ===
 RELATIONSHIP WITH OUR CONTROLLING SHAREHOLDERS
-(cid:129) Our independent non-executive Directors have been appointed in compliance with
+ Our independent non-executive Directors have been appointed in compliance with
 the requirements under the Listing Rules to ensure that the decisions of our Board
 will be made only after due and careful consideration of independent and impartial
 opinions. Our Directors believe that the presence of independent non-executive
 Directors provides a balance of views and opinions and will bring independent
 judgement to the decision-making process of the Board.
-(cid:129) Members of our management team, other than members of the Management Group,
+ Members of our management team, other than members of the Management Group,
 are independent from our Controlling Shareholders and their respective close
 associates. They have relevant industry expertise and substantial experience to
 implement our Group’s policies and strategies and can discharge their duties
@@ -19962,7 +19962,7 @@ enhance our technological capabilities and enhance our key technological competi
 the next three years. Specifically, we intend to apply the net proceeds earmarked for this
 purpose to the following R&D initiatives:
 Continuing to develop and upgrade our existing solutions
-(cid:129) Approximately HK$75.0 million, representing approximately 17.5% of our net
+ Approximately HK$75.0 million, representing approximately 17.5% of our net
 proceeds, will be allocated to the R&D of our existing solutions, Sim Pro,
 Safety Pro, SceCo Pro and Traffic Pro, mainly for (i) recruiting technical
 professionals and industry experts in areas such as software engineering, algorithm
@@ -20016,7 +20016,7 @@ and R&D facilities in mainland China and Hong Kong.
 === PAGE 497 ===
 FUTURE PLANS AND USE OF PROCEEDS
 Developing new ICV testing, validation and evaluation solutions
-(cid:129) Approximately HK$131.8 million, representing approximately 30.8% of our net
+ Approximately HK$131.8 million, representing approximately 30.8% of our net
 proceeds, will be allocated to the R&D of the following tools (which can be
 integrated into our simulation testing solutions and/or independently offered to our
 customers as standalone software products), mainly for (i) recruiting technical
@@ -20064,7 +20064,7 @@ research,etc.areexpectedtoberecruitedoverthenextthreeyears,consistingof14,
 to develop SGO Pro, DB Pro and Cloud Pro. Our technical staff will be based in
 our office premises and R&D facilities in mainland China and Hong Kong.
 Penetration into new industries
-(cid:129) Approximately HK$59.4 million, representing approximately 13.9% of our net
+ Approximately HK$59.4 million, representing approximately 13.9% of our net
 proceeds, will be allocated to R&D activities for penetrating into new industries,
 mainly for (i) recruiting technical professionals and industry experts in areas such
 as software engineering, algorithm engineering, ICV testing, product and user
@@ -20104,7 +20104,7 @@ and strengthening our sales and marketing efforts to capture the market opportun
 emerging ICV testing, validation and evaluation solutions industry in both domestic and
 international markets. We intend to implement such strategies with a detailed breakdown of
 proceeds to be allocated as follows:
-(cid:129) approximately HK$45.4 million, representing approximately 10.6% of our net
+ approximately HK$45.4 million, representing approximately 10.6% of our net
 proceeds, will be allocated to the lease of new office premises in mainland China
 and Hong Kong as well as the initial office renovation thereof to (i) accommodate
 the increase of our employees as a result of our future recruitment plans; and (ii)
@@ -20113,11 +20113,11 @@ China and Hong Kong. We believe that setting up new offices in cities where we
 intend to expand our business will help us forge and maintain strong relationships
 with local customers as well as provide prompt services to them when needed (such
 as on-site installation services and after-sales services);
-(cid:129) approximately HK$24.6 million, representing approximately 5.7% of our net
+ approximately HK$24.6 million, representing approximately 5.7% of our net
 proceeds, will be allocated to expanding our management and administration team
 by attracting additional management from middle to high levels and other
 administration talents; and
-(cid:129) approximately HK$48.9 million, representing approximately 11.5% of our net
+ approximately HK$48.9 million, representing approximately 11.5% of our net
 proceeds, will be used to increase our sales and marketing efforts which we believe
 will help us enhance the brand awareness of our solutions, broaden our customer
 base and pursue our business expansion plans. Specifically, we plan to recruit
@@ -21255,13 +21255,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who can apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the White Form eIPO service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the White Form eIPO service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the
 person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or its close associates; or
-(cid:129) are a Director, a Supervisor or any of his/her close associates.
+ are an existing Shareholder or its close associates; or
+ are a Director, a Supervisor or any of his/her close associates.
 2. Application channels
 The Hong Kong Public Offering period will begin at 9:00 am on Tuesday, 31
 December 2024 and end at 12:00 noon on Friday, 10 January 2025 (Hong Kong time).
@@ -21351,17 +21351,17 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information required to apply
 You must provide the following information with your application:
 For Individual/Joint applicants For corporate applicants
-(cid:129) Full name(s)2 as shown on your (cid:129) Full name(s)2 as shown on your
+ Full name(s)2 as shown on your Full name(s)2 as shown on your
 identity document identity document
-(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
+ Identity document’s issuing country or Identity document’s issuing country or
 jurisdiction jurisdiction
-(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
+ Identity document type, with order of Identity document type, with order of
 priority: priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification document; ii. Certificate of incorporation; or
 or iii. Business registration certificate; or
 iii. Passport; and iv. Other equivalent document; and
-(cid:129) Identity document number (cid:129) Identity document number
+ Identity document number Identity document number
 Notes:
 (1) If you are applying through the White Form eIPO service, you are required to provide a valid e-mail
 address,acontacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclarethatthe
@@ -21397,9 +21397,9 @@ above.
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -21644,21 +21644,21 @@ application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 – 529 –
 
 === PAGE 540 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 “A.Applications for Hong Kong Offer Shares – 5. Multiple applications prohibited”
 in this section on what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted H Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -21782,9 +21782,9 @@ post at your own risk
 E. BAD WEATHER ARRANGEMENTS
 The opening and closing of the application lists
 The application lists will not open or close on Friday, 10 January 2025 if, there is/are:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) an Extreme Condition(s),
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ an Extreme Condition(s),
 (collectively “Bad Weather Signal(s)”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Friday, 10 January
 2025.
@@ -21805,12 +21805,12 @@ will make appropriate arrangements for the delivery of the H Share certificates 
 Depository’s service counter so that they would be available for trading on Wednesday, 15
 January 2025.
 If a Bad Weather Signal is hoisted on Tuesday, 14 January 2025:
-(cid:129) for physical H Share certificates of less than 1,000,000 offer shares issued under
+ for physical H Share certificates of less than 1,000,000 offer shares issued under
 your own name, despatch will be made by ordinary post when the post office
 re-opens after the BadWeather Signals is lowered or cancelled (e.g. in the afternoon
 of Tuesday, 14 January 2025 or on Wednesday, 15 January 2025).
 If a Bad Weather Signal is hoisted on Wednesday, 15 January 2025:
-(cid:129) forphysicalHSharecertificatesof1,000,000ormoreoffersharesissuedunderyour
+ forphysicalHSharecertificatesof1,000,000ormoreoffersharesissuedunderyour
 own name, you may pick them up from the H Share Registrar’s office after the Bad
 Weather Signal is lowered or cancelled (e.g. in the afternoon of Wednesday, 15
 January 2025 or on Thursday, 16 January 2025).
@@ -21863,27 +21863,27 @@ supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund cheque and White Form e-Refund payment
+ processing your application and refund cheque and White Form e-Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of
 allocation of Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
 – 535 –
 
 === PAGE 546 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) registering new issues or transfers into or out of the names of the holders of the
+ registering new issues or transfers into or out of the names of the holders of the
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of our Company;
-(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
+ maintaining or updating the register of members of our Company;
+ verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from our Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenableour
+ distributing communications from our Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenableour
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the Shares and/or regulators and/or any other purposes to which
 applicants and holders of the Shares may from time to time agree.
@@ -21893,25 +21893,25 @@ for and holders of Hong Kong Offer Shares will be kept confidential but our Comp
 H Share Registrar may, to the extent necessary for achieving any of the above purposes,
 disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to, from
 or with any of the following:
-(cid:129) our Company’s appointed agents such as financial advisers, receiving bank and
+ our Company’s appointed agents such as financial advisers, receiving bank and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and
 operating FINI and CCASS (including where applicants for the Hong Kong Offer
 Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to our Company or the H
 Share Registrar in connection with their respective business operation;
 – 536 –
 
 === PAGE 547 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of personal data
@@ -22586,9 +22586,9 @@ oftheitemcanbemeasuredreliably.Thecarryingamountofthereplacedpartisderecognized.
 maintenance are charged to profit or loss during the financial period in which they are incurred.
 Depreciation on equipment is calculated using the straight-line method to allocate their cost to their residual
 values over their estimated useful lives, as follows:
-(cid:129) Electronic equipment 3-5 years
-(cid:129) Furniture and fixtures 3-5 years
-(cid:129) Motor vehicles 3-5 years
+ Electronic equipment 3-5 years
+ Furniture and fixtures 3-5 years
+ Motor vehicles 3-5 years
 The assets’ residual values and useful lives are reviewed, and adjusted if appropriate, at the end of each
 reporting period.
 An asset’s carrying amount is written down immediately to its recoverable amount if the asset’s carrying
@@ -22628,9 +22628,9 @@ thatsufferedanimpairmentarereviewedforpossiblereversaloftheimpairmentattheendofe
 2.8 Investments and other financial assets
 2.8.1 Classification
 The Group classifies its financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through other comprehensive income, or
+ those to be measured subsequently at fair value (either through other comprehensive income, or
 through profit or loss), and
-(cid:129) those to be measured at amortized cost.
+ those to be measured at amortized cost.
 The classification depends on the Group’s business model for managing the financial assets and the
 contractual terms of the cash flows.
 For assets measured at fair value, gains and losses will either be recorded in profit or loss or other
@@ -22656,13 +22656,13 @@ Debt instruments
 Subsequent measurement of debt instruments depends on the Group’s business model for
 managing the asset and the cash flow characteristics of the asset. There are three measurement
 categories into which the Group classifies its debt instruments:
-(cid:129) Amortized cost: Assets that are held for collection of contractual cash flows where those cash
+ Amortized cost: Assets that are held for collection of contractual cash flows where those cash
 flowsrepresentsolelypaymentsofprincipalandinterestaremeasuredatamortizedcost.Again
 or loss on a debt investment that is subsequently measured at amortized cost and is not part of
 ahedgingrelationshipisrecognizedinprofitorlosswhentheassetisderecognizedorimpaired.
 Interest income from these financial assets is included in finance income using the effective
 interest rate method.
-(cid:129) Fairvaluethroughothercomprehensiveincome(“FVOCI”):Assetsthatareheldforcollectionof
+ Fairvaluethroughothercomprehensiveincome(“FVOCI”):Assetsthatareheldforcollectionof
 contractualcashflowsandforsellingthefinancialassets,wheretheassets’cashflowsrepresent
 solely payments of principal and interest, are measured at FVOCI. Movements in the carrying
 amountaretakenthroughOCI,exceptfortherecognitionofimpairmentgainsorlosses,interest
@@ -22673,7 +22673,7 @@ incomefromthesefinancialassetsisincludedinfinanceincomeusingtheeffectiveinterest
 method. Foreign exchange gains and losses are presented in other gains/(losses), net and
 impairment expenses are presented as separate line item in the consolidated statements of
 comprehensive income.
-(cid:129) Fairvaluethroughprofitorloss:AssetsthatdonotmeetthecriteriaforamortizedcostorFVOCI
+ Fairvaluethroughprofitorloss:AssetsthatdonotmeetthecriteriaforamortizedcostorFVOCI
 are measured at fair value through profit or loss. A gain or loss on a debt investment that is
 subsequentlymeasuredatfairvaluethroughprofitorlossandisnotpartofahedgingrelationship
 isrecognizedinprofitorlossandpresentednetintheconsolidatedstatementsofcomprehensive
@@ -22716,8 +22716,8 @@ meets all the conditions of de-recognition of transfer of cash flows (“pass th
 transfers substantially all the risks and rewards of ownership of the financial asset.
 Where a transfer of a financial asset in its entirety meets the criteria for derecognition, the
 difference between the two amounts below is recognized in profit or loss:
-(cid:129) the carrying amount of the financial asset transferred;
-(cid:129) thesumoftheconsiderationreceivedfromthetransferandanycumulativegainorlossthat
+ the carrying amount of the financial asset transferred;
+ thesumoftheconsiderationreceivedfromthetransferandanycumulativegainorlossthat
 has been recognized directly in equity.
 IftheGroupneithertransfersnorretainssubstantiallyalltherisksandrewardsofownershipand
 continuestocontrolthetransferredasset,theGroupcontinuestorecognizetheassettotheextentofits
@@ -22731,10 +22731,10 @@ such as bankruptcy or the termination of a contract.
 2.10 Contract fulfilment costs
 The Group recognizes the contract fulfilment costs from the costs incurred to fulfil a contract only if those
 costs meet all of the following criteria:
-(cid:129) thecostsrelatedirectlytoacontractortoananticipatedcontractthattheentitycanspecificallyidentify;
-(cid:129) thecostsgenerateorenhanceresourcesoftheentitythatwillbeusedinsatisfying(orincontinuingto
+ thecostsrelatedirectlytoacontractortoananticipatedcontractthattheentitycanspecificallyidentify;
+ thecostsgenerateorenhanceresourcesoftheentitythatwillbeusedinsatisfying(orincontinuingto
 satisfy) performance obligations in the future; and
-(cid:129) the costs are expected to be recovered.
+ the costs are expected to be recovered.
 The contract fulfilment costs recognized shall be amortized to profit or loss on a systematic basis that is
 consistent with the transfer to the customer of the services to which the asset relates.
 – I-21 –
@@ -22743,9 +22743,9 @@ consistent with the transfer to the customer of the services to which the asset 
 APPENDIX I ACCOUNTANT’S REPORT
 The Group recognizes an impairment loss in profit or loss to the extent that the carrying amount of contract
 fulfilment cost recognized exceeds:
-(cid:129) theremainingamountofconsiderationthattheentityexpectstoreceiveinexchangefortheservicesto
+ theremainingamountofconsiderationthattheentityexpectstoreceiveinexchangefortheservicesto
 which the asset relates; less
-(cid:129) thecoststhatrelatedirectlytoprovidingthoseservicesandthathavenotbeenrecognizedasexpenses.
+ thecoststhatrelatedirectlytoprovidingthoseservicesandthathavenotbeenrecognizedasexpenses.
 2.11 Trade and notes receivables and other receivables
 Trade and notes receivables are amounts due from customers for products sold or services performed in the
 ordinarycourseofbusiness.Majorityofotherreceivablesaredeposits.Ifthecollectionoftradeandotherreceivables
@@ -22899,9 +22899,9 @@ received in exchange for the grant of the equity instruments is recognized as an
 statements of comprehensive income with a corresponding increase in equity.
 Intermsofrestrictedstockunitsawardedtoemployees,thetotalamounttobeexpensedisdetermined
 by reference to the fair value of the options granted:
-(cid:129) including any market performance conditions;
-(cid:129) excluding the impact of any service and non-market performance vesting conditions; and
-(cid:129) including the impact of any non-vesting conditions.
+ including any market performance conditions;
+ excluding the impact of any service and non-market performance vesting conditions; and
+ including the impact of any non-vesting conditions.
 Serviceandnon-marketingperformancevestingconditionsareincludedinthecalculationofthenumber
 of restricted stock units that are expected to vest. The total amount expensed is recognized over the vesting
 period, which is the period over which all of the specified vesting conditions are to be satisfied.
@@ -22949,16 +22949,16 @@ depending on the relationship between the Group’s performance and the customer
 2.23 Earnings per share
 (a) Basic earnings per share
 Basic earnings per share is calculated by dividing:
-(cid:129) the profit attributable to owners of the Company, excluding any costs of servicing equity other
+ the profit attributable to owners of the Company, excluding any costs of servicing equity other
 than ordinary shares;
-(cid:129) bytheweightedaveragenumberofordinarysharesoutstandingduringthefinancialyear,adjusted
+ bytheweightedaveragenumberofordinarysharesoutstandingduringthefinancialyear,adjusted
 for bonus elements in ordinary shares issued during the year and excluding treasury shares.
 (b) Diluted earnings per share
 Diluted earnings per share adjusts the figures used in the determination of basic earnings per share to
 take into account:
-(cid:129) theafter-incometaxeffectofinterestandotherfinancingcostsassociatedwithdilutivepotential
+ theafter-incometaxeffectofinterestandotherfinancingcostsassociatedwithdilutivepotential
 ordinary shares; and
-(cid:129) the weighted average number of additional ordinary shares that would have been outstanding
+ the weighted average number of additional ordinary shares that would have been outstanding
 assuming the conversion of all dilutive potential ordinary shares.
 2.24 Dividend income
 Dividend income is recognized when the right to receive payment is established.
@@ -23097,14 +23097,14 @@ collectiveassessmentsaswellasindividualassessmentontherecoverabilityofotherrecei
 onhistoricalsettlementrecordsandpastexperiences.TheGroupmeasurescreditriskusingProbability
 of Default (“PD”), Exposure at Default (“EAD”) and Loss Given Default (“LGD”). This is similar to
 the approach used for the purposes of measuring ECL under IFRS 9.
-(cid:129) Otherreceivablesthatarenotcredit-impairedoninitialrecognitionareclassifiedas‘Stage
+ Otherreceivablesthatarenotcredit-impairedoninitialrecognitionareclassifiedas‘Stage
 1’andhavetheircreditriskcontinuouslymonitoredbytheGroup.Theexpectedcreditloss
 is measured on a 12-month basis.
-(cid:129) If a significant increase in credit risk (specifically, when the debtor is more than 30 days
+ If a significant increase in credit risk (specifically, when the debtor is more than 30 days
 past due on its contractual payments) since initial recognition is identified, the financial
 instrumentismovedto‘Stage2’butisnotyetdeemedtobecredit-impaired.Theexpected
 credit loss is measured on a lifetime basis.
-(cid:129) Ifthefinancialinstrumentiscredit-impaired(specifically,whenthedebtorismorethan90
+ Ifthefinancialinstrumentiscredit-impaired(specifically,whenthedebtorismorethan90
 dayspastdueonitscontractualpayments),thefinancialinstrumentisthenmovedto‘Stage
 3’. The expected credit loss is measured on a lifetime basis.
 Astherehasbeennosignificantincreaseincreditrisksinceinitialrecognition,alloftheGroup’s
@@ -23174,10 +23174,10 @@ APPENDIX I ACCOUNTANT’S REPORT
 ThetablebelowanalysestheGroup’sfinancialinstrumentscarriedatfairvalueasateachbalancesheetdate,
 byleveloftheinputstovaluationtechniquesusedtomeasurefairvalue.Suchinputsarecategorizedintothreelevels
 within a fair value hierarchy as follows:
-(cid:129) Quoted prices (unadjusted) in active markets for identical assets or liabilities (level 1);
-(cid:129) Inputsotherthanquotedpricesincludedwithinlevel1thatareobservablefortheassetorliability,either
+ Quoted prices (unadjusted) in active markets for identical assets or liabilities (level 1);
+ Inputsotherthanquotedpricesincludedwithinlevel1thatareobservablefortheassetorliability,either
 directly (that is, as prices) or indirectly (that is, derived from prices) (level 2); and
-(cid:129) Inputs for the asset or liability that are not based on observable market data (that is, unobservable
+ Inputs for the asset or liability that are not based on observable market data (that is, unobservable
 inputs) (level 3).
 ThefollowingtablespresenttheGroup’sassetsorliabilitiesthataremeasuredatfairvalueasatDecember31,
 2021, 2022, 2023 and June 30, 2024.
@@ -25579,8 +25579,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
-(cid:129) The related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) The unaudited pro forma financial information reflects the proper application of
+ The related pro forma adjustments give appropriate effect to those criteria; and
+ The unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountant’s judgment, having regard to
 the reporting accountant’s understanding of the nature of the company, the event or transaction
@@ -30238,27 +30238,27 @@ consideration of RMB1.0:
 (i) the Participant resigns or ceases to work for our Group without misconduct on the
 part of the Participant within 36 months following the Listing Date for reasons
 including but not limited to the following:
-(cid:129) the Participant and our Group mutually agree to terminate the employment
+ the Participant and our Group mutually agree to terminate the employment
 relationship;
-(cid:129) the Participant loses his or her earning capacity;
-(cid:129) disability of the Participant;
+ the Participant loses his or her earning capacity;
+ disability of the Participant;
 – VI-49 –
 
 === PAGE 751 ===
 APPENDIX VI STATUTORY AND GENERAL INFORMATION
-(cid:129) retirement of the Participant; and
-(cid:129) the Participant was laid off by our Group for economic reasons;
+ retirement of the Participant; and
+ the Participant was laid off by our Group for economic reasons;
 (ii) the Participant ceases to work for our Group without approval or is dismissed by our
 Group for misconducts including but not limited to the following:
-(cid:129) the Participant’s material breach of the employment contract or other rules set
+ the Participant’s material breach of the employment contract or other rules set
 by our Group;
-(cid:129) the Participant’s material violation of any laws, regulations or the Articles of
+ the Participant’s material violation of any laws, regulations or the Articles of
 Association of our Group;
-(cid:129) the Participant is subject to criminal penalties;
-(cid:129) the Participant engages in business that competes with our Group, taking
+ the Participant is subject to criminal penalties;
+ the Participant engages in business that competes with our Group, taking
 advantage of his position in our Group or engages in other acts of
 unfaithfulness to our Group; and
-(cid:129) theParticipant’snegligenceormalpracticeresultinginmaterialadverseimpact
+ theParticipant’snegligenceormalpracticeresultinginmaterialadverseimpact
 to our Group;
 (iii) occurrence of circumstances under which the Participant is prohibited from acting
 as a director or member of the senior management of our Company according to the
@@ -30287,11 +30287,11 @@ into the limited partnership (i.e. RMB1.0) after deducting the amount of
 compensation for any losses caused by the Participant to Tongda. If the settlement
 mechanism is deemed invalid under the relevant laws and regulations, our Company
 may conduct the settlement in either of the following ways:
-(cid:129) our Company will adopt a settlement mechanism which is recognised by the
+ our Company will adopt a settlement mechanism which is recognised by the
 applicable laws, and settlement which is recognised by a binding court
 judgement or an arbitration award at the relevant time shall be regarded as a
 settlement recognised by the applicable law; or
-(cid:129) theamountofsettlementpaymentwillbetheshareofTongda’snetassetsvalue
+ theamountofsettlementpaymentwillbetheshareofTongda’snetassetsvalue
 corresponding to the Participant’sAwards at the end of the previous year after
 deducting the amount of compensation for any losses caused by the Participant
 to Tongda.

@@ -152,11 +152,11 @@ Hong Kong Public Offering commences . . . . . . . . . . . . . . . . . . . . . . 
 Friday, 28 June, 2024
 Latest time for completing electronic applications under the
 HK eIPO White Form service through one of the below ways(2):
-(cid:129) the IPO App, which can be downloaded by searching
+ the IPO App, which can be downloaded by searching
 “IPO App” in App Store or Google Play or
 downloaded at www.hkeipo.hk/IPOApp or
 www.tricorglobal.com/IPOApp
-(cid:129) the designated website at www.hkeipo.hk . . . . . . . . . . . . . . . . . .11:30 a.m. on Friday,
+ the designated website at www.hkeipo.hk . . . . . . . . . . . . . . . . . .11:30 a.m. on Friday,
 July 5, 2024
 Application lists open(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11:45 a.m. on Friday,
 July 5, 2024
@@ -188,12 +188,12 @@ Announcement of results of allocations in the Hong Kong
 Public Offering (with successful applicants’
 identification document numbers, where appropriate)
 to be available through a variety of channels, including:
-(cid:129) in the announcement to be posted on our website
+ in the announcement to be posted on our website
 and the website of the Stock Exchange at
 https://www.ruqimobility.com and www.hkexnews.hk
 respectively(9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .Tuesday,
 July 9, 2024
-(cid:129) from “IPO Results” function in the IPO App or the
+ from “IPO Results” function in the IPO App or the
 designated results of allocations website at
 www.hkeipo.hk/IPOResult or www.tricor.com.hk/ipo/result
 with a “search by ID” function from . . . . . . . . . . . . . . . . . . . . .11:00 p.m. on Tuesday,
@@ -202,7 +202,7 @@ to 12:00
 midnight on
 Monday,
 July 15, 2024
-(cid:129) from the allocation results telephone enquiry line
+ from the allocation results telephone enquiry line
 by calling +852 3691 8488 between 9:00 a.m. and
 6:00 p.m. from. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .Wednesday,
 July 10, 2024 to
@@ -470,25 +470,25 @@ profitability, achieve sustainable growth of our revenue and improve our operati
 conditions. See “Business – Path to Profitability.”
 OUR STRATEGIES
 To achieve our goals, we have formulated the following strategies:
-(cid:129) Leverage Success in Key Regions and First-Mover Advantage in Robotaxi
+ Leverage Success in Key Regions and First-Mover Advantage in Robotaxi
 Operation to Build Mobility Service Platform With Full-Suite of Offerings
-(cid:129) Continue to Implement our Geographical Expansion Strategy to Enhance Ride-
+ Continue to Implement our Geographical Expansion Strategy to Enhance Ride-
 Hailing Operational Efficiency
-(cid:129) Refine Hybrid Operation Model and Offer Smooth Robotaxi Experience
-(cid:129) Optimize Operational Management with Data Analysis
-(cid:129) Enhance Brand Awareness
-(cid:129) Recruit and Cultivate Leading Talent
+ Refine Hybrid Operation Model and Offer Smooth Robotaxi Experience
+ Optimize Operational Management with Data Analysis
+ Enhance Brand Awareness
+ Recruit and Cultivate Leading Talent
 See “Business – Our Strategies.”
 OUR STRENGTHS
 We believe the following competitive strengths have contributed to our success:
-(cid:129) Mobility Service Company with Strong Presence in GBA
-(cid:129) Robust Industry Resources and Supportive Policies
-(cid:129) Continual Improvement of Operational Efficiency
-(cid:129) High-Quality Mobility Services
-(cid:129) Strong Capabilities to Promote Robotaxi Commercialization
-(cid:129) Advanced Technological Capabilities
-(cid:129) Diverse Service Offering Empowered by Broad Industry Resources
-(cid:129) Leadership with Shared Mission, Discernment and Strong Execution Capabilities
+ Mobility Service Company with Strong Presence in GBA
+ Robust Industry Resources and Supportive Policies
+ Continual Improvement of Operational Efficiency
+ High-Quality Mobility Services
+ Strong Capabilities to Promote Robotaxi Commercialization
+ Advanced Technological Capabilities
+ Diverse Service Offering Empowered by Broad Industry Resources
+ Leadership with Shared Mission, Discernment and Strong Execution Capabilities
 See “Business – Our Strengths.”
 – 3 –
 
@@ -537,7 +537,7 @@ Year ended December 31,
 Daily order volume (thousands) 128.6 182.4 267.8
 Average monthly active riders (thousands) 1,031.7 1,203.8 1,047.3
 Average GTV per order (RMB) 28.7 27.0 28.0
-(cid:129) Ride-Hailing. We began our ride-hailing service in Guangzhou in 2019. We deliver our
+ Ride-Hailing. We began our ride-hailing service in Guangzhou in 2019. We deliver our
 ride-hailing services primarily through our mobile apps and our Weixin Mini Program.
 During the Track Record Period, the order volume of our ride-hailing services increased
 from 46.0 million in 2021 to 97.3 million in 2023, representing a CAGR of 45.4%; our
@@ -623,7 +623,7 @@ SUMMARY
 margins, from (24.2)% in 2021 to (10.7)% in 2022, and further to (7.0)% in 2023. See
 “Financial Information – Description of Major Components of Our Results of Operations
 – Gross Loss and Gross Margin.”
-(cid:129) Robotaxi. In addition to manned ride-hailing services, we offer our riders ride-hailing
+ Robotaxi. In addition to manned ride-hailing services, we offer our riders ride-hailing
 services fulfilled by driverless shared mobility vehicles, namely Robotaxi services. We
 started promoting the development and commercialization of Robotaxi in 2021. In
 October 2022, we were the first mobility platform in the world to launch a
@@ -636,7 +636,7 @@ Record Period, the revenue generated from Robotaxi was marginal.
 We also provide other services including hitch and marketing and promotion services via
 our platform.
 Technology Services
-(cid:129) AI Data and Model Solutions. Our AI data and model solutions focus on providing
+ AI Data and Model Solutions. Our AI data and model solutions focus on providing
 one-stop solutions encompassing data collection, data annotation, data management and
 model training for the autonomous driving industry.We have developed a set of tools and
 platform that can be used for multimodal data training, including OnTime Data Collects
@@ -644,7 +644,7 @@ platform that can be used for multimodal data training, including OnTime Data Co
 (data annotation) and OnTime AI Trainer (an integrated platform combining data
 container management, with model development, model training and model evaluation
 functions).
-(cid:129) High-definition Map. Our HD map, OnTime MapNet, integrates data collection,
+ High-definition Map. Our HD map, OnTime MapNet, integrates data collection,
 real-time vehicle-end cloud updates and multilayer integration, and is committed to
 providing real-time, low-cost, high-quality, HD map update solutions for automobile
 manufacturers and map developers.
@@ -1178,38 +1178,38 @@ RISK FACTORS
 Our business and the Global Offering involve certain risks as set out in “Risk Factors.”
 You should carefully read that section in its entirety before you decide to invest in our Offer
 Shares. Some of the major risks we face include:
-(cid:129) The ride-hailing industry is highly competitive, and we may be unable to compete
+ The ride-hailing industry is highly competitive, and we may be unable to compete
 effectively.
-(cid:129) If we are unable to attract or retain riders, our business, results of operations and
+ If we are unable to attract or retain riders, our business, results of operations and
 financial condition may be materially and adversely impacted.
-(cid:129) If we are unable to attract or retain drivers, our platform will become less appealing
+ If we are unable to attract or retain drivers, our platform will become less appealing
 to riders, and our business, results of operations and financial condition may be
 materially and adversely impacted.
-(cid:129) We generate a significant percentage of our transactions from the Greater BayArea.
+ We generate a significant percentage of our transactions from the Greater BayArea.
 If our operations in the Greater Bay Area are adversely affected, our business,
 results of operations, financial condition and prospects may be materially and
 adversely impacted.
-(cid:129) If we cannot efficiently expand our geographic reach and promote the public
+ If we cannot efficiently expand our geographic reach and promote the public
 awareness of our offerings, our business, results of operations, financial condition
 and prospects may be materially and adversely impacted.
 – 21 –
 
 === PAGE 33 ===
 SUMMARY
-(cid:129) The market where we operate is still evolving. If the market does not grow as
+ The market where we operate is still evolving. If the market does not grow as
 expected, our business, results of operations, financial condition and prospects may
 be materially and adversely affected.
-(cid:129) We are required to obtain and maintain the requisite licenses and approvals, and if
+ We are required to obtain and maintain the requisite licenses and approvals, and if
 we are required to take actions that are time-consuming or costly in order to obtain
 and maintain such requisite licenses and approvals, our business, results of
 operations and financial condition may be materially and adversely affected.
-(cid:129) We might have been deemed to provide payment services without a payment
+ We might have been deemed to provide payment services without a payment
 business permit for a period of time during the Track Record Period.
-(cid:129) We are required to comply with and respond to developments of the regulations or
+ We are required to comply with and respond to developments of the regulations or
 licensing regimes regarding the market where we operate, otherwise our business,
 results of operations and financial condition may be materially and adversely
 affected.
-(cid:129) Any significant disruption in service on our platform, malfunctions of our
+ Any significant disruption in service on our platform, malfunctions of our
 technologysystems,errorsandqualityissuesinoursoftware,hardwareandsystems,
 or human errors in operating these systems, could materially and adversely affect
 our business, results of operations and financial condition.
@@ -1220,23 +1220,23 @@ we will receive net proceeds of approximately HK$1,106.6 million from the Global
 afterdeductingtheunderwritingcommissions,feesandotherestimatedexpensesinconnection
 with the Global Offering. In line with our strategies, we intend to use our proceeds from the
 Global Offering for the following purposes:
-(cid:129) approximately 40%, or HK$442.6 million (equivalent to approximately RMB403.2
+ approximately 40%, or HK$442.6 million (equivalent to approximately RMB403.2
 million), is expected to be used for the R&D activities of autonomous driving and
 Robotaxi operation service.
-(cid:129) approximately 20%, or HK$221.3 million (equivalent to approximately RMB201.6
+ approximately 20%, or HK$221.3 million (equivalent to approximately RMB201.6
 million), is expected to be used for product upgrading and operational efficiency
 improvement of our mobility services.
-(cid:129) approximately 20%, or HK$221.3 million (equivalent to approximately RMB201.6
+ approximately 20%, or HK$221.3 million (equivalent to approximately RMB201.6
 million) is expected to be used to expand user base, enhance brand awareness and
 increase market share in the implementation of our geographical expansion strategy.
 – 22 –
 
 === PAGE 34 ===
 SUMMARY
-(cid:129) approximately 10%, or HK$110.7 million (equivalent to approximately RMB100.8
+ approximately 10%, or HK$110.7 million (equivalent to approximately RMB100.8
 million), is expected to be used for building strategic partnerships, investments and
 acquisitions along the mobility industry value chain.
-(cid:129) approximately 10%, or HK$110.7 million (equivalent to approximately RMB100.8
+ approximately 10%, or HK$110.7 million (equivalent to approximately RMB100.8
 million), is expected to be used for working capital and general corporate purposes.
 IMPACT OF COVID-19
 The outbreak of COVID-19 severely impacted China and the world from early 2020
@@ -2192,30 +2192,30 @@ statements. These forward-looking statements are based on numerous assumptions r
 our present and future business strategies and the environment in which we will operate in the
 future. Important factors that could cause our actual performance or achievements to differ
 materially from those in the forward-looking statements include, among others, following:
-(cid:129) general political and economic conditions, including those related to the PRC;
-(cid:129) our business prospects and our ability to successfully implement our business plans
+ general political and economic conditions, including those related to the PRC;
+ our business prospects and our ability to successfully implement our business plans
 and strategies;
-(cid:129) future developments, trends and conditions in the industries and markets in which
+ future developments, trends and conditions in the industries and markets in which
 we operate or into which we intend to expand;
-(cid:129) our business operations and prospects;
-(cid:129) our capital expenditure plans;
-(cid:129) the actions and developments of our competitors;
-(cid:129) our financial condition and performance, including revenues, expenses, and
+ our business operations and prospects;
+ our capital expenditure plans;
+ the actions and developments of our competitors;
+ our financial condition and performance, including revenues, expenses, and
 margins, and our ability to achieve or maintain future profitability;
-(cid:129) our dividend policy;
-(cid:129) any changes in the laws, rules and regulations of the central and local governments
+ our dividend policy;
+ any changes in the laws, rules and regulations of the central and local governments
 in the PRC and other relevant jurisdictions and the rules, regulations and policies of
 the relevant governmental authorities relating to all aspects of our business and our
 business plans;
-(cid:129) changes or volatility in interest rates, foreign exchange rates, equity prices or other
+ changes or volatility in interest rates, foreign exchange rates, equity prices or other
 rates or prices, including those pertaining to the PRC and the industries and markets
 in which we operate;
 – 49 –
 
 === PAGE 61 ===
 FORWARD-LOOKING STATEMENTS
-(cid:129) various business opportunities that we may pursue; and
-(cid:129) capital market developments, changes in the global economic conditions and
+ various business opportunities that we may pursue; and
+ capital market developments, changes in the global economic conditions and
 material volatility in the global financial markets.
 Additional factors that could cause actual performance or achievements to differ
 materially include, but are not limited to, those discussed under “Risk Factors” and elsewhere
@@ -2767,24 +2767,24 @@ growth will be sustainable or achievable in the future.
 Our limited operating history and evolving business make it difficult to evaluate our
 prospects and the risks and challenges we may encounter. These risks and challenges include
 our ability to:
-(cid:129) forecast our revenues and budget for and manage our expenses;
-(cid:129) attract new drivers and riders and retain existing drivers and riders in a
+ forecast our revenues and budget for and manage our expenses;
+ attract new drivers and riders and retain existing drivers and riders in a
 cost-effective manner;
-(cid:129) comply with existing and new laws and regulations;
-(cid:129) anticipate and respond to macroeconomic changes and changes in the markets in
+ comply with existing and new laws and regulations;
+ anticipate and respond to macroeconomic changes and changes in the markets in
 which we operate;
-(cid:129) successfully expand our geographic reach and overcome challenges particular to
+ successfully expand our geographic reach and overcome challenges particular to
 new geographical markets;
-(cid:129) hire, integrate and retain talented people at all levels of our organization;
-(cid:129) successfully develop new platform features, products and services to enhance the
+ hire, integrate and retain talented people at all levels of our organization;
+ successfully develop new platform features, products and services to enhance the
 experience of riders;
-(cid:129) anticipate and adapt to evolving market conditions, including technological
+ anticipate and adapt to evolving market conditions, including technological
 developments and changes in the competitive landscape; and
 – 63 –
 
 === PAGE 75 ===
 RISK FACTORS
-(cid:129) effectively deal with outbreak of health pandemics, natural disasters and other
+ effectively deal with outbreak of health pandemics, natural disasters and other
 calamities, such as COVID-19.
 If we fail to address the risks and difficulties that we face, our business, results of
 operations and financial condition may be adversely affected.
@@ -3466,24 +3466,24 @@ RISK FACTORS
 necessary permits or licenses to operate our business, the relevant governmental authorities
 withjurisdictionovertheoperationofourbusinesswouldhavebroaddiscretionindealingwith
 such violation, including, without limitation:
-(cid:129) revoking the business licenses and/or operating licenses of our PRC entities;
-(cid:129) imposing fines on us;
-(cid:129) confiscating any of our income that they deem to be obtained through illegal
+ revoking the business licenses and/or operating licenses of our PRC entities;
+ imposing fines on us;
+ confiscating any of our income that they deem to be obtained through illegal
 operations, or imposing other requirements with which we or our Consolidated
 Affiliated Entities may not be able to comply;
-(cid:129) discontinuing or placing restrictions or onerous conditions on our operations;
-(cid:129) placing restrictions on our right to collect revenue;
-(cid:129) shutting down our servers or blocking our platform;
-(cid:129) requiring us to restructure our ownership structure or operations, including
+ discontinuing or placing restrictions or onerous conditions on our operations;
+ placing restrictions on our right to collect revenue;
+ shutting down our servers or blocking our platform;
+ requiring us to restructure our ownership structure or operations, including
 terminating the contractual arrangements with our Consolidated Affiliated Entities
 and deregistering the equity pledges of our Consolidated Affiliated Entities, which
 in turn would affect our ability to consolidate, derive economic interests from, or
 exert effective control over our Consolidated Affiliated Entities;
-(cid:129) restricting or prohibiting our use of proceeds or other of our financing activities to
+ restricting or prohibiting our use of proceeds or other of our financing activities to
 finance the business and operations of our Consolidated Affiliated Entities;
-(cid:129) imposing additional conditions or requirements with which we may not be able to
+ imposing additional conditions or requirements with which we may not be able to
 comply; or
-(cid:129) takingotherregulatoryorenforcementactionsthatcouldbeharmfultoourbusiness.
+ takingotherregulatoryorenforcementactionsthatcouldbeharmfultoourbusiness.
 Any of these events could cause significant disruption to our business operations and
 severely damage our reputation, which would in turn materially and adversely affect our
 business, financial condition and results of operations. If occurrences of any of these events
@@ -4076,21 +4076,21 @@ located in China, and equity investments in PRC resident enterprises. Gains deri
 transferofPRCtaxableassetsbyadirectholderthatisanon-PRCresidententerpriseissubject
 to PRC enterprise income taxes. When determining whether an arrangement has a “reasonable
 commercial purpose”, the following factors are considered:
-(cid:129) whether the value of the equity interest of the relevant offshore enterprise is mainly
+ whether the value of the equity interest of the relevant offshore enterprise is mainly
 derived from PRC taxable assets;
-(cid:129) whether the assets of the relevant offshore enterprise mainly consist of direct or
+ whether the assets of the relevant offshore enterprise mainly consist of direct or
 indirect investment in China;
-(cid:129) whether the income of the relevant offshore enterprise is mainly generated from
+ whether the income of the relevant offshore enterprise is mainly generated from
 China;
-(cid:129) whether the offshore enterprise and its subsidiaries directly or indirectly holding
+ whether the offshore enterprise and its subsidiaries directly or indirectly holding
 PRC taxable assets have real commercial nature as evidenced by actual function and
 risk exposure;
-(cid:129) forhowlongtheexistingbusinessmodelandorganizationalstructureoftherelevant
+ forhowlongtheexistingbusinessmodelandorganizationalstructureoftherelevant
 offshore enterprise has existed;
-(cid:129) the income tax payable outside of PRC on the gains derived from the indirect
+ the income tax payable outside of PRC on the gains derived from the indirect
 transfer of PRC taxable assets;
-(cid:129) the replicability of the arrangement by direct transfer of PRC taxable assets; and
-(cid:129) the tax situation of such indirect transfer and applicable tax treaties or similar
+ the replicability of the arrangement by direct transfer of PRC taxable assets; and
+ the tax situation of such indirect transfer and applicable tax treaties or similar
 arrangements.
 – 94 –
 
@@ -4630,10 +4630,10 @@ required for: among others, existing shareholders purchasing securities pursuant
 anti-dilution provision.
 Paragraph 13 in Chapter 4.2 of the Guide also provides that, exercise of anti-dilution
 rights before and in connection with the IPO is permissible if:
-(cid:129) the allocation is necessary to give effect to pre-existing contractual rights;
-(cid:129) there is full disclosure of the anti-dilution rights and the number of shares to be
+ the allocation is necessary to give effect to pre-existing contractual rights;
+ there is full disclosure of the anti-dilution rights and the number of shares to be
 subscribed in the listing document and the allotment results announcement; and
-(cid:129) the additional shares will be subscribed at the IPO price.
+ the additional shares will be subscribed at the IPO price.
 Immediately before the completion of the Global Offering and assuming the Share
 Cancellation has been completed, both GAIG and China Lounge are Controlling Shareholders,
 and GAIG and China Lounge directly held 20.53% and 15.05% of the total issued share capital
@@ -4717,10 +4717,10 @@ required for: among others, existing shareholders purchasing securities pursuant
 anti-dilution provision.
 Paragraph 13 in Chapter 4.2 of the Guide also provides that, exercise of anti-dilution
 rights before and in connection with the IPO is permissible if:
-(cid:129) the allocation is necessary to give effect to pre-existing contractual rights;
-(cid:129) there is full disclosure of the anti-dilution rights and the number of shares to be
+ the allocation is necessary to give effect to pre-existing contractual rights;
+ there is full disclosure of the anti-dilution rights and the number of shares to be
 subscribed in the listing document and the allotment results announcement; and
-(cid:129) the additional shares will be subscribed at the IPO price.
+ the additional shares will be subscribed at the IPO price.
 Hongkong Pony AI Limited (“Pony AI”) is an existing Shareholder of our Company,
 holding approximately 5.39% of the total issued share capital of our Company immediately
 before the completion of the Global Offering, assuming the Share Cancellation has been
@@ -4786,14 +4786,14 @@ the Guide, the Stock Exchange requires the following conditions to be fulfilled,
 confirmation from the relevant party indicated, when consider granting a consent and waiver
 from Rule 10.04 of the Listing Rules to placing to existing shareholders or their close
 associates:
-(cid:129) cornerstone investment agreement does not contain any material term which is more
+ cornerstone investment agreement does not contain any material term which is more
 favorable to the existing shareholder or its close associate than those in other
 cornerstone investment agreements;
-(cid:129) no preferential treatment is given to the existing shareholder or its close associates;
-(cid:129) existing shareholder (a) has less than 5% voting rights in the applicant before the
+ no preferential treatment is given to the existing shareholder or its close associates;
+ existing shareholder (a) has less than 5% voting rights in the applicant before the
 offering; (b) is not a core connected person or its close associate; (c) does not have
 the power to appoint directors or any other special rights; and
-(cid:129) allocation to the existing shareholder or its close associates will not affect the
+ allocation to the existing shareholder or its close associates will not affect the
 applicant’sabilitytosatisfythepublicfloatrequirementanddetailsoftheallocation
 will be disclosed in the listing document and/or the allotment results announcement.
 Voyager Group Inc. (“Voyager”) is contemplating participating in the Global Offering
@@ -5341,12 +5341,12 @@ expenditure in that year. Total spending on mobile services in China is expected
 RMB10.1 trillion by 2035.
 However, residents in China are facing many challenges or pain points with respect to
 mobility:
-(cid:129) Traffic congestion. China’s average urban population density is 2.9 thousand people
+ Traffic congestion. China’s average urban population density is 2.9 thousand people
 per km2, which is significantly higher than that of the U.S. (around 0.95 thousand
 people per km2). Such high urban population density has led to traffic congestion,
 especially in rush hours. The average commute time in major cities such as Beijing,
 Guangzhou and Shenzhen was more than 37 minutes in 2023.
-(cid:129) Environmentalpollution.Currently,traditionalInternalCombustionEngine(“ICE”)
+ Environmentalpollution.Currently,traditionalInternalCombustionEngine(“ICE”)
 vehicles remain dominant among registered, privately-owned vehicles in China.
 Penetration rate of New Energy Vehicles (“NEVs”) in terms of the number of
 vehicles in 2023 was only 34.6%. A vast majority of the vehicles on the road still
@@ -5355,12 +5355,12 @@ use fossil fuels and emit GHG and other pollutants.
 
 === PAGE 139 ===
 INDUSTRY OVERVIEW
-(cid:129) Low utilization rate of privately-owned vehicles. Privately-owned vehicles are
+ Low utilization rate of privately-owned vehicles. Privately-owned vehicles are
 typically parked for long hours and are used mostly for daily commute.
 Consequently, the average utilization rate of privately-owned vehicles in China is
 less than 30%, while their values continuously depreciate during useful lives,
 causing significant waste of resources.
-(cid:129) Stringent registration and utilization policies. Many cities in China, such as Beijing
+ Stringent registration and utilization policies. Many cities in China, such as Beijing
 and Shanghai, have executed vehicle registration or utilization restriction policies,
 whichlimitthenumberofvehiclesthatcanberegisteredandoperatedwithincentral
 areas. Due to the high demand for vehicles and the limited supply of license plates,
@@ -5371,19 +5371,19 @@ Driven by continuous technological advancement, including Internet technologies,
 data analytics, Internet of Things (“IoT”) and Artificial Intelligence (“AI”), new trends and
 growth opportunities have emerged in recent years with the potential to address the
 aforementioned problems:
-(cid:129) Sharing economy and platform economy. Driven by technological advancement and
+ Sharing economy and platform economy. Driven by technological advancement and
 increasing consumer purchasing power, the sharing economy and the platform
 economy have grown to a multitrillion-RMB market in China. Influenced by the
 principle of the sharing economy and platform economy, smart mobility service
 platforms endeavor to introduce affordable mobility options.
-(cid:129) Electrificationinautomobileindustry.Electrificationhasbecomeagrowingtrendin
+ Electrificationinautomobileindustry.Electrificationhasbecomeagrowingtrendin
 the automobile industry, both in China and worldwide. Major economies, including
 China, the EU and the U.S., are committed to accelerating the adoption of NEVs.
 The penetration rate of NEVs in terms of sales volume is expected to reach 72.1%
 in 2028 in China, up from 34.6% in 2023, primarily due to favorable policies and
 technological advancement. The penetration rate of NEVs in China is expected to
 reach 86.0% by 2035.
-(cid:129) Autonomous driving in mobility industry. Driven by the goal of cost reduction,
+ Autonomous driving in mobility industry. Driven by the goal of cost reduction,
 Robotaxi is a new trend in transportation services. It leverages the principles of
 sharing economy and platform economy to provide affordable mobility options.
 With autonomous driving technology, Robotaxis operate without human drivers,
@@ -5433,7 +5433,7 @@ INDUSTRY OVERVIEW
 The following chart sets forth a comparison of the key aspects of ride-hailing,
 hitch/carpooling, taxi online hailing and Robotaxi services.
 Robotaxi
-Ride-hailing Hitch/Carpooling Taxi online hailing Robotaxi(cid:289)(cid:297)in 2023)
+Ride-hailing Hitch/Carpooling Taxi online hailing Robotaxi in 2023)
 (in future)
 • Ordering a personalized • Collaborative use of a private car by • Ordering a traditional taxi
 ride online via mobile several individuals traveling along online via mobile
@@ -5448,23 +5448,23 @@ Cap T a r c a i n ty s p S o u r p t ply c fi c o o n m m an p p c a a i n n a i
 Drivers • Professional drivers • Generally private car owners • Professional drivers • Driverless • Driverless
 Platform:
 General operating permit:
-Platform: Ride-hailing • Ride-hailing Operation Permit ((cid:19802)(cid:19721)(cid:26552)(cid:19628)(cid:8610)(cid:18823)(cid:15397)
-Operation Permit ((cid:19802)(cid:19721)(cid:26552) (cid:24178)(cid:19771)(cid:16775)(cid:23001)(cid:9111)(cid:23281))
-(cid:19628)(cid:8610)(cid:18823)(cid:15397)(cid:24178)(cid:19771)(cid:16775)(cid:23001)(cid:9111)(cid:23281)) Regional operating permit (non-exhaustive):
+Platform: Ride-hailing • Ride-hailing Operation Permit ( 
+Operation Permit ( )
+ ) Regional operating permit (non-exhaustive):
 Vehicle: Road Transportation • Beijing: Unmanned Passenger Demonstration
 Operating Permit Vehicle: Ride-hailing
 • Vehicle: no permit requirement
-Permit ((cid:24571)(cid:23959)(cid:24563)(cid:24288)(cid:23281)) Application Notification Letter ((cid:16585)(cid:7778)(cid:8894)(cid:24241)(cid:7778)(cid:18658)(cid:19308)
-in Transportation Vehicle Permit ((cid:19802)(cid:19721)(cid:26552)(cid:19628)
+Permit ( ) Application Notification Letter ( 
+in Transportation Vehicle Permit ( 
 • Driver: no permit requirement
-Driver: Cruising Driver (cid:12657)(cid:17616)(cid:24514)(cid:18317)(cid:13984)) • N/A
-Industry (cid:8610)(cid:18823)(cid:24178)(cid:24563)(cid:24288)(cid:23281)) Permit ((cid:11657)(cid:24562)(cid:8610)(cid:18823)(cid:15397)(cid:24178)(cid:27005) • Guangzhou: Unmanned Autonomous Passenger
-(cid:27011)(cid:9353)(cid:23281)) Service Testing Permit ((cid:16585)(cid:7778)(cid:27005)(cid:27011)(cid:24584)(cid:18867)(cid:24241)(cid:11082)(cid:15828)(cid:23054)
-Driver: Ride-hailing Driver (cid:23001)(cid:9111)); Robotaxi Operation Permit ((cid:20882)(cid:8829)(cid:27005)(cid:27011)(cid:24178)
-Permit ((cid:19802)(cid:19721)(cid:26552)(cid:19628)(cid:8610)(cid:18823)(cid:15397) (cid:24259)(cid:8610)(cid:18823)(cid:24178)(cid:24563)(cid:16775)(cid:23001)(cid:9111))
-(cid:24178)(cid:27005)(cid:27011)(cid:9353)(cid:23281)) • Pudong, Shanghai: Driverless Autonomous
-Connected Vehicle Road Testing Permit ((cid:16585)(cid:27005)(cid:27011)
-(cid:7778)(cid:13858)(cid:20645)(cid:19802)(cid:20503)(cid:15397)(cid:24178)(cid:24571)(cid:23959)(cid:15828)(cid:19263)(cid:23001)(cid:9111)(cid:23281))
+Driver: Cruising Driver ) • N/A
+Industry ) Permit ( • Guangzhou: Unmanned Autonomous Passenger
+ ) Service Testing Permit ( 
+Driver: Ride-hailing Driver ); Robotaxi Operation Permit ( 
+Permit ( )
+ ) • Pudong, Shanghai: Driverless Autonomous
+Connected Vehicle Road Testing Permit ( 
+ )
 Nature of the
 Commercial Collaborative Commercial Commercial Commercial
 Mobility Mode
@@ -5600,13 +5600,13 @@ mobility service platforms amounted to RMB209.7 million, RMB504.4 million and
 RMB1,617.5 million, respectively, representing 16.0%, 28.7% and 59.6% of the total GTV
 from ride-hailing services, respectively, which is in line with the industry trend.
 Growth Drivers of China Smart Mobility Market
-(cid:129) Increasing demand for convenient and high-quality mobility services. Driven by the
+ Increasing demand for convenient and high-quality mobility services. Driven by the
 increasing urban population and household disposable income in China, more users
 are expected to use the more convenient, comfortable and efficient smart mobility
 services. In addition, compared to the cheaper means of transportation, such as
 public transit or two-wheelers, using more convenient, comfortable and efficient
 smart mobility services represents the trend of consumption upgrade.
-(cid:129) Advanced technologies enhancing quality of mobility services. The evolution of
+ Advanced technologies enhancing quality of mobility services. The evolution of
 advanced technologies, particularly in autonomous driving, serves as a pivotal
 driver propelling the growth of the China Smart Mobility Market. Innovations such
 as big data analytics, the Internet ofThings (IoT), and artificial intelligence (AI) are
@@ -5625,7 +5625,7 @@ the growing recognition of the transformative potential of autonomous driving
 technology services and fleet sale and maintenance solutions among industry
 stakeholders underscores their instrumental role in shaping the future trajectory of
 the smart mobility sector.
-(cid:129) Environmental Sustainability and Urban Planning. The focus on environmental
+ Environmental Sustainability and Urban Planning. The focus on environmental
 sustainability and urban planning initiatives further propels the smart mobility
 industry. As cities grapple with congestion, pollution, and the need for efficient
 transportation systems, smart mobility solutions offer an eco-friendly alternative.
@@ -5641,13 +5641,13 @@ development across sectors including ride-hailing, new energy vehicles, and
 intelligent connected vehicles. Prioritizing environmentally friendly transportation
 solutions, these policies promote electric vehicles and shared mobility options to
 address urban congestion and reduce air pollution.
-(cid:129) Technological innovations reducing operating costs. The labor cost of drivers
+ Technological innovations reducing operating costs. The labor cost of drivers
 constitutes a significant portion of smart mobility services cost. However,
 autonomous driving is developing rapidly and is committed to substitute drivers,
 lowering the cost of mobility services and expanding the potential user base by
 attracting price-sensitive users.
 Development Trends of China Smart Mobility Market
-(cid:129) Consumption upgrade. Due to the increasing disposable income of consumers and
+ Consumption upgrade. Due to the increasing disposable income of consumers and
 growing demand from business travel customers, the smart mobility market is
 experiencing the consumption upgrade. In response, service providers focus on
 service enhancements, integrating new technologies and offering tailored solutions
@@ -5658,7 +5658,7 @@ to the preferences of a more affluent and discerning user base.
 
 === PAGE 146 ===
 INDUSTRY OVERVIEW
-(cid:129) Regulatory enhancement. The PRC government has accelerated the enhancement of
+ Regulatory enhancement. The PRC government has accelerated the enhancement of
 the regulatory environment for the smart mobility industry since 2016. For instance,
 Managerial Regulations on the Supervision Information Interactive Platform of
 Vehicles for Ride-hailing (《網絡預約出租汽車監管信息交互平台運行管理辦法》)
@@ -5668,30 +5668,30 @@ issuedbyMOTinMay2022andMay2018,respectively,aimedtoincreasethelevel
 of supervision and standardization in the industry to improve the experience and
 safety of drivers and riders. This enhancement shall continue as higher compliance
 becomes one of the key areas of competition for smart mobility services providers.
-(cid:129) Wider adoption of NEVs in smart mobility operation. Promoting the development of
+ Wider adoption of NEVs in smart mobility operation. Promoting the development of
 the NEV industry has become the national strategy of the PRC government.
 Developing the NEV industry is a crucial initiative in achieving carbon neutrality
 and transformation of the automobile and mobility industry. Driven by the
 increasingsalesvolumeofNEVsandtherelevantfavorablepoliciesinChina,NEVs
 are expected to become the mainstream smart mobility fleet in the future.
-(cid:129) More intelligent and efficient mobility services. Big data analytics, IoT and AI
+ More intelligent and efficient mobility services. Big data analytics, IoT and AI
 technologies are expected to reshape the smart mobility industry and the entire
 mobility industry, by developing autonomous driving capabilities, substitute human
 drivers and commercializing the operation of Robotaxi. Compared to traditional
 smart mobility services, Robotaxi is a more efficient innovative smart mobility
 mode with lower energy consumption.
 Entry Barriers of China Smart Mobility Market
-(cid:129) Licensing and Regulations. The smart mobility industry is subject to strict regional
+ Licensing and Regulations. The smart mobility industry is subject to strict regional
 and national regulations, requiring new entrants to comply with various licenses and
 regulations for lawful operation. The complexity and regional variations of these
 regulations raise entry barriers, demanding significant time and resources to meet
 regulatory requirements.
-(cid:129) Capital Requirements. The smart mobility industry is capital-intensive, with new
+ Capital Requirements. The smart mobility industry is capital-intensive, with new
 entrants needing substantial funding to develop technology, conduct market
 promotion, and provide customer support.This capital demand makes it challenging
 for new entrants to compete with established competitors who have already built a
 financial advantage, limiting market entry.
-(cid:129) Brand Recognition and Network Effects. Early entrants in the market have
+ Brand Recognition and Network Effects. Early entrants in the market have
 established strong brand recognition, making it challenging for new entrants to
 attract customers and drivers. Additionally, network effects mean that more users
 and drivers using a particular platform enhance its attractiveness, but establishing
@@ -5700,30 +5700,30 @@ such effects takes time and resources for new platforms.
 
 === PAGE 147 ===
 INDUSTRY OVERVIEW
-(cid:129) Technology and Data. The smart mobility industry relies on advanced technology
+ Technology and Data. The smart mobility industry relies on advanced technology
 support, including mobile applications, real-time data analytics, and intelligent
 dispatch systems. Having a degree of advanced technology and data analytics
 capability is crucial for gaining a competitive edge in the industry, presenting a
 technological barrier that new entrants must overcome.
 Threats and Challenges of China Smart Mobility Market
-(cid:129) Regulatory and Compliance Risks. The smart mobility industry is subject to
+ Regulatory and Compliance Risks. The smart mobility industry is subject to
 complex regulations and compliance requirements, which may vary by provinces
 and cities. Non-compliance may result in fines, suspensions, or legal disputes.
 Therefore, market participants need to closely monitor regulatory changes and
 ensure compliant operations to mitigate regulatory risks.
-(cid:129) Intense Competition. The smart mobility market is highly competitive, with many
+ Intense Competition. The smart mobility market is highly competitive, with many
 market participants vying for limited driver and passenger resources. This can lead
 to price wars and profit margin pressures, posing challenges to a company’s
 profitability. Market participants with strong brand recognition and large user bases
 are typically more competitive, making it difficult for new entrants to establish
 market share.
-(cid:129) Cost Management and Profitability. The ability to manage costs associated with
+ Cost Management and Profitability. The ability to manage costs associated with
 driver compensation, technology platform development, and routine operation can
 be critical. Sustained capital investment may be required to survive and excel from
 intense market competition, before yielding returns. Hence, effective cost
 management and profitability strategies are crucial for smart mobility service
 providers.
-(cid:129) Navigating New Technological Challenges. As technology continues to advance,
+ Navigating New Technological Challenges. As technology continues to advance,
 industry participants face a dual challenge. Continuous technological advancement
 is crucial for maintaining competitiveness, and the upgrading of technologies
 presents challenges on various fronts. For instance, the proliferation of autonomous
@@ -5899,11 +5899,11 @@ toexperienceaslightdeclineduetothescaleoffleetdevelopmentandthereductioninper-ve
 achieving large-scale commercialization, it is projected to maintain stable fluctuations.
 Source: Listed companies’public filings, Expert Interview and Frost & Sullivan Analysis
 Market Trends and Growth Opportunities of Robotaxi Market
-(cid:129) Market Growth andAdoption.The Robotaxi market is growing fast, thanks to better
+ Market Growth andAdoption.The Robotaxi market is growing fast, thanks to better
 autonomousdrivingtechandrisingdemandforsharedmobility.Thistrendwillkeep
 going, creating investment opportunities for market participants to expand their
 services and meet the growing demand.
-(cid:129) Integration with Smart Cities. Robotaxi is set to integrate with smart cities and
+ Integration with Smart Cities. Robotaxi is set to integrate with smart cities and
 transportation systems, making urban mobility more efficient and sustainable. This
 involves connecting with traffic signals, road signs and other urban planning
 information. Market participants offering such integration can help build the future
@@ -5912,37 +5912,37 @@ mobility system and tackle urban traffic congestion.
 
 === PAGE 152 ===
 INDUSTRY OVERVIEW
-(cid:129) User Experience and Safety Improvements. To attract more passengers and build
+ User Experience and Safety Improvements. To attract more passengers and build
 loyalty, Robotaxi providers will keep enhancing user experiences and safety. This
 meansimprovingridecomfort,vehiclesafety,andautonomousdrivingperformance.
 Innovations and tech investments in these areas can help market participants gain
 market share and user trust, driving industry growth.
 Entry Barriers of Robotaxi Market
-(cid:129) Technology Expertise. Robotaxi relies on advanced autonomous driving technology,
+ Technology Expertise. Robotaxi relies on advanced autonomous driving technology,
 demanding significant expertise and funding for development and testing. Leading
 tech companies and automakers have invested heavily, giving them a technological
 advantage. New entrants must overcome this hurdle to create reliable autonomous
 systems.
-(cid:129) DataAccumulation.Autonomous systems need vast amounts of data for training and
+ DataAccumulation.Autonomous systems need vast amounts of data for training and
 testing to improve performance and safety. Market participants with existing
 autonomous vehicle fleets have gathered valuable data, aiding ongoing system
 improvement. Newcomers require time and resources to accumulate sufficient data
 and establish effective data collection and analysis processes.
-(cid:129) Safety Testing and Certification. Autonomous driving systems must pass rigorous
+ Safety Testing and Certification. Autonomous driving systems must pass rigorous
 safety tests and certifications to ensure safe operation in various conditions. This
 involves complex procedures and compliance requirements, requiring specialized
 knowledge and substantial resources. New entrants must meet these requirements to
 obtain crucial safety certifications for entering the Robotaxi market.
 Threats and Challenges of Robotaxi Market
-(cid:129) Safety and Liability. Safety is paramount in the Robotaxi industry as autonomous
+ Safety and Liability. Safety is paramount in the Robotaxi industry as autonomous
 vehicles navigate complex traffic and road conditions. Accidents involving them
 raise intricate legal and ethical liability questions that could hinder industry
 progress. Ensuring Robotaxi safety is paramount.
-(cid:129) Regulatory Complexity. Regulations for autonomous vehicles are evolving, with
+ Regulatory Complexity. Regulations for autonomous vehicles are evolving, with
 varying standards across regions and countries. Compliance involves complex
 approval processes, testing, and certification. These regulatory differences and
 changes create uncertainties and challenges for market access and deployment.
-(cid:129) Technical Complexity. Developing and maintaining autonomous driving systems
+ Technical Complexity. Developing and maintaining autonomous driving systems
 involves addressing intricate technical challenges. Ensuring their reliable operation
 in diverse conditions, including weather and traffic scenarios, is an ongoing issue.
 Continuous research and development efforts are needed to enhance performance
@@ -5952,14 +5952,14 @@ and safety.
 === PAGE 153 ===
 INDUSTRY OVERVIEW
 Growth Drivers of Robotaxi Market
-(cid:129) Autonomous Driving Technology Advancements. The continuous progress in
+ Autonomous Driving Technology Advancements. The continuous progress in
 autonomous driving technologies serves as a fundamental driver for the Robotaxi
 industry. Breakthroughs in autonomous driving capabilities, sensor technologies,
 and real-time data processing enhance the safety, reliability, and efficiency of
 Robotaxi services. Advancements in machine learning and sensor fusion contribute
 to creating highly sophisticated and safe autonomous vehicles, fostering the growth
 of the Robotaxi sector.
-(cid:129) Cost Reduction through Technological Advancements and Mass Production. The
+ Cost Reduction through Technological Advancements and Mass Production. The
 continuous technological upgrades and the scale of mass production contribute to a
 substantial decline in the per-vehicle cost of Robotaxi. As advancements in
 autonomous driving technologies become more widespread and production
@@ -5968,14 +5968,14 @@ implementation, and maintenance decrease. This cost reduction not only enhances
 the economic viability of Robotaxi but also accelerates their commercialization,
 fostering a more cost-effective and accessible environment for the widespread
 adoption of Robotaxi services.
-(cid:129) Urban Mobility Challenges and Traffic Congestion. Escalating urban mobility
+ Urban Mobility Challenges and Traffic Congestion. Escalating urban mobility
 challenges and the increasing burden of traffic congestion in cities drive the demand
 forefficientandconvenienttransportationsolutionslikeRobotaxi.Withpopulations
 concentrated in urban areas, there is a growing need for intelligent mobility options
 thatcannavigatecongestedtraffic,reducecommutingtimes,andprovideaseamless
 urban travel experience. Robotaxis, equipped with smart route optimization and
 real-time traffic analysis, address these challenges.
-(cid:129) Enhanced Government Regulation and Establishment of Demonstration Zones. As
+ Enhanced Government Regulation and Establishment of Demonstration Zones. As
 governments have progressively strengthened regulation of Robotaxi operations and
 established demonstration zones in several cities across the country (including
 commercial operations in major cities such as Guangzhou and Beijing), there has
@@ -6081,35 +6081,35 @@ Source: Expert Interview and Frost & Sullivan Analysis
 INDUSTRY OVERVIEW
 Market Trends and Growth Opportunities of Autonomous Driving Technology Service
 Market
-(cid:129) Continuous Technological Advancements. The ongoing progress in autonomous
+ Continuous Technological Advancements. The ongoing progress in autonomous
 driving technology is a key trend in the industry. Emerging technologies such as
 advanced sensors, machine learning algorithms, and artificial intelligence
 applications continue to enhance the performance and safety of autonomous driving
 systems. This presents opportunities for technology service providers to innovate
 and improve continuously.
-(cid:129) Data-Driven Business Models. Data plays a pivotal role in autonomous driving
+ Data-Driven Business Models. Data plays a pivotal role in autonomous driving
 technology services. Data collection, analysis, and utilization are crucial for the
 development and optimization of autonomous systems. Consequently, data
 management and analytics services are poised to become growth areas within the
 industry.
-(cid:129) Smart Cities and Mobility Services. Autonomous driving technology not only
+ Smart Cities and Mobility Services. Autonomous driving technology not only
 impacts individual vehicles but also influences urban transportation and mobility
 services. The rise of autonomous taxis, shared mobility services, and unmanned
 public transportation presents significant opportunities for technology service
 providers to meet the demands of urban mobility.
 Entry Barriers of Autonomous Driving Technology Service Market
-(cid:129) Technical Barriers. Autonomous driving technology is a highly complex and
+ Technical Barriers. Autonomous driving technology is a highly complex and
 specialized field that requires advanced algorithms, sensors, and hardware
 components. New entrants need substantial R&D investments and resources to
 develop reliable autonomous driving technology service solution. The presence of
 established competitors with technological expertise creates a significant technical
 barrier.
-(cid:129) Data Accumulation Barrier. Autonomous driving technology service rely on large
+ Data Accumulation Barrier. Autonomous driving technology service rely on large
 datasets for training and testing to ensure safety and performance. Existing
 competitors have accumulated extensive datasets, while newcomers need time to
 gather sufficient data resources. This can limit the competitive strength of new
 entrants in the market.
-(cid:129) Capital Requirement Barrier. The development and deployment of autonomous
+ Capital Requirement Barrier. The development and deployment of autonomous
 driving technology service demand substantial capital investments. New entrants
 must secure adequate funding to support R&D, testing, market promotion, and
 operations. Capital requirements can pose a significant barrier for startups.
@@ -6118,31 +6118,31 @@ operations. Capital requirements can pose a significant barrier for startups.
 === PAGE 157 ===
 INDUSTRY OVERVIEW
 Threats and Challenges of Autonomous Driving Technology Service Market
-(cid:129) Technical Instability. The rapid evolution of autonomous driving technology means
+ Technical Instability. The rapid evolution of autonomous driving technology means
 that solutions must constantly adapt to new technologies and standards. This can
 lead to technical instability, requiring continuous updates and improvements to meet
 new technical requirements.
-(cid:129) Competition Pressure. The industry is highly competitive, with many competitors
+ Competition Pressure. The industry is highly competitive, with many competitors
 offering similar solutions. This can result in price wars and market share battles,
 putting pressure on profit margins.
-(cid:129) Cost Management. Providing solutions for the development of autonomous driving
+ Cost Management. Providing solutions for the development of autonomous driving
 technology requires significant capital investment. Lowering costs and improving
 efficiency to ensure profitability is a challenge. Market participants need to
 continually reduce the costs of their solutions to attract more customers.
 Growth Drivers of Autonomous Driving Technology Service Market
-(cid:129) Growing Demand for Advanced Autonomous Solutions. The increasing need for
+ Growing Demand for Advanced Autonomous Solutions. The increasing need for
 sophisticated autonomous driving solutions propels the growth of the Autonomous
 Driving Technology Service Market. As industries and consumers seek more
 advanced and reliable autonomous features, service providers experience a surge in
 demand for cutting-edge technologies that enhance safety, efficiency, and overall
 driving experience.
-(cid:129) Integration of Artificial Intelligence and Machine Learning. The integration of
+ Integration of Artificial Intelligence and Machine Learning. The integration of
 artificial intelligence (AI) and machine learning (ML) technologies plays a pivotal
 roleindrivingtheautonomousdrivingmarket.AIandMLenablevehiclestoprocess
 vast amounts of data, make real-time decisions, and continually improve their
 performance. This integration enhances the intelligence and adaptability of
 autonomous driving systems, fostering a more capable and reliable ecosystem.
-(cid:129) Collaborations and Partnerships in the Industry. Collaborations and partnerships
+ Collaborations and Partnerships in the Industry. Collaborations and partnerships
 within the autonomous driving industry drive innovation and market expansion. As
 companies join forces to combine expertise, resources, and technologies, the
 collective effort accelerates the development and deployment of autonomous
@@ -6245,33 +6245,33 @@ Source: Literature Research, Expert Interview and Frost & Sullivan Analysis
 INDUSTRY OVERVIEW
 Market Trends and Growth Opportunities of Smart Mobility Fleet Sale and Maintenance
 Market
-(cid:129) Growth of Shared Mobility Models. Smart mobility services like ride-hailing and
+ Growth of Shared Mobility Models. Smart mobility services like ride-hailing and
 Robotaxi continue to expand, presenting growth opportunities for vehicle leasing
 and charging service providers, supporting the proliferation of shared mobility
 models.
-(cid:129) Vehicle Maintenance and Servicing.With the increasing adoption of shared mobility
+ Vehicle Maintenance and Servicing.With the increasing adoption of shared mobility
 andelectricvehicles,thereisarisingdemandforvehiclemaintenanceandservicing.
 Market participants offering efficient maintenance and servicing solutions may have
 a competitive edge.
-(cid:129) Data Analysis and Smart Optimization. Big data analysis and smart algorithms can
+ Data Analysis and Smart Optimization. Big data analysis and smart algorithms can
 be employed to optimize vehicle dispatching, route planning, and maintenance
 schedules. Market participants providing data analysis and smart optimization
 services are poised to enhance operational efficiency.
 Entry Barriers of Smart Mobility Fleet Sale and Maintenance Market
-(cid:129) Technological Complexity. Providing smart mobility fleet sale and maintenance
+ Technological Complexity. Providing smart mobility fleet sale and maintenance
 requires a high degree of technical sophistication, including remote vehicle control,
 data analytics, and intelligent route planning. New entrants need to possess these
 technical capabilities or establish strategic partnerships with technology providers.
-(cid:129) Capital Requirements. Establishing and expanding smart mobility fleet sale and
+ Capital Requirements. Establishing and expanding smart mobility fleet sale and
 maintenance entails significant capital investment, including vehicle procurement,
 charging infrastructure development, data analytics platforms, and more. Capital
 requirements can be a hurdle for startups unless they secure substantial investment
 or financing support.
-(cid:129) Market Competition. The presence of large and established competitors, such as
+ Market Competition. The presence of large and established competitors, such as
 well-known ride-sharing platforms and automotive manufacturers, means that new
 entrants must face intense market competition. To succeed, they need to offer
 differentiated services or technologies to attract customers.
-(cid:129) Brand Building. Establishing a strong brand and reputation in the smart mobility
+ Brand Building. Establishing a strong brand and reputation in the smart mobility
 market requires time and resources. New entrants may need to invest significant
 efforts in building trust and recognition.
 – 149 –
@@ -6279,29 +6279,29 @@ efforts in building trust and recognition.
 === PAGE 161 ===
 INDUSTRY OVERVIEW
 Threats and Challenges of Smart Mobility Fleet Sale and Maintenance Market
-(cid:129) Difficulty in Resource Integration. Smart mobility fleet sale and maintenance
+ Difficulty in Resource Integration. Smart mobility fleet sale and maintenance
 involve various segments of the industry chain, including vehicle procurement,
 maintenance, and charging infrastructure. Integrating these resources and segments
 poses a significant challenge to businesses, requiring a high degree of coordination
 and management.
-(cid:129) Technology and Innovation. The industry is continually evolving with new
+ Technology and Innovation. The industry is continually evolving with new
 technologies and trends. Staying at the forefront of technology and innovation to
 meet changing market demands is a significant challenge. Market participants must
 invest in research and development and adapt swiftly to technological
 advancements.
 Growth Drivers of Smart Mobility Fleet Sale and Maintenance Market
-(cid:129) The Increase in Vehicle and Driver Demands. With the rising demand for mobility,
+ The Increase in Vehicle and Driver Demands. With the rising demand for mobility,
 the market for fleet sale and maintenance has witnessed rapid growth. The
 increasing need for services related to vehicle purchase, leasing, maintenance, and
 emergency assistance has been a driving force behind the development in this field.
-(cid:129) Enhanced Service Experience. As users demand an elevated experience in their
+ Enhanced Service Experience. As users demand an elevated experience in their
 travel services, fleet sale and maintenance are required to offer more comprehensive
 and user-centric solutions. From vehicle acquisition to maintenance and emergency
 rescue, providing a high-quality service experience serves as a driving factor for
 market growth.
 KEY SUCCESS FACTORS
 The key success factors of a smart mobility service platform include:
-(cid:129) Industry integration. Industry integration can reduce the cost of utilizing a vehicle
+ Industry integration. Industry integration can reduce the cost of utilizing a vehicle
 per km, through the integration of the resources of various industry participants,
 including vehicle OEMs, autonomous driving solution providers, fleet sale and
 maintenance providers and user entrances across the value chain. By integrating
@@ -6315,7 +6315,7 @@ ride comfort and operational compliance.
 
 === PAGE 162 ===
 INDUSTRY OVERVIEW
-(cid:129) Openness of platform and its compatibility. Whether operating manned ride-hailing
+ Openness of platform and its compatibility. Whether operating manned ride-hailing
 or progressively commercializing Robotaxis, smart mobility platforms need to
 actively collaborate with transportation partners, leveraging and integrating the
 strengths of existing allies to achieve rapid market expansion. Amid varying
@@ -6323,18 +6323,18 @@ autonomous driving policies and technological progress across regions, a robust 
 open smart mobility service platform can cater to diverse needs, cooperate various
 autonomous driving solution providers, and seamlessly connect Robotaxis from
 different solution providers.
-(cid:129) Brand recognition and customer mindshare. By offering high-quality services to
+ Brand recognition and customer mindshare. By offering high-quality services to
 platform users and addressing their pain points, a platform can enhance its brand
 recognitionandcustomermindshare.Thebrandrecognitionandcustomermindshare
 translate into increased wallet share from existing customers and word-of-mouth
 referrals for acquiring new customers with lower sales and marketing spending.
-(cid:129) Operational know-how. Operational know-how is important for identifying
+ Operational know-how. Operational know-how is important for identifying
 diversified customer needs and increasing service quality. It is also critical for
 platforms to adopt customized and innovative user acquisition and pricing strategies
 across different geographic regions and service segments. Also, better operational
 know-how can help improve operational efficiency and optimize supply-demand
 relationships.
-(cid:129) Technology and data capabilities. Cutting-edge technologies such as autonomous
+ Technology and data capabilities. Cutting-edge technologies such as autonomous
 driving and big data analytics can help platforms enhance their operational abilities.
 The rapid development of AI has changed the technological landscape of the
 industry, enabling platforms to better meet the diverse needs of users.
@@ -6431,12 +6431,12 @@ and effectively improve riders’ experience. As of December 31, 2023, the Compa
 first with 281 vehicles among the ride-hailing platforms in terms of the number of the platform
 connected Robotaxi vehicles.
 The Company has significant competitive advantages in two key areas:
-(cid:129) Higher-than-industry-average compliance rate. Currently, the Company is an
+ Higher-than-industry-average compliance rate. Currently, the Company is an
 industry leader in order compliance. With the increase in the order compliance rate
 required by regional policies in the ride-hailing market, the advantage of higher-
 than-industry-averagecomplianceratewillfacilitatetheCompany’sabilitytoobtain
 local ride-hailing platform licences in more geographical markets.
-(cid:129) Rich service matrix. The Company’s service matrix includes mobility services,
+ Rich service matrix. The Company’s service matrix includes mobility services,
 technology services, and fleet sale and maintenance, providing users with
 comprehensive services. This can effectively attracts new users and enhances the
 Company’s existing operational capabilities.
@@ -9822,7 +9822,7 @@ and/or its associates in respect of the provision of such products and services.
 Reasons for the transaction
 Our Directors consider that the provision of products and services to GAIG and/or its
 associates would benefit our Company for the following reasons:
-(cid:129) according to Frost & Sullivan, the collaboration between the mobility platform and
+ according to Frost & Sullivan, the collaboration between the mobility platform and
 the OEMs is a mutually beneficial relationship. The OEMs provide customized
 vehicles and technical support, enabling the platform to deliver high-quality
 services. In return, the platform offers market expansion opportunities, and valuable
@@ -9841,49 +9841,49 @@ of GAIG provides the OEMs with market expansion opportunities for those OEM’s
 products. Furthermore, our provision of Robotaxi service under mobility services
 and provision of technology services also provides valuable market insights for the
 OEMs’ product development;
-(cid:129) in particular, in respect of our enterprise solutions for ride-hailing services,
+ in particular, in respect of our enterprise solutions for ride-hailing services,
 leveraging the large user base and reliable and trustworthy reputation of GAIG, the
 provision of such services to GAIG and/or its associates may further increase our
 user base and promote our brand and services to a wider range of customers;
-(cid:129) in respect of ride-hailing car-related material sales, we encourage cars in our
+ in respect of ride-hailing car-related material sales, we encourage cars in our
 network to use uniform materials and as our car partners, associates of GAIG need
 to purchase such materials from us and use them in their managed cars;
 – 218 –
 
 === PAGE 230 ===
 CONNECTED TRANSACTIONS
-(cid:129) in respect of technology service, our data assets, combined with our market insights
+ in respect of technology service, our data assets, combined with our market insights
 as an experienced market leader in China’s mobility service market, support our
 expansion into autonomous driving data solutions and smart transportation solutions
 which GAIG and its associates need for their business development;
-(cid:129) we aim to build a one-stop standardized automobile service platform, OnTime auto
+ we aim to build a one-stop standardized automobile service platform, OnTime auto
 service center, and create an industry network encompassing driver services,
 after-sales services, and other ancillary services in extended scenarios. We offer
 sales of vehicles and vehicle maintenance and repair through our OnTime auto
 service centers to car partners that are associates of GAIG;
-(cid:129) in respect of referral services, we refer drivers to car partners which are associates
+ in respect of referral services, we refer drivers to car partners which are associates
 of GAIG and potential car buyers to authorized dealers which are associates of
 GAIG; and
-(cid:129) as both parties enjoy respective advantages in different business fields, our
+ as both parties enjoy respective advantages in different business fields, our
 collaborationmaybringsynergyintofullplayandsharedevelopmentachievements.
 Pricing policies
 The fees payable by GAIG and its associates to us under the Products and Services
 Purchase and Provision Framework Agreement shall be determined on arm’s length basis and
 with reference to the following:
-(cid:129) in respect of our enterprise solutions for ride-hailing service, the fee charged by us
+ in respect of our enterprise solutions for ride-hailing service, the fee charged by us
 will be determined based on arm’s-length negotiations taking into account the
 volume of service requested by GAIG and its associates as a whole, the business
 scale of GAIG and its associates, and the market price for our enterprise solutions,
 shall be no less than that charged to independent third-party customers with
 comparable transaction volumes;
-(cid:129) in respect of our sale of ride-hailing car-related materials, the Group shall adopt a
+ in respect of our sale of ride-hailing car-related materials, the Group shall adopt a
 consistent pricing policy for all customers including both GAIG and independent
 third parties;
-(cid:129) in respect of technology services, the fee charged by us will be determined based on
+ in respect of technology services, the fee charged by us will be determined based on
 arm’s-length negotiations with reference to our manpower deployed, the nature of
 the service provided, the frequency of service, the expected transaction amount, the
 business potential of the service provided, etc.;
-(cid:129) in respect of auto services and products offered through OnTime auto service center,
+ in respect of auto services and products offered through OnTime auto service center,
 fee charged by us will be determined based on arm’s-length negotiations with
 reference to market price charged by OEMs and shall be no less than that charged
 to independent third parties;
@@ -9891,10 +9891,10 @@ to independent third parties;
 
 === PAGE 231 ===
 CONNECTED TRANSACTIONS
-(cid:129) in respect of referral services, the fee charged by us will be determined based on
+ in respect of referral services, the fee charged by us will be determined based on
 arm’s-length negotiations with reference to market price for similar services, the
 nature of service, business potential of service, etc.; and
-(cid:129) for those products and services that our Group also provide to independent third
+ for those products and services that our Group also provide to independent third
 parties,theGroupshallcomparethepriceofferedbyGAIGand/oritsassociatesand
 independent third parties with reference to market prices if available.
 Historical amounts and proposed annual caps
@@ -9931,28 +9931,28 @@ onhistoricaltransactionamountswithreferencetoourestimatedgrowthofbusinessinthene
 three years. The proposed annual caps for the three years ending December 31, 2026 are
 estimated based on our expected business growth with reference to the following specific
 considerations:
-(cid:129) the expected transaction amount in respect of enterprise solutions for ride-hailing
+ the expected transaction amount in respect of enterprise solutions for ride-hailing
 service for the three years ending December 31, 2026 is estimated based on the
 historical transaction amount for the year ended December 31, 2023 with an
 expected5%year-on-yearincrease,takingintoconsiderationthatmoreassociatesof
 GAIG purchase our enterprise solutions in the next three years;
-(cid:129) in respect of the sale of ride-hailing car-related materials, the expected transaction
+ in respect of the sale of ride-hailing car-related materials, the expected transaction
 amount for the three years ending December 31, 2026 is estimated based on (i) our
 estimated new drivers and driver force of car partners that are associates of GAIG,
 which will procure our uniforms and tissue boxes; and (ii) two associates of GAIG
 became our car partners in 2023, which will continue to procure our related
 materials for drivers managed by them;
-(cid:129) in view of our developing capability in offering technology services, we expect to
+ in view of our developing capability in offering technology services, we expect to
 have more technology services to be provided to GAIG and/or its associates for the
 three years ending December 31, 2026;
-(cid:129) in respect of the provision of auto services and products, as of December 31, 2023,
+ in respect of the provision of auto services and products, as of December 31, 2023,
 we received a few thousands tentative vehicle purchase orders from associates of
 GAIG that are our car partners to replace and upgrade their existing service fleets,
 which are expected to continue to be delivered to them in 2024. In 2025 and 2026,
 associates of GAIG will continue to procure vehicles and the expected transactions
 amount is estimated through our discussion with them, taking into account their
 business plans and the life cycle of vehicles used for ride-hailing services; and
-(cid:129) in respect of referral services, the expected transaction accounts for the three years
+ in respect of referral services, the expected transaction accounts for the three years
 ending December 31, 2026 are estimated based on demands of GAIG and/or its
 associates pursuant to discussions with them.
 – 221 –
@@ -9972,7 +9972,7 @@ GAIG and/or its associates.
 Reasons for the transaction
 Our Directors consider that purchasing products and services from GAIG and/or its
 associates would benefit the Company for the following reasons:
-(cid:129) according to Frost & Sullivan, the collaboration between the mobility platform and
+ according to Frost & Sullivan, the collaboration between the mobility platform and
 the OEMs is a mutually beneficial relationship. The OEMs provides customized
 vehicles and technical support, enabling the platform to deliver high-quality
 services. In return, the platform offers market expansion opportunities, and valuable
@@ -9991,10 +9991,10 @@ associates of GAIG provides the OEMs with market expansion opportunities for
 those OEM’s products. Furthermore, our provision of robotaxi service under
 mobility services and the provision of technology services also provides valuable
 market insights for the OEMs’ product development;
-(cid:129) in particular, GAIG and/or its associates are specialized in vehicle maintenance and
+ in particular, GAIG and/or its associates are specialized in vehicle maintenance and
 repair and can supplement our after-sales maintenance and repair services including
 new energy battery repair;
-(cid:129) as GAIG and/or its associates have a comprehensive understanding of our business
+ as GAIG and/or its associates have a comprehensive understanding of our business
 needs, and we have established a good foundation of mutual trust with each other;
 GAIG and/or its associates can provide stable, high-quality services and products
 that can effectively and reliably meet our needs;
@@ -10002,47 +10002,47 @@ that can effectively and reliably meet our needs;
 
 === PAGE 234 ===
 CONNECTED TRANSACTIONS
-(cid:129) in particular, as our car partners, associates of GAIG can ensure effective
+ in particular, as our car partners, associates of GAIG can ensure effective
 communication and management over cars and drivers thereby providing stable and
 quality services to our end customers;
-(cid:129) in respect of purchase of passenger vehicles, with a view to building a one-stop
+ in respect of purchase of passenger vehicles, with a view to building a one-stop
 standardized automobile service platform to serve our car partners and drivers, we
 consolidate the demands from our car partners and drivers, and negotiate directly
 with automobile manufacturers including GAIG and its associates for a collective
 deal, and therefore we purchase passenger vehicles from associates of GAIG;
-(cid:129) for those maintenance and repair services beyond our own capability, we need to
+ for those maintenance and repair services beyond our own capability, we need to
 purchase such services and automobile components from GAIG and/or its
 associates;forinstance,wedelegateassociatesofGAIGtoprovidebatteryrepairfor
 AION branded new energy vehicle; and
-(cid:129) as both parties enjoy respective advantages in different business fields, our
+ as both parties enjoy respective advantages in different business fields, our
 collaborationmaybringsynergyintofullplayandsharedevelopmentachievements.
 Pricing policies
 The fees payable by us ti GAIG and its associates under the Products and Services
 Purchase and Provision Framework Agreement shall be determined on arm’s length basis and
 with reference to the following:
-(cid:129) in respect of franchise management service, we adopt the same level of charge in
+ in respect of franchise management service, we adopt the same level of charge in
 each business line for car partners in the same city, and therefore the service fee rate
 charged by us to GAIG’s associates are the same as those who are independent third
 parties;
-(cid:129) inrespectofsalesofpassengervehiclesbyGAIGand/oritsassociatestous,theunit
+ inrespectofsalesofpassengervehiclesbyGAIGand/oritsassociatestous,theunit
 price of passenger vehicles shall be determined by manufacturers of passenger
 vehicles, whilst we will compare the unit price offered by GAIG and/or its
 associates and that by independent third parties, and will make the procurement
 from the better terms offered;
-(cid:129) in respect of sales of automobile components by GAIG and/or its associates to us,
+ in respect of sales of automobile components by GAIG and/or its associates to us,
 the price shall be determined by manufacturers of passenger vehicles and shall be in
 line with that offered by independent third parties;
-(cid:129) in respect of vehicle maintenance and repair service, the price shall be determined
+ in respect of vehicle maintenance and repair service, the price shall be determined
 by providers of such service and shall be in line with that offered by independent
 third parties;
 – 223 –
 
 === PAGE 235 ===
 CONNECTED TRANSACTIONS
-(cid:129) in respect of purchase of insurance, the price shall be determined by providers of
+ in respect of purchase of insurance, the price shall be determined by providers of
 such service or product and shall be in line with that offered by independent third
 parties; and
-(cid:129) for those products and services that our Group also purchase from independent third
+ for those products and services that our Group also purchase from independent third
 parties, the Group shall compare the price charged by GAIG and/or its associates
 and independent third parties with reference to market prices if available.
 Historical amounts and proposed annual caps
@@ -10166,18 +10166,18 @@ Represented Tencent Group 61,000 71,000 77,000
 Basis of cap
 When estimating the annual caps, our Directors have taken into consideration the
 following factors, including:
-(cid:129) the aforesaid historical transaction amounts and the existing agreements between our
+ the aforesaid historical transaction amounts and the existing agreements between our
 Group and the Represented Tencent Group. The service fees for cloud and map services
 and technical services paid by us to the Represented Tencent Group increased
 significantly during the Track Record Period from RMB15,834 thousand in 2021 to
 RMB30,757 thousand in 2022, with a further increase to RMB37,282 thousand in 2023.
 The historical increase in the service fees we paid to the Represented Tencent Group was
 mainly due to the increase in our user traffic and the overall growth of our business;
-(cid:129) as we expect growth in the number of our users, higher user engagement on our platform,
+ as we expect growth in the number of our users, higher user engagement on our platform,
 continual development of our products and services and the corresponding demand for
 cloud and map services and technical services, the estimated amount of fees is expected
 to increase along with the overall growth of our business;
-(cid:129) in respect of cloud services, taking into account (i) the expected substantial increase in
+ in respect of cloud services, taking into account (i) the expected substantial increase in
 order volume of our ride-hailing business, (ii) the cost per order at a stable level, and (iii)
 the growth of our Robotaxi business and the progress in research and development, the
 estimated transaction amount for the years ending December 31, 2024, 2025 and 2026 is
@@ -10187,7 +10187,7 @@ respectively; and
 
 === PAGE 239 ===
 CONNECTED TRANSACTIONS
-(cid:129) in respect of map services, the estimated transaction amount for the years ending
+ in respect of map services, the estimated transaction amount for the years ending
 December 31, 2024, 2025 and 2026 is expected to be RMB6,000 thousand, RMB8,000
 thousand and RMB10,000 thousand, respectively, which were estimated based on the
 expected growth of our overall business and increasing user traffic.
@@ -10276,14 +10276,14 @@ Represented Tencent Group 15,000 18,000 22,000
 Basis of caps
 When estimating the proposed annual caps for the payment processing costs for the three
 years ending December 31, 2026, we have taken into account the following key factors:
-(cid:129) the aforesaid historical transaction amounts and the existing agreements between
+ the aforesaid historical transaction amounts and the existing agreements between
 our Group and the Represented Tencent Group. The services fees paid by us to the
 Represented Tencent Group increased during the Track Record Period from
 RMB5,682 thousand in 2021 to RMB6,118 thousand in 2022 and RMB7,636
 thousand in 2023. The increase in the service fees we incurred with the Represented
 Tencent Group was mainly attributable to the growth of our mobility service
 business and the overall expansion of our business;
-(cid:129) for the three years ended 2021, 2022 and 2023, the payment processing cost paid by
+ for the three years ended 2021, 2022 and 2023, the payment processing cost paid by
 the Group to the Represented Tencent Group as to the total payment processing cost
 incurred on our platforms was 95.29%, 95.37% and 96.22%, respectively
 representing a high correlation between our business and the payment processing
@@ -10298,10 +10298,10 @@ years will remain relatively stable;
 
 === PAGE 242 ===
 CONNECTED TRANSACTIONS
-(cid:129) we started to purchase technical services based on Weixin mini program and
+ we started to purchase technical services based on Weixin mini program and
 WeCom,Weixin’splatformforenterprises,andwillcontinuetopurchasetheminthe
 three years ending December 31, 2026 and
-(cid:129) taking into account (i) the fee rate of 0.6% for Tencent payment channel (which is
+ taking into account (i) the fee rate of 0.6% for Tencent payment channel (which is
 at the market prevailing level among similar third-party payment channels), (ii) the
 estimated payment volume through Tencent payment channel, and (iii) our purchase
 of WeChat mini program and WeCom services only began in the second half of
@@ -10450,7 +10450,7 @@ In order to ensure that the terms under relevant framework agreements for the co
 connected transactions are fair and reasonable, and no less favorable to us than terms available
 to or from Independent Third Parties, and the connected transactions are carried out under
 normal commercial terms, we have adopted the following internal control procedures:
-(cid:129) we have adopted and implemented a management system on connected transactions.
+ we have adopted and implemented a management system on connected transactions.
 Under such system, the audit committee under the Board is responsible for the
 review on compliance with relevant laws, regulations, the Company’s policies and
 the Listing Rules in respect of the continuing connected transactions. In addition,
@@ -10458,16 +10458,16 @@ the audit committee under the Board, the Board and various internal departments 
 the Company are jointly responsible for evaluating the terms under framework
 agreements for the continuing connected transactions, in particular, the fairness of
 the pricing policies and annual caps under each transaction;
-(cid:129) the audit committee under the Board, the Board and various internal departments of
+ the audit committee under the Board, the Board and various internal departments of
 the Company also regularly monitor the fulfillment status and the transaction
 updates under the framework agreements. In addition, the management of the
 Company also regularly reviews the pricing policies of the framework agreements;
-(cid:129) our independent non-executive Directors and auditors will conduct annual review of
+ our independent non-executive Directors and auditors will conduct annual review of
 the continuing connected transactions under the framework agreements and provide
 annual confirmation to ensure that, in accordance with the Listing Rules, the
 transactions are conducted in accordance with the terms of the agreements, on
 normal commercial terms and in accordance with the pricing policy; and
-(cid:129) when considering the service fees and other fees provided by us to the above
+ when considering the service fees and other fees provided by us to the above
 connected persons, the Company will continue to regularly research in prevailing
 market conditions and practices and make reference to the pricing and terms
 between the Company and Independent Third Parties for similar transactions, to
@@ -10612,10 +10612,10 @@ and approvals.
 Ongoing reporting and approvals
 We will disclose details relating to the ContractualArrangements on an on-going basis as
 follows:
-(cid:129) theContractualArrangementsinplaceduringeachfinancialperiodwillbedisclosed
+ theContractualArrangementsinplaceduringeachfinancialperiodwillbedisclosed
 in our Company’s annual report and accounts in accordance with the relevant
 provisions of the Listing Rules;
-(cid:129) our independent non-executive Directors will review the Contractual Arrangements
+ our independent non-executive Directors will review the Contractual Arrangements
 annually and confirm in our Company’s annual report and accounts for the relevant
 year that (i) the transactions carried out during such year have been entered into in
 accordance with the relevant provisions of the Contractual Arrangements; (ii) no
@@ -10625,7 +10625,7 @@ assigned or transferred to our Group; and (iii) any new contracts entered into,
 renewed or reproduced between our Group and our ConsolidatedAffiliated Entities
 are fair and reasonable, or advantageous to our Shareholders, so far as our Group is
 concerned and in the interests of our Company and our Shareholders as a whole;
-(cid:129) our Company’s auditor will carry out review procedures annually on the
+ our Company’s auditor will carry out review procedures annually on the
 transactions, pursuant to the Contractual Arrangements, and will provide a letter to
 our Directors with a copy to the Stock Exchange confirming that the transactions
 have received the approval of our Directors, have been entered into in accordance
@@ -10637,7 +10637,7 @@ with the relevant Contractual Arrangements, and that no dividends or other
 distributions have been made by our Consolidated Affiliated Entities to the holders
 of its equity interests which are not otherwise subsequently assigned or transferred
 to our Group;
-(cid:129) for the purpose of Chapter 14Aof the Listing Rules, and in particular the definition
+ for the purpose of Chapter 14Aof the Listing Rules, and in particular the definition
 of “connected person”, our Consolidated Affiliated Entities will be treated as our
 Company’s subsidiaries, and at the same time, the directors, chief executives or
 substantial shareholders of our Consolidated Entities and their respective associates
@@ -10646,7 +10646,7 @@ our Consolidated Affiliated Entities), and transactions between these connected
 persons and our Group (including, for this purpose, our Consolidated Affiliated
 Entities), other than those under the Contractual Arrangements, will be subject to
 requirements under Chapter 14A of the Listing Rules; and
-(cid:129) ourConsolidatedAffiliatedEntitieswillundertakethat,forsolongastheSharesare
+ ourConsolidatedAffiliatedEntitieswillundertakethat,forsolongastheSharesare
 listed on the Stock Exchange, our Consolidated Affiliated Entities will provide our
 Group’s management and our Company’s auditor full access to its relevant records
 for the purpose of our Company’s auditor’s review of the connected transactions.
@@ -12372,12 +12372,12 @@ other business segments. As an early mover in promoting the commercialization of
 we launched the first open Robotaxi operation technology platform in the world inApril 2022,
 according to Frost & Sullivan.
 The growth drivers for our mobility services include, among others:
-(cid:129) significantopportunitiesandcontinualgrowthpotentialintheChinaandGBAsmart
+ significantopportunitiesandcontinualgrowthpotentialintheChinaandGBAsmart
 mobility markets and the China Robotaxi market, with their market sizes by GTV
 expected to reach RMB1,535.2 billion, RMB210.0 billion and RMB488.8 billion in
 2030, growing at a CAGR of 17.1%, 21.4% and 247.7% from 2024 to 2030,
 respectively, according to Frost & Sullivan;
-(cid:129) our brand recognition and ability to retain and attract users on our platform. The
+ our brand recognition and ability to retain and attract users on our platform. The
 average monthly active riders of our mobility services amounted to 1,031.7
 thousand, 1,203.8 thousand and 1,047.3 thousand in 2021, 2022 and 2023,
 respectively. In 2021, 2022 and 2023, not only did we recorded an annual rider
@@ -12388,28 +12388,28 @@ of 8.8, 10.2 and 9.0, respectively;
 
 === PAGE 291 ===
 BUSINESS
-(cid:129) ourstableandstrongservicefleet.Thenumberoftheaveragemonthlyactivedrivers
+ ourstableandstrongservicefleet.Thenumberoftheaveragemonthlyactivedrivers
 of our ride-hailing services increased from 11.9 thousand in 2021 to 18.6 thousand
 in 2022, and further to 36.8 thousand in 2023;
-(cid:129) our strong presence in the GBA benefiting from our localized development and
+ our strong presence in the GBA benefiting from our localized development and
 operation strategy, equipping us with market entry strategies, operational expertise
 and management systems which benefit our expansion into new geographical
 markets;
-(cid:129) our ability to maintain high regulatory compliance rate. Our MOT Order
+ our ability to maintain high regulatory compliance rate. Our MOT Order
 Compliance Rate ranked first 17 times as of December 31, 2023, according to the
 published information by the MOT. We also improved our order compliance rate
 from 84.8% in 2021 to 90.5% in 2022, and further to 95.6% in 2023;
-(cid:129) our ability to enhance rider experience by keeping abreast of cutting-edge
+ our ability to enhance rider experience by keeping abreast of cutting-edge
 technologies and develop our platforms. We launched the first open Robotaxi
 operation technology platform in the world in April 2022, according to Frost &
 Sullivan. We also launched the commercialized hybrid operation of manned
 ride-hailing and Robotaxi services in Guangzhou in October 2022, the first mobility
 service platform in the world to achieve this, according to Frost & Sullivan;
-(cid:129) our growing ability to effectively manage costs and expenses benefiting from our
+ our growing ability to effectively manage costs and expenses benefiting from our
 improving efficiency of order matching, decreasing cost per km and the economies
 of scale as a result of our continuous revenue growth. Our acquisition cost per new
 active rider decreased by 16.1% from 2021 to 2023; and
-(cid:129) our dedication in the implementation of our geographical expansion strategy, which
+ our dedication in the implementation of our geographical expansion strategy, which
 enables the sustainable and effective expansion of our mobility services. Our
 mobility service GTV increased significantly from RMB1,347.4 million in 2021 to
 RMB1,795.6 million in 2022, and further to RMB2,741.0 million; our revenue from
@@ -12467,7 +12467,7 @@ committed to the innovation, development and implementation of advanced technolo
 practices. We offer the following technology services that support the development of
 autonomous driving technologies and smart transportation and facilitate the commercialization
 of autonomous driving technologies.
-(cid:129) AI data and model solutions. OurAI data and model solutions focus on providing
+ AI data and model solutions. OurAI data and model solutions focus on providing
 one-stop solutions encompassing data collection, data annotation, data management
 and model training for the autonomous driving industry. We have developed a set of
 tools and platform that can be used for multimodal data training, including OnTime
@@ -12479,11 +12479,11 @@ BUSINESS
 OnTime Data Encoder (data annotation) and OnTime AI Trainer (an integrated
 platform combining data container management with model development, model
 training and model evaluation functions).
-(cid:129) HD Maps. Our HD map, OnTime MapNet, integrates data collection, real-time
+ HD Maps. Our HD map, OnTime MapNet, integrates data collection, real-time
 vehicle- and cloud-end updates and multilayer integration, and is committed to
 providingreal-time,low-cost,high-quality,HDmapupdatesolutionsforautomobile
 manufacturers and map developers.
-(cid:129) Other Technology Services. We provide smart transportation solutions to traffic
+ Other Technology Services. We provide smart transportation solutions to traffic
 management departments to improve urban traffic management and safety
 conditions. We utilize V2X technology to enable real-time traffic data interaction,
 achieving more effective responses to complex road conditions and safe operations
@@ -12493,19 +12493,19 @@ technological infrastructure, where we leverage our V2X operation management
 knowhow to help reduce traffic congestion and improve the overall urban
 transportation efficiency.
 The growth drivers for our technology services include, among others:
-(cid:129) significant opportunities and continual growth potential in China autonomous
+ significant opportunities and continual growth potential in China autonomous
 driving technology service market, with its market size expected to reach RMB76.6
 billion in 2030, growing at a CAGR of 21.4% from 2024 to 2030, and in China AI
 data and model solutions market, with its market size expected to reach RMB18.01
 billion in 2027, according to Frost & Sullivan;
-(cid:129) theextensiveuserbaseandbehavioraldataaccumulatedinourride-hailingservices,
+ theextensiveuserbaseandbehavioraldataaccumulatedinourride-hailingservices,
 providing us with a wealth of use case information for our technology services. The
 number of the average monthly active drivers of our ride-hailing services amounted
 to 11.9 thousand, 18.6 thousand and 36.8 thousand in 2021, 2022 and 2023,
 respectively; riders of our ride-hailing services had traveled an aggregate of 351.7
 million km, 475.0 million km and 743.0 million km in 2021, 2022 and 2023,
 respectively;
-(cid:129) continual enhancement of in-house research capabilities for product development
+ continual enhancement of in-house research capabilities for product development
 and iteration to provide more intelligent services to a broader user base. For
 example, in terms ofAI data and model solutions, we have developed a set of tools
 and platform that can be used for multimodal data training, including OnTime Data
@@ -12520,20 +12520,20 @@ inspection/release, and HD map crowdsourcing management system;
 
 === PAGE 294 ===
 BUSINESS
-(cid:129) continualexpansionofoperationalreachandenhancementofcompetitiveadvantage
+ continualexpansionofoperationalreachandenhancementofcompetitiveadvantage
 through acquisition of key qualifications to better satisfy enterprise customer needs.
 For example, since April 2023, we have engaged in on-ground mobile surveying
 activities, and have obtained the Class B Surveying and Mapping Qualification
 Certificate (乙級測繪資質證書) (mapping qualifications for geographic information
 system engineering and internet map services) on April 20, 2023;
-(cid:129) our industry accumulation and extensive cooperation. As a member of the
+ our industry accumulation and extensive cooperation. As a member of the
 Committee of Demonstrative Operation of Autonomous Driving Technology in
 Guangzhou, we play a pivotal role in the formulation of policies and standards with
 respect to the commercialization of Robotaxi in Guangzhou. We have also entered
 into strategic collaborations with business partners such as Pony.ai, the Robotaxi
 fleet of GAC R&D Center and NavInfo Co., Ltd. (四維圖新) (“NavInfo”) in R&D
 initiatives; and
-(cid:129) our commitment to the expansion of our technology services. As of the Latest
+ our commitment to the expansion of our technology services. As of the Latest
 Practicable Date, we had secured contracts for our technology services with a total
 contract value of RMB57.9 million.
 Fleet Sale and Maintenance
@@ -12567,30 +12567,30 @@ engaging, close-knit industry network around our platform, where synergies and a
 values are created leveraging the share of information, know-how, experience and resources
 among the industry participants, as we continue to invest in this operation.
 The growth drivers for our fleet sale and maintenance include, among others:
-(cid:129) significant opportunities and continual growth potential in China smart mobility
+ significant opportunities and continual growth potential in China smart mobility
 fleet sale and maintenance market, with the number of ride-hailing service vehicles
 expected to increase from 4.5 million in 2024 to 6.0 million in 2030, according to
 Frost & Sullivan, as well as the further penetration of Robotaxi service as our fleet
 sale and maintenance are also available to Robotaxi;
-(cid:129) our dedication to enriching our service offerings to build an industry network that
+ our dedication to enriching our service offerings to build an industry network that
 encompasses mobility service and automobile service. For example, in April 2022,
 we launched OnTime auto service center in Guangzhou, which is an offline store
 that offers comprehensive fleet sale and maintenance covering drivers and vehicles,
 offeringsalesofvehiclesandspareparts,maintenanceandrepairanddriverservice;
-(cid:129) our capability to enhance our car partners’ efficiency and cost management. For
+ our capability to enhance our car partners’ efficiency and cost management. For
 example, we developed our proprietary vehicle and driver management system and
 provided access to our car partners for free.We provided training to our car partners
 from time to time, assisting them to improve operating efficiency and to maintain a
 higher-than-industry-average compliance rate.As a result, the average management
 fee per order we paid to car partner decreased from RMB0.84 in 2021 to RMB0.61
 in 2022, and further to RMB0.40 in 2023;
-(cid:129) our unique industry resources and close relationships with automobile
+ our unique industry resources and close relationships with automobile
 manufacturers, including GAC Group, allowing us to efficiently provide a full suite
 of vehicle and driver support solutions and achieve effective customer acquisition.
 For example, our close connection with the GAC Group allows us to realize
 collective vehicle procurements, which is critical to the launch and operation of our
 fleet sale and maintenance business; and
-(cid:129) our comprehensive services and assistance, which enable us to relieve our drivers
+ our comprehensive services and assistance, which enable us to relieve our drivers
 from various logistics and maintenance matters and help them increase their net
 operational time and improve operational efficiency. As of December 31, 2023, we
 were capable of providing fleet sale and maintenance to 135.2 thousand drivers. Our
@@ -12708,11 +12708,11 @@ Sinceourinception,wehavebeendedicatedtodevelopingourservicestobetterservethe
 public.Asaproviderofhigh-qualityservices,wehaveabroadriderbasecharacterizedbyhigh
 loyalty, high transaction frequency and strong purchasing power, as indicated by the statistical
 trends related to our customer activity in the following paragraphs:
-(cid:129) In 2021, 2022 and 2023, not only did we recorded an annual rider retention rate of
+ In 2021, 2022 and 2023, not only did we recorded an annual rider retention rate of
 our ride-hailing services of 31.7%, 31.0% and 27.8%, respectively, we also
 witnessed a notably high average ride frequency of our ride-hailing services of 8.8,
 10.2 and 9.0, respectively.
-(cid:129) As of December 31, 2023, for our ride-hailing services, the average income per
+ As of December 31, 2023, for our ride-hailing services, the average income per
 orderofusersretainedforoneyearimprovedby79.7%,andfortwoyearsby75.5%,
 compared to December 31, 2022.
 Webelievethattheimprovedsatisfactiondatabasedontheauthenticfeedbackfromusers
@@ -13115,7 +13115,7 @@ We operate an online platform to provide mobility services, including ride-haili
 other mobility services. We name our online platform OnTime, or Ruqi (如祺) in Chinese, to
 emphasize our values of punctuality and efficiency.
 We have grown significantly during the Track Record Period.
-(cid:129) Fast-growing scale. We began our mobility service in Guangzhou and quickly
+ Fast-growing scale. We began our mobility service in Guangzhou and quickly
 expanded to other cities and regions.As of December 31, 2021, 2022 and 2023, the
 numberofcitieswhereweoperatedweresix,18and24,respectively.Asofthesame
 dates, the number of foothold cities where we strategically prioritized resources was
@@ -13124,14 +13124,14 @@ Our mobility service GTV increased from RMB1,347.4 million in 2021 to
 RMB1,795.6 million in 2022, and further to RMB2,741.0 million in 2023,
 representing a CAGR of 42.6%. In 2023, our daily mobility service GTV reached
 RMB7.5 million.
-(cid:129) Broadening rider base. As of December 31, 2023, our mobility service platform
+ Broadening rider base. As of December 31, 2023, our mobility service platform
 had 23.8 million registered riders.The average monthly active riders of our mobility
 services amounted to 1,031.7 thousand, 1,203.8 thousand and 1,047.3 thousand in
 2021, 2022 and 2023, respectively. In 2021, 2022 and 2023, not only did we achieve
 an annual rider retention rate of our ride-hailing services of 31.7%, 31.0% and
 27.8%, respectively, but also witnessed a notably high average ride frequency of our
 ride-hailing services of 8.8, 10.2 and 9.0, respectively.
-(cid:129) Strong service fleet. Our drivers also increased steadily due to our efforts in
+ Strong service fleet. Our drivers also increased steadily due to our efforts in
 recruiting and retaining qualified drivers. The average monthly active drivers of our
 ride-hailingservicesincreasedfrom11.9thousandin2021to18.6thousandin2022,
 and further to 36.8 thousand in 2023. This helps us maintain and steadily improve
@@ -13443,25 +13443,25 @@ In 2021, 2022 and 2023, the average monthly active enterprise customers amounted
 0.2 thousand, 0.4 thousand and 0.4 thousand, respectively, representing 0.02%, 0.03% and
 0.04% of the average monthly active riders for our ride-hailing services, respectively. Below
 set forth key terms of our service agreements with enterprise customers:
-(cid:129) Duration: The duration of the agreement is typically one year.
-(cid:129) Scope of service: We typically offer the full range of our mobility services to our
+ Duration: The duration of the agreement is typically one year.
+ Scope of service: We typically offer the full range of our mobility services to our
 enterprise customers through our OnTime Enterprise app, unless the enterprise
 customer’s internal policies set certain limitations on the authorized service scope.
 – 304 –
 
 === PAGE 316 ===
 BUSINESS
-(cid:129) Service charges: We typically charge our enterprise customers service fees at the
+ Service charges: We typically charge our enterprise customers service fees at the
 same pricing mode as we charge our individual riders. See “Business – Our Service
 Offerings – Mobility Services – Ride-Hailing – Pricing and Settlement.” The fee
 charges for premium benefits we offer to enterprise customers are determined on a
 case-by-case basis according to each enterprise customer’s unique requirements and
 is typically negotiated through a tender process.
-(cid:129) Payment: We typically require our enterprise customers to top up their account
+ Payment: We typically require our enterprise customers to top up their account
 balance with us upfront, or grant enterprise customers a credit line which is settled
 on a monthly basis. The fee for every authorized trip is deducted from the balance
 or credit line upon completion.
-(cid:129) Termination:Theagreementswillbeterminatedupontheexpiration,oruponwritten
+ Termination:Theagreementswillbeterminatedupontheexpiration,oruponwritten
 notice by either party in the event of the circumstances as set forth in the relevant
 agreements, such as liquidation or bankruptcy.
 Pricing and Settlement
@@ -13592,32 +13592,32 @@ Neither our car partners nor we enter into employment agreements with drivers, a
 therefore the drivers are not the employees of our car partners or us. Drivers registered on our
 platform are required to comply with our ride-hailing service agreements. Below are the key
 terms of our ride-hailing service agreement with drivers:
-(cid:129) Registration and approval to be a driver: The driver must hold a valid driver’s
+ Registration and approval to be a driver: The driver must hold a valid driver’s
 licence and all other required licences, permits, registrations and approvals required
 to provide services.
-(cid:129) Scope of services: Our platform assign drivers to fulfill ride-hailing orders from
+ Scope of services: Our platform assign drivers to fulfill ride-hailing orders from
 riders,andthedriversshallperformserviceinmannersasspecifiedbyourplatform.
-(cid:129) Compliance: The driver shall comply with the Interim Measures for the
+ Compliance: The driver shall comply with the Interim Measures for the
 ManagementofOnlineRide-HailingOperationandService(《網絡預約出租汽車經
 營服務管理暫行辦法》) and relevant laws and regulations. Drivers are also required
 to follow our platform’s rules to deliver high quality service and refrain from
 misconducts and abusive uses of our platform. We also have driver evaluation
 system to assess their performance based on order completion rate, ratings and
 specific rider feedback.
-(cid:129) Service fees: Drivers’ service fees are determined based on a formula that we may
+ Service fees: Drivers’ service fees are determined based on a formula that we may
 adjustfromtimetotime.See“Business–OurServiceOfferings–MobilityServices
 – Ride-Hailing – Pricing and Settlement.” Fees are typically settled on a weekly
 basis and paid to the bank accounts of drivers through our settlement system at a
 commercial bank.
-(cid:129) Liability: The driver is liable for compensation of any tortious damage caused to
+ Liability: The driver is liable for compensation of any tortious damage caused to
 third parties due to the driver’s fault.
-(cid:129) Termination: In the event of a driver’s breach of contract, we may take measures
+ Termination: In the event of a driver’s breach of contract, we may take measures
 such as suspending or terminating the account and deducting liquidated damages
 from any unsettled service fee balance subject to the nature and degree of breach.
 Below are the key terms of our ride-hailing service agreement with riders:
-(cid:129) Registration eligibility: The rider must be an adult over the age of 18 with full legal
+ Registration eligibility: The rider must be an adult over the age of 18 with full legal
 capacity.
-(cid:129) Scope of service: At the rider’s choice, he/she can enjoy the following services: (i)
+ Scope of service: At the rider’s choice, he/she can enjoy the following services: (i)
 mobility service when an order placed by the rider is accepted by our platform; (ii)
 access historical mobility service records; and (iii) other new service that we may
 launch from time to time.
@@ -13625,18 +13625,18 @@ launch from time to time.
 
 === PAGE 320 ===
 BUSINESS
-(cid:129) Compliance:We request riders refrain from misconduct, including: (i) using false or
+ Compliance:We request riders refrain from misconduct, including: (i) using false or
 illegal information to apply for user accounts; (ii) engaging in illegal criminal
 activities through our accounts; (iii) creating fake accounts in bulk; (iv) infringing
 on the legitimate rights and interests of third parties through our platform; and (v)
 any other conduct that violates laws and regulations.
-(cid:129) Fees and payment: We charge service fees based on our pricing policies which we
+ Fees and payment: We charge service fees based on our pricing policies which we
 may update from time to time. See “Business — Our Service Offerings — Mobility
 Services — Ride-Hailing — Pricing and Settlement.” The rider should pay the fees
 promptly upon our request after using the service.
-(cid:129) Liability: If a rider breaches the agreement, we may suspend, terminate, or take
+ Liability: If a rider breaches the agreement, we may suspend, terminate, or take
 other restrictive action depending on the severity of the breach.
-(cid:129) Termination: The rider may terminate his/her account with us after settling any
+ Termination: The rider may terminate his/her account with us after settling any
 unpaid charges.
 As a ride-hailing service provider in China, we shall comply strictly with the applicable
 PRC laws and regulations, such as the Interim Measures for the Management of Online
@@ -13747,27 +13747,27 @@ We are enriching our ride-hailing services by utilizing Robotaxi for ride hailin
 under our hybrid operation model. Our hybrid operation model provides our riders with a
 consolidated single portal to choose either the manned ride-hailing option or Robotaxi service
 option. Below are the key terms of our Robotaxi service agreement with riders:
-(cid:129) Eligibility:The rider must be an adult over the age of 18 with full legal capacity and
+ Eligibility:The rider must be an adult over the age of 18 with full legal capacity and
 free of serious diseases and conditions that make him/her unfit for the ride.
-(cid:129) Scopeofservice:Weofferpilotautonomousdrivingexperienceservice.Thechoices
+ Scopeofservice:Weofferpilotautonomousdrivingexperienceservice.Thechoices
 of pick-up location and destination are limited due to safety reasons. The routes are
 determined by algorithms, and we may not be able to accommodate route selection
 or changes based on the riders’ preferences.
-(cid:129) Compliance: We request riders refrain from misconduct, including: (i) touching the
+ Compliance: We request riders refrain from misconduct, including: (i) touching the
 steering wheel or vehicle autonomous driving system; (ii) using our service while in
 an impaired state, including being under the influence of alcohol or experiencing
 impaired consciousness; and (iii) conducting, or requiring the safety officer to
 perform an act that violates applicable traffic laws or other regulations.
-(cid:129) Fees: The fee we charge is currently calculated based on the mileage of the order,
+ Fees: The fee we charge is currently calculated based on the mileage of the order,
 and such pricing methodology may be updated from time to time given the rapid
 development of Robotaxi technologies and industry. The rider should pay the fees
 promptly upon our request after using the service.
-(cid:129) Liabilities: We are only liable to direct damages to riders caused by our fault. In
+ Liabilities: We are only liable to direct damages to riders caused by our fault. In
 relation to safety accidents caused by defects that may be inherent in driverless
 mobility vehicles and that cannot be detected with the current state of science and
 technology, we are only liable within the scope of our commercial insurance
 liability.
-(cid:129) Termination: Both our platform and the rider have the right to unilaterally terminate
+ Termination: Both our platform and the rider have the right to unilaterally terminate
 the agreement.
 BenefitingfromourcontinuousrefinementofRobotaxioperationtobringitsstabilityand
 reliability on par with manned service vehicles, our model introduces riders with real-life
@@ -14068,7 +14068,7 @@ support services. With our comprehensive services and assistance, we are able to
 drivers from various logistics and maintenance matters and help them increase their net
 operational time and improve operational efficiency. This, in turn, enhances our ability to
 recruit and retain drivers.
-(cid:129) Vehicle Sales.There is significant demand in China’s automobile market, and hence
+ Vehicle Sales.There is significant demand in China’s automobile market, and hence
 consumers sometimes have to go through a lengthy order fulfillment period after
 placing an order, and are typically not given much discount. The terms may also
 vary significantly among automobile distributors, further complicating the
@@ -14104,7 +14104,7 @@ Automotive OEMs veh P i a c y le m p e u n r t c o h f ase O se n rv T i i c m e
 price options are available from
 third-party financial Individual car owners
 institutions)
-(cid:129) Maintenance and Repair. We provide standardized maintenance and repair
+ Maintenance and Repair. We provide standardized maintenance and repair
 services and ancillary services, such as car wash and EV charging, to our car
 partners and certain individual car owners. We have our own OnTime auto service
 center and also outsource certain services to qualified third-party maintenance
@@ -14211,7 +14211,7 @@ includingmobilityserviceplatformoperation,autonomousdrivingdatasolutionsandRobot
 solutions, using an agile development model driven by our acute perception of market trends.
 See “— Intellectual Property” and “Appendix IV – Statutory and General Information –
 Further Information about Our Business – Intellectual Property Rights.”
-(cid:129) Big Data Analytics. Our strong ability in big data analytics underpins our
+ Big Data Analytics. Our strong ability in big data analytics underpins our
 technology strengths, including dispatch optimization and precise positioning. We
 have a large repository of vehicle and traffic data from our mobility service
 operations, and harness the value of such data to power the continued improvement
@@ -14226,7 +14226,7 @@ platform.
 
 === PAGE 335 ===
 BUSINESS
-(cid:129) Dispatch Optimization. We optimize our dispatch range with intelligent dispatch
+ Dispatch Optimization. We optimize our dispatch range with intelligent dispatch
 algorithms, aiming to improve our operational efficiency, while enhancing user
 experience. Powered by AI analytical technologies, Qi Cube is capable of making
 overall strategic decisions, taking into consideration varied factors including user
@@ -14246,7 +14246,7 @@ were able to maintain and steadily improve the response rate of our services, wh
 we consider as a crucial indicator of the efficiency and competitiveness of our
 service. The response rate of our ride-hailing service was 81.5%, 84.8% and 88.9%
 in 2021, 2022 and 2023, respectively.
-(cid:129) Positioning Service. We cooperate with Tencent Map to enhance the accuracy of
+ Positioning Service. We cooperate with Tencent Map to enhance the accuracy of
 advanced positioning technologies applied in mobility services. Our platform
 sustains sub-second response times and meter-level high-accuracy positioning. Our
 positioning technologies are also optimized for indoor environments, such as the
@@ -14289,7 +14289,7 @@ In addition, we have formulated and implemented comprehensive procedures designe
 verify the compliance status of drivers and vehicles, enabling us to promptly detect and
 effectively prevent drivers from circumventing the screening processes, including, among
 others:
-(cid:129) Group-level management. We have formulated the service fleet compliance
+ Group-level management. We have formulated the service fleet compliance
 management measures to regulate the compliance management. Moreover, we have
 established dedicated departments responsible for the implementation of service
 fleet compliance management. Our service fleet sale and maintenance department is
@@ -14299,11 +14299,11 @@ Ourbusinessoperationofficeisinchargeofthecomplianceandeffectivenessofour
 operating licenses, and our service fleet planning and development office is
 responsible for conducting compliance-related reviews and assessments for
 admission and withdrawal of driver and vehicle.
-(cid:129) Driver and vehicle admission review. We engage qualified third-party service
+ Driver and vehicle admission review. We engage qualified third-party service
 providers to conduct background checks online for screening purposes. These
 service providers manually screen all the drivers based on information from
 professional security database.
-(cid:129) Ongoing compliance inspections. Drivers are required to undergo facial
+ Ongoing compliance inspections. Drivers are required to undergo facial
 recognition and photograph verification on a daily basis before commencing service
 to verify their identities. We also require drivers to take photos of their vehicles and
 uploadphotostotheplatformtoensureproperdriver-vehiclematching.Bydoingso,
@@ -14313,7 +14313,7 @@ processes.
 
 === PAGE 337 ===
 BUSINESS
-(cid:129) Communication with regulatory authorities. We maintain regular
+ Communication with regulatory authorities. We maintain regular
 communications with local transportation authorities regarding driver identity and
 vehicle compliance verification and management, as the identity and background of
 all the licensed drivers and vehicles are also verified and reviewed by them.
@@ -14395,7 +14395,7 @@ We have established and implemented a complaint management scheme and maintain
 dedicated teams including a customer service team, a specialized security department and a
 customer experience team to manage all types of users’ complaint, including safety complaint
 and general service complaint in a graded and categorized manner, specifically:
-(cid:129) Graded Complaint Handling System. We have strict regulations on the handling
+ Graded Complaint Handling System. We have strict regulations on the handling
 process and time limit, in order to ensure our quick and timely response for riders’
 and drivers’ complaint. As of December 31, 2023, our customer service team
 consisted of 36 full-time employees and 131 outsourced members, which is
@@ -14409,7 +14409,7 @@ with advanced skills in complaint resolution and decision-making regarding safet
 concerns. If an issue cannot be resolved by the first-line team, it is escalated to the
 second-line team. Should the second-line team identify a complaint as safety-
 related, the matter is transferred immediately to the priority concern support team.
-(cid:129) High-Risk Complaints and Safety Incident Resolution. For urgent safety issues,
+ High-Risk Complaints and Safety Incident Resolution. For urgent safety issues,
 users have access to a dedicated 24/7 safety hotline, established as a direct reporting
 channel to safeguard rider and driver safety.The hotline is managed by the first-line
 customer service team, which strives to achieve a 100% pick-up rate. The priority
@@ -14417,7 +14417,7 @@ concern support team takes the lead in handling all safety-related complaints.
 Should they ascertain that an incident is related to safety, it is promptly escalated to
 a specialized security department tasked with managing and resolving the situation
 thoroughly.
-(cid:129) Monitoring and Quality Assurance. We maintain a customer experience team
+ Monitoring and Quality Assurance. We maintain a customer experience team
 tasked with managing and supervising our customer service team, setting service
 handlingbenchmarksandimprovingservicequality.Wehaveestablishedacustomer
 service standard manual that delineates our service standards, which we regularly
@@ -14427,7 +14427,7 @@ methodssuchascallmonitoringtoevaluatetheperformanceofourcustomerservice
 staff. Service quality is measured using efficiency metrics (such as the rate of
 answering calls within 20 seconds, online pick-up rates, and ticket resolution rates)
 and quality metrics (such as inspection pass rates and customer satisfaction).
-(cid:129) RegularAnalysis and Improvement. We regularly analyze and compile statistics on
+ RegularAnalysis and Improvement. We regularly analyze and compile statistics on
 complaints to discern trends and pinpoint areas for enhancement. Our customer
 service team recommends initiatives to improve management and service, with the
 goal of fundamentally reducing and resolving complaints that pertain to service
@@ -14524,21 +14524,21 @@ Data Security Policies
 We have strict compliance programs and internal data security management policies in
 place to ensure compliance with the latest laws and regulations, governing the access, use and
 storage of user data, including, among others:
-(cid:129) Group-level management. We have established an organizational structure for data
+ Group-level management. We have established an organizational structure for data
 security and personal information protection, specifying the main duties of departments
 at all levels. We have also set up a data security management committee led by our chief
 technology officer, overseeing policy formulation and implementation. A network data
 security office is set up under the committee, supporting us to effectively formulate data
 security and personal information protection plans and supervise their implementation,
 and properly deal with and prevent data security risks.
-(cid:129) Consent-based user data collection. We only collect users’ personal information under
+ Consent-based user data collection. We only collect users’ personal information under
 users’consent, as well as specific circumstances permitted by laws and regulations, such
 as necessary to provide users with ride-hailing services or to fulfill legal obligations. We
 retain users’ personal information for the shortest period necessary to achieve the
 purposes of the user’s authorization and ride-hailing services unless otherwise required
 by laws and regulations or competent authorities, which is in compliance with the
 applicable laws and regulations in relation to personal information protection.
-(cid:129) Full life cycle data security management.To ensure the integrity of user data throughout
+ Full life cycle data security management.To ensure the integrity of user data throughout
 our operational management and R&D activities, we have formulated and implemented a
 whole set of data security management rules, which specify the full life cycle
 management for user data, including the requirements, standards, and procedures for
@@ -14562,7 +14562,7 @@ protection.
 
 === PAGE 343 ===
 BUSINESS
-(cid:129) Comprehensive information systems. We have established information systems that
+ Comprehensive information systems. We have established information systems that
 provide security measures such as encryption algorithms and redundant backup
 technologies when storing and transmitting important data, personal information and
 other sensitive network data. We have also taken corresponding technical security
@@ -14572,32 +14572,32 @@ information to the cloud server. Based on the category and grade of personal inf
 we adopt differentiated technical and administrative security measures. Additionally, we
 implement effective, periodic backup strategies to ensure the integrity and recoverability
 of data.
-(cid:129) Emergency response plans. We have established the rules for management of emergency
+ Emergency response plans. We have established the rules for management of emergency
 response plans for information security incidents, and implemented the emergency
 response process for data security incidents accordingly. We clearly outline the
 requirements for emergency activation, response, and subsequent handling of such
 incidents. By organizing and conducting emergency response drills on a regular basis, we
 have also developed an emergency response plan management and emergency response
 work mechanism for data security incidents.
-(cid:129) Data security training mechanisms. We have established a comprehensive and well-
+ Data security training mechanisms. We have established a comprehensive and well-
 structured staff-oriented data compliance training system, ensuring organized data
 compliance training. We have prepared and maintained specialized internal records for
 the personal information protection trainings already conducted.
-(cid:129) Transparent communications with our users. Our users are fully informed of by our
+ Transparent communications with our users. Our users are fully informed of by our
 privacy policies, including, among others: (i) the types of personal information we
 collect; (ii) our processes of accessing, using, storing and sharing user information; and
 (iii) methods to restrict or reject our access to certain information while maintaining the
 basic service functions of our platform. Our privacy policies are regularly updated
 according to the business operation needs and revised to be in line with the changes in
 relevant laws and regulations on data protection and privacy.
-(cid:129) Employee confidentiality commitments. We also enter into confidentiality agreements
+ Employee confidentiality commitments. We also enter into confidentiality agreements
 with our employees, which provide that our employees shall not share, distribute or sell
 any confidential information to any other parties, including other employees who are not
 authorized to access such information. Upon termination of employment with us, our
 employees are required to return copies of confidential information to us or destroy it as
 we see appropriate. Their confidentiality obligation survives the termination of
 employment.
-(cid:129) Third-party data sharing protocols. We may share user information with certain third
+ Third-party data sharing protocols. We may share user information with certain third
 parties that we work with in our daily operations, including our car partners. The prior
 consent of data owners or other legal or regulatory ground is required when sharing data
 with third parties. We do not provide internet mapping services to the public. We
@@ -14611,7 +14611,7 @@ authorizations with navigation service providers so that such service providers 
 enable the necessary navigation and pick-up point positioning functions. In our
 agreementswiththirdparties,wetypicallyspecifythedataprotectionresponsibilitiesand
 potential liabilities for both parties.
-(cid:129) Continuously advancing our security and privacy compliance. As the laws and
+ Continuously advancing our security and privacy compliance. As the laws and
 regulations on data security and personal information protection continue to evolve, we
 are consistently refining our efforts to satisfy the required assessment and reporting
 obligations. We closely follow new regulations, technologies, and requirements in the
@@ -14949,7 +14949,7 @@ In 2021, 2022, 2023 and the period from January 1, 2024 to the Latest Practicabl
 nil, nil, 486 and nil vehicles were purchased from GAIG and/or its associates, which are
 automobile manufacturers, and were then sold to other associates of GAIG, which are our car
 partners, respectively, for the following reasons:
-(cid:129) according to Frost & Sullivan, the collaboration between the mobility platform and
+ according to Frost & Sullivan, the collaboration between the mobility platform and
 the automobile manufacturers is a mutually beneficial relationship. The automobile
 manufacturers provide customized vehicles and technical support, enabling the
 platform to deliver high-quality services. In return, the platform offers market
@@ -14961,13 +14961,13 @@ inextricablylinkedtogetherinmultipleaspects,ourbusinessandthoseofGAIGand
 its associates are highly complementary and beneficial to each other; considering
 GAIG’s leading position in the research and development, manufacturing and sales
 of automobile, it is natural and in our best interests to cooperate with GAIG;
-(cid:129) as GAIG and/or its associates have comprehensive understanding of our business
+ as GAIG and/or its associates have comprehensive understanding of our business
 needs, and we have established a good foundation of mutual trust with each other;
 GAIGand/oritsassociatescanprovidestableandhigh-qualityservicesandproducts
 that can effectively and reliably meet our needs; in particular, as our car partners,
 associates of GAIG can ensure effective communication and management over cars
 and drivers thereby providing stable and quality services to our end customers;
-(cid:129) to facilitate our drivers’ onboarding process, we undertake centralized vehicle
+ to facilitate our drivers’ onboarding process, we undertake centralized vehicle
 procurement for our car partners and drivers.We consolidate the demands of our car
 partners and drivers, and negotiate directly with automobile manufacturers for a
 collective deal. Such collective deals are typically priced at a discount from
@@ -14976,7 +14976,7 @@ prevailing market prices, and offer more streamlined delivery; and
 
 === PAGE 352 ===
 BUSINESS
-(cid:129) with an aim to build a one-stop standardized automobile service platform, OnTime
+ with an aim to build a one-stop standardized automobile service platform, OnTime
 auto service center, and create an industry network encompassing driver services,
 after-sales services and other ancillary services in extended scenarios, we offer sales
 of vehicles, vehicle maintenance and repair and sales of automobile components
@@ -14992,18 +14992,18 @@ Period.Theirpurchasedecisionsmaytakeintoaccountfactorsincludingtherelevantsalepr
 and value-added services offered by authorized distributors. We believe that our one-stop
 standardized automobile service platform provides value that leads to car partners’ purchase of
 vehicles from us:
-(cid:129) it offers a variety of vehicles for car partners to choose from, including vehicles
+ it offers a variety of vehicles for car partners to choose from, including vehicles
 sourced from associates of GAIG and other OEMs; instead, OEMs normally sell
 their own branded vehicles;
-(cid:129) by taking a holistic assessment of factors including wheelbase, vehicle length,
+ by taking a holistic assessment of factors including wheelbase, vehicle length,
 overall performance, distance to empty, pricing, etc., it carefully reviews and selects
 vehicle models that are suitable for use in ride-hailing services, and are compliant
 with licensing requirements for ride-hailing vehicles; on the other side, car partners
 need to check compliance issues if vehicles are directly purchased from OEMs;
-(cid:129) vehicles purchased from our platform are entitled to benefit from our streamlined
+ vehicles purchased from our platform are entitled to benefit from our streamlined
 ride-hailing vehicle licensing assistance service, which saves time and trouble for
 our car partners and drivers; and
-(cid:129) car partners purchasing vehicles from us are entitled to our assistance service for
+ car partners purchasing vehicles from us are entitled to our assistance service for
 driver registration which facilitates drivers’ onboarding process on platform. In the
 circumstance that car partners who are associates of GAIG purchase vehicles
 directly from GAIG and its associates, they will not be entitled to aforementioned
@@ -15474,12 +15474,12 @@ Ride-Hailing – Service Flow and Fund Flow” for the key terms of our ride-hai
 agreement with drivers. The typical terms and pricing of our agreements with our car partners,
 whether they are associates of GAC or independent third parties, are generally the same and
 summarized as follows:
-(cid:129) Duration: The duration of the agreement is typically one year, and the agreement
+ Duration: The duration of the agreement is typically one year, and the agreement
 will be renewed with mutual consent.
-(cid:129) Service scope: Car partners are typically responsible for (i) driver recruitment and
+ Service scope: Car partners are typically responsible for (i) driver recruitment and
 management; (ii) overseeing and facilitating the license compliance of drivers and
 service vehicles; and (iii) vehicle asset maintenance and management.
-(cid:129) Service charges: We typically pay our car partners management fees calculated by
+ Service charges: We typically pay our car partners management fees calculated by
 multiplying (a) driver earnings by (b) various numerical values, including, among
 others, performance factor, service quality factor, compliance factor, driver online
 rate factor and growth factor, and then (c) subtracting deductions if any safety
@@ -15495,17 +15495,17 @@ drivers; (vi) growth factor is a numerical value assigned based on the growth ra
 the number of drivers. We apply the same management fee rate calculation basis to
 our car partners which are associates of GAC as we do to our car partners which are
 independent third parties.
-(cid:129) Security deposit: The car partners are typically required to pay a security deposit,
+ Security deposit: The car partners are typically required to pay a security deposit,
 the amount of which depends on the number of vehicles. The deposit is refunded
 upon expiration of the contract period, unless they are liable to pay us certain
 damages due to breach of contract.
-(cid:129) Insurance: We require car partners to maintain carrier liability insurance.
-(cid:129) Payment: We typically settle payments on a monthly basis.
+ Insurance: We require car partners to maintain carrier liability insurance.
+ Payment: We typically settle payments on a monthly basis.
 – 352 –
 
 === PAGE 364 ===
 BUSINESS
-(cid:129) Termination: We are entitled to unilaterally terminate the contract if car partners is
+ Termination: We are entitled to unilaterally terminate the contract if car partners is
 no longer legally licensed, is liable for material breaches of terms such as
 confidentiality, compliance and safety obligations, or otherwise fails to fulfill
 contractual obligations, in which cases damages shall be assessed.
@@ -15583,7 +15583,7 @@ As of December 31, 2023, we have established mutually beneficial cooperations wi
 third-party mobility service platforms. We also compete directly with such platforms,
 especially those operating in the GBA. Our cooperations with such platforms can be
 categorized into two distinct collaboration models:
-(cid:129) Third-party user traffic cooperation: Under this model, we cooperate with both
+ Third-party user traffic cooperation: Under this model, we cooperate with both
 mobility service platforms with their own service fleet and aggregation mobility
 service platforms to have access to their user traffic. Riders using the third-party
 mobility service platforms can place orders to us and matched orders are then
@@ -15591,7 +15591,7 @@ fulfilled by us at our full responsibility. As of December 31, 2023, we cooperat
 with 17 third-party mobility service platforms under this model, among which eight
 were mobility service platforms with their own service fleet and nine were
 aggregation mobility service platforms.
-(cid:129) Third-party service fleet cooperation: Under this model, we cooperate with
+ Third-party service fleet cooperation: Under this model, we cooperate with
 mobility service platforms with their own service fleet to help us fulfil our orders.
 Riders on our platform can choose to place orders to third-party mobility service
 platforms and matched orders are then fulfilled by their service fleet at their full
@@ -15911,17 +15911,17 @@ The key terms of our agreements with third-party mobility service platforms incl
 both mobility service platforms with their own service fleet and aggregation mobility service
 platforms for the two cooperation models described above are generally the same and
 summarized as follows:
-(cid:129) Duration: The duration of the agreement is typically one year, subject to automatic
+ Duration: The duration of the agreement is typically one year, subject to automatic
 renewal upon expiry.
-(cid:129) Parties: (i) Ordering platform who, with its riders’consent, sends the placed orders
+ Parties: (i) Ordering platform who, with its riders’consent, sends the placed orders
 to the fulfillment platform; (ii) fulfillment platform who receives the order from the
 orderingplatformanddeliversservicewithitsservicefleet.Wemayacteitherasthe
 ordering platform or the fulfillment platform.
-(cid:129) Cooperation Model: The ordering platform provides mobility platform order
+ Cooperation Model: The ordering platform provides mobility platform order
 matching service to the fulfillment platform, enabling the latter’s service fleet to be
 accessed by riders on the ordering platform. The ride fee quote calculation basis is
 at the discretion of the fulfillment platforms.
-(cid:129) Service Charges: The ordering platform typically charges a fee for matching the
+ Service Charges: The ordering platform typically charges a fee for matching the
 order. The level of order matching fee is negotiated on a case-by-case basis, taking
 into account various factors, primarily including: (i) the costs incurred by the
 ordering platforms, such as server maintenance and R&D expenses for aggregating
@@ -15934,13 +15934,13 @@ credited initially to the ordering platform’s supervision account with banks o
 payment institutions. The ordering platform and fulfillment platform typically settle
 the fee paid by riders on a real-time, weekly or monthly basis and based on the order
 matching fee rates as stipulated in the agreement.
-(cid:129) Liability: In the event that the ordering platform is held liable or is subject to
+ Liability: In the event that the ordering platform is held liable or is subject to
 administrative penalties by the competent authorities as a result of an accident
 occurred during the service process, the ordering platform is typically entitled to
 recover any economic loss from the fulfillment platform.The fulfillment platform is
 responsible for resolving any driver-rider disputes arising from the orders fulfilled
 by its service fleet.
-(cid:129) Termination:Theagreementsaretypicallysubjecttoautomaticrenewaluponexpiry.
+ Termination:Theagreementsaretypicallysubjecttoautomaticrenewaluponexpiry.
 If neither party gives written notice of termination prior to the expiration date, the
 agreement will automatically renew for an additional year.
 – 363 –
@@ -16008,8 +16008,8 @@ programs with NavInfo, a technology company specializes in navigation maps and s
 dynamic traffic information, location data analysis and V2X solutions. We entered into
 framework cooperative agreements with them, the key terms as well as the progress of which
 are summarized as follows:
-(cid:129) Duration: The duration of the agreements is typically three years or longer.
-(cid:129) Scope of Cooperation:We maintain comprehensive collaborations with our industry
+ Duration: The duration of the agreements is typically three years or longer.
+ Scope of Cooperation:We maintain comprehensive collaborations with our industry
 partners in the realms of Robotaxi and technology services. Specifically:
 (i) Robotaxi:
 We may, from time to time, purchase certain amount of Robotaxis and Robotaxi
@@ -16040,7 +16040,7 @@ Progress: We provided Pony.ai with certain technology services, primarily
 including data annotation services. The pricing was in line with our overall
 pricing methodology for technology services, and the payment was made in
 accordance with the contract.
-(cid:129) Joint R&D: We may enter into joint R&D programs in HD maps, V2X and
+ Joint R&D: We may enter into joint R&D programs in HD maps, V2X and
 autonomous driving technologies, which may involve certain mutual sourcing of
 products and services. The details of such R&D program will be stipulated by
 separate specific agreements. The ownership of any IP generated from such joint
@@ -16049,9 +16049,9 @@ Progress: We have entered into a strategic partnership with NavInfo in the
 R&Dcollaborationsinthreemajorareas,namelyHDmap,autonomousdriving
 and smart traffic. As of the Latest Practicable Date, our joint R&D activities
 with NavInfo remained at the early stages.
-(cid:129) Technical Support: Our partners may also provide us with technical support, such as
+ Technical Support: Our partners may also provide us with technical support, such as
 autonomous driving technology support as well as vehicle system maintenance.
-(cid:129) Termination and Renewal: The agreements will be terminated upon expiration and
+ Termination and Renewal: The agreements will be terminated upon expiration and
 by the parties’ joint consent. With the parties’ joint consent we can renew the
 agreements.
 COMPETITION
@@ -16078,18 +16078,18 @@ mobilityservicemarket,significantlyaheadofour5.6%marketshareasGBA’ssecond-larg
 platform. This dominance is primarily attributed to its early market entry, expansive coverage,
 significant user base and evident first-mover advantage, according to Frost & Sullivan.
 We believe that our ability to compete effectively depends upon many factors, including:
-(cid:129) our ability to maintain a industry-leading regulatory compliance profile in a
+ our ability to maintain a industry-leading regulatory compliance profile in a
 cost-efficient manner;
-(cid:129) the continued success of our focused growth strategy, centered on the Greater Bay
+ the continued success of our focused growth strategy, centered on the Greater Bay
 Area, and expanding into neighboring regions under our geographical expansion
 strategy;
-(cid:129) our ability to develop innovative service options that bring about synergies amongst
+ our ability to develop innovative service options that bring about synergies amongst
 our offerings;
-(cid:129) our ability to attract and retain riders and drivers;
-(cid:129) our ability to provide superior user experience at an affordable price;
-(cid:129) our ability to maintain and improve our safety measures;
-(cid:129) our reputation and brand awareness; and
-(cid:129) the openness and compatibility of our platform and our relationship with business
+ our ability to attract and retain riders and drivers;
+ our ability to provide superior user experience at an affordable price;
+ our ability to maintain and improve our safety measures;
+ our reputation and brand awareness; and
+ the openness and compatibility of our platform and our relationship with business
 partners, including taxi companies and associations, car partners, automobile
 manufacturers and autonomous driving solution providers.
 SOCIAL RESPONSIBILITY AND ENVIRONMENTAL PROTECTION
@@ -16190,7 +16190,7 @@ trips compared to that during the COVID-19 pandemic period in 2021 and 2022.
 Committedtoreducingourcarbonfootprintandcontributingtotheoverallenvironmental
 sustainability, we have implemented, and will continue to implement, various measures to
 reduce our energy and resource consumption and GHG emissions, including, among others:
-(cid:129) GHG emissions. We are committed to reducing GHG emissions throughout the
+ GHG emissions. We are committed to reducing GHG emissions throughout the
 mobility value chain by using new energy vehicles and hybrid vehicles. As of
 December 31, 2023, over 95% of service vehicles (including both rental vehicles
 and driver-owned vehicles) on our platform were new energy vehicles and hybrid
@@ -16218,7 +16218,7 @@ technologies has the potential to optimize the efficiency of transportation and
 further reduce the overall carbon footprint of the mobility service industry. We
 expect to help reduce over 50 thousand tons of CO2e each year for the next three
 years.
-(cid:129) Electricity usage. We endeavor to conserve energy in response to the government’s
+ Electricity usage. We endeavor to conserve energy in response to the government’s
 initiatives. We promote energy saving awareness among our employees through our
 training and campaigns. Going forward, we plan to (i) install energy efficient
 lighting and ensure lights are switched off when not needed either manually or
@@ -16226,7 +16226,7 @@ through automatic sensors, (ii) require double-sided printing of documents
 throughout our office, and (iii) implement air conditioning controls, with measures
 including requirements on lowest temperature, regular maintenance of air-cooling
 technologies and optimal timing controls.
-(cid:129) Resource consumption. We endeavor to reduce negative environmental impact
+ Resource consumption. We endeavor to reduce negative environmental impact
 through our energy saving and sustainable development efforts. We encourage
 paperless office initiatives and adopt water recycling technology to reduce resource
 consumption. In addition, we engage professional third parties to recycle some of
@@ -16328,7 +16328,7 @@ million in 2022, further increased to RMB2,161.1 million in 2023, representing a
 features have effectively differentiated us from our peers in the smart mobility market in the
 Greater BayArea during the Track Record Period, and are expected to support our growth and
 expansion into other markets and achieve profitability in the future:
-(cid:129) Our dedication in the implementation of our geographical expansion strategy.
+ Our dedication in the implementation of our geographical expansion strategy.
 Instead of relying blindly on giving riders and drivers subsidies to compete for
 market shares in various cities, we follow our geographical expansion strategy to
 formulate strategic plans for resource investment and expansion goals to ensure
@@ -16376,7 +16376,7 @@ are able to expedite the establishment and expansion of our business operations 
 new markets and lower the cost of market penetration, and therefore to achieve
 sustainable and efficient growth. During the Track Record Period, our acquisition
 cost per new active rider decreased by 16.1% from 2021 to 2023.
-(cid:129) Ourinsistence on providing both drivers and riders quality userexperience.We
+ Ourinsistence on providing both drivers and riders quality userexperience.We
 are committed to offering high-quality services, catering to the evolving needs of
 our users. For our riders, we continuously optimize our services with a focus on
 achieving efficient dispatch and real-time safety monitoring, thus offering better
@@ -16411,7 +16411,7 @@ rate of 85% in the same year, according to Frost & Sullivan.
 
 === PAGE 386 ===
 BUSINESS
-(cid:129) Ourfirst-moveradvantage in developing new services.We believe that the future
+ Ourfirst-moveradvantage in developing new services.We believe that the future
 competition in mobility service industry would go beyond ride-hailing services. We
 are the first mobility service platform in the world to launch a commercialized
 hybrid operation of manned ride-hailing and Robotaxi services, according to Frost
@@ -16430,7 +16430,7 @@ secured contracts for our technology services with a total contract value of
 RMB57.9million.Ourdiversificationinbusinessandrevenuesourcesaswellasour
 deployment in promising adjacent areas would ensure our stable and sustainable
 development in the future.
-(cid:129) Our unique and competitive shareholder background. Jointly founded by GAC
+ Our unique and competitive shareholder background. Jointly founded by GAC
 Group and Tencent, with Pony AI being our strategic shareholder, we are able to
 integrate the abundant resources across the entire automobile manufacturing and
 mobility technology value chains. For instance, the stable supply of new energy
@@ -16522,7 +16522,7 @@ Growing Our Ride-Hailing Service Business in Existing Cities
 To better capture and capitalize on future growth opportunities, we intend to strategically
 grow the revenue from ride-hailing service business in the cities where we have operations
 through the following measures.
-(cid:129) Expanding our driver base and service fleet. According to Frost & Sullivan, due
+ Expanding our driver base and service fleet. According to Frost & Sullivan, due
 to the strong demand potential for mobility services in the Greater Bay Area and
 other parts of China, the shortfall of fulfilment capacity of ride-hailing service
 providers is expected to persist. Therefore, companies with a large and competent
@@ -16535,7 +16535,7 @@ our fleet sale and maintenance business, with more comprehensive service offerin
 andstreamlineddeliveryprocess,willsavedriversfromburdensomevehicle-related
 maintenance and repairing works and high costs, increasing our attractiveness to
 them.
-(cid:129) Improving User Experience. With our user-centric approach and relentless
+ Improving User Experience. With our user-centric approach and relentless
 commitmenttoofferingpremiumservices,thenumberoftheaveragemonthlyactive
 riders of our mobility services amounted to 1,031.7 thousand, 1,203.8 thousand and
 1,047.3 thousand in 2021, 2022 and 2023, respectively. We intend to continue
@@ -16545,7 +16545,7 @@ ensure our riders would have satisfied trips with us.
 
 === PAGE 389 ===
 BUSINESS
-(cid:129) Strengthening cooperation with car partners. We work with our car partners in:
+ Strengthening cooperation with car partners. We work with our car partners in:
 (i) driver recruitment and management; and (ii) vehicle management. Our car
 partners hire drivers who meet all legal and our internal protocols and manage
 drivers, including collecting car rents from those drivers that rent service vehicles
@@ -16554,7 +16554,7 @@ stable supply of compliant service vehicles. See “– Relationship with indust
 partners – Car partners.” Strengthening our cooperation with car partners ensures
 that we have a stable supply of a competent and compliant service fleet, which is
 essential for us to provide our riders with a satisfying mobility experience.
-(cid:129) Commitment to higher-than-industry-average compliance rate.There has been a
+ Commitment to higher-than-industry-average compliance rate.There has been a
 trend that regulators are tightening the regulations of mobility services in recent
 years. Therefore, ride-hailing service providers with optimal compliance record and
 sound compliance systems are expected to capture more business opportunities in
@@ -16675,7 +16675,7 @@ expect these two segments to become the new growth drivers of our business.
 BUSINESS
 Inthefuture,weexpectourtechnologyservicesandfleetsaleandmaintenancewillretain
 stable development and further contribute to our revenue growth, specifically:
-(cid:129) Technology services. We expect the growth of revenue from our technology
+ Technology services. We expect the growth of revenue from our technology
 services is mainly driven by the development from AI data and model solution
 services. The market forAI data and model solutions is expected to reach RMB6.25
 billion in 2024, boom to RMB12.84 billion in 2026, and further increase to
@@ -16696,7 +16696,7 @@ into cooperations with a variety of entities, including technology companies and
 academic institutions, to empower our R&D efforts. As of the Latest Practicable
 Date, we had secured orders for our technology services with a total contract value
 of RMB57.9 million, which will be recognized in the next few years.
-(cid:129) Fleet sale and maintenance. We strive to offer drivers a one-stop standardized
+ Fleet sale and maintenance. We strive to offer drivers a one-stop standardized
 automobile service platform, covering their entire car-using cycles from purchase,
 maintenance, repair and other after-sale services. Our fleet sale and maintenance
 streamlined daily routines of drivers and save their time and energy, enhancing their
@@ -16724,7 +16724,7 @@ Althoughwewerestillintheearlystageofrapiddevelopment,wemanagedtonarrowour
 gross loss margin during the Track Record Period. Notwithstanding the adverse impact of the
 pandemic, our gross loss margin improved from -10.7% in 2022 to -7% in 2023. Our gross
 margin improvement is primarily attributable to the following factors:
-(cid:129) Prudent incentive strategy. We recognize the service fees paid by riders using our
+ Prudent incentive strategy. We recognize the service fees paid by riders using our
 ride-hailing services net of value added tax as our revenue of ride-hailing services.
 We provide incentives to such riders, which are recorded as a deduction of revenue.
 We have been putting effort into increasing our revenue by reducing such incentives
@@ -16738,7 +16738,7 @@ ride-hailing services during the Track Record Period and recorded an annual ride
 retention rate of 31.7%, 31.0% and 27.8% in 2021, 2022 and 2023, respectively,
 notwithstanding the decreasing incentives to customers per order during the same
 periods.
-(cid:129) Optimizing cost structure. Drivers’ service fees form the major part of our cost of
+ Optimizing cost structure. Drivers’ service fees form the major part of our cost of
 revenue.Weattachgreatimportancetorecruitingqualifieddriverswhilecontinually
 optimizing our cost structure. From a driver’s standpoint, leveraging the high-
 quality user traffic on our own platform and our diverse third-party mobility service
@@ -16780,7 +16780,7 @@ operating efficiency. Moreover, the vehicle sales and maintenance services offer
 under our fleet sale and maintenance helped our car partners reduce costs. As a
 result, in 2021, 2022 and 2023, the average management fee per order we paid to car
 partner was RMB0.84, RMB0.61 and RMB0.40, respectively.
-(cid:129) Development of autonomous driving and Robotaxi technologies. We believe our
+ Development of autonomous driving and Robotaxi technologies. We believe our
 commitment to R&D activities of autonomous driving and Robotaxi operation
 service will lay the foundation for our long-term success by expanding business
 scale of technology services, promoting the commercialization of Robotaxi services
@@ -16790,7 +16790,7 @@ addition, the advancement of our autonomous driving and Robotaxi technologies
 will expedite the commercialization of our Robotaxi services with an improving
 gross margin benefiting from the optimization of cost of operation of unmanned
 vehicles.
-(cid:129) Diversifying revenue mix. We plan to leverage our industry resources and
+ Diversifying revenue mix. We plan to leverage our industry resources and
 analytical capabilities to diversify our revenue sources, demonstrated by our efforts
 ingrowingourtechnologyservicesandfleetsaleandmaintenance.DuringtheTrack
 Record Period, these services typically had higher gross margin compared to
@@ -16883,12 +16883,12 @@ financial liabilities to equity as a result of the automatic conversion into our
 Listing such that the net liability position would turn into a net asset position. In addition, we
 intend to further improve our net current liabilities position through various measures for
 example:
-(cid:129) We plan to improve our operating cash flows and reduce the net cash used in our
+ We plan to improve our operating cash flows and reduce the net cash used in our
 operating activities. Specifically, we expect to solidify our working capital and cash
 position as we implement the strategies and measures to turn around from loss to
 profit making in future. Furthermore, we plan to maintain stable relationships with
 banks to leverage financial instruments such as bank acceptance bills;
-(cid:129) We expect to enhance our bargaining power over our suppliers as we scale up our
+ We expect to enhance our bargaining power over our suppliers as we scale up our
 business,andweplantonegotiatebettercredittermswithoursuppliersforextended
 payment cycles. For example, we plan to leverage our relationship with GAIG and
 strive for more favorable credit terms and payment terms in relation to vehicles
@@ -16899,10 +16899,10 @@ terms more favorable to us;
 
 === PAGE 397 ===
 BUSINESS
-(cid:129) We expect to continue procuring vehicles based on the orders received and optimize
+ We expect to continue procuring vehicles based on the orders received and optimize
 inventory levels. In addition, we receive payments from our customers in advance
 of vehicle deliveries, which also improve our cash position; and
-(cid:129) We plan to continue implementing effective credit evaluation system and stringent
+ We plan to continue implementing effective credit evaluation system and stringent
 measures to enhance our trade receivables management and maintain the robust
 collection of trade receivables. During the Track Record Period, our trade
 receivables turnover days remained stable at three days in 2021, 2022 and 2023.
@@ -17157,24 +17157,24 @@ Preventive and Remedial Measures
 To prevent any recurrence of similar incidents in the future, we have established and
 implementedbothpreventiveandremedialmeasurestoensureourcompliancewithregulations
 in relation to properties:
-(cid:129) We plan to provide regular training on applicable legal and regulatory requirements
+ We plan to provide regular training on applicable legal and regulatory requirements
 in relation to the use of real properties to our senior management. We will also
 remain in close communication with the local authorities and external legal counsel
 to understand the latest development of the relevant laws and regulations;
-(cid:129) During the property selection process, we will assess the compliance status of the
+ During the property selection process, we will assess the compliance status of the
 new properties before we enter into any new leases;
-(cid:129) We are prepared to relocate to alternative premises upon the expiration of the lease
+ We are prepared to relocate to alternative premises upon the expiration of the lease
 term and in compliance with the administrative requirements;
-(cid:129) Weplantomaintainregularcommunicationwiththelessorsregardingtheirprogress
+ Weplantomaintainregularcommunicationwiththelessorsregardingtheirprogress
 of remedying the defects, including among others, procuring the lessors, to the
 extent practicable, to provide, collect and obtain the ownership certificate from the
 owners of the lease properties;
-(cid:129) We have submitted the application documents for lease registration where those
+ We have submitted the application documents for lease registration where those
 documents are complete;
-(cid:129) We will continue to seek cooperation from the landlords of the leased properties to
+ We will continue to seek cooperation from the landlords of the leased properties to
 register executed lease agreements with the relevant PRC governmental authorities;
 and
-(cid:129) We have created a checklist of our leased properties with detailed information,
+ We have created a checklist of our leased properties with detailed information,
 including the status of the lease registration of each premise, to continue to liaise
 with the landlords with the aim of pursuing registration of our leased properties.
 – 392 –
@@ -17774,12 +17774,12 @@ Ongoing Compliance Measures
 We have proactively taken measures to ensure ongoing compliance and to respond
 promptly to these new regulatory landscape and industry developments, including, among
 others:
-(cid:129) Our legal department closely monitors the regulatory and industry changes and is
+ Our legal department closely monitors the regulatory and industry changes and is
 assisted by external consultants in assessing the impact that certain specific
 regulatory developments may have on our business, and adjusts our risk and internal
 control measures timely, and provides regulatory updates within our system on a
 monthly basis.
-(cid:129) To ensure that our sourcing, processing, storage and usage of data are in compliance
+ To ensure that our sourcing, processing, storage and usage of data are in compliance
 with applicable laws and with prevalent industry practice, we have set up a data
 classification and grading management system to classify and grade different types
 of data held by us and manage data accordingly, as well as a External Information
@@ -17880,7 +17880,7 @@ have adopted stringent and comprehensive policies and internal control measures,
 compliance rate surpassing the industry average, according to Frost & Sullivan. To further
 enhance our compliance level, we have been strengthening such measures on an ongoing basis.
 These policies and internal control measures include, among others:
-(cid:129) Group-Level Fleet Compliance and Control Measures. We have always been
+ Group-Level Fleet Compliance and Control Measures. We have always been
 committed to high safety and compliance standards and have constantly reviewed,
 updated and vigorously enforced relevant internal control policies. We have
 formulatedtheservicefleetcompliancemanagementmeasures,stipulatingtheentire
@@ -17893,7 +17893,7 @@ functions of our platform’s order management system to streamline the supervis
 We conduct weekly inspections, semi-annual comprehensive reviews and ad hoc
 spot checks of the validity of the transportation permits, which remove non-
 compliant vehicles and/or drivers once identified and not promptly rectified.
-(cid:129) Multi-Departmental Coordination for Compliance Management. We have
+ Multi-Departmental Coordination for Compliance Management. We have
 established dedicated departments responsible for the implementation of service
 fleet compliance management. Our service fleet management department is
 – 409 –
@@ -17906,7 +17906,7 @@ Our business operations office is in charge of the compliance and effectiveness 
 our operating licenses. Our service fleet planning and development office is
 responsible for conducting compliance-related reviews and assessments for
 admission and dismissal of driver and vehicle.
-(cid:129) Compliance Management IT Infrastructure. We manage and supervise the
+ Compliance Management IT Infrastructure. We manage and supervise the
 compliance of drivers and vehicles through our proprietary compliance IT
 infrastructure. We have invested significantly in its management, maintenance and
 upgrade to improve the efficiency and effectiveness of capacity compliance
@@ -17915,7 +17915,7 @@ verification of compliance status to ensure the accuracy of information inputs. 
 app for drivers is also capable of automatically analyzing information uploaded to
 our system, enabling real-time system notifications of non-compliance, improving
 efficiency of addressing such issues.
-(cid:129) Car Partner Compliance Supervision and Assistance. We customize specific
+ Car Partner Compliance Supervision and Assistance. We customize specific
 assessment policies for our car partners to suit each geographical market, under
 which the order compliance rate is a vital factor in the assessment of car partner
 performance, having a direct bearing on their economic returns. It may be applied
@@ -17931,13 +17931,13 @@ service vehicles by offering our car partners (i) sales of vehicles through our
 OnTimeautoservicecentersaspartofourfleetsaleandmaintenance,(ii)assistance
 services to help them obtain relevant licenses and to complete annual inspections,
 and (iii) career training and consultations.
-(cid:129) Driver Compliance Training and Management. Before drivers join our platform,
+ Driver Compliance Training and Management. Before drivers join our platform,
 we provide them with trainings that highlight the importance of compliance and our
 specific compliance requirements. After they have joined, we manage the drivers
 using a comprehensive rating system, under which compliance and safety levels
 shall be evaluated and rated based on multiple quantifiable factors. The rating they
 receive may affect their income.
-(cid:129) Employee Compliance Rate Assessment. We have designated managers overseeing
+ Employee Compliance Rate Assessment. We have designated managers overseeing
 the operation of each geographic market. The order compliance rate in their
 respective market is a key performance indicator of their overall performance
 assessment.
@@ -17945,7 +17945,7 @@ assessment.
 
 === PAGE 422 ===
 BUSINESS
-(cid:129) Phasing Out Licensing Grace Period. According to Frost & Sullivan, the majority
+ Phasing Out Licensing Grace Period. According to Frost & Sullivan, the majority
 of ride-hailing platforms in China generally grant a grace period of two to three
 months within their respective operational areas for drivers and vehicles to get
 licensed. As of December 31, 2023, only 19 out of 34 major central cities in China
@@ -17974,7 +17974,7 @@ operated. We expect to use our best reasonable efforts to fully phase out licens
 grace period. Such effort is subject to factors that may not be entirely in our control,
 such as future regulatory developments, supply and demand dynamics and our
 business growth in relevant cities.
-(cid:129) Regulatory Tracking.We have been closely monitoring regulatory development and
+ Regulatory Tracking.We have been closely monitoring regulatory development and
 adjusting our compliance program timely. Our legal department will inquire,
 consult, and seek confirmation from external legal advisers regarding relevant
 compliance requirements before business operations commence, to ensure that our
@@ -17989,7 +17989,7 @@ internal control measures, specifically:
 
 === PAGE 423 ===
 BUSINESS
-(cid:129) Grace Period Approval Process. In principle, we do not allow grace periods and
+ Grace Period Approval Process. In principle, we do not allow grace periods and
 mandate that drivers must be licensed before joining. We have established a
 dedicated management mechanism where the granting of a grace period to specific
 cities during specific periods is subject to internal approval processes, including
@@ -18006,7 +18006,7 @@ in accordance with the assessment of local regulatory policies, local supply and
 demand, and compliance data.As of the Latest Practicable Date, we only allowed a
 grace period of two to three months in five cities and adopted full compliance
 policies in the remaining cities where we operated.
-(cid:129) Grace Period Management. Both we and our car partners are able to monitor driver
+ Grace Period Management. Both we and our car partners are able to monitor driver
 compliance status in real time through our proprietary compliance IT infrastructure,
 enabling effective management. We manage the drivers using a comprehensive
 ratingsystem,whereunlicenseddriversareassignedlowerratings,whichmayaffect
@@ -18027,7 +18027,7 @@ requirements; (ii) we issue compliance reminder notifications to drivers through
 app for drivers, prompting them to get licensed; and (iii) for cities where we grant
 grace periods due to specific requirements imposed by local authorities, we
 coordinate proactively with regulators to support drivers in getting licensed.
-(cid:129) Post-Grace Period Actions. We conduct regular checks and reminders, where
+ Post-Grace Period Actions. We conduct regular checks and reminders, where
 drivers who fail to be licensed within this grace period may face disciplinary actions
 such as removal from our platform or suspension of order dispatch.
 – 412 –
@@ -18056,11 +18056,11 @@ Period, an aggregate of 150 administrative penalties were imposed on us within G
 Province, Changsha, Xiamen and Chongqing related to the use of unlicensed service vehicles
 or drivers, among which 61 were imposed in 2021, 38 were imposed in 2022, and 51 were
 imposed in 2023, the breakdown of which are set forth as below:
-(cid:129) 15 were relating to unlicensed service vehicles, with penalty amount totalling
+ 15 were relating to unlicensed service vehicles, with penalty amount totalling
 RMB105,000 and single penalty amount ranging from RMB5,000 to RMB20,000;
-(cid:129) 129 were relating to unlicensed drivers, with penalty amount totalling RMB2.35
+ 129 were relating to unlicensed drivers, with penalty amount totalling RMB2.35
 million and single penalty amount ranging from RMB5,000 to RMB30,000; and
-(cid:129) 6 were relating to failing to report information to the transportation administrative
+ 6 were relating to failing to report information to the transportation administrative
 departments, with penalty amount totalling RMB58,000 and single penalty amount
 ranging from RMB5,000 to RMB20,000.
 As of the Latest Practicable Date, all the above fines had been fully and timely paid by
@@ -18133,7 +18133,7 @@ As the mobility service industry involves personal and property safety, the rele
 regulatory authorities, in order to fulfill their regulatory responsibilities, conduct safety
 inspections of our business operations from time to time. We had one safety inspection during
 the Track Record Period, the details of which are set forth as below:
-(cid:129) We were subject to a multi-departmental joint inspection on February 14, 2023,
+ We were subject to a multi-departmental joint inspection on February 14, 2023,
 including Guangzhou Municipal Transportation Bureau, Guangzhou Municipal
 Party Committee Cyberspace Office and others.
 As advised by the PRC Legal Advisor, the aforementioned safety inspection was
@@ -18256,7 +18256,7 @@ Award Year Award/Recognition Awarding Institution/Authority
 Summit 2023 Contribution to
 Science, Technology and
 Innovation Award (2023年經濟
-高質量發展峰會(cid:129)科技創新貢獻
+高質量發展峰會 科技創新貢獻
 獎)
 2023 Outstanding Autonomous World Intelligent Connected
 Driving Solution Provider Vehicles Conference
@@ -21904,7 +21904,7 @@ we will receive net proceeds of approximately HK$1,106.6 million from the Global
 afterdeductingtheunderwritingcommissions,feesandotherestimatedexpensesinconnection
 with the Global Offering. In line with our strategies, we intend to use our proceeds from the
 Global Offering for the following purposes:
-(cid:129) approximately 40%, or HK$442.6 million (equivalent to approximately RMB403.2
+ approximately 40%, or HK$442.6 million (equivalent to approximately RMB403.2
 million), is expected to be used for the R&D activities of autonomous driving and
 Robotaxi operation service, with the detailed breakdown of the proceeds to be
 allocated as follows:
@@ -22039,7 +22039,7 @@ large-scale commercial projects and continuously optimize our delivery
 capabilities.WeplantoallocateRMB20millionfor35R&Dstaffandmapping
 specialists, RMB5 million for data resources and RMB3 million for 12 GPU
 servers, four CPU storage servers and five personal computers.
-(cid:129) approximately 20%, or HK$221.3 million (equivalent to approximately RMB201.6
+ approximately 20%, or HK$221.3 million (equivalent to approximately RMB201.6
 million), is expected to be used for product upgrading and operational efficiency
 improvement of our mobility services, with the detailed breakdown of the proceeds
 to be allocated as follows:
@@ -22120,7 +22120,7 @@ collaboration with our business partners, we will jointly cope with traffic and
 road planning issues, improving urban traffic and travel efficiency. We plan to
 allocate RMB5 million for 9 R&D staff, RMB10 million for server costs and
 RMB5 million for operational maintenance.
-(cid:129) approximately 20%, or HK$221.3 million (equivalent to approximately RMB201.6
+ approximately 20%, or HK$221.3 million (equivalent to approximately RMB201.6
 million) is expected to be used to expand user base, enhance brand awareness and
 increase market share in the implementation of our geographical expansion strategy,
 with the detailed breakdown of the proceeds to be allocated as follows:
@@ -22196,21 +22196,21 @@ communication 40% 40% 40%
 
 === PAGE 530 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) approximately 10%, or HK$110.7 million (equivalent to approximately RMB100.8
+ approximately 10%, or HK$110.7 million (equivalent to approximately RMB100.8
 million), is expected to be used for building strategic partnerships, investments and
 acquisitions along the mobility industry value chain to optimize user experience
 with enriched and enhanced service offerings, improve results of operations,
 increasemarketpenetrationandstrengthenindustryleadership.Ourpotentialtargets
 include the following:
 (i) Mobility service partners:
-(cid:129) User Traffic: We aim to rapidly grow our rider base, reduce rider
+ User Traffic: We aim to rapidly grow our rider base, reduce rider
 acquisition costs, and improve rider base quality. We are interested in
 platforms with user traffic that can be converted into travel scenarios.
 Given the strong correlation between travel needs and local life (leisure,
 entertainment, etc.), our potential strategic partners and investment
 targets include local lifestyle platforms and vertical scenario application
 platforms.
-(cid:129) Service Capacity: We aim to quickly expand our compliant service fleet
+ Service Capacity: We aim to quickly expand our compliant service fleet
 and effectively manage our driver team (improving driver stickiness and
 online rate). Potential partners include local car partners and other
 vehicle/driver service and management providers. We anticipate that
@@ -22231,7 +22231,7 @@ based and may have notable economy of scale once we establish a network.As
 our mobility service business expands geographically, we will develop fleet
 sale and maintenance in sync. We may consider expanding regional coverage
 through strategic cooperation and investment acquisitions.
-(cid:129) Aftermarket Fleet Sale and Maintenance: We aim to better meet the
+ Aftermarket Fleet Sale and Maintenance: We aim to better meet the
 diverse service needs of drivers and car partners to reduce vehicle
 maintenance costs and increase vehicle operating time and, in turn,
 improve driver stickiness. Potential partners include non-chain
@@ -22241,7 +22241,7 @@ service capabilities.
 
 === PAGE 531 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) Energy Partners: We plan to work with energy partners to tap into daily
+ Energy Partners: We plan to work with energy partners to tap into daily
 charging services for manned vehicles and Robotaxis, including charging
 station construction, daily maintenance, and offering competitive energy
 prices. Potential partners include EV charging service providers.
@@ -22257,7 +22257,7 @@ our main business segments. As of the Latest Practicable Date, the specific targ
 for investment have not been determined. We will carefully evaluate the necessity
 for investment based on factors such as our development stage, the demands of
 cooperation and the actual circumstances of potential partners.
-(cid:129) approximately 10%, or HK$110.7 million (equivalent to approximately RMB100.8
+ approximately 10%, or HK$110.7 million (equivalent to approximately RMB100.8
 million), is expected to be used for working capital and general corporate purposes.
 BasedonourstrategiesandintendeduseofproceedsfromtheGlobalOffering,wesetout
 below our proposed implementation plans from the Listing for your reference. Potential
@@ -23153,14 +23153,14 @@ the Hong Kong Public Offering to a certain percentage of the total number of the
 offered under the Global Offering if the International Offer Shares are fully subscribed or
 oversubscribed and certain prescribed total demand levels under the Hong Kong Public
 Offering are reached as further described below:
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 15 times or more but less than 50 times the number of Offer
 Shares initially available for subscription under the Hong Kong Public Offering,
 then Offer Shares will be reallocated to the Hong Kong Public Offering from the
 International Offering so that the total number of Offer Shares available under the
 Hong Kong Public Offering will be 9,001,500 Shares, representing approximately
 30% of the Offer Shares initially available under the Global Offering;
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 50 times or more but less than 100 times the number of Offer
 Shares initially available for subscription under the Hong Kong Public Offering,
 then the number of Offer Shares to be reallocated to the Hong Kong Public Offering
@@ -23168,7 +23168,7 @@ from the International Offering will be increased so that the total number of Of
 Shares available under the Hong Kong Public Offering will be 12,002,000 Shares,
 representing approximately 40% of the Offer Shares initially available under the
 Global Offering; and
-(cid:129) if the number of Offer Shares validly applied for under the Hong Kong Public
+ if the number of Offer Shares validly applied for under the Hong Kong Public
 Offering represents 100 times or more the number of Offer Shares initially available
 for subscription under the Hong Kong Public Offering, then the number of Offer
 Shares to be reallocated to the Hong Kong Public Offering from the International
@@ -23188,12 +23188,12 @@ International Offering may, in certain circumstances, be reallocated as between 
 at the discretion of the Overall Coordinators. In accordance with guidance set out in the
 Chapter 4.14 of the Guide for New Listing Applicants issued by the Stock Exchange, if such
 reallocation is done other than pursuant to Practice Note 18 of the Listing Rules:
-(cid:129) if the International Offering is fully subscribed or oversubscribed, and the Hong
+ if the International Offering is fully subscribed or oversubscribed, and the Hong
 KongPublicOfferingisfullysubscribedoroversubscribedwiththenumberofOffer
 Shares validly applied for under the Hong Kong Public Offering represents less than
 15timesthenumberoftheOfferSharesinitiallyavailableforsubscriptionunderthe
 Hong Kong Public Offering; or
-(cid:129) if the International Offering is undersubscribed, and the Hong Kong Public Offering
+ if the International Offering is undersubscribed, and the Hong Kong Public Offering
 is fully subscribed or oversubscribed (irrespective of the extent of
 over-subscription),
 themaximumtotalnumberofSharesthatmaybereallocatedtotheHongKongPublicOffering
@@ -23416,25 +23416,25 @@ A. APPLICATIONS FOR THE HONG KONG OFFER SHARES
 Eligibility for the Application
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying:
-(cid:129) are 18 years of age or older;
-(cid:129) have a Hong Kong address (for the HK eIPO White Form service only); and
-(cid:129) are outside the United States, and are not a United States Person (as defined in
+ are 18 years of age or older;
+ have a Hong Kong address (for the HK eIPO White Form service only); and
+ are outside the United States, and are not a United States Person (as defined in
 Regulation S under the U.S. Securities Act).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to our Company, you cannot apply for any Hong Kong Offer Shares if you or
 the person(s) for whose benefit you are applying for:
-(cid:129) are an existing shareholder of our Company;
-(cid:129) are a director or chief executive officer of our Company and/or any of our
+ are an existing shareholder of our Company;
+ are a director or chief executive officer of our Company and/or any of our
 subsidiaries;
-(cid:129) are a close associate (as defined in the Listing Rules) of any of the above persons;
+ are a close associate (as defined in the Listing Rules) of any of the above persons;
 – 550 –
 
 === PAGE 562 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) are a connected person (as defined in the Listing Rules) of our Company or will
+ are a connected person (as defined in the Listing Rules) of our Company or will
 become a connected person of our Company immediately upon completion of the
 Global Offering; or
-(cid:129) have been allocated or have applied for any International Offer Shares or otherwise
+ have been allocated or have applied for any International Offer Shares or otherwise
 participate in the International Offering.
 2. Application Channels
 The Hong Kong Public Offering period will begin at 9:00 a.m. on Friday, June 28,
@@ -23518,18 +23518,18 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual/Joint Applicants For Corporate Applicants
-(cid:129) Full name(s)(2) as shown on your (cid:129) Full name(s)(2) as shown on your
+ Full name(s)(2) as shown on your Full name(s)(2) as shown on your
 identity document identity document
-(cid:129) Identity document’s issuing country (cid:129) Identity document’s issuing country
+ Identity document’s issuing country Identity document’s issuing country
 or jurisdiction or jurisdiction
-(cid:129) Identity document type, with order (cid:129) Identity document type, with order
+ Identity document type, with order Identity document type, with order
 of priority: of priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification ii. Certificate of incorporation; or
 document; or iii. Business registration
 iii. Passport; and certificate; or
-(cid:129) Identity document number iv. Other equivalent document; and
-(cid:129) Identity document number
+ Identity document number iv. Other equivalent document; and
+ Identity document number
 Notes:
 1. If you are applying through the HK eIPO White Form service, you are required to provide a valid
 e-mailaddress,acontacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclare
@@ -23564,9 +23564,9 @@ other stock exchange.
 === PAGE 565 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -23821,9 +23821,9 @@ www.hkexnews.hk and our website at https://www.ruqimobility.com by no later than
 p.m. on Tuesday, July 9, 2024 (Hong Kong time).
 8. Severe Weather Arrangements
 The application lists will not open or close on Friday, July 5, 2024 if there is:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a “black” rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above;
+ a “black” rainstorm warning; and/or
+ Extreme Conditions,
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Friday, July 5, 2024.
 Instead they will open between 11:45 a.m. and 12:00 noon on the next business day which does
@@ -23872,18 +23872,18 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 (iii) If the allotment of Hong Kong Offer Shares is void:
 The allotment of Hong Kong Offer Shares will be void if the Hong Kong Stock Exchange
 does not grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies the
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies the
 Company of that longer period within three weeks of the closing date of the
 application lists.
 (iv) If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “— 5. Multiple Applications Prohibited” in this section on
 what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Overall Coordinators believe that by accepting your application, we or
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Overall Coordinators believe that by accepting your application, we or
 they would violate applicable securities or other laws, rules or regulations.
 (v) If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -24044,23 +24044,23 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund check and e-Auto Refund payment
+ processing your application and refund check and e-Auto Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this Prospectus and announcing results of
 allocation of the Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of our
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of our
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating our register of members;
-(cid:129) verifying identities of applicants for and the holders of our Shares and identifying
+ maintaining or updating our register of members;
+ verifying identities of applicants for and the holders of our Shares and identifying
 any duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of our Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of our Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from us and our subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of our Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable us
+ distributing communications from us and our subsidiaries;
+ compiling statistical information and profiles of the holder of our Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to enable us
 and the Hong Kong Share Registrar to discharge our or their obligations to
 applicants and holders of our Shares and/or regulators and/or any other purposes to
 which applicants and holders of the Shares may from time to time agree.
@@ -24070,25 +24070,25 @@ Hong Kong Offer Shares will be kept confidential but we and the Hong Kong Share 
 may, to the extent necessary for achieving any of the above purposes, disclose, obtain or
 transfer (whether within or outside Hong Kong) the personal data to, from or with any of the
 following:
-(cid:129) our Company’s appointed agents such as financial advisors, receiving bankers and
+ our Company’s appointed agents such as financial advisors, receiving bankers and
 overseas principal share registrar;
 – 567 –
 
 === PAGE 579 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the Hong Kong Share Registrar, in each case for the purposes of
 providing its services or facilities or performing its functions in accordance with its
 rules or procedures and operating FINI and CCASS (including where applicants for
 the Hong Kong Offer Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to our Company or the
 Hong Kong Share Registrar in connection with their respective business operation;
-(cid:129) the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
+ the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
 governmental bodies or otherwise as required by laws, rules or regulations,
 including for the purpose of the Stock Exchange’s administration of the Listing
 Rules and the SFC’s performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of the Hong Kong Offer Shares
+ any persons or institutions with which the holders of the Hong Kong Offer Shares
 have or propose to have dealings, such as their bankers, solicitors, accountants or
 stockbrokers etc.
 Retention of personal data
@@ -24663,15 +24663,15 @@ shareholders (together “Registered Shareholders”). The Group signed the Cont
 TechnologyandtheRegisteredShareholders.TheContractualArrangementsincludeexclusivetechnicalconsultancy
 serviceagreement,businessoperationagreement,exclusiveoptionagreement,equityinterestpledgeagreementand
 shareholder rights entrustment agreement, which enable the Group to:
-(cid:129) govern the financial and operating policies of Qichen Technology;
-(cid:129) exercise equity holder’s voting rights of Qichen Technology;
-(cid:129) receive substantially all of the economic interest returns generated by Qichen Technology in
+ govern the financial and operating policies of Qichen Technology;
+ exercise equity holder’s voting rights of Qichen Technology;
+ receive substantially all of the economic interest returns generated by Qichen Technology in
 consideration for the technical consultancy and management services provided exclusively by the
 WFOE, at the discretion of the WFOE;
-(cid:129) obtain an irrevocable and exclusive option to purchase part or all of the equity interests, assets and
+ obtain an irrevocable and exclusive option to purchase part or all of the equity interests, assets and
 business in Qichen Technology without paying further consideration at any time as permitted under
 applicablePRClawsorinaccordancewithconditionsprescribedintheexclusiveoptionagreement;and
-(cid:129) obtainapledgeoverallofitsequityinterestsfromitsrespectiveRegisteredShareholdersascollateral
+ obtainapledgeoverallofitsequityinterestsfromitsrespectiveRegisteredShareholdersascollateral
 tosecureperformanceoftheobligationsofRegisteredShareholdersandQichenTechnologyunderthe
 ContractualArrangements.
 Accordingly, the Group in effect has obtained power over QichenTechnology, is exposed to variable returns
@@ -27430,8 +27430,8 @@ performing procedures to assess whether the applicable criteria used by the Dire
 compilation of the pro forma financial information provide a reasonable basis for presenting
 the significant effects directly attributable to the event or transaction, and to obtain sufficient
 appropriate evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the pro forma financial information reflects the proper application of those
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the pro forma financial information reflects the proper application of those
 adjustments to the unadjusted financial information.
 – II-4 –
 
@@ -28786,13 +28786,13 @@ Cancellation has been completed and all Preferred Shares have been converted int
 on a one-to-one basis immediately upon the completion of the Global Offering) could
 accordingly result in up to approximately 20,411,385 Shares being repurchased by our
 Company during the period prior to the earliest of:
-(cid:129) the conclusion of the next annual general meeting of our Company unless otherwise
+ the conclusion of the next annual general meeting of our Company unless otherwise
 renewed by an ordinary resolution of our Shareholders in a general meeting, either
 unconditionally or subject to conditions;
-(cid:129) the expiration of the period within which our Company’s next annual general
+ the expiration of the period within which our Company’s next annual general
 meeting is required by theArticles ofAssociation or any other applicable laws to be
 held; or
-(cid:129) the time when it is varied or revoked by an ordinary resolution of our Shareholders
+ the time when it is varied or revoked by an ordinary resolution of our Shareholders
 in general meeting.
 – IV-10 –
 

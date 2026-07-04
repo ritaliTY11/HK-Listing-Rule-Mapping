@@ -152,14 +152,14 @@ Application lists of the Hong Kong Public
 Offering close(3). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12:00 noon on Friday, October 7
 Expected Price Determination Date(5). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Monday, October 10
 (1) Announcement of:
-(cid:129) the Offer Price;
-(cid:129) the level of applications in the Hong Kong Public Offering;
+ the Offer Price;
+ the level of applications in the Hong Kong Public Offering;
 – i –
 
 === PAGE 6 ===
 EXPECTED TIMETABLE(1)
-(cid:129) the indication of level of interest in the International Offering; and
-(cid:129) the basis of allocation of the Hong Kong Offer Shares
+ the indication of level of interest in the International Offering; and
+ the basis of allocation of the Hong Kong Offer Shares
 expected to be published on the website of
 the Stock Exchange at www.hkexnews.hk and our
 Company’s website at www.flowingcloud.com(6) on or
@@ -168,17 +168,17 @@ before(7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Public Offering (including successful applicants’
 identification document numbers, where appropriate) to be
 available through a variety of channels(7), including:
-(cid:129) in the announcement to be posted on the website of the
+ in the announcement to be posted on the website of the
 Stock Exchange at www.hkexnews.hk and our
 Company’s website at www.flowingcloud.com(6) by
 no later than. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9:00 a.m. on Monday, October 17
-(cid:129) from the “IPO Results” function in the IPO App or
+ from the “IPO Results” function in the IPO App or
 designated results of allocations website
 at www.tricor.com.hk/ipo/result or
 www.hkeipo.hk/IPOResult
 with a “search by ID” function on a 24-hour basis. . . . . . . . . . . . . from 8:00 a.m. on
 Monday, October 17 to 12:00 midnight on Sunday, October 23
-(cid:129) from the allocation results telephone enquiry line by
+ from the allocation results telephone enquiry line by
 calling +852 3691 8488 between 9:00 a.m. and 6:00
 p.m. from . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Monday, October 17 to
 Thursday, October 20
@@ -2078,21 +2078,21 @@ assumptions, including the other risk factors as described in this prospectus. Y
 cautioned that reliance on any forward-looking statements involves known and unknown risks and
 uncertainties. The risks and uncertainties faced by our Company which could affect the accuracy
 of forward-looking statements include, but are not limited to, the following:
-(cid:129) our business strategies and plans to achieve these strategies;
-(cid:129) our ability to meet the changing tastes and preference of our customers and end users;
-(cid:129) our future debt levels and capital needs;
-(cid:129) changes to the political and regulatory environment in the industry and markets in which
+ our business strategies and plans to achieve these strategies;
+ our ability to meet the changing tastes and preference of our customers and end users;
+ our future debt levels and capital needs;
+ changes to the political and regulatory environment in the industry and markets in which
 we operate;
-(cid:129) our expectations with respect to our ability to acquire and maintain regulatory licenses
+ our expectations with respect to our ability to acquire and maintain regulatory licenses
 or permits;
-(cid:129) changes in competitive conditions and our ability to compete under these conditions;
-(cid:129) future developments, trends and conditions in the industry and markets in which we
+ changes in competitive conditions and our ability to compete under these conditions;
+ future developments, trends and conditions in the industry and markets in which we
 operate;
-(cid:129) general economic, political and business conditions in the markets in which we operate;
-(cid:129) effects of the global financial markets and economic crisis;
-(cid:129) our prospective financial information;
-(cid:129) our financial conditions and performance; and
-(cid:129) change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
+ general economic, political and business conditions in the markets in which we operate;
+ effects of the global financial markets and economic crisis;
+ our prospective financial information;
+ our financial conditions and performance; and
+ change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
 operations, margins, risk management and overall market trends.
 – 46 –
 
@@ -2212,24 +2212,24 @@ assure you that our attempts to monetize our Feitian Metaverse platform will be 
 we will generate sustainable revenue or profit from our Feitian Metaverse platform. We face a
 variety of risks relating to monetizing our Feitian Metaverse platform, most of which are beyond
 our control, including:
-(cid:129) we may fail to retain and expand our base of end users and business customers;
-(cid:129) we may fail to properly price our products and services on our Feitian Metaverse
+ we may fail to retain and expand our base of end users and business customers;
+ we may fail to properly price our products and services on our Feitian Metaverse
 platform;
-(cid:129) our monetization strategies may be limited by regulations or government policies. We
+ our monetization strategies may be limited by regulations or government policies. We
 may not obtain all the licenses and permits required by regulations and government
 policies to carry out our monetization strategies and there is no assurance that we will
 be able to renew all necessary licenses and permits upon their expiration in a timely
 manner or at all;
-(cid:129) we may fail to develop or implement new monetization strategies with respect to our
+ we may fail to develop or implement new monetization strategies with respect to our
 Feitian Metaverse platform;
-(cid:129) our products and services offered on Feitian Metaverse platform may fail to compete
+ our products and services offered on Feitian Metaverse platform may fail to compete
 effectively with the products and services introduced by our competitors. The Metaverse
 is characterized by rapidly evolving technologies and standards. Our competitors may
 develop or acquire alternative and competing technologies and standards that could
 allow them to introduce products or services that better appeal to the end users and
 business customers and provide similar competitive products or services at lower costs;
 and
-(cid:129) we may fail to satisfy the expectations of the quality or reliability of our end users and
+ we may fail to satisfy the expectations of the quality or reliability of our end users and
 business customers.
 – 50 –
 
@@ -2682,12 +2682,12 @@ covenants that may restrict our operations or our ability to pay dividends.
 To grow our business and remain competitive, we may require additional capital from time to
 time for our daily operations. Our ability to obtain additional capital is subject to a variety of
 uncertainties, including:
-(cid:129) our market position and competitiveness in the industries in which we operate;
-(cid:129) our future profitability, overall financial condition, results of operations and cash flows;
-(cid:129) general market conditions for capital-raising activities by our competitors or other
+ our market position and competitiveness in the industries in which we operate;
+ our future profitability, overall financial condition, results of operations and cash flows;
+ general market conditions for capital-raising activities by our competitors or other
 AR/VR content and services and SaaS product providers in China;
-(cid:129) uncertainty and immaturity of Metaverse in general; and
-(cid:129) economic, political and other conditions in China and internationally.
+ uncertainty and immaturity of Metaverse in general; and
+ economic, political and other conditions in China and internationally.
 We may be unable to obtain additional capital in a timely manner or on acceptable terms, or
 at all. In addition, our future capital or other business needs could require us to sell additional
 equity or debt securities, or to obtain a credit facility. The sale of additional equity or
@@ -3434,26 +3434,26 @@ Consolidated Affiliated Entities and the Registered Shareholders are determined 
 invalid by any PRC court, arbitral tribunal or regulatory authorities, the relevant governmental
 authorities would have broad discretion in dealing with such violation, including, without
 limitation:
-(cid:129) revoke the agreements constituting the Contractual Arrangements;
-(cid:129) revoke our business and operating licenses held by the relevant Consolidated Affiliated
+ revoke the agreements constituting the Contractual Arrangements;
+ revoke our business and operating licenses held by the relevant Consolidated Affiliated
 Entities related to our VATS and animation video production businesses;
-(cid:129) require us to discontinue or restrict operations related to any related-party transaction
+ require us to discontinue or restrict operations related to any related-party transaction
 among our Consolidated Affiliated Entities and other members of our Group in
 connection with VATS and animation video production businesses;
-(cid:129) restrict our right to collect revenue generated from our VATS and animation video
+ restrict our right to collect revenue generated from our VATS and animation video
 production businesses;
-(cid:129) levy fines on us and/or confiscate the proceeds that they deem to have been obtained
+ levy fines on us and/or confiscate the proceeds that they deem to have been obtained
 through non-compliant operations;
-(cid:129) require us to restructure the operations in such a way as to compel us to establish a new
+ require us to restructure the operations in such a way as to compel us to establish a new
 enterprise, re-apply for the necessary licenses or relocate our businesses, staff and assets
 related to our VATS and animation video production businesses;
 – 81 –
 
 === PAGE 93 ===
 RISK FACTORS
-(cid:129) impose additional conditions or requirements with which we may not be able to comply;
-(cid:129) take other regulatory or enforcement actions that could be harmful to our business; or
-(cid:129) restrict the use of proceeds from IPO or other financing activities.
+ impose additional conditions or requirements with which we may not be able to comply;
+ take other regulatory or enforcement actions that could be harmful to our business; or
+ restrict the use of proceeds from IPO or other financing activities.
 Furthermore, any of the assets under the name of any record holder of equity interest in our
 Consolidated Affiliated Entities, including such equity interest, may be put under court custody in
 connection with litigation, arbitration or other judicial or dispute resolution proceedings against
@@ -4173,18 +4173,18 @@ at which our Shares will be traded.
 Furthermore, the price and trading volume of our Shares may be volatile. The following
 factors, among others, may cause the market price of our Shares after the Global Offering to vary
 significantly from the Offer Price:
-(cid:129) actual or anticipated fluctuations in our results of operations;
-(cid:129) news regarding recruitment or loss of key personnel by us or our customers;
-(cid:129) announcements of competitive developments, acquisitions or strategic alliances in our
+ actual or anticipated fluctuations in our results of operations;
+ news regarding recruitment or loss of key personnel by us or our customers;
+ announcements of competitive developments, acquisitions or strategic alliances in our
 industry;
-(cid:129) changes in earnings estimates or recommendations by financial analysts;
-(cid:129) potential litigation or regulatory investigations;
-(cid:129) changes in general economic conditions or other developments affecting us or our
+ changes in earnings estimates or recommendations by financial analysts;
+ potential litigation or regulatory investigations;
+ changes in general economic conditions or other developments affecting us or our
 industry;
-(cid:129) price movements on international stock markets, the operating and stock price
+ price movements on international stock markets, the operating and stock price
 performance of other companies, other industries and other events or factors beyond our
 control; and
-(cid:129) release of lock-up or other transfer restrictions on our outstanding Shares or sale or
+ release of lock-up or other transfer restrictions on our outstanding Shares or sale or
 perceived sale of additional Shares by us, the Controlling Shareholders or other
 Shareholders.
 In addition, shares of other companies listed on the Stock Exchange with operations and
@@ -5104,24 +5104,24 @@ grew to RMB942.1 billion in 2021, representing a CAGR of 26%. From 2022 to 2026,
 advertising market is expected to increase from RMB1,098.4 billion in 2022 to RMB1,719.1
 billion in 2026, representing a CAGR of 12%.
 Online Advertising Market Size in China (by Revenue), 2017 - 2026E(1)
-(cid:23)(cid:29)(cid:23)(cid:31)(cid:23)
-(cid:23)(cid:27)(cid:28)(cid:30)(cid:25)
-CAGR (cid:23)(cid:26)(cid:23)(cid:24)(cid:25) (cid:24)(cid:22)(cid:20)(cid:28)(cid:11)
-2017-2021 26% (cid:23)(cid:24)(cid:27)(cid:25)(cid:23) (cid:24)(cid:22)(cid:20)(cid:26)(cid:11)
-2022e-2026e 15% (cid:23)(cid:22)(cid:31)(cid:30)(cid:26) (cid:24)(cid:22)(cid:20)(cid:23)(cid:11)
-(cid:31)(cid:26)(cid:24)(cid:23) (cid:23)(cid:31)(cid:20)(cid:29)(cid:11) (cid:25)(cid:28)(cid:20)(cid:25)(cid:11)
-(cid:29)(cid:28)(cid:28)(cid:28) (cid:23)(cid:31)(cid:20)(cid:24)(cid:11) (cid:25)(cid:29)(cid:20)(cid:23)(cid:11)
-(cid:23)(cid:30)(cid:20)(cid:23)(cid:11) (cid:25)(cid:31)(cid:20)(cid:29)(cid:11)
-(cid:25)(cid:29)(cid:28)(cid:25) (cid:26)(cid:31)(cid:28)(cid:27) (cid:28) (cid:23)(cid:27) (cid:26) (cid:20) (cid:28) (cid:30)(cid:11) (cid:26) (cid:23)(cid:28)(cid:20)(cid:31)(cid:11) (cid:27)(cid:23)(cid:20)(cid:26)(cid:11) (cid:26)(cid:28)(cid:20)(cid:29)(cid:11) (cid:26)(cid:24)(cid:20)(cid:30)(cid:11)
-(cid:23)(cid:22)(cid:20)(cid:28)(cid:11)
-(cid:31) (cid:23) (cid:28) (cid:24) (cid:20) (cid:20) (cid:28) (cid:25) (cid:20)(cid:23) (cid:11) (cid:11) (cid:11) (cid:30) (cid:28) (cid:25) (cid:20)(cid:23) (cid:20)(cid:25) (cid:11) (cid:11) (cid:23) (cid:28) (cid:27) (cid:30) (cid:20) (cid:20) (cid:31) (cid:25) (cid:11) (cid:11) (cid:24) (cid:27) (cid:26) (cid:31) (cid:20) (cid:20) (cid:23) (cid:22) (cid:11) (cid:11) (cid:25)(cid:22)(cid:20)(cid:27)(cid:11) (cid:25)(cid:26)(cid:20)(cid:23)(cid:11) (cid:25)(cid:29)(cid:20)(cid:27)(cid:11) (cid:26)(cid:22)(cid:20)(cid:24)(cid:11) (cid:26)(cid:24)(cid:20)(cid:27)(cid:11) (cid:26)(cid:25)(cid:20)(cid:23)(cid:11)
-(cid:24)(cid:22)(cid:23)(cid:29) (cid:24)(cid:22)(cid:23)(cid:30) (cid:24)(cid:22)(cid:23)(cid:31) (cid:24)(cid:22)(cid:24)(cid:22) (cid:24)(cid:22)(cid:24)(cid:23) (cid:24)(cid:22)(cid:24)(cid:24)(cid:75) (cid:24)(cid:22)(cid:24)(cid:25)(cid:75) (cid:24)(cid:22)(cid:24)(cid:26)(cid:75) (cid:24)(cid:22)(cid:24)(cid:27)(cid:75) (cid:24)(cid:22)(cid:24)(cid:28)(cid:75)
-(cid:53)(cid:90)(cid:78)(cid:75)(cid:88)(cid:89)(cid:14)(cid:24)(cid:15) (cid:24)(cid:25)(cid:30) (cid:27)(cid:24)(cid:29) (cid:23)(cid:22)(cid:24)(cid:25) (cid:23)(cid:24)(cid:31)(cid:30) (cid:23)(cid:29)(cid:22)(cid:27) (cid:24)(cid:23)(cid:22)(cid:31) (cid:24)(cid:26)(cid:28)(cid:31) (cid:24)(cid:30)(cid:25)(cid:31) (cid:25)(cid:23)(cid:31)(cid:31) (cid:25)(cid:27)(cid:26)(cid:23)
-(cid:47)(cid:83)(cid:71)(cid:77)(cid:75)(cid:89)(cid:3) (cid:25)(cid:26)(cid:28)(cid:27) (cid:26)(cid:23)(cid:25)(cid:28) (cid:26)(cid:26)(cid:23)(cid:28) (cid:26)(cid:27)(cid:24)(cid:23) (cid:26)(cid:30)(cid:26)(cid:25) (cid:27)(cid:23)(cid:24)(cid:31) (cid:27)(cid:25)(cid:28)(cid:25) (cid:27)(cid:28)(cid:22)(cid:29) (cid:27)(cid:30)(cid:23)(cid:30) (cid:28)(cid:24)(cid:26)(cid:22)
-(cid:71)(cid:84)(cid:74)(cid:3)(cid:93)(cid:85)(cid:88)(cid:74)(cid:89)
-(cid:57)(cid:78)(cid:85)(cid:88)(cid:90)(cid:3)
-(cid:28)(cid:22) (cid:25)(cid:22)(cid:24) (cid:23)(cid:22)(cid:24)(cid:27) (cid:23)(cid:30)(cid:26)(cid:28) (cid:24)(cid:30)(cid:29)(cid:25) (cid:25)(cid:29)(cid:26)(cid:27) (cid:26)(cid:28)(cid:31)(cid:31) (cid:27)(cid:28)(cid:29)(cid:29) (cid:28)(cid:28)(cid:28)(cid:27) (cid:29)(cid:26)(cid:22)(cid:31)
-(cid:92)(cid:79)(cid:74)(cid:75)(cid:85)(cid:89)
+ 
+ 
+CAGR 
+2017-2021 26% 
+2022e-2026e 15% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Online Advertising Market Size in China (in RMB100 million)
 Notes:
 (1) Market size refers to the total revenue of online advertising service in the PRC. The figures for 2022 to 2026 are
@@ -5194,8 +5194,8 @@ CAGR
 344
 63 120 168 195
 2017 2018 2019 2020 2021 2022E 2023E 2024E 2025E 2026E
-(cid:39)(cid:56)(cid:21)(cid:60)(cid:56)(cid:3)(cid:46)(cid:75)(cid:71)(cid:74)(cid:89)(cid:75)(cid:90)(cid:89)(cid:3)(cid:53)(cid:91)(cid:90)(cid:86)(cid:91)(cid:90)(cid:3)(cid:79)(cid:84)(cid:3)(cid:41)(cid:78)(cid:79)(cid:84)(cid:71)(cid:3)(cid:14)(cid:79)(cid:84)(cid:3)(cid:23)(cid:22)(cid:18)(cid:22)(cid:22)(cid:22)(cid:3)(cid:91)(cid:84)(cid:79)(cid:90)(cid:89)(cid:15)
-(cid:45)(cid:88)(cid:85)(cid:93)(cid:90)(cid:78)(cid:3)(cid:88)(cid:71)(cid:90)(cid:75)(cid:3)(cid:85)(cid:76)(cid:3)(cid:39)(cid:56)(cid:21)(cid:60)(cid:56)(cid:3)(cid:46)(cid:75)(cid:71)(cid:74)(cid:89)(cid:75)(cid:90)(cid:89)(cid:3)(cid:53)(cid:91)(cid:90)(cid:86)(cid:91)(cid:90)(cid:3)(cid:79)(cid:84)(cid:3)(cid:41)(cid:78)(cid:79)(cid:84)(cid:71)(cid:3)(cid:14)(cid:11)(cid:15)
+ 
+ 
 Note:
 (1) The figures for 2022 to 2026 are estimated figures.
 Source: iResearch
@@ -5371,9 +5371,9 @@ AR/VR Services Market Size in China (by Revenue), 2017-2026E(1)
 CAGR
 2017-2021 138.7%
 2022E-2026E 45.9%
-(cid:51)(cid:71)(cid:88)(cid:81)(cid:75)(cid:90)(cid:79)(cid:84)(cid:77)
-(cid:43)(cid:19)(cid:73)(cid:85)(cid:83)(cid:83)(cid:75)(cid:88)(cid:73)(cid:75)
-(cid:41)(cid:91)(cid:82)(cid:90)(cid:91)(cid:88)(cid:75)(cid:3)(cid:71)(cid:84)(cid:74)(cid:3)(cid:90)(cid:85)(cid:91)(cid:88)(cid:79)(cid:89)(cid:83)
+ 
+ 
+ 
 AR/VR Services Market Size in China (in RMB100 million)
 Note:
 (1) Market size refers to the total revenue ofAR/VR services generated byAR/VR services providers in the PRC. The
@@ -5399,20 +5399,20 @@ e-commerce platform or suppliers. At present, the business model of China’s VR
 still in its infancy. As more merchants join, this market segment is expected to be further
 developed in the future.
 Market Drivers of AR/VR Content and Services Market in China
-(cid:129) Mature hardware technology. With the maturity of technology, significant improvement in
+ Mature hardware technology. With the maturity of technology, significant improvement in
 hardware equipment and decrease in its price, quality content and hardware equipment will
 form a virtuous cycle. On the one hand, quality content will promote the sales of equipment.
 On the other hand, the increase of hardware devices penetration rate will encourage content
 developers to increase investment. The virtuous cycle is expected to accelerate the AR/VR
 market expansion.
-(cid:129) Infrastructure Optimization. The high bandwidth and low latency characteristics of 5G and
+ Infrastructure Optimization. The high bandwidth and low latency characteristics of 5G and
 Wi-Fi 6 are the driving forces for AR/VR content and services. 5G and Wi-Fi 6 are expected
 to enrich the usage scenarios including ultra-high-definition streaming media. Meanwhile,
 wireless devices significantly improve the user experience and further support the application
 of devices in outdoor scenarios. Cloud AR/VR services based on cloud computing can
 effectively solve the problem posted by expensive and heavy devices, as well as promote the
 popularization of AR/VR and development of AR/VR content.
-(cid:129) Industry upgrading needs. Implementation of AR/VR in the business-end represented by
+ Industry upgrading needs. Implementation of AR/VR in the business-end represented by
 AR/VR education content is accelerating. In K12, higher education, vocational training and
 various training scenarios, AR/VR content can enrich the teaching methods. Meanwhile, as
 the commercialization of 5G featuring low latency, large capacity and high speed continues to
@@ -5422,12 +5422,12 @@ clinical assistance, remote therapy) and manufacturing (i.e. inspection and repa
 industries. In addition, industries such as culture and tourism, entertainment and e-commerce
 industries, are also focusing increasingly on the application of AR/VR solutions due to the
 demand to strengthen the experience of end users and restitute offline experience.
-(cid:129) Consumption upgrading needs. The growth of consumer base provided market prospects and
+ Consumption upgrading needs. The growth of consumer base provided market prospects and
 business opportunities for AR/VR content, forming a virtuous cycle between hardware
 improvement and content quality improvement. The implementation of 5G will also strongly
 support improvement of consumers’ AR/VR experience, development of AR/VR applications
 and strong demand for gaming, video watching and live-streaming.
-(cid:129) Continued capital investment. In 2020, the sales volume of AR/VR equipment increased
+ Continued capital investment. In 2020, the sales volume of AR/VR equipment increased
 significantly due to the COVID-19 pandemic. The development of the production lines of
 components and finished products in each phase of the industry chain were expanded.
 – 134 –
@@ -5437,7 +5437,7 @@ INDUSTRY OVERVIEW
 Continuous breakthroughs in key technologies also drove the expansion of market demand.
 R&D projects and capital investment in AR/VR industry increased significantly which drove
 rapid growth.
-(cid:129) Driven by favorable policies. The AR/VR content and services market is expected to continue
+ Driven by favorable policies. The AR/VR content and services market is expected to continue
 to develop under favorable policies. The Guiding Catalogue on Adjusting the Industry
 Structures (2019 Version) released by the National Development and Reform Commission of
 the PRC in April 2019, included VR and AR in the “encouraged” industries. The Opinions on
@@ -5456,12 +5456,12 @@ digitization, networking and intelligence, based on the application of various i
 technologies such as the Internet, big data, cloud computing, Internet of Things, artificial
 intelligence, 5G, AR/VR and blockchain.
 Future Trends of AR/VR Content and Services Market in China
-(cid:129) Growing penetration of industry scenarios application. With the maturity of AR/VR
+ Growing penetration of industry scenarios application. With the maturity of AR/VR
 technology and the popularization of equipment, AR/VR is likely to become a more popular
 form of content presentation. More application will be explored and developed in different
 industries such as construction, mining and other industries, promoting the diversification and
 scale of the AR/VR content and services market.
-(cid:129) Popularization of providing AR/VR content and services based on SaaS platform. The current
+ Popularization of providing AR/VR content and services based on SaaS platform. The current
 AR/VR content and services delivery model is mainly divided into two types: customization
 and standardization. Customization is a more mainstream delivery model. As the market
 accumulated sufficient content elements or functional modules, standardized services are
@@ -5473,7 +5473,7 @@ AR/VR content and services providers can improve their delivery efficiency. Comp
 customization model that requires personalized services for customers, the SaaS model can
 accumulate a large number of standardized functions and materials while reducing the time
 spent on redeveloping and recreating functions and materials, and thus improving efficiency.
-(cid:129) Importance of one-stop service capability. The AR/VR content and services market will
+ Importance of one-stop service capability. The AR/VR content and services market will
 gradually develop into a mature industry chain. In addition to AR/VR content production,
 enterprises also need more integration services such as creative strategy before production
 and channel promotion post production. In the future, the capability to offer one-stop service
@@ -5484,29 +5484,29 @@ will become an important criteria of enterprises in AR/VR industry.
 INDUSTRY OVERVIEW
 Entry Barriers and Core Success Factors of AR/VR Content and Services Market in China
 AR/VR content production technology and experience
-(cid:129) AR/VR content production is the core capabilities for AR/VR content and services providers.
+ AR/VR content production is the core capabilities for AR/VR content and services providers.
 AR/VR content production technology and experience are the key market entry barriers for
 AR/VR content and services providers.
-(cid:129) Technical capabilities are the key to enhancing AR/VR content and services providers’service
+ Technical capabilities are the key to enhancing AR/VR content and services providers’service
 reputation and establish long-term customer relationships. At the same time, the continuous
 strengthening and accumulation of service experience can help AR/VR content and services
 providers understand and respond to customer needs more efficiently.
 Ability to understand industry demand
-(cid:129) Demand side of AR/VR content includes a wide range of industries with strong demand
+ Demand side of AR/VR content includes a wide range of industries with strong demand
 differentiation. At the same time, demand side of AR/VR services in different industries may
 have different production directions and placement preferences. As a result, the ability to
 understand vertical industry demand becomes one of the market entry barriers for AR/VR
 content and services providers.
-(cid:129) Better understanding of industry demands will help AR/VR content and services providers to
+ Better understanding of industry demands will help AR/VR content and services providers to
 improve their understanding of customer needs and response efficiency. At the same time, the
 ability to understand the needs of multiple industries will help AR/VR content and services
 providers expand their services to customers in different industries.
 Media platforms and accumulation of placement data
-(cid:129) The core business model of AR/VR services providers is AR/VR marketing and e-commerce.
+ The core business model of AR/VR services providers is AR/VR marketing and e-commerce.
 One of the entry barriers for AR/VR services providers is the relationship with media
 platforms and their agents which undertake AR/VR marketing placement and possess accurate
 data that can help the placement of AR/VR marketing content.
-(cid:129) Expanding the number of media platforms can help AR/VR services providers to meet
+ Expanding the number of media platforms can help AR/VR services providers to meet
 different marketing demand on different platforms. At the same time, the application of
 AR/VR marketing placement data can improve AR/VR services providers’ ability to
 accurately place their AR/VR marketing content, which in turn can enhance customer
@@ -5522,27 +5522,27 @@ INDUSTRY OVERVIEW
 Market share of AR/VR content and services provider (By Revenue) in China, 2021
 Ranking Company Esta Y b e l a is r h o m f ent Principal Business Background S A e R rv /V ic R es C R o e n ve te n n u t e a (1 n ) i d n Ma i r n k e 2 t 0 S 21 hare
 2021 (in RMB100 million) (by revenue)
-(cid:129) AR/VR marketing
+ AR/VR marketing
 services A provider in China of the AR/VR content and services market.
 1 Our Group 2008 5.6 2.6%
-(cid:129) AR/VR Content
-(cid:129) AR/VR SaaS
+ AR/VR Content
+ AR/VR SaaS
 Shanghai Graphic A NEEQ listed VR content provider (in education, high-end
-Digital Information (cid:129) VR Content manufacturing, medical and military industries) and 3D
-2 Co., Ltd.* 2007 (cid:129) 3D Printing printing services provider in China. ~2.0 0.9%
+Digital Information VR Content manufacturing, medical and military industries) and 3D
+2 Co., Ltd.* 2007 3D Printing printing services provider in China. ~2.0 0.9%
 (上海曼恒數位
 技術股份有限公司)
-Beijing Runnier (cid:129) AR/VR Content A non-publicly listed AR/VR content provider focused on the
+Beijing Runnier AR/VR Content A non-publicly listed AR/VR content provider focused on the
 Network Technology education industry China.
 3 Co., Ltd.* 2007 ~1.8 0.8%
 (北京潤尼爾網絡科
 技有限公司)
-Beijing Growlib (cid:129) AR/VR Content A non-publicly listed AR/VR content provider focused on the
+Beijing Growlib AR/VR Content A non-publicly listed AR/VR content provider focused on the
 Science and education industry in China.
 4 Technology Co., Ltd.* 2016 ~1.0 0.5%
 (北京格如靈科技有
 限公司)
-Shenzhen Jimuyida (cid:129) AR/VR Content A non-publicly listed VR content provider (in exhibition,
+Shenzhen Jimuyida AR/VR Content A non-publicly listed VR content provider (in exhibition,
 Technology Co., household, culture and tourism and other industries) in China.
 5 Ltd.* 2015 ~0.7 0.3%
 (深圳積木易搭科
@@ -5564,26 +5564,26 @@ INDUSTRY OVERVIEW
 Market share of AR/VR services provider (By Revenue) in China, 2021
 Ranking Company Esta Y b e l a is r h o m f ent Principal Business Background rev A e R nu /V e( R 1) i s n e r 2 v 0 i 2 c 1 e s ( in Ma i r n k 2 et 0 2 sh 1 a re
 RMB100 million) (by revenue)
-(cid:129) AR/VR marketing A provider in China of the AR/VR content and services market.
+ AR/VR marketing A provider in China of the AR/VR content and services market.
 1 Our Group 2008 services 3.76 13.5%
-(cid:129) AR/VR content
-(cid:129) AR/VR SaaS
-It Said Information (cid:129) AR/VR services A non-publicly listed AR/VR marketing solution
-2 ( T S e h c a h n n g o h l a o i g ) y C S o e ., r v L i t c d e . s * 2016 (cid:129) AR/VR SaaS services provider in China. ~0.26 0.9%
+ AR/VR content
+ AR/VR SaaS
+It Said Information AR/VR services A non-publicly listed AR/VR marketing solution
+2 ( T S e h c a h n n g o h l a o i g ) y C S o e ., r v L i t c d e . s * 2016 AR/VR SaaS services provider in China. ~0.26 0.9%
 (它說信息科技服務
 （上海）有限公司)
-Visionstar Information (cid:129) AR marketing A non-publicly listed AR marketing solution services provider
+Visionstar Information AR marketing A non-publicly listed AR marketing solution services provider
 Technology (Shanghai) in China.
 3 Co., Ltd.* 2012 ~0.15 0.5%
 (視辰信息科技（上海）有
 限公司)
-Shenzhen Yunmei (cid:129) AR/VR marketing A non-publicly listed AR/VR marketing services
-Network Technology (cid:129) Internet marketing provider in China, with business in social media
+Shenzhen Yunmei AR/VR marketing A non-publicly listed AR/VR marketing services
+Network Technology Internet marketing provider in China, with business in social media
 4 Co., Ltd.* 2016 tools development marketing strategy operation, Internet marketing ~0.10 0.4%
-(cid:129) IP operation
+ IP operation
 (深圳雲美網絡科技有 tools development and IP operation.
 限公司)
-Xiamen Ant Agents (cid:129) AR marketing A non-publicly listed AR marketing
+Xiamen Ant Agents AR marketing A non-publicly listed AR marketing
 Network Technology services provider in China.
 5 Co., Ltd.* 2016 ~0.06 0.2%
 (螞蟻特工（廈門）科
@@ -5692,7 +5692,7 @@ As we do not currently operate gaming platforms or plan to operate gaming platfo
 foreseeable future, the regulations governing the time for which minors may spend playing online
 games are not applicable to us.
 Market Drivers of the Metaverse ecosystem
-(cid:129) Underlying technologies of Metaverse continue to improve under favorable policies. A
+ Underlying technologies of Metaverse continue to improve under favorable policies. A
 number of national policies have explicitly mentioned plans and support for strengthening
 5G, cloud computing, AR/VR, blockchain, artificial intelligence and other technology
 industries. All of these are key underlying technologies that drive the development of the
@@ -5703,7 +5703,7 @@ The 14th Five-Year Plan and 2035 Long-Range Objectives approved by the Fourth Pl
 Session of the 13th National People’s Congress, also mentioned the need to cultivate and
 grow emerging digital industries such as artificial intelligence, big data, blockchain, cloud
 computing, and network security.
-(cid:129) Development and upgrades of equipment. On the one hand, with the increasing popularity of
+ Development and upgrades of equipment. On the one hand, with the increasing popularity of
 AR/VR equipment, more users will have the opportunity to experience AR/VR in the future,
 which will promote the penetration of the Metaverse concept at the user’s end. On the other
 – 140 –
@@ -5714,21 +5714,21 @@ hand, with the exploration of technologies in brain-computer interface and other
 equipment, the interactive experience between users and the Metaverse will also be further
 enriched and enhanced in the future and thus drive the maturation of the Metaverse virtual
 world.
-(cid:129) AR/VR content accumulation and sustainable creation method. As the application of AR/VR
+ AR/VR content accumulation and sustainable creation method. As the application of AR/VR
 technology widens in various industries and scenarios, a vast amount of AR/VR content that
 provides materials for constructing the Metaverse virtual world is being accumulated. In
 addition, as aPaaS and other technologies gradually mature and UGC content creation gain
 further popularity among users, a sustainable and open creation environment for all is likely
 to be formed to jointly promote the construction of the Metaverse ecosystem.
-(cid:129) Imaginative commercial space. The Metaverse industry can support a wide range of business
+ Imaginative commercial space. The Metaverse industry can support a wide range of business
 models, such as marketing and advertising, commissions on sales, payment for content, user
 rewards, membership fee and digital asset trading.
-(cid:129) Changing content consumption demand. In 2021, Chinese Internet users’ penetration rate
+ Changing content consumption demand. In 2021, Chinese Internet users’ penetration rate
 exceeded 70%, and digital content has a large consumption demand base. Users’ consumption
 habits for content are also constantly changing from text, pictures, videos to AR/VR. The
 virtual world content under the Metaverse ecosystem allows more realistic experiences and
 richer interactions, which is also more attractive to users.
-(cid:129) The users’ habits in the virtual world. Under the impact of the COVID-19 pandemic, a large
+ The users’ habits in the virtual world. Under the impact of the COVID-19 pandemic, a large
 number of offline activities have been transferred to online and users have more practical
 experience in living in and working through the Internet. The ultimate form of Metaverse is
 to project almost all aspects of real life into the virtual world. Therefore, users forming habits
@@ -5737,7 +5737,7 @@ the Metaverse. In the post pandemic era, users are expected to have more demands
 entertainment activities. The demand for AR/VR content and services cultivated during the
 outbreak of the pandemic is expected to continue to grow and therefore facilitate the
 application and development of the AR/VR content and services industry.
-(cid:129) The establishment of industry associations. The establishment of Metaverse related industry
+ The establishment of industry associations. The establishment of Metaverse related industry
 associations also promotes the development of the Metaverse industry. On October 15, 2021,
 the establishment of Metaverse Industry Committee (CMCA-MCC), a subordinate of China
 Mobile Communications Federation (CMCA), was approved. On November 11, 2021, the
@@ -5745,7 +5745,7 @@ opening ceremony of the Metaverse Industry Committee of the China Mobile
 Communications Federation was officially held. CMCA-MCC is committed to promoting the
 healthy and sustainable development of the Metaverse industry.
 Future Trends of Metaverse ecosystem
-(cid:129) The concept of Metaverse driving the Internet industry into a new development stage. The
+ The concept of Metaverse driving the Internet industry into a new development stage. The
 Internet industry has gradually developed from the PC era, to the mobile era and to the
 present stage. The Metaverse is expected to be the next development phase of the Internet,
 which is represented by the online world migrating into a virtual world with immersive and
@@ -5757,7 +5757,7 @@ likely to be brought into the Internet industry.
 
 === PAGE 153 ===
 INDUSTRY OVERVIEW
-(cid:129) More opportunities for monetization and innovative business models. The Metaverse can
+ More opportunities for monetization and innovative business models. The Metaverse can
 support almost all existing business models in the Internet industry with additional
 opportunities for development and expansion. At the same time, the Metaverse virtual world
 is a projection and extension of the real world. In 2005, Premier Li Keqiang first proposed
@@ -5771,13 +5771,13 @@ concept of “Internet Plus”, which refers to the integration of Metaverse tec
 business model with traditional industries in order to promote the development and
 innovation of these industries and bring along more business opportunities, such as
 “Metaverse Plus Game” and “Metaverse Plus Education”.
-(cid:129) Creating more job opportunities. On the one hand, the construction of the Metaverse itself
+ Creating more job opportunities. On the one hand, the construction of the Metaverse itself
 requires a lot of resources investment and creation accumulation, so that the Metaverse
 industry is expected to create more job opportunities. On the other hand, the Metaverse is a
 virtual world parallel to the real world, which is expected to have a stable social and
 economic system in the future. As a result, a large number of jobs for digital avatars may be
 created in the virtual world, even forming a sophisticated employment system.
-(cid:129) More real-life scenarios enter the Metaverse virtual world. With the growing maturity of the
+ More real-life scenarios enter the Metaverse virtual world. With the growing maturity of the
 Metaverse construction and popularity among users in the future, it is possible that more
 daily life scenarios, not limited to entertainment and games, will enter the Metaverse virtual
 world and users’ reliance on the Metaverse will increase.
@@ -9963,13 +9963,13 @@ DEVELOPMENT IN LEGISLATION ON FOREIGN INVESTMENT IN MAINLAND CHINA
 On March 15, 2019, the Foreign Investment Law was formally passed by the 13th NPC and
 took effect on January 1, 2020. The Foreign Investment Law stipulates forms of foreign investment
 as below:
-(cid:129) foreign investors set up foreign invested enterprises in China severally or jointly with
+ foreign investors set up foreign invested enterprises in China severally or jointly with
 other investors;
-(cid:129) foreign investors acquire shares, equity, properties shares or other similar interest in any
+ foreign investors acquire shares, equity, properties shares or other similar interest in any
 domestic enterprise;
-(cid:129) foreign investors invest in new projects in China severally or jointly with other
+ foreign investors invest in new projects in China severally or jointly with other
 investors; and
-(cid:129) foreign investors invest through any other methods under laws, administrative
+ foreign investors invest through any other methods under laws, administrative
 regulations, or provisions prescribed by the State Council.
 The Foreign Investment Law stipulates that the Negative List is applied in certain industry
 sectors. The Negative List set out in the Foreign Investment Law classified the relevant prohibited
@@ -10319,7 +10319,7 @@ or developers to participate in the content production together with us.
 Our success hinges upon our key technological capabilities in providing customers with
 high-quality AR/VR marketing services and offering end users with our AR/VR interactive content
 and immersive experience. Such key technologies include:
-(cid:129) Underlying technology: Our underlying technology includes cross-platform technology,
+ Underlying technology: Our underlying technology includes cross-platform technology,
 interactive technology, gaming technology, AI technology, network technology, among
 others. Our cross-platform technology allows our AR and VR effects to be presented on
 Android, iOS, H5, Windows and other platforms. Our interactive technology and gaming
@@ -10328,7 +10328,7 @@ can, through machine learning algorithms, identify images, texts, voices, faces 
 motions and provide a foundation for the AR/VR interactive content. In addition, our
 network technology ensures the stable and smooth operation of our systems which
 further brings smooth experience to end users.
-(cid:129) Content technology: We have a number of AR/VR development engines through years
+ Content technology: We have a number of AR/VR development engines through years
 of development and iteration, which have combined content development functions. Our
 AR/VR development engines improve our development efficiency by shortening the
 development time of AR/VR products. Our AR/VR development engines include our
@@ -10337,7 +10337,7 @@ Uni-Play engine, Uni-AR engine, Uni-VR engine and rendering engine.
 
 === PAGE 265 ===
 BUSINESS
-(cid:129) Platform technology: Our AR/VR SaaS platform provides a large number of AR/VR
+ Platform technology: Our AR/VR SaaS platform provides a large number of AR/VR
 content modules, online editors and a range of data analytical tools, helping our
 customers to gain better designing experience on our AR/VR SaaS platform. In addition,
 we offer an AR/VR aPaaS platform to AR/VR interactive content developers. We allow
@@ -10957,7 +10957,7 @@ BUSINESS
 
 === PAGE 278 ===
 BUSINESS
-(cid:129) Media platforms and their agents: We cooperate with diverse media platforms and
+ Media platforms and their agents: We cooperate with diverse media platforms and
 their agents in a variety of modes to obtain traffic for our advertising customers who
 have AR/VR advertising needs. Media platforms and their agents from whom we
 purchase advertising traffic would use our AR/VR SaaS platform in the following steps
@@ -10996,7 +10996,7 @@ BUSINESS
 platforms and their agents, we can assist our customers to obtain quality services and
 secure considerable traffic. During the Track Record Period, we promoted over 250
 advertising products.
-(cid:129) Customers: For our AR/VR marketing services, our main target customers include
+ Customers: For our AR/VR marketing services, our main target customers include
 companies that wish to enhance their visibility, maintain their existing market influence
 or raise their brand awareness, and their advertising agents and other companies that
 have demands for AR/VR marketing services. Our customers for AR/VR content are
@@ -11009,13 +11009,13 @@ diversified customer base. During the Track Record Period, we have provided AR/V
 marketing services or content to customers from over 10 industries, including
 entertainment, gaming, Internet, e-commerce, culture and tourism, business services,
 education, finance, real estate, automobiles, live-streaming, technology and healthcare.
-(cid:129) Material and IP suppliers: We cooperate with various material and IP suppliers to
+ Material and IP suppliers: We cooperate with various material and IP suppliers to
 provide enriched content foundation including literature, cartoon images and other types
 of copyrights, graphic designs and video materials for all of our major business
 segments. We review the content material and IP material provided by material and IP
 suppliers, which are then further refined and integrated into our AR/VR products before
 being presented to our customers.
-(cid:129) End users: We bring our end users the experience of combining the virtual and the
+ End users: We bring our end users the experience of combining the virtual and the
 physical world. We have a wide variety of end users. With respect to our AR/VR
 marketing services, the end users include a diverse range of online and offline consumer
 groups targeted by our advertising customers. With respect to our AR/VR content, the
@@ -11093,11 +11093,11 @@ adjust
 Content strategy
 review
 Repeated purchase Payment
-(cid:129) Identify customer demand: We first engage in discussions with potential advertising
+ Identify customer demand: We first engage in discussions with potential advertising
 customers to understand their marketing demands and objectives. We introduce our
 AR/VR marketing services to the potential advertising customers to allow them to gain a
 preliminary understanding of how we may fulfil their marketing demand.
-(cid:129) Formulate and confirm plan: After identifying and clarifying potential advertising
+ Formulate and confirm plan: After identifying and clarifying potential advertising
 customers’ demand, we develop a specific AR/VR marketing services plan according to
 the instructions and requirements of potential advertising customers taking into account
 characteristics of their brands. Our AR/VR marketing services plan typically includes
@@ -11111,10 +11111,10 @@ the final plan with them.
 
 === PAGE 282 ===
 BUSINESS
-(cid:129) Enter into agreement: After completing the initial business negotiation and confirming
+ Enter into agreement: After completing the initial business negotiation and confirming
 the AR/VR marketing services plan with the potential advertising customer, we enter
 into an agreement with the advertising customer.
-(cid:129) Assist with the design of AR/VR marketing content: We assist in designing AR/VR
+ Assist with the design of AR/VR marketing content: We assist in designing AR/VR
 promotional activities and/or AR/VR scenarios in support of the formulated AR/VR
 marketing services plan. We usually develop AR/VR content modules and development
 tools and place them on our Wanjie Smart Marketing platform, our current AR/VR SaaS
@@ -11129,11 +11129,11 @@ and needs of the customer. We would then communicate with the media platform or 
 agent on the potential advertisement placement and obtain a quote for the advertising
 traffic. Finally, we would decide on which media platform our advertising customers’
 advertisement will be placed taking into account the quote obtained.
-(cid:129) Content review: Throughout the provision of AR/VR marketing services, our legal and
+ Content review: Throughout the provision of AR/VR marketing services, our legal and
 compliance team reviews the advertisement content provided by our advertising
 customers to ensure service quality as well as compliance with the relevant laws and
 regulations.
-(cid:129) Launch AR/VR marketing content through media platforms: Media platforms or
+ Launch AR/VR marketing content through media platforms: Media platforms or
 their agents can place a link to the AR/VR content. The AR/VR content and the
 advertisements are launched once the link is placed on the media platforms. By clicking
 on the link, end users will be able to view the AR/VR content and the advertisements
@@ -11143,7 +11143,7 @@ lesser extent, depending on the particular needs of a project, we may organize o
 activities with the same theme as our online AR/VR advertisements placements to
 strengthen the marketing effect. We recognize revenue from offline activities as revenue
 of promotion services in our other businesses.
-(cid:129) Monitor data and adjust strategy: Once the launch is completed, we monitor the
+ Monitor data and adjust strategy: Once the launch is completed, we monitor the
 effect periodically. We are able to adjust the strategy promptly, including adjusting the
 media platforms and the target audience, thus achieving a performance effect
 satisfactory to our advertising customers.
@@ -11151,7 +11151,7 @@ satisfactory to our advertising customers.
 
 === PAGE 283 ===
 BUSINESS
-(cid:129) Payment: At the end of an AR/VR advertising campaign, we prepare a completion
+ Payment: At the end of an AR/VR advertising campaign, we prepare a completion
 report according to the advertising customers’ requirements to inform them of the
 marketing results. We issue monthly statements to our advertising customers based on
 the marketing effect using one of our pricing models. According to iResearch, such
@@ -11160,18 +11160,18 @@ China.
 Material terms of agreements with our AR/VR marketing services customers
 We usually sign an annual underlying framework agreement with our advertising customers.
 Material terms of the agreement generally include:
-(cid:129) Our scope of services: According to the advertising customers’ needs, our services
+ Our scope of services: According to the advertising customers’ needs, our services
 generally include marketing planning and advertisement placements. Our advertising
 customers are entitled to monitor the status of advertisement placements.
-(cid:129) Pricing, payment method and settlement: We set out the pricing model of our
+ Pricing, payment method and settlement: We set out the pricing model of our
 marketing services in the framework agreement or in a separate advertising order with
 the customers. We charge our customers based on actual performance effect. Payment is
 usually settled in RMB by bank transfer.
-(cid:129) Data statistics: Generally, when assessing effect data statistics, the statistics from our
+ Data statistics: Generally, when assessing effect data statistics, the statistics from our
 advertising customers’ statistics system shall prevail in case of discrepancies. We are
 entitled to check the authenticity of relevant data on the sales inquiry background
 platform and the sales reconciliation platform of the advertising customers.
-(cid:129) Term: The initial term is generally one year, and may be renewed for another year
+ Term: The initial term is generally one year, and may be renewed for another year
 automatically upon expiry.
 We are generally not required to refund any fees charged to our advertising customers under
 our agreements with them. We had not made material refund to our advertising customers during
@@ -11329,20 +11329,20 @@ Material terms of the agreements with media platforms and their agents
 We usually enter into an annual underlying framework agreement with agents of media
 platforms, and to a lesser extent, media platforms. Material terms of the agreements generally
 include:
-(cid:129) Advertisement content: We are obliged to ensure that none of the content we publish
+ Advertisement content: We are obliged to ensure that none of the content we publish
 on the media platforms violates national laws, public order or good moral standards. The
 media platforms and their agents are entitled to review the materials we provide and to
 request for amendments.
-(cid:129) Pricing, payment method and settlement: We set out the pricing model of marketing
+ Pricing, payment method and settlement: We set out the pricing model of marketing
 services in the framework agreement or, to a lesser extent, in a separate advertising
 order with the media platforms or their agents. The amount of costs we are charged by
 the media platforms or their agents is based on actual performance effect using statistics
 from our system. Payment is usually settled in RMB by bank transfer.
-(cid:129) Data statistics: When assessing effect data statistics, the statistics from our statistics
+ Data statistics: When assessing effect data statistics, the statistics from our statistics
 system shall prevail in case of discrepancies. We are responsible for the authenticity and
 validity of the effect data statistics. The media platforms or their agents may enter and
 check our statistics system in a way authorized by us.
-(cid:129) Term: One year in general.
+ Term: One year in general.
 Key Operating Data
 The following table sets forth certain key operating data of our AR/VR marketing services
 business:
@@ -11396,7 +11396,7 @@ new customers in the first quarter of the year compared with other quarters. In 
 for the three months ended March 31, 2022 is not comparable to the contract renewal rates for 2019, 2020 and 2021
 due to the difference in time span.
 Cases
-(cid:129) Gaming and entertainment: In April 2021, a top game development and operation
+ Gaming and entertainment: In April 2021, a top game development and operation
 company in China engaged us for its marketing campaign for one of its most popular
 games through an agent. Before the game advertisements were distributed, media
 platforms or their agents would customize AR/VR content on our AR/VR SaaS platform
@@ -11479,23 +11479,23 @@ Content review
 Repeated
 Payment
 purchase
-(cid:129) Communicate with potential customers: We engage in preliminary discussions with
+ Communicate with potential customers: We engage in preliminary discussions with
 potential customers to understand the customers’ demand for the type of our AR/VR
 product and specific requirements for the interactive content.
-(cid:129) Formulate proposal: After understanding the customers’ demand, we conduct
+ Formulate proposal: After understanding the customers’ demand, we conduct
 preliminary analysis and product design, based on which we will prepare an AR/VR
 product proposal.
-(cid:129) Confirm execution plan: We discuss with the potential customers about our preliminary
+ Confirm execution plan: We discuss with the potential customers about our preliminary
 AR/VR product proposal, make adjustments according to the customers’ feedback and
 confirm the final execution plan with the customers.
-(cid:129) Engage in business negotiation and enter into agreement: We usually enter into an
+ Engage in business negotiation and enter into agreement: We usually enter into an
 agreement with our customers after understanding their demands and confirming the
 development plan and design parameters.
 – 282 –
 
 === PAGE 294 ===
 BUSINESS
-(cid:129) AR/VR content product development and execution: During the process of product
+ AR/VR content product development and execution: During the process of product
 design, we maintain regular communication with our customers and modify our product
 and execution plan based on their feedback. We also provide progress reports on a
 regular basis according to our customers’ needs. Based on the estimated workload of the
@@ -11503,35 +11503,35 @@ product development, we may engage a subcontractor to assist in the product
 development. We typically subcontract art design and non-core technical support to third
 party service providers. Consent from our customers are usually not required for
 subcontracting.
-(cid:129) Internal assessment and error correction (if any): Our development team will
+ Internal assessment and error correction (if any): Our development team will
 examine and correct any operational error discovered in the internal assessment process.
 After we have corrected any error discovered and made necessary adjustments, we will
 conduct another assessment on the new version of the AR/VR product. We will repeat
 the assessment process until no further error is discovered.
-(cid:129) Content review: Throughout content development and product design, our legal and
+ Content review: Throughout content development and product design, our legal and
 compliance team reviews the content to ensure product quality as well as compliance
 with the relevant PRC laws and regulations.
-(cid:129) Delivery and maintenance: We deliver our products to our customers within the time
+ Delivery and maintenance: We deliver our products to our customers within the time
 period stipulated in the agreement, assist our customers in installing, launching, testing
 the product, provide operational guidance to our customers’ employees, and provide
 subsequent maintenance services as stipulated in the agreement.
-(cid:129) Payment: Generally, our customers pay us design and development fees after the
+ Payment: Generally, our customers pay us design and development fees after the
 AR/VR product is accepted. According to iResearch, such arrangement complies with
 the industry practice of the AR/VR content industry in China.
 Pricing model
 We charge our customers different rates for the AR/VR content product development taking
 into account the following factors:
-(cid:129) Complexity of design and development: We charge a higher fee for more complex
+ Complexity of design and development: We charge a higher fee for more complex
 design or development. Prior to execution of contract, our R&D team assesses the
 estimated costs of design and development based on past experience of similar projects.
-(cid:129) Business relationship: We take into account our business relationship with customers,
+ Business relationship: We take into account our business relationship with customers,
 including the length of our cooperation with the customers and the strategic value of the
 customers to us.
 – 283 –
 
 === PAGE 295 ===
 BUSINESS
-(cid:129) Payment arrangement: If customers pay a deposit to us within a short period of time
+ Payment arrangement: If customers pay a deposit to us within a short period of time
 after entering into the contract, we may offer a more favorable quotation to them by
 reference to the deposit amount. Some of our customers would pay 20% to 50% of the
 total price as the deposit.
@@ -11540,10 +11540,10 @@ customized AR/VR SaaS solutions, we develop our AR/ VR content products from scr
 the Track Record Period, the fees we charged for each AR/VR content project ranged from
 RMB1,000 to RMB48 million. We generally divide our AR/ VR content products into two
 categories based on the price range:
-(cid:129) Basic products: For basic products, we generally charge less than RMB1 million for
+ Basic products: For basic products, we generally charge less than RMB1 million for
 developing products with AR/VR content in simple forms and with short duration, for
 example cloud stores.
-(cid:129) Advanced products: For advanced products, we generally charge more than RMB1
+ Advanced products: For advanced products, we generally charge more than RMB1
 million for developing products with AR/VR content in complicated forms providing
 more AR/VR experiences, for example entertainment content viewed on VR equipment
 and education content.
@@ -11589,13 +11589,13 @@ several projects.
 Material terms of the agreements with our AR/VR content customers
 We usually enter into a separate agreement with our customers for each AR/VR content
 product. The material terms of the agreement usually include:
-(cid:129) Development period: Our content development period generally ranges from one month
+ Development period: Our content development period generally ranges from one month
 to one year, depending on our customers’ requirements.
-(cid:129) Our products: We develop AR/VR content based on the design parameters required by
+ Our products: We develop AR/VR content based on the design parameters required by
 our customers.
-(cid:129) Intellectual property ownership: Generally, our customers own the intellectual
+ Intellectual property ownership: Generally, our customers own the intellectual
 property of the products that they engage us to develop.
-(cid:129) Payment and settlement: Our customers generally pay the price of the AR/VR content
+ Payment and settlement: Our customers generally pay the price of the AR/VR content
 product after the product is accepted. Some of our customers would pay the first
 portion, ranging from 20% to 50% of the total price, upon entering into of the
 agreement, and pay the outstanding balance upon acceptance of the product. During the
@@ -11616,22 +11616,22 @@ the agreements with our subcontractors, see the paragraph headed “— Our Supp
 Subcontracting” in this section.
 We usually enter into PGC video copyright cooperation agreements with suppliers of PGC
 video materials. Material terms of the typical agreements generally include:
-(cid:129) Scope and means of cooperation: We are entitled to use the PGC video materials
+ Scope and means of cooperation: We are entitled to use the PGC video materials
 whose copyrights belong to our suppliers. We may use the PGC video materials on the
 websites or the platforms we own or operate. We can decide how to use the PGC video
 materials, including uploading, copying, transmitting, promoting and editing the
 materials and making the materials available for our users to search, browse, view on
 demand or live-stream, and download.
-(cid:129) Payment and settlement: We are generally required to settle payment to our suppliers
+ Payment and settlement: We are generally required to settle payment to our suppliers
 within 15 working days after our suppliers have delivered the PGC video materials and
 issued the relevant invoices to us.
-(cid:129) Term: The term of the agreement is generally around four years.
-(cid:129) Termination: The agreement may generally be terminated by the non-defaulting party
+ Term: The term of the agreement is generally around four years.
+ Termination: The agreement may generally be terminated by the non-defaulting party
 in the event of a material breach that is not remedied within a prescribed time period.
 Cases
 Over the years of operation, we have accumulated abundant experience in AR/VR content
 development for our customers across various industries:
-(cid:129) Education: In 2021, we developed a VR courseware customized for a middle-school
+ Education: In 2021, we developed a VR courseware customized for a middle-school
 geography course for an education business subsidiary under an Internet technology
 group operating one of the largest search engines in China in terms of the average daily
 active users in 2020. By simply wearing a VR device, students can learn the structure of
@@ -11650,7 +11650,7 @@ Below are the illustrations of the VR geography course materials.
 
 === PAGE 299 ===
 BUSINESS
-(cid:129) Gaming and Entertainment: In 2021, a culture and entertainment company engaged us to
+ Gaming and Entertainment: In 2021, a culture and entertainment company engaged us to
 develop a VR shooting game. Using our Uni-Play engine and Uni-VR engine and leveraging
 our PBR modeling and rendering technologies, we are able to present a science fiction world
 where users can battle with alien creatures by wearing VR equipment and holding electronic
@@ -11662,7 +11662,7 @@ market is expected to experience significant growth with the development of 5G t
 and cloud gaming. For the avoidance of doubt, we were only engaged as a subcontractor to
 provide the VR content and were not involved in the games development or publishing.
 Below are the illustrations of the VR game.
-(cid:129) Culture and tourism (third-party Metaverse platform): In November 2021, we were
+ Culture and tourism (third-party Metaverse platform): In November 2021, we were
 engaged by a subsidiary of a leading Internet company in China to develop a VR interactive
 product featuring an archaeological site of the Bronze Age culture in China for our
 customer’s Metaverse platform. After entering the archaeological site virtually on our
@@ -11712,31 +11712,31 @@ possibilities with customers
 
 === PAGE 301 ===
 BUSINESS
-(cid:129) Communicate with potential customers: We first communicate with potential
+ Communicate with potential customers: We first communicate with potential
 customers, introduce to them the functions and diversified services on our AR/VR SaaS
 platform and understand their business needs and objectives.
-(cid:129) Trial of basic services: Potential customers may register accounts on our AR/VR SaaS
+ Trial of basic services: Potential customers may register accounts on our AR/VR SaaS
 platform for free to try out the basic services provided on our platform. Registered users
 have access to three gigabytes of storage space, basic AR/VR interactive content
 modules, AR/VR marketing scenario production tools, basic marketing program and
 marketing data display.
-(cid:129) Communicate with customers and demonstrate our service offerings: After the
+ Communicate with customers and demonstrate our service offerings: After the
 registered users have obtained a preliminary understanding and experience of our
 AR/VR SaaS platform, we demonstrate to them our service offerings, which include
 storage space, AR/VR interactive content modules and design functions, customized
 brand marketing programs, VIP customer services and platform API connection support.
-(cid:129) Customers pay and activate accounts or enter into services agreements: Once the
+ Customers pay and activate accounts or enter into services agreements: Once the
 registered users are satisfied with our demonstrations, they will sign subscription
 agreements with us and pay us an annual subscription fee or enter into service
 agreements with us to create customized SaaS solutions and pay us fees as set out in the
 agreements. We then upgrade the customers’ accounts to give them access to the
 services they have chosen or develop customized SaaS solutions meeting the specific
 requirements of our customers.
-(cid:129) Maintain our platform and customer relationship management: Our AR/VR SaaS
+ Maintain our platform and customer relationship management: Our AR/VR SaaS
 platform, as a SaaS platform, is maintained by our professional team. We solve
 problems encountered by our customers when using the platform and continuously
 upgrade and improve our platform based on customers’ feedback.
-(cid:129) Customer data analysis: We collect and analyze the relevant data generated from
+ Customer data analysis: We collect and analyze the relevant data generated from
 customers when using our AR/VR SaaS platform, such as the number of visits and
 visitors and the number of activity participants, when our customers carry out AR/VR
 promotional activities on our platform. Through our data collection and analysis, we can
@@ -11748,7 +11748,7 @@ customers and the results of marketing performance.
 
 === PAGE 302 ===
 BUSINESS
-(cid:129) Develop further business possibilities with customers: We keep in contact with our
+ Develop further business possibilities with customers: We keep in contact with our
 customers to understand their further requirements, such as artistic styles, interactive
 experiences, brand promotion, adjustment of functions and overall effect presentation, in
 order to develop additional business possibilities with customers.
@@ -11759,7 +11759,7 @@ solutions into two types, namely AR/VR promotional activities and VR panorama co
 Customers can create AR/VR promotional activities and VR panorama content by choosing from a
 wide variety of AR/VR interactive content modules available on our AR/VR SaaS platform,
 according to their needs to empower their marketing campaigns.
-(cid:129) AR/VR promotional activities: Our customers can first select a module for the AR/VR
+ AR/VR promotional activities: Our customers can first select a module for the AR/VR
 promotional activity, then configure specific AR/VR promotional activities by setting
 various activity parameters. For example, our customers may choose whether to allow
 AR scanning, set the number of participation in the activity, the start and end time of
@@ -11768,7 +11768,7 @@ draw. Our customers can also set and upload AR recognition images, generate a QR
 code or a link to the AR/VR promotional activity and set advertisement configurations.
 Once all the settings are configured, end users can take part in the AR/VR promotional
 activity via a QR code or a link to a webpage.
-(cid:129) VR panorama content: Our customers can create VR panorama content to promote
+ VR panorama content: Our customers can create VR panorama content to promote
 their products via our AR/VR SaaS platform. By selecting a VR panorama module, our
 customers can select opening prompts, opening animations, automatic cruise, mobile
 phone gyroscope, user login method, advertising platform, for which our AR/VR SaaS
@@ -11855,9 +11855,9 @@ AR/VR SaaS solutions. During the Track Record Period, we generally charged custo
 customized AR/VR SaaS solutions ranging from RMB3,000 to RMB650,000 per project. We
 generally divide our customized AR/VR SaaS solutions into two categories based on the price
 range:
-(cid:129) Basic solutions: For basic solutions, we generally charge less than RMB200,000 for
+ Basic solutions: For basic solutions, we generally charge less than RMB200,000 for
 providing a customized solution using primarily modules on our AR/VR SaaS platform.
-(cid:129) Advanced solutions: For advanced solutions, we generally charge more than
+ Advanced solutions: For advanced solutions, we generally charge more than
 RMB200,000. While relying on existing modules on our AR/VR SaaS platform for basic
 framework, we provide additional art design works and 3D modeling as part of the
 solutions.
@@ -11868,10 +11868,10 @@ entitled to enjoy part of the AR/VR functions for free. For subscribed paying us
 SaaS platform offers three types of service packages, each with different features and functions to
 accommodate diverse customer needs. As of March 31, 2022, the number of our subscribed paying
 users reached over 2,200. We offer free and paid packages to users of our AR/VR SaaS platform:
-(cid:129) Free package: This package provides basic AR/VR marketing functions, including 3GB
+ Free package: This package provides basic AR/VR marketing functions, including 3GB
 storage space, basic AR/VR interactive content modules, AR/VR marketing scenario
 production tools, basic marketing program and marketing data display.
-(cid:129) Paid packages: We offer three types of paid packages, which differ in the number of
+ Paid packages: We offer three types of paid packages, which differ in the number of
 AR/VR interactive content modules and size of storage space allocated. As of March 31,
 2022, the rate of our paid packages ranged from RMB6,800 to RMB14,800 per year.
 Material terms of the agreements with our AR/VR SaaS customers
@@ -11887,16 +11887,16 @@ refund to our subscribed paying users during the Track Record Period.
 BUSINESS
 We usually enter into a separate agreement with our customers before providing a customized
 AR/VR SaaS solution. The material terms of the agreement usually include:
-(cid:129) Term of project: We are generally required to deliver the customized solution within
+ Term of project: We are generally required to deliver the customized solution within
 one to six months from the date of the agreement, depending on our customers’
 requirements.
-(cid:129) Our services: We assist our customers to design VR cloud stores or AR/VR promotional
+ Our services: We assist our customers to design VR cloud stores or AR/VR promotional
 activities and provide technical support and maintenance for a period of three months
 after the project is completed.
-(cid:129) Payment and settlement: Our customers generally pay the price of the customized
+ Payment and settlement: Our customers generally pay the price of the customized
 AR/VR SaaS solution after the solution is accepted and we have issued the relevant
 invoice.
-(cid:129) Termination: The agreement may generally be terminated by the non-defaulting party in
+ Termination: The agreement may generally be terminated by the non-defaulting party in
 the event of a breach of the agreement that is not remedied within a prescribed time
 period.
 We are generally not required to refund any fees charged to our customers according to our
@@ -11908,7 +11908,7 @@ subcontracting and development services or rent servers. For material terms of t
 our subcontractors, see the paragraph headed “— Our Suppliers — Subcontracting” in this section.
 We usually enter into a separate agreement with our suppliers before renting their servers.
 The material terms of the agreement usually include:
-(cid:129) Scope of services: We are usually entitled to use the computing and network, cloud
+ Scope of services: We are usually entitled to use the computing and network, cloud
 server, cloud data center, cloud cybersecurity, supervisory and management, domain
 name resolution, video service, big data and AI products of our suppliers in accordance
 to our business needs in compliance with the service agreements of our suppliers.
@@ -11916,12 +11916,12 @@ to our business needs in compliance with the service agreements of our suppliers
 
 === PAGE 309 ===
 BUSINESS
-(cid:129) Pricing, payment method and settlement: We can choose the services required on the
+ Pricing, payment method and settlement: We can choose the services required on the
 website of our suppliers and we will be charged accordingly. We can pay online or
 through bank transfer. We are usually required to pay within 10 working days upon the
 receipt of invoice.
-(cid:129) Term: Our contracts with our suppliers usually do not have a fixed term.
-(cid:129) Termination: Our suppliers are usually entitled to terminate part or all services with a
+ Term: Our contracts with our suppliers usually do not have a fixed term.
+ Termination: Our suppliers are usually entitled to terminate part or all services with a
 notice at least 30 days before the termination.
 Key operating data
 The number of registered users of our AR/VR SaaS platform grew from 1,828 as of
@@ -11975,7 +11975,7 @@ since around mid-2021 and their subscriptions had not expired by March 31, 2022.
 of our customizedAR/VR SaaS business, with one contract corresponding to one to several projects.
 Customized AR/VR SaaS Solutions Cases
 VR cloud store case
-(cid:129) Pharmaceutical: In June 2020, a pharmaceutical company engaged us to design, develop and
+ Pharmaceutical: In June 2020, a pharmaceutical company engaged us to design, develop and
 produce its VR cloud store. We designed and developed a VR cloud store using our AR/VR
 SaaS platform and placed products of the pharmaceutical company in the cloud store. Based
 on its product features and its corresponding consumer groups, we divided the VR cloud store
@@ -11996,16 +11996,16 @@ and click on the products displayed in the cloud store, a description of the pro
 to the shopping cart will be displayed and users may complete the purchase with a few more
 clicks.
 Below are the illustrations of the VR cloud store.
-(cid:28612)(cid:28595)
-(cid:28612)(cid:28595)
-(cid:28613)(cid:28595)
+ 
+ 
+ 
 Notes:
 (1) Products are displayed in the VR cloud store.
 (2) When a user clicks on the product displayed in (1), a description of the product with a link to the shopping cart
 will be shown.
 (3) Part of the products have been blurred to protect customer sensitive information.
 AR promotional activity case
-(cid:129) Catering: In March 2019, we were engaged to create an AR interactive activity for a catering
+ Catering: In March 2019, we were engaged to create an AR interactive activity for a catering
 company. Upon entering into the restaurant, end users may wear AR glasses or scan a QR
 code with their mobile phones to enter into an AR scene of the restaurant. End users may
 then take part in marketing activities such as collecting red packets, and interact with the
@@ -12051,29 +12051,29 @@ management
 Development of additional
 business possibilities
 with customers
-(cid:129) Communication with potential customers: We first communicate with potential
+ Communication with potential customers: We first communicate with potential
 customers to understand their demands regarding the types of IP and the specific
 content.
-(cid:129) Recommendation and selection of IP: We undergo a searching and matching process in
+ Recommendation and selection of IP: We undergo a searching and matching process in
 our IP database according to the demand of our potential customers. We recommend
 certain IPs to our potential customers for selection based on their demands.
 – 302 –
 
 === PAGE 314 ===
 BUSINESS
-(cid:129) Communication and negotiation of business terms: We communicate, negotiate and
+ Communication and negotiation of business terms: We communicate, negotiate and
 confirm with potential customers about the detailed business terms including license fee,
 term, region, channel and format.
-(cid:129) Entering into agreement: IP customers enter into formal agreements with us to
+ Entering into agreement: IP customers enter into formal agreements with us to
 purchase selected IPs. Our IP customers usually pay in full after receipt and acceptance
 of relevant documents evidencing the licensing of the IP.
-(cid:129) Licensing of IP to customers: We license IP to our customers according to the scope,
+ Licensing of IP to customers: We license IP to our customers according to the scope,
 content and format stipulated in the agreement.
-(cid:129) Customer relationship management: Our customer service team maintains close
+ Customer relationship management: Our customer service team maintains close
 connection and communication with customers to understand their experience of and
 feedback on the licensed copyrights, and help customers solve any problems
 encountered in the course of using the copyrights.
-(cid:129) Development of additional business possibilities with customers: We introduce our
+ Development of additional business possibilities with customers: We introduce our
 other major businesses to IP customers and understand and explore their other demands.
 Pricing model
 We generally charge our IP customers based on the IP our customers choose. We usually add
@@ -12088,7 +12088,7 @@ on our major IP customers who were also our top five customers during the Track 
 see the paragraph headed “— Our Customers” in this section.
 Material terms of agreements with our IP customers
 The material terms of license agreements with our IP customers are set out below:
-(cid:129) Licensed content: The copyrights that are globally licensed to an IP customer may vary
+ Licensed content: The copyrights that are globally licensed to an IP customer may vary
 from case to case. In general, they include the right of reproduction, right of
 distribution, rental right, right of exhibition, right of showing, right of broadcasting,
 – 303 –
@@ -12100,20 +12100,20 @@ adaptation, right of translation and right of compiling. We only license a certa
 to one customer and we are generally not permitted to use the relevant IP rights after
 they have been licensed out to our customers. The copyright of the content developed
 and published from the IP rights licensed generally belongs to our customers.
-(cid:129) Confidentiality: Generally, except as otherwise provided by laws and regulations or
+ Confidentiality: Generally, except as otherwise provided by laws and regulations or
 with the prior consent of the other party, each party shall maintain the confidentiality of
 any information or trade secrets obtained throughout the business engagement with our
 IP customers.
-(cid:129) Payment and settlement: Generally, after the copyright certificate, the letter of
+ Payment and settlement: Generally, after the copyright certificate, the letter of
 authorization and any other document in connection with the IP as required by the IP
 customers are delivered to and accepted by our IP customers, our customers shall make
 payment to us.
-(cid:129) Term: The term of a license agreement is generally one to seven years. The term of
+ Term: The term of a license agreement is generally one to seven years. The term of
 some of our license agreements with customers are longer than the term of our license
 agreements with suppliers, which is up to five years, because we have licensed out some
 of the IP rights we developed, particularly software copyright for games, to our IP
 customers for a term of seven years.
-(cid:129) Termination: The license agreement may generally be terminated by the non-defaulting
+ Termination: The license agreement may generally be terminated by the non-defaulting
 party in the event of a material breach that is not remedied within a prescribed time
 period.
 We are generally not required to refund any fees charged to our IP customers by our
@@ -12123,7 +12123,7 @@ As advised by our PRC Legal Advisors, the above license agreements with our IP c
 are legally binding.
 Material terms of agreements with our IP suppliers
 The material terms of license agreements with our IP suppliers are set out below:
-(cid:129) Licensed content: Generally, all copyrights in a work are licensed to our Company,
+ Licensed content: Generally, all copyrights in a work are licensed to our Company,
 including but not limited to the right of reproduction, right of distribution, rental right,
 right of exhibition, right of showing, right of broadcasting, right of communication
 – 304 –
@@ -12137,12 +12137,12 @@ adopt copyrights in their work. We believe that our IP customers may be aware of
 non-exclusivity as our customers may trace the IP rights by reviewing the copyright
 certificates and our license agreements with IP customers generally contain a clause that
 specifies the nature of authorization.
-(cid:129) Payment and settlement: We are generally required to settle payment to our IP
+ Payment and settlement: We are generally required to settle payment to our IP
 suppliers between 20 and 60 days after our IP suppliers have provided proof of their IP
 rights and issued the relevant invoices.
-(cid:129) Term: The term of the license agreements with our IP suppliers are generally between
+ Term: The term of the license agreements with our IP suppliers are generally between
 one and five years.
-(cid:129) Termination: Our IP suppliers and us may terminate the license agreements in advance
+ Termination: Our IP suppliers and us may terminate the license agreements in advance
 of the expiration of the term upon the occurrence of events such as failure of payment
 obligation by us, delay of delivery of requisite materials by our IP suppliers to us and
 by mutual written agreement.
@@ -12152,7 +12152,7 @@ Other businesses
 During the Track Record Period, our other businesses comprised text message services,
 promotion services, technical services, artist endorsement services, and games and games related
 business.
-(cid:129) Promotion services: Our promotion services are non-AR/VR marketing services. We
+ Promotion services: Our promotion services are non-AR/VR marketing services. We
 use the technologies we have accumulated and media platform resources to customize
 marketing strategies, analyze brand positioning, design advertisements and place the
 advertisements. We provide our customers with AR/VR marketing services to achieve
@@ -12166,7 +12166,7 @@ million and nil, respectively.
 
 === PAGE 317 ===
 BUSINESS
-(cid:129) Text message services: Our text message services are non-AR/VR marketing services.
+ Text message services: Our text message services are non-AR/VR marketing services.
 We provide text message services including customized text messages, scheduled
 transmission, diverse access and statistics gathering to corporate customers. Our text
 message services help corporate customers to conduct marketing promotion and manage
@@ -12174,19 +12174,19 @@ their members. We charge our customers based on the number of text messages sent
 2019, 2020 and 2021 and the three months ended March 31, 2022, our revenue from our
 text message services amounted to nil, RMB10.4 million, RMB25.8 million and
 RMB88,000, respectively.
-(cid:129) Technical services: We provide software development, video production, artistic design
+ Technical services: We provide software development, video production, artistic design
 and other types of technical services. We charge our customers mainly based on the
 complexity of the projects. For 2019, 2020 and 2021 and the three months ended March
 31, 2022, our revenue from technical services was RMB14.7 million, RMB5.2 million,
 RMB0.6 million and nil, respectively.
-(cid:129) Artist endorsement services: We engage in artist endorsement business and generate
+ Artist endorsement services: We engage in artist endorsement business and generate
 agency fee by providing artist endorsement services to advertising customers through
 third-party artist agencies. We negotiate the price we charge for artist endorsement
 services on a case-by-case basis taken into account our costs in obtaining the artist
 endorsement and promotion costs. For 2019, 2020 and 2021 and the three months ended
 March 31, 2022, our revenue from our artist endorsement services amounted to nil,
 RMB1.9 million, nil and nil, respectively.
-(cid:129) Games and games related business: We used to derive revenue from games
+ Games and games related business: We used to derive revenue from games
 development, games distribution and other games related business. We provided game
 products that we designed and developed to games publishers and operating platforms
 and shared with them the revenue generated from such game products based on a
@@ -13332,28 +13332,28 @@ relationship with our major subcontractors during the Track Record Period, see t
 headed “— Our Suppliers” in this section.
 We usually sign subcontracting agreements with our subcontractors. Material terms of the
 typical agreements generally include:
-(cid:129) Scope of services: We generally engage subcontractors to (i) create 2D and 3D art
+ Scope of services: We generally engage subcontractors to (i) create 2D and 3D art
 designs, including but not limited to icons, characters, objects and landscapes; and (ii)
 provide non-core technical support.
 – 337 –
 
 === PAGE 349 ===
 BUSINESS
-(cid:129) Right to inspection: We may inspect the work of our subcontractors produced under the
+ Right to inspection: We may inspect the work of our subcontractors produced under the
 agreement and request modifications to such work before acceptance of their work.
-(cid:129) Obligations of our subcontractors: Our subcontractors are obligated to ensure that all
+ Obligations of our subcontractors: Our subcontractors are obligated to ensure that all
 work created pursuant to the agreements do not violate any applicable laws and
 regulations.
-(cid:129) IPs: We own the IPs of the art designs that are created by our subcontractors pursuant to
+ IPs: We own the IPs of the art designs that are created by our subcontractors pursuant to
 the agreements.
-(cid:129) Payment: We generally pay our subcontractors based on the length of the project. We
+ Payment: We generally pay our subcontractors based on the length of the project. We
 usually pay our subcontractors in full after signing the agreement or after acceptance of
 their work for short-term projects. We may pay our subcontractors in two or three
 instalments based on the percentage of completion for long-term projects. We pay our
 subcontractors in RMB by bank transfer.
-(cid:129) Term: Depending on the scope of services, our subcontractors are given a certain
+ Term: Depending on the scope of services, our subcontractors are given a certain
 period, for example one month, to deliver their work.
-(cid:129) Termination: We are generally entitled to terminate the subcontracting agreement if our
+ Termination: We are generally entitled to terminate the subcontracting agreement if our
 subcontractors could not complete the projects within the prescribed time period for
 reasons caused by our subcontractors.
 Our Directors confirm that all of our subcontractors are Independent Third Parties during the
@@ -13381,12 +13381,12 @@ by Mr. Li, who has more than 15 years of experience in software engineering.
 We are committed to strengthen our research and development based on our annual research
 and development plan and our prediction of market demands. Our research and development plan
 as of the Latest Practicable Date involves:
-(cid:129) strengthening our AI algorithm capabilities and image rendering capabilities which
+ strengthening our AI algorithm capabilities and image rendering capabilities which
 could enable our customers to achieve higher levels of display effects for their products
 and content;
-(cid:129) strengthening standardization and process building in content creation, and optimize
+ strengthening standardization and process building in content creation, and optimize
 them through big data algorithms; and
-(cid:129) further enhancement of our AR/VR technology to adapt to next-generation AR glasses,
+ further enhancement of our AR/VR technology to adapt to next-generation AR glasses,
 VR glasses, holographic projection and 5G applications.
 We plan to continue to upgrade our research and development system to explore potential
 demands of customers, while further improving our quality of service to enhance our operation and
@@ -13452,7 +13452,7 @@ which offered comprehensive VR cloud store solutions to our customers. In the sa
 launched our rendering engine. Our rendering technology helps us present AR/VR interactive
 content with richer graphic effects, making it easier to catch users’ attention.
 Platform technology
-(cid:129) AR/VR SaaS platform technology: Our AR/VR SaaS platform provides a large number of
+ AR/VR SaaS platform technology: Our AR/VR SaaS platform provides a large number of
 AR/VR content modules, online editors and a range of data analytical tools, helping our
 customers to gain better designing experience on our AR/VR SaaS platform. Our platform
 technology enables our technology to be exported and empowers end users and developers to
@@ -13469,7 +13469,7 @@ platforms. In addition, our AR/VR SaaS platform is equipped with diversified ana
 and functional modules, including AR/VR interactive marketing, marketing promotion, media
 monetization, VR video conversion, text message service, WeChat official account assistant,
 among others, covering the business cycle of AR/VR marketing services.
-(cid:129) AR/VR aPaaS platform technology: We allow developers to quickly deploy the functions
+ AR/VR aPaaS platform technology: We allow developers to quickly deploy the functions
 needed on our aPaaS low-code development platform and to strategically use the relevant
 tools to form their AR/VR solutions.
 Our information technology infrastructure
@@ -13481,7 +13481,7 @@ complex and diverse designs according to the actual circumstances of users.
 === PAGE 353 ===
 BUSINESS
 The main features of our information technology infrastructure are set out below:
-(cid:129) Reliability and stability: We set up multiple redundancy to ensure the reliability of our
+ Reliability and stability: We set up multiple redundancy to ensure the reliability of our
 information technology infrastructure. Our internal network is equipped with multiple
 security measures to protect our database from unauthorized access, and adopts complex
 security measures for the internal and external communication and transmission of
@@ -13491,17 +13491,17 @@ indicators of our business operations and information technology infrastructure.
 system triggers an alarm when any indicator exceeds the safety limit, allowing us to
 respond quickly to emergencies. During the Track Record Period, we did not experience
 any major service interruptions.
-(cid:129) Security: We adopt a variety of data backup methods, including local backup and cloud
+ Security: We adopt a variety of data backup methods, including local backup and cloud
 backup, to ensure data security and prevent data loss. We encrypt and store customer
 data to guarantee the security of sensitive data.
-(cid:129) Scalability: We use microservice technology to build the cloud architecture of our
+ Scalability: We use microservice technology to build the cloud architecture of our
 platform, so that we can operate all parts of our business through scalable and
 standardized service modules with independent and automatic features, and quickly
 adapt to new business requirements by adding new service modules. We can also
 fine-tune each service module and integrate common functions into separate modules, in
 order to maintain a simple architecture, improve the efficiency and flexibility of our
 system, and reduce maintenance costs.
-(cid:129) High performance: We deploy resources to different server node vendors, operators and
+ High performance: We deploy resources to different server node vendors, operators and
 regions via multiple domain names while using technologies such as real-time network
 speed detection to detect the best communication path. This achieve high-speed data
 loading and improve user experience.
@@ -13670,12 +13670,12 @@ to our operation. We identify and assess environmental risks according to the re
 requirements and environmental consequences. We have adopted the following measures to
 identify, assess and manage risks that may arise from these aspects:
 Energy consumption
-(cid:129) Our energy consumption is mainly derived from electricity consumption from our
+ Our energy consumption is mainly derived from electricity consumption from our
 offices and IT servers maintained at the data centers of our external service providers.
 Electricity consumption is also the main source of indirect greenhouse gas emissions.
 Therefore, increasing energy efficiency and reducing our carbon footprint has been one
 of the key considerations of our operations.
-(cid:129) We reduce the energy consumption and carbon footprint through:
+ We reduce the energy consumption and carbon footprint through:
 — installing energy efficient lighting and ensuring that lights are switched off when
 not in use, either manually or through automatic sensors;
 — switching off certain IT equipment or automatically shutting down the power for
@@ -13702,16 +13702,16 @@ Notwithstanding that we expect to continue to expand our business and increase o
 we plan to take measures to maintain our electricity consumption at the level similar to that of
 2021.
 Resource utilizations
-(cid:129) In relation to resource utilization management of our offices, we adopt a document
+ In relation to resource utilization management of our offices, we adopt a document
 management system and a paper management system with the aim to reduce the amount
 of paper used for record keeping and to avoid unnecessary printing. We also ask our
 employees to be mindful of the environment when using office supplies and encourage
 them to reuse office supplies.
-(cid:129) We consider our water consumption to be insignificant as no water is required in our
+ We consider our water consumption to be insignificant as no water is required in our
 daily business operations apart from small-scaled domestic use by our employees. To
 avoid generating plastic waste from the use of plastic bottles, we have installed water
 dispensers that filter tap water for drinking purposes at our offices.
-(cid:129) In addition, we encourage our employees to commute by public transport. We also
+ In addition, we encourage our employees to commute by public transport. We also
 encourage teleconferences as opposed to physical meetings to reduce travel.
 Climate Change
 We acknowledge that climate-related issues pose a certain level of threat to us.
@@ -13743,21 +13743,21 @@ resource consumption.
 During the Track Record Period, our business, our results of operation and financial condition
 were not materially adversely impacted by any climate-related incident.
 Training and safety in workplace
-(cid:129) We put strong emphasis on work safety, and we are committed to meeting all health and
+ We put strong emphasis on work safety, and we are committed to meeting all health and
 safety statutory requirements. Our employees are required to attend safety training upon
 commencement of their respective employment.
-(cid:129) We have established a business continuity plan in the event of extended service outages
+ We have established a business continuity plan in the event of extended service outages
 caused by factors beyond our control (e.g., natural disasters, man-made events). All
 Company sites are expected to implement preventive measures to minimize the risks of
 employee injury and fatality, and operational disruptions. Operations are expected to
 recover only when the safety of employees is ensured. We also have an evacuation
 procedure. In the event of a fire at our workplace, a designated personnel will assist in
 the evacuation of our employees and take a roll call at a designated assembly point.
-(cid:129) We have adopted a total ban on smoking in all of our facilities. Smoking is strictly
+ We have adopted a total ban on smoking in all of our facilities. Smoking is strictly
 prohibited in all enclosed areas in the offices, including private offices,
 conference/meeting rooms, warehouses, common areas, pantries, washrooms and
 reception areas.
-(cid:129) We are committed to providing a safe and healthy working environment for our
+ We are committed to providing a safe and healthy working environment for our
 employees. During the Track Record Period, we did not have any material accidents in
 the course of our business operations, nor did we receive any material claims against us
 for personal or property damage, health, or safety related compensation.
@@ -13770,10 +13770,10 @@ through charitable endeavours and by extending the benefits of our ecosystem to 
 BUSINESS
 During the Track Record Period, our achievements and initiatives in the area of corporate
 social responsibility include the following:
-(cid:129) COVID-19 relief effort. We take the health and safety of our employees as a top priority.
+ COVID-19 relief effort. We take the health and safety of our employees as a top priority.
 We provide all of our employees with masks and other protective equipment
 immediately after the COVID-19 outbreak.
-(cid:129) Our people. We continuously invest in the training and career development of young
+ Our people. We continuously invest in the training and career development of young
 talents. We strive to provide our engineers and other employees with comprehensive
 social benefits, a diverse work environment and a wide range of career development
 opportunities. We provide support to the physical and mental health of our team
@@ -13788,12 +13788,12 @@ covering leadership, general competencies, professional competencies, and others
 comprehensive training program includes corporate culture, employee rights and
 responsibilities, team building, professional behaviour, job performance, management
 skills, leadership, and administrative decision-making.
-(cid:129) Data protection and privacy. We are committed to protecting personal information and
+ Data protection and privacy. We are committed to protecting personal information and
 privacy. We have established and implemented a strict company-wide policy on data
 aggregation and processing. See the paragraph headed “— Data protection and privacy”
 in this section for more details.
 Board diversity
-(cid:129) We have adopted a board diversity policy which sets out the objectives and approach to
+ We have adopted a board diversity policy which sets out the objectives and approach to
 achieving and maintaining diversity of the Board in order to enhance the effectiveness
 of our Board. Pursuant to the board diversity policy, we seek to achieve Board diversity
 through the consideration of a number of factors, including but not limited to gender,
@@ -13807,7 +13807,7 @@ to our Board.
 
 === PAGE 362 ===
 BUSINESS
-(cid:129) We are also committed to adopting a similar approach to promote diversity within
+ We are also committed to adopting a similar approach to promote diversity within
 management (including but not limited to the senior management) of our Company to
 enhance the effectiveness of corporate governance of our Company as a whole. For
 further details of our board diversity policy, see the paragraph headed “Directors and
@@ -14011,21 +14011,21 @@ business performance.
 To monitor the continuous implementation of risk management policies and corporate
 governance measures after the Listing, we have adopted or will continue to adopt, among other
 things, the following risk management measures:
-(cid:129) establish the Audit Committee to review and supervise our financial reporting process
+ establish the Audit Committee to review and supervise our financial reporting process
 and internal control system. Our Audit Committee consists of three members: Ms. Wang
 Beili, Mr. Jiang Yi and Mr. Tan Deqing. For the qualifications and experiences of these
 members, see the section headed “Directors and Senior Management” in this prospectus;
-(cid:129) adopt various policies to ensure the compliance with the Listing Rules, including but not
+ adopt various policies to ensure the compliance with the Listing Rules, including but not
 limited to policies in respect of risk management, connected transactions and
 information disclosure;
-(cid:129) provide regular anti-corruption and anti-bribery compliance training for senior
+ provide regular anti-corruption and anti-bribery compliance training for senior
 management and employees in order to enhance their knowledge of and compliance of
 applicable laws and regulations; and
 – 356 –
 
 === PAGE 368 ===
 BUSINESS
-(cid:129) arrange our Directors and senior management to attend training seminars on Listing
+ arrange our Directors and senior management to attend training seminars on Listing
 Rules requirements and the responsibilities as directors of a Hong Kong-listed company.
 We have established risk management and internal control systems, including policies and
 procedures that we believe are appropriate for our business operations. In particular, we have
@@ -17206,7 +17206,7 @@ the Restricted Activity (the “Competing Business Opportunity”) is identified
 available to him/it or any of his/its close associates, he/it shall, and shall procure that his/its close
 associates shall, refer such Competing Business Opportunity to our Company on a timely basis and
 in the following manner:
-(cid:129) refer the Competing Business Opportunity to our Company by giving written notice (the
+ refer the Competing Business Opportunity to our Company by giving written notice (the
 “Offer Notice”) to our Company of such Competing Business Opportunity within 30
 business days of identifying the target company (if relevant) and the nature of the
 – 445 –
@@ -17216,7 +17216,7 @@ RELATIONSHIP WITH CONTROLLING SHAREHOLDERS
 Competing Business Opportunity, the investment or acquisition costs and all other
 details reasonably necessary for our Company to consider whether to pursue such
 Competing Business Opportunity;
-(cid:129) upon receiving the Offer Notice, our Company shall seek approval from our Board or a
+ upon receiving the Offer Notice, our Company shall seek approval from our Board or a
 board committee (in each case comprising only independent non-executive Directors)
 which has no interest in the Competing Business Opportunity (the “Independent
 Board”) as to whether to pursue or decline the Competing Business Opportunity (any
@@ -17224,7 +17224,7 @@ Director who has an actual or potential interest in the Competing Business Oppor
 shall abstain from attending (unless their attendance is specifically requested by the
 Independent Board) and voting at, and shall not be counted in the quorum for, any
 meeting convened to consider such Competing Business Opportunity);
-(cid:129) the Independent Board shall take into account all relevant factors in considering whether
+ the Independent Board shall take into account all relevant factors in considering whether
 our Company shall pursue the Competing Business Opportunity. Such factors may
 include, among other things, the financial impact of pursuing the Competing Business
 Opportunity offered, whether the nature of the Competing Business Opportunity is
@@ -17232,16 +17232,16 @@ consistent with our Group’s strategies and development plans and the general m
 conditions of our business. If appropriate, the Independent Board may appoint
 independent financial advisors and legal advisors to assist in the decision-making
 process in relation to such Competing Business Opportunity;
-(cid:129) the Independent Board shall, within 30 business days of receipt of the Offer Notice
+ the Independent Board shall, within 30 business days of receipt of the Offer Notice
 referred above, inform our Controlling Shareholders in writing on behalf of our
 Company its decision whether to pursue or decline the Competing Business
 Opportunity;
-(cid:129) Mr. Wang, Mr. Li, Wang BVI, Li BVI and Brainstorming Cafe shall be entitled but not
+ Mr. Wang, Mr. Li, Wang BVI, Li BVI and Brainstorming Cafe shall be entitled but not
 obliged to pursue such Competing Business Opportunity if he/it has received a notice
 from the Independent Board declining such Competing Business Opportunity or if the
 Independent Board failed to respond within such 30 business days’ period mentioned
 above; and
-(cid:129) if there is any material change in the nature, terms or conditions of such Competing
+ if there is any material change in the nature, terms or conditions of such Competing
 Business Opportunity pursued by Mr. Wang, Mr. Li, Wang BVI, Li BVI and
 Brainstorming Cafe, he/it shall refer such revised Competing Business Opportunity to
 our Company as if it were a new Competing Business Opportunity.
@@ -17711,19 +17711,19 @@ Mr. Wang joined our Group as a general manager of Ophyer Technology on April 1, 
 Mr. Wang has been closely involved in the operation and management of our Group. Other
 than serving as an executive Director, Mr. Wang has been assuming or assumed the following
 positions of our Group:
-(cid:129) general manager, director, legal representative and chairman of the board of Ophyer
+ general manager, director, legal representative and chairman of the board of Ophyer
 Technology, since April 1, 2009, June 20, 2016, June 20, 2016 and June 20, 2016,
 respectively. Mr. Wang was also the supervisor of Ophyer Technology from September
 24, 2014 to June 19, 2016;
-(cid:129) legal representative, executive director and manager of Hupo Jinyuan since June 29,
+ legal representative, executive director and manager of Hupo Jinyuan since June 29,
 2016;
-(cid:129) legal representative, executive director and manager of Shixin Network from February 9,
+ legal representative, executive director and manager of Shixin Network from February 9,
 2017 to September 16, 2021 before its deregistration;
-(cid:129) executive director and manager of Zhongrunxing since November 6, 2018;
-(cid:129) director of Ophyer HK since August 10, 2021;
-(cid:129) legal representative, executive director and manager of Beijing Flowing Cloud since
+ executive director and manager of Zhongrunxing since November 6, 2018;
+ director of Ophyer HK since August 10, 2021;
+ legal representative, executive director and manager of Beijing Flowing Cloud since
 November 17, 2021; and
-(cid:129) legal representative, executive director and manager of Beijing Digital since August 18,
+ legal representative, executive director and manager of Beijing Digital since August 18,
 2022.
 Shixin Network was established in the PRC on February 9, 2017 and was principally engaged
 in development of online games and related sales business. Shixin Network was deregistered on
@@ -17824,20 +17824,20 @@ Mr. Li Yao joined our Group as deputy general manager and secretary to the board
 Technology on February 29, 2016.
 Mr. Li Yao has been closely involved in the operation and management of our Group. Other
 than serving as a Director, Mr. Li Yao has been assuming or assumed the following positions:
-(cid:129) deputy general manager, secretary to the board and director of Ophyer Technology since
+ deputy general manager, secretary to the board and director of Ophyer Technology since
 February 29, 2016, February 29, 2016 and June 20, 2016, respectively;
-(cid:129) executive director and manager of Kashi Fanxing from May 2018 to August 9, 2021
+ executive director and manager of Kashi Fanxing from May 2018 to August 9, 2021
 before its deregistration;
-(cid:129) executive director, legal representative and manager of Hefei Xingcheng from April
+ executive director, legal representative and manager of Hefei Xingcheng from April
 2020 to December 21, 2021 before its deregistration;
-(cid:129) supervisor of Beijing Xingshi since April 10, 2020;
+ supervisor of Beijing Xingshi since April 10, 2020;
 – 463 –
 
 === PAGE 475 ===
 DIRECTORS AND SENIOR MANAGEMENT
-(cid:129) executive director, legal representative and manager of Nanyang Ophyer from October
+ executive director, legal representative and manager of Nanyang Ophyer from October
 2020 to October 29, 2021 before its deregistration; and
-(cid:129) executive director, legal representative and general manager of Shenzhen Huachuang
+ executive director, legal representative and general manager of Shenzhen Huachuang
 since January 12, 2021.
 Kashi Fanxing was established in the PRC on May 9, 2018 and did not carry out any material
 business operation since its establishment, and was deregistered on August 9, 2021. Nanyang
@@ -18325,15 +18325,15 @@ COMPLIANCE ADVISOR
 We have appointed Shenwan Hongyuan Capital (H.K.) Limited as our compliance advisor
 pursuant to Rule 3A.19 of the Listing Rules. Pursuant to Rule 3A.23 of the Listing Rules, the
 compliance advisor will advise us on the following circumstances:
-(cid:129) before the publication of any announcements, circulars or financial reports required by
+ before the publication of any announcements, circulars or financial reports required by
 regulatory authorities or applicable laws;
-(cid:129) where a transaction, which might be a notifiable or connected transaction under
+ where a transaction, which might be a notifiable or connected transaction under
 Chapters 14 and 14A of the Listing Rules is contemplated, including share issues and
 share repurchases;
-(cid:129) where we propose to use the proceeds of the Global Offering in a manner different from
+ where we propose to use the proceeds of the Global Offering in a manner different from
 that detailed in this prospectus or where our business activities, developments or results
 deviate from any forecast, estimate or other information in this prospectus; and
-(cid:129) where the Stock Exchange makes an inquiry of us regarding unusual price movement
+ where the Stock Exchange makes an inquiry of us regarding unusual price movement
 and trading volume or other issues under Rule 13.10 of the Listing Rules.
 The terms of the appointment shall commence on the Listing Date and end on the date which
 we distribute our annual report of our financial results for first full the financial year commencing
@@ -19839,17 +19839,17 @@ STRUCTURE OF THE GLOBAL OFFERING
 THE GLOBAL OFFERING
 This prospectus is published in connection with the Hong Kong Public Offering as part of the
 Global Offering. The Global Offering comprises:
-(cid:129) the Hong Kong Public Offering of initially 27,150,000 Offer Shares (subject to
+ the Hong Kong Public Offering of initially 27,150,000 Offer Shares (subject to
 adjustments as mentioned below) in Hong Kong as described below in the paragraph
 below headed “The Hong Kong Public Offering”; and
-(cid:129) the International Offering of initially 244,350,000 Offer Shares (subject to adjustments
+ the International Offering of initially 244,350,000 Offer Shares (subject to adjustments
 and the Over-allotment Option as described below) outside the United States (including
 to professional, institutional and corporate investors and other investors anticipated to
 have a sizeable demand for the Offer Shares in Hong Kong) in offshore transactions in
 reliance on Regulation S.
 Investors may either:
-(cid:129) apply for the Hong Kong Offer Shares under the Hong Kong Public Offering; or
-(cid:129) apply for or indicate an interest for the International Offer Shares under the
+ apply for the Hong Kong Offer Shares under the Hong Kong Public Offering; or
+ apply for or indicate an interest for the International Offer Shares under the
 International Offering,
 but may not do both.
 The 271,500,000 Offer Shares in the Global Offering will represent 15% of our enlarged
@@ -19890,7 +19890,7 @@ successful in the ballot may not receive any Hong Kong Offer Shares.
 For allocation purposes only, the total number of Offer Shares available under the Hong Kong
 Public Offering (after taking into account any reallocation referred to below) is to be divided
 equally into two pools:
-(cid:129) Pool A: The Hong Kong Offer Shares in pool A will be allocated on an equitable basis
+ Pool A: The Hong Kong Offer Shares in pool A will be allocated on an equitable basis
 to applicants who have applied for the Hong Kong Offer Shares with an aggregate
 subscription price of HK$5 million or less (excluding brokerage, SFC transaction levy,
 Stock Exchange trading fee and Financial Reporting Council transaction levy payable);
@@ -19899,7 +19899,7 @@ and
 
 === PAGE 534 ===
 STRUCTURE OF THE GLOBAL OFFERING
-(cid:129) Pool B: The Hong Kong Offer Shares in pool B will be allocated on an equitable basis
+ Pool B: The Hong Kong Offer Shares in pool B will be allocated on an equitable basis
 to applicants who have applied for the Hong Kong Offer Shares with an aggregate
 subscription price of more than HK$5 million and up to the value of pool B (excluding
 brokerage, SFC transaction levy, Stock Exchange trading fee and Financial Reporting
@@ -20081,22 +20081,22 @@ to sell any Shares in order to liquidate any position established as a result of
 === PAGE 539 ===
 STRUCTURE OF THE GLOBAL OFFERING
 Specifically, prospective applicants for and investors in Shares should note that:
-(cid:129) the Stabilising Manager (or any person acting for it) may, in connection with the
+ the Stabilising Manager (or any person acting for it) may, in connection with the
 stabilising action, maintain a long position in the Shares;
-(cid:129) there is no certainty as to the extent to which and the time or period for which the
+ there is no certainty as to the extent to which and the time or period for which the
 Stabilising Manager (or any person acting for it) will maintain such a long position;
-(cid:129) liquidation of any such long position by the Stabilising Manager (or any person acting
+ liquidation of any such long position by the Stabilising Manager (or any person acting
 for it) and selling in the open market may have an adverse impact on the market price of
 the Shares;
-(cid:129) no stabilising action can be taken to support the price of the Shares for longer than the
+ no stabilising action can be taken to support the price of the Shares for longer than the
 stabilising period which will begin on the Listing Date and is expected to expire on
 Sunday, November 6, 2022, being the 30th day after the last day for lodging
 applications under the Hong Kong Public Offering. After this date, when no further
 action may be taken to support the price of the Shares, demand for the Shares, and
 therefore the price of the Shares, could fall;
-(cid:129) the price of the Shares cannot be assured to stay at or above the Offer Price by the
+ the price of the Shares cannot be assured to stay at or above the Offer Price by the
 taking of any stabilising action; and
-(cid:129) stabilising bids or transactions effected in the course of the stabilising action may be
+ stabilising bids or transactions effected in the course of the stabilising action may be
 made at any price at or below the Offer Price, which means that stabilising bids or
 transactions effected may be made at a price below the price paid by applicants for, or
 investors in, the Offer Shares.
@@ -20122,19 +20122,19 @@ Shares, representing 15% of the total number of the Offer Shares initially avail
 Offering. The stock borrowing arrangement under such an agreement, if entered into, will not be
 subject to the restrictions of Rule 10.07(1)(a) of the Listing Rules, provided that the requirements
 set forth in Rule 10.07(3) of the Listing Rules are complied with as follows:
-(cid:129) such stock borrowing arrangement is fully described in this prospectus and must be for
+ such stock borrowing arrangement is fully described in this prospectus and must be for
 the sole purpose of covering any short position prior to the exercise of the
 Over-allotment Option;
-(cid:129) the maximum number of Shares to be borrowed from Brainstorming Cafe by the
+ the maximum number of Shares to be borrowed from Brainstorming Cafe by the
 Stabilising Manager (or any person acting for it) is the maximum number of Shares that
 may be issued upon full exercise of the Over-allotment Option;
-(cid:129) the same number of Shares so borrowed must be returned to Brainstorming Cafe or its
+ the same number of Shares so borrowed must be returned to Brainstorming Cafe or its
 nominee(s) within three business days following the earlier of (a) the last day on which
 the Over-allotment Option may be exercised, and (b) the day on which the
 Over-allotment Option is exercised in full;
-(cid:129) the stock borrowing arrangement will be effected in compliance with all applicable
+ the stock borrowing arrangement will be effected in compliance with all applicable
 listing rules, laws and other regulatory requirements; and
-(cid:129) no payment will be made to Brainstorming Cafe by the Stabilising Manager (or any
+ no payment will be made to Brainstorming Cafe by the Stabilising Manager (or any
 person acting for it) in relation to such stock borrowing arrangement.
 PRICING AND ALLOCATION
 Our Company and the Relevant Global Coordinators will determine the Offer Price and sign
@@ -20213,17 +20213,17 @@ variety of channels in the manner described in the paragraph headed “How to Ap
 Kong Offer Shares — 11. Publication of Results” in this prospectus.
 CONDITIONS OF THE GLOBAL OFFERING
 Acceptance of all applications for Offer Shares is conditional on:
-(cid:129) the Listing Committee granting approval for the listing of, and permission to deal in,
+ the Listing Committee granting approval for the listing of, and permission to deal in,
 our Shares in issue and to be issued as described in this prospectus (including the Shares
 which may be issued pursuant to the exercise of the Over-allotment Option);
-(cid:129) the Offer Price having been agreed between us and the Relevant Global Coordinators;
-(cid:129) the execution and delivery of the International Underwriting Agreement on or about the
+ the Offer Price having been agreed between us and the Relevant Global Coordinators;
+ the execution and delivery of the International Underwriting Agreement on or about the
 Price Determination Date; and
 – 531 –
 
 === PAGE 543 ===
 STRUCTURE OF THE GLOBAL OFFERING
-(cid:129) the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
+ the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
 Agreement and the obligations of the International Underwriters under the International
 Underwriting Agreement becoming unconditional and not having been terminated in
 accordance with the terms of the respective agreements,
@@ -20321,8 +20321,8 @@ reason at their discretion.
 2. WHO CAN APPLY
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you are
 applying:
-(cid:129) are 18 years of age or older; and
-(cid:129) are outside the United States, and are not a United States Person (as defined in
+ are 18 years of age or older; and
+ are outside the United States, and are not a United States Person (as defined in
 Regulation S under the U.S. Securities Act).
 If you apply online through the HK eIPO White Form service, in addition to the above, you
 must also: (i) have a valid Hong Kong identity card number/passport number (for individual
@@ -20354,10 +20354,10 @@ If you are a firm, the application must be in the individual members’ names.
 The number of joint applicants may not exceed four.
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Offer Shares if
 you:
-(cid:129) are an existing beneficial owner of Shares in our Company and/or any its subsidiaries;
-(cid:129) are a Director or chief executive officer of our Company and/or any of its subsidiaries;
-(cid:129) are a close associate (as defined in the Listing Rules) of any of the above; or
-(cid:129) have been allocated or have applied for or indicated an interest in any Offer Shares or
+ are an existing beneficial owner of Shares in our Company and/or any its subsidiaries;
+ are a Director or chief executive officer of our Company and/or any of its subsidiaries;
+ are a close associate (as defined in the Listing Rules) of any of the above; or
+ have been allocated or have applied for or indicated an interest in any Offer Shares or
 otherwise participate in the International Offering.
 – 536 –
 
@@ -20552,26 +20552,26 @@ broker or custodian or directly) and an application is made by HKSCC Nominees on
 (i) HKSCC Nominees will only be acting as a nominee for you and is not liable for any
 breach of the terms of this prospectus;
 (ii) HKSCC Nominees will do the following things on your behalf:
-(cid:129) agree that the Hong Kong Offer Shares to be allotted shall be issued in the name of
+ agree that the Hong Kong Offer Shares to be allotted shall be issued in the name of
 HKSCC Nominees and deposited directly into CCASS for the credit of the CCASS
 Participant’s stock account on your behalf or your CCASS Investor Participant’s
 stock account;
-(cid:129) agree to accept the Hong Kong Offer Shares applied for or any lesser number
+ agree to accept the Hong Kong Offer Shares applied for or any lesser number
 allocated;
-(cid:129) undertake and confirm that you have not applied for or taken up, will not apply for
+ undertake and confirm that you have not applied for or taken up, will not apply for
 or take up, or indicate an interest for, any Offer Shares under the International
 Offering;
-(cid:129) (if the electronic application instructions are given for your benefit) declare that
+ (if the electronic application instructions are given for your benefit) declare that
 only one set of electronic application instructions has been given for your
 benefit;
-(cid:129) (if you are an agent for another person) declare that you have only given one set of
+ (if you are an agent for another person) declare that you have only given one set of
 electronic application instructions for the other person’s benefit and are duly
 authorised to give those instructions as their agent;
-(cid:129) confirm that you understand that our Company, our Directors and the Joint Global
+ confirm that you understand that our Company, our Directors and the Joint Global
 Coordinators will rely on your declarations and representations in deciding whether
 or not to make any allotment of any of the Hong Kong Offer Shares to you and
 that you may be prosecuted if you make a false declaration;
-(cid:129) authorise our Company to place HKSCC Nominees’ name on our Company’s
+ authorise our Company to place HKSCC Nominees’ name on our Company’s
 register of members as the holder of the Hong Kong Offer Shares allocated to you
 and to send Share certificate(s) and/or refund monies under the arrangements
 separately agreed between us and HKSCC;
@@ -20579,23 +20579,23 @@ separately agreed between us and HKSCC;
 
 === PAGE 555 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) confirm that you have read the terms and conditions and application procedures set
+ confirm that you have read the terms and conditions and application procedures set
 out in this prospectus and agree to be bound by them;
-(cid:129) confirm that you have received and/or read a copy of this prospectus and have
+ confirm that you have received and/or read a copy of this prospectus and have
 relied only on the information and representations in this prospectus in causing the
 application to be made, save as set out in any supplement to this prospectus;
-(cid:129) agree that none of our Company, the Sole Sponsor, the Joint Global Coordinators,
+ agree that none of our Company, the Sole Sponsor, the Joint Global Coordinators,
 the Underwriters, their respective directors, officers, employees, partners, agents,
 advisors and any other parties involved in the Global Offering, is or will be liable
 for any information and representations not contained in this prospectus (and any
 supplement to it);
-(cid:129) agree to disclose your personal data to our Company, our Hong Kong Share
+ agree to disclose your personal data to our Company, our Hong Kong Share
 Registrar, receiving bank, the Joint Global Coordinators, the Underwriters and/or
 their respective advisors and agents;
-(cid:129) agree (without prejudice to any other rights which you may have) that once
+ agree (without prejudice to any other rights which you may have) that once
 HKSCC Nominees’ application has been accepted, it cannot be rescinded for
 innocent misrepresentation;
-(cid:129) agree that any application made by HKSCC Nominees on your behalf is
+ agree that any application made by HKSCC Nominees on your behalf is
 irrevocable on or before the fifth day after the time of the opening of the
 application lists (excluding any day which is a Saturday, Sunday or public holiday
 in Hong Kong), such agreement to take effect as a collateral contract with us and
@@ -20616,32 +20616,32 @@ person’s responsibility for this prospectus;
 
 === PAGE 556 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) agree that once HKSCC Nominees’ application is accepted, neither that application
+ agree that once HKSCC Nominees’ application is accepted, neither that application
 nor your electronic application instructions can be revoked, and that acceptance
 of that application will be evidenced by our Company’s announcement of the
 results of the Hong Kong Public Offering;
-(cid:129) agree to the arrangements, undertakings and warranties under the participant
+ agree to the arrangements, undertakings and warranties under the participant
 agreement between you and HKSCC, read with the General Rules of CCASS and
 the CCASS Operational Procedures, for the giving electronic application
 instructions to apply for Hong Kong Offer Shares;
-(cid:129) agree with our Company, for itself and for the benefit of each Shareholder (and so
+ agree with our Company, for itself and for the benefit of each Shareholder (and so
 that our Company will be deemed by its acceptance in whole or in part of the
 application by HKSCC Nominees to have agreed, for itself and on behalf of each
 of the Shareholders, with each CCASS Participant giving electronic application
 instructions) to observe and comply with the Cayman Companies Act, the
 Companies (Winding Up and Miscellaneous Provisions) Ordinance and the Articles
 of Association; and
-(cid:129) agree that your application, any acceptance of it and the resulting contract will be
+ agree that your application, any acceptance of it and the resulting contract will be
 governed by the Laws of Hong Kong.
 Effect of Applying through the CCASS EIPO Service
 By applying through the CCASS EIPO service, you (and, if you are joint applicants, each of
 you jointly and severally) are deemed to have done the following things. Neither HKSCC nor
 HKSCC Nominees shall be liable to our Company or any other person in respect of the things
 mentioned below:
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees (acting as nominee for
+ instructed and authorized HKSCC to cause HKSCC Nominees (acting as nominee for
 the relevant CCASS Participants) to apply for the Hong Kong Offer Shares on your
 behalf;
-(cid:129) instructed and authorized HKSCC to arrange payment of the maximum Offer Price,
+ instructed and authorized HKSCC to arrange payment of the maximum Offer Price,
 brokerage, SFC transaction levy, the Stock Exchange trading fee and the Financial
 Reporting Council transaction levy by debiting your designated bank account and, in the
 case of a wholly or partially unsuccessful application and/or if the Offer Price is less
@@ -20653,7 +20653,7 @@ designated bank account; and
 
 === PAGE 557 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees to do on your behalf all
+ instructed and authorized HKSCC to cause HKSCC Nominees to do on your behalf all
 the things stated in this prospectus.
 Time for Inputting Electronic Application Instructions(1)
 CCASS Clearing/Custodian Participants can input electronic application instructions at the
@@ -20704,25 +20704,25 @@ Hong Kong Share Registrar immediately of any inaccuracies in the personal data s
 Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for the
 following purposes:
-(cid:129) processing your application and refund check or e-Auto Refund payment instruction,
+ processing your application and refund check or e-Auto Refund payment instruction,
 where applicable, verification of compliance with the terms and application procedures
 set out in this prospectus and announcing results of allocation of the Hong Kong Offer
 Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the Shares
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the Shares
 including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating our Company’s Register of Members;
+ maintaining or updating our Company’s Register of Members;
 – 547 –
 
 === PAGE 559 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) verifying identities of the holders of the Shares;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
+ verifying identities of the holders of the Shares;
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from our Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable our
+ distributing communications from our Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to enable our
 Company and the Hong Kong Share Registrar to discharge their obligations to holders
 of the Shares and/or regulators and/or any other purposes to which the holders of the
 Shares may from time to time agree.
@@ -20732,21 +20732,21 @@ holders of the Hong Kong Offer Shares will be kept confidential but our Company 
 Kong Share Registrar may, to the extent necessary for achieving any of the above purposes,
 disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to, from or
 with any of the following:
-(cid:129) our Company’s appointed agents such as financial advisors, receiving bankers and
+ our Company’s appointed agents such as financial advisors, receiving bankers and
 overseas principal share registrar;
-(cid:129) where applicants for the Hong Kong Offer Shares request a deposit into CCASS,
+ where applicants for the Hong Kong Offer Shares request a deposit into CCASS,
 HKSCC or HKSCC Nominees, who will use the personal data for the purposes of
 operating CCASS;
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to our Company or the Hong
 Kong Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies
 or otherwise as required by laws, rules or regulations; and
 – 548 –
 
 === PAGE 560 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) any persons or institutions with which the holders of the Hong Kong Offer Shares have
+ any persons or institutions with which the holders of the Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or
 stockbrokers etc.
 Retention of Personal Data
@@ -20832,15 +20832,15 @@ Since applications are subject to personal information collection statements, be
 identification codes displayed are redacted. Applicants with beneficial names only but not
 identification document numbers are not disclosed due to personal privacy issue.
 If an application is made by an unlisted company and:
-(cid:129) the principal business of that company is dealing in securities; and
-(cid:129) you exercise statutory control over that company,
+ the principal business of that company is dealing in securities; and
+ you exercise statutory control over that company,
 then the application will be treated as being for your benefit.
 “Unlisted company” means a company with no equity securities listed on the Stock
 Exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of our Company;
-(cid:129) control more than half of the voting power of our Company; or
-(cid:129) hold more than half of the issued share capital of our Company (not counting any part
+ control the composition of the board of directors of our Company;
+ control more than half of the voting power of our Company; or
+ hold more than half of the issued share capital of our Company (not counting any part
 of it which carries no right to participate beyond a specified amount in a distribution of
 either profits or capital).
 9. HOW MUCH ARE THE HONG KONG OFFER SHARES
@@ -20871,9 +20871,9 @@ Offering — Pricing and Allocation” in this prospectus.
 10. EFFECT OF BAD WEATHER AND/OR EXTREME CONDITIONS ON THE OPENING
 OF THE APPLICATION LISTS
 The application lists will not open if there is:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a “black” rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above;
+ a “black” rainstorm warning; and/or
+ Extreme Conditions,
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Friday, October 7, 2022.
 Instead they will open between 11:45 a.m. and 12:00 noon on the next Business Day which does
 not have either of those warnings and/or Extreme Conditions in Hong Kong in force at any time
@@ -20895,14 +20895,14 @@ www.hkexnews.hk.
 The results of allocations and the Hong Kong identity card/passport/Hong Kong business
 registration/certificate of incorporation numbers of successful applicants under the Hong Kong
 Public Offering will be available at the times and date and in the manner specified below:
-(cid:129) in the announcement to be posted on our Company’s website at www.flowingcloud.com
+ in the announcement to be posted on our Company’s website at www.flowingcloud.com
 and the Stock Exchange’s website at www.hkexnews.hk by no later than 8:00 a.m. on
 Monday, October 17, 2022;
-(cid:129) from the “IPO Results” function in the IPO App or designated results of
+ from the “IPO Results” function in the IPO App or designated results of
 allocations website at www.tricor.com.hk/ipo/result or www.hkeipo.hk/IPOResult
 with a “search by ID” function on a 24-hour basis from 8:00 a.m. on Monday, October
 17, 2022 to 12:00 midnight on Sunday, October 23, 2022; and
-(cid:129) from the allocation results telephone enquiry line by calling +852 3691 8488 between
+ from the allocation results telephone enquiry line by calling +852 3691 8488 between
 9:00 a.m. and 6:00 p.m. from Monday, October 17, 2022 to Thursday, October 20, 2022;
 If our Company accepts your offer to purchase (in whole or in part), which it may do by
 announcing the basis of allocations and/or making available the results of allocations publicly,
@@ -20954,20 +20954,20 @@ application, or to accept only part of any application, without giving any reaso
 === PAGE 566 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 (iii) If:
-(cid:129) you make multiple applications or suspected multiple applications;
-(cid:129) you or the person for whose benefit you are applying have applied for or taken up,
+ you make multiple applications or suspected multiple applications;
+ you or the person for whose benefit you are applying have applied for or taken up,
 or indicated an interest for, or have been or will be placed or allocated (including
 conditionally and/or provisionally) Hong Kong Offer Shares and International
 Offer Shares;
-(cid:129) your electronic application instructions through the HK eIPO White Form
+ your electronic application instructions through the HK eIPO White Form
 service are not completed in accordance with the instructions, terms and conditions
 in the IPO App or on the designated website;
-(cid:129) your payment is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) our Company or the Relevant Global Coordinators believe that by accepting your
+ your payment is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ our Company or the Relevant Global Coordinators believe that by accepting your
 application, it or they would violate applicable securities or other laws, rules or
 regulations; or
-(cid:129) your application is for more than 50% of the Hong Kong Offer Shares initially
+ your application is for more than 50% of the Hong Kong Offer Shares initially
 offered under the Hong Kong Public Offering.
 13. REFUND OF APPLICATION MONIES
 If an application is rejected, not accepted or accepted in part only, or if the Offer Price as
@@ -21036,12 +21036,12 @@ treated as an applicant. Instead, each CCASS Participant who gives electronic ap
 instructions or each person for whose benefit instructions are given will be treated as an
 applicant.
 Deposit of Share Certificates into CCASS and Refund of Application Monies
-(cid:129) If your application is wholly or partially successful, your Share certificate(s) will be issued in
+ If your application is wholly or partially successful, your Share certificate(s) will be issued in
 the name of HKSCC Nominees and deposited into CCASS for the credit of your designated
 CCASS Participant’s stock account or your CCASS Investor Participant stock account on
 Monday, October 17, 2022, or, on any other date determined by HKSCC or HKSCC
 Nominees.
-(cid:129) Our Company expects to publish the application results of CCASS Participants (and where
+ Our Company expects to publish the application results of CCASS Participants (and where
 the CCASS Participant is a broker or custodian, our Company will include information
 relating to the relevant beneficial owner), your Hong Kong identity card number/passport
 number or other identification code (Hong Kong business registration number for
@@ -21054,10 +21054,10 @@ determined by HKSCC or HKSCC Nominees.
 
 === PAGE 569 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) If you have instructed your broker or custodian to give electronic application instructions
+ If you have instructed your broker or custodian to give electronic application instructions
 on your behalf, you can also check the number of Hong Kong Offer Shares allotted to you
 and the amount of refund monies (if any) payable to you with that broker or custodian.
-(cid:129) If you have applied as a CCASS Investor Participant, you can also check the number of Hong
+ If you have applied as a CCASS Investor Participant, you can also check the number of Hong
 Kong Offer Shares allotted to you and the amount of refund monies (if any) payable to you
 via the CCASS Phone System and the CCASS Internet System (under the procedures
 contained in HKSCC’s “An Operating Guide for Investor Participants” in effect from time to
@@ -21066,7 +21066,7 @@ Offer Shares to your stock account and the credit of refund monies to your bank 
 HKSCC will also make available to you an activity statement showing the number of Hong
 Kong Offer Shares credited to your CCASS Investor Participant stock account and the
 amount of refund monies (if any) credited to your designated bank account.
-(cid:129) Refund of your application monies (if any) in respect of wholly and partially unsuccessful
+ Refund of your application monies (if any) in respect of wholly and partially unsuccessful
 applications and/or difference between the Offer Price and the maximum Offer Price per
 Offer Share initially paid on application (including brokerage, SFC transaction levy, the
 Stock Exchange trading fee and the Financial Reporting Council transaction levy but without
@@ -21482,13 +21482,13 @@ PRC. WFOE entered into contractual arrangements with Ophyer Technology and the O
 Shareholders on December 16, 2021, and WFOE entered into contractual arrangements with the
 Consolidated Affiliated Entities on May 6, 2022 (the “Contractual Arrangements”). Pursuant to
 the Contractual Arrangements, WFOE is able to:
-(cid:129) exercise effective financial and operational control over the Consolidated Affiliated
+ exercise effective financial and operational control over the Consolidated Affiliated
 Entities;
-(cid:129) exercise equity holders’ voting rights of the Consolidated Affiliated Entities;
-(cid:129) receive substantially all of the economic returns generated by the Consolidated
+ exercise equity holders’ voting rights of the Consolidated Affiliated Entities;
+ receive substantially all of the economic returns generated by the Consolidated
 Affiliated Entities in consideration for the business support, technical and consulting
 services provided by WFOE;
-(cid:129) obtain an irrevocable and exclusive right to purchase all or part of equity interests in the
+ obtain an irrevocable and exclusive right to purchase all or part of equity interests in the
 Consolidated Affiliated Entities from the respective equity holders at a minimum
 purchase price permitted under PRC laws and regulations. WFOE may exercise such
 options at any time until they have acquired all equity interests and/or all assets of the
@@ -21499,7 +21499,7 @@ their equity holders without prior consent of WFOE; and
 
 === PAGE 582 ===
 APPENDIX I ACCOUNTANTS’ REPORT
-(cid:129) obtain a pledge over the entire equity interest of the Consolidated Affiliated Entities
+ obtain a pledge over the entire equity interest of the Consolidated Affiliated Entities
 from their equity holders as collateral security for payments of the Consolidated
 Affiliated Entities due to WFOE and to secure performance of the Consolidated
 Affiliated Entities’ obligations under the Contractual Arrangements.
@@ -21584,23 +21584,23 @@ In addition, for financial reporting purposes, fair value measurements are categ
 Level 1, 2 or 3 based on the degree to which the inputs to the fair value measurements are
 observable and the significance of the inputs to the fair value measurement in its entirety, which
 are described as follows:
-(cid:129) Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or
+ Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or
 liabilities that the Group can access at the measurement date;
-(cid:129) Level 2 inputs are inputs, other than quoted prices included within Level 1, that are
+ Level 2 inputs are inputs, other than quoted prices included within Level 1, that are
 observable for the asset or liability, either directly or indirectly; and
-(cid:129) Level 3 inputs are unobservable inputs for the asset or liability.
+ Level 3 inputs are unobservable inputs for the asset or liability.
 The principal accounting policies adopted are set out below.
 Basis of consolidation
 The Historical Financial Information incorporates the financial statements of the Company
 and entities (including structured entities) controlled by the Company and its subsidiaries. Control
 is achieved when the Company:
-(cid:129) has power over the investee;
+ has power over the investee;
 – I-15 –
 
 === PAGE 585 ===
 APPENDIX I ACCOUNTANTS’ REPORT
-(cid:129) is exposed, or has rights, to variable returns from its involvement with the investee; and
-(cid:129) has the ability to use its power to affect its returns.
+ is exposed, or has rights, to variable returns from its involvement with the investee; and
+ has the ability to use its power to affect its returns.
 The Group reassesses whether or not it controls an investee if facts and circumstances
 indicate that there are changes to one or more of the three elements of control listed above.
 Consolidation of a subsidiary begins when the Group obtains control over the subsidiary and
@@ -21635,11 +21635,11 @@ is distinct or a series of distinct goods or services that are substantially the
 Control is transferred over time and revenue is recognized over time by reference to the
 progress towards complete satisfaction of the relevant performance obligation if one of the
 following criteria is met:
-(cid:129) the customer simultaneously receives and consumes the benefits provided by the
+ the customer simultaneously receives and consumes the benefits provided by the
 Group’s performance as the Group performs;
-(cid:129) the Group’s performance creates or enhances an asset that the customer controls as the
+ the Group’s performance creates or enhances an asset that the customer controls as the
 Group performs; or
-(cid:129) the Group’s performance does not create an asset with an alternative use to the Group
+ the Group’s performance does not create an asset with an alternative use to the Group
 and the Group has an enforceable right to payment for performance completed to date.
 Otherwise, revenue is recognized at a point in time when the customer obtains control of the
 distinct goods or services.
@@ -21727,11 +21727,11 @@ The Group incurs costs to fulfil its customized product development contracts. T
 first assesses whether these costs qualify for recognition as an asset in terms of other relevant
 standards, failing which it recognizes an asset for these costs only if they meet all of the following
 criteria:
-(cid:129) the costs relate directly to a contract or to an anticipated contract that the Group can
+ the costs relate directly to a contract or to an anticipated contract that the Group can
 specifically identify;
-(cid:129) the costs generate or enhance resources of the Group that will be used in satisfying (or
+ the costs generate or enhance resources of the Group that will be used in satisfying (or
 in continuing to satisfy) performance obligations in the future; and
-(cid:129) the costs are expected to be recovered.
+ the costs are expected to be recovered.
 The asset so recognized is subsequently amortized to profit or loss on a systematic basis that
 is consistent with the transfer to the customer of the goods or services to which the assets relate.
 The asset is subject to impairment review.
@@ -21759,9 +21759,9 @@ option. Lease payments on short-term leases are recognized as expense on a strai
 another systematic basis over the lease term.
 Right-of-use assets
 The cost of right-of-use asset includes:
-(cid:129) the amount of the initial measurement of the lease liability;
-(cid:129) any lease payment made at or before the commencement date; and
-(cid:129) any initial direct costs incurred by the Group.
+ the amount of the initial measurement of the lease liability;
+ any lease payment made at or before the commencement date; and
+ any initial direct costs incurred by the Group.
 Right-of-use assets are measured at cost, less any accumulated depreciation and impairment
 losses, and adjusted for any remeasurement of lease liabilities.
 Right-of-use assets are depreciated on a straight-line basis over the shorter of its estimated
@@ -21788,10 +21788,10 @@ After the commencement date, lease liabilities are adjusted by interest accretio
 payments.
 The Group remeasures lease liabilities (and makes a corresponding adjustment to the related
 right-of-use assets) whenever:
-(cid:129) the lease term has changed or there is a change in the assessment of exercise of a
+ the lease term has changed or there is a change in the assessment of exercise of a
 purchase option, in which case the related lease liability is remeasured by discounting
 the revised lease payments using a revised discount rate at the date of reassessment.
-(cid:129) the lease payments change due to changes in market rental rates following a market rent
+ the lease payments change due to changes in market rental rates following a market rent
 review/expected payment under a guaranteed residual value, in which cases the related
 lease liability is remeasured by discounting the revised lease payments using the initial
 discount rate.
@@ -22030,15 +22030,15 @@ Financial assets
 Classification and subsequent measurement of financial assets
 Financial assets that meet the following conditions are subsequently measured at amortized
 cost:
-(cid:129) the financial asset is held within a business model whose objective is to collect
+ the financial asset is held within a business model whose objective is to collect
 contractual cash flows; and
-(cid:129) the contractual terms give rise on specified dates to cash flows that are solely payments
+ the contractual terms give rise on specified dates to cash flows that are solely payments
 of principal and interest on the principal amount outstanding.
 Financial assets that meet the following conditions are subsequently measured at fair value
 through other comprehensive income (“FVTOCI”):
-(cid:129) the financial asset is held within a business model whose objective is achieved by both
+ the financial asset is held within a business model whose objective is achieved by both
 selling and collecting contractual cash flows; and
-(cid:129) the contractual terms give rise on specified dates to cash flows that are solely payments
+ the contractual terms give rise on specified dates to cash flows that are solely payments
 of principal and interest on the principal amount outstanding.
 All other financial assets are subsequently measured at FVTPL, except that at initial
 recognition of a financial asset the Group may irrevocably elect to present subsequent changes in
@@ -22050,10 +22050,10 @@ combination to which IFRS 3 Business Combinations applies.
 === PAGE 599 ===
 APPENDIX I ACCOUNTANTS’ REPORT
 A financial asset is held for trading if:
-(cid:129) it has been acquired principally for the purpose of selling in the near term; or
-(cid:129) on initial recognition it is a part of a portfolio of identified financial instruments that the
+ it has been acquired principally for the purpose of selling in the near term; or
+ on initial recognition it is a part of a portfolio of identified financial instruments that the
 Group manages together and has a recent actual pattern of short-term profit-taking; or
-(cid:129) it is a derivative that is not designated and effective as a hedging instrument.
+ it is a derivative that is not designated and effective as a hedging instrument.
 In addition, the Group may irrevocably designate a financial asset that are required to be
 measured at the amortized cost or FVTOCI as measured at FVTPL if doing so eliminates or
 significantly reduces an accounting mismatch.
@@ -22108,19 +22108,19 @@ is reasonable and supportable, including historical experience and forward-looki
 is available without undue cost or effort.
 In particular, the following information is taken into account when assessing whether credit
 risk has increased significantly:
-(cid:129) an actual or expected significant deterioration in the financial instrument’s external (if
+ an actual or expected significant deterioration in the financial instrument’s external (if
 available) or internal credit rating;
 – I-31 –
 
 === PAGE 601 ===
 APPENDIX I ACCOUNTANTS’ REPORT
-(cid:129) significant deterioration in external market indicators of credit risk, e.g. a significant
+ significant deterioration in external market indicators of credit risk, e.g. a significant
 increase in the credit spread, the credit default swap prices for the debtor;
-(cid:129) existing or forecast adverse changes in business, financial or economic conditions that
+ existing or forecast adverse changes in business, financial or economic conditions that
 are expected to cause a significant decrease in the debtor’s ability to meet its debt
 obligations;
-(cid:129) an actual or expected significant deterioration in the operating results of the debtor;
-(cid:129) an actual or expected significant adverse change in the regulatory, economic, or
+ an actual or expected significant deterioration in the operating results of the debtor;
+ an actual or expected significant adverse change in the regulatory, economic, or
 technological environment of the debtor that results in a significant decrease in the
 debtor’s ability to meet its debt obligations.
 Irrespective of the outcome of the above assessment, the Group presumes that the credit risk
@@ -22183,9 +22183,9 @@ consideration past due information and relevant credit information such as forwa
 macroeconomic information.
 For collective assessment, the Group takes into consideration the following characteristics
 when formulating the grouping:
-(cid:129) Past-due status;
-(cid:129) Nature, size and industry of debtors; and
-(cid:129) External credit ratings where available.
+ Past-due status;
+ Nature, size and industry of debtors; and
+ External credit ratings where available.
 The grouping is regularly reviewed by management to ensure the constituents of each group
 continue to share similar credit risk characteristics.
 Interest income is calculated based on the gross carrying amount of the financial asset unless
@@ -22223,13 +22223,13 @@ trading or (iii) it is designated as at FVTPL.
 A financial liability other than a financial liability held for trading or contingent
 consideration of an acquirer in a business combination may be designated as at FVTPL upon initial
 recognition if:
-(cid:129) such designation eliminates or significantly reduces a measurement or recognition
+ such designation eliminates or significantly reduces a measurement or recognition
 inconsistency that would otherwise arise; or
-(cid:129) the financial liability forms part of a group of financial assets or financial liabilities or
+ the financial liability forms part of a group of financial assets or financial liabilities or
 both, which is managed and its performance is evaluated on a fair value basis, in
 accordance with the Group’s documented risk management or investment strategy, and
 information about the grouping is provided internally on that basis; or
-(cid:129) it forms part of a contract containing one or more embedded derivatives, and IFRS 9
+ it forms part of a contract containing one or more embedded derivatives, and IFRS 9
 permits the entire combined contract to be designated as at FVTPL.
 – I-35 –
 
@@ -23147,11 +23147,11 @@ In the event of any liquidation, including the transfer of material assets and t
 with change of control of Ophyer Technology, all assets and funds of Ophyer Technology legally
 available for distribution to the shareholders shall be distributed to the shareholders of Ophyer
 Technology as follows:
-(cid:129) Certain Round A investor shares with preferred rights at the higher of 100% of the issue
+ Certain Round A investor shares with preferred rights at the higher of 100% of the issue
 price plus 10% simple annual interest of the issue price commencing from the issue date
 and 1.5 times of the issue price, and shares the residual distribution with the other
 shareholders, if any, but up to the ceiling of 3 times of the issue price;
-(cid:129) Other shareholders of Ophyer Technology except certain Round A investor with
+ Other shareholders of Ophyer Technology except certain Round A investor with
 preferred rights.
 (c) Preemptive rights
 When Ophyer Technology increases capital or issues new shares, it should first notify certain
@@ -23174,12 +23174,12 @@ year ending December 31, 2022.
 Round A investors have the right to require Mr. Wang Lei or Ophyer Technology to jointly
 and severally purchase the shares of Ophyer Technology held by Round A investors if the
 investment agreement is terminated due to the provisions as follows:
-(cid:129) If Ophyer Technology fails to complete the listing procedures, or be acquired by a listed
+ If Ophyer Technology fails to complete the listing procedures, or be acquired by a listed
 company before June 30, 2023 or December 31, 2023, Round A investors can terminate
 the agreement;
-(cid:129) If Ophyer Technology and/or Mr. Wang Lei violate or fail to fulfill any of their
+ If Ophyer Technology and/or Mr. Wang Lei violate or fail to fulfill any of their
 commitments under the agreements, Round A investors may terminate the agreement;
-(cid:129) If any of the information provided by Ophyer Technology and/or Mr. Wang is false or
+ If any of the information provided by Ophyer Technology and/or Mr. Wang is false or
 inaccurate in a material aspect or with material omission, Round A investors can
 terminate the agreement accordingly.
 The redemption price for Round A shares with preferred rights shall be the higher of 100% of
@@ -23236,11 +23236,11 @@ annual interest of the issue price commencing from the issue date.
 Round A+ investors have the right to require Mr. Wang Lei or Ophyer Technology to jointly
 and severally purchase the shares of Ophyer Technology held by Round A+ investors if the
 investment agreement is terminated due to the provisions as follows:
-(cid:129) If Ophyer Technology fails to complete the listing procedures, or be acquired by a listed
+ If Ophyer Technology fails to complete the listing procedures, or be acquired by a listed
 company before December 31, 2023, Round A+ investors can terminate the agreement;
-(cid:129) If Ophyer Technology and/or Mr. Wang Lei violate or fail to fulfill any of their
+ If Ophyer Technology and/or Mr. Wang Lei violate or fail to fulfill any of their
 commitments under the agreements, Round A+ investors may terminate the agreement;
-(cid:129) If any of the information provided by Ophyer Technology and/or Mr. Wang is false or
+ If any of the information provided by Ophyer Technology and/or Mr. Wang is false or
 inaccurate in a material aspect or with material omission, Round A+ investors can
 terminate the agreement accordingly.
 The redemption price for Round A+ shares with preferred rights shall be the higher of the
@@ -23323,15 +23323,15 @@ respective cash consideration in full.
 These two investors have the right to require Mr. Wang Lei or Ophyer Technology to jointly
 and severally purchase the shares of Ophyer Technology held by the investors if the investment
 agreement is terminated due to the provisions as follows:
-(cid:129) If Ophyer Technology fails to complete the listing procedures, or be acquired by a listed
+ If Ophyer Technology fails to complete the listing procedures, or be acquired by a listed
 company before December 31, 2023, the investors can terminate the agreement;
 – I-68 –
 
 === PAGE 638 ===
 APPENDIX I ACCOUNTANTS’ REPORT
-(cid:129) If Ophyer Technology and/or Mr. Wang Lei violate or fail to fulfill any of their
+ If Ophyer Technology and/or Mr. Wang Lei violate or fail to fulfill any of their
 commitments under the agreements, the investors may terminate the agreement;
-(cid:129) If any of the information provided by Ophyer Technology and/or Mr. Wang is false or
+ If any of the information provided by Ophyer Technology and/or Mr. Wang is false or
 inaccurate in a material aspect or with material omission, the investors can terminate the
 agreement accordingly.
 The redemption price for the shares with preferred rights shall be 100% of the issue price
@@ -23809,14 +23809,14 @@ a. For trade receivables, the Group has applied the simplified approach in IFRS 
 lifetime ECL. Except for receivables for debtors with significant increases in credit risk or credit-impaired, the
 Group determines the expected credit losses on these items grouped by internal credit ratings.
 The Group’s internal credit risk grading assessment for trade receivables comprises the following categories:
-(cid:129) Low risk (Lifetime ECL — not credit impaired): The counterparty has a low risk of default and does not
+ Low risk (Lifetime ECL — not credit impaired): The counterparty has a low risk of default and does not
 have material past-due amounts.
-(cid:129) Watch list (Lifetime ECL — not credit impaired): Debtors repays after due dates but usually settle in full
+ Watch list (Lifetime ECL — not credit impaired): Debtors repays after due dates but usually settle in full
 without negative external information.
-(cid:129) Doubtful (Lifetime ECL — not credit impaired): There have been significant increases in credit risk since
+ Doubtful (Lifetime ECL — not credit impaired): There have been significant increases in credit risk since
 initial recognition through information developed internally or external resources.
-(cid:129) Credit impaired (Lifetime ECL — credit impaired): There is evidence indicating the asset is credit impaired.
-(cid:129) Write-off (Amount is written off):There is evidence indicating that the debtor is in severe financial difficulty
+ Credit impaired (Lifetime ECL — credit impaired): There is evidence indicating the asset is credit impaired.
+ Write-off (Amount is written off):There is evidence indicating that the debtor is in severe financial difficulty
 and the Group has no realistic prospect of recovery.
 b. For loan receivables, other receivables, and bank balances, except for balances which are credit-impaired, the
 Group and the Company have applied the 12m ECL, unless when there has been a significant increase in credit risk
@@ -24428,8 +24428,8 @@ procedures to assess whether the applicable criteria used by the Directors in th
 unaudited pro forma financial information provide a reasonable basis for presenting the significant
 effects directly attributable to the event or transaction, and to obtain sufficient appropriate
 evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the unaudited pro forma financial information reflects the proper application of those
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the unaudited pro forma financial information reflects the proper application of those
 adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgment, having regard to the
 reporting accountants’ understanding of the nature of the Group, the event or transaction in respect

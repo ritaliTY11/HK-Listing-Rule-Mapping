@@ -993,14 +993,14 @@ SUMMARY
 === PAGE 17 ===
 SUMMARY
 We have built end-to-end capabilities ranging from R&D to commercialization.
-(cid:129) R&D and Technology. We have assembled a dedicated and multi-disciplinary R&D
+ R&D and Technology. We have assembled a dedicated and multi-disciplinary R&D
 team of 120 members with 26 holding a masters degree and two holding PhDs as of
 the Latest Practicable Date. Our extensive technological capabilities enable us to
 flexibly and rapidly expand the indications coverage of our System, as well as to
 developotherassessmentandinterventionDTxproducts,inacost-effectivemanner.
 For additional details of our R&D capabilities and technology, see “Business—Our
 Pipeline.”
-(cid:129) Commercialization. We believe our commercialization capabilities are largely
+ Commercialization. We believe our commercialization capabilities are largely
 attributable to our achievements in evidence-based academic and scientific research
 in the fields of cognitive impairment, and the performance of our System and other
 products, which have gained us wide recognition by customers and accelerated the
@@ -1058,11 +1058,11 @@ effect.
 Competitive Advantages
 Supported by our core technologies of virtual human and AI, our System features two
 primary competitive advantages in terms of assessment efficiency and treatment efficacy.
-(cid:129) Assessment Efficiency. Our virtual human technology can perform medical assessment
+ Assessment Efficiency. Our virtual human technology can perform medical assessment
 and communicate with a large number of patients at once, greatly improving their
 assessment efficiency. Our AI technology enables physicians to perform assessment and
 intervention in a streamlined and user-friendly manner.
-(cid:129) Treatment Efficacy. By dynamically identifying and recommending the most suitable
+ Treatment Efficacy. By dynamically identifying and recommending the most suitable
 training out of millions of different possible combinations, our DNN algorithms enable
 the System to offer self-adaptive and personalized trainings that lead to more favorable
 enhancement of cognitive functions for patients who use the System together with drug
@@ -1129,23 +1129,23 @@ DSSisdesignedtofacilitatetheassessmentofriskofdevelopmentaldyslexiainchildren.
 We received a Class II medical device registration certificate for DSS in September 2023.
 Other Product Candidates
 We also have the following products under different stages of development.
-(cid:129) COVID-19 Induced Cognitive Impairment Assessment and Recovery Training Software:
+ COVID-19 Induced Cognitive Impairment Assessment and Recovery Training Software:
 We collaborated with Xuanwu Hospital to complete a clinical trial focused on cognitive
 decline due to COVID-19 infection, commonly referred to as “COVID-19 brain fog” in
 October 2023. We have submitted Class II medical device registration for this product
 candidate in the second quarter of 2024 and expect to receive registration approval in the
 second half of 2025. Once approved, we plan to promote the commercialization of this
 product through existing sales channels.
-(cid:129) ADHD Assessment and Treatment Software: We are currently under preclinical
+ ADHD Assessment and Treatment Software: We are currently under preclinical
 development of the ADHD assessment and treatment software (the “ADHD Software”).
 We intend to initiate clinical trial for our ADHD Software by the first quarter of 2025.
-(cid:129) Quantitative Cognitive Assessment Software for Depression: We are currently under
+ Quantitative Cognitive Assessment Software for Depression: We are currently under
 clinical development for the quantitative cognitive assessment software for depression,
 which is an electronic cognitive function assessment tool developed based on the latest
 scientific development on an understanding of human intelligence and cutting-edge
 clinical research on cognitive dysfunction associated with depression. We expect to
 complete the trial by the first quarter of 2025.
-(cid:129) Depression Treatment Software: We are currently under preclinical development of the
+ Depression Treatment Software: We are currently under preclinical development of the
 depression treatment software, called “Mind Island Aurora,” which is a computerized
 system utilizing a combination of game-playing and Computerized Cognitive Behavioral
 Therapy(the“CCBT”)toimprovethesymptomsrelatedtodepression.Thesoftwareaims
@@ -1156,7 +1156,7 @@ of 2025.
 
 === PAGE 21 ===
 SUMMARY
-(cid:129) Cognitive Impairment Assessment Software and Cognitive Impairment Treatment
+ Cognitive Impairment Assessment Software and Cognitive Impairment Treatment
 Software:Inordertoexpandourinternationalfootprintandbuildglobalinfluence,weare
 developing the following products in the U.S. and the EU: Cognitive Impairment
 Assessment Software and Cognitive Impairment Treatment Software. On July 22, 2022,
@@ -1168,26 +1168,26 @@ Section 510(k).
 OUR COMPETITIVE STRENGTHS
 We believe the following strengths have contributed to our success and differentiated us
 from our competitors:
-(cid:129) Seasoned player in China’s cognitive impairment DTx market with significant
+ Seasoned player in China’s cognitive impairment DTx market with significant
 market opportunities;
-(cid:129) Comprehensive coverage of cognitive impairment indications with rapid pipeline
+ Comprehensive coverage of cognitive impairment indications with rapid pipeline
 expansion;
-(cid:129) R&D capabilities and core technologies supported by multidisciplinary team;
-(cid:129) Strong commercialization capabilities and accelerated commercialization
+ R&D capabilities and core technologies supported by multidisciplinary team;
+ Strong commercialization capabilities and accelerated commercialization
 momentum propelled by academic and industry achievements; and
-(cid:129) Visionarymanagementteamwithrichexperienceinbrainsciences,AItechnologies,
+ Visionarymanagementteamwithrichexperienceinbrainsciences,AItechnologies,
 and business development.
 OUR STRATEGIES
 We plan to execute the following strategies to achieve our mission and drive our future
 growth:
-(cid:129) Continue indication expansion of the System and development of other product
+ Continue indication expansion of the System and development of other product
 candidates to further solidify our position in China’s cognitive impairment DTx
 market;
-(cid:129) Accelerate commercialization of the System and other products and enhance market
+ Accelerate commercialization of the System and other products and enhance market
 penetration;
-(cid:129) Further improve our research and development capabilities;
-(cid:129) Expand our international footprint and build global influence; and
-(cid:129) Strategically seek merger and acquisition opportunities.
+ Further improve our research and development capabilities;
+ Expand our international footprint and build global influence; and
+ Strategically seek merger and acquisition opportunities.
 – 12 –
 
 === PAGE 22 ===
@@ -1215,7 +1215,7 @@ accounts which enable customers to use the System on the hardware equipment.
 Business Sustainability and Commercialization Strategies
 We believe the long-term sustainability of our product commercialization can be
 substantiated by the following strategies and trends:
-(cid:129) Further helping hospitals establish cognitive centers: We became the first organizer
+ Further helping hospitals establish cognitive centers: We became the first organizer
 ofaprojectinitiatedbytheNHC,accordingtoFrost&Sullivan,underwhichweare
 tasked with helping to establish cognitive centers in over 2,100 public hospitals
 across China and promoting the development of cognitive impairment DTx market
@@ -1223,11 +1223,11 @@ in China over the next five years. We intend to continue to help hospitals estab
 cognitive centers, and fully capitalize on the commercialization potential of our
 System in new cognitive centers in these hospitals, which we believe will provide
 us sustainable growth in our business and revenue scale.
-(cid:129) Enhanced brand and product awareness: We intend to recruit more talents with
+ Enhanced brand and product awareness: We intend to recruit more talents with
 academic and professional experiences in the field of cognitive impairment DTx to
 expandourcommercializationteamandenhancetheteam’sacademicandmarketing
 capabilities in order to further promote our brand and product awareness.
-(cid:129) Product innovation and indication expansion: We plan to accelerate the
+ Product innovation and indication expansion: We plan to accelerate the
 development,registration,andcommercializationprocessestoexpandourSystemto
 more cognitive impairment indications by developing upgraded versions of the
 System or developing new products.
@@ -1235,7 +1235,7 @@ System or developing new products.
 
 === PAGE 23 ===
 SUMMARY
-(cid:129) Growing industry trend demonstrating strong market demand: We believe we are
+ Growing industry trend demonstrating strong market demand: We believe we are
 well-positioned to capture the rapid growth in the cognitive impairment DTx market
 in China, and achieve sustainable business and revenue growth. The cognitive
 impairment DTx market in China has been growing rapidly as a result of strong
@@ -2070,10 +2070,10 @@ resources available to us described below, we have sufficient working capital to
 125% of our costs, including R&D expenses, selling and distribution expenses, administrative
 expenses, finance costs and other expenses for at least the next 12 months from the date of this
 Prospectus:
-(cid:129) our future operating cash flows;
-(cid:129) our cash and cash equivalents as of the Latest Practicable Date;
-(cid:129) available equity and debt financing; and
-(cid:129) the estimated net proceeds from the Global Offering.
+ our future operating cash flows;
+ our cash and cash equivalents as of the Latest Practicable Date;
+ available equity and debt financing; and
+ the estimated net proceeds from the Global Offering.
 Our cash burn rate refers to the average monthly (i) net cash used in operating activities,
 which includes research and development expenses, and (ii) capital expenditures.We had bank
 balances and cash of RMB36.2 million as of October 31, 2024. We estimate that we will
@@ -2157,10 +2157,10 @@ each issued and unissued SeriesAPreferred Shares into ordinary Shares on a one-t
 by way of re-designation upon Listing.
 GLOBAL OFFERING STATISTICS
 The Global Offering by us consists of:
-(cid:129) the offer by us of initially 18,112,000 Hong Kong Offer Shares, for subscription by
+ the offer by us of initially 18,112,000 Hong Kong Offer Shares, for subscription by
 the public in Hong Kong, referred to in this Prospectus as the Hong Kong Public
 Offering; and
-(cid:129) the offer by us of initially 163,000,000 International Offer Shares, outside the U.S.
+ the offer by us of initially 163,000,000 International Offer Shares, outside the U.S.
 (including to professional, institutional and other investors within Hong Kong) in
 offshore transactions in reliance on Regulation S, referred to in this Prospectus as
 the International Offering.
@@ -2252,17 +2252,17 @@ We estimate that we will receive net proceeds from the Global Offering of approx
 HK$501.3 million, after deducting underwriting commissions, fees and estimated expenses
 payable by us in connection with the Global Offering, assuming no Over-allotment Option is
 exercised, at the Offer Price of HK$3.22 per Share.
-(cid:129) approximately 40.0% of the net proceeds, or approximately HK$200.5 million, is
+ approximately 40.0% of the net proceeds, or approximately HK$200.5 million, is
 expected to be used for conducting further research and development activities,
 advancing clinical trials for more indications, and advancing selling and distribution
 activities of our Core Product, the System;
-(cid:129) approximately 16.5% of the net proceeds, or approximately HK$82.7 million, is
+ approximately 16.5% of the net proceeds, or approximately HK$82.7 million, is
 expected to be used for helping establish new cognitive centers for more hospitals
 across China through which hospitals can use our products to diagnose and treat
 patients with cognitive impairment and/or other disorders;
-(cid:129) approximately 15.0% of the net proceeds, or approximately HK$75.2 million, is
+ approximately 15.0% of the net proceeds, or approximately HK$75.2 million, is
 expectedtobeusedforstrengtheningourcapabilitiesinAIandrelatedtechnologies;
-(cid:129) approximately 5.0% of the net proceeds, or approximately HK$25.1 million, is
+ approximately 5.0% of the net proceeds, or approximately HK$25.1 million, is
 expected to be used for accelerating the research, development and
 commercialization of other product candidates in and beyond our current product
 pipeline;
@@ -2270,43 +2270,43 @@ pipeline;
 
 === PAGE 44 ===
 SUMMARY
-(cid:129) approximately 15.0% of the net proceeds, or approximately HK$75.2 million, is
+ approximately 15.0% of the net proceeds, or approximately HK$75.2 million, is
 expected to be used for brain science and DTx research centers in collaboration with
 academic institutions and hospitals; and
-(cid:129) approximately 8.5% of the net proceeds, or approximately HK$42.6 million, is
+ approximately 8.5% of the net proceeds, or approximately HK$42.6 million, is
 expected to be used for our working capital and other general corporate purposes.
 For further details, see “Future Plans and Use of Proceeds.”
 RISK FACTORS
 We believe there are certain risks and uncertainties involved in our operations, some of
 which are beyond our control. These risks are set out in “Risk Factors” in this Prospectus.
 Some of the major risks we face include:
-(cid:129) Our future growth depends substantially on the successful development of our
+ Our future growth depends substantially on the successful development of our
 product portfolio. If we are unable to successfully complete clinical development,
 obtain regulatory approval and commercialize our product candidates, or experience
 significant delays in doing so, our business and financial prospects will be
 materially adversely affected.
-(cid:129) DTx industry is developing rapidly. If we are not able to develop and release new
+ DTx industry is developing rapidly. If we are not able to develop and release new
 products that are competitive in the market, or develop successful enhancements or
 indication expansions of our System or any future products in a timely manner our
 products may become obsolete and our business, operating results and financial
 condition could be materially adversely affected.
-(cid:129) Clinical development is a lengthy, expensive and uncertain process, and
+ Clinical development is a lengthy, expensive and uncertain process, and
 unsuccessful clinical trials or procedures relating to products and indications under
 development could have a material adverse effect on our prospects, including
 incurring additional costs, experiencing delays in completing, or ultimately being
 unabletocompletethedevelopmentandcommercializationofourproductifclinical
 trials fail to demonstrate safety and efficacy to the satisfaction of regulatory
 authorities.
-(cid:129) Our algorithms and methodologies are complex and may contain errors or may not
+ Our algorithms and methodologies are complex and may contain errors or may not
 operate properly, which could adversely affect our business, financial condition and
 results of operations.
-(cid:129) Some of our current and future products may be classified or reclassified as Class
+ Some of our current and future products may be classified or reclassified as Class
 III medical devices under relevant PRC laws and regulations.
 – 35 –
 
 === PAGE 45 ===
 SUMMARY
-(cid:129) We have relatively limited experience in marketing and sales of our products, and
+ We have relatively limited experience in marketing and sales of our products, and
 rely on our in-house marketing force to promote our products. If we are unable to
 develop and successfully maintain adequate sales and commercial distribution
 capabilities,ourbusinessandresultsofoperationscouldbeadverselyaffected.Ifwe
@@ -2315,7 +2315,7 @@ service providers, or to attract, motivate and retain a sufficient number of qua
 personnel to support our selling and distribution efforts, sales volumes or margin of
 our System and other products may be adversely affected and we may be unable to
 extend our market coverage and deepen our market penetration as contemplated.
-(cid:129) We mainly derived our revenue from services provided through our System. There
+ We mainly derived our revenue from services provided through our System. There
 is also no assurance that we will be able to maintain our sales, which may be
 adversely affected by many factors outside of our control, including downward
 pricing pressure caused by changes in medical insurance coverage, binding pricing
@@ -2323,21 +2323,21 @@ guidance, market competition, expiration of patent protection, introduction of
 substitute products marketed by our competitors, disruptions in sales, issues with
 respect to product quality or severe adverse events incurred, and disputes over
 intellectual property or other matters with third parties.
-(cid:129) The regulatory framework for DTx products is constantly evolving. Increasingly
+ The regulatory framework for DTx products is constantly evolving. Increasingly
 stringent regulatory requirements could create barriers to our development and
 introduction of new products. Conversely, in the event that regulatory requirements
 are lowered, competitors could potentially enter the DTx market and compete
 against us more easily.
-(cid:129) We have been in a net loss position since our inception and may continue to incur
+ We have been in a net loss position since our inception and may continue to incur
 net losses for the foreseeable future, and you may lose substantially all your
 investments in us given the high risks and uncertainties associated with our business
 operations and the cognitive impairment DTx industry.
-(cid:129) The permit, filing or other requirements of the CSRC or other PRC government
+ The permit, filing or other requirements of the CSRC or other PRC government
 authorities in relation to our proposed listing or further capital raising activities may
 be required under PRC laws. We cannot assure you that we could meet the relevant
 requirements, obtain necessary permit from the relevant government authorities, or
 complete such filing in a timely manner or at all.
-(cid:129) Our relationships with customers will be subject to applicable anti-bribery,
+ Our relationships with customers will be subject to applicable anti-bribery,
 anti-kickback, fraud and abuse and other healthcare laws and regulations, which
 could expose us to criminal sanctions, civil penalties, exclusion from government
 healthcare programs, contractual damages, reputational harm and diminished profits
@@ -3217,20 +3217,20 @@ risk factors as described in this Prospectus. You are strongly cautioned that re
 forward-looking statements involves known and unknown risks and uncertainties. The risks
 and uncertainties facing our company which could affect the accuracy of forward-looking
 statements include, but are not limited to, the following:
-(cid:129) our operations and business prospects;
-(cid:129) our financial condition and operating results and performance;
-(cid:129) industry trends and competition;
-(cid:129) our product candidates under development or planning;
-(cid:129) the timing and outcome of the applications for registration of our products with the
+ our operations and business prospects;
+ our financial condition and operating results and performance;
+ industry trends and competition;
+ our product candidates under development or planning;
+ the timing and outcome of the applications for registration of our products with the
 NMPA and other regulators;
-(cid:129) our strategies, plans, objectives and goals and our ability to successfully implement
+ our strategies, plans, objectives and goals and our ability to successfully implement
 these strategies, plans, objectives and goals;
-(cid:129) our ability to attract customers and build our brand image;
-(cid:129) general political and economic conditions;
-(cid:129) future developments of the COVID-19 outbreak in the PRC and globally;
-(cid:129) changes to regulatory and operating conditions in the industry and markets in which
+ our ability to attract customers and build our brand image;
+ general political and economic conditions;
+ future developments of the COVID-19 outbreak in the PRC and globally;
+ changes to regulatory and operating conditions in the industry and markets in which
 we operate; and
-(cid:129) the amount and nature of, and potential for, future development of our business.
+ the amount and nature of, and potential for, future development of our business.
 – 61 –
 
 === PAGE 71 ===
@@ -3310,30 +3310,30 @@ depends on the successful commercialization of our System to more indications an
 other products candidates under development.
 The success of our products and product candidates will depend on several factors,
 including but not limited to:
-(cid:129) successful enrollment of trial participants in, and completion of, clinical trials, as
+ successful enrollment of trial participants in, and completion of, clinical trials, as
 well as completion of preclinical studies;
-(cid:129) favorable safety and efficacy data resulting from our clinical trials and preclinical
+ favorable safety and efficacy data resulting from our clinical trials and preclinical
 studies;
-(cid:129) obtaining and maintaining the necessary regulatory approvals, commercialization
+ obtaining and maintaining the necessary regulatory approvals, commercialization
 authorizations and successfully launching our product candidates effectively in
 target markets, if and when approved, in a timely manner;
-(cid:129) the performance by any third parties we may retain in a manner that complies with
+ the performance by any third parties we may retain in a manner that complies with
 ourprotocolsandapplicablelawsandthatprotectstheintegrityoftheresultingdata;
-(cid:129) obtaining and maintaining patent, trade secret and other intellectual property
+ obtaining and maintaining patent, trade secret and other intellectual property
 protection and regulatory exclusivity;
-(cid:129) ensuring we do not infringe, misappropriate or otherwise violate the patent, trade
+ ensuring we do not infringe, misappropriate or otherwise violate the patent, trade
 secret and/or other intellectual property rights of third parties;
-(cid:129) appropriately pricing our products and timely collecting payments;
-(cid:129) enhancing our marketing and distribution capabilities in an efficient and cost-
+ appropriately pricing our products and timely collecting payments;
+ enhancing our marketing and distribution capabilities in an efficient and cost-
 effective manner;
 – 64 –
 
 === PAGE 74 ===
 RISK FACTORS
-(cid:129) market and pricing competition with other cognitive impairment digital therapeutics
+ market and pricing competition with other cognitive impairment digital therapeutics
 (the “DTx”) products;
-(cid:129) keeping up with industry and technology developments; and
-(cid:129) continued acceptable safety profile and efficacy of our products and product
+ keeping up with industry and technology developments; and
+ continued acceptable safety profile and efficacy of our products and product
 candidates following regulatory approval, if and when received.
 If we are not successful in one or more of these factors in a timely manner, or at all, we
 could experience significant delays or be unable to obtain the necessary approval for and/or to
@@ -3456,28 +3456,28 @@ development stages of our products and product candidates. We may experience num
 unexpected events during, or as a result of, clinical trials that could delay or prevent our ability
 toobtainthenecessaryregulatoryapprovalorcommercializeourproductcandidates,including
 but not limited to:
-(cid:129) regulators or institutional review boards (“IRBs,” also known as independent ethics
+ regulators or institutional review boards (“IRBs,” also known as independent ethics
 committees) may not authorize us or our investigators to commence or conduct a
 clinical trial at a prospective trial site;
-(cid:129) unanticipated protracted negotiations or an inability to agree on reasonable
+ unanticipated protracted negotiations or an inability to agree on reasonable
 contractual terms with prospective CROs and hospitals for the provision of trial
 centers, which may lead to delayed commencement (if at all) of clinical studies for
 regulatory approvals;
-(cid:129) failure of our product to demonstrate superior results than competing or alternative
+ failure of our product to demonstrate superior results than competing or alternative
 products, if applicable;
-(cid:129) clinical trials of our product candidates may fail to demonstrate the primary or
+ clinical trials of our product candidates may fail to demonstrate the primary or
 secondary endpoints as anticipated, and we may decide, or regulators may require
 us, to conduct additional clinical trials or abandon product development programs;
-(cid:129) the number of subjects required for clinical trials of our product candidates may be
+ the number of subjects required for clinical trials of our product candidates may be
 larger than we anticipate, enrollment may be insufficient or slower than we
 anticipate or subjects may drop out at a higher rate than we anticipate;
-(cid:129) ourthird-partycontractorsinconnectionwithourclinicalstudiesmayfailtocomply
+ ourthird-partycontractorsinconnectionwithourclinicalstudiesmayfailtocomply
 with regulatory requirements or meet their contractual obligations to us in a timely
 manner, or at all;
-(cid:129) we might have to suspend or terminate clinical trials of our product candidates for
+ we might have to suspend or terminate clinical trials of our product candidates for
 various reasons, including a finding of a lack of clinical response or other
 unexpected characteristics; and
-(cid:129) the initial or interim results of the clinical trial may not be predictive of the final
+ the initial or interim results of the clinical trial may not be predictive of the final
 results; interim, “topline” and preliminary data from clinical trials of our product
 candidates under different indications may change as more patient data becomes
 available and are subject to confirmation, audit, and verification procedures that
@@ -3555,13 +3555,13 @@ by qualified physicians. Some patients may suffer from anxiety or sleeping disor
 after using our System. If we or others identify undesirable side effects directly or indirectly
 causedbyourproducts,anumberofpotentiallysignificantnegativeconsequencescouldresult,
 including:
-(cid:129) regulatory authorities may withdraw clearance, authorization, or approvals of such
+ regulatory authorities may withdraw clearance, authorization, or approvals of such
 product;
-(cid:129) regulatory authorities may require additional warnings for the product;
-(cid:129) we may be required to issue safety communications to patients or healthcare
+ regulatory authorities may require additional warnings for the product;
+ we may be required to issue safety communications to patients or healthcare
 providers that outline the risks of such side effects;
-(cid:129) we could be sued and held liable for harm caused to patients; and
-(cid:129) our reputation may suffer.
+ we could be sued and held liable for harm caused to patients; and
+ our reputation may suffer.
 – 70 –
 
 === PAGE 80 ===
@@ -3632,26 +3632,26 @@ third-party payors may prefer other novel products to ours. If our products do n
 adequate level of acceptance, we may not generate significant revenue and we may not become
 profitable. The degree of market acceptance of our products and product candidates, if
 approved for commercial sale, will depend on a number of factors, including:
-(cid:129) the clinical indications for which our products and product candidates are approved;
-(cid:129) perception by physicians, patients and hospitals of our products and product
+ the clinical indications for which our products and product candidates are approved;
+ perception by physicians, patients and hospitals of our products and product
 candidates as safe and effective, and physicians’ willingness to recommend our
 products for the assessment and intervention of cognitive impairment patients;
-(cid:129) the actual and perceived advantages of our products and product candidates over
+ the actual and perceived advantages of our products and product candidates over
 alternative products;
-(cid:129) the prevalence and severity of any adverse effects or complications;
-(cid:129) the timing of market introduction of our products and product candidates as well as
+ the prevalence and severity of any adverse effects or complications;
+ the timing of market introduction of our products and product candidates as well as
 competitive products;
 – 72 –
 
 === PAGE 82 ===
 RISK FACTORS
-(cid:129) the cost of our products in relation to alternatives;
-(cid:129) the availability of adequate coverage, reimbursement and pricing by third-party
+ the cost of our products in relation to alternatives;
+ the availability of adequate coverage, reimbursement and pricing by third-party
 payors and government authorities;
-(cid:129) the willingness of patients to pay out-of-pocket in the absence of coverage and
+ the willingness of patients to pay out-of-pocket in the absence of coverage and
 reimbursement by third-party payors and government authorities;
-(cid:129) the effectiveness of our sales and marketing efforts; and
-(cid:129) the operation smoothness of our System.
+ the effectiveness of our sales and marketing efforts; and
+ the operation smoothness of our System.
 If any products that we commercialize fail to achieve market acceptance or if we fail to
 maintain good relationships with customers or potential customers, we will not be able to
 generate significant revenue. Even if our products achieve market acceptance, we may not be
@@ -3819,22 +3819,22 @@ cannot be certain that any submissions will be accepted for filing and review by
 its local counterparts, and the review timeline may be subject to uncertainty.
 Our product candidates could fail to receive regulatory approval for many reasons,
 including:
-(cid:129) failure to begin or complete clinical trials due to various factors, including
+ failure to begin or complete clinical trials due to various factors, including
 disagreements with regulatory authorities;
-(cid:129) failure to demonstrate that a product candidate is safe and effective;
-(cid:129) failure to deliver clinical trial results that meet the level of statistical significance
+ failure to demonstrate that a product candidate is safe and effective;
+ failure to deliver clinical trial results that meet the level of statistical significance
 required for approval;
-(cid:129) data integrity issues related to our clinical trials;
-(cid:129) regulatory authority’s disagreement with our interpretation of data from preclinical
+ data integrity issues related to our clinical trials;
+ regulatory authority’s disagreement with our interpretation of data from preclinical
 studies or clinical trials;
-(cid:129) changes in approval policies or regulations that render our preclinical and clinical
+ changes in approval policies or regulations that render our preclinical and clinical
 data insufficient for approval or require us to amend our clinical trial protocols;
-(cid:129) regulatory requests for additional analysis, reports, data, nonclinical studies and
+ regulatory requests for additional analysis, reports, data, nonclinical studies and
 clinical trials, or questions regarding our interpretation of data and results and the
 emergence of new information regarding our product candidates;
-(cid:129) our failure to conduct a clinical trial in accordance with regulatory requirements or
+ our failure to conduct a clinical trial in accordance with regulatory requirements or
 our clinical trial protocols; and/or
-(cid:129) clinical sites, investigators or other participants in our clinical trials deviating from
+ clinical sites, investigators or other participants in our clinical trials deviating from
 a trial protocol, failing to conduct the trial in accordance with regulatory
 requirements, or dropping out of a trial;
 – 77 –
@@ -3893,16 +3893,16 @@ Later discovery of previously unknown problems with our products or product cand
 result in requirements to conduct post-market studies or clinical studies to assess new safety
 risks or the imposition of distribution restrictions or other restrictions. Other potential
 consequences include, among other things:
-(cid:129) restrictions on the marketing or commercialization of our products, withdrawal of
+ restrictions on the marketing or commercialization of our products, withdrawal of
 the products from the market, or voluntary or mandatory product recalls;
-(cid:129) fines, untitled or warning letters, or holds on clinical trials;
-(cid:129) refusal by the NMPA or comparable regulatory authorities to approve pending
+ fines, untitled or warning letters, or holds on clinical trials;
+ refusal by the NMPA or comparable regulatory authorities to approve pending
 indications or applications or supplements to approved indications or applications
 filed by us or suspension or reduce the scope of previously issued medical device
 registration certificate;
-(cid:129) product seizure or detention, or refusal to permit the import or export of our
+ product seizure or detention, or refusal to permit the import or export of our
 products and product candidates; and/or
-(cid:129) injunctions or the imposition of civil, administrative or criminal penalties.
+ injunctions or the imposition of civil, administrative or criminal penalties.
 We cannot predict the likelihood, nature or extent of governmental policies or regulations
 that may arise from future legislation or administrative actions in all relevant jurisdictions. If
 we are slow or unable to adapt to changes in existing requirements or the adoption of new
@@ -4586,23 +4586,23 @@ The degree of future protection afforded by our intellectual property rights is 
 because intellectual property rights have limitations, and may not adequately protect our
 business, or permit us to maintain our competitive advantage. The following examples are
 illustrative:
-(cid:129) others may be able to independently develop similar or alternative technologies or
+ others may be able to independently develop similar or alternative technologies or
 designs that are similar to our services and products but that are not covered by the
 claims of the patents that we own or have exclusively licensed;
-(cid:129) we might not have been the first to make the inventions covered by the issued
+ we might not have been the first to make the inventions covered by the issued
 patents or pending patent applications that we own or may in the future exclusively
 license,whichcouldresultinthepatentapplicationsnotissuingorbeinginvalidated
 after issuing;
-(cid:129) we might not have been the first to file patent applications covering certain of our
+ we might not have been the first to file patent applications covering certain of our
 inventions, which could result in the patent applications not issuing or being
 invalidated after issuing;
-(cid:129) our competitors might conduct research and development activities in countries
+ our competitors might conduct research and development activities in countries
 where we do not have patent rights and then use the information learned from such
 activities to develop competitive services and products for commercialization in our
 major markets;
-(cid:129) we may fail to apply for or obtain adequate intellectual property protection in all the
+ we may fail to apply for or obtain adequate intellectual property protection in all the
 jurisdictions in which we operate; and
-(cid:129) the patents of others may have an adverse effect on our business, for example by
+ the patents of others may have an adverse effect on our business, for example by
 preventing us from commercializing additional products or applications in more
 indications of our existing products.
 Any of the aforementioned threats to our competitive advantage could have a material
@@ -4788,28 +4788,28 @@ analysts, each of which may cause our stock price to fluctuate or decline.
 Our results of operations may fluctuate significantly in the future due to a variety of
 factors, many of which are outside of our control and may be difficult to predict, including the
 following:
-(cid:129) the timing and success or failure of clinical trials for the System and our other
+ the timing and success or failure of clinical trials for the System and our other
 products and product candidates or competing product candidates, or any other
 change in the competitive landscape of our industry;
-(cid:129) our ability to successfully recruit and retain subjects for clinical trials, and any
+ our ability to successfully recruit and retain subjects for clinical trials, and any
 delays caused by difficulties in such efforts;
-(cid:129) our ability to obtain marketing authorization for our product candidates and the
+ our ability to obtain marketing authorization for our product candidates and the
 timing and scope of any such marketing authorizations we may receive;
-(cid:129) the timing and cost of, and level of investment in, research and development
+ the timing and cost of, and level of investment in, research and development
 activities relating to our System and other products and product candidates, which
 may change from time to time;
-(cid:129) our ability to attract, hire and retain qualified personnel;
-(cid:129) expenditures that we will or may incur to develop additional product candidates;
-(cid:129) the level of demand for the System and our other products and product candidates
+ our ability to attract, hire and retain qualified personnel;
+ expenditures that we will or may incur to develop additional product candidates;
+ the level of demand for the System and our other products and product candidates
 should such product candidates receive marketing authorizations, which may vary
 significantly;
-(cid:129) the risk/benefit profile, cost and reimbursement policies with respect to the System
+ the risk/benefit profile, cost and reimbursement policies with respect to the System
 and our other products and product candidates, if granted marketing authorization,
 and existing and potential future therapeutics that compete with our product
 candidates;
-(cid:129) the changing and volatile Chinese and global economic environments including
+ the changing and volatile Chinese and global economic environments including
 global inflationary pressures; and
-(cid:129) future accounting pronouncements or changes in our accounting policies.
+ future accounting pronouncements or changes in our accounting policies.
 – 100 –
 
 === PAGE 110 ===
@@ -5026,12 +5026,12 @@ As our development and commercialization plans and strategies evolve, we need to
 recruit a significant number of additional managerial, operational, sales, marketing, financial
 and other personnel. Our recent growth and any future growth will impose significant added
 responsibilities on members of management, including:
-(cid:129) identifying, recruiting, integrating, maintaining and motivating additional
+ identifying, recruiting, integrating, maintaining and motivating additional
 employees;
-(cid:129) managing our internal development efforts effectively, including the clinical and
+ managing our internal development efforts effectively, including the clinical and
 regulatory authority review process for our product candidates, while complying
 with our contractual obligations to contractors and other third parties; and
-(cid:129) improving our operational, financial and management controls, reporting systems
+ improving our operational, financial and management controls, reporting systems
 and procedures.
 – 105 –
 
@@ -5136,18 +5136,18 @@ StatesandtheEU.However,ourlimitedexperienceinoverseasmarketsmayexposeustorisks
 and uncertainties. Our success in expanding our business and providing services
 internationally, and competing in international markets is subject to our ability to manage
 various risks and difficulties, including, but not limited to:
-(cid:129) our ability to effectively manage and coordinate our employees across different
+ our ability to effectively manage and coordinate our employees across different
 geographic locations;
-(cid:129) ourabilitytodevelopandmaintainrelationshipswithcustomers,suppliersandother
+ ourabilitytodevelopandmaintainrelationshipswithcustomers,suppliersandother
 local stakeholders;
-(cid:129) the ability to provide sufficient levels of technical support in different locations;
-(cid:129) obtaining the necessary approvals for registering and selling our products in
+ the ability to provide sufficient levels of technical support in different locations;
+ obtaining the necessary approvals for registering and selling our products in
 additional countries;
-(cid:129) reliance on overseas partners for the development, commercialization or marketing
+ reliance on overseas partners for the development, commercialization or marketing
 of our products, which may incur additional costs;
-(cid:129) commercializingourproductsinnewmarketswherewehavelimitedexperienceand
+ commercializingourproductsinnewmarketswherewehavelimitedexperienceand
 no sales and marketing infrastructure;
-(cid:129) product and professional liability litigation and regulatory scrutiny arising from the
+ product and professional liability litigation and regulatory scrutiny arising from the
 marketing and sale of products in overseas markets and the costs incurred dealing
 withsuchprocedures,aswellasourabilitytoobtaininsurancetoadequatelyprotect
 us from any resulting liabilities;
@@ -5155,23 +5155,23 @@ us from any resulting liabilities;
 
 === PAGE 118 ===
 RISK FACTORS
-(cid:129) dealing with regulatory regimes, regulatory bodies and government policies which
+ dealing with regulatory regimes, regulatory bodies and government policies which
 may differ materially from those in the PRC or with which we may be unfamiliar;
-(cid:129) variationsandchangesinlawsapplicabletoouroperationsindifferentjurisdictions,
+ variationsandchangesinlawsapplicabletoouroperationsindifferentjurisdictions,
 including enforceability of intellectual property and contractual rights;
-(cid:129) our ability to obtain and renew licenses that may be needed in overseas locations to
+ our ability to obtain and renew licenses that may be needed in overseas locations to
 support operations;
-(cid:129) trade restrictions, political changes, disruptions in financial markets, and
+ trade restrictions, political changes, disruptions in financial markets, and
 deterioration of economic conditions, particularly the relations between China and
 the United States;
-(cid:129) foreign investment restrictions;
-(cid:129) changes in tariffs, taxes and foreign currency exchange rates, which could result in
+ foreign investment restrictions;
+ changes in tariffs, taxes and foreign currency exchange rates, which could result in
 increased operating expenses and reduced revenue;
-(cid:129) the effects of applicable foreign tax structures and potentially adverse tax
+ the effects of applicable foreign tax structures and potentially adverse tax
 consequences;
-(cid:129) economic weakness and inflation;
-(cid:129) workforce uncertainty and labor unrest; and
-(cid:129) business interruptions resulting from geopolitical actions, including war and
+ economic weakness and inflation;
+ workforce uncertainty and labor unrest; and
+ business interruptions resulting from geopolitical actions, including war and
 terrorism, or natural disasters, including earthquakes, volcanoes, typhoons, floods,
 hurricanes and fires.
 Our profitability and ability to implement our business strategies, maintain our market
@@ -5195,12 +5195,12 @@ treatments with which they are more familiar and for which greater clinical data
 available. Access will also depend on consumer acceptance and adoption of products that are
 commercialized. Our promotion efforts may be expensive and ineffective. In addition, our
 reputation and customer perception of us could suffer in events that:
-(cid:129) our products fail to gain acceptance by hospitals, physicians and patients;
-(cid:129) our products are defective or malfunction;
-(cid:129) lawsuits or regulatory investigations are instituted against us or relating to our
+ our products fail to gain acceptance by hospitals, physicians and patients;
+ our products are defective or malfunction;
+ lawsuits or regulatory investigations are instituted against us or relating to our
 products or industry;
-(cid:129) we provide poor or ineffective customer service; or
-(cid:129) we are subject to product liability claims.
+ we provide poor or ineffective customer service; or
+ we are subject to product liability claims.
 Negative publicity concerning our products or the DTx market as a whole, could limit
 market acceptance of our products and product candidates. If patients and healthcare providers
 have a negative perception of DTx, then a market for our products and product candidates may
@@ -5475,22 +5475,22 @@ incur substantial liabilities or be required to limit commercialization of our p
 product candidates and provision of our services. Even successful defense would require
 significant financial and management resources. Regardless of the merits or eventual outcome,
 liability claims may result in:
-(cid:129) decreased demand for our products;
-(cid:129) injury to our reputation;
+ decreased demand for our products;
+ injury to our reputation;
 – 116 –
 
 === PAGE 126 ===
 RISK FACTORS
-(cid:129) withdrawal of clinical trial participants and inability to continue clinical trials;
-(cid:129) initiation of investigations by regulators;
-(cid:129) costs to defend the related litigation;
-(cid:129) a diversion of management’s time and our resources;
-(cid:129) substantial monetary awards to trial participants or subjects, product recalls,
+ withdrawal of clinical trial participants and inability to continue clinical trials;
+ initiation of investigations by regulators;
+ costs to defend the related litigation;
+ a diversion of management’s time and our resources;
+ substantial monetary awards to trial participants or subjects, product recalls,
 withdrawals, marketing or promotional restrictions;
-(cid:129) loss of revenue;
-(cid:129) exhaustion of any available insurance and our capital resources;
-(cid:129) the inability to commercialize any product candidate; and/or
-(cid:129) a decline in our Share price.
+ loss of revenue;
+ exhaustion of any available insurance and our capital resources;
+ the inability to commercialize any product candidate; and/or
+ a decline in our Share price.
 If we are unable to obtain sufficient product and professional liability insurance at an
 acceptable cost, potential product and professional liability claims could prevent or inhibit the
 commercialization of our products and product candidates. Our insurance policies may also
@@ -5523,19 +5523,19 @@ From time to time, we may evaluate various acquisitions and strategic partnershi
 including licensing or acquiring complementary products, intellectual property rights,
 technologies or businesses. Any completed, ongoing or potential acquisition or strategic
 partnership may entail numerous risks, including:
-(cid:129) increased operating expenses and cash requirements;
-(cid:129) the assumption of additional indebtedness or contingent or unforeseen liabilities;
-(cid:129) the issuance of our equity securities;
-(cid:129) assimilation of operations, intellectual property and products of an acquired
+ increased operating expenses and cash requirements;
+ the assumption of additional indebtedness or contingent or unforeseen liabilities;
+ the issuance of our equity securities;
+ assimilation of operations, intellectual property and products of an acquired
 company, including difficulties associated with integrating new personnel;
-(cid:129) thediversionofourmanagement’sattentionfromourexistingproductprogramsand
+ thediversionofourmanagement’sattentionfromourexistingproductprogramsand
 initiatives in pursuing such a strategic merger or acquisition;
-(cid:129) retention of key employees, the loss of key personnel, and uncertainties in our
+ retention of key employees, the loss of key personnel, and uncertainties in our
 ability to maintain key business relationships;
-(cid:129) risks and uncertainties associated with the other party to such a transaction,
+ risks and uncertainties associated with the other party to such a transaction,
 including the prospects of that party and their existing products and product
 candidates and regulatory approvals; and/or
-(cid:129) our inability to generate revenue from acquired technology and/or products
+ our inability to generate revenue from acquired technology and/or products
 sufficient to meet our objectives in undertaking the acquisition or even to offset the
 associated acquisition and maintenance costs.
 If we undertake acquisitions, we may issue dilutive securities, assume or incur debt
@@ -6984,26 +6984,26 @@ DTx is a new and rapidly evolving industry that requires a high level of technic
 expertise, access to high-quality clinical information, collaborative relationship with industry
 participants and the ability to navigate an evolving regulatory landscape. Potential entrants
 face the following barriers to enter the DTx market.
-(cid:129) Technology. New DTx products integrate advanced AI technologies, making them
+ Technology. New DTx products integrate advanced AI technologies, making them
 more accurate, standardized and effective. However, optimizing AI and machine
 learning (the “ML”) algorithms requires first-hand experience from medical,
 engineering and algorithmic scientists. The ability to create new AI and ML
 algorithms pose as a high entry barrier for potential entrants.
-(cid:129) Information. DTx face barriers to entry related to the collection and use of
+ Information. DTx face barriers to entry related to the collection and use of
 sufficient, high-quality clinical information. In particular, interventional DTx
 products require large amounts of diverse and representative patient information to
 train and refine algorithms. However, regulatory requirements can significantly
 impede information collection, which involves collaboration with healthcare
 providers and patients in order to obtain consent and ensure data privacy and
 security, which can be a significant challenge for emerging DTx companies.
-(cid:129) Collaborations with healthcare providers. DTx players in certain markets, such as
+ Collaborations with healthcare providers. DTx players in certain markets, such as
 China, need to cooperate with healthcare providers, primarily hospitals, to
 commercialize their products. The ability to establish such cooperation with
 healthcare providers poses as a significant entry barrier for new players in cognitive
 impairment DTx market. New players would need to expend significant efforts and
 costs to integrate its DTx product into a hospital’s system before the products can
 reach patients.
-(cid:129) Evolving regulatory environment. The regulatory environment on DTx in most
+ Evolving regulatory environment. The regulatory environment on DTx in most
 markets is constantly evolving. Market participants must have the ability to
 accuratelyinterpretandadapttotheever-changingregulatoryenvironmenttoensure
 compliance and capitalize on regulations or policies that favor the growth of the
@@ -7268,7 +7268,7 @@ Million RMB
 Source: Frost & Sullivan Analysis
 The key assumptions and market policies used by Frost & Sullivan to estimate the above
 market size of the cognitive impairment DTx in China are as follows.
-(cid:129) Increasing prevalence. After surveying the relevant scientific literature and
+ Increasing prevalence. After surveying the relevant scientific literature and
 conducting expert interviews, Frost & Sullivan believes that the overall prevalence
 of the four major types of cognitive impairment in China is increasing as a result of
 a growing aging population. The prevalence of the four major types of cognitive
@@ -7276,20 +7276,20 @@ impairment in China is expected to reach 356.4 million in 2025 and 385.9 million
 in 2030. This represents a large patient base, which is expected to generate large
 clinical demands and contribute to the growth of the cognitive impairment DTx
 market size from 2023 to 2030.
-(cid:129) New market opportunities. The market is expected to diversify with products
+ New market opportunities. The market is expected to diversify with products
 targeting more cognitive impairment indications, thereby creating new market
 growth opportunities in the future.
 – 164 –
 
 === PAGE 174 ===
 INDUSTRY OVERVIEW
-(cid:129) Expected increase in market penetration. According to expert interviews, the
+ Expected increase in market penetration. According to expert interviews, the
 medical community is increasingly recognizing DTx as a viable therapy for
 cognitive impairment, as DTx offers numerous advantages and can complement
 traditional therapies to create value for patients and healthcare providers. As a
 result, the market penetration of DTx for cognitive impairment is expected to
 increase.
-(cid:129) Government policy support. Market growth is also driven by policies to promote
+ Government policy support. Market growth is also driven by policies to promote
 digital health and cognitive health. In recent years, the State Council and local
 governments have issued policies to promote the development of DTx. For example,
 in February 2022, the National Development and Reform Commission (the
@@ -7571,7 +7571,7 @@ The development of the cognitive impairment DTx market is expected to be driven
 primarily by increasing demand for cognitive impairment treatment, advances in innovative
 technologies, supportive regulatory measures and growing awareness of cognitive impairment
 DTx as a therapeutic option.
-(cid:129) High demand and large market potential. Driven by an aging population and an
+ High demand and large market potential. Driven by an aging population and an
 increasing focus on cognitive health, the number of patients seeking treatment for
 cognitive impairment is increasing globally. Compared to traditional treatment
 options, cognitive impairment DTx offers a more personalized and cost-effective
@@ -7579,7 +7579,7 @@ approach to managing these conditions. With more than 70% of the Chinese
 population having access to the Internet and mobile phones, cognitive impairment
 DTx can reach a population comparable to or potentially larger than traditional
 hospitals.
-(cid:129) Advances in innovative technologies. Innovative technologies are driving the
+ Advances in innovative technologies. Innovative technologies are driving the
 development of cognitive impairment DTx. Advances in AI are being used to
 improve patient treatment outcomes by providing clinically valid assessment and
 intervention products that are personalized based on patient data. In addition,
@@ -7588,7 +7588,7 @@ patients to train their cognitive functions and apply their newly acquired skill
 real-life situations, thereby increasing treatment adherence and overall
 effectiveness. These innovative technologies are expected to drive the adoption of
 cognitive impairment DTx.
-(cid:129) Measures to support the development of cognitive impairment DTx. DTx is gaining
+ Measures to support the development of cognitive impairment DTx. DTx is gaining
 official recognition and support. In recent years, the PRC government has issued
 policies to promote DTx, such as the 14th Five-Year Plan for National
 Informatization (《 “十四五”國家信息化規劃》) and the Guiding Principles for
@@ -7606,7 +7606,7 @@ impairment DTx.
 
 === PAGE 179 ===
 INDUSTRY OVERVIEW
-(cid:129) Growing recognition of cognitive impairment DTx. Public awareness of cognitive
+ Growing recognition of cognitive impairment DTx. Public awareness of cognitive
 impairment DTx has grown steadily in recent years. In 2023, the Chinese Expert
 Consensus on Cognitive Digital Therapeutics (《認知數字療法中國專家共識
 (2023)》) was published, representing the growing recognition of cognitive
@@ -7616,26 +7616,26 @@ impairment DTx to treat cognitive impairment. Leading cognitive impairment DTx
 companies are also beginning to participate in the establishment of cognitive centers
 in hospitals.
 Barriers to Entry of the Cognitive Impairment DTx Market
-(cid:129) Early entrant opportunities. Cognitive impairment DTx is an emerging field. Early
+ Early entrant opportunities. Cognitive impairment DTx is an emerging field. Early
 entrants can take advantage of the formative years of the cognitive impairment DTx
 industry to influence guidelines and expert consensus and help set industry
 standards. They can also establish collaborations with researchers and hospitals for
 publications and research opportunities.
-(cid:129) Challenges to achieving evidence-based medicine. Future medical-grade cognitive
+ Challenges to achieving evidence-based medicine. Future medical-grade cognitive
 impairment DTx products will need to undergo various clinical trials and real-world
 studies to verify their efficacy in order to achieve medical-grade safety and efficacy,
 and gain consumer confidence and regulatory approval. However, due to the cost
 and time required for clinical trials, conducting enough clinical trials and obtaining
 sufficient real-world data comparable to existing players is a significant barrier for
 new market entrants.
-(cid:129) Data access. cognitive impairment DTx can be enhanced with AI capabilities and
+ Data access. cognitive impairment DTx can be enhanced with AI capabilities and
 become more effective by improving its algorithm with real-world patient
 information.As usage increases, cognitive impairment DTx can collect more patient
 information and continually update the algorithms to improve the efficacy of
 assessment and intervention. For new entrants with a smaller user base, obtaining
 enough patient information to train and improve theirAI algorithms is a significant
 barrier.
-(cid:129) Customer lock-in. Cognitive impairment DTx typically requires patients to undergo
+ Customer lock-in. Cognitive impairment DTx typically requires patients to undergo
 diagnosis, intervention and feedback in sequential steps over a period of time.As a
 result, it is difficult to change therapy mid-stream. Because different cognitive
 impairment DTx for cognitive impairment may use different treatment modalities
@@ -10795,15 +10795,15 @@ expandthescopeofour2023RenewedCertificatetoincludeamnesticmildcognitiveimpairmen
 second quarter of 2025;
 (ii) attainingsignificantprogressofresearchanddevelopmentofotherproducts,includingbutnotlimited
 to:
-(cid:129) COVID-19InducedCognitiveImpairmentAssessmentandRecoveryTrainingSoftware:wehave
+ COVID-19InducedCognitiveImpairmentAssessmentandRecoveryTrainingSoftware:wehave
 completedtheclinicaltrialinOctober2023andsubmittedClassIImedicaldeviceregistrationfor
 this product candidate in the second quarter of 2024; and
-(cid:129) Quantitative CognitiveAssessment Software for Depression: we have initiated a clinical trial to
+ Quantitative CognitiveAssessment Software for Depression: we have initiated a clinical trial to
 evaluate the safety and efficacy of Quantitative CognitiveAssessment Software for Depression
 on the assessment of cognitive impairment induced by depression in cooperation with Anding
 Hospital, and expect to complete the trial by the first quarter of 2025; and
 (iii) expected breakthroughs in commercializing our approved products including but not limited to:
-(cid:129) productsinrelationtochilddevelopmentdeficiencies:inSeptember2023,wehaveenteredinto
+ productsinrelationtochilddevelopmentdeficiencies:inSeptember2023,wehaveenteredinto
 abusinesspartnershipwithachildren’shospitalinChinainrelationtoestablishmentofcognitive
 center, which has commenced operation in October 2023; and
 (iv) communication and expected cooperations with hospitals, taking into account the rapid growth in the
@@ -11124,25 +11124,25 @@ Over-allotment Option is not exercised), Shares held by certain of our Sharehold
 counttowardsthepublicfloatforthepurposeofRule8.08oftheListingRules.Detailsofthese
 Shareholders and their respective shareholding upon completion of the Share Subdivision and
 the Global Offering (assuming Over-allotment Option is not exercised) are set out below:
-(cid:129) ZTan Limited, a Controlling Shareholder and a BVI company wholly owned by Mr.
+ ZTan Limited, a Controlling Shareholder and a BVI company wholly owned by Mr.
 Tan, an executive Director, chairman of the Board and chief strategy officer of our
 Company, holding 21.75% of the total issued Shares;
-(cid:129) Wispirits Limited, a Controlling Shareholder and a BVI company wholly owned by
+ Wispirits Limited, a Controlling Shareholder and a BVI company wholly owned by
 Dr. Wang, an executive Director, CEO and chief research officer of our Company,
 holding 8.61% of the total issued Shares;
-(cid:129) Healthblooming Limited, the Proxy Grantor having granted voting rights in our
+ Healthblooming Limited, the Proxy Grantor having granted voting rights in our
 Company to Mr. Tan pursuant to the Voting ProxyAgreement, holding 7.83% of the
 total issued Shares;
-(cid:129) Wiseforward Limited and Neurobright Limited, each a close associate of Dr. Wang,
+ Wiseforward Limited and Neurobright Limited, each a close associate of Dr. Wang,
 an executive Director, CEO and chief research officer of our Company, holding
 3.51%, and 2.40% of the total issued Shares respectively;
-(cid:129) Wisdomspirit Holding Limited, a wholly owned entity of Trident Trust Company
+ Wisdomspirit Holding Limited, a wholly owned entity of Trident Trust Company
 (HK) Limited, the trustee of the trust established pursuant to the Pre-IPO Share
 Award Scheme of which Mr. Tan and Dr. Wang is each a beneficiary, holding 6.73%
 of the total issued Shares;
-(cid:129) Crusky Limited, a company wholly owned by Ms. Li Mingqiu, our non-executive
+ Crusky Limited, a company wholly owned by Ms. Li Mingqiu, our non-executive
 Director, holding 9.76% of the total issued Shares; and
-(cid:129) NLVC Shareholders, each a company ultimately controlled by Mr. Deng Feng, our
+ NLVC Shareholders, each a company ultimately controlled by Mr. Deng Feng, our
 non-executive Director, holding 10.02% of the total issued Shares in aggregate.
 – 247 –
 
@@ -12566,7 +12566,7 @@ BUSINESS
 === PAGE 268 ===
 BUSINESS
 We have built end-to-end capabilities ranging from R&D to commercialization.
-(cid:129) R&D and Technology. We have assembled a dedicated and multi-disciplinary R&D
+ R&D and Technology. We have assembled a dedicated and multi-disciplinary R&D
 team of 120 members with 26 holding a masters degree and two holding PhDs as of
 the Latest Practicable Date. The team closely tracks the medical data and
 information from patients generated by the System and our other products and
@@ -12592,7 +12592,7 @@ collaborative intervention model accomplishes this by selecting from millions of
 possible module combinations, enabled by our library of over 300 training modules,
 to design the optimal training session to activate the appropriate brain regions for
 the best therapeutic effect.
-(cid:129) Commercialization. We believe our commercialization capabilities are largely
+ Commercialization. We believe our commercialization capabilities are largely
 attributable to our achievements in evidence-based academic and scientific research
 in the fields of cognitive impairment, and the performance of our System and other
 products, which have gained us wide recognition by customers and accelerated the
@@ -12700,7 +12700,7 @@ and intervention of four major types of cognitive impairment: vascular disease i
 cognitive impairment, neurodegenerative disease induced cognitive impairment, psychiatric
 disorder induced cognitive impairment, and child development deficiency induced cognitive
 impairment.
-(cid:129) Vascular disease induced cognitive impairment. We have successfully
+ Vascular disease induced cognitive impairment. We have successfully
 commercialized the System for vascular cognitive impairment and cognitive
 impairment induced by aphasia. We have initiated three randomized controlled trials
 in collaboration with Anzhen Hospital on mild cognitive impairment induced by
@@ -12710,7 +12710,7 @@ induced cognitive impairment. Vascular disease induced cognitive impairment (the
 “VDCI”) DTx product enjoys significant market potential, with a prevalence of
 approximately 77.6 million and 445.1 million in 2023 in China and globally for the
 major types of VDCI, according to Frost & Sullivan.
-(cid:129) Neurodegenerative disease induced cognitive impairment. We have successfully
+ Neurodegenerative disease induced cognitive impairment. We have successfully
 commercialized the System for cognitive impairment induced by Alzheimer’s
 disease. We have also initiated a clinical trial on amnestic mild cognitive
 impairment. In addition, we are also conducting preclinical research on mild
@@ -12720,14 +12720,14 @@ Frost & Sullivan. Neurodegenerative disease induced cognitive impairment (the
 “NCI”) DTx product enjoys significant market potential, with a prevalence of NCI
 of approximately 74.1 million and 156.5 million in 2023 in China and globally for
 the major types of NCI, according to Frost & Sullivan.
-(cid:129) Psychiatric disorder induced cognitive impairment. We have successfully
+ Psychiatric disorder induced cognitive impairment. We have successfully
 commercialized the System for cognitive impairment induced by depression,
 schizophrenia and sleep disorders. We are under preclinical research on cognitive
 impairment induced by anxiety. Psychiatric disorder induced cognitive impairment
 (the “PCI”) DTx product enjoys significant market potential, with a prevalence of
 approximately 50.2 million and 348.6 million in 2023 in China and globally for the
 major types of PCI, according to Frost & Sullivan.
-(cid:129) Child development deficiency induced cognitive impairment. We have successfully
+ Child development deficiency induced cognitive impairment. We have successfully
 commercialized the System for cognitive impairment induced by attention deficient
 hyperactivity disorder (the “ADHD”) and autism. We are under preclinical research
 on cognitive impairment induced by language delay, cerebral palsy and dyslexia.
@@ -12777,7 +12777,7 @@ market.
 
 === PAGE 273 ===
 BUSINESS
-(cid:129) Diagnosis accuracy and efficiency. Our virtual human technology enables
+ Diagnosis accuracy and efficiency. Our virtual human technology enables
 physicians to perform medical assessment and communicate with a large number of
 patientsatonce.OurAItechnologyhelpsmedicalprofessionalsanalyzeinformation
 collected from patients and diagnose patients with an accuracy rate1 of over 90%.
@@ -12797,7 +12797,7 @@ products adopt various AI technologies such as natural language processing and
 image processing to accurately determine the responsiveness of patients’ input and
 enable medical professionals to assess multiple patients at once, which significantly
 enhances assessment efficiency.
-(cid:129) Treatment Efficacy. Traditional treatment of cognitive impairment primarily relies
+ Treatment Efficacy. Traditional treatment of cognitive impairment primarily relies
 on drug therapies, which are typically not available until later stages of cognitive
 impairment. Efficacy of these traditional drug therapies can be limited, and they
 cannot be applied to certain indications such as neurodegenerative diseases or
@@ -12851,7 +12851,7 @@ impairment,andtheoutstandingperformanceofourSystemandotherproductswithregulatory
 approvals, which have gained us wide recognition by customers and significantly accelerated
 the commercialization of our products. We have established an experienced sales and
 marketing team dedicated to academic promotion to further enhance our market position.
-(cid:129) Evidence-based research and academic achievements. In December 2015, we
+ Evidence-based research and academic achievements. In December 2015, we
 initiated a randomized controlled trial in cooperation with Xuanwu Hospital (the
 best hospital in neurology in China) (the “Xuanwu Trial”), which generated
 favorable safety and efficacy data that demonstrated the System’s effectiveness in
@@ -12869,7 +12869,7 @@ trials, according to Frost & Sullivan. The completion of the Xuanwu Trial also
 facilitated our commercialization of the System as a large number of top hospitals
 in China recognized the System as a viable assessment and intervention therapy for
 cognitive impairment.
-(cid:129) Industry recognition and acceptance. Our System has gained wide industry
+ Industry recognition and acceptance. Our System has gained wide industry
 recognition as an effective therapy for the assessment and intervention of various
 types of cognitive impairment. In March 2023, we co-authored the “Chinese expert
 consensus on digital therapeutics for cognitive impairment (2023 edition)” (《認知
@@ -12928,7 +12928,7 @@ expand our System to more cognitive impairment indications by developing upgrade
 of the System or developing new products. We believe this will enable us to provide
 customized and effective medical solutions to more cognitive impairment patients. In
 particular, we plan to focus on the following categories of indications:
-(cid:129) Vascular disease induced cognitive impairment: we have launched three clinical
+ Vascular disease induced cognitive impairment: we have launched three clinical
 trials to evaluate the System’s safety and efficacy on mild cognitive impairment
 induced by several types of vascular diseases, such as atrial fibrillation,
 hypertension and coronary heart disease. We have completed data collection and
@@ -12936,12 +12936,12 @@ cleaning for these trials in October 2024.We expect to complete data analysis by
 second quarter of 2025. We are also under preclinical research for post-cardiac
 surgery rehabilitation and heart failure-induced cognitive impairment indications
 and aim to initiate clinical trials in 2025 and 2026, respectively.
-(cid:129) Neurodegenerative disease induced cognitive impairment: we have completed a
+ Neurodegenerative disease induced cognitive impairment: we have completed a
 clinical trial to evaluate the System’s safety and efficacy on amnestic mild cognitive
 impairment and expect to complete data collection and analysis in 2025. We are also
 under preclinical research for Parkinson’s disease indication and aim to initiate
 clinical trial in 2026.
-(cid:129) Psychiatricdisorderinducedcognitiveimpairment:weplantoupgradetheSystem’s
+ Psychiatricdisorderinducedcognitiveimpairment:weplantoupgradetheSystem’s
 application on cognitive impairment induced by depression (which has been
 commercialized) to develop a more comprehensive solution for such indication. We
 are also under preclinical research for anxiety indication and aim to initiate clinical
@@ -12950,10 +12950,10 @@ trial in 2025.
 
 === PAGE 277 ===
 BUSINESS
-(cid:129) Child development deficiency induced cognitive impairment: We are under
+ Child development deficiency induced cognitive impairment: We are under
 preclinical research for cognitive impairment induced by language delay, cerebral
 palsy and dyslexia and aim to initiate clinical trials in 2025.
-(cid:129) Other disease. In addition to the four fields of cognitive impairments above, we also
+ Other disease. In addition to the four fields of cognitive impairments above, we also
 plan to conduct more research and development of the System for application in
 cognitive impairment induced by other diseases, such as bone fracture induced
 pains, diabetes and other metabolic diseases, and aim to initiate clinical trials in the
@@ -14135,11 +14135,11 @@ See “—Our Technologies” for more details on the virtual human and AI techn
 Competitive Advantages
 Supported by our core technologies of virtual human and AI, our System features two
 primary competitive advantages, namely assessment efficiency and treatment efficacy.
-(cid:129) Assessment Efficiency. Our virtual human technology can perform medical assessment
+ Assessment Efficiency. Our virtual human technology can perform medical assessment
 and communicate with a large number of patients at once. Our artificial intelligence
 technology enables physicians to perform assessment and intervention in a streamlined
 and user-friendly manner.
-(cid:129) Treatment Efficacy. By dynamically identifying and recommending the most suitable
+ Treatment Efficacy. By dynamically identifying and recommending the most suitable
 training out of millions of different possible combinations, our DNN algorithms enable
 the System to offer self-adaptive and personalized trainings that lead to more favorable
 enhancement of cognitive functions for patients who use the System together with drug
@@ -14859,7 +14859,7 @@ cognitive impairment assessment by physicians more accurate and efficient.
 We categorize products by medical device registration certificates, namely each medical
 device registration certificate represents one product. We typically apply for separate medical
 device registration certificates for the following purposes:
-(cid:129) Commercial purpose: having separate certificates (and therefore separate products)
+ Commercial purpose: having separate certificates (and therefore separate products)
 may help us better position the target users of each product sales and marketing
 plans with higher precision. Certain hospitals may also prefer having a separate and
 specific certificate for the product they purchase, even if the functions may also be
@@ -14869,14 +14869,14 @@ enhancements and upgrades from the System which are specific to the intended
 usage scenarios by customers. Examples include BCAT, SAS, DSS, COVID-19
 Induced Cognitive Impairment Assessment and Recovery Training Software and
 Quantitative Cognitive Assessment Software for Depression;
-(cid:129) Regulatory purpose: we may also apply for separate certificates for certain
+ Regulatory purpose: we may also apply for separate certificates for certain
 indications of the System, such as cognitive impairments induced by certain
 psychiatric diseases and ADHD. This is to prepare for potential future changes in
 medical device regulations which may require separate registration or
 reclassification of certain indications which are currently under Class II to Class III
 under the Medical Device Catalog due to the higher risks involved for these
 indications. Examples include the ADHD Software; and
-(cid:129) Technical purpose: we may develop and commercialize products that address
+ Technical purpose: we may develop and commercialize products that address
 indications beyond cognitive impairments, such as the Depression Treatment
 Software,whichtargetsdepressionitselfinsteadofcognitiveimpairmentinducedby
 depression. This type of products involve different technical parameters and/or
@@ -15227,7 +15227,7 @@ physicians to assess a large number of patients at once. Our virtual human techn
 comprises a series of technological capabilities obtained from third parties or independently
 developed by us.These capabilities include (i) speech recognition and correction; (ii) intention
 recognition; and (iii) automated assessment and analysis.
-(cid:129) Speech Recognition and Correction: We incorporate speech recognition product
+ Speech Recognition and Correction: We incorporate speech recognition product
 which enables the System to receive verbal responses from patients and convert
 them into meaningful semantics for the System’s further processing. Based on
 readily available speech recognition product, we also independently developed
@@ -15241,7 +15241,7 @@ properly in-licensed; (ii) the relevant in-licensing agreement allows us to use 
 product for commercial purpose on the basis of complying with PRC laws,
 regulations, rules and other government normative documents; and (iii) liability for
 mis-assessment arising from the in-licensed product shall lie with us;
-(cid:129) Intention Recognition: Our intent identification capability enables the System to
+ Intention Recognition: Our intent identification capability enables the System to
 identify whether the verbal response from the patient was made to answer the
 question, or to request clarification of the assessment question. The System can then
 proceed to analyze patient response or provide clarification, as appropriate;
@@ -15249,7 +15249,7 @@ proceed to analyze patient response or provide clarification, as appropriate;
 
 === PAGE 326 ===
 BUSINESS
-(cid:129) Automatic Assessment and Analysis: Upon receiving input information from users,
+ Automatic Assessment and Analysis: Upon receiving input information from users,
 theSystemusesAImodelstoautomaticallyevaluatetheaccuracyoftheanswersand
 generates summary reports of assessment results, which could serve as a critical
 basis for diagnosis by physicians. See “—Artificial Intelligence” for details on the
@@ -15377,18 +15377,18 @@ clinical experts to bring us up-to-date insights and innovations from a global p
 === PAGE 329 ===
 BUSINESS
 Our R&D team is divided into the following three groups:
-(cid:129) Brain Research Institute: focusing on basic research and theory development. The
+ Brain Research Institute: focusing on basic research and theory development. The
 Brain Research Institute consists of the Scientific Research Project Department, the
 Pediatrics Research Department, the Aging Research Department, the Regulatory
 Approval Department, the Clinical Trial Department, the Emotion Research
 Department and the Basic Research and Cognitive Computing Department. Each
 department of the Brain Research Institute reports to the CEO;
-(cid:129) Product Innovation Center: focusing on overall planning, design and progress
+ Product Innovation Center: focusing on overall planning, design and progress
 control of DTx products. The Product Innovation Center consists of the Geriatric
 Product Technology Department, Pediatrics Products Department, Art Design
 Department and the Task Planning Department. Each department of the Product
 Innovation Center reports to the CTO who in turn reports to the CEO; and
-(cid:129) Technology Research Center: focusing on product development and testing. The
+ Technology Research Center: focusing on product development and testing. The
 Technology Research Center consists of the Training Task R&D Department, the
 Platform Technology Team, the Operations, Maintenance and Equipment
 Management Department, the Android Team, the Testing Team, the Project Team,
@@ -15418,16 +15418,16 @@ BUSINESS
 To ensure the quality development of our product, we have established a streamlined
 R&D system that prioritizes scientific validity, patient compliance and R&D efficiency.
 Specifically, we focus on the three key phases of our R&D process.
-(cid:129) The first phase is basic research. The Brain Research Institute, an internal group of
+ The first phase is basic research. The Brain Research Institute, an internal group of
 talents within our R&D team, conducts scientific research and design based on
 scientific paradigms and literature. The scientific team conducts complete research
 and discussion to ensure that the design parameters of new products adheres to the
 latest scientific principles and clinical data.
-(cid:129) The second phase is planning. The Product Innovation Center creates product
+ The second phase is planning. The Product Innovation Center creates product
 designs based on the parameters prepared by the Brain Research Institute. To make
 our products more engaging, the team adds fun elements such as games while
 adhering to the scientific research framework and paradigm understanding.
-(cid:129) The third phase is development and testing, which is handled by the Technology
+ The third phase is development and testing, which is handled by the Technology
 Research Center. We create an internal beta version based on the designs for testing.
 Users test the product and provide feedback via questionnaires, and we use the data
 to determine whether our products are complete, interesting and effective in
@@ -17369,8 +17369,8 @@ BUSINESS
 ESG issues by taking into consideration any metrics and targets stipulated in applicable laws,
 regulations and industry standards, including pollutants/greenhouse gas emissions, water and
 electricity consumption, among others. We also plan to follow the principles below:
-(cid:129) We strictly comply with all applicable laws and regulations for ESG matters.
-(cid:129) We plan to hold periodically training sessions to improve employee awareness and
+ We strictly comply with all applicable laws and regulations for ESG matters.
+ We plan to hold periodically training sessions to improve employee awareness and
 equip them with the sustainable and environmental friendly techniques and
 knowledge.
 ESG Governance and Risk Identification
@@ -17387,18 +17387,18 @@ environment, and the communities in which we operate. The Board and ESG working 
 regularly convene to discuss key ESG related topics and identify whether we are subject to any
 risks, challenges and opportunities in the following aspects.
 Environment Society Corporate Governance
-(cid:129) Energy consumption; (cid:129) Product innovation; (cid:129) Data security;
-(cid:129) Use of renewable (cid:129) Product liabilities; (cid:129) Information disclosure;
+ Energy consumption; Product innovation; Data security;
+ Use of renewable Product liabilities; Information disclosure;
 energy;
-(cid:129) Intellectual property (cid:129) Anti-bribery and
+ Intellectual property Anti-bribery and
 protection; anti-fraud management;
-(cid:129) Patient privacy (cid:129) Related party
+ Patient privacy Related party
 protection; transaction management;
-(cid:129) Employee health and (cid:129) Internal audit;
+ Employee health and Internal audit;
 safety;
-(cid:129) Insider trading;
-(cid:129) Compensation and labor
-policies. (cid:129) Risk and compliance
+ Insider trading;
+ Compensation and labor
+policies. Risk and compliance
 management.
 – 370 –
 
@@ -17556,7 +17556,7 @@ included inAppendix I to this Prospectus for details regarding these risks. We h
 series of risk management policies which set out a risk management framework to identify,
 assess, evaluate and monitor key risks associated with our strategic objectives on an ongoing
 basis. The following key principles outline our approach to risk management:
-(cid:129) The relevant departments in our Company, including but not limited to the finance
+ The relevant departments in our Company, including but not limited to the finance
 department and the human resources department, are responsible for implementing
 our risk management policy and carrying out our day-to-day risk management
 practice. Each department is responsible for identifying and evaluating risks
@@ -17569,7 +17569,7 @@ management reports periodically for our management’s review.
 
 === PAGE 384 ===
 BUSINESS
-(cid:129) Our internal control department will coordinate, oversee and manage the overall
+ Our internal control department will coordinate, oversee and manage the overall
 risks associated with our business operations and quality control mainly including
 (i) reviewing our corporate risk in light of our corporate risk tolerance, (ii)
 maintaining a key risk list and leading corresponding risk management activities,
@@ -17577,7 +17577,7 @@ and (iii) organizing revision and update of the key risk list. Our management an
 internal control department will be responsible for carrying out the risk prevention
 and management activities with relevant department, internal audit department and
 security department will conduct irregular reviews.
-(cid:129) Our management will be responsible for (i) reviewing the risk management
+ Our management will be responsible for (i) reviewing the risk management
 information collected by our internal control department every six months, (ii)
 reviewing annual risk management report of our Company, and (iii) overseeing
 internal control department and conducting annual risk evaluations.
@@ -17588,7 +17588,7 @@ set out a framework to identify, assess, evaluate and monitor key risks associat
 strategic objectives on an ongoing basis.
 Below is a summary of the internal control policies, measures and procedures we have
 implemented or plan to implement:
-(cid:129) We have adopted various measures and procedures regarding each aspect of our
+ We have adopted various measures and procedures regarding each aspect of our
 businessoperation,suchasrelatedpartytransaction,riskmanagement,protectionof
 intellectual property, environmental protection and occupational health and safety.
 For more information, see “—Intellectual Property” and “—Environmental,
@@ -17598,10 +17598,10 @@ employee training program. Our internal audit department conducts audit field wo
 to monitor the implementation of our internal control policies, reports the weakness
 identified to our management and audit committee and follows up on the
 rectification actions.
-(cid:129) Our Directors (who are responsible for monitoring the corporate governance of our
+ Our Directors (who are responsible for monitoring the corporate governance of our
 Group) with help from our legal advisers, will also periodically review our
 compliance status with all relevant laws and regulations after the Listing.
-(cid:129) We have established an audit committee which (i) makes recommendations to our
+ We have established an audit committee which (i) makes recommendations to our
 Directors on the appointment and removal of external auditors, and (ii) reviews the
 financial statements and renders advice in respect of financial reporting as well as
 oversees internal control procedures of our Group.
@@ -17609,19 +17609,19 @@ oversees internal control procedures of our Group.
 
 === PAGE 385 ===
 BUSINESS
-(cid:129) We have engaged SPDB International Capital Limited as our compliance adviser to
+ We have engaged SPDB International Capital Limited as our compliance adviser to
 provideadvicetoourDirectorsandmanagementteamuntiltheendofthefirstfiscal
 year after the Listing regarding matters relating to the Listing Rules. Our
 compliance adviser is expected to ensure our use of funding complies with the
 section headed “Future Plans and Use of Proceeds” in this Prospectus after the
 Listing, as well as to provide support and advice regarding requirements of relevant
 regulatory authorities in a timely fashion.
-(cid:129) We plan to engage a PRC law firm to advise us on and keep us abreast with PRC
+ We plan to engage a PRC law firm to advise us on and keep us abreast with PRC
 laws and regulations after the Listing. We will continue to arrange various trainings
 to be provided by external legal advisers from time to time when necessary and/or
 any appropriate accredited institution to update our Directors, senior management,
 and relevant employees on the latest PRC laws and regulations.
-(cid:129) We plan to seek advice from law firms in the United States, the European Union and
+ We plan to seek advice from law firms in the United States, the European Union and
 other jurisdictions where we currently operate or may operate in the future to keep
 us abreast of applicable local laws and regulations after the Listing. We will
 continue to arrange various trainings to be provided by external legal advisors from
@@ -17629,7 +17629,7 @@ time to time when necessary and/or any appropriate accredited institution to upd
 our Directors, senior management, and relevant employees on the latest laws and
 regulations in the jurisdictions in which we currently operate or may operate in the
 future.
-(cid:129) We maintain strict confidentiality and privacy policies regarding the collection,
+ We maintain strict confidentiality and privacy policies regarding the collection,
 analysis, storage and transmission of the data of our subjects and clinical trial
 results. Our project manager and data manager prepare and review study protocols
 to ensure compliance with GCP requirements, including confidentiality and privacy
@@ -18471,15 +18471,15 @@ COMPLIANCE ADVISER
 Our Company has appointed SPDB International Capital Limited as our Compliance
 Adviser pursuant to Rule 3A.19 of the Listing Rules. Pursuant to Rule 3A.23 of the Listing
 Rules, our Compliance Adviser will advise our Company in the following circumstances:
-(cid:129) before the publication of any regulatory announcement, circular or financial report;
-(cid:129) where a transaction, which might be a notifiable or connected transaction, is
+ before the publication of any regulatory announcement, circular or financial report;
+ where a transaction, which might be a notifiable or connected transaction, is
 contemplated, including shares issues, sales or transfers of treasury shares and share
 repurchases;
-(cid:129) whereourCompanyproposestousetheproceedsoftheGlobalOfferinginamanner
+ whereourCompanyproposestousetheproceedsoftheGlobalOfferinginamanner
 different from that detailed in this Prospectus or where our business activities,
 developments or results deviate from any forecast, estimate or other information in
 this Prospectus; and
-(cid:129) where the Stock Exchange makes an inquiry of our Company under Rule 13.10 of
+ where the Stock Exchange makes an inquiry of our Company under Rule 13.10 of
 the Listing Rules.
 The term of the appointment of our Compliance Adviser shall commence on the Listing
 Date and end on the date on which our Company distribute our annual report in respect of our
@@ -18928,21 +18928,21 @@ Despite that Mr. Tan and Dr. Wang, our executive Directors, are our Controlling
 Shareholders, our Directors are of the view that our Board and senior management team are
 able to manage our business independently from the Controlling Shareholders and their
 respective close associates for the following reasons:
-(cid:129) each of our Directors is aware of his or her fiduciary duties as a Director which
+ each of our Directors is aware of his or her fiduciary duties as a Director which
 require, among others, that he or she must act for the benefit of and in the best
 interests of our Company and not allow any conflict between his or her duties as a
 Director and his or her personal interests;
-(cid:129) our daily management and operations are carried out by a senior management team,
+ our daily management and operations are carried out by a senior management team,
 all of whom have substantial experience in the industry in which our Company is
 engaged, and will therefore be able to make business decisions that are in the best
 interests of our Group. For details of the industry experience of our senior
 management team, see “Directors and Senior Management”;
-(cid:129) we have three independent non-executive Directors which (i) account for more than
+ we have three independent non-executive Directors which (i) account for more than
 one-thirdoftheBoard,(ii)donotandwillnotholdanydirectorshipsormanagement
 positions in our Controlling Shareholders, and (iii) possess requisite industry
 knowledge and experience and are qualified to provide independent, sound and
 professional advice to our Company;
-(cid:129) in the event that there is a potential conflict of interest arising out of any transaction
+ in the event that there is a potential conflict of interest arising out of any transaction
 to be entered into between our Group and our Directors or their respective
 associates,theinterestedDirector(s)isrequiredtodeclarethenatureofsuchinterest
 before voting at the relevant Board meetings of our Company in respect of such
@@ -18955,7 +18955,7 @@ quorum) on any resolution of the Board approving any contract or arrangement or
 proposal in which he or she or any of his or her close associates (as defined in the
 Articles) has/have a material interest except for certain circumstances as set out in
 the Articles; and
-(cid:129) we have adopted a series of corporate governance measures to manage conflicts of
+ we have adopted a series of corporate governance measures to manage conflicts of
 interest, if any, between our Group and our Controlling Shareholders and their close
 associates which would support our independent management. For more details, see
 “Corporate Governance Measures” below.
@@ -18993,29 +18993,29 @@ Our Directors recognize the importance of good corporate governance in protectin
 Shareholders’interests. We have adopted the following measures to safeguard good corporate
 governance standards and to avoid potential conflict of interests between our Group and our
 Controlling Shareholders:
-(cid:129) under the Articles of Association, where a Shareholders’ meeting is to be held for
+ under the Articles of Association, where a Shareholders’ meeting is to be held for
 considering proposed transactions in which any of our Controlling Shareholders or
 any of their associates has a material interest, the Controlling Shareholders or their
 associates will not vote on the relevant resolutions;
-(cid:129) our Company has established internal control mechanisms to identify connected
+ our Company has established internal control mechanisms to identify connected
 transactions.IfourCompanyentersintoconnectedtransactionswithourControlling
 Shareholders or any of their associates upon Listing, our Company will comply with
 the applicable Listing Rules;
-(cid:129) the independent non-executive Directors will review, on an annual basis, whether
+ the independent non-executive Directors will review, on an annual basis, whether
 there are any conflicts of interests between our Group and our Controlling
 Shareholders (the “Annual Review”) and provide impartial and professional advice
 to protect the interests of our minority Shareholders;
-(cid:129) our Controlling Shareholders will undertake to provide all information necessary,
+ our Controlling Shareholders will undertake to provide all information necessary,
 including all relevant financial, operational and market information and any other
 necessary information as required by the independent non-executive Directors for
 the Annual Review;
-(cid:129) our Company will disclose decisions on matters reviewed by the independent
+ our Company will disclose decisions on matters reviewed by the independent
 non-executive Directors either in its annual reports or by way of announcements as
 required by the Listing Rules;
-(cid:129) where our Directors reasonably request the advice of independent professionals,
+ where our Directors reasonably request the advice of independent professionals,
 such as financial advisers, the appointment of such independent professionals will
 be made at our Company’s expenses; and
-(cid:129) we have appointed SPDB International Capital Limited as our Compliance Adviser
+ we have appointed SPDB International Capital Limited as our Compliance Adviser
 to provide advice and guidance to us in respect of compliance with the applicable
 laws and regulations, as well as the Listing Rules, including various requirements
 relating to corporate governance.
@@ -19521,11 +19521,11 @@ FINANCIAL INFORMATION
 Control is transferred over time and revenue is recognized over time by reference to the
 progress towards complete satisfaction of the relevant performance obligation if one of the
 following criteria is met:
-(cid:129) the customer simultaneously receives and consumes the benefits provided by our
+ the customer simultaneously receives and consumes the benefits provided by our
 performance as we performs;
-(cid:129) our performance creates or enhances an asset that the customer controls as we
+ our performance creates or enhances an asset that the customer controls as we
 perform; or
-(cid:129) our performance does not create an asset with an alternative use to us and we have
+ our performance does not create an asset with an alternative use to us and we have
 an enforceable right to payment for performance completed to date.
 Otherwise, revenue is recognized at a point in time when the customer obtains control of
 the distinct good or service.
@@ -19576,28 +19576,28 @@ Inaddition,forfinancialreportingpurposes,fairvaluemeasurementsarecategorizedinto
 Level 1, 2 or 3 based on the degree to which the inputs to the fair value measurements are
 observable and the significance of the inputs to the fair value measurement in its entirety,
 which are described as follows:
-(cid:129) Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets
+ Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets
 or liabilities that the entity can access at the measurement date;
-(cid:129) Level 2 inputs are inputs, other than quoted prices included within Level 1, that are
+ Level 2 inputs are inputs, other than quoted prices included within Level 1, that are
 observable for the asset or liability, either directly or indirectly; and
-(cid:129) Level 3 inputs are unobservable inputs for the asset or liability.
+ Level 3 inputs are unobservable inputs for the asset or liability.
 Research and Development Expenditure
 Expenditure on research activities is recognized as an expense in the period in which it
 is incurred. An internally-generated intangible asset arising from development activities (or
 from the development phase of an internal project) is recognized if, and only if, all of the
 following have been demonstrated:
-(cid:129) the technical feasibility of completing the intangible asset so that it will be available
+ the technical feasibility of completing the intangible asset so that it will be available
 for use or sale;
-(cid:129) the intention to complete the intangible asset and use or sell it;
-(cid:129) the ability to use or sell the intangible asset;
+ the intention to complete the intangible asset and use or sell it;
+ the ability to use or sell the intangible asset;
 – 426 –
 
 === PAGE 436 ===
 FINANCIAL INFORMATION
-(cid:129) how the intangible asset will generate probable future economic benefits;
-(cid:129) the availability of adequate technical, financial and other resources to complete the
+ how the intangible asset will generate probable future economic benefits;
+ the availability of adequate technical, financial and other resources to complete the
 development and to use or sell the intangible asset; and
-(cid:129) the ability to measure reliably the expenditure attributable to the intangible asset
+ the ability to measure reliably the expenditure attributable to the intangible asset
 during its development.
 The amount initially recognized for internally-generated intangible asset is the sum of the
 expenditureincurredfromthedatewhentheintangibleassetfirstmeetstherecognitioncriteria
@@ -20149,7 +20149,7 @@ Revenue
 Our revenue increased significantly from RMB24.4 million in the six months ended June
 30, 2023 to RMB51.9 million in the six months ended June 30, 2024, primarily due to the
 following changes in our various types of service:
-(cid:129) Our revenue from provision of the System integral software solutions in hospitals
+ Our revenue from provision of the System integral software solutions in hospitals
 increased significantly from RMB15.2 million in the six months ended June 30,
 2023 to RMB35.3 million in the six months ended June 30, 2024, primarily due to
 (i) an increase in the number of hospitals that purchased the System from 43 in the
@@ -20161,21 +20161,21 @@ our System from over 218,600 times in the six months ended June 30, 2023 to
 approximately 432,500 times in the six months ended June 30, 2024; and (iii) an
 increase in the amount of assessment prescription by physicians to facilitate their
 medical diagnosis using the System.
-(cid:129) Our revenue from provision of the System integral software solutions out of
+ Our revenue from provision of the System integral software solutions out of
 hospitals increased significantly from RMB1.9 million in the six months ended June
 30, 2023 to RMB10.5 million in the six months ended June 30, 2024, primarily due
 to (i) a significant increase in the number of patients from approximately 3,300 to
 over 10,200 over the same periods who selected our System for use in their own
 homes after initially using the System in hospitals; and (ii) an increase in
 subscription period for the System by users out of hospitals.
-(cid:129) Our revenue from research projects increased from RMB5.1 million in the six
+ Our revenue from research projects increased from RMB5.1 million in the six
 months ended June 30, 2023 to RMB5.9 million in the six months ended June 30,
 2024, primarily due to an increase in the average project scale.
 Cost of Sales
 Our cost of sales increased significantly from RMB12.3 million in the six months ended
 June 30, 2023 to RMB27.4 million in the six months ended June 30, 2024, primarily due to the
 following changes in cost of sales in our various types of service:
-(cid:129) Our cost of sales for provision of the System integral software solutions in hospitals
+ Our cost of sales for provision of the System integral software solutions in hospitals
 increased significantly from RMB8.0 million in the six months ended June 30, 2023
 to RMB18.8 million in the six months ended June 30, 2024, primarily due to an
 RMB10.8 million increase in operational costs, incurred by ourselves and with
@@ -20188,12 +20188,12 @@ in construction and depreciation costs.
 
 === PAGE 451 ===
 FINANCIAL INFORMATION
-(cid:129) Our cost of sales for provision of the System integral software solutions out of
+ Our cost of sales for provision of the System integral software solutions out of
 hospitals increased significantly from RMB0.8 million in the six months ended June
 30, 2023 to RMB3.8 million in the six months ended June 30, 2024, primarily due
 to an increase in the operational costs incurred with third-party service providers
 that provided operational support.
-(cid:129) Our cost of sales for research projects increased significantly from RMB2.6 million
+ Our cost of sales for research projects increased significantly from RMB2.6 million
 in the six months ended June 30, 2023 to RMB4.7 million in the six months ended
 June 30, 2024, primarily due to an increase in costs for staff who provided data
 analytics and system development services to our customers driven by the sizes of
@@ -20272,22 +20272,22 @@ The Year Ended December 31, 2022 Compared to The Year Ended December 31, 2023
 Revenue
 Our revenue increased significantly from RMB11.3 million in 2022 to RMB67.2 million
 in 2023, primarily due to the following changes:
-(cid:129) Our revenue from provision of the System integral software solutions in hospitals
+ Our revenue from provision of the System integral software solutions in hospitals
 increased significantly from RMB4.1 million in 2022 to RMB41.2 million in 2023,
 primarily due to (i) an increase in the number of hospitals that purchased the System
 from 17 in 2022 to 75 in 2023, with a customer retention rate (being the percentage
 of hospitals that purchased our System in 2022 who also purchased our System in
 2023) of 100.0%; and (ii) an increase in the number of times patients used our
 System from approximately 113,500 times in 2022 to over 850,000 times in 2023.
-(cid:129) Our revenue from provision of the System integral software solutions out of
+ Our revenue from provision of the System integral software solutions out of
 hospitals increased significantly from RMB1.1 million in 2022 to RMB5.7 million
 in 2023, primarily due to a significant increase in the number of patients from
 approximately 1,800 to approximately 4,900 over the same periods who selected our
 System for use in their own homes after initially using the System in hospitals, as
 well as an increase in selling price of our out-of-hospital product.
-(cid:129) Our revenue from research projects increased from RMB6.0 million in 2022 to
+ Our revenue from research projects increased from RMB6.0 million in 2022 to
 RMB14.3 million in 2023, primarily due to an increase in the average project scale.
-(cid:129) Our revenue from training facilitation service increased from nil in 2022 to RMB5.1
+ Our revenue from training facilitation service increased from nil in 2022 to RMB5.1
 million in 2023, primarily because we began offering training facilitation service in
 2023. In 2023, we facilitated 29 training sessions to over 3,100 attendees.
 – 444 –
@@ -20298,22 +20298,22 @@ Cost of Sales
 Our cost of sales increased significantly from RMB8.0 million in 2022 to RMB35.1
 million in 2023, primarily due to the following changes in cost of sales in our various types
 of service:
-(cid:129) Our cost of sales for provision of the System integral software solutions in hospitals
+ Our cost of sales for provision of the System integral software solutions in hospitals
 increased significantly from RMB3.4 million in 2022 to RMB20.8 million in 2023,
 primarily due to (i) an RMB16.1 million increase in operational costs, incurred by
 ourselves and with third-party service providers that provide operational support in
 cognitive centers on our behalf; and (ii) an increase in the number of cognitive
 centers from which we incurred construction costs from 14 in 2022 to 48 in 2023,
 which led to an increase in construction and depreciation costs.
-(cid:129) Our cost of sales for provision of the System integral software solutions out of
+ Our cost of sales for provision of the System integral software solutions out of
 hospitals increased significantly from RMB0.6 million in 2022 to RMB2.4 million
 in 2023, primarily due to an increase in the operational costs incurred with
 third-party service providers that provided operational support.
-(cid:129) Our cost of sales for research projects increased significantly from RMB4.0 million
+ Our cost of sales for research projects increased significantly from RMB4.0 million
 in 2022 to RMB9.5 million in 2023, primarily due to an increase in costs for staff
 who provided data analytics and system development services to our customers
 driven by the sizes of and demands by the projects.
-(cid:129) Our cost of sales for training facilitation service was nil and RMB2.2 million in
+ Our cost of sales for training facilitation service was nil and RMB2.2 million in
 2022 and 2023, respectively. In 2023, we facilitated 29 training sessions and
 incurred relevant costs in lecturer compensation, venue and labor.
 Gross Profit and Gross Profit Margin
@@ -20445,7 +20445,7 @@ Year Ended December 31, 2021 Compared to Year Ended December 31, 2022
 Revenue
 Our revenue increased significantly from RMB2.3 million in 2021 to RMB11.3 million in
 2022, primarily due to the following changes in our various types of service:
-(cid:129) Our revenue from provision of the System integral software solutions in hospitals
+ Our revenue from provision of the System integral software solutions in hospitals
 increased significantly from RMB1.0 million in 2021 to RMB4.1 million in 2022,
 primarilydueto(i)anincreaseinthenumberofhospitalsthatpurchasedourSystem
 from six in 2021 to 17 in 2022, with customer retention rate (being the percentage
@@ -20457,16 +20457,16 @@ times in 2022.
 
 === PAGE 458 ===
 FINANCIAL INFORMATION
-(cid:129) Our revenue from provision of the System integral software solutions out of
+ Our revenue from provision of the System integral software solutions out of
 hospitals increased significantly from RMB0.2 million in 2021 to RMB1.1 million
 in 2022, primarily due to an increase in the number of patients from approximately
 690 to approximately 1,800 over the same year who selected our System for use in
 their own homes after initially using the System in hospitals.
-(cid:129) Our revenue from research projects increased significantly from RMB0.4 million in
+ Our revenue from research projects increased significantly from RMB0.4 million in
 2021 to RMB6.0 million in 2022, primarily due to (i) an increase in the number of
 completed projects from two in 2021 to 12 in 2022; and (ii) an increase in the
 average project size.
-(cid:129) Our revenue from other services decreased from RMB0.7 million in 2021 to
+ Our revenue from other services decreased from RMB0.7 million in 2021 to
 RMB0.1 million in 2022, primarily because we sold approximately 300 user
 accounts in 2021, which we ceased to sell since 2022. We also gradually ceased the
 promotion and sales of integrated equipment in 2022, and only made sales upon
@@ -20474,16 +20474,16 @@ existing customers’ requests.
 Cost of Sales
 OurcostofsalesincreasedsignificantlyfromRMB1.0millionin2021toRMB8.0million
 in 2022, primarily due to the following changes in our various types of service:
-(cid:129) Our cost of sales for provision of the System integral software solutions in hospitals
+ Our cost of sales for provision of the System integral software solutions in hospitals
 increased significantly from RMB0.4 million in 2021 to RMB3.4 million in 2022,
 primarily due to an increase of RMB2.4 million in operational costs, incurred by
 ourselves and with third-party service providers that provide operational support in
 cognitive centers on our behalf.
-(cid:129) Our cost of sales for provision of the System integral software solutions out of
+ Our cost of sales for provision of the System integral software solutions out of
 hospitals increased significantly from RMB0.1 million in 2021 to RMB0.6 million
 in 2022, primarily due to an RMB0.4 million increase in the operational costs
 incurred with third-party service providers that provided operational support.
-(cid:129) Our cost of sales for research projects increased significantly from RMB0.4 million
+ Our cost of sales for research projects increased significantly from RMB0.4 million
 in 2021 to RMB4.0 million in 2022, primarily due to an increase in costs for staff
 who provided data analytics and system development services to our customers.
 Gross Profit and Gross Profit Margin
@@ -21142,18 +21142,18 @@ FINANCIAL INFORMATION
 We intend to implement the following measures in order to improve our operating cash
 outflows position. See “Business—Business Sustainability and Commercialization Strategies”
 for more details.
-(cid:129) Further commercialization. We intend to continue to help hospitals establish
+ Further commercialization. We intend to continue to help hospitals establish
 cognitive centers, and fully capitalize on the commercialization potential of our
 Systeminnewcognitivecentersofthesehospitals.Inparticular,webecamethefirst
 organizer of a project initiated by the NHC under which we are tasked with helping
 to establish cognitive centers in over 2,100 public hospitals across China and
 promoting the development of cognitive impairment DTx market in China over the
 next five years.
-(cid:129) Brand and product awareness. We intend to recruit more talents with academic and
+ Brand and product awareness. We intend to recruit more talents with academic and
 professional experiences in the field of cognitive impairment DTx to expand our
 commercialization team and enhance the team’s academic and marketing
 capabilities.
-(cid:129) Product innovation and indication expansion. We plan to accelerate the
+ Product innovation and indication expansion. We plan to accelerate the
 development,registration,andcommercializationprocessestoexpandourSystemto
 more cognitive impairment indications by developing upgraded versions of the
 System or developing new products. As of the Latest Practicable Date, our System
@@ -21248,10 +21248,10 @@ resources available to us described below, we have sufficient working capital to
 125% of our costs, including R&D expenses, selling and distribution expenses, administrative
 expenses, finance costs and other expenses for at least the next 12 months from the date of this
 Prospectus:
-(cid:129) our future operating cash flows;
-(cid:129) our cash and cash equivalents as of the Latest Practicable Date;
-(cid:129) available equity and debt financing; and
-(cid:129) the estimated net proceeds from the Global Offering.
+ our future operating cash flows;
+ our cash and cash equivalents as of the Latest Practicable Date;
+ available equity and debt financing; and
+ the estimated net proceeds from the Global Offering.
 Our cash burn rate refers to the average monthly (i) net cash used in operating activities,
 which includes research and development expenses, and (ii) capital expenditures.We had bank
 balances and cash of RMB36.2 million as of October 31, 2024. We estimate that we will
@@ -21734,7 +21734,7 @@ exercised, at the Offer Price of HK$3.22 per Share.
 expected to be used for the payment of expenses for conducting further research and
 developmentactivities,advancingclinicaltrialsformoreindications,andadvancing
 selling and distribution activities of our Core Product, the System:
-(cid:129) approximately 23.0% of the net proceeds, or approximately HK$115.3 million,
+ approximately 23.0% of the net proceeds, or approximately HK$115.3 million,
 is expected to be used for the payment of expenses for the ongoing and future
 clinical trials and future commercialization efforts in China to expand the
 application of the System to new indications for the treatment of cognitive
@@ -21943,7 +21943,7 @@ Note:
 
 === PAGE 495 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) approximately 8.5% of the net proceeds, or approximately HK$42.6 million, is
+ approximately 8.5% of the net proceeds, or approximately HK$42.6 million, is
 expected to be used for the payment of expenses for further R&D of our
 System:
 o approximately 3.0% of the net proceeds, or approximately HK$15.0
@@ -22078,7 +22078,7 @@ interaction for DTx products.
 million, is expected to be used for the recruitment of three Android
 development engineers to develop mobile interactive experiences
 for different application and training task formats.
-(cid:129) approximately 8.5% of the net proceeds, or approximately HK$42.6 million, is
+ approximately 8.5% of the net proceeds, or approximately HK$42.6 million, is
 expected to be used for advancing selling and distribution activities of the
 System in the next two years:
 o approximately 5.5% of the net proceeds, or approximately HK$27.6
@@ -22121,7 +22121,7 @@ model in second- and third-tier cities.
 (iii) approximately 15.0% of the net proceeds, or approximately HK$75.2 million, is
 expected to be used for strengthening our capabilities inAI and related technologies
 in the next two years:
-(cid:129) approximately 5.0% of the net proceeds, or approximately HK$25.1 million, is
+ approximately 5.0% of the net proceeds, or approximately HK$25.1 million, is
 expectedtobeusedfor(i)strengtheningourvirtualhumantechnology;and(ii)
 building and/or improving various models under our AI technology, such as a
 multimodal cognitive computing model to enable more accurate assessment
@@ -22138,7 +22138,7 @@ analysis of cognitive impairments and improves diagnostic capabilities. The
 causal-based adaptive collaborative intervention model is a model based on
 causal inference that aims to provide optimal recommendations on the
 combination of interventions for patients; and
-(cid:129) approximately 10.0% of the net proceeds, or approximately HK$50.1 million,
+ approximately 10.0% of the net proceeds, or approximately HK$50.1 million,
 is expected to be used for recruiting personnel to strengthen our capabilities in
 AI and related technologies.
 – 490 –
@@ -22149,11 +22149,11 @@ FUTURE PLANS AND USE OF PROCEEDS
 expected to be paid out for accelerating the research, development and
 commercialization of other product candidates in and beyond our current product
 pipeline, prioritizing indications with promising prospects:
-(cid:129) approximately 2.5% of the net proceeds, or approximately HK$12.5 million, is
+ approximately 2.5% of the net proceeds, or approximately HK$12.5 million, is
 expected to be paid out for conducting and completing ongoing preclinical and
 clinical development of our current products and product candidates other than
 the System; and
-(cid:129) approximately 2.5% of the net proceeds, or approximately HK$12.5 million, is
+ approximately 2.5% of the net proceeds, or approximately HK$12.5 million, is
 expected to be paid out for developing DTx products to cover new types of
 cognitive impairments and beyond. We have commenced the initial
 commercialization of BCAT, SAS and DSS and expect to reach full
@@ -22170,16 +22170,16 @@ orthopedic patients; and
 expected to be used for brain science and DTx research centers in collaboration with
 academic institutions and hospitals in the next two years, prioritizing collaborations
 that are expected to generate near-term benefits to our R&D progress:
-(cid:129) approximately 10.0% of the net proceeds, or approximately HK$50.1 million,
+ approximately 10.0% of the net proceeds, or approximately HK$50.1 million,
 isexpectedtobeusedforsupportingtheoperationalactivitiesofR&Dprojects
 at these research centers, including expenses to enable the execution of various
 stages of preclinical and clinical trials such as patient enrollment, trial
 administration, data collection and analysis, among other activities;
-(cid:129) approximately 3.0% of the net proceeds, or approximately HK$15.0 million, is
+ approximately 3.0% of the net proceeds, or approximately HK$15.0 million, is
 expected to be used for obtaining the necessary licenses, equipment and other
 infrastructure to initiate the operations of the research centers and the R&D
 projects; and
-(cid:129) approximately 2.0% of the net proceeds, or approximately HK$10.0 million, is
+ approximately 2.0% of the net proceeds, or approximately HK$10.0 million, is
 expected to be used for recruiting R&D personnel to work for the research
 centers.
 (vi) approximately 8.5% of the net proceeds, or approximately HK$42.6 million, is
@@ -23310,13 +23310,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the HK eIPO White Form service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the HK eIPO White Form service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the
 person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or close associates; or
-(cid:129) are a Director or any of his/her close associates.
+ are an existing Shareholder or close associates; or
+ are a Director or any of his/her close associates.
 2. Application Channels
 The Hong Kong Public Offering period will begin at 9:00 a.m. on Monday, December 30,
 2024 and end at 12:00 noon on Friday, January 3, 2025 (Hong Kong time).
@@ -23393,16 +23393,16 @@ breach of the terms and conditions of this prospectus.
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual Applicants For Corporate Applicants
-(cid:129) Full name(s)2 as shown on your (cid:129) Full name(s)2 as shown on your
+ Full name(s)2 as shown on your Full name(s)2 as shown on your
 identity document identity document
-(cid:129) Identity document’s issuing country (cid:129) Identity document’s issuing country
+ Identity document’s issuing country Identity document’s issuing country
 or jurisdiction or jurisdiction
 – 522 –
 
 === PAGE 532 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 For Individual Applicants For Corporate Applicants
-(cid:129) Identity document type, with order (cid:129) Identity document type, with order
+ Identity document type, with order Identity document type, with order
 of priority: of priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification ii. Certificate of incorporation; or
@@ -23410,7 +23410,7 @@ document; or
 iii. Business registration certificate;
 iii. Passport; and or
 iv. Other equivalent document; and
-(cid:129) Identity document number (cid:129) Identity document number
+ Identity document number Identity document number
 Notes:
 1. If you are applying through the HK eIPO White Form service, you are required to provide a valid
 e-mailaddress,acontacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclare
@@ -23446,9 +23446,9 @@ other stock exchange.
 === PAGE 533 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -23710,21 +23710,21 @@ any application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “–A.Applications for Hong Kong Offer Shares – 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
 – 530 –
 
 === PAGE 540 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -23843,9 +23843,9 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 E. BAD WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Friday, January 3, 2025 if, there is:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) Extreme Conditions, (collectively, “Bad Weather Signals”),
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ Extreme Conditions, (collectively, “Bad Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Friday, January 3,
 2025.
 Instead they will open between 11:45 a.m. and 12:00 noon and/or close at 12:00 noon on
@@ -23925,27 +23925,27 @@ data supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund cheque and HK eIPO White Form e-Auto
+ processing your application and refund cheque and HK eIPO White Form e-Auto
 Refund payment instruction(s), where applicable, verification of compliance with
 the terms and application procedures set out in this prospectus and announcing
 results of allocation of Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
+ distributing communications from the Company and its subsidiaries;
 – 536 –
 
 === PAGE 546 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the Hong Kong Share Registrar to discharge their obligations to
 applicants and holders of the Shares and/or regulators and/or any other purposes to
 which applicants and holders of the Shares may from time to time agree.
@@ -23955,21 +23955,21 @@ applicants for and holders of Hong Kong Offer Shares will be kept confidential b
 Company and the Hong Kong Share Registrar may, to the extent necessary for achieving any
 of the above purposes, disclose, obtain or transfer (whether within or outside Hong Kong) the
 personal data to, from or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving bank and
+ the Company’s appointed agents such as financial advisers, receiving bank and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the Hong Kong Share Registrar, in each case for the purposes of
 providing its services or facilities or performing its functions in accordance with its
 rules or procedures and operating FINI and CCASS (including where applicants for
 the Hong Kong Offer Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the
 Hong Kong Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 – 537 –
@@ -24693,9 +24693,9 @@ theRulesGoverningtheListingofSecuritiesontheStockExchangeandbytheHongKongCompani
 Basis of consolidation
 TheHistoricalFinancialInformationincorporatesthefinancialstatementsoftheCompanyanditssubsidiaries.
 Control is achieved when the Company:
-(cid:129) has power over the investee;
-(cid:129) is exposed, or has rights, to variable returns from its involvement with the investee; and
-(cid:129) has the ability to use its power to affect its returns.
+ has power over the investee;
+ is exposed, or has rights, to variable returns from its involvement with the investee; and
+ has the ability to use its power to affect its returns.
 The Group reassesses whether or not it controls an investee if facts and circumstances indicate that there are
 changes to one or more of the three elements of control listed above.
 ConsolidationofasubsidiarybeginswhentheGroupobtainscontroloverthesubsidiaryandceaseswhenthe
@@ -24726,9 +24726,9 @@ Leases
 The Group as lessee
 Right-of-use assets
 The cost of right-of-use assets includes:
-(cid:129) the amount of the initial measurement of the lease liability;
-(cid:129) any lease payments made at or before the commencement date, less any lease incentives received; and
-(cid:129) any initial direct costs incurred by the Group.
+ the amount of the initial measurement of the lease liability;
+ any lease payments made at or before the commencement date, less any lease incentives received; and
+ any initial direct costs incurred by the Group.
 Right-of-use assets are measured at cost, less any accumulated depreciation and impairment losses, and
 adjusted for any remeasurement of lease liabilities.
 Right-of-useassetsaredepreciatedonastraight-linebasisovertheshorterofitsestimatedusefullifeandthe
@@ -24870,13 +24870,13 @@ Internally-generated intangible assets – research and development expenditure
 Expenditure on research activities is recognized as an expense in the period in which it is incurred.
 An internally-generated intangible asset arising from development activities (or from the development phase
 of an internal project) is recognized if, and only if, all of the following have been demonstrated:
-(cid:129) the technical feasibility of completing the intangible asset so that it will be available for use or sale;
-(cid:129) the intention to complete the intangible asset and use or sell it;
-(cid:129) the ability to use or sell the intangible asset;
-(cid:129) how the intangible asset will generate probable future economic benefits;
-(cid:129) theavailabilityofadequatetechnical,financialandotherresourcestocompletethedevelopmentandto
+ the technical feasibility of completing the intangible asset so that it will be available for use or sale;
+ the intention to complete the intangible asset and use or sell it;
+ the ability to use or sell the intangible asset;
+ how the intangible asset will generate probable future economic benefits;
+ theavailabilityofadequatetechnical,financialandotherresourcestocompletethedevelopmentandto
 use or sell the intangible asset; and
-(cid:129) the ability to measure reliably the expenditure attributable to the intangible asset during its
+ the ability to measure reliably the expenditure attributable to the intangible asset during its
 development.
 Theamountinitiallyrecognizedforinternally-generatedintangibleassetisthesumoftheexpenditureincurred
 fromthedatewhentheintangibleassetfirstmeetstherecognitioncriterialistedabove.Wherenointernallygenerated
@@ -24952,9 +24952,9 @@ net carrying amount on initial recognition.
 Financial assets
 Classification and subsequent measurement of financial assets
 Financial assets that meet the following conditions are subsequently measured at amortized cost:
-(cid:129) thefinancialassetisheldwithinabusinessmodelwhoseobjectiveistocollectcontractualcashflows;
+ thefinancialassetisheldwithinabusinessmodelwhoseobjectiveistocollectcontractualcashflows;
 and
-(cid:129) thecontractualtermsgiveriseonspecifieddatestocashflowsthataresolelypaymentsofprincipaland
+ thecontractualtermsgiveriseonspecifieddatestocashflowsthataresolelypaymentsofprincipaland
 interest on the principal amount outstanding.
 All other financial assets of the Group are subsequently measured at fair value.
 Amortized cost and interest income
@@ -24995,14 +24995,14 @@ theGroupconsidersbothquantitativeandqualitativeinformationthatisreasonableandsup
 historical experience and forward-looking information that is available without undue cost or effort.
 In particular, the following information is taken into account when assessing whether credit risk has
 increased significantly:
-(cid:129) anactualorexpectedsignificantdeteriorationinthefinancialinstrument’sexternal(ifavailable)
+ anactualorexpectedsignificantdeteriorationinthefinancialinstrument’sexternal(ifavailable)
 or internal credit rating;
-(cid:129) significantdeteriorationinexternalmarketindicatorsofcreditrisk,e.g.asignificantincreasein
+ significantdeteriorationinexternalmarketindicatorsofcreditrisk,e.g.asignificantincreasein
 the credit spread, the credit default swap prices for the debtor;
-(cid:129) existing or forecast adverse changes in business, financial or economic conditions that are
+ existing or forecast adverse changes in business, financial or economic conditions that are
 expected to cause a significant decrease in the debtor’s ability to meet its debt obligations;
-(cid:129) an actual or expected significant deterioration in the operating results of the debtor;
-(cid:129) an actual or expected significant adverse change in the regulatory, economic, or technological
+ an actual or expected significant deterioration in the operating results of the debtor;
+ an actual or expected significant adverse change in the regulatory, economic, or technological
 environmentofthedebtorthatresultsinasignificantdecreaseinthedebtor’sabilitytomeetits
 debt obligations.
 – I-23 –
@@ -25027,8 +25027,8 @@ identifying significant increase in credit risk before the amount becomes past d
 The Group considers the following as constituting an event of default for internal credit risk
 management purposes as historical experience indicates that receivables that meet either of the following
 criteria are generally not recoverable.
-(cid:129) when there is a breach of financial covenants by the counterparty; or
-(cid:129) information developed internally or obtained from external sources indicates that the debtor is
+ when there is a breach of financial covenants by the counterparty; or
+ information developed internally or obtained from external sources indicates that the debtor is
 unlikely to pay its creditors, including the Group, in full (without taking into account any
 collaterals held by the Group).
 Irrespectiveoftheabove,theGroupconsidersthatdefaulthasoccurredwhenafinancialassetismore
@@ -25066,9 +25066,9 @@ accordancewiththecontractandthecashflowsthattheGroupexpectstoreceive,discounteda
 interest rate determined at initial recognition.
 For collective assessment, the Group takes into consideration the following characteristics when
 formulating the grouping:
-(cid:129) Past-due status;
-(cid:129) Nature, size and industry of debtors; and
-(cid:129) External credit ratings where available.
+ Past-due status;
+ Nature, size and industry of debtors; and
+ External credit ratings where available.
 The grouping is regularly reviewed by management to ensure the constituents of each group continue
 to share similar credit risk characteristics.
 Interest income is calculated based on the gross carrying amount of the financial asset unless the
@@ -25105,13 +25105,13 @@ an acquirer in a business combination to which IFRS 3 Business Combinations appl
 designated as at FVTPL.
 Afinancialliabilityotherthanafinancialliabilityheldfortradingorcontingentconsiderationofanacquirer
 in a business combination may be designated as at FVTPL upon initial recognition if:
-(cid:129) such designation eliminates or significantly reduces a measurement or recognition inconsistency that
+ such designation eliminates or significantly reduces a measurement or recognition inconsistency that
 would otherwise arise; or
-(cid:129) the financial liability forms part of a group of financial assets or financial liabilities or both, which is
+ the financial liability forms part of a group of financial assets or financial liabilities or both, which is
 managed and its performance is evaluated on a fair value basis, in accordance with the Group’s
 documented risk management or investment strategy, and information about the grouping is provided
 internally on that basis; or
-(cid:129) itformspartofacontractcontainingoneormoreembeddedderivatives,andIFRS9permitstheentire
+ itformspartofacontractcontainingoneormoreembeddedderivatives,andIFRS9permitstheentire
 consolidated contract to be designated as at FVTPL.
 ForfinancialliabilitiesthataredesignatedasatFVTPL,theamountofchangeinthefairvalueofthefinancial
 liabilitythatisattributabletochangesinthecreditriskofthatliabilityisrecognizedinothercomprehensiveincome,
@@ -26130,13 +26130,13 @@ amortized cost and the effective interest rate calculated after taking into acco
 directly related issue costs is 6.23%.
 In respect of the long-term bond, the Group is required to comply with the following financial covenants as
 long as long-term bond is outstanding. The repayment on demand clauses mainly include:
-(cid:129) theinvestmentoftheGrouptoBinhaiNewArea,ShaoxingcityisnotlowerthanRMB50millionuntil
+ theinvestmentoftheGrouptoBinhaiNewArea,ShaoxingcityisnotlowerthanRMB50millionuntil
 the first anniversary of the subscription amount received; (the “First Year Investment”)
-(cid:129) theinvestmentoftheGrouptoBinhaiNewArea,ShaoxingcityisnotlowerthanRMB100millionuntil
+ theinvestmentoftheGrouptoBinhaiNewArea,ShaoxingcityisnotlowerthanRMB100millionuntil
 the second anniversary of the subscription amount received; (the “Second Year Investment”)
-(cid:129) theinvestmentoftheGrouptoBinhaiNewArea,ShaoxingcityisnotlowerthanRMB360millionuntil
+ theinvestmentoftheGrouptoBinhaiNewArea,ShaoxingcityisnotlowerthanRMB360millionuntil
 the third anniversary of the subscription amount received; (the “Third Year Investment”)
-(cid:129) the subscription amount is limited to be used for certain purposes, such as the Group’s ordinary
+ the subscription amount is limited to be used for certain purposes, such as the Group’s ordinary
 operation, capital expenditure and working Capital (the “Usage Limitation”).
 If the First Year Investment or Second Year Investment is lower than the abovementioned amounts, a grace
 periodof12monthswillbegiven.IftheThirdYearInvestmentislowerthanRMB360million,ShaoxingFundhas
@@ -27662,8 +27662,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the unaudited pro forma financial information reflects the proper application of
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’judgment, having regard to
 the reporting accountants’ understanding of the nature of the Group, the event or transaction
@@ -28723,44 +28723,44 @@ Asummary of the corporate information and the particulars of our subsidiaries ar
 in Note 37 to the Accountant’s Report set out in Appendix I.
 The following sets out the changes in the share capital of our subsidiaries within the two
 years immediately preceding the date of this Prospectus:
-(cid:129) On February 15, 2023, the registered capital of Zhejiang BrainAurora Medical
+ On February 15, 2023, the registered capital of Zhejiang BrainAurora Medical
 Technology Co., Ltd. (浙江腦動極光醫療科技有限公司) was increased to
 RMB14.891074 million and; on June 15, 2023, its registered capital was further
 increased to RMB16.545663 million.
-(cid:129) On March 10, 2023, Beijing WanxiangAurora Technology Co., Ltd. (北京萬相極光
+ On March 10, 2023, Beijing WanxiangAurora Technology Co., Ltd. (北京萬相極光
 科技有限公司) was established as a limited liability company in the PRC with an
 initial registered capital of RMB1 million.
 – IV-1 –
 
 === PAGE 658 ===
 APPENDIX IV STATUTORY AND GENERAL INFORMATION
-(cid:129) OnApril 18, 2023, BeijingYihuiTechnology Co. Ltd. (北京益慧科技有限公司) was
+ OnApril 18, 2023, BeijingYihuiTechnology Co. Ltd. (北京益慧科技有限公司) was
 established as a limited company (Sino-Foreign Equity Joint Venture) in the PRC
 with an initial registered capital of RMB1 million. On June 13, 2023, its registered
 capital was increased to RMB51 million, and was further increased to
 RMB51.126398 million on August 3, 2023.
-(cid:129) On May 22, 2023, Sichuan Huiyu Aurora Medical Technology Co., Ltd. (四川慧譽
+ On May 22, 2023, Sichuan Huiyu Aurora Medical Technology Co., Ltd. (四川慧譽
 極光醫療科技有限公司) was established as a limited liability company in the PRC
 with an initial registered capital of RMB1 million.
-(cid:129) On June 16, 2023, Zhejiang Zhiling Ruidong Medical Technology Co., Ltd. (浙江智
+ On June 16, 2023, Zhejiang Zhiling Ruidong Medical Technology Co., Ltd. (浙江智
 靈睿動醫療科技有限公司)wasestablishedasalimitedliabilitycompanyinthePRC
 with an initial registered capital of RMB100 million.
-(cid:129) On September 12, 2023, Beijing Hongze Technology Development Co., Ltd. (北京
+ On September 12, 2023, Beijing Hongze Technology Development Co., Ltd. (北京
 浤澤科技發展有限公司) increased its registered capital from RMB1 million to
 RMB1.4286 million.
-(cid:129) On October 17, 2023, Shenzhen BrainAurora MedicalTechnology Co., Ltd. (深圳腦
+ On October 17, 2023, Shenzhen BrainAurora MedicalTechnology Co., Ltd. (深圳腦
 動極光醫療科技有限公司)wasestablishedasalimitedliabilitycompanyinthePRC
 with an initial registered capital of RMB1 million.
-(cid:129) On November 15, 2023, Sichuan BrainAurora Medical Technology Co., Ltd. (四川
+ On November 15, 2023, Sichuan BrainAurora Medical Technology Co., Ltd. (四川
 腦動極光醫療科技有限公司) was established as a limited liability company in the
 PRC with an initial registered capital of RMB100 million.
-(cid:129) On January 12, 2024, Luzhou BrainAurora MedicalTechnology Co., Ltd. (瀘州腦動
+ On January 12, 2024, Luzhou BrainAurora MedicalTechnology Co., Ltd. (瀘州腦動
 極光醫療科技有限公司) was established as a limited liability company in the PRC
 with an initial registered capital of RMB1 million.
-(cid:129) On July 26, 2024, BrainAurora (Hebei) (腦動極光(河北)醫療科技有限公司) was
+ On July 26, 2024, BrainAurora (Hebei) (腦動極光(河北)醫療科技有限公司) was
 established as a limited liability company in the PRC with an initial registered
 capital of RMB3 million.
-(cid:129) On August 8, 2024, BrainAurora Jiangsu (江蘇腦動極光醫療科技有限公司) was
+ On August 8, 2024, BrainAurora Jiangsu (江蘇腦動極光醫療科技有限公司) was
 established as a limited liability company in the PRC with an initial registered
 capital of RMB36.5 million.
 Save as disclosed above, there has been no alteration in the share capital of any
@@ -28785,21 +28785,21 @@ deal in, the Shares in issue and to be issued as mentioned in this Prospectus; a
 (ii) the obligations of the Underwriters under the Underwriting Agreements
 becoming unconditional and the Underwriting Agreements not being terminated in
 accordance with the terms therein or otherwise:
-(cid:129) the Share Subdivision and the re-designation and re-classification of each
+ the Share Subdivision and the re-designation and re-classification of each
 authorised issued and unissued Preferred Share into an ordinary Share on a
 one-to-one basis were approved;
-(cid:129) upon completion of the Share Subdivision, all the authorised issued and
+ upon completion of the Share Subdivision, all the authorised issued and
 unissued Preferred Shares be re-designated and re-classified as ordinary
 Shares,havingtherightsandrestrictionsassetoutintheMemorandumandthe
 Articles;
-(cid:129) the Global Offering and the Over-allotment Option were approved and our
+ the Global Offering and the Over-allotment Option were approved and our
 Directors were authorized to effect the same, and to allot and issue the Offer
 Shares pursuant to the Global Offering and the Over-allotment Option;
-(cid:129) the grant of the Over-allotment Option by our Company to the International
+ the grant of the Over-allotment Option by our Company to the International
 Underwriterstoallotandissueupto15%oftheOfferSharesinitiallyavailable
 under the Global Offering to cover, among other things, the over-allocations in
 the International Offering was approved; and
-(cid:129) the proposed Listing was approved, and our Directors were authorized to
+ the proposed Listing was approved, and our Directors were authorized to
 implement such Listing;
 (c) ageneralunconditionalmandatewasgrantedtoourDirectorstoallot,issueanddeal
 with Shares or sell and/or transfer Shares out of treasury that are held as treasury
@@ -28819,11 +28819,11 @@ and/or transfer of any Shares out of treasury and are held as treasury shares), 
 specific authority granted by our Shareholders, or upon the exercise of the
 Over-allotment Option. This general mandate to issue Shares will remain in effect
 until:
-(cid:129) the conclusion of the next annual general meeting of our Company;
-(cid:129) the expiration of the period within which the next annual general meeting of
+ the conclusion of the next annual general meeting of our Company;
+ the expiration of the period within which the next annual general meeting of
 our Company is required to be held under any applicable laws or the Articles
 of Association; or
-(cid:129) it is varied or revoked by an ordinary resolution of our Shareholders at a
+ it is varied or revoked by an ordinary resolution of our Shareholders at a
 general meeting of our Company;
 whichever is the earliest;
 (d) a general unconditional mandate was granted to our Directors to exercise all power
@@ -28837,18 +28837,18 @@ stock exchange on which the Shares may be listed (and which is recognized by the
 SFC and the Stock Exchange for this purpose) and made in accordance with all
 applicable laws and regulations and the requirements of the Listing Rules. This
 general mandate to repurchase Shares will remain in effect until:
-(cid:129) the conclusion of the next annual general meeting of our Company;
-(cid:129) the expiration of the period within which the next annual general meeting of
+ the conclusion of the next annual general meeting of our Company;
+ the expiration of the period within which the next annual general meeting of
 our Company is required to be held under any applicable laws or the Articles
 of Association; or
-(cid:129) it is varied or revoked by an ordinary resolution of our Shareholders at a
+ it is varied or revoked by an ordinary resolution of our Shareholders at a
 general meeting of our Company;
 – IV-4 –
 
 === PAGE 661 ===
 APPENDIX IV STATUTORY AND GENERAL INFORMATION
 whichever is the earliest;
-(cid:129) the general unconditional mandate as mentioned in paragraph (d) above would
+ the general unconditional mandate as mentioned in paragraph (d) above would
 be extended by the addition thereto the aggregate number of Shares purchased
 pursuanttothemandatetorepurchaseSharesreferredtoinparagraph(e)above
 (up to 10% of the aggregate number of Shares in issue immediately following

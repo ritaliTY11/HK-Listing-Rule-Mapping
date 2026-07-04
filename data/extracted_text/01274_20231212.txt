@@ -120,7 +120,7 @@ application based on the amount specified by your broker or custodian, as determ
 the applicable laws and regulations in Hong Kong.
 No.of No.of No.of No.of
 HongKong Amount HongKong Amount HongKong Amount HongKong Amount
-OfferShares payableon OfferShares payableon OfferShares payableon OfferShares payable(cid:2)2)on
+OfferShares payableon OfferShares payableon OfferShares payableon OfferShares payable 2)on
 appliedfor application appliedfor application appliedfor application appliedfor application
 HK$ HK$ HK$ HK$
 100 2,994.90 3,000 89,847.06 50,000 1,497,451.01 400,000 11,979,608.10
@@ -503,20 +503,20 @@ products.
 The process of provision of our autonomous driving solutions is illustrated as follows:
 Suppliers iMotion OEMs
 Key components Key aspects of our integrated solutions and capabilities Vehicles
-(cid:129) System Integration
-(cid:129) Sensors (cid:129) Sensor Implementation
-SuperVisionTM (cid:129) Mechanical Parts (cid:129) Test and Validation
-(cid:129) T do h m e a b i a n s e c o v n e t r r s o io ll n e r o s f AD (cid:129) Quality Assurance and After-Market Service
-(cid:129) OTA
-(cid:129) NEVs
-(cid:129) ICE Vehicles
-(cid:129) Product Design and Development
-(cid:129) Sensors (cid:129) Algorithm and Function Development
-(cid:129) SoCs (cid:129) System Integration
-iDC and iFC products (cid:129) MCUs (cid:129) Test and Validation
-(cid:129) PCBs (cid:129) Manufacturing
-(cid:129) Mechanical Parts (cid:129) Quality Assurance and After-Market Service
-(cid:129) OTA
+ System Integration
+ Sensors Sensor Implementation
+SuperVisionTM Mechanical Parts Test and Validation
+ T do h m e a b i a n s e c o v n e t r r s o io ll n e r o s f AD Quality Assurance and After-Market Service
+ OTA
+ NEVs
+ ICE Vehicles
+ Product Design and Development
+ Sensors Algorithm and Function Development
+ SoCs System Integration
+iDC and iFC products MCUs Test and Validation
+ PCBs Manufacturing
+ Mechanical Parts Quality Assurance and After-Market Service
+ OTA
 – 4 –
 
 === PAGE 14 ===
@@ -609,7 +609,7 @@ proprietary middleware that can be used as a bridge to connect software with the
 hardware.Wedevelopalgorithmstoenabledifferentautonomousdrivingfunctionsandprovide
 OEMs with comprehensive services such as system diagnosis and over-the-air (OTA) updates.
 We believe that our solutions and products have the following advantages:
-(cid:129) SuperVisionTM. SuperVision™ is a fully operational point-to-point assisted driving
+ SuperVisionTM. SuperVision™ is a fully operational point-to-point assisted driving
 navigation solution on various road types and includes cloud-based enhancements
 and supports OTA updates subject to the system’s operational domain design
 (ODD). Equipped with 11 cameras powered by two Mobileye’s EyeQ®5H SoCs,
@@ -623,7 +623,7 @@ in urban areas (Urban NoA). The series production of SuperVision™ under our
 project in collaboration with Mobileye for ZEEKR 001 commenced in October
 2021. For SuperVision™ supplied to our OEM customers, we act as the system
 integrator and are not responsible for the assembly or manufacturing.
-(cid:129) iDC Series.The iDC series is our self-developedAD domain controller product line.
+ iDC Series.The iDC series is our self-developedAD domain controller product line.
 Compared to the typical architecture that includes both SoC and microcontroller
 (MCU), we creatively developed an advanced software architecture for our iDC
 series that integrates high-speed driving functions and low-speed parking functions
@@ -648,7 +648,7 @@ functions to cover more scenarios.
 
 === PAGE 17 ===
 SUMMARY
-(cid:129) iFC Series. Our iFC series is a budget solution for level 2 autonomous driving that
+ iFC Series. Our iFC series is a budget solution for level 2 autonomous driving that
 includes both comfort functions (such as LCC and ACC) and safety assistance
 functions (such as emergency lane keeping (ELK) and automatic emergency braking
 (AEB)). iFC 2.0 has started series production inAugust 2021 and can meet C-NCAP
@@ -806,7 +806,7 @@ Our comprehensive R&D capabilities are the bedrock of our success in the develop
 and commercialization of autonomous driving solutions and products, as highlighted by our (i)
 core algorithms, (ii) flexible middleware, and (iii) data loop and cloud platform.We utilize our
 core technologies to develop the iDC and iFC products.
-(cid:129) Core algorithms. We have developed a set of algorithms for autonomous driving, as
+ Core algorithms. We have developed a set of algorithms for autonomous driving, as
 highlighted by our perception and vehicle localization algorithms. By employing
 continuous data feedback loops, these algorithms can effectively handle more
 complex autonomous driving scenarios, including urban areas. Furthermore, we are
@@ -822,7 +822,7 @@ localization algorithms, our HPA can support long-distance memory parking up to
 two kilometers in underground garages. We are also developing simultaneous
 localization and mapping algorithms for open roads, aiming to resolve the limited
 and outdated map coverage issue of high-definition maps.
-(cid:129) Middleware. Our self-developed middleware does not rely on any open-source
+ Middleware. Our self-developed middleware does not rely on any open-source
 framework and removes the communication barrier between embedded MCUs and
 SoCs, allowing zero-copy data sharing in heterogeneous systems which improves
 the performance of systems by eliminating intermediate buffers when transferring
@@ -830,7 +830,7 @@ data. Through our self-developed middleware, we can deploy our software on
 different computing platforms and operating systems, enabling us to quickly adapt
 tothehardwareofvariousOEMs,reducingthetimeandcostofsystemdevelopment
 and improving the adaptability and iterability of our solutions and products.
-(cid:129) Data loop and the cloud platform. During the development process of our solutions
+ Data loop and the cloud platform. During the development process of our solutions
 and products, we work closely with a top-tier third-party map maker in China who
 provides data collection, desensitization and anonymization services. The processed
 data are stored on our cloud platform for development and test purposes.
@@ -845,27 +845,27 @@ autonomous driving algorithms and achieve a relatively short iteration cycle.
 OUR COMPETITIVE STRENGTHS
 We believe the following competitive strengths contributed to our historical success and
 will drive our future growth.
-(cid:129) A Tier 1 autonomous driving solution provider in China with competitive edge;
-(cid:129) Advanced autonomous driving technologies;
-(cid:129) Proven ability to commercialize autonomous driving solutions and products in large
+ A Tier 1 autonomous driving solution provider in China with competitive edge;
+ Advanced autonomous driving technologies;
+ Proven ability to commercialize autonomous driving solutions and products in large
 scale;
 – 12 –
 
 === PAGE 22 ===
 SUMMARY
-(cid:129) Comprehensive autonomous driving solution and product portfolio covering a wide
+ Comprehensive autonomous driving solution and product portfolio covering a wide
 price range of vehicles;
-(cid:129) Well-established partnerships with industry leaders; and
-(cid:129) Experienced management team supported by renowned shareholders.
+ Well-established partnerships with industry leaders; and
+ Experienced management team supported by renowned shareholders.
 OUR STRATEGIES
 We plan to implement the following strategies:
-(cid:129) Continue to pioneer the large-scale commercialization of autonomous driving
+ Continue to pioneer the large-scale commercialization of autonomous driving
 solutions and products;
-(cid:129) Increase our investment in R&D to solidify our leading position and prepare for
+ Increase our investment in R&D to solidify our leading position and prepare for
 commercialization of level 4 autonomous driving;
-(cid:129) Continue to deepen, expand, and diversify our OEM customer base;
-(cid:129) Enhance our value chain integration capabilities; and
-(cid:129) Build an international brand with a global presence.
+ Continue to deepen, expand, and diversify our OEM customer base;
+ Enhance our value chain integration capabilities; and
+ Build an international brand with a global presence.
 OUR CUSTOMERS
 Our customers primarily consist of OEMs that install our autonomous driving solutions
 and products on their vehicles. Substantially all of our revenue is generated within the PRC.
@@ -1182,7 +1182,7 @@ and achieve profitability in the future through: (i) continuously growing revenu
 expanding sales volume; (ii) improving gross margin; and (iii) enhancing operating leverage.
 With our improved profitability, we also expect our operating cash flow to improve
 concurrently.
-(cid:129) Continuously growing revenue and sales volume. We have achieved a steady
+ Continuously growing revenue and sales volume. We have achieved a steady
 growth in revenue and sales volume during the Track Record Period. We expect that
 our revenue and sales volume growth will be driven by the following factors:
 (1) Favorable Market Trend. The autonomous driving market and the market for
@@ -1210,7 +1210,7 @@ in terms of breadth and depth.
 
 === PAGE 31 ===
 SUMMARY
-(cid:129) Improving Gross Margin. Our ability to manage and control our costs is critical to
+ Improving Gross Margin. Our ability to manage and control our costs is critical to
 the success of our business and our profitability. We believe that we are able to
 improve our gross profit margin, primarily due to the following factors:
 (1) Better product mix with higher margins. We intend to improve our gross profit
@@ -1236,7 +1236,7 @@ project in collaboration with Mobileye in October 2021. In the future, with the
 expected increasing sales volume of SuperVision™ and the series production
 of iDC Mid, we expect to benefit from the increasing economies of scale and
 further improve our profitability.
-(cid:129) Enhancing Operating Leverage. During the Track Record Period, we incurred
+ Enhancing Operating Leverage. During the Track Record Period, we incurred
 significant operating expenses, including R&D expenses, administrative expenses
 and selling expenses, to develop, manage and promote new autonomous driving
 solutions. We endeavor to enhance operating leverage by maintaining R&D
@@ -1308,7 +1308,7 @@ Our business faces risks including those set out in the section headed “Risk F
 different investors may have different interpretations and criteria when determining the
 significance of a risk, you should read the “Risk Factors” section in its entirety before you
 decide to invest in the Offer Shares. Some of the major risks that we face include:
-(cid:129) We are subject to concentration risk of deriving a substantial portion of revenue
+ We are subject to concentration risk of deriving a substantial portion of revenue
 from our sales to Geely Group and from SuperVision™ based on the base version
 of AD domain controllers supplied by Mobileye and the loss of, or a significant
 reduction in, revenue from such customers or products could materially and
@@ -1316,57 +1316,57 @@ adversely affect our results of operations; In particular, Mobileye may collabor
 directly with Geely Group; Geely Group and/or Mobileye may cooperate with other
 Tier-1 suppliers; and Geely Group may develop its own autonomous driving
 systems;
-(cid:129) We are an early-stage company with a history of losses; we expect a decline in
+ We are an early-stage company with a history of losses; we expect a decline in
 revenue for 2023; we expect to incur significant expenses and continuing losses in
 2023, and we may continue to incur losses in 2024 and beyond; our historical
 financial and results of operations may not be indicative of our future performance;
-(cid:129) There is no guarantee that our OEM customers or OEM end customers will purchase
+ There is no guarantee that our OEM customers or OEM end customers will purchase
 our solutions and products in any certain quantity or at any certain price even after
 we obtain the letter of nomination, and there may be significant delays between the
 time we obtain the letter of nomination until we realize revenue from the vehicle
 model;
-(cid:129) If we fail to retain existing customers, attract new customers or increase the
+ If we fail to retain existing customers, attract new customers or increase the
 spending by our customers, our business and results of operations may be materially
 and adversely affected;
 – 24 –
 
 === PAGE 34 ===
 SUMMARY
-(cid:129) If we are unable to develop and introduce new solutions and products and improve
+ If we are unable to develop and introduce new solutions and products and improve
 existing solutions and products in a cost-effective and timely manner, our
 competitive position would be negatively impacted and our business, results of
 operations, and financial condition would be adversely affected;
-(cid:129) We rely on third-party suppliers, including, in particular Mobileye in relation to
+ We rely on third-party suppliers, including, in particular Mobileye in relation to
 SuperVisionTM, and because some of the raw materials and key components in our
 products come from single or limited source of suppliers, we are susceptible to
 supply shortages, long lead times for components, supply changes, and changes in
 business relationship, any of which could disrupt our supply chain and could delay
 deliveries of our products to customers;
-(cid:129) Our business collaboration with partners is subject to risks, and these relationships
+ Our business collaboration with partners is subject to risks, and these relationships
 may not lead to significant revenue. Any adverse change in our cooperation with
 them could harm our business;
-(cid:129) We operate in highly competitive markets and some market participants may have
+ We operate in highly competitive markets and some market participants may have
 substantially greater resources. We compete against a large number of both
 established competitors and new market entrants;
-(cid:129) We are exposed to credit risk arising from our revenue concentration on certain
+ We are exposed to credit risk arising from our revenue concentration on certain
 customers, including Geely Group. Failure to collect our trade receivables in a
 timely manner or at all could have a material and adverse impact on our business,
 financial condition, liquidity and prospects;
-(cid:129) Our business may suffer from claims relating to, among other things, actual or
+ Our business may suffer from claims relating to, among other things, actual or
 alleged defects in our solutions and products, or if our solutions and products
 actually or allegedly fail to perform as expected, and publicity related to these
 claims could harm our reputation and decrease demand for our solutions and
 products or increase regulatory scrutiny of our solutions and products;
-(cid:129) Our autonomous driving products used on vehicles are highly complex and may
+ Our autonomous driving products used on vehicles are highly complex and may
 contain defects or otherwise fail to perform in line with expectations, which could
 reduce the market adoption of our products, damage our reputation with current or
 prospective customers, expose us to product liability and other claims and adversely
 affect our results of operations;
-(cid:129) We could be adversely affected as a result of any transactions we make with certain
+ We could be adversely affected as a result of any transactions we make with certain
 entities or in certain industries that are, or become subject to, sanctions and export
 controls administered by the United States and other relevant sanctions authorities;
 and
-(cid:129) Changes in international relationships and trade policies may adversely impact our
+ Changes in international relationships and trade policies may adversely impact our
 business, financial condition, and results of operations.
 – 25 –
 
@@ -2404,36 +2404,36 @@ described in this prospectus. You are strongly cautioned that reliance on any fo
 statements involves known and unknown risks and uncertainties. The risks and uncertainties
 facing our Company which could affect the accuracy of forward-looking statements include,
 but are not limited to, the following:
-(cid:129) our operations and business prospects;
-(cid:129) future developments, trends and conditions in the industry and markets in which we
+ our operations and business prospects;
+ future developments, trends and conditions in the industry and markets in which we
 operate;
-(cid:129) our strategies, plans, objectives and goals and our ability to successfully implement
+ our strategies, plans, objectives and goals and our ability to successfully implement
 these strategies, plans, objectives and goals;
-(cid:129) general economic, political and business conditions in the markets in which we
+ general economic, political and business conditions in the markets in which we
 operate;
-(cid:129) our ability to continue to maintain our leadership position in the industry;
-(cid:129) our ability to control or reduce costs;
-(cid:129) our ability to identify and integrate suitable acquisition targets;
-(cid:129) our dividend policy;
-(cid:129) our capital expenditure plans;
-(cid:129) the amount and nature of, and potential for, future development of our business;
-(cid:129) capital market developments;
+ our ability to continue to maintain our leadership position in the industry;
+ our ability to control or reduce costs;
+ our ability to identify and integrate suitable acquisition targets;
+ our dividend policy;
+ our capital expenditure plans;
+ the amount and nature of, and potential for, future development of our business;
+ capital market developments;
 – 54 –
 
 === PAGE 64 ===
 FORWARD-LOOKING STATEMENT
-(cid:129) our ability to attract and retain senior management and key employees;
-(cid:129) our future debt levels and capital needs;
-(cid:129) the competitive environment of the industry and markets in which we operate;
-(cid:129) the actions and developments of our competitors;
-(cid:129) certainstatementsin“Business”and“FinancialInformation”inthisprospectuswith
+ our ability to attract and retain senior management and key employees;
+ our future debt levels and capital needs;
+ the competitive environment of the industry and markets in which we operate;
+ the actions and developments of our competitors;
+ certainstatementsin“Business”and“FinancialInformation”inthisprospectuswith
 respect to trends in prices, operations, margins, overall market trends, and risk
 management;
-(cid:129) change of volatility in interest rates, equity prices, volumes, operations, margins,
+ change of volatility in interest rates, equity prices, volumes, operations, margins,
 risk management and overall market trends;
-(cid:129) changes to regulatory and operating conditions in the industry and markets in which
+ changes to regulatory and operating conditions in the industry and markets in which
 we operate; and
-(cid:129) other statements in this prospectus that are not historical facts.
+ other statements in this prospectus that are not historical facts.
 Subject to the requirements of applicable laws, rules and regulations, we do not have any
 and undertake no obligation to update or otherwise revise the forward-looking statements in
 this prospectus, whether as a result of new information, future events or otherwise.As a result
@@ -2564,24 +2564,24 @@ ended June 30, 2022 and 2023, respectively. In addition, we expect a decline in 
 2023. Our relatively limited operating history makes it difficult to evaluate our current
 business,futureprospectsandtherisksandchallengeswemayencounter.Risksandchallenges
 we have faced or expect to face include our ability to:
-(cid:129) produce and deliver solutions and products of acceptable performance;
-(cid:129) attract new customers and retain existing customers;
-(cid:129) comply with existing and new or modified laws and regulations applicable to our
+ produce and deliver solutions and products of acceptable performance;
+ attract new customers and retain existing customers;
+ comply with existing and new or modified laws and regulations applicable to our
 business;
-(cid:129) forecast our revenue and budget for and manage our expenses;
-(cid:129) plan for and manage capital expenditures for our current and future solutions and
+ forecast our revenue and budget for and manage our expenses;
+ plan for and manage capital expenditures for our current and future solutions and
 products, and manage our supply chain and supplier relationships related to our
 current and future solutions and products;
-(cid:129) anticipate and respond to macroeconomic changes and changes in the markets in
+ anticipate and respond to macroeconomic changes and changes in the markets in
 which we operate;
-(cid:129) maintain and enhance the value of our reputation and brand;
-(cid:129) effectively manage our growth and business operations;
+ maintain and enhance the value of our reputation and brand;
+ effectively manage our growth and business operations;
 – 58 –
 
 === PAGE 68 ===
 RISK FACTORS
-(cid:129) develop and protect intellectual property; and
-(cid:129) hire, integrate and retain talented people at all levels of our organization.
+ develop and protect intellectual property; and
+ hire, integrate and retain talented people at all levels of our organization.
 We expect to incur significant expenses and continuing losses in 2023, and we may
 continue to incur losses in 2024 and beyond. Our revenue, costs, expenses and results of
 operations may vary from period to period in response to a variety of factors beyond our
@@ -2592,11 +2592,11 @@ customer needs for our solutions and products, our success in competing against 
 participants in the markets in which we operate, and macroeconomic and regulatory
 environment. Our revenue may not grow sufficiently to offset the increase in our costs and
 expenses as we plan to:
-(cid:129) continue to invest in the research and development of our solutions and products;
-(cid:129) expand our production capabilities to produce our solutions and products;
-(cid:129) expand our design, development, validation and servicing capabilities;
-(cid:129) recruit additional engineers and other talents to support our business expansion; and
-(cid:129) increase our sales and marketing activities and build up our sales and marketing
+ continue to invest in the research and development of our solutions and products;
+ expand our production capabilities to produce our solutions and products;
+ expand our design, development, validation and servicing capabilities;
+ recruit additional engineers and other talents to support our business expansion; and
+ increase our sales and marketing activities and build up our sales and marketing
 team.
 Ifwefailtoaddresstherisksanddifficultiesthatweface,includingthoseassociatedwith
 the challenges listed above as well as those described elsewhere in this “Risk Factors” section,
@@ -2830,18 +2830,18 @@ technical and production challenges, or delays in completing the development of 
 other solutions and products and ramping production in a cost-efficient manner. The
 development of these and other new and enhanced solutions and products requires us to invest
 resources in research and development and also requires that we:
-(cid:129) design innovative, accurate, and safety- and comfort-enhancing functions that
+ design innovative, accurate, and safety- and comfort-enhancing functions that
 differentiate our solutions and products from those of our competitors;
-(cid:129) continuously improve the reliability of our autonomous driving technology;
-(cid:129) cooperateeffectivelyonnewdesignsanddevelopmentwithourcustomers,suppliers
+ continuously improve the reliability of our autonomous driving technology;
+ cooperateeffectivelyonnewdesignsanddevelopmentwithourcustomers,suppliers
 and partners;
 – 64 –
 
 === PAGE 74 ===
 RISK FACTORS
-(cid:129) respond effectively to technological changes and product announcements by our
+ respond effectively to technological changes and product announcements by our
 competitors; and
-(cid:129) adjust to changing customer requirements, market conditions, and regulatory and
+ adjust to changing customer requirements, market conditions, and regulatory and
 rating standards quickly and cost-effectively.
 If there are delays in, or if we fail to complete when expected or at all, our existing and
 new development programs, we may not be able to satisfy our customers’requirements, obtain
@@ -3292,16 +3292,16 @@ We have expanded our operations, and as we ramp up our development, production a
 sales, significant expansion will be required. Our future results of operations depend to a large
 extent on our ability to manage this expansion and growth successfully. Risks that we face in
 undertaking this expansion include, among others:
-(cid:129) managing our supply chain to support fast business growth;
-(cid:129) managing a larger organization with a greater number of employees in different
+ managing our supply chain to support fast business growth;
+ managing a larger organization with a greater number of employees in different
 divisions;
-(cid:129) controlling expenses and investments in anticipation of expanded operations;
-(cid:129) establishing or expanding new product development, manufacturing, sales, and
+ controlling expenses and investments in anticipation of expanded operations;
+ establishing or expanding new product development, manufacturing, sales, and
 service facilities;
-(cid:129) implementing and enhancing administrative infrastructure, systems, and processes;
-(cid:129) improving our operational, financial and management controls, compliance
+ implementing and enhancing administrative infrastructure, systems, and processes;
+ improving our operational, financial and management controls, compliance
 programs and reporting systems; and
-(cid:129) addressing new markets and potentially unforeseen challenges as they arise.
+ addressing new markets and potentially unforeseen challenges as they arise.
 – 75 –
 
 === PAGE 85 ===
@@ -3372,13 +3372,13 @@ software, or artificial intelligence technology could be found to infringe upon 
 trademark ownership and rights. In addition, if we are determined to have infringed upon a
 third party’s intellectual property rights, we may be required to do one or more of the
 following:
-(cid:129) cease selling, incorporating certain components into, or using products or offering
+ cease selling, incorporating certain components into, or using products or offering
 services that incorporate or use the challenged intellectual property;
-(cid:129) pay substantial damages;
-(cid:129) seekalicensefromtheholderoftheinfringedintellectualpropertyright,whichmay
+ pay substantial damages;
+ seekalicensefromtheholderoftheinfringedintellectualpropertyright,whichmay
 not be available on reasonable terms or at all;
-(cid:129) redesign our solutions or products; or
-(cid:129) establish and maintain alternative branding for our solutions and products.
+ redesign our solutions or products; or
+ establish and maintain alternative branding for our solutions and products.
 In the event of a successful claim of infringement against us and our failure or inability
 to obtain a license to the infringed technology or other intellectual property right, our business,
 financial condition, results of operations, and prospects could be materially and adversely
@@ -3653,22 +3653,22 @@ sales. While we have committed resources, and are working closely with OEMs and 
 collaborators outside China to expand our international operations and sales channels, these
 efforts may not be successful. International operations are subject to a number of other risks,
 including:
-(cid:129) exchange rate fluctuations;
-(cid:129) political and economic instability and international terrorism;
-(cid:129) global or regional health crises, such as the COVID-19 pandemic or other health
+ exchange rate fluctuations;
+ political and economic instability and international terrorism;
+ global or regional health crises, such as the COVID-19 pandemic or other health
 epidemics and outbreaks;
-(cid:129) potential for violations of anti-corruption laws and regulations, such as those related
+ potential for violations of anti-corruption laws and regulations, such as those related
 to bribery and fraud;
-(cid:129) preference for locally branded products, and laws and business practices favoring
+ preference for locally branded products, and laws and business practices favoring
 local competition;
-(cid:129) increased difficulty in managing inventory;
-(cid:129) delayed revenue recognition;
-(cid:129) less effective protection of intellectual property;
-(cid:129) stringent regulation of the autonomous or other systems or products using our
+ increased difficulty in managing inventory;
+ delayed revenue recognition;
+ less effective protection of intellectual property;
+ stringent regulation of the autonomous or other systems or products using our
 products and stringent consumer protection and product compliance regulations;
-(cid:129) difficulties and costs of staffing and managing foreign operations;
-(cid:129) import and export laws and the impact of tariffs; and
-(cid:129) revisions in local tax and customs duty laws or revisions in the enforcement,
+ difficulties and costs of staffing and managing foreign operations;
+ import and export laws and the impact of tariffs; and
+ revisions in local tax and customs duty laws or revisions in the enforcement,
 application or interpretation of such laws.
 Theoccurrenceofanyoftheseriskscouldnegativelyaffectourinternationalbusinessand
 consequently our business, results of operations and financial condition.
@@ -4657,18 +4657,18 @@ will be traded.
 Furthermore,thepriceandtradingvolumeofourHSharesmaybevolatile.Thefollowing
 factors, among others, may cause the market price of our H Shares after the Global Offering
 to vary significantly from the Offer Price:
-(cid:129) Our financial results;
-(cid:129) unexpected business interruption resulting from natural disasters or power
+ Our financial results;
+ unexpected business interruption resulting from natural disasters or power
 shortages;
-(cid:129) major changes in our key personnel or senior management;
-(cid:129) development in laws and regulations in regions where we operate;
-(cid:129) our inability to compete effectively in the autonomous driving industry;
-(cid:129) our inability to obtain or maintain regulatory approval for our operations;
-(cid:129) fluctuations in stock market prices and volume;
-(cid:129) changes in analysts’ estimates of our financial performance;
-(cid:129) political, economic, financial and social developments in regions where we operate
+ major changes in our key personnel or senior management;
+ development in laws and regulations in regions where we operate;
+ our inability to compete effectively in the autonomous driving industry;
+ our inability to obtain or maintain regulatory approval for our operations;
+ fluctuations in stock market prices and volume;
+ changes in analysts’ estimates of our financial performance;
+ political, economic, financial and social developments in regions where we operate
 and in the global economy; and
-(cid:129) involvement in material litigation.
+ involvement in material litigation.
 As a result, it is possible that our H Shares may be subject to changes in price not directly
 related to our performance and as a result, investors in our H Shares may suffer substantial
 losses.
@@ -4756,14 +4756,14 @@ future other than on a pro rata basis to our then existing Shareholders. As a re
 shareholdings of those Shareholders may experience dilution in net asset value per Share. If
 additional funds are to be raised through debt financing, certain restrictions may be imposed
 on our operations, which may:
-(cid:129) further limit our ability or discretion to pay dividends;
-(cid:129) increase our risks in adverse economic conditions;
+ further limit our ability or discretion to pay dividends;
+ increase our risks in adverse economic conditions;
 – 109 –
 
 === PAGE 119 ===
 RISK FACTORS
-(cid:129) adversely affect our cash flows; or
-(cid:129) limit our flexibility in business development and strategic plans.
+ adversely affect our cash flows; or
+ limit our flexibility in business development and strategic plans.
 Because the Offer Price per Share is higher than the net tangible book value per Share,
 purchasers of our H Shares in the Global Offering will experience immediate dilution.
 The Offer Price of our H Shares is higher than the net tangible book value per Share
@@ -5754,7 +5754,7 @@ providing warnings OR brake / AND brake / Can drive the vehicle under limited co
 and momentary acceleration support acceleration support and will not operate unless all required vehicle under all
 assistance to the driver to the driver conditions are met. conditions
 Example Features
-(cid:2) (cid:2) (cid:2) (cid:3) B A e b w L m r l a a u i a n n r e t k o n d r e i m g i n d n s e p g e a g n p o t c i t a c y r ture (cid:2) (cid:2) O R L A co a d n n a t e p r t o c i e l v n e t c e r r u in is g e (cid:2) (cid:2) A ND L A c sa o a d m n n a t e e p r o t c t i i l e v m n a e t t e c e t r r h u i e n i s g e (cid:2) T ch r a a u ffi ff c e u ja r m (cid:2) (cid:2) P L w m i t n a e o h x s a d c t e i y a a a e l n l l l l s e d o m / d t r s a i b v t y e e e e o r r l r e i n ss g (cid:2) S b d in a u r i m a t v l f e l e e c a e a o v t s u n e l r r d e y e v it w e c io l a h n 4 n e s re
+ B A e b w L m r l a a u i a n n r e t k o n d r e i m g i n d n s e p g e a g n p o t c i t a c y r ture O R L A co a d n n a t e p r t o c i e l v n e t c e r r u in is g e A ND L A c sa o a d m n n a t e e p r o t c t i i l e v m n a e t t e c e t r r h u i e n i s g e T ch r a a u ffi ff c e u ja r m P L w m i t n a e o h x s a d c t e i y a a a e l n l l l l s e d o m / d t r s a i b v t y e e e e o r r l r e i n ss g S b d in a u r i m a t v l f e l e e c a e a o v t s u n e l r r d e y e v it w e c io l a h n 4 n e s re
 warning
 Fully Commercialized Not Mass Commercialized
 Source: SAE, Frost & Sullivan
@@ -5845,13 +5845,13 @@ by the total number of newly sold passenger vehicles for the same year.
 Key Drivers and Trends of the Autonomous Driving Passenger Vehicle Market
 The growth drivers and future trends of the autonomous driving passenger vehicle market
 include:
-(cid:129) Vehicle electrification. Due to the greater control precision, lower latency, and more
+ Vehicle electrification. Due to the greater control precision, lower latency, and more
 extensive redundant systems of NEVs as compared to ICE vehicles, autonomous
 driving solutions are widely used in NEVs. The industry trend of vehicle
 electrification provides a solid foundation for the advancement of autonomous
 driving technologies. Increasing penetration rates of NEVs will continue to fuel the
 expansion of the market of autonomous driving passenger vehicles.
-(cid:129) Growing acceptance of autonomous driving solutions. As the user experience and
+ Growing acceptance of autonomous driving solutions. As the user experience and
 safety of vehicles can be enhanced by autonomous driving systems, vehicles that
 provide autonomous driving functions are preferred by consumers. In order to offer
 customers more competitive products, OEMs are actively seeking appropriate
@@ -5862,12 +5862,12 @@ INDUSTRY OVERVIEW
 autonomous driving solutions that they can seamlessly integrate with their vehicle
 models. As a result, both supply and demand are driving the rapid growth of the
 market for autonomous driving passenger vehicles.
-(cid:129) More affordable ADAS-equipped passenger vehicles. The cost of sensors such as
+ More affordable ADAS-equipped passenger vehicles. The cost of sensors such as
 camera module and millimeter wave radar is declining due to the economies of scale
 and technological advancement, enabling ADAS to be available on entry-level
 vehicle models. It is expected that the cost of sensors will continue to decrease,
 making ADAS-equipped passenger vehicles more accessible and affordable.
-(cid:129) Autonomous driving function advancement. Autonomous driving solutions are
+ Autonomous driving function advancement. Autonomous driving solutions are
 founded on sensing and perception technologies and proprietary algorithms, and the
 safety validation of these solutions. Along with the improvement of autonomous
 driving solutions, it is expected that the demand of OEM customers for autonomous
@@ -5876,7 +5876,7 @@ In addition, it is believed that the combination of data and intelligence will c
 a significant competitive advantage and differentiates innovative solutions
 providers, which are capable of advancing full autonomous solution capabilities
 based on real world data and continuous validation of the safety solution.
-(cid:129) Favorable government policies. Several governments around the world have
+ Favorable government policies. Several governments around the world have
 implemented policies to promote the advancement of autonomous driving
 technologies. In particular, the Chinese government has issued a number of policies
 aimed at bolstering the R&D of intelligent vehicles and establishing a
@@ -6071,7 +6071,7 @@ Source: Frost & Sullivan
 INDUSTRY OVERVIEW
 Growth Drivers of the AD Domain Controller Market
 The growth drivers for the AD domain controller market include:
-(cid:129) Sustained growth of autonomous driving passenger vehicle market. The
+ Sustained growth of autonomous driving passenger vehicle market. The
 development of theAD domain controller market is highly consistent with the sales
 of autonomous driving passenger vehicles. Global sales of autonomous driving
 passenger vehicles are rapidly increasing due to trend of vehicle electrification,
@@ -6079,7 +6079,7 @@ technological advancements, comprehensive cost reductions, and changing
 consumer preferences. Therefore, the increasing investments of OEMs in this area
 resultinarapidincreaseinthepenetrationrateofADdomaincontrollersandarapid
 expansion of the AD domain controller market.
-(cid:129) AutomotiveE/Earchitecturetransformation.AdvancedE/Earchitectureisnecessary
+ AutomotiveE/Earchitecturetransformation.AdvancedE/Earchitectureisnecessary
 for OEMs to keep their competitive edge. Therefore, OEMs have prioritized the
 transformation and upgrade of automotive E/E architecture from a distributed to a
 domain-centralized system. Domain controllers offer numerous advantages over
@@ -6094,7 +6094,7 @@ become critical in realizing high performance autonomous driving functions. Goin
 forward,anincreasingnumberofautomotivemodelswithadvancedE/Earchitecture
 are expected to be introduced, supporting the rapid expansion of the AD domain
 controller market.
-(cid:129) Developmentoflevel2+autonomousdrivingfunctions.AgrowingnumberofOEMs
+ Developmentoflevel2+autonomousdrivingfunctions.AgrowingnumberofOEMs
 are actively working to integrate autonomous driving functions that are close to
 level 3 automation, especially for premium vehicle models. Taking NoA as an
 example, several OEMs have launched vehicle models equipped with Highway NoA
@@ -6105,7 +6105,7 @@ powerful built-in hardware and software. OEMs will continue to introduce vehicle
 providing level 2+ autonomous driving functions in the future to improve the
 competitiveness of their products. This will continue to drive the continuous
 increase in needs of high-performance AD domain controllers.
-(cid:129) Technological advancement and cost reduction of key components. The SoC is the
+ Technological advancement and cost reduction of key components. The SoC is the
 most important piece of hardware in theAD domain controller, and its performance
 determines, to some extent, the overall performance of the AD domain controller.
 Computing power is the ability of a SoC to process data in a unit of time. Typically,
@@ -6124,7 +6124,7 @@ third-party AD domain controller providers can develop different products cateri
 to the needs of various vehicle models based on different SoC types.
 Future Trends of the AD Domain Controller Market
 The future trends for the AD domain controller market include:
-(cid:129) Integration of driving and parking functions. Driving and parking assistance are the
+ Integration of driving and parking functions. Driving and parking assistance are the
 twomainpartsofautonomousdrivingfunctions.Intraditionalsolutions,drivingand
 parking functions are managed separately by two independent controllers. The
 driving controller can only access driving-related sensors, such as front cameras and
@@ -6136,7 +6136,7 @@ performance, improve the development and iteration efficiency of AD domain
 controllersandsavemanufacturingcosts.Withthesebenefits,integratedADdomain
 controllers for driving and parking functions are expected to become the
 mainstream.
-(cid:129) Cockpit integration. With the advancement of automotive E/E architecture, the
+ Cockpit integration. With the advancement of automotive E/E architecture, the
 integration of different functional domains via cross domain collaboration has
 emerged as a new target in the development of intelligent vehicles. The integration
 of intelligent cockpit and autonomous driving domains has emerged as the next
@@ -6147,7 +6147,7 @@ and it improves driving experiences by creating a comfortable and interactive
 environment. A domain controller that can manage both the cockpit domain and
 autonomousdrivingdomaincaneffectivelyreducemanufacturingcostsandimprove
 communication efficiency.
-(cid:129) Decoupling of software and hardware. AD domain controller is a complicated
+ Decoupling of software and hardware. AD domain controller is a complicated
 systemthatcombinesanumberofsoftwareandhardwarecomponents.Traditionally,
 the development of AD domain controllers requires a close integration of software
 and hardware, resulting in relatively high development costs. Following the trend of
@@ -6163,14 +6163,14 @@ efficiency. Therefore, the software-hardware decoupling of the AD domain
 controller has become an important trend in the industry.
 Entry Barrier to the AD Domain Controller Market
 The entry barriers to the AD domain controller market include:
-(cid:129) Technical Capabilities. Developing an AD domain controller is a complex system
+ Technical Capabilities. Developing an AD domain controller is a complex system
 engineering task that requires knowledge in different areas, including a
 comprehensive understanding of various automotive functions, and expertise in
 operating systems, middleware, functional safety and cyber security. However, it
 can be difficult for new entrants to assemble a competent team with extensive
 knowledge and experience, and any deficiency can negatively impact their market
 competitiveness.
-(cid:129) Capabilities for providing services. Software and hardware development for an AD
+ Capabilities for providing services. Software and hardware development for an AD
 domain controller is complex, demanding, and time-consuming. OEMs are
 aggressively shortening the development cycle for domain controllers as
 competition on the automotive market intensifies. To remain competitive, third-
@@ -6179,7 +6179,7 @@ technical proficiency, development experience, and resource allocation skills to
 quickly resolve issues during the development process. In contrast, new entrants
 may have difficulty establishing this comprehensive capability, putting them at a
 disadvantage in attracting new customers.
-(cid:129) Customer Relationship. Autonomous driving technologies have a significant impact
+ Customer Relationship. Autonomous driving technologies have a significant impact
 on the driving experience and safety performance. Therefore, OEMs and suppliers
 need to work closely together during the entire development process ofAD domain
 controllers, which are the core of autonomous driving solutions. It is unlikely that
@@ -6393,7 +6393,7 @@ Ranking Company Name Market Share
 5 Veoneer 5.2%
 Total 63.6%
 Key Drivers and Trends of the Intelligent Front Camera Market
-(cid:129) The growing adoption of level 2 autonomous driving solutions will promote the
+ The growing adoption of level 2 autonomous driving solutions will promote the
 development of intelligent front cameras. The penetration rate of global autonomous
 driving passenger vehicles is expected to reach 56.8% in 2026 and 78.3% in 2030.
 Meanwhile, the penetration rate of autonomous driving passenger vehicles in China is
@@ -6405,18 +6405,18 @@ annually reduce their average selling prices as a means to increase market share
 
 === PAGE 160 ===
 INDUSTRY OVERVIEW
-(cid:129) Adding intelligent features (such as intelligent front cameras) to a vehicle is, on the one
+ Adding intelligent features (such as intelligent front cameras) to a vehicle is, on the one
 hand, more in line with consumer demand for safety and intelligence, and, on the other
 hand, can result in a higher score in the relevant vehicle tests (such as the C-NCAP) for
 OEMs. Therefore, we believe intelligent front cameras, as one of the most cost-effective
 safety assistance solutions, have the potential to become a popular choice for OEMs to
 include in their vehicle models in the future.
-(cid:129) An intelligent front camera can replace the traditional one camera one millimeter wave
+ An intelligent front camera can replace the traditional one camera one millimeter wave
 radar (1V1R) combination to reduce the material costs of vehicles. The vehicle lateral
 control and longitudinal control are primarily accomplished by using the millimeter wave
 radars and cameras. An intelligent front camera can achieve comparable performance to
 traditional 1V1R combinations at a lower cost, and thus have a higher market acceptance.
-(cid:129) Intelligent front cameras with dual camera lens and multi camera lens become more
+ Intelligent front cameras with dual camera lens and multi camera lens become more
 popular in the market. Products with two cameras can achieve detection of distance and
 wider field of view. Some companies which adopt camera system as main perception
 system, like Tesla, have used products with three cameras.
@@ -9899,7 +9899,7 @@ applications related to level 3 and level 4 autonomous driving.
 We believe our excellent autonomous driving technologies differentiate us from other
 autonomous driving solution providers in China, as highlighted by the following competitive
 advantages:
-(cid:129) System design. Our system design and development capabilities cover hardware,
+ System design. Our system design and development capabilities cover hardware,
 software and algorithms. We possess capabilities in sensor design, sensor and SoC
 driver development, middleware design and OTA updates. With our efficient and
 simplified systematic development model, we ensure on-time delivery of high-
@@ -9910,7 +9910,7 @@ one year after receiving the OEM’s letter of nomination, as compared to the av
 industry duration of 12 to 24 months. Furthermore, the know-how we have gained
 during the development of iDC Mid also allows us to offer OEMs similar products
 in a relatively short timeframe.
-(cid:129) Middleware. Our self-developed middleware does not rely on any open-source
+ Middleware. Our self-developed middleware does not rely on any open-source
 framework and removes the communication barrier between embedded MCUs and
 SoCs, allowing zero-copy data sharing in heterogeneous systems which improves
 the performance of systems by eliminating intermediate buffers when transferring
@@ -9923,7 +9923,7 @@ are compatible with different computing platforms. It is optimized for time-
 consuming operations such as image exposure, image transformation, deep learning,
 and video rendering, therefore ensuring high performance in real-time image
 processing and reducing the system’s resource consumption.
-(cid:129) Algorithms. We have developed a set of algorithms for autonomous driving, as
+ Algorithms. We have developed a set of algorithms for autonomous driving, as
 highlighted by our perception and vehicle localization algorithms. We use a
 multi-leveldatafusionapproachinthedevelopmentofvisualperceptionalgorithms.
 We employ CNN technologies to complete scene understanding tasks, and use the
@@ -10036,7 +10036,7 @@ parking areas. Furthermore, we conduct software iterations via OTA updates throu
 whole lifecycle of our solutions and products, to continuously provide OEMs and drivers with
 up-to-date autonomous driving functions and improve user experience.
 We believe that our solutions and products have the following advantages:
-(cid:129) SuperVisionTM. We acquire the base version of AD domain controllers from
+ SuperVisionTM. We acquire the base version of AD domain controllers from
 Mobileye and then integrate licensed software developed by Mobileye, which is not
 based on our proprietary algorithm, with the hardware parts, transforming the base
 version of AD domain controllers into a fully-functional AD domain controller
@@ -10054,7 +10054,7 @@ our project in collaboration with Mobileye for ZEEKR 001 commenced in October
 2021. After the commencement of sales, our work in the SuperVision™ projects is
 primarily focused on (i) software flashing of the base version of AD domain
 controllers, (ii) functional testing, (iii) packaging, and (iv) delivery.
-(cid:129) iDC Series.The iDC series is our self-developedAD domain controller product line.
+ iDC Series.The iDC series is our self-developedAD domain controller product line.
 Compared to the typical architecture that includes both SoC and microcontroller
 (MCU), we creatively developed an advanced software architecture for our iDC
 series that integrates high-speed driving functions and low-speed parking functions
@@ -10078,7 +10078,7 @@ Designed for mid- to high- end vehicles, iDC High will include all autonomous
 driving functions of iDC Mid. In addition, it will include more advanced
 autonomous driving functions, such as Urban NoA, and more advanced parking
 functions to cover more scenarios.
-(cid:129) iFC Series. Our iFC series is a budget solution for level 2 autonomous driving that
+ iFC Series. Our iFC series is a budget solution for level 2 autonomous driving that
 includes both comfort functions (such as lane centering control (LCC) and adaptive
 cruise control (ACC)) and safety assistance functions (such as emergency lane
 keeping (ELK) and automatic emergency braking (AEB)). iFC 2.0 has started series
@@ -10173,7 +10173,7 @@ with a focus on AD domain controllers. Our solution and product matrix will be f
 enhanced to cover all driving scenarios. We will focus on expanding our current product lines
 and developing and commercializing more autonomous driving solutions and products over the
 next five years.
-(cid:129) SuperVisionTM. With Mobileye, we are expanding our collaboration with Geely
+ SuperVisionTM. With Mobileye, we are expanding our collaboration with Geely
 Group. Two additional brands under Geely Group, Polestar and Smart, are expected
 to launch SuperVision™ globally in one of their electric vehicle models, beginning
 in 2023. In January 2023, we entered into a framework contract with an affiliate of
@@ -10187,7 +10187,7 @@ across multiple vehicle models.
 
 === PAGE 230 ===
 BUSINESS
-(cid:129) iDC Series. We expect to further develop our iDC series leveraging our excellent
+ iDC Series. We expect to further develop our iDC series leveraging our excellent
 system integration capabilities to provide OEM customers with high-quality
 autonomous driving functions at a competitive price. In particular, we plan to add
 more autonomous driving functions to the iDC Mid through OTA updates.
@@ -10197,7 +10197,7 @@ Renesas and our proprietary algorithms embedded in iDC High, we believe that iDC
 High will have better visual perception capabilities as compared to iDC Mid,
 enabling Urban NoAand providing more advanced parking functions covering more
 scenarios.
-(cid:129) iFC Series. We will further expand the iFC series and introduce new products with
+ iFC Series. We will further expand the iFC series and introduce new products with
 more functions. In particular, we expect to launch iFC 3.0 in 2024, which is
 expected to integrate Mobileye’s next generation EyeQ®6L SoC.
 In addition, we will endeavor to commercialize more advanced autonomous driving
@@ -10225,21 +10225,21 @@ Increase our investment in R&D to solidify our leading position and prepare for
 commercialization of level 4 autonomous driving
 We are dedicated to the R&D of autonomous driving solutions and products to strengthen
 our technological advantages.
-(cid:129) Optimizethealgorithms.Wewillcontinuetoinvestinimprovingourcomprehensive
+ Optimizethealgorithms.Wewillcontinuetoinvestinimprovingourcomprehensive
 and advanced autonomous driving algorithms. Our primary focus will be on: (i)
 enhancing the algorithms and introducing more advanced algorithm models; (ii)
 integratinghigh-performancesensorsandupgradingsensorconfiguration,toexpand
 driving scenario coverage and increase algorithm accuracy; and (iii) continuously
 enhancing our data capabilities to improve functionalities of our autonomous
 driving solutions and products.
-(cid:129) Enhance our self-developed middleware. We will also focus on improving our
+ Enhance our self-developed middleware. We will also focus on improving our
 self-developedmiddleware,whichwillbeappliedtoallourproductlines.Weintend
 to further develop our middleware to make our own technology infrastructure more
 automatic and programmatic, allowing us to connect our solutions with different
 vehicle operating systems of our OEM customers more seamlessly. Furthermore, we
 intend to make our middleware’s modeling environment more user-friendly,
 allowing it to be used by more third-party developers.
-(cid:129) Upgrade hardware designs. As an increasing number of our autonomous driving
+ Upgrade hardware designs. As an increasing number of our autonomous driving
 solutions and products have started series production, we will continue to optimize
 thehardwaredesignfromelectronic,mechanicalandopticalperspectivestoenhance
 our competitiveness. In addition, we will collaborate with our business partners to
@@ -10251,7 +10251,7 @@ willbestpositionusintheindustryforthesuccessfulcommercializationoflevel4autonomo
 driving solutions in the future (expected to come in more than five years). To prepare for
 commercialization of level 4 autonomous driving solutions, we have adopted a three-pronged
 approach:
-(cid:129) Comprehensive R&D capabilities. We have strong R&D capabilities in hardware,
+ Comprehensive R&D capabilities. We have strong R&D capabilities in hardware,
 software, algorithms, functions, and cloud-based data loop, backed by our current
 large-scale commercialization. In the future, in order to best position ourselves for
 the commercialization of level 4 autonomous driving solutions, we will
@@ -10263,7 +10263,7 @@ driving;
 
 === PAGE 232 ===
 BUSINESS
-(cid:129) Algorithmiteration.Werecognizetheimportanceofdataaccumulationinenhancing
+ Algorithmiteration.Werecognizetheimportanceofdataaccumulationinenhancing
 and refining our autonomous driving algorithms.As we continue to deploy level 2+
 autonomous driving solutions and products, we will experience explosive data
 accumulation that enables accelerated coverage of long-tail scenarios required for
@@ -10273,7 +10273,7 @@ algorithms. Additionally, we are committed to making significant improvements in
 data processing and storage capabilities, ensuring that we can effectively manage
 and utilize the ever-growing datasets. This data-driven approach will enable us to
 rapidly improve our technology; and
-(cid:129) Relationship with OEM customers and strategic partners. We believe in fostering
+ Relationship with OEM customers and strategic partners. We believe in fostering
 strong relationships with OEM customers and strategic partners, as they are crucial
 for the widespread adoption and success of our level 4 autonomous driving
 solutions. Our partnerships with OEMs will enable us to integrate our autonomous
@@ -10499,9 +10499,9 @@ Front Camera DVR Camera
 Surround
 iDCMid
 Up to 5RadarSensors
-(cid:129) Perception and Data Fusion
-(cid:129) Localization
-(cid:129) Planning and Control Engine/Motor
+ Perception and Data Fusion
+ Localization
+ Planning and Control Engine/Motor
 USSSensors
 6x Front
 Braking 6x Rear
@@ -10520,7 +10520,7 @@ solutions with other subsystems in the vehicle.
 Due to the fact that other vehicle subsystems are developed by different suppliers or
 OEMs, extensive work and technology are required to ensure seamless interactions among all
 vehicle subsystems, which primarily include:
-(cid:129) Verifying that our products and all the sensors that constitute our solutions are
+ Verifying that our products and all the sensors that constitute our solutions are
 physically well integrated within vehicle environment.We collaborate with OEMs in
 determining the mounting position for our products, checking that it complies with
 standards for heat dissipation, waterproofness, dustproofness, vibration, and
@@ -10528,12 +10528,12 @@ electromagneticcompatibility,amongothers.Wealsocheckwhetheritwillinterfere
 withnearbycomponents.Forsensors,wemustalsodeterminethemountingposition
 according to the required height and angle, and examine whether the view will be
 obstructed or influenced by other components or glare caused by light sources.
-(cid:129) Making sure that our products are electrically connected to the vehicle network and
+ Making sure that our products are electrically connected to the vehicle network and
 partnercontrollersinthevehicle.Wehavetoascertainthecommunicationprotocols
 and signal interactions betweenAD domain controllers with other controllers in the
 vehicles, as well as the accuracy and effectiveness of the sensor data transmission
 to the AD domain controller.
-(cid:129) Ensuring that our products meet the OEM customer’s functional requirements. We
+ Ensuring that our products meet the OEM customer’s functional requirements. We
 verify that the partner controllers react appropriately to signals received from the
 AD domain controller. For instance, if a collision hazard is detected and the AD
 domain controller sends an AEB trigger signal, it is necessary to verify that (i) the
@@ -10673,19 +10673,19 @@ H4V
 H5®QeyE
 lexipagem-8
 enO
-(cid:129)
+ 
 lexipagem-7.1
 enO
-(cid:129)
+ 
 :saremac
 xiS
-(cid:129)
+ 
 :saremac
 eviF
-(cid:129)
+ 
 :saremac
 11
-(cid:129)
+ 
 srosneS
 aremac
 aremac
@@ -10701,11 +10701,11 @@ owT
 evif
 ot
 pU
-(cid:129)
+ 
 owt
 ot
 pU
-(cid:129)
+ 
 aremac
 tnorf
 aremac
@@ -10737,7 +10737,7 @@ enO
 srosnes
 cinosartlu
 21
-(cid:129)
+ 
 owt(
 saremac
 aremac
@@ -10745,13 +10745,13 @@ raer
 evif
 ot
 pU
-(cid:129)
+ 
 dna
 gnicaf-tnorf
 srosnes
 cinosartlu
 21
-(cid:129)
+ 
 evaw
 retemillim
 ;)gnicaf-raer
@@ -10760,7 +10760,7 @@ retemillim
 evif
 ot
 pU
-(cid:129)
+ 
 radar
 lexipagem-8
 enO
@@ -10779,11 +10779,11 @@ eyehsif
 srosnes
 cinosartlu
 21
-(cid:129)
+ 
 retemillim
 tnorf
 enO
-(cid:129)
+ 
 radar
 evaw
 BUSINESS
@@ -11153,9 +11153,9 @@ yeK
 gnivirD
 —
 —
-(cid:2)
+ 
 —
-(cid:2)
+ 
 no
 etagivaN
 nabrU
@@ -11164,57 +11164,57 @@ nabrU(
 )AoN
 —
 —
-(cid:2)
-(cid:2)
-(cid:2)
+ 
+ 
+ 
 etagivaN
 yawhgiH
 )1(tolipotuA
 no
 )AoN
 yawhgiH(
-(cid:2)
+ 
 gniretneC
 enaL
 )CCL(
 lortnoC
-(cid:2)
+ 
 esiurC
 evitpadA
 )CCA(
 lortnoC gnikraP
 —
 —
-(cid:2)
-(cid:2)
-(cid:2)
+ 
+ 
+ 
 gnikraP
 enoz-emoH
 )APH(
 tsissA
 —
 —
-(cid:2)
-(cid:2)
-(cid:2)
+ 
+ 
+ 
 gnikraP
 etomeR
 )APR(
 ecnatsissA
 —
 —
-(cid:2)
-(cid:2)
-(cid:2)
+ 
+ 
+ 
 gnikraP
 citamotuA
 )APA(
 ecnatsissA
 —
 —
-(cid:2)
-(cid:2)
-(cid:2)
+ 
+ 
+ 
 D3
 weiV
 dnuorruS
@@ -11305,41 +11305,41 @@ CDi
 ™noisiVrepuS
 ecnatsissA
 ytefaS
-(cid:2)
+ 
 noisilloC
 drawroF
 )WCF(
 gninraW
-(cid:2)
+ 
 ycnegremE
 citamotuA
 )BEA(
 gnikarB
-(cid:2)
+ 
 erutrapeD
 enaL
 )WDL(
 gninraW
-(cid:2)
+ 
 ngiS
 ciffarT
 )RST(
 noitingoceR
-(cid:2)
+ 
 enaL
 ycnegremE
 )KLE(
 gnipeeK
-(cid:2)
+ 
 hgiH
 eerf-eralG
 )BHFG(
 maeB
-(cid:2)
+ 
 —
-(cid:2)
+ 
 —
-(cid:2)
+ 
 gnireetS
 ycnegremE
 )SSE(
@@ -11750,38 +11750,38 @@ series production as of the Latest Practicable Date.
 Products
 Vehicle Under DateofLetter CurrentStagein
 OEMs Models Development ofNomination ProjectDevelopment1 CurrentStatus
-OEMA,an APHEVMPV iFC2.0and August2022 (cid:129) Product (cid:129) Deliveredhardwareand
+OEMA,an APHEVMPV iFC2.0and August2022 Product Deliveredhardwareand
 automakerinthe model iDCMid development completedthedevelopment
 PRCofbothICE oftheinitialversionof
 vehiclesandNEVs full-featuredsoftware
-(cid:129) Expecttocommenceseries
+ Expecttocommenceseries
 productionbyJanuary
 2024
-OEMB,an ICEandNEV iFC2.0 November2022 (cid:129) Product (cid:129) Intheprocessof
+OEMB,an ICEandNEV iFC2.0 November2022 Product Intheprocessof
 automakerinthe SUVmodels development negotiationfortechnology
 PRCofbothICE developmentagreement
-vehiclesandNEVs (cid:129) Expecttocommenceseries
+vehiclesandNEVs Expecttocommenceseries
 productioninMarch2024
-OEMC,an AnNEV iFC2.0 March2023 (cid:129) Product (cid:129) Deliveredsmallbatchof
+OEMC,an AnNEV iFC2.0 March2023 Product Deliveredsmallbatchof
 automakerofNEVs Crossover development samples
-inthePRC model (cid:129) Expecttocommenceseries
+inthePRC model Expecttocommenceseries
 productioninMarch2024
-iDCHigh June2023 (cid:129) Product (cid:129) Projectwaskickedoffin
+iDCHigh June2023 Product Projectwaskickedoffin
 development June2023
-(cid:129) Expecttocommenceseries
+ Expecttocommenceseries
 productioninApril2024
-OEMD,an ICEandNEV iDCMid June2023 (cid:129) Product (cid:129) Receivedletterof
+OEMD,an ICEandNEV iDCMid June2023 Product Receivedletterof
 automakerinthe SUVmodels development nominationinJune2023
-PRCofbothICE (cid:129) Expecttocommenceseries
+PRCofbothICE Expecttocommenceseries
 vehiclesandNEVs productioninFebruary
 2024
-ICEandNEV iDCMid August2023 (cid:129) Product (cid:129) Receivedletterof
+ICEandNEV iDCMid August2023 Product Receivedletterof
 SUVmodels development nominationinAugust2023
-(cid:129) Expecttocommenceseries
+ Expecttocommenceseries
 productioninMarch2024
-OEME,an AnNEVSUV SuperVisionTM September2021 (cid:129) Productvalidation (cid:129) Commencedproductionin
+OEME,an AnNEVSUV SuperVisionTM September2021 Productvalidation Commencedproductionin
 international model smallscaleinMay2023
-automakerofboth (cid:129) Expecttocommenceseries
+automakerofboth Expecttocommenceseries
 ICEvehiclesand productioninDecember
 NEVs 2023
 – 242 –
@@ -11791,44 +11791,44 @@ BUSINESS
 Products
 Vehicle Under DateofLetter CurrentStagein
 OEMs Models Development ofNomination ProjectDevelopment1 CurrentStatus
-OEMF,an AnNEVMPV SuperVisionTM June2023 (cid:129) Product (cid:129) Receivedletterof
+OEMF,an AnNEVMPV SuperVisionTM June2023 Product Receivedletterof
 international model development nominationenteredinto
 automakerinof withanaffiliateofOEM
 bothICEvehicles HinJune2023
-andNEVs (cid:129) Expecttocommenceseries
+andNEVs Expecttocommenceseries
 productioninMarch2024
-OEMG,an AnHEV Acustomized December2021 (cid:129) Jointacceptance (cid:129) Intheprocessof
+OEMG,an AnHEV Acustomized December2021 Jointacceptance Intheprocessof
 automakerinthe Pickup versionof validationbeforeseries
 PRCofbothICE model iDCMid production
-vehiclesandNEVs (cid:129) Completedthepilot
+vehiclesandNEVs Completedthepilot
 installationforproduction
 purpose
-(cid:129) Expecttocommenceseries
+ Expecttocommenceseries
 productionbyJanuary
 2024
-AnICESUV iFC2.0 February2022 (cid:129) Jointacceptance (cid:129) Completedpilot
+AnICESUV iFC2.0 February2022 Jointacceptance Completedpilot
 model installationinApril2023
-(cid:129) Completedsecondpilot
+ Completedsecondpilot
 installationinNovember
 2023
-(cid:129) Expecttocommenceseries
+ Expecttocommenceseries
 productioninDecember
 2023
-AnNEVSUV iFC2.0 May2023 (cid:129) Product (cid:129) Receivedletterof
+AnNEVSUV iFC2.0 May2023 Product Receivedletterof
 model development nominationinMay2023
-(cid:129) Expecttocommenceseries
+ Expecttocommenceseries
 productioninMarch2024
-ICEandNEV iFC2.0 August2023 (cid:129) Product (cid:129) Receivedletterof
+ICEandNEV iFC2.0 August2023 Product Receivedletterof
 SUVmodels development nominationinAugust2023
-(cid:129) Expecttocommenceseries
+ Expecttocommenceseries
 productioninMarch2024
-ICEandNEV iFC2.0 August2023 (cid:129) Product (cid:129) Receivedletterof
+ICEandNEV iFC2.0 August2023 Product Receivedletterof
 SUVmodels development nominationinAugust2023
-(cid:129) Expecttocommenceseries
+ Expecttocommenceseries
 productioninMarch2024
-ICEandNEV iFC2.0 August2023 (cid:129) Product (cid:129) Receivedletterof
+ICEandNEV iFC2.0 August2023 Product Receivedletterof
 Pickup development nominationinAugust2023
-models (cid:129) Expecttocommenceseries
+models Expecttocommenceseries
 productioninMarch2024
 – 243 –
 
@@ -11837,26 +11837,26 @@ BUSINESS
 Products
 Vehicle Under DateofLetter CurrentStagein
 OEMs Models Development ofNomination ProjectDevelopment1 CurrentStatus
-OEMH,an AnNEVVAN iFC2.0 June2022 (cid:129) Product (cid:129) Finishedmedium-term
+OEMH,an AnNEVVAN iFC2.0 June2022 Product Finishedmedium-term
 international model development acceptanceinAugust2023
-automakerofboth (cid:129) Expecttocommenceseries
+automakerofboth Expecttocommenceseries
 ICEvehiclesand productioninJune2024
 NEVs
-AnNEVVAN iFC2.0 August2023 (cid:129) Product (cid:129) Receivedletterof
+AnNEVVAN iFC2.0 August2023 Product Receivedletterof
 model development nominationinAugust2023
-(cid:129) Expecttocommenceseries
+ Expecttocommenceseries
 productioninDecember
 2023
-AnNEVVAN iFC2.0 September2023 (cid:129) Customer (cid:129) Receivedletterof
+AnNEVVAN iFC2.0 September2023 Customer Receivedletterof
 model requirement nominationinSeptember
 2023
-(cid:129) Expecttocommenceseries
+ Expecttocommenceseries
 productioninDecember
 2024
-OEMI,anautomaker AnNEVSedan iFC2.0 October2023 (cid:129) Customer (cid:129) Receivedletterof
+OEMI,anautomaker AnNEVSedan iFC2.0 October2023 Customer Receivedletterof
 inthePRCof model requirement nominationinOctober
 NEVs 2023
-(cid:129) Expecttocommenceseries
+ Expecttocommenceseries
 productioninFebruary
 2025
 Note:
@@ -12072,23 +12072,23 @@ The 360° bowl-shaped panoramic image created by our SV3D algorithms
 Safety Assistance
 We provide a number of safety assistance functions to avoid and mitigate accidents. Our
 safety assistance functions primarily include:
-(cid:129) forward collision warning (FCW), which warns the driver of a potential collision
+ forward collision warning (FCW), which warns the driver of a potential collision
 with a vehicle ahead;
-(cid:129) automatic emergency braking (AEB), which applies brakes automatically if the
+ automatic emergency braking (AEB), which applies brakes automatically if the
 vehicle detects an imminent collision. In addition to prevent or mitigate forward
 collisions, AEB can also detect obstacles and apply brakes automatically during
 reverse maneuvers;
-(cid:129) lane departure warning (LDW), which monitors the vehicle’s position within the
+ lane departure warning (LDW), which monitors the vehicle’s position within the
 driving lane and warns the driver when the vehicle approaches or crosses lane
 markers;
-(cid:129) traffic sign recognition (TSR), which recognizes traffic signs and relays them to
+ traffic sign recognition (TSR), which recognizes traffic signs and relays them to
 drivers via the instrument panel;
-(cid:129) emergency lane keeping (ELK), which intervenes aggressively to prevent the
+ emergency lane keeping (ELK), which intervenes aggressively to prevent the
 vehicle from running off the road when a critical situation is detected;
-(cid:129) glare-free high beam (GFHB), which detects different light sources and controls the
+ glare-free high beam (GFHB), which detects different light sources and controls the
 matrix beam to provide long range visibility without glaring other drivers and
 pedestrians; and
-(cid:129) emergency steering support (ESS), which provides assistance during a critical
+ emergency steering support (ESS), which provides assistance during a critical
 evasive maneuver by assisting steering torque.
 – 252 –
 
@@ -12190,21 +12190,21 @@ BUSINESS
 Our Comprehensive R&D Capabilities
 We possess industry-leading software-hardware co-design techniques, enabling us to
 provide comprehensive autonomous driving solutions and products to OEMs.
-(cid:129) Hardware. The experience we have in designing and series producing AD domain
+ Hardware. The experience we have in designing and series producing AD domain
 controllers and iFC products gives us a better understanding of how autonomous
 driving software and hardware work together. As we design solutions and products,
 we choose options that are best suited to our software architecture and core
 algorithms, which maximizes effectiveness and reduces costs.
-(cid:129) Middleware. Middleware acts as a bridge connecting software with the underlying
+ Middleware. Middleware acts as a bridge connecting software with the underlying
 hardware. Using our reliable and effective middleware, we can achieve seamless
 integrationofouralgorithmswithavarietyofdifferentmodelsofSoCs.Byutilizing
 our middleware, we can install our autonomous driving systems on different vehicle
 models without incurring massive costs.
-(cid:129) Core algorithms. Algorithms are critical to the performance of autonomous driving
+ Core algorithms. Algorithms are critical to the performance of autonomous driving
 solutions and products. With our autonomous driving algorithms, the AD domain
 controllercanefficientlyprocesssensordata,providingreliablefusion,localization,
 planning and control functions.
-(cid:129) Testing and integration of the system. We can organically integrate an AD domain
+ Testing and integration of the system. We can organically integrate an AD domain
 controller, algorithms, and thoroughly tested sensors into a well-functioning
 autonomous driving solution customized for different OEMs and their vehicle
 models. Prior to the delivery of our autonomous driving solutions and products, we
@@ -12455,25 +12455,25 @@ printed electronic components and more sophisticated designs.
 Our Production Process
 The principal steps of the production process generally applicable to our self-developed
 iDC and iFC series include:
-(cid:129) SMT. In general, we begin the production process of our autonomous driving
+ SMT. In general, we begin the production process of our autonomous driving
 solutions and products, including iDC and iFC products at the current stage, by first
 preparing PCBA. Using our two SMT lines, we mount various electronic
 components, such as SoCs and resistors, on the PCB in accordance with product
 specifications. The finished PCBA contains all of the necessary electronic
 components for the board to function in an autonomous driving product as needed.
-(cid:129) Assembly. We then put together the necessary components, such as PCBA, camera
+ Assembly. We then put together the necessary components, such as PCBA, camera
 modules, connectors, and other mechanical parts, to form the core body of our
 autonomous driving products. We may perform component functionality tests from
 time to time.
-(cid:129) Software flashing. Different autonomous driving software is installed on the
+ Software flashing. Different autonomous driving software is installed on the
 hardware based on product specifications of our OEM customers.
-(cid:129) Testing.After the software installation, we carry out multiple tests to ensure that the
+ Testing.After the software installation, we carry out multiple tests to ensure that the
 autonomous driving products function properly. In particular, we conduct end-of-
 line tests on our products before they are rolled off the production line. End-of-line
 tests primarily focus on testing the overall functionality of our products using test
 systems that simulate all possible driving conditions, while also measuring the
 responses of the products being tested simultaneously.
-(cid:129) Packaging. The finished autonomous driving products are packaged together and
+ Packaging. The finished autonomous driving products are packaged together and
 transported to the warehouses for storage.
 We have invested significant time in streamlining and automating our production process
 and systematically optimize our production process by designing automated assembly and
@@ -12668,12 +12668,12 @@ Assessment Assessment Assessment Requirement Development Validation Acceptance P
 Project Acquisition (Generally Three to Six Months) Project Development (Generally 12 to 18 Months) Series Production
 The customer engagement process for our research and development services is as
 follows:
-(cid:129) Proof-of-concept projects. Our customers typically engage us on proof-of-concept
+ Proof-of-concept projects. Our customers typically engage us on proof-of-concept
 projectstoassessourtechnologycapabilitiesandproductqualitybeforeengagingus
 as a Tier-1 supplier for autonomous driving solutions in their vehicles. Our
 customers enter into formal contracts with us after determining that we have the
 necessary capabilities and resources to carry out series production projects.
-(cid:129) R&D services in relation to the supply of our autonomous driving solutions. Our
+ R&D services in relation to the supply of our autonomous driving solutions. Our
 customers for such services are those who engage us to provide autonomous driving
 solutions in their vehicles. We recognize revenue from these customers prior to the
 deliveryofsampleproducts(i.e.attheprojectdevelopmentstage)asrevenuerelated
@@ -12946,18 +12946,18 @@ Key Terms of The Framework Purchasing Agreement for SuperVisionTM
 Set out below is a summary of our framework purchasing agreement with Geely Group
 for SuperVision™ solution in ZEEKR 001 and certain other projects with Geely Group are
 subject to the similar provisions:
-(cid:129) Product specifications. We are engaged by Geely Group as a non-exclusive supplier
+ Product specifications. We are engaged by Geely Group as a non-exclusive supplier
 to develop a level 2+ autonomous driving solution following the product
 specifications listed in the agreement.
-(cid:129) Indemnification.We are obligated to indemnify Geely Group for any loss or damage
+ Indemnification.We are obligated to indemnify Geely Group for any loss or damage
 suffered by the Geely Group as a result of our breach of the framework purchasing
 agreement and/or any purchase orders.
-(cid:129) Payment for R&D services. We agreed to collect service fees from Geely Group and
+ Payment for R&D services. We agreed to collect service fees from Geely Group and
 pay on behalf of Geely Group to Mobileye, who provides R&D services for the
 development of software utilized in SuperVision™.
-(cid:129) Amendments. Amendments can be made upon written agreement between Geely
+ Amendments. Amendments can be made upon written agreement between Geely
 Group and us.
-(cid:129) Termination. Geely Group is entitled to termination upon written notice in
+ Termination. Geely Group is entitled to termination upon written notice in
 accordance with the general purchasing terms and conditions mutually determined
 by both parties. The framework purchasing agreement does not provide for specific
 provisions regarding its duration or renewal.
@@ -12999,7 +12999,7 @@ Reasons for Our Customer Concentration on Geely Group
 We believe that the high customer concentration on Geely Group for the years ended
 December 31, 2021 and 2022 and the six months ended June 30, 2023 is attributable to the
 following factors:
-(cid:129) Close cooperation between OEMs and autonomous driving solution providers
+ Close cooperation between OEMs and autonomous driving solution providers
 whereby both parties are committed to establishing a stable supply relationship is an
 industry norm. According to Frost & Sullivan, to ensure the stability of the supply
 of autonomous driving solutions and products, OEMs often maintain stable and
@@ -13010,7 +13010,7 @@ derive a substantial portion of its revenue from its major customer(s), especial
 the early stage of such companies, when they have relatively limited product
 categories due to limited resources and capability devoted to R&D and market
 expansion.
-(cid:129) The revenue generated from our sales of autonomous driving solutions and products
+ The revenue generated from our sales of autonomous driving solutions and products
 was positively correlated with the unit price of our product sold to the OEMs and
 the sales volume of vehicle models on which our solutions and products are
 installed.Ascomparedtoothervehiclemodelsofourcustomerswhereoursolutions
@@ -13021,14 +13021,14 @@ our customer concentration on Geely Group.
 
 === PAGE 285 ===
 BUSINESS
-(cid:129) Customer concentration at early stage of our commercialization could maximize the
+ Customer concentration at early stage of our commercialization could maximize the
 production and operating efficiency of our Company, laying a solid foundation for
 our further growth. In light of the relatively limited product categories of us at the
 beginning of its commercialization, we adopted a key customer strategy to devote
 our R&D and personnel resources to certain key customer to demonstrate our
 technology development capabilities and build track record for providing
 autonomous driving solution and products.
-(cid:129) SuperVision™focusesonthepremiumBEVmarketwherethenumberofOEMswas
+ SuperVision™focusesonthepremiumBEVmarketwherethenumberofOEMswas
 relatively limited. When we started to cooperate with Geely Group on the
 development of advanced driving solution in October 2020, the number of OEMs
 which launched premium BEV models was relatively limited among the entire
@@ -13036,7 +13036,7 @@ vehicle market, according to Frost & Sullivan, which partially led to the custom
 concentration on Geely Group after series production of ZEEKR 001.
 OurDirectorsbelievethatourGroup’sbusinessmodelissustainabledespiteourcustomer
 concentration due to the following factors:
-(cid:129) Our relationship with Geely Group is based on mutual achievements and win-win
+ Our relationship with Geely Group is based on mutual achievements and win-win
 collaboration.
 (i) We can well understand Geely Group’s needs and work towards achieving the
 desired results in a more efficient and cost-effective manner. Compared to our
@@ -13083,7 +13083,7 @@ collaboration partner of Mobileye. For details, see “— Likelihood of Geely
 Group Directly Procuring SuperVisionTM from Mobileye” and “— Likelihood
 of Geely Group Procuring SuperVisionTM fromAnother Collaboration Partner
 of Mobileye.”
-(cid:129) According to Frost & Sullivan, the typical lifecycle of a vehicle model (from the
+ According to Frost & Sullivan, the typical lifecycle of a vehicle model (from the
 launch date to the discontinuation of sales) ranges from approximately five to six
 years, based on its sales performance. Considering the high costs and barriers for
 replacing Tier-1 AD domain controller suppliers, it is an industry practice that,
@@ -13104,7 +13104,7 @@ diversify our customer base and develop new vehicle models.
 
 === PAGE 287 ===
 BUSINESS
-(cid:129) Leveraging the expanding NEV market, our increasing marketing efforts and
+ Leveraging the expanding NEV market, our increasing marketing efforts and
 well-rounded capabilities, we are able to seize the growing opportunities in
 autonomous driving solution market and have been continuously expanding our
 customer base in terms of breadth and depth. As of the Latest Practicable Date, we
@@ -13128,12 +13128,12 @@ supplier of Dongfeng Liuzhou’s Fengxing M4 (風行M4) and Fengxing SX5G
 Likelihood of Geely Group Directly Procuring SuperVisionTM from Mobileye
 Our Directors believe that there is little likelihood that Geely Group will procure
 SuperVision™ from Mobileye directly due to the following factors:
-(cid:129) It is in line with Mobileye’s business strategies to work with collaboration partners,
+ It is in line with Mobileye’s business strategies to work with collaboration partners,
 such as our Company, which usually have deep expertise in system integration,
 testing and validation, and can work closely with OEMs, leveraging their localized
 marketing resources, to integrate technology into such OEM’s vehicle models and
 sell the integrated solution package to OEMs directly.
-(cid:129) Our relationship with Geely Group is based on mutual achievements and win-win
+ Our relationship with Geely Group is based on mutual achievements and win-win
 collaboration. We can well understand Geely Group’s needs and work towards
 achieving the desired results in a more efficient and cost-effective manner, and our
 R&D, commercialization, and production capabilities are welcomed by Geely
@@ -13142,7 +13142,7 @@ Group.
 
 === PAGE 288 ===
 BUSINESS
-(cid:129) The providers of OTA updates must have a thorough understanding of not only the
+ The providers of OTA updates must have a thorough understanding of not only the
 autonomous driving solution itself, but also how the autonomous driving domain
 interacts with other domains in the vehicle. Hence, we believe that we have a
 competitive advantage over our peers when it comes to delivering consistent OTA
@@ -13162,12 +13162,12 @@ Mobileye
 Our Directors are of the view that the likelihood that Geely Group will procure
 SuperVision™ from another collaboration partner of Mobileye is relatively low, due to the
 following factors:
-(cid:129) There will be significant costs and barriers to replacing us as the provider of
+ There will be significant costs and barriers to replacing us as the provider of
 autonomous driving solutions. A switch in autonomous driving solution providers
 incurs potential risks of production interruption for existing vehicle models.
 Changing a collaboration partner for an autonomous driving solution would be less
 cost effective for OEMs.
-(cid:129) As of the Latest Practicable Date, we were one of the important collaboration
+ As of the Latest Practicable Date, we were one of the important collaboration
 partners among all overseas and domestic collaboration partners of Mobileye in the
 PRCandwereanimportantcollaborationpartnerofMobileyeontheSuperVisionTM
 solution in the PRC. Our extensive knowledge of both the technical requirements of
@@ -13179,7 +13179,7 @@ without interrupting the manufacturing and sales of the existing vehicle models.
 
 === PAGE 289 ===
 BUSINESS
-(cid:129) Autonomous driving solution development and production usually involve a
+ Autonomous driving solution development and production usually involve a
 relatively long R&D and validation cycle and a high cost. To the best of our
 knowledge, if Geely Group intends to replace us with anotherTier-1 supplier for our
 ongoing projects, it would require a substantial time investment for the new supplier
@@ -13193,7 +13193,7 @@ SuperVisionTM system in developing new vehicle models, they would need to
 undergo a thorough product validation process. The aforementioned factors
 representsignificanttimeandcostcommitmentsOEMsneedtoincurtochangetheir
 autonomous driving solution providers.
-(cid:129) Switching between autonomous driving solutions and autonomous driving solution
+ Switching between autonomous driving solutions and autonomous driving solution
 providers may raise safety concerns if the replacing autonomous driving solution
 providers have not collaborated with the OEMs on such specific vehicle models
 when they first entered series production. Therefore, it is an industry practice that,
@@ -13204,7 +13204,7 @@ such as our Company, will generally not be replaced by the OEMs, according to
 Frost & Sullivan. During the Track Record Period and up to the Latest Practicable
 Date, we maintained a stable relationship with Geely Group and there was no
 material interruption or dispute in respect of our cooperation with Geely Group.
-(cid:129) We have on-going projects with Geely Group following the series production of
+ We have on-going projects with Geely Group following the series production of
 ZEEKR001and009.TwoadditionalbrandsunderGeelyGroup,PolestarandSmart,
 are expected to launch SuperVision™ globally in one of their electric vehicle
 models, beginning in 2023. In June 2023, we also received a letter of nomination
@@ -13534,7 +13534,7 @@ our total revenue during the same periods, respectively. The intellectual proper
 SuperVision™, including its trademark and technology, belong to Mobileye. In connection
 with providing SuperVision™ to our customers as an advanced driving solution, we primarily
 provide the following services:
-(cid:129) Sensor implementation. In order to support 360-degree surround sensing,
+ Sensor implementation. In order to support 360-degree surround sensing,
 SuperVision™ is supported by a vision system consisting of 11 high-resolution
 cameras. The 11 cameras consist of (i) one 8-megapixel 120-degree and one
 28-degree cameras in the front, (ii) four 8-megapixel 100-degree wings cameras
@@ -13552,7 +13552,7 @@ key components, such as image sensors, lenses, and connector types, to meet both
 technicalandcostrequirementsofOEMs.Priortointegratingcamerasintovehicles,
 we conduct various optical, electrical, electromagnetic compatibility, and
 environmental tests to ensure that they are of high performance.
-(cid:129) Vehicle systems integration. We define and verify the communication protocols
+ Vehicle systems integration. We define and verify the communication protocols
 among the base version of AD domain controllers, complementary ECUs, sensors
 and cameras based on function requirements. In addition, we perform bench tests to
 ensure that the system specifications are strictly satisfied and that all signals are
@@ -13563,7 +13563,7 @@ sensors. Our team examines the installation locations carefully, performs a vari
 of optical tests in vehicle environments under varying lighting conditions, and also
 examines the entire image transmission chain to ensure that image quality does not
 degrade during transmission.
-(cid:129) Function testing and validation. To ensure that SuperVision™ is properly integrated
+ Function testing and validation. To ensure that SuperVision™ is properly integrated
 into the specific vehicle model, and that the performance of the system is of the
 highest quality, we develop and conduct comprehensive tests that cover a wide
 variety of driving scenarios, traffic situations, and weather conditions, both on test
@@ -13652,13 +13652,13 @@ with Mobileye
 Set out below is a summary of our product sales agreement for the base version of AD
 domain controllers with Mobileye for SuperVision™ solution that is generally applied to all
 SuperVisionTM projects with Mobileye:
-(cid:129) Scope of the agreement. The agreement applies to all sales made by Mobileye,
+ Scope of the agreement. The agreement applies to all sales made by Mobileye,
 pursuanttoallpurchaseorderssubmittedbyusandacceptedbyMobileye,for(i)the
 manufacture, sale and supply of the base version of AD domain controllers of
 SuperVision™, with Mobileye’s SoC embedded, (ii) licenses to Mobileye software,
 and (iii) provision of customization and technical support services from Mobileye
 for the Geely Group SuperVision™ project.
-(cid:129) Terms and termination. The agreement has a term of five years, with the expiration
+ Terms and termination. The agreement has a term of five years, with the expiration
 expected to occur in 2026. Each party may terminate the agreement in the event of
 amaterialbreachoftheagreementwhichisleftuncuredforaperiodof30daysfrom
 written notice of the breach, or providing a 90 day prior written notice to the other
@@ -13670,7 +13670,7 @@ specific renewal clause.
 
 === PAGE 300 ===
 BUSINESS
-(cid:129) The non-cancellable non-refundable policy. As a result of the global shortage of
+ The non-cancellable non-refundable policy. As a result of the global shortage of
 semiconductor chips, we were required to provide a binding forecast of our overall
 purchase volumes of the base version of AD domain controllers product starting
 from the effective date of the agreement and until December 31, 2022 (the “Binding
@@ -13678,19 +13678,19 @@ Forecast”). Additional binding forecasts were to be provided upon Mobileye’s
 requests. Orders and binding forecasts for products are firm and may not be
 cancelled, amended, returned, or rescheduled without Mobileye’s prior written
 approval.
-(cid:129) Rolling order forecast. Other than any binding forecasts, during the first week of
+ Rolling order forecast. Other than any binding forecasts, during the first week of
 each month, we are required to provide Mobileye a 24-month rolling order forecast.
-(cid:129) Payment settlement. Payments should be made by us to Mobileye net 30 days from
+ Payment settlement. Payments should be made by us to Mobileye net 30 days from
 the date of invoice except as otherwise agreed in writing.
-(cid:129) Warranty. Mobileye offers a warranty period of 36 months, ensuring that, on
+ Warranty. Mobileye offers a warranty period of 36 months, ensuring that, on
 delivery, the base version of AD domain controllers, of SuperVision™, would be
 free from material manufacturing defects in material and workmanship and would
 materially conform to Mobileye’s technical specifications.
-(cid:129) Pricing. Billing for products and services is at the prices agreed between both
+ Pricing. Billing for products and services is at the prices agreed between both
 parties.The Company is responsible for all applicable levies, customs and duties, or
 taxes imposed by any governmental authority pertaining to the purchase of products
 and services.
-(cid:129) Remedies. If we make a valid warranty claim, Mobileye will (i) at its option and
+ Remedies. If we make a valid warranty claim, Mobileye will (i) at its option and
 expense, within a reasonable period from its receipt of the defective product either:
 (a) repair the defect; (b) replace the nonconforming product with product of equal
 functional performance; or (c) refund or credit to us the purchase price paid by us;
@@ -13702,7 +13702,7 @@ involving defective or nonconforming products, that could have given rise to a
 warranty claim to Mobileye. Therefore, during the same period, the unclaimed
 balance of the warranty liability provided by Mobileye remained at US$40.0
 million.
-(cid:129) Intellectual Property. Software provided by Mobileye remains the property of
+ Intellectual Property. Software provided by Mobileye remains the property of
 Mobileye or its licensors. Mobileye grants us a non-exclusive license to use the
 software only in SuperVision™ provided to Geely Group. Subject to certain
 pre-conditions (including, for example, our payment of relevant license fees),
@@ -13728,19 +13728,19 @@ forecasted and actual procurement.
 Reasons for Our Supplier Concentration on Mobileye
 The high supplier concentration on Mobileye in 2021, 2022 and the six months ended
 June 30, 2023 primarily resulted from the following:
-(cid:129) According to Frost & Sullivan, due to the early development of autonomous driving
+ According to Frost & Sullivan, due to the early development of autonomous driving
 technology, there are a limited number of autonomous driving SoC providers in the
 market, thus the autonomous driving SoC market is highly concentrated. We had
 chosen to enter into cooperation with Mobileye taking into account its proven track
 record and strong market position in the autonomous driving SoC industry.
-(cid:129) With Mobileye, we offer SuperVision™ to Geely Group for its ZEEKR 001 model.
+ With Mobileye, we offer SuperVision™ to Geely Group for its ZEEKR 001 model.
 Resulting from the series production of ZEEKR 001, Geely Group was our largest
 customer in 2021, 2022 and the six months ended June 30, 2023. Considering the
 relatively high unit price of the base version of AD domain controllers, and the
 significant sales volume of ZEEKR 001, the purchase amount of base version ofAD
 domain controllers we procure from Mobileye out-numbered those we purchased
 from other suppliers.
-(cid:129) We also procured EyeQ® series SoCs from Mobileye to integrate into our iFC
+ We also procured EyeQ® series SoCs from Mobileye to integrate into our iFC
 products. We procure EyeQ® series SoCs after a thorough evaluation of Mobileye’s
 world-level advanced technology in the SoCs and its integration with related
 autonomous driving functions. Compared to other major world-renowned SoC
@@ -13753,7 +13753,7 @@ BUSINESS
 Our Directors believe that our Group’s business model is sustainable although the total
 purchase from Mobileye accounted for a majority portion of our purchase in 2021, 2022 and
 the six months ended June 30, 2023:
-(cid:129) The relationship between our Group and Mobileye is of a mutually beneficial and
+ The relationship between our Group and Mobileye is of a mutually beneficial and
 complementary nature:
 (i) According to Frost & Sullivan, the autonomous driving sector is a technology-
 intensive industry, in which only suppliers with strong R&D capabilities,
@@ -13794,7 +13794,7 @@ purchase orders in respect of our procurement from Mobileye.
 
 === PAGE 303 ===
 BUSINESS
-(cid:129) WedidnotenterintoanyexclusivearrangementwithMobileyeoranyotherexisting
+ WedidnotenterintoanyexclusivearrangementwithMobileyeoranyotherexisting
 suppliers for SoC or for SuperVisionTM procurement, which provides flexibility for
 us to select different SoC supplier base on assessment of the products and
 customers’actualneeds.Wearecapableofdevelopingautonomousdrivingsolutions
@@ -13804,7 +13804,7 @@ developing such solutions and products. For example, for the SoC for AD domain
 controllers, we chose to partner with Texas Instruments to procure the SoCs (i.e., TI
 TDA4) for iDC Mid, and to partner with Renesas to procure its SoCs (i.e., Renesas
 V4H) for iDC High.
-(cid:129) We also actively conduct R&D and testing continuously to identify cost-effective
+ We also actively conduct R&D and testing continuously to identify cost-effective
 yet quality SoCs from other international or domestic SoC suppliers for our
 autonomous driving solutions and products and will also consider purchasing from
 other SoCs suppliers with suitable products offerings as it continues to enrich its
@@ -13812,14 +13812,14 @@ solution portfolio. We believe such other suppliers are also able to provide sta
 supply and we do not expect any capacity constraint in this respect.
 Our Directors are of the view that the risk of Mobileye ceasing to supply to us because
 of cannibalization between SuperVision™ and iDC series is relatively low, considering that:
-(cid:129) Due to the different parameters and targeting markets, there is no direct competition
+ Due to the different parameters and targeting markets, there is no direct competition
 between SuperVision™ and iDC series. SuperVision™ and iDC series have been
 designed with specific features and functionalities, appealing to different segments
 of the market. In particular, SuperVision™ is targeted at the premium vehicles while
 iDC series has a target market of mid- to high-end vehicle models. As reflected in
 their distinct pricing strategies, SuperVision™ and iDC series cater to different
 customer needs and preferences.
-(cid:129) Mobileye has already become aware of our ongoing development of iDC series and
+ Mobileye has already become aware of our ongoing development of iDC series and
 has gained a preliminary understanding of the iDC series’ general parameters and
 target market. Despite this, as of the Latest Practicable Date, Mobileye had not
 ceased, nor have they notified us of any intention to cease, the supply to us. As of
@@ -13915,13 +13915,13 @@ million, RMB16.9 million, RMB33.6 million and RMB46.2 million, respectively. In 
 2021 and 2022, we also recorded a net operating cash outflow of RMB23.8 million, RMB62.9
 million and RMB65.6 million, respectively. Our losses during the Track Record Period were
 primarily because:
-(cid:129) Operating in an emerging market. The autonomous driving industry is still at its
+ Operating in an emerging market. The autonomous driving industry is still at its
 early stage of development. In particular, the penetration rate of AD domain
 controllers for passenger vehicles was only 4.5% in 2022. To further reinforce our
 presence and competitiveness in the emerging autonomous driving market, we have
 beenfocusingonR&D,productdevelopmentandexpansionofcustomerbase,rather
 than seeking short-term return or profitability.
-(cid:129) Economies of scale have not yet fully materialized. SuperVision™ has become our
+ Economies of scale have not yet fully materialized. SuperVision™ has become our
 main source of revenue. In 2021 and 2022 and for the six months ended June 30,
 2022 and 2023, the gross profit margin of our AD domain controller solutions was
 5.3%, 7.4%, 6.3% and 7.2%, respectively, which was relatively low as compared to
@@ -13934,7 +13934,7 @@ Period; and
 
 === PAGE 306 ===
 BUSINESS
-(cid:129) We continually invest in the R&D of new products and autonomous driving
+ We continually invest in the R&D of new products and autonomous driving
 technologies. To pave the way for a long-term success in the new industry and
 fast-growing market, we have been focusing on developing our R&D capabilities,
 rather than seeking immediate financial returns or profitability. During the Track
@@ -13984,7 +13984,7 @@ Continuously Growing Revenue and Sales Volume
 We have achieved a steady growth in revenue and sales volume during the Track Record
 Period. We expect that our revenue and sales volume growth will be driven by the following
 factors:
-(cid:129) Favorable Market Trend. Under the trends of vehicle electrification, intelligence
+ Favorable Market Trend. Under the trends of vehicle electrification, intelligence
 and connectivity, the autonomous driving market in China is expected to maintain
 significantgrowthmomentuminthefuture.Accordingly,themarketforautonomous
 driving solutions and products is expected to grow rapidly in the future. For details,
@@ -13992,7 +13992,7 @@ see “Industry Overview — Overview of the AD Domain Controller Market” and
 “Industry Overview — Overview of the Intelligent Front Camera Market.” We
 believe we are well positioned to fully capture the market potential and achieve
 sustainable significant growth in the future;
-(cid:129) Improving Solution and Product Offerings. We mainly provide two AD domain
+ Improving Solution and Product Offerings. We mainly provide two AD domain
 controller product lines, including SuperVision™, which is supplied to our
 customers through collaboration with Mobileye where we acquire the base version
 ofAD domain controllers from Mobileye and then act as the system integrator, and
@@ -14010,7 +14010,7 @@ expect to launch more autonomous driving solutions in the future, for example, w
 expect to launch and deliver both iDC High and iFC 3.0 in 2024.We expect that our
 continuous investment in enhancing our solution and product offerings will increase
 our sales volume and improve our profitability; and
-(cid:129) Customer Retention and Expansion. We expect to deepen our relationships with
+ Customer Retention and Expansion. We expect to deepen our relationships with
 existing customers and expand our customer base in terms of breadth and depth. We
 have established stable collaborations with top-tier domestic and international
 OEMs. In particular, as a core supplier of AD domain controllers, we have
@@ -14044,7 +14044,7 @@ for the six months ended June 30, 2023, primarily because we gradually achieved 
 economies of scale and had increasing bargaining power against suppliers following the series
 production of our products.We believe that we are able to continue to improve our gross profit
 margin, primarily due to the following factors:
-(cid:129) Better product mix with higher margins. We intend to improve our gross profit
+ Better product mix with higher margins. We intend to improve our gross profit
 margin by launching additional autonomous driving solutions and products with
 higher margins. The series production of iDC Mid began in January 2023, which
 recorded a significantly higher gross profit margin than existing AD domain
@@ -14053,7 +14053,7 @@ controller solution. We also expect the series production of iDC High to start i
 High and iFC 3.0 to additional vehicle models of both our existing and new OEM
 customers, sales of these solutions and products are expected to contribute to a
 larger proportion of total sales, resulting in higher overall gross profit margin.
-(cid:129) Improving production capabilities and expanding production capacity. We intend to
+ Improving production capabilities and expanding production capacity. We intend to
 improve our production capabilities and the level of automation of our production
 lines with our internally generated funds and net proceeds from the Global Offering.
 In particular, we plan to further upgrade our newly-added test line, which can be
@@ -14068,7 +14068,7 @@ ultimately.
 
 === PAGE 309 ===
 BUSINESS
-(cid:129) Stronger bargaining power as achieving increasing economies of scale. The
+ Stronger bargaining power as achieving increasing economies of scale. The
 decreases in our gross profit margin from 2021 to 2022 were primarily because we
 generated a greater portion of revenue from sales ofAD domain controller solutions
 in 2022 which had a lower gross profit margin as compared to other business
@@ -14188,7 +14188,7 @@ Test
 Hardware-software Implementation
 We further divide the entire R&D process into three stages before series production:
 concept stage, development stage, and validation stage.
-(cid:129) Concept stage. At the first stage, we primarily focus on product research, such as
+ Concept stage. At the first stage, we primarily focus on product research, such as
 developingproof-of-conceptprototypesandexploringthefeasibilityofnewconcept
 autonomous driving products beyond our current product lines. We also work
 closely with our OEM customers to further develop our design, and they conduct
@@ -14196,7 +14196,7 @@ supplier evaluation process simultaneously. Upon completion of the evaluation
 process, generally, OEMs (or in respect of certain vehicle models, an affiliate of the
 relevant OEM) issue letters of nomination to us as a commitment to form a formal
 cooperative relationship.
-(cid:129) Development stage. At the second stage, our R&D team works with our business
+ Development stage. At the second stage, our R&D team works with our business
 development team to understand customers’ needs and optimize the autonomous
 driving products according to the desired specifications, ensuring that our products
 – 302 –
@@ -14206,7 +14206,7 @@ BUSINESS
 are able to satisfy our customers’ requirements. At this stage, our goal is not only
 to support functions required by customers, but also to design and develop solutions
 and products of high quality with good performance.
-(cid:129) Validation stage. At the last stage, our emphasis is on the verification and validation
+ Validation stage. At the last stage, our emphasis is on the verification and validation
 of our products, to test the reliability of our products and prepare for series
 production. In order to ensure that our products function correctly, we test them in
 various simulation environment and real-world scenarios.
@@ -14373,7 +14373,7 @@ analytics, proper use of data, data destruction and disposition.
 === PAGE 316 ===
 BUSINESS
 Set forth below are the details of the measures we have taken to protect data security.
-(cid:129) Comprehensive data governance and related internal control measures. We have
+ Comprehensive data governance and related internal control measures. We have
 achieved complete data desensitization and anonymization at the storage level and
 put in place a comprehensive employee confidentiality system, and data usage
 approval procedures to ensure security of our database. We have established an
@@ -14388,7 +14388,7 @@ access to or processing of data to be subject to assessment and approval procedu
 We store data in accordance with applicable laws and regulations. As the laws and
 regulations relating to data security evolve, we will adjust our internal policy and
 procedures with respect to data security protection to ensure compliance.
-(cid:129) Strict data retention policy, data architecture and encryption measures. We use
+ Strict data retention policy, data architecture and encryption measures. We use
 various encryption technologies at software and hardware levels to protect the
 transmissionandstorageofdata,andconductcomprehensivetestingandassessment
 todeterminetheefficiencyofourdataprocessingandmanagementtechnologies.we
@@ -14399,7 +14399,7 @@ to prevent system attacks. To minimize the risk of data loss or leakage, we main
 redundancy and conduct regular data backup and data recovery tests. We also
 leverage our technology infrastructure, cybersecurity expertise and our database to
 enhance the reliability, stability and security of our data.
-(cid:129) Strictdataaccessandprocessingpoliciesandrelatedinternalcontrolmeasures.We
+ Strictdataaccessandprocessingpoliciesandrelatedinternalcontrolmeasures.We
 manage access to operational data based on strict necessity and maintain records of
 data access. Access to and operation of data will be logged and monitored and
 subject to review. To process data for a particular purpose, such as generating
@@ -14414,7 +14414,7 @@ or improper collection or use of such data.
 
 === PAGE 317 ===
 BUSINESS
-(cid:129) Strict enforcement of data security policies. Our information security department
+ Strict enforcement of data security policies. Our information security department
 will investigate the event in a timely manner and we take appropriate security
 measures against any abnormal or suspicious requests or behaviors. In addition, we
 require our employees to acknowledge and sign confidentiality agreements before
@@ -14423,12 +14423,12 @@ any illegally misuse or leakage of our data or any damage caused to us. We prohi
 employees from storing any work-related documents, files or data on personal
 devices. We also regularly organize presentations and training sessions related to
 data security to strengthen employees’ awareness of data security compliance.
-(cid:129) Certification and accreditation of our data security management. Our information
+ Certification and accreditation of our data security management. Our information
 security management system, quality management system and information
 technology service management system have been certified under the ISO standard.
 For example, we have passed IATF16949 (Automotive Quality Management
 Systems) and ISO 21434 (Automotive Cybersecurity Standards).
-(cid:129) Algorithm governance and management. Our algorithms primarily consist of
+ Algorithm governance and management. Our algorithms primarily consist of
 perception, vehicle localization and controlling algorithms, which are used to
 support our driving and parking functions based on the fusion of semantic
 informationandimagefeatures.DuringtheTrackRecordPeriodanduptotheLatest
@@ -14618,26 +14618,26 @@ BUSINESS
 Metrics Used to Assess and Reduce Environmental Risks
 We closely monitor a number of metrics to reduce the environmental risks during the
 process of production and operations, which primarily include:
-(cid:129) Waste discharge (including hazardous waste). We routinely keep an eye on the way
+ Waste discharge (including hazardous waste). We routinely keep an eye on the way
 our waste is discharged. In particular, (i) we monitor the recycling of solid waste on
 a monthly basis with the goal of reaching a 100% recycling rate; and (ii) we monitor
 theemissionofwastegasandwateronanannualbasistomakesureitcomplieswith
 applicable laws and regulations.
-(cid:129) Noise control. Noise would inevitably be generated due to our business nature.With
+ Noise control. Noise would inevitably be generated due to our business nature.With
 the aim to minimize noise pollution and potential disturbance to the nearby
 community, we have implemented the noise control system that includes a number
 of measures to reduce and control the noise level. Noise level is monitored at least
 once a year to ensure that the noise level does not exceed the prescribed level under
 the applicable laws and regulations.
-(cid:129) Air pollution control. Relevant measures have been established to ensure that air
+ Air pollution control. Relevant measures have been established to ensure that air
 quality in the manufacturing premises will not pose threats to the neighboring areas.
 We check our waste gas processing equipment on a daily basis to ensure its
 functionality is on the right track to eliminate waste gas emissions.
-(cid:129) Water consumption. We conduct water consumption analysis every six months.
+ Water consumption. We conduct water consumption analysis every six months.
 Given the geographical location of the business operations, we did not encounter
 any problem in sourcing water that was fit for purpose.The total water consumption
 intensity (m3/revenue) was below 0.0002 throughout the Track Record Period.
-(cid:129) Electricity consumption. We conduct electricity consumption analysis monthly. The
+ Electricity consumption. We conduct electricity consumption analysis monthly. The
 total electricity consumption intensity (kWh/revenue) was below 0.03 throughout
 the Track Record Period.
 Energy consumption
@@ -14683,28 +14683,28 @@ around our offices and manufacturing facilities.
 We intend to continually reduce the level of our energy consumption. We target to
 gradually reduce the consumptions of production utilities in the following years. We will
 implement the following measures:
-(cid:129) carrying out capacity improvement, flexible manufacturing, replacement of old
+ carrying out capacity improvement, flexible manufacturing, replacement of old
 equipment and technological transformation;
-(cid:129) reasonably planning administrative vehicles, reducing the use of administrative
+ reasonably planning administrative vehicles, reducing the use of administrative
 vehicles, advocating the use of public transport and NEVs, and reducing gasoline
 consumption;
-(cid:129) clarifying the energy management responsibility system by assigning relevant
+ clarifying the energy management responsibility system by assigning relevant
 responsibilities to individuals and setting up an energy management team;
 – 314 –
 
 === PAGE 324 ===
 BUSINESS
-(cid:129) monitoring the overall energy consumption of each unit regularly, detecting and
+ monitoring the overall energy consumption of each unit regularly, detecting and
 analyzing abnormal energy consumption timely, adopting special countermeasures
 and a reward and punishment system, and realizing scientific management;
-(cid:129) promoting the application of new technologies, processes, and equipment for saving
+ promoting the application of new technologies, processes, and equipment for saving
 energy, while actively eliminating production lines with high energy consumption
 and backward production capacity, and taking energy efficiency indicators into
 consideration in the equipment procurement process;
-(cid:129) evaluating the lighting effect in the production facility and office area scientifically,
+ evaluating the lighting effect in the production facility and office area scientifically,
 and replacing the lighting equipment with LED lights or other energy-saving
 lightings without affecting our production and operation; and
-(cid:129) strengtheningtheeducationandtrainingrelatingtoenergyemissionreductionforall
+ strengtheningtheeducationandtrainingrelatingtoenergyemissionreductionforall
 employees.
 Biodegradability/recyclability of the materials used in the production of our products
 The materials we used in the production of our products include both degradable and
@@ -14749,11 +14749,11 @@ We endeavor to reduce the waste and sewage we produce. In particular, we target 
 100%harmlesstransferrateofhazardouswastesandgraduallyreducetheperunitoutputvalue
 of certain waste consumables in the following years. To this end, we are implementing the
 following measures:
-(cid:129) disposing hazardous waste regularly by a qualified third-party enterprise, and
+ disposing hazardous waste regularly by a qualified third-party enterprise, and
 signing a disposal agreement will be every year;
-(cid:129) adopting measures such as adjusting product structure or production technology so
+ adopting measures such as adjusting product structure or production technology so
 that we may reduce the amount of hazardous waste generated; and
-(cid:129) evaluating and monitoring the concentration of pollutants in the discharged sewage
+ evaluating and monitoring the concentration of pollutants in the discharged sewage
 to ensure we meet relevant discharging standards.
 Social Responsibility
 Product Safety and Continuous Improvement
@@ -14979,12 +14979,12 @@ Hong Kong (and later adding Macau), as well as related end uses and the activiti
 persons,” (“U.S. persons” include any individual who is a U.S. Citizen or permanent resident
 alien, and any entity organized under U.S. Law) in the semiconductor and supercomputer
 manufacturing industries. These included:
-(cid:129) Adding new export control classification numbers (“ECCN”), 3A090 and 4A090, to
+ Adding new export control classification numbers (“ECCN”), 3A090 and 4A090, to
 control certain high performance integrated circuits (“ICs”), computers, electronic
 assemblies, and components that are subject to the EAR which are prohibited,
 without a license, from being exported, reexported or transferred (in-country) to or
 within Mainland China, Hong Kong SAR, and Macau SAR;
-(cid:129) Addingtwonewforeigndirectproductrules(“FDPRules”)andtheexpansionofthe
+ Addingtwonewforeigndirectproductrules(“FDPRules”)andtheexpansionofthe
 Entity List FDP Rule, which collectively expanded U.S. export control laws to
 capture under the jurisdiction of the EAR certain foreign-made Items that are
 developed from specific U.S. technology or software, or from a plant or equipment
@@ -14995,17 +14995,17 @@ subject to export licensing requirements when destined for certain end-users (i.
 certain parties designated on BIS’ Entity List) or certain end-uses in the advanced
 computing and supercomputer industries in Mainland China, Hong Kong SAR or
 Macau SAR;
-(cid:129) Adding a specific designation (i.e., footnote 4 on the Entity List) to 28 Chinese
+ Adding a specific designation (i.e., footnote 4 on the Entity List) to 28 Chinese
 parties on BIS’Entity List such that transactions with these parties are subject to the
 broader EAR jurisdiction, and associated export licensing requirements, imposed by
 the Entity List FDP Rule and related Entity List restrictions;
-(cid:129) Adding an export license requirement for the export, reexport or transfer
+ Adding an export license requirement for the export, reexport or transfer
 (in-country) of (i) certain Items subject to EAR and classified under particular
 ECCNs, or (ii) certain semiconductor manufacturing end-uses Items subject to the
 EAR, where the (i) or (ii) items are destined to Mainland China, Hong Kong SAR
 or Macau SAR for certain supercomputer or for semiconductor manufacturing
 end-uses; and
-(cid:129) Adding an export license requirement for any U.S. persons (both individuals and
+ Adding an export license requirement for any U.S. persons (both individuals and
 legal entities) whose activities support the advanced computing or semiconductor
 manufacturing end-uses discussed above.
 – 322 –
@@ -15220,7 +15220,7 @@ BUSINESS
 According to the Working Mechanism Announcement on the List of Unreliable Entities
 ([2023] No. 1) (不可靠實體清單工作機制公告[2023]1號) published by the MOFCOM on
 February 16, 2023, as of the Latest Practicable Date, there were two foreign entities, Lockheed
-Martin Corporation (洛克希德(cid:129)馬丁公司) and Raytheon Missiles & Defense (雷神導彈與防務
+Martin Corporation (洛克希德 馬丁公司) and Raytheon Missiles & Defense (雷神導彈與防務
 公司) being designated on the List (collectively as the “Unreliable Entities”). As of the Latest
 Practicable Date, we had no business cooperation or transaction with the Unreliable Entities,
 nor did we have any plans to conduct any business cooperation or transaction with the
@@ -15690,30 +15690,30 @@ Mr. LI worked at China National Software and Service Company Limited (中國軟�
 務股份有限公司).
 Mr. LI also concurrently holds the following directorship and supervisory roles outside
 our Group:
-(cid:129) a supervisor of Shanghai Slamtec Co., Ltd (上海思嵐科技有限公司), a company
+ a supervisor of Shanghai Slamtec Co., Ltd (上海思嵐科技有限公司), a company
 focusing on providing autonomous localization and navigation solution in service
 robot industry, since January 2018;
 – 340 –
 
 === PAGE 350 ===
 DIRECTORS, SUPERVISORS AND SENIOR MANAGEMENT
-(cid:129) a director ofAnhui Vorbafer Electronic Technology Co., Ltd. (安徽沃巴弗電子科技
+ a director ofAnhui Vorbafer Electronic Technology Co., Ltd. (安徽沃巴弗電子科技
 有限公司), a company focusing on the development, production and sales of sensor,
 since February 2022;
-(cid:129) a director of Zhejiang Laifual Drive Co., Ltd (浙江來福諧波傳動股份有限公司), a
+ a director of Zhejiang Laifual Drive Co., Ltd (浙江來福諧波傳動股份有限公司), a
 company focusing on research and manufacture of high precision harmonic
 reducers, since November 2021;
-(cid:129) a director of Suzhou CalmCar Electronic Technology Co., Ltd. (蘇州天瞳威視電子
+ a director of Suzhou CalmCar Electronic Technology Co., Ltd. (蘇州天瞳威視電子
 科技有限公司), a company focusing on automobile intelligent driving products and
 data services, since October 2021, where he only plays non-executive role and is not
 involved in the day-to-day operation;
-(cid:129) a director of Shenzhen Deepcamera Information Technology Co., Ltd. (深圳神目信
+ a director of Shenzhen Deepcamera Information Technology Co., Ltd. (深圳神目信
 息技術有限公司), a company focusing on the application of computer vision
 technology and big data services, since July 2020;
-(cid:129) a director of Guangzhou PerceptionVision MedicalTechnology Co., Ltd. (廣州柏視
+ a director of Guangzhou PerceptionVision MedicalTechnology Co., Ltd. (廣州柏視
 醫療科技有限公司), a medical artificial intelligence company focusing on offering
 solutions for multi-disease and multimodal diagnosis, since April 2018; and
-(cid:129) a supervisor of Suzhou Oriental Semiconductor Company Limited (蘇州東微半導體
+ a supervisor of Suzhou Oriental Semiconductor Company Limited (蘇州東微半導體
 股份有限公司), a semiconductor enterprise listed on the Shanghai Stock Exchange
 (stock code: 688261), since March 2017.
 Mr. LI obtained his bachelor’s degree in mechatronic engineering from Beijing Institute
@@ -15789,24 +15789,24 @@ Mr. LIU was accredited as a certified practicing accountant by the Chinese Insti
 Certified Public Accountants in June 1994 and accumulated extensive experience in the
 accounting profession.
 Mr. LIU has been holding and held directorships in the following listed companies:
-(cid:129) an independent director at Suzhou Jcon Building Technology Co., Ltd. (蘇州旭傑建
+ an independent director at Suzhou Jcon Building Technology Co., Ltd. (蘇州旭傑建
 築科技股份有限公司), an assembly building service company listed on the Beijing
 Stock Exchange (stock code: 836149), since April 2020;
-(cid:129) an independent director at China-Singapore Suzhou Industrial Park Development
+ an independent director at China-Singapore Suzhou Industrial Park Development
 Group Co., Ltd. (中新蘇州工業園區開發集團股份有限公司), an industrial park
 development and operation company listed on the Shanghai Stock Exchange (stock
 code: 601512), since September 2020;
-(cid:129) an independent director at Kuaijishan Shaoxing Rice Wine Co., Ltd. (會稽山紹興酒
+ an independent director at Kuaijishan Shaoxing Rice Wine Co., Ltd. (會稽山紹興酒
 股份有限公司),ayellowricewineproductioncompanylistedontheShanghaiStock
 Exchange (stock code: 601579) since February 2023;
-(cid:129) an independent director at Meinian Onehealth Healthcare Holdings Co., Ltd. (美年
+ an independent director at Meinian Onehealth Healthcare Holdings Co., Ltd. (美年
 大健康產業控股股份有限公司), a medical examination company listed on the
 Shenzhen Stock Exchange (stock code: 002044), from October 2015 to October
 2021;
-(cid:129) an independent director at Imeik Technology Development Co., Ltd. (愛美客技術發
+ an independent director at Imeik Technology Development Co., Ltd. (愛美客技術發
 展股份有限公司), a biomaterial company listed on the Shenzhen Stock Exchange
 (stock code: 300896), from November 2016 to November 2022; and
-(cid:129) an independent director at Shenzhen Sinovatio Technology Co., Ltd. (深圳市中新賽
+ an independent director at Shenzhen Sinovatio Technology Co., Ltd. (深圳市中新賽
 克科技股份有限公司), a company listed on the Shenzhen Stock Exchange (stock
 code: 002912), from January 2015 to January 2021.
 Mr. LIU obtained his bachelor’s degree in enterprise management from Nanjing
@@ -17031,14 +17031,14 @@ products. Changes in any of these general factors could affect the demand for ou
 products and our results of operations.
 In addition to the general factors mentioned above, we believe our results of operations
 are more directly affected by the following specific factors:
-(cid:129) Ourabilitytodeepenrelationshipswithexistingcustomersandexpandourcustomer
+ Ourabilitytodeepenrelationshipswithexistingcustomersandexpandourcustomer
 base;
-(cid:129) Our ability to successfully develop and commercialize our autonomous driving
+ Our ability to successfully develop and commercialize our autonomous driving
 solutions and products, and to optimize our autonomous driving solution and
 product mix;
-(cid:129) Our ability to continually innovate our technology capabilities to maintain our
+ Our ability to continually innovate our technology capabilities to maintain our
 leadership in product performance and quality; and
-(cid:129) Our ability to effectively manage our costs and expenses and enhance operating
+ Our ability to effectively manage our costs and expenses and enhance operating
 efficiency.
 – 374 –
 
@@ -17223,11 +17223,11 @@ customer.
 Control is transferred over time and revenue is recognized over time by reference to the
 progress towards complete satisfaction of the relevant performance obligation if one of the
 following criteria is met:
-(cid:129) the customer simultaneously receives and consumes the benefits provided by our
+ the customer simultaneously receives and consumes the benefits provided by our
 performance as we perform;
-(cid:129) our performance creates or enhances an asset that the customer controls as we
+ our performance creates or enhances an asset that the customer controls as we
 perform; or
-(cid:129) our performance does not create an asset with an alternative use to us and we have
+ our performance does not create an asset with an alternative use to us and we have
 an enforceable right to payment for performance completed to date.
 Otherwise, revenue is recognized at a point in time when the customer obtains control of
 the distinct good or service.
@@ -17283,7 +17283,7 @@ Fair Value Measurement
 To provide an indication about the reliability of the inputs used in determining fair value,
 we have classified its financial instruments into the three levels prescribed under the
 accounting standards.
-(cid:129) Level 1: The fair value of financial instruments traded in active markets (such as
+ Level 1: The fair value of financial instruments traded in active markets (such as
 publicly traded derivatives, and equity securities) is based on quoted market prices
 at the end of the reporting period. The quoted market price used for financial assets
 held by us is the current bid price. These instruments are included in level 1.
@@ -17291,12 +17291,12 @@ held by us is the current bid price. These instruments are included in level 1.
 
 === PAGE 390 ===
 FINANCIAL INFORMATION
-(cid:129) Level 2: The fair value of financial instruments that are not traded in an active
+ Level 2: The fair value of financial instruments that are not traded in an active
 market (for example, over-the-counter derivatives) is determined using valuation
 techniques which maximize the use of observable market data and rely as little as
 possible on entity-specific estimates. If all significant inputs required to fair value
 an instrument are observable, the instrument is included in level 2.
-(cid:129) Level 3: If one or more of the significant inputs is not based on observable market
+ Level 3: If one or more of the significant inputs is not based on observable market
 data, the instrument is included in level 3. This is the case for unlisted equity
 securities.
 Our policy is to recognize transfers into and out of fair value hierarchy levels as at the
@@ -18029,11 +18029,11 @@ Our revenue increased by 51.2% from RMB359.2 million for the six months ended Ju
 30, 2022 to RMB543.2 million for the six months ended June 30, 2023. The increase in our
 revenue was primarily driven by an increase in the sales of autonomous driving solutions and
 products.
-(cid:129) Revenue from sales of AD domain controller solutions increased by 53.5% from
+ Revenue from sales of AD domain controller solutions increased by 53.5% from
 RMB336.0 million for the six months ended June 30, 2022 to RMB515.5 million for
 the six months ended June 30, 2023, which was primarily due to a significant
 increase in the sales volume of SuperVision™ in line with our business expansion.
-(cid:129) Revenue from sales of intelligent front cameras increased significantly from
+ Revenue from sales of intelligent front cameras increased significantly from
 RMB0.8 million for the six months ended June 30, 2022 to RMB5.3 million for the
 six months ended June 30, 2023, which was primarily due to a significant increase
 in the sales volume of iFC 2.0 in line with our business expansion.
@@ -18041,13 +18041,13 @@ in the sales volume of iFC 2.0 in line with our business expansion.
 
 === PAGE 409 ===
 FINANCIAL INFORMATION
-(cid:129) Revenue from rendering of autonomous driving-related R&D services was RMB5.5
+ Revenue from rendering of autonomous driving-related R&D services was RMB5.5
 million and RMB12.1 million for the six months ended June 30, 2022 and 2023,
 respectively. The increase was primarily because we recognize revenue for
 autonomous driving-related R&D services on project basis and the increase in the
 six months ended June 30, 2023 was in relation to recognized revenue from certain
 R&D projects.
-(cid:129) Revenue from sales of PCBA products decreased by 39.4% from RMB17.0 million
+ Revenue from sales of PCBA products decreased by 39.4% from RMB17.0 million
 for the six months ended June 30, 2022 to RMB10.3 million for the six months
 ended June 30, 2023, which was primarily because we strategically focus on our
 core business which is sales of autonomous driving solutions and products.
@@ -18060,23 +18060,23 @@ Gross Profit and Gross Profit Margin
 Ourgrossprofitincreasedby77.6%fromRMB23.1millionforthesixmonthsendedJune
 30, 2022 to RMB41.0 million for the six months ended June 30, 2023, which was in general
 driven by our rapid revenue growth.
-(cid:129) Gross profit of AD domain controller solutions increased by 76.8% from RMB21.1
+ Gross profit of AD domain controller solutions increased by 76.8% from RMB21.1
 million for the six months ended June 30, 2022 to RMB37.3 million for the six
 months ended June 30, 2023. The increase in gross profit was primarily driven by
 the rapid sales growth of SuperVision™.
-(cid:129) Gross profit of intelligent front cameras was a negative of RMB0.1 million for the
+ Gross profit of intelligent front cameras was a negative of RMB0.1 million for the
 six months ended June 30, 2022 and a negative of RMB0.6 million for the six
 months ended June 30, 2023. The changes was primarily because we strategically
 adjust our selling price downwards to establish collaborative relationship with
 certain OEM customers in terms of sales of intelligent front cameras.
-(cid:129) WerecordednegativegrossprofitofRMB0.2millionofautonomousdriving-related
+ WerecordednegativegrossprofitofRMB0.2millionofautonomousdriving-related
 R&D services for the six months ended June 30, 2022. Gross profit of autonomous
 driving-related R&D services was RMB4.3 million for the six months ended June
 30, 2023. The increase was because we recognize gross profit for autonomous
 driving-related R&D services on project basis and the increase in the six months
 ended June 30, 2023 was in relation to recognized gross profit from certain R&D
 projects.
-(cid:129) Gross profit of PCBA products decreased from RMB2.2 million for the six months
+ Gross profit of PCBA products decreased from RMB2.2 million for the six months
 ended June 30, 2022 to RMB36 thousand for the six months ended June 30, 2023.
 The decrease in gross profit was primarily because we strategically focused on our
 core business which is sales of autonomous driving solutions and products.
@@ -18087,22 +18087,22 @@ FINANCIAL INFORMATION
 Our gross profit margin increased from 6.4% for the six months ended June 30, 2022 to
 7.6% for the six months ended June 30, 2023, primarily due to the increase in the gross profit
 margins of AD domain controller solutions.
-(cid:129) Gross profit margin ofAD domain controller solutions increased from 6.3% for the
+ Gross profit margin ofAD domain controller solutions increased from 6.3% for the
 sixmonthsendedJune30,2022to7.2%forthesixmonthsendedJune30,2023.The
 increase in gross profit margin was primarily because of our increasing bargaining
 power against suppliers following the increasing sales of ourAD domain controller
 solutions.
-(cid:129) Gross profit margin of intelligent front cameras was a negative of 7.7% for the six
+ Gross profit margin of intelligent front cameras was a negative of 7.7% for the six
 months ended June 30, 2022 and a negative of 11.4% for the six months ended June
 30,2023.Thedecreaseingrossprofitmarginwasprimarilybecausewestrategically
 adjust our selling price downwards to establish collaborative relationship with
 certain OEM customers in terms of sales of intelligent front cameras.
-(cid:129) We recorded a negative gross profit margin of 3.1% of autonomous driving-related
+ We recorded a negative gross profit margin of 3.1% of autonomous driving-related
 R&D services for the six months ended June 30, 2022. Gross profit margin of
 autonomous driving-related R&D services was 35.5% for the six months ended
 June 30, 2023. Our gross profit margin of autonomous driving-related R&D services
 varied across different projects.
-(cid:129) Gross profit margin of PCBA products decreased from 13.2% for the six months
+ Gross profit margin of PCBA products decreased from 13.2% for the six months
 ended June 30, 2022 to 0.3% for the six months ended June 30, 2023. The decrease
 in gross profit margin was primarily because we have not delivered our PCBA
 products to some of our PCBAcustomers, who yielded higher gross margins for the
@@ -18177,18 +18177,18 @@ Revenue
 Our revenue increased significantly from RMB178.3 million in 2021 to RMB1,325.9
 million in 2022. The increase in our revenue was primarily driven by an increase in the sales
 of autonomous driving solutions and products.
-(cid:129) Revenue from sales ofAD domain controller solutions increased significantly from
+ Revenue from sales ofAD domain controller solutions increased significantly from
 RMB86.0 million in 2021 to RMB1,249.8 million in 2022, which was primarily due
 to a significant increase in the sales volume of SuperVision™. Our first
 SuperVision™ project in collaboration with Mobileye started series production in
 October 2021.
-(cid:129) Revenue from sales of intelligent front cameras increased significantly from
+ Revenue from sales of intelligent front cameras increased significantly from
 RMB0.1 million in 2021 to RMB3.1 million in 2022, which was primarily due to a
 significant increase in the sales volume of iFC 2.0, which started series production
 in August 2021.
-(cid:129) Revenue from rendering of autonomous driving-related R&D services remained
+ Revenue from rendering of autonomous driving-related R&D services remained
 relatively stable at RMB34.5 million in 2021 and RMB38.0 million in 2022.
-(cid:129) Revenue from sales of PCBA products decreased by 39.3% from RMB57.6 million
+ Revenue from sales of PCBA products decreased by 39.3% from RMB57.6 million
 in 2021 to RMB35.0 million in 2022, which was primarily because we strategically
 focus on our core business which is sales of autonomous driving solutions and
 products.
@@ -18205,18 +18205,18 @@ products.
 Gross Profit and Gross Profit Margin
 Our gross profit increased significantly from RMB36.8 million in 2021 to RMB110.6
 million in 2022, which was in general driven by our rapid revenue growth.
-(cid:129) GrossprofitofADdomaincontrollersolutionsincreasedsignificantlyfromRMB4.5
+ GrossprofitofADdomaincontrollersolutionsincreasedsignificantlyfromRMB4.5
 million in 2021 to RMB92.9 million in 2022. The increase in gross profit was
 primarily driven by the rapid sales growth of SuperVision™.
-(cid:129) Gross profit of intelligent front cameras increased from RMB0.1 million in 2021 to
+ Gross profit of intelligent front cameras increased from RMB0.1 million in 2021 to
 RMB0.5 million in 2022. The increase in gross profit was primarily driven by sales
 growth of our iFC 2.0 after series production commenced in August 2021.
-(cid:129) Gross profit of autonomous driving-related R&D services decreased from RMB23.6
+ Gross profit of autonomous driving-related R&D services decreased from RMB23.6
 million in 2021 to RMB13.2 million in 2022. Such a decrease was primarily because
 our gross profit varied across different R&D projects and we generated a significant
 portion of revenue from a R&D project in relation to the development of advanced
 autonomous driving algorithms in 2021, which had a relatively high gross profit.
-(cid:129) Gross profit of PCBAproducts decreased from RMB8.5 million in 2021 to RMB4.0
+ Gross profit of PCBAproducts decreased from RMB8.5 million in 2021 to RMB4.0
 million in 2022. The decrease in gross profit was primarily because we strategically
 focused on our core business which is sales of autonomous driving solutions and
 products.
@@ -18224,7 +18224,7 @@ Ourgrossprofitmargindecreasedfrom20.6%in2021to8.3%in2022,primarilybecause
 wegeneratedagreaterportionofrevenuefromsalesofADdomaincontrollersolutionsin2022
 following the series production of the SuperVision™ projects in collaboration with Mobileye
 which had a lower gross profit margin as compared to other business segments.
-(cid:129) Gross profit margin ofAD domain controller solutions increased from 5.3% in 2021
+ Gross profit margin ofAD domain controller solutions increased from 5.3% in 2021
 to 7.4% in 2022. The increase in gross profit margin was primarily because we
 graduallyachievedstrongereconomiesofscaleandhadincreasingbargainingpower
 against suppliers following the series production of our first SuperVision™ project
@@ -18233,7 +18233,7 @@ in collaboration with Mobileye in October 2021.
 
 === PAGE 414 ===
 FINANCIAL INFORMATION
-(cid:129) Gross profit margin of intelligent front cameras decreased from 52.0% in 2021 to
+ Gross profit margin of intelligent front cameras decreased from 52.0% in 2021 to
 15.5% in 2022. The decrease in gross profit margin was primarily because we
 generated a significant portion of revenue from sales of sample products prior to the
 series production of iFC 2.0 inAugust 2021, which had a relatively high gross profit
@@ -18241,13 +18241,13 @@ margin because the volume of sample sales usually hovered around one single unit
 and sample products had a relatively high selling price per unit to reflect the high
 cost of raw materials and staff cost used and allocated for manufacturing each single
 unit.
-(cid:129) Gross profit margin of autonomous driving-related R&D services decreased from
+ Gross profit margin of autonomous driving-related R&D services decreased from
 68.5% in 2021 to 34.9% in 2022. Such a decrease was primarily because our gross
 profit margin varied across different R&D projects and we generated a significant
 portion of revenue from a R&D project in relation to the development of advanced
 autonomous driving algorithms in 2021, which had a relatively high gross profit
 margin.
-(cid:129) Gross profit margin of PCBA products decreased from 14.8% in 2021 to 11.4% in
+ Gross profit margin of PCBA products decreased from 14.8% in 2021 to 11.4% in
 2022.The decrease in gross profit margin was primarily because (i) we strategically
 adjusted the prices of our PCBA products delivered to our major customers in
 response to the intensified market competition, and (ii) the average prices for our
@@ -18318,19 +18318,19 @@ Revenue
 Our revenue increased significantly from RMB47.7 million in 2020 to RMB178.3 million
 in 2021. The increase in our revenue was primarily driven by an increase in the sales of
 autonomous driving solutions and products.
-(cid:129) The series production of our first SuperVision™ project in collaboration with
+ The series production of our first SuperVision™ project in collaboration with
 MobileyecommencedinOctober2021.In2021,revenuegeneratedfromADdomain
 controller solutions was RMB86.0 million.
-(cid:129) Revenue from sales of intelligent front cameras decreased from RMB0.4 million in
+ Revenue from sales of intelligent front cameras decreased from RMB0.4 million in
 2020 to RMB0.1 million in 2021, which was because we primarily sold sample iFC
 products prior to the series production of iFC 2.0 in 2021. Prices and sales volume
 forsampleiFCproductsweredeterminedonaproject-by-projectbasisandmayvary
 significantly.
-(cid:129) Revenue from rendering of autonomous driving-related R&D services increased
+ Revenue from rendering of autonomous driving-related R&D services increased
 significantly from RMB4.8 million in 2020 to RMB34.5 million in 2021, primarily
 because we generated a significant portion of revenue from a R&D project in 2021,
 which was related to the development of advanced autonomous driving algorithms.
-(cid:129) Revenue from sales of PCBA products increased by 35.9% from RMB42.4 million
+ Revenue from sales of PCBA products increased by 35.9% from RMB42.4 million
 in 2020 to RMB57.6 million in 2021, which was primarily due to an increase in the
 sales volume to certain customers.
 Cost of Sales
@@ -18345,30 +18345,30 @@ FINANCIAL INFORMATION
 Gross Profit and Gross Profit Margin
 Our gross profit increased significantly from RMB9.6 million in 2020 to RMB36.8
 million in 2021, which was in general driven by our rapid revenue growth.
-(cid:129) The series production of our first SuperVision™ project in collaboration with
+ The series production of our first SuperVision™ project in collaboration with
 Mobileye commenced in October 2021. In 2021, sales of AD domain controller
 solutions had a gross profit of RMB4.5 million.
-(cid:129) Gross profit of intelligent front cameras remained relatively stable at RMB0.2
+ Gross profit of intelligent front cameras remained relatively stable at RMB0.2
 million in 2020 and RMB0.1 million in 2021.
-(cid:129) Gross profit of autonomous driving-related R&D services increased significantly
+ Gross profit of autonomous driving-related R&D services increased significantly
 from RMB0.4 million in 2020 to RMB23.6 million in 2021. Such an increase was
 primarily because we generated a significant portion of revenue from a R&D project
 in 2021, which was related to the development of advanced autonomous driving
 algorithms and had a relatively high gross profit.
-(cid:129) Gross profit of PCBAproducts decreased from RMB9.0 million in 2020 to RMB8.5
+ Gross profit of PCBAproducts decreased from RMB9.0 million in 2020 to RMB8.5
 millionin2021.Suchadecreasewasprimarilybecausewestrategicallyadjustedthe
 prices of our PCBAproducts delivered to our major customers of PCBAproducts in
 response to the intensified market competition.
 Our gross profit margin remained relatively stable at 20.1% in 2020 and 20.6% in 2021.
-(cid:129) In 2021, sales ofAD domain controller solutions had a gross profit margin of 5.3%.
-(cid:129) Gross profit margin of intelligent front cameras remained relatively stable at 48.1%
+ In 2021, sales ofAD domain controller solutions had a gross profit margin of 5.3%.
+ Gross profit margin of intelligent front cameras remained relatively stable at 48.1%
 in 2020 and 52.0% in 2021.
-(cid:129) Gross profit margin of autonomous driving-related R&D services increased from
+ Gross profit margin of autonomous driving-related R&D services increased from
 8.4% in 2020 to 68.5% in 2021. Such an increase was primarily because we
 generated a significant portion of revenue from a R&D project in 2021, which was
 related to the development of advanced autonomous driving algorithms and had a
 relatively high gross profit margin.
-(cid:129) Gross profit margin of PCBA products decreased from 21.2% in 2020 to 14.8% in
+ Gross profit margin of PCBA products decreased from 21.2% in 2020 to 14.8% in
 2021. Such a decrease was primarily because we strategically adjusted the prices of
 our PCBAproducts delivered to our major customers of PCBAproducts in response
 to the intensified market competition.
@@ -19586,7 +19586,7 @@ We estimate that we will receive net proceeds from the Global Offering of approx
 HK$585.9 million, after deducting underwriting commissions, fees and estimated expenses
 payable by us in connection with the Global Offering, at the Offer Price of HK$29.65 per
 Share. We currently intend to apply these net proceeds for the following purposes:
-(cid:129) Approximately 45.0% of the net proceeds or approximately HK$263.7 million, for
+ Approximately 45.0% of the net proceeds or approximately HK$263.7 million, for
 enhancing research and development of our autonomous driving solutions and
 products,withthedetailedbreakdownofthenetproceedstobeallocatedasfollows:
 (i) Approximately 20.0% of the net proceeds or approximately HK$117.2 million
@@ -19647,7 +19647,7 @@ greater emphasis on providing users with high-quality user experiences,
 offering them immersive entertainments such as 3D movies with enhanced
 performance or high-profile video games, in addition to excellent autonomous
 driving and fundamental intelligent cockpit functions.
-(cid:129) Approximately 35.0% of the net proceeds or approximately HK$205.1 million, for
+ Approximately 35.0% of the net proceeds or approximately HK$205.1 million, for
 capital expenditure in relation to our R&D headquarters, manufacturing premises
 and new production lines, including:
 (i) Approximately 30.0% of the net proceeds or approximately HK$175.8 million
@@ -19747,7 +19747,7 @@ internal resources and bank borrowings.
 
 === PAGE 454 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) Approximately 10.0% of the net proceeds or approximately HK$58.6 million, for
+ Approximately 10.0% of the net proceeds or approximately HK$58.6 million, for
 expanding our sales and service network, including:
 (i) Approximately 5.0% of the net proceeds or approximately HK$29.3 million
 will be used for enhancing our selling and marketing capabilities. In particular,
@@ -19798,7 +19798,7 @@ October 2023. We anticipate that our subsidiary in Germany, located in
 Europe’s automotive OEM hub, will be able to attract talent in the automotive
 and autonomous driving industries, facilitating our business expansion in
 Europe.
-(cid:129) Approximately 10.0% of the net proceeds or approximately HK$58.6 million, for
+ Approximately 10.0% of the net proceeds or approximately HK$58.6 million, for
 working capital and general corporate purposes.
 We expect to finance the shortfall if the net proceeds of the Global Offering are less than
 our expected expenditure by using our internal funds and/or funds to be obtained from other
@@ -20640,13 +20640,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the White Form eIPO service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the White Form eIPO service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the
 person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or close associates; or
-(cid:129) are a Director, a Supervisor or any of his/her close associates.
+ are an existing Shareholder or close associates; or
+ are a Director, a Supervisor or any of his/her close associates.
 2. Application Channels
 The Hong Kong Public Offering period will begin at 9:00 am on Tuesday,
 December 12, 2023 and end at 12:00 noon on Friday, December 15, 2023 (Hong Kong
@@ -20731,11 +20731,11 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual/Joint Applicants For Corporate Applicants
-(cid:2) Full name(s)2 as shown on your (cid:2) Full name(s)2 as shown on your
+ Full name(s)2 as shown on your Full name(s)2 as shown on your
 identity document identity document
-(cid:2) Identity document’s issuing country or (cid:2) Identity document’s issuing country or
+ Identity document’s issuing country or Identity document’s issuing country or
 jurisdiction jurisdiction
-(cid:2) Identity document type, with order of (cid:2) Identity document type, with order of
+ Identity document type, with order of Identity document type, with order of
 priority: priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification document; ii. Certificate of incorporation; or
@@ -20743,8 +20743,8 @@ or
 iii. Business registration certificate; or
 iii. Passport; and
 iv. Other equivalent document; and
-(cid:2) Identity document number
-(cid:2) Identity document number
+ Identity document number
+ Identity document number
 Notes:
 1. If you are applying through the White Form eIPO service, you are required to provide a valid e-mail
 address,acontacttelephonenumberandaHongKongAddress.Youarealsorequiredtodeclarethatthe
@@ -20778,9 +20778,9 @@ above.
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -21018,21 +21018,21 @@ application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “– A. Application for Hong Kong Offer Shares – 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
 – 477 –
 
 === PAGE 487 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -21130,9 +21130,9 @@ accounts risk
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Friday, December 15, 2023 if, there is/are:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ Extreme Conditions,
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Friday, December 15,
 2023.
@@ -21211,27 +21211,27 @@ supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund cheque and White Form e-refund payment
+ processing your application and refund cheque and White Form e-refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of
 allocation of Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
 – 482 –
 
 === PAGE 492 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) registering new issues or transfers into or out of the names of the holders of the
+ registering new issues or transfers into or out of the names of the holders of the
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the Shares and/or regulators and/or any other purposes to which
 applicants and holders of the Shares may from time to time agree.
@@ -21241,25 +21241,25 @@ for and holders of Hong Kong Offer Shares will be kept confidential but the Comp
 H Share Registrar may, to the extent necessary for achieving any of the above purposes,
 disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to, from
 or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving bank and
+ the Company’s appointed agents such as financial advisers, receiving bank and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and
 operating FINI and CCASS (including where applicants for the Hong Kong Offer
 Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H
 Share Registrar in connection with their respective business operation;
 – 483 –
 
 === PAGE 493 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of personal data
@@ -21869,20 +21869,20 @@ the policies adopted by the Group.
 Theacquisitionmethodofaccountingisusedtoaccountforallbusinesscombinations,regardlessofwhether
 equity instruments or other assets are acquired. The consideration transferred for the acquisition of a subsidiary
 comprises the:
-(cid:129) fair values of the assets transferred;
-(cid:129) liabilities incurred to the former owners of the acquired business;
-(cid:129) equity interests issued by the Group;
-(cid:129) fair value of any asset or liability resulting from a contingent consideration arrangement; and
-(cid:129) fair value of any pre-existing equity interest in the subsidiary.
+ fair values of the assets transferred;
+ liabilities incurred to the former owners of the acquired business;
+ equity interests issued by the Group;
+ fair value of any asset or liability resulting from a contingent consideration arrangement; and
+ fair value of any pre-existing equity interest in the subsidiary.
 Identifiable assets acquired and liabilities and contingent liabilities assumed in a business combination are,
 with limited exceptions, measured initially at their fair values at the acquisition date. The Group recognizes any
 non-controlling interest in the acquired entity on an acquisition-by-acquisition basis either at fair value or at the
 non-controlling interest’s proportionate share of the acquired entity’s net identifiable assets.
 Acquisition-related costs are expensed as incurred.
 The excess of the:
-(cid:129) consideration transferred;
-(cid:129) amount of any non-controlling interest in the acquired entity; and
-(cid:129) acquisition-date fair value of any previous equity interest in the acquired entity
+ consideration transferred;
+ amount of any non-controlling interest in the acquired entity; and
+ acquisition-date fair value of any previous equity interest in the acquired entity
 overthefairvalueofthenetidentifiableassetsacquiredisrecordedasgoodwill.Ifthoseamountsarelessthanthe
 fairvalueofthenetidentifiableassetsofthebusinessacquired,thedifferenceisrecognizeddirectlyinprofitorloss
 as a bargain purchase.
@@ -21967,13 +21967,13 @@ Research and development cost comprise all costs that are directly attributable 
 activities(relatingtothedesignandtestingofneworimprovedautonomousdrivingproducts)orthatcanbeallocated
 onareasonablebasistosuchactivities.Researchanddevelopmentcostsarerecognizedasintangibleassetswhenthe
 following criteria are met:
-(cid:129) the technical feasibility of completing the intangible assets so that it will be available for use or sale;
-(cid:129) the intention to complete the intangible asset and use or sell it;
-(cid:129) the ability to use or sell the intangible assets;
-(cid:129) the intangible asset will generate probable future economic benefits;
-(cid:129) theavailabilityofadequatetechnical,financialandotherresourcestocompletethedevelopmentandto
+ the technical feasibility of completing the intangible assets so that it will be available for use or sale;
+ the intention to complete the intangible asset and use or sell it;
+ the ability to use or sell the intangible assets;
+ the intangible asset will generate probable future economic benefits;
+ theavailabilityofadequatetechnical,financialandotherresourcestocompletethedevelopmentandto
 use or sell the intangible asset; and
-(cid:129) the ability to measure reliably the expenditure attributable to the intangible asset during its
+ the ability to measure reliably the expenditure attributable to the intangible asset during its
 development.
 Other development expenditures that do not meet these criteria are charged to expense as incurred.
 Development costs previously recognised as an expense are not recognised as an asset in a subsequent period.
@@ -21992,8 +21992,8 @@ APPENDIX I ACCOUNTANT’S REPORT
 2.10 Financial assets
 (a) Classification
 The Group classifies its financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through OCI or through profit or loss); and
-(cid:129) those to be measured at amortized cost.
+ those to be measured subsequently at fair value (either through OCI or through profit or loss); and
+ those to be measured at amortized cost.
 TheclassificationdependsontheGroup’sbusinessmodelformanagingthefinancialassetsandthecontractual
 terms of the cash flows.
 For assets measured at fair value, gains and losses will either be recorded in profit or loss or OCI. For
@@ -22017,13 +22017,13 @@ Debt instruments
 SubsequentmeasurementofdebtinstrumentsdependsontheGroup’sbusinessmodelformanagingthe
 assetandthecashflowcharacteristicsoftheasset.TherearetwomeasurementcategoriesintowhichtheGroup
 classifies its debt instruments:
-(cid:129) Amortized cost: Assets that are held for collection of contractual cash flows where those cash
+ Amortized cost: Assets that are held for collection of contractual cash flows where those cash
 flowsrepresentsolelypaymentsofprincipalandinterestaremeasuredatamortizedcost.Interest
 incomefromthesefinancialassetsisincludedinfinanceincomeusingtheeffectiveinterestrate
 method. Any gain or loss arising on derecognition is recognized directly in profit or loss and
 presentedin“othergains/(losses)–net”.Impairmentlossesarepresentedasseparatelineitemin
 the consolidated statement of comprehensive income.
-(cid:129) FVPL:Assets that do not meet the criteria for amortized cost or FVOCI are measured at FVPL.
+ FVPL:Assets that do not meet the criteria for amortized cost or FVOCI are measured at FVPL.
 AgainorlossonadebtinvestmentthatissubsequentlymeasuredatFVPLisrecognizedinprofit
 or loss and presented net within “other gains/(losses) – net” in the period in which it arises.
 Equity instruments
@@ -22206,9 +22206,9 @@ recognizedasanemployeebenefitsexpenseovertherelevantserviceperiod,beingthevestin
 andthecreditisrecognizedinequityintheshare-basedpaymentreserves.Thefairvalueofthesharesismeasured
 at the grant date. The total amount to be expensed is determined by reference to the fair value of the equity
 instruments granted:
-(cid:129) including any market performance conditions;
-(cid:129) excluding the impact of any service and non-market performance vesting conditions; and
-(cid:129) including the impact of any non-vesting conditions.
+ including any market performance conditions;
+ excluding the impact of any service and non-market performance vesting conditions; and
+ including the impact of any non-vesting conditions.
 The total expense is recognized over the vesting period, which is the period over which all of the specified
 vesting conditions are to be satisfied. At the end of each reporting period, the Group revises its estimates of the
 number of shares that are expected to vest based on the service conditions. It recognizes the impact of the revision
@@ -22243,11 +22243,11 @@ The Group recognizes revenue when (or as) a performance obligation is satisfied,
 goods or services underlying the particular performance obligation is transferred to the customer:
 Control is transferred over time and revenue is recognized over time by reference to the progress towards
 complete satisfaction of the relevant performance obligation if one of the following criteria is met:
-(cid:129) the customer simultaneously receives and consumes the benefits provided by the Group’s performance
+ the customer simultaneously receives and consumes the benefits provided by the Group’s performance
 as the Group performs;
-(cid:129) theGroup’sperformancecreatesorenhancesanassetthatthecustomercontrolsastheGroupperforms;
+ theGroup’sperformancecreatesorenhancesanassetthatthecustomercontrolsastheGroupperforms;
 or
-(cid:129) the Group’s performance does not create an asset with an alternative use to the Group and the Group
+ the Group’s performance does not create an asset with an alternative use to the Group and the Group
 has an enforceable right to payment for performance completed to date.
 Otherwise,revenueisrecognizedatapointintimewhenthecustomerobtainscontrolofthedistinctgoodor
 service.
@@ -22328,16 +22328,16 @@ agreements do not impose any covenants other than the security interests in the 
 lessor. Leased assets may not be used as security for borrowing purposes.
 Assets and liabilities arising from a lease are initially measured on a present value basis. Lease liabilities
 include the net present value of the following lease payments (if applicable):
-(cid:129) fixed payments (including in-substance fixed payments), less any lease incentives receivable;
+ fixed payments (including in-substance fixed payments), less any lease incentives receivable;
 – I-27 –
 
 === PAGE 521 ===
 APPENDIX I ACCOUNTANT’S REPORT
-(cid:129) variable lease payment that are based on an index or a rate, initially measured using the index or rate
+ variable lease payment that are based on an index or a rate, initially measured using the index or rate
 as at the commencement date;
-(cid:129) amounts expected to be payable by the lessee under residual value guarantees;
-(cid:129) the exercise price of a purchase option if the lessee is reasonably certain to exercise that option; and
-(cid:129) payments of penalties for terminating the lease, if the lease term reflects the lessee exercising that
+ amounts expected to be payable by the lessee under residual value guarantees;
+ the exercise price of a purchase option if the lessee is reasonably certain to exercise that option; and
+ payments of penalties for terminating the lease, if the lease term reflects the lessee exercising that
 option.
 Lease payments to be made under reasonably certain extension options are also included in the measurement
 of the liability.
@@ -22346,11 +22346,11 @@ determined,whichisgenerallythecaseforleasesintheGroup,thelessee’sincrementalbo
 theratethattheindividuallesseewouldhavetopaytoborrowthefundsnecessarytoobtainanassetofsimilarvalue
 to the right-of-use asset in a similar economic environment with similar terms, security and conditions.
 To determine the incremental borrowing rate, the Group:
-(cid:129) where possible, uses recent third-party financing received by the individual lessee as a starting point,
+ where possible, uses recent third-party financing received by the individual lessee as a starting point,
 adjusted to reflect changes in financing conditions since third party financing was received;
-(cid:129) usesabuild-upapproachthatstartswitharisk-freeinterestrateadjustedforcreditriskforleasesheld
+ usesabuild-upapproachthatstartswitharisk-freeinterestrateadjustedforcreditriskforleasesheld
 by the Group, which does not have recent third-party financing; and
-(cid:129) makes adjustments specific to the lease, e.g., term, country, currency and security.
+ makes adjustments specific to the lease, e.g., term, country, currency and security.
 If a readily observable amortizing loan rate is available to the individual lessee (through recent financing or
 market data) which has a similar payment profile to the lease, then the Group use that rate as a starting point to
 determine the incremental borrowing rate.
@@ -22358,9 +22358,9 @@ Leasepaymentsareallocatedbetweenprincipalandfinancecost.Thefinancecostischargedt
 over the lease period so as to produce a constant periodic rate of interest on the remaining balance of the liability
 for each reporting period.
 Right-of-use assets are measured at cost comprising the following (if applicable):
-(cid:129) the amount of the initial measurement of lease liability;
-(cid:129) any lease payments made at or before the commencement date less any lease incentives received;
-(cid:129) any initial direct costs.
+ the amount of the initial measurement of lease liability;
+ any lease payments made at or before the commencement date less any lease incentives received;
+ any initial direct costs.
 Right-of-use assets are generally depreciated over the shorter of the asset’s useful life and the lease term on
 a straight-line basis. If the Group is reasonably certain to exercise a purchase option, the right-of-use asset is
 depreciated over the underlying asset’s useful life.
@@ -22383,16 +22383,16 @@ allowance).
 2.29 Loss per share
 (a) Basic loss per share
 Basic loss per share is calculated by dividing:
-(cid:129) thelossattributabletotheequityholdersoftheCompany,excludinganycostsofservicingequityother
+ thelossattributabletotheequityholdersoftheCompany,excludinganycostsofservicingequityother
 than ordinary shares, and
-(cid:129) by the weighted average number of ordinary shares outstanding during the financial year/period,
+ by the weighted average number of ordinary shares outstanding during the financial year/period,
 adjusted for bonus elements in ordinary shares issued during the year/period and excluding treasury
 stock.
 (b) Diluted loss per share
 Dilutedlosspershareadjuststhefiguresusedinthedeterminationofbasiclosspersharetotakeintoaccount:
-(cid:129) the after-income tax effect of interest and other financing costs associated with dilutive potential
+ the after-income tax effect of interest and other financing costs associated with dilutive potential
 ordinary shares, and
-(cid:129) theweightedaveragenumberofadditionalordinarysharesthatwouldhavebeenoutstandingassuming
+ theweightedaveragenumberofadditionalordinarysharesthatwouldhavebeenoutstandingassuming
 the conversion of all dilutive potential ordinary shares.
 3 FINANCIALRISK MANAGEMENT
 3.1 Financial risk factors
@@ -22481,9 +22481,9 @@ collective assessments as well as individual assessment on the recoverability of
 historical settlement records and past experiences.
 Impairment of financial assets
 The Group has three types of financial assets that are subject to the expected credit loss model:
-(cid:129) cash and cash equivalents, restricted cash and wealth management products;
-(cid:129) trade and notes receivables;
-(cid:129) other receivables.
+ cash and cash equivalents, restricted cash and wealth management products;
+ trade and notes receivables;
+ other receivables.
 (i) Cash and cash equivalents, restricted cash and wealth management products
 To manage risk arising from cash and cash equivalents, the Group only transacts with state-owned or
 reputable financial institutions in Mainland China. There has been no recent history of default in relation to
@@ -22651,15 +22651,15 @@ This section explains the judgements and estimates made in determining the fair 
 instrumentsthatarerecognizedandmeasuredatfairvalueinthefinancialstatements.Toprovideanindicationabout
 thereliabilityoftheinputsusedindeterminingfairvalue,theGrouphasclassifieditsfinancialinstrumentsintothe
 three levels prescribed under the accounting standards.
-(cid:129) Level 1: The fair value of financial instruments traded in active markets (such as publicly traded
+ Level 1: The fair value of financial instruments traded in active markets (such as publicly traded
 derivatives, and equity securities) is based on quoted market prices at the end of the reporting period.
 The quoted market price used for financial assets held by the Group is the current bid price. These
 instruments are included in level 1.
-(cid:129) Level 2: The fair value of financial instruments that are not traded in an active market (for example,
+ Level 2: The fair value of financial instruments that are not traded in an active market (for example,
 over-the-counter derivatives) is determined using valuation techniques which maximize the use of
 observablemarketdataandrelyaslittleaspossibleonentity-specificestimates.Ifallsignificantinputs
 required to fair value an instrument are observable, the instrument is included in level 2.
-(cid:129) Level3:Ifoneormoreofthesignificantinputsisnotbasedonobservablemarketdata,theinstrument
+ Level3:Ifoneormoreofthesignificantinputsisnotbasedonobservablemarketdata,theinstrument
 is included in level 3. This is the case for unlisted investment with preferred rights securities.
 ThefollowingtablepresentstheGroup’sassetsandliabilitiesthataremeasuredatfairvalueasat31December
 2020, 2021 and 2022 and 30 June 2023:
@@ -24022,32 +24022,32 @@ experiencesincorporatingforward-lookinginformation.Impairmentonotherreceivablesi
 significantincreaseincreditrisksinceinitialrecognition.Ifasignificantincreaseincreditriskofareceivable
 has occurred since initial recognition, then impairment is measured as lifetime expected credit losses.
 Expected credit loss (“ECL”) model for other receivables, as summarized below:
-(cid:129) The other receivables that is not credit-impaired on initial recognition is classified in ‘Stage 1’
+ The other receivables that is not credit-impaired on initial recognition is classified in ‘Stage 1’
 andhasitscreditriskcontinuouslymonitoredbytheGroup.Theexpectedcreditlossismeasured
 on a 12-month basis;
-(cid:129) Ifasignificantincreaseincreditrisk(asdefinedbelow)sinceinitialrecognitionisidentified,the
+ Ifasignificantincreaseincreditrisk(asdefinedbelow)sinceinitialrecognitionisidentified,the
 financial instrument is moved to ‘Stage 2’ but is not yet deemed to be credit-impaired. The
 expected credit loss is measured on lifetime basis;
-(cid:129) Ifthefinancialinstrumentiscredit-impaired(asdefinedbelow),thefinancialinstrumentisthen
+ Ifthefinancialinstrumentiscredit-impaired(asdefinedbelow),thefinancialinstrumentisthen
 moved to ‘Stage 3’. The expected credit loss is measured on lifetime basis; and
-(cid:129) Under Stages 1 and 2, if a financial asset subsequently becomes credit-impaired (Stage 3), the
+ Under Stages 1 and 2, if a financial asset subsequently becomes credit-impaired (Stage 3), the
 Group is required to calculate the interest income by applying the effective interest method in
 subsequentreportingperiodtotheamortizedcostofthefinancialasset(thegrosscarryingamount
 net of loss allowance) rather than the gross carrying amount.
 Thelossallowancerecognizedintheyear/periodisimpactedbyavarietyoffactors,asdescribedbelow:
-(cid:129) Transfer between stage 1, stage 2 or stage 3 due to other receivables experiencing significant
+ Transfer between stage 1, stage 2 or stage 3 due to other receivables experiencing significant
 increases(ordecreases)ofcreditriskintheperiod,andthesubsequent“stepup”(or“stepdown”)
 between 12-month and lifetime ECL;
-(cid:129) Additional allowances for new financial instruments recognized, as well as releases for other
+ Additional allowances for new financial instruments recognized, as well as releases for other
 receivables derecognized in the period; and
-(cid:129) Otherreceivablesderecognizedandwrite-offsofallowancerelatedtoassetsthatwerewrittenoff
+ Otherreceivablesderecognizedandwrite-offsofallowancerelatedtoassetsthatwerewrittenoff
 during the year/period.
 The Group considers counter-parties as follows:
-(cid:129) ‘Stage 1’ – Counter-parties who have a low risk of default and a strong capacity to meet
+ ‘Stage 1’ – Counter-parties who have a low risk of default and a strong capacity to meet
 contractual cash flows;
-(cid:129) ‘Stage 2’– Counter-parties whose repayments are past due but with reasonable expectation of
+ ‘Stage 2’– Counter-parties whose repayments are past due but with reasonable expectation of
 recovery; and
-(cid:129) ‘Stage 3’– Counter-parties whose repayments are past due and with low reasonable expectation
+ ‘Stage 3’– Counter-parties whose repayments are past due and with low reasonable expectation
 of recovery.
 – I-64 –
 
@@ -24155,9 +24155,9 @@ Company. The loan was unsecured, interest-free and due by 30 September 2023.
 21 FINANCIALASSETSAT FAIR VALUE THROUGH PROFIT OR LOSS
 The Group and the Company
 The Group classifies the followings as financial assets at FVPL:
-(cid:129) debt investments that do not qualify for measurement at either amortized cost or FVOCI
-(cid:129) equity investments that are held for trading, and
-(cid:129) equityinvestmentsforwhichtheGrouphasnotelectedtorecognizefairvaluegainsandlossesthrough
+ debt investments that do not qualify for measurement at either amortized cost or FVOCI
+ equity investments that are held for trading, and
+ equityinvestmentsforwhichtheGrouphasnotelectedtorecognizefairvaluegainsandlossesthrough
 OCI.
 – I-67 –
 
@@ -25001,8 +25001,8 @@ Net cash used in operations (23,844) (62,998) (65,667) (28,159) (82,916)
 APPENDIX I ACCOUNTANT’S REPORT
 (b) Major non-cash investing and financing activities
 Major non-cash investing and financing activities disclosed in other notes are:
-(cid:129) additions to right-of-use assets in respect of leased buildings – Note 14
-(cid:129) recognitionandderecognitionoffinancialinstrumentswithpreferredrightsatamortizedcost–Note29
+ additions to right-of-use assets in respect of leased buildings – Note 14
+ recognitionandderecognitionoffinancialinstrumentswithpreferredrightsatamortizedcost–Note29
 (c) Net debt
 As at
 As at 31 December 30 June
@@ -25436,8 +25436,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
-(cid:129) The related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) The unaudited pro forma financial information reflects the proper application of
+ The related pro forma adjustments give appropriate effect to those criteria; and
+ The unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountant’s judgment, having regard to
 the reporting accountant’s understanding of the nature of the company, the event or transaction
@@ -25934,18 +25934,18 @@ FOR ARTICLES OF ASSOCIATION
 A joint stock limited company which was incorporated in the PRC and seeking a listing
 on the Hong Kong Stock Exchange is mainly subject to the following laws and regulations in
 the PRC:
-(cid:129) The PRC Company Law (《中華人民共和國公司法》) which was promulgated by
+ The PRC Company Law (《中華人民共和國公司法》) which was promulgated by
 the Standing Committee of the NPC on December 29, 1993, came into effect on
 July 1, 1994, revised on December 25, 1999,August 28, 2004, October 27, 2005 and
 December 28, 2013 respectively and the latest revision of which was implemented
 on October 26, 2018;
-(cid:129) The Trial Administrative Measures of Overseas Securities Offering and Listing by
+ The Trial Administrative Measures of Overseas Securities Offering and Listing by
 Domestic Companies (《境內企業境外發行證券和上市管理試行辦法》) (the
 “Overseas Listing Trial Measures”) and five relevant guidelines which were
 promulgated by the CSRC on February 17, 2023 pursuant to Securities Law of the
 PRC, and were applicable to the direct and indirect overseas share subscription and
 listing of domestic companies; and
-(cid:129) The Guidelines forArticles ofAssociation of Listed Companies (《上市公司章程指
+ The Guidelines forArticles ofAssociation of Listed Companies (《上市公司章程指
 引》) (the “Guidance for Articles of Association”) which was latest amended on
 January 5, 2022 by the CSRC. The related Guidance forArticles ofAssociation are
 set out in the Articles of Association of the Company, the summary of which is set
@@ -26073,10 +26073,10 @@ Measures, domestic enterprises that are listed overseas may raise funds and dist
 dividends in foreign currencies or Renminbi.
 Under the Company Law, when the company issues shares in registered form, it shall
 maintain a register of shareholders, stating the following matters:
-(cid:129) the name and domicile of each shareholder;
-(cid:129) the number of shares held by each shareholder;
-(cid:129) the serial numbers of shares held by each shareholder; and
-(cid:129) the date on which each shareholder acquired the shares.
+ the name and domicile of each shareholder;
+ the number of shares held by each shareholder;
+ the serial numbers of shares held by each shareholder; and
+ the date on which each shareholder acquired the shares.
 – IV-7 –
 
 === PAGE 607 ===
@@ -26095,16 +26095,16 @@ announcement shall be made.
 Reduction of Share Capital
 Acompany may reduce its registered capital in accordance with the following procedures
 prescribed by the Company Law:
-(cid:129) it shall prepare a balance sheet and a property list;
-(cid:129) the reduction of registered capital shall be approved by a shareholders’ general
+ it shall prepare a balance sheet and a property list;
+ the reduction of registered capital shall be approved by a shareholders’ general
 meeting;
-(cid:129) it shall inform its creditors of the reduction in capital within 10 days and publish an
+ it shall inform its creditors of the reduction in capital within 10 days and publish an
 announcement of the reduction in the newspaper within 30 days from the date of the
 resolution on the reduction;
-(cid:129) creditors may within 30 days after receiving the notice, or within 45 days of the
+ creditors may within 30 days after receiving the notice, or within 45 days of the
 public announcement if no notice has been received, require the company to pay its
 debts or provide guarantees covering the debts;
-(cid:129) it shall apply to the relevant administration of registration for the registration of the
+ it shall apply to the relevant administration of registration for the registration of the
 reduction in registered capital.
 Repurchase of Shares
 According to the Company Law, a joint stock limited company may not purchase its
@@ -26162,24 +26162,24 @@ REGULATORY PROVISIONS
 Shareholders
 Under the Company Law and the Guidance for Articles of Association, the rights of
 holders of ordinary shares of a joint stock limited company include:
-(cid:129) the right to attend or appoint a proxy to attend shareholders’ general meetings and
+ the right to attend or appoint a proxy to attend shareholders’ general meetings and
 to vote thereat;
-(cid:129) the right to transfer shares in accordance with laws, administrative regulations and
+ the right to transfer shares in accordance with laws, administrative regulations and
 provisions of the articles of association;
-(cid:129) the right to inspect the company’s articles of association, share register, counterfoil
+ the right to inspect the company’s articles of association, share register, counterfoil
 of company debentures, minutes of shareholder’s general meetings, resolutions of
 meetings of the board of directors, resolutions of meetings of the board of
 supervisors and financial and accounting reports and to make proposals or enquires
 on the company’s operations;
-(cid:129) the right to bring an action in the people’s court to rescind resolutions passed by
+ the right to bring an action in the people’s court to rescind resolutions passed by
 shareholder’s general meetings and board of directors where the articles of
 association is violated by the above resolutions;
-(cid:129) the right to receive dividends and other types of interest distributed in proportion to
+ the right to receive dividends and other types of interest distributed in proportion to
 the number of shares held;
-(cid:129) in the event of the termination or liquidation of the company, the right to participate
+ in the event of the termination or liquidation of the company, the right to participate
 in the distribution of residual properties of the company in proportion to the number
 of shares held; and
-(cid:129) other rights granted by laws, administrative regulations, other regulatory documents
+ other rights granted by laws, administrative regulations, other regulatory documents
 and the company’s articles of association.
 TheobligationsofashareholderincludetheobligationtoabidebytheCompany’sarticles
 of association, to pay the subscription moneys in respect of the shares subscribed for and in
@@ -26196,39 +26196,39 @@ The shareholders’ general meeting is the organ of authority of the company, wh
 exercises its powers in accordance with the Company Law.
 Under the Company Law, the shareholders’ general meeting exercises the following
 principal powers:
-(cid:129) to decide on the company’s operational policies and investment plans;
-(cid:129) to elect or remove the directors and supervisors (other than the representative of the
+ to decide on the company’s operational policies and investment plans;
+ to elect or remove the directors and supervisors (other than the representative of the
 employees of the company) and to decide on matters relating to the remuneration of
 directors and supervisors;
-(cid:129) to examine and approve reports of the board of directors;
-(cid:129) to examine and approve reports of the board of supervisors;
-(cid:129) to examine and approve the company’s proposed annual financial budget and final
+ to examine and approve reports of the board of directors;
+ to examine and approve reports of the board of supervisors;
+ to examine and approve the company’s proposed annual financial budget and final
 accounts;
-(cid:129) to examine and approve the company’s proposals for profit distribution plans and
+ to examine and approve the company’s proposals for profit distribution plans and
 loss recovery plans;
-(cid:129) to decide on any increase or reduction of the company’s registered capital;
-(cid:129) to decide on the issue of bonds by the company;
-(cid:129) to decide on issues such as merger, division, dissolution and liquidation of the
+ to decide on any increase or reduction of the company’s registered capital;
+ to decide on the issue of bonds by the company;
+ to decide on issues such as merger, division, dissolution and liquidation of the
 company and change of the structure;
-(cid:129) to amend the company’s articles of association; and
-(cid:129) other powers as provided for in the articles of association.
+ to amend the company’s articles of association; and
+ other powers as provided for in the articles of association.
 Shareholders’annual general meetings are required to be held once every year. Under the
 Company Law, an extraordinary shareholders’ general meeting is required to be held within
 two months after the occurrence of any of the following:
-(cid:129) thenumberofdirectorsislessthanthenumberstipulatedbythelaworlessthantwo
+ thenumberofdirectorsislessthanthenumberstipulatedbythelaworlessthantwo
 thirds of the number specified in the articles of association;
-(cid:129) the aggregate losses of the company which are not recovered reach one-third of the
+ the aggregate losses of the company which are not recovered reach one-third of the
 company’s total paid-in share capital;
 – IV-11 –
 
 === PAGE 611 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGAL AND
 REGULATORY PROVISIONS
-(cid:129) when shareholders alone or in aggregate holding 10% or more of the company’s
+ when shareholders alone or in aggregate holding 10% or more of the company’s
 shares request the convening of an extraordinary general meeting;
-(cid:129) whenever the board of directors deems necessary;
-(cid:129) when the board of supervisors proposes; or
-(cid:129) other circumstances as provided for in the articles of associations.
+ whenever the board of directors deems necessary;
+ when the board of supervisors proposes; or
+ other circumstances as provided for in the articles of associations.
 Under the Company Law, shareholders’general meetings shall be convened by the board
 of directors, and presided over by the chairman of the board of directors. In the event that the
 chairman is incapable of performing or does not perform his duties, the meeting shall be
@@ -26312,19 +26312,19 @@ articles of association until a duly re-elected director takes office, if re-ele
 conducted in a timely manner upon the expiry of his term of office, or if the resignation of
 directors results in the number of directors being less than the quorum.
 Under the Company Law, the board of directors mainly exercises the following powers:
-(cid:129) to convene the shareholders’ general meetings and report on its work to the
+ to convene the shareholders’ general meetings and report on its work to the
 shareholders’ general meetings;
-(cid:129) to implement the resolutions passed in shareholders’ general meetings;
-(cid:129) to decide on the company’s business plans and investment proposals;
-(cid:129) to formulate the company’s proposed annual financial budget and final accounts;
-(cid:129) to formulate the company’s profit distribution proposals and loss recovery
+ to implement the resolutions passed in shareholders’ general meetings;
+ to decide on the company’s business plans and investment proposals;
+ to formulate the company’s proposed annual financial budget and final accounts;
+ to formulate the company’s profit distribution proposals and loss recovery
 proposals;
-(cid:129) to formulate proposals for the increase or reduction of the company’s registered
+ to formulate proposals for the increase or reduction of the company’s registered
 capital and the issuance of corporate bonds;
-(cid:129) to prepare plans for the merger, division, dissolution and change in the form of the
+ to prepare plans for the merger, division, dissolution and change in the form of the
 company;
-(cid:129) to formulate the company’s basic management system; and
-(cid:129) to exercise any other power under the articles of association.
+ to formulate the company’s basic management system; and
+ to exercise any other power under the articles of association.
 Board Meetings
 Under the Company Law, meetings of the board of directors of a joint stock limited
 company shall be convened at least twice a year. Notice of meeting shall be given to all
@@ -26360,21 +26360,21 @@ is incapable of performing or not performing his duties, a director nominated by
 of the directors shall perform his duties.
 Qualification of Directors
 The Company Law provides that the following persons may not serve as a director:
-(cid:129) a person who is unable or has limited ability to undertake any civil liabilities;
-(cid:129) a person who has been convicted of an offense of bribery, corruption, embezzlement
+ a person who is unable or has limited ability to undertake any civil liabilities;
+ a person who has been convicted of an offense of bribery, corruption, embezzlement
 or misappropriation of property, or the destruction of socialist market economy
 order;orwhohasbeendeprivedofhispoliticalrightsduetohiscrimes,ineachcase
 where less than five years have elapsed since the date of completion of the sentence;
-(cid:129) a person who has been a former director, factory manager or manager of a company
+ a person who has been a former director, factory manager or manager of a company
 or an enterprise that has entered into insolvent liquidation and who was personally
 liable for the insolvency of such company or enterprise, where less than three years
 have elapsed since the date of the completion of the bankruptcy and liquidation of
 the company or enterprise;
-(cid:129) a person who has been a legal representative of a company or an enterprise that has
+ a person who has been a legal representative of a company or an enterprise that has
 had its business license revoked due to violations of the law and has been ordered
 to close down by law and the person was personally responsible, where less than
 three years have elapsed since the date of such revocation; or
-(cid:129) a person who is liable for a relatively large amount of debts that are overdue.
+ a person who is liable for a relatively large amount of debts that are overdue.
 Other circumstances under which a person is disqualified from acting as a director are set
 out in the Guidance for Articles of Association.
 – IV-15 –
@@ -26411,26 +26411,26 @@ The board of supervisors of a company shall hold at least one meeting every six 
 According to the PRC Company Law, a resolution of the board of supervisors shall be passed
 by more than half of all the supervisors.
 The board of supervisors exercises the following powers:
-(cid:129) to review the company’s financial position;
-(cid:129) to supervise the directors and senior management in their performance of their
+ to review the company’s financial position;
+ to supervise the directors and senior management in their performance of their
 duties and to propose the removal of directors and senior management who have
 violated laws, regulations, the articles of association or the resolutions of
 shareholders’ meeting;
-(cid:129) when the acts of directors and senior management are harmful to the company’s
+ when the acts of directors and senior management are harmful to the company’s
 interests, to require correction of those acts;
 – IV-16 –
 
 === PAGE 616 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGAL AND
 REGULATORY PROVISIONS
-(cid:129) to propose the convening of extraordinary shareholders’ general meetings and to
+ to propose the convening of extraordinary shareholders’ general meetings and to
 convene and preside over shareholders’ general meetings when the board of
 directors fails to perform the duty of convening and presiding over shareholders’
 general meeting under this law;
-(cid:129) to initiate proposals for resolutions to shareholders’ general meeting;
-(cid:129) to initiate proceedings against directors and senior management;
-(cid:129) other powers specified in the articles of association; and
-(cid:129) Supervisors may attend board meetings and make enquiries or proposals in respect
+ to initiate proposals for resolutions to shareholders’ general meeting;
+ to initiate proceedings against directors and senior management;
+ other powers specified in the articles of association; and
+ Supervisors may attend board meetings and make enquiries or proposals in respect
 of board resolutions. The board of supervisors may initiate investigations into any
 irregularities identified in the operation of the company and, where necessary, may
 engage an accounting firm to assist their work at the company’s expense.
@@ -26438,17 +26438,17 @@ Manager and Senior Management
 Under the Company Law, a company shall have a manager who shall be appointed or
 removed by the board of directors. The manager shall report to the board of directors and may
 exercise the following powers:
-(cid:129) to supervise the business and administration of the company and arrange for the
+ to supervise the business and administration of the company and arrange for the
 implementation of resolutions of the board of directors;
-(cid:129) to arrange for the implementation of the company’s annual business plans and
+ to arrange for the implementation of the company’s annual business plans and
 investment proposals;
-(cid:129) to formulate the general administration system of the company;
-(cid:129) to formulate the company’s detailed rules;
-(cid:129) to recommend the appointment and dismissal of deputy managers and person in
+ to formulate the general administration system of the company;
+ to formulate the company’s detailed rules;
+ to recommend the appointment and dismissal of deputy managers and person in
 charge of finance;
-(cid:129) to appoint or dismiss other administration officers (other than those required to be
+ to appoint or dismiss other administration officers (other than those required to be
 appointed or dismissed by the board of directors); and
-(cid:129) to other powers conferred by the board of directors or the articles of association.
+ to other powers conferred by the board of directors or the articles of association.
 The manager shall comply with other provisions of the articles of association concerning
 his/her powers. The manager shall attend board meetings.
 – IV-17 –
@@ -26466,22 +26466,22 @@ have fiduciary and diligent duties to the company. Directors, supervisors and se
 management are prohibited from abusing their powers to accept bribes or other unlawful
 income and from misappropriating of the company’s properties. Directors and senior
 management are prohibited from:
-(cid:129) misappropriation of the company’s capital;
-(cid:129) depositing the company’s capital into accounts under his own name or the name of
+ misappropriation of the company’s capital;
+ depositing the company’s capital into accounts under his own name or the name of
 other individuals;
-(cid:129) loaning company funds to others or providing guarantees in favor of others
+ loaning company funds to others or providing guarantees in favor of others
 supported by the company’s assets in violation of the articles of association or
 without prior approval of the shareholders’ general meeting or board of directors;
-(cid:129) entering into contracts or deals with the company in violation of the articles of
+ entering into contracts or deals with the company in violation of the articles of
 association or without prior approval of the shareholders’ general meeting;
-(cid:129) using their position and powers to procure business opportunities for themselves or
+ using their position and powers to procure business opportunities for themselves or
 others that should have otherwise been available to the company or operating for
 their own benefits or managing on behalf of others businesses similar to that of the
 company without prior approval of the shareholders’ general meeting;
-(cid:129) accept and possess commissions paid by a third party for transactions conducted
+ accept and possess commissions paid by a third party for transactions conducted
 with the company;
-(cid:129) unauthorized divulgence of confidential business information of the company; or
-(cid:129) other acts in violation of their fiduciary duty to the company.
+ unauthorized divulgence of confidential business information of the company; or
+ other acts in violation of their fiduciary duty to the company.
 A director, supervisor or senior management who contravenes any law, regulation or the
 company’s articles of association in the performance of his duties resulting in any loss to the
 company shall be personally liable for the damages to the company.
@@ -26582,15 +26582,15 @@ established within the stipulated period, creditors may apply to the people’s 
 thecourttoappointrelevantpersonneltoformtheliquidationgroup.Thepeople’scourtshould
 accept such application and form a liquidation group to conduct liquidation in a timely manner.
 The liquidation group shall exercise the following powers during the liquidation period:
-(cid:129) to liquidate the company’s assets and to prepare a balance sheet and an inventory of
+ to liquidate the company’s assets and to prepare a balance sheet and an inventory of
 the assets;
-(cid:129) to notify creditors through notice or public announcement;
-(cid:129) to deal with the company’s outstanding businesses related to liquidation;
-(cid:129) to pay any tax overdue as well as tax amounts arising from the process of
+ to notify creditors through notice or public announcement;
+ to deal with the company’s outstanding businesses related to liquidation;
+ to pay any tax overdue as well as tax amounts arising from the process of
 liquidation;
-(cid:129) to claim credits and pay off debts;
-(cid:129) to handle the company’s remaining assets after its debts have been paid off; and
-(cid:129) to represent the company in civil lawsuits.
+ to claim credits and pay off debts;
+ to handle the company’s remaining assets after its debts have been paid off; and
+ to represent the company in civil lawsuits.
 The liquidation group shall notify the company’s creditors within 10 days after its
 establishment and issue public notices in newspapers within 60 days.Acreditor shall lodge his
 claim with the liquidation group within 30 days after receiving notification, or within 45 days

@@ -354,13 +354,13 @@ players accounting for 65.7% of global market revenue in 2024 (the largest playe
 Wireless communication modules are products typically equipped with communication
 functions designed to enable the transmission and processing of large volumes of data over long
 distances. Our portfolio of wireless communication modules includes:
-(cid:129) Smart modules, which are equipped with system-on-chips (“SoC”) processors and
+ Smart modules, which are equipped with system-on-chips (“SoC”) processors and
 smart operating systems, and can be further categorized into:
 — High-computing-power smart modules, primarily designed to run complex
 algorithms and support on-device AI applications; and
 — Regular smart modules, primarily designed for smart applications such as custom
 software and multi-media functions.
-(cid:129) Data transmission modules, primarily designed for data communication, security and
+ Data transmission modules, primarily designed for data communication, security and
 high-throughput data exchange.
 – 1 –
 
@@ -407,25 +407,25 @@ OUR PRODUCTS AND SOLUTIONS
 The following table sets forth a summary of our module products and solutions:
 Product Keyfeaturesandfunctions Keycomponents
 (i) Smart module:
-(a) Regular smart module. . (cid:129) Equipped with smart operating systems (cid:129) SoC;
-such asAndroid; (cid:129) Memory chip(3);
-(cid:129) Supports features such as multi-media, (cid:129) Radio frequency chip(4);
-multi-camera and multi-display; and (cid:129) Printed circuit board
-(cid:129) Computing capability at lower than 8 (“PCB”)(5); and
-TOPS(1) (cid:129) Power management chip(6)
-(b) High-computing-power (cid:129) Equipped with smart operating systems (cid:129) SoC with stronger neural
+(a) Regular smart module. . Equipped with smart operating systems SoC;
+such asAndroid; Memory chip(3);
+ Supports features such as multi-media, Radio frequency chip(4);
+multi-camera and multi-display; and Printed circuit board
+ Computing capability at lower than 8 (“PCB”)(5); and
+TOPS(1) Power management chip(6)
+(b) High-computing-power Equipped with smart operating systems SoC with stronger neural
 smart module. . . . . . . . such asAndroid; processing unit (“NPU”) and
-(cid:129) More suitable for deployment of advanced AI acceleration performance;
-AI models (especially on local devices) (cid:129) Memory chip;
-that require high computing power and (cid:129) Radio frequency chip;
-large memory; and (cid:129) PCB; and
-(cid:129) Computing capability at equal to or higher (cid:129) Power management chip
+ More suitable for deployment of advanced AI acceleration performance;
+AI models (especially on local devices) Memory chip;
+that require high computing power and Radio frequency chip;
+large memory; and PCB; and
+ Computing capability at equal to or higher Power management chip
 than 8 TOPS
-(ii) Data transmission (cid:129) Cellular wireless connection from 2G to (cid:129) Baseband chip(7);
-module: . . . . . . . . . . . 5G(2); (cid:129) Memory chip;
-(cid:129) Not equipped with smart operating systems (cid:129) Radio frequency chip;
-likeAndroid; and (cid:129) PCB; and
-(cid:129) No high-computing-power capability, and (cid:129) Power management chip
+(ii) Data transmission Cellular wireless connection from 2G to Baseband chip(7);
+module: . . . . . . . . . . . 5G(2); Memory chip;
+ Not equipped with smart operating systems Radio frequency chip;
+likeAndroid; and PCB; and
+ No high-computing-power capability, and Power management chip
 typically not selected for their computing
 power capability
 Notes:
@@ -1036,19 +1036,19 @@ payable by us in connection with the Global Offering. In line with our strategie
 === PAGE 32 ===
 SUMMARY
 use our proceeds from the Global Offering for the purposes and in the amounts set forth below:
-(cid:129) approximately 55% of the net proceeds, or HK$519.6 million (equivalent to
+ approximately 55% of the net proceeds, or HK$519.6 million (equivalent to
 approximately RMB461.3 million), is expected to be used for enhancing our R&D and
 innovation capabilities;
-(cid:129) approximately 10% of the net proceeds, or HK$94.5 million (equivalent to
+ approximately 10% of the net proceeds, or HK$94.5 million (equivalent to
 approximately RMB83.9 million), is expected to be used for expanding our overseas
 sales network and promoting our products in overseas markets;
-(cid:129) approximately 10% of the net proceeds, or HK$94.5 million (equivalent to
+ approximately 10% of the net proceeds, or HK$94.5 million (equivalent to
 approximately RMB83.9 million), is expected to be used for strategic investments
 and/or acquisition to achieve our long-term growth strategies;
-(cid:129) approximately 15% of the net proceeds, or HK$141.7 million (equivalent to
+ approximately 15% of the net proceeds, or HK$141.7 million (equivalent to
 approximately RMB125.8 million), is expected to be allocated for the repayment of
 certain interest-bearing bank borrowings; and
-(cid:129) approximately 10% of the net proceeds, or HK$94.5 million (equivalent to
+ approximately 10% of the net proceeds, or HK$94.5 million (equivalent to
 approximately RMB83.9 million), is expected to be used for working capital and general
 corporate uses.
 For details, please see “Future Plans and Use of Proceeds.”
@@ -1807,25 +1807,25 @@ prospectus. You are strongly cautioned that reliance on any forward-looking stat
 known and unknown risks and uncertainties. The risks and uncertainties facing our Company
 which could affect the accuracy of forward-looking statements include, but are not limited to, the
 following:
-(cid:129) our business prospects;
-(cid:129) future developments, trends and conditions in the industry and markets in which we
+ our business prospects;
+ future developments, trends and conditions in the industry and markets in which we
 operate or into which we intend to expand;
-(cid:129) our business and operating strategies and plans to achieve these strategies;
-(cid:129) general economic, political and business conditions in the markets in which we operate;
-(cid:129) changes to the regulatory environment, operating conditions and general outlook in the
+ our business and operating strategies and plans to achieve these strategies;
+ general economic, political and business conditions in the markets in which we operate;
+ changes to the regulatory environment, operating conditions and general outlook in the
 industry and geographical markets in which we operate;
-(cid:129) the effects of the global financial markets and economic crisis;
-(cid:129) our financial condition and performance;
-(cid:129) our ability to reduce costs;
-(cid:129) our dividend policy;
-(cid:129) the amount and nature of, and potential for, future development of our business;
-(cid:129) capital market developments;
-(cid:129) the actions and developments of our competitors; and
+ the effects of the global financial markets and economic crisis;
+ our financial condition and performance;
+ our ability to reduce costs;
+ our dividend policy;
+ the amount and nature of, and potential for, future development of our business;
+ capital market developments;
+ the actions and developments of our competitors; and
 – 44 –
 
 === PAGE 56 ===
 FORWARD-LOOKING STATEMENTS
-(cid:129) change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
+ change or volatility in interest rates, foreign exchange rates, equity prices, volumes,
 operations, margins, risk management and overall market trends.
 Subject to the requirements of applicable laws, rules and regulations, we do not have any and
 undertake no obligation to update or otherwise revise the forward-looking statements in this
@@ -1912,16 +1912,16 @@ We may not be able to continue growing at the same rate as we did during the Tra
 Period, or at all. Our results of operations depend on our ability to execute our growth plan and
 manage our expansion and growth successfully. The successful growth of our business depends on
 our ability to:
-(cid:129) launch products and solutions that meet customer expectation;
-(cid:129) develop and integrate our core technologies;
-(cid:129) secure a stable supply of key raw materials at a reasonable cost;
-(cid:129) manage our EMS providers who provide manufacturing services for us;
-(cid:129) maintain and expand our sales network;
-(cid:129) enhance our talent management and recruit additional key personnel;
-(cid:129) monitor and control expenses and investments in anticipation of expanded operations;
-(cid:129) improve our operational, financial and management compliance programs and reporting
+ launch products and solutions that meet customer expectation;
+ develop and integrate our core technologies;
+ secure a stable supply of key raw materials at a reasonable cost;
+ manage our EMS providers who provide manufacturing services for us;
+ maintain and expand our sales network;
+ enhance our talent management and recruit additional key personnel;
+ monitor and control expenses and investments in anticipation of expanded operations;
+ improve our operational, financial and management compliance programs and reporting
 systems; and
-(cid:129) address new market opportunities and potentially unforeseen challenges as they arise.
+ address new market opportunities and potentially unforeseen challenges as they arise.
 In addition, our future growth may be affected by factors beyond our control. Such factors
 include changes in macroeconomic conditions in China and globally, changes in the competitive
 landscape of the industries in which we operate, government regulations, international geopolitical
@@ -1962,19 +1962,19 @@ Our products and solutions are primarily offered to downstream end customers of 
 industries, primarily including general IoT, ICV, and wireless broadband. Factors that adversely
 affect these industries could also materially and adversely affect our business, financial condition,
 results of operations and prospects. These factors include, among others:
-(cid:129) a decline in demand for, or negative perception of, or negative publicity about, our
+ a decline in demand for, or negative perception of, or negative publicity about, our
 products and solutions in these industries;
-(cid:129) the reduction or elimination of preferential tax treatments, economic incentives and
+ the reduction or elimination of preferential tax treatments, economic incentives and
 other favorable government policies on our downstream end customers;
-(cid:129) regulatory restrictions, trade disputes, industry-specific quotas, tariffs, non-tariff barriers
+ regulatory restrictions, trade disputes, industry-specific quotas, tariffs, non-tariff barriers
 and taxes that may have the effect of limiting exports of these industries from China;
 – 49 –
 
 === PAGE 61 ===
 RISK FACTORS
-(cid:129) a downturn in the general economic conditions of major countries and regions that
+ a downturn in the general economic conditions of major countries and regions that
 import our products and solutions; and
-(cid:129) macroeconomic conditions which affects the consumption habits of end consumers.
+ macroeconomic conditions which affects the consumption habits of end consumers.
 Any decrease in the demand for our products and solutions in the downstream industries
 would result in a decrease in customer orders for our products and solutions. Even if the
 downstream demand increases, we may not be able to identify and capitalize on the market
@@ -2482,11 +2482,11 @@ We may not be able to identify or avoid intellectual property infringement activ
 primarily because determining whether a product infringes a patent involves an analysis of
 complex legal and factual issues and the conclusion of such analysis is often uncertain. For
 example:
-(cid:129) We may hire employees who have previously worked for our competitors and cannot
+ We may hire employees who have previously worked for our competitors and cannot
 assure that such employees will not use their previous employers’ proprietary
 know-how, technology and other proprietary information in their work for us, which
 could result in litigation against us; and
-(cid:129) Our competitors may also have filed for patent protection which is not as yet a matter of
+ Our competitors may also have filed for patent protection which is not as yet a matter of
 public knowledge, or claimed trademark rights that have not been revealed through our
 searches of relevant public records.
 Therefore, our efforts to identify and avoid infringement on third parties’ intellectual property
@@ -2730,27 +2730,27 @@ RMB569.0 million and RMB962.9 million, respectively, representing 23.7%, 31.0%, 
 and 34.1% of our total revenue, respectively.
 Operating in multiple jurisdictions around the globe and expanding into new markets may
 subject ourselves to the following risks:
-(cid:129) challenges in providing products, solutions and customer support, in recruiting personnel
+ challenges in providing products, solutions and customer support, in recruiting personnel
 in international markets and in managing sales channels effectively;
-(cid:129) challenges in commercializing our products and solutions in new markets where we
+ challenges in commercializing our products and solutions in new markets where we
 have limited experience with the local market dynamics and no existing or developed
 sales and marketing infrastructure;
 – 69 –
 
 === PAGE 81 ===
 RISK FACTORS
-(cid:129) differences in accounting treatment in different countries and jurisdictions, uncertainties
+ differences in accounting treatment in different countries and jurisdictions, uncertainties
 in interpretation and application of tax laws and regulations, more onerous tax
 obligations and unfavorable tax conditions and foreign exchange losses;
-(cid:129) exposure to litigation or third-party claims, inability to effectively enforce contractual or
+ exposure to litigation or third-party claims, inability to effectively enforce contractual or
 legal rights and difficulty in obtaining or enforcing legal rights and judgements
 overseas;
-(cid:129) instability or unavailability of international transportation or logistics services due to
+ instability or unavailability of international transportation or logistics services due to
 macroeconomics, geopolitical and other factors;
-(cid:129) changes in or failure to comply with laws, regulations and policies as well as political,
+ changes in or failure to comply with laws, regulations and policies as well as political,
 economic and market instability, geopolitical risks or civil unrest in the relevant
 countries and jurisdictions; and
-(cid:129) unfavorable market conditions, intense competition, unattractive products and services,
+ unfavorable market conditions, intense competition, unattractive products and services,
 downward pressure on our selling price and any other inherent risks associated with our
 international business operations.
 Acquisitions, investments or strategic alliances may fail, involve significant valuation and
@@ -4565,34 +4565,34 @@ align closely with the characteristics of on-device AI, forming its primary grow
 INDUSTRY OVERVIEW
 Key Application Scenarios The Upgrade Logic of Wireless Communication Modules
 General IoT
-(cid:2)Smart retail equipment, Smart 11 From Basic Connectivity to smart application Evolution
+ Smart retail equipment, Smart 11 From Basic Connectivity to smart application Evolution
 Logistics
-(cid:2)Industrial IoT, Consumer IoT 22 From Single Mode to Multi-mode Convergence Evolution
-(cid:2)Sharing Economy
-(cid:2)… 33 From One-way Upload to on-device Collaboration Evolution
+ Industrial IoT, Consumer IoT 22 From Single Mode to Multi-mode Convergence Evolution
+ Sharing Economy
+ … 33 From One-way Upload to on-device Collaboration Evolution
 ICV
-(cid:2)Intelligent Cockpit 11 From Communication Components to
+ Intelligent Cockpit 11 From Communication Components to
 Intelligent Converged Platforms Evolution
-(cid:2)In-Vehicle T-Box
-(cid:2)… 22 From Peripheral Connection to Safety Control Hub Evolution
+ In-Vehicle T-Box
+ … 22 From Peripheral Connection to Safety Control Hub Evolution
 Communication Capabilities
 Supporting Intelligent
 Scenario Upgrades
 Wireless Broadband Modules Evolution From Basic Connectivity to High-speed Low-latency
-(cid:2)4G/5G FWA 11 Communication
-(cid:2) (cid:2)… Mobile Broadband 22 EvFolruotmion From Single Cellular Mode to Multi-protocol Convergence
+ 4G/5G FWA 11 Communication
+ … Mobile Broadband 22 EvFolruotmion From Single Cellular Mode to Multi-protocol Convergence
 33 EvForloumtion From Passive Connection Modules to Network Intelligent Nodes
 Source: Frost & Sullivan
 ■ Upgrade Logic of Key Application Scenarios of the Wireless Communication Modules in
 the On-Device Intelligence Era
-(cid:129) General IoT: The global number of connected devices is rapidly increasing in the era of
+ General IoT: The global number of connected devices is rapidly increasing in the era of
 on-device intelligence, and is expected to reach tens of billions. Communication
 modules are evolving from “simple connectivity” to “local light intelligence,”
 performing initial AI inference and status judgment at the terminal. With the maturity of
 the terminal-edge-cloud collaborative architecture in the future, modules will possess
 data filtering and edge preprocessing capabilities, enabling more efficient collaborative
 processing between local and cloud ends.
-(cid:129) ICV: Intelligent cockpit and intelligent connectivity system are core carriers of
+ ICV: Intelligent cockpit and intelligent connectivity system are core carriers of
 on-device intelligence applications in ICV. While 4G in-vehicle modules met basic
 requirements for streaming media playback and remote diagnostics. However, in the
 on-device intelligence era, wireless communication modules are evolving from 4G to
@@ -4605,7 +4605,7 @@ on-device intelligence era.
 
 === PAGE 133 ===
 INDUSTRY OVERVIEW
-(cid:129) Wireless Broadband: Globally, wireless broadband access has become the mainstream
+ Wireless Broadband: Globally, wireless broadband access has become the mainstream
 choice due to its rapid deployability, controllable costs, and absence of need for
 large-scale wired infrastructure. As user demands for high-definition video, real-time
 interaction, and remote collaboration continue to rise, communication modules are
@@ -4617,7 +4617,7 @@ security management capabilities, serving as the core foundation for supporting 
 sustained expansion of the global wireless broadband market.
 1.3 Main Application Prospects of Wireless Communication Modules in the AI Era
 ■ Current core driving scenarios
-(cid:129) General IoT: The diversity of general IoT terminal types is increasing, covering
+ General IoT: The diversity of general IoT terminal types is increasing, covering
 numerous sub-sectors such as industrial control and Smart Cities. On-device AI has
 become a key pathway to enhance device intelligence levels now, driving module
 products to evolve towards integrated computing-power, multi-protocol support, and
@@ -4628,7 +4628,7 @@ and widespread industrial digitalization, resulting in a strong increase in conn
 devices, and the ROW market is larger in scale but growing at a steadier pace, mainly
 due to the consistent demand from industrial IoT and smart city applications in
 developed economies such as North America and Europe.
-(cid:129) ICV: With the rapid penetration of functions such as intelligent cockpit in
+ ICV: With the rapid penetration of functions such as intelligent cockpit in
 mid-to-high-end vehicles, OEMs are placing emphasis on high data rates, low latency,
 and local AI inference for in-vehicle modules. In on-device AI tasks such as in-vehicle
 multi-modal perception and real-time inference, high-computing-power modules are
@@ -4643,7 +4643,7 @@ renewal cycles, resulting in more moderate growth.
 
 === PAGE 134 ===
 INDUSTRY OVERVIEW
-(cid:129) Wireless Broadband (FWA/MBB): The communication capabilities of wireless
+ Wireless Broadband (FWA/MBB): The communication capabilities of wireless
 broadband have become foundational for intelligent scenario upgrades, serving as a key
 enabler for connecting terminal intelligence and system collaboration. FWA/MBB are
 gradually replacing traditional wired broadband access, with rapid growth in demand for
@@ -4678,7 +4678,7 @@ RMB Billion RMB Billion RMB Billion
 2024 2029E 2024 2029E 2024 2029E
 Source: Frost & Sullivan
 ■ Future high-potential driving scenarios
-(cid:129) Robots: As AI evolves from perception and understanding to autonomous
+ Robots: As AI evolves from perception and understanding to autonomous
 decision-making and physical interaction, robots have become the most direct
 embodiment of AI modules and edge computing capabilities, widely applied in various
 operational scenarios. The demand for real-time and stable local AI inference and
@@ -4693,7 +4693,7 @@ INDUSTRY OVERVIEW
 public sector use cases; the ROW markets are more concentrated in industrial robots
 with slower adoption in non-industrial segments, leading to a narrower application scope
 and more moderate growth.
-(cid:129) Servers: Under the backdrop of rapid evolution in large AI models, server architectures
+ Servers: Under the backdrop of rapid evolution in large AI models, server architectures
 are accelerating their shift from centralized computing-power to edge intelligence. As
 critical nodes in server systems responsible for local inference, parameter caching, and
 task scheduling, edge servers are increasingly becoming a critical component of the AI
@@ -4709,7 +4709,7 @@ growth of servers is fueled by localized AI deployments, alongside increased dem
 domestically controlled computing infrastructure; the ROW markets benefit from the
 large-scale deployment of AI inference workloads by global tech giants, with stronger
 momentum in modular edge server adoption and wireless module integration.
-(cid:129) AR/VR: AR/VR devices, as representative forms of the integration of generative AI and
+ AR/VR: AR/VR devices, as representative forms of the integration of generative AI and
 immersive interaction, require support for high-intensity tasks such as
 ultra-high-definition video rendering, low-latency feedback, and real-time environmental
 sensing, imposing stringent requirements on local computing-power and wireless
@@ -4781,13 +4781,13 @@ and computing-power scale. With the development of downstream customer needs, th
 computing-power measured by TOPS has gradually become an important criterion for smart
 modules while the presence of communication capabilities is no longer a necessary condition for
 defining smart modules.
-(cid:129) Regular smart module: Primarily used to support lightweight applications such as
+ Regular smart module: Primarily used to support lightweight applications such as
 basic data collection, edge control, audio and video playback, and graphical user
 interface (GUI) interaction. They typically employ mid-to-low power consumption CPU
 platforms and are suited for scenarios with lower computational demands, such as smart
 wearables and smart home systems, with a focus on balancing system integration and
 cost efficiency.
-(cid:129) High-computing-power smart module: refers to a smart module integrating a
+ High-computing-power smart module: refers to a smart module integrating a
 computing power of 8 TOPS or above, with dedicated AI accelerators like TPU and
 NPU embedded, capable of performing machine learning inference on-device or hosting
 AI models. This kind of module achieves efficient real-time analysis and processing by
@@ -4951,7 +4951,7 @@ Total 7.7% 10.6%
 59.6
 60 • Regularsmartmodule 6.4% 15.1%
 55 53.9
-50 (cid:129) High-computing-powersmartmodule 25.9% 23.9% 48.6
+50 High-computing-powersmartmodule 25.9% 23.9% 48.6
 45 43.6 50.0
 39.5 46.5
 40 36.2 37.3 43.2
@@ -4990,9 +4990,9 @@ Total 9.1% 12.7%
 Datatransmissionmodule 7.7% 8.1% 45.5
 45
 Smart module 14.7% 23.9% 40.7
-40 (cid:129) Regularsmartmodule 6.3% 19.6%
+40 Regularsmartmodule 6.3% 19.6%
 36.0
-35 (cid:129) High-computing-powersmartmodule 38.1% 28.9%
+35 High-computing-powersmartmodule 38.1% 28.9%
 31.9
 28.7
 30 28.1
@@ -5098,25 +5098,25 @@ Source: Frost & Sullivan
 2.6 Price trends of key cost components of wireless communication modules
 The key cost components of wireless communication modules mainly include memory chips,
 SoCs, RF chips, PCBs and PMICs.
-(cid:129) Memory chips: The market for memory chips is known for its cyclical and often sharp
+ Memory chips: The market for memory chips is known for its cyclical and often sharp
 price fluctuations. For example, price of memory chips experienced a period of price
 declines in 2022 and 2023 due to market overcapacity and weak consumer demand, and
 began to rebound in 2024 and 2025, driven by factors including surging demand for AI
 servers and production cuts by major manufacturers. Prices are expected to trend upward
 in the near term on tight supply for mainstream products.
-(cid:129) SoCs: Adjusted downward in 2023 but remained at a relatively high level through 2024.
+ SoCs: Adjusted downward in 2023 but remained at a relatively high level through 2024.
 Prices are expected to stay structurally elevated due to persistently high wafer and
 packaging costs.
-(cid:129) RF chips: Weakened in 2023 and showed a mild recovery in 2024. Future pricing will
+ RF chips: Weakened in 2023 and showed a mild recovery in 2024. Future pricing will
 largely follow terminal demand with potential upgrades driven by next-generation
 wireless standards.
-(cid:129) PCBs: Softened in 2023 and rebounded in 2024 alongside higher copper prices. Future
+ PCBs: Softened in 2023 and rebounded in 2024 alongside higher copper prices. Future
 trends remain highly sensitive to commodity price movements.
 – 133 –
 
 === PAGE 145 ===
 INDUSTRY OVERVIEW
-(cid:129) PMICs: Prices normalized in 2023 and stabilized in 2024. Prices are expected to remain
+ PMICs: Prices normalized in 2023 and stabilized in 2024. Prices are expected to remain
 broadly stable, underpinned by structural demand from automotive and industrial
 applications.
 2.7 Development Trends of Wireless Communication Modules
@@ -6869,13 +6869,13 @@ compared to our 6.4% market share despite ranking fourth.
 Wireless communication modules are products typically equipped with communication
 functions designed to enable the transmission and processing of large volumes of data over long
 distances. Our portfolio of wireless communication modules includes:
-(cid:129) Smart modules, which are equipped with SoC processors and smart operating systems,
+ Smart modules, which are equipped with SoC processors and smart operating systems,
 and can be further categorized into:
 — High-computing-power smart modules, primarily designed to run complex
 algorithms and to support on-device AI applications; and
 — Regular smart modules, primarily designed for smart applications such as custom
 software and multi-media functions.
-(cid:129) Data transmission modules, primarily designed for data communication, security and
+ Data transmission modules, primarily designed for data communication, security and
 high-throughput data exchange.
 Leveraging our wireless communication module technologies, we develop customized
 solutions tailored to the specific requirements of various application sectors, addressing the diverse
@@ -6903,7 +6903,7 @@ We are driving and leading key industry trends in the wireless communication mod
 industry. As the industry evolves with advancements in new technologies, we have consistently
 demonstrated our ability to anticipate and respond to these developments, particularly in the
 following aspects:
-(cid:129) Transition to Smart Modules: The industry is seeing a shift from traditional data
+ Transition to Smart Modules: The industry is seeing a shift from traditional data
 transmission modules to smart modules amid the trend towards smart applications in
 various downstream sectors. We have played a leading role in driving this transition.
 According to Frost & Sullivan, we were the first company globally to (i) launch smart
@@ -6911,7 +6911,7 @@ module products, when we launched our smart module products back in 2014; and (i
 achieve large-scale deployment of 5G smart modules in new energy vehicles, as our 5G
 smart modules were first deployed on the new energy vehicles of a leading manufacturer
 in China in 2021.
-(cid:129) Transition to On-Device AI Application: As AI computation gradually extends from
+ Transition to On-Device AI Application: As AI computation gradually extends from
 cloud to edge and local device levels, we are at the industry forefront of offering
 high-computing-power smart modules, which serve as critical infrastructure to provide
 robust hardware and software support for various on-device AI applications. According
@@ -6931,7 +6931,7 @@ BUSINESS
 with computing power ranging from 8 TOPS to 100 TOPS. Our high-computing-power
 smart modules can support the deployment and operation of on-device versions of
 various prevailing AI models.
-(cid:129) Transition to 5G Communication: We are one of the early movers in driving the
+ Transition to 5G Communication: We are one of the early movers in driving the
 transition from 4G to 5G in the global wireless communication module industry,
 supporting faster and more reliable connectivity of modules. According to Frost &
 Sullivan, (i) we were among the first companies globally to launch 5G data transmission
@@ -7007,19 +7007,19 @@ Sullivan.
 Our Business and Financial Performance
 During the Track Record Period, our business and financial performance improved in the
 following aspects:
-(cid:129) Increasing contribution from high-computing-power smart modules: Revenue from
+ Increasing contribution from high-computing-power smart modules: Revenue from
 high-computing-power smart modules and solutions as a percentage of our total revenue
 increased from 1.5% in 2022 to 14.9% in 2023, 34.6% in 2024, and 34.2% in the nine
 months ended September 30, 2025.
-(cid:129) Rising contribution from 5G-related products and solutions: Revenue from 5G-related
+ Rising contribution from 5G-related products and solutions: Revenue from 5G-related
 products and solutions as a percentage of our total revenue increased from 32.7% in
 2022 to 37.3% in 2023, 43.9% in 2024, and 50.0% in the nine months ended September
 30, 2025.
-(cid:129) Growth in overseas revenue: Our overseas revenue increased by 21.9% from RMB545.6
+ Growth in overseas revenue: Our overseas revenue increased by 21.9% from RMB545.6
 million in 2022 to RMB665.0 million in 2023, by 20.7% to RMB802.9 million in 2024,
 and increased by 69.2% from RMB569.0 million in the nine months ended September
 30, 2024 to RMB962.9 million in the nine months ended September 30, 2025.
-(cid:129) Growth in ICV-related revenue: Revenue from the ICV sector increased by 73.5% from
+ Growth in ICV-related revenue: Revenue from the ICV sector increased by 73.5% from
 RMB342.2 million in 2022 to RMB593.6 million in 2023, by 105.7% to RMB1,220.9
 million in 2024, and increased by 25.2% from RMB788.3 million in the nine months
 ended September 30, 2024 to RMB986.9 million in the nine months ended September
@@ -7038,20 +7038,20 @@ sectors: general IoT, ICV and wireless broadband. By offering high-computing-pow
 modules and customized solutions, we have established differentiated competitive advantages and
 continue to drive technological advancements in the industry.
 According to Frost & Sullivan:
-(cid:129) We ranked fourth in the global wireless communication module industry in terms of
+ We ranked fourth in the global wireless communication module industry in terms of
 revenue from wireless communication module business in 2024, accounting for 6.4% of
 the total global market share in the same year. The global wireless communication
 module market is highly concentrated, with the three largest players accounting for
 65.7% of global market revenue in 2024 (the largest player alone holding a 42.7%
 market share), compared to our 6.4% market share despite ranking fourth;
-(cid:129) Revenue from smart modules and solutions accounted for 41.5%, 56.7%, 62.9%, 63.9%
+ Revenue from smart modules and solutions accounted for 41.5%, 56.7%, 62.9%, 63.9%
 and 66.1% of our total revenue in 2022, 2023, 2024 and the nine months ended
 September 30, 2024 and 2025, respectively, and revenue from high-computing-power
 smart modules and solutions accounted for 1.5%, 14.9%, 34.6%, 29.4% and 34.2%
 during the same periods. In 2024, the revenue contribution from our
 high-computing-power smart modules and solutions was significantly higher than that of
 other leading companies in the industry;
-(cid:129) Revenue from 5G-related module products and solutions accounted for 32.7%, 37.3%,
+ Revenue from 5G-related module products and solutions accounted for 32.7%, 37.3%,
 43.9%, 38.5% and 50.0% of our total revenue in 2022, 2023, 2024 and the nine months
 ended September 30, 2024 and 2025, respectively. In 2024, the revenue contribution of
 our 5G-related modules and solutions was higher than that of other leading companies in
@@ -7062,33 +7062,33 @@ and computing power, we were among the first to identify high-computing-power sm
 a core strategic direction. Through continuous technological innovation and product upgrades, we
 remain at the forefront of industry development. According to Frost & Sullivan:
 In terms of smart modules:
-(cid:129) We were the first company globally to launch smart module products in 2014. Similar
+ We were the first company globally to launch smart module products in 2014. Similar
 products were not launched by competitors in the market until after 2015;
 – 185 –
 
 === PAGE 197 ===
 BUSINESS
-(cid:129) We were the first company globally to achieve large-scale deployment of 5G smart
+ We were the first company globally to achieve large-scale deployment of 5G smart
 modules in new energy vehicles in 2021, driven by substantial demand from a leading
 domestic new energy vehicle manufacturer for high-performance modules supporting
 ICV.
 In terms of high-computing-power smart modules:
-(cid:129) We were the first company globally to develop a 48 TOPS high-computing-power smart
+ We were the first company globally to develop a 48 TOPS high-computing-power smart
 module and the first to become one of the designated suppliers for leading automobile
 manufacturers for such modules at a time when other smart module providers had not
 yet commercially launched 48 TOPS-level product in the broader market;
-(cid:129) In 2023, we successfully ran a text-to-image generative AI model on our
+ In 2023, we successfully ran a text-to-image generative AI model on our
 high-computing-power smart modules, making us the first company to successfully run
 this kind of AI model on high-computing-power smart modules, demonstrating the
 feasibility of generative AI tasks on edge hardware with 48 TOPS performance,
 according to Frost & Sullivan;
-(cid:129) We ranked first in the global wireless communication module industry in terms of
+ We ranked first in the global wireless communication module industry in terms of
 revenue from high-computing-power smart module business in 2024, accounting for
 29.0% of the global market share;
-(cid:129) We were among the first globally to launch high-computing-power smart modules based
+ We were among the first globally to launch high-computing-power smart modules based
 on a mobile SoC platform developed by a leading technology company, with computing
 power of up to 64 TOPS; and
-(cid:129) We were among the first globally to deploy high-computing-power smart modules in
+ We were among the first globally to deploy high-computing-power smart modules in
 prototype humanoid robots developed by a leading technology company. Our
 high-computing-power smart modules were used for their robots’ main control units.
 Our Early Entrant Advantages
@@ -7139,25 +7139,25 @@ Regular Smart Modules and Related Technologies
 We have built significant technical advantages in areas such as Android system driver
 development, performance optimization, power consumption control and application integration.
 These capabilities allow us to efficiently and reliably meet diverse customer needs. For example:
-(cid:129) System Driver Development: Our smart modules support multi-camera access,
+ System Driver Development: Our smart modules support multi-camera access,
 multi-channel audio routing and multi-screen splitting functionality. For instance, system
 drivers developed by us enable access to up to five cameras and split-screen operations
 for three screens, addressing the needs of high-concurrency and multitasking scenarios.
 Additionally, we have enhanced GPU computing power by optimizing its acceleration
 engine, improving graphics processing efficiency and enhancing system rendering
 capabilities;
-(cid:129) Performance Optimization: We possess competitive advantages in optimizing system
+ Performance Optimization: We possess competitive advantages in optimizing system
 boot, memory allocation and multi-threaded load balancing. For example, our system
 optimization can significantly reduce boot times across multiple platforms. Through
 memory trimming and resource optimization, we can free up system memory and
 improve device efficiency;
-(cid:129) Power Consumption Control: Our power optimization technology reduces device energy
+ Power Consumption Control: Our power optimization technology reduces device energy
 consumption while maintaining performance. For portable devices such as video
 recorders, we have controlled power consumption at low levels while ensuring normal
 recording functionality. For specialized applications (for instance, specific adaptors or
 low-temperature startup), we can optimize boot currents to meet the requirements of
 different operating environments;
-(cid:129) Application Integration: We have accumulated experience in application integration for
+ Application Integration: We have accumulated experience in application integration for
 specific industry scenarios. For example, in the industrial handheld devices (such as
 PDA), we have integrated features such as barcode scanning and walkie-talkie
 functionality, meeting the demands for portability and efficiency in industrial
@@ -7172,7 +7172,7 @@ High-Computing-Power Smart Modules and On-Device AI Technologies
 Building on our expertise in regular smart modules, we have advanced to
 high-computing-power smart modules to address applications with intensive CPU, GPU and NPU
 requirements, developing technical capabilities in terms of both hardware and software:
-(cid:129) Hardware Technologies: Our high-computing-power smart modules deliver computing
+ Hardware Technologies: Our high-computing-power smart modules deliver computing
 power of 8 TOPS or more and support multiple communication protocols, including 5G,
 WiFi and Gigabit Ethernet. According to Frost & Sullivan, 8 TOPS is considered as an
 industry norm as the threshold for high-computing-power smart modules, enabling stable
@@ -7183,7 +7183,7 @@ the requirements of lightweight general-purpose models and industry-specific
 small-parameter models, further expanding the boundaries of high-computing-power
 smart modules and providing the hardware foundation for the transition of generative AI
 to on-device applications.
-(cid:129) Software Technologies: We recognize that software adaptation is critical for the
+ Software Technologies: We recognize that software adaptation is critical for the
 successful deployment of AI, as it bridges compatibility between hardware and
 application scenarios. We have a dedicated team specializing in software development
 for AI-related applications. Through software innovation, we have achieved:
@@ -7204,21 +7204,21 @@ competitiveness of our products.
 === PAGE 201 ===
 BUSINESS
 5G Communication Technologies
-(cid:129) We have accumulated mature products and technical capabilities in innovative 5G
+ We have accumulated mature products and technical capabilities in innovative 5G
 technologies such as 5G-A and 5G RedCap, empowering the performance and power
 consumption of 5G communication, respectively, to meet diverse needs of customers;
-(cid:129) We have developed advanced solutions to optimize the 5G connectivity experience through
+ We have developed advanced solutions to optimize the 5G connectivity experience through
 antenna design. By implementing high-gain directional antennas, we can enhance product
 reception range and cellular network coverage. Our smart antenna selection algorithms further
 enable optimal 5G antenna usage, improving overall product performance. Additionally, our
 multi-antenna design supports a wider range of 5G dual connectivity combinations, and the
 360-degree antenna distribution ensures comprehensive signal coverage;
-(cid:129) We continuously optimize the power efficiency of our 5G products while enhancing network
+ We continuously optimize the power efficiency of our 5G products while enhancing network
 security. By combining low-power mode controls with adaptive low-power modes, we
 achieve a balance between reduced power consumption and product performance. To enhance
 the security of 5G network access, we have implemented measures such as secure boot
 protocols and data encryption technologies;
-(cid:129) We also advance 5G network slicing and edge computing technologies to improve efficiency
+ We also advance 5G network slicing and edge computing technologies to improve efficiency
 and reliability. Our learning-based network slicing optimization platform dynamically
 allocates radio and core network resources based on service types, enabling end-to-end low
 latency. Combined with the real-time processing capabilities of edge computing nodes, our
@@ -7238,26 +7238,26 @@ General IoT: Meeting Complex and Diverse Application Demands
 To address the complex and diverse demands of the general IoT sector, we have designed a
 range of products and solutions tailored to specific application scenarios. Notable examples
 include:
-(cid:129) New Retail: We provide modular and customized PCBAs and end products for various
+ New Retail: We provide modular and customized PCBAs and end products for various
 applications such as POS systems, cash registers, facial payment tablets, palm payment
 devices and vending machines, offering a smart hardware infrastructure for new retail
 applications;
-(cid:129) Industrial Applications: Our solutions include barcode scanning devices, rugged tablets,
+ Industrial Applications: Our solutions include barcode scanning devices, rugged tablets,
 smart walkie-talkies, intelligent video recorders and industrial AI boxes, which are
 widely used in warehousing, logistics, transportation and manufacturing; and
-(cid:129) Healthcare: We assist customers in integrating AI technologies into new products,
+ Healthcare: We assist customers in integrating AI technologies into new products,
 including mobile nursing, telemedicine and emergency response solutions, helping them
 expand into emerging markets and AI application scenarios. For example, we have
 developed customized scanning and testing solutions for mobile nursing.
 ICV: Driving Connectivity and Smart Applications in Vehicles
-(cid:129) In the ICV sector, we have emerged as one of the industry leaders through technological
+ In the ICV sector, we have emerged as one of the industry leaders through technological
 innovation and strategic focus. According to Frost & Sullivan, we were the first company
 globally to achieve large-scale deployment of 5G smart modules in automobiles. Traditional
 in-vehicle chips often lack advanced performance capabilities, whereas our smart modules,
 equipped with intelligent SoC chips, can support both 5G communication function and the
 computing power needed for intelligent cockpit on a single-module level, providing
 high-performance solutions that significantly enhance the in-vehicle experience.
-(cid:129) Leveraging our core R&D capabilities in 5G communication, Android system customization,
+ Leveraging our core R&D capabilities in 5G communication, Android system customization,
 high-performance low-power computing and AI applications, we have developed a variety of
 regular smart modules and high-computing-power smart modules tailored for the ICV sector.
 These products provide intelligent cockpit solutions for various vehicle models and
@@ -7269,7 +7269,7 @@ recognition and the deployment of large AI models in vehicles.
 
 === PAGE 203 ===
 BUSINESS
-(cid:129) We have established a solid position in the ICV sector through our innovative intelligent
+ We have established a solid position in the ICV sector through our innovative intelligent
 cockpit solutions, which are built upon our proprietary smart module technology. Unlike
 traditional cockpit domain controllers, which require separate T-BOX for vehicle
 connectivity, our smart module-based domain controllers provide both communication and
@@ -7277,14 +7277,14 @@ computing capabilities in a single integrated solution. By incorporating 4G/5G c
 alongside CPU, GPU and NPU computing components, our smart modules eliminate the need
 for standalone T-BOX devices, simplifying system architecture and reducing costs for
 automakers.
-(cid:129) We were one of the earliest companies to apply smart module technology to the automotive
+ We were one of the earliest companies to apply smart module technology to the automotive
 sector, with design and mass production experience dating back to 2019. Over the years, we
 have developed mature technical solutions tailored to requirements such as vibration
 resistance, high-temperature performance and operational stability.
-(cid:129) During the Track Record Period, we shipped over one million units of 5G smart modules for
+ During the Track Record Period, we shipped over one million units of 5G smart modules for
 intelligent cockpit applications, demonstrating our ability to meet the stringent quality and
 reliability standards demanded by automotive customers.
-(cid:129) We have consistently advanced our product offerings to meet the evolving needs of the ICV
+ We have consistently advanced our product offerings to meet the evolving needs of the ICV
 market. We have developed five generations of 5G smart modules for intelligent cockpit
 applications between 2020 to 2025. During the Track Record Period, we designed,
 manufactured and launched three of these products, with computing power reaching up to
@@ -7293,11 +7293,11 @@ already been awarded projects by leading automakers. Additionally, we are design
 planning our fifth-generation product, which is expected to offer computing power reaching
 up to nearly 60 TOPS to address future market demands. As of the Latest Practicable Date,
 we were in the process of promoting our fifth-generation product to automakers.
-(cid:129) We have established long-term partnerships with leading global automobile manufacturers,
+ We have established long-term partnerships with leading global automobile manufacturers,
 including certain top Chinese new energy vehicle manufacturers, to commercialize products
 and solutions in the ICV sector, accelerating the development of connected and intelligent
 vehicles.
-(cid:129) In 2024, we ranked first in the industry in terms of shipment volume of 5G in-vehicle
+ In 2024, we ranked first in the industry in terms of shipment volume of 5G in-vehicle
 modules, accounting for 35.1% of the global market share.
 – 192 –
 
@@ -7409,7 +7409,7 @@ enhances our talent pool.
 OUR STRATEGIES
 Continue Investing in Technology R&D to Drive Product Iteration and Industry Expansion
 Improve the Product Portfolio in Existing Markets
-(cid:129) We plan to further advance the technological capabilities of our 5G data transmission
+ We plan to further advance the technological capabilities of our 5G data transmission
 modules and smart modules to better meet the demand for new technologies and products
 from key customers, such as those in the ICV and overseas operators. To achieve this, we are
 actively advancing the development of cost-efficient 5G-RedCap modules to meet the
@@ -7417,7 +7417,7 @@ growing demand for 5G transmission products with competitive pricing. Additional
 developing modules and mobile broadband products that support millimeter wave technology
 to address specific markets, such as Australia, Thailand, India and Finland, which widely
 adopt millimeter wave technology.
-(cid:129) In overseas markets, the demand for regular smart modules and high-computing-power smart
+ In overseas markets, the demand for regular smart modules and high-computing-power smart
 modules remains underdeveloped. We intend to address this gap by offering a more
 comprehensive portfolio of smart module products to better meet the needs of overseas
 customers for smart applications. For example, we plan to introduce smart module products
@@ -7441,7 +7441,7 @@ BUSINESS
 deployment by offering customers with AI toolkits that simplify the software environment
 setup process, thus reducing development costs and providing customers with deployment and
 adaptation services for on-device AI models for diverse scenarios and external devices.
-(cid:129) We plan to build a more robust and flexible sales network by attracting more quality
+ We plan to build a more robust and flexible sales network by attracting more quality
 customers in ICV, general IoT and mobile broadband and other sectors to further diversify
 our customer base and provide our wireless communication module products to them.
 Strengthen R&D Efforts in On-Device AI to Capture Emerging Industry Growth Opportunities
@@ -7459,7 +7459,7 @@ complex architecture, integrated storage and computing technologies and on-devic
 applications.
 Build and Strengthen Global Sales and Supply Chain Networks to Accelerate International
 Expansion
-(cid:129) Global Sales Network Expansion: We plan to enhance our global sales network by recruiting
+ Global Sales Network Expansion: We plan to enhance our global sales network by recruiting
 additional personnel for our sales, marketing and customer service teams the construction of a
 global sales network, and expanding our coverage of overseas markets. Through increased
 sales efforts and product exports and development of customized products with our global
@@ -7477,24 +7477,24 @@ BUSINESS
 Ltd. was incorporated to sell, marketing and promote our products in Japan, utilizing our
 strengths in production and technologies. Salient terms of the joint venture agreement (the
 “JVA”) include:
-(cid:129) Forming of the JVC: The joint venture partners (namely Zhongge Shanghai and Meiko
+ Forming of the JVC: The joint venture partners (namely Zhongge Shanghai and Meiko
 Electronics Co., Ltd., a company duly organized and existing under the laws of Japan,
 collectively, the “JVP”) shall make capital contributions to the JVC in accordance with
 their respective shareholding ratios of 50% and 50%.
-(cid:129) Roles and Responsibilities of Parties: The JVP shall provide services to the JVC
+ Roles and Responsibilities of Parties: The JVP shall provide services to the JVC
 pursuant to the JVA. Specifically:
-(cid:129) Meiko Electronics Co., Ltd. shall provide to the JVC support for sales of the
+ Meiko Electronics Co., Ltd. shall provide to the JVC support for sales of the
 products by utilizing its sales network in Japan and back-office support services,
 such as services related to accounting, legal and IT management; and
-(cid:129) Zhongge Shanghai shall provide to the JVC the products and technical or other
+ Zhongge Shanghai shall provide to the JVC the products and technical or other
 information on the products reasonably necessary for their sales in Japan, and
 provide to the JVC’s customer with technical support upon request by Meiko
 Electronics Co., Ltd. or the JVC.
-(cid:129) Termination: The JVA may be terminated upon the fulfillment of specified terms and
+ Termination: The JVA may be terminated upon the fulfillment of specified terms and
 conditions as stipulated therein. For example, the JVC shall terminate upon mutual
 written agreement by the JVP. Certain major clauses, such as clauses of interpretation,
 indemnification and confidentiality, shall survive the termination of the JVA.
-(cid:129) Global Supply Chain System Strengthening to Support International Customers: We
+ Global Supply Chain System Strengthening to Support International Customers: We
 aim to consolidate relationships with our existing supply chain partners and also
 actively expand our global supply chain resources of raw material suppliers, EMS
 providers and logistics service providers. Through these efforts, we intend to optimize
@@ -7531,30 +7531,30 @@ and solutions.
 The following table sets forth a summarized comparison of our modules.
 Product Keyfeaturesandfunctions Keycomponents
 (i) Smart module:
-(a) Regular smart module. . (cid:129) Equipped with smart operating systems (cid:129) SoC;
-such asAndroid; (cid:129) Memory chip(3);
-(cid:129) Supports features such as multi-media, (cid:129) Radio frequency chip(4);
-multi-camera and multi-display; and (cid:129) PCB(5); and
-(cid:129) Computing capability at lower than 8 (cid:129) Power management chip(6)
+(a) Regular smart module. . Equipped with smart operating systems SoC;
+such asAndroid; Memory chip(3);
+ Supports features such as multi-media, Radio frequency chip(4);
+multi-camera and multi-display; and PCB(5); and
+ Computing capability at lower than 8 Power management chip(6)
 TOPS(1)
 – 199 –
 
 === PAGE 211 ===
 BUSINESS
 Product Keyfeaturesandfunctions Keycomponents
-(b) High-computing-power (cid:129) Equipped with smart operating systems (cid:129) SoC with stronger NPU andAI
+(b) High-computing-power Equipped with smart operating systems SoC with stronger NPU andAI
 smart module. . . . . . . . such asAndroid; acceleration performance;
-(cid:129) More suitable for deployment of advanced (cid:129) Memory chip;
-AI models (especially on local devices) (cid:129) Radio frequency chip;
-that require high computing power and (cid:129) PCB; and
-large memory ; and (cid:129) Power management chip
-(cid:129) Computing capability at equal to or higher
+ More suitable for deployment of advanced Memory chip;
+AI models (especially on local devices) Radio frequency chip;
+that require high computing power and PCB; and
+large memory ; and Power management chip
+ Computing capability at equal to or higher
 than 8 TOPS
-(ii) Data transmission (cid:129) Cellular wireless connection from 2G to (cid:129) Baseband chip(7);
-module: . . . . . . . . . . . 5G(2); (cid:129) Memory chip;
-(cid:129) Not equipped with smart operating systems (cid:129) Radio frequency chip;
-likeAndroid; and (cid:129) PCB; and
-(cid:129) No high computing power capability, and (cid:129) Power management chip
+(ii) Data transmission Cellular wireless connection from 2G to Baseband chip(7);
+module: . . . . . . . . . . . 5G(2); Memory chip;
+ Not equipped with smart operating systems Radio frequency chip;
+likeAndroid; and PCB; and
+ No high computing power capability, and Power management chip
 typically not selected for their computing
 power capability
 Notes:
@@ -7586,12 +7586,12 @@ formed by integrating additional software and hardware based on our modules, tai
 specific requirements of our customers.
 Our products are designed with a high degree of customization to ensure integration with
 end-product components and systems. Our customization efforts include, for instance:
-(cid:129) Hardware Customization: Tailoring interfaces and circuit designs to ensure the
+ Hardware Customization: Tailoring interfaces and circuit designs to ensure the
 realization of specific requirements of customers and applications.
-(cid:129) Software Development: Adapting operating systems, developing drivers and
+ Software Development: Adapting operating systems, developing drivers and
 implementing application-specific logic to ensure compatibility with customer systems
 and platforms.
-(cid:129) Production: Making sure the manufacturing processes satisfy industry-specific
+ Production: Making sure the manufacturing processes satisfy industry-specific
 requirements, such as automotive-grade standards.
 These customization capabilities allow us to deliver integrated, high-performance solutions
 tailored to diverse customer needs. They represent value-add beyond the provision of hardware, as
@@ -7646,13 +7646,13 @@ interfaces to support multimedia, and they are not typically selected for their 
 because their computing power is less than 8 TOPS. The following picture illustrates one of our
 regular smart module products:
 Our regular smart modules have the following key features:
-(cid:129) Customization: Our regular smart modules are embedded with operating systems that
+ Customization: Our regular smart modules are embedded with operating systems that
 support the execution of customized software applications on local devices.
-(cid:129) Multimedia Capabilities: Our regular smart modules support multimedia features such as
+ Multimedia Capabilities: Our regular smart modules support multimedia features such as
 high-resolution streaming, 3D rendering, multi-camera, multi-display and interactive
 display. Built on SoCs, our regular smart modules deliver powerful multimedia
 processing with optimize latency and power consumption.
-(cid:129) Connectivity: Our smart modules support a wide range of high-speed connectivity
+ Connectivity: Our smart modules support a wide range of high-speed connectivity
 standards, which may include 4G and 5G, facilitating robust and adaptable network
 performance across diverse deployment scenarios.
 We also provide solutions based on our regular smart modules. The below case study
@@ -7664,15 +7664,15 @@ BUSINESS
 Case Study: Our 5G + Wi-Fi 7 Smart Handheld Device Solution
 Application sector: General IoT
 Application scenarios: Production facilities, warehousing, retail and hospital, among others
-Features: (cid:129) 5G cellular wireless communication and Wi-Fi 7 transmission
+Features: 5G cellular wireless communication and Wi-Fi 7 transmission
 technology;
-(cid:129) High-frequency radio-frequency identification technology;
-(cid:129) Equipped with a scanning engine for scanning of QR codes or
+ High-frequency radio-frequency identification technology;
+ Equipped with a scanning engine for scanning of QR codes or
 barcodes to quickly retrieve, upload, and process information;
-(cid:129) Accurate and real-time data transmission that enhances inventory
+ Accurate and real-time data transmission that enhances inventory
 efficiency and management;
-(cid:129) Enhanced water and dust resistance; and
-(cid:129) 6 TOPS on-device computing power
+ Enhanced water and dust resistance; and
+ 6 TOPS on-device computing power
 The following picture illustrates our 5G + Wi-Fi 7 smart handheld device solution:
 our module
 High-Computing-Power Smart Modules and Solutions
@@ -7694,14 +7694,14 @@ Wi-Fi or gigabit ethernet. Our high-computing-power smart modules can be broadly
 robotics, servers, AI retail, cloud gaming, AR/VR and industrial visual inspection. The following
 picture illustrates one of our high-computing-power smart module products:
 Our high-computing-power smart modules have the following key features:
-(cid:129) High Computing Power: Our high-computing-power smart modules utilize the
+ High Computing Power: Our high-computing-power smart modules utilize the
 computing power of CPU, GPU and NPU units in advanced SoC to run data-intensive
 tasks such as facial recognition, real-time video analytics and natural language
 processing on local devices. These capabilities make our high-computing-power smart
 modules ideal for applications that require on-device accelerated data-processing
 without reliance on cloud access. As of the Latest Practicable Date, we had launched
 high-computing-power smart modules that had computing capability of up to 100 TOPS.
-(cid:129) Support of Generative AI Models: Our high-computing-power smart modules are able to
+ Support of Generative AI Models: Our high-computing-power smart modules are able to
 support the deployment and operation of on-device versions of various prevailing AI
 models. Our high-computing-power smart modules feature (i) multiple smart operating
 systems such as Android; (ii) built-in tools such as platforms that facilitate
@@ -7720,14 +7720,14 @@ Case Study: AIMO Pro — A Personalized Portable Computing Platform with up to 4
 Computing Power
 Application sector: General IoT
 Application scenarios: Office, home, school and new retail, among others
-Features: (cid:129) A personalized computing platform;
-(cid:129) 48 TOPS computing power;
-(cid:129) Can support the deployment and operation of on-device versions
+Features: A personalized computing platform;
+ 48 TOPS computing power;
+ Can support the deployment and operation of on-device versions
 of prevailing AI models;
-(cid:129) Local data processing to offer data protection and privacy during
+ Local data processing to offer data protection and privacy during
 data transmission;
-(cid:129) High-frequency radio-frequency identification technology; and
-(cid:129) Compact size for easy deployment
+ High-frequency radio-frequency identification technology; and
+ Compact size for easy deployment
 The following picture illustrates our AIMO Pro:
 our module
 As of the Latest Practicable Date, our AIMO Pro product was in the market promotion phase
@@ -7743,17 +7743,17 @@ and efficient data exchange across networks, data transmission modules enable (i
 transmission; and (ii) secure data transfer. The following picture illustrates one of our data
 transmission module products:
 Our data transmission modules have the following key features:
-(cid:129) High performance: Our data transmission modules support high-speed download and
+ High performance: Our data transmission modules support high-speed download and
 upload, and high-bandwidth applications that require rapid transfer of large volumes of
 data with low latency and high reliability. For instance, our data transmission module
 provide the bandwidth that are compatible with the networks of multiple carriers to
 improve network capacity and user experience.
-(cid:129) Power efficiency: Based on our independently developed power efficiency control
+ Power efficiency: Based on our independently developed power efficiency control
 technology and adaptive low-power-mode design, our data transmission modules can
 transfer large volumes of data with low power consumption. This power efficiency
 feature enhances the performance, capacity and compatibility of IoT devices in the
 general IoT sector where our data transmission modules are applied.
-(cid:129) Broad compatibility: Telecom companies may use different frequency bands,
+ Broad compatibility: Telecom companies may use different frequency bands,
 communication standards and testing protocols of their 4G and 5G networks. These
 differences pose challenges for module product compatibility in different markets. We
 designed our data transmission modules such that they support a broad range of
@@ -7770,11 +7770,11 @@ Case Study: Our 5G-A mmWave Mobile Wi-Fi Solution
 Application sector: Wireless broadband
 Application scenarios: Office meetings, outdoor streaming and emergency communication,
 among others
-Features: (cid:129) Accelerates 5G-A terminal adoption across diverse network
+Features: Accelerates 5G-A terminal adoption across diverse network
 scenarios;
-(cid:129) Peak download speeds at 10Gbps with Sub-6 and mmWave
+ Peak download speeds at 10Gbps with Sub-6 and mmWave
 frequency; and
-(cid:129) Advanced thermal management, optimized antenna design and
+ Advanced thermal management, optimized antenna design and
 intelligent power-saving mechanisms
 The following picture illustrates one of our 5G-A mmWave Mobile Wi-Fi solutions:
 Others
@@ -7796,26 +7796,26 @@ recognized standard-setting organizations such as 3GPP. It is an industry-wide p
 manufacturers to develop and disclose product performance in accordance to these indicators.
 During the Track Record Period, we complied with these industry standards in the design and
 development of our products in all material respects.
-(cid:129) Data Transmission Modules: the main indicators include network standard
+ Data Transmission Modules: the main indicators include network standard
 compatibility, power consumption, transmission speed and reception sensitivity.
-(cid:129) Regular Smart modules: the main indicators include CPU architecture, memory
+ Regular Smart modules: the main indicators include CPU architecture, memory
 configuration, video encoding/decoding capabilities and operating system support.
-(cid:129) High-computing-power smart modules: the main indicators include computing power
+ High-computing-power smart modules: the main indicators include computing power
 (number of TOPS) and power efficiency.
 APPLICATION OF OUR PRODUCTS AND SOLUTIONS
 Our products and solutions are widely used across various applications sectors, including (i)
 general IoT; (ii) ICV; and (iii) wireless broadband, as illustrated in the table below.
 Application Sector KeyApplication Scenario
-General IoT. . . . . . . . . . . . . . . (cid:129) Smart retail devices(1)
-(cid:129) Logistics(2)
-(cid:129) Sharing economy(3)
-(cid:129) Consumer IoT(4)
-(cid:129) Industrial IoT(5)
-(cid:129) Other emerging application scenarios(6)
-ICV. . . . . . . . . . . . . . . . . . . . . (cid:129) T-Box
-(cid:129) Intelligent cockpit
-Wireless broadband . . . . . . . . . (cid:129) 4G and 5G FWA(7)
-(cid:129) MBB(8)
+General IoT. . . . . . . . . . . . . . . Smart retail devices(1)
+ Logistics(2)
+ Sharing economy(3)
+ Consumer IoT(4)
+ Industrial IoT(5)
+ Other emerging application scenarios(6)
+ICV. . . . . . . . . . . . . . . . . . . . . T-Box
+ Intelligent cockpit
+Wireless broadband . . . . . . . . . 4G and 5G FWA(7)
+ MBB(8)
 Notes:
 (1) Including products such as POS machines and checkout machines.
 (2) Including products such as 5G code-scanner smart PDAand cold chain logistics smart handheld PDA.
@@ -7971,17 +7971,17 @@ connection.
 BUSINESS
 In addition, we invest in research and development to expand the application sectors of our
 modules and solutions. We have developed modules and solutions in various scenarios such as:
-(cid:129) a module that incorporated the SoC by a leading technology company. The module
+ a module that incorporated the SoC by a leading technology company. The module
 could be used for the control, sensing, decision-making and speech interaction of robots;
 and
-(cid:129) modules used for the provision of computing power for the AR glasses of a renowned
+ modules used for the provision of computing power for the AR glasses of a renowned
 AR glass provider.
 The following sets forth selected examples of how our modules function in certain
 applications scenarios and interact with other components in an end-product or system:
 Case Study 1: POS Machine (General IoT)
 Our smart modules serve as the core processing and communication component in POS
 machines by integrating multiple functions critical to their operation:
-(cid:129) Functions Provided by Our Module:
+ Functions Provided by Our Module:
 — Network Connectivity: The module integrates 4G/5G baseband chips, enabling the
 POS machine to connect to cellular networks for secure real-time transaction
 processing and transaction data transmission.
@@ -7998,7 +7998,7 @@ security standards.
 
 === PAGE 226 ===
 BUSINESS
-(cid:129) Functions of Other Components: In the POS machine, besides our module, there are
+ Functions of Other Components: In the POS machine, besides our module, there are
 also other components such as security chips or peripheral controllers. For example:
 — Security Chips: These are specialized components designed for storing encryption
 keys and executing cryptographic algorithms but lack general processing
@@ -8013,7 +8013,7 @@ NFC, magnetic stripe or IC card interactions. They typically include limited log
 or a basic MCU to process low-level interface protocols. Our smart module
 retrieves the processed card data from these chips through standard interfaces and
 coordinates subsequent operations.
-(cid:129) Integration of Our Module with Other Components: Our smart module integrates with
+ Integration of Our Module with Other Components: Our smart module integrates with
 other components of the POS machine via industry-standard interfaces to enable
 communication and data exchange. For example, it interacts with security chips for data
 encryption, controls the touchscreen via a standard interface and processes data from
@@ -8021,7 +8021,7 @@ barcode scanners via standard protocols.
 Case Study 2: Intelligent Cockpit (ICV)
 Our high-computing-power smart modules are the core processing units in intelligent
 cockpits, handling complex data processing and enabling advanced interactive features.
-(cid:129) Functions Provided by Our Module:
+ Functions Provided by Our Module:
 — High-Performance Computing: The module integrates a high-performance SoC
 with CPU, GPU, and NPU/AI engines to support real-time, resource-intensive tasks
 such as 3D rendering, driver monitoring and natural language processing.
@@ -8034,23 +8034,23 @@ BUSINESS
 — AI and Multimedia Processing: The module processes data from multiple sensors
 (for example, cameras and microphones) and provides AI-driven functionalities,
 such as:
-(cid:129) Multi-Screen Display: The module is capable of driving multiple
+ Multi-Screen Display: The module is capable of driving multiple
 high-definition screens in the cockpit. It supports smooth rendering of
 navigation systems, 3D vehicle models and video streaming.
-(cid:129) Sensor Data Processing: It processes data from multiple inputs, such as
+ Sensor Data Processing: It processes data from multiple inputs, such as
 driver-monitoring cameras, gesture recognition systems, surround-view
 cameras, microphones and radar signals, to provide comprehensive situational
 awareness and intent detection.
-(cid:129) Natural Language Assistant: The computing power of the module supports
+ Natural Language Assistant: The computing power of the module supports
 advanced voice assistants capable of understanding complex commands and
 maintaining context-aware conversations.
-(cid:129) Smart Services: Through the support of the module, the intelligent cockpit
+ Smart Services: Through the support of the module, the intelligent cockpit
 generates actionable suggestions based on user habits and real-time contexts,
 such as adjusting navigation routes.
-(cid:129) AI-Powered Image Processing: The module enhances the visual experience by
+ AI-Powered Image Processing: The module enhances the visual experience by
 rendering real-time road conditions, creating virtual assistant avatars or
 optimizing low-light images for better clarity.
-(cid:129) Functions of Other Components: Examples of other components in an intelligent
+ Functions of Other Components: Examples of other components in an intelligent
 cockpit include:
 — Video Serializer/Deserializer Chips: These chips handle raw video signal
 transmission from cameras but lack the computational power to process or analyze
@@ -8058,7 +8058,7 @@ the data. The smart module processes camera data instead.
 — Audio Chips: While audio coding/decoding chips process raw sound signals, the
 smart module integrates these outputs with AI-driven voice recognition and
 enhancement features.
-(cid:129) Integration with Other Components: Our module connects with cameras, displays and
+ Integration with Other Components: Our module connects with cameras, displays and
 sensors through industry-standard interfaces. It also connects with in-vehicle networks
 through commonly used protocols to ensure data exchange with other vehicle systems.
 – 216 –
@@ -8070,7 +8070,7 @@ Mobile WiFi terminals are a type of wireless broadband product designed to provi
 high-speed internet access by converting 4G/5G network signals into WiFi signals. These devices
 are commonly used in scenarios such as international travel, where users use mobile WiFi
 terminals to connect their smartphones, PCs or other devices to the internet via WiFi.
-(cid:129) Functions Provided by Our Module:
+ Functions Provided by Our Module:
 — Communication: our data transmission module acts as the central component of the
 mobile WiFi terminal, enabling connectivity to 4G/5G networks provided by
 telecommunication operators.
@@ -8079,7 +8079,7 @@ signals from the telecom network and ensures stable transmission to the device�
 WiFi chip for further processing.
 — Power Optimization: our module’s integrated power management system ensures
 efficient energy use, extending battery life while maintaining stable connectivity.
-(cid:129) Functions of Other Components: other components in the mobile WiFi terminal
+ Functions of Other Components: other components in the mobile WiFi terminal
 include:
 — WiFi Chip: the WiFi chip converts the 4G/5G signals received by the
 communication module into WiFi signals, enabling other devices, such as
@@ -8089,7 +8089,7 @@ It ensures reliable signal reception and transmission while enhancing the streng
 and quality of the communication signals.
 — SIM Card: the SIM card provides authentication for accessing telecommunication
 operators’ networks.
-(cid:129) Integration of Our Module with Other Components: Our data transmission module
+ Integration of Our Module with Other Components: Our data transmission module
 integrates with the other components of the Mobile WiFi terminal through
 industry-standard interfaces and protocols, enabling data transmission and device
 functionality. This integration allows the Mobile WiFi terminal to deliver high-speed,
@@ -8142,10 +8142,10 @@ Upstream Midstream Downstream
 Upstream: Raw Material Suppliers
 Upstream suppliers primarily provide key components and raw materials essential for the
 design and manufacture of wireless communication modules. These suppliers include:
-(cid:129) Chip Providers: Provide chips such as (i) baseband chips; (ii) radio frequency chips;
+ Chip Providers: Provide chips such as (i) baseband chips; (ii) radio frequency chips;
 (iii) memory chips; (iv) SoCs, which serve as the core communication and processing
 units of our wireless communication modules.
-(cid:129) PCB and Other Component Providers: Supply PCBs and structural components based on
+ PCB and Other Component Providers: Supply PCBs and structural components based on
 our detailed product specifications.
 Upstream raw material suppliers also provide technical support for the materials they supply,
 allowing us to integrate these into our module designs effectively.
@@ -8157,7 +8157,7 @@ power for end customers. These functionalities reduce the R&D burden for downstr
 customers, allowing them to focus on designing and manufacturing their own end products without
 having to develop foundational technologies such as wireless communication, hardware computing
 power and software configuration. Our primary contribution within the value chain includes:
-(cid:129) Module Design and Development: We design and develop various wireless
+ Module Design and Development: We design and develop various wireless
 communication modules to meet the demand and requirement of end customers. The
 design and development process involves:
 o Designing hardware architecture to integrate chips, PCBs and other components
@@ -8172,7 +8172,7 @@ provide tailored module solutions that meet specific technical and operational
 requirements, catering to diverse applications across industries.
 o Optimizing the modules for performance, reliability, and compatibility with
 downstream applications.
-(cid:129) Enabling the Core Functionalities of Our Modules: The primary functions of our
+ Enabling the Core Functionalities of Our Modules: The primary functions of our
 modules include:
 o Enabling devices to connect to cellular networks, Wi-Fi or other connection
 methods.
@@ -8185,7 +8185,7 @@ Android) and the software and hardware support for high-computing power
 applications such as AI models. Although we do not self-develop the algorithms to
 be run for applications such as AI models, our products allow end customers to
 conveniently deploy and run their own algorithms directly on the modules.
-(cid:129) Manufacturing and Testing: We outsource the manufacturing of our modules to EMS
+ Manufacturing and Testing: We outsource the manufacturing of our modules to EMS
 providers. EMS providers produce and test the modules in accordance with our detailed
 manufacturing specifications and quality requirements. We oversee rigorous testing and
 validation processes, ensuring that the modules meet customer specifications and
@@ -8198,11 +8198,11 @@ Downstream: End Customers
 Downstream end customers include a range of manufacturers that integrate our wireless
 communication modules into their end products for various end-use applications. These end
 customers are primarily in the sectors of general IoT, ICV and wireless broadband. For instance:
-(cid:129) Device manufacturers in the general IoT sector use our modules in devices they make,
+ Device manufacturers in the general IoT sector use our modules in devices they make,
 such as POS terminals. These manufacturers integrate the modules with other
 components (such as displays and outer casings) and develop application-specific
 software (such as payment systems) to create their end products.
-(cid:129) Manufacturers in the ICV sector use our modules as critical components in T-Boxes and
+ Manufacturers in the ICV sector use our modules as critical components in T-Boxes and
 intelligent cockpits. For example, our modules are integrated into intelligent cockpit
 controllers by Tier-1 automotive suppliers. Our modules’ connectivity, external device
 support and embedded software environments enable features such as in-vehicle
@@ -8362,33 +8362,33 @@ BUSINESS
 R&D Process
 We have established a comprehensive process to ensure strict control and oversight of our
 R&D activities. This process encompasses the following stages:
-(cid:129) Evaluation. During the evaluation stage, we gather market and customer requirements to
+ Evaluation. During the evaluation stage, we gather market and customer requirements to
 identify the key features, technical specifications and objectives of the R&D product. A
 comprehensive technical feasibility analysis is conducted to determine the overall
 hardware and software solutions, evaluate potential risks and develop corresponding
 mitigation measures. This ensures that the product concept meets customer expectations
 and is technically viable.
-(cid:129) Project Initiation. Once the evaluation is complete, we finalize the product
+ Project Initiation. Once the evaluation is complete, we finalize the product
 specifications and assemble a dedicated project team. A detailed project plan is created,
 covering timelines, cost controls and quality assurance measures. We establish clear
 objectives, deliverables, quality standards and financial considerations to guide the
 project execution.
-(cid:129) Design. Following project initiation, the product specifications are translated into
+ Design. Following project initiation, the product specifications are translated into
 internal requirements and distributed across various departments. After internal reviews,
 the design process begins, covering hardware, software and structural design. Various
 departments collaborate to ensure that product development aligns with project plans
 and quality requirements.
-(cid:129) Pilot Production and Validation. Product enters pilot production, with all customer
+ Pilot Production and Validation. Product enters pilot production, with all customer
 requirements integrated, functionality fully realized and internal testing completed.
 Comprehensive validation is then conducted to ensure compliance with industry
 standards and to verify functionality, performance, compatibility, safety and reliability.
 Through this process, we resolve any issues identified during pilot runs. Products must
 meet predefined hardware and software quality standards before advancing to the next
 stage.
-(cid:129) Small-Scale Production. After pilot production and validation, the product enters
+ Small-Scale Production. After pilot production and validation, the product enters
 small-scale production. At this stage, the product’s structural components and
 manufacturing processes are refined to meet the requirements for mass production.
-(cid:129) Mass Production and Maintenance. Once the product reaches the mass production stage,
+ Mass Production and Maintenance. Once the product reaches the mass production stage,
 we work to ensure its long-term reliability and performance. We thoroughly analyze
 early production issues and identify causes and implement corrective measures to reduce
 the failure rate throughout the product lifecycle.
@@ -8535,15 +8535,15 @@ We typically enter into framework direct sales agreements with our direct sales 
 BUSINESS
 Salient terms of our framework direct sales agreements with direct sales customers are set out
 below:
-(cid:129) Term and Termination: The duration of the direct sales agreements with our direct sales
+ Term and Termination: The duration of the direct sales agreements with our direct sales
 customers is typically one to three years.
-(cid:129) Payment and Credit Term: We generally grant a credit period to our direct sales
+ Payment and Credit Term: We generally grant a credit period to our direct sales
 customers of approximately 30 days to 90 days from the date of delivery.
-(cid:129) Shipment and Delivery: We are responsible for delivering our products to locations
+ Shipment and Delivery: We are responsible for delivering our products to locations
 designated by our direct sales customers.
-(cid:129) Product Return Arrangements: We typically do not allow our direct sales customers to
+ Product Return Arrangements: We typically do not allow our direct sales customers to
 return products to us except for product quality issues after they accept the delivery.
-(cid:129) Product Warranty and Assurance: We typically provide a product warranty period of
+ Product Warranty and Assurance: We typically provide a product warranty period of
 three years for customers in the automotive industry and one year for other customers.
 Our Distributorship
 Overview
@@ -8657,18 +8657,18 @@ unresolved disputes or lawsuits with our distributors.
 Principal Contractual Terms with Distributors
 During the Track Record Period, we generally entered into framework distribution agreements
 with each of our distributors. The key terms of our distribution agreements included the following:
-(cid:129) Term: The term of the distribution agreement is typically one year, subject to renewal
+ Term: The term of the distribution agreement is typically one year, subject to renewal
 based on our evaluation of our distributors.
-(cid:129) Pricing policy: A fixed price is provided in each purchase order under the framework
+ Pricing policy: A fixed price is provided in each purchase order under the framework
 distribution agreement.
-(cid:129) Payment and Credit Term: We generally require our distributors to make prepayments
+ Payment and Credit Term: We generally require our distributors to make prepayments
 before our shipment. We may grant a credit period of 30 days to some of our long-term
 distributors.
-(cid:129) Shipment and delivery: We are responsible for delivering our products to locations
+ Shipment and delivery: We are responsible for delivering our products to locations
 designated by our distributors or end customers.
-(cid:129) Product Return Arrangements: We typically do not allow our distributors to return
+ Product Return Arrangements: We typically do not allow our distributors to return
 products to us except for product quality issues after they accept the delivery.
-(cid:129) Product Warranty and Assurance: We typically provide a product warranty period of one
+ Product Warranty and Assurance: We typically provide a product warranty period of one
 year.
 – 234 –
 
@@ -9012,10 +9012,10 @@ Arrangements; and (iii) the pricing and payment terms of the agreements we enter
 Relevant Customers were in line with other customers who did not use the Third-party Payments.
 During the Track Record Period, we implemented measures to monitor and manage
 Third-Party Payment Arrangements:
-(cid:129) Verification of genuine transactions: We required Relevant Customers to provide
+ Verification of genuine transactions: We required Relevant Customers to provide
 supporting information, including payor account details, payment information and
 payment agreements to confirm the genuineness of the transactions;
-(cid:129) Fraud and money laundering prevention: We conducted know-your-customer
+ Fraud and money laundering prevention: We conducted know-your-customer
 procedures, held regular business meetings to understand customer operations, and
 maintained active communication with customers.
 To the best of our knowledge, during the Track Record Period and up to the Latest
@@ -9047,15 +9047,15 @@ relating to Third-Party Payment Arrangements.”
 Enhanced Internal Control
 To mitigate risks associated with Third-Party Payment Arrangements, we have implemented
 and strengthened various internal control measures, including:
-(cid:129) Initiating rectification measures and informing employees of the enhanced internal
+ Initiating rectification measures and informing employees of the enhanced internal
 control policies;
-(cid:129) Requiring employees to avoid proactively initiating Third-party Payment Arrangements,
+ Requiring employees to avoid proactively initiating Third-party Payment Arrangements,
 informing customers that Third-party Payment Arrangements are no longer accepted, and
 adhering to policies for terminating such practices;
-(cid:129) Mandating employees to collect customers’ bank account details, including account
+ Mandating employees to collect customers’ bank account details, including account
 names, during contract signing and ensuring all payments are made using the contracting
 party’s account; and
-(cid:129) Tasking the finance department with regular reviews of internal operations, including
+ Tasking the finance department with regular reviews of internal operations, including
 sample contract checks to verify that payers match the contracting parties, among other
 measures.
 Based on the review of the implementation of the abovementioned measures, our Directors
@@ -9099,7 +9099,7 @@ modules and solutions, such as handheld devices, the production period is usuall
 (3) Delivery time of our modules and solutions vary depending on the destination and delivery method. For example,
 delivery to Chinese mainland by air may take one to two days, while delivery to international destinations by cargo
 may take up to 20 to 30 days.
-(cid:129) Procurement plan: Our procurement team develops procurement plans based on
+ Procurement plan: Our procurement team develops procurement plans based on
 historical demand, sales forecasts, inventory levels and market expansion strategies. We
 also take into account various factors including the manufacturing lead time and
 production schedules of our EMS providers.
@@ -9107,7 +9107,7 @@ production schedules of our EMS providers.
 
 === PAGE 258 ===
 BUSINESS
-(cid:129) Outsourced manufacture: Once procurement plans are finalized, we issue purchase
+ Outsourced manufacture: Once procurement plans are finalized, we issue purchase
 orders to our raw material suppliers and production orders to our EMS providers
 pursuant to procurement plans. Raw material suppliers deliver raw materials to our
 designated EMS providers and our EMS providers manufacture modules and solutions
@@ -9115,7 +9115,7 @@ according to specifications. Upon completion, our EMS providers test, inspect an
 warehouse our products and solutions. Our on-site quality control team stationed at the
 EMS provider’s manufacturing facility, also closely manages and monitor the process to
 ensure the manufactured modules and solutions conform to our standards.
-(cid:129) Inspection and delivery: After our EMS provider warehouse the manufactured modules
+ Inspection and delivery: After our EMS provider warehouse the manufactured modules
 and solutions, our quality control team conducts independent inspections and testing to
 ensure compliance with our quality standards and specifications. Once the products and
 solutions are approved, we generally arrange the shipping and delivery from our EMS
@@ -9178,22 +9178,22 @@ profit margin.
 BUSINESS
 According to Frost & Sullivan, the current round of price increases, caused by
 supply-demand dynamics, is expected to continue into the first half of 2026, for the reasons below:
-(cid:129) Supply-side Contraction: Major memory chip manufacturers have shifted production
+ Supply-side Contraction: Major memory chip manufacturers have shifted production
 capacity towards high-end memory chips, such as High Bandwidth Memory and
 high-end DDR5 memory required for AI servers, in pursuit of higher margins, which has
 squeezed the supply of traditional memory chips that we primarily procure.
-(cid:129) Demand-side Transformation: As AI transitions from the training phase to the inference
+ Demand-side Transformation: As AI transitions from the training phase to the inference
 phase, the demand for memory has significantly changed. There is rapid growth in
 demand for fast data access from cloud AI servers, as well as for larger memory
 capacities in end devices like AI PCs and AI phones.
-(cid:129) Inventory Cycle: After a prolonged period of price declines, inventory within the
+ Inventory Cycle: After a prolonged period of price declines, inventory within the
 industry chain had fallen to low levels. Once demand signals became clear, inventory
 replenishment by downstream manufacturers, combined with price increase expectations,
 created a reinforcing cycle that further exacerbated supply tightness.
 Our Mitigating Measures
 We have implemented a comprehensive strategy to manage the risks associated with
 semiconductor supply and price volatility:
-(cid:129) Supplier Base Diversification: We are committed to continuously diversifying our
+ Supplier Base Diversification: We are committed to continuously diversifying our
 supplier resources to enhance supply chain resilience. In 2022, 2023, 2024 and the nine
 months ended September 30, 2025, we had 18, 30, 34 and 27 baseband chip suppliers,
 respectively. For memory chips, while we source from major international
@@ -9220,7 +9220,7 @@ Period, the average procurement unit price of domestically sourced memory chips 
 less than half of that of imported memory chips. We believe that chips provided by
 domestic suppliers are generally comparable with that provided by international
 suppliers.
-(cid:129) Strategic Inventory and Supply Chain Management: We employ a proactive
+ Strategic Inventory and Supply Chain Management: We employ a proactive
 inventory management strategy to buffer against price fluctuations and potential supply
 tightness. We work closely with our customers to obtain rolling order forecasts, which
 allows us to plan our raw material procurement in advance. In addition, we maintain a
@@ -9248,12 +9248,12 @@ production costs.
 
 === PAGE 262 ===
 BUSINESS
-(cid:129) Long-term Partnerships with Suppliers: We proactively establish long-term
+ Long-term Partnerships with Suppliers: We proactively establish long-term
 partnership with high-quality chip suppliers to seek a stable supply of chips. In addition,
 we actively cooperate with suppliers in the debugging and validation of newly
 developed chips in order to obtain, in respect of such chips, priority access, supply
 assurance and/or preferential pricing.
-(cid:129) Customer Communication: We maintain close and transparent communication with our
+ Customer Communication: We maintain close and transparent communication with our
 customers regarding significant shifts in the cost of key components. Where
 commercially feasible and upon reaching an understanding with our customers, we seek
 to appropriately adjust the selling prices of our products to partially transfer the
@@ -9290,22 +9290,22 @@ end product materials, primarily including monitors, cameras and batteries from 
 suppliers. We generally enter into framework agreements with raw material suppliers, which set
 forth the general terms and conditions of purchase. Salient terms of the framework supply
 agreements with our raw material suppliers typically include:
-(cid:129) Term and termination: The framework agreement normally has an undetermined period,
+ Term and termination: The framework agreement normally has an undetermined period,
 which are subject to automatic renewal unless terminated by written notice. We are
 entitled to terminate the framework agreement upon 30-days’ written notice.
-(cid:129) Scope of supply: Our raw material suppliers primarily provide chips, electronic
+ Scope of supply: Our raw material suppliers primarily provide chips, electronic
 components and end product materials.
-(cid:129) Product specifications: We specify the product specification, price, quantity, delivery
+ Product specifications: We specify the product specification, price, quantity, delivery
 timeline and other detailed items in each purchase order we send to our suppliers.
-(cid:129) Logistics and risks transfer: The suppliers are typically responsible for the delivery of
+ Logistics and risks transfer: The suppliers are typically responsible for the delivery of
 raw materials to our designated location specified in each purchase order. The risk
 transfers to us after we complete inspection and confirm receipt of the products.
-(cid:129) Payment and credit terms: We are generally granted by our suppliers a credit term of
+ Payment and credit terms: We are generally granted by our suppliers a credit term of
 one to three months following the issuance of a letter of acceptance.
-(cid:129) Quality assurance: Suppliers generally grant a warranty period of one year. In the event
+ Quality assurance: Suppliers generally grant a warranty period of one year. In the event
 of a quality issue arising during the warranty period, the supplier is obliged to promptly
 respond and resolve the issue.
-(cid:129) Product return: We have the right to reject, replace or return products which are
+ Product return: We have the right to reject, replace or return products which are
 non-conforming with product quality standard, product specifications or quantity with
 the order placed.
 – 252 –
@@ -9324,13 +9324,13 @@ activities such as production design and R&D. During the Track Record Period, we
 abundant number of EMS providers that closely collaborated with us, and as a result, we did not
 rely on any particular EMS provider(s). Salient terms of the supply agreements with our EMS
 providers typically include:
-(cid:129) Scope of supply: EMS providers primarily manufacture the hardware in our products and
+ Scope of supply: EMS providers primarily manufacture the hardware in our products and
 solutions and provide related manufacturing services to us.
-(cid:129) Term and termination: We typically enter into framework agreement with a term of two
+ Term and termination: We typically enter into framework agreement with a term of two
 years, which may be automatically renewed unless otherwise terminated by mutual
 agreement. The framework agreements set out the general terms and conditions of
 cooperation. Individual purchase orders are then executed on an as needed basis.
-(cid:129) Capacity planning and line reservation: We provide EMS providers with estimated
+ Capacity planning and line reservation: We provide EMS providers with estimated
 annual production capacity needs based on our business plan annually and release
 monthly rolling forecasts to adjust production planning. We also require some of our
 EMS providers to reserve manufacturing capacity for a defined period which we may
@@ -9338,15 +9338,15 @@ adjust periodically, primarily to meet the customer’s demand for urgent or add
 orders. We allocate production orders based on EMS provider’s production capacity,
 geographic location (to ensure timely delivery to customers), service offer price and
 manufacturing and technical capability.
-(cid:129) Pricing and payment terms: Prices are determined based on production complexity,
+ Pricing and payment terms: Prices are determined based on production complexity,
 volume and market conditions, with payments structured through pre-agreed terms. Our
 suppliers generally grant us a credit period of 30 to 90 days.
-(cid:129) Logistics: EMS providers are responsible for timely delivery of our products.
+ Logistics: EMS providers are responsible for timely delivery of our products.
 – 253 –
 
 === PAGE 265 ===
 BUSINESS
-(cid:129) Quality assurance and warranty: EMS providers must meet our specified quality
+ Quality assurance and warranty: EMS providers must meet our specified quality
 requirements and are responsible for liabilities resulting from product defects. EMS
 providers typically offer us a warranty period of 18 months from delivery date.
 We have implemented a series of measures to prevent infringement on our intellectual
@@ -9497,7 +9497,7 @@ were reduced to generally ranging between 27.5% to 37.5%, as the trade tension e
 Exports
 The recent tariffs implemented by the U.S. on imports from China do not have any material
 and adverse impact on our direct and indirect sales to the U.S. for the following reasons:
-(cid:129) We sold few of our products to the U.S. In 2022, 2023, 2024 and the nine months ended
+ We sold few of our products to the U.S. In 2022, 2023, 2024 and the nine months ended
 September 30, 2025, revenue from the sales of our products to the U.S. accounted for
 4.6%, 3.4%, 7.6% and 8.5% of our total revenue, respectively. Pursuant to our direct
 sales agreements and distribution agreements, during the Track Record Period, we were
@@ -9519,7 +9519,7 @@ Given that the revenue contribution from the sales of our products to the U.S. w
 limited and some of our products were sold to the U.S. from outside China, the recent
 and further increase of tariffs implemented by the U.S. on imports from China will have
 limited impact on our business and results of operations as a whole.
-(cid:129) The impact of U.S. tariffs on demand from our customers is limited. During the Track
+ The impact of U.S. tariffs on demand from our customers is limited. During the Track
 Record Period and up to the Latest Practicable date, we had not experienced any
 material adverse changes in the order volume, price, payment, product exchange
 requests or logistic arrangements related to the sales of our modules and solutions to the
@@ -9537,7 +9537,7 @@ driven by the growing demand for smart modules and solutions in the IoT industry
 the growing demand for 5G data transmission modules and solutions in the wireless
 broadband industry; (iii) we continue to strengthen our market expansion efforts in the
 U.S., such as by participating in Consumer Electronics Show.
-(cid:129) We were generally not responsible for the U.S. tariffs on the modules and solutions we
+ We were generally not responsible for the U.S. tariffs on the modules and solutions we
 sold to customers. During the Track Record Period and up to the Latest Practicable
 Date, we were not responsible for the U.S. tariffs on the modules and solutions we sold
 to customers, because for the orders subject to U.S. tariffs, the agreed trade terms
@@ -9561,7 +9561,7 @@ solutions were exported.
 Imports
 The tariffs imposed by China on imports of U.S. origin do not have a material adverse impact
 on our business and results of operations for the following reasons:
-(cid:129) Our reliance on U.S. suppliers and raw materials of U.S. origin was limited. We
+ Our reliance on U.S. suppliers and raw materials of U.S. origin was limited. We
 structured our supply chain to minimize our reliance on U.S. suppliers and raw materials
 of U.S. origin. Most of our five largest suppliers in each period during the Track Record
 Period are distributors or manufacturers in the electronics industry and are based outside
@@ -9576,7 +9576,7 @@ collaborate with high-quality global suppliers to ensure the resilience and effi
 our supply chain. Accordingly, we do not expect tariffs and other export restrictions
 between China and the U.S. to pose a material adverse impact on our procurement and
 business operations.
-(cid:129) We sourced few raw materials of U.S. origin. In 2022, 2023, 2024 and the nine months
+ We sourced few raw materials of U.S. origin. In 2022, 2023, 2024 and the nine months
 ended September 30, 2025, our purchase of raw materials of U.S. origin was RMB9.5
 million, RMB9.3 million, RMB8.8 million and RMB8.9 million, accounting for 0.5%,
 0.5%, 0.4% and 0.4% of our cost of sales, respectively. Additionally, during the Track
@@ -9606,12 +9606,12 @@ operations or financial performance.
 Mitigating Measures
 In response to the potential impact of the tariff policies and other trade restrictions, we have
 implemented a series of mitigating measures.
-(cid:129) Diversify the source of raw materials. We had used and plan to increase the use of
+ Diversify the source of raw materials. We had used and plan to increase the use of
 domestically sourced raw materials as alternatives to the raw materials of U.S. origin we
 procure and use in our modules and solutions, thereby minimizing the risk of increased
 tariffs and other adverse trade restrictions on our supply chain and facilitating a stable
 and resilient production schedule of our modules and solutions.
-(cid:129) Diversify our collaboration with EMS providers. To mitigate the impact of tariff
+ Diversify our collaboration with EMS providers. To mitigate the impact of tariff
 policies and other trade restrictions, we had collaborated with EMS providers and
 maintained a pool of potential EMS providers located in jurisdictions not subject to
 significant tariff or other trade restrictions risks. Additionally, we plan to engage EMS
@@ -10025,7 +10025,7 @@ established a structured ESG governance framework that aligns with our long-term
 strategy. Our ESG governance structure consists of three levels, strategic, policy, and execution,
 covering our ESG working group, each with distinct roles and responsibilities, ensuring effective
 implementation of ESG initiatives.
-(cid:129) Strategy Level: ESG working group, comprised of a number of staff under our
+ Strategy Level: ESG working group, comprised of a number of staff under our
 integrated management center, is responsible for formulating overarching ESG
 objectives, reviewing and approving major ESG-related decisions, and ensuring ESG
 considerations are integrated into our business strategy. The Company has appointed
@@ -10036,7 +10036,7 @@ management center, which coordinates cross-functional ESG matters and supports t
 ESG working group in executing its ESG responsibilities. This structure ensures that our
 sustainability governance has clear leadership, centralized oversight, and organizational
 continuity.
-(cid:129) Policy Level: The ESG working group is responsible for formulating ESG-related
+ Policy Level: The ESG working group is responsible for formulating ESG-related
 policies and monitoring performance across environmental, social, and governance
 dimensions. Its key functions include conducting thematic studies on material ESG
 issues, proposing ESG development goals, identifying governance challenges. On the
@@ -10061,7 +10061,7 @@ including impact assessments and mitigation actions.
 Our manufacturing is outsourced and does not involve direct emissions or material
 greenhouse gas discharge; thus, its environmental footprint is minimal. Nevertheless, we
 have adopted precautionary controls and regulatory-compliant practices.
-(cid:129) Execution Level: The ESG working group is responsible for executing ESG-related
+ Execution Level: The ESG working group is responsible for executing ESG-related
 tasks and ensuring the implementation of ESG policies at the operational level. The
 working group organizes ESG coordinates company-wide ESG initiatives to ensure
 compliance with corporate sustainability goals. Through internal policies and operating
@@ -10117,23 +10117,23 @@ consultations to ensure a comprehensive understanding of potential risk exposure
 === PAGE 287 ===
 BUSINESS
 Our risk identification and assessment process integrate multiple dimensions:
-(cid:129) Regulatory compliance: We conduct regular reviews of national and local environmental
+ Regulatory compliance: We conduct regular reviews of national and local environmental
 regulations, ESG disclosure requirements, and industry best practices. Internal audits
 and cross-departmental evaluations help ensure our operations remain compliant with
 evolving standards. Despite our low direct environmental impact, we implement
 precautionary controls related to waste disposal, energy conservation, and emissions
 management;
-(cid:129) Strategic and operational risk mapping: We assess risks arising from climate volatility,
+ Strategic and operational risk mapping: We assess risks arising from climate volatility,
 data privacy, labor standards, and supply chain stability. Our business continuity
 planning integrates ESG scenarios such as policy tightening or reputational risks linked
 to environmental negligence. Operationally, we promote energy-saving behavior and
 proper waste handling to reduce underlying exposure;
-(cid:129) Stakeholder engagement: We regularly engage employees, suppliers, customers,
+ Stakeholder engagement: We regularly engage employees, suppliers, customers,
 investors, and regulatory authorities to gather feedback on ESG-related concerns.
 Internal training programs and external questionnaires are used to assess awareness gaps
 and risk perception. This feedback helps align our ESG priorities with stakeholder
 expectations;
-(cid:129) Integration into corporate governance: ESG risks are incorporated into our
+ Integration into corporate governance: ESG risks are incorporated into our
 enterprise-wide risk management and strategy-setting processes. Identified risks are
 reviewed by senior management and addressed through clear delegation and
 performance accountability. This ensures that ESG factors support operational resilience
@@ -10144,7 +10144,7 @@ ensuring compliance with regulatory requirements and alignment with industry bes
 ESG risk management framework is designed to proactively identify, assess, and address potential
 risks, integrating environmental, social, and governance considerations into our overall business
 strategy.
-(cid:129) Regulatory Compliance and ESG Monitoring: We regularly review and assess ESG
+ Regulatory Compliance and ESG Monitoring: We regularly review and assess ESG
 reports from comparable industry peers to ensure the timely identification of emerging
 ESG-related risks. We continuously monitor regulatory developments and update
 internal policies and management processes to maintain compliance with evolving
@@ -10153,7 +10153,7 @@ environmental and governance requirements.
 
 === PAGE 288 ===
 BUSINESS
-(cid:129) Environmental Risk Management: As a company that does not have its own
+ Environmental Risk Management: As a company that does not have its own
 manufacturing facility, our direct environmental impact is limited. Nevertheless, we
 have established formal controls through our Waste Management Procedure and
 Greenhouse Gas Emissions Control Procedure to manage environmental and
@@ -10163,7 +10163,7 @@ environmental trends and apply our Hazard Identification and Evaluation Control
 Procedure to identify potential climate-related risks. Based on identified risk levels,
 targeted mitigation measures are implemented and integrated into operational planning
 and staff training programs.
-(cid:129) Supply Chain and Third-Party Environmental Responsibility: We implement strict ESG
+ Supply Chain and Third-Party Environmental Responsibility: We implement strict ESG
 standards across our supplier base to manage environmental and social risks in our value
 chain. In accordance with the Supplier Management Procedure, we conduct ESG due
 diligence before onboarding new suppliers, requiring signed commitments to corporate
@@ -10192,19 +10192,19 @@ efficiency in office operations, promoting low-carbon initiatives, and implement
 energy-saving technologies. We continuously monitor and analyze energy consumption trends to
 improve operational efficiency and reduce environmental impact. To achieve our goal, we have in
 place the following measures:
-(cid:129) Implement energy conservation training and awareness programs to encourage
+ Implement energy conservation training and awareness programs to encourage
 employees to adopt sustainable practices.
-(cid:129) Reduce overall electricity consumption intensity (mWh per million revenue) by
+ Reduce overall electricity consumption intensity (mWh per million revenue) by
 optimizing energy use in office operations.
-(cid:129) Enforce strict air-conditioning and lighting control policies, conduct regular inspections
+ Enforce strict air-conditioning and lighting control policies, conduct regular inspections
 to prevent energy waste, and implement peak-hour electricity reduction strategies.
 Water Resource and Waste Management
 We place great importance on the conservation of water resources and the proper management
 of waste. We strictly comply with national environmental regulations and actively promote
 initiatives that improve water use efficiency and waste disposal practices, including:
-(cid:129) Source all water supply from municipal sources, with no significant direct or indirect
+ Source all water supply from municipal sources, with no significant direct or indirect
 impact from water extraction, consumption, drainage, or storage changes.
-(cid:129) Actively promote employee awareness campaigns on water conservation, conduct
+ Actively promote employee awareness campaigns on water conservation, conduct
 facility inspections to prevent leaks, and optimize water usage efficiency in office
 operations.
 As we do not engage in manufacturing activities, our operations do not generate hazardous or
@@ -10517,7 +10517,7 @@ providers, strategically procured key raw materials, to ensure the normal produc
 modules and solutions. Although some of our raw materials experienced a price increase or
 temporary shortage and some of our EMS providers experienced minor delays in their production,
 we did not experience any material disruptions in our supply chain.
-(cid:129) Although we observed relatively slight price fluctuations in certain raw materials due to
+ Although we observed relatively slight price fluctuations in certain raw materials due to
 global supply chain constraints during the pandemic, with respect to our SoC chip raw
 materials used in our main product models, price remained relatively stable from 2020
 through the third quarter of 2021, with some models even experiencing price decreases
@@ -10535,7 +10535,7 @@ impact on our overall profitability.
 
 === PAGE 299 ===
 BUSINESS
-(cid:129) Although some of our EMS providers faced minor delays, ranging from several days to
+ Although some of our EMS providers faced minor delays, ranging from several days to
 approximately one week, in their production schedules, we did not experience any
 material or prolonged production stoppages. Our strategic procurement and close
 coordination with EMS provider partners enabled us to secure sufficient supply to
@@ -11009,7 +11009,7 @@ Comparison between the nine months ended September 30, 2025 and the nine months
 ended September 30, 2024: Our revenue increased by 29.3% from RMB2,182.0 million in the nine
 months ended September 30, 2024 to RMB2,821.3 million in the nine months ended September 30,
 2025. Specifically:
-(cid:129) Smart modules and solutions: Revenue generated from sales of our smart modules and
+ Smart modules and solutions: Revenue generated from sales of our smart modules and
 solutions increased by 33.8% from RMB1,394.1 million in the nine months ended
 September 30, 2024 to RMB1,865.1 million in the nine months ended September 30,
 2025. Specifically:
@@ -11024,7 +11024,7 @@ from RMB751.6 million in the nine months ended September 30, 2024 to
 RMB900.0 million in the nine months ended September 30, 2025, primarily
 attributable to an increase in downstream demand in the ICV application sector,
 especially in the intelligent cockpit application scenario.
-(cid:129) Data transmission modules and solutions: Revenue generated from sales of our data
+ Data transmission modules and solutions: Revenue generated from sales of our data
 transmission modules and solutions increased by 26.3% from RMB691.6 million in the
 nine months ended September 30, 2024 to RMB873.4 million in the nine months ended
 September 30, 2025, primarily attributable to a 14.7% increase in the average selling
@@ -11040,13 +11040,13 @@ our expanded customer base. These 5G data transmission modules and solutions
 generally had a higher selling price because they had more advanced functions to enable
 5G connection, and, as a result, they were more expensive than other models of data
 transmission modules.
-(cid:129) Others: Revenue generated from sales of other products decreased by 14.1% from
+ Others: Revenue generated from sales of other products decreased by 14.1% from
 RMB96.4 million in the nine months ended September 30, 2024 to RMB82.8 million in
 the nine months ended September 30, 2025, primarily due to a decrease in the sales of
 electronic components.
 Comparison between 2024 and 2023: Our revenue increased by 37.0% from RMB2,147.3
 million in 2023 to RMB2,941.4 million in 2024. Specifically:
-(cid:129) Smart modules and solutions: Revenue generated from sales of our smart modules and
+ Smart modules and solutions: Revenue generated from sales of our smart modules and
 solutions increased by 51.9% from RMB1,218.4 million in 2023 to RMB1,850.7 million
 in 2024. Specifically:
 (i) Regular smart modules and solutions: Revenue generated from sales of our regular
@@ -11057,7 +11057,7 @@ of our high-computing-power smart modules and solutions increased by 217.9%
 from RMB320.3 million in 2023 to RMB1,018.1 million in 2024, primarily
 attributable to an increase in downstream demand in the ICV application sector,
 especially in the intelligent cockpit application scenario.
-(cid:129) Data transmission modules and solutions: Revenue generated from sales of our data
+ Data transmission modules and solutions: Revenue generated from sales of our data
 transmission modules and solutions increased by 15.3% from RMB830.6 million in 2023
 to RMB957.9 million in 2024, primarily attributable to a 21.5% increase in the average
 selling price of our data transmission modules from RMB91.2 per unit in 2023 to
@@ -11074,12 +11074,12 @@ FINANCIAL INFORMATION
 modules and solutions generally had a higher selling price because they had more
 advanced functions to enable 5G connection, and, as a result, they were more expensive
 than other models of data transmission modules.
-(cid:129) Others: Revenue generated from sales of other products increased by 35.1% from
+ Others: Revenue generated from sales of other products increased by 35.1% from
 RMB98.3 million in 2023 to RMB132.8 million in 2024, primarily attributable to an
 increase in the sales of electronic components.
 Comparison between 2023 and 2022: Our revenue decreased by 6.9% from RMB2,305.9
 million in 2022 to RMB2,147.3 million in 2023. Specifically:
-(cid:129) Smart modules and solutions: Revenue generated from sales of our smart modules and
+ Smart modules and solutions: Revenue generated from sales of our smart modules and
 solutions increased by 27.3% from RMB957.4 million in 2022 to RMB1,218.4 million
 in 2023. Specifically:
 (i) Regular smart modules and solutions: Revenue generated from sales of our regular
@@ -11090,7 +11090,7 @@ of our high-computing-power smart modules and solutions increased by 813.6%
 from RMB35.1 million in 2022 to RMB320.3 million in 2023, primarily
 attributable to an increase in downstream demand in the ICV application sector,
 especially in the intelligent cockpit application scenario.
-(cid:129) Data transmission modules and solutions: Revenue generated from sales of our data
+ Data transmission modules and solutions: Revenue generated from sales of our data
 transmission modules and solutions decreased by 34.6% from RMB1,270.6 million in
 2022 to RMB830.6 million in 2023, primarily due to a 35.5% decrease in the average
 selling price of our data transmission modules and solutions from RMB141.4 per unit to
@@ -11107,7 +11107,7 @@ in 2022. As a result of the above, the overall selling price decreased from 2022
 
 === PAGE 316 ===
 FINANCIAL INFORMATION
-(cid:129) Others: Revenue generated from sales of other products increased by 26.2% from
+ Others: Revenue generated from sales of other products increased by 26.2% from
 RMB77.9 million in 2022 to RMB98.3 million in 2023, primarily attributable to an
 increase in the sales of electronic components.
 Revenue by Application Sectors
@@ -11124,7 +11124,7 @@ Others(1) . . . . . . . . . . . . . . . . 77,933 3.4 98,349 4.6 132,811 4.5 96,3
 Total . . . . . . . . . . . . . . . . . . 2,305,932 100.0 2,147,336 100.0 2,941,374 100.0 2,182,028 100.0 2,821,288 100.0
 Note:
 (1) Primarily including sales of electronic components.
-(cid:129) General IoT: Our revenue from sales of our products and solutions used in general IoT
+ General IoT: Our revenue from sales of our products and solutions used in general IoT
 remained relatively stable at RMB1,004.9 million in 2022 and RMB971.0 million in
 2023. Our revenue from sales of these products and solutions increased by 8.2% from
 RMB971.0 million in 2023 to RMB1,050.5 million in 2024, primarily attributable to an
@@ -11134,7 +11134,7 @@ Our revenue generated from sales of our products and solutions used in general I
 increased by 25.0% from RMB924.7 million for the nine months ended September 30,
 2024 to RMB1,156.2 million for the nine months ended September 30, 2025, primarily
 attributable to an increased demand from domestic customers.
-(cid:129) ICV: Our revenue from sales of our products and solutions used in ICV increased by
+ ICV: Our revenue from sales of our products and solutions used in ICV increased by
 73.5% from RMB342.2 million in 2022 to RMB593.6 million in 2023, and further
 increased by 105.7% to RMB1,220.9 million in 2024, primarily attributable to an
 increase in the sales volume of our smart modules and solutions used in ICV as a result
@@ -11148,7 +11148,7 @@ FINANCIAL INFORMATION
 RMB986.9 million for the nine months ended September 30, 2025, primarily due to an
 increase in sales of our 5G high-computing-power smart modules for intelligent cockpit
 applications to customers.
-(cid:129) Wireless Broadband: Our revenue from sales of our products and solutions used in
+ Wireless Broadband: Our revenue from sales of our products and solutions used in
 wireless broadband decreased by 45.0% from RMB881.0 million in 2022 to RMB484.4
 million in 2023, primarily because of a decrease in the sales proportion of our data
 transmission modules and solutions used in wireless broadband products of overseas
@@ -11221,7 +11221,7 @@ nine months ended September 30, 2024 to RMB356.6 million in the nine months ende
 30, 2025, and our gross profit margin decreased from 15.8% to 12.6% in the same periods,
 primarily due to a decrease in the gross profit margin of modules and solutions and other products.
 Specifically:
-(cid:129) Smart modules and solutions: The gross profit margin of our smart modules and
+ Smart modules and solutions: The gross profit margin of our smart modules and
 solutions decreased from 17.6% in the nine months ended September 30, 2024 to 14.8%
 in the nine months ended September 30, 2025, primarily due to a decrease in the gross
 profit margin of high-computing-power smart modules and solutions. Specifically:
@@ -11257,7 +11257,7 @@ FINANCIAL INFORMATION
 Procurement — Impact of Global Chip Supply and Raw Material Price Volatility”
 for details. We believe that these combined efforts help reduce the effect of price
 volatility on our costs and protect our gross profit margin.
-(cid:129) Data transmission modules and solutions: The gross profit margin of our data
+ Data transmission modules and solutions: The gross profit margin of our data
 transmission modules and solutions decreased from 12.7% in the nine months ended
 September 30, 2024 to 8.1% in the nine months ended September 30, 2025, primarily
 due to an increase in the sales proportion of our data transmission modules and
@@ -11299,7 +11299,7 @@ Comparison between 2024 and 2023: Our gross profit increased by 22.3% from RMB39
 million in 2023 to RMB484.7 million in 2024, and our gross profit margin decreased from 18.4%
 to 16.5% in the same periods, primarily due to the decrease in the gross profit margin of our
 modules and solutions from 19.2% in 2023 to 16.7% in 2024. Specifically:
-(cid:129) Smart modules and solutions: The gross profit margin of our smart modules and
+ Smart modules and solutions: The gross profit margin of our smart modules and
 solutions decreased from 21.6% in 2023 to 18.7% in 2024. Specifically:
 (i) Regular smart modules and solutions: The gross profit margin of our regular smart
 modules and solutions decreased from 21.9% in 2023 to 18.3% in 2024, primarily
@@ -11325,7 +11325,7 @@ relatively stable.
 (ii) High-computing-power smart modules and solutions: The gross profit margin of
 our high-computing-power smart modules and solutions remained relatively stable
 at 20.8% in 2023 and 19.1% in 2024.
-(cid:129) Data transmission modules and solutions: The gross profit margin of our data
+ Data transmission modules and solutions: The gross profit margin of our data
 transmission modules and solutions decreased from 15.7% in 2023 to 12.9% in 2024,
 primarily due to
 – 310 –
@@ -11348,7 +11348,7 @@ Comparison between 2023 and 2022: Our gross profit remained relatively stable at
 RMB405.4 million in 2022 and RMB396.1 million in 2023, and our gross profit margin increased
 from 17.6% to 18.4% in the same periods, primarily due to the increase in the gross profit margin
 of our modules and solutions from 17.7% in 2022 to 19.2% in 2023. Specifically:
-(cid:129) Smart modules and solutions: The gross profit margin of our smart modules and
+ Smart modules and solutions: The gross profit margin of our smart modules and
 solutions increased from 18.6% in 2022 to 21.6% in 2023. Specifically:
 (i) Regular smart modules and solutions: The gross profit margin of our regular smart
 modules and solutions increased from 18.7% in 2022 to 21.9% in 2023, primarily
@@ -11374,7 +11374,7 @@ generally had higher gross profit margin.
 
 === PAGE 323 ===
 FINANCIAL INFORMATION
-(cid:129) Data transmission modules and solutions: The gross profit margin of our data
+ Data transmission modules and solutions: The gross profit margin of our data
 transmission modules and solutions decreased from 17.0% in 2022 to 15.7% in 2023,
 primarily because we fulfilled a majority of the orders for certain overseas customers
 with higher gross profit margins in 2022.
@@ -13673,7 +13673,7 @@ approximately HK$944.5 million (equivalent to approximately RMB838.6 million) fr
 Offering after deducting the underwriting commission and other estimated expenses paid and
 payable by us in connection with the Global Offering. In line with our strategies, we intend to use
 our proceeds from the Global Offering for the purposes and in the amounts set forth below:
-(cid:129) approximately 55% of the net proceeds, or HK$519.6 million (equivalent to
+ approximately 55% of the net proceeds, or HK$519.6 million (equivalent to
 approximately RMB461.3 million), are expected to be used for enhancing our R&D and
 innovation capabilities.
 (i) approximately 19% of the net proceeds, or HK$179.5 million (equivalent to
@@ -13853,7 +13853,7 @@ fees . . . . . . . . . . . . . . . . . . 2.9 3.5 3.8 4.2 4.5 18.9
 
 === PAGE 395 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) approximately 10% of the net proceeds, or HK$94.5 million (equivalent to
+ approximately 10% of the net proceeds, or HK$94.5 million (equivalent to
 approximately RMB83.9 million), are expected to be used for expanding our overseas
 sales network and promoting our products in overseas markets. Specifically,
 o approximately 9% of the net proceeds, or HK$85.0 million, are expected to be
@@ -13901,7 +13901,7 @@ respective local markets in regions such as Japan, Europe and the U.S.; (ii) ext
 our business outreach targeting overseas Tier 1 automobile suppliers; (iii) provide
 technical and cost evaluations tailored to the needs of overseas customers; and (iv)
 offer more competitive pricing.
-(cid:129) approximately 10% of the net proceeds, or HK$94.5 million (equivalent to
+ approximately 10% of the net proceeds, or HK$94.5 million (equivalent to
 approximately RMB83.9 million), are expected to be used for strategic investments
 and/or acquisition to achieve our long-term growth strategies. We seek potential
 investment and acquisition opportunities in both domestic and international markets, aim
@@ -13931,13 +13931,13 @@ Practicable Date, we had not identified any specific acquisition or investment t
 
 === PAGE 397 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) approximately 15% of the net proceeds, or HK$141.7 million (equivalent to
+ approximately 15% of the net proceeds, or HK$141.7 million (equivalent to
 approximately RMB125.8 million), are expected to be allocated for the repayment of
 certain interest-bearing bank borrowings, with interest rates ranging between 1.95% and
 2.27% that are maturing after June 2025, so as to optimize our financial structure and
 reduce our borrowing cost. We incurred such borrowings primarily for working capital
 purposes.
-(cid:129) approximately 10% of the net proceeds, or HK$94.5 million (equivalent to
+ approximately 10% of the net proceeds, or HK$94.5 million (equivalent to
 approximately RMB83.9 million), are expected to be used for working capital and
 general corporate uses.
 To the extent that the net proceeds from the Global Offering are more or less than expected
@@ -14892,13 +14892,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you are
 applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the White Form eIPO service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the White Form eIPO service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the person(s)
 for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or close associates; or
-(cid:129) are a Director or any of his/her close associates.
+ are an existing Shareholder or close associates; or
+ are a Director or any of his/her close associates.
 2. Application Channels
 The Hong Kong Public Offering period will begin at 9:00 am on Friday, February 27,
 2026 and end at 12:00 noon on Thursday, March 5, 2026 (Hong Kong time).
@@ -14982,11 +14982,11 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual/JointApplicants For CorporateApplicants
-(cid:129) Full name(s)2 as shown on your identity (cid:129) Full name(s)2 as shown on your
+ Full name(s)2 as shown on your identity Full name(s)2 as shown on your
 document identity document
-(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country
+ Identity document’s issuing country or Identity document’s issuing country
 jurisdiction or jurisdiction
-(cid:129) Identity document type, with order of (cid:129) Identity document type, with order
+ Identity document type, with order of Identity document type, with order
 priority: of priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification document; or ii. Certificate of incorporation; or
@@ -14994,7 +14994,7 @@ iii. Passport; and iii. Business registration
 certificate; or
 iv. Other equivalent document;
 and
-(cid:129) Identity document number (cid:129) Identity document number
+ Identity document number Identity document number
 Notes:
 (1) If you are applying through theWhite Form eIPO service, you are required to provide a valid e-mail address,
 a contact telephone number and a Hong Kong address. You are also required to declare that the identity
@@ -15028,9 +15028,9 @@ being for your benefit and you should provide the required information in your a
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any other
 stock exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) hold more than half of the issued share capital of the company (not counting any part of it which
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ hold more than half of the issued share capital of the company (not counting any part of it which
 carries no right to participate beyond a specified amount in a distribution of either profits or capital).
 For those applying through HKSCC EIPO channel, and making an application under a power
 of attorney, we and the Overall Coordinators, as our agent, have discretion to consider whether to
@@ -15278,21 +15278,21 @@ without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not grant
 permission to list the Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
+ within three weeks from the closing date of the application lists; or
 – 424 –
 
 === PAGE 436 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications. You may refer to the
+ you make multiple applications or suspected multiple applications. You may refer to the
 paragraph headed “A. Application for Hong Kong Offer Shares — 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC Participants
@@ -15422,9 +15422,9 @@ post at your own risk
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Thursday, March 5, 2026 if, there is/are:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) an “extreme conditions” announcement issued after a super typhoon (“Extreme
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ an “extreme conditions” announcement issued after a super typhoon (“Extreme
 Conditions”),
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Thursday, March 5, 2026.
@@ -15503,23 +15503,23 @@ following purposes:
 
 === PAGE 443 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) processing your application and refund cheque and White Form e-Refund payment
+ processing your application and refund cheque and White Form e-Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of allocation of
 Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the Shares
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the Shares
 including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable the
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to enable the
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the Shares and/or regulators and/or any other purposes to which applicants
 and holders of the Shares may from time to time agree.
@@ -15533,21 +15533,21 @@ the following:
 
 === PAGE 444 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) the Company’s appointed agents such as financial advisers, receiving bank and overseas
+ the Company’s appointed agents such as financial advisers, receiving bank and overseas
 principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and
 operating FINI and CCASS (including where applicants for the Hong Kong Offer Shares
 request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H
 Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies
 or otherwise as required by laws, rules or regulations, including for the purpose of the
 Stock Exchange’s administration of the Listing Rules and the SFC’s performance of its
 statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have or
+ any persons or institutions with which the holders of Hong Kong Offer Shares have or
 propose to have dealings, such as their bankers, solicitors, accountants or brokers etc.
 5. Retention of Personal Data
 The Company and the H Share Registrar will keep the personal data of the applicants and
@@ -16702,12 +16702,12 @@ Derecognition of financial assets
 A financial asset (or, where applicable, a part of a financial asset or part of a group of similar
 financial assets) is primarily derecognised (i.e., removed from the Group’s consolidated statement
 of financial position) when:
-(cid:129) the rights to receive cash flows from the asset have expired; or
+ the rights to receive cash flows from the asset have expired; or
 – I-33 –
 
 === PAGE 478 ===
 APPENDIX I ACCOUNTANTS’ REPORT
-(cid:129) the Group has transferred its rights to receive cash flows from the asset or has assumed
+ the Group has transferred its rights to receive cash flows from the asset or has assumed
 an obligation to pay the received cash flows in full without material delay to a third
 party under a “pass-through” arrangement; and either (a) the Group has transferred
 substantially all the risks and rewards of the asset, or (b) the Group has neither
@@ -16865,11 +16865,11 @@ Deferred tax is provided, using the liability method, on all temporary differenc
 of each of the Relevant Periods between the tax bases of assets and liabilities and their carrying
 amounts for financial reporting purposes.
 Deferred tax liabilities are recognised for all taxable temporary differences, except:
-(cid:129) when the deferred tax liability arises from the initial recognition of goodwill or an asset
+ when the deferred tax liability arises from the initial recognition of goodwill or an asset
 or liability in a transaction that is not a business combination and, at the time of the
 transaction, affects neither the accounting profit nor taxable profit or loss and does not
 give rise to equal taxable and deductible temporary differences; and
-(cid:129) in respect of taxable temporary differences associated with investments in subsidiaries,
+ in respect of taxable temporary differences associated with investments in subsidiaries,
 associates and joint ventures, when the timing of the reversal of the temporary
 differences can be controlled and it is probable that the temporary differences will not
 reverse in the foreseeable future.
@@ -16882,12 +16882,12 @@ forward of unused tax credits and any unused tax losses. Deferred tax assets are
 extent that it is probable that taxable profit will be available against which the deductible
 temporary differences, and the carry forward of unused tax credits and unused tax losses can be
 utilised, except:
-(cid:129) when the deferred tax asset relating to the deductible temporary differences arises from
+ when the deferred tax asset relating to the deductible temporary differences arises from
 the initial recognition of an asset or liability in a transaction that is not a business
 combination and, at the time of the transaction, affects neither the accounting profit nor
 taxable profit or loss and does not give rise to equal taxable and deductible temporary
 differences; and
-(cid:129) in respect of deductible temporary differences associated with investments in
+ in respect of deductible temporary differences associated with investments in
 subsidiaries, associates and joint ventures, deferred tax assets are only recognised to the
 extent that it is probable that the temporary differences will reverse in the foreseeable
 future and taxable profit will be available against which the temporary differences can
@@ -20695,8 +20695,8 @@ procedures to assess whether the applicable criteria used by the Directors in th
 Unaudited Pro Forma Financial Information provide a reasonable basis for presenting the
 significant effects directly attributable to the transaction, and to obtain sufficient appropriate
 evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the Unaudited Pro Forma Financial Information reflects the proper application of those
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the Unaudited Pro Forma Financial Information reflects the proper application of those
 adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgment, having regard to the
 reporting accountants’ understanding of the nature of the Group, the transaction in respect of

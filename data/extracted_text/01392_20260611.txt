@@ -149,10 +149,10 @@ latest time for giving such instructions which may be different from the latest 
 Application lists close . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12:00 noon on
 Tuesday, 16 June
 Announcement of:
-(cid:129) the level of applications in the Hong Kong Public Offering;
-(cid:129) the level of indications of interest in the International Placing;
-(cid:129) the basis of allocation of the Hong Kong Offer Shares; and
-(cid:129) the number of Offer Shares reallocated, if any, between
+ the level of applications in the Hong Kong Public Offering;
+ the level of indications of interest in the International Placing;
+ the basis of allocation of the Hong Kong Offer Shares; and
+ the number of Offer Shares reallocated, if any, between
 the Hong Kong Public Offering and the International Placing,
 will be published on our website at www.hqvt.com (Note 5)
 and the website of the Stock Exchange at www.hkexnews.hk
@@ -409,11 +409,11 @@ users; and (ii) enterprise-level users that used our products and services direc
 OUR COMPETITIVE STRENGTHS
 We believe that the following competitive strengths and advantages are key factors to our success
 to date:
-(cid:129) Proprietary technology in the multispectral AI industry
-(cid:129) A diversified customer base
-(cid:129) Stable R&D and innovation capabilities
-(cid:129) Established mass production and quality delivery capabilities
-(cid:129) Experienced senior management team and strategic investors
+ Proprietary technology in the multispectral AI industry
+ A diversified customer base
+ Stable R&D and innovation capabilities
+ Established mass production and quality delivery capabilities
+ Experienced senior management team and strategic investors
 Please refer to the section headed “Business — Our Competitive Strengths” in this prospectus for
 further details.
 – 3 –
@@ -423,11 +423,11 @@ SUMMARY AND HIGHLIGHTS
 OUR BUSINESS STRATEGIES
 With the aim of further developing our business and continuing our growth, we will implement
 the following strategies:
-(cid:129) Enhancing R&D capabilities and increasing investment in product development
-(cid:129) Expanding production capacity to support business growth and new product development
-(cid:129) Pursuing strategic investments and M&As to enhance our industrial layout and technological
+ Enhancing R&D capabilities and increasing investment in product development
+ Expanding production capacity to support business growth and new product development
+ Pursuing strategic investments and M&As to enhance our industrial layout and technological
 strengths
-(cid:129) Strengthening business expansion and accelerating global market penetration
+ Strengthening business expansion and accelerating global market penetration
 Please refer to the section headed “Business — Our Business Strategies” in this prospectus for
 further details.
 OUR PRODUCTS AND SERVICES
@@ -763,13 +763,13 @@ fees and other estimated expenses in connection with the Global Offering and an 
 HK$7.20 per Share, will be approximately HK$536.8 million.
 In accordance with our strategy, we intend to use the net proceeds from the Global Offering for
 the following purposes in the following amounts:
-(cid:129) approximately 50.0% of the net proceeds (approximately HK$268.4 million) is expected to
+ approximately 50.0% of the net proceeds (approximately HK$268.4 million) is expected to
 be used to enhance our R&D capabilities and increase investment in product development;
-(cid:129) approximately 25.0% of the net proceeds (approximately HK$134.2 million) will be used to
+ approximately 25.0% of the net proceeds (approximately HK$134.2 million) will be used to
 expand our production capacity to support business growth and new product development;
-(cid:129) approximately 15.0% of the net proceeds (approximately HK$80.5 million) will be used for
+ approximately 15.0% of the net proceeds (approximately HK$80.5 million) will be used for
 strengthening our business expansion and accelerating global market penetration; and
-(cid:129) approximately 10.0% of the net proceeds (approximately HK$53.7 million) will be used to
+ approximately 10.0% of the net proceeds (approximately HK$53.7 million) will be used to
 provide funding for our general working capital and for general corporate uses.
 Please refer to the section headed “Future Plans and Use of Proceeds” in this prospectus for
 further details.
@@ -1187,13 +1187,13 @@ platform and one of our Controlling Shareholders
 === PAGE 30 ===
 DEFINITIONS
 Unless expressly stated or the context otherwise requires:
-(cid:129) all times refer to Hong Kong time and references to years in this prospectus are to calendar
+ all times refer to Hong Kong time and references to years in this prospectus are to calendar
 years;
-(cid:129) the terms “associate(s)”, “close associate(s)”, “connected person(s)”, “core connected
+ the terms “associate(s)”, “close associate(s)”, “connected person(s)”, “core connected
 person(s)”, “connected transaction(s)”, “subsidiary(ies)” and “substantial shareholder(s)”
 shall have the meanings ascribed to such terms in the Listing Rules;
-(cid:129) all data in this prospectus are as at the Latest Practicable Date;
-(cid:129) certain amounts and percentage figures included in this prospectus have been subject to
+ all data in this prospectus are as at the Latest Practicable Date;
+ certain amounts and percentage figures included in this prospectus have been subject to
 rounding adjustments. Accordingly, figures shown as totals in certain tables may not be an
 arithmetic aggregation of the figures preceding them. Any discrepancies in any table or
 chart between the total shown and the sum of the amounts listed are due to rounding; and
@@ -1455,21 +1455,21 @@ strategy and the environment in which we will operate in the future. These forwa
 reflecting our current views with respect to future events are not a guarantee of future performance and
 are subject to certain risks, uncertainties and assumptions, including the risk factors described in this
 prospectus, and the following:
-(cid:129) general political and economic conditions, including those related to PRC;
-(cid:129) our ability to successfully implement our business plans and strategies;
-(cid:129) future developments, trends and conditions in the industry and markets in which we operate
+ general political and economic conditions, including those related to PRC;
+ our ability to successfully implement our business plans and strategies;
+ future developments, trends and conditions in the industry and markets in which we operate
 or into which we intend to expand;
-(cid:129) our business operations and prospects;
-(cid:129) our capital expenditure plans;
-(cid:129) the actions and developments of our competitors;
-(cid:129) our financial condition and performance;
-(cid:129) capital market developments;
-(cid:129) our dividend policy;
-(cid:129) any changes in the laws, rules and regulations of the PRC and other relevant jurisdictions
+ our business operations and prospects;
+ our capital expenditure plans;
+ the actions and developments of our competitors;
+ our financial condition and performance;
+ capital market developments;
+ our dividend policy;
+ any changes in the laws, rules and regulations of the PRC and other relevant jurisdictions
 and the rules, regulations and policies of the relevant governmental authorities relating to all
 aspects of our business and our business plans;
-(cid:129) various business opportunities that we may pursue; and
-(cid:129) certain factors set out in the sections headed “Industry Overview”, “Business” and
+ various business opportunities that we may pursue; and
+ certain factors set out in the sections headed “Industry Overview”, “Business” and
 “Financial Information” in this prospectus.
 – 28 –
 
@@ -1641,16 +1641,16 @@ believe are complementary to our growth strategies, particularly those that can 
 products and services offerings, enhance our technologies, and expand our customer base. Investment
 and acquisition processes involve certain known and unknown risks that could impose significant
 challenges, including but not limited to that:
-(cid:129) we may not be able to identify suitable acquisition candidates or to consummate acquisitions
+ we may not be able to identify suitable acquisition candidates or to consummate acquisitions
 on acceptable terms in a timely and cost-effective manner, or at all;
-(cid:129) we may compete with others to acquire complementary businesses and technologies, which
+ we may compete with others to acquire complementary businesses and technologies, which
 could result in decreased availability of, or increased price for, suitable acquisition
 candidates;
-(cid:129) we may not be able to obtain the necessary financing on favourable terms, or at all, to
+ we may not be able to obtain the necessary financing on favourable terms, or at all, to
 finance any or all of our potential acquisitions;
-(cid:129) our results of operations may be harmed due to dilutive issuances of equity securities, the
+ our results of operations may be harmed due to dilutive issuances of equity securities, the
 use of our available cash or incurrence of debts; and
-(cid:129) our acquisition activities may be subject to various laws, rules and regulations, including
+ our acquisition activities may be subject to various laws, rules and regulations, including
 that on antitrust and competition, of the countries in connection with any proposed
 acquisitions.
 Even if a planned acquisition were consummated, we might not be able to realise the anticipated
@@ -1658,25 +1658,25 @@ benefits, including expected synergies, cost savings, efficiencies or other stra
 benefits may also take longer than expected to materialise or may be offset by operational disruptions,
 increased organisational complexity, competitive responses, customer attrition or changes in market
 conditions, due to a number of factors, including but not limited to:
-(cid:129) difficulties in integrating the acquired personnel, products and/or solutions, operations and
+ difficulties in integrating the acquired personnel, products and/or solutions, operations and
 technologies, or effectively managing the combined business following the acquisition;
-(cid:129) unanticipated costs or liabilities associated with the acquisition that may adversely affect us
+ unanticipated costs or liabilities associated with the acquisition that may adversely affect us
 following the acquisition;
-(cid:129) lack of management control or influence over the controlling partners or shareholders, which
+ lack of management control or influence over the controlling partners or shareholders, which
 may prevent us from achieving our strategic goals;
-(cid:129) new regulatory and compliance risks arising from acquisitions in new industries;
-(cid:129) actual or alleged pre-acquisition misconduct or non-compliance by the acquired company
+ new regulatory and compliance risks arising from acquisitions in new industries;
+ actual or alleged pre-acquisition misconduct or non-compliance by the acquired company
 leading to potential investigations or reputational damage;
-(cid:129) potential issues with the acquired company’s technologies or internal controls;
-(cid:129) disruptions of our ongoing business and diversion of management’s attention;
-(cid:129) harm to our existing relationships with our business partners as a result of the acquisition;
+ potential issues with the acquired company’s technologies or internal controls;
+ disruptions of our ongoing business and diversion of management’s attention;
+ harm to our existing relationships with our business partners as a result of the acquisition;
 – 33 –
 
 === PAGE 42 ===
 RISK FACTORS
-(cid:129) the loss of our or the acquired business’s key employees and established customer
+ the loss of our or the acquired business’s key employees and established customer
 relationships; and
-(cid:129) diversion of resources that could have been more effectively deployed in other parts of our
+ diversion of resources that could have been more effectively deployed in other parts of our
 business.
 If we are unable to realise anticipated benefits, synergies, cost savings or efficiencies, our overall
 profitability and results of operations may be materially and adversely affected.
@@ -2725,23 +2725,23 @@ We have instructed our H Share Registrar, and our H Share Registrar has agreed, 
 the subscription, purchase or transfer of any H Shares in the name of any particular holder unless and
 until such holder delivers a signed form to our H Share Registrar in respect of those H Shares bearing
 statements to the effect that the holder:
-(cid:129) agrees with us and each of our Shareholders, and we agree with each Shareholder, to observe
+ agrees with us and each of our Shareholders, and we agree with each Shareholder, to observe
 and comply with the PRC Company Law, the Overseas Listing Trial Measures and our
 Articles of Association;
-(cid:129) agrees with us, each of our Shareholders, Directors, managers and officers, and we, acting
+ agrees with us, each of our Shareholders, Directors, managers and officers, and we, acting
 for ourselves and for each of our Directors, managers and officers agree with each of our
 Shareholders, to refer all differences and claims arising from our Articles of Association or
 any rights or obligations conferred or imposed by the PRC Company Law or other relevant
 laws and administrative regulations concerning our affairs to arbitration, and any reference
 to arbitration shall be deemed to authorise the arbitration tribunal to conduct hearings in
 open session and to publish its award, which arbitration shall be final and conclusive;
-(cid:129) agrees with us and each of our Shareholders that the H Shares are freely transferable by the
+ agrees with us and each of our Shareholders that the H Shares are freely transferable by the
 holders thereof; and
 – 55 –
 
 === PAGE 64 ===
 INFORMATION ABOUT THIS PROSPECTUS AND THE GLOBAL OFFERING
-(cid:129) authorises us to enter into a contract on his or her behalf with each of our Directors,
+ authorises us to enter into a contract on his or her behalf with each of our Directors,
 managers and officers whereby such Directors, managers and officers undertake to observe
 and comply with their obligations to our Shareholders as stipulated in our Articles of
 Association. Persons applying for or purchasing H Shares under the Global Offering are
@@ -3117,13 +3117,13 @@ Underwriters, the Capital Market Intermediaries or any of our or their respectiv
 management, representatives or any other person involved in the Global Offering and no
 representation is given as to its accuracy.
 1. Overview of China’s Perceptual Intelligence Industry
-(cid:129) Definition and Classification of Perceptual Intelligence
+ Definition and Classification of Perceptual Intelligence
 Perceptual intelligence refers to technologies that emulate human perceptual faculties through the
 application of artificial intelligence, particularly machine learning and computer vision, thereby
 enabling machines to perceive, interpret and respond to their surroundings via sensors and other
 devices. Based on the classification method of emulated human sensory, perceptual intelligence can be
 categorised into visual, auditory, tactile, olfactory and gustatory perceptions.
-(cid:129) Market Size of China’s Perceptual Intelligence Industry
+ Market Size of China’s Perceptual Intelligence Industry
 As the connection and interaction between AI and the physical world deepens, the perceptual
 intelligence industry continues to expand at a rapid pace. The market size of perceptual intelligence in
 China increased from RMB200.1 billion in 2020 to RMB337.0 billion in 2025, with a CAGR of 11.0%
@@ -3147,7 +3147,7 @@ Source: Frost & Sullivan, China Machine Vision Union (CMVU)
 
 === PAGE 74 ===
 INDUSTRY OVERVIEW
-(cid:129) Development Trends of Perceptual Intelligence
+ Development Trends of Perceptual Intelligence
 Expanding Sensory Boundaries: the perceptual scope of perceptual intelligence is increasingly
 surpassing human sensory limits. Taking visual perception as an example, multispectral imaging
 technology breaks through the limitations of human visible light perception and enables the capture of
@@ -3168,7 +3168,7 @@ enterprises are embedding AI algorithms directly into on-device modules, enablin
 “reception, perception, processing and judgement” of multispectral data. In 2025, for instance,
 embedded AI modules in smart terminals for multi-scenario safety enabled swift multispectral image
 analysis and early warnings, reducing latency by 90% compared to traditional cloud-based solutions.
-(cid:129) Key Downstream Applications of Perceptual Intelligence
+ Key Downstream Applications of Perceptual Intelligence
 The multi-scenario safety and robotics markets are key downstream applications of perceptual
 intelligence, as they require highly reliable perception in complex environments. The multi-scenario
 safety sector is a demand-driven market encompassing diverse application areas such as fire safety,
@@ -3197,30 +3197,30 @@ Source: Frost & Sullivan, National Bureau of Statistics of China,Annual Reports
 INDUSTRY OVERVIEW
 2 Overview of China’s Multispectral AI Industry
 2.1 Definition of Multispectral AI
-(cid:129) Multispectral AI technology refers to the integration of multispectral signal acquisition including
+ Multispectral AI technology refers to the integration of multispectral signal acquisition including
 ultraviolet, infrared, and visible light with perception, spectral modelling, and intelligent
 computing into a unified system. It enables on-device closed-loop processing from data capture to
 preliminary reasoning, offering ultra-wide spectral sensing and high sensitivity, while also
 supporting cloud-based services for centralised model training, data aggregation, and remote
 optimisation.
-(cid:129) With the features of perception-computing integration, localised decision-making, low power
+ With the features of perception-computing integration, localised decision-making, low power
 consumption and high safety, this technology is widely used in fire safety, industrial hazard
 prevention and other complex scenarios. To meet diversified business needs, three business
 models have been formed, namely, modules, large model services and perception terminals,
 enabling a closed-loop delivery from algorithms to products.
 2.2 Classifications of Multispectral AI
-(cid:129) Multispectral AI Modules: embedded AI vision modules designed to capture information across
+ Multispectral AI Modules: embedded AI vision modules designed to capture information across
 multiple spectral bands, including infrared, ultraviolet, and visible light, enabling simultaneous
 multispectral data acquisition and overcoming the perceptual limits of traditional visible-light
 imaging. By integrating AI algorithms for multi-band data fusion and analysis, the module enables
 high-dimensional perception and on-device decision-making in complex environments. It is widely
 used in refined scenarios requiring precise recognition of information such as material
 composition, temperature changes, and hidden defects.
-(cid:129) Multispectral AI Large Model Services: multispectral AI large-model services integrate
+ Multispectral AI Large Model Services: multispectral AI large-model services integrate
 multispectral data with domain-specific AI to support training, compression, and secure on-device
 deployment. Built on a unified architecture, the services enable cross-band imaging, analysis, and
 efficient local reasoning adapted to the complex needs of the multi-scenario safety sector.
-(cid:129) Multispectral AI Perception Terminals: multispectral AI perception terminals is an intelligent
+ Multispectral AI Perception Terminals: multispectral AI perception terminals is an intelligent
 terminal device integrating spectral imaging and AI algorithms, capable of capturing data across
 multiple spectral bands for enhanced perception and understanding of object characteristics. It
 combines optical components, sensors, local storage, and AI processing to enable on-device
@@ -3228,7 +3228,7 @@ imaging, analysis, recognition, and reasoning.
 Its main target customers are industry solution integrators and enterprise customers. Multispectral
 AI companies directly sell front-end perception devices in integrated software-hardware form,
 which are capable of on-device integrated computing and perception capabilities.
-(cid:129) The core values of multispectral AI compared to visible light vision include:
+ The core values of multispectral AI compared to visible light vision include:
 Rich Data Dimensions: multispectral imaging captures object information across diverse spectral
 bands, such as infrared, ultraviolet and visible light. Compared with traditional single-spectrum
 imaging, it can capture more comprehensive and detailed spectral features. When coupled with AI deep
@@ -3246,44 +3246,44 @@ Real-Time Responsiveness: the integration of multispectral data with AI enables 
 and decision-making, as demonstrated by the fire warning platform’s early detection capabilities. This
 supports time-critical applications in healthcare, and industrial monitoring.
 2.3 Analysis of Multispectral AI Industry Chain
-(cid:129) The industrial chain of multispectral AI covers upstream suppliers of core materials and key
+ The industrial chain of multispectral AI covers upstream suppliers of core materials and key
 components, midstream multispectral companies offering diverse multispectral AI technological
 services, and downstream industry applications, all of which collaborate closely.
-(cid:129) The upstream segment provides critical components for devices and platform software, including
+ The upstream segment provides critical components for devices and platform software, including
 precision mechanical parts, image sensors, optical elements, imaging modules, computing units,
 and AI chips.
-(cid:129) The midstream segment comprises multispectral AI technology companies who mainly provide
+ The midstream segment comprises multispectral AI technology companies who mainly provide
 technical services tailored to various customer needs, including Multispectral AI Modules,
 multispectral perception terminals, multispectral AI algorithms and large model services.
-(cid:129) The downstream segment includes the primary application scenarios of multispectral AI, such as
+ The downstream segment includes the primary application scenarios of multispectral AI, such as
 fire detection, food quality management, skin diagnostics, and embodied intelligence, and serves
 key customer groups including system integrators and enterprise-level users.
-(cid:129) As multispectral AI is increasingly applied in areas such as multi-scenario safety, the industry is
+ As multispectral AI is increasingly applied in areas such as multi-scenario safety, the industry is
 moving toward vertical integration across the perception, understanding, and decision chain. This
 shift is fostering a comprehensive closed-loop system from optical imaging to algorithm-driven
 intelligence, encompassing full-chain capabilities that span the entire process from optical
 components and signal acquisition to data processing, analysis, and decision-making.
-(cid:28595)
+ 
 Source: Frost & Sullivan
 – 68 –
 
 === PAGE 77 ===
 INDUSTRY OVERVIEW
 2.4 Market Size of China’s Multispectral AI Market
-(cid:129) In recent years, the market of China’s multispectral AI industry has experienced sustained growth.
+ In recent years, the market of China’s multispectral AI industry has experienced sustained growth.
 The China’s multispectral AI market increased from RMB6.3 billion in 2020 to RMB20.0 billion
 in 2025, with a CAGR of 26.0% during the period. Driven by technological advances, this
 momentum is expected to accelerate further, and the market size is expected to surge to RMB79.4
 billion in 2030, with a CAGR of 31.8%.
-(cid:129) The market of China’s multispectral AI modules industry increased from RMB2.5 billion in 2020
+ The market of China’s multispectral AI modules industry increased from RMB2.5 billion in 2020
 to RMB5.5 billion in 2025, with a CAGR of 17.1% during the period. Driven by technological
 advances, this momentum is expected to accelerate, and the market size is expected to surge to
 RMB20.2 billion in 2030, with a CAGR of 29.7%.
-(cid:129) China’s multispectral AI large model services market has grown rapidly, increasing from RMB0.3
+ China’s multispectral AI large model services market has grown rapidly, increasing from RMB0.3
 billion in 2020 to RMB1.5 billion in 2025, with a CAGR of 38.0% during the period. Driven by
 technological advances, this momentum is expected to accelerate further, and the market size is
 expected to surge to RMB8.4 billion in 2030, with a CAGR of 41.1%.
-(cid:129) Downstream applications of multispectral AI are primarily found in multi-scenario safety sector,
+ Downstream applications of multispectral AI are primarily found in multi-scenario safety sector,
 which encompass common requirements for quality and safety across a variety of sub-scenarios.
 These can be further subdivided into areas such as security and disaster prevention, industrial
 quality inspection, healthcare, and food safety. Among these, security and disaster prevention
@@ -3327,26 +3327,26 @@ forecast period. Market demand for multispectral AI is growing rapidly worldwide
 the growth of the major regions, mainly, China, North America, Europe and South-East Asia. The chart
 below shows the market size and forecast growth rates for major regions worldwide.
 Source: Frost & Sullivan,Annual Reports
-(cid:129) North America Market
+ North America Market
 Market demand in North America comes mainly from the United States. There are a significant
 number of multispectral AI companies in the United States, totalling more than 150, including business
 units of large technology groups, medium-sized multispectral AI firms, and a number of specialist
 start-ups. The North American multispectral AI market is characterised by strengths in sensor
 technologies, optical components and AI algorithms, while remaining relatively less advanced in the
 design and customisation of end-user hardware products.
-(cid:129) Europe Market
+ Europe Market
 In Europe, Germany, France and the United Kingdom account for the bulk of market demand,
 whilst countries such as Finland and the Netherlands possess a competitive edge in multispectral
 technology. There are around 60 to 80 multispectral AI companies in the European market, which hold
 a competitive edge in optical imaging technology.
-(cid:129) Southeast Asia Market
+ Southeast Asia Market
 Within the Southeast Asian market, Indonesia, Thailand, Vietnam and Malaysia are developing at
 a relatively faster pace, whilst Singapore is the most technology-intensive country in the region. There
 are no more than 30 multispectral AI companies in the Southeast Asian market, the majority of which
 rely on sourcing core multispectral technology from other developed markets to integrate into their
 solutions.
 2.6 Introduction and Market Size of AI Vision Modules
-(cid:129) AI vision modules refer to compact intelligent chip modules integrating image sensors, processors,
+ AI vision modules refer to compact intelligent chip modules integrating image sensors, processors,
 software algorithms and interface components. Depending on the technology routes of integrated
 perception technology, it can be divided into multispectral AI modules and other AI vision
 modules.
@@ -3376,35 +3376,35 @@ Applications. . . . . . Used for common visual task Used in the multi-scenario s
 scenarios such as target recognition sector like fire risk perception or
 food and material detection.
 Source: Frost & Sullivan, China Machine Vision Union (CMVU)
-(cid:129) Market Size of China’s AI Vision Modules
+ Market Size of China’s AI Vision Modules
 ➢ The market of China’s AI vision module industry increased from RMB22.6 billion in 2020 to
 RMB38.1 billion in 2025, with a CAGR of 11.0% during the period. This momentum is
 expected to accelerate further in the future, and the market size is expected to increase to
 RMB98.3 billion in 2030, with a CAGR of 20.9%.
 2.7 Key Drivers and Development Trends of Multispectral AI Industry
-(cid:129) Integrated technological capabilities as the core competitive advantage: multispectral AI is
+ Integrated technological capabilities as the core competitive advantage: multispectral AI is
 transitioning from an early-stage module-based segmented product model to a full-chain model
 with system integration capabilities. Companies who have full-chain capabilities in embedded
 modules, large models and integrated hardware terminals possess greater delivery flexibility,
 broader customer reach and more integrated technical solutions, and will have unique advantages
 in the future industry through platformisation and integrated delivery.
-(cid:129) Miniaturisation of computing power: the core element lies in delivering superior application
+ Miniaturisation of computing power: the core element lies in delivering superior application
 performance at lower cost and reduced computing power requirements. For example, leading
 companies use underlying C-language optimisation and task decomposition capabilities to
 eliminate redundant images and avoid invalid calculations, thereby significantly reducing
 computing power requirements.
-(cid:129) Sensor integration: improvements in sensor integration and optical stacking allow ultraviolet,
+ Sensor integration: improvements in sensor integration and optical stacking allow ultraviolet,
 infrared, and other visible spectra to be combined within compact, low-power modules, enabling
 multispectral perception to be deployed across consumer, industrial and automotive terminals.
 – 71 –
 
 === PAGE 80 ===
 INDUSTRY OVERVIEW
-(cid:129) Edge AI computing architectures: advancements in edge AI computing architectures —
+ Edge AI computing architectures: advancements in edge AI computing architectures —
 including lightweight neural networks, on-device computing and high-efficiency DSP/NPU
 designs — enable real-time fusion of multispectral data, significantly enhancing performance in
 scenarios such as low-light imaging, material recognition and safety monitoring.
-(cid:129) Rising degree of customisation is adapting to complex industrial scenarios: in the field of
+ Rising degree of customisation is adapting to complex industrial scenarios: in the field of
 multispectral AI, the growing demand for customised solutions is driving customised services to
 become a mainstream trend. In 2024, 55% of multispectral AI large model applications adopted
 customised delivery models, primarily serving large enterprises and other types of users.
@@ -3507,7 +3507,7 @@ Source: Frost & Sullivan, Expert Interview
 INDUSTRY OVERVIEW
 3 Market Competition Analysis
 3.1 Rankings of Multispectral AI Enterprises in China
-(cid:129) In 2025, as measured by revenue, the Company ranked No. 1 among multispectral AI companies
+ In 2025, as measured by revenue, the Company ranked No. 1 among multispectral AI companies
 in China, accounting for a market share of 3.3%. The following chart illustrates the market shares
 of the top five market players.
 Rankings of Multispectral AI Companies in China, by Revenue (2025)
@@ -3536,7 +3536,7 @@ and generativeAI platforms, enabling enterprise-level applications in education,
 5. Company D, is a privately held company headquartered in China. It develops edge AI vision systems including 3D and
 depth-sensingcameras,supportingintelligentperceptionapplicationsinrobotics,smartvehicles,andindustrialautomation.
 3.2 Rankings of Multispectral AI Modules Enterprises in China
-(cid:129) In 2025, as measured by revenue, the Company ranked No. 4 in the multispectral AI module
+ In 2025, as measured by revenue, the Company ranked No. 4 in the multispectral AI module
 market in China, accounting for a market share of 3.8%. The following chart illustrates the market
 shares of the top five market players.
 Rankings of Multispectral AI Module Companies in China, by Revenue (2025)
@@ -3562,7 +3562,7 @@ smartphones, surveillance, automotive electronics, machine vision, and consumer 
 system-on-modules and embedded computing platforms for applications in industrial automation, medical equipment, and
 transportation.
 3.3 Rankings of Multispectral AI Large Model Services Enterprises in China
-(cid:129) In 2025, as measured by revenue, the Company ranked No. 1 in the multispectral AI large model
+ In 2025, as measured by revenue, the Company ranked No. 1 in the multispectral AI large model
 services market in China, accounting for a market share of 23.0%, demonstrating significant
 market leadership. The following chart illustrates the market shares of the top five market players.
 Rankings of Multispectral AI Large Model Services Companies in China,
@@ -4509,57 +4509,57 @@ multispectral AI solutions.
 Key Development Milestones
 The following table outlines our key development milestones:
 Year Key development milestones
-2013 (cid:129) Our Company was established in Shenzhen in the PRC.
-2015 (cid:129) We launched our AI vision scenario training technology.
-(cid:129) We were recognised as a High and New Technology Enterprise (高新技術
+2013 Our Company was established in Shenzhen in the PRC.
+2015 We launched our AI vision scenario training technology.
+ We were recognised as a High and New Technology Enterprise (高新技術
 企業).
-2016 (cid:129) We launched the HtFS file system specifically designed for vision
+2016 We launched the HtFS file system specifically designed for vision
 scenario applications, significantly extending the service life of terminals
 storage.
-2018 (cid:129) We launched the HtOS operating system, designed for edge AI
+2018 We launched the HtOS operating system, designed for edge AI
 computing, which fundamentally overcame key technical bottlenecks in
 computational miniaturisation.
-2020 (cid:129) We entered into a capital increase agreement with Series A investors led
+2020 We entered into a capital increase agreement with Series A investors led
 by Zheshang Capital.
-(cid:129) We launched the multispectral AI perception-computing integration
+ We launched the multispectral AI perception-computing integration
 technology.
-2021 (cid:129) We entered into a capital increase agreement with Series B investors led
+2021 We entered into a capital increase agreement with Series B investors led
 by Gaoxintou.
-(cid:129) We leased and established the Shenzhen production facility.
-2022 (cid:129) We released the prototype of the fire computing product.
+ We leased and established the Shenzhen production facility.
+2022 We released the prototype of the fire computing product.
 – 95 –
 
 === PAGE 104 ===
 HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
 Year Key development milestones
-(cid:129) We launched our AI computing power miniaturisation modules solution.
-(cid:129) We completed the conversion of our Company from a limited liability
+ We launched our AI computing power miniaturisation modules solution.
+ We completed the conversion of our Company from a limited liability
 company into a joint stock company with limited liability.
-(cid:129) We were accredited as a National-level Specialised and Sophisticated
+ We were accredited as a National-level Specialised and Sophisticated
 “Little Giant” Enterprise (國家級專精特新「小巨人」企業) by the
 Ministry of Industry and Information Technology.
-(cid:129) Our Shenzhen production facility officially commenced production.
-2024 (cid:129) We launched the Multispectral AI anomalous fire source detector.
-(cid:129) We achieved commercialisation and recorded first revenue from our
+ Our Shenzhen production facility officially commenced production.
+2024 We launched the Multispectral AI anomalous fire source detector.
+ We achieved commercialisation and recorded first revenue from our
 Multispectral AI Large Model Services.
-(cid:129) Our “Zhiyuan Origin Large Model” (智元起源大模型) passed the ninth
+ Our “Zhiyuan Origin Large Model” (智元起源大模型) passed the ninth
 batch of Deep Synthesis Service Algorithm Filing by the CAC.
-(cid:129) We leased and established the Zhejiang production facility in Longyou
+ We leased and established the Zhejiang production facility in Longyou
 Economic Development Zone.
-(cid:129) We entered into a capital increase agreement with Series C investor and
+ We entered into a capital increase agreement with Series C investor and
 Series C+ investor, respectively.
-2025 (cid:129) Our “Zhiyuan Origin Large Model” (智元起源大模型) was selected for
+2025 Our “Zhiyuan Origin Large Model” (智元起源大模型) was selected for
 Guangdong Province’s first batch of AI industry models by the
 Department of Industry and Information Technology of Guangdong
 Province.
-(cid:129) We were enlisted in the “List of Typical Application Scenarios and Cases
+ We were enlisted in the “List of Typical Application Scenarios and Cases
 of Robot + (First Batch) in Guangdong Province (廣東省“機器人+”典型
 應用場景案例名單(第一批))” by the Department of Industry and
 Information Technology of Guangdong Province (廣東省工業和信息化
 廳).
-(cid:129) We entered into a capital increase agreement with Series D investor.
-(cid:129) Our Zhejiang production facility officially commenced production.
-(cid:129) We were accredited as a National-level Specialised and Sophisticated “Little
+ We entered into a capital increase agreement with Series D investor.
+ Our Zhejiang production facility officially commenced production.
+ We were accredited as a National-level Specialised and Sophisticated “Little
 Giant” Enterprise (國家級專精特新「小巨人」企業) and a National-level
 Specialised and Sophisticated Key “Little Giant” Enterprise (國家級專精特
 新重點「小巨人」企業) by the Ministry of Industry and Information
@@ -5292,9 +5292,9 @@ business primarily focuses on venture capital investments in high-technology ent
 emphasis on manufacturing, digital intelligence, and industrial upgrades. As at the date of this
 prospectus, the following three entities affiliated with Zheshang Capital collectively held approximately
 14.86% of the share capital of our Company:
-(cid:129) Taolue New Energy: 7.60% of the share capital of our Company;
-(cid:129) Taolue Xinwang: 1.40% of the share capital of our Company;
-(cid:129) Jinlan Sunshine: 5.86% of the share capital of our Company.
+ Taolue New Energy: 7.60% of the share capital of our Company;
+ Taolue Xinwang: 1.40% of the share capital of our Company;
+ Jinlan Sunshine: 5.86% of the share capital of our Company.
 (together with Zheshang Capital and Zhejiang Business Venture, collectively the “Zheshang Capital
 Group”).
 Each of the above funds is managed by Zhejiang Business Venture Capital Management
@@ -5327,18 +5327,18 @@ Shenzhen HTI Group (高新投集團系)
 As at the date of this prospectus, a group of PRC institutional investors affiliated with Shenzhen
 HTI Group Co., Ltd.* (深圳市高新投集團有限公司) (“HTI Group”), collectively held approximately
 4.54% of the issued share capital of our Company. These investors comprise the following entities:
-(cid:129) Gaoxintou was established as a limited liability company in the PRC on 29 June 2010 and is
+ Gaoxintou was established as a limited liability company in the PRC on 29 June 2010 and is
 an Independent Third Party and a wholly owned subsidiary of HTI Group, and a PRC
 state-owned venture capital enterprise principally engaged in equity investments in
 technology and innovation-driven sectors. As at the date of this prospectus, it held
 approximately 2.02% of the share capital in our Company.
-(cid:129) Chengdu Zhongxiaodan is a registered private equity investment fund established as a
+ Chengdu Zhongxiaodan is a registered private equity investment fund established as a
 limited partnership in the PRC on 9 December 2020 and its general partner is Chengdu
 Shengao Investment Zhongxiaodan Equity Investment Management Co., Ltd.* (成都深高投
 中小擔股權投資管理有限公司), an Independent Third Party and a non-wholly owned
 subsidiary of HTI Group. The fund held approximately 1.71% of the share capital in our
 Company as at the date of this prospectus.
-(cid:129) Rencai No. 2 is registered venture capital fund established as a limited partnership in the
+ Rencai No. 2 is registered venture capital fund established as a limited partnership in the
 PRC on 18 April 2017. Its general partner is Shenzhen High-Tech Investment and Equity
 Investment Fund Management Co., Ltd.* (深圳市高新投人才股權投資基金管理有限公司),
 an Independent Third Party and a non-wholly owned subsidiary of HTI Group. As at the date
@@ -5885,23 +5885,23 @@ multispectral data across the electromagnetic spectrum via a unified framework. 
 extensive expertise in the multispectral AI sector, our technologies offer applicability across various
 scenarios, such as industrial risk prevention, smart city management, power system inspections.
 Our multispectral AI technology provides multiple key performance metrics. Specifically:
-(cid:129) Multispectral Sensing Capabilities. We capture and interpret data from light wavelengths
+ Multispectral Sensing Capabilities. We capture and interpret data from light wavelengths
 beyond the visible range of the human eye. The perceptual intelligence facilitates the
 detection of hidden details, such as heat patterns or environmental dynamics, through
 self-adaptive adjustments in challenging conditions and improved anti-interference features,
 thereby ensuring efficient and secure processing even in environments with limited power.
-(cid:129) Accuracy in Data Recognition and Analysis. Our machine learning algorithms enable
+ Accuracy in Data Recognition and Analysis. Our machine learning algorithms enable
 in-depth perception of material characteristics and dynamic states in anomaly detection. In
 safety-oriented applications, drawing on our proprietary datasets and internal evaluations,
 our technology identifies early indicators of risks, such as fire ignition or unusual heat
 increases, with minimised false alarms.
-(cid:129) Real-Time Processing and Decision-Making. To support uninterrupted operations, our AI
+ Real-Time Processing and Decision-Making. To support uninterrupted operations, our AI
 technologies complete the entire process of data capture, spectral fusion to on-device
 reasoning and output generation, also known as “optics-sensor-imaging-computing”, on a
 low-latency basis. This is achieved through integrated sensing-compute mechanisms that
 enable closed-loop processing directly on customer devices, without reliance on cloud
 infrastructure while improving performance in poor network connection settings.
-(cid:129) Technologies with Significant Application Potential. Our AI models are trained and
+ Technologies with Significant Application Potential. Our AI models are trained and
 optimised within a hybrid framework blending on-device and cloud-based elements, enabling
 stable support for analyses of large datasets. These models find wide application in emerging
 domains, such as urban traffic safety, construction safety governance and IDC safety
@@ -5912,14 +5912,14 @@ projects.
 BUSINESS
 Our multispectral AI technology is built upon our “Optics-Sensor-Imaging-Computing” technology
 architecture. The key elements of our architecture are as follows:
-(cid:129) Optics: We design specialised optical components, including lenses and optical films, with
+ Optics: We design specialised optical components, including lenses and optical films, with
 detailed parameters specifying light path configurations, and selective wavelength filtering.
 Our components use advanced materials to enhance long-term stability and higher
 transmittance for targeted spectral bands with reduced lens distortion. These enhancements
 improve backend AI algorithm recognition accuracy in diverse conditions, such as intense
 sunlight or low-visibility environments, and are produced by manufacturers to our precise
 specifications.
-(cid:129) Sensor: We optimise multispectral sensor chips by designing and modifying the register
+ Sensor: We optimise multispectral sensor chips by designing and modifying the register
 parameters, in order to improve the signal-to-noise ratio in complex light environments as
 compared to default settings. These modifications, coordinated with backend image signal
 processing algorithms, adjust parameters, including target tracking exposure, auto white
@@ -5927,11 +5927,11 @@ balance, strong light suppression, 2D/3D noise reduction, to meet scenario-speci
 requirements (e.g., urban traffic or construction safety). In 2024, we initiated the
 development of MEMS infrared sensor chips with proprietary features, such as night-vision
 capabilities and precise temperature measurement.
-(cid:129) Imaging: Our proprietary algorithms is designed to enable real-time preprocessing of raw
+ Imaging: Our proprietary algorithms is designed to enable real-time preprocessing of raw
 multispectral images at the device level, filtering noise to improve the signal-to-noise ratio,
 addressing common imaging limitations in multispectral environments like adverse weather
 or low-light conditions, ensuring high-quality spectral data for subsequent analysis.
-(cid:129) Computing: Our lightweight computing units, optimised through proprietary designs,
+ Computing: Our lightweight computing units, optimised through proprietary designs,
 execute with high efficiency at the on-device level, achieving inference speeds of
 approximately 50 milliseconds for real-time analysis in safety-critical applications,
 surpassing industry averages of 100−200 milliseconds for comparable edge-computing
@@ -6309,21 +6309,21 @@ perception-computing perception-computing platform trained with
 integration(1) integration(1), and scenario-specific data
 lightweight on-deviceAI catering customers’
 computing(2) needs(3)
-Structural Components . . . (cid:129) Self-developed lenses, (cid:129) Self-developed lenses, (cid:129) Cloud-based platform
+Structural Components . . . Self-developed lenses, Self-developed lenses, Cloud-based platform
 optical films, and optical films, and for large-scale device
 multispectral sensors multispectral sensors management
-(cid:129) Algorithmic (cid:129) Algorithmic (cid:129) “Zhiyuan Origin Large
+ Algorithmic Algorithmic “Zhiyuan Origin Large
 processing unit processing unit with Model”
 pre-installed
-(cid:129) Other components scenario-specificAI (cid:129) Other components
+ Other components scenario-specificAI Other components
 models
-(cid:129) Other components
-CommonApplication (cid:129) IoT-enabled facility management system to monitor (cid:129) Enterprise-scale safety
+ Other components
+CommonApplication IoT-enabled facility management system to monitor Enterprise-scale safety
 Scenarios . . . . . . . . . . equipment status management (e.g.,
 manufacturing, energy,
-(cid:129) Energy sector safety operations by identifying urban infrastructure),
+ Energy sector safety operations by identifying urban infrastructure),
 operational anomalies of facilities
-(cid:129) R&D in
+ R&D in
 next-generation
 autonomous driving
 technologies
@@ -6436,14 +6436,14 @@ devices cannot identify.
 BUSINESS
 During the Track Record Period, our key models of Multispectral AI Perception Terminals
 included:
-(cid:129) Multispectral Fire Hazard Computing Terminals: Deployed in industrial safety (such as
+ Multispectral Fire Hazard Computing Terminals: Deployed in industrial safety (such as
 the energy sector) to detect thermal anomalies and early fire risks using specialised sensor
 combinations, using infrared, UV, and visible light sensors with algorithms trained on over
 10 million multispectral data points and 100,000 hazardous event datasets.
-(cid:129) Multispectral Biometric Identification Terminals: Used in security systems (e.g., financial
+ Multispectral Biometric Identification Terminals: Used in security systems (e.g., financial
 institutions) for real-time identity verification under challenging lighting conditions, using
 infrared and visible light sensors with algorithms trained on facial identification datasets.
-(cid:129) Multispectral Target Identification Terminals: Applied in, for example, traffic
+ Multispectral Target Identification Terminals: Applied in, for example, traffic
 management systems to classify objects or vehicles in low-visibility environments, using
 specialised sensor combinations and target detection algorithms.
 Customers can select models based on specific needs and opt for value-added system upgrades to
@@ -6468,12 +6468,12 @@ By way of illustration, equipping a large industrial park with an “intelligent
 capable of perceiving through “eyes”, reasoning via a “brain”, executing through “hands and feet”, and
 interfacing with various existing park devices — would involve the deployment of a complete system in
 the following manner:
-(cid:129) “Eyes and Ears” (Data Acquisition Layer): This layer is responsible for connecting two
+ “Eyes and Ears” (Data Acquisition Layer): This layer is responsible for connecting two
 categories of devices: (i) our proprietary Multispectral AI Perception Terminals, deployed
 throughout the park to capture visible light, temperature measurements, and flame detection;
 and (ii) the park’s existing standard cameras and fire alarms. The objective is to aggregate
 all available on-site perceptible information.
-(cid:129) “Brain” (Large Model Inference and Decision-Making Layer): Typically deployed within
+ “Brain” (Large Model Inference and Decision-Making Layer): Typically deployed within
 the park’s server room, the “Brain” receives all information and performs in-depth analysis.
 For instance, it can not only detect an elevated temperature reading from a piece of
 – 130 –
@@ -6484,7 +6484,7 @@ equipment, but also correlate this with video footage to ascertain whether perso
 present in the vicinity or whether the area contains flammable materials. This enables the
 system to assess whether a genuine fire hazard exists and to determine the appropriate alert
 level.
-(cid:129) “Command Centre” (Platform Management and Integration Hub): Co-located with the
+ “Command Centre” (Platform Management and Integration Hub): Co-located with the
 “Brain”, the Command Centre serves as the management backend, responsible for managing
 all devices, updating the “Brain’s” knowledge base, and disseminating the “Brain’s” early
 warnings to the park’s central display screen, duty officers’ mobile applications, or existing
@@ -6601,16 +6601,16 @@ infrared-visible imaging data through our proprietary AI algorithms, thereby imp
 perception and computational accuracy.
 Our Multispectral AI Modules are installed in relevant terminals deployed in the following safety
 projects, customised to meet the specific requirements of each scenario:
-(cid:129) In construction safety governance projects, our Multispectral AI Modules integrated in our
+ In construction safety governance projects, our Multispectral AI Modules integrated in our
 customers’ devices are able to capture the construction sites in real time through visible light
 detection and thermal imaging. The system can accurately identify protective clothing with
 damaged reflective strips and identify smoking employees at construction sites.
-(cid:129) In urban traffic safety projects, our Multispectral AI Modules, installed in our customers’
+ In urban traffic safety projects, our Multispectral AI Modules, installed in our customers’
 safety products deployed at community entrances and exits, instantaneously detect the
 helmet-wearing status of e-bike riders. Non-compliant individuals would trigger intelligent
 interception accompanied by audio-visual alerts, decreasing the likelihood of traffic
 accidents and injuries.
-(cid:129) In hydrological disaster prevention projects, our Multispectral AI Modules, installed in our
+ In hydrological disaster prevention projects, our Multispectral AI Modules, installed in our
 customers’ safety products deployed along riverbanks, monitor floating debris accumulation
 using visible light, analyse changes in water turbidity with near-infrared, and detect
 abnormal undercurrent temperatures through thermal imaging. This enables early warnings
@@ -6772,7 +6772,7 @@ services. In terms of product development, we adopted an integrated project-base
 products and services, overseen by a cross-functional product decision committee.
 (1) In-house R&D
 Our Group’s in-house R&D capabilities are demonstrated as follows:
-(cid:129) Lightweight On-Device AI Computing: Our in-house R&D has pioneered lightweight
+ Lightweight On-Device AI Computing: Our in-house R&D has pioneered lightweight
 on-device AI computing technology, which achieved device level autonomous AI processing,
 with backend support from our multispectral AI large model. The lightweight architecture
 executes precise tasks, such as targeted feature analysis, and generates standardised alert
@@ -6782,13 +6782,13 @@ Group to deliver cost-effective, empowered modules and terminals, enabling compr
 monitoring in compact-design scenarios like automobile transportation racks or cargo
 containers. It thereby resolves key drawbacks of traditional sensing devices, including
 response delays and blind spots, while boosting operational efficiency and safety.
-(cid:129) Development of Proprietary AI Large Models: The cornerstone of our innovation is the
+ Development of Proprietary AI Large Models: The cornerstone of our innovation is the
 “Zhiyuan Origin Large Model”, a safety-sector specific AI model built on open-source
 frameworks and enriched with proprietary industry data. Our in-house team refines this
 model through code modifications, algorithmic adjustments, and self-training modules.
 Deployed in real-world applications, it undergoes continuous optimisation to deliver
 high-performance, commercially viable solutions for safety-critical scenarios.
-(cid:129) Design and Optimisation of Advanced Hardware Components: Our Group designs and
+ Design and Optimisation of Advanced Hardware Components: Our Group designs and
 optimises multispectral components by adjusting parameters such as exposure, dynamic
 range, light suppression, and noise reduction to enhance signal-to-noise ratios across diverse
 lighting conditions. Third parties manufacture these components based on our specifications,
@@ -6811,10 +6811,10 @@ BUSINESS
 To enhance the efficiency of our product commercialisation, we strategically outsource certain
 non-core tasks, such as internal product lifecycle management, data annotation and scenario-specific
 application logic development, to external software development teams and university laboratories:
-(cid:129) Internal product lifecycle management system: this involves the development of a
+ Internal product lifecycle management system: this involves the development of a
 full-lifecycle operational platform for our R&D staff to more efficiently manage the process
 from initial concept to product operation.
-(cid:129) Scenario-Specific Application Logic: This task involves developing tailored software logic,
+ Scenario-Specific Application Logic: This task involves developing tailored software logic,
 customised for specific industry applications. For instance, in a data centre, such application
 logic defines operational rules, such as the parameters for triggering alerts in response to
 equipment anomalies, including notification formats and response thresholds. Additionally,
@@ -6822,7 +6822,7 @@ the application logic facilitates integration between our products and our custo
 systems, enabling connectivity to mobile applications. These software modules demand
 significant customisation to align with individual customer requirements, rendering them
 resource-intensive but less technically complex than our core algorithm development.
-(cid:129) Data Annotation: Data annotation entails the systematic labelling and categorisation of
+ Data Annotation: Data annotation entails the systematic labelling and categorisation of
 data, such as multispectral images or sensor outputs, to prepare datasets for training our
 proprietary “Zhiyuan Origin Large Model”. Such process is critical for enabling the large
 model to accurately identify patterns, such as hazardous conditions in safety applications.
@@ -6842,19 +6842,19 @@ to Frost & Sullivan, it is in line with market practice to outsource such tasks 
 performance, resource allocation, enhance efficiency and control over overall project cost-effectiveness.
 The key terms of the agreements between our Group and the collaborating partners, such as
 academic institution, are set out below:
-(cid:129) Roles and obligations of our Group and the collaborating partners: Our Group
+ Roles and obligations of our Group and the collaborating partners: Our Group
 collaborates with academic institution to jointly establish and operate the joint R&D centre.
 The counterparty provides scientific theoretical support and expert guidance in new product
 development, technologies, processes, and materials, while our Group contributes resources,
 facilities, and funding to support the operations.
-(cid:129) Background of the collaborating partner: Our Group collaborates with academic
+ Background of the collaborating partner: Our Group collaborates with academic
 institution in China, recognised for the expertise in fields such as optics, optoelectronics,
 laser technology, and advanced engineering.
 – 138 –
 
 === PAGE 147 ===
 BUSINESS
-(cid:129) The ownership of the relevant intellectual property rights: Intellectual property rights,
+ The ownership of the relevant intellectual property rights: Intellectual property rights,
 technical secrets, and achievements originally owned by either party remain with the original
 owner. For any research results jointly completed, unless otherwise agreed, the intellectual
 property rights are shared equally, with each party holding 50%.
@@ -6953,13 +6953,13 @@ requirements of specific application scenarios, and therefore certain tasks are 
 accelerate our delivery process and overall efficiency.
 The increase in outsourcing service fees in FY2024 and FY2025 in particular was primarily driven
 by several large-scale R&D projects, which includes the following:
-(cid:129) the development and customisation of internal product lifecycle management system —
+ the development and customisation of internal product lifecycle management system —
 a full-lifecycle operational platform for R&D teams for product management purposes,
 managing everything from documentation and parts to bills of materials (BOM), 2D and 3D
 blueprint management and change control. Its core purpose is to standardise processes and
 components, thereby reducing redundancy and improving efficiency from initial concept to
 product operation;
-(cid:129) data tagging and annotation services — for internal large model development. This is a
+ data tagging and annotation services — for internal large model development. This is a
 critical internal support function where raw data is tagged and prepared to create
 high-quality training datasets, which are essential for training core AI models. The resulting
 models are then packaged into tailored solutions for customers; and
@@ -6967,7 +6967,7 @@ models are then packaged into tailored solutions for customers; and
 
 === PAGE 150 ===
 BUSINESS
-(cid:129) the research and development of a customised system for our customers — involves
+ the research and development of a customised system for our customers — involves
 adapting and deploying core large-model technology to meet specific client needs. We focus
 on developing the core AI and algorithm components internally, while outsourcing the
 development of surrounding application software to third-party partners to create complete,
@@ -6978,13 +6978,13 @@ Information — Year-to-Year Comparison of Results of Operations — FY2024 Comp
 Research and Development Expenses” in this prospectus.
 Key R&D Focus Area
 We plan to focus our R&D on below key areas of technologies:
-(cid:129) Perception-computing integration: Continuously improving platform computing, integrating
+ Perception-computing integration: Continuously improving platform computing, integrating
 perception intelligence enhance our storage and communication capabilities to offer differing
 needs in elastic computational requirements;
-(cid:129) Machine learning algorithms: Utilising the latest advancement in machine learning
+ Machine learning algorithms: Utilising the latest advancement in machine learning
 algorithms to upgrade our technologies after successful testing and implementation in
 large-scale industry applications; and
-(cid:129) Data-centric training: Optimising our computational framework by improving our algorithms
+ Data-centric training: Optimising our computational framework by improving our algorithms
 and processing tools for processing industry data, thereby allocating greater compatibility
 with machine learning algorithms and optimisation of targeted large models efficiently.
 Intellectual Property
@@ -7228,7 +7228,7 @@ Our Customers
 During the Track Record Period, our customers for our products and services primarily comprise
 the following categories, each leveraging our Multispectral AI Modules, Multispectral AI Perception
 Terminals, and Multispectral AI Large Model Services to enhance safety and operational efficiency:
-(cid:129) System integrators: These customers integrated our products and services into their
+ System integrators: These customers integrated our products and services into their
 offerings to enterprise-level users. They focus on hardware-centric operations and the
 development of customised, scenario-specific safety solutions, integrating our Multispectral
 AI Modules to manufacture complete devices, or utilising our Multispectral AI Modules,
@@ -7244,7 +7244,7 @@ entities; and
 
 === PAGE 156 ===
 BUSINESS
-(cid:129) Enterprise-level users: These customers used our products and services directly. They are
+ Enterprise-level users: These customers used our products and services directly. They are
 the ultimate end-users who deploy our products and services directly within their operations.
 Spanning industries such as energy, infrastructure, and government services, many of these
 customers undertake high-impact projects requiring advanced safety and efficiency solutions.
@@ -7253,20 +7253,20 @@ Services for applications including internal safety monitoring, risk prevention,
 analytics.
 Our Group employs a systematic and multi-faceted approach to acquire potential customers
 (including system integrators and enterprise-level users).
-(cid:129) Industry Exhibitions and Professional Conferences: Our Group actively participates in
+ Industry Exhibitions and Professional Conferences: Our Group actively participates in
 key domestic and international industry exhibitions and technical forums, where we can
 showcase product capabilities, share technological insights and present case studies. Such a
 platform serves as a primary channel for direct engagement with high-potential prospects,
 enabling us to gather industry intelligence while generating qualified leads. Our approach
 involves targeted pre-event invitations and post-event follow-ups to maximise the conversion
 of business opportunities.
-(cid:129) Digital Marketing and Content Dissemination: We utilise a combination of content
+ Digital Marketing and Content Dissemination: We utilise a combination of content
 marketing, and targeted social media engagement to attract potential customers. By
 consistently publishing expert knowledge and representative application cases of
 multispectral AI technology on our corporate website, professional platforms, and within
 industry communities, we establish thought leadership and build trust with our target
 customers, thereby cultivating a pipeline of sales leads.
-(cid:129) Industry Client Development: We establish strategic partnerships with system integrator
+ Industry Client Development: We establish strategic partnerships with system integrator
 clients specialising in specific vertical industries such as energy, power, IDC and emergency
 management. Through joint bidding, we provide core AI technologies and product solutions,
 whilst such system integrators leverage their industry expertise, project experience and
@@ -7506,14 +7506,14 @@ Our Group employs a cost-based pricing approach tailored to the specific require
 customers and the characteristics of our products and services. This approach ensures competitiveness,
 alignment with market trends, and sustainable profitability. Pricing is determined, among others, by the
 following key factors:
-(cid:129) Multispectral AI Modules: pricing is based on the quantity and type of modules ordered;
+ Multispectral AI Modules: pricing is based on the quantity and type of modules ordered;
 – 153 –
 
 === PAGE 162 ===
 BUSINESS
-(cid:129) Multispectral AI Perception Terminals: pricing reflects the complexity of terminal types,
+ Multispectral AI Perception Terminals: pricing reflects the complexity of terminal types,
 accounting for tailored configurations or integration efforts; and
-(cid:129) Multispectral AI Large Model Services: pricing depends on the complexity of application
+ Multispectral AI Large Model Services: pricing depends on the complexity of application
 scenarios and the extent of customisation or model tuning required.
 Pricing incorporates costs for raw materials, components, and equipment, as well as expenses
 related to integration into customer-specific environments. For customised solutions, pricing accounts
@@ -7548,14 +7548,14 @@ Customer Services
 We have a dedicated customer service team responsible for responding promptly to customer
 inquiries, which underscores our commitment to stringent product quality control and helps build
 greater customer recognition of and trust in our products. Our customer services include:
-(cid:129) Installation guidance and technical delivery support: we provide deployment manuals,
+ Installation guidance and technical delivery support: we provide deployment manuals,
 technical training and on-site or remote debugging support to facilitate the smooth delivery
 and implementation of our hardware and platform systems.
 – 154 –
 
 === PAGE 163 ===
 BUSINESS
-(cid:129) Warranty services: all of our hardware products are covered by a standard warranty policy,
+ Warranty services: all of our hardware products are covered by a standard warranty policy,
 which generally lasts for one year from the date of delivery. We offer parts replacement and
 repair services in accordance with the relevant contract terms and technical service
 specifications.
@@ -8342,31 +8342,31 @@ in relation to data privacy, cybersecurity and data security protection and algo
 material respects. Our operations and financial condition are not adversely impacted by these laws and
 regulations.
 Our current data compliance framework encompasses the following measures:
-(cid:129) Established internal management systems and organisational structures for cybersecurity,
+ Established internal management systems and organisational structures for cybersecurity,
 data security, personal information protection, and scientific data management in compliance
 with legal requirements;
-(cid:129) Implemented user authorisation mechanisms for data collection, protocol-controlled
+ Implemented user authorisation mechanisms for data collection, protocol-controlled
 safeguards for external data interactions, and permission-based data processing workflows;
-(cid:129) Deployed technical measures including regular security inspections, protection against
+ Deployed technical measures including regular security inspections, protection against
 computer viruses and cyberattacks, safeguards against cybersecurity vulnerabilities,
 malicious programmes, security flaws, access controls, and real-time monitoring/recording of
 network operations and security incidents;
-(cid:129) Adopted data backup and encryption protocols, alongside a classified data protection system
+ Adopted data backup and encryption protocols, alongside a classified data protection system
 based on data categorisation;
-(cid:129) Obtained ISO 27001 Information Security Management System certification and established
+ Obtained ISO 27001 Information Security Management System certification and established
 an information security risk management framework aligned with international and domestic
 standards;
-(cid:129) Conducted regular internal audits and commissioned third-party assessments when deemed
+ Conducted regular internal audits and commissioned third-party assessments when deemed
 necessary;
 – 171 –
 
 === PAGE 180 ===
 BUSINESS
-(cid:129) Allocated appropriate resources to provide training and awareness programmes for all
+ Allocated appropriate resources to provide training and awareness programmes for all
 employees on cybersecurity, data security, and personal information protection;
-(cid:129) Instituted mechanisms for periodic personal information protection compliance audits and
+ Instituted mechanisms for periodic personal information protection compliance audits and
 personal information impact assessments;
-(cid:129) Developed incident response plans, emergency management protocols, and reporting
+ Developed incident response plans, emergency management protocols, and reporting
 procedures for cybersecurity incidents, data breaches, and personal information security
 events, with defined roles and responsibilities, supplemented by regular drills.
 For potential overseas expansion plans, we have established cross-border data compliance
@@ -9416,17 +9416,17 @@ We have appointed China Harbour International Capital Limited as our compliance 
 provide us with guidance and advice as to compliance with the Listing Rules and applicable Hong Kong
 laws. Pursuant to Rule 3A.23 of the Listing Rules, the Compliance Adviser will advise us in the
 following circumstances:
-(cid:129) before the publication of any regulatory announcement, circular or financial report;
-(cid:129) where a transaction, which might be a notifiable or connected transaction, is contemplated
+ before the publication of any regulatory announcement, circular or financial report;
+ where a transaction, which might be a notifiable or connected transaction, is contemplated
 including share issues and share repurchases;
 – 194 –
 
 === PAGE 203 ===
 DIRECTORS AND SENIOR MANAGEMENT
-(cid:129) where we propose to use the proceeds of the Global Offering in a manner different from that
+ where we propose to use the proceeds of the Global Offering in a manner different from that
 detailed in this prospectus or where its business activities, developments or results deviate
 from any forecast, estimate, or other information in this prospectus; and
-(cid:129) where the Stock Exchange makes an inquiry of our Company regarding unusual movements
+ where the Stock Exchange makes an inquiry of our Company regarding unusual movements
 in the price or trading volume of its listed securities or any other matters in accordance with
 Rule 13.10 of the Listing Rules.
 The term of appointment of our Compliance Adviser shall commence on the Listing Date and
@@ -9668,11 +9668,11 @@ we plan to further strengthen our presence in the multispectral AI industry.
 General factors
 Our business and operating results are also affected by general factors affecting the multispectral
 AI industry, which include:
-(cid:129) the impact of macroeconomic conditions in China and overseas;
-(cid:129) technological changes affecting the multispectral and AI technology service sectors;
-(cid:129) market demand for multispectral AI product and solution offerings;
-(cid:129) the competitive landscape; and
-(cid:129) relevant laws and regulations, and governmental policies and initiatives.
+ the impact of macroeconomic conditions in China and overseas;
+ technological changes affecting the multispectral and AI technology service sectors;
+ market demand for multispectral AI product and solution offerings;
+ the competitive landscape; and
+ relevant laws and regulations, and governmental policies and initiatives.
 – 201 –
 
 === PAGE 210 ===
@@ -11404,7 +11404,7 @@ partnerships, or government R&D grants, as specified for each allocation.
 FUTURE PLANS AND USE OF PROCEEDS
 In accordance with our strategy, we intend to use the net proceeds from the Global Offering for
 the following purposes in the following amounts:
-(cid:129) approximately 50.0% of the net proceeds (approximately HK$268.4 million) is expected to
+ approximately 50.0% of the net proceeds (approximately HK$268.4 million) is expected to
 be used to enhance our R&D capabilities and increase investment in product development, of
 which:
 — approximately 25.3% of the net proceeds (approximately HK$135.7 million) will be
@@ -11481,7 +11481,7 @@ response to market trends. These expenses will cover software licences, testing
 materials, and industry conference participation to stay abreast of AI trends. The
 investment is justified by the need to maintain flexibility in a rapidly evolving AI
 market, unlike the fixed scope of historical R&D.
-(cid:129) approximately 25.0% of the net proceeds (approximately HK$134.2 million) will be used to
+ approximately 25.0% of the net proceeds (approximately HK$134.2 million) will be used to
 expand our production capacity to meet the growing production demands, of which:
 — approximately 4.9% of the net proceeds (approximately HK$26.2 million) will be
 utilised to increase the number of production line staff. This allocation is planned for
@@ -11519,7 +11519,7 @@ Sullivan, the global markets for these sectors are forecasted to grow at a CAGR 
 86.1% and 44.0%, respectively, from 2025 to 2030, and the resulting increase in demand for
 advanced detection and diagnostic solutions is expected to drive corresponding growth in our
 sales volumes across these new application scenarios.
-(cid:129) approximately 15.0% of the net proceeds (approximately HK$80.5 million) will be used for
+ approximately 15.0% of the net proceeds (approximately HK$80.5 million) will be used for
 strengthening our business expansion and accelerating global market penetration. According
 to the Frost & Sullivan Report, the global multispectral perception market, valued at
 approximately RMB85.0 billion in 2025, offers significant growth opportunities, particularly
@@ -11545,7 +11545,7 @@ allocation is planned to support initiatives such as obtaining regulatory certif
 (e.g., UL certifications in North America, CE certifications in Europe) for market
 access, and participating in industry events to enhance brand visibility. These expenses
 are designed to address market-specific requirements in key overseas markets;
-(cid:129) approximately 10.0% of the net proceeds (approximately HK$53.7 million) will be used to
+ approximately 10.0% of the net proceeds (approximately HK$53.7 million) will be used to
 provide funding for our general working capital and for general corporate uses.
 – 243 –
 
@@ -12247,27 +12247,27 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you are
 applying:
-(cid:129) are 18 years of age or older;
-(cid:129) have a Hong Kong address (for the HK eIPO White Form service only);
+ are 18 years of age or older;
+ have a Hong Kong address (for the HK eIPO White Form service only);
 Unless permitted by the Hong Kong Listing Rules or a waiver and/or consent has been granted by
 the Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the person(s) for
 whose benefit you are applying for:
-(cid:129) are an existing shareholder in our Company and/or any of its subsidiaries;
-(cid:129) are a Director or chief executive of our Company and/or any of its subsidiaries;
-(cid:129) are a close associate (as defined in the Listing Rules) of any of the above; or
-(cid:129) have been allocated or have applied for any International Placing Shares or otherwise
+ are an existing shareholder in our Company and/or any of its subsidiaries;
+ are a Director or chief executive of our Company and/or any of its subsidiaries;
+ are a close associate (as defined in the Listing Rules) of any of the above; or
+ have been allocated or have applied for any International Placing Shares or otherwise
 participate in the International Placing.
 If you apply for Hong Kong Offer Shares online through the HK eIPO White Form service, in
 addition to the above, you must also:
-(cid:129) have a Hong Kong address;
+ have a Hong Kong address;
 – 260 –
 
 === PAGE 269 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) have a valid Hong Kong identity card number/passport number (for individual applicant) or
+ have a valid Hong Kong identity card number/passport number (for individual applicant) or
 Hong Kong business registration number/certificate of incorporation number (for body
 corporate applicant); and
-(cid:129) provide a valid e-mail address and a contact telephone number.
+ provide a valid e-mail address and a contact telephone number.
 If you are applying for the Hong Kong Offer Shares online by instructing your broker or
 custodian who is a Clearing Participant or a CCASS Custodian Participant to give electronic
 application instructions via CCASS terminals, please contact them for the items required for the
@@ -12336,11 +12336,11 @@ and conditions of this prospectus.
 3. Information Required to Apply
 You must provide the following information with your application:
 ForIndividualApplicants ForCorporateApplicants
-(cid:129) Full name(s)2 as shown on your identity (cid:129) Full name(s)2 as shown on your identity
+ Full name(s)2 as shown on your identity Full name(s)2 as shown on your identity
 document document
-(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
+ Identity document’s issuing country or Identity document’s issuing country or
 jurisdiction jurisdiction
-(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
+ Identity document type, with order of Identity document type, with order of
 priority: priority:
 i. HKID card; or i. Legal Entity Identifies (“LEI”)
 registration document; or
@@ -12349,7 +12349,7 @@ ii. Certificate of incorporation; or
 iii. Passport; and
 iii. Business registration certificate; or
 iv. Other equivalent document; and
-(cid:129) Identity document number (cid:129) Identity document number
+ Identity document number Identity document number
 – 262 –
 
 === PAGE 271 ===
@@ -12380,9 +12380,9 @@ you exercise statutory control over that company, then the application will be t
 should provide the required information in your application as stated above.
 “Unlistedcompany”meansacompanywithnoequitysecuritieslistedontheStockExchangeoranyotherstockexchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhichcarriesnorightto
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhichcarriesnorightto
 participate beyond a specified amount in a distribution of either profits or capital).
 For those applying through HKSCC EIPO channel, and making an application under a power of
 attorney, we and the Overall Coordinators, as our agent, have discretion to consider whether to accept it
@@ -12628,17 +12628,17 @@ without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not grant
 permission to list the H Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that longer
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that longer
 period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications. You may see the
+ you make multiple applications or suspected multiple applications. You may see the
 paragraph headed “— A. Application for Hong Kong Offer Shares — 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
-(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we would
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated;
+ we or the Overall Coordinators believe that by accepting your application, it or we would
 violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC Participants will
@@ -12746,9 +12746,9 @@ post at your own risk
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Tuesday, 16 June 2026 if, there is:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) an “extreme conditions” announcement issued after a super typhoon (“Extreme
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ an “extreme conditions” announcement issued after a super typhoon (“Extreme
 Conditions”),
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Tuesday, 16 June 2026.
@@ -12819,23 +12819,23 @@ and the H Share Registrar immediately of any inaccuracies in the personal data s
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for the
 following purposes:
-(cid:129) processing your application and refund cheque and HK eIPO White Form e-Auto Refund
+ processing your application and refund cheque and HK eIPO White Form e-Auto Refund
 payment instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of allocation of
 Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the Shares
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the Shares
 including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of our Company;
-(cid:129) verifying identities of applicants for and holders of the Shares and identifying any duplicate
+ maintaining or updating the register of members of our Company;
+ verifying identities of applicants for and holders of the Shares and identifying any duplicate
 applications for the Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights issues,
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the Shares, such as dividends, rights issues,
 bonus issues, etc.;
-(cid:129) distributing communications from our Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) any other incidental or associated purposes relating to the above and/or to enable our
+ distributing communications from our Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ any other incidental or associated purposes relating to the above and/or to enable our
 Company and the H Share Registrar to discharge their obligations to applicants and holders
 of the Shares and/or regulators and/or any other purposes to which applicants and holders of
 the Shares may from time to time agree.
@@ -12848,21 +12848,21 @@ transfer (whether within or outside Hong Kong) the personal data to, from or wit
 
 === PAGE 283 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-(cid:129) our Company’s appointed agents such as financial advisers, receiving bank and overseas
+ our Company’s appointed agents such as financial advisers, receiving bank and overseas
 principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the personal
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the personal
 data to the H Share Registrar, in each case for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and operating
 FINI and CCASS (including where applicants for the Hong Kong Offer Shares request a
 deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to our Company or the H Share
 Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies or
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies or
 otherwise as required by laws, rules or regulations, including for the purpose of the Stock
 Exchange’s administration of the Listing Rules and the SFC’s performance of its statutory
 functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have or
+ any persons or institutions with which the holders of Hong Kong Offer Shares have or
 propose to have dealings, such as their bankers, solicitors, accountants or brokers etc.
 5. Retention of personal data
 Our Company and the H Share Registrar will keep the personal data of the applicants and holders
@@ -12888,12 +12888,12 @@ for the purpose of incorporation in this prospectus. It is prepared and addresse
 Company and to the Joint Sponsors pursuant to the requirements of HKSIR 200, Accountants’ Reports
 on Historical Financial Information in Investment Circulars issued by the Hong Kong Institute of
 Certified Public Accountants.
-(cid:26945)(cid:15831)(cid:16395)(cid:7804)(cid:21298)(cid:10387)(cid:13582)(cid:24571)181(cid:22023)(cid:10447)(cid:14001)(cid:10447)(cid:11888)15(cid:14779)1501-1508(cid:11084)
+ 181 15 1501-1508 
 Rooms 1501-8, 15/F., Tai Yau Building,
 181 Johnston Road, Wanchai, Hong Kong
-(cid:26275)(cid:23065) Tel: (8 52) 3103 698 0
-(cid:8283)(cid:18119) Fax: (852) 3104 0170
-(cid:26275)(cid:24733)Email: info@pccpa.hk
+ Tel: (8 52) 3103 698 0
+ Fax: (852) 3104 0170
+ Email: info@pccpa.hk
 ACCOUNTANTS’ REPORT ON HISTORICAL FINANCIAL INFORMATION TO THE
 DIRECTORS OF SHENZHEN HQVT TECHNOLOGY CO., LTD. AND CMBC
 INTERNATIONAL CAPITAL LIMITED AND SPDB INTERNATIONAL CAPITAL LIMITED
@@ -13328,11 +13328,11 @@ significant increase in credit risk on an ongoing basis throughout each of the p
 there is a significant increase in credit risk, the Group compares the risk of a default occurring on the
 assets as of the reporting date with the risk of default as of the date of initial recognition. Especially
 the following indicators are incorporated:
-(cid:129) actual or expected significant adverse changes in business, financial or economic conditions
+ actual or expected significant adverse changes in business, financial or economic conditions
 that are expected to cause a significant change to the debtor’s ability to meet its obligations;
-(cid:129) external credit rating of the counterparty;
-(cid:129) actual or expected significant changes in the operating results of the debtor; and
-(cid:129) significant changes in the expected performance and behaviour of the debtor, including
+ external credit rating of the counterparty;
+ actual or expected significant changes in the operating results of the debtor; and
+ significant changes in the expected performance and behaviour of the debtor, including
 changes in the payment status of debtor.
 Regardless of the analysis above, a significant increase in credit risk is presumed if a debtor is
 more than 365 days past due in making a contractual payment.
@@ -13408,11 +13408,11 @@ assets and liabilities.
 For financial reporting purposes, fair value measurements are categorised into Level 1, 2 or 3
 based on the degree to which the inputs to the fair value measurements are observable and the
 significance of the inputs to the fair value measurement in its entirety, which are described as follows:
-(cid:129) Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or
+ Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or
 liabilities that the entity can access at the measurement date;
-(cid:129) Level 2 inputs are inputs, other than quoted prices included within Level 1, that are
+ Level 2 inputs are inputs, other than quoted prices included within Level 1, that are
 observable for the asset or liability, either directly or indirectly; and
-(cid:129) Level 3 inputs are unobservable inputs for the asset or liability.
+ Level 3 inputs are unobservable inputs for the asset or liability.
 As at 31 December2023 Level 1 Level 2 Level 3 Total
 RMB’000 RMB’000 RMB’000 RMB’000
 Financial assets at FVOCI
@@ -14274,13 +14274,13 @@ Research and Development
 Research expenditure is recognised as an expense as incurred. Costs incurred on development
 projects (relating to the design and testing of new and improved products) are recognised as
 development costs in intangible assets when the following criteria are met:
-(cid:129) It is technically feasible to complete the product so that it will be available for use;
-(cid:129) Management intends to complete the product and use or sell it;
-(cid:129) There is an ability to use or sell the product;
-(cid:129) It can be demonstrated how the product will generate probable future economic benefits;
-(cid:129) Adequate technical, financial and other resources to complete the development and to use or
+ It is technically feasible to complete the product so that it will be available for use;
+ Management intends to complete the product and use or sell it;
+ There is an ability to use or sell the product;
+ It can be demonstrated how the product will generate probable future economic benefits;
+ Adequate technical, financial and other resources to complete the development and to use or
 sell the product are available; and
-(cid:129) The expenditure attributable to the product during its development can be reliably measured.
+ The expenditure attributable to the product during its development can be reliably measured.
 Other development expenditures that do not meet these criteria are recognised as an expense as
 incurred. Development expenditures previously recognised as an expense are not recognised as an asset
 in a subsequent period.
@@ -15050,9 +15050,9 @@ Up to the date of this report, the Group had no significant subsequent events af
 (1) Basis of Consolidation
 The Historical Financial Information incorporate the financial statements of the Company and
 entities controlled by the Company and its subsidiaries. Control is achieved when the Company:
-(cid:129) has power over the investee;
-(cid:129) is exposed, or has rights, to variable returns from its involvement with the investee; and
-(cid:129) has the ability to use its power to affect its returns.
+ has power over the investee;
+ is exposed, or has rights, to variable returns from its involvement with the investee; and
+ has the ability to use its power to affect its returns.
 The Group reassesses whether or not it controls an investee if facts and circumstances indicate
 that there are changes to one or more of the three elements of control listed above.
 Consolidation of a subsidiary begins when the Group obtains control over the subsidiary and
@@ -15165,9 +15165,9 @@ short maturity of generally within three months when acquired.
 (8) Investments and Other Financial Assets
 (i) Classification
 The Group classifies its financial assets in the following measurement categories:
-(cid:129) those to be measured subsequently at fair value (either through other comprehensive income,
+ those to be measured subsequently at fair value (either through other comprehensive income,
 or through profit or loss), and
-(cid:129) those to be measured at amortised cost.
+ those to be measured at amortised cost.
 The classification depends on the entity’s business model for managing the financial assets and
 the contractual terms of the cash flows.
 For assets measured at fair value through profit and loss (“FVTPL”), gains and losses will be
@@ -15185,7 +15185,7 @@ Debt instruments
 Subsequent measurement of debt instruments depends on the Group’s business model for
 managing the asset and the cash flow characteristics of the asset. There are three measurement
 categories into which the Group classifies its debt instruments:
-(cid:129) Amortised cost: Assets that are held for collection of contractual cash flows, where those
+ Amortised cost: Assets that are held for collection of contractual cash flows, where those
 cash flows represent solely payments of principal and interest, are measured at amortised
 cost. Interest income from these financial assets is included in finance income using the
 effective interest rate method. Any gain or loss arising on derecognition is recognised
@@ -15196,11 +15196,11 @@ APPENDIX I ACCOUNTANTS’ REPORT
 directly in profit or loss and presented in other gains/(losses), net together with foreign
 exchange gains and losses. Impairment losses are presented as separate line item in the
 statement of profit or loss and other comprehensive income.
-(cid:129) FVTPL: Assets that do not meet the criteria for amortised cost or FVOCI are measured at
+ FVTPL: Assets that do not meet the criteria for amortised cost or FVOCI are measured at
 FVTPL. A gain or loss on a debt investment that is subsequently measured at FVTPL is
 recognised in profit or loss and presented net within other gains/(losses), net in the period in
 which it arises.
-(cid:129) FVOCI: Assets that are held for collection of contractual cash flows and for selling the
+ FVOCI: Assets that are held for collection of contractual cash flows and for selling the
 financial assets, where the assets’ cash flows represent solely payments of principal and
 interest, are measured at FVOCI. Movements in the carrying amount are taken through OCI,
 except for the recognition of impairment gains or losses, interest income and foreign
@@ -15241,18 +15241,18 @@ APPENDIX I ACCOUNTANTS’ REPORT
 (10) Contract Fulfilment Costs
 The Group recognises the contract fulfilment costs from the costs incurred to fulfil a contract only
 if those costs meet all of the following criteria:
-(cid:129) the costs relate directly to a contract or to an anticipated contract that the entity can
+ the costs relate directly to a contract or to an anticipated contract that the entity can
 specifically identify;
-(cid:129) the costs generate or enhance resources of the entity that will be used in satisfying (or in
+ the costs generate or enhance resources of the entity that will be used in satisfying (or in
 continuing to satisfy) performance obligations in the future; and
-(cid:129) the costs are expected to be recovered.
+ the costs are expected to be recovered.
 The contract fulfilment costs recognised shall be amortised to profit or loss on a systematic basis
 that is consistent with the transfer to the customer of the services to which the asset relates.
 The Group recognises an impairment loss in profit or loss to the extent that the carrying amount
 of contract fulfilment cost recognised exceeds:
-(cid:129) the remaining amount of consideration that the entity expects to receive in exchange for the
+ the remaining amount of consideration that the entity expects to receive in exchange for the
 services to which the asset relates; less
-(cid:129) the costs that relate directly to providing those services and that have not been recognised as
+ the costs that relate directly to providing those services and that have not been recognised as
 expenses.
 (11) Inventories
 Raw materials, work in progress and finished goods are stated at the lower of cost and net
@@ -15411,17 +15411,17 @@ APPENDIX I ACCOUNTANTS’ REPORT
 (21) Earnings Per Share
 Basic earnings per share
 Basic earnings per share is calculated by dividing:
-(cid:129) the profit attributable to owners of the Company, excluding any costs of servicing equity
+ the profit attributable to owners of the Company, excluding any costs of servicing equity
 other than ordinary shares;
-(cid:129) by the weighted average number of ordinary shares outstanding during the financial year,
+ by the weighted average number of ordinary shares outstanding during the financial year,
 adjusted for bonus elements in ordinary shares issued during the year and excluding treasury
 shares.
 Diluted earnings per share
 Diluted earnings per share adjusts the figures used in the determination of basic earnings per share
 to take into account:
-(cid:129) the after-income tax effect of interest and other financing costs associated with dilutive
+ the after-income tax effect of interest and other financing costs associated with dilutive
 potential ordinary shares, and
-(cid:129) the weighted average number of additional ordinary shares that would have been outstanding
+ the weighted average number of additional ordinary shares that would have been outstanding
 assuming the conversion of all dilutive potential ordinary shares.
 (22) Government Grant
 Government grants relating to costs are deferred and recognised in profit or loss over the period
@@ -15512,11 +15512,11 @@ the recognition exemption for lease of low-value assets. Lease payments on short
 of low-value assets are recognised as expense on a straight-line basis over the lease term.
 Right-of-Use Assets
 The cost of right-of-use asset includes:
-(cid:129) the amount of the initial measurement of the lease liability;
-(cid:129) any lease payments made at or before the commencement date, less any lease incentives
+ the amount of the initial measurement of the lease liability;
+ any lease payments made at or before the commencement date, less any lease incentives
 received;
-(cid:129) any initial direct costs incurred by the Group; and
-(cid:129) an estimate of costs to be incurred by the Group in dismantling and removing the underlying
+ any initial direct costs incurred by the Group; and
+ an estimate of costs to be incurred by the Group in dismantling and removing the underlying
 assets, restoring the site on which it is located or restoring the underlying asset to the
 condition required by the terms and conditions of the lease.
 Right-of-use assets are measured at cost, less any accumulated depreciation and impairment
@@ -15551,15 +15551,15 @@ individual lessee would have to pay to borrow the funds necessary to obtain an a
 the right-of-use asset in a similar economic environment with similar terms, security and conditions.
 Assets and liabilities arising from a lease are initially measured on a present value basis. Lease
 liabilities include the net present value of the following lease payments:
-(cid:129) fixed payments (including in-substance fixed payments), less any lease incentives receivable;
-(cid:129) variable lease payments that are based on an index or a rate, initially measured using the
+ fixed payments (including in-substance fixed payments), less any lease incentives receivable;
+ variable lease payments that are based on an index or a rate, initially measured using the
 index or rate as at the commencement date;
-(cid:129) amounts expected to be payable by the Group under residual value guarantees;
-(cid:129) the exercise price of a purchase option if the Group is reasonably certain to exercise that
+ amounts expected to be payable by the Group under residual value guarantees;
+ the exercise price of a purchase option if the Group is reasonably certain to exercise that
 option;
-(cid:129) payments of penalties for terminating the lease, if the lease term reflects the Group
+ payments of penalties for terminating the lease, if the lease term reflects the Group
 exercising that option; and
-(cid:129) lease payments to be made under reasonably certain extension options are also included in
+ lease payments to be made under reasonably certain extension options are also included in
 the measurement of lease liabilities.
 After the commencement date, lease liabilities are adjusted by interest accretion and lease
 payments.
@@ -15629,12 +15629,12 @@ results or other transactions of the Group entered into subsequent to 31 Decembe
 
 === PAGE 349 ===
 APPENDIX II UNAUDITED PRO FORMA FINANCIAL INFORMATION
-(cid:26945)(cid:15831)(cid:16395)(cid:7804)(cid:21298)(cid:10387)(cid:13582)(cid:24571)181(cid:22023)(cid:10447)(cid:14001)(cid:10447)(cid:11888)15(cid:14779)1501-1508(cid:11084)
+ 181 15 1501-1508 
 Rooms 1501-8, 15/F., Tai Yau Building,
 181 Johnston Road, Wanchai, Hong Kong
-(cid:26275)(cid:23065) Tel: (8 52) 3103 698 0
-(cid:8283)(cid:18119) Fax: (852) 3104 0170
-(cid:26275)(cid:24733)Email: info@pccpa.hk
+ Tel: (8 52) 3103 698 0
+ Fax: (852) 3104 0170
+ Email: info@pccpa.hk
 INDEPENDENT REPORTING ACCOUNTANTS’ ASSURANCE REPORT ON THE
 COMPILATION OF UNAUDITED PRO FORMA FINANCIAL INFORMATION
 To the Directors of Shenzhen HQVT Technology Co., LTD.
@@ -15700,8 +15700,8 @@ procedures to assess whether the applicable criteria used by the Directors in th
 Unaudited Pro Forma Financial Information provide a reasonable basis for presenting the significant
 effects directly attributable to the event or transaction, and to obtain sufficient appropriate evidence
 about whether:
-(cid:129) The related unaudited pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) The unaudited pro forma financial information reflects the proper application of those
+ The related unaudited pro forma adjustments give appropriate effect to those criteria; and
+ The unaudited pro forma financial information reflects the proper application of those
 adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountant’s judgement, having regard to the
 reporting accountant’s understanding of the nature of the Group, the event or transaction in respect of

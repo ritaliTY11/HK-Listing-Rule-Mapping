@@ -192,19 +192,19 @@ EXPECTED TIMETABLE
 The results of allocations in the Hong Kong Public Offering (with successful applicants’
 identification document numbers, where appropriate) to be available through a variety of
 channels, including:
-(cid:129) in the announcement to be posted on our
+ in the announcement to be posted on our
 website and the website of the
 Stock Exchange at www.iflyhealth.com
 and www.hkexnews.hk respectively . . . . . . . . . . . . . . . . .at or before 11:00 p.m.
 on Friday, December 27, 2024
-(cid:129) from the “Allotment Results” page
+ from the “Allotment Results” page
 at www.hkeipo.hk/IPOResult
 (or www.tricor.com.hk/ipo/result) with
 a “search by ID” function from . . . . . . . . . . . . . . . . . . . . . .11:00 p.m. on Friday,
 December 27, 2024
 to 12:00 midnight on
 Thursday, January 2, 2025
-(cid:129) from the allocation results telephone
+ from the allocation results telephone
 enquiry line by calling +852 3691 8488
 between 9:00 a.m. and 6:00 p.m. from . . . . . . . . . . .Monday, December 30, 2024
 to Friday, January 3, 2025
@@ -443,7 +443,7 @@ imaging and medical device. The duration of our projects generally ranges from o
 years, during which we provide maintenance services free of charge. Upon expiration of the
 warranty period, we generally charge fees for maintenance and operations services. Our
 products and solutions include the following:
-(cid:129) PHC Services. Our PHC Services business line consists of General Practice Clinical
+ PHC Services. Our PHC Services business line consists of General Practice Clinical
 Decision Support System (“CDSS”) and Chronic Disease Management Tools. Our
 General Practice CDSS, as assistance to doctors and medical professionals, provides
 medical recommendations including diagnosis suggestions, test and examination
@@ -466,7 +466,7 @@ interventions and use automated reminder systems. These tools establish a tiered
 management model for chronic diseases such as hypertension and hyperglycemia
 and streamline chronic disease management for health commissions and PHC
 institutions.
-(cid:129) Hospital Services. We offer CDSS and patient management solutions which are
+ Hospital Services. We offer CDSS and patient management solutions which are
 similar to those mentioned in the above PHC Services in terms of underlying
 technology, but tailored to hospital operations for doctors at hospitals to increase
 their work efficiency and medical service quality. Our Hospital Services business
@@ -477,7 +477,7 @@ speech-to-text EMR generation tools for the efficiency of doctors at the during-
 diagnosis phase; and (iii)AI-empowered tools for doctors and medical professionals
 when conducting patient follow-ups. Our Intelligent Assistant includes General
 Practice and Specialized CDSS Tools and AI EMR Quality Control.
-(cid:129) Patient Services. Our Patient Services business line includes Post-discharge
+ Patient Services. Our Patient Services business line includes Post-discharge
 Management Platform (including our Xunfei XiaoyiApp and Mini Program), Cloud
 Medical Imaging Platform and Medical Device. Our Post-Discharge Management
 Platform is developed to customize patient management planning post discharge,
@@ -499,7 +499,7 @@ reports and identification of the correct department for subsequent follow-up vi
 
 === PAGE 15 ===
 SUMMARY
-(cid:129) Regional Healthcare Solutions. Our Regional Healthcare Solutions business line
+ Regional Healthcare Solutions. Our Regional Healthcare Solutions business line
 consists of Regional Healthcare Administrator Services and Medical Insurance
 Administrative Solutions. Our Regional Healthcare Administrator Services are
 designed to promote integrated healthcare administration, covering outpatient
@@ -563,12 +563,12 @@ medication recommendations, intelligent triage and patient-oriented applications
 our Xunfei Xiaoyi App and Mini-Program). These are more complex applications that bear
 more resemblance to the mental process of healthcare professionals in making decisions. Our
 technological advantages are notably exemplified by the following breakthroughs:
-(cid:129) we were the only corporate participant in the development of the “Technical
+ we were the only corporate participant in the development of the “Technical
 Evaluation System and the Standard Specifications of LLMs for Use in Healthcare.”
 This is one of the first industry standards setting the rules for the use of relevant
 healthcare AI technologies in China to assess the use of AI technologies in the
 healthcare industry according to Frost & Sullivan;
-(cid:129) we are one of the first market participants in advancing and implementing the LLM
+ we are one of the first market participants in advancing and implementing the LLM
 in the healthcare industry in China, according to Frost & Sullivan. It is trained with
 massive high-quality datasets to understand, summarize, generate and predict new
 content. Applicable in more than 300 medical scenarios, our Xunfei Spark Medical
@@ -584,29 +584,29 @@ generation and multi-modal interactions in medical scenarios, according to the t
 organized by the China Telecommunication Technology Labs (“CTTL”), which is
 part of the China Academy of Information and Communication Technology
 (“CAICT”); and
-(cid:129) ourresearchbranch,dedicatedtofundamentaltechnologyadvancementandindustry
+ ourresearchbranch,dedicatedtofundamentaltechnologyadvancementandindustry
 ecosystem formulation, was accredited as the Key Laboratory for Medical AI
 Research and Application of Anhui Province. Our research efforts help us solidify
 our technology advancements to further promote healthcare AI development and
 continue meeting systemic demand in the healthcare industry.
 COMPETITIVE STRENGTHS
 We believe that the following competitive strengths contribute to our success:
-(cid:129) Commercialization Capabilities of AI-powered products and services in China’s
+ Commercialization Capabilities of AI-powered products and services in China’s
 healthcare industry with the largest customer coverage;
-(cid:129) Technological capabilities combined with understanding of the healthcare industry
+ Technological capabilities combined with understanding of the healthcare industry
 form unique advantages;
-(cid:129) Solutions enable an extendable product portfolio capable of addressing massive and
+ Solutions enable an extendable product portfolio capable of addressing massive and
 unmet demand;
-(cid:129) Synergistic commercialization strategies that fuel future growth; and
-(cid:129) Management team with interdisciplinary expertise.
+ Synergistic commercialization strategies that fuel future growth; and
+ Management team with interdisciplinary expertise.
 See “Business — Competitive Strengths.”
 BUSINESS STRATEGIES
 We have formulated the following strategies in line with our mission and vision:
-(cid:129) Continue strengthen our healthcare AI infrastructure and AI capabilities with
+ Continue strengthen our healthcare AI infrastructure and AI capabilities with
 increased R&D investments to sustain a competitive edge;
-(cid:129) Expand geographical coverage and customer reach;
-(cid:129) Continuously optimize the solution matrix and promote operating efficiency; and
-(cid:129) Seize new profit opportunities through synergistic commercialization strategies.
+ Expand geographical coverage and customer reach;
+ Continuously optimize the solution matrix and promote operating efficiency; and
+ Seize new profit opportunities through synergistic commercialization strategies.
 See “Business — Business Strategies.”
 – 6 –
 
@@ -676,19 +676,19 @@ Our business faces risks including those set out in the section headed “Risk F
 different investors may have different interpretations and criteria when determining the
 significance of a risk, you should read the “Risk Factors” section in its entirety before you
 decide to invest in our Shares. Some of the major risks that we face include:
-(cid:129) The healthcare AI industry in which we operate is characterized by constant
+ The healthcare AI industry in which we operate is characterized by constant
 changes. If we fail to continuously improve our technology and provide solutions
 that address the demands of our customers, our business, financial condition and
 prospects may be materially and adversely affected.
-(cid:129) We are subject to credit risk related to delay in payment from customers. Any
+ We are subject to credit risk related to delay in payment from customers. Any
 significantdelayinpaymentofourreceivablescouldmateriallyandadverselyaffect
 our business, results of operation, liquidity and financial condition.
-(cid:129) The healthcare AI industry in the PRC is subject to extensive and evolving
+ The healthcare AI industry in the PRC is subject to extensive and evolving
 regulatory requirements. Non-compliance with the requirements or changes in the
 requirements may materially and adversely affect our business and prospects. Any
 lack of requisite approvals, licenses or permits applicable to our business may have
 a material and adverse effect on our business, financial condition and prospects.
-(cid:129) Any loss in deterioration of our relationships with our important customers may
+ Any loss in deterioration of our relationships with our important customers may
 materiallyandadverselyaffectourbusiness,financialconditionandprospects.Ifwe
 are unable to attract new customers to purchase our offerings or retain existing
 customers, our business, financial condition and prospects could be materially and
@@ -697,16 +697,16 @@ adversely affected.
 
 === PAGE 20 ===
 SUMMARY
-(cid:129) Any actual or perceived misuse of AI technologies by us or by other third parties,
+ Any actual or perceived misuse of AI technologies by us or by other third parties,
 intentionally or inadvertently, could materially and adversely affect our business,
 financial condition and prospects.
-(cid:129) Failure to further upgrade, iterate, launch or commercialize our products and
+ Failure to further upgrade, iterate, launch or commercialize our products and
 services or inability to gain market acceptance may have a negative impact on our
 business, financial condition and prospects.
-(cid:129) We have recorded net losses and operating cash outflow during the Track Record
+ We have recorded net losses and operating cash outflow during the Track Record
 Period. We may not be able to achieve or subsequently maintain profitability in the
 future.
-(cid:129) We recognized a certain scale of goodwill and intangible assets during the Track
+ We recognized a certain scale of goodwill and intangible assets during the Track
 RecordPeriod.Ifwedetermineourgoodwilland/orintangibleassetstobeimpaired,
 it would adversely affect our financial condition.
 SUMMARY OF HISTORICAL FINANCIAL INFORMATION
@@ -1222,21 +1222,21 @@ underwriting commissions and other estimated offering expenses payable by us in 
 with the Global Offering and assuming an Offer Price of HK$82.8 per Share, we estimate that
 we will receive net proceeds of approximately HK$507.1 million from the Global Offering.We
 intend to use the net proceeds from the Global Offering for the following purposes:
-(cid:129) approximately 32.4% of the net proceeds, or HK$164.0 million, will be used to
+ approximately 32.4% of the net proceeds, or HK$164.0 million, will be used to
 invest in research and development to continuously reinforce our core competence
 by (i) constantly upgrading our Xunfei Spark Medical Model; (ii) continuously
 optimizing our algorithms and reinforcing our core technologies such as machine
 learning; and (iii) constructing our overseas R&D center and attracting top-tier AI
 talents overseas;
-(cid:129) approximately 26.6% of the net proceeds, or HK$135.0 million, will be used to
+ approximately 26.6% of the net proceeds, or HK$135.0 million, will be used to
 further enrich our products and services through upgrading existing products and
 developing new products;
-(cid:129) approximately 24.7% of the net proceeds, or HK$125.1 million, will be used to
+ approximately 24.7% of the net proceeds, or HK$125.1 million, will be used to
 reinforce our commercialization capabilities and expand our service network;
-(cid:129) approximately6.4%ofthenetproceeds,orHK$32.3million,willbeusedtoacquire
+ approximately6.4%ofthenetproceeds,orHK$32.3million,willbeusedtoacquire
 companies that may generate synergies with our existing capacities, such as medical
 device manufactures; and
-(cid:129) approximately 10.0% of the net proceeds, or HK$50.7 million, will be used for
+ approximately 10.0% of the net proceeds, or HK$50.7 million, will be used for
 working capital and other general corporate purposes.
 See “Future Plans and Use of Proceeds.”
 DIVIDEND
@@ -2118,26 +2118,26 @@ our present and future business strategies and the environment in which we will 
 future. Important factors that could cause our actual performance or achievements to differ
 materially from those in the forward-looking statements include, among other things, the
 following:
-(cid:129) general political and economic conditions, including those related to the PRC;
-(cid:129) our ability to successfully implement our business plans and strategies;
-(cid:129) future developments, trends and conditions in the industry and markets in which we
+ general political and economic conditions, including those related to the PRC;
+ our ability to successfully implement our business plans and strategies;
+ future developments, trends and conditions in the industry and markets in which we
 operate or into which we intend to expand;
-(cid:129) our business operations and prospects;
-(cid:129) our capital expenditure plans;
-(cid:129) the actions and developments of our competitors;
-(cid:129) our financial condition and performance;
-(cid:129) capital market developments;
-(cid:129) our dividend policy;
-(cid:129) any changes in the laws, rules and regulations of the central and local governments
+ our business operations and prospects;
+ our capital expenditure plans;
+ the actions and developments of our competitors;
+ our financial condition and performance;
+ capital market developments;
+ our dividend policy;
+ any changes in the laws, rules and regulations of the central and local governments
 in the PRC and other relevant jurisdictions and the rules, regulations and policies of
 the relevant governmental authorities relating to all aspects of our business and our
 business plans;
-(cid:129) various business opportunities that we may pursue; and
+ various business opportunities that we may pursue; and
 – 47 –
 
 === PAGE 59 ===
 FORWARD-LOOKING STATEMENTS
-(cid:129) changes or volatility in interest rates, foreign exchange rates, equity prices or other
+ changes or volatility in interest rates, foreign exchange rates, equity prices or other
 rates or prices, including those pertaining to the PRC and Hong Kong and the
 industry and markets in which we operate.
 Additional factors that could cause actual performance or achievements to differ
@@ -2180,23 +2180,23 @@ such as resistance from medical professionals, patient scepticism, preference fo
 healthcare practices or concerns about data privacy, ethical use of AI in healthcare, and the
 opacity of AI decision-making processes. Other risks and challenges we may face in this
 emerging and dynamic market include our ability to, among other things:
-(cid:129) navigate an evolving regulatory environment;
-(cid:129) enhance and maintain the value of our brand;
-(cid:129) develop and launch diversified and distinguishable products to effectively address
+ navigate an evolving regulatory environment;
+ enhance and maintain the value of our brand;
+ develop and launch diversified and distinguishable products to effectively address
 the needs of our users and ecosystem participants;
-(cid:129) grow our customer base and enhance our user engagement in a cost-efficient
+ grow our customer base and enhance our user engagement in a cost-efficient
 manner;
-(cid:129) maintain a reliable, secure, high-performance and scalable technology
+ maintain a reliable, secure, high-performance and scalable technology
 infrastructure;
 – 49 –
 
 === PAGE 61 ===
 RISK FACTORS
-(cid:129) maintain our corporate culture and continue to attract, retain and motivate talented
+ maintain our corporate culture and continue to attract, retain and motivate talented
 employees;
-(cid:129) develop and maintain relationships with our existing business partners and attract
+ develop and maintain relationships with our existing business partners and attract
 new business partners to our ecosystem; and
-(cid:129) defend ourselves against litigation, regulatory interference, claims concerning
+ defend ourselves against litigation, regulatory interference, claims concerning
 intellectual property, privacy or other aspects of our business.
 If we fail to address any of the foregoing risks and challenges, our business, financial
 condition and prospects may be materially and adversely affected.
@@ -2329,27 +2329,27 @@ RISK FACTORS
 customers, which would materially and adversely affect our business, financial condition and
 prospects. In addition, our relationship with such customers may be materially and adversely
 affected by factors out of our control, including:
-(cid:129) an overall decline in the business or liquidity position of one or more of our major
+ an overall decline in the business or liquidity position of one or more of our major
 customers, especially customers of our PHC Institution Services and Hospital
 Services;
-(cid:129) thefailureorinabilityofanyofourmajorcustomerstomaketimelypaymentforour
+ thefailureorinabilityofanyofourmajorcustomerstomaketimelypaymentforour
 services;
-(cid:129) changes in fiscal or procurement procedures or decreases in available government
+ changes in fiscal or procurement procedures or decreases in available government
 funding;
-(cid:129) changes in policy or priorities and resultant funding;
-(cid:129) appeals, disputes, or litigation relating to procurement, including, but not limited to,
+ changes in policy or priorities and resultant funding;
+ appeals, disputes, or litigation relating to procurement, including, but not limited to,
 bid protests by unsuccessful bidders on potential or actual awards of contracts to us
 or our partners by the government;
-(cid:129) additional selection processes administered by the intermediaries engaged;
-(cid:129) the adoption of new laws or regulations or changes to existing laws or regulations;
-(cid:129) budgetary cycles and constraints, including constraints imposed by any lapses in
+ additional selection processes administered by the intermediaries engaged;
+ the adoption of new laws or regulations or changes to existing laws or regulations;
+ budgetary cycles and constraints, including constraints imposed by any lapses in
 appropriations for the regional healthcare administrators or certain of their
 departments and agencies;
-(cid:129) influence by, or competition from, third parties with respect to pending, new, or
+ influence by, or competition from, third parties with respect to pending, new, or
 existing contracts;
-(cid:129) non-compliance with laws on the part of any major customers or breach of contract
+ non-compliance with laws on the part of any major customers or breach of contract
 by any major customers vis-à-vis their business partners; or
-(cid:129) unlawful, improper or otherwise inappropriate activities by any major customers
+ unlawful, improper or otherwise inappropriate activities by any major customers
 that could harm their business, brand and reputation, or subject them to government
 investigations.
 If we fail to maintain relationships with our customers, and if we are unable to find
@@ -2813,12 +2813,12 @@ information.
 We face risks inherent in handling certain types of data and in securing and protecting
 suchdata.Inparticular,wefaceanumberofdata-relatedchallengesinourbusinessoperations,
 including:
-(cid:129) protecting the data in and hosted on our system, including against threats such as
+ protecting the data in and hosted on our system, including against threats such as
 malicious codes and viruses, phishing and other cyber-attacks by external parties or
 improper behavior by our employees;
-(cid:129) addressing concerns related to privacy and sharing, safety, security and other
+ addressing concerns related to privacy and sharing, safety, security and other
 factors; and
-(cid:129) complying with applicable laws, rules and regulations relating to the collection, use,
+ complying with applicable laws, rules and regulations relating to the collection, use,
 disclosure or security of personal information, including any requests from
 regulatory and government authorities relating to such data.
 Any systems failure or security breach or lapse that results in the unauthorized release of
@@ -4844,10 +4844,10 @@ capabilities and service quality, hospitals in China can be categorized as Class
 Class III, with A, B and C levels in each category. Class III Level A hospitals are the highest
 ranking hospitals in this ranking system.
 The PRC healthcare service industry is facing the following challenges:
-(cid:129) Shortage of resources. There is a significant scarcity of suitably qualified doctors
+ Shortage of resources. There is a significant scarcity of suitably qualified doctors
 and medical resources in the PRC healthcare service industry, especially in PHC
 institutions, which serve as the first line of contact for healthcare services.
-(cid:129) Uneven distribution of resources. There is an uneven distribution of medical
+ Uneven distribution of resources. There is an uneven distribution of medical
 resources in the healthcare service industry, where a relatively small percentage of
 hospitals attend to an overwhelmingly large number of visits. There are 3,855 Class
 III hospitals in China in 2023, accounting for 10.1% of all hospitals, but they are
@@ -4860,7 +4860,7 @@ Bulletin of China’s Health Development in 2023 (《2023中國衛生健康事�
 
 === PAGE 127 ===
 INDUSTRY OVERVIEW
-(cid:129) Challenges for efficient collaboration: Collaborative mechanisms such as a tiered
+ Challenges for efficient collaboration: Collaborative mechanisms such as a tiered
 healthcare system and two-way referral can help address the shortage and uneven
 distribution of resources. However, the implementation of such mechanisms faces
 challenges. For example, it is difficult to share patients’ EMRs and diagnostic
@@ -4908,20 +4908,20 @@ Source: Public Companies’Filings, Company Official Websites, Frost & Sullivan 
 === PAGE 128 ===
 INDUSTRY OVERVIEW
 The AI industry is expected to be driven by the following factors and trends:
-(cid:129) Favorable policies: Favorable policies can accelerate the R&D and upgrade of AI
+ Favorable policies: Favorable policies can accelerate the R&D and upgrade of AI
 technologies,increasetheirapplicationscopeandstimulatemarketdemandintheAI
 industry. The Chinese government has promulgated favorable policies including the
 Guiding Opinions onAccelerating Scenario Innovation and Promoting High-quality
 Economic Development with High level Application of Artificial Intelligence,
 issued by the MOST in 2022, to advance AI innovation and promote the
 development of AI technologies.
-(cid:129) Technology breakthrough: AI technologies have witnessed continual
+ Technology breakthrough: AI technologies have witnessed continual
 breakthroughs, evidenced by the recent development of LLMs. In particular, the
 development of specialized LLMs, which rely on domain and use case-specific
 knowledge to interpret terminology, concepts, solutions and reasons, are expected to
 create new market opportunities in specialized and complex sectors such as
 healthcare, where general LLMs may not adequately meet the distinct demand.
-(cid:129) AI Integration in the digital economy: A digital economy serves as the
+ AI Integration in the digital economy: A digital economy serves as the
 infrastructure for efficient information sharing and processing. Integrated within
 digital economy, AI can be applied to provide more customized and personalized
 solutions.
@@ -4979,11 +4979,11 @@ companies and biotech – mainly include patient-facing AI products and services
 Source: Public Companies’Filings, China Health Statistical Yearbook, Frost & Sullivan Analysis
 The growth drivers and future trends of the healthcare AI industry in China are set forth
 as follows:
-(cid:129) Advancement of AI technologies and hardware: AI technologies and hardware
+ Advancement of AI technologies and hardware: AI technologies and hardware
 advancements are expected to drive the growth of the industry. In particular, the
 increased volume of data can be used to train AI models, which can in turn propel
 the development of AI technologies, creating a virtuous development cycle.
-(cid:129) Favorable policies and increasing market demand: Favorable policies from the
+ Favorable policies and increasing market demand: Favorable policies from the
 Chinese government are promoting the development of AI in healthcare. For
 example, on July 8, 2021, NMPA announced the Classification Guidelines for
 Artificial Intelligence-AI Medical Devices and SaMDs (Software as Medical
@@ -5002,13 +5002,13 @@ comprehensively enhance the development quality and level of AI. In addition,
 heightened public awareness of proactive health management, the aging population
 and increasing demand from hospitals are driving the needs for healthcare AI
 solutions.
-(cid:129) Revolution through AI assistance: Deployed in solutions such as CDSS, medical
+ Revolution through AI assistance: Deployed in solutions such as CDSS, medical
 imaging and public health services, AI provides diagnoses and treatment
 recommendations to medical professionals and automates their routine
 administrative tasks. The application of AI in medical scenarios is expected to
 enhance the soundness of diagnoses and treatments and streamline the healthcare
 process, improving the overall quality of care.
-(cid:129) IncreasingAI accessibility through applications and mini-programs: Incorporated
+ IncreasingAI accessibility through applications and mini-programs: Incorporated
 into healthcare service mobile applications and mini-programs, AI can improve
 service accessibility, streamline patient interaction and enhance post-diagnosis
 management through real-time feedback, personalized health profile and the
@@ -5112,24 +5112,24 @@ Comprehensive Healthcare AI Products/Solutions Providers Specialized Healthcare 
 Companies Specialized in Companies Specialized in
 Pure Healthcare AI Companies Other Companies*
 CDSS AI Imaging
-(cid:129) Xunfei Healthcare Technology Co.
-Ltd. offers AI-empowered healthcare (cid:129) Baidu Inc. provides (cid:129) Shanghai United Imaging
+ Xunfei Healthcare Technology Co.
+Ltd. offers AI-empowered healthcare Baidu Inc. provides Shanghai United Imaging
 products/solutions such Healthcare Co., Ltd.
 solutions including General Practice
-CDSS, Medical Insurance as Medical Big Data (cid:129) Beijing Huiyun
+CDSS, Medical Insurance as Medical Big Data Beijing Huiyun
 Processing, Fundus
 Administrative Solutions, Chronic Technology Co., Ltd.
 Image Analysis system,
-Disease Management Tools, (cid:129) Shukun Technology
+Disease Management Tools, Shukun Technology
 Intelligent Pre-diagnosis
 AI-assisted patient management and Co., Ltd.
 Assistant.
 AI-assisted mobile doctor workbench.
-(cid:129) Unisound AI Technology Co., Ltd.,
-under its healthcare business segment, (cid:129) Winning Health (cid:129) Infervision Medical
+ Unisound AI Technology Co., Ltd.,
+under its healthcare business segment, Winning Health Infervision Medical
 provides AI-empowered healthcare Technology Group Technology Co., Ltd.
-solutions such as medical record Co., Ltd. offers healthcare (cid:129) Shanghai Synyi Medical
-voice entry, medical record quality informatization products Technology Co. Ltd. (cid:129) Beijing Deepwise
+solutions such as medical record Co., Ltd. offers healthcare Shanghai Synyi Medical
+voice entry, medical record quality informatization products Technology Co. Ltd. Beijing Deepwise
 control, single-disease quality control and Internet medical Science and Technology
 and medical insurance payment products. Co., Ltd.
 management.
@@ -5166,21 +5166,21 @@ The healthcare AI industry in China is highly fragmented and competitive. Compan
 with strong industry know-how and solid customer bases in the healthcare AI industry are
 equipped with first-mover advantages. New market entrants to the healthcare AI industry in
 China are confronted with a number of barriers, including:
-(cid:129) Industry insight barrier: New market entrants often lack sufficient industry
+ Industry insight barrier: New market entrants often lack sufficient industry
 insights. Accumulating insights inAI healthcare industry can be challenging due to
 the complexity and proficiency of experience and know-hows required.
-(cid:129) Financial resources: The healthcare AI industry requires significant investment in
+ Financial resources: The healthcare AI industry requires significant investment in
 R&D, branding, customer services and compliance, which leads to a longer return
 of investment, posing challenges for new entrants with relatively limited financial
 resources.
-(cid:129) Interdisciplinary talent: Experienced and interdisciplinary professionals are crucial
+ Interdisciplinary talent: Experienced and interdisciplinary professionals are crucial
 in the healthcareAI industry. Talent with strongAI technology backgrounds as well
 as solid know-how are in high demand in the healthcare AI industry.
 – 122 –
 
 === PAGE 134 ===
 INDUSTRY OVERVIEW
-(cid:129) Regulatoryrequirements:Theincreasinglyextensiveregulatoryrequirementsinthe
+ Regulatoryrequirements:Theincreasinglyextensiveregulatoryrequirementsinthe
 healthcare AI industry require substantial investment in legal expertise, industry
 insights and internal controls.
 THE AI IN HEALTHCARE INSTITUTION MARKET
@@ -5325,9 +5325,9 @@ version that covers more than 50 diseases, and has a strong market competitive a
 disease coverage and penetration rate in PHC institutions.
 Manufacturer Xunfei Healthcare Company G Company I Company A
 Launch Year 2016 2015 2016 2018
-• Mainly primary healthcare (cid:129) (cid:129) M Us a e i d n l t y o C p l r a o s v s i d II e I b h a o s s i p c i C ta D ls SS (cid:129) Mainly Class III hospitals in (cid:129) S co m m a p rt r e H h o e s n p s i i t v a e l: h R o e s g p i i o ta n l a s l or
+• Mainly primary healthcare M Us a e i d n l t y o C p l r a o s v s i d II e I b h a o s s i p c i C ta D ls SS Mainly Class III hospitals in S co m m a p rt r e H h o e s n p s i i t v a e l: h R o e s g p i i o ta n l a s l or
 Targeted Customers institutions Class II hospitals
-(cid:129) Hospitals products for primary healthcare Jiangsu, Zhejiang, Shanghai (cid:129) Ai Zhu Yi ((cid:12314)(cid:8616)(cid:24746)): Primary
+ Hospitals products for primary healthcare Jiangsu, Zhejiang, Shanghai Ai Zhu Yi ( ): Primary
 institutions
 healthcare institutions
 1. General Practice CDSS product
@@ -5340,12 +5340,12 @@ primary healthcare institutions 2. Specialized disease version primary healthcar
 for hospitals
 3. Specialized disease version 3. Specialized disease version
 3. Specialized disease version
-(cid:129) The system provides diagnostic (cid:129) T ve h r e s i s o t n an c d o a v r e d r s p r 2 im ,0 a 0 r 0 y + l d ev is e e l ases (cid:129) The standardized version covers (cid:129) A co i v Z e h rs u 3 Y 0 i 0 ( + (cid:12314) co (cid:8616) m (cid:24746) mo ): n T d h i e s e s a y s s e t s e m at
-Covered Disease Areas by assistance for 95% of diseases (cid:129) The standard hospital version topics of over 1,400 diseases, primary level.
-General Practice Version (i.e., more than 1,880 diseases, provides diagnostic assistance for 2,600 test items, and (cid:129) Smart Hospital: The system
+ The system provides diagnostic T ve h r e s i s o t n an c d o a v r e d r s p r 2 im ,0 a 0 r 0 y + l d ev is e e l ases The standardized version covers A co i v Z e h rs u 3 Y 0 i 0 ( + co m mo ): n T d h i e s e s a y s s e t s e m at
+Covered Disease Areas by assistance for 95% of diseases The standard hospital version topics of over 1,400 diseases, primary level.
+General Practice Version (i.e., more than 1,880 diseases, provides diagnostic assistance for 2,600 test items, and Smart Hospital: The system
 including 129 common diseases) 80% of diseases common in 30,000 medications. covers 5,000+ diseases of
 in primary care level. general hospitals. general practice.
-Cov S e p r e e c d i a D li i z s e e d a s V e e A rs r i e o a n s by (cid:129) More than 50 diseases (cid:129) (cid:129) (cid:129) I O V C n T U c E o r l e o l g a y ted diseases (cid:129) (cid:129) V Se T p E ticemia (cid:129) (cid:129) C C as a O V r P d T i D o E vascular areas such
+Cov S e p r e e c d i a D li i z s e e d a s V e e A rs r i e o a n s by More than 50 diseases I O V C n T U c E o r l e o l g a y ted diseases V Se T p E ticemia C C as a O V r P d T i D o E vascular areas such
 AI IN PHC INSTITUTIONS MARKET
 Overview
 AI can be applied in a broad range of scenarios in PHC institutions, including those
@@ -5357,7 +5357,7 @@ for healthcare administrators.
 Entry Barriers of AI in PHC Institutions
 New market entrants to the AI in PHC institution industry are confronted with a number
 of barriers, including:
-(cid:129) Data quality and access barriers: Quality of data, measured in terms of
+ Data quality and access barriers: Quality of data, measured in terms of
 completeness and accuracy, is key in the training of AI models and provision of
 solutions. However, data at PHC institutions are often non-standardized, such as
 those from incomplete EMRs, and so cannot be used byAI directly. Gaining access
@@ -5367,18 +5367,18 @@ adequately cover the range of diseases encountered in PHC institutions.
 
 === PAGE 138 ===
 INDUSTRY OVERVIEW
-(cid:129) Technology barriers: Datasets, deep learning algorithms andAI models tailored for
+ Technology barriers: Datasets, deep learning algorithms andAI models tailored for
 PHC institutions are crucial for the harmonization of data from different sources.
 Leading companies in the PHC institution AI industry typically have competitive
 edges in terms of these key technologies.
 Growth Drivers of AI in PHC Institutions
 TheAI in PHC Institutions industry is expected to be driven by the following factors and
 trends:
-(cid:129) Strong market demand: The market demand for AI in PHC institutions is high due
+ Strong market demand: The market demand for AI in PHC institutions is high due
 to several factors including the rising number of chronic disease patients.
-(cid:129) Technological advances: Issues such as unstructured clinical data can be addressed
+ Technological advances: Issues such as unstructured clinical data can be addressed
 via advanced AI technologies.
-(cid:129) Favorable policies: The Chinese government has issued favorable policies,
+ Favorable policies: The Chinese government has issued favorable policies,
 including the Guiding Opinions on Comprehensively Promoting the Construction of
 Closely Tailored County Medical and Healthcare Communities, issued by NHC in
 2023, to encourage the deployment of AI technologies in county-level regions.
@@ -5426,12 +5426,12 @@ Chronic diseases are defined as conditions that persist for a year or more, nece
 continuous medical care or restricting daily activities.
 The chronic disease management industry in China is facing the challenges set forth
 below:
-(cid:129) Low level of digitalization: The effectiveness and efficiencies of chronic disease
+ Low level of digitalization: The effectiveness and efficiencies of chronic disease
 management are limited due to the current low level of digitalization.
-(cid:129) Shortage of medical resources: The limited expertise and resource shortages in
+ Shortage of medical resources: The limited expertise and resource shortages in
 PHC institutions lead to potential inaccurate disease diagnosis and lack of patient
 trust in chronic disease management.
-(cid:129) Repeated visits to hospitals: Patients often make repeated hospital visits for
+ Repeated visits to hospitals: Patients often make repeated hospital visits for
 purposes such as prescription renewals and consultations for commonly seen
 conditions.
 AI can significantly improve the effectiveness and efficiencies of chronic disease
@@ -5467,13 +5467,13 @@ Billion RMB
 Source: China Health Statistical Yearbook, Public Companies’Filings, Frost & Sullivan Analysis
 The growth drivers and future trends of AI in chronic disease management are set forth
 as follows:
-(cid:129) Demographic and economic factors: China’s aging population, increasing
+ Demographic and economic factors: China’s aging population, increasing
 disposable income and rising identification and prevalence of chronic diseases drive
 the growth of market demand for AI in chronic disease management.
-(cid:129) Technological advancements: Breakthroughs in AI technology are expected to
+ Technological advancements: Breakthroughs in AI technology are expected to
 increase efficiencies in personalized chronic disease management and propel the
 development of new AI models for disease management.
-(cid:129) Data-driven healthcare: Data in relation to diagnoses, medications, health
+ Data-driven healthcare: Data in relation to diagnoses, medications, health
 conditions and lifestyles are expected to improve the quality of care in chronic
 disease management.
 AI IN REGIONAL HEALTHCARE SOLUTIONS
@@ -5491,27 +5491,27 @@ INDUSTRY OVERVIEW
 AI in Medical Insurance Solutions
 The growth drivers and future trends of medical insurance solutions are set forth as
 follows:
-(cid:129) Government policies: Government policies on new payment methods and medical
+ Government policies: Government policies on new payment methods and medical
 cost control are accelerating the penetration of medical insurance in the NHSA and
 hospitals.
-(cid:129) Maturation of medical insurance solutions: In response to favorable government
+ Maturation of medical insurance solutions: In response to favorable government
 policiesissuedonmedicalcostcontrol,medicalinsurancepaymentmanagementand
 DRG/DIP payment method reform, different types of players in the healthcare
 industry in China have entered into the area of health insurance, promoting the
 implementation of AI-empowered EMR quality control, audit and insurance claim
 review.
-(cid:129) Expansion of application scenarios: With AI technology such as NLP, the
+ Expansion of application scenarios: With AI technology such as NLP, the
 application scenarios of medical insurance has been expanded and enabled multiple
 stakeholders, including hospitals and regional healthcare administrators, to
 supervise health insurance funds utilization.
-(cid:129) Collaboration to control costs: Collaboration among different stakeholders,
+ Collaboration to control costs: Collaboration among different stakeholders,
 including doctors, medical institutions and healthcare administrators, is expected to
 facilitate the efficient deployment of health insurance funds.
 AI in medical insurance solutions has demonstrated the following values:
-(cid:129) Preventingovertreatmentandinsurancefraud:AIcandetectover-examinationand
+ Preventingovertreatmentandinsurancefraud:AIcandetectover-examinationand
 over-treatment, which could be indicators of potential insurance fraud. This
 application facilitates the efficient deployment of health insurance funds.
-(cid:129) Timely alerts at the prior audit session: Conventional manual auditing, usually
+ Timely alerts at the prior audit session: Conventional manual auditing, usually
 conducted by hospitals based on limited cases, is often conducted after settlement of
 claims and on a one-off basis. In comparison, medical insurance integrates
 comprehensive data collected along the full cycle of care, and proactively detects
@@ -5622,11 +5622,11 @@ research,doctor-patientinteraction,integrationofmedicalandelderlycare,andoptimiz
 payments. The company is dedicated to providing comprehensive information solutions to healthcare-
 related institutions. Company J is listed on the Shanghai Stock Exchange.
 The growth drivers and future trends of AI in hospitals are set forth as follows:
-(cid:129) High market demand: The demand for effective solutions, including those usingAI
+ High market demand: The demand for effective solutions, including those usingAI
 to improve operational efficiency at hospitals, is high.
-(cid:129) Application along the cycle of care: Applications of AI in hospitals have been
+ Application along the cycle of care: Applications of AI in hospitals have been
 further diversified and integrated to penetrate the entire cycle of healthcare service.
-(cid:129) Systemic solution integration: There is a growing trend towards integrating
+ Systemic solution integration: There is a growing trend towards integrating
 different services across all healthcare stages to create comprehensive AI hospital
 solutions. This allows for the interconnection of medical data within the healthcare
 ecosystem and encourages the development of new solutions.
@@ -6268,19 +6268,19 @@ applicabletousgiventhefactthatweprovidetextgenerationservicesempoweredbyourLLM
 model directly to the public within the territory of the PRC through our Xunfei XiaoyiApp and
 Mini Program, which the users may register and log into with their mobile phone numbers. We
 have implemented a series of corresponding actions in response, including:
-(cid:129) Establishing internal policies to ensure the use of data from legitimate sources.
-(cid:129) Formulating data annotation guidelines and providing necessary training to the
+ Establishing internal policies to ensure the use of data from legitimate sources.
+ Formulating data annotation guidelines and providing necessary training to the
 annotators.
-(cid:129) Implementing content review measures to examine generated content and prevent
+ Implementing content review measures to examine generated content and prevent
 the occurrence of illegal or non-compliant material.
 – 148 –
 
 === PAGE 160 ===
 REGULATORY OVERVIEW
-(cid:129) Entering service agreements with users of our generative artificial intelligence
+ Entering service agreements with users of our generative artificial intelligence
 services related products i.e., Xunfei Xiaoyi App and Mini Program detailing the
 contentofservicesprovidedandclarifyingtherightsandobligationsofbothparties.
-(cid:129) Taking necessary security measures to protect the personal information of users who
+ Taking necessary security measures to protect the personal information of users who
 use our generative artificial intelligence services related products, and providing a
 corresponding pathway for users to exercise their rights to personal information.
 (For example, users may submit request through Xunfei Xiaoyi App and Mini
@@ -6337,14 +6337,14 @@ review within 30 days after clearance of ethical review, in each case on the Nat
 and Technology Ethics Management Information Registration Platform established by MST.
 The registration should be updated in time when the relevant contents change.
 We have implemented a series of corresponding actions in response, including:
-(cid:129) We have established a Science and Technology Ethics (Review) Committee
+ We have established a Science and Technology Ethics (Review) Committee
 responsible for conducting ethical reviews of scientific and technological activities.
-(cid:129) We have registered the establishment of our Science and Technology Ethics
+ We have registered the establishment of our Science and Technology Ethics
 (Review) Committee with the National Science andTechnology Ethics Management
 Information Registration Platform.
-(cid:129) We have developed internal policies that set out management requirements related
+ We have developed internal policies that set out management requirements related
 to the activities of the science and technology ethics review.
-(cid:129) We have conducted an ethical review of the development activities of our Xunfei
+ We have conducted an ethical review of the development activities of our Xunfei
 Spark Medical Model and have generated review opinions.
 Medical Information Protection
 Pursuant to the Regulations for Medical Institutions on Medical Records Management
@@ -8769,7 +8769,7 @@ individual customers, as well as regional healthcare administrators. Our product
 support a range of healthcare services, ranging from health risk warnings, early screening,
 auxiliary diagnosis and treatment as well as treatment effect evaluation to post-discharge
 management and chronic disease management. In particular:
-(cid:129) PHC Services. Our PHC Services business line, including our first mature offering
+ PHC Services. Our PHC Services business line, including our first mature offering
 inourhealthcareAIsolutionmatrix,consistsofGeneralPracticeCDSSandChronic
 Disease Management Tools.
 Our General Practice CDSS provides medical recommendations and auxiliary
@@ -8799,7 +8799,7 @@ regional health commissions can actively monitor information such as the chronic
 disease control rate, the activeness of chronic disease management services in the
 community and expert consultation service frequencies using our chronic disease
 management statistical analysis tools.
-(cid:129) Hospital Services. Our Hospital Services business line, encompassing Smart
+ Hospital Services. Our Hospital Services business line, encompassing Smart
 Hospital Solutions and IntelligentAssistant, integrates diversified medical scenarios
 in the hospital ecosystem. It empowers healthcare services and improves the
 operational efficiency of hospitals and doctors.
@@ -8824,7 +8824,7 @@ reasoning as well as the question and knowledge database for each disease and AI
 EMR quality control based on medical knowledge graphs, semantic parsing,
 language standardization and advanced clinical language understanding
 technologies.
-(cid:129) Patient Services. Our Patient Services business line includes Post-discharge
+ Patient Services. Our Patient Services business line includes Post-discharge
 Management Platform (including our Xunfei XiaoyiApp and Mini Program), Cloud
 Medical Imaging Platform and Medical Device. By offering Patient Services, we
 have extended our business scope to the end users of the healthcare system, securing
@@ -8867,7 +8867,7 @@ significantly reducing potentially inappropriate medications. Patients can also 
 this application to interpret medical and health check examination reports, create
 health reminders based on such reports and identify the correct department for
 subsequent follow-up visits.
-(cid:129) Regional Healthcare Solutions. Our Regional Healthcare Solutions business line
+ Regional Healthcare Solutions. Our Regional Healthcare Solutions business line
 consists of Regional Healthcare Administrator Services and Medical Insurance
 Administrative Solutions.
 Our Regional HealthcareAdministrator Services are designed to promote integrated
@@ -8898,19 +8898,19 @@ industry. We have established a core technological framework centered around dee
 networks, deep learning and medical knowledge graphs, as well as proprietary core
 technologies in areas such as speech recognition, image recognition and NLU in the healthcare
 domain.Ourtechnologicaladvantagesarenotablyexemplifiedbythefollowingbreakthroughs:
-(cid:129) we were the only corporate participant in the development of the “Technical
+ we were the only corporate participant in the development of the “Technical
 Evaluation System and the Standard Specifications of LLMs for Use in Healthcare.”
 This is one of the first industry standards setting the rules for the use of relevant
 healthcare AI technologies in China to assess the use of AI technologies in the
 healthcare industry, according to Frost & Sullivan;
-(cid:129) our Xunfei Spark Medical Model has outperformed GPT-4 Turbo in six medical-
+ our Xunfei Spark Medical Model has outperformed GPT-4 Turbo in six medical-
 related NLP tasks as of the Latest Practicable Date, including expert-level medical
 knowledge graph question answering, clinical language understanding, medical
 document generation, disease diagnostic and treatment recommendations, multi-
 round medical dialogue generation and multi-modal interactions in medical
 scenarios, according to the test organized by the CTTL, which is part of the CAICT;
 and
-(cid:129) ourresearchbranch,dedicatedtofundamentaltechnologyadvancementandindustry
+ ourresearchbranch,dedicatedtofundamentaltechnologyadvancementandindustry
 ecosystem formulation, was accredited as the Key Laboratory for Medical AI
 Research and Application of Anhui Province. Our research efforts help us solidify
 our technology advancements to further promote healthcare AI development and
@@ -8922,7 +8922,7 @@ Empowering the healthcare industry with AI technologies
 We strive to propel a diagnosis model via HCI with our products and services ancillary
 to healthcare services, thereby seizing the opportunities of the healthcare AI industry and
 facilitating healthcare reform.
-(cid:129) We launched General Practice CDSS, the first and only machine in the world that
+ We launched General Practice CDSS, the first and only machine in the world that
 passed the NMLE (GeneralWritten test) as of the Latest Practicable Date, according
 to Frost & Sullivan. Our General Practice CDSS ranked first in terms of revenue
 with a market share of 61.5% in China’s PHC institution CDSS market in 2023,
@@ -8939,7 +8939,7 @@ million diagnoses, sent 1.6 million notifications in scenarios where doctors’
 diagnostic decisions clearly deviated from the suggested diagnosis treatment and
 sent 89.3 million alerts in scenarios of potentially inappropriate medications or
 high-alert medications.
-(cid:129) We were the only corporate participant engaged in the development and rule-setting
+ We were the only corporate participant engaged in the development and rule-setting
 of the “Technical Evaluation System and Standard Specifications of LLMs for Use
 in Healthcare,” which are expected to serve as vital standards and guidelines in the
 development of the industry in the future.
@@ -9002,11 +9002,11 @@ as speech recognition, image recognition and NLU in the healthcare domain. In pa
 NLU is key for us to keep expanding our medical knowledge graphs via unsupervised learning
 of clinical guidelines, and expert consensus, which contributes to our accumulation of industry
 insights. Notably:
-(cid:129) Our proprietary General Practice CDSS became the first machine in the world to
+ Our proprietary General Practice CDSS became the first machine in the world to
 pass the NMLE (General Written test), according to Frost & Sullivan. Our General
 Practice CDSS scored 456 points in the examination, exceeding 96.3% of human
 candidates attending the same examination.
-(cid:129) We have independently developed and launched our Xunfei Spark Medical Model
+ We have independently developed and launched our Xunfei Spark Medical Model
 based on trillions of parameters from datasets, including clinical guidelines, expert
 consensus and academic literature. The Xunfei Spark Medical Model has
 capabilities of medical knowledge graphs, complex clinical language understanding,
@@ -9417,7 +9417,7 @@ Device, expand our business scope to cover individuals, the end users in the hea
 to secure long-term and stable profitability and growth.
 Our products and services address systemic demands of major stakeholders in the
 healthcare industry:
-(cid:129) Our products and services improve the capability and increase the efficiency of
+ Our products and services improve the capability and increase the efficiency of
 healthcare service providers, mainly medical institutions (including both PHC
 institutions and hospitals) and doctors. In particular, doctors at PHC institutions are
 able to improve their capabilities with our General Practice CDSS. Doctors at
@@ -9426,7 +9426,7 @@ to post-discharge management to increase their work efficiency. Doctors at both
 PHC institutions and hospitals can also use our AI-empowered tools to effectively
 facilitate administrative tasks, which traditionally tend to be redundant and
 time-consuming.
-(cid:129) Using our products and services, residents can receive better healthcare services
+ Using our products and services, residents can receive better healthcare services
 suited to their medical conditions at either PHC institutions or hospitals in a timely
 manner. We believe our offerings help reduce over-examination and overtreatment
 and improve patient experience. Our products and services promote collaboration
@@ -9435,7 +9435,7 @@ enhancing the continuity of care for patients. For example, our Chronic Disease
 Management Tools help patients associated with chronic diseases track their health
 status at home daily. Such continuous and comprehensive medical history helps
 ensure current care appropriate for each patient.
-(cid:129) We are dedicated to partnering with regional healthcare administrators to provide
+ We are dedicated to partnering with regional healthcare administrators to provide
 our products and services as well as facilitating healthcare reform in China. Our
 products and services are designed to promote the implementation of a tiered
 healthcare system, particularly empowering PHC institutions as the first level of
@@ -10317,35 +10317,35 @@ than 1.5 million diagnosis rectifications.
 === PAGE 222 ===
 BUSINESS
 The functions of our General Practice CDSS are set forth below:
-(cid:129) Intelligent Consultation. Our product aids doctors in conducting systemic medical
+ Intelligent Consultation. Our product aids doctors in conducting systemic medical
 consultationstoavoidmissingkeyinformationfordiagnoses.Aftertheconsultation,
 our AI-empowered product helps generate standardized EMRs, thereby enhancing
 the accuracy and efficiency for doctors in EMR preparation. It also has functions
 including symptom checker, systematic consultation, medical history collection and
 medical consultation template generation.
-(cid:129) EMR quality control. Our product supports real-time quality control in terms of the
+ EMR quality control. Our product supports real-time quality control in terms of the
 completeness, compliance and reasonableness of EMRs. Doctors receive reminders
 if their inputs for EMRs are incomplete or non-confirmative with missing items or
 logical errors.
-(cid:129) Assistance in diagnosis. Our product provides doctors with diagnosis suggestions
+ Assistance in diagnosis. Our product provides doctors with diagnosis suggestions
 for their reference.When doctors’final decisions clearly deviate from the suggested
 diagnosis, our product also sends alert notifications.
-(cid:129) Assistance in treatment. Based on patients’ health conditions and medical
+ Assistance in treatment. Based on patients’ health conditions and medical
 diagnoses, our product provides doctors with suggestions on examinations,
 treatment plans, prescriptions, clinical pathways and mini-lectures on healthcare
 knowledge, among others, based on clinically accepted guidelines. It also shows
 EMRs with similar diagnosis to doctors for their reference.
-(cid:129) AI prescription appropriateness review. Our product examines drug prescription
+ AI prescription appropriateness review. Our product examines drug prescription
 appropriateness in the context of patients’ clinical conditions. It sends alert
 notifications for potentially inappropriate medications or high-alert medications.
-(cid:129) Medical knowledge search engine. Our product is embedded with a medical
+ Medical knowledge search engine. Our product is embedded with a medical
 knowledge search engine, which provides know-how on diseases, examinations,
 medications and clinical procedures. Doctors can use this engine to increase their
 clinical skills.
-(cid:129) Traditional Chinese Medicine CDSS. Our product is also applicable in traditional
+ Traditional Chinese Medicine CDSS. Our product is also applicable in traditional
 Chinese medicine withAI-empowered suggestions for traditional Chinese medicine
 diagnosis, treatment plan, medication, acupuncture and dietary therapy.
-(cid:129) PHCinstitutionservicemonitoringandmanagement.PHCinstitutionmanagement
+ PHCinstitutionservicemonitoringandmanagement.PHCinstitutionmanagement
 uses our product for EMR quality monitoring and analysis of doctors’ behaviors,
 which provides data for healthcare administrators to manage and regulate PHC
 institutions.
@@ -10358,26 +10358,26 @@ workflow.
 BUSINESS
 We have further upgraded our General Practice CDSS by incorporating the below
 healthcare service-related functionalities to offer integrated solutions for PHC institutions:
-(cid:129) PHC healthcare service system. Our PHC healthcare service system offers a
+ PHC healthcare service system. Our PHC healthcare service system offers a
 medical workstation for inpatient services, outpatient services and nursing services,
 which allow real-time documentation at the point of care. It is also capable of
 managing surgeries, MDTs and inpatient EMRs.
-(cid:129) Public health workstation.Applicable for both desktop devices and mobile devices,
+ Public health workstation.Applicable for both desktop devices and mobile devices,
 doctors can use our product for all 12 types of public health services stipulated by
 the National Essential Public Health Services Guidelines (國家基本公共衛生服務規
 範), including health data archiving, chronic disease management, health education,
 traditional Chinese medicine health management and healthcare services monitoring
 and management.
-(cid:129) Family doctor engagement. Residents can engage family doctors and renew or
+ Family doctor engagement. Residents can engage family doctors and renew or
 terminate their services using our product. Family doctors can also provide services
 via our system to residents.
-(cid:129) Operationalmanagementservices.PHCinstitutionscanuseourproductstomanage
+ Operationalmanagementservices.PHCinstitutionscanuseourproductstomanage
 consultation appointments, patient admission and discharge, fees and charges,
 pharmacy inventory management and medical insurance payment.
-(cid:129) The cockpit. PHC institution management analyzes data in relation to medical
+ The cockpit. PHC institution management analyzes data in relation to medical
 resources, healthcare service quality, public health services and financial
 performance using our product.
-(cid:129) PHC service monitoring. Our product assists regional healthcare administrators,
+ PHC service monitoring. Our product assists regional healthcare administrators,
 namely health commissions, in evidence-based management. It supports data
 analysis for medical resources, healthcare services and public services.
 We also offer after-sales services in support of the development of an all-inclusive
@@ -10475,16 +10475,16 @@ follow-up system and the chronic disease integrated management system.
 === PAGE 226 ===
 BUSINESS
 The functions of our family doctor follow-up system are set forth below:
-(cid:129) AI outbound calling. Leveraging our speech recognition andAI technology, ourAI
+ AI outbound calling. Leveraging our speech recognition andAI technology, ourAI
 outboundcallingassistsinfollow-upwithchronicdiseasepatientsviaAI-automated
 calls. Our outbound calling system aids in PHC Services through follow-up
 consultations, health education, promotion of health awareness and accessibility of
 PHC Services. Users, such as staff at PHC institutions, can generate calls to selected
 groups of residents with our system.
-(cid:129) Outbound calling statistical analysis. This feature assists doctors in collecting and
+ Outbound calling statistical analysis. This feature assists doctors in collecting and
 analyzing outbound calling data, including the volume of calls and texts, as well as
 connection rate.
-(cid:129) Script generation. This feature helps generate scripts for outbound calling by
+ Script generation. This feature helps generate scripts for outbound calling by
 selecting the appropriate words, phrases and questions to guide the conversation. It
 can also establish call flows, a series of prompts for different scenarios, including
 introduction, information collection, information provision and concluding remarks.
@@ -10492,16 +10492,16 @@ Our proprietary NLP model for outbound call script generation helps design
 appropriate conversations based on interaction with each patient, enabling timely
 and efficient responses to inquiries in chronic disease management and aftercare.
 The functions of our chronic disease integrated management system are set forth below:
-(cid:129) PHC doctor service. Doctors at PHC institutions can use our product to screen for
+ PHC doctor service. Doctors at PHC institutions can use our product to screen for
 patients with chronic diseases and carry out patient follow-ups, coupled with
 preparing dietary and wellness plans for patients with the help of AI.
-(cid:129) Hospital doctor service. This feature supports the collaboration between doctors at
+ Hospital doctor service. This feature supports the collaboration between doctors at
 PHC institutions and doctors at hospitals in chronic disease management via
 mechanisms such as two-way referral.
-(cid:129) Patient service. Patients can utilize our product for chronic disease management,
+ Patient service. Patients can utilize our product for chronic disease management,
 including uploading health conditions and searching for disease management
 suggestions.
-(cid:129) Chronic disease management statistical analysis. Health commissions can actively
+ Chronic disease management statistical analysis. Health commissions can actively
 monitor information such as the chronic disease control rate, the activeness of
 chronic disease management services in the community, and expert consultation
 service frequencies.
@@ -10686,10 +10686,10 @@ Our Intelligent Hospital Assistant primarily offers General Practice and Special
 CDSS Tools and AI EMR Quality Control.
 General Practice and Specialized CDSS Tools
 Our General Practice and Specialized CDSS Tools include the following modules:
-(cid:129) General Practice CDSS. Our General Practice CDSS module packed in General
+ General Practice CDSS. Our General Practice CDSS module packed in General
 Practice and Specialized CDSS tools functions similarly to our General Practice
 CDSS offered under our PHC Services business line.
-(cid:129) Specialized CDSS.
+ Specialized CDSS.
 VTE Intelligent Prevention and Control Management System (VTE system).
 Our VTE system has the following functions: dynamic assessment automatic
 reminder, VTE risk assessment, bleeding risk assessment, intelligent prevention
@@ -10741,7 +10741,7 @@ Case Study
 We have collaborated with West China Hospital of Sichuan University to support
 healthcare services across all major pre-visit, consultation or treatment and post-discharge
 examination phases:
-(cid:129) At the pre-visit phase, patients visiting large and comprehensive hospitals often find
+ At the pre-visit phase, patients visiting large and comprehensive hospitals often find
 it hard to locate suitable medical departments and doctors due to lack of medical
 knowledgeandunfamiliaritywithmedicaldepartmentsettings.Toaddresssuchpain
 points, we have customized medical guidance tools, including intelligent triage
@@ -10756,7 +10756,7 @@ consultation experience.
 
 === PAGE 234 ===
 BUSINESS
-(cid:129) During consultation or treatment, doctors usually spend a considerable amount of
+ During consultation or treatment, doctors usually spend a considerable amount of
 time on EMR inputs, leading to long waiting times for patients as well. To address
 such pain points, leveraging our technologies including speech recognition and
 NLU, we offer Fast Record. Doctors can use our AI medical speech-to-text
@@ -10764,7 +10764,7 @@ technologies to compose EMRs efficiently. In particular, our Fast Record
 microphone supports more than 20 dialects, including Sichuan dialect. As of June
 30, 2024, Fast Record was deployed and routinely used at West China Hospital of
 Sichuan University.
-(cid:129) At the post-discharge phase, it often takes doctors and medical professionals a great
+ At the post-discharge phase, it often takes doctors and medical professionals a great
 deal of time and effort to conduct traditional follow-up services due to the high
 volume of patients visiting West China Hospital of Sichuan University. To address
 such pain points, we offer Post-discharge Management Tools to generate AI-
@@ -10936,11 +10936,11 @@ users to enjoy music and movies at a high level of sound quality as well as have
 experience in daily communications. Each version offers a unique combination of features, as
 set forth below, to cater to the varying needs of users with different levels of hearing
 impairment:
-(cid:129) Intelligent noise cancellation. Our AI dynamic noise cancellation system
+ Intelligent noise cancellation. Our AI dynamic noise cancellation system
 dynamically adjusts the degree of sound suppression based on the signal-to-noise
 ratio. With noise cancellation technology, our hearing aids track users’ acoustic
 environment in real time and balance noise cancelling channels.
-(cid:129) 16/32/48/64-channel sound adjustment and processing. Our hearing aids,
+ 16/32/48/64-channel sound adjustment and processing. Our hearing aids,
 specifically theYuexiang version, the Zunxiang version and the basic and advanced
 versions of the Xing series of hearing aids (星耀版 and 星河版), are available in
 16-channel, 32-channel, 48-channel and 64-channel, respectively. They utilize wide
@@ -10949,7 +10949,7 @@ severe hearing loss, respectively. Notably, half of these channels are adjustabl
 while the remaining are equaliser adjustment channels. This feature allows our
 hearing aids to deliver enhanced accuracy in speech comprehension and hearing
 comfort.
-(cid:129) Low audio latency technology. Audio latency refers to a short period of delay,
+ Low audio latency technology. Audio latency refers to a short period of delay,
 measured in milliseconds, from the moment an audio signal is introduced into a
 system to the point it exits. A commonly acceptable threshold for audio latency
 stands at ten milliseconds, notwithstanding the FDA standard which permits a
@@ -10959,7 +10959,7 @@ and three milliseconds, respectively. This technology is designed to rectify the
 sound delay induced by the comb filter effect, thereby eliminating sound distortion.
 This delay is significantly lower than the latency standard, set by the FDA, ensuring
 a superior audio experience for our customers.
-(cid:129) Dual-microphone directional pickup. Our hearing aids, specifically the Yuexiang
+ Dual-microphone directional pickup. Our hearing aids, specifically the Yuexiang
 and Zunxiang versions as well as the Xing series of hearing aids, utilize a
 dual-microphone beamforming algorithm to precisely concentrate on the speech
 emanating from the user’s front, while eliminating ambient noise.
@@ -10967,28 +10967,28 @@ emanating from the user’s front, while eliminating ambient noise.
 
 === PAGE 240 ===
 BUSINESS
-(cid:129) Whistling reduction. With an AI feedback suppression algorithm, we have
+ Whistling reduction. With an AI feedback suppression algorithm, we have
 effectivelyreduced“whistling,”ahigh-pitchedsoundwhichusuallyresultsfromthe
 positive feedback loops in conventional hearing aids.
-(cid:129) Medical grade antimicrobial material. Our hearing aids are protected by silver ion
+ Medical grade antimicrobial material. Our hearing aids are protected by silver ion
 antimicrobial agents at the earplug section to boost their antimicrobial properties.
 They have received an award from the Guangdong Detection Center of
 Microbiology, which ensures a lasting and effective antimicrobial capability with an
 impressive antimicrobial rate of up to 99.9%.
-(cid:129) Self-directed hearing test. Users can use our application to complete hearing tests at
+ Self-directed hearing test. Users can use our application to complete hearing tests at
 home without the need to visit audiologists.
-(cid:129) AI scene recognition transition. Our hearing aids, specifically the Yuexiang and
+ AI scene recognition transition. Our hearing aids, specifically the Yuexiang and
 Zunxiang versions, are equipped with our in-house developed scene recognition
 system, AIScene. It is capable of real-time monitoring of the user’s environment,
 fine-tuning noise reduction in a balanced manner and addressing the issue of
 environmental noise suppression. Our hearing aids are capable of automatically
 switching between different noise reduction modes that adapt dynamically to the
 majority of scenarios in daily life, offering users a seamless auditory experience.
-(cid:129) Assisted subtitles. We offer transcription services for our hearing aids, specifically
+ Assisted subtitles. We offer transcription services for our hearing aids, specifically
 the Yuexiang and Zunxiang versions as well as the Xing series of hearing aids, that
 can transcribe audio into text displayed on the user’s mobile application. It provides
 an additional assurance for user communication.
-(cid:129) Volume amplification. Our Xing series of hearing aids are equipped with a
+ Volume amplification. Our Xing series of hearing aids are equipped with a
 maximum volume gain of 65dB to assist users with severe to profound hearing loss
 by amplifying sounds to a level that is audible and clear for them.
 We work with manufacturing suppliers in the production of our hearing aids. During the
@@ -11110,19 +11110,19 @@ Universal Health Information Platform Service
 Our universal health information platform service helps regional healthcare
 administrators establish and manage a complete infrastructure of individual health records.
 The functions of our universal health information platform service are set forth below:
-(cid:129) Multidimensional data collection: our services support our customers in the
+ Multidimensional data collection: our services support our customers in the
 collection, storage and sharing of multidimensional data.
-(cid:129) Healthcare data management: regional healthcare administrators can use our
+ Healthcare data management: regional healthcare administrators can use our
 services for establishment and management of electronic health records (“EHRs”),
 EMRs and demographic databases.
 – 232 –
 
 === PAGE 244 ===
 BUSINESS
-(cid:129) Platform-embedded applications: our universal health information platform is also
+ Platform-embedded applications: our universal health information platform is also
 equipped with applications such as EHR browser, mutual recognition of medical
 examination results and doctor appointments.
-(cid:129) Monitoring and decision system: regional healthcare administrators can use our
+ Monitoring and decision system: regional healthcare administrators can use our
 servicestocollect,monitorandanalyzeinformationinrelationtoregionalEMRsfor
 data-driven decision-making.
 Our universal health information platform serves as an archive of residents’ health
@@ -11212,20 +11212,20 @@ bureaus for their review and inspection.
 BUSINESS
 In particular, we have developed and launched programs for the following modular
 services:
-(cid:129) DIP in-process audit and analysis: this module leverages NLP, medical knowledge
+ DIP in-process audit and analysis: this module leverages NLP, medical knowledge
 graphs and medical cognitive reasoning in reviewing medical insurance settlement
 lists and patient records under the DIP model, a case-based payment method for
 inpatient care under the regional global budget. It supports itemized payment audits,
 frauddetectionandautomateddetectionofabnormalityorpotentialmisuseofhealth
 insurance funds;
-(cid:129) In-patient risk control audit and analysis: with a focus on itemized payments, this
+ In-patient risk control audit and analysis: with a focus on itemized payments, this
 module helps to ensure conformity with the medical insurance catalog, identifying
 inappropriate medication usage, examining consistency between medical orders and
 charged items, and detecting anomalous medical insurance activities;
-(cid:129) Large-scale anti-fraud data monitoring: this module performs an in-depth analysis
+ Large-scale anti-fraud data monitoring: this module performs an in-depth analysis
 of medical institution settlement data and clinical treatment data to accurately
 identify suspected insurance fraud; and
-(cid:129) Data-driven management: this module performs an analysis of EMRs to facilitate
+ Data-driven management: this module performs an analysis of EMRs to facilitate
 management by regulatory bodies.
 Our Medical Insurance Administrative Solutions can be used to serve doctors, hospital
 management and regional medical security bureaus. Hospitals and doctors equipped with our
@@ -11337,15 +11337,15 @@ healthcare institutions.
 We have undergone a similar path in our early development and successfully penetrated
 the market with a proven record of rapidly expanding from a pilot project for four county- and
 district-level regions to national coverage during the Track Record Period:
-(cid:129) in 2017, the AI model underlying our flagship product, General Practice CDSS,
+ in 2017, the AI model underlying our flagship product, General Practice CDSS,
 passed the NMLE (General Written test);
-(cid:129) in 2018, we launched pilot projects for General Practice CDSS in four counties and
+ in 2018, we launched pilot projects for General Practice CDSS in four counties and
 one district in Anhui Province;
-(cid:129) in 2020, with a proven record and market acceptance, our General Practice CDSS
+ in 2020, with a proven record and market acceptance, our General Practice CDSS
 was deployed across the entireAnhui Province, serving more than 100 districts and
 counties; in addition, we expanded market coverage out of Anhui Province and
 enriched our product and service portfolio; and
-(cid:129) in 2021, 2022, 2023 and the six months ended June 30, 2023 and 2024, we offered
+ in 2021, 2022, 2023 and the six months ended June 30, 2023 and 2024, we offered
 products and services in 27, 29, 31, 23 and 24 provinces and 63, 102, 112, 64 and
 83 cities, respectively.
 We believe that we are well positioned to continue the growth momentum and further
@@ -11838,11 +11838,11 @@ coverage of hospital customers in key markets including Beijing, Shanghai, Shand
 Province, and Sichuan Province.
 Patient Services: Diverse and Evolving Offerings Generating Sustainable Cash Flow
 We have invested in developing a diverse portfolio under Patient Services:
-(cid:129) under our Post-Discharge Management Platform Tools, we have launched
+ under our Post-Discharge Management Platform Tools, we have launched
 products supporting post-discharge management of diseases as of June 30,
 2024, and will further expand the applicability of such tools in the later half of
 2024;
-(cid:129) under our Cloud Medical Imaging Platform, we established province-level
+ under our Cloud Medical Imaging Platform, we established province-level
 coverage inAnhui Province and recorded increasing revenue during the Track
 Record Period. The number of services provided by Cloud Medical Imaging
 Platform increased from approximately 1.9 million times in the six months
@@ -11853,7 +11853,7 @@ covering approximately 100% of the healthcare institutions inAnhui Province
 as of the Latest Practicable Date. We plan to expand the coverage to provinces
 other thanAnhui Province that are densely populated with premium healthcare
 resources and favorable policies;
-(cid:129) under our Medical Device, we launched multiple versions of our hearing aids
+ under our Medical Device, we launched multiple versions of our hearing aids
 products, including the professional version of hearing aids, the Xing series,
 during the Track Record Period. We plan to further increase the applicability
 and functionality of our products. We also plan to further expand our sales
@@ -11881,12 +11881,12 @@ cooperation agreements, respectively, with duration typically ranging from three
 years with healthcare administrators. The increase in the number of our strategic
 cooperation agreements in 2023 was primarily due to our efforts in promoting medical
 insurance solutions.
-(cid:129) Under our Regional Healthcare Administrator Services, we deployed our
+ Under our Regional Healthcare Administrator Services, we deployed our
 Infectious Disease EWARS in Hefei, Anhui Province during the Track Record
 Period.Basedonthisbenchmarkcase,weplantofurtherpromoteoursolutions
 in provinces that are densely populated with premium healthcare resources and
 favorable policies.
-(cid:129) Under our Medical InsuranceAdministrative Solutions, we have launched four
+ Under our Medical InsuranceAdministrative Solutions, we have launched four
 programs in Shanxi Province, Anhui Province, Jiangsu Province and Yunnan
 Province. We plan to enhance our deployment of Medical Insurance
 Administrative Solutions and promote new hospital-facing products in cities
@@ -12081,15 +12081,15 @@ We have a dedicated department responsible for trade receivable collections and 
 monitor the credit profiles as well as operating and financial condition of our customers. We
 maintain financial stability by managing trade receivables primarily through the following
 measures:
-(cid:129) Our sales members are tasked with following up on customer payments with
+ Our sales members are tasked with following up on customer payments with
 monthly targets. Depending on the amount and overdue days, we coordinate
 multiple departments, including the sales team, finance team and our senior
 management, to devise trade receivable collection plans analyzing issues involved
 and efforts needed, as well as specifying time frames and responsible employees.
-(cid:129) The collection of trade receivables is factored into the quarterly to semiannual
+ The collection of trade receivables is factored into the quarterly to semiannual
 performance appraisal of our sales team and relevant management members. This
 aspect of performance influences up to 30% of the overall assessment.
-(cid:129) Our senior management including general manager, financial director and vice
+ Our senior management including general manager, financial director and vice
 presidents regularly review overdue payments and lead the aforementioned trade
 receivable collection plans to ensure timely measures are taken to address collection
 issues. For key customers and customers from which we have a relatively large
@@ -12122,7 +12122,7 @@ paid in three instalments over three years, with the first instalment due on Dec
 contract terms. As of Latest Practicable Date, we have been actively communicating
 with this customer and working to reach a supplemental agreement on a new
 payment schedule aiming to receive full payment by the end of 2026.
-(cid:129) For trade receivables overdue for more than six months, we generally involve our
+ For trade receivables overdue for more than six months, we generally involve our
 legal department to take actions such as issuing demand or lawyer’s letters and
 initiating litigation. Prior to taking official legal actions, we assess the condition of
 the trade receivables by examining factors including the payment history of the
@@ -13050,18 +13050,18 @@ improving operational service efficiency, and system administrators can use thes
 routine inspections and monitoring to promptly identify and address issues.
 Development of Xunfei Spark Medical Model
 The development of Xunfei Spark Medical Model has undergone the below key steps:
-(cid:129) Data Governance and Knowledge Enhancement: Data governance is crucial for
+ Data Governance and Knowledge Enhancement: Data governance is crucial for
 thetrainingofXunfeiSparkMedicalModel.Thisinvolvescuratingadiversedataset
 from multiple sources while ensuring the data is secure and trustworthy.
-(cid:129) Multi-Source and Multi-Modal Knowledge Interaction: The training of Xunfei
+ Multi-Source and Multi-Modal Knowledge Interaction: The training of Xunfei
 Spark Medical Model involves integrating knowledge from various sources and
 modalities. Therefore, Xunfei Spark Medical Model can learn to understand and
 generate medical language by finding patterns and relationships within this complex
 dataset.
-(cid:129) Incorporation of medical knowledge graphs: By integrating medical knowledge
+ Incorporation of medical knowledge graphs: By integrating medical knowledge
 graphs, Xunfei Spark Medical Model can be prompted with specific instructions
 tailored to healthcare tasks.
-(cid:129) Prompt and Instruction Design: Prompts or instructions are crucial to guide
+ Prompt and Instruction Design: Prompts or instructions are crucial to guide
 Xunfei Spark Medical Model’s outputs to perform specific medical tasks. These
 prompts are designed based on medical knowledge graphs and the specific
 requirements of the medical tasks.
@@ -13069,7 +13069,7 @@ requirements of the medical tasks.
 
 === PAGE 276 ===
 BUSINESS
-(cid:129) Expert-Informed Reward Models and Reinforcement Learning: We have used
+ Expert-Informed Reward Models and Reinforcement Learning: We have used
 reward models that incorporate expert medical experience and the unique
 characteristics of medical data to fine-tune Xunfei Spark Medical Model. We then
 applied the reinforcement learning techniques, where Xunfei Spark Medical Model
@@ -13081,26 +13081,26 @@ Medical Model.
 Prompt and Instruction Expert-Informed Reward Models
 Multi-Source and Multi-Modal Design Incorporating and Reinforcement Learning to
 Knowledge Interaction Medical Knowledge Graphs Finetune LLM
--(cid:2047)(cid:1863)(cid:1113)(cid:1032)(cid:2323)(cid:1335)(cid:875)(cid:1365)(cid:1113)
-d D ia i g se n a o s s e is (cid:1713) -(cid:2306) (cid:1247) (cid:1113) (cid:2329) (cid:1031) (cid:2718) (cid:1170) (cid:1933) (cid:1742) (cid:2504) (cid:2507) (cid:2023) (cid:1247) (cid:1961) (cid:2718) (cid:894) (cid:1933) (cid:3044)(cid:1365)(cid:1170)(cid:1670) (cid:1048)(cid:1365)(cid:1170)(cid:1670) (cid:1146)(cid:1365)(cid:1170)(cid:1670)
-(cid:1347)(cid:2694)(cid:2891)
-(cid:129)(cid:1718)(cid:2559)(cid:15421)(cid:2104) (cid:129)(cid:3044)(cid:2662)(cid:1337) (cid:129)(cid:12722)(cid:2867)(cid:17295)
--(cid:2047)(cid:1863)(cid:1113)(cid:1032)(cid:1220)(cid:1568)(cid:2507)(cid:1247)(cid:2718) (cid:129)(cid:2471)(cid:12722)(cid:2323) (cid:129)(cid:1643)(cid:2265)(cid:18517)(cid:18524)
-Treatment (cid:1933)(cid:1347)(cid:2142)(cid:2320)(cid:1874)(cid:1937) (cid:1381)(cid:2388)(cid:2502)(cid:18554)
-plan -(cid:1746)(cid:2545)(cid:1048)(cid:1654)(cid:2309)(cid:1733)(cid:875)(cid:1988)(cid:3044)
-recommendation (cid:2662)(cid:1337)(cid:2323)(cid:1367)(cid:875)(cid:2662)(cid:1337)(cid:2662)(cid:2471)
-Unified representation of medical information (cid:1871)(cid:1266)(cid:1033)(cid:1156)…
-(cid:1746)(cid:2545)(cid:1048)(cid:1654)(cid:2309)(cid:1733)(cid:875)(cid:1988)(cid:3044)(cid:2662)(cid:1337)(cid:28573)(cid:2471)(cid:12722)(cid:2323)(cid:2323)(cid:1367)(cid:875)
--(cid:2725)(cid:2322)(cid:2323)(cid:2988)(cid:2685)(cid:2834)(cid:2663)(cid:1412)(cid:1087) (cid:2662)(cid:1337)(cid:2662)(cid:2471)(cid:1454)(cid:1871)(cid:1266)(cid:1033)(cid:1156)(cid:875)(cid:1988)(cid:10877)(cid:2233)(cid:3027)(cid:2887)(cid:1367)(cid:1347)
-exa T m es i t n a a n ti d ons (cid:2066) -(cid:1113) (cid:2034) (cid:1032) (cid:894) (cid:2323)(cid:1335)(cid:2832)(cid:2526)(cid:1064)(cid:1412)(cid:1087) (cid:1229) (cid:2384) (cid:1718) (cid:1746) (cid:2323) (cid:2545) (cid:1567) (cid:21166) (cid:1941) (cid:1111) (cid:1367) (cid:2742) (cid:875) (cid:1681) (cid:1186) (cid:1647) (cid:1988) (cid:875) (cid:1718) (cid:1718) (cid:13856) (cid:2308) (cid:875) (cid:1443) (cid:2066) (cid:1877) (cid:2034) (cid:2384) (cid:2066) (cid:1746) (cid:3040) (cid:2545) (cid:1877) (cid:1365) (cid:28574)
-(cid:2568)(cid:1538)(cid:1448)(cid:1718)(cid:2559)(cid:2526)(cid:2662)(cid:875)(cid:1915)(cid:1538)(cid:1448)(cid:1718)(cid:2559)(cid:15421)(cid:2104)(cid:1365)(cid:2568)
-(cid:2066)(cid:2034)(cid:2066)(cid:3040)(cid:3006)
+- 
+d D ia i g se n a o s s e is - 
+ 
+ 
+- 
+Treatment 
+plan - 
+recommendation 
+Unified representation of medical information …
+ 
+- 
+exa T m es i t n a a n ti d ons - 
+ 
+ 
 EMRs Examinations Test
 ...
-Textbook g M ui e d d a i n ca c l e c C on li s n e i n c s a u l s (cid:1988)(cid:2304)(cid:1733) (cid:1237)(cid:2375)(cid:1733) (cid:1943)(cid:1566)(cid:1733)
+Textbook g M ui e d d a i n ca c l e c C on li s n e i n c s a u l s 
 Our development of Xunfei Spark Medical Model hinges on our following technology
 advancements:
-(cid:129) Controllable Information Reconstruction and Enhanced Knowledge Mining for
+ Controllable Information Reconstruction and Enhanced Knowledge Mining for
 Healthcare Plug-ins: This technology focuses on learning and selecting plug-ins
 that are tailored medical knowledge collected from diverse sources and is able to
 locate, summarize and correct healthcare knowledge. Based on this technology, our
@@ -13109,7 +13109,7 @@ that integrate context information provided by users and healthcare knowledge
 learned from medical knowledge graphs. This technology creates a system that can
 process medical knowledge from various sources, understand the context, and
 provide accurate information to users.
-(cid:129) Multi-Source Information Fusion and Dynamic Self-Learning for Medical Text
+ Multi-Source Information Fusion and Dynamic Self-Learning for Medical Text
 Interpretation: This technology enables processing of information from diverse
 sources to produce more consistent, accurate, and useful information than that
 provided by any individual source. It also includes interpreting complex medical
@@ -13121,14 +13121,14 @@ training phase.
 
 === PAGE 277 ===
 BUSINESS
-(cid:129) Evidence-Based Reasoning and Explainability for Complex Medical Tasks: This
+ Evidence-Based Reasoning and Explainability for Complex Medical Tasks: This
 technology conducts knowledge search and task planning for complex medical tasks
 in a way that mimics human mind. It utilizes LLM’s capabilities of semantic parsing
 to filter and locate medical data from multiple sources. It is also able to integrate
 coherent logical chains and reasoning steps for personalized medical reasoning and
 decision-making. The technology provides evidence-based explanations that can be
 understood by humans for its decisions and recommendations.
-(cid:129) Personalized Interaction Based on Expert Feedback Learning and Controllable
+ Personalized Interaction Based on Expert Feedback Learning and Controllable
 Generation: This technology enables dynamic, proactive and personalized
 interactions based on learning of user profiles for controllable responses. It
 continuously learns from interactions with users and experts, tailoring its responses
@@ -13566,24 +13566,24 @@ services, delivery speed and customer service responsiveness, among other factor
 BUSINESS
 We typically enter into standard procurement agreements with our suppliers. The salient
 terms of standard procurement agreements are set out below:
-(cid:129) Quality control. We are entitled to conduct inspections of the delivered goods.
-(cid:129) Warranty. Our suppliers are typically responsible for after-sale services during the
+ Quality control. We are entitled to conduct inspections of the delivered goods.
+ Warranty. Our suppliers are typically responsible for after-sale services during the
 warranty period. During the warranty period, our suppliers are responsible for (i)
 technical support, software updates and hardware warranty; (ii) maintenance and
 replacement in case of product quality issues; and (iii) preparation of spare parts for
 easily damaged components.
-(cid:129) Intellectual property. Our suppliers are responsible for ensuring that products
+ Intellectual property. Our suppliers are responsible for ensuring that products
 provided do not infringe the intellectual properties of any third party. If any dispute
 or claim for damages arises, our suppliers are responsible for assuming the liability
 for our losses.
-(cid:129) Confidentiality. Our suppliers are required to treat all of our information as
+ Confidentiality. Our suppliers are required to treat all of our information as
 confidentialduringthevalidtermoftheprocurementagreementandforanotherfive
 years after termination of the procurement agreement.
-(cid:129) Payment. We typically settle fees to suppliers within the credit period granted to us
+ Payment. We typically settle fees to suppliers within the credit period granted to us
 after quality control pass and receipt of goods.
-(cid:129) Penalty. We typically set penalty terms for breach of procurement agreements such
+ Penalty. We typically set penalty terms for breach of procurement agreements such
 as non-performance of delivery and after-sale services.
-(cid:129) Termination. We are entitled to terminate the procurement agreement for non-
+ Termination. We are entitled to terminate the procurement agreement for non-
 rectifiable product quality issues and breach of procurement agreements.
 We have maintained stable business relationships with our major suppliers. During the
 Track Record Period, we did not experience any material disputes with our suppliers,
@@ -13649,15 +13649,15 @@ Note:
 (1) Calculated based on the assumption that one month contains 30 days.
 We typically enter into a standard sales agreement with our customers. The salient terms
 of our standard sales agreement are set forth below.
-(cid:129) Delivery. We are typically required to deliver our system within a predetermined
+ Delivery. We are typically required to deliver our system within a predetermined
 period from the date of the sales agreement.
-(cid:129) Transportation. We are typically responsible for the transportation of our system.
-(cid:129) Review and Acceptance. Our customers are typically entitled to conduct acceptance
+ Transportation. We are typically responsible for the transportation of our system.
+ Review and Acceptance. Our customers are typically entitled to conduct acceptance
 test of our system.
-(cid:129) Payment. We are entitled to full payment of the pre-determined price upon
+ Payment. We are entitled to full payment of the pre-determined price upon
 successful review and acceptance or in installments upon predetermined milestones.
 See “— Pricing and Payment.”
-(cid:129) Quality Deposit. After successful review and acceptance and up until the end of the
+ Quality Deposit. After successful review and acceptance and up until the end of the
 warranty period, we usually provide a quality deposit in the amount of a percentage
 of the contract price, which is returned after a pre-determined period of time upon
 the end of the warranty period.
@@ -13665,7 +13665,7 @@ the end of the warranty period.
 
 === PAGE 291 ===
 BUSINESS
-(cid:129) Performance Bond/Performance Letter of Guarantee (for our PHC Services and
+ Performance Bond/Performance Letter of Guarantee (for our PHC Services and
 Regional Healthcare Solutions). We usually provide a performance bond or
 performance letter of guarantee in the amount of a percentage of the contract price,
 which is returned after a pre-determined period of time upon successful review and
@@ -16933,17 +16933,17 @@ BUSINESS
 We intend to establish an ESG management committee to implement the ESG framework,
 set ESG-related goals and oversee their execution. The members of the ESG Committee will
 be appointed by our Directors and senior management. Their key responsibilities will include:
-(cid:129) formulating, reviewing and implementing the ESG policies, the short-, medium- and
+ formulating, reviewing and implementing the ESG policies, the short-, medium- and
 long-term ESG targets and strategies to be approved by the Board;
-(cid:129) integrating the ESG policy into daily business operation;
-(cid:129) identifying, assessing and reporting environmental and social risks and
+ integrating the ESG policy into daily business operation;
+ identifying, assessing and reporting environmental and social risks and
 opportunities to the Board;
-(cid:129) preparing the annual ESG reports to be reviewed by the Board;
-(cid:129) monitoring the ESG performance of our subsidiaries regularly;
-(cid:129) supervising and reviewing our corporate social responsibility and sustainable
+ preparing the annual ESG reports to be reviewed by the Board;
+ monitoring the ESG performance of our subsidiaries regularly;
+ supervising and reviewing our corporate social responsibility and sustainable
 development policies, practices, frameworks and management guidelines and
 providing suggestions for improvement; and
-(cid:129) reviewing our public announcements, disclosures and releases on our corporate
+ reviewing our public announcements, disclosures and releases on our corporate
 social responsibility and sustainable development performance.
 We intend to set ESG-related goals, targets and policies in terms of energy consumption,
 workplace management and supply chain management. Specifically, within the next five years,
@@ -16981,13 +16981,13 @@ Practicable Date.
 Our business is subject to both physical and transition risks due to climate change, which
 could potentially impact our operational and financial performance in the short, medium and
 long term.
-(cid:129) Physical risks: In the short term, our operations are vulnerable to extreme weather
+ Physical risks: In the short term, our operations are vulnerable to extreme weather
 events such as flooding, icing, rainstorms and snowstorms. These events could
 disrupt our employees’ ability to commute and adversely affect our information
 technology system’s functionality, leading to potential system failures and data loss.
 Such disruptions could temporarily impair our service delivery, affecting customer
 satisfaction and potentially leading to financial losses.
-(cid:129) Transition risks: Over the medium and long term, our operating and compliance
+ Transition risks: Over the medium and long term, our operating and compliance
 costs may increase as we adjust to a lower-carbon economy.This adjustment may be
 driven by evolving climate-related policies and regulations, technological changes,
 and shifts in market and social trends. For example, we anticipate additional initial
@@ -16999,11 +16999,11 @@ strategic commitment to sustainability and are expected to result in long-term
 savings and compliance benefits.
 We employ a proactive approach to identify and manage climate-related risks and
 opportunities, including:
-(cid:129) Monitoring and adaptation: We actively monitor environmental and regulatory
+ Monitoring and adaptation: We actively monitor environmental and regulatory
 developmentstoanticipateandadapttochangesthatcouldimpactourbusiness.This
 includes regular reviews of weather forecasts and regulatory updates to ensure swift
 adaptation to environmental conditions and compliance requirements.
-(cid:129) Strategic mitigation measures: We have implemented several measures to mitigate
+ Strategic mitigation measures: We have implemented several measures to mitigate
 physical risks, including developing emergency protocols and disaster recovery
 plans to ensure business continuity during extreme weather events.Additionally, we
 are enhancing our infrastructure to withstand various climate-related challenges.
@@ -17011,39 +17011,39 @@ are enhancing our infrastructure to withstand various climate-related challenges
 
 === PAGE 331 ===
 BUSINESS
-(cid:129) Enhancing sustainability practices: To address transition risks, we are advancing
+ Enhancing sustainability practices: To address transition risks, we are advancing
 our sustainability practices by reducing resource use and increasing our reliance on
 recyclable and energy-efficient products. Our procurement team is focused on
 sourcing environmentally friendly materials, and we are promoting a paperless
 office environment to minimize waste.
-(cid:129) Employee engagement and policy development: We plan to formulate internal
+ Employee engagement and policy development: We plan to formulate internal
 policies on ESG practices and educate our employees about our climate-related
 strategies to involve them in our efforts to reduce energy use. This includes internal
 policies to turn off non-essential electronics and optimize air conditioning use,
 directly contributing to our energy efficiency goals.
-(cid:129) Partnerships and collaborations: Engaging in partnerships with suppliers and other
+ Partnerships and collaborations: Engaging in partnerships with suppliers and other
 businesses focused on environmental sustainability can lead to shared innovations,
 co-development of products, and enhanced supply chain sustainability. These
 collaborations not only improve our environmental footprint but also enhance our
 market reach and product offerings.
-(cid:129) Regulatory incentives: Proactively adapting to environmental regulations can
+ Regulatory incentives: Proactively adapting to environmental regulations can
 position us to take advantage of governmental incentives for green businesses, such
 as tax breaks, subsidies and grants, further improving our financial performance and
 supporting long-term growth strategies.
 As we navigate the challenges posed by climate change, we also recognize and actively
 pursue several opportunities that can enhance our business operations, innovation capabilities
 and market positioning:
-(cid:129) Innovation and new product development: The increasing demand for sustainable
+ Innovation and new product development: The increasing demand for sustainable
 productsandservicesopensupopportunitiesforinnovationinourproductlines.For
 example, developing software and technologies that help other businesses improve
 their work efficiency, reduce their paper usage or other carbon footprints can
 diversify our offerings and tap into new market segments.
-(cid:129) Operational efficiency: Implementing energy-efficient technologies and practices
+ Operational efficiency: Implementing energy-efficient technologies and practices
 not only reduces our operational costs but also enhances our compliance with
 emerging environmental regulations over the long term. Over time, investments in
 energy-efficient infrastructure and green technologies are expected to yield cost
 savings through reduced energy consumption and operational efficiencies.
-(cid:129) Reputation and competitive advantage: By upholding sustainability practices, we
+ Reputation and competitive advantage: By upholding sustainability practices, we
 enhance our corporate reputation. This strengthens our brand, attracts
 environmentally conscious customers, and improves our standing with investors
 who are increasingly focusing on ESG criteria.
@@ -17051,7 +17051,7 @@ who are increasingly focusing on ESG criteria.
 
 === PAGE 332 ===
 BUSINESS
-(cid:129) Access to green financing: Our proactive approach to managing climate-related
+ Access to green financing: Our proactive approach to managing climate-related
 risks and capitalizing on opportunities positions us favorably for accessing green
 financing options. These financial instruments typically offer favorable terms and
 are aimed at supporting projects and initiatives that have a positive environmental
@@ -17844,11 +17844,11 @@ respectively.
 Basis of annual caps
 In determining the annual caps for the transactions contemplated under the Products
 ProvisionFrameworkAgreement,wehaveconsidered,amongotherthings,thefollowing:
-(cid:129) the historical transaction amount and its historical growth, in particular, the
+ the historical transaction amount and its historical growth, in particular, the
 transaction amount of RMB4.8 million for the year ended December 31, 2023,
 representing an approximately 585.7% growth as compared to the transaction
 amount in 2022; and
-(cid:129) the expected increasing sales amount of the hearing aids of our Group taking
+ the expected increasing sales amount of the hearing aids of our Group taking
 into consideration 1) the increasing popularity of our hearing aids. The sales
 revenue of our hearing aids through e-commerce platforms for the year ended
 December 31, 2023 increased by 578.4% as compared with that for the year
@@ -17925,8 +17925,8 @@ Basis of annual caps
 In determining the annual caps for the transactions contemplated under the Services
 and Products Procurement Framework Agreement, we have considered, among other
 things, the following:
-(cid:129) the historical transaction amount;
-(cid:129) the estimated demand for such services and products for the three years ending
+ the historical transaction amount;
+ the estimated demand for such services and products for the three years ending
 December 31, 2024, 2025 and 2026 to support the expected growth in our
 operational scale and continual development of our business along with the
 development of healthcare AI industry. According to Frost & Sullivan, the
@@ -18064,15 +18064,15 @@ In order to ensure that the terms under relevant framework agreements for the co
 connected transactions are fair and reasonable, or no less favorable than terms available to or
 from Independent Third Parties, and are carried out under normal commercial terms, we will
 adopt the following internal control procedures:
-(cid:129) our various internal departments will be responsible for the control and daily
+ our various internal departments will be responsible for the control and daily
 management in respect of the continuing connected transactions;
-(cid:129) our various internal departments will be jointly responsible for evaluating the terms
+ our various internal departments will be jointly responsible for evaluating the terms
 under the framework agreement for the continuing connected transactions, in
 particular, the fairness of the pricing policies and annual caps under each
 transaction;
-(cid:129) our various internal departments will regularly monitor the fulfillment status of the
+ our various internal departments will regularly monitor the fulfillment status of the
 annual caps and the transaction updates under the framework agreements; and
-(cid:129) our independent non-executive Directors and auditors will conduct annual review of
+ our independent non-executive Directors and auditors will conduct annual review of
 the continuing connected transactions under the framework agreements and provide
 annual confirmation to ensure that, in accordance with the Listing Rules, the
 transactions are conducted in accordance with the terms of the framework
@@ -18997,17 +18997,17 @@ Operational Independence
 Although iFlytek will retain a controlling interest in our Company upon Listing, we
 believe that we can operate our business independently from iFlytek Group due to the
 following reasons:
-(cid:129) we hold and enjoy the benefit of all relevant qualifications and licenses necessary
+ we hold and enjoy the benefit of all relevant qualifications and licenses necessary
 to operate our business;
-(cid:129) we have a sufficient level of operations, assets, facilities, technologies and
+ we have a sufficient level of operations, assets, facilities, technologies and
 employees including research and development employees to support our own
 listing status and to operate and function independently from iFlytek Group;
-(cid:129) we also maintain a comprehensive set of internal control procedures for facilitating
+ we also maintain a comprehensive set of internal control procedures for facilitating
 the effective operation of our business. With reference to the relevant laws,
 regulations and rules, we have developed sound corporate governance practice and
 have adopted our rules of procedure for general meetings, rules of procedure for
 Board meetings and connected transactions regulations;
-(cid:129) we have our own financial department, human resources and administration
+ we have our own financial department, human resources and administration
 department and audit department. These departments are led and supervised by our
 ownseniormanagementteam.OurseniormanagementreporttotheBoardandmake
 decisions and form business plan and strategies independently from iFlytek Group.
@@ -19017,7 +19017,7 @@ financial budget independently; and
 
 === PAGE 376 ===
 RELATIONSHIP WITH OUR CONTROLLING SHAREHOLDER
-(cid:129) we have also adopted a set of corporate governance measures and internal control
+ we have also adopted a set of corporate governance measures and internal control
 procedures to maintain effective and independent operation. See the corporate
 governance measures stipulated under “— Management Independence” and “—
 Corporate Governance Measures” in this section.
@@ -19913,16 +19913,16 @@ following:
 General Factors
 Our business and operating results are affected by general factors affecting the healthcare
 AI industry in China, which include:
-(cid:129) relevant laws and regulations, governmental policies and initiatives affecting the
+ relevant laws and regulations, governmental policies and initiatives affecting the
 healthcare industry and/or the AI industry;
-(cid:129) market acceptance of healthcare AI technologies;
-(cid:129) growth and competition environment of China’s healthcare AI industry;
+ market acceptance of healthcare AI technologies;
+ growth and competition environment of China’s healthcare AI industry;
 – 388 –
 
 === PAGE 400 ===
 FINANCIAL INFORMATION
-(cid:129) technological development and disruptive changes in the AI industry; and
-(cid:129) China’s general demographic conditions, economic growth, interest rate
+ technological development and disruptive changes in the AI industry; and
+ China’s general demographic conditions, economic growth, interest rate
 environment and level of per capita disposable income.
 Anyunfavorablechangesandchallengesinanyofthesegeneralindustryconditionscould
 materially and adversely affect demand for our products and services, and therefore materially
@@ -20114,11 +20114,11 @@ that is distinct or a series of distinct goods or services that are substantiall
 Control is transferred over time and revenue is recognized over time by reference to the
 progress toward complete satisfaction of the relevant performance obligation if one of the
 following criteria is met:
-(cid:129) the customer simultaneously receives and consumes the benefits provided by our
+ the customer simultaneously receives and consumes the benefits provided by our
 performance as we perform;
-(cid:129) our performance creates and enhances an asset that the customer controls as we
+ our performance creates and enhances an asset that the customer controls as we
 perform; or
-(cid:129) our performance does not create an asset with an alternative use to us and we have
+ our performance does not create an asset with an alternative use to us and we have
 an enforceable right to payment for performance completed to date.
 Otherwise, revenue is recognized at a point in time when the customer obtains control of
 the distinct good or service.
@@ -20244,14 +20244,14 @@ FINANCIAL INFORMATION
 An internally-generated intangible asset arising from development activities (or from the
 developmentphaseofaninternalproject)isrecognizedif,andonlyif,allofthefollowinghave
 been demonstrated:
-(cid:129) the technical feasibility of completing the intangible asset so that it will be available
+ the technical feasibility of completing the intangible asset so that it will be available
 for use or sale;
-(cid:129) the intention to complete the intangible asset and use or sell it;
-(cid:129) the ability to use or sell the intangible asset;
-(cid:129) how the intangible asset will generate probable future economic benefits;
-(cid:129) the availability of adequate technical, financial and other resources to complete the
+ the intention to complete the intangible asset and use or sell it;
+ the ability to use or sell the intangible asset;
+ how the intangible asset will generate probable future economic benefits;
+ the availability of adequate technical, financial and other resources to complete the
 development and to use or sell the intangible asset; and
-(cid:129) the ability to measure reliably the expenditure attributable to the intangible asset
+ the ability to measure reliably the expenditure attributable to the intangible asset
 during its development.
 The amount initially recognized for internally-generated intangible asset is the sum of the
 expenditureincurredfromthedatewhentheintangibleassetfirstmeetstherecognitioncriteria
@@ -20890,7 +20890,7 @@ the revenue generated from Hospital Services and Patient Services.
 
 === PAGE 425 ===
 FINANCIAL INFORMATION
-(cid:129) PHC Services: Our revenue generated from PHC Services decreased by 36.8% from
+ PHC Services: Our revenue generated from PHC Services decreased by 36.8% from
 RMB87.0 million in the six months ended June 30, 2023 to RMB55.0 million in the
 six months ended June 30, 2024, primarily due to decreases in revenue generated
 from General Practice CDSS and Chronic Disease Management Tools. Such
@@ -20918,13 +20918,13 @@ whom we signed contracts to implement PHC Services projects increased from 32
 to 66 and the number of projects under our PHC Services increased from 38 to 68
 from the six months ended June 30, 2023 to the six months ended June 30, 2024,
 respectively.
-(cid:129) Hospital Services: Our revenue generated from Hospital Services significantly
+ Hospital Services: Our revenue generated from Hospital Services significantly
 increasedfromRMB22.6millioninthesixmonthsendedJune30,2023toRMB58.7
 million in the six months ended June 30, 2024. The increased revenue is primarily
 due to our successful expansion of customer base. We had an increased number of
 contracts signed and projects carried over from 2023, the revenue from which was
 recognized in the six months ended June 30, 2024.
-(cid:129) Patient Services: Our revenue generated from Patient Services significantly
+ Patient Services: Our revenue generated from Patient Services significantly
 increasedfromRMB39.9millioninthesixmonthsendedJune30,2023toRMB94.7
 million in the six months ended June 30, 2024. The increase was primarily due to
 (i) an increase in the sales of our Medical Device, as a result of the successful
@@ -20941,7 +20941,7 @@ with whom we signed contracts to implement Patient Services projects increased
 from 17 to 20 and the number of projects we signed contracts to implement under
 our Patient Services increased from 17 to 23 from the six months ended June 30,
 2023 to the six months ended June 30, 2024, respectively.
-(cid:129) Regional Healthcare Solutions: Revenue generated from Regional Healthcare
+ Regional Healthcare Solutions: Revenue generated from Regional Healthcare
 Solutions decreased by 54.0% from RMB45.1 million in the six months ended June
 30, 2023 to RMB20.7 million in the six months ended June 30, 2024, primarily due
 to a temporary slowdown in procurement and contract finalization of regional
@@ -20965,7 +20965,7 @@ margin remained relatively stable at 52.1% in the six months ended June 30, 2023
 in the six months ended June 30, 2024, primarily reflecting increases in gross profit margins
 in Hospital Services and Patient Services as offset by a decrease in the gross profit margin in
 Regional Healthcare Solutions.
-(cid:129) PHC Services: Our gross profit generated from PHC Services decreased by 35.9%
+ PHC Services: Our gross profit generated from PHC Services decreased by 35.9%
 from RMB47.8 million in the six months ended June 30, 2023 to RMB30.6 million
 in the six months ended June 30, 2024, which is in line with the fluctuation in our
 revenue. Our gross profit margin generated from PHC Services remained relatively
@@ -20975,7 +20975,7 @@ ended June 30, 2024.
 
 === PAGE 427 ===
 FINANCIAL INFORMATION
-(cid:129) Hospital Services: Our gross profit generated from Hospital Services increased
+ Hospital Services: Our gross profit generated from Hospital Services increased
 significantly from RMB10.1 million in the six months ended June 30, 2023 to
 RMB28.3 million in the six months ended June 30, 2024. Our gross profit margin
 generated from Hospital Services increased from 44.6% in the six months ended
@@ -20993,14 +20993,14 @@ projects required us to strategically source and integrate external products or
 servicestomeetcustomers’specificrequirements.Thehigherproportionofexternal
 productsandservicesresultedinhighercostofsalesasapercentageofrevenueand,
 correspondingly, lower gross profit margins.
-(cid:129) Patient Services: Our gross profit generated from Patient Services increased
+ Patient Services: Our gross profit generated from Patient Services increased
 significantly from RMB22.1 million in the six months ended June 30, 2023 to
 RMB56.6 million in the six months ended June 30, 2024. Our gross profit margin
 generated from Patient Services increased from 55.3% in the six months ended June
 30, 2023 to 59.8% in the six months ended June 30, 2024. This is primarily due to
 an increase in the gross profit margin of Cloud Medical Imaging Platform as a result
 of larger economies of scale.
-(cid:129) Regional Healthcare Solutions: Our gross profit generated from Regional
+ Regional Healthcare Solutions: Our gross profit generated from Regional
 Healthcare Solutions decreased by 73.5% from RMB21.4 million in the six months
 ended June 30, 2023 to RMB5.7 million in the six months ended June 30, 2024,
 which is in line with the fluctuation in our revenue. Our gross profit margin
@@ -21080,7 +21080,7 @@ Revenue
 Our total revenue increased by 17.9% from RMB471.9 million to RMB556.1 million in
 2023, primarily due to increases in the revenue generated from Hospital Services, Patient
 Services and Regional Healthcare Solutions.
-(cid:129) PHC Services: Our revenue generated from PHC Services decreased by 19.6% from
+ PHC Services: Our revenue generated from PHC Services decreased by 19.6% from
 RMB298.1 million in 2022 to RMB239.8 million in 2023, primarily due to a
 decrease in revenue generated from General Practice CDSS. Such a decrease was
 generally in line with the decrease in market size of PHC institution CDSS in China,
@@ -21117,7 +21117,7 @@ at all levels with whom we signed contracts to implement PHC Services projects
 increased from 112 in 2022 to 130 in 2023 and the number of projects we signed
 contracts to implement under our PHC Services increased from 131 in 2022 to 146
 in 2023.
-(cid:129) Hospital Services: Our revenue generated from Hospital Services increased by
+ Hospital Services: Our revenue generated from Hospital Services increased by
 49.3% from RMB43.5 million in 2022 to RMB64.9 million in 2023. The increased
 revenue is primarily due to the expansion of our customer base and an increase in
 project implementation in connection with our Hospital Services, partially driven by
@@ -21131,7 +21131,7 @@ services to drive business growth. The number of customers with whom we signed
 contracts to implement Hospital Services projects increased from 73 in 2022 to 98
 in 2023 and the number of projects we signed contracts to implement under our
 Hospital Services increased from 83 in 2022 to 113 in 2023.
-(cid:129) Patient Services: Our revenue generated from Patient Services significantly
+ Patient Services: Our revenue generated from Patient Services significantly
 increased from RMB36.9 million in 2022 to RMB134.8 million in 2023, primarily
 due to (i) an increase in the number of total projects implemented and, as a result,
 an expanded end user base in connection with our digital imaging services on our
@@ -21151,7 +21151,7 @@ increased from 42 in 2022 to 71 in 2023. The revenue outgrew the number of
 projects in 2023 primarily due to our increased revenue from continual provision of
 products and services offered under the Post-Discharge Management Tools and the
 digital imaging services offered under the Cloud Medical Imaging Platform.
-(cid:129) Regional Healthcare Solutions: Our revenue generated from Regional Healthcare
+ Regional Healthcare Solutions: Our revenue generated from Regional Healthcare
 Solutions increased by 24.9% from RMB93.4 million in 2022 to RMB116.6 million
 in 2023, primarily due to the expansion of our customer base and an increase in
 project implementation in connection with our Regional Healthcare Administrator
@@ -21167,7 +21167,7 @@ Gross Profit and Gross Profit Margin
 Our gross profit increased by 36.4% from RMB230.7 million in 2022 to RMB314.7
 million in 2023. Our gross profit margins increased from 48.9% in 2022 to 56.6% in 2023,
 reflecting increases in gross profit margins in all four of our business lines.
-(cid:129) PHC Services: Our gross profit generated from PHC Services decreased by 9.7%
+ PHC Services: Our gross profit generated from PHC Services decreased by 9.7%
 from RMB159.1 million in 2022 to RMB143.7 million in 2023, which is in line with
 the fluctuation in our revenue. Our gross profit margins generated from PHC
 Services increased from 53.4% in 2022 to 59.9% in 2023, primarily because our
@@ -21176,7 +21176,7 @@ correspondingly a decreased demand for customization and fine-tuning for both ou
 General Practice CDSS and Chronic Disease Management Tools, resulting in a
 decreased cost of sales decreased as a percentage to revenue along with improved
 gross profit margins.
-(cid:129) Hospital Services: Our gross profit generated from Hospital Services increased
+ Hospital Services: Our gross profit generated from Hospital Services increased
 significantly from RMB14.2 million in 2022 to RMB36.3 million in 2023. Our gross
 profit margins generated from Hospital Services increased from 32.6% in 2022 to
 55.9% in 2023, primarily because our Specialty CDSS, which was in the early stage
@@ -21188,7 +21188,7 @@ of development in 2022, successfully attained a higher level of standardization 
 correspondingly a decreased demand for customization and fine-tuning in 2023,
 resulting in a decreased cost of sales decreased as a percentage to revenue along
 with improved gross profit margins.
-(cid:129) Patient Services: Our gross profit generated from Patient Services increased
+ Patient Services: Our gross profit generated from Patient Services increased
 significantly from RMB14.4 million in 2022 to RMB77.4 million in 2023. Our gross
 profit margins generated from Patient Services increased from 39.0% in 2022 to
 57.4% in 2023. This is primarily due to (i) our ability to develop solutions in our
@@ -21201,7 +21201,7 @@ implementation of digital imaging services, during which it typically has relati
 low gross profit margins; and (iii) the increased gross profit margins of our Medical
 Device, specifically our Zunxiang version hearing aids, as a result of increased
 average sales prices compared with relatively stable costs.
-(cid:129) Regional Healthcare Solutions: Our gross profit generated from Regional
+ Regional Healthcare Solutions: Our gross profit generated from Regional
 Healthcare Solutions increased by 33.2% from RMB43.0 million in 2022 to
 RMB57.2 million in 2023. Our gross profit margins generated from Regional
 Healthcare Solutions remained relatively stable at 46.0% and 49.1% in 2022 and
@@ -21268,7 +21268,7 @@ Revenue
 Our total revenue increased by 26.7% from RMB372.5 million in 2021 to RMB471.9
 million in 2022, primarily due to increases in the revenues generated from PHC Services and
 Regional Healthcare Solutions.
-(cid:129) PHC Services: Revenue generated from PHC Services increased by 38.3% from
+ PHC Services: Revenue generated from PHC Services increased by 38.3% from
 RMB215.6 million in 2021 to RMB298.1 million in 2022, primarily due to increases
 in our provision of both General Practice CDSS and Chronic Disease Management
 Tools. This is primarily attributable to (i) increased average selling prices of our
@@ -21280,7 +21280,7 @@ the health commission of a city, of which more than RMB30 million was attributed
 to the PHC Services; and (c) a comprehensive project for the PHC institutions in a
 city, of which more than RMB70 million was attributed to PHC Services; and (ii) an
 increase in our continual provision of products and services.
-(cid:129) Hospital Services: Revenue generated from Hospital Services decreased by 47.2%
+ Hospital Services: Revenue generated from Hospital Services decreased by 47.2%
 from RMB82.3 million in 2021 to RMB43.5 million in 2022, primarily because of
 the higher base of revenue generated from Hospital Services in 2021 in relation to
 the implementation of certain larger scale projects. We also recorded a decreased
@@ -21303,7 +21303,7 @@ value-added products and services to drive business growth. The number of
 customers with whom we signed contracts to implement Hospital Services increased
 from 54 in 2021 to 73 in 2022 and the number of projects we signed contracts to
 implement under our Hospital Services increased from 61 in 2021 to 83 in 2022.
-(cid:129) Patient Services: Revenue generated from Patient Services increased by 14.3% from
+ Patient Services: Revenue generated from Patient Services increased by 14.3% from
 RMB32.3 million in 2021 to RMB36.9 million in 2022, primarily due to an increase
 intheamountofourproductsandservicesprovidedinrelationtoourCloudMedical
 Imaging Platform after our acquisition of Imaging Union in July, 2021. The number
@@ -21311,7 +21311,7 @@ of customers with whom we signed contracts to implement projects Patient Service
 increased from 12 in 2021 to 41 in 2022 and the number of projects we signed
 contracts to implement under our Patient Services increased from 13 in 2021 to 42
 in 2022.
-(cid:129) Regional Healthcare Solutions: Revenue generated from Regional Healthcare
+ Regional Healthcare Solutions: Revenue generated from Regional Healthcare
 Solutions significantly increased from RMB42.3 million in 2021 to RMB93.4
 million in 2022, primarily due to increases in our provision of both Regional
 HealthcareAdministrator Services and Medical InsuranceAdministrative Solutions.
@@ -21346,14 +21346,14 @@ in 2021 to RMB230.7 million in 2022. Our gross profit margins remained relativel
 50.4% and 48.9% in 2021 and 2022, respectively, primarily reflecting an increase in gross
 profit margins in PHC Services, substantially offset by decreases in gross profit margins in
 Hospital Services, Patient Services and Regional Healthcare Solutions.
-(cid:129) PHC Services: Our gross profit generated from PHC Services increased by 50.3%
+ PHC Services: Our gross profit generated from PHC Services increased by 50.3%
 from RMB105.9 million in 2021 to RMB159.1 million in 2022. Our gross profit
 margins generated from PHC Services increased from 49.1% in 2021 to 53.4%
 in 2022, respectively, primarily because our products and services attained a higher
 level of standardization and correspondingly a decreased demand for customization
 and fine-tuning. As a result, our cost of sales decreased as a percentage to revenue
 along with improved gross profit margins.
-(cid:129) Hospital Services: Our gross profit generated from Hospital Services decreased by
+ Hospital Services: Our gross profit generated from Hospital Services decreased by
 66.2% from RMB42.0 million in 2021 to RMB14.2 million in 2022. Our gross profit
 margins generated from Hospital Services decreased from 51.0% in 2021 to 32.6%
 in 2022, primarily because our Specialty CDSS provided for hospital customers was
@@ -21361,7 +21361,7 @@ still in early stages of development and had not attained a high level of
 standardization, which required extensive customization and fine-tuning.
 Consequently, our cost of sales increased as a percentage of revenue, resulting in
 decreased gross profit margins.
-(cid:129) Patient Services: Our gross profit generated from Patient Services remained
+ Patient Services: Our gross profit generated from Patient Services remained
 relatively stable at RMB14.7 million and RMB14.4 million in 2021 and 2022,
 respectively. Our gross profit margins generated from Patient Services decreased
 from 45.5% in 2021 to 39.0% in 2022, primarily due to an increased proportion of
@@ -21370,7 +21370,7 @@ strategically source and integrate external products or services to meet custome
 demand. The higher proportion of external products and services resulted in higher
 cost of sales as a percentage of revenue and, correspondingly, lower gross profit
 margins.
-(cid:129) Regional Healthcare Solutions: Our gross profit generated from Regional
+ Regional Healthcare Solutions: Our gross profit generated from Regional
 Healthcare Solutions increased by 70.7% from RMB25.2 million in 2021 to
 RMB43.0 million in 2022. Our gross profit margins generated from Regional
 Healthcare Solutions decreased from 59.6% in 2021 to 46.0% in 2022, primarily
@@ -22008,15 +22008,15 @@ evaluation of the good reputation and historical credit standing of our customer
 working capital management policies; and (v) the actions taken to ensure the recovery of
 overdue debts. We have adopted credit control measures to improve the trade receivables
 situation, including the following:
-(cid:129) Our sales members are tasked with following up on customer payments with
+ Our sales members are tasked with following up on customer payments with
 monthly targets. Depending on the amount and overdue days, we coordinate
 multiple departments, including the sales team, finance team and our senior
 management, to devise trade receivable collection plans analyzing issues involved
 and efforts needed, as well as specifying time frames and responsible employees.
-(cid:129) The collection of trade receivables is factored in the quarterly to semiannual
+ The collection of trade receivables is factored in the quarterly to semiannual
 performance appraisal of our sales team and relevant management members. This
 aspect of performance influences up to 30% of the overall assessment.
-(cid:129) Our senior management including the general manager, financial director and vice
+ Our senior management including the general manager, financial director and vice
 presidents regularly review overdue payments and lead the aforementioned devising
 of trade receivable collection plans to ensure timely measures are taken to address
 collection issues. For key customers and customers from which we have a relatively
@@ -22048,7 +22048,7 @@ the second instalment due by the end of 2024, according to the original contract
 terms.AsofLatestPracticableDate,wehavebeenactivelycommunicatingwiththis
 customer and working to reach a supplemental agreement on a new payment
 schedule aiming to receive full payment by the end of 2026.
-(cid:129) For trade receivables overdue for more than six months, we generally involve our
+ For trade receivables overdue for more than six months, we generally involve our
 legal department to take actions such as issuing demand or lawyer’s letters and
 initiating litigation. Prior to taking official legal actions, we assess the condition of
 the trade receivables by examining factors including the payment history of the
@@ -23600,7 +23600,7 @@ underwriting commissions and other estimated offering expenses payable by us in 
 with the Global Offering and assuming an Offer Price of HK$82.8 per Share, we estimate that
 we will receive net proceeds of approximately HK$507.1 million from the Global Offering.We
 intend to use the net proceeds from the Global Offering for the following purposes:
-(cid:129) approximately 32.4% of the net proceeds, or HK$164.0 million, will be used to
+ approximately 32.4% of the net proceeds, or HK$164.0 million, will be used to
 invest in research and development to continuously reinforce our core competence.
 In particular:
 o approximately 13.6% of the net proceeds, or HK$68.7 million, will be used for
@@ -23638,7 +23638,7 @@ enlargeourcompetitiveedgeandsolidifyourleadingpositioninthehealthcare
 AI industry. Specifically, we plan to (i) establish a R&D center in Hong Kong;
 (ii) recruit international talents, and (iii) purchase equipment required for our
 research and development activities.
-(cid:129) approximately 26.6% of the net proceeds, or HK$135.0 million, will be used to
+ approximately 26.6% of the net proceeds, or HK$135.0 million, will be used to
 further enrich our products and services through upgrading existing products and
 developing new products. In particular:
 o approximately 8.8% of the net proceeds, or HK$44.7 million, will be used to
@@ -23710,7 +23710,7 @@ development.
 
 === PAGE 482 ===
 FUTURE PLANS AND USE OF PROCEEDS
-(cid:129) approximately 24.7% of the net proceeds, or HK$125.1 million, will be used to
+ approximately 24.7% of the net proceeds, or HK$125.1 million, will be used to
 reinforce our commercialization capabilities and expand our service network. In
 particular:
 o approximately 20.6% of the net proceeds, or HK$104.4 million, will be used
@@ -23730,7 +23730,7 @@ o approximately 4.1% of the net proceeds, or HK$20.7 million, will be used to
 enhance our marketing and branding efforts to promote our increasingly
 mature and standardized products and solutions, primarily through hosting
 industry conventions, forums and branding promotion activities.
-(cid:129) approximately6.4%ofthenetproceeds,orHK$32.3million,willbeusedtoacquire
+ approximately6.4%ofthenetproceeds,orHK$32.3million,willbeusedtoacquire
 companies that may generate synergy with our existing capacities, such as medical
 device manufactures. Our acquisition targets include medical device manufacturers
 or existing manufacturing facilities with advanced production capabilities.
@@ -23748,7 +23748,7 @@ profitability, further enhancing our competitive edge and securing our leading
 position in the healthcareAI industry.As of the Latest Practicable Date, we had not
 entered into any letters of intent or agreements with respect to acquisitions, nor had
 we identified any definite acquisition targets.
-(cid:129) approximately 10.0% of the net proceeds, or HK$50.7 million, will be used for
+ approximately 10.0% of the net proceeds, or HK$50.7 million, will be used for
 working capital and other general corporate purposes.
 – 471 –
 
@@ -24723,13 +24723,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
-(cid:129) are 18 years of age or older; and
-(cid:129) have a Hong Kong address (for the HK eIPO White Form service only).
+ are 18 years of age or older; and
+ have a Hong Kong address (for the HK eIPO White Form service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the
 person(s) for whose benefit you are applying for:
-(cid:129) are an existing Shareholder or his/her/its close associates; or
-(cid:129) are a Director or a Supervisor or any of his/her close associates.
+ are an existing Shareholder or his/her/its close associates; or
+ are a Director or a Supervisor or any of his/her close associates.
 – 497 –
 
 === PAGE 509 ===
@@ -24813,19 +24813,19 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual Applicants For Corporate Applicants
-(cid:129) Full name(s)2 as shown on your (cid:129) Full name(s)2 as shown on your
+ Full name(s)2 as shown on your Full name(s)2 as shown on your
 identity document identity document
-(cid:129) Identity document’s issuing country (cid:129) Identity document’s issuing country
+ Identity document’s issuing country Identity document’s issuing country
 or jurisdiction or jurisdiction
-(cid:129) Identity document type, with order (cid:129) Identity document type, with order
+ Identity document type, with order Identity document type, with order
 of priority of priority
 i. HKID card; or i. LEI registration document; or
 ii. National identification ii. Certificate of incorporation; or
 document; or
 iii. Business registration
 iii. Passport; and certificate; or
-(cid:129) Identity document number iv. Other equivalent document; and
-(cid:129) Identity document number
+ Identity document number iv. Other equivalent document; and
+ Identity document number
 Notes:
 1. If you are applying through the HK eIPO White Form service, you are required to provide a valid
 e-mailaddress,acontacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclare
@@ -24861,9 +24861,9 @@ above.
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
-(cid:129) control the composition of the board of directors of the company;
-(cid:129) control more than half of the voting power of the company; or
-(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+ control the composition of the board of directors of the company;
+ control more than half of the voting power of the company; or
+ holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through the HKSCC EIPO channel, and making an application under
@@ -25131,18 +25131,18 @@ application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the H Shares either:
-(cid:129) within three weeks from the closing date of the application lists; or
-(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
+ within three weeks from the closing date of the application lists; or
+ within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
-(cid:129) you make multiple applications or suspected multiple applications.You may refer to
+ you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “— A. Applications for Hong Kong Offer Shares — 5.
 Multiple Applications Prohibited” in this section on what constitutes multiple
 applications;
-(cid:129) your application instruction is incomplete;
-(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
-(cid:129) the Underwriting Agreements do not become unconditional or are terminated; or
-(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we
+ your application instruction is incomplete;
+ your payment (or confirmation of funds, as the case may be) is not made correctly;
+ the Underwriting Agreements do not become unconditional or are terminated; or
+ we or the Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted H Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -25254,9 +25254,9 @@ accounts
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 TheapplicationlistswillnotopenorcloseonMonday,December23,2024if,thereis/are:
-(cid:129) a tropical cyclone warning signal number 8 or above;
-(cid:129) a black rainstorm warning; and/or
-(cid:129) Extreme Conditions,
+ a tropical cyclone warning signal number 8 or above;
+ a black rainstorm warning; and/or
+ Extreme Conditions,
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Monday, December
 23, 2024.
@@ -25339,23 +25339,23 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
-(cid:129) processing your application and refund cheque and HK eIPO White Form e-Auto
+ processing your application and refund cheque and HK eIPO White Form e-Auto
 Refund payment instruction(s), where applicable, verification of compliance with
 the terms and application procedures set out in this prospectus and announcing
 results of allocation of Hong Kong Offer Shares;
-(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
-(cid:129) registering new issues or transfers into or out of the names of the holders of the H
+ compliance with applicable laws and regulations in Hong Kong and elsewhere;
+ registering new issues or transfers into or out of the names of the holders of the H
 Shares including, where applicable, HKSCC Nominees;
-(cid:129) maintaining or updating the register of members of the Company;
-(cid:129) verifying identities of applicants for and holders of the H Shares and identifying any
+ maintaining or updating the register of members of the Company;
+ verifying identities of applicants for and holders of the H Shares and identifying any
 duplicate applications for the H Shares;
-(cid:129) facilitating Hong Kong Offer Shares balloting;
-(cid:129) establishing benefit entitlements of holders of the H Shares, such as dividends,
+ facilitating Hong Kong Offer Shares balloting;
+ establishing benefit entitlements of holders of the H Shares, such as dividends,
 rights issues, bonus issues, etc.;
-(cid:129) distributing communications from the Company and its subsidiaries;
-(cid:129) compiling statistical information and profiles of the holder of the H Shares;
-(cid:129) disclosing relevant information to facilitate claims on entitlements; and
-(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+ distributing communications from the Company and its subsidiaries;
+ compiling statistical information and profiles of the holder of the H Shares;
+ disclosing relevant information to facilitate claims on entitlements; and
+ anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the H Shares and/or regulators and/or any other purposes to which
 applicants and holders of the H Shares may from time to time agree.
@@ -25369,21 +25369,21 @@ for and holders of Hong Kong Offer Shares will be kept confidential but the Comp
 H Share Registrar may, to the extent necessary for achieving any of the above purposes,
 disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to, from
 or with any of the following:
-(cid:129) the Company’s appointed agents such as financial advisers, receiving bank and
+ the Company’s appointed agents such as financial advisers, receiving bank and
 overseas principal share registrar;
-(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+ HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar, in each case for the purposes of providing its
 services or facilities or performing its functions in accordance with its rules or
 procedures and operating FINI and CCASS (including where applicants for the
 Hong Kong Offer Shares request a deposit into CCASS);
-(cid:129) any agents, contractors or third-party service providers who offer administrative,
+ any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H
 Share Registrar in connection with their respective business operation;
-(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
+ the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
-(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
+ any persons or institutions with which the holders of Hong Kong Offer Shares have
 orproposetohavedealings,suchastheirbankers,solicitors,accountantsorbrokers,
 etc.
 5. Retention of personal data
@@ -25980,9 +25980,9 @@ Companies Ordinance.
 Basis of consolidation
 The Historical Financial Information incorporates the financial statements of the Company and entities
 controlled by the Company and its subsidiaries. Control is achieved when the Company:
-(cid:129) has power over the investee;
-(cid:129) is exposed, or has rights, to variable returns from its involvement with the investee; and
-(cid:129) has the ability to use its power to affect its returns.
+ has power over the investee;
+ is exposed, or has rights, to variable returns from its involvement with the investee; and
+ has the ability to use its power to affect its returns.
 The Group reassesses whether or not it controls an investee if facts and circumstances indicate that there are
 changes to one or more of the three elements of control listed above.
 ConsolidationofasubsidiarybeginswhentheGroupobtainscontroloverthesubsidiaryandceaseswhenthe
@@ -26024,10 +26024,10 @@ eventswithinthescopeofIAS37Provisions,ContingentLiabilitiesandContingentAssets(�
 to identify the liabilities it has assumed in a business combination. Contingent assets are not recognized.
 Attheacquisitiondate,theidentifiableassetsacquiredandtheliabilitiesassumedarerecognizedattheirfair
 value, except that:
-(cid:129) deferred tax assets or liabilities, and assets or liabilities related to employee benefit arrangements are
+ deferred tax assets or liabilities, and assets or liabilities related to employee benefit arrangements are
 recognized and measured in accordance with IAS 12 Income Taxes (“IAS 12”) and IAS 19 Employee
 Benefits respectively;
-(cid:129) lease liabilities are recognized and measured at the present value of the remaining lease payments (as
+ lease liabilities are recognized and measured at the present value of the remaining lease payments (as
 definedinIFRS16)asiftheacquiredleaseswerenewleasesattheacquisitiondate,exceptforleases
 for which the lease term ends within 12 months of the acquisition date. Right-of-use assets are
 recognized and measured at the same amount as the relevant lease liabilities.
@@ -26140,13 +26140,13 @@ Internally-generated other intangible assets – research and development expend
 Expenditure on research activities is recognized as an expense in the period in which it is incurred.
 An internally-generated intangible asset arising from development activities (or from the development phase
 of an internal project) is recognized if, and only if, all of the following have been demonstrated:
-(cid:129) the technical feasibility of completing the intangible asset so that it will be available for use or sale;
-(cid:129) the intention to complete the intangible asset and use or sell it;
-(cid:129) the ability to use or sell the intangible asset;
-(cid:129) how the intangible asset will generate probable future economic benefits;
-(cid:129) theavailabilityofadequatetechnical,financialandotherresourcestocompletethedevelopmentandto
+ the technical feasibility of completing the intangible asset so that it will be available for use or sale;
+ the intention to complete the intangible asset and use or sell it;
+ the ability to use or sell the intangible asset;
+ how the intangible asset will generate probable future economic benefits;
+ theavailabilityofadequatetechnical,financialandotherresourcestocompletethedevelopmentandto
 use or sell the intangible asset; and
-(cid:129) the ability to measure reliably the expenditure attributable to the intangible asset during its
+ the ability to measure reliably the expenditure attributable to the intangible asset during its
 development.
 Theamountinitiallyrecognizedforinternally-generatedintangibleassetisthesumoftheexpenditureincurred
 from the date when the intangible asset first meets the recognition criteria listed above. Where no internally-
@@ -26259,9 +26259,9 @@ APPENDIX I ACCOUNTANTS’ REPORT
 Financial assets
 Classification and subsequent measurement of financial assets
 Financial assets that meet the following conditions are subsequently measured at amortized cost:
-(cid:129) thefinancialassetisheldwithinabusinessmodelwhoseobjectiveistocollectcontractualcashflows;
+ thefinancialassetisheldwithinabusinessmodelwhoseobjectiveistocollectcontractualcashflows;
 and
-(cid:129) thecontractualtermsgiveriseonspecifieddatestocashflowsthataresolelypaymentsofprincipaland
+ thecontractualtermsgiveriseonspecifieddatestocashflowsthataresolelypaymentsofprincipaland
 interest on the principal amount outstanding.
 All other financial assets are subsequently measured at FVTPL.
 (i) Amortized cost and interest income
@@ -26310,14 +26310,14 @@ theGroupconsidersbothquantitativeandqualitativeinformationthatisreasonableandsup
 historical experience and forward-looking information that is available without undue cost or effort.
 In particular, the following information is taken into account when assessing whether credit risk has
 increased significantly:
-(cid:129) anactualorexpectedsignificantdeteriorationinthefinancialinstrument’sexternal(ifavailable)
+ anactualorexpectedsignificantdeteriorationinthefinancialinstrument’sexternal(ifavailable)
 or internal credit rating;
-(cid:129) significantdeteriorationinexternalmarketindicatorsofcreditrisk,e.g.asignificantincreasein
+ significantdeteriorationinexternalmarketindicatorsofcreditrisk,e.g.asignificantincreasein
 the credit spread, the credit default swap prices for the debtor;
-(cid:129) existing or forecast adverse changes in business, financial or economic conditions that are
+ existing or forecast adverse changes in business, financial or economic conditions that are
 expected to cause a significant decrease in the debtor’s ability to meet its debt obligations;
-(cid:129) an actual or expected significant deterioration in the operating results of the debtor;
-(cid:129) an actual or expected significant adverse change in the regulatory, economic, or technological
+ an actual or expected significant deterioration in the operating results of the debtor;
+ an actual or expected significant adverse change in the regulatory, economic, or technological
 environmentofthedebtorthatresultsinasignificantdecreaseinthedebtor’sabilitytomeetits
 debt obligations.
 Irrespective of the outcome of the above assessment, the Group presumes that the credit risk has
@@ -26334,14 +26334,14 @@ including the Group, in full (without taking into account any collaterals held b
 A financial asset is credit-impaired when one or more events that have a detrimental impact on the
 estimated future cash flows of that financial asset have occurred. Evidence that a financial asset is
 credit-impaired includes observable data about the following events:
-(cid:129) significant financial difficulty of the issuer or the borrower;
-(cid:129) a breach of contract, such as a default or past due event;
-(cid:129) the lender(s) of the borrower, for economic or contractual reasons relating to the borrower’s
+ significant financial difficulty of the issuer or the borrower;
+ a breach of contract, such as a default or past due event;
+ the lender(s) of the borrower, for economic or contractual reasons relating to the borrower’s
 financial difficulty, having granted to the borrower a concession(s) that the lender(s) would not
 otherwise consider;
-(cid:129) itisbecomingprobablethattheborrowerwillenterbankruptcyorotherfinancialreorganization;
+ itisbecomingprobablethattheborrowerwillenterbankruptcyorotherfinancialreorganization;
 or
-(cid:129) the disappearance of an active market for that financial asset because of financial difficulties.
+ the disappearance of an active market for that financial asset because of financial difficulties.
 – I-23 –
 
 === PAGE 551 ===
@@ -26370,9 +26370,9 @@ related parties and contract assets are considered on a collective basis taking 
 information and relevant credit information such as forward looking macroeconomic information.
 For collective assessment, the Group takes into consideration the following characteristics when
 formulating the grouping:
-(cid:129) Past-due status;
-(cid:129) Nature, size and industry of debtors; and
-(cid:129) External credit ratings where available.
+ Past-due status;
+ Nature, size and industry of debtors; and
+ External credit ratings where available.
 The grouping is regularly reviewed by management to ensure the constituents of each group continue
 to share similar credit risk characteristics.
 Interest income is calculated based on the gross carrying amount of the financial asset unless the
@@ -29668,8 +29668,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
-(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
-(cid:129) the unaudited pro forma financial information reflects the proper application of
+ the related pro forma adjustments give appropriate effect to those criteria; and
+ the unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’judgment, having regard to
 the reporting accountants’ understanding of the nature of the Group, the event or transaction
@@ -30263,7 +30263,7 @@ THE COMPANY LAW AND ADMINISTRATIVE MEASURES
 A joint stock limited company which was incorporated in the PRC and seeking a listing
 on the Hong Kong Stock Exchange is mainly subject to the following three laws and
 regulations in the PRC:
-(cid:129) The PRC Company Law which was promulgated by the Standing Committee of the
+ The PRC Company Law which was promulgated by the Standing Committee of the
 NPC on December 29, 1993, came into effect on July 1, 1994, revised on December
 25, 1999,August 28, 2004, October 27, 2005, December 28, 2013, October 26, 2018
 and December 29, 2023 respectively and the latest revision of which was
@@ -30272,7 +30272,7 @@ implemented on July 1, 2024;
 
 === PAGE 634 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGALAND REGULATORY PROVISIONS
-(cid:129) Trial Administrative Measures of Overseas Securities Offering and Listing by
+ Trial Administrative Measures of Overseas Securities Offering and Listing by
 Domestic Companies (the “Trial Measures”) which were promulgated by the CSRC
 on February 17, 2023, came into effect on March 31, 2023, applicable to the
 overseas share subscription and listing of joint stock limited companies.
@@ -30363,11 +30363,11 @@ physical items, intellectual property rights, and land-use rights that may be va
 term and may be transferred in accordance with the law.
 Under the Company Law, a joint stock limited company shall make a register of
 shareholders and keep it in the company, stating the following matters:
-(cid:129) the name and domicile of each shareholder;
-(cid:129) the class and number of shares held by each shareholder;
-(cid:129) the serial numbers of shares held by each shareholder if the shares are issued in
+ the name and domicile of each shareholder;
+ the class and number of shares held by each shareholder;
+ the serial numbers of shares held by each shareholder if the shares are issued in
 paper form; and
-(cid:129) the date on which each shareholder acquired the shares.
+ the date on which each shareholder acquired the shares.
 Increase of Share Capital
 According to the Company Law, when the joint stock limited company issues new shares,
 resolutions shall be passed by a shareholders’meeting, approving the class and number of the
@@ -30379,20 +30379,20 @@ issuance has been paid up, an announcement shall be made.
 Reduction of Share Capital
 Acompany may reduce its registered capital in accordance with the following procedures
 prescribed by the Company Law:
-(cid:129) it shall prepare a balance sheet and a property list;
-(cid:129) the reduction of registered capital shall be approved by a shareholders’ meeting.
+ it shall prepare a balance sheet and a property list;
+ the reduction of registered capital shall be approved by a shareholders’ meeting.
 – IV-7 –
 
 === PAGE 637 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGALAND REGULATORY PROVISIONS
-(cid:129) it shall inform its creditors of the reduction in capital within 10 days and publish an
+ it shall inform its creditors of the reduction in capital within 10 days and publish an
 announcement of the reduction in the newspaper or on the National Enterprise
 Credit Information Publicity System within 30 days after the resolution approving
 the reduction has been passed;
-(cid:129) creditors may within 30 days after receiving the notice, or within 45 days of the
+ creditors may within 30 days after receiving the notice, or within 45 days of the
 public announcement if no notice has been received, require the company to pay its
 debts or provide guarantees covering the debts;
-(cid:129) it shall apply to the relevant administration of registration for the registration of the
+ it shall apply to the relevant administration of registration for the registration of the
 reduction in registered capital.
 Repurchase of Shares
 According to the Company Law, a joint stock limited company may not purchase its
@@ -30446,27 +30446,27 @@ company.
 Shareholders
 Under the Company Law, the rights of holders of ordinary shares of a joint stock limited
 company include:
-(cid:129) the right to attend or appoint a proxy to attend shareholders’ meetings and to vote
+ the right to attend or appoint a proxy to attend shareholders’ meetings and to vote
 thereat;
-(cid:129) the right to transfer shares in accordance with laws, administrative regulations and
+ the right to transfer shares in accordance with laws, administrative regulations and
 provisions of the articles of association;
-(cid:129) the right to inspect and copy the company’s articles of association, share register,
+ the right to inspect and copy the company’s articles of association, share register,
 minutes of shareholder’s general meetings, resolutions of meetings of the board of
 directors, resolutions of meetings of the board of supervisors and financial and
 accounting reports and to make proposals or enquiries on the company’s operations;
-(cid:129) the right to bring an action in the people’s court to rescind resolutions passed by
+ the right to bring an action in the people’s court to rescind resolutions passed by
 shareholder’s general meetings and board of directors where the articles of
 association is violated by the above resolutions;
-(cid:129) the right to receive dividends and other types of interest distributed in proportion to
+ the right to receive dividends and other types of interest distributed in proportion to
 the number of shares held;
 – IV-9 –
 
 === PAGE 639 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGALAND REGULATORY PROVISIONS
-(cid:129) in the event of the termination or liquidation of the company, the right to participate
+ in the event of the termination or liquidation of the company, the right to participate
 in the distribution of residual properties of the company in proportion to the number
 of shares held; and
-(cid:129) other rights granted by laws, administrative regulations, other regulatory documents
+ other rights granted by laws, administrative regulations, other regulatory documents
 and the company’s articles of association.
 TheobligationsofashareholderincludetheobligationtoabidebytheCompany’sarticles
 of association, to pay the subscription moneys in respect of the shares subscribed for and in
@@ -30478,18 +30478,18 @@ The shareholders’ meeting is the organ of authority of the company, which exer
 powers in accordance with the Company Law.
 Under the Company Law, the shareholders’ meeting exercises the following principal
 powers:
-(cid:129) to elect or remove the directors and supervisors and to decide on matters relating to
+ to elect or remove the directors and supervisors and to decide on matters relating to
 the remuneration of directors and supervisors;
-(cid:129) to examine and approve reports of the board of directors;
-(cid:129) to examine and approve reports of the board of supervisors;
-(cid:129) to examine and approve the company’s proposals for profit distribution plans and
+ to examine and approve reports of the board of directors;
+ to examine and approve reports of the board of supervisors;
+ to examine and approve the company’s proposals for profit distribution plans and
 loss recovery plans;
-(cid:129) to decide on any increase or reduction of the company’s registered capital;
-(cid:129) to decide on the issue of bonds by the company;
-(cid:129) to decide on issues such as merger, division, dissolution and liquidation of the
+ to decide on any increase or reduction of the company’s registered capital;
+ to decide on the issue of bonds by the company;
+ to decide on issues such as merger, division, dissolution and liquidation of the
 company and other matters;
-(cid:129) to amend the company’s articles of association; and
-(cid:129) other powers as provided for in the articles of association.
+ to amend the company’s articles of association; and
+ other powers as provided for in the articles of association.
 – IV-10 –
 
 === PAGE 640 ===
@@ -30497,15 +30497,15 @@ APPENDIX IV SUMMARY OF PRINCIPAL LEGALAND REGULATORY PROVISIONS
 Shareholders’annual general meetings are required to be held once every year. Under the
 Company Law, an extraordinary shareholders’ meeting is required to be held within two
 months after the occurrence of any of the following:
-(cid:129) thenumberofdirectorsislessthanthenumberstipulatedbythelaworlessthantwo
+ thenumberofdirectorsislessthanthenumberstipulatedbythelaworlessthantwo
 thirds of the number specified in the articles of association;
-(cid:129) the aggregate losses of the company which are not recovered reach one-third of the
+ the aggregate losses of the company which are not recovered reach one-third of the
 company’s total paid-in share capital;
-(cid:129) when shareholders alone or in aggregate holding 10% or more of the company’s
+ when shareholders alone or in aggregate holding 10% or more of the company’s
 shares request the convening of an extraordinary meeting;
-(cid:129) whenever the board of directors deems necessary;
-(cid:129) when the board of supervisors so requests; or
-(cid:129) other circumstances as provided for in the articles of associations.
+ whenever the board of directors deems necessary;
+ when the board of supervisors so requests; or
+ other circumstances as provided for in the articles of associations.
 Under the Company Law, shareholders’ meetings shall be convened by the board of
 directors, and presided over by the chairman of the board of directors. In the event that the
 chairman is incapable of performing or does not perform his duties, the meeting shall be
@@ -30571,19 +30571,19 @@ perform his duties.
 === PAGE 642 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGALAND REGULATORY PROVISIONS
 Under the Company Law, the board of directors mainly exercises the following powers:
-(cid:129) to convene the shareholders’ meetings and report on its work to the shareholders’
+ to convene the shareholders’ meetings and report on its work to the shareholders’
 meetings;
-(cid:129) to implement the resolutions passed in shareholders’ meetings;
-(cid:129) to decide on the company’s business plans and investment proposals;
-(cid:129) to formulate the company’s proposed annual financial budget and final accounts;
-(cid:129) to formulate the company’s profit distribution proposals and loss recovery
+ to implement the resolutions passed in shareholders’ meetings;
+ to decide on the company’s business plans and investment proposals;
+ to formulate the company’s proposed annual financial budget and final accounts;
+ to formulate the company’s profit distribution proposals and loss recovery
 proposals;
-(cid:129) to formulate proposals for the increase or reduction of the company’s registered
+ to formulate proposals for the increase or reduction of the company’s registered
 capital and the issuance of corporate bonds;
-(cid:129) to prepare plans for the merger, division, dissolution and change in the form of the
+ to prepare plans for the merger, division, dissolution and change in the form of the
 company;
-(cid:129) to formulate the company’s basic management system; and
-(cid:129) to exercise any other power under the articles of association or authorized by the
+ to formulate the company’s basic management system; and
+ to exercise any other power under the articles of association or authorized by the
 shareholders’ meeting.
 Board Meetings
 Under the Company Law, meetings of the board of directors of a joint stock limited
@@ -30619,24 +30619,24 @@ is incapable of performing or not performing his duties, a director nominated by
 of the directors shall perform his duties.
 Qualification of Directors
 The Company Law provides that the following persons may not serve as a director:
-(cid:129) a person who is unable or has limited ability to undertake any civil liabilities;
-(cid:129) a person who has been convicted of an offense of bribery, corruption, embezzlement
+ a person who is unable or has limited ability to undertake any civil liabilities;
+ a person who has been convicted of an offense of bribery, corruption, embezzlement
 or misappropriation of property, or the destruction of socialist market economy
 order;orwhohasbeendeprivedofhispoliticalrightsduetohiscrimes,ineachcase
 where less than five years have elapsed since the date of completion of the sentence,
 and in case of a suspended sentence, not more than two years have elapsed since the
 date of expiry of the probationary period;
-(cid:129) a person who has been a former director, factory manager or manager of a company
+ a person who has been a former director, factory manager or manager of a company
 or an enterprise that has entered into insolvent liquidation and who was personally
 liable for the insolvency of such company or enterprise, where less than three years
 have elapsed since the date of the completion of the bankruptcy and liquidation of
 the company or enterprise;
-(cid:129) a person who has been a legal representative of a company or an enterprise that has
+ a person who has been a legal representative of a company or an enterprise that has
 had its business license revoked due to violations of the law and has been ordered
 to close down by law and the person was personally responsible, where less than
 three years have elapsed since the date of such revocation or the order for closure;
 or
-(cid:129) a person who is liable for a relatively large amount of debts that are overdue and
+ a person who is liable for a relatively large amount of debts that are overdue and
 being listed as a dishonest person subject to enforcement by the people’s court.
 – IV-14 –
 
@@ -30671,24 +30671,24 @@ The board of supervisors of a company shall hold at least one meeting every six 
 According to the PRC Company Law, a resolution of the board of supervisors shall be passed
 by more than half of all the supervisors.
 The board of supervisors exercises the following powers:
-(cid:129) to review the company’s financial position;
-(cid:129) to supervise the directors and senior management in their performance of their
+ to review the company’s financial position;
+ to supervise the directors and senior management in their performance of their
 duties and to propose the removal of directors and senior management who have
 violated laws, regulations, the articles of association or the resolutions of
 shareholders’ meeting;
-(cid:129) when the acts of directors and senior management are harmful to the company’s
+ when the acts of directors and senior management are harmful to the company’s
 interests, to require correction of those acts;
 – IV-15 –
 
 === PAGE 645 ===
 APPENDIX IV SUMMARY OF PRINCIPAL LEGALAND REGULATORY PROVISIONS
-(cid:129) to propose the convening of extraordinary shareholders’ meetings and to convene
+ to propose the convening of extraordinary shareholders’ meetings and to convene
 and preside over shareholders’meetings when the board of directors fails to perform
 the duty of convening and presiding over shareholders’ meeting under this law;
-(cid:129) to initiate proposals for resolutions to shareholders’ meeting;
-(cid:129) to initiate proceedings against directors and senior management;
-(cid:129) other powers specified in the articles of association; and
-(cid:129) Supervisors may attend board meetings and make enquiries or proposals in respect
+ to initiate proposals for resolutions to shareholders’ meeting;
+ to initiate proceedings against directors and senior management;
+ other powers specified in the articles of association; and
+ Supervisors may attend board meetings and make enquiries or proposals in respect
 of board resolutions. The board of supervisors may initiate investigations into any
 irregularities identified in the operation of the company and, where necessary, may
 engage an accounting firm to assist their work at the company’s expense.
@@ -30724,15 +30724,15 @@ have fiduciary and diligent duties to the company. Directors, supervisors and se
 management are prohibited from abusing their powers to accept bribes or other unlawful
 income and from misappropriating of the company’s properties. Directors and senior
 management are prohibited from:
-(cid:129) embezzlement of company properties and misappropriation of the company’s
+ embezzlement of company properties and misappropriation of the company’s
 capital;
-(cid:129) depositing the company’s capital into accounts under his own name or the name of
+ depositing the company’s capital into accounts under his own name or the name of
 other individuals;
-(cid:129) utilising power to accept bribe or accept other illegal income;
-(cid:129) accept and possess commissions paid by a third party for transactions conducted
+ utilising power to accept bribe or accept other illegal income;
+ accept and possess commissions paid by a third party for transactions conducted
 with the company;
-(cid:129) unauthorized divulgence of confidential business information of the company; or
-(cid:129) other acts in violation of their duty of loyalty to the company.
+ unauthorized divulgence of confidential business information of the company; or
+ other acts in violation of their duty of loyalty to the company.
 A director, supervisor or senior management who contravenes any law, regulation or the
 company’s articles of association in the performance of his duties resulting in any loss to the
 company shall be personally liable to the company.
@@ -30837,15 +30837,15 @@ people’s court for setting up a liquidation committee with designated relevant
 conduct the liquidation. The people’s court should accept such application and form a
 liquidation committee to conduct liquidation in a timely manner.
 The liquidation group shall exercise the following powers during the liquidation period:
-(cid:129) to handle the company’s assets and to prepare a balance sheet and an inventory of
+ to handle the company’s assets and to prepare a balance sheet and an inventory of
 the assets;
-(cid:129) to notify creditors through notice or public announcement;
-(cid:129) to deal with the company’s outstanding businesses related to liquidation;
-(cid:129) to pay any tax overdue as well as tax amounts arising from the process of
+ to notify creditors through notice or public announcement;
+ to deal with the company’s outstanding businesses related to liquidation;
+ to pay any tax overdue as well as tax amounts arising from the process of
 liquidation;
-(cid:129) to claim credits and pay off debts;
-(cid:129) to distribute the company’s remaining assets after its debts have been paid off; and
-(cid:129) to represent the company in civil lawsuits.
+ to claim credits and pay off debts;
+ to distribute the company’s remaining assets after its debts have been paid off; and
+ to represent the company in civil lawsuits.
 The liquidation group shall notify the company’s creditors within 10 days after its
 establishment and issue public notices in newspapers or on the National Enterprise Credit
 Information Publicity System within 60 days. A creditor shall lodge his claim with the
@@ -32281,21 +32281,21 @@ APPENDIX VI STATUTORY AND GENERAL INFORMATION
 (b) Changes in the share capital of our subsidiaries
 The following changes in the share capital of our subsidiaries took place within the two
 years immediately preceding the date of this Prospectus:
-(cid:129) On December 11, 2023, Taizhou Xunfei Medical Artificial Intelligence Research
+ On December 11, 2023, Taizhou Xunfei Medical Artificial Intelligence Research
 Institute Co., Ltd. (泰州訊飛醫療人工智能研究院有限公司) was established in PRC
 with the registered capital of RMB30,000,000.
-(cid:129) On December 13, 2023, Anhui Xunfei Medical Intelligence Technology Co., Ltd.
+ On December 13, 2023, Anhui Xunfei Medical Intelligence Technology Co., Ltd.
 (安徽訊飛醫智科技有限公司) was established in PRC with the registered capital of
 RMB10,000,000.
-(cid:129) On June 6, 2024, BeijingAnke Zhiyuan Medical Technology Co., Ltd. (北京安科智
+ On June 6, 2024, BeijingAnke Zhiyuan Medical Technology Co., Ltd. (北京安科智
 遠醫療科技有限公司) was established in the PRC with the registered capital of
 RMB2,560,000.
-(cid:129) On June 11, 2024, Yibin Imaging Union Medical Technology Co., Ltd.* (宜賓影聯
+ On June 11, 2024, Yibin Imaging Union Medical Technology Co., Ltd.* (宜賓影聯
 雲享醫療科技有限公司) was established in the PRC with the registered capital of
 RMB5,000,000.
-(cid:129) On August 19, 2024, Zhejiang Xunyi Technology Co., Ltd.* (浙江訊醫科技有限公
+ On August 19, 2024, Zhejiang Xunyi Technology Co., Ltd.* (浙江訊醫科技有限公
 司) was established in the PRC with the registered capital of RMB10,000,000.
-(cid:129) On August 28, 2024, Xunfei Healthcare Technology (Hong Kong) Limited (訊飛醫
+ On August 28, 2024, Xunfei Healthcare Technology (Hong Kong) Limited (訊飛醫
 療科技(香港)有限公司) was established in Hong Kong with the registered capital of
 RMB50,000,000.
 Save as disclosed above, there has been no alteration in the share capital of any of the
@@ -34096,7 +34096,7 @@ employee shareholding platform. Nanjing Zhengyang and Nanjing Zhenghui holds 53.
 partnership interest in Nanjing Zhengyang.
 Set out below is the holding structure of our shareholding platforms as of the Latest
 Practicable Date:
-(cid:129) Heifei Zhengsheng: The general partner of Hefei Zhengsheng is Mr. Lu Xiaoliang,
+ Heifei Zhengsheng: The general partner of Hefei Zhengsheng is Mr. Lu Xiaoliang,
 holding 12% partnership interests in Hefei Zhengsheng. Nanjing Zhengyang and
 NanjingZhenghui,aslimitedpartnersofHefeiZhengsheng,holds53.42%and6.9%
 partnership interests in Hefei Zhengsheng, respectively. The remaining 27.68%
@@ -34107,7 +34107,7 @@ Group, among whom, Dr. Tao Xiaodong, our executive Director, and Mr. Zhao
 Zhiwei, our non-executive Director, holds 13% and 3.2% partnership interest in
 Hefei Zhengsheng, respectively. None of the other limited partners of Hefei
 Zhengsheng hold more than 2% partnership interests in Hefei Zhengsheng.
-(cid:129) Nanjing Zhengyang: Nanjing Zhengyang was established as a limited partnership
+ Nanjing Zhengyang: Nanjing Zhengyang was established as a limited partnership
 on December 3, 2021 as one of our shareholding platforms. The general partner of
 Nanjing Zhengyang is Mr. Lu Xiaoliang holding 6.11% partnership interest in
 Nanjing Zhengyang. Nanjing Zhengchang, as a limited partner of Nanjing
@@ -34126,7 +34126,7 @@ than 10% partnership interests in Nanjing Zhengyang.
 
 === PAGE 731 ===
 APPENDIX VI STATUTORY AND GENERAL INFORMATION
-(cid:129) Nanjing Zhenghui: Nanjing Zhenghui was established as a limited partnership on
+ Nanjing Zhenghui: Nanjing Zhenghui was established as a limited partnership on
 December 3, 2021 as one of our shareholding platforms. The general partner of
 Nanjing Zhenghui is Mr. Lu Xiaoliang holding 1.4% partnership interest in Nanjing
 Zhenghui. Mr. Gui Yajun, being one of our Supervisors, as a limited partner of
@@ -34136,7 +34136,7 @@ partners who are current employees of our Group or iFlytek Group and were grante
 the partnership interests in Nanjing Zhenghui for their contribution to the
 development of our Group. None of the other limited partners of Nanjing Zhenghui
 hold more than 3% partnership interests in Nanjing Zhenghui.
-(cid:129) NanjingZhengchang:NanjingZhengchangwasestablishedasalimitedpartnership
+ NanjingZhengchang:NanjingZhengchangwasestablishedasalimitedpartnership
 on December 9, 2022 as one of our shareholding platform. The general partner of
 Nanjing Zhengchang is Ms. Zhang Panpan, holding 5.02% partnership interest in
 Nanjing Zhengchang. Ms. Sheng Yan, one of our Supervisors, as a limited partner
