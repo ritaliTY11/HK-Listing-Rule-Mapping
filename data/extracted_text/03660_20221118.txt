@@ -368,7 +368,7 @@ technology innovations, transforming credit services in a way that is more acces
 consumers and SMEs, while empowering financial institutions across different stages of the
 loan lifecycle. In particular, we believe our services provide substantial value to the following
 industry participants:
- Financial institution partners. We offer technology-driven services, empowering
+(cid:129) Financial institution partners. We offer technology-driven services, empowering
 our financial institution partners with an efficient online lending process. Our
 technology infrastructure seamlessly integrates with those of our financial
 institution partners, providing them a wide range of technology solutions that
@@ -380,7 +380,7 @@ expanded scale of credit assets and improved risk-adjusted returns. As of June 3
 cumulatively, including national and regional banks and consumer finance
 companies which are non-banking financial institutions that provide loans to
 individuals for the purpose of consumption.
- Consumers. We target the large and growing population of consumers whose credit
+(cid:129) Consumers. We target the large and growing population of consumers whose credit
 demands are underserved or unserved by traditional financial institutions. Such
 population typically has limited credit history and stable income with promising
 growth potentials and has great user lifetime values. However, in lack of effective
@@ -397,7 +397,7 @@ fast, intuitive and transparent user experience that we offer through our platfo
 
 === PAGE 12 ===
 SUMMARY
- SMEs. Since late 2020, we have begun facilitating tailored loan products to quality
+(cid:129) SMEs. Since late 2020, we have begun facilitating tailored loan products to quality
 SMEs. We believe this group is unserved or underserved by traditional financial
 institutions, which typically focus on providing services to larger enterprises with a
 long credit history and operating track record, and with tangible collateral for loans.
@@ -412,7 +412,7 @@ into either credit-driven services or platform services based on the nature of s
 level of credit risks associated therewith. In each type of these services, regardless of the level
 of credit risks involved, we empower partners and users with an efficient lending/borrowing
 process, improved credit assessment and enhanced lending/borrowing experience.
- Credit-driven services. We match prospective borrowers with financial institutions
+(cid:129) Credit-driven services. We match prospective borrowers with financial institutions
 and empower financial institutions in borrower acquisition, credit assessment, fund
 matching and post-facilitation services. Loan products offered under this line of
 services are, in most cases, funded by our financial institution partners to whom we
@@ -421,7 +421,7 @@ extended by trusts and ABSs or Fuzhou Microcredit, which is licensed to conduct
 micro-lending business in China. As we provide guarantees against potential
 defaults or fund certain loans through trusts and ABSs or Fuzhou Microcredit, we
 bear credit risks under credit-driven services.
- Platform services. Tailoring to our financial institution partners’diverse needs, we
+(cid:129) Platform services. Tailoring to our financial institution partners’diverse needs, we
 provide customized technology solutions at different stages of the loan lifecycle,
 such as borrower acquisition, credit assessment, fund matching and post-facilitation
 services. Specifically, our platform services include comprehensive loan facilitation
@@ -432,7 +432,7 @@ underplatformservices.See“Business–OurServices–Platformservices”formore
 details. For the year ended December 31, 2021 and the six months ended June 30,
 2022, loans facilitated by us under platform services accounted for approximately
 54.4% and 54.8% of our total loan facilitation volume, respectively.
- Capital-light model. Under the capital-light model, we facilitate transactions
+(cid:129) Capital-light model. Under the capital-light model, we facilitate transactions
 between prospective borrowers and our financial institution partners through a
 comprehensive suite of technology-enabled services spanning the loan
 lifecycle, from borrower acquisition, technology empowerment in credit
@@ -445,16 +445,16 @@ and loan collection. For loans facilitated under the capital-light model, we
 generate income through service fees charged to financial institution partners
 according to pre-negotiated terms. As of June 30, 2022, we had worked with
 56 financial institution partners under the capital-light model, cumulatively.
-.ICEisanopenplatformthatoffersfinancial
+(cid:129) IntelligenceCreditEngine(ICE).ICEisanopenplatformthatoffersfinancial
 institutions intelligent marketing services. We match prospective borrowers
 and our financial institution partners leveraging user analytics and cloud
 computing technologies, and assist financial institution partners with
 preliminary credit screening of borrowers. We earn pre-negotiated service fees
 from financial institution partners and do not bear credit risks.
- Referral services. We refer some users on our platform who do not fit our
+(cid:129) Referral services. We refer some users on our platform who do not fit our
 financial institution partners’ risk preference to certain online lending
 companies, and earn referral fees.
- Risk management SaaS. In 2020, we began offering financial institutions
+(cid:129) Risk management SaaS. In 2020, we began offering financial institutions
 on-premise deployed, modular risk management SaaS to empower them to
 acquireborrowersandimprovecreditassessmentresults.Underthismodel,we
 typically take technology service fees or consulting fees for the corresponding
@@ -789,41 +789,41 @@ operating history and are subject to credit cycles and the risk of deterioration
 of borrowers.”
 OUR STRENGTHS
 We believe that the following competitive strengths contribute to our success and growth:
- Distinct competitive edge in a massive and growing market with high entry barrier;
- Strong technology and innovation capabilities;
- Robust credit assessment capabilities repeatedly validated by the market;
- Multichannel and efficient user acquisition with a broad user base;
+(cid:129) Distinct competitive edge in a massive and growing market with high entry barrier;
+(cid:129) Strong technology and innovation capabilities;
+(cid:129) Robust credit assessment capabilities repeatedly validated by the market;
+(cid:129) Multichannel and efficient user acquisition with a broad user base;
 – 11 –
 
 === PAGE 21 ===
 SUMMARY
- Diversified funding sources supported by a broad network of financial institution
+(cid:129) Diversified funding sources supported by a broad network of financial institution
 partners; and
- Experienced management team and entrepreneurial company culture.
+(cid:129) Experienced management team and entrepreneurial company culture.
 OUR GROWTH STRATEGIES
 We intend to pursue our mission and vision and grow our business by pursuing the
 following strategies:
- Further penetrate the consumer Credit-Tech market;
- Advance our technology and risk management empowerment capabilities;
- Further develop our capital-light model and technology solutions;
- Strengthen our partnerships with financial institution partners; and
- Further develop our business in the SME Credit-Tech market.
+(cid:129) Further penetrate the consumer Credit-Tech market;
+(cid:129) Advance our technology and risk management empowerment capabilities;
+(cid:129) Further develop our capital-light model and technology solutions;
+(cid:129) Strengthen our partnerships with financial institution partners; and
+(cid:129) Further develop our business in the SME Credit-Tech market.
 RISK FACTORS
 Our operations and the Global Offering involve certain risks and uncertainties, some of
 which are beyond our control and may affect your decision to invest in us or the value of your
 investment. See “Risk Factors” for details of our risk factors, which we strongly urge you to
 read in full before making an investment in our Shares. Some of the major risks we face
 include:
- The Credit-Tech industry is rapidly evolving, which makes it difficult to effectively
+(cid:129) The Credit-Tech industry is rapidly evolving, which makes it difficult to effectively
 assess our future prospects;
- We are subject to uncertainties surrounding regulations and administrative measures
+(cid:129) We are subject to uncertainties surrounding regulations and administrative measures
 of the loan facilitation business, micro-lending business, financing guarantee
 business and credit reporting business. If any of our business practices are deemed
 to be non-compliant with applicable laws and regulations, our business, financial
 condition and results of operations would be materially and adversely affected;
- The pricing of loans facilitated through our platform may be deemed to exceed
+(cid:129) The pricing of loans facilitated through our platform may be deemed to exceed
 interest rate limits imposed by regulations;
- We rely on our proprietary credit profiling model in assessing the creditworthiness
+(cid:129) We rely on our proprietary credit profiling model in assessing the creditworthiness
 of borrowers and the risks associated with loans. If our model is flawed or
 ineffective,orifweotherwisefailorareperceivedtofailtomanagethedefaultrisks
 of loans facilitated through our platform, our reputation and market share would be
@@ -833,7 +833,7 @@ results of operations; and
 
 === PAGE 22 ===
 SUMMARY
- If the PRC government deems that the contractual arrangements in relation to our
+(cid:129) If the PRC government deems that the contractual arrangements in relation to our
 VIEs do not comply with PRC regulatory restrictions on foreign investment in the
 relevant industries, or if these regulations or the interpretation of existing
 regulationschangeinthefuture,wecouldbesubjecttoseverepenaltiesorbeforced
@@ -1818,15 +1818,15 @@ and estimated offering expenses payable by us.
 SUMMARY
 In line with our strategies, we plan to use the net proceeds of the Global Offering for the
 following purposes:
- approximately50%(approximatelyHK$182.3million,assumingtheOver-allotment
+(cid:129) approximately50%(approximatelyHK$182.3million,assumingtheOver-allotment
 Option is not exercised) is expected to be used over the course of the next 3 years
 for research and development to enhance our technology and credit assessment
 capabilities, and develop more diversified technology solutions in response to the
 evolving needs of financial institutions and fine-tune our services and solutions;
- approximately40%(approximatelyHK$145.8million,assumingtheOver-allotment
+(cid:129) approximately40%(approximatelyHK$145.8million,assumingtheOver-allotment
 Option is not exercised) is expected to be used over the course of the next 3 years
 for further penetrating the Credit-Tech Industry and expanding user base; and
- approximately 10% (approximately HK$36.5 million, assuming the Over-allotment
+(cid:129) approximately 10% (approximately HK$36.5 million, assuming the Over-allotment
 Option is not exercised) is expected to be used over the course of the next 3 years
 for general corporate purposes and working capital needs.
 To the extent that the net proceeds of the Global Offering are not immediately required
@@ -2474,15 +2474,15 @@ future events that may prove to be inaccurate. Those assumptions and factors are
 information currently available to us about the businesses that we operate. The risks,
 uncertainties and other factors, many of which are beyond our control, that could influence
 actual results include, but are not limited to:
- our operations and business prospects;
- our business and operating strategies and our ability to implement such strategies;
- our ability to develop and manage our operations and business;
- competition for, among other things, capital, technology and skilled personnel;
- our ability to control costs;
- our dividend policy;
- changes to regulatory and operating conditions in the industry and geographical
+(cid:129) our operations and business prospects;
+(cid:129) our business and operating strategies and our ability to implement such strategies;
+(cid:129) our ability to develop and manage our operations and business;
+(cid:129) competition for, among other things, capital, technology and skilled personnel;
+(cid:129) our ability to control costs;
+(cid:129) our dividend policy;
+(cid:129) changes to regulatory and operating conditions in the industry and geographical
 markets in which we operate; and
- all other risks and uncertainties described in the section headed “Risk Factors.”
+(cid:129) all other risks and uncertainties described in the section headed “Risk Factors.”
 Since actual results or outcomes could differ materially from those expressed in any
 forward-looking statements, we strongly caution investors against placing undue reliance on
 any such forward-looking statements. Any forward-looking statement speaks only as of the
@@ -2521,30 +2521,30 @@ You should consider our business and prospects in light of the risks and challen
 encounter or may encounter given the rapidly evolving market in which we operate, along with
 our limited operating history. These risks and challenges include our ability to, among other
 things:
- offer competitive products and services;
- broaden our prospective borrower base;
- increase the utilization of our products by existing borrowers as well as new
+(cid:129) offer competitive products and services;
+(cid:129) broaden our prospective borrower base;
+(cid:129) increase the utilization of our products by existing borrowers as well as new
 borrowers;
- maintain and enhance our relationship and business collaboration with our partners;
- maintain low delinquency rates of loans facilitated by us;
- develop and maintain cooperative relationships with financial institution partners to
+(cid:129) maintain and enhance our relationship and business collaboration with our partners;
+(cid:129) maintain low delinquency rates of loans facilitated by us;
+(cid:129) develop and maintain cooperative relationships with financial institution partners to
 secure sufficient, diversified, cost-efficient funding to the drawdown requests;
 – 57 –
 
 === PAGE 67 ===
 RISK FACTORS
- continue to develop, maintain and scale our platform and sustain our historical
+(cid:129) continue to develop, maintain and scale our platform and sustain our historical
 growth rates;
- continue to develop and improve the effectiveness, accuracy and efficiency of our
+(cid:129) continue to develop and improve the effectiveness, accuracy and efficiency of our
 proprietary credit assessment and profiling technologies;
- navigate through a complex and evolving regulatory environment;
- improve our operational efficiency and profitability;
- attract, retain and motivate talented employees to support our business growth;
- enhance our technology infrastructure to support the growth of our business and
+(cid:129) navigate through a complex and evolving regulatory environment;
+(cid:129) improve our operational efficiency and profitability;
+(cid:129) attract, retain and motivate talented employees to support our business growth;
+(cid:129) enhance our technology infrastructure to support the growth of our business and
 maintain the security of our system and the confidentiality of the information
 provided and utilized across our system;
- navigate through economic conditions and fluctuations; and
- defend ourselves against legal and regulatory actions, such as actions involving
+(cid:129) navigate through economic conditions and fluctuations; and
+(cid:129) defend ourselves against legal and regulatory actions, such as actions involving
 intellectual property or privacy claims.
 We have a limited operating history and are subject to credit cycles and the risk of
 deterioration of credit profiles of borrowers.
@@ -2670,7 +2670,7 @@ Measures, we have made several adjustments to our collaboration model with certa
 institution partners. However, we may still be deemed non-compliant with Circular 141, the
 Supplementary Financing Guarantee Provisions, the Internet Loans Interim Measures or other
 relevant rules in the following aspects of our business:
- Guarantee practice. We neither collected guarantee fees from our financial
+(cid:129) Guarantee practice. We neither collected guarantee fees from our financial
 institution partners, nor took providing guarantees as our main operating business
 through our non-licensed subsidiaries, while historically a Consolidated Affiliated
 Entity that had not obtained the financing guarantee license provided guarantees or
@@ -2713,7 +2713,7 @@ surrounding regulations and administrative measures of micro-lending business an
 financing guarantee business. If any of our business practices are deemed to be
 non-compliant with such laws and regulations, our business, financial condition and
 results of operations would be adversely affected.”
- Payment. We have adopted a payment model and applied it to our cooperation with
+(cid:129) Payment. We have adopted a payment model and applied it to our cooperation with
 all financial institution partners. Under our payment model, we do not charge
 interests to borrowers for loans funded by our financial institution partners; instead,
 we charge service fees to financial institutions. In certain cases, some financial
@@ -2732,7 +2732,7 @@ interpretation of Circular 141 and given substantial uncertainties regarding the
 interpretation and application of current or future PRC laws and regulations, we
 cannot assure you that PRC regulatory authorities will ultimately take a view that is
 consistent with our PRC Legal Adviser.
- Product pricing. In accordance with the evolution of regulatory environments, we
+(cid:129) Product pricing. In accordance with the evolution of regulatory environments, we
 have lowered our product pricing, which is calculated based on the internal rate of
 return methodology. We may further adjust our product pricing from time to time as
 a result of changes in regulations or our business strategies. If we are unable to keep
@@ -2986,8 +2986,8 @@ the financing cost in an attempt to circumvent the upper limit, the rights and o
 parties to the loan will be determined by the actual loan relationship.
 On August 20, 2020, the Supreme People’s Court issued the Decision on Amending the
 ProvisionsoftheSupremePeople’sCourtonSeveralIssuesConcerningtheApplicationofLaw
-intheTrialofPrivateLendingCases(《最高人民法院關於修改關於審理民間借貸案件適用法
-律若干問題的規定, or the Judicial InterpretationAmendment, which was revised on
+intheTrialofPrivateLendingCases(《最高人民法院關於修改(cid:2)關於審理民間借貸案件適用法
+律若干問題的規定(cid:3)的決定》), or the Judicial InterpretationAmendment, which was revised on
 January 1, 2021 and amended the upper limit of private lending interest rates under judicial
 protection.AccordingtotheJudicialInterpretationAmendment,iftheservicefeesorotherfees
 that we charge are deemed to be loan interest or fees related to loans (inclusive of any default
@@ -3158,15 +3158,15 @@ of such personal information and prevent personal information from being divulge
 or lost. However, we face risks inherent in handling and protecting personal data. In particular,
 we face a number of challenges relating to data from transactions and other activities on our
 platform, including:
- protecting the data in and hosted on our system, including against attacks on our
+(cid:129) protecting the data in and hosted on our system, including against attacks on our
 system by outside parties or fraudulent behavior or improper use by our employees;
- addressing concerns related to privacy and sharing, safety, security and other
+(cid:129) addressing concerns related to privacy and sharing, safety, security and other
 factors; and
 – 72 –
 
 === PAGE 82 ===
 RISK FACTORS
- complying with applicable laws, rules and regulations relating to the collection, use,
+(cid:129) complying with applicable laws, rules and regulations relating to the collection, use,
 storage, transfer, disclosure and security of personal information, which are subject
 to change and new interpretations, including any requests from regulatory and
 government authorities relating to such data.
@@ -3188,7 +3188,7 @@ protections laws and regulations with varying standards and applications. See �
 Overview – Regulations on Information Security and Privacy Protection.” The following are
 non-exhaustive examples of certain recent PRC regulatory activities in this area:
 Cybersecurity
-, which became
+(cid:129) The PRC Cybersecurity Law (《中華人民共和國網絡安全法》), which became
 effective in June 2017, created China’s first national-level data protection
 framework for “network operators.” It requires, among other things, that network
 operators take security measures to protect the network from unauthorized
@@ -3224,7 +3224,7 @@ financial institution partners from cooperating with us, any of which would have
 material adverse impact on our results of operations, financial condition and
 business prospects.
 Data Security
- In June 2021, the SCNPC promulgated the PRC Data Security Law, which took
+(cid:129) In June 2021, the SCNPC promulgated the PRC Data Security Law, which took
 effectinSeptember2021.ThePRCDataSecurityLaw,amongotherthings,provides
 for security review procedure for data-related activities that may affect national
 security. It also introduces a data classification and hierarchical protection system
@@ -3272,7 +3272,7 @@ deemed to be a “critical information infrastructure operator” under PRC law.
 are deemed a “critical information infrastructure operator” under the PRC
 cybersecurity laws and regulations, we may be subject to obligations in addition to
 those with which we are currently obligated to comply.
- On July 7, 2022, the CAC published the Outbound Data Transfer Security
+(cid:129) On July 7, 2022, the CAC published the Outbound Data Transfer Security
 Assessment Measures (《數據出境安全評估辦法》), which took effect on
 September 1, 2022 and specify that data processors who intend to provide important
 data and personal information that are collected and generated in the operation
@@ -3291,7 +3291,7 @@ uncertainties with respect to the application and enforcement of the newly publi
 measures,andwemaybesubjecttosuchoutbounddatasecurityassessmentwiththe
 CAC. We will closely monitor and assess any relevant legislative and regulatory
 development and prepare for a security assessment when necessary.
- In November 2021, the CAC released the Measures of Regulations on the Network
+(cid:129) In November 2021, the CAC released the Measures of Regulations on the Network
 DataSecurityAdministration(DraftforComments)(《網絡數據安全管理條例(徵求
 意見稿)》), or the Draft Regulations on Network Data Security. The Draft
 Regulations on Network Data Security define “data processors” as individuals or
@@ -3322,11 +3322,11 @@ Network Data Security has not been formally adopted, and their respective
 provisions and anticipated adoption or effective date may be subject to change with
 substantial uncertainty.
 Personal Information and Privacy
- The Anti-monopoly Guidelines for the Platform Economy Sector published by the
+(cid:129) The Anti-monopoly Guidelines for the Platform Economy Sector published by the
 Anti-monopoly Committee of the State Council, effective on February 7, 2021,
 prohibits collection of user information through coercive means by online platform
 operators.
- In August 2021, the SCNPC promulgated the Personal Information Protection Law
+(cid:129) In August 2021, the SCNPC promulgated the Personal Information Protection Law
 of the PRC (《中華人民共和國個人信息保護法》), which took effect on November
 1, 2021. The Personal Information Protection Law provides the protection
 requirements for processing personal information, and specifies the rules for
@@ -3351,7 +3351,7 @@ of such laws and regulations.
 
 === PAGE 86 ===
 RISK FACTORS
- On September 17, 2021, the CAC, together with eight other government authorities,
+(cid:129) On September 17, 2021, the CAC, together with eight other government authorities,
 jointly issued the Guidelines on Strengthening the Comprehensive Regulation of
 Algorithms for Internet Information Services (《關於加強互聯網信息服務算法綜合
 治理的指導意見》). The guidelines provide that daily monitoring of data use,
@@ -3711,10 +3711,10 @@ adopted various policies and procedures, such as internal controls and “know-y
 procedures, for anti-money laundering purposes. The Fintech Guidelines purport, among other
 things, to require internet financial service providers, including us, to comply with certain
 anti-money laundering requirements, including:
- the establishment of a borrower identification program;
- the monitoring and reporting of the suspicious transaction;
- the preservation of borrower information and transaction records; and
- the provision of assistance to the public security department and judicial authority
+(cid:129) the establishment of a borrower identification program;
+(cid:129) the monitoring and reporting of the suspicious transaction;
+(cid:129) the preservation of borrower information and transaction records; and
+(cid:129) the provision of assistance to the public security department and judicial authority
 in investigations and proceedings in relation to anti-money laundering matters.
 There is no assurance that our anti-money laundering policies and procedures will
 protect us from being exploited for money laundering purposes or that we will be
@@ -3858,18 +3858,18 @@ financial service providers and our business, financial performance and prospect
 materially and adversely affected.
 Our existing and new loan products and financial services could fail to attain sufficient
 market acceptance for many reasons, including:
- prospective borrowers may not find the features of loan products facilitated by us,
+(cid:129) prospective borrowers may not find the features of loan products facilitated by us,
 such as the prices and credit limits, competitive or appealing;
- we may fail to predict market demand accurately and provide products and services
+(cid:129) we may fail to predict market demand accurately and provide products and services
 that meet this demand in a timely fashion;
- borrowers and financial institution partners using our platforms may not like, find
+(cid:129) borrowers and financial institution partners using our platforms may not like, find
 useful or agree with the changes we make;
- there may be defects, errors or failures on our platforms;
- there may be negative publicity about loan products facilitated by us, or our
+(cid:129) there may be defects, errors or failures on our platforms;
+(cid:129) there may be negative publicity about loan products facilitated by us, or our
 platform’s performance or effectiveness;
- regulatory authorities may take the view that the new products or platform changes
+(cid:129) regulatory authorities may take the view that the new products or platform changes
 do not comply with PRC laws, regulations or rules applicable to us; and
- there may be competing products or services introduced or anticipated to be
+(cid:129) there may be competing products or services introduced or anticipated to be
 introducedbyourcompetitors.Ifourexistingandnewloanproductsdonotmaintain
 or achieve adequate acceptance in the market, our competitive position, results of
 operations and financial condition could be materially and adversely affected.
@@ -4020,11 +4020,11 @@ industry may materially and adversely affect our business and results of operati
 Enhancing the recognition and reputation of our brand is critical to our business and
 competitiveness.Factorsthatarevitaltothisobjectiveincludebutarenotlimitedtoourability
 to:
- maintain the quality and reliability of our platform;
- provide users with a superior experience on our platform;
- enhance and improve our Argus Engine;
- effectively manage and resolve users complaints; and
- effectively protect personal information and privacy of users.
+(cid:129) maintain the quality and reliability of our platform;
+(cid:129) provide users with a superior experience on our platform;
+(cid:129) enhance and improve our Argus Engine;
+(cid:129) effectively manage and resolve users complaints; and
+(cid:129) effectively protect personal information and privacy of users.
 Any negative allegation made by the media or other parties about our Company,
 including, but not limited to our management, business, compliance with law, financial
 condition or prospects, whether meritless or not, could severely hurt our reputation and harm
@@ -4458,33 +4458,33 @@ transaction, and even if we do consummate such a transaction, we may be unable t
 envisaged benefits or avoid the difficulties and risks of such a transaction.
 Strategic investments or acquisitions will involve risks commonly encountered in
 business relationships, including:
- difficulties in assimilating and integrating the operations, personnel, systems, data,
+(cid:129) difficulties in assimilating and integrating the operations, personnel, systems, data,
 technologies, rights, platforms, products and services of the acquired business;
- the inability of the acquired technologies, products or businesses to achieve
+(cid:129) the inability of the acquired technologies, products or businesses to achieve
 expected levels of revenue, profitability, productivity or other benefits;
- difficulties in retaining, training, motivating and integrating key personnel;
- the diversion of management’s time and resources from our daily operations;
- difficulties in maintaining uniform standards, controls, procedures and policies
+(cid:129) difficulties in retaining, training, motivating and integrating key personnel;
+(cid:129) the diversion of management’s time and resources from our daily operations;
+(cid:129) difficulties in maintaining uniform standards, controls, procedures and policies
 within the combined organizations;
- difficultiesinretainingrelationshipswithborrowers,employeesandsuppliersofthe
+(cid:129) difficultiesinretainingrelationshipswithborrowers,employeesandsuppliersofthe
 acquired business;
- risks of entering markets in which we have limited or no prior experience;
- regulatory risks, including remaining in good standing with existing regulatory
+(cid:129) risks of entering markets in which we have limited or no prior experience;
+(cid:129) regulatory risks, including remaining in good standing with existing regulatory
 bodies or receiving any necessary pre-closing or post-closing approvals, as well as
 being subject to new regulators with oversight over an acquired business;
- the assumption of contractual obligations that contain terms that are not beneficial
+(cid:129) the assumption of contractual obligations that contain terms that are not beneficial
 to us, require us to license or waive intellectual property rights or increase our risk
 of liability;
- the failure to successfully further develop the acquired technology;
- liability for activities of the acquired business before the acquisition, including
+(cid:129) the failure to successfully further develop the acquired technology;
+(cid:129) liability for activities of the acquired business before the acquisition, including
 intellectual property infringement claims, violations of laws, commercial disputes,
 tax liabilities and other known and unknown liabilities;
 – 102 –
 
 === PAGE 112 ===
 RISK FACTORS
- potential disruptions to our ongoing businesses; and
- unexpected costs and unknown risks and liabilities associated with strategic
+(cid:129) potential disruptions to our ongoing businesses; and
+(cid:129) unexpected costs and unknown risks and liabilities associated with strategic
 investments or acquisitions.
 We may not make any investments or acquisitions. Even if we do, any such future
 investments or acquisitions may not be successful, may not benefit our business strategy, may
@@ -5889,29 +5889,29 @@ decline in share prices in the United States, China and other jurisdictions in l
 of our Shares and/or ADSs.
 In addition to the above factors, the price and trading volume of our Shares and/orADSs
 may be highly volatile due to multiple factors, including the following:
- regulatory developments affecting us, our users, or our industry;
- deterioration of the collaboration relationship with 360 Group;
- conditions in the Credit-Tech industry;
- announcements of studies and reports relating to the quality of our product and
+(cid:129) regulatory developments affecting us, our users, or our industry;
+(cid:129) deterioration of the collaboration relationship with 360 Group;
+(cid:129) conditions in the Credit-Tech industry;
+(cid:129) announcements of studies and reports relating to the quality of our product and
 service offerings or those of our competitors;
- changes in the economic performance or market valuations of other Credit-Tech
+(cid:129) changes in the economic performance or market valuations of other Credit-Tech
 platforms;
- actual or anticipated fluctuations in our quarterly results of operations and changes
+(cid:129) actual or anticipated fluctuations in our quarterly results of operations and changes
 or revisions of our expected results;
- changes in financial estimates by securities research analysts;
+(cid:129) changes in financial estimates by securities research analysts;
 – 135 –
 
 === PAGE 145 ===
 RISK FACTORS
- announcements by us or our competitors of new product and service offerings,
+(cid:129) announcements by us or our competitors of new product and service offerings,
 acquisitions, strategic relationships, joint ventures or capital commitments;
- additions to or departures of our senior management;
- detrimental negative publicity about us, our management or our industry;
- fluctuations of exchange rates among Renminbi, the Hong Kong dollar and the U.S.
+(cid:129) additions to or departures of our senior management;
+(cid:129) detrimental negative publicity about us, our management or our industry;
+(cid:129) fluctuations of exchange rates among Renminbi, the Hong Kong dollar and the U.S.
 dollar;
- releaseorexpiryoflock-uporothertransferrestrictionsonouroutstandingordinary
+(cid:129) releaseorexpiryoflock-uporothertransferrestrictionsonouroutstandingordinary
 shares or ADSs; and
- sales or perceived potential sales of additional ordinary shares or ADSs.
+(cid:129) sales or perceived potential sales of additional ordinary shares or ADSs.
 If securities or industry analysts do not publish research or publish inaccurate or
 unfavorable research about our business, the market price for our Shares and/or ADSs and
 trading volume could decline.
@@ -6092,11 +6092,11 @@ Under the deposit agreement for the ADSs, the depositary will give us (or our no
 a discretionary proxy to vote the underlying Shares represented by the ADSs at shareholders’
 meetings if the holders ofADSs do not give voting instructions to the depositary as to how to
 vote the underlying Shares represented by their ADSs at a meeting and as to a matter, if:
- we gave the depositary timely notice of the meeting and related voting materials;
- we confirmed to the depositary that we wish a discretionary proxy to be given;
- we confirmed to the depositary that we reasonably do not know of any substantial
+(cid:129) we gave the depositary timely notice of the meeting and related voting materials;
+(cid:129) we confirmed to the depositary that we wish a discretionary proxy to be given;
+(cid:129) we confirmed to the depositary that we reasonably do not know of any substantial
 opposition as to a matter to be voted on at the meeting; and
- we have confirmed to the depositary that the matter voted will not have material
+(cid:129) we have confirmed to the depositary that the matter voted will not have material
 adverse impact on shareholders.
 The effect of this discretionary proxy is that, if the holders of ADSs fail to give voting
 instructions to the depositary as to how to vote the underlying Shares represented by their
@@ -6337,14 +6337,14 @@ as such we are exempt from certain provisions applicable to U.S. domestic public
 Because we qualify as a foreign private issuer under the Exchange Act, we are exempt
 from certain provisions of the securities rules and regulations in the United States that are
 applicable to U.S. domestic issuers, including:
- the rules under the Exchange Act requiring the filing with the SEC of quarterly
+(cid:129) the rules under the Exchange Act requiring the filing with the SEC of quarterly
 reports on Form 10-Q or current reports on Form 8-K;
- the sections of the Exchange Act regulating the solicitation of proxies, consents, or
+(cid:129) the sections of the Exchange Act regulating the solicitation of proxies, consents, or
 authorizations in respect of a security registered under the Exchange Act;
- the sections of the Exchange Act requiring insiders to file public reports of their
+(cid:129) the sections of the Exchange Act requiring insiders to file public reports of their
 stock ownership and trading activities and liability for insiders who profit from
 trades made in a short period of time; and
- the selective disclosure rules by issuers of material nonpublic information under
+(cid:129) the selective disclosure rules by issuers of material nonpublic information under
 Regulation FD.
 We are required to file an annual report on Form 20-F within four months of the end of
 each fiscal year. In addition, we publish our results on a quarterly basis as press releases,
@@ -6764,31 +6764,31 @@ shares. Dealings in our Shares on the Hong Kong Stock Exchange will be conducted
 Kong dollars.
 The transaction costs of dealings in our Shares on the Hong Kong Stock Exchange
 include:
- Hong Kong Stock Exchange trading fee of 0.005% of the consideration of the
+(cid:129) Hong Kong Stock Exchange trading fee of 0.005% of the consideration of the
 transaction, charged to each of the buyer and seller;
- SFC transaction levy of 0.0027% of the consideration of the transaction, charged to
+(cid:129) SFC transaction levy of 0.0027% of the consideration of the transaction, charged to
 each of the buyer and seller;
- AFRC transaction levy of 0.00015% of the consideration of the transaction, charged
+(cid:129) AFRC transaction levy of 0.00015% of the consideration of the transaction, charged
 to each of the buyer and seller;
- trading tariff of HK$0.50 on each and every purchase or sale transaction. The
+(cid:129) trading tariff of HK$0.50 on each and every purchase or sale transaction. The
 decisiononwhetherornottopassthetradingtariffontoinvestorsisatthediscretion
 of brokers;
-, payable by
+(cid:129) transfer deed stamp duty of HK$5.00 per transfer deed (if applicable), payable by
 the seller;
- ad valorem stamp duty at a total rate of 0.26% of the value of the transaction, with
+(cid:129) ad valorem stamp duty at a total rate of 0.26% of the value of the transaction, with
 0.13% payable by each of the buyer and the seller;
 – 157 –
 
 === PAGE 167 ===
 INFORMATION ABOUT THE LISTING
- stock settlement fee, which is currently 0.002% of the gross transaction value,
+(cid:129) stock settlement fee, which is currently 0.002% of the gross transaction value,
 subject to a minimum fee of HK$2.00 and a maximum fee of HK$100.00 per side
 per trade;
- brokerage commission, which is freely negotiable with the broker (other than
+(cid:129) brokerage commission, which is freely negotiable with the broker (other than
 brokerage commissions for IPO transactions which are currently set at 1% of the
 subscription or purchase price and will be payable by the person subscribing for or
 purchasing the securities); and
- the Hong Kong Share Registrar will charge between HK$2.50 to HK$20, depending
+(cid:129) the Hong Kong Share Registrar will charge between HK$2.50 to HK$20, depending
 on the speed of service (or such higher fee as may from time to time be permitted
 under the Hong Kong Listing Rules), for each transfer of ordinary shares from one
 registered owner to another, each share certificate canceled or issued by it and any
@@ -6818,12 +6818,12 @@ The ADSs
 The ADSs representing our Class A ordinary shares are traded on the Nasdaq. Dealings
 in the ADSs on the Nasdaq are conducted in U.S. Dollars.
 ADSs may be held either:
- by having a certificate evidencing ADS, or an American Depository
+(cid:129) directly, (a) by having a certificate evidencing ADS, or an American Depository
 Receipt (ADR), registered in the holder’s name, or (b) having uncertificated ADSs
 registeredinhisorhernameinthedirectregistrationsystem,whichownershipshall
 be confirmed by statements sent by the depositary to the ADS holders entitled
 thereto; or
- indirectly, through the holder’s broker or other financial institution.
+(cid:129) indirectly, through the holder’s broker or other financial institution.
 The depositary for the ADSs is The Bank of New York Mellon, whose office is located
 at 240 Greenwich Street, New York, New York 10286.
 Converting Shares Trading in Hong Kong into ADSs
@@ -6833,15 +6833,15 @@ Shares with the depositary’s Hong Kong custodian, The Hongkong and Shanghai Ba
 Corporation Limited, or the custodian, in exchange for ADSs.
 A deposit of Shares trading in Hong Kong in exchange for ADSs involves the following
 procedures:
- If Shares have been deposited with CCASS, the investor must transfer ordinary
+(cid:129) If Shares have been deposited with CCASS, the investor must transfer ordinary
 shares to the depositary’s account with the custodian within CCASS by following
 the CCASS procedures for transfer and submit and deliver a duly completed and
 signed letter of transmittal to the custodian via his or her broker.
- If Shares are held outside CCASS, the investor must arrange to deposit his or her
+(cid:129) If Shares are held outside CCASS, the investor must arrange to deposit his or her
 Shares into CCASS for delivery to the depositary’s account with the custodian
 within CCASS, submit and deliver a duly completed and signed letter of transmittal
 to the custodian.
- Upon payment of its fees and expenses and of any taxes or charges, such as stamp
+(cid:129) Upon payment of its fees and expenses and of any taxes or charges, such as stamp
 taxes or stock transfer taxes or fees, if applicable, and subject in all cases to the
 terms of the deposit agreement, the depositary will register the corresponding
 number ofADSs in the name(s) requested by an investor and will deliver theADSs
@@ -6865,16 +6865,16 @@ procedure and instruct the broker to arrange for cancelation of the ADSs, and tr
 underlying Shares from the depositary’s account with the custodian within the CCASS system
 to the investor’s Hong Kong stock account.
 For investors holding ADSs directly, the following steps must be taken:
- To withdraw Shares from the ADS program, an investor who holds ADSs may turn
+(cid:129) To withdraw Shares from the ADS program, an investor who holds ADSs may turn
 in suchADSs at the office of the depositary (and the applicableADR(s) if theADSs
 are held in certificated form), and send an instruction to cancel such ADSs to the
 depositary.
- Upon payment or net of its fees and expenses and of any taxes or charges, such as
+(cid:129) Upon payment or net of its fees and expenses and of any taxes or charges, such as
 stamp taxes or stock transfer taxes or fees, if applicable, and subject in all cases to
 the terms of the deposit agreement, the depositary will instruct the custodian to
 deliver Shares underlying the canceled ADSs to the CCASS account designated by
 an investor.
- If an investor prefers to receive Shares outside CCASS, he or she must receive
+(cid:129) If an investor prefers to receive Shares outside CCASS, he or she must receive
 ordinary shares in CCASS first and then arrange for withdrawal from CCASS.
 Investors can then obtain a transfer form signed by HKSCC Nominees Limited (as
 the transferor) and register Shares in their own names with the Hong Kong Share
@@ -6897,9 +6897,9 @@ share register to facilitate such withdrawals.
 Depositary Requirements
 Before the depositary deliversADSs or permits withdrawal of Shares, the depositary may
 require:
- production of satisfactory proof of the identity and genuineness of any signature or
+(cid:129) production of satisfactory proof of the identity and genuineness of any signature or
 other information it deems necessary; and
- compliance with procedures it may establish, from time to time, consistent with the
+(cid:129) compliance with procedures it may establish, from time to time, consistent with the
 deposit agreement, including, but not limited to, presentation of transfer documents.
 The depositary may refuse to deliver, transfer, or register issuances, transfers and
 cancelations of ADSs generally when the transfer books of the depositary or our Hong Kong
@@ -9890,13 +9890,13 @@ Background
 On March 15, 2019, the Foreign Investment Law was formally passed by the thirteenth
 NPC and took effect on January 1, 2020. The Foreign Investment Law stipulates forms of
 foreign investment as below:
- foreign investors set up foreign invested enterprises in China severally or jointly
+(cid:129) foreign investors set up foreign invested enterprises in China severally or jointly
 with other investors;
- foreign investors acquire shares, equity, properties or other similar interests in any
+(cid:129) foreign investors acquire shares, equity, properties or other similar interests in any
 domestic enterprise;
- foreign investors invest in new projects in China severally or jointly with other
+(cid:129) foreign investors invest in new projects in China severally or jointly with other
 investors; and
- foreign investors invest through any other methods under laws, administrative
+(cid:129) foreign investors invest through any other methods under laws, administrative
 regulations, or provisions prescribed by the State Council.
 The Foreign Investment Law stipulates that the negative list is applied in certain industry
 sectors. The negative list set out in the Foreign Investment Law classified the relevant
@@ -10057,21 +10057,21 @@ with innovative products and service offerings. Credit-Tech platforms leverage r
 analytics and other advanced technology capabilities to optimize each aspect of the credit
 services. Main benefits brought forth by Credit-Tech to the credit industry primarily manifest
 in user acquisition, credit assessment, fund matching and post-facilitation services.
- User acquisition. Enabled by advanced data analytics, Credit-Tech platforms
+(cid:129) User acquisition. Enabled by advanced data analytics, Credit-Tech platforms
 identify the diversified needs of consumers and SMEs and acquire quality users
 effectively via multi-channels such as targeted online advertising, collaborations
 withotherinternetplatformswithrichconsumptionscenariosandheavyusertraffic,
 and offline sales efforts;
- Creditassessment.Credit-Techplatformsconductpreliminarycreditassessmentby
+(cid:129) Creditassessment.Credit-Techplatformsconductpreliminarycreditassessmentby
 using credit profiling models and risk-based pricing models, and empower financial
 institutions to carry out final risk management and pricing in line with their own
 risk-management policies and protocols and make the ultimate lending decisions;
- Fund matching. Empowered by robust data analytics, Credit-Tech platforms can
+(cid:129) Fund matching. Empowered by robust data analytics, Credit-Tech platforms can
 effectively grasp and evaluate each borrower’s diversified needs and credit risks,
 and can efficiently refer them to suitable financial institutions in line with the
 financial institutions’ risk preference and funding protocols, thereby seamlessly
 matching credit demand and fund supply; and
- Post-facilitation services. Following loan principal disbursement, Credit-Tech
+(cid:129) Post-facilitation services. Following loan principal disbursement, Credit-Tech
 platforms carry out ongoing post-facilitation credit assessment, monitor and manage
 potential overdue risks, and improve collection strategies and efficiency.
 SIZE OF THE CREDIT-TECH MARKET IN CHINA
@@ -10456,7 +10456,7 @@ technology innovations, transforming credit services in a way that is more acces
 consumers and SMEs, while empowering financial institutions across different stages of the
 loan lifecycle. In particular, we believe our services provide substantial value to the following
 industry participants:
- Financial institution partners. We offer technology-driven services, empowering
+(cid:129) Financial institution partners. We offer technology-driven services, empowering
 our financial institution partners with an efficient online lending process. Our
 technology infrastructure seamlessly integrates with those of our financial
 institution partners, providing them a wide range of technology solutions that
@@ -10468,7 +10468,7 @@ expanded scale of credit assets and improved risk-adjusted returns. As of June 3
 cumulatively, including national and regional banks and consumer finance
 companies which are non-banking financial institutions that provide loans to
 individuals for the purpose of consumption.
- Consumers. We target the large and growing population of consumers whose credit
+(cid:129) Consumers. We target the large and growing population of consumers whose credit
 demands are underserved or unserved by traditional financial institutions. Such
 population typically has limited credit history and stable income with promising
 growth potentials and has great user lifetime values. However, in lack of effective
@@ -10481,7 +10481,7 @@ borrowers of suitable, easy-to-access financial products with sufficient lines o
 credit, reasonable pricing and high levels of flexibility.We believe we are chosen by
 our users because of our well-established industry reputation and the convenient,
 fast, intuitive and transparent user experience that we offer through our platform.
- SMEs. Since late 2020, we have begun facilitating tailored loan products to quality
+(cid:129) SMEs. Since late 2020, we have begun facilitating tailored loan products to quality
 SMEs. We believe this group is unserved or underserved by traditional financial
 institutions, which typically focus on providing services to larger enterprises with a
 long credit history and operating track record, and with tangible collateral for loans.
@@ -10500,7 +10500,7 @@ into either credit-driven services or platform services based on the nature of s
 level of credit risks associated therewith. In each type of these services, regardless of the level
 of credit risks involved, we empower partners and users with an efficient lending/borrowing
 process, improved credit assessment and enhanced lending/borrowing experience.
- Credit-driven services. We match prospective borrowers with financial institutions
+(cid:129) Credit-driven services. We match prospective borrowers with financial institutions
 and empower financial institutions in borrower acquisition, credit assessment, fund
 matching and post-facilitation services. Loan products offered under this line of
 services are, in most cases, funded by our financial institution partners to whom we
@@ -10509,7 +10509,7 @@ extended by trusts and ABSs or Fuzhou Microcredit, which is licensed to conduct
 micro-lending business in China. As we provide guarantees against potential
 defaults or fund certain loans through trusts and ABSs or Fuzhou Microcredit, we
 bear credit risks under credit-driven services.
- Platform services. Tailoring to our financial institution partners’diverse needs, we
+(cid:129) Platform services. Tailoring to our financial institution partners’diverse needs, we
 provide customized technology solutions at different stages of the loan lifecycle,
 such as borrower acquisition, credit assessment, fund matching and post-facilitation
 services. Specifically, our platform services include comprehensive loan facilitation
@@ -10519,7 +10519,7 @@ referral services and risk management SaaS. We currently do not take credit risk
 under platform services. For the year ended December 31, 2021 and the six months
 ended June 30, 2022, loans facilitated by us under platform services accounted for
 approximately 54.4% and 54.8% of our total loan facilitation volume, respectively.
- Capital-light model. Under the capital-light model, we facilitate transactions
+(cid:129) Capital-light model. Under the capital-light model, we facilitate transactions
 between prospective borrowers and our financial institution partners through a
 comprehensive suite of technology-enabled services spanning the loan
 lifecycle, from borrower acquisition, technology empowerment in credit
@@ -10528,7 +10528,7 @@ and loan collection. For loans facilitated under the capital-light model, we
 generate income through service fees charged to financial institution partners
 according to pre-negotiated terms. As of June 30, 2022, we had worked with
 56 financial institution partners under the capital-light model, cumulatively.
-.ICEisanopenplatformthatoffersfinancial
+(cid:129) IntelligenceCreditEngine(ICE).ICEisanopenplatformthatoffersfinancial
 institutions intelligent marketing services. We match prospective borrowers
 and our financial institution partners leveraging user analytics and cloud
 computing technologies, and assist financial institution partners with
@@ -10538,10 +10538,10 @@ from financial institution partners and do not bear credit risks.
 
 === PAGE 262 ===
 BUSINESS
- Referral services. We refer some users on our platform who do not fit our
+(cid:129) Referral services. We refer some users on our platform who do not fit our
 financial institution partners’ risk preference to certain online lending
 companies, and earn referral fees.
- Risk management SaaS. In 2020, we began offering financial institutions
+(cid:129) Risk management SaaS. In 2020, we began offering financial institutions
 on-premise deployed, modular risk management SaaS to empower them to
 acquireborrowersandimprovecreditassessmentresults.Underthismodel,we
 typically take technology service fees or consulting fees for the corresponding
@@ -11945,10 +11945,10 @@ The Argus Engine is deployed to conduct fraud detection and initial credit scree
 a prospective borrower, generating an F-Score which is a proprietary metric quantifying
 potential fraud risks of the borrower. Through ourArgus Engine, we seamlessly combine data
 aggregation with fraud detection capabilities as follows.
- Identity authentication. We use facial recognition technology and other tools and
+(cid:129) Identity authentication. We use facial recognition technology and other tools and
 processes to verify the identity of a prospective borrower, denying those
 applications with what we believe to be false identities.
- Blacklist filtering. We maintain a real-time list of suspicious devices and accounts
+(cid:129) Blacklist filtering. We maintain a real-time list of suspicious devices and accounts
 referred to as a blacklist and to which we have automated access. We refer to the
 blacklist as well as fraud records provided by third-party institutions to filter
 prospective borrowers with high fraud risks.
@@ -11956,21 +11956,21 @@ prospective borrowers with high fraud risks.
 
 === PAGE 297 ===
 BUSINESS
- Telecommunication fraud prevention. Our anti-telecommunication fraud system
+(cid:129) Telecommunication fraud prevention. Our anti-telecommunication fraud system
 integratesblackorgraylist,AIpoweredsourcetrackingtechnologies,aswellasreal
 time transaction and risk monitoring models. This system enables fraud prevention
 across the entire lending process, from pre-facilitation borrower acquisition to
 post-facilitation services. Its telecommunication fraud prevention mechanism
 features fraud risk alert, fraud interception and post-fraud feedback.
- Anti-fraud algorithms.We filter prospective borrowers through the use of anti-fraud
+(cid:129) Anti-fraud algorithms.We filter prospective borrowers through the use of anti-fraud
 algorithms based on machine learning:
- we utilize supervised machine learning processes to learn from known fraud
+(cid:129) we utilize supervised machine learning processes to learn from known fraud
 behavior patterns, training our algorithms to develop rules to identify similar
 patterns and deny suspicious applications;
- we utilize unsupervised machine learning to run anomaly detection to detect
+(cid:129) we utilize unsupervised machine learning to run anomaly detection to detect
 individual and aggregated abnormal patterns for the purpose of identifying
 unknown fraud behaviors; and
- we conduct a social network analysis, connecting seemingly unrelated factors
+(cid:129) we conduct a social network analysis, connecting seemingly unrelated factors
 to often detected fraud schemes. For example, when a new user uses the same
 mobile device as that of users A and B to access our services, our social
 network analysis algorithm is able to automatically catch the high correlations
@@ -12519,7 +12519,7 @@ Cosmic Cube Pricing Model
 Intelligence
 Security CloudBank System
 Principal components of our technology infrastructure include:
- Data science. Data science contributes to many elements of our business and
+(cid:129) Data science. Data science contributes to many elements of our business and
 operations, extending across an entire loan lifecycle. OurArgus Engine allows us to
 aggregate and assess thousands of data points to build a comprehensive profile for
 each user which guides fraud detection, credit assessment and general borrower
@@ -12536,7 +12536,7 @@ relationship database with tens of billions of connecting points for fraud detec
 purpose. The algorithms powering the majority of our decision systems iterate in
 real-time through machine learning, allowing us to promptly identify and correct
 operational issues.
- Artificial intelligence. We have identified specific applications for AI across our
+(cid:129) Artificial intelligence. We have identified specific applications for AI across our
 platform, notably around precision marketing, rapid underwriting and post-
 facilitation services. We consistently upgrade our capabilities through machine
 learning. For instance, our fraud detection and credit assessment capabilities are
@@ -12551,18 +12551,18 @@ we apply to the collection of delinquent loans, has reduced our collections staf
 significantly and empowered the remaining staff to be more efficient and effective.
 Lastly, we are in the process of evaluating applications of blockchain across our
 business model.
- Security. We are committed to maintaining a secure online platform. Our platform
+(cid:129) Security. We are committed to maintaining a secure online platform. Our platform
 benefits from 360 Group’s expertise in the area of internet security. Our focus on
 security provides operational benefits because we believe borrowers are more
 willing to share sensitive information with us due to our security reputation. Key
 features of our security system are as follows:
- Our firewall monitors and controls incoming and outgoing traffic 24 hours per
+(cid:129) Our firewall monitors and controls incoming and outgoing traffic 24 hours per
 day, and the firewall is updated and trained periodically with mimic attacks
 from hackers to spot potential loopholes and protect our platform from
 malware, computer virus and hackings;
- Our servers are managed by 360 Group’s private cloud service and as such are
+(cid:129) Our servers are managed by 360 Group’s private cloud service and as such are
 both physically and virtually isolated with intensive security protocols; and
- All transmission of borrower information is encrypted.
+(cid:129) All transmission of borrower information is encrypted.
 We have also adopted a series of policies on internal controls over information systems
 and network access management.We maintain redundancy through a real-time multi-layer data
 backup system to prevent loss of data resulting from unforeseen circumstances. We conduct
@@ -12572,14 +12572,14 @@ undermine our system security.
 
 === PAGE 311 ===
 BUSINESS
- Stability. We operate on 360 Group’s private cloud. Our system infrastructure is
+(cid:129) Stability. We operate on 360 Group’s private cloud. Our system infrastructure is
 hosted in data centers at three separate locations in Beijing and Shanghai. We
 maintain redundancy through a real-time multi-layer data backup system to ensure
 the reliability of our network. Our platform adopts a modular architecture that
 consists of multiple connected components, each of which can be separately
 upgraded and replaced without compromising the functioning of other components.
 This makes our platform both highly reliable and scalable.
- Scalability.Withamodulararchitecture,ourplatformcanbeeasilyexpandedasdata
+(cid:129) Scalability.Withamodulararchitecture,ourplatformcanbeeasilyexpandedasdata
 storagerequirementsanduservisitsincrease.Inaddition,loadbalancingtechnology
 helps us improve the distribution of workloads across multiple computing
 components, optimizing resource utilization and minimizing response time.
@@ -12951,7 +12951,7 @@ Company and established a data security committee to be responsible for our pers
 information protection and data security management with a designated person in charge of
 data security to supervise data processing activities and the protection measures taken. In
 particular our data governance addresses the below five key areas:
- Data protection. We have formulated the 360 DigiTech Data Security Management
+(cid:129) Data protection. We have formulated the 360 DigiTech Data Security Management
 System (《360數科數據安全管理制度》) to comprehensively regulate our data
 security protection issues, and further formulated the 360 DigiTech Customer
 Information Security Management Manual (《360數科客戶信息安全管理手冊》),
@@ -12968,7 +12968,7 @@ and reparation of security vulnerabilities, proper handling of data security inc
 and personal information security incidents in emergency situations, and employee
 trainings to promote knowledge and awareness on data security, to ensure that we
 maintain a high level of data protection;
- Data collection. The Preliminary Policy on Personal Information Protection and
+(cid:129) Data collection. The Preliminary Policy on Personal Information Protection and
 Data Governance, and the 360 DigiTech Customer Information Security
 Management Manual expressly state that all relevant laws and regulations should be
 observedindatacollection;specifically,alldatacollectionbehaviorsshouldcomply
@@ -12979,7 +12979,7 @@ collection is in compliance with relevant laws;
 
 === PAGE 321 ===
 BUSINESS
- Use of data. The Preliminary Policy on Personal Information Protection and Data
+(cid:129) Use of data. The Preliminary Policy on Personal Information Protection and Data
 Governance stipulates that the use of data should conform to the principle of
 minimumnecessity,andanassessmentinaccordancewiththeproceduresprescribed
 in the 360 DigiTech Security ImpactAssessment Provisions (《360 數科數據安全影
@@ -12996,7 +12996,7 @@ personalization, we have specifically issued the Interpretation of Automated
 Decision Processing Regulations (《自動化決策處理規則說明》), through which
 users are informed of the purpose, scenario, basic principles, basic theories and
 rights of the use of automated decision-making;
- Storage and retention of data. The Preliminary Policy on Personal Information
+(cid:129) Storage and retention of data. The Preliminary Policy on Personal Information
 Protection and Data Governance stipulates that the data collected and generated in
 the course of operation in the PRC territory shall be stored in the PRC territory; the
 storage period of the data shall be determined in accordance with laws and
@@ -13005,7 +13005,7 @@ hierarchy of the data; the data that we recognize as sensitive data shall be enc
 and backed up. The Data Backup and Recovery Management Procedures (《數據備
 份和恢復管理程序》) further specifies the procedures and requirements involved in
 data backup and recovery conducted by us; and
- Data transmission. The 360 DigiTech Security Management System (《360數科數
+(cid:129) Data transmission. The 360 DigiTech Security Management System (《360數科數
 據安全管理制度》) stipulates specific requirements for data transmission. For
 example, servers storing and processing sensitive data should be isolated; data
 transmission between systems should be carried out through certified interfaces or
@@ -13113,39 +13113,39 @@ foroverseeingandguidingtheESGinitiativesofourGroup.TheESGcommitteereportstoour
 Board on ESG-related matters and comprises senior management and staff with a solid
 understanding of current and emerging ESG issues and our business. Set forth below are the
 key responsibilities of our ESG committee:
- abiding by the latest ESG-related laws and regulations, including the applicable
+(cid:129) abiding by the latest ESG-related laws and regulations, including the applicable
 sections of the Listing Rules, keeping the Board informed of any changes in such
 laws and regulations and updating our ESG Policy accordingly;
- assessing ESG-related risks on a regular basis according to applicable laws,
+(cid:129) assessing ESG-related risks on a regular basis according to applicable laws,
 regulations and policies to ensure our responsibilities with respect to ESG matters
 are met;
- monitoring local environmental, social and climate changes in regions where we
+(cid:129) monitoring local environmental, social and climate changes in regions where we
 operate and take timely measures to mitigate the risks associated with such volatile
 changes during our daily business operations;
- monitoring the implementation of our ESG Policy and engaging a third-party
+(cid:129) monitoring the implementation of our ESG Policy and engaging a third-party
 consultanttosupportusinfulfillingourESGtargetsiftheESGcommitteeconsiders
 it necessary;
- holding meetings on a regular basis to identify, assess and manage our progress in
+(cid:129) holding meetings on a regular basis to identify, assess and manage our progress in
 achieving our key ESG targets; and
- preparing annual ESG report, reporting to our Board on the ESG-related
+(cid:129) preparing annual ESG report, reporting to our Board on the ESG-related
 performance of our Group, the effectiveness of our ESG Policy and providing our
 Board recommendations relating to ESG matters.
 Metrics and targets
 Wearecommittedtooperatingourbusinessinamannerthatprotectstheenvironmentand
 improves environmental sustainability. We have established metrics and targets in the
 following areas to evaluate and guide our sustainable business operations.
- Greenhousegasemission.Weevaluateourgreenhousegasemissionlevelusingtotal
+(cid:129) Greenhousegasemission.Weevaluateourgreenhousegasemissionlevelusingtotal
 greenhouse gas emission measured in tons. In 2021, our total greenhouse gas
 emission was 1,296.4 tons. We intend to keep the level of our total greenhouse gas
 emission between 80% and 120% of that in 2021 over the next three years.
- Water usage. We evaluate our water usage level using total water usage measured in
+(cid:129) Water usage. We evaluate our water usage level using total water usage measured in
 tons. In 2021, our total water usage was 93,600.0 tons. We intend to keep the level
 of our water usage between 80% and 120% of that in 2021 over the next three years.
 – 315 –
 
 === PAGE 325 ===
 BUSINESS
- Energy consumption. We evaluate our energy consumption level using total energy
+(cid:129) Energy consumption. We evaluate our energy consumption level using total energy
 consumption measured in MWh. In 2021, our total energy consumption was 1,907.9
 MWh. We intend to keep the level of our energy consumption between 80% and
 120% of that in 2021 over the next three years.
@@ -13406,7 +13406,7 @@ scenarios, no designated loan usage, no limitation on targeted borrowers, and no
 such,thesefinancialinstitutionpartnersbelievedthattheloansfacilitatedthroughourplatform
 were not “cash loans” regulated under Circular 141 because the loans facilitated through our
 platform are used for the purposes of consumption (i.e. for purchasing goods or services) and
-do not have all the four characteristics of  as specified under Circular 141. In
+do not have all the four characteristics of (cid:2)cash loans(cid:2) as specified under Circular 141. In
 addition, as far as we have known, other financial institution partners that did not immediately
 adjust the cooperation model with us verbally communicated with their local regulatory
 authorities at that time, and these local regulatory authorities of our financial institution
@@ -14699,7 +14699,7 @@ months ended June 30, 2021 to RMB5,868 million (US$876 million) for the same per
 2022, and the amount derived from platform services decreased by 4.0% from RMB2,745
 million for the six months ended June 30, 2021 to RMB2,635 million (US$393 million) for the
 same period of 2022.
- Loan facilitation and servicing fees. Loan facilitation and servicing fees decreased
+(cid:129) Loan facilitation and servicing fees. Loan facilitation and servicing fees decreased
 under the credit-driven services from RMB1,265 million for the six months ended
 June 30, 2021 to RMB1,142 million (US$170 million) for the same period of 2022,
 primarily due to lower average interest rates of the off-balance sheet loans under
@@ -14708,16 +14708,16 @@ platform services from RMB2,393 million for the six months ended June 30, 2021
 to RMB2,129 million (US$318 million) for the same period of 2022, primarily due
 to lower loan facilitation volume and lower average prices through the capital-light
 model under our platform services.
- Financing income. Financing income increased from RMB898 million for the six
+(cid:129) Financing income. Financing income increased from RMB898 million for the six
 months ended June 30, 2021 to RMB1,609 million (US$240 million) for the same
 period of 2022, primarily due to the increase in outstanding on-balance sheet loan
 balance.
- Revenue from releasing of guarantee liabilities. Revenue from releasing of
+(cid:129) Revenue from releasing of guarantee liabilities. Revenue from releasing of
 guarantee liabilities increased from RMB2,648 million for the six months ended
 June 30, 2021 to RMB3,075 million (US$459 million) for the same period of 2022.
 This increase was in line with the increase in average outstanding balance of
 off-balance sheet loans under credit-driven services during the period.
- Referralservicesfees.ReferralservicesfeesincreasedfromRMB287millionforthe
+(cid:129) Referralservicesfees.ReferralservicesfeesincreasedfromRMB287millionforthe
 six months ended June 30, 2021 to RMB383 million (US$57 million) for the same
 period of 2022 primarily due to the growth in facilitation volume through Intelligent
 Credit Engine (ICE), and partially offset by decrease in transaction volume for
@@ -14727,7 +14727,7 @@ Operating costs and expenses increased from RMB4,190 million for the six months 
 June 30, 2021 to RMB6,133 million (US$916 million) for the same period of 2022, primarily
 due to the increase in provision for loans receivable and the increase in provision for
 contingent liabilities.
- Facilitation, origination and servicing. Facilitation, origination and servicing costs
+(cid:129) Facilitation, origination and servicing. Facilitation, origination and servicing costs
 increased from RMB1,036 million for the six months ended June 30, 2021 to
 RMB1,171 million (US$175 million) for the same period of 2022, primarily due to
 the increase of collection fee of RMB88 million (US$13 million) and payment
@@ -14737,40 +14737,40 @@ facilitation volume and balance.
 
 === PAGE 363 ===
 FINANCIAL INFORMATION
- Sales and marketing. Sales and marketing expenses increased substantially from
+(cid:129) Sales and marketing. Sales and marketing expenses increased substantially from
 RMB885 million for the six months ended June 30, 2021 to RMB1,168 million
 (US$174 million) for the same period of 2022, primarily due to a more proactive
 customer acquisition strategy focusing on higher quality users.
- General and administrative. General and administrative expenses decreased from
+(cid:129) General and administrative. General and administrative expenses decreased from
 RMB244 million for the six months ended June 30, 2021 to RMB216 million
 (US$32 million) for the same period of 2022, primarily due to lower professional
 service fees and our continued effort to improve operational efficiency.
- Funding costs. Funding costs increased from RMB162 million for the six months
+(cid:129) Funding costs. Funding costs increased from RMB162 million for the six months
 ended June 30, 2021 to RMB228 million (US$34 million) for the same period of
 2022, mainly due to an increase in funding from ABSs and trusts.
- Provision for loans receivable. Provision for loans receivable increased from
+(cid:129) Provision for loans receivable. Provision for loans receivable increased from
 RMB382 million for the six months ended June 30, 2021 to RMB907 million
 (US$135 million) for the same period of 2022, which was primarily due to the
 growth in on-balance sheet loans and reflected our consistent approach in assessing
 provisions commensurate with the underlying loan profile.
- Provision for financial assets receivable. Provision for financial assets receivable
+(cid:129) Provision for financial assets receivable. Provision for financial assets receivable
 increasedfromRMB104millionforthesixmonthsendedJune30,2021toRMB164
 million (US$25 million) for the same period of 2022. The increase was primarily
 attributable to an increase in facilitation volume of off-balance sheet loans under
 credit-driven services and reflected our consistent approach in assessing provisions
 commensurate with the underlying loan profile.
- Provision for accounts receivable and contract assets. Provision for accounts
+(cid:129) Provision for accounts receivable and contract assets. Provision for accounts
 receivable and contract assets decreased from RMB157 million for the six months
 ended June 30, 2021 to RMB117 million (US$17 million) for the same period of
 2022, primarily attributable to the decrease in loan facilitation volume under
 capital-light model.
- Provision for contingent liabilities. Provision for contingent liabilities increased
+(cid:129) Provision for contingent liabilities. Provision for contingent liabilities increased
 from RMB1,221 million for the six months ended June 30, 2021 to RMB2,163
 million (US$323 million) for the same period of 2022, which was mainly due to an
 increase in facilitation volume of off-balance sheet loans under credit-driven
 servicesandreflectedourconsistentapproachinassessingprovisionscommensurate
 with the underlying loan profile.
- Expense on guarantee liabilities. Expense on guarantee liabilities was nil and nil for
+(cid:129) Expense on guarantee liabilities. Expense on guarantee liabilities was nil and nil for
 the six months ended June 30, 2021 and 2022.
 – 354 –
 
@@ -14800,7 +14800,7 @@ services. Within our total revenue, the amount derived from credit-driven servic
 by 10.7% from RMB11,404 million in 2020 to RMB10,189 million in 2021, and the amount
 derived from platform services increased by 198.4% from RMB2,160 million in 2020 to
 RMB6,446 million in 2021.
- Loan facilitation and servicing fees. Loan facilitation and servicing fees decreased
+(cid:129) Loan facilitation and servicing fees. Loan facilitation and servicing fees decreased
 under the credit-driven services from RMB4,597 million in 2020 to RMB2,326
 million in 2021. The decrease was primarily due to lower average interest rates of
 the loan and a decrease in facilitation volume under the capital heavy model. The
@@ -14822,14 +14822,14 @@ loan facilitation volume was primarily driven by the increase in the number of u
 with approved credit lines on our platform from approximately 30.9 million as of
 December 31, 2020 to approximately 38.5 million as of December 31, 2021, as well
 as the increase in borrowing activities on our platform from 2020 to 2021.
- Financing income. Financing income remained stable at RMB2,184 million in 2021
+(cid:129) Financing income. Financing income remained stable at RMB2,184 million in 2021
 and 2020. Contributions from increases in on-balance loans were largely offset by
 lower average interest rates.
- Revenue from releasing of guarantee liabilities. Revenue from releasing of
+(cid:129) Revenue from releasing of guarantee liabilities. Revenue from releasing of
 guarantee liabilities increased from RMB4,507 million in 2020 to RMB5,583
 million in 2021. This increase was in line with the increase in average outstanding
 balance of off-balance sheet loans under credit-driven services during the period.
- Referral services fees. Referral services fees increased from RMB265 million in
+(cid:129) Referral services fees. Referral services fees increased from RMB265 million in
 2020 to RMB620 million in 2021 primarily due to the growth in loan facilitation
 volume through ICE.
 Operating costs and expenses
@@ -14895,7 +14895,7 @@ in 2020 as the result of the rapid expansion of our Credit-Tech business. Within
 revenue, the amount derived from credit-driven services increased by 42.3% from RMB8,013
 million in 2019 to RMB11,404 million in 2020, and the amount derived from platform services
 grew even faster by 79% from RMB1,206 million in 2019 to RMB2,160 million in 2020.
- Loan facilitation and servicing fees. Loan facilitation and servicing fees decreased
+(cid:129) Loan facilitation and servicing fees. Loan facilitation and servicing fees decreased
 under the credit-driven services from RMB6,273 million in 2019 to RMB4,597
 million in 2020. The decrease was primarily due to lower average interest rates of
 the loans, a decrease in facilitation volume of off-balance loans under credit-driven
@@ -14909,14 +14909,14 @@ volume was primarily driven by the increase in the number of users with approved
 credit lines on our platform from approximately 24.7 million as of December 31,
 2019 to approximately 30.9 million as of December 31, 2020, as well as the increase
 in borrowing activities on our platform from 2019 to 2020.
- Financing income. Financing income increased from RMB1,310 million in 2019 to
+(cid:129) Financing income. Financing income increased from RMB1,310 million in 2019 to
 RMB2,184 million in 2020.The increase of financing income was mainly due to the
 increase in on-balance sheet loans.
- Revenue from releasing of guarantee liabilities. Revenue from releasing of
+(cid:129) Revenue from releasing of guarantee liabilities. Revenue from releasing of
 guarantee liabilities increased from RMB285 million in 2019 to RMB4,507 million
 in 2020. This increase was primarily attributable to the change of accounting
 standards at the beginning of 2020.
- Referral services fees. Referral services fees decreased from RMB376 million in
+(cid:129) Referral services fees. Referral services fees decreased from RMB376 million in
 2019 to RMB265 million in 2020 primarily due to a decrease in the volume of
 referral services, partially offset by a larger contribution from ICE in late 2020.
 – 358 –
@@ -16156,7 +16156,7 @@ the nine months ended September 30, 2021 to RMB8,810 million (US$1,238 million) 
 same period of 2022, and the amount derived from platform services decreased by 19.0% from
 RMB4,738 million for the nine months ended September 30, 2021 to RMB3,838 million
 (US$540 million) for the same period of 2022.
- Loan facilitation and servicing fees. Loan facilitation and servicing fees decreased
+(cid:129) Loan facilitation and servicing fees. Loan facilitation and servicing fees decreased
 under the credit-driven services from RMB1,846 million for the nine months ended
 September 30, 2021 to RMB1,725 million (US$242 million) for the same period of
 2022, primarily due to lower average pricing of the off-balance sheet loans under
@@ -16165,16 +16165,16 @@ platform services from RMB4,193 million for the nine months ended September 30,
 2021 to RMB3,169 million (US$446 million) for the same period of 2022, primarily
 due to lower loan facilitation volume and lower average pricing through the
 capital-light model under our platform services.
- Financing income. Financing income increased from RMB1,468 million for the nine
+(cid:129) Financing income. Financing income increased from RMB1,468 million for the nine
 months ended September 30, 2021 to RMB2,486 million (US$349 million) for the
 same period of 2022, primarily due to the increase in outstanding on-balance sheet
 loan balance.
- Revenue from releasing of guarantee liabilities. Revenue from releasing of
+(cid:129) Revenue from releasing of guarantee liabilities. Revenue from releasing of
 guarantee liabilities increased from RMB4,088 million for the nine months ended
 September 30, 2021 to RMB4,522 million (US$636 million) for the same period of
 2022. This increase was in line with the increase in average outstanding balance of
 off-balance sheet loans under credit-driven services during the period.
- Referralservicesfees.ReferralservicesfeesincreasedfromRMB443millionforthe
+(cid:129) Referralservicesfees.ReferralservicesfeesincreasedfromRMB443millionforthe
 nine months ended September 30, 2021 to RMB468 million (US$66 million) for the
 same period of 2022, primarily due to the growth in facilitation volume through
 Intelligent Credit Engine (ICE), and partially offset by decrease in transaction
@@ -16187,28 +16187,28 @@ Operating costs and expenses
 Operating costs and expenses increased from RMB6,909 million for the nine months
 ended September 30, 2021 to RMB9,119 million (US$1,282 million) for the same period of
 2022, primarily due to the increase in provision for contingent liabilities.
- Facilitation, origination and servicing. Facilitation, origination and servicing costs
+(cid:129) Facilitation, origination and servicing. Facilitation, origination and servicing costs
 increased from RMB1,663 million for the nine months ended September 30, 2021 to
 RMB1,788 million (US$251 million) for the same period of 2022, primarily due to
 the increase of collection fee of RMB130 million (US$18 million) as a result of the
 growth in loan facilitation volume and balance.
- Sales and marketing. Sales and marketing expenses increased from RMB1,462
+(cid:129) Sales and marketing. Sales and marketing expenses increased from RMB1,462
 million for the nine months ended September 30, 2021 to RMB1,792 million
 (US$252 million) for the same period of 2022, primarily due to a more proactive
 user acquisition strategy focusing on higher quality users.
- General and administrative. General and administrative expenses decreased from
+(cid:129) General and administrative. General and administrative expenses decreased from
 RMB417 million for the nine months ended September 30, 2021 to RMB319 million
 (US$45 million) for the same period of 2022, primarily due to lower professional
 service fees and our continued effort to improve operational efficiency.
- Funding costs. Funding costs increased from RMB246 million for the nine months
+(cid:129) Funding costs. Funding costs increased from RMB246 million for the nine months
 ended September 30, 2021 to RMB366 million (US$51 million) for the same period
 of 2022, mainly due to an increase in funding from ABSs and trusts.
- Provision for loans receivable. Provision for loans receivable increased from
+(cid:129) Provision for loans receivable. Provision for loans receivable increased from
 RMB742 million for the nine months ended September 30, 2021 to RMB1,099
 million (US$154 million) for the same period of 2022, which was primarily due to
 the growth in on-balance sheet loans and reflected our consistent approach in
 assessing provisions commensurate with the underlying loan profile.
- Provision for financial assets receivable. Provision for financial assets receivable
+(cid:129) Provision for financial assets receivable. Provision for financial assets receivable
 increased from RMB174 million for the nine months ended September 30, 2021 to
 RMB279 million (US$39 million) for the same period of 2022. The increase was
 primarily attributable to an increase in facilitation volume of off-balance sheet loans
@@ -16218,12 +16218,12 @@ provisions commensurate with the underlying loan profile.
 
 === PAGE 401 ===
 FINANCIAL INFORMATION
- Provision for accounts receivable and contract assets. Provision for accounts
+(cid:129) Provision for accounts receivable and contract assets. Provision for accounts
 receivable and contract assets decreased from RMB286 million for the nine months
 ended September 30, 2021 to RMB171 million (US$24 million) for the same period
 of 2022, primarily attributable to the decrease in loan facilitation volume under
 capital-light model.
- Provision for contingent liabilities. Provision for contingent liabilities increased
+(cid:129) Provision for contingent liabilities. Provision for contingent liabilities increased
 from RMB1,919 million for the nine months ended September 30, 2021 to
 RMB3,305million(US$465million)forthesameperiodof2022,whichwasmainly
 due to an increase in facilitation volume of off-balance sheet loans under
@@ -16987,7 +16987,7 @@ dates.
 The following paragraphs summarize the principal terms of the 2018 Plan and 2019 Plan.
 Types of awards. The following briefly describes the principal features of the various
 awards that may be granted under our Share Incentive Plans.
- Options. An option may either be an incentive share option, or a non-qualified share
+(cid:129) Options. An option may either be an incentive share option, or a non-qualified share
 option,underourShareIncentivePlans.Wemayonlygrantoptionsthatareintended
 to qualify as incentive share option to employees of the Company or its subsidiaries.
 After termination of employment of an employee, director or consultant, for reasons
@@ -17000,14 +17000,14 @@ disability, the participant may exercise his or her option, to the extent vested
 exercisable as of such date of termination, within 90 days (or such longer period as
 approved by the plan administrator under the 2019 Share Plan) of termination,
 unless otherwise provided in the award agreement.
- Restrictedshares.RestrictedsharesmaybegrantedunderourShareIncentivePlans.
+(cid:129) Restrictedshares.RestrictedsharesmaybegrantedunderourShareIncentivePlans.
 Restricted share awards are shares that are subject to various restrictions, including
 restrictions on transferability and other restrictions as the plan administrator may
 impose. Unless the plan administrator determines otherwise, restricted shares shall
 be held by the Company as escrow agent until the restrictions on such restricted
 shares have lapsed. After the restrictions have lapsed, the shares shall be freely
 transferable by the participant, subject to applicable legal restrictions.
- Restricted share units. A restricted share unit award is the grant of the right to
+(cid:129) Restricted share units. A restricted share unit award is the grant of the right to
 receive share(s) at a future date and may be subject to forfeiture. The award
 agreement shall specify any vesting conditions, the number of restricted share units
 granted, and such other terms and conditions as the plan administrator, in its sole
@@ -17117,23 +17117,23 @@ and Rule 10A-3 under the Exchange Act. We have determined that Yongjin Fu qualif
 “audit committee financial expert.”The audit committee oversees our accounting and financial
 reporting processes and the audits of the financial statements of our company. The audit
 committee is responsible for, among other things:
- appointingtheindependentauditorsandpre-approvingallauditingandnon-auditing
+(cid:129) appointingtheindependentauditorsandpre-approvingallauditingandnon-auditing
 services permitted to be performed by the independent auditors;
 – 413 –
 
 === PAGE 423 ===
 DIRECTORS AND SENIOR MANAGEMENT
- reviewing with the independent auditors any audit problems or difficulties and
+(cid:129) reviewing with the independent auditors any audit problems or difficulties and
 management’s response;
- discussing the annual audited financial statements with management and the
+(cid:129) discussing the annual audited financial statements with management and the
 independent auditors;
- reviewing the adequacy and effectiveness of our accounting and internal control
+(cid:129) reviewing the adequacy and effectiveness of our accounting and internal control
 policies and procedures and any steps taken to monitor and control major financial
 risk exposures;
- reviewing and approving all proposed related party transactions;
- meeting separately and periodically with management and the independent auditors;
+(cid:129) reviewing and approving all proposed related party transactions;
+(cid:129) meeting separately and periodically with management and the independent auditors;
 and
- monitoring compliance with our code of business conduct and ethics, including
+(cid:129) monitoring compliance with our code of business conduct and ethics, including
 reviewing the adequacy and effectiveness of our procedures to ensure proper
 compliance.
 Compensation Committee
@@ -17145,13 +17145,13 @@ structure, including all forms of compensation, relating to our Directors and ex
 Our chief executive officer may not be present at any committee meeting during which his
 compensation is deliberated. The compensation committee is responsible for, among other
 things:
- reviewing and approving, or recommending to the Board for its approval, the
+(cid:129) reviewing and approving, or recommending to the Board for its approval, the
 compensation for our chief executive officer and other executive officers;
- reviewing and recommending to the Board for determination with respect to the
+(cid:129) reviewing and recommending to the Board for determination with respect to the
 compensation of our non-employee directors;
- reviewing periodically and approving any incentive compensation or equity plans,
+(cid:129) reviewing periodically and approving any incentive compensation or equity plans,
 programs or similar arrangements; and
- selecting compensation consultant, legal counsel or other adviser only after taking
+(cid:129) selecting compensation consultant, legal counsel or other adviser only after taking
 into consideration all factors relevant to that person’s independence from
 management.
 – 414 –
@@ -17166,14 +17166,14 @@ Nasdaq rules. The nominating and corporate governance committee assists the Boar
 selecting individuals qualified to become our directors and in determining the composition of
 the Board and its committees. The nominating and corporate governance committee is
 responsible for, among other things:
- selecting and recommending to the Board nominees for election by the shareholders
+(cid:129) selecting and recommending to the Board nominees for election by the shareholders
 or appointment by the board;
- reviewing annually with the Board the current composition of the Board with
+(cid:129) reviewing annually with the Board the current composition of the Board with
 regards to characteristics such as independence, knowledge, skills, experience and
 diversity;
- making recommendations on the frequency and structure of Board meetings and
+(cid:129) making recommendations on the frequency and structure of Board meetings and
 monitoring the functioning of the committees of the Board; and
- advising the Board periodically with regards to significant developments in the law
+(cid:129) advising the Board periodically with regards to significant developments in the law
 andpracticeofcorporategovernanceaswellasourcompliancewithapplicablelaws
 and regulations, and making recommendations to the Board on all matters of
 corporate governance and on any remedial action to be taken.
@@ -17198,13 +17198,13 @@ seek damages in our name if a duty owed by our Directors is breached.
 DIRECTORS AND SENIOR MANAGEMENT
 Our Board has all the powers necessary for managing, and for directing and supervising,
 our business affairs. The functions and powers of our Board include, among others:
- conveningshareholders’annualandextraordinarygeneralmeetingsandreportingits
+(cid:129) conveningshareholders’annualandextraordinarygeneralmeetingsandreportingits
 work to shareholders at such meetings;
- declaring dividends and distributions;
- appointing officers and determining the term of office of the officers;
- exercisingtheborrowingpowersofourcompanyandmortgagingthepropertyofour
+(cid:129) declaring dividends and distributions;
+(cid:129) appointing officers and determining the term of office of the officers;
+(cid:129) exercisingtheborrowingpowersofourcompanyandmortgagingthepropertyofour
 company; and
- approving the transfer of shares in our company, including the registration of such
+(cid:129) approving the transfer of shares in our company, including the registration of such
 shares in our share register.
 Terms of Directors and Officers
 Our officers are elected by and serve at the discretion of the Board. Our Directors are not
@@ -17244,8 +17244,8 @@ Company will continue to work towards enhancing the gender diversity of the Boar
 MAJOR SHAREHOLDERS
 Except as otherwise noted, the following table sets forth information with respect to the
 beneficial ownership of our ordinary shares as of September 30, 2022 by:
- each of our Directors and executive officers; and
- each person known to us to own beneficially more than 5% of our total outstanding
+(cid:129) each of our Directors and executive officers; and
+(cid:129) each person known to us to own beneficially more than 5% of our total outstanding
 shares.
 The calculations in the table below are based on 312,522,703 ordinary shares as of
 September 30, 2022 (excluding 2,910,315 Shares that were issued to our depositary bank and
@@ -17491,10 +17491,10 @@ RMB0.3 billion was funded by non-controlling shareholder.
 Framework Collaboration Agreement
 We have entered into a framework collaboration agreement with 360 Group in July 2018,
 pursuant to which:
- Collaboration on research and development. We will collaborate in depth with 360
+(cid:129) Collaboration on research and development. We will collaborate in depth with 360
 Group on research, development and application of cloud computing and artificial
 intelligence, as well as big data analysis and application.
- Advertising services and traffic support. 360 Group will advertise and provide
+(cid:129) Advertising services and traffic support. 360 Group will advertise and provide
 traffic support to our services through placing links which are directed to our
 website on its matrix of mobile applications and services, including but not limited
 – 423 –
@@ -17506,7 +17506,7 @@ Navigator (360導航), 360 Browser (360瀏覽器) and 360 Search (360搜索). Su
 services are calculated and charged to us under different formula depending on the
 form of advertisements with reference to prevailing market prices, and shall be
 specified in the underlying services agreements.
- Trademark licensing. Pursuant to the framework collaboration agreement, 360
+(cid:129) Trademark licensing. Pursuant to the framework collaboration agreement, 360
 Group will license certain trademarks owned by 360 Group and relevant to our
 businesses to us for our exclusive or non-exclusive use in China (including Hong
 Kong, Macao Special Administrative Region and Taiwan) for the period of the
@@ -17999,7 +17999,7 @@ and ensure compliance with relevant laws and regulations applicable to us.
 In addition, we have taken various measures to comply with the Circular 141, the Internet
 Loans Interim Measures and other laws and regulations that are applicable to our loan
 facilitation business operations:
- Operation of Credit-Tech business in general. We deploy technology solutions to
+(cid:129) Operation of Credit-Tech business in general. We deploy technology solutions to
 help financial institutions identify the diversified needs of consumers and SMEs,
 effectively access prospective borrowers that are creditworthy through multi-
 channels, enhance credit assessment on prospective borrowers, manage credit risks
@@ -18011,7 +18011,7 @@ partners and conduct preliminary credit assessment to facilitate their final ris
 management and credit decision making. We are not involved in financial
 institutions’ independent credit review and approval and risk management
 operations, among others.
- Guarantee practice. We neither collected guarantee fees from our financial
+(cid:129) Guarantee practice. We neither collected guarantee fees from our financial
 institution partners, nor took providing guarantees as our main business through our
 non-licensed subsidiaries, while historically a Consolidated Affiliated Entity that
 had not obtained the financing guarantee license provided guarantees or other credit
@@ -18072,7 +18072,7 @@ partners. We engage third-party guarantee companies to provide guarantee service
 according to the commercial arrangements of the financial institution partners and
 because the relevant regulations impose a cap on the outstanding guarantee
 liabilities of the licensed Consolidated Affiliated Entity.
- Payment. We have adopted a payment model and applied it to our cooperation with
+(cid:129) Payment. We have adopted a payment model and applied it to our cooperation with
 all financial institution partners. Under our payment model, we do not charge
 interests to borrowers for loans funded by our financial institution partners; instead,
 we charge service fees to financial institutions. In certain cases, some financial
@@ -18090,7 +18090,7 @@ per our financial institution partners’ request and are mainly for the purpose
 general payment processing and clearance.We do not charge any interests or service
 fees from borrowers under our payment model for loans funded by our financial
 institution partners.
- Product pricing. In accordance with the evolution of regulatory environments, we
+(cid:129) Product pricing. In accordance with the evolution of regulatory environments, we
 have lowered our product pricing, which is calculated based on the internal rate of
 return methodology. We may further adjust our product pricing from time to time as
 a result of changes in regulations or our business strategies. If we are unable to keep
@@ -19548,13 +19548,13 @@ same as, the Public Offer Price in the Hong Kong Public Offering. See “Structu
 Offering – Pricing and allocation.”
 We plan to use the net proceeds we will receive from the Global Offering for the
 following purposes:
- Approximately 50% (approximately HK$182.3 million, assuming the
+(cid:129) Approximately 50% (approximately HK$182.3 million, assuming the
 Over-allotment Option is not exercised) is expected to be used over the course
 of the next 3 years forresearch and development to enhance ourtechnology and
 credit assessment capabilities, and develop more diversified technology
 solutionsinresponsetotheevolvingneedsoffinancialinstitutionsandfine-tune
 our services and solutions, particularly:
- Approximately 20% will be used to continue enhancing and upgrading the key
+(cid:2) Approximately 20% will be used to continue enhancing and upgrading the key
 capabilities of our Argus Engine and Cosmic Cube Pricing Model and the
 underlying AI-driven data analytics and other advanced technologies, thereby
 refining our credit assessment and pricing from precision and efficiency
@@ -19571,7 +19571,7 @@ We also expect to construct a credit assessment system based on federated
 learning to achieve comprehensive utilization of data while ensuring the data
 assets of the collaborating parties are isolated for data privacy and protection
 purposes;
- Approximately 10% will be used to continue to develop and enhance
+(cid:2) Approximately 10% will be used to continue to develop and enhance
 technology infrastructure and systems to support the growth of our business,
 including (i) purchasing and/or leasing more servers to expand our
 infrastructure network and support the expansion of our business volume and
@@ -19593,7 +19593,7 @@ exploration, AI model training and other data related services to support the
 operations of our business and our business partners, and optimizes the
 efficiency for us and our business partners in data processing, modeling and
 real-time upgrading from a weekly time frame to within several hours;
- Approximately 10% will be used to continue to invest in the development of
+(cid:2) Approximately 10% will be used to continue to invest in the development of
 frontier technologies that are pivotal to the success of a Credit-Tech platform,
 including(i)exploringtheapplicationofblockchaintechnologiesinenhancing
 transactionanddatasecurity,suchasutilizingblockchaintechnologiestobuild
@@ -19612,7 +19612,7 @@ tests, and operate, maintain and deploy codes based on the specific business
 needs inputted to the system. For business needs of medium and low
 computing complexity, the intelligent robots are expected to significantly
 reduce the costs and time required for software development; and
- Approximately 10% will be used to continue to develop and diversify
+(cid:2) Approximately 10% will be used to continue to develop and diversify
 technology solutions spanning across the loan lifecycle and needs of the
 financial institutions along their operations, and research on the
 modularization of our technology solutions, and their functions to further
@@ -19639,11 +19639,11 @@ doctorate degree, or have influential scientific research in related fields (suc
 research papers, software copyright, patents, self-developed products, innovative
 technologies), or have won international awards, to constitute no less than 30% of
 our new hires to the R&D and algorithm teams.
- Approximately 40% (approximately HK$145.8 million, assuming the
+(cid:129) Approximately 40% (approximately HK$145.8 million, assuming the
 Over-allotment Option is not exercised) is expected to be used over the course
 of the next 3 years for further penetrating the Credit-Tech Industry and
 expanding user base, particularly:
- Approximately 32% will be used to strengthen our online and offline sales and
+(cid:2) Approximately 32% will be used to strengthen our online and offline sales and
 marketing efforts, including:
 (i) expanding collaboration with platforms on targeted advertising, leads
 generation, service embedment and other cooperation to attract more
@@ -19674,10 +19674,10 @@ designate sales personnel to areas where SMEs have exhibited strong
 growth trajectory to better serve SME users. We will also optimize our
 products tailored for SMEs to streamline the service process and increase
 the competitiveness of our offerings; and
- Approximately 8% will be used to improve our brand awareness and
+(cid:2) Approximately 8% will be used to improve our brand awareness and
 perception by conducting online and offline brand promotions and other
 marketing activities to attract users with lower credit risks.
- Approximately 10% (approximately HK$36.5 million, assuming the
+(cid:129) Approximately 10% (approximately HK$36.5 million, assuming the
 Over-allotment Option is not exercised) is expected to be used over the course
 of the next 3 years for general corporate purposes and working capital needs.
 To the extent that the net proceeds of the Global Offering are not immediately required
@@ -19941,13 +19941,13 @@ will be subject to certain restrictions, including the following:
 
 === PAGE 491 ===
 UNDERWRITING
- the Syndicate Members (other than the Stabilizing Manager or its affiliates and
+(cid:129) the Syndicate Members (other than the Stabilizing Manager or its affiliates and
 agents) must not, in connection with the distribution of the Offer Shares, effect any
 transactions (including issuing or entering into any option or other derivative
 transactions relating to the Offer Shares), whether in the open market or otherwise,
 with a view to stabilizing or maintaining the market price of any of the Offer Shares
 at levels other than those which might otherwise prevail in the open market; and
- the Syndicate Members must comply with all applicable laws and regulations,
+(cid:129) the Syndicate Members must comply with all applicable laws and regulations,
 including the market misconduct provisions of the SFO, including the provisions
 prohibiting insider dealing, false trading, price rigging and stock market
 manipulation.
@@ -20030,10 +20030,10 @@ Company’s behalf to the Hong Kong Stock Exchange for the listing of, and permi
 in, the Shares in issue and to be issued as mentioned in this document.
 5,540,000 Offer Shares will initially be made available under the Global Offering
 comprising:
- the Hong Kong Public Offering of initially 560,000 Offer Shares (subject to
+(cid:129) the Hong Kong Public Offering of initially 560,000 Offer Shares (subject to
 reallocation) in Hong Kong as described in “– The Hong Kong Public Offering”
 below; and
- theInternationalOfferingofinitially4,980,000OfferShares(subjecttoreallocation
+(cid:129) theInternationalOfferingofinitially4,980,000OfferShares(subjecttoreallocation
 and the Over-allotment Option) pursuant to the shelf registration statement on Form
 F-3ASR that was filed with the SEC and became effective on November 17, 2022,
 2022, and the preliminary document supplement filed with the SEC on November
@@ -20261,22 +20261,22 @@ result of those purchases and (f) offering or attempting to do anything as descr
 === PAGE 499 ===
 STRUCTURE OF THE GLOBAL OFFERING
 Specifically, prospective applicants for and investors in the Offer Shares should note that:
- may, in connection with the
+(cid:129) the Stabilizing Manager (or its affiliates and agents) may, in connection with the
 stabilizing action, maintain a long position in the Shares;
- there is no certainty as to the extent to which and the time or period for which the
+(cid:129) there is no certainty as to the extent to which and the time or period for which the
 Stabilizing Manager (or its affiliates and agents) will maintain such a long position;
- liquidationofanysuchlongpositionbytheStabilizingManager(oritsaffiliatesand
+(cid:129) liquidationofanysuchlongpositionbytheStabilizingManager(oritsaffiliatesand
 agents) and selling in the open market may have an adverse impact on the market
 price of the Shares;
- no stabilizing action can be taken to support the price of the Shares for longer than
+(cid:129) no stabilizing action can be taken to support the price of the Shares for longer than
 the stabilization period, which will begin on the Listing Date, and is expected to
 expire on Friday, December 23, 2022, being the 30th day after the last day for
 lodging applications under the Hong Kong Public Offering.After this date, when no
 further stabilizing action may be taken, demand for the Shares, and therefore the
 price of the Shares, could fall;
- the price of the Shares cannot be assured to stay at or above the Public Offer Price
+(cid:129) the price of the Shares cannot be assured to stay at or above the Public Offer Price
 by the taking of any stabilizing action; and
- stabilizing bids or transactions effected in the course of the stabilizing action may
+(cid:129) stabilizing bids or transactions effected in the course of the stabilizing action may
 be made at any price at or below the Public Offer Price and can, therefore, be done
 at a price below the price paid by applicants for, or investors in, the Offer Shares.
 WewillensurethatanannouncementincompliancewiththeSecuritiesandFutures(Price
@@ -20412,7 +20412,7 @@ These underwriting arrangements, including the Underwriting Agreements, are
 summarized in “Underwriting.”
 CONDITIONS OF THE GLOBAL OFFERING
 Acceptance of all applications for Offer Shares will be conditional on:
- the Hong Kong Stock Exchange granting approval for the listing of, and permission
+(cid:129) the Hong Kong Stock Exchange granting approval for the listing of, and permission
 to deal in, the Shares in issue and to be issued pursuant to the Global Offering
 (including any Shares which may be issued pursuant to the exercise of the
 Over-allotmentOption),theSharestobeconvertedfromtheClassBordinaryshares
@@ -20427,12 +20427,12 @@ from time to time and the Shares to be issued after the conversion of our Class 
 ordinary shares into Shares without enhanced voting rights, on the Main Board of
 the Hong Kong Stock Exchange and such approval not subsequently having been
 withdrawn or revoked prior to the Listing Date;
- the pricing of the Offer Shares having been agreed between the Joint Global
+(cid:129) the pricing of the Offer Shares having been agreed between the Joint Global
 Coordinators(forthemselvesandonbehalfoftheHongKongUnderwriters)andour
 Company;
- the execution and delivery of the International Underwriting Agreement on or
+(cid:129) the execution and delivery of the International Underwriting Agreement on or
 around the Price Determination Date; and
- the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
+(cid:129) the obligations of the Hong Kong Underwriters under the Hong Kong Underwriting
 Agreement and the obligations of the International Underwriters under the
 International Underwriting Agreement becoming and remaining unconditional and
 not having been terminated in accordance with the terms of the respective
@@ -20528,9 +20528,9 @@ Who Can Apply
 Eligibility for the Application
 You can apply for Hong Kong Offer Shares if you or any person(s) for whose benefit you
 are applying:
- are 18 years of age or older;
- have a Hong Kong address; and
- or are a person
+(cid:129) are 18 years of age or older;
+(cid:129) have a Hong Kong address; and
+(cid:129) are outside the United States (within the meaning of Regulation S) or are a person
 described in paragraph (h)(3) of Rule 902 of Regulation S.
 If an application is made by a person under a power of attorney, our Company and the
 Joint Global Coordinators, as our Company’s agents, may accept it at our Company’s or their
@@ -20547,21 +20547,21 @@ granted by the Hong Kong Stock Exchange (details of the relevant waivers are set
 sections headed “Waivers and Exemptions – Subscription for Shares by Existing Shareholders”
 and “Waivers and Exemptions – Dealings in the Shares Prior to Listing”), you cannot apply for
 any Hong Kong Offer Shares if:
- you are an existing beneficial owner of Shares and/or a substantial shareholder of
+(cid:129) you are an existing beneficial owner of Shares and/or a substantial shareholder of
 any of our subsidiaries;
- you are our Director or chief executive and/or a director or chief executive officer
+(cid:129) you are our Director or chief executive and/or a director or chief executive officer
 of any of our subsidiaries;
- you are a close associate of any of the above persons;
- youareacoreconnectedpersonofourCompanyorapersonwhowillbecomeacore
+(cid:129) you are a close associate of any of the above persons;
+(cid:129) youareacoreconnectedpersonofourCompanyorapersonwhowillbecomeacore
 connected person of our Company immediately upon the completion of the Global
 Offering; or
- you have been allocated or have applied for or indicated an interest in any
+(cid:129) you have been allocated or have applied for or indicated an interest in any
 International Offer Shares or otherwise participate in the International Offering.
 Items Required for the Application
 If you apply for Hong Kong Offer Shares online through the White Form elPO service,
 you must:
- have a valid Hong Kong identity card number; and
- provide a valid e-mail address and a contact telephone number.
+(cid:129) have a valid Hong Kong identity card number; and
+(cid:129) provide a valid e-mail address and a contact telephone number.
 If you are applying for the Hong Kong Offer Shares online by instructing your broker or
 custodian who is a CCASS Clearing Participant or a CCASS Custodian Participant to give
 electronic application instructions via CCASS terminals, please contact them for the items
@@ -20572,54 +20572,54 @@ required for the application.
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 Terms and Conditions of an Application
 By applying through the application channels specified in this document you:
- undertaketoexecuteallrelevantdocumentsandinstructandauthorizeourCompany
+(cid:129) undertaketoexecuteallrelevantdocumentsandinstructandauthorizeourCompany
 and/or the Joint Global Coordinators (or their agents or nominees), as our
 Company’s agents, to execute any documents for you and to do on your behalf all
 things necessary to register any Hong Kong Offer Shares allocated to you in your
 nameorinthenameofHKSCCNomineesasrequiredbytheArticlesofAssociation;
- agree to comply with our Company’s Memorandum andArticles ofAssociation, the
+(cid:129) agree to comply with our Company’s Memorandum andArticles ofAssociation, the
 Companies (Winding Up and Miscellaneous Provisions) Ordinance and Cayman
 Companies Act;
- confirm that you have read the terms and conditions and application procedures set
+(cid:129) confirm that you have read the terms and conditions and application procedures set
 out in this document and agree to be bound by them;
- confirm that you have received and read this document and have relied only on the
+(cid:129) confirm that you have received and read this document and have relied only on the
 information and representations in this document in making your application and
 will not rely on any other information or representations, except those in any
 supplement to this document;
- confirm that you are aware of the restrictions on the Global Offering set out in this
+(cid:129) confirm that you are aware of the restrictions on the Global Offering set out in this
 document;
- agree that none of our Company, the Joint Sponsors, the Joint Global Coordinators,
+(cid:129) agree that none of our Company, the Joint Sponsors, the Joint Global Coordinators,
 the Joint Bookrunners, the Joint Lead Managers, the Underwriters, their respective
 directors, officers, employees, partners, agents, advisors and any other parties
 involved in the Global Offering (the “Relevant Persons”), and the White Form
 elPO Service Provider is or will be liable for any information and representations
 not in this document (and any supplement to this document);
- for whose benefit you have made
+(cid:129) undertake and confirm that you or the person(s) for whose benefit you have made
 the application have not applied for or taken up, or indicated an interest for, and will
 not apply for or take up, or indicate an interest for, any International Offer Shares
 nor participated in the International Offering;
- agree to disclose to our Company, the Hong Kong Share Registrar, the receiving
+(cid:129) agree to disclose to our Company, the Hong Kong Share Registrar, the receiving
 banks and the Relevant Persons any personal data which any of them may require
 about you and the person(s) for whose benefit you have made the application;
 – 499 –
 
 === PAGE 509 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
- if the laws of any place outside Hong Kong apply to your application, agree and
+(cid:129) if the laws of any place outside Hong Kong apply to your application, agree and
 warrant that you have complied with all such laws and neither our Company nor the
 Relevant Persons will breach any laws outside Hong Kong as a result of the
 acceptance of your offer to purchase, or any action arising from your rights and
 obligations under the terms and conditions in this document;
- agree that your application, any acceptance of it and the resulting contract will be
+(cid:129) agree that your application, any acceptance of it and the resulting contract will be
 governed by, and construed in accordance with the laws of Hong Kong;
- represent, warrant and undertake that you and any person for whose benefit you are
+(cid:129) represent, warrant and undertake that you and any person for whose benefit you are
 applying for the Hong Kong Offer Shares are outside the United States (within the
 meaning of Regulation S) or are a person described in paragraph (h)(3) of Rule 902
 of Regulation S;
- warrant that the information you have provided is true and accurate;
- agree to accept the Hong Kong Offer Shares applied for or any lesser number
+(cid:129) warrant that the information you have provided is true and accurate;
+(cid:129) agree to accept the Hong Kong Offer Shares applied for or any lesser number
 allocated to you under the application;
- or the name of HKSCC Nominees
+(cid:129) authorize (i) our Company to place your name(s) or the name of HKSCC Nominees
 on our register of members as the holder(s) of any Hong Kong Offer Shares
 allocated to you and such other registers as required under our Company’s
 Memorandum andArticles ofAssociation and (ii) our Company and/or its agents to
@@ -20628,13 +20628,13 @@ refundcheck(s)toyouorthefirst-namedapplicantforjointapplicationsbyordinary
 post at your own risk to the address stated on the application, unless you have
 fulfilled the criteria mentioned in “– Personal Collection” below to collect the Share
 certificate(s) and/or refund check(s) in person;
- declare and represent that this is the only application made and the only application
+(cid:129) declare and represent that this is the only application made and the only application
 intended to be made to benefit you or the person for whose benefit you are applying;
- understand that our Company, our Directors and the Joint Global Coordinators will
+(cid:129) understand that our Company, our Directors and the Joint Global Coordinators will
 rely on your declarations and representations in deciding whether or not to allocate
 any of the Hong Kong Offer Shares to you and that you may be prosecuted for
 making a false declaration;
- warrant that no other application
+(cid:129) (if the application is made for your own benefit) warrant that no other application
 has been or will be made for your benefit by giving electronic application
 instructions to HKSCC directly or indirectly or through the White Form elPO
 service or by any one as your agent or by any other person; and
@@ -20642,7 +20642,7 @@ service or by any one as your agent or by any other person; and
 
 === PAGE 510 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
-
+(cid:129) (if you are making the application as an agent for the benefit of another person)
 warrant that (i) no other application has been or will be made by you as agent for
 or for the benefit of that person or by that person or by any other person as agent
 for that person by giving electronic application instructions to HKSCC and
@@ -20753,51 +20753,51 @@ Applying through CCASS EIPO Service
 Where you have applied through CCASS EIPO service (either indirectly through a
 broker or custodian or directly) and an application is made by HKSCC Nominees on your
 behalf:
- HKSCC Nominees will only be acting as a nominee for you and is not liable for any
+(cid:129) HKSCC Nominees will only be acting as a nominee for you and is not liable for any
 breach of the terms and conditions of this document; and
- HKSCC Nominees will do the following things on your behalf:
- agreethattheHongKongOfferSharestobeallocatedshallberegisteredinthe
+(cid:129) HKSCC Nominees will do the following things on your behalf:
+(cid:2) agreethattheHongKongOfferSharestobeallocatedshallberegisteredinthe
 name of HKSCC Nominees and deposited directly into CCASS for the credit
 of the CCASS Participant’s stock account on your behalf or your CCASS
 Investor Participant’s stock account;
- agree to accept the Hong Kong Offer Shares applied for or any lesser number
+(cid:2) agree to accept the Hong Kong Offer Shares applied for or any lesser number
 allocated;
- undertake and confirm that you have not applied for or taken up, or indicated
+(cid:2) undertake and confirm that you have not applied for or taken up, or indicated
 an interest for, and will not apply for or take up, or indicate an interest for, any
 International Offer Shares nor participated in the International Offering;
- declare
+(cid:2) (if the electronic application instructions are given for your benefit) declare
 that only one set of electronic application instructions has been given for
 yourbenefit;(ifyouareanagentforanotherperson)declarethatyouhaveonly
 given one set of electronic application instructions for the other person’s
 benefit and are duly authorized to give those instructions as its agent;
- confirm that you understand that our Company, our Directors and the Joint
+(cid:2) confirm that you understand that our Company, our Directors and the Joint
 Global Coordinators will rely on your declarations and representations in
 deciding whether or not to allocate any of the Hong Kong Offer Shares to you
 and that you may be prosecuted for making a false declaration;
- authorize our Company to place HKSCC Nominees’ name on our register of
+(cid:2) authorize our Company to place HKSCC Nominees’ name on our register of
 members as the holder of the Hong Kong Offer Shares allocated to you, and
 Dispatch Share certificate(s) and/or refund monies in accordance with the
 arrangements separately agreed between our Company and HKSCC;
- confirmthatyouhavereadthetermsandconditionsandapplicationprocedures
+(cid:2) confirmthatyouhavereadthetermsandconditionsandapplicationprocedures
 set out in this document and agree to be bound by them;
 – 504 –
 
 === PAGE 514 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
- confirm that you have received and read a copy of this document and have
+(cid:2) confirm that you have received and read a copy of this document and have
 relied only on the information and representations in this document in causing
 the application to be made and will not rely on any other information or
 representations, except those in any supplement to this document;
- agree that neither our Company nor any of the Relevant Persons is or will be
+(cid:2) agree that neither our Company nor any of the Relevant Persons is or will be
 liable for any information and representations not in this document (and any
 supplement to this document);
- agree to disclose to our Company, the Hong Kong Share Registrar, the
+(cid:2) agree to disclose to our Company, the Hong Kong Share Registrar, the
 receiving banks and the Relevant Persons any personal data which they may
 require about you;
- that once
+(cid:2) agree (without prejudice to any other rights which you may have) that once
 HKSCC Nominees’ application has been accepted, it cannot be rescinded for
 innocent misrepresentation;
- agree that any application made by HKSCC Nominees on your behalf is
+(cid:2) agree that any application made by HKSCC Nominees on your behalf is
 irrevocable on or before the fifth day after the time of opening of the
 application lists (excluding any days which is Saturday, Sunday or public
 holiday in Hong Kong), such agreement to take effect as a collateral contract
@@ -20816,7 +20816,7 @@ Provisions)Ordinance)givesapublicnoticeunderthatsectiononorbeforethe
 fifth day after the time of the opening of the application lists (excluding any
 day which is a Saturday, Sunday or public holiday in Hong Kong) which
 excludes or limits that person’s responsibility for this document;
- agree that once HKSCC Nominees’ application is accepted, neither that
+(cid:2) agree that once HKSCC Nominees’ application is accepted, neither that
 application nor your electronic application instructions can be revoked, and
 that acceptance of that application will be evidenced by the announcement of
 the results of the Hong Kong Public Offering by our Company;
@@ -20824,28 +20824,28 @@ the results of the Hong Kong Public Offering by our Company;
 
 === PAGE 515 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
- agree to the arrangements, undertakings and warranties under the participant
+(cid:2) agree to the arrangements, undertakings and warranties under the participant
 agreement between you and HKSCC, read with the General Rules of CCASS
 and the CCASS Operational Procedures, for giving electronic application
 instructions to apply for Hong Kong Offer Shares;
- agree with our Company, for itself and for the benefit of each Shareholder (and
+(cid:2) agree with our Company, for itself and for the benefit of each Shareholder (and
 so that our Company will be deemed by our acceptance in whole or in part of
 the application by HKSCC Nominees to have agreed, for our Company and on
 behalf of each Shareholder, with each CCASS Participant giving electronic
 application instructions) to observe and comply with our Company’s
 Memorandum and Articles of Association, the Companies (Winding Up and
 Miscellaneous Provisions) Ordinance and Cayman Companies Act; and
- agree that your application, any acceptance of it and the resulting contract will
+(cid:2) agree that your application, any acceptance of it and the resulting contract will
 be governed by, and construed in accordance with the laws of Hong Kong.
 Effect of Applying through CCASS EIPO Service
 By applying through CCASS EIPO service, you (and, if you are joint applicants, each of
 you jointly and severally) are deemed to have done the following things. Neither HKSCC nor
 HKSCC Nominees will be liable to our Company or any other person in respect of the things
 mentioned below:
- instructed and authorized HKSCC to cause HKSCC Nominees (acting as nominee
+(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees (acting as nominee
 for the relevant CCASS Participants) to apply for the Hong Kong Offer Shares on
 your behalf;
- instructed and authorized HKSCC to arrange payment of the maximum Public Offer
+(cid:129) instructed and authorized HKSCC to arrange payment of the maximum Public Offer
 Price, brokerage, SFC transaction levy, Hong Kong Stock Exchange trading fee and
 AFRC transaction levy by debiting your designated bank account and, in the case of
 a wholly or partially unsuccessful application and/or if the Public Offer Price is less
@@ -20853,7 +20853,7 @@ than the maximum Public Offer Price initially paid on application, refund of the
 application monies (including brokerage, SFC transaction levy, Hong Kong Stock
 Exchange trading fee andAFRC transaction levy) by crediting your designated bank
 account; and
- instructed and authorized HKSCC to cause HKSCC Nominees to do on your behalf
+(cid:129) instructed and authorized HKSCC to cause HKSCC Nominees to do on your behalf
 all the things stated in this document.
 – 506 –
 
@@ -20915,25 +20915,25 @@ supplied.
 Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means)
 for the following purposes:
- processingyourapplicationandrefundcheck,whereapplicable,verificationof
+(cid:129) processingyourapplicationandrefundcheck,whereapplicable,verificationof
 compliance with the terms and application procedures set out in this document
 and announcing results of allocation of the Hong Kong Offer Shares;
- compliance with applicable laws and regulations in Hong Kong and elsewhere;
- registeringnewissuesortransfersintooroutofthenamesoftheholdersofour
+(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+(cid:129) registeringnewissuesortransfersintooroutofthenamesoftheholdersofour
 Company’s Shares including, where applicable, HKSCC Nominees;
- maintaining or updating our Company’s register of members;
- verifying identities of the holders of our Company’s Shares;
- establishing benefit entitlements of holders of our Company’s Shares, such as
+(cid:129) maintaining or updating our Company’s register of members;
+(cid:129) verifying identities of the holders of our Company’s Shares;
+(cid:129) establishing benefit entitlements of holders of our Company’s Shares, such as
 dividends, rights issues, bonus issues, etc.;
- distributing communications from our Company and its subsidiaries;
- compiling statistical information and profiles of the holder of our Company’s
+(cid:129) distributing communications from our Company and its subsidiaries;
+(cid:129) compiling statistical information and profiles of the holder of our Company’s
 Shares;
 – 508 –
 
 === PAGE 518 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
- disclosing relevant information to facilitate claims on entitlements; and
- any other incidental or associated purposes relating to the above and/or to
+(cid:129) disclosing relevant information to facilitate claims on entitlements; and
+(cid:129) any other incidental or associated purposes relating to the above and/or to
 enable our Company and the Hong Kong Share Registrar to discharge our
 Company’s or their obligations to holders of our Company’s Shares and/or
 regulators and/or any other purposes to which the securities’holders may from
@@ -20944,18 +20944,18 @@ theholdersoftheHongKongOfferShareswillbekeptconfidentialbutourCompanyand
 the Hong Kong Share Registrar may, to the extent necessary for achieving any of the
 above purposes, disclose, obtain or transfer (whether within or outside Hong Kong) the
 personal data to, from or with any of the following:
- our Company’s appointed agents such as financial advisors, receiving banks
+(cid:129) our Company’s appointed agents such as financial advisors, receiving banks
 and overseas principal share registrar;
- where applicants for the Hong Kong Offer Shares request a deposit into
+(cid:129) where applicants for the Hong Kong Offer Shares request a deposit into
 CCASS, HKSCC or HKSCC Nominees, who will use the personal data for the
 purposes of operating CCASS;
- any agents, contractors or third-party service providers who offer
+(cid:129) any agents, contractors or third-party service providers who offer
 administrative, telecommunications, computer, payment or other services to
 our Company or the Hong Kong Share Registrar in connection with their
 respective business operations;
- the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
+(cid:129) the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
 governmentalbodiesorotherwiseasrequiredbylaws,rulesorregulations;and
- any persons or institutions with which the holders of the Hong Kong Offer
+(cid:129) any persons or institutions with which the holders of the Hong Kong Offer
 Shares have or propose to have dealings, such as their bankers, solicitors,
 accountants or stockbrokers, etc.
 Retention of personal data
@@ -21017,15 +21017,15 @@ application for the Hong Kong Offer Shares given by you or for your behalf to HK
 be deemed to be an actual application for the purposes of considering whether multiple
 applications have been made.
 If an application is made by an unlisted company and:
- the principal business of that company is dealing in securities; and
- you exercise statutory control over that company,
+(cid:129) the principal business of that company is dealing in securities; and
+(cid:129) you exercise statutory control over that company,
 then the application will be treated as being made for your benefit.
 “Unlistedcompany”meansacompanywithnoequitysecuritieslistedontheHongKong
 Stock Exchange.
 “Statutory control” means you:
- control the composition of the board of directors of the company,
- control more than half of the voting power of the company, or
- holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypart
+(cid:129) control the composition of the board of directors of the company,
+(cid:129) control more than half of the voting power of the company, or
+(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypart
 of it which carries no right to participate beyond a specified amount in a distribution
 of either profits or capital).
 HOW MUCH ARE THE HONG KONG OFFER SHARES
@@ -21056,9 +21056,9 @@ Pricing and Allocation.”
 EFFECTOFBADWEATHERANDEXTREMECONDITIONSONTHEOPENINGAND
 CLOSING OF THE APPLICATION LISTS
 The application lists will not open or close if there is/are:
- a tropical cyclone warning signal number 8 or above;
- a “black” rainstorm warning; and/or
- Extreme Conditions,
+(cid:129) a tropical cyclone warning signal number 8 or above;
+(cid:129) a “black” rainstorm warning; and/or
+(cid:129) Extreme Conditions,
 inforceinHongKongatanytimebetween9:00a.m.and12:00noononWednesday,November
 23, 2022. Instead, they will open between 11:45 a.m. and 12:00 noon on the next business day
 which does not have any of those warnings or Extreme Conditions in force in Hong Kong at
@@ -21085,15 +21085,15 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 The results of allocations and the Hong Kong identity card/passport/Hong Kong business
 registration numbers of successful applicants under the Hong Kong Public Offering will be
 available at the times and dates and in the manner set out below:
- in the announcement to be posted on our website and the website of the Hong Kong
+(cid:129) in the announcement to be posted on our website and the website of the Hong Kong
 Stock Exchange at http://ir.360shuke.com and www.hkexnews.hk, respectively, by
 no later than 9:00 a.m. on Monday, November 28, 2022;
- from the designated results of allocations website at www.iporesults.com.hk
+(cid:129) from the designated results of allocations website at www.iporesults.com.hk
 (alternatively: English https://www.eipo.com.hk/en/Allotment; Chinese
 https://www.eipo.com.hk/zh-hk/Allotment)witha“searchbyID”functionona24
 hour basis from 8:00 a.m. on Monday, November 28, 2022 to 12:00 midnight on
 Sunday, December 4, 2022; and
- from the allocation results telephone enquiry line by calling +852 2862 8555
+(cid:129) from the allocation results telephone enquiry line by calling +852 2862 8555
 between 9:00 a.m. and 6:00 p.m. from Monday, November 28, 2022 to Thursday,
 December 1, 2022.
 If we accept your offer to purchase (in whole or in part), which it may do by announcing
@@ -21122,14 +21122,14 @@ Your application or the application made by HKSCC Nominees on your behalf may on
 be revoked on or before the fifth day after the time of opening of the application lists
 (excluding any day which is a Saturday, Sunday or public holiday in Hong Kong) in the
 following circumstances:
- if a person responsible for this document under Section 40 of the Companies
+(cid:129) if a person responsible for this document under Section 40 of the Companies
 (Winding Up and Miscellaneous Provisions) Ordinance (as applied by Section 342E
 of the Companies (Winding Up and Miscellaneous Provisions) Ordinance) gives a
 public notice under that section on or before the fifth day after the time of the
 opening of the application lists (excluding any day which is a Saturday, Sunday or
 public holiday in Hong Kong) which excludes or limits that person’s responsibility
 for this document; or
- if any supplement to this document is issued, in which case applicants who have
+(cid:129) if any supplement to this document is issued, in which case applicants who have
 already submitted an application will be notified that they are required to confirm
 their applications. If applicants have been so notified but have not confirmed their
 applications in accordance with the procedure to be notified, all unconfirmed
@@ -21145,26 +21145,26 @@ OurCompany,theJointGlobalCoordinators,theWhiteFormelPOServiceProviderand
 each of our respective agents or nominees have full discretion to reject or accept any
 application, or to accept only part of any application, without giving any reasons.
 If:
- you make multiple applications or are suspected of making multiple applications;
- you or the person for whose benefit you apply for, have applied for or taken up, or
+(cid:129) you make multiple applications or are suspected of making multiple applications;
+(cid:129) you or the person for whose benefit you apply for, have applied for or taken up, or
 indicated an interest for, or have been or will be placed or allocated (including
 conditionally and/or provisionally) Hong Kong Offer Shares and International Offer
 Shares;
- your payment is not made correctly;
+(cid:129) your payment is not made correctly;
 – 514 –
 
 === PAGE 524 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
- your electronic application instructions through the White Form elPO service are
+(cid:129) your electronic application instructions through the White Form elPO service are
 not completed in accordance with the instructions, terms and conditions on the
 designated website at www.eipo.com.hk;
- you apply for more than 280,000 Hong Kong Offer Shares, being 50% of the
+(cid:129) you apply for more than 280,000 Hong Kong Offer Shares, being 50% of the
 560,000 Hong Kong Offer Shares initially available under the Hong Kong Public
 Offering;
- our Company or the Joint Global Coordinators believe that by accepting your
+(cid:129) our Company or the Joint Global Coordinators believe that by accepting your
 application, a violation of applicable securities or other laws, rules or regulations
 would result; or
- the Underwriting Agreements do not become unconditional or are terminated.
+(cid:129) the Underwriting Agreements do not become unconditional or are terminated.
 REFUND OF APPLICATION MONIES
 If an application is rejected, not accepted or accepted in part only, or if the Public Offer
 Price as finally determined is less than the maximum Public Offer Price per Offer Share
@@ -21199,28 +21199,28 @@ to the receipt of the Share certificates or prior to the Share certificates beco
 entirely at their own risk.
 Personal Collection
 If You Apply Through White Form elPO Service:
- If you apply for 100,000 Hong Kong Offer Shares or more through the White Form elPO
+(cid:129) If you apply for 100,000 Hong Kong Offer Shares or more through the White Form elPO
 service and your application is wholly or partially successful, you may collect your Share
 certificate(s) and/or refund check(s) (where applicable) in person from the Hong Kong
 Share Registrar, Computershare Hong Kong Investor Services Limited, at Shops
 1712-1716, 17th Floor, Hopewell Centre, 183 Queen’s Road East,Wan Chai, Hong Kong,
 from 9:00 a.m. to 1:00 p.m. on Monday, November 28, 2022, or any other place or date
 notified by our Company.
- (where
+(cid:129) If you do not personally collect your Share certificate(s) and/or refund check(s) (where
 applicable) within the time specified for collection, they will be sent to the address
 specified in your application instructions by ordinary post and at your own risk.
- If you apply for less than 100,000 Hong Kong Offer Shares through the White Form
+(cid:129) If you apply for less than 100,000 Hong Kong Offer Shares through the White Form
 elPO service, your Share certificate(s) and/or refund check(s) (where applicable) will be
 sent to the address specified in your application instructions on or before Monday,
 November 28, 2022 by ordinary post and at your own risk.
- If you apply and pay the application monies from a single bank account, any refund
+(cid:129) If you apply and pay the application monies from a single bank account, any refund
 monies will be Dispatched to that bank account in the form of e-Refund payment
 instructions. If you apply and pay the application monies from multiple bank accounts,
 any refund monies will be Dispatched to the address specified in your application
 instructions in the form of refund check(s) by ordinary post and at your own risk.
 If You Apply Through CCASS EIPO Service:
 Allocation of Hong Kong Offer Shares
- For the purposes of allocating Hong Kong Offer Shares, HKSCC Nominees will not
+(cid:129) For the purposes of allocating Hong Kong Offer Shares, HKSCC Nominees will not
 be treated as an applicant. Instead, each CCASS Participant who gives electronic
 application instructions or each person for whose benefit instructions are given
 will be treated as an applicant.
@@ -21229,12 +21229,12 @@ will be treated as an applicant.
 === PAGE 526 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
 Deposit of Share Certificates into CCASS and Refund of Application Monies
- will be
+(cid:129) If your application is wholly or partially successful, your Share certificate(s) will be
 issued in the name of HKSCC Nominees and deposited into CCASS for the credit
 of your designated CCASS Participant’s stock account or your CCASS Investor
 Participant stock account on Monday, November 28, 2022 or on any other date
 determined by HKSCC or HKSCC Nominees.
- We expect to publish the application results of CCASS Participants (and where the
+(cid:129) We expect to publish the application results of CCASS Participants (and where the
 CCASS Participant is a broker or custodian, we will include information relating to
 the relevant beneficial owner), your Hong Kong identity card/passport/Hong Kong
 business registration number or other identification code (Hong Kong business
@@ -21244,13 +21244,13 @@ Monday, November 28, 2022.You should check the announcement published by our
 Company and report any discrepancies to HKSCC before 5:00 p.m. on Monday,
 November 28, 2022 or such other date as determined by HKSCC or HKSCC
 Nominees.
- If you have instructed your broker or custodian who is a CCASS Clearing
+(cid:129) If you have instructed your broker or custodian who is a CCASS Clearing
 Participant or a CCASS Custodian Participant to give electronic application
 instructions via CCASS terminals to apply for the Hong Kong Offer Shares on your
 behalf, you can also check the number of the Hong Kong Offer Shares allocated to
 you and the amount of refund monies (if any) payable to you with that broker or
 custodian.
- If you have applied as a CCASS Investor Participant, you can also check the number
+(cid:129) If you have applied as a CCASS Investor Participant, you can also check the number
 of Hong Kong Offer Shares allocated to you and the amount of refund monies (if
 any) payable to you via the CCASS Phone System and the CCASS Internet System
 (under the procedures contained in HKSCC’s “An Operating Guide for Investor
@@ -21260,7 +21260,7 @@ account and the credit of the refund monies to your bank account, HKSCC will als
 make available to you an activity statement showing the number of Hong Kong
 Offer Shares credited to your CCASS Investor Participant stock account and the
 amount of refund monies (if any) credited to your designated bank account.
- in respect of wholly and partially
+(cid:129) Refund of your application monies (if any) in respect of wholly and partially
 unsuccessful applications and/or difference between the Public Offer Price and the
 maximum Public Offer Price per Offer Share initially paid on application (including
 brokerage, SFC transaction levy, Hong Kong Stock Exchange trading fee andAFRC
@@ -22140,16 +22140,16 @@ Guarantee and their shareholders, Qibutianxia, are in compliance with existing P
 valid,bindingandenforceableandwillnotresultinanyviolationofPRClawsorregulationsandthePRCregulatory
 authoritiesmaytakeacontraryview.Ifthelegalstructureandcontractualarrangementswerefoundtobeinviolation
 of any existing PRC laws and regulations, the regulatory authorities may exercise their discretion and:
- revokethebusinessandoperatinglicensesoftheCompany’sPRCsubsidiariesorconsolidatedaffiliated
+(cid:129) revokethebusinessandoperatinglicensesoftheCompany’sPRCsubsidiariesorconsolidatedaffiliated
 entities;
- restrict the rights to collect revenues from any of the Company’s PRC subsidiaries;
- discontinue or restrict the operations of any related-party transactions among the Company’s PRC
+(cid:129) restrict the rights to collect revenues from any of the Company’s PRC subsidiaries;
+(cid:129) discontinue or restrict the operations of any related-party transactions among the Company’s PRC
 subsidiaries or consolidated affiliated entities;
- require the Company’s PRC subsidiaries or consolidated affiliated entities to restructure the relevant
+(cid:129) require the Company’s PRC subsidiaries or consolidated affiliated entities to restructure the relevant
 ownership structure or operations;
- take other regulatory or enforcement action is, including levying fines that could be harmful to the
+(cid:129) take other regulatory or enforcement action is, including levying fines that could be harmful to the
 Company’s business; or
- impose additional conditions or requirements with which the Company may not be able to comply.
+(cid:129) impose additional conditions or requirements with which the Company may not be able to comply.
 The imposition of any of these penalties may result in a material adverse effect on the Company’s ability to
 conduct its business. In addition, if the imposition of any of these penalties causes the Company to lose the rights
 to direct the activities of theVIEs or the right to receive substantially all of their economic benefits, the Company
@@ -22447,11 +22447,11 @@ limit, the excess portion is borne by the financial institution partners.
 TheGrouprecognizerevenuetodepictthetransferofpromisedservicestocustomersinanamountthatreflects
 the consideration to which the Group expects to be entitled in exchange for those services. To achieve that core
 principle, the Group applies the following steps:
- with a customer
- Step 2: Identify the performance obligations in the contract
- Step 3: Determine the transaction price
- Step 4:Allocate the transaction price to the performance obligations in the contract
- the entity satisfies a performance obligation
+(cid:129) Step 1: Identify the contract(s) with a customer
+(cid:129) Step 2: Identify the performance obligations in the contract
+(cid:129) Step 3: Determine the transaction price
+(cid:129) Step 4:Allocate the transaction price to the performance obligations in the contract
+(cid:129) Step 5: Recognize revenue when (or as) the entity satisfies a performance obligation
 – IA-26 –
 
 === PAGE 554 ===
@@ -26089,8 +26089,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
- the related pro forma adjustments give appropriate effect to those criteria; and
- the unaudited pro forma financial information reflects the proper application of
+(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
+(cid:129) the unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’judgment, having regard to
 the reporting accountants’ understanding of the nature of the Group, the event or transaction
@@ -26923,17 +26923,17 @@ See“DirectorsandSeniorManagement–Compensation–CompensationofDirectorsand
 Executive Officers” for a discussion of Directors’ remuneration.
 Disclosures relating to Directors and Experts
 Save as disclosed in this document:
- None of our Directors nor any of the persons listed in “– Other Information –
+(cid:129) None of our Directors nor any of the persons listed in “– Other Information –
 Qualification of Experts” below is materially interested in the promotion of, or in
 any assets which have been, within the two years immediately preceding the issue
 of this document, acquired or disposed of by or leased to our subsidiaries and our
 consolidated affiliated entities, or are proposed to be acquired or disposed of by or
 leased to our subsidiaries and our consolidated affiliated entities.
- None of our Directors nor any of the persons listed in “– Other Information –
+(cid:129) None of our Directors nor any of the persons listed in “– Other Information –
 Qualification of Experts” below is materially interested in any contract or
 arrangement with us subsisting at the date of this document which is unusual in its
 nature or conditions or which is significant in relation to our business as a whole.
- Noneofthepersonslistedin“–OtherInformation–QualificationofExperts”below
+(cid:129) Noneofthepersonslistedin“–OtherInformation–QualificationofExperts”below
 has any shareholding in us or any of our Significant Subsidiaries or has the right
 (whether legally enforceable or not) to subscribe for or to nominate persons to
 subscribe for securities in us or any of our Significant Subsidiaries.
@@ -27034,17 +27034,17 @@ Miscellaneous
 Save as disclosed in this document or otherwise waived or exempted from disclosure
 pursuant to the waivers and exemptions disclosed in this document, within the two years
 immediately preceding the date of this document:
- to the best of our knowledge, neither we nor any of our Significant Subsidiaries has
+(cid:129) to the best of our knowledge, neither we nor any of our Significant Subsidiaries has
 issued or agreed to issue any share or loan capital fully or partly paid up either for
 cash or for a consideration other than cash;
- no share or loan capital of our Company is under option or is agreed conditionally
+(cid:129) no share or loan capital of our Company is under option or is agreed conditionally
 or unconditionally to be put under option;
- no commissions, discounts, brokerage or other special terms have been granted in
+(cid:129) no commissions, discounts, brokerage or other special terms have been granted in
 connection with the issue or sale of any share capital or debentures of our Company
 or any of our Significant Subsidiaries;
- no founder, management or deferred shares of our Company or any of our
+(cid:129) no founder, management or deferred shares of our Company or any of our
 subsidiaries have been issued or agreed to be issued; and
- there is no arrangement under which future dividends are waived or agreed to be
+(cid:129) there is no arrangement under which future dividends are waived or agreed to be
 waived.
 Our branch register of members will be maintained in Hong Kong by our Hong Kong
 Share Registrar, Computershare Hong Kong Investor Services Limited. Unless the Directors
@@ -27057,12 +27057,12 @@ admitted to CCASS.
 === PAGE 664 ===
 APPENDIX IV STATUTORY AND GENERAL INFORMATION
 Our Directors confirm that:
- there has not been any interruption in our business which may have or have had a
+(cid:129) there has not been any interruption in our business which may have or have had a
 material adverse effect on our financial position in the 12 months immediately
 preceding the date of this document;
- there are no hire purchase commitments, guarantees or other material contingent
+(cid:129) there are no hire purchase commitments, guarantees or other material contingent
 liabilities of our Company or any member of our Group; and
- we and our Significant Subsidiaries have no outstanding debentures or convertible
+(cid:129) we and our Significant Subsidiaries have no outstanding debentures or convertible
 debt securities.
 The English version of this document shall prevail over the Chinese version.
 – IV-11 –
@@ -27073,47 +27073,47 @@ COMPANIES IN HONG KONG AND AVAILABLE ON DISPLAY
 DOCUMENTS DELIVERED TO THE REGISTRAR OF COMPANIES
 The following documents, amongst others, were delivered to the Registrar of Companies
 in Hong Kong for registration together with this document:
- a copy of the GREEN Application Form;
- a copy of each of the material contracts referred to in the section headed “Statutory
+(cid:129) a copy of the GREEN Application Form;
+(cid:129) a copy of each of the material contracts referred to in the section headed “Statutory
 and General Information – Further Information About Our Business – Summary of
 Material Contracts” in Appendix IV to this document; and
- the written consents referred to in the section headed “Statutory and General
+(cid:129) the written consents referred to in the section headed “Statutory and General
 Information – Other Information – Consents of Experts” in Appendix IV to this
 document.
 DOCUMENTS AVAILABLE ON DISPLAY
 Copies of the following documents will be published on the websites of the Hong Kong
 Stock Exchange at www.hkexnews.hk and our Company at http://ir.360shuke.com for 14
 days from the date of this document (both dates inclusive):
- the Memorandum and Articles of Association of our Company;
- our audited consolidated financial statements for the years ended December 31,
+(cid:129) the Memorandum and Articles of Association of our Company;
+(cid:129) our audited consolidated financial statements for the years ended December 31,
 2019, 2020 and 2021, and the six months ended June 30, 2022;
- theAccountant’s Report from DeloitteToucheTohmatsu, the text of which is set out
+(cid:129) theAccountant’s Report from DeloitteToucheTohmatsu, the text of which is set out
 in Appendix IA;
- the report on review of Unaudited Condensed Consolidated Financial Statements of
+(cid:129) the report on review of Unaudited Condensed Consolidated Financial Statements of
 the Group as of and for the nine months ended September 30, 2022 from Deloitte
 Touche Tohmatsu, the text of which is set out in Appendix IB;
- the independent reporting accountants’ assurance report on the compilation of
+(cid:129) the independent reporting accountants’ assurance report on the compilation of
 unaudited pro forma financial information from Deloitte Touche Tohmatsu, the text
 of which is set out in Appendix II;
- the legal opinion issued by Commerce & Finance Law Offices, our PRC Legal
+(cid:129) the legal opinion issued by Commerce & Finance Law Offices, our PRC Legal
 Adviser, in respect of certain aspects of our Group;
- LLP, our Cayman
+(cid:129) the letter of advice prepared by Maples and Calder (Hong Kong) LLP, our Cayman
 Islands legal adviser, summarizing certain aspects of Cayman Islands company law
 referred to in Appendix III to this document;
- the report issued by Shanghai iResearch Co., Ltd., China, a summary of which is set
+(cid:129) the report issued by Shanghai iResearch Co., Ltd., China, a summary of which is set
 forth in the section headed “Industry Overview” of this document;
 – V-1 –
 
 === PAGE 666 ===
 APPENDIX V DOCUMENTS DELIVERED TO THE REGISTRAR OF
 COMPANIES IN HONG KONG AND AVAILABLE ON DISPLAY
- the material contracts referred to in the section headed “Statutory and General
+(cid:129) the material contracts referred to in the section headed “Statutory and General
 Information – Further Information About Our Business – Summary of Material
 Contracts” in Appendix IV to this document;
- the written consents referred to in the section headed “Statutory and General
+(cid:129) the written consents referred to in the section headed “Statutory and General
 Information – Other Information – Consents of Experts” in Appendix IV to this
 document; and
- the Cayman Companies Act.
+(cid:129) the Cayman Companies Act.
 – V-2 –
 
 === PAGE 667 ===

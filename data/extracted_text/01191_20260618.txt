@@ -157,9 +157,9 @@ instructions which may be different from the latest time as stated above.
 Application lists close(3). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12:00 noon on
 Wednesday, June 24, 2026
 (i) Announcement of:
- an indications of the level of interest in the International Offering, the level of applications
+(cid:129) an indications of the level of interest in the International Offering, the level of applications
 in the Hong Kong Public Offering; and
- the basis of allocations of the Hong Kong Offer Shares
+(cid:129) the basis of allocations of the Hong Kong Offer Shares
 to be published on our website at www.crealights.com
 and the website of the
 Stock Exchange at www.hkexnews.hk. . . . . . . . . . . . . . . . . . no later than 11:00 p.m. on
@@ -428,7 +428,7 @@ OUR TECHNOLOGIES
 Major Technologies in Product Research and Development
 The key technologies that we have adopted in our product research and development include, but
 are not limited to, the following:
- SiPh Chip Design. We have developed and maintained our device libraries for our silicon
+(cid:129) SiPh Chip Design. We have developed and maintained our device libraries for our silicon
 photonics technology. By combining multi-physics simulations (covering electromagnetic,
 thermal, and photoelectric effects) with empirical wafer test data, we continuously refine
 – 3 –
@@ -439,33 +439,33 @@ device models for design accuracy and manufacturing robustness. With our device 
 we design SiPh chips from architecture definition to layout verification, and collaborate with
 fabs to achieve high-yield wafer fabrication and stable mass production through closed-loop
 feedback and process optimization.
- Optical and Electrical Design. We integrate optical and electrical design capabilities to
+(cid:129) Optical and Electrical Design. We integrate optical and electrical design capabilities to
 improve coupling efficiency, signal integrity and overall transmission performance. Our
 proprietary design libraries and simulation models support rapid iteration and high-precision
 optimization.
- Mechanical and Structural Design. We focus on miniaturization, thermal management and
+(cid:129) Mechanical and Structural Design. We focus on miniaturization, thermal management and
 modular integration. Our standardized component library and mechanical design tools enable
 scalable production and consistency in product performance.
- Firmware and Automation. We develop embedded firmware that ensures multi-protocol
+(cid:129) Firmware and Automation. We develop embedded firmware that ensures multi-protocol
 interoperability, real-time monitoring and intelligent control over optical/electrical
 conversion, temperature and power management.
- Advanced Manufacturing and Automation. We have established automated wafer testing
+(cid:129) Advanced Manufacturing and Automation. We have established automated wafer testing
 and packaging systems as well as AI-enabled production lines to ensure high yield, quality
 consistency and traceability throughout the manufacturing process. Our WIMO integration
 enables a seamless flow from silicon wafer input to optical transceiver output under a
 digitized manufacturing environment.
- Fabrication Process Lab. During the design verification stage, we conduct comprehensive
+(cid:129) Fabrication Process Lab. During the design verification stage, we conduct comprehensive
 evaluations on fabrication processes, including process adhesive strength assessment,
 Fourier-transform infrared spectroscopy testing, viscosity testing, differential scanning
 calorimetry testing and die shear testing. These evaluations ensure the reliability and
 stability of key materials and process parameters prior to mass production.
- Reliability Lab. We perform full reliability testing before mass production, including
+(cid:129) Reliability Lab. We perform full reliability testing before mass production, including
 high-temperature operating life (“HTOL”), temperature cycling, biased damp heat,
 electromagnetic interference, and electrostatic discharge tests, as well as other mechanical
 reliability evaluations. In addition, we have established dedicated reliability test platforms
 for optoelectronic and SiPh chips, including chip-level HTOL and large-optical-input
 endurance testing.
- System Compatibility Testing Platform. Following design verification of products under
+(cid:129) System Compatibility Testing Platform. Following design verification of products under
 development, we conduct extensive system compatibility testing to validate product
 performance across different network environments. Products are tested with network
 interface cards, switches and other application-specific network equipment from various
@@ -969,15 +969,15 @@ We estimate that we will receive net proceeds of HK$1,415.3 million after deduct
 fees and commissions and estimated offering expenses paid and payable by us in the Global Offering,
 assuming no Over-allotment Option is exercised and assuming an Offer Price of HK$114 per Offer
 Share. We intend to use the proceeds from the Global Offering for the purposes set forth below:
- approximately 53.4% of the net proceeds, or HK$756.3 million, is expected to be used for
+(cid:129) approximately 53.4% of the net proceeds, or HK$756.3 million, is expected to be used for
 expanding our production capacity for optical transceivers, and other optoelectronic
 interconnection products, and enhancing automation across our product lines;
- approximately 35.0% of the net proceeds, or HK$496.0 million, is expected to be used for
+(cid:129) approximately 35.0% of the net proceeds, or HK$496.0 million, is expected to be used for
 continuous investment in the research and development of new products and technologies
 over the next three years;
- approximately 1.5% of the net proceeds, or HK$21.5 million, is expected to be used for
+(cid:129) approximately 1.5% of the net proceeds, or HK$21.5 million, is expected to be used for
 business promotion and market expansion initiatives over the next three years; and
- approximately 10.0% of the net proceeds, or HK$141.5 million, is expected to be used for
+(cid:129) approximately 10.0% of the net proceeds, or HK$141.5 million, is expected to be used for
 working capital and for general corporate purposes.
 Please see “Future Plans and Use of Proceeds” for details.
 LISTING EXPENSES
@@ -1505,20 +1505,20 @@ events that may prove to be inaccurate. Those assumptions and factors are based 
 currently available to us about the businesses that we operate. The risks, uncertainties and other factors,
 many of which are beyond our control, that could influence actual results include, but are not limited
 to:
- our operations and business prospects;
- our business and operating strategies and our ability to implement such strategies;
- our future business development, financial condition and results of operations;
- our ability to develop and manage our operations and business;
- our ability to control costs and expenses;
- our capital expenditure plan;
- our expectations regarding demand for and market acceptance of our products and services;
- our expectations regarding our relationships with customers, suppliers and other partners to
+(cid:129) our operations and business prospects;
+(cid:129) our business and operating strategies and our ability to implement such strategies;
+(cid:129) our future business development, financial condition and results of operations;
+(cid:129) our ability to develop and manage our operations and business;
+(cid:129) our ability to control costs and expenses;
+(cid:129) our capital expenditure plan;
+(cid:129) our expectations regarding demand for and market acceptance of our products and services;
+(cid:129) our expectations regarding our relationships with customers, suppliers and other partners to
 conduct our business;
- our planned use of proceeds;
- future developments, trends and competitive landscape in the industries and markets in
+(cid:129) our planned use of proceeds;
+(cid:129) future developments, trends and competitive landscape in the industries and markets in
 which we operate or plan to operate;
- relevant government policies and regulations relating to our industry; and
- capital market developments.
+(cid:129) relevant government policies and regulations relating to our industry; and
+(cid:129) capital market developments.
 By their nature, certain disclosures relating to these and other risks are only estimates. Should one
 or more of these risks or uncertainties, among others, materialize, or should the underlying assumptions
 prove to be incorrect, actual results may vary materially from those estimated, anticipated or projected,
@@ -3141,11 +3141,11 @@ We have instructed our H Share Registrar, and it has agreed not to register the 
 purchase or transfer of any H Shares in the name of any particular holder, unless and until the holder
 delivers a signed form to our H Share Registrar in respect of those H Shares bearing statements to the
 effect that the holder:
- agrees with us and each of our Shareholders, and we agree with each Shareholder, to observe
+(cid:129) agrees with us and each of our Shareholders, and we agree with each Shareholder, to observe
 and comply with the PRC Company Law and our Articles of Association;
- agrees with us and each of our Shareholders that the H Shares are freely transferable by the
+(cid:129) agrees with us and each of our Shareholders that the H Shares are freely transferable by the
 holders thereof; and
- authorizes us to enter into a contract on his or her behalf with each of our Directors,
+(cid:129) authorizes us to enter into a contract on his or her behalf with each of our Directors,
 Supervisors, managers and officers whereby such Directors, Supervisors, managers and
 officers undertake to observe and comply with their obligations to our Shareholders as
 stipulated in our Articles of Association.
@@ -4858,7 +4858,7 @@ increasestotal
 computingpowerby
 addingandlinkingmore
 computenodes.
- Scale-uprefersto
+(cid:129) Scale-uprefersto
 interconnectionbetween
 chips/servers.It
 enhancescomputing
@@ -4920,7 +4920,7 @@ representing a CAGR of 29.6%. It’s projected that shipments will further grow 
 units by 2030, with a CAGR of 22.7% from 2026 to 2030.
 Shipments of AI Server, Global and China, 2021-2030E
 CAGR21-25 CAGR 26E-30E CAGR21-25 CAGR 26E-30E
-Global 37.8% 20.9% China 
+Global 37.8% 20.9% China (cid:24)(cid:31)(cid:20)(cid:28)(cid:11) (cid:24)(cid:24)(cid:20)(cid:29)(cid:11)
 TThhoouussaannddUUnniittss ThousandUnits
 7,000 6,540.5 2,000 1,936.9
 6,000 5,374.6 1,599.8
@@ -4979,11 +4979,11 @@ RMBBillion
 0
 CAGR CAGR
 2021 2022 2023 2024 2025 2026E 2027E 2028E 2029E 2030E (21-25) (26E-30E)
-AI OpticalTransceivers 
-CPO / NPO 
-AEC 
-Other 
-Total 
+AI OpticalTransceivers (cid:29)(cid:20)(cid:22) (cid:23)(cid:22)(cid:20)(cid:26) (cid:23)(cid:31)(cid:20)(cid:22) (cid:26)(cid:24)(cid:20)(cid:30) (cid:29)(cid:23)(cid:20)(cid:30) (cid:23)(cid:23)(cid:31)(cid:20)(cid:25) (cid:23)(cid:29)(cid:22)(cid:20)(cid:30) (cid:24)(cid:23)(cid:27)(cid:20)(cid:31) (cid:24)(cid:29)(cid:27)(cid:20)(cid:25) (cid:25)(cid:26)(cid:29)(cid:20)(cid:27) (cid:29)(cid:31)(cid:20)(cid:22)(cid:11) (cid:25)(cid:22)(cid:20)(cid:28)(cid:11)
+CPO / NPO (cid:22)(cid:20)(cid:22) (cid:22)(cid:20)(cid:22) (cid:22)(cid:20)(cid:22) (cid:22)(cid:20)(cid:22) (cid:22)(cid:20)(cid:28) (cid:25)(cid:20)(cid:22) (cid:23)(cid:24)(cid:20)(cid:31) (cid:27)(cid:22)(cid:20)(cid:29) (cid:23)(cid:22)(cid:30)(cid:20)(cid:22) (cid:24)(cid:22)(cid:26)(cid:20)(cid:24) (cid:52)(cid:21)(cid:39) (cid:23)(cid:30)(cid:28)(cid:20)(cid:31)(cid:11)
+AEC (cid:22)(cid:20)(cid:23) (cid:22)(cid:20)(cid:23) (cid:22)(cid:20)(cid:26) (cid:22)(cid:20)(cid:30) (cid:24)(cid:20)(cid:26) (cid:25)(cid:20)(cid:29) (cid:27)(cid:20)(cid:22) (cid:28)(cid:20)(cid:26) (cid:29)(cid:20)(cid:25) (cid:31)(cid:20)(cid:24) (cid:23)(cid:27)(cid:23)(cid:20)(cid:28)(cid:11) (cid:24)(cid:27)(cid:20)(cid:30)(cid:11)
+Other (cid:22)(cid:20)(cid:26) (cid:22)(cid:20)(cid:27) (cid:23)(cid:20)(cid:24) (cid:24)(cid:20)(cid:25) (cid:27)(cid:20)(cid:25) (cid:28)(cid:20)(cid:25) (cid:28)(cid:20)(cid:31) (cid:29)(cid:20)(cid:23) (cid:28)(cid:20)(cid:26) (cid:28)(cid:20)(cid:27) (cid:31)(cid:25)(cid:20)(cid:23)(cid:11) (cid:22)(cid:20)(cid:31)(cid:11)
+Total (cid:29)(cid:20)(cid:26) (cid:23)(cid:23)(cid:20)(cid:22) (cid:24)(cid:22)(cid:20)(cid:28) (cid:26)(cid:27)(cid:20)(cid:31) (cid:30)(cid:22)(cid:20)(cid:23) (cid:23)(cid:25)(cid:24)(cid:20)(cid:25) (cid:23)(cid:31)(cid:27)(cid:20)(cid:29) (cid:24)(cid:30)(cid:22)(cid:20)(cid:23) (cid:25)(cid:31)(cid:29)(cid:20)(cid:22) (cid:27)(cid:28)(cid:29)(cid:20)(cid:26) (cid:30)(cid:23)(cid:20)(cid:24)(cid:11) (cid:26)(cid:25)(cid:20)(cid:31)(cid:11)
 Source: Frost & Sullivan
 ANALYSIS OF GLOBALAND CHINA’S AI OPTICAL TRANSCEIVER MARKET
 Overview of AI Optical Transceiver Market
@@ -5078,10 +5078,10 @@ RMBBillion
 50 7.0 10.4 19.0
 0 CAGR CAGR
 2021 2022 2023 2024 2025 2026E 2027E 2028E 2029E 2030E (21-25) (26E-30E)
-China 
-NorthAmerica 
-RoW 
-Total 
+China (cid:23)(cid:20)(cid:28) (cid:24)(cid:20)(cid:27) (cid:27)(cid:20)(cid:22) (cid:23)(cid:22)(cid:20)(cid:28) (cid:23)(cid:28)(cid:20)(cid:29) (cid:24)(cid:31)(cid:20)(cid:22) (cid:26)(cid:22)(cid:20)(cid:29) (cid:27)(cid:25)(cid:20)(cid:24) (cid:29)(cid:22)(cid:20)(cid:24) (cid:31)(cid:31)(cid:20)(cid:22) (cid:29)(cid:31)(cid:20)(cid:28)(cid:11) (cid:25)(cid:28)(cid:20)(cid:22)(cid:11)
+NorthAmerica (cid:24)(cid:20)(cid:30) (cid:26)(cid:20)(cid:25) (cid:29)(cid:20)(cid:31) (cid:23)(cid:30)(cid:20)(cid:22) (cid:25)(cid:22)(cid:20)(cid:29) (cid:27)(cid:24)(cid:20)(cid:22) (cid:29)(cid:27)(cid:20)(cid:31) (cid:31)(cid:29)(cid:20)(cid:28) (cid:23)(cid:24)(cid:28)(cid:20)(cid:28) (cid:23)(cid:28)(cid:24)(cid:20)(cid:28) (cid:30)(cid:23)(cid:20)(cid:27)(cid:11) (cid:25)(cid:25)(cid:20)(cid:22)(cid:11)
+RoW (cid:24)(cid:20)(cid:28)(cid:3) (cid:25)(cid:20)(cid:28)(cid:3) (cid:28)(cid:20)(cid:23)(cid:3) (cid:23)(cid:26)(cid:20)(cid:24)(cid:3) (cid:24)(cid:26)(cid:20)(cid:26)(cid:3) (cid:25)(cid:30)(cid:20)(cid:25)(cid:3) (cid:27)(cid:26)(cid:20)(cid:25)(cid:3) (cid:28)(cid:27)(cid:20)(cid:23)(cid:3) (cid:29)(cid:30)(cid:20)(cid:27)(cid:3) (cid:30)(cid:27)(cid:20)(cid:30)(cid:3) (cid:29)(cid:27)(cid:20)(cid:29)(cid:11) (cid:24)(cid:24)(cid:20)(cid:26)(cid:11)
+Total (cid:29)(cid:20)(cid:22) (cid:23)(cid:22)(cid:20)(cid:26) (cid:23)(cid:31)(cid:20)(cid:22) (cid:26)(cid:24)(cid:20)(cid:30) (cid:29)(cid:23)(cid:20)(cid:30) (cid:23)(cid:23)(cid:31)(cid:20)(cid:25) (cid:23)(cid:29)(cid:22)(cid:20)(cid:30) (cid:24)(cid:23)(cid:27)(cid:20)(cid:31) (cid:24)(cid:29)(cid:27)(cid:20)(cid:25) (cid:25)(cid:26)(cid:29)(cid:20)(cid:27) (cid:29)(cid:31)(cid:20)(cid:22)(cid:11) (cid:25)(cid:22)(cid:20)(cid:28)(cid:11)
 Source: Frost & Sullivan
 From a technology perspective, silicon photonics is a technology system based on silicon
 semiconductor materials, utilizing CMOS-compatible processes (aligned with traditional chip
@@ -6242,13 +6242,13 @@ We engage in the research, development and application of SiPh technology. As of
 research and development expenses amounted to RMB210.3 million in aggregate, reflecting our
 long-term commitment to innovation.
 We have developed the following SiPh technology capabilities:
- A full series of SiPh optical transceivers covering 400G and 800G transmission speeds,
+(cid:129) A full series of SiPh optical transceivers covering 400G and 800G transmission speeds,
 featuring high performance and cost-effective optoelectronic integration designs.
 – 126 –
 
 === PAGE 136 ===
 BUSINESS
- End-to-end SiPh technology capabilities, encompassing SiPh chip design and our proprietary
+(cid:129) End-to-end SiPh technology capabilities, encompassing SiPh chip design and our proprietary
 “Wafer-In, Module-Out” (“WIMO”) platform:
 — Our SiPh chip design is based on 12-inch wafers and developed using self-designed
 device libraries.
@@ -6256,12 +6256,12 @@ device libraries.
 process, including wafer testing, back-end processing, packaging and coupling, as well
 as optical transceiver calibration, testing and production.
 According to Frost & Sullivan, we achieved the following:
- Mass production of SiPh optical transceivers integrating self-designed SiPh chips based on a
+(cid:129) Mass production of SiPh optical transceivers integrating self-designed SiPh chips based on a
 12-inch wafer manufacturing platform.
- Development of a WIMO platform.
- Development of 1.6T SiPh optical transceivers.
- transceivers.
- Research and development of 3.2T and 6.4T optoelectronic chips for application in
+(cid:129) Development of a WIMO platform.
+(cid:129) Development of 1.6T SiPh optical transceivers.
+(cid:129) Development of linear pluggable optics (LPO) and linear receiver optics (LRO) transceivers.
+(cid:129) Research and development of 3.2T and 6.4T optoelectronic chips for application in
 SiPh-based NPO and CPO form factors.
 According to Frost & Sullivan, we are one of a few companies in the world with SiPh chip design
 capabilities as well as R&D and mass-production capabilities for SiPh optical transceivers.
@@ -6365,24 +6365,24 @@ Interconnection Products that Enable AI Computing
 Since our establishment in 2011, we have actively participated in the global evolution of
 high-speed interconnection technologies for AI data centers, achieving a series of technological
 breakthroughs, including:
- In 2021, we advanced the development of SiPh WIMO platform, and established an
+(cid:129) In 2021, we advanced the development of SiPh WIMO platform, and established an
 end-to-end process from wafer testing to optical transceiver production.
 – 129 –
 
 === PAGE 139 ===
 BUSINESS
- In 2023, we were among the first in China to achieve sustainable mass delivery of 400G
+(cid:129) In 2023, we were among the first in China to achieve sustainable mass delivery of 400G
 QSFP112 optical transceivers, which have been widely adopted in AI computing clusters. In
 the same year, we pioneered the concept of immersion liquid cooling optical transceivers in
 China and participated in formulating the Reliability Test Specification for Immersion Liquid
 Cooling Optical Transceivers, which was officially released by the Open Data Center
 Committee.
- In 2024, we were among the first in China to achieve mass production and delivery of 800G
+(cid:129) In 2024, we were among the first in China to achieve mass production and delivery of 800G
 optical transceivers. As a JDM partner of leading global internet companies, we also
 conducted a live demonstration of 800G high-speed optical transceivers, showcasing the
 latest achievements in integrating AI computing needs with optical interconnection
 technologies.
- In 2025, we introduced our new series of SiPh and AEC products at the China International
+(cid:129) In 2025, we introduced our new series of SiPh and AEC products at the China International
 Optoelectronic Exposition in Shenzhen.
 These milestones demonstrate our ability to continuously meet the evolving needs of AI data
 centers. As computing clusters expand and evolve, our technology roadmap, from establishing an
@@ -6800,7 +6800,7 @@ interconnection needs within racks or between adjacent devices, whereas optical 
 typically used for longer-distance data transmission between servers and switches.
 We categorize our AOC by whether they are based on silicon photonics technology or non-silicon
 photonics technology.
- SiPh AOC, currently under development, as conventional non-silicon photonics technology
+(cid:129) SiPh AOC, currently under development, as conventional non-silicon photonics technology
 is becoming increasingly inadequate to meet the growing market demand for higher
 bandwidth, lower power consumption and enhanced integration. Leveraging our proprietary
 technologies, we are developing SiPh AOC, such as 400G SiPh AOCs, 800G SiPh AOCs and
@@ -6824,7 +6824,7 @@ efficiency, and high stability for short-
 and medium-reach data center
 QSFP112 AOC (SiPh)
 interconnect applications.
- Other AOC, currently in mass production, as our major AOC product offerings and widely
+(cid:129) Other AOC, currently in mass production, as our major AOC product offerings and widely
 adopted in data centers and high-speed transmission scenarios.
 The table below illustrates one of our latest other AOCs.
 AverageSelling
@@ -6986,11 +6986,11 @@ rolling basis in accordance with customer orders.
 === PAGE 153 ===
 BUSINESS
 Our JDM model also entails both commercial and technical requirements:
- Commercially, JDM requires long-term commitment and close collaboration with strategic
+(cid:129) Commercially, JDM requires long-term commitment and close collaboration with strategic
 customers, as the process involves joint investment of resources and a high degree of mutual
 trust. In return, it secures stable and recurring orders, providing strong visibility for our
 revenue stream.
- Technically, JDM projects demand deep integration with customers’ system architectures.
+(cid:129) Technically, JDM projects demand deep integration with customers’ system architectures.
 For example, in the context of AI data centers, the design of optical transceivers are
 expected to be tightly aligned with customers’ GPU clusters and overall network
 architecture. This makes JDM not merely about product customization but about
@@ -7198,29 +7198,29 @@ Chips
 
 === PAGE 158 ===
 BUSINESS
- Wafer to Chips. In this stage, wafers are fabricated by third-party fabs based on our
+(cid:129) Wafer to Chips. In this stage, wafers are fabricated by third-party fabs based on our
 proprietary silicon photonics or integrated circuit designs. The processed wafers undergo
 wafer-level electrical testing to identify known-good dies, which are then thinned, diced, and
 sorted into individual chips. We utilize both self-designed chips and third-party chips to
 ensure flexibility, scalability and product diversity.
-. In this stage, both our self-designed chips and third-party chips
+(cid:129) Chip on Carrier (“COC”). In this stage, both our self-designed chips and third-party chips
 are mounted onto carriers through high-precision die bonding and wire bonding processes.
 The carrier acts as an intermediate substrate providing mechanical support, electrical
 interconnection, and thermal dissipation for the chips. The COC devices then undergo
 pre-burn-in and high-temperature burn-in tests, followed by post-burn-in reliability testing to
 ensure stability and device-level performance prior to board-level integration.
-. In this stage, COC devices are further integrated onto PCBs
+(cid:129) Chip on Board (“COB”). In this stage, COC devices are further integrated onto PCBs
 through die bonding, wire bonding, optical alignment, and bench-level thermal assembly.
 Rigorous intermediate inspections and temperature cycling tests are conducted to identify
 and eliminate early-stage failures. Additional optical and electrical functional tests are
 performed to validate consistency and reliability. Only devices that pass quality control
 inspections are transferred to module-level assembly.
- Optical Transceivers Assembly and Final Testing. In this stage, COB subassemblies are
+(cid:129) Optical Transceivers Assembly and Final Testing. In this stage, COB subassemblies are
 integrated into complete optical transceivers. The process involves firmware configuration,
 feature tuning, and three-temperature testing to validate performance under various operating
 conditions. The assembled transceivers then undergo switch-insertion testing, labeling and
 coding, final visual inspection, and preparation for packaging.
- Quality Check and Packaging. In the final stage, the optical transceivers undergo random
+(cid:129) Quality Check and Packaging. In the final stage, the optical transceivers undergo random
 quality inspection covering electrical and optical performance, reliability, and appearance.
 Only products that pass the full suite of functional and quality tests are approved for
 shipment and customer delivery.
@@ -7232,19 +7232,19 @@ The following diagram illustrates the key production steps of our AOC.
 Cable Assembly Module Encapsulation Quality Check
 and Integration and Final Functional and Packaging
 Testing
- Cable Assembly and Integration. Optical transceivers and optical fibers are pre-selected and
+(cid:129) Cable Assembly and Integration. Optical transceivers and optical fibers are pre-selected and
 prepared for assembly. The components are then integrated into AOC, which comprise fiber
 optic, connectors and mechanical housings.
 – 149 –
 
 === PAGE 159 ===
 BUSINESS
- Module Encapsulation and Final Functional Testing. After assembly, the cable assemblies
+(cid:129) Module Encapsulation and Final Functional Testing. After assembly, the cable assemblies
 are encapsulated or fully housed and undergo final functional testing. This primarily includes
 bit-error-rate testing and insertion-loss/return-loss measurement under temperature cycling at
 both high and low extremes. Only units that pass full reliability test suites are packaged for
 shipment.
- Quality Check and Packaging. Finished assemblies are labelled, serial-numbered and
+(cid:129) Quality Check and Packaging. Finished assemblies are labelled, serial-numbered and
 packed in protective trays or shipping cartons. A final quality inspection ensures correct
 marking, packaging integrity, and shipping checklist compliance. Finally, shipments are
 quality-sealed and released for delivery to customers.
@@ -7260,30 +7260,30 @@ Self-Operated Production Facilities
 The following sets forth our production facilities and their key operational information as of
 December 31, 2025.
 Suzhou Production Facility
- GFA: approximately 9,277 square meters
- Main Function: primarily engaged in the production of optical transceivers, covering both
+(cid:129) GFA: approximately 9,277 square meters
+(cid:129) Main Function: primarily engaged in the production of optical transceivers, covering both
 SiPh-based single-mode and multimode products.
 Nanjing Production Facility
- GFA: approximately 8,576 square meters
- Main Function: commencing production in September 2025, this facility is primarily engaged in
+(cid:129) GFA: approximately 8,576 square meters
+(cid:129) Main Function: commencing production in September 2025, this facility is primarily engaged in
 the production of optical transceivers, focusing on SiPh-based single-mode and multimode
 products and AECs.
 Beijing Production Facility
- GFA: approximately 2,895 square meters
- Main Function: this facility was under development as of the Latest Practicable Date, and is
+(cid:129) GFA: approximately 2,895 square meters
+(cid:129) Main Function: this facility was under development as of the Latest Practicable Date, and is
 intended to be used for the design of SiPh chips, wafer-level testing, cutting and sorting.
- Development Status: as of the Latest Practicable Date, this facility was under renovation, and is
+(cid:129) Development Status: as of the Latest Practicable Date, this facility was under renovation, and is
 expected to commence production in the third quarter of 2026.
 – 150 –
 
 === PAGE 160 ===
 BUSINESS
 Nantong Production Facility
- GFA: approximately 44,779 square meters
- Main Function: this facility was under development as of the Latest Practicable Date, and is
+(cid:129) GFA: approximately 44,779 square meters
+(cid:129) Main Function: this facility was under development as of the Latest Practicable Date, and is
 intended to be used for the automated production of high-speed optical transceivers and other
 optoelectronic interconnection products.
- Development Status: as of the Latest Practicable Date, the main structure of this facility was
+(cid:129) Development Status: as of the Latest Practicable Date, the main structure of this facility was
 completed, and was pending acceptance inspection.
 The following table sets forth details of the production capacity, production volume and utilization
 rate of our Suzhou production facilities for the periods indicated.
@@ -7365,40 +7365,40 @@ OUR TECHNOLOGIES
 Major Technologies in Product Research and Development
 The key technologies that we have adopted in our product research and development include, but
 are not limited to, the following:
- SiPh Chip Design. We have developed and maintained our device libraries, which underpin
+(cid:129) SiPh Chip Design. We have developed and maintained our device libraries, which underpin
 our silicon photonics technology. By combining multi-physics simulations (covering
 electromagnetic, thermal, and photoelectric effects) with empirical wafer test data, we
 continuously refine device models to ensure design accuracy and manufacturing robustness.
 Leveraging our device libraries, we design SiPh chips from architecture definition to layout
 verification, and collaborate with fabs to achieve high-yield wafer fabrication and stable
 mass production through closed-loop feedback and process optimization.
- Optical and Electrical Design. We integrate optical and electrical design capabilities to
+(cid:129) Optical and Electrical Design. We integrate optical and electrical design capabilities to
 improve coupling efficiency, signal integrity and overall transmission performance. Our
 proprietary design libraries and simulation models support rapid iteration and high-precision
 optimization.
- Mechanical and Structural Design. We focus on miniaturization, thermal management and
+(cid:129) Mechanical and Structural Design. We focus on miniaturization, thermal management and
 modular integration. Our standardized component library and mechanical design tools enable
 scalable production and consistency in product performance.
- Firmware and Automation. We develop embedded firmware that ensures multi-protocol
+(cid:129) Firmware and Automation. We develop embedded firmware that ensures multi-protocol
 interoperability, real-time monitoring and intelligent control over optical/electrical
 conversion, temperature and power management.
- Advanced Manufacturing and Automation. We have established automated wafer testing
+(cid:129) Advanced Manufacturing and Automation. We have established automated wafer testing
 and packaging systems as well as AI-enabled production lines to ensure high yield, quality
 consistency and traceability throughout the manufacturing process. Our WIMO integration
 enables a seamless flow from silicon wafer input to optical transceiver output under a
 digitized manufacturing environment.
- Fabrication Process Lab. During the design verification stage, we conduct comprehensive
+(cid:129) Fabrication Process Lab. During the design verification stage, we conduct comprehensive
 evaluations on fabrication processes, including process adhesive strength assessment,
 Fourier-transform infrared spectroscopy testing, viscosity testing, differential scanning
 calorimetry testing and die shear testing. These evaluations ensure the reliability and
 stability of key materials and process parameters prior to mass production.
- Reliability Lab. We perform full reliability testing before mass production, including
+(cid:129) Reliability Lab. We perform full reliability testing before mass production, including
 high-temperature operating life (“HTOL”), temperature cycling, biased damp heat,
 electromagnetic interference, and electrostatic discharge tests, as well as other mechanical
 reliability evaluations. In addition, we have established dedicated reliability test platforms
 for optoelectronic and SiPh chips, including chip-level HTOL and large-optical-input
 endurance testing.
- System Compatibility Testing Platform. Following design verification of products under
+(cid:129) System Compatibility Testing Platform. Following design verification of products under
 development, we conduct extensive system compatibility testing to validate product
 performance across different network environments. Products are tested with network
 interface cards, switches and other application-specific network equipment from various
@@ -7758,13 +7758,13 @@ optoelectronic chips designed for SiPh-based NPO and CPO applications, involve a
 technical complexity and present significant challenges for the industry, creating substantial entry
 barriers. These advancements enhance our appeal to leading customers. Compared to 400G SiPh optical
 transceivers, the transition to 1.6T SiPh optical transceivers involves the following key differences:
- Manufacturing processes
+(cid:129) Manufacturing processes
 1.6T SiPh optical transceivers require higher levels of integration and manufacturing precision. In
 particular, they generally involve higher channel density, more advanced optical coupling, more precise
 PCB assembly and more sophisticated packaging processes. Therefore, while the core SiPh
 manufacturing platform remains substantially consistent with our existing 400G products, the process
 control requirements for 1.6T products are more stringent.
- Equipment requirements
+(cid:129) Equipment requirements
 1.6T SiPh optical transceivers require upgraded or additional equipment in certain production and
 testing steps. These include higher-speed testing systems, advanced optical coupling equipment,
 higher-precision SMT equipment and packaging-related equipment capable of supporting higher-density
@@ -7774,7 +7774,7 @@ thermal control and more reliable high-speed signal testing.
 
 === PAGE 171 ===
 BUSINESS
- Quality control standards
+(cid:129) Quality control standards
 1.6T SiPh optical transceivers are subject to higher quality control standards because they operate
 at higher transmission speeds and with greater channel density. Compared with 400G products, 1.6T
 products require tighter control over optical loss, channel consistency, assembly accuracy, thermal
@@ -8210,7 +8210,7 @@ policies, and assistance in applying for higher-level policy incentives. In retu
 project companies commit to establish or expand operations locally, register and pay taxes locally, and
 satisfy certain progress milestones. These arrangements are customary in mainland China for industrial
 policy implementation and regional investment promotion by local governments.
- Main Obligations: we are typically required to establish and/or maintain a local presence
+(cid:129) Main Obligations: we are typically required to establish and/or maintain a local presence
 within the relevant jurisdiction, including setting up project companies, regional
 headquarters or operating entities, and to carry out agreed business activities such as
 investment, construction, research and development, production and sales within a defined
@@ -8219,7 +8219,7 @@ registrations and maintain operations for a prescribed minimum period, which is 
 approximately 10 to 15 years under the relevant agreements. The specific investment scale
 and implementation timetable may, in certain cases, be subject to adjustment upon mutual
 agreement, provided that the overall project framework is not materially altered.
- Performance Targets: we are generally subject to a series of milestone-based contractual
+(cid:129) Performance Targets: we are generally subject to a series of milestone-based contractual
 operational and performance benchmarks, which may include requirements relating to
 investment amount in the form of project-level registered capital, investment or reinvestment
 commitments generally ranging from RMB200.0 million to RMB300.0 million, construction
@@ -8235,10 +8235,10 @@ RMB1.7 million to RMB100.0 million per year (after the relevant agreed milestone
 are reached), and, in certain cases, social insurance contribution targets for approximately
 100 to 500 employees. These revenue and tax or economic contribution targets are
 milestone-based contractual benchmarks and do not represent our current operating results.
- Government Support: we are eligible for support measures including policy incentives,
+(cid:129) Government Support: we are eligible for support measures including policy incentives,
 administrative facilitation and coordination assistance in accordance with applicable policies
 and subject to project progress and local development objectives.
- Termination and Liability: in general, if either party fails to perform its obligations under the
+(cid:129) Termination and Liability: in general, if either party fails to perform its obligations under the
 relevant agreement, it may be required, or otherwise be subject to claims, to compensate the
 other party for losses incurred as a result of such non-performance, in accordance with the
 terms of the relevant agreement. In certain circumstances, where we fail to satisfy
@@ -8461,13 +8461,13 @@ not have an office presence, for convenience of utilizing such benefits locally.
 Potential Legal Consequences
 Pursuant to relevant PRC laws and regulations, our PRC Legal Advisor has advised us of the
 following potential legal consequences:
- make up the shortfall within
+(cid:129) For the shortfall of social insurance, we may be required to (i) make up the shortfall within
 a prescribed period and may be subject to late payment surcharges, and (ii) pay a fine of one
 to three times the overdue amount if such payment is not made within the stipulated period.
- make up
+(cid:129) For the shortfall of housing provident fund contributions, we may be required to (i) make up
 the shortfall within a prescribed period, and (ii) be subject to compulsory enforcement by the
 courts if such payment is not made within such time limit.
-
+(cid:129) For the engagement of third-party human resource agencies, we may be subject to (i)
 additional contribution, late payment surcharges and/or penalties imposed by the relevant
 authorities if such agencies fail to pay the social insurance or housing provident fund
 contributions for the relevant employees in full amount and/or in a timely manner, or if the
@@ -8494,15 +8494,15 @@ insurance and housing provident fund contributions during the Track Record Perio
 Practicable Date.
 We have taken the following internal control enhancement measures relating to social insurance
 and housing provident funds contributions:
- We have designated our human resource department to monitor the reporting and
+(cid:129) We have designated our human resource department to monitor the reporting and
 contributions of social insurance and housing provident fund contributions;
 – 177 –
 
 === PAGE 187 ===
 BUSINESS
- We will consult PRC legal counsel on a regular basis for advice on relevant PRC laws and
+(cid:129) We will consult PRC legal counsel on a regular basis for advice on relevant PRC laws and
 regulations to keep us abreast of relevant regulatory developments; and
- We will actively communicate with relevant social insurance and housing fund local
+(cid:129) We will actively communicate with relevant social insurance and housing fund local
 authorities to ensure we have the most updated information about the relevant laws and
 regulations concerning social insurance and housing fund.
 See “Risk Factors — Risks Relating to Our Business and Industry — We may be subject to
@@ -8772,24 +8772,24 @@ and other applicable environmental laws and regulations, and designated internal
 Energy Conservation Management Measures.
 We are committed to enhancing energy efficiency and reducing emissions across all our offices
 through the implementation of targeted measures. These include:
- Optimizing heating, ventilation, and air conditioning. Heating and air conditioning systems
+(cid:129) Optimizing heating, ventilation, and air conditioning. Heating and air conditioning systems
 in our common areas, and offices are set to appropriate temperatures based on seasonal and
 weather conditions, ensuring comfort while minimizing energy waste.
 – 183 –
 
 === PAGE 193 ===
 BUSINESS
- Improving lighting efficiency. Separate control switches are installed for lighting in public
+(cid:129) Improving lighting efficiency. Separate control switches are installed for lighting in public
 areas and offices to allow for better energy management. During working hours, only
 essential lighting, such as a single row in corridors, remains on, and all lights are turned off
 after working hours to avoid unnecessary energy consumption. Meanwhile, we have
 upgraded conventional lighting at our facilities to energy-efficient LED lighting, achieving
 annual energy savings of approximately 30,000 kWh.
- Maximizing natural light usage. Our employees are encouraged to make full use of natural
+(cid:129) Maximizing natural light usage. Our employees are encouraged to make full use of natural
 daylight during working hours to reduce reliance on artificial lighting. Additionally, all
 electronic equipment is turned off when employees leave the office to further conserve
 energy.
- Reducing standby energy consumption. Employees are encouraged to turn off computer
+(cid:129) Reducing standby energy consumption. Employees are encouraged to turn off computer
 monitors if they are away from their desks for more than 30 minutes. Standby time for office
 equipment, including computers, printers, and copiers, is minimized to lower unnecessary
 energy usage.
@@ -8800,31 +8800,31 @@ Regulations of Jiangsu Province on the Prevention and Control of Environmental P
 Waste. We have formulated internal policies, such as the Solid Waste Management Measures and the
 Waste Treatment and Disposal Management Policy.
 We have implemented the following initiatives:
- Engaging qualified waste disposal providers. Through a rigorous tender process, we engage
+(cid:129) Engaging qualified waste disposal providers. Through a rigorous tender process, we engage
 qualified third-party service providers to handle waste disposal. We carefully assess service
 providers’ qualifications and regularly monitor their waste disposal methods to ensure full
 compliance with regulations and prevent improper handling practices.
 D. Resource Management
 To enhance our management and monitoring of water usage and pollution prevention, we have
 implemented the following measures:
- Promoting water conservation awareness. Water-saving signage is installed in restrooms and
+(cid:129) Promoting water conservation awareness. Water-saving signage is installed in restrooms and
 other public water-use areas across our offices to encourage mindful and responsible water
 usage.
- Addressing water system issues promptly. Employees are required to immediately report
+(cid:129) Addressing water system issues promptly. Employees are required to immediately report
 issues such as leaking pipes or faucets to property management staff for swift repairs,
 ensuring minimal water loss.
- Implementing water-saving measures. We adopt water-efficient equipment, including the
+(cid:129) Implementing water-saving measures. We adopt water-efficient equipment, including the
 installation of water-efficient smart sensor-controlled fixtures in restrooms, resulting in
 annual water savings of approximately 1,200 tons. We conduct regular maintenance of water
 systems, strictly address leaks, drips, continuous water flow, and unnecessary water usage.
- Encouraging responsible water use through training. Through training programs and
+(cid:129) Encouraging responsible water use through training. Through training programs and
 awareness materials, we promote policies for lawful, efficient, and responsible water usage.
 Employees are encouraged to turn off faucets promptly after use to prevent water wastage.
 – 184 –
 
 === PAGE 194 ===
 BUSINESS
- Promoting sustainable packaging solutions. We are committed to advancing sustainable
+(cid:129) Promoting sustainable packaging solutions. We are committed to advancing sustainable
 packaging by embracing environmentally friendly materials in our packaging. We have also
 optimized our packaging design by replacing large packaging containers with a mix of large
 and small packaging, thereby reducing packaging-related environmental impacts. In 2025,
@@ -8882,17 +8882,17 @@ We have developed and implemented risk management policies and internal control 
 relation to our business operations, financial reporting and general compliance. To monitor the ongoing
 implementation of our risk management policies and corporate governance measures after the Listing,
 we have adopted and will adopt, among other things, the following risk management measures.
- We design a comprehensive set of policies to identify, analyze, manage and monitor various
+(cid:129) We design a comprehensive set of policies to identify, analyze, manage and monitor various
 risks, and periodically assess and update our risk management policies.
- Our Board is responsible for overseeing the overall risk management and internal control.
- Our Audit Committee is authorized to review and evaluate our financial control, risk
+(cid:129) Our Board is responsible for overseeing the overall risk management and internal control.
+(cid:129) Our Audit Committee is authorized to review and evaluate our financial control, risk
 management and internal control system. See “Directors, Supervisors and Senior
 Management — Board Committees — Audit Committee” for the composition of the Audit
 Committee and the qualifications and experience of them;
- We will adopt various policies to ensure compliance with the Listing Rules, including but
+(cid:129) We will adopt various policies to ensure compliance with the Listing Rules, including but
 not limited to aspects related to risk management, connected transactions and information
 disclosure; and
- We will continue to organize training sessions for our Directors and senior management with
+(cid:129) We will continue to organize training sessions for our Directors and senior management with
 respect to the relevant requirements of the Listing Rules and duties of directors of
 companies listed in Hong Kong.
 LEGAL PROCEEDINGS AND COMPLIANCE
@@ -10002,9 +10002,9 @@ According to the same source, we ranked eighth globally among Chinese optical tr
 in terms of AI optical transceivers, with a global market share of 1.6% by revenue in 2025.
 We focus on the next generation of optoelectronic interconnection technologies. In particular, we
 are developing:
- PCIe AEC and PCIe AOC products;
- 1.6T, 3.2T and other next-generation high-speed optoelectronic interconnection products; and
- advanced optoelectronic interconnection technologies, including near-packaged optics
+(cid:129) PCIe AEC and PCIe AOC products;
+(cid:129) 1.6T, 3.2T and other next-generation high-speed optoelectronic interconnection products; and
+(cid:129) advanced optoelectronic interconnection technologies, including near-packaged optics
 (“NPO”) and co-packaged optics (“CPO”).
 BASIS OF PRESENTATION
 As set out in note 29 to the historical financial information, certain of the ordinary shares issued
@@ -10222,33 +10222,33 @@ Others . . . . . . . . . . . . . . . . . 5,437 3.1 120,995 14.0 48,992 4.0
 Total. . . . . . . . . . . . . . . . . . 175,338 100.0 861,832 100.0 1,221,063 100.0
 Comparison between 2024 and 2025. Our revenue increased from RMB861.8 million in 2024 to
 RMB1,221.1 million in 2025, primarily due to the following reasons:
- Optical transceivers: Revenue generated from optical transceivers increased from RMB589.7
+(cid:129) Optical transceivers: Revenue generated from optical transceivers increased from RMB589.7
 million in 2024 to RMB923.9 million in 2025, primarily due to the increase in the sales
 volume of our optical transceivers from 562 thousand units in 2024 to 1,029 thousand units
 in 2025, mainly attributable to (i) our expanded customer base driven by the surging AI
 demand, particularly from leading internet companies operating data centers, and (ii) our
 broader product portfolio, especially the mass shipment of our 800G series products.
- AOC: Revenue generated from AOC increased from RMB151.1 million in 2024 to
+(cid:129) AOC: Revenue generated from AOC increased from RMB151.1 million in 2024 to
 RMB248.1 million in 2025, primarily due to the increase in the sales volume of our AOC
 from 164 thousand units in 2024 to 273 thousand units in 2025, which was mainly
 attributable to (i) our strengthened collaboration with a broader range of customers,
 including internet companies and small-to-medium-sized customers, and (ii) increased
 downstream demand for AOC driven by the accelerated global deployment of AI computing
 infrastructure.
- Others: Revenue generated from other decreased from RMB121.0 million in 2024 to
+(cid:129) Others: Revenue generated from other decreased from RMB121.0 million in 2024 to
 RMB45.0 million in 2025, primarily because our external sales of optoelectronic components
 and raw materials decreased in 2025, following the temporary surge in such sales during
 2024 driven by our bulk procurement of these items to support the rapid expansion of our
 business.
 Comparison between 2023 and 2024. Our revenue increased from RMB175.3 million in 2023 to
 RMB861.8 million in 2024, primarily due to the following reasons:
- Optical transceivers: Revenue generated from optical transceivers increased from RMB123.8
+(cid:129) Optical transceivers: Revenue generated from optical transceivers increased from RMB123.8
 million in 2023 to RMB589.7 million in 2024, primarily due to the increase in the sales
 volume of our optical transceivers from 157 thousand units in 2023 to 562 thousand units in
 2024, primarily due to (i) the rapid growth in market demand of our products driven by
 AI-related applications, (ii) our expanded production capacity, which enabled us to
 accommodate higher sales volumes.
- AOC: Revenue generated from AOC increased from RMB46.1 million in 2023 to RMB151.1
+(cid:129) AOC: Revenue generated from AOC increased from RMB46.1 million in 2023 to RMB151.1
 million in 2024, primarily due to the increase in the sales volume of our AOC from 135
 thousand units in 2023 to 164 thousand units in 2024, primarily due to (i) the rapid growth
 in market demand of our products driven by AI-related applications, (ii) our expanded
@@ -10257,7 +10257,7 @@ production capacity, which enabled us to accommodate higher sales volumes.
 
 === PAGE 227 ===
 FINANCIAL INFORMATION
- Others: Revenue generated from others increased significantly from RMB5.4 million in 2023
+(cid:129) Others: Revenue generated from others increased significantly from RMB5.4 million in 2023
 to RMB121.0 million in 2024. These components and raw materials were procured in bulk to
 support our rapid business expansion in 2024, and surplus quantities were subsequently sold
 to external parties.
@@ -10360,16 +10360,16 @@ Total. . . . . . . . . . . . . . . . . . (31,304) (17.9) 101,813 11.8 109,756 9.
 Comparison between 2024 and 2025. Our gross profit increased from RMB101.8 million in 2024
 to RMB109.8 million in 2025. Our gross profit margin declined from 11.8% in 2024 to 9.0% in 2025,
 primarily due to the following reasons:
- Optical transceivers: Gross profit of optical transceivers decreased from RMB73.3 million in
+(cid:129) Optical transceivers: Gross profit of optical transceivers decreased from RMB73.3 million in
 2024 to RMB62.3 million in 2025 and gross profit margin decreased from 12.4% in 2024 to
 6.7% in 2025, primarily due to (i) a decrease in the proportion of our sales to overseas
 markets, which generally command higher gross profit margins and (ii) the intensified
 competition in the high-speed optical transceiver market in mainland China, resulting in
 lower unit prices.
- AOC: Gross profit of AOC increased from RMB27.2 million in 2024 to RMB43.2 million in
+(cid:129) AOC: Gross profit of AOC increased from RMB27.2 million in 2024 to RMB43.2 million in
 2025, in line with our business growth. Our gross profit margin of AOC remained stable at
 18.0% in 2024 and 17.4% in 2025.
- Others: Gross profit of others increased from RMB1.3 million in 2024 to RMB4.2 million in
+(cid:129) Others: Gross profit of others increased from RMB1.3 million in 2024 to RMB4.2 million in
 2025, and the gross profit margin increased from 1.1% in 2024 to 8.7% in 2025, primarily
 because we sold the optoelectronic components and raw materials that we had bulk-procured
 to support the rapid expansion of our business at relatively low prices in 2024, resulting in
@@ -10381,7 +10381,7 @@ heightened competition among suppliers.
 Comparison between 2023 and 2024. We recorded gross loss of RMB31.3 million in 2023 and
 gross profit of RMB101.8 million in 2024, representing gross loss margin of 17.9% in 2023 and gross
 profit margin of 11.8% in 2024, primarily due to the following reasons:
- Optical transceivers: We recorded gross loss of RMB31.6 million and gross loss margin of
+(cid:129) Optical transceivers: We recorded gross loss of RMB31.6 million and gross loss margin of
 25.5% in 2023, and gross profit of RMB73.3 million and gross profit margin of 12.4% in
 2024. We recorded gross loss in 2023 primarily attributable to the decline in the selling
 prices of low-speed optical transceivers, including 100G-and-below products, which are our
@@ -10395,7 +10395,7 @@ realization of economies of scale arising from the mass production and shipment 
 optical transceivers, mainly our high-speed 400G-and-above products. The resulting increase
 in production volume and manufacturing efficiency led to a significant improvement in our
 gross profit margin and overall operating results.
- AOC: Gross profit of AOC increased from RMB0.3 million in 2023 to RMB27.2 million in
+(cid:129) AOC: Gross profit of AOC increased from RMB0.3 million in 2023 to RMB27.2 million in
 2024, and the gross profit margin of AOC increased from 0.7% to 18.0% in the same
 periods. The low gross profit margin in 2023 was primarily attributable to (i) the relatively
 high unit manufacturing cost of our 200G AOC, which was newly developed in 2023 and
@@ -10406,7 +10406,7 @@ of economies of scale resulting from the ramp-up and mass shipment of our high-s
 400G-and-above AOC. Higher production volume and better capacity utilization enhanced
 manufacturing efficiency and cost effectiveness, leading to a marked increase in gross profit
 margin and overall operating performance.
- Others: Gross profit of others increased significantly from RMB21 thousands in 2023 to
+(cid:129) Others: Gross profit of others increased significantly from RMB21 thousands in 2023 to
 RMB1.3 million in 2024, and the gross profit margin of others increased from 0.4% in 2023
 to 1.1% in 2024. The low gross profit margin in 2023 was primarily attributable to our bulk
 sale of low-speed optoelectronic components and related auxiliary consumables during the
@@ -11438,7 +11438,7 @@ fees and commissions and estimated offering expenses paid and payable by us in t
 assuming no Over-allotment Option is exercised and assuming an Offer Price of HK$114 per Offer
 Share.
 We intend to use the proceeds from the Global Offering for the purposes set forth below:
- Approximately 53.4% of the net proceeds, or HK$756.3 million, is expected to be used for
+(cid:129) Approximately 53.4% of the net proceeds, or HK$756.3 million, is expected to be used for
 expanding our production capacity for optical transceivers, and other optoelectronic
 interconnection products, and enhancing automation across our product lines.
 These investments are expected to enable us to achieve greater economies of scale, further
@@ -11499,7 +11499,7 @@ energy-efficient equipment such as thermoelectric cooling and heating device, wh
 more advanced technology and lower energy consumption and deploying intelligent
 environmental monitoring and control systems to further reduce energy consumption and
 waste emissions.
- Approximately 35.0% of the net proceeds, or HK$496.0 million, is expected to be used for
+(cid:129) Approximately 35.0% of the net proceeds, or HK$496.0 million, is expected to be used for
 continuous investment in the research and development of new products and technologies
 over the next three years. Specifically:
 (i) approximately 28.6% of the net proceeds, or HK$405.0 million, is expected to be used
@@ -11524,7 +11524,7 @@ and CPO packaging technologies, as well as those incorporating LRO and LPO signa
 processing technologies. The plan to procure and install R&D equipment is expected to
 be implemented from 2026 to 2028, with approximately 28%, 36% and 36% of the net
 proceeds expected to be utilized in 2026, 2027 and 2028, respectively.
- Approximately 1.5% of the net proceeds, or HK$21.5 million, is expected to be used for
+(cid:129) Approximately 1.5% of the net proceeds, or HK$21.5 million, is expected to be used for
 business promotion and market expansion initiatives over the next three years. Specifically:
 (i) approximately 1.0% of the net proceeds, or HK$14.2 million, is expected to be used
 for strengthening our domestic sales team and network to enhance customer
@@ -11540,7 +11540,7 @@ be utilized in 2026, 2027 and 2028, respectively.
 We believe that these efforts will deepen our relationships with existing customers,
 attract new clients, and accelerate our market penetration in both domestic and
 overseas markets.
- Approximately 10.0% of the net proceeds, or HK$141.5 million, is expected to be used for
+(cid:129) Approximately 10.0% of the net proceeds, or HK$141.5 million, is expected to be used for
 working capital and for general corporate purposes.
 To the extent that the net proceeds of the Global Offering are not immediately used for the above
 purposes or if we are unable to put into effect any part of our future development plans as intended, we
@@ -12218,14 +12218,14 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you are
 applying for:
- are 18 years of age or older;
- are outside the United States; and
-.
+(cid:129) are 18 years of age or older;
+(cid:129) are outside the United States; and
+(cid:129) have a Hong Kong address (for the White Form eIPO service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the Stock
 Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the person(s) for whose
 benefit you are applying for:
- are an existing Shareholder or his/her/its close associates; or
- are a Director or any of his/her close associates.
+(cid:129) are an existing Shareholder or his/her/its close associates; or
+(cid:129) are a Director or any of his/her close associates.
 – 263 –
 
 === PAGE 273 ===
@@ -12295,17 +12295,17 @@ and conditions of this prospectus.
 3. Information Required to Apply
 You must provide the following information with your application:
 ForIndividual/JointApplicants ForCorporateApplicants
-2 as shown on your identity
+(cid:129) Full name(s)2 as shown on your identity (cid:129) Full name(s)2 as shown on your identity
 document document
- Identity document’s issuing country or
+(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
 jurisdiction jurisdiction
- Identity document type, with order of
+(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
 priority: priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification document; or ii. Certificate of incorporation; or
 iii. Passport; and iii. Business registration certificate; or
- Identity document number iv. Other equivalent document; and
- Identity document number
+(cid:129) Identity document number iv. Other equivalent document; and
+(cid:129) Identity document number
 Notes:
 (1) If you are applying through the White Form eIPO service, you are required to provide a valid e-mail address, a contact
 telephonenumberandaHongKongaddress.Youarealsorequiredtodeclarethattheidentityinformationprovidedbyyou
@@ -12336,9 +12336,9 @@ you exercise statutory control over that company, then the application will be t
 should provide the required information in your application as stated above.
 “Unlistedcompany”meansacompanywithnoequitysecuritieslistedontheStockExchangeoranyotherstockexchange.
 “Statutory control” means you:
- control the composition of the board of directors of our company;
- control more than half of the voting power of our company; or
- holdmorethanhalfoftheissuedsharecapitalofourcompany(notcountinganypartofitwhichcarriesnorightto
+(cid:129) control the composition of the board of directors of our company;
+(cid:129) control more than half of the voting power of our company; or
+(cid:129) holdmorethanhalfoftheissuedsharecapitalofourcompany(notcountinganypartofitwhichcarriesnorightto
 participate beyond a specified amount in a distribution of either profits or capital).
 For those applying through the HKSCC EIPO channel, and making an application under a power
 of attorney, we and the Overall Coordinators, as our agent, have discretion to consider whether to
@@ -12565,17 +12565,17 @@ without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not grant
 permission to list the H Shares either:
- within three weeks from the closing date of the application lists; or
- within a longer period of up to six weeks if the Stock Exchange notifies us of that longer
+(cid:129) within three weeks from the closing date of the application lists; or
+(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that longer
 period within three weeks of the closing date of the application lists.
 4. If:
- you make multiple applications or suspected multiple applications. You may refer to the
+(cid:129) you make multiple applications or suspected multiple applications. You may refer to the
 paragraph headed “— A. Application for Hong Kong Offer Shares — 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
- your application instruction is incomplete;
- is not made correctly;
- the Underwriting Agreements do not become unconditional or are terminated; or
- we or the Overall Coordinators believe that by accepting your application, we or they would
+(cid:129) your application instruction is incomplete;
+(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
+(cid:129) the Underwriting Agreements do not become unconditional or are terminated; or
+(cid:129) we or the Overall Coordinators believe that by accepting your application, we or they would
 violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted H Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC Participants will
@@ -12688,9 +12688,9 @@ at your own risk.
 E. BAD WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Wednesday, June 24, 2026 if, there is/are:
- a tropical cyclone warning signal number 8 or above;
- a black rainstorm warning; and/or
- Extreme Conditions,
+(cid:129) a tropical cyclone warning signal number 8 or above;
+(cid:129) a black rainstorm warning; and/or
+(cid:129) Extreme Conditions,
 (collectively, “Bad Weather Signals”), in force in Hong Kong at any time between 9:00 a.m. and 12:00
 noon on Wednesday, June 24, 2026.
 Instead they will open between 11:45 a.m. and 12:00 noon and/or close at 12:00 noon on the next
@@ -12760,23 +12760,23 @@ and the H Share Registrar immediately of any inaccuracies in the personal data s
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for the
 following purposes:
- processing your application and refund cheque and White Form e-Refund payment
+(cid:129) processing your application and refund cheque and White Form e-Refund payment
 instruction(s), where applicable, verification of compliance with the terms and application
 procedures set out in this prospectus and announcing results of allocation of Hong Kong
 Offer Shares;
- compliance with applicable laws and regulations in Hong Kong and elsewhere;
- registering new issues or transfers into or out of the names of the holders of the H Shares
+(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+(cid:129) registering new issues or transfers into or out of the names of the holders of the H Shares
 including, where applicable, HKSCC Nominees;
- maintaining or updating the register of members of our Company;
- verifying identities of applicants for and holders of the H Shares and identifying any
+(cid:129) maintaining or updating the register of members of our Company;
+(cid:129) verifying identities of applicants for and holders of the H Shares and identifying any
 duplicate applications for the H Shares;
- facilitating Hong Kong Offer Shares balloting;
- establishing benefit entitlements of holders of the H Shares, such as dividends, rights issues,
+(cid:129) facilitating Hong Kong Offer Shares balloting;
+(cid:129) establishing benefit entitlements of holders of the H Shares, such as dividends, rights issues,
 bonus issues, etc.;
- distributing communications from our Company and its subsidiaries;
- compiling statistical information and profiles of the holder of the H Shares;
- disclosing relevant information to facilitate claims on entitlements; and
- any other incidental or associated purposes relating to the above and/or to enable our
+(cid:129) distributing communications from our Company and its subsidiaries;
+(cid:129) compiling statistical information and profiles of the holder of the H Shares;
+(cid:129) disclosing relevant information to facilitate claims on entitlements; and
+(cid:129) any other incidental or associated purposes relating to the above and/or to enable our
 Company and the H Share Registrar to discharge their obligations to applicants and holders
 of the H Shares and/or regulators and/or any other purposes to which applicants and holders
 of the H Shares may from time to time agree.
@@ -12789,21 +12789,21 @@ Personal data held by our Company and the H Share Registrar relating to the appl
 holders of Hong Kong Offer Shares will be kept confidential but our Company and the H Share
 Registrar may, to the extent: necessary for achieving any of the above purposes, disclose, obtain or
 transfer (whether within or outside Hong Kong) the personal data to, from or with any of the following:
- our Company’s appointed agents such as financial advisors, receiving bank and overseas
+(cid:129) our Company’s appointed agents such as financial advisors, receiving bank and overseas
 principal share registrar;
- HKSCC or HKSCC Nominees, who will use the personal data and may transfer the personal
+(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the personal
 data to the H Share Registrar, in each case for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and operating
 FINI and CCASS (including where applicants for the Hong Kong Offer Shares request a
 deposit into CCASS);
- any agents, contractors or third-party service providers who offer administrative,
+(cid:129) any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to our Company or the H Share
 Registrar in connection with their respective business operation;
- the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies or
+(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies or
 otherwise as required by laws, rules or regulations, including for the purpose of the Stock
 Exchange’s administration of the Listing Rules and the SFC’s performance of its statutory
 functions; and
- any persons or institutions with which the holders of Hong Kong Offer Shares have or
+(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have or
 propose to have dealings, such as their bankers, solicitors, accountants or brokers, etc.
 5. Retention of personal data
 Our Company and the H Share Registrar will keep the personal data of the applicants and holders
@@ -13685,8 +13685,8 @@ Derecognition of financial assets
 A financial asset (or, where applicable, a part of a financial asset or part of a group of similar
 financial assets) is primarily derecognised (i.e., removed from the Group’s consolidated statement of
 financial position) when:
- the rights to receive cash flows from the asset have expired; or
- the Group has transferred its rights to receive cash flows from the asset or has assumed an
+(cid:129) the rights to receive cash flows from the asset have expired; or
+(cid:129) the Group has transferred its rights to receive cash flows from the asset or has assumed an
 obligation to pay the received cash flows in full without material delay to a third party under
 a “pass-through” arrangement; and either (a) the Group has transferred substantially all the
 risks and rewards of the asset, or (b) the Group has neither transferred nor retained
@@ -13820,7 +13820,7 @@ Deferred tax is provided, using the liability method, on all temporary differenc
 reporting period between the tax bases of assets and liabilities and their carrying amounts for financial
 reporting purposes.
 Deferred tax liabilities are recognised for all taxable temporary differences, except:
- when the deferred tax liability arises from the initial recognition of goodwill or an asset or
+(cid:129) when the deferred tax liability arises from the initial recognition of goodwill or an asset or
 liability in a transaction that is not a business combination and, at the time of the
 transaction, affects neither the accounting profit nor taxable profit or loss and does not give
 rise to equal taxable and deductible temporary differences; and
@@ -13828,18 +13828,18 @@ rise to equal taxable and deductible temporary differences; and
 
 === PAGE 311 ===
 APPENDIX I ACCOUNTANTS’ REPORT
- in respect of taxable temporary differences associated with investments in subsidiaries when
+(cid:129) in respect of taxable temporary differences associated with investments in subsidiaries when
 the timing of the reversal of the temporary differences can be controlled, and it is probable
 that the temporary differences will not reverse in the foreseeable future.
 Deferred tax assets are recognised for all deductible temporary differences, and the carryforward
 of unused tax credits and any unused tax losses. Deferred tax assets are recognised to the extent that it
 is probable that taxable profit will be available against which the deductible temporary differences, and
 the carryforward of unused tax credits and unused tax losses can be utilised, except:
- when the deferred tax asset relating to the deductible temporary differences arises from the
+(cid:129) when the deferred tax asset relating to the deductible temporary differences arises from the
 initial recognition of an asset or liability in a transaction that is not a business combination
 and, at the time of the transaction, affects neither the accounting profit nor taxable profit or
 loss and does not give rise to equal taxable and deductible temporary differences; and
- in respect of deductible temporary differences associated with investments in subsidiaries,
+(cid:129) in respect of deductible temporary differences associated with investments in subsidiaries,
 deferred tax assets are only recognised to the extent that it is probable that the temporary
 differences will reverse in the foreseeable future and taxable profit will be available against
 which the temporary differences can be utilised.
@@ -16139,8 +16139,8 @@ procedures to assess whether the applicable criteria used by the Directors in th
 Unaudited Pro Forma Financial Information provide a reasonable basis for presenting the significant
 effects directly attributable to the transaction, and to obtain sufficient appropriate evidence about
 whether:
- the related pro forma adjustments give appropriate effect to those criteria; and
- the Unaudited Pro Forma Financial Information reflects the proper application of those
+(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
+(cid:129) the Unaudited Pro Forma Financial Information reflects the proper application of those
 adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgment, having regard to the
 reporting accountants’ understanding of the nature of the Group, the transaction in respect of which the
@@ -16190,12 +16190,12 @@ Dividends and Bonuses of Listed Companies” 《( 關於上市公司股息紅利
 題的通知》) (Caishui [2015] No. 101), issued and partially abolished by the Ministry of Finance
 (“MOF”), the State Administration of Taxation (“SAT”) and CSRC, which became effective on
 September 8, 2015, differentiated IIT treatment applies to dividends received from listed companies:
- Dividends derived from shares acquired through public offerings or the secondary market
+(cid:129) Dividends derived from shares acquired through public offerings or the secondary market
 and held for more than one year are exempt from IIT.
- Dividends from shares held for one month or less are fully included in taxable income.
- Dividends from shares held for more than one month but not more than one year are
+(cid:129) Dividends from shares held for one month or less are fully included in taxable income.
+(cid:129) Dividends from shares held for more than one month but not more than one year are
 included in taxable income at 50% of the dividend amount.
- The applicable IIT rate on such dividend income is 20%.
+(cid:129) The applicable IIT rate on such dividend income is 20%.
 Non-PRC resident individuals receiving dividends from PRC enterprises are generally subject to
 IIT at 20%, unless exempted by the State Council or a lower rate applies under an applicable tax treaty.
 Pursuant to the “Arrangement between the Chinese Mainland and the Hong Kong Special
@@ -16270,17 +16270,17 @@ Stock Connect Program 《( 關於滬港股票市場交易互聯互通機制試�
 [2014] No. 81) and the Circular on Relevant Taxation Policies regarding the Pilot Shenzhen-Hong Kong
 Stock Connect Program《( 關於深港股票市場交易互聯互通機制試點有關稅收政策的通知》) (Caishui
 [2016] No. 127):
- PRC enterprise investors deriving gains from price differences or dividends from
+(cid:129) PRC enterprise investors deriving gains from price differences or dividends from
 investments in Hong Kong-listed shares through Stock Connect shall include such income in
 their taxable income and pay EIT accordingly. Dividends received by PRC resident
 enterprises that have held the relevant H Shares for at least 12 consecutive months are
 exempt from EIT. H-share companies do not withhold tax on dividends paid to PRC
 enterprise investors, who are responsible for declaring and paying the tax.
- For PRC individual investors, H-share companies are required to withhold IIT at 20% on
+(cid:129) For PRC individual investors, H-share companies are required to withhold IIT at 20% on
 dividends received through Stock Connect, based on shareholder registers provided by China
 Securities Depository and Clearing Corporation Limited (“CSDC”). Investors may claim
 foreign tax credits with valid documentation.
- The Announcement on Continuing the Implementation of Individual Income Tax Policies
+(cid:129) The Announcement on Continuing the Implementation of Individual Income Tax Policies
 Relating to Shanghai-Hong Kong Stock Connect, Shenzhen-Hong Kong Stock Connect and
 Mainland-Hong Kong Fund Mutual Recognition 《( 關於延續實施滬港、深港股票市場交易互
 聯互通機制和內地與香港基金互認有關個人所得稅政策的公告》) (Announcement No. 23

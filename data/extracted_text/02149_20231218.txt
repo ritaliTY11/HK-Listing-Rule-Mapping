@@ -205,19 +205,19 @@ Results of allocations in the Hong Kong Public Offering
 (with successful applicants’ identification document numbers
 or Hong Kong business registration numbers, where appropriate)
 to be available through a variety of channels, including:
- in the announcement to be posted on our website
+(cid:129) in the announcement to be posted on our website
 and the website of the Stock Exchange
 at www.batelab.com and
 www.hkexnews.hk respectively at or before . . . . . . . . . . . . . . . . . . . . 11:00 p.m. on
 Wednesday, December 27, 2023
- from the designated results of allocations
+(cid:129) from the designated results of allocations
 website at www.iporesults.com.hk
 (alternatively: www.eipo.com.hk/eIPOAllotment)
 with a “search by ID” function from . . . . . . . . . . . . . . . . . . . . . . . . . . . .11:00 p.m.
 on Wednesday, December 27, 2023
 to 12:00 midnight
 on Tuesday, January 2, 2024
- from the allocation results telephone enquiry
+(cid:129) from the allocation results telephone enquiry
 by calling +852 2862 8555 between 9:00 a.m.
 and 6:00 p.m. on . . . . . . . . . . . . . . . . . . . . . . . . . . . . Thursday, December 28, 2023
 Friday, December 29, 2023
@@ -408,13 +408,13 @@ multiple elements to form a complete electronic circuit. Serving as the fundamen
 blocks and central components of the global information technology industry, ICs can be
 further segmented by delivery forms (including patterned wafers and chips) and functions
 (including digital ICs and analog ICs).
- Patterned wafers. Patterned wafers are wafers with built-on circuits. Each piece of
+(cid:129) Patterned wafers. Patterned wafers are wafers with built-on circuits. Each piece of
 patterned wafers contains a number of dies, which can be easily turned into chips
 after subsequent packaging and testing by downstream customers. Compared to
 chips, patterned wafers provide downstream customers with a cost-effective manner
 to launch new products, flexible packaging and assembling options and design
 flexibility.
- AnalogICs.AnalogICs,asopposedtodigitalICs,modulatereal-worldsignals,such
+(cid:129) AnalogICs.AnalogICs,asopposedtodigitalICs,modulatereal-worldsignals,such
 as sound, temperature, pressure or images, by conditioning them, amplifying them
 and often converting them into a stream of digital data that can be processed by
 other semiconductor devices. Analog ICs are also used to manage power usage in
@@ -747,11 +747,11 @@ the continuous launch of new product types driven by our initiatives and capabil
 new products as well as the increasing demands from our downstream customers. We
 experienced some fluctuations in the percentage of each sub-category of our products during
 the Track Record Period, which was primarily due to a shift in our product mix.
- Power management products. The sales volume of our power management products
+(cid:129) Power management products. The sales volume of our power management products
 experienced significant growth during theTrack Record Period, primarily due to the
 constant increase in the sales volume of switching regulators driven by our
 continuous launch of new types of products.
- Signal chain products. The sales volume of our signal chain products increased
+(cid:129) Signal chain products. The sales volume of our signal chain products increased
 during the Track Record Period, primarily resulting from our efforts to launch new
 products as well as the increasing demands from downstream customers.
 – 9 –
@@ -781,7 +781,7 @@ During the Track Record Period, each type of the qualified dies had a relatively
 selling price. The decreasing trend in the average selling price of our power management
 products and signal chain products was primarily due to changes in our product mix driven by
 downstream customer demand.
- Power management products. The average selling price of our power management
+(cid:129) Power management products. The average selling price of our power management
 products in 2020 and 2021 were at a relatively higher level as compared to that in
 2022, primarily attributable to downstream customers’ higher demand. The global
 semiconductor industry experienced a supply shortage from the second half of 2020
@@ -808,7 +808,7 @@ management products increased from the six months ended June 30, 2022 to the six
 months ended June 30, 2023, primarily attributable to an increase in the portion of
 revenue contribution by multi-channel ICs and PMICs, the sub-category of products
 with the highest average selling price.
- Signal chain products. The average selling price of our signal chain products
+(cid:129) Signal chain products. The average selling price of our signal chain products
 experienced a constant decrease during the Track Record Period due to an increase
 intheportionofrevenuecontributionofthetypesofproductswitharelativelylower
 average selling price as compared to the other types of products resulting from
@@ -936,34 +936,34 @@ this prospectus. These risks can be broadly categorized into: (i) risks relating
 and industry; (ii) risks relating to doing business in China; and (iii) risks relating to the Global
 Offering. You should read that section in its entirety carefully before you decide to invest in
 our H Shares. Some of the major risks we face include the following:
- Our business growth and prospects are affected by our ability to continuously
+(cid:129) Our business growth and prospects are affected by our ability to continuously
 innovate and iterate our existing products and to expand our product mix and
 penetrate new markets.
- A significant proportion of our revenue was derived from our distributor partners,
+(cid:129) A significant proportion of our revenue was derived from our distributor partners,
 includingArrow and CustomerA, during the Track Record Period.Any decrease in
 sales from, or loss of, one or more of our distributor partners would have negative
 impacts on our results of operations.
- We procured all of our foundry-manufactured wafers from a commercial patterned
+(cid:129) We procured all of our foundry-manufactured wafers from a commercial patterned
 wafer channel partner during the Track Record Period. Due to the material reliance
 we had on our patterned wafer channel partner, any decrease in purchase from, or
 loss of, our patterned wafer channel partner would have negative impacts on our
 results of operations.
- Ourinabilitytocontinuouslydevelopourtechnologicalcapabilitiesandimproveour
+(cid:129) Ourinabilitytocontinuouslydevelopourtechnologicalcapabilitiesandimproveour
 analog IC design platform could make our products uncompetitive and obsolete,
 which may impede our ability to address the requirements in technology segments
 that are expected to contribute to our growth.
- Rapid technological changes in the industries and markets to which our products are
+(cid:129) Rapid technological changes in the industries and markets to which our products are
 sold require us to constantly develop new technologies and products.
- Our business, financial condition and results of operations may be materially and
+(cid:129) Our business, financial condition and results of operations may be materially and
 adversely affected by international policies and international export controls and
 economic sanctions.
- Our products are primarily offered to downstream customers of certain industries in
+(cid:129) Our products are primarily offered to downstream customers of certain industries in
 the PRC. Factors that adversely affect these industries in the PRC may have a
 negative impact on our business and operational results.
- Our historical growth may not be indicative of our future growth. If we are unable
+(cid:129) Our historical growth may not be indicative of our future growth. If we are unable
 to manage our growth or execute our business strategies effectively, our results of
 operations and business prospects may be materially and adversely affected.
- Decreases in downstream customers’ demand for analog IC products may lead to a
+(cid:129) Decreases in downstream customers’ demand for analog IC products may lead to a
 decrease in the selling price of our patterned wafer products, which may result in a
 decrease in our revenue.
 – 14 –
@@ -1472,27 +1472,27 @@ estimated offering expenses payable by us in connection with the Global Offering
 that an Offer Price of HK$32.96 per Share (being the mid-point of the indicative Offer Price
 range stated in this prospectus) and assuming that the Over-allotment Option is not exercised.
 We intend to use the net proceeds as follows:
- approximately 30%, or HK$128.8 million, is expected to be used for enhancing our
+(cid:129) approximately 30%, or HK$128.8 million, is expected to be used for enhancing our
 R&D and innovation capabilities, including (i) approximately 20%, or HK$85.8
 million,isexpectedtobeusedtoinvestinR&DinfrastructureandupgradeourR&D
 center,(ii)approximately5%,orHK$21.5million,isexpectedtobeusedtoupgrade
 our R&D technology, and (iii) approximately 5%, or HK$21.5 million, is expected
 tobeusedtoexpandourR&DteamtosupportourR&Dcenterupgradeandincrease
 our competitive advantages in the industry;
- approximately 30%, or HK$128.9 million, is expected to be used to further enrich
+(cid:129) approximately 30%, or HK$128.9 million, is expected to be used to further enrich
 our product portfolio and expand our business, including (i) approximately 20%, or
 HK$85.9 million, is expected to be used to improve and upgrade our analog IC
 productline,and(ii)approximately10%,orHK$43.0million,isexpectedtobeused
 to develop a mixed-signal IC product line;
- approximately 10%, or HK$42.9 million, is expected to be used to expand our
+(cid:129) approximately 10%, or HK$42.9 million, is expected to be used to expand our
 customer base and strengthen our relationship with customers, including (i)
 approximately 5%, or HK$21.5 million, is expected to be used to establish two sales
 centers in the pearl river delta region and central China, and (ii) approximately 5%,
 or HK$21.4 million, is expected to be used to maintain customer relationship and
 develop new customers;
- approximately 20%, or HK$85.8 million, is expected to be used for strategic
+(cid:129) approximately 20%, or HK$85.8 million, is expected to be used for strategic
 investments and/or acquisition to achieve our long-term growth strategies; and
- approximately 10%, or HK$42.8 million, is expected to be used for working capital
+(cid:129) approximately 10%, or HK$42.8 million, is expected to be used for working capital
 and general corporate purposes.
 – 27 –
 
@@ -2108,32 +2108,32 @@ You are strongly cautioned that reliance on any forward-looking statements invol
 and unknown risks and uncertainties. The risks and uncertainties facing our company which
 could affect the accuracy of forward-looking statements include, but are not limited to, the
 following:
- our ability to continuously innovate and iterate our existing products and to expand
+(cid:129) our ability to continuously innovate and iterate our existing products and to expand
 our product mix and penetrate new markets;
- our response to technological developments and ability to continue to develop
+(cid:129) our response to technological developments and ability to continue to develop
 technological capabilities to improve our analog IC design platform;
- the industries trend of our downstream customers of industries including automotive
+(cid:129) the industries trend of our downstream customers of industries including automotive
 electronics, healthcare, industrial automation, industrial Internet of Things,
 industrial lighting, instrumentation, communications, electric power, energy storage
 and consumer electronics and their demand for analog IC patterned wafers;
- the operations of our distributors and the third-party channel partners and service
+(cid:129) the operations of our distributors and the third-party channel partners and service
 providers we rely on for materials, supplies and storage;
- estimatesofourcosts,expenses,futurerevenues,capitalexpendituresandourneeds
+(cid:129) estimatesofourcosts,expenses,futurerevenues,capitalexpendituresandourneeds
 for additional financing;
- our ability to attract and retain the co-founders, senior management and key
+(cid:129) our ability to attract and retain the co-founders, senior management and key
 employees;
- future developments, trends, conditions, standards, requirements and competitive
+(cid:129) future developments, trends, conditions, standards, requirements and competitive
 landscape in the industry and markets in which we operate;
 – 45 –
 
 === PAGE 57 ===
 FORWARD-LOOKING STATEMENTS
- changes to regulatory and operating conditions in the industry and markets in which
+(cid:129) changes to regulatory and operating conditions in the industry and markets in which
 we operate;
- our strategies, plans, objectives and goals and our ability to successfully implement
+(cid:129) our strategies, plans, objectives and goals and our ability to successfully implement
 them;
- our financial condition and operating results and performance; and
- general political and economic conditions.
+(cid:129) our financial condition and operating results and performance; and
+(cid:129) general political and economic conditions.
 Subject to the requirements of applicable laws, rules and regulations, we do not have any
 and undertake no obligation to update or otherwise revise the forward-looking statements in
 this prospectus, whether as a result of new information, future events or otherwise.As a result
@@ -2217,13 +2217,13 @@ In particular, our sales volumes depend on the performance of our distributors i
 marketing our products. The effectiveness of our distributors in selling and distributing our
 products may be affected by a number of factors, many of which are out of our control,
 including:
- our distributors’ strategies in promoting our products;
- our distributors’ own business and financial performance;
- our distributors’ abilities to expand downstream customer base and penetrate into
+(cid:129) our distributors’ strategies in promoting our products;
+(cid:129) our distributors’ own business and financial performance;
+(cid:129) our distributors’ abilities to expand downstream customer base and penetrate into
 new markets;
- our distributors’ strategies to extend geographical coverage of our products;
- our distributors’ willingness to maintain relationships with us; and
- our ability to maintain and expand our distribution network.
+(cid:129) our distributors’ strategies to extend geographical coverage of our products;
+(cid:129) our distributors’ willingness to maintain relationships with us; and
+(cid:129) our ability to maintain and expand our distribution network.
 In the event our distributors fail to effectively sell and distribute our products, or
 prioritize promotion of competing product lines over our products, it could result in a
 significant decrease in our sales volume, which may materially and adversely affect our
@@ -2366,20 +2366,20 @@ industrial lighting, instrumentation, communications, electric power, energy sto
 consumer electronics (the “major industries”) in the PRC. Therefore, factors that adversely
 affect these industries in the PRC could materially and adversely affect our business, financial
 condition, results of operations and prospects. These factors include, among others:
- a decline in demand for, or negative perception of, or publicity about, products of
+(cid:129) a decline in demand for, or negative perception of, or publicity about, products of
 the major industries in the PRC;
- a downturn in general economic conditions in the PRC or major countries/regions
+(cid:129) a downturn in general economic conditions in the PRC or major countries/regions
 that import products of the major industries from the PRC;
- increasing level of competition from manufacturers of the major industries in other
+(cid:129) increasing level of competition from manufacturers of the major industries in other
 countries/regions;
- the reduction or elimination of preferential tax treatments and economic incentives
+(cid:129) the reduction or elimination of preferential tax treatments and economic incentives
 for manufacturers of the major industries in the PRC;
- regulatory restrictions, trade disputes, industry-specific quotas, tariffs, non-tariff
+(cid:129) regulatory restrictions, trade disputes, industry-specific quotas, tariffs, non-tariff
 barriersandtaxesthatmayhavetheeffectoflimitingexportsofthemajorindustries
 from the PRC;
- appreciation in the value of RMB against the currencies of other countries and
+(cid:129) appreciation in the value of RMB against the currencies of other countries and
 regions that import products of the major industries from the PRC; and
- rising material and labor costs in the PRC relating to manufacturing in the major
+(cid:129) rising material and labor costs in the PRC relating to manufacturing in the major
 industries.
 Our historical growth may not be indicative of our future growth. If we are unable to
 manageourgrowthorexecuteourbusinessstrategieseffectively,ourresultsofoperations
@@ -2767,12 +2767,12 @@ affect our ability to expand our business or meet unforeseen contingencies.
 To grow our business and remain competitive, we may require additional capital from
 time to time for our daily operations. Our ability to obtain additional capital is subject to a
 variety of uncertainties, including:
- our market position and competitiveness in the analog IC industry;
- our future profitability, overall financial condition, results of operations and cash
+(cid:129) our market position and competitiveness in the analog IC industry;
+(cid:129) our future profitability, overall financial condition, results of operations and cash
 flows;
- general market conditions for capital-raising activities by our competitors in China;
+(cid:129) general market conditions for capital-raising activities by our competitors in China;
 and
- economic, political and other conditions in China and internationally.
+(cid:129) economic, political and other conditions in China and internationally.
 We may be unable to obtain additional capital in a timely manner or on acceptable terms,
 or at all. In addition, our future capital or other business needs could require us to sell
 additional equity securities. The sale of additional equity or equity-linked securities could
@@ -2803,11 +2803,11 @@ If we are unable to manage fluctuations in cash flow, our business and financial
 may be adversely affected.
 Our working capital requirements and cash flows are subject to changes due to certain
 factors, including:
- fluctuations in the revenue from our operating activities;
- fluctuations in the collection of receivables;
- timing and the size of payables;
- timing and size of capital expenditures; and
- the repayment schedules of our debt obligations.
+(cid:129) fluctuations in the revenue from our operating activities;
+(cid:129) fluctuations in the collection of receivables;
+(cid:129) timing and the size of payables;
+(cid:129) timing and size of capital expenditures; and
+(cid:129) the repayment schedules of our debt obligations.
 If we are unable to manage fluctuations in cash flow, we may not be able to fulfill our
 obligations under our business and operational agreements, and our operating results and
 financial condition may be materially adversely affected.
@@ -4132,18 +4132,18 @@ Upstream Midstream Downstream
 IC Design Companies End Users
 Design Service Company IDM Distributors • Automotive
 Patterned wafers electronics
-EDA Software Providers or finished ICs  Healthcare
-Design service Patterned wafers  Industrial
+EDA Software Providers or finished ICs (cid:129) Healthcare
+Design service Patterned wafers (cid:129) Industrial
 or ICs automation
-IP Vendors Fabless IC Design Companies  Industrial
+IP Vendors Fabless IC Design Companies (cid:129) Industrial
 System Manufacturers Internet of
 Things
 ODMs
-Equipment & Material Companies IC manufacturing IC packaging  I li n g d h u ti s n tr g ial
-Equipment Suppliers Equ m ip a m ter e i n a t l s and service and test service P p a a t c te k r a n g e i d n g w a a n fe d r End products  I C n o s m tr m um un en ic t a a t t i i o o n n s
-test service  Electric power
-Material Suppliers Outsourced Outsourced Packaging  Energy storage
-Fabrication Plants and Test Vendors Brands  Consumer
+Equipment & Material Companies IC manufacturing IC packaging (cid:129) I li n g d h u ti s n tr g ial
+Equipment Suppliers Equ m ip a m ter e i n a t l s and service and test service P p a a t c te k r a n g e i d n g w a a n fe d r End products (cid:129) (cid:129) I C n o s m tr m um un en ic t a a t t i i o o n n s
+test service (cid:129) Electric power
+Material Suppliers Outsourced Outsourced Packaging (cid:129) Energy storage
+Fabrication Plants and Test Vendors Brands (cid:129) Consumer
 electronics
 • ...
 Source: Frost & Sullivan Report
@@ -4197,7 +4197,7 @@ EDA and IP: Cornerstones to IC Design
 Given the complexity of IC design, EDAsoftware that enables electronic computer-aided
 design and simulation of layout, and IPmodules that can be incorporated into layout to achieve
 specific functions, are cornerstones to IC design companies.
- EDA underpins IC design by providing essential support.
+(cid:129) EDA underpins IC design by providing essential support.
 The significance of EDAtools lies in their ability to guarantee design accuracy, enhance
 performance of designed products, and shorten both IC design cycles and product testing and
 verification periods.
@@ -4213,7 +4213,7 @@ EDA market lags behind that of digital EDA market, more opportunities are create
 Meanwhile, in the absence of timely and individual support from third-party EDA vendors,
 self-developed EDA is crucial to rapidly adapting to changes in downstream customers’
 demand.
- IP is an integral component of IC design.
+(cid:129) IP is an integral component of IC design.
 By incorporating multiple IPmodules into complex ICs, design engineers can circumvent
 the need for repetitive work, effectively shorten design cycles and boost IC design success
 rates. In addition, as different IPmodules with multiple functionalities are developed from and
@@ -4245,7 +4245,7 @@ INDUSTRY OVERVIEW
 In recent years, there has been a market trend among the downstream customers shifting
 theirdemandfromfinishedICstopatternedwafers.Suchtrendmainlyarisefromthefollowing
 reasons:
- Increase the efficiency in launching finished IC products. It is time-costly and
+(cid:129) Increase the efficiency in launching finished IC products. It is time-costly and
 expensive for small- to medium-scale IC design companies to rely on their in-house
 design team for design and development of IC products and communication of
 complicated parameter requirements of manufacturing processes with foundries,
@@ -4254,7 +4254,7 @@ single type of product in the long-tail analog IC sector. By purchasing patterne
 wafers with built-on circuits, IC design companies with limited design capacity and
 operational scale are able to focus on provision, sales and marketing of their
 self-branded finished IC products in an efficient and effective manner.
- Provide flexible packaging and assembling options. With advanced packaging
+(cid:129) Provide flexible packaging and assembling options. With advanced packaging
 technologies, such as SiP or CoB, patterned wafers of different functions can be
 packagedinasingleIC,maintainingasmallersizewhilereachinghigherintegration
 level. Therefore, system manufacturers purchase patterned wafers rather than
@@ -4263,7 +4263,7 @@ repeated packaging wastes. Moreover, the packaging and test processes are
 standardized and inexpensive. System manufacturers can increase their
 competitivenessintheprice-sensitivemarketastheylowertheircostsbypurchasing
 patterned wafers instead of finished ICs.
- Achieve customized functions. Patterned wafers are chiplet-ready. They can be
+(cid:129) Achieve customized functions. Patterned wafers are chiplet-ready. They can be
 fabricated into small, modular chips that can be combined to form a more complex
 chip. This provides downstream customers with possibilities to achieve their
 customized functions, giving them more design flexibility and optimizing their
@@ -4873,7 +4873,7 @@ financing, research and development, import and export, talents, intellectual pr
 market application and international cooperation policies.
 On November 19, 2017, the State Council promulgated the Guiding Opinions of the
 State Council on Deepening “Internet + Advanced Manufacturing” and Developing
-Industrial Internet (《國務院關於深化
+Industrial Internet (《國務院關於深化(cid:2)互聯網+先進製造業(cid:2)發展工業互聯網的指導意見》)
 (the “Guiding Opinions”). The Guiding Opinions encourage domestic and foreign enterprises
 to cooperate in tackling technical problems for weak links such as big data analysis, industrial
 data modeling, key software systems, and chips; it is recommended to implement relevant
@@ -8661,12 +8661,12 @@ development and standardized high-performance patterned wafer delivery, as well 
 our competitive advantages in the industry. Our platform has achieved technical breakthroughs
 in both EDA software and IP module design, empowering efficient standardized design of
 analog IC products.
- Analog IC Design is Our Platform’s Core Capability. We are the only analog IC
+(cid:129) Analog IC Design is Our Platform’s Core Capability. We are the only analog IC
 design company in China equipped with proprietary EDA software, according to
 Frost & Sullivan. Our platform covers all major functions relating to schematic
 editing, layout editing and simulation, the three most critical processes in analog IC
 design.
- Rich and Reusable IP Library Ensures Platform Scalability. We prioritize batch
+(cid:129) Rich and Reusable IP Library Ensures Platform Scalability. We prioritize batch
 design of similar products, and we often design IP modules to have regular shapes
 such as compact rectangles, enhancing standardization and reusability. We conduct
 research on manufacture processing technologies and develop our IP modules
@@ -8675,7 +8675,7 @@ with manufacturing. As of the Latest Practicable Date, we have amassed more than
 400 IP modules covering 12 core categories of analog IC design and adaptable to
 ninecoreprocessingtechnologies,representingthemostcomprehensiveIPcoverage
 among all analog IC design companies in China.
- Smart Design Enables Efficient Product Development. Our platform supports
+(cid:129) Smart Design Enables Efficient Product Development. Our platform supports
 standardized, visualized, and easy-to-operate analog IC design, with the automation
 level close to digital IC design, which significantly reduces learning barrier for
 R&D personnel as well as development cost and time. In 2022, for each new
@@ -8686,7 +8686,7 @@ Sullivan.
 
 === PAGE 186 ===
 BUSINESS
- Powerful Network Effect Drives Continuous Platform Upgrades. Our platform
+(cid:129) Powerful Network Effect Drives Continuous Platform Upgrades. Our platform
 allowsustoexpandourproductportfolioandcultivatealargeandloyaldownstream
 customers base in a cost-effective manner. The patterned wafers delivered by us
 significantly enhance the operational efficiency of downstream customers. We are
@@ -8765,7 +8765,7 @@ delivery of analog IC products face the following challenges.
 
 === PAGE 188 ===
 BUSINESS
- Application Scenario. Compared to digital ICs that process binary digital signals,
+(cid:129) Application Scenario. Compared to digital ICs that process binary digital signals,
 analog ICs process continuous physical analog signals observed in the nature,
 bringing about widely diverse application scenarios for industrial grade products.
 According to Frost & Sullivan, there are currently more than 63,000 types of
@@ -8778,19 +8778,19 @@ industrial Internet of Things, industrial lighting, instrumentation, communicati
 electric power, energy storage and consumer electronics. However, there is a lack of
 IC design companies that are capable of providing integrated solutions for these
 scattered individual products in a cost-effective manner.
- R&D Investment. Analog IC design involves a great variety of integrated circuit
+(cid:129) R&D Investment. Analog IC design involves a great variety of integrated circuit
 elements, the interactions of which are complex. Without sufficient high-
 performance EDA software and reusable IP libraries, analog IC design often relies
 heavily on the experience and know-how of scarce talented design engineers, and
 requires costly R&D expenditure.According to Frost & Sullivan, the average R&D
 expenditure required to develop a new type of industrial grade analog IC in China
 was approximately RMB5.5 million in 2022.
- Development Cycle. Analog IC product development requires intensive
+(cid:129) Development Cycle. Analog IC product development requires intensive
 communication and cooperation with foundries from design to tape-out and to
 volume production, which results in a prolonged development cycle. According to
 Frost & Sullivan, the average development cycle for a new type of industrial grade
 analog IC in China is 13-14 months in 2022.
- Economies of Scale. With the long-tail analog IC market, it is often difficult for IC
+(cid:129) Economies of Scale. With the long-tail analog IC market, it is often difficult for IC
 design companies to secure foundry capacity or establish economies of scale for
 products with small volume requirements. On the other hand, as traditional scaling
 of transistors becomes increasingly difficult, advanced packaging technologies have
@@ -8815,7 +8815,7 @@ Our Values
 We aspire to become China’s leading provider of all major types of analog IC patterned
 wafer products accompanying our downstream customers’ full lifecycle success. The core
 values we provide to our downstream customers include:
- Broader Industry Collaboration. Leveraging our diversified product offerings and
+(cid:129) Broader Industry Collaboration. Leveraging our diversified product offerings and
 patterned wafers as deliverable products, we can integrate downstream customers’
 needs for different products and applications, taking full advantage of foundry
 capacity and providing affordable patterned wafer products for the long-tail demand
@@ -8823,7 +8823,7 @@ in various industries. Our patterned wafers are chiplet-ready, which means that 
 can be fabricated into small, modular chips that can be combined to form a more
 complex chip, giving our downstream customers more design flexibility and
 optimizing their products’ performance and power consumption.
- Lower R&D Expenditure. Our patterned wafers can be manufactured into finished
+(cid:129) Lower R&D Expenditure. Our patterned wafers can be manufactured into finished
 chip products after standard and straightforward packaging and testing. It allows
 various downstream customers, including chip design companies, commercial
 distributors, brand-name manufacturers and ODMs, to significantly reduce
@@ -8831,18 +8831,18 @@ development costs of IC chips, helping them launch new chip products in a
 cost-effectivemanner.Byadoptingpatternedwafers,ourdownstreamcustomerscan
 reallocate the funds saved from reduced R&D expenditure to other core products or
 marketing activities.
- Shorter Time-to-Market. Our downstream customers, especially chip design
+(cid:129) Shorter Time-to-Market. Our downstream customers, especially chip design
 companies, can launch new products in several weeks at most after purchasing our
 analog IC patterned wafers, significantly mitigating uncertainty for product
 development and shortening their products’ time-to-market, which facilitates their
 penetration into broader end markets.
- More Reliable Product Performance. Our design platform ensures consistency in
+(cid:129) More Reliable Product Performance. Our design platform ensures consistency in
 the design process, which allows us to more easily identify and address any issues
 or challenges that may arise during the design process, as well as minimize the risk
 of errors or inconsistencies that could impact the final product’s performance. This
 enables our patterned wafers to meet the requirements of a wide variety of industrial
 grade application scenarios.
- More Versatile Packaging. Our patterned wafers enable our downstream customers
+(cid:129) More Versatile Packaging. Our patterned wafers enable our downstream customers
 to avoid wasteful repeated packaging and improve product integration efficiency by
 enabling advanced packaging technologies such as SiP.
 – 178 –
@@ -8876,12 +8876,12 @@ Differentiated Analog IC Design Platform
 Integrating the entire analog IC design chain, including EDA, IP, and design, we have
 builttheonlyfull-stackanalogICdesignplatforminChina,accordingtoFrost&Sullivan.Our
 analog IC design platform has the following differentiated advantages:
- Intelligent. Based on machine learning technology, our design platform supports
+(cid:129) Intelligent. Based on machine learning technology, our design platform supports
 automaticfittingandoptimizationofhistoricalsimulationdata,whicheliminatesthe
 need to build complex circuitry matrix.This significantly reduces the computational
 resources required to run a simulation, while greatly improving the efficiency and
 accuracy of the simulation results.
- Flexible. Our platform supports graphical code-light IC design, which replaces the
+(cid:129) Flexible. Our platform supports graphical code-light IC design, which replaces the
 text-based coding process with graphical Play-and-Plug visual process. This
 effectively simplifies and visualizes IC layout design and allows fast and flexible
 responses to downstream customers’ new application needs.
@@ -8889,7 +8889,7 @@ responses to downstream customers’ new application needs.
 
 === PAGE 191 ===
 BUSINESS
- Scalable. Our platform has accumulated a library of layout-level IP modules.
+(cid:129) Scalable. Our platform has accumulated a library of layout-level IP modules.
 Covering 12 major categories of analog IC design and adaptable to nine core
 processing technologies, our IP modules are almost 100% reusable, allowing
 block-building type of rapid products development. Our IP modules have strong
@@ -8898,7 +8898,7 @@ multiple IP modules simultaneously, which optimizes our design process by
 allowing for better coordination between different modules. In terms of layout area,
 approximately 80% of the circuit designs in our products can be completed using
 existing IP modules in the library.
- Reliable. Our platform supports separate stabilization and optimization for
+(cid:129) Reliable. Our platform supports separate stabilization and optimization for
 application scenario environments as well as automatic addition of auxiliary
 circuitry to the original layout, thus enabling our products to function normally in
 extreme temperature and electromagnetic environments.Almost 100% of our analog
@@ -9160,13 +9160,13 @@ multiple elements to form a complete electronic circuit. Serving as the fundamen
 blocks and central components of the global information technology industry, ICs can be
 further segmented by delivery forms (including patterned wafers and chips) and functions
 (including digital ICs and analog ICs).
- Patterned wafers. Patterned wafers are wafers with built-on circuits. Each piece of
+(cid:129) Patterned wafers. Patterned wafers are wafers with built-on circuits. Each piece of
 patterned wafers contains a number of dies, which can be easily turned into chips
 after subsequent packaging and testing by downstream customers. Compared to
 chips, patterned wafers provide downstream customers with a cost-effective manner
 to launch new products, flexible packaging and assembling options and design
 flexibility.
- AnalogICs.AnalogICs,asopposedtodigitalICs,modulatereal-worldsignals,such
+(cid:129) AnalogICs.AnalogICs,asopposedtodigitalICs,modulatereal-worldsignals,such
 as sound, temperature, pressure or images, by conditioning them, amplifying them
 and often converting them into a stream of digital data that can be processed by
 other semiconductor devices. Analog ICs are also used to manage power usage in
@@ -9245,7 +9245,7 @@ modulating ICs, and driver ICs. Our power management products typically can be u
 industries and fields including automotive electronics, healthcare, industrial automation,
 industrial Internet of Things, industrial lighting, instrumentation, communications, electric
 power, energy storage and consumer electronics.
- Switching regulators. We offer a comprehensive portfolio of high-performance
+(cid:129) Switching regulators. We offer a comprehensive portfolio of high-performance
 DC-DC and AC-DC switching regulators to realize functions including boosting,
 bucking, buck-boosting and isolation of power supply. Our switching regulators can
 be used in industrial, medical, automation and automotive sectors. Typical
@@ -9255,30 +9255,30 @@ equipment, new energy, special-purpose computers and portable electronic devices
 
 === PAGE 200 ===
 BUSINESS
- Multi-channel ICs and PMICs. Our scalable multi-channel ICs and PMICs realize
+(cid:129) Multi-channel ICs and PMICs. Our scalable multi-channel ICs and PMICs realize
 functions including voltage converters and regulators, battery chargers, battery
 meters, LED drivers, real-time clocks, power sequencers, and power controls. Our
 multi-channel ICs and PMICs can be used for multiple types of motherboards,
 medical or handheld portable instruments.
- Linear regulators. Our linear regulators produce a regulated output voltage that
+(cid:129) Linear regulators. Our linear regulators produce a regulated output voltage that
 features a stable supply voltage with low self-loss, powering sensitive analog
 systems and extending battery life. Our linear regulators can be used on battery
 chargers, switching power supply regulators, microprocessor power supply devices,
 and personal digital devices including Bluetooth earphones and headphones, laptops
 and digital cameras.
- Battery management ICs. Our battery management ICs provide for battery
+(cid:129) Battery management ICs. Our battery management ICs provide for battery
 monitoringandprotectiontoensuresafeuseofbatteryandimprovebattery’sservice
 life, making it easier for downstream customers to design efficient, long-lasting and
 reliable battery-powered applications. Our battery management ICs are typically
 used on battery-powered electric equipment such as electric vehicles and e-bikes,
 backup battery systems and mobile radios.
- Monitoring and modulating ICs. Our monitoring and modulating ICs monitor the
+(cid:129) Monitoring and modulating ICs. Our monitoring and modulating ICs monitor the
 system voltage or current signals to ensure that the system voltage and current are
 within the specified safety range. Typical use scenarios of our monitoring and
 modulating ICs include hot-swap power supply, redundant power supply, laptop
 power supply, load protection and anti-surge lightning strike for computers, servers,
 and communication equipment.
- Driver ICs. Our driver ICs can maximize current limit, enable thermal protection
+(cid:129) Driver ICs. Our driver ICs can maximize current limit, enable thermal protection
 and ultra-high efficiency while minimizing power losses, and allow the circuit to
 perform fast turn-on and turn-off, which helps achieve good picture quality in
 consumer electronics, industrial and automotive applications and makes it easier for
@@ -9290,7 +9290,7 @@ Our signal chain products include products that sense, condition and measure rea
 signals to allow information or signal to be transferred or converted for further processing and
 control. Our signal chain products are all linear products. Our signal chain products typically
 can be used in industries and fields including industrial automation and electric power.
- Linear products. We primarily offer comparators and operational amplifiers. Our
+(cid:129) Linear products. We primarily offer comparators and operational amplifiers. Our
 comparatorsareusedtoachieveextendedbatterylife,fastresponseincriticaltiming
 measurement, greater detection capability and precision in sensitive applications,
 providing versatility to design. Our comparators can be used in industrial testing
@@ -9364,11 +9364,11 @@ the continuous launch of new product types driven by our initiatives and capabil
 new products as well as the increasing demands from our downstream customers. We
 experienced some fluctuations in the percentage of each sub-category of our products during
 the Track Record Period, which was primarily due to a shift in our product mix.
- Power management products. The sales volume of our power management products
+(cid:129) Power management products. The sales volume of our power management products
 experienced significant growth during theTrack Record Period, primarily due to the
 constant increase in the sales volume of switching regulators driven by our
 continuous launch of new types of products.
- Signal chain products. The sales volume of our signal chain products increased
+(cid:129) Signal chain products. The sales volume of our signal chain products increased
 during the Track Record Period, primarily resulting from our efforts to launch new
 products as well as the increasing demands from downstream customers.
 – 191 –
@@ -9399,7 +9399,7 @@ During the Track Record Period, each type of the qualified dies had a relatively
 selling price. The decreasing trend in the average selling price of our power management
 products and signal chain products was primarily due to changes in our product mix driven by
 downstream customer demand.
- Power management products. The average selling price of our power management
+(cid:129) Power management products. The average selling price of our power management
 products in 2020 and 2021 were at a relatively higher level as compared to that in
 2022, primarily attributable to downstream customers’ higher demand. The global
 semiconductor industry experienced a supply shortage from the second half of 2020
@@ -9527,7 +9527,7 @@ regulators, battery management ICs, monitoring and modulating ICs and driver
 ICs, primarily due to a shift in our product mix in accordance with the
 changing downstream market demands. The revenue contributions of these
 sub-categories of products during the Track Record Period were insignificant.
- Signal chain products. The average selling price of our signal chain products
+(cid:129) Signal chain products. The average selling price of our signal chain products
 experienced a constant decrease during the Track Record Period due to an increase
 intheportionofrevenuecontributionofthetypesofproductswitharelativelylower
 average selling price as compared to the other types of products resulting from
@@ -9766,7 +9766,7 @@ will be codified in the U.S. Code of Federal Regulations to implement theAugust 
 Order.
 As concluded by JBK, the key points addressed in theAugust 9 Executive Order and the
 Treasury Department’s ANPRM are as follows:
- TheAugust 9 Executive Order will require “U.S. persons” to provide notification of
+(cid:129) TheAugust 9 Executive Order will require “U.S. persons” to provide notification of
 information involving certain “covered transactions” involving “covered foreign
 persons” (referred to as “notifiable transactions”) and will prohibit U.S. persons
 from engaging in certain other transactions involving covered foreign persons. As
@@ -9783,7 +9783,7 @@ result in the establishment of a covered foreign person; or (4) establishment of
 joint venture, wherever located, that is formed with a covered foreign person or
 could result in the establishment of a covered foreign person. Thus, it is clear that
 this is not intended to cover product sales.
- The ANPRM states that the August 9 Executive Order focuses on “semiconductors
+(cid:129) The ANPRM states that the August 9 Executive Order focuses on “semiconductors
 and microelectronics, for which the Treasury Department is considering a
 prohibition on transactions related to certain advanced technologies and products,
 and considering a notification requirement related to other technologies and
@@ -9793,7 +9793,7 @@ thatTreasury is considering prohibiting U.S. investments in PRC entities engaged
 the design, fabrication, or packaging of advanced integrated circuits, and is also
 considering requiring notification for U.S. investments in PRC entities engaged in
 the design, fabrication, and packaging of less advanced integrated circuits.
- The Treasury Department’s Fact Sheet states that it is considering creating an
+(cid:129) The Treasury Department’s Fact Sheet states that it is considering creating an
 exception for certain types of “passive and other investments that may pose a lower
 likelihood of conveying intangible benefits or in an effort to minimize unintended
 consequences.” In addition, the ANPRM states that “the Treasury Department
@@ -9801,7 +9801,7 @@ expects to create a carveout or exception for specific types of transactions, su
 certain investments into publicly-traded securities or into exchange-traded funds.”
 The proposed definition of “excepted transaction” would also include index funds,
 mutual funds, exchange-traded funds and similar investments.
- It will likely be some time before proposed or final regulations are issued by the
+(cid:129) It will likely be some time before proposed or final regulations are issued by the
 Treasury Department. While it is difficult to predict with certainty, based on prior
 experience,itappearslikelythattheinterimfinalruleorfinalrulewillnotbeissued
 until the first quarter of 2024 or later.
@@ -9893,7 +9893,7 @@ modules, realizing system-level simulation and performance modeling.Together, ou
 analog IC design platform has enabled us with large-scale design capability, and effectively
 lowered our internal barrier to IC design.
 Our analog IC design platform has the following features:
- Novelty. According to Frost & Sullivan, most of the IC design companies in China
+(cid:129) Novelty. According to Frost & Sullivan, most of the IC design companies in China
 use imported EDA software tools and commercial IP modules designed by third
 parties, or develop their own IP modules by using the imported third-party EDA
 software tools. As the only IC design company in China equipped with a full-stack
@@ -9920,7 +9920,7 @@ and different IP modules can be retrieved from the IP library for simulation tes
 during the design process. All of these features have distinguished us from our
 competitors and greatly improve our design efficiency, and thereby saving our R&D
 costs.
- Technological barriers. According to Frost & Sullivan, there are no comparable
+(cid:129) Technological barriers. According to Frost & Sullivan, there are no comparable
 analog IC design companies in China that possess similar technologies or tools, as
 the technological barriers of the analog IC design platform are quite high. These
 technological barriers of developing a proprietary analog IC design platform in turn
@@ -9945,7 +9945,7 @@ functionalities. Expertise in developing and using EDA software tools is also
 crucial to IP module development, as compatible EDA software tools and
 modular IPs are synergistic and complementary, enhancing the efficiency of IC
 design.
- Competitive advantages. Our analog IC design platform is intelligent, flexible,
+(cid:129) Competitive advantages. Our analog IC design platform is intelligent, flexible,
 scalable and reliable, which differentiates us from other IC design companies. See
 “ – Competitive Strengths – DifferentiatedAnalog IC Design Platform.” Our analog
 IC design platform facilitates a semi-automatic way of analog IC design. By using
@@ -10002,11 +10002,11 @@ tool on our EDA software:
 Schematic editor Layout editor
 IC simulation tool
 Our EDA software tools support the following functions:
- Graphical layout design. We use EDA-assisted pre-compiled programs to convert
+(cid:129) Graphical layout design. We use EDA-assisted pre-compiled programs to convert
 coded text into graphical flow chart during layout design. Specifically, we replace
 plain text editing with assignment to graphical variables, which helps lower the
 difficulty in layout design and accelerate the entire process.
- Assisted IC design based on machine learning. We perform machine learning of the
+(cid:129) Assisted IC design based on machine learning. We perform machine learning of the
 IC topology diagrams derived from historic IC designs. Based on the output results
 of machine learning, we can quickly make a simulation judgment on the
 modifications of IC topology or parameters, or optimize circuit designs. In addition,
@@ -10020,7 +10020,7 @@ personnel.
 
 === PAGE 218 ===
 BUSINESS
- Optimized IC simulation. By using our EDAsoftware, we divide the circuit layouts
+(cid:129) Optimized IC simulation. By using our EDAsoftware, we divide the circuit layouts
 into multiple sub-circuit modules and fit all or part of them through the fitting
 function to present the circuit characteristics of these sub-circuit modules. We then
 simulate the fitting functions corresponding to the sub-circuit modules without
@@ -10060,7 +10060,7 @@ BUSINESS
 Synergies of Our Analog IC Design Platform
 The unique features of our analog IC design platform have brought us the following
 synergies, empowering and maximizing our analog IC design capabilities:
- Co-optimization of EDA software and reusable IP modules. We have gained
+(cid:129) Co-optimization of EDA software and reusable IP modules. We have gained
 full-stack analog IC design capabilities with the assistance of our proprietary EDA
 software and reusable IP modules as foundational tools and technologies. Our EDA
 software supports graphical circuit design instead of plain text editing, and through
@@ -10079,7 +10079,7 @@ broadest range of industrial grade downstream applications among China’s analo
 IC design companies in term of application fields, according to Frost & Sullivan.As
 of the Latest Practicable Date, we successfully taped out more than 400 types of
 analog IC patterned wafers.
- Complementary IP library and analog IC design. Our extensive and compatible IP
+(cid:129) Complementary IP library and analog IC design. Our extensive and compatible IP
 library is adaptable to nine core processing technologies and is crucial and
 foundational to our design platform. During IC design, we design and optimize
 circuitlayoutsforspecificfunctionsandcategorizeandstorethemasmodules,basic
@@ -10090,7 +10090,7 @@ up of IP modules enables us to perform product design efficiently, and on the ot
 hand, modules for new functions developed in the design process of new products
 can be added to our IP library, which broadens our reusable IP library and further
 enhances our design efficiency.
- Performance modeling and system-level simulation. We feed circuit designs, which
+(cid:129) Performance modeling and system-level simulation. We feed circuit designs, which
 can consist of our multiple IP modules, into our EDA tools for system-level
 simulation and performance modeling. During the design, in order to optimize
 circuitperformance,differentIPmodulescanbereadilyretrievedfromtheIPlibrary
@@ -10126,16 +10126,16 @@ and compatible, our average design time for a new type of industrial grade analo
 was about 25% shorter than the industry average development cycle of 13-14 months in 2022.
 For details of our EDA software tools, IP modules and their advantages and synergies, see “–
 Our Analog IC Design Platform.”
- Design planning. At this stage, we analyze market trends, regulatory requirements
+(cid:129) Design planning. At this stage, we analyze market trends, regulatory requirements
 and competing products or products in related areas and formulate a preliminary
 product specification.We aim to address the needs of downstream customers as well
 as our own design initiatives, taking into consideration market opportunities and our
 market strategies.
- Design development. Upon completion of the new product design planning, we
+(cid:129) Design development. Upon completion of the new product design planning, we
 transform the product specification into engineering requirements, followed by
 developing and assembling hardware components in order to achieve the desired
 function and performance of the new product.
- Design verification. At this stage, we conduct several verification tests, covering
+(cid:129) Design verification. At this stage, we conduct several verification tests, covering
 functionality, stability and operability of the new product. The goal at this stage is
 to evaluate and confirm our initial design plan and to ensure the design satisfies the
 needs of downstream customers and conforms to our design initiatives.
@@ -10143,7 +10143,7 @@ needs of downstream customers and conforms to our design initiatives.
 
 === PAGE 221 ===
 BUSINESS
- Tape-out. After the planning, development and verification stages, we conduct
+(cid:129) Tape-out. After the planning, development and verification stages, we conduct
 tape-out for our products, which is the final stage in the whole IC design process
 before IC products are ready for mass production. If we detect any issues in the
 tape-out process, we will return to previous stages and fix the issues. Such process
@@ -10275,12 +10275,12 @@ requestsraisedbyoursalesandmarketingteamandR&Dteam,andliaisingwithoursuppliers,
 placing procurement orders and following up on deliveries.
 Our procurement process generally includes three phases, namely, formulation of
 procurement plan, manufacturing of products, and delivery and inspection.
- Formulation of procurement plan. In this stage, our sales and marketing team
+(cid:129) Formulation of procurement plan. In this stage, our sales and marketing team
 determines budget plans, and our R&D team forms tape-out plans, both of which are
 submitted to our procurement team for subsequent formulation of overall
 procurement plans. The procurement team then distributes the procurement plans to
 the sales and marketing team and R&D team for collaborative execution.
- Manufacturing of products. Following our procurement plans, we turn to our wafer
+(cid:129) Manufacturing of products. Following our procurement plans, we turn to our wafer
 channel partner for procurement of wafers which will be manufactured by
 third-party foundries. The wafers we procure have been built with our designed
 analog circuits.
@@ -10288,7 +10288,7 @@ analog circuits.
 
 === PAGE 224 ===
 BUSINESS
- Deliveryandinspection.Weusuallyrequestthemanufacturedpatternedwaferstobe
+(cid:129) Deliveryandinspection.Weusuallyrequestthemanufacturedpatternedwaferstobe
 delivered to our escrow warehouse located at the chip probing service provider’s
 plant,uponwhichwewillarrangeforsubsequentinspectionandchipprobingonthe
 delivered products.
@@ -10560,24 +10560,24 @@ Key Terms of Procurement Agreements with Supplier A
 We have entered into framework procurement agreements with Supplier A, which are
 subject to annual renewal. The key terms and conditions of our framework procurement
 agreements with Supplier A are summarized as follows:
- Procurement. We place work orders under the framework agreement. A work order
+(cid:129) Procurement. We place work orders under the framework agreement. A work order
 primarily includes unit price, quantity of units, purchase amount, delivery of
 products and settlement of payment. Supplier A does not impose requirement of
 minimum purchase amount on us.
- Product return. Not specified. During the Track Record Period and up to the Latest
+(cid:129) Product return. Not specified. During the Track Record Period and up to the Latest
 PracticableDate,therehavebeennomaterialclaimsbetweenSupplierAanduswith
 respect to product return and refund.
- Confidentiality. Each party shall keep confidential the trade secrets, technologies
+(cid:129) Confidentiality. Each party shall keep confidential the trade secrets, technologies
 and proprietary rights of the other party until five years after the termination or
 expiration of the agreement, unless otherwise required by laws and regulations, in
 which case a prior notification shall be provided to the other party.
- Renewal and termination. Each of the framework agreements is effective for one
+(cid:129) Renewal and termination. Each of the framework agreements is effective for one
 year and will be automatically renewed for another one year, unless either party
 intendstoterminatebygivingtwomonths’priorwrittennoticebeforetheagreement
 expires. The framework procurement agreement may be terminated (i) upon mutual
 consent of both parties; (ii) in the event of a force majeure; and (iii) by the
 non-defaulting party in the event of a material breach.
- Dispute resolution. In the event of any dispute related to the enforcement of any
+(cid:129) Dispute resolution. In the event of any dispute related to the enforcement of any
 agreement during our agreement term, both parties shall negotiate amicably. If an
 agreement cannot be reached, the parties have the right to sue.
 Notes:
@@ -11022,14 +11022,14 @@ material claims from or against Customer A or Arrow.
 Key Terms of Distribution Agreements with Arrow
 We have entered into framework distribution agreements with Arrow. The key terms and
 conditions of our framework distribution agreements with Arrow are summarized as follows:
- Purchases.Thepurchaseamountisspecifiedinpurchaseorders.Wetypicallydonot
+(cid:129) Purchases.Thepurchaseamountisspecifiedinpurchaseorders.Wetypicallydonot
 impose requirement of minimum purchase amount on Arrow.
- Selling prices. The prices of our products are set forth in our price list in effect as
+(cid:129) Selling prices. The prices of our products are set forth in our price list in effect as
 of the date of the agreements. We shall notify Arrow of any change in the prices at
 least 30 days prior such change. In the event of a price increase, Arrow may order
 products and request delivery at the prior price before the new price becomes
 effective.
- Obligations of each party. We deliver the goods in the manner agreed upon in each
+(cid:129) Obligations of each party. We deliver the goods in the manner agreed upon in each
 purchase order, and furnish them with the current price and product information.We
 ensure that the products fully comply with all applicable laws, standards, codes, and
 regulations, are duly marked and labeled and are suitable for distribution. Arrow
@@ -11037,7 +11037,7 @@ uses its best efforts to promote the distribution of our products, provides time
 delivery of products to its customers and participates in such training programs as
 may be offered by us. Arrow is obligated to inspect the materials upon the arrival
 of the products at the warehouse or designated location.
- Risk allocation. Control of the products shall be passed toArrow in accordance with
+(cid:129) Risk allocation. Control of the products shall be passed toArrow in accordance with
 its shipping term, which is Delivered-at-Place (DAP) (Incoterms 2010) at Arrow’s
 designatedplace.OnceourproductsreachArrow’sdesignatedplace,Arrowassumes
 control of these products. The risk of damage to, or loss of, the products shall be
@@ -11046,71 +11046,71 @@ borne by Arrow upon receipt of the products.
 
 === PAGE 241 ===
 BUSINESS
-
+(cid:129) Product return. Not specified during the duration of the agreements, except that (i)
 Arrow may negotiate with us on return of defective products according to relevant
 laws and regulations, the issues of which are confirmed to have arisen from our
 reasons, and (ii) in the event of our termination of the agreements, we shall assist
 Arrow in handling the unsold products, and shall repurchase these unsold products
 at the price paid therefor byArrow or arrange other distributors to purchase if such
 unsold products remain with Arrow for more than 90 days.
- Warranty and indemnification. Our products are covered by our standard warranty,
+(cid:129) Warranty and indemnification. Our products are covered by our standard warranty,
 which extends directly to Arrow’s customer as if it had purchased our products
 directly from us. The warranty period lasts one year commencing upon Arrow’s
 shipment to its own customer. Arrow may negotiate with us on indemnification of
 defective products according to relevant laws and regulations, the issues of which
 are confirmed to have arisen from our reasons.
- Appointment of sub-distributors. Not specified.
- Confidentiality. Each party shall keep confidential the trade secrets, technologies
+(cid:129) Appointment of sub-distributors. Not specified.
+(cid:129) Confidentiality. Each party shall keep confidential the trade secrets, technologies
 and proprietary rights of the other party, unless otherwise required by laws and
 regulations.
- Renewal and termination. Each of our framework agreements with Arrow remains
+(cid:129) Renewal and termination. Each of our framework agreements with Arrow remains
 effective, unless either party intends to terminate. The framework distribution
 agreement may be terminated (i) upon mutual consent of both parties; (ii) in the
 event of a force majeure; and (iii) by the non-defaulting party in the event of a
 material breach.
- Dispute resolution. In the event of any dispute related to the enforcement of any
+(cid:129) Dispute resolution. In the event of any dispute related to the enforcement of any
 agreementduringthetermoftheframeworkagreements,bothpartiesshallnegotiate
 amicably. If an agreement cannot be reached, the parties have the right to sue.
 Key Terms of Distribution Agreements with Customer A
 We have entered into framework distribution agreements with CustomerA.The key terms
 and conditions of our framework distribution agreements with Customer A are summarized as
 follows:
- Purchases.Thepurchaseamountisspecifiedinpurchaseorders.Wetypicallydonot
+(cid:129) Purchases.Thepurchaseamountisspecifiedinpurchaseorders.Wetypicallydonot
 impose requirement of minimum purchase amount on Customer A.
- Selling prices. The prices of our products are set forth in our price list in effect as
+(cid:129) Selling prices. The prices of our products are set forth in our price list in effect as
 of the date of the agreements.
 – 230 –
 
 === PAGE 242 ===
 BUSINESS
- Obligations of each party. We deliver the goods in the manner agreed upon in each
+(cid:129) Obligations of each party. We deliver the goods in the manner agreed upon in each
 purchase order, and furnish them with the current price and product information.We
 ensure that the products fully comply with all applicable laws, standards, codes, and
 regulations, are duly marked and labeled and are suitable for distribution. Customer
 A uses its best efforts to promote the distribution of our products and provides
 timely delivery of products to its customers. Customer A is obligated to inspect the
 materials upon the arrival of the products at the warehouse or designated location.
- Risk allocation. Control of the products shall be passed to Customer A upon its
+(cid:129) Risk allocation. Control of the products shall be passed to Customer A upon its
 issuance of a signed receipt of the products to us. The risk of damage to, or loss of,
 the products shall be borne by Customer A upon receipt of the proof of delivery.
- Product return. Not specified, except that Customer A may negotiate with us on
+(cid:129) Product return. Not specified, except that Customer A may negotiate with us on
 return of defective products according to relevant laws and regulations, the issues of
 which are confirmed to have arisen from our reasons.
- Warranty and indemnification. Warranty term is not specified in the agreements.
+(cid:129) Warranty and indemnification. Warranty term is not specified in the agreements.
 Customer A may negotiate with us on indemnification of defective products
 according to relevant laws and regulations, the issues of which are confirmed to
 have arisen from our reasons.
- Appointment of sub-distributors. Not specified.
- Confidentiality. Each party shall keep confidential the trade secrets, technologies
+(cid:129) Appointment of sub-distributors. Not specified.
+(cid:129) Confidentiality. Each party shall keep confidential the trade secrets, technologies
 and proprietary rights of the other party, unless otherwise required by laws and
 regulations.
- Renewal and termination. Each of our framework agreements with Customer A
+(cid:129) Renewal and termination. Each of our framework agreements with Customer A
 remains effective for one year and will be automatically renewed for another one
 year, unless either party intends to terminate by giving two months’ prior written
 notice before the agreement expires. The framework distribution agreement may be
 terminated (i) upon mutual consent of both parties; (ii) in the event of a force
 majeure; and (iii) by the non-defaulting party in the event of a material breach.
- Dispute resolution. In the event of any dispute related to the enforcement of any
+(cid:129) Dispute resolution. In the event of any dispute related to the enforcement of any
 agreementduringthetermoftheframeworkagreements,bothpartiesshallnegotiate
 amicably. If an agreement cannot be reached, the parties have the right to sue.
 QUALITY MANAGEMENT
@@ -11724,14 +11724,14 @@ policies in place to select and continuously evaluate the foundries and ensure c
 the relevant requirements.
 The following sets out our selection criteria of new foundries and evaluation of selected
 foundries:
- New foundries. We select the foundries according to their processing technologies
+(cid:129) New foundries. We select the foundries according to their processing technologies
 and compatibility to our products. We also take into consideration additional
 criteria, including among others, (i) relevant production qualifications of the
 foundries, (ii) product quality, (iii) corporate reputation, (iv) compliance with
 environmental protection requirements and (v) corporate social responsibility. Our
 personnel in charge of business operations will evaluate these key criteria and make
 the decision for approval of new foundries.
- Selected foundries. We evaluate the selected foundries periodically to ensure that
+(cid:129) Selected foundries. We evaluate the selected foundries periodically to ensure that
 they are in continuous compliance with our internal control requirements and
 provide qualified supplies in a timely manner. Our evaluation mainly covers (i) the
 overall product quality rate, (ii) the number of quality issues arising from foundries,
@@ -13806,10 +13806,10 @@ a PRC state-owned enterprise established in 1979 and headquartered in Anhui prim
 engaging in R&D and manufacturing of microelectronic devices (the “Counterparty”), in
 accordance with its design and testing requirements.
 The salient terms of the entrusted R&D agreements are set out below:
- Termination. Either party has right to terminate the agreement upon mutual consent,
+(cid:129) Termination. Either party has right to terminate the agreement upon mutual consent,
 or upon the occurrence of technical risks and force majeure which renders the
 performance of the agreement impossible.
- designing,
+(cid:129) Parties’ obligations. We are responsible for, among others, (i) designing,
 researching and developing a DC-DC switching regulator product according to
 specifications and requirements stipulated in the agreement; (ii) delivering to the
 Counterparty all related materials, including graphics, reports and other documents,
@@ -13823,7 +13823,7 @@ in the agreement.
 
 === PAGE 311 ===
 FINANCIAL INFORMATION
- Upfront and Milestone Payments. The total consideration of these agreements (i.e.
+(cid:129) Upfront and Milestone Payments. The total consideration of these agreements (i.e.
 the total amount of the R&D service income for the years ended December 31, 2021
 and 2022) amounted to RMB6.8 million and is payable to us (i) in full within 15
 days after entering into agreement, or (ii) in four installments. Within 15 days after
@@ -13835,10 +13835,10 @@ product passes the testing by a designated testing agency. The amount of the tot
 consideration and the schedule of payment installments were negotiated on an arm’s
 length basis and have taken into account our R&D costs including primarily labor
 costs, tape-out costs and chip probing costs, and a reasonable level of profit.
- Confidentiality. Each party of the agreement shall keep confidential the materials
+(cid:129) Confidentiality. Each party of the agreement shall keep confidential the materials
 such as technical resolutions, software and design methods, as well as trade secrets
 and other confidential information within a specified period.
- Intellectual Property. The technical achievements and related IP rights arising from
+(cid:129) Intellectual Property. The technical achievements and related IP rights arising from
 the performance of the agreement are shared by both parties, and neither party shall
 transfer or license them to any other third party without the written consent of the
 other party.After fulfilling our R&D obligations in accordance with the agreement,
@@ -14063,7 +14063,7 @@ Revenue
 Our revenue increased by 26.1% from RMB162.1 million for the six months ended June
 30, 2022 to RMB204.4 million for the six months ended June 30, 2023 due to increases in sales
 of power management products.
- Power management products. Our revenue generated from sales of power
+(cid:129) Power management products. Our revenue generated from sales of power
 management products increased by 34.8% from RMB133.2 million for the six
 monthsendedJune30,2022toRMB179.6millionforthesixmonthsendedJune30,
 2023. Such increase was primarily due to (i) an increase in our sales volume of
@@ -14097,7 +14097,7 @@ multi-channel ICs and PMICs from RMB44.0 for the six months ended June 30,
 
 === PAGE 318 ===
 FINANCIAL INFORMATION
- Signal chain products. Our revenue generated from sales of signal chain products
+(cid:129) Signal chain products. Our revenue generated from sales of signal chain products
 decreased by 13.9% from RMB28.8 million for the six months ended June 30, 2022
 to RMB24.8 million for the six months ended June 30, 2023. Such decrease was
 primarily due to a decrease in average selling price of linear products from RMB4.2
@@ -14111,7 +14111,7 @@ Cost of Sales
 Our cost of sales increased by 32.7% from RMB69.0 million for the six months ended
 June 30, 2022 to RMB91.5 million for the six months ended June 30, 2023. The increase of
 costs of sales was mainly attributable to an increase in material costs.
- Power management products. Our cost of sales of power management products
+(cid:129) Power management products. Our cost of sales of power management products
 increased by 41.3% from RMB57.9 million for the six months ended June 30, 2022
 to RMB81.8 million for the six months ended June 30, 2023, primarily due to (i) an
 increase in cost of sales of switching regulators by 4.0% from RMB30.4 million for
@@ -14126,7 +14126,7 @@ management products by 9.8% from RMB6.5 million for the six months ended June
 to an increase in cost of sales of linear regulators and monitoring and modulating
 ICs due to the increased sales volume of linear regulators and monitoring and
 modulating ICs.
- Signalchainproducts.Ourcostofsalesofsignalchainproductsdecreasedby12.3%
+(cid:129) Signalchainproducts.Ourcostofsalesofsignalchainproductsdecreasedby12.3%
 from RMB11.1 million for the six months ended June 30, 2022 to RMB9.8 million
 for the six months ended June 30, 2023, which was in line with the revenue growth
 in signal chain segment.
@@ -14143,7 +14143,7 @@ gross profit and gross profit margin.
 
 === PAGE 319 ===
 FINANCIAL INFORMATION
- Power management products. Our gross profit of sales of power management
+(cid:129) Power management products. Our gross profit of sales of power management
 products increased from RMB75.4 million for the six months ended June 30, 2022
 toRMB97.8millionforthesixmonthsendedJune30,2023.Thegrossprofitmargin
 of sales of power management products decreased from 56.6% for the six months
@@ -14168,7 +14168,7 @@ margin. Our gross profit margin of sales of other power management products
 decreased from 65.5% for the six months ended June 30, 2022 to 62.0% for the six
 monthsendedJune30,2023,whichweremainlyaffectedbythegrossprofitmargins
 of new types of products.
- Signal chain products. Our gross profit of sales of signal chain products decreased
+(cid:129) Signal chain products. Our gross profit of sales of signal chain products decreased
 from RMB17.7 million for the six months ended June 30, 2022 to RMB15.1 million
 for the six months ended June 30, 2023. The gross profit margin of sales of signal
 chain products decreased from 61.4% for the six months ended June 30, 2022 to
@@ -14244,7 +14244,7 @@ Year Ended December 31, 2022 Compared to Year Ended December 31, 2021
 Revenue
 Our revenue increased by 65.7% from RMB212.7 million in 2021 to RMB352.5 million
 in 2022 due to increases in sales of power management products and signal chain products.
- Power management products. Our revenue generated from sales of power
+(cid:129) Power management products. Our revenue generated from sales of power
 management products increased by 52.8% from RMB192.9 million in 2021 to
 RMB294.8 million in 2022. Such increase was primarily due to an increase in our
 sales volume of power management products from 34.2 million units in 2021 to 72.9
@@ -14273,7 +14273,7 @@ Ourrevenuegeneratedfromsalesofotherpowermanagementproductsincreasedby
 160.6% from RMB13.6 million in 2021 to RMB35.5 million in 2022, primarily due
 toanincreaseinrevenuegeneratedfromsalesofmonitoringandmodulatingICsand
 linear regulators.
- Signal chain products. Our revenue generated from sales of signal chain products
+(cid:129) Signal chain products. Our revenue generated from sales of signal chain products
 increased by 191.3% from RMB19.8 million in 2021 to RMB57.7 million in 2022.
 Such increase was primarily due to an increase in our sales volume of signal chain
 products from 3.2 million units in 2021 to 14.6 million units in 2022, which was
@@ -14285,7 +14285,7 @@ Our cost of sales increased by 65.2% from RMB92.7 million in 2021 to RMB153.2
 million in 2022, which was generally in line with our revenue growth. The increase of costs
 of sales was mainly attributable to an increase in material costs which was in line with our
 revenue growth.
- Power management products. Our cost of sales of power management products
+(cid:129) Power management products. Our cost of sales of power management products
 increased by 51.7% from RMB86.4 million in 2021 to RMB131.1 million in 2022,
 primarily due to (i) an increase in cost of sales of switching regulators by 72.5%
 from RMB34.4 million in 2021 to RMB59.3 million in 2022, primarily due to an
@@ -14296,7 +14296,7 @@ multi-channel ICs and PMICs; and (iii) an increase in cost of sales of other pow
 managementproductsby175.4%fromRMB4.7millionin2021toRMB12.9million
 in 2022, primarily due to an increase in cost of sales of monitoring and modulating
 ICs due to the increased sales volume of monitoring and modulating ICs.
- Signal chain products. Our cost of sales of signal chain products increased by
+(cid:129) Signal chain products. Our cost of sales of signal chain products increased by
 251.7% from RMB6.3 million in 2021 to RMB22.1 million in 2022, primarily due
 to the increased sales volume of linear products with higher unit costs.
 – 311 –
@@ -14309,7 +14309,7 @@ in 2021 to RMB199.3 million in 2022. Our gross profit margin remained stable at 
 2021 and 56.5% in 2022. See “– Description of Major Components of Our Results of
 Operations – Gross Profit and Gross Profit Margin” in this section for more details of our gross
 profit and gross profit margin.
- Power management products. Our gross profit of sales of power management
+(cid:129) Power management products. Our gross profit of sales of power management
 products increased from RMB106.5 million in 2021 to RMB163.7 million in 2022.
 The gross profit margin of sales of power management products remained relatively
 stable at 55.2% in 2021 and 55.5% in 2022.
@@ -14325,7 +14325,7 @@ Multi-channel ICs and PMICs that had lower than average gross profit margin. Our
 gross profit margin of sales of other power management products decreased from
 65.6% in 2021 to 63.6% in 2022, which were mainly affected by the gross profit
 margins of new types of products.
- Signal chain products. Our gross profit of sales of signal chain products increased
+(cid:129) Signal chain products. Our gross profit of sales of signal chain products increased
 from RMB13.5 million in 2021 to RMB35.7 million in 2022. The gross profit
 margin of sales of signal chain products decreased from 68.3% in 2021 to 61.8% in
 2022, primarily due to the new types of signal chain products we offered to meet our
@@ -14395,7 +14395,7 @@ Year Ended December 31, 2021 Compared to Year Ended December 31, 2020
 Revenue
 Our revenue increased by 139.8% from RMB88.7 million in 2020 to RMB212.7 million
 in 2021 due to increases in sales of power management products and signal chain products.
- Power management products. Our revenue generated from sales of power
+(cid:129) Power management products. Our revenue generated from sales of power
 management products increased by 121.5% from RMB87.1 million in 2020 to
 RMB192.9millionin2021.Suchincreasewasprimarilydueto(i)anincreaseinour
 sales volume of power management products from 17.0 million units in 2020 to 34.2
@@ -14423,7 +14423,7 @@ FINANCIAL INFORMATION
 Our revenue generated from sales of other power management products decreased
 by 4.5% from RMB14.3 million in 2020 to RMB13.6 million in 2021, primarily due
 to a decrease in revenue generated from sales of linear regulators.
- Signal chain products. Our revenue generated from sales of signal chain products
+(cid:129) Signal chain products. Our revenue generated from sales of signal chain products
 increased by 1,104.4% from RMB1.6 million in 2020 to RMB19.8 million in 2021.
 Such increase was primarily due to an increase in our sales volume of signal chain
 products from 0.2 million units in 2020 to 3.2 million units in 2021, which was
@@ -14434,7 +14434,7 @@ Cost of Sales
 Our cost of sales increased by 131.9% from RMB40.0 million in 2020 to RMB92.7
 millionin2021.Theincreaseofcostsofsaleswasmainlyattributabletoanincreaseinmaterial
 costs which was in line with our revenue growth.
- Power management products. Our cost of sales of power management products
+(cid:129) Power management products. Our cost of sales of power management products
 increased by 117.1% from RMB39.8 million in 2020 to RMB86.4 million in 2021,
 primarily due to (i) an increase in cost of sales of switching regulators by 269.2%
 from RMB9.3 million in 2020 to RMB34.4 million in 2021, primarily due to the
@@ -14447,7 +14447,7 @@ PMICs; and (iii) an increase in cost of sales of other power management products
 by 11.5% from RMB4.2 million in 2020 to RMB4.7 million in 2021, primarily due
 to an increase in cost of sales of monitoring and modulating ICs due to the increased
 sales volume of monitoring and modulating ICs.
- Signal chain products. Our cost of sales of signal chain products increased from
+(cid:129) Signal chain products. Our cost of sales of signal chain products increased from
 RMB0.2 million in 2020 to RMB6.3 million in 2021, primarily due to the 22 new
 types of linear products we sold in 2021 with higher unit costs compared with the
 one linear product we sold in 2020.
@@ -14462,7 +14462,7 @@ section for more details of our gross profit and gross profit margin.
 
 === PAGE 327 ===
 FINANCIAL INFORMATION
- Power management products. Our gross profit of sales of power management
+(cid:129) Power management products. Our gross profit of sales of power management
 products increased from RMB47.3 million in 2020 to RMB106.5 million in 2021.
 Our gross profit margin of sales of power management products increased slightly
 from 54.3% in 2020 to 55.2% in 2021, primarily due to an increase in revenue
@@ -14475,7 +14475,7 @@ margin. Our gross profit margin of sales of multi-channel ICs and PMICs remained
 stable at 40.7% in 2020 and 40.6% in 2021. Our gross profit margin of sales of other
 powermanagementproductsdecreasedfrom70.5%in2020to65.6%in2021,which
 were mainly affected by the gross profit margins of new types of products.
- Signal chain products. Our gross profit of sales of signal chain products increased
+(cid:129) Signal chain products. Our gross profit of sales of signal chain products increased
 from RMB1.5 million in 2020 to RMB13.5 million in 2021. The gross profit margin
 of sales of signal chain products decreased from 90.7% in 2020 to 68.3% in 2021,
 primarily due to our concentrated sales of one type of industrial grade signal chain
@@ -15125,20 +15125,20 @@ June 30, 2023 upon maturity. We have established a set of investment policies an
 control measures to achieve reasonable returns on our investments of wealth management
 products while mitigating our exposure to investment risks. These policies and measures
 include:
- investments shall be made when we have idle funds and not interfere with our
+(cid:129) investments shall be made when we have idle funds and not interfere with our
 normal business activities or capital expenditures;
- investments shall generally be short-term in order to maintain our liquidity and
+(cid:129) investments shall generally be short-term in order to maintain our liquidity and
 financial flexibility;
 – 331 –
 
 === PAGE 343 ===
 FINANCIAL INFORMATION
- we only purchase low-risk wealth management products issued by reputable
+(cid:129) we only purchase low-risk wealth management products issued by reputable
 commercial banks and/or other qualified financial institutions;
- investments exceeding certain thresholds must be approved by our Shareholders or
+(cid:129) investments exceeding certain thresholds must be approved by our Shareholders or
 the Board in accordance with relevant laws and regulations and our Articles of
 Association; and
- our finance department, subject to the review and approval of our management, is
+(cid:129) our finance department, subject to the review and approval of our management, is
 responsible for the overall execution of our investments, including risk assessment.
 We have categorized our financial instruments into the three-level fair value hierarchy as
 defined in HKFRS 13, Fair value measurement. The fair value of our investments in Level 2
@@ -15661,7 +15661,7 @@ estimated offering expenses payable by us in connection with the Global Offering
 that an Offer Price of HK$32.96 per Share (being the mid-point of the indicative Offer Price
 range stated in this prospectus) and assuming that the Over-allotment Option is not exercised.
 We intend to use the net proceeds as follows:
- Approximately 30%, or HK$128.8 million, is expected to be used for enhancing our
+(cid:129) Approximately 30%, or HK$128.8 million, is expected to be used for enhancing our
 R&D and innovation capabilities, including:
 i. approximately 20%, or HK$85.8 million, is expected to be used to invest in
 R&D infrastructure and upgrade our R&D center. Specifically, we plan to (i)
@@ -15701,7 +15701,7 @@ R&D team to support our R&D center upgrade and increase our competitive
 advantagesintheindustry.Weplantorecruitapproximately20R&Dstaffwith
 around three years of work experience in the IC industry in the next five years
 with average annual salary per employee of approximately RMB279,000.
- Approximately 30%, or HK$128.9 million, is expected to be used to further enrich
+(cid:129) Approximately 30%, or HK$128.9 million, is expected to be used to further enrich
 our product portfolio and expand our business, including:
 i. approximately20%,orHK$85.9million,isexpectedtobeusedtoimproveand
 upgrade our analog IC product line. We plan to purchase around 430 items
@@ -15811,7 +15811,7 @@ precision and high-reliability, and had built up a broad product portfolio that
 can meet the demands of different customers. As such, this enables us to
 develop MCUs with better product precision, reliability and adaptability, as
 well as customer experience.
- Approximately 10%, or HK$42.9 million, is expected to be used to expand our
+(cid:129) Approximately 10%, or HK$42.9 million, is expected to be used to expand our
 customer base and strengthen our relationship with customers, including:
 i. approximately 5%, or HK$21.5 million, is expected to be used to establish two
 sales centers in the pearl river delta region and central China, potentially in
@@ -15880,7 +15880,7 @@ including distributors and direct sale customers.
 
 === PAGE 362 ===
 FUTURE PLANS AND USE OF PROCEEDS
- Approximately 20%, or HK$85.8 million, is expected to be used for strategic
+(cid:129) Approximately 20%, or HK$85.8 million, is expected to be used for strategic
 investments and/or acquisition to achieve our long-term growth strategies. We seek
 potential investment and acquisition opportunities in China’s semiconductor
 industry chain and select potential targets based on the following general selection
@@ -15905,7 +15905,7 @@ above 200 potential targets that meet the above criteria in China’s semiconduc
 industry. As of the Latest Practicable Date, we had not identified or pursued any
 acquisition target. If necessary, we will seek for additional equity and/or debt
 funding to facilitate the acquisition.
- Approximately 10%, or HK$42.8 million, is expected to be used for working capital
+(cid:129) Approximately 10%, or HK$42.8 million, is expected to be used for working capital
 and general corporate purposes.
 The table below sets forth the expected implementation timetable of our planned use of
 our proceeds:
@@ -16966,13 +16966,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
- are 18 years of age or older; and
-.
+(cid:129) are 18 years of age or older; and
+(cid:129) have a Hong Kong address (for the White Form eIPO service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the
 person(s) for whose benefit you are applying for:
- are an existing Shareholder or close associates; or
- are a Director or a Supervisor or chief executive of our Company or any of his/her
+(cid:129) are an existing Shareholder or close associates; or
+(cid:129) are a Director or a Supervisor or chief executive of our Company or any of his/her
 close associates.
 – 379 –
 
@@ -17053,20 +17053,20 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual/Joint Applicants For Corporate Applicants
-▪ Full name(s)2 as shown on your 2 as shown on your
+▪ Full name(s)2 as shown on your (cid:129) Full name(s)2 as shown on your
 identity document identity document
- Identity document’s issuing country
+(cid:129) Identity document’s issuing country (cid:129) Identity document’s issuing country
 or jurisdiction or jurisdiction
- Identity document type, with order
+(cid:129) Identity document type, with order (cid:129) Identity document type, with order
 of priority: of priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification document; ii. Certificate of incorporation; or
 or
 iii. Business registration
 iii. Passport; and certificate; or
- Identity document number iv. Other equivalent document;
+(cid:129) Identity document number iv. Other equivalent document;
 and
- Identity document number
+(cid:129) Identity document number
 Notes:
 1. If you are applying through the White Form eIPO service, you are required to provide a valid e-mail
 address,acontacttelephonenumberandaHongKongAddress.Youarealsorequiredtodeclarethatthe
@@ -17100,9 +17100,9 @@ above.
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
- control the composition of the board of directors of our company;
- control more than half of the voting power of our company; or
- holdmorethanhalfoftheissuedsharecapitalofourcompany(notcountinganypartofitwhich
+(cid:129) control the composition of the board of directors of our company;
+(cid:129) control more than half of the voting power of our company; or
+(cid:129) holdmorethanhalfoftheissuedsharecapitalofourcompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -17350,21 +17350,21 @@ application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the Shares either:
- within three weeks from the closing date of the application lists; or
- within a longer period of up to six weeks if the Stock Exchange notifies us of that
+(cid:129) within three weeks from the closing date of the application lists; or
+(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
- you make multiple applications or suspected multiple applications.You may refer to
+(cid:129) you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “– A. Application for Hong Kong Offer Shares – 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
- your application instruction is incomplete;
- is not made correctly;
+(cid:129) your application instruction is incomplete;
+(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
 – 389 –
 
 === PAGE 401 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
- the Underwriting Agreements do not become unconditional or are terminated;
- we or the Sole Overall Coordinator believe that by accepting your application, it or
+(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
+(cid:129) we or the Sole Overall Coordinator believe that by accepting your application, it or
 we would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -17474,9 +17474,9 @@ E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Thursday, December 21, 2023 if, there
 is/are:
- a tropical cyclone warning signal number 8 or above;
- a black rainstorm warning; and/or
- Extreme Conditions,
+(cid:129) a tropical cyclone warning signal number 8 or above;
+(cid:129) a black rainstorm warning; and/or
+(cid:129) Extreme Conditions,
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Thursday, December
 21, 2023.
@@ -17497,12 +17497,12 @@ Registrar will make appropriate arrangements for the delivery of the share certi
 CCASS Depository’s service counter so that they would be available for trading on Thursday,
 December 28, 2023.
 If a Severe Weather Signal is hoisted on Wednesday, December 27, 2023:
- forphysicalHsharecertificatesoflessthan500,000HongKongOfferSharesissued
+(cid:129) forphysicalHsharecertificatesoflessthan500,000HongKongOfferSharesissued
 under your own name, despatch will be made by ordinary post when the post office
 re-opens after the Severe Weather Signal is lowered or cancelled (e.g. in the
 afternoon of Wednesday, December 27, 2023 or on Thursday, December 28, 2023).
 If a Severe Weather Signal is hoisted on Thursday, December 28, 2023:
- for physical H share certificates of 500,000 or more Hong Kong Offer Shares issued
+(cid:129) for physical H share certificates of 500,000 or more Hong Kong Offer Shares issued
 under your own name, you may pick them up from the H Share Registrar’s office
 after the Severe Weather Signal is lowered or cancelled (e.g. in the afternoon of
 Thursday, December 28, 2023 or on Friday, December 29, 2023).
@@ -17559,23 +17559,23 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
- processing your application and refund cheque and White Form e-Refund payment
+(cid:129) processing your application and refund cheque and White Form e-Refund payment
 instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of
 allocation of Hong Kong Offer Shares;
- compliance with applicable laws and regulations in Hong Kong and elsewhere;
- registering new issues or transfers into or out of the names of the holders of the
+(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+(cid:129) registering new issues or transfers into or out of the names of the holders of the
 Shares including, where applicable, HKSCC Nominees;
- maintaining or updating the register of members of our Company;
- verifying identities of applicants for and holders of the Shares and identifying any
+(cid:129) maintaining or updating the register of members of our Company;
+(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
- facilitating Hong Kong Offer Shares balloting;
- establishing benefit entitlements of holders of the Shares, such as dividends, rights
+(cid:129) facilitating Hong Kong Offer Shares balloting;
+(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
- distributing communications from our Company;
- compiling statistical information and profiles of the holder of the Shares;
- disclosing relevant information to facilitate claims on entitlements; and
- anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenableour
+(cid:129) distributing communications from our Company;
+(cid:129) compiling statistical information and profiles of the holder of the Shares;
+(cid:129) disclosing relevant information to facilitate claims on entitlements; and
+(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenableour
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the Shares and/or regulators and/or any other purposes to which
 applicants and holders of the Shares may from time to time agree.
@@ -17589,21 +17589,21 @@ for and holders of Hong Kong Offer Shares will be kept confidential but our Comp
 H Share Registrar may, to the extent necessary for achieving any of the above purposes,
 disclose, obtain or transfer (whether within or outside Hong Kong) the personal data to, from
 or with any of the following:
- our Company’s appointed agents such as financial advisers, receiving banks and
+(cid:129) our Company’s appointed agents such as financial advisers, receiving banks and
 overseas principal share registrar;
- HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and
 operating FINI and CCASS (including where applicants for the Hong Kong Offer
 Shares request a deposit into CCASS);
- any agents, contractors or third-party service providers who offer administrative,
+(cid:129) any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to our Company or the H
 Share Registrar in connection with their respective business operation;
- the Stock Exchange, the SFC and any other statutory regulatory or governmental
+(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
- any persons or institutions with which the holders of Hong Kong Offer Shares have
+(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of personal data
@@ -20037,8 +20037,8 @@ performing procedures to assess whether the applicable criteria used by the Dire
 compilation of the pro forma financial information provide a reasonable basis for presenting
 the significant effects directly attributable to the event or transaction, and to obtain sufficient
 appropriate evidence about whether:
- the related pro forma adjustments give appropriate effect to those criteria; and
- the pro forma financial information reflects the proper application of those
+(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
+(cid:129) the pro forma financial information reflects the proper application of those
 adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgement, having regard
 to the reporting accountants’ understanding of the nature of the Company, the event or

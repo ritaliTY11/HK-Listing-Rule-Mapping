@@ -187,13 +187,13 @@ EXPECTED TIMETABLE(1)
 The results of allocations in the Hong Kong Public Offering (with successful applicants’
 identification document numbers, where appropriate) to be available through a variety of
 channels, including:
- in the announcement to be posted on our
+(cid:129) in the announcement to be posted on our
 website and the website of the Stock Exchange
 at www.haizhi.com(5) and www.hkexnews.hk,
 respectively . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .no later than 11:00 p.m. on
 Thursday,
 February 12, 2026
- in the designated results of allocations
+(cid:129) in the designated results of allocations
 website at www.iporesults.com.hk
 (alternatively: www.eipo.com.hk/
 eIPOAllotment) with a “search by
@@ -201,7 +201,7 @@ ID” function from. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 February 12, 2026
 12:00 midnight on Wednesday,
 February 18, 2026
- from the allocation results telephone enquiry
+(cid:129) from the allocation results telephone enquiry
 line by calling +852 2862 8555
 between 9:00 a.m. and 6:00 p.m. on . . . . . . . . . . . . . . Friday, February 13, 2026,
 Monday, February 16, 2026,
@@ -381,14 +381,14 @@ enterprisestoachieveintelligentautomation,scenario-specificreasoning,andnaturall
 interaction by combining the reasoning capabilities of LLMs with the accuracy and
 interpretability of knowledge graphs. The following illustrates the typical use cases of our
 solutions respectively:
- DMC intelligent data platform: Enabled a provincial Market Supervision and
+(cid:129) DMC intelligent data platform: Enabled a provincial Market Supervision and
 Administration in China to integrate data from diverse sources with different
 structures, achieving unified data management and improved regulatory efficiency.
- Atlas knowledge graph platform: Empowered a Shenzhen-based financial
+(cid:129) Atlas knowledge graph platform: Empowered a Shenzhen-based financial
 institutiontobuildknowledgegraphsbasedonusers,entitiesandtheirrelationships,
 allowing automatic detection of fraudulent loan applications and complex fraud
 rings through preconfigured rules.
- AtlasGraph graph database: Supported a Beijing-based telecommunication
+(cid:129) AtlasGraph graph database: Supported a Beijing-based telecommunication
 operator in storing and computing graph data, providing a solid foundation for
 identifying suspicious patterns and precisely locating phone numbers potentially
 involved in telecom fraud.
@@ -396,7 +396,7 @@ involved in telecom fraud.
 
 === PAGE 12 ===
 SUMMARY
- Atlas AI Agent: Delivered to a municipal government body a customized agent
+(cid:129) Atlas AI Agent: Delivered to a municipal government body a customized agent
 capable of multiround interaction, deep reasoning and dynamic integration with
 knowledge graphs, autonomously orchestrating multiple LLMs and APIs to handle
 multimodal inputs, enabling data search and data lineage tracking for enhanced data
@@ -560,21 +560,21 @@ SUMMARY
 OUR STRENGTHS
 We believe that the following strengths contribute to our leading market position,
 ensuring our success and distinguishing us from our competitors:
- A pioneer in exploring industry-level AI applications based on knowledge graphs
+(cid:129) A pioneer in exploring industry-level AI applications based on knowledge graphs
 and a forerunner in graph-LLM integration;
- Industry-leading graph-LLM integration platform;
- Full-stack solution offerings built on Atlas AI agent and Atlas graph solutions;
- Powerful business expansion capability underpinned by our in-depth understanding
+(cid:129) Industry-leading graph-LLM integration platform;
+(cid:129) Full-stack solution offerings built on Atlas AI agent and Atlas graph solutions;
+(cid:129) Powerful business expansion capability underpinned by our in-depth understanding
 of customer needs and application scenarios; and
- Visionary management team and talented employees.
+(cid:129) Visionary management team and talented employees.
 See “Business — Our Strengths.”
 OUR STRATEGIES
 We plan to implement the following strategies to achieve our mission:
- Continue to deepen the integration of knowledge graphs and LLMs and enhance our
+(cid:129) Continue to deepen the integration of knowledge graphs and LLMs and enhance our
 engineering capabilities;
- Continue to expand and optimize our solution portfolio;
- Continue to expand our customer base and explore overseas markets; and
- Pursue strategic mergers and acquisitions;
+(cid:129) Continue to expand and optimize our solution portfolio;
+(cid:129) Continue to expand our customer base and explore overseas markets; and
+(cid:129) Pursue strategic mergers and acquisitions;
 See “Business — Our Strategies.”
 OUR BUSINESS MODEL
 Our comprehensive solutions help enterprises reduce digital operation costs, accelerate
@@ -640,9 +640,9 @@ integrators) Negotiation
 Win the Bid/Settle the Negotiation Acceptance
 Indicative
 Timespan
-In general, the timespan from bid winning or negotiation settling • The warranty period
+(cid:2)In general, the timespan from bid winning or negotiation settling • The warranty period
 to acceptance ranges from weeks to 1 year generally ranging from
-For a few specific projects of substantial value, the 1 to 3 years
+(cid:2)For a few specific projects of substantial value, the 1 to 3 years
 aforementioned timespan would extend to over 2 years
 Our Revenue Model
 Our solutions are typically based on our standardized software which we tailor to meet
@@ -751,7 +751,7 @@ dliuB
 dna
 ssecorp
 ,etargetnI
-
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 esopruP
 tnemerucorP
 yramirP
@@ -801,7 +801,7 @@ noitareneg
 hparG
 ,noitargetni
 ataD
-
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 snoitcnuF/serutaeF
 tcudorP
 yeK
@@ -849,7 +849,7 @@ tsrif
 eht
 sa
 sevreS
-
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 pihsnoitaler-retnI
 lanoitadnuof
 hparg
@@ -935,7 +935,7 @@ kcaL
 dna elbixelf
 fo
 kcaL
-
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 tnioP
 niaP
 ’sresU
@@ -970,7 +970,7 @@ dna
 pord-dna-garD
 dna
 pord-dna-garD
-
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 dohteM
 noitcaretnI
 resU
@@ -992,36 +992,36 @@ rof
 ecafretni
 seitilanoitcnuf
 seitilanoitcnuf
-
-
-
-
+(cid:3)
+(cid:3)
+(cid:2)
+(cid:3)
 sremmargorP
-sresU
+(cid:2)sresU
 tegraT
-
-
-
-
+(cid:3)
+(cid:2)
+(cid:3)
+(cid:3)
 stsylanA
 lanoisseforP
-
-
-
-
+(cid:3)
+(cid:2)
+(cid:2)
+(cid:3)
 ffatS
 ssenisuB
 eniltnorF
-
-
-
-
+(cid:3)
+(cid:2)
+(cid:2)
+(cid:2)
 sevitucexE
-
-
-
-
-
+(cid:3)
+(cid:2)
+(cid:2)
+(cid:2)
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 sMLL
 htiw
 noitargetnI
@@ -1061,7 +1061,7 @@ fo
 rebmun
 no
 desaB
-
+(cid:2)(cid:2)(cid:2)
 msinahcem
 gnigrahC
 dna
@@ -1141,7 +1141,7 @@ A
 tekraM
 laicnivorp
 A
-
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 esaC
 resU
 ydob
@@ -1546,32 +1546,32 @@ Year ended December 31, September 30,
 2022 2023 2024 2024 2025
 (RMB in thousands)
 (Unaudited)
-Revenue 312,992 375,573 503,129 211,798 249,074
-Cost of sales
-Gross profit 96,864 132,260 182,393 60,128 98,895
+Revenue(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 312,992 375,573 503,129 211,798 249,074
+Cost of sales(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (216,128) (243,313) (320,736) (151,670) (150,179)
+Gross profit(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 96,864 132,260 182,393 60,128 98,895
 Selling and marketing
-expenses 
-Administrative expenses 
+expenses (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (114,672) (86,292) (67,796) (49,735) (61,437)
+Administrative expenses (cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (73,701) (169,839) (55,976) (41,027) (82,771)
 Research and development
-expenses 
+expenses (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (86,942) (72,706) (60,681) (44,949) (56,760)
 Impairment losses on financial
-assets and contract assets 
-Other income and loss, net  2,787 3,745 8,789 1,222 2,962
+assets and contract assets (cid:2)(cid:2) (2,900) (9,480) (3,393) (252) (7,989)
+Other income and loss, net (cid:2)(cid:2)(cid:2) 2,787 3,745 8,789 1,222 2,962
 (Loss)/profit from
-operations 
-Finance costs 
+operations (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (178,564) (202,312) 3,336 (74,613) (107,100)
+Finance costs (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (70) (624) (405) (319) (287)
 Changes in fair value of
 financial products issued by
-financial institutions  425 – – – 950
+financial institutions (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 425 – – – 950
 Changes in the carrying
 amount of redemption
-liabilities 
+liabilities (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) – (48,969) (76,092) (74,090) (102,642)
 Changes in the fair value of
 financial liabilities at fair
-value through profit or loss
-Loss before taxation 
-Income tax credit  2,429 6,071 861 5,450 4,004
-Loss for the year/period 
+value through profit or loss(cid:2) – (19,816) (21,433) (14,605) (5,744)
+Loss before taxation (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (178,209) (271,721) (94,594) (163,627) (214,823)
+Income tax credit (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,429 6,071 861 5,450 4,004
+Loss for the year/period (cid:2)(cid:2)(cid:2)(cid:2) (175,780) (265,650) (93,733) (158,177) (210,819)
 – 20 –
 
 === PAGE 31 ===
@@ -1603,21 +1603,21 @@ Year ended December 31, September 30,
 Reconciliation of net loss to
 adjusted net loss or profit
 (non-IFRS measure)
-Loss for the year/period 
+Loss for the year/period (cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (175,780) (265,650) (93,733) (158,177) (210,819)
 Add:
 – Equity settled share-based
-payments(1)  33,103 113,161 13,140 8,136 36,999
+payments(1) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 33,103 113,161 13,140 8,136 36,999
 – Changes in the fair value of
 financial liabilities at fair
 value through profit or
-loss(2)  – 19,816 21,433 14,605 5,744
+loss(2) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) – 19,816 21,433 14,605 5,744
 – Changes in the carrying
 amount of redemption
-liabilities(3)  – 48,969 76,092 74,090 102,642
-– Listing expenses(4)  – – – – 19,391
+liabilities(3) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) – 48,969 76,092 74,090 102,642
+– Listing expenses(4) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) – – – – 19,391
 Adjusted net loss or profit
 (non-IFRS measure) for
-the year/period 
+the year/period (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (142,677) (83,704) 16,932 (61,346) (46,043)
 – 21 –
 
 === PAGE 32 ===
@@ -1644,9 +1644,9 @@ YearendedDecember31, NinemonthsendedSeptember30,
 (RMB’000) (%) (RMB’000) (%) (RMB’000) (%) (RMB’000) (%) (RMB’000) (%)
 (Unaudited)
 Atlas Graph
-Solutions 312,992 100.0 366,670 97.6 416,576 82.8 202,439 95.6 187,616 75.3
-AtlasAIAgent – – 8,903 2.4 86,553 17.2 9,359 4.4 61,458 24.7
-Total  312,992 100.0 375,573 100.0 503,129 100.0 211,798 100.0 249,074 100.0
+Solutions(cid:2) (cid:2) (cid:2) 312,992 100.0 366,670 97.6 416,576 82.8 202,439 95.6 187,616 75.3
+AtlasAIAgent(cid:2) – – 8,903 2.4 86,553 17.2 9,359 4.4 61,458 24.7
+Total (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 312,992 100.0 375,573 100.0 503,129 100.0 211,798 100.0 249,074 100.0
 The following table sets forth a breakdown of revenue of solutions sold on a standalone
 basis and other different combinations during the Track Record Period:
 YearendedDecember31, NinemonthsendedSeptember30,
@@ -1655,10 +1655,10 @@ YearendedDecember31, NinemonthsendedSeptember30,
 (Unaudited)
 Sold on a
 standalone
-basis  236,511 75.6 281,493 75.0 371,221 73.8 121,645 57.4 207,740 83.4
+basis (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 236,511 75.6 281,493 75.0 371,221 73.8 121,645 57.4 207,740 83.4
 Sold in
-combinations 76,481 24.4 94,080 25.0 131,908 26.2 90,153 42.6 41,334 16.6
-Total  312,992 100.0 375,573 100.0 503,129 100.0 211,798 100.0 249,074 100.0
+combinations(cid:2) 76,481 24.4 94,080 25.0 131,908 26.2 90,153 42.6 41,334 16.6
+Total (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 312,992 100.0 375,573 100.0 503,129 100.0 211,798 100.0 249,074 100.0
 – 22 –
 
 === PAGE 33 ===
@@ -1671,17 +1671,17 @@ Atlas Atlas Atlas Atlas Atlas
 Graph AtlasAI Graph AtlasAI Graph AtlasAI Graph AtlasAI Graph AtlasAI
 Solutions Agent Solutions Agent Solutions Agent Solutions Agent Solutions Agent
 Numberof
-customers(1)  95 – 126 2 152 19 73 4 85 16
+customers(1) (cid:2) (cid:2) (cid:2) 95 – 126 2 152 19 73 4 85 16
 Numberofnew
-customers(1)  53 – 64 2 72 19 26 4 31 11
+customers(1) (cid:2) (cid:2) (cid:2) 53 – 64 2 72 19 26 4 31 11
 Averagerevenue
 contribution
 percustomer(2)
-(RMB’000)  3,294.7 – 2,910.1 4,451.5 2,740.6 4,555.4 2,773.1 2,339.8 2,207.3 3,841.1
+(RMB’000) (cid:2) (cid:2) (cid:2) (cid:2) 3,294.7 – 2,910.1 4,451.5 2,740.6 4,555.4 2,773.1 2,339.8 2,207.3 3,841.1
 AverageContract
 Valueof
 Projects(3)
-(RMB’000)  1,476.4 – 1,251.4 4,451.5 1,183.5 3,462.1 1,273.2 2,339.9 1,176.0 2,194.9
+(RMB’000) (cid:2) (cid:2) (cid:2) (cid:2) 1,476.4 – 1,251.4 4,451.5 1,183.5 3,462.1 1,273.2 2,339.9 1,176.0 2,194.9
 Notes:
 (1) For the years and periods ended December 31 and nine months ended September 30, respectively.
 (2) Calculated by dividing the revenue for a year/period by the number of customers in the same year/period.
@@ -1698,9 +1698,9 @@ Gross margin Gross margin Gross margin Gross margin Gross margin
 profit (%) profit (%) profit (%) profit (%) profit (%)
 (RMBinthousands,exceptforpercentages)
 (Unaudited)
-AtlasGraphSolutions 96,864 30.9 130,678 35.6 142,848 34.3 55,311 27.3 69,020 36.8
-AtlasAIAgent – – 1,582 17.8 39,545 45.7 4,817 51.5 29,875 48.6
-Total  96,864 30.9 132,260 35.2 182,393 36.3 60,128 28.4 98,895 39.7
+AtlasGraphSolutions(cid:2) 96,864 30.9 130,678 35.6 142,848 34.3 55,311 27.3 69,020 36.8
+AtlasAIAgent(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) – – 1,582 17.8 39,545 45.7 4,817 51.5 29,875 48.6
+Total (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 96,864 30.9 132,260 35.2 182,393 36.3 60,128 28.4 98,895 39.7
 – 23 –
 
 === PAGE 34 ===
@@ -1774,15 +1774,15 @@ As of
 As of December 31, September 30,
 2022 2023 2024 2025
 (RMB in thousands)
-Total non-current assets 22,420 40,574 36,476 51,559
-Total current assets  343,280 1,021,977 597,029 779,146
-Total assets 365,700 1,062,551 633,505 830,705
-Total non-current liabilities  2,625 21,105 9,764 14,852
-Total current liabilities  317,442 2,275,017 1,974,486 2,291,930
-Total liabilities 320,067 2,296,122 1,984,250 2,306,782
+Total non-current assets(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 22,420 40,574 36,476 51,559
+Total current assets (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 343,280 1,021,977 597,029 779,146
+Total assets(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 365,700 1,062,551 633,505 830,705
+Total non-current liabilities (cid:2)(cid:2) 2,625 21,105 9,764 14,852
+Total current liabilities (cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 317,442 2,275,017 1,974,486 2,291,930
+Total liabilities(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 320,067 2,296,122 1,984,250 2,306,782
 Net current
-assets/(liabilities) 
-Net assets/(liabilities)
+assets/(liabilities) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 25,838 (1,253,040) (1,377,457) (1,512,784)
+Net assets/(liabilities)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 45,633 (1,233,571) (1,350,745) (1,476,077)
 – 25 –
 
 === PAGE 36 ===
@@ -1840,21 +1840,21 @@ Year ended December 31, September 30,
 (RMB in thousands)
 (Unaudited)
 Net cash flows
-used in operating activities 
+used in operating activities (cid:2) (162,082) (140,046) (38,549) (109,649) (144,409)
 Net cash flows
-used in investing activities 
+used in investing activities (cid:2) (1,287) (561) (1,505) (954) (335,097)
 Net cash flows
 generated from financing
-activities  209,570 256,275 19,063 19,848 345,944
+activities (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 209,570 256,275 19,063 19,848 345,944
 Net increase/(decrease) in
-cash and cash equivalents 
+cash and cash equivalents (cid:2)(cid:2) 46,201 115,668 (20,991) (90,755) (133,562)
 Cash and cash equivalents at
 the beginning of the
-year/period  35,812 81,412 197,866 197,866 176,044
+year/period (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 35,812 81,412 197,866 197,866 176,044
 Effect of foreign exchange
-rate changes  12
+rate changes (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (601) 786 (831) (784) 12
 Cash and cash equivalents at
-the end of year/period 81,412 197,866 176,044 106,327 42,494
+the end of year/period(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 81,412 197,866 176,044 106,327 42,494
 In the nine months ended September 30, 2025, our net cash flows used in operating
 activities was RMB144.4 million, which was primarily attributable to our loss before tax of
 RMB214.8 million, as adjusted by (i) non-cash items primarily comprising (a) changes in the
@@ -1915,11 +1915,11 @@ September 30/As
 Year ended December 31/As of December 31 of September 30
 2022 2023 2024 2025
 Gross profit margin
-(%)(1)  30.9 35.2 36.3 39.7
-Current ratio (times)(2)  1.1 0.4 0.3 0.3
+(%)(1) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 30.9 35.2 36.3 39.7
+Current ratio (times)(2) (cid:2)(cid:2)(cid:2) 1.1 0.4 0.3 0.3
 Adjusted net loss or profit
 margin (non-IFRS
-measure) (%)(3)
+measure) (%)(3)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (45.6) (22.3) 3.4 (18.5)
 Notes:
 (1) Gross profit margin equals gross profit divided by revenue and multiplied by 100%.
 (2) Current ratio equals current assets divided by current liabilities as of the same date. Our current ratio
@@ -2003,9 +2003,9 @@ Offer Price of Offer Price of
 HK$25.60 per HK$28.00 per
 H Share H Share
 HK$10,251 HK$11,212
-Market capitalization of our Shares(1)  million million
+Market capitalization of our Shares(1) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) million million
 Unaudited pro forma adjusted net tangible assets
-per Share(2)(3) HK$3.12 HK$3.28
+per Share(2)(3)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) HK$3.12 HK$3.28
 (1) The calculation of market capitalization is based on 372,400,480 H Shares converted from Domestic
 Unlisted Shares and 28,030,200 H Shares expected to be in issue and outstanding following the
 completion of the Global Offering (excluding any H Shares issuable upon exercise of options granted
@@ -2029,16 +2029,16 @@ HK$26.80 per Share (being the mid-point of the indicative Offer Price range of H
 HK$28.00), we estimate that we will receive net proceeds of approximately HK$648.4 million
 from the Global Offering. We intend to use the proceeds from the Global Offering for the
 purposes and in the amounts set forth below:
- Approximately 45.0%, or HK$291.8 million, will be used for R&D to improve our
+(cid:129) Approximately 45.0%, or HK$291.8 million, will be used for R&D to improve our
 graph-LLM integration technologies;
- Approximately 20.0%, or HK$129.7 million, will be used to optimize our Atlas AI
+(cid:129) Approximately 20.0%, or HK$129.7 million, will be used to optimize our Atlas AI
 agent;
- Approximately 15.0%, or HK$97.3 million, will be used to enhance our
+(cid:129) Approximately 15.0%, or HK$97.3 million, will be used to enhance our
 collaboration with customers, explore new application scenarios and expand
 overseas markets;
- Approximately 10.0%, or HK$64.8 million, will be used for strategic investment,
+(cid:129) Approximately 10.0%, or HK$64.8 million, will be used for strategic investment,
 mergers and acquisitions; and
- approximately 10.0%, or HK$64.8 million, will be used for working capital and
+(cid:129) approximately 10.0%, or HK$64.8 million, will be used for working capital and
 general corporate purposes.
 See “Future Plans and Use of Proceeds” for details.
 LOSS ESTIMATE FOR THE YEAR ENDED DECEMBER 31, 2025
@@ -2049,7 +2049,7 @@ results based on the management accounts of our Group for the three months ended
 with the accounting policies normally adopted by our Group as set out in the Accountants’
 Report as set out in Appendix I to this Prospectus. See Appendix IIB to this Prospectus for
 further details.
-Estimated consolidated loss not more than RMB207.0 million
+Estimated consolidated loss(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) not more than RMB207.0 million
 – 32 –
 
 === PAGE 43 ===
@@ -2808,13 +2808,13 @@ on September 17, 2020, being one of our Pre-IPO
 Investors
 “%” per cent
 Unless otherwise expressly stated or the content otherwise requires, in this prospectus:
- all times refer to Hong Kong time and references to years in this prospectus are to
+(cid:129) all times refer to Hong Kong time and references to years in this prospectus are to
 calendar years;
-”, “core
+(cid:129) the terms “associate(s)”, “close associate(s)”, “connected person(s)”, “core
 connected person(s)”, “connected transaction(s)”, “subsidiary(ies)” and
 “substantial shareholder(s)” shall have the meanings ascribed to such terms in the
 Listing Rules; and
- certain amounts and percentage figures included in this prospectus have been
+(cid:129) certain amounts and percentage figures included in this prospectus have been
 subject to rounding adjustments. Accordingly, figures shown as totals in certain
 tables may not be an arithmetic aggregation of figures preceding them.
 The English names of the PRC entities, laws, rules, regulations, nationals, entities,
@@ -3032,26 +3032,26 @@ our present and future business strategies and the environment in which we will 
 future. Important factors that could cause our actual performance or achievements to differ
 materially from those in the forward-looking statements include, among other things, the
 following:
- our ability to successfully implement our business plans and strategies;
- future developments, trends and conditions in the industry and markets in which we
+(cid:129) our ability to successfully implement our business plans and strategies;
+(cid:129) future developments, trends and conditions in the industry and markets in which we
 operate or into which we intend to expand;
- general political and economic conditions of jurisdictions in which we operate;
- our business operations and prospects;
- our capital expenditure plans;
- weather, natural disasters and climate change;
- the actions and developments of our competitors;
- our financial condition and performance;
- capital market developments;
- our dividend policy;
+(cid:129) general political and economic conditions of jurisdictions in which we operate;
+(cid:129) our business operations and prospects;
+(cid:129) our capital expenditure plans;
+(cid:129) weather, natural disasters and climate change;
+(cid:129) the actions and developments of our competitors;
+(cid:129) our financial condition and performance;
+(cid:129) capital market developments;
+(cid:129) our dividend policy;
 – 60 –
 
 === PAGE 71 ===
 FORWARD-LOOKING STATEMENTS
- any changes in the laws, rules and regulations of the central and local governments
+(cid:129) any changes in the laws, rules and regulations of the central and local governments
 in the PRC and other relevant jurisdictions and the rules, regulations and policies of
 the relevant governmental authorities relating to all aspects of our business and
 business plans; and
- various business opportunities that we may pursue.
+(cid:129) various business opportunities that we may pursue.
 – 61 –
 
 === PAGE 72 ===
@@ -3841,12 +3841,12 @@ million, RMB503.1 million RMB211.8 million and RMB249.1 million, respectively. O
 growth prospects should be considered in light of the risks and uncertainties that a company
 with a limited operating history may encounter, including risks and uncertainties regarding our
 ability to:
- retain existing customers and attract new customers to purchase our solutions;
- successfullycompetewithothercompaniesthatarecurrentlyin,ormayinthefuture
+(cid:129) retain existing customers and attract new customers to purchase our solutions;
+(cid:129) successfullycompetewithothercompaniesthatarecurrentlyin,ormayinthefuture
 enter, the sectors we have entered;
- attract, retain and motivate talented employees, including R&D talents as well as
+(cid:129) attract, retain and motivate talented employees, including R&D talents as well as
 employees with in-depth industry know-how; and
- defend ourselves against litigation, regulatory, intellectual property, privacy, data
+(cid:129) defend ourselves against litigation, regulatory, intellectual property, privacy, data
 protection or other claims, where relevant.
 AlloftheseendeavorsinvolverisksandwillrequiresignificantR&Dexpenses,operating
 expenses and capital expenditures and the allocation of valuable management and employee
@@ -4770,9 +4770,9 @@ Registrar, and it has agreed not to register the subscription, purchase or trans
 Shares in the name of any particular holder unless and until the holder delivers a signed form
 to our H Share Registrar in respect of those H Shares bearing statements to the effect that the
 holder:
- agrees with us and each of our Shareholders, and we agree with each Shareholder,
+(cid:129) agrees with us and each of our Shareholders, and we agree with each Shareholder,
 to observe and comply with the PRC Company Law and ourArticles ofAssociation;
- agrees with us, each of our Shareholders, Directors, managers and officers, and we
+(cid:129) agrees with us, each of our Shareholders, Directors, managers and officers, and we
 acting for ourselves and for each of our Directors, managers and officers agree with
 eachofourShareholders,toreferalldifferences,disputesandclaimsconcerningour
 affairs and arising from any rights or obligations conferred or imposed by our
@@ -4785,9 +4785,9 @@ regulations to arbitration in accordance with our Articles of Association, and a
 reference to arbitration shall be deemed to authorize the arbitration tribunal to
 conduct hearings in open session and to publish its award. Such arbitration shall be
 final and conclusive;
- agrees with us and each of our Shareholders that the H Shares are freely transferable
+(cid:129) agrees with us and each of our Shareholders that the H Shares are freely transferable
 by the holders thereof; and
- authorizes us to enter into a contract on his/her behalf with each of our Directors,
+(cid:129) authorizes us to enter into a contract on his/her behalf with each of our Directors,
 senior officers whereby such Directors, senior officers undertake to observe and
 comply with their obligations to our Shareholders as stipulated in our Articles of
 Association. Persons applying for or purchasing H Shares under the Global Offering
@@ -5277,32 +5277,32 @@ AI Agent Period
 independently with their own methodologies and technology stacks.
 Rapid Breakthroughs
 in Deep Learning Initial Integration of LLM and AI Agent Comprehensive and
- In 1997, the long short-term memory network Knowledge Graphs Deep Integration
+(cid:129) In 1997, the long short-term memory network Knowledge Graphs Deep Integration
 (LSTM) solved the gradient problem of traditional
-RNN when processing long sequences.  Now: AI Agents have initially achieved task
- In 2016, AlphaGo defeated Lee Sedol. chatbot based on GPT-3.5, making automation, multimodal interaction and basic
- In 2018, Google Brain’s paper created advanced NLP widely available. decision-making capabilities. With the
-Transformer  In 2025, the release of DeepSeek-R1 widespread adoption of AI assistants such as
+RNN when processing long sequences. (cid:129) In 2022, OpenAI launched ChatGPT, an AI (cid:129) Now: AI Agents have initially achieved task
+(cid:129) In 2016, AlphaGo defeated Lee Sedol. chatbot based on GPT-3.5, making automation, multimodal interaction and basic
+(cid:129) In 2018, Google Brain’s paper created advanced NLP widely available. decision-making capabilities. With the
+Transformer (cid:129) In 2025, the release of DeepSeek-R1 widespread adoption of AI assistants such as
 Large attracted widespread attention around the ChatGPT and Copilot, AI agents are gradually
 world, and its reasoning ability, cost- becoming dominant
-Models effectiveness and open source features  Online knowledge graphs and LLM are
+Models effectiveness and open source features (cid:129) Online knowledge graphs and LLM are
 were highly praised by the industry. updated in coordination, with real-time
 completion and verification
 Continuous Development of
 Knowledge Graph
- In 1998, the concept of “semantic web”
+(cid:129) In 1998, the concept of “semantic web”
 was proposed, which is the basis for
 subsequent knowledge graphs
- In 2012, Google formally proposed the
+(cid:129) In 2012, Google formally proposed the
 concept of knowledge graph
- In 2018, the concept of “matter graph” Knowledge Graph Explicit Industry Customization and
+(cid:129) In 2018, the concept of “matter graph” Knowledge Graph Explicit Industry Customization and
 was proposed Empowerment and Correction Explainability
 Knowledge
- In the future: AI Agents will be supported by
+(cid:129) Multimodal knowledge graph integrates text, (cid:129) In the future: AI Agents will be supported by
 Graphs images and structured data to improve the large-scale industry-specific models, deeply
 reliability of LLM for common sense and integrated vertical domain expertise and
 reasoning will combine the chain reasoning mechanism of
- Introducing graph retrieval and symbolic knowledge graphs to output verifiable and
+(cid:129) Introducing graph retrieval and symbolic knowledge graphs to output verifiable and
 reasoning components to alleviate model traceable enterprise-level solutions to achieve
 “hallucinations” and security risks. cross-scenario autonomous decision-making
 and collaboration.
@@ -5352,9 +5352,9 @@ limitations in three aspects: the basic layer, the technical layer and the appli
 However, the technical path of integrating knowledge graphs with LLM is expected to address
 the core pain points in these areas.
 Basic Layer:
- Obstacle in data acquisition: Lack of professional knowledge and scarcity of
+(cid:129) Obstacle in data acquisition: Lack of professional knowledge and scarcity of
 high-quality structured data in vertical industries; and,
- Inability to update in real-time: New data generated during actual operation is
+(cid:129) Inability to update in real-time: New data generated during actual operation is
 difficult to be directly utilized by the model, and cannot be updated into the model
 in a timely manner, resulting in a lag in the model’s response to the latest
 information.
@@ -5363,19 +5363,19 @@ information.
 === PAGE 130 ===
 INDUSTRY OVERVIEW
 Technical Layer:
- Low interpretability and credibility of models: Based on the characteristics of the
+(cid:129) Low interpretability and credibility of models: Based on the characteristics of the
 technical route, the reasoning and decision-making results of LLM are prone to the
 “hallucination” phenomenon, which will greatly affect the credibility of the results;
 and,
- Difficulty in balancing generality and specificity: Restricted by the underlying
+(cid:129) Difficulty in balancing generality and specificity: Restricted by the underlying
 technical architecture of LLM it is quite difficult to adapt to the applications of
 various industries while achieving the general functions of LLM and industry-
 specific functions.
 Application Layer:
- Challenge in meeting actual application requirements: It is highly challenging to
+(cid:129) Challenge in meeting actual application requirements: It is highly challenging to
 design models that meet users’ expectations and needs, necessitating continuous
 interaction with users for gradual optimization and adjustment; and,
- Poor integration and compatibility: It is difficult to integrate large models into
+(cid:129) Poor integration and compatibility: It is difficult to integrate large models into
 existing business processes or systems and ensure effective compatible utility.
 Therefore, at the current stage, the fusion technology of knowledge graphs and LLM is
 one of the key paths to achieve the large-scale application and implementation of LLM.
@@ -5417,15 +5417,15 @@ graphs can become a core tool for breaking down data barriers and constructing i
 semantic networks.
 Definition of Knowledge Graphs
 E﻿ ntity
- Abstract things or concrete things are used as subjects,
+(cid:129) Abstract things or concrete things are used as subjects,
 corresponding to nodes/vertices in the knowledge graph
 ﻿AI
 R﻿ elationship
- T﻿ he external connections between things correspond to
+(cid:129) T﻿ he external connections between things correspond to
 the edges in﻿ the knowledge graph
 Knowledge ﻿Property
 Graph
- The essential characteristics of things are the inherent
+(cid:129) The essential characteristics of things are the inherent
 characteristics of entities. They are generally not
 reflected in the graph representation structure, but are
 hidden inside the entity or relationship
@@ -5437,18 +5437,18 @@ INDUSTRY OVERVIEW
 Analysis of the Advantages and Application Limitations of Knowledge Graphs
 Compared with other AI technical routes, knowledge graphs have three core
 advantages:
- Clear visualization capability: Knowledge graphs adopt a graph-structured form,
+(cid:129) Clear visualization capability: Knowledge graphs adopt a graph-structured form,
 which can more intuitively display data correlations compared to the linear or
 simple hierarchical data storage of traditional knowledge bases. Just like in a
 complex transportation network, each node (entity) and route (relationship) is clear,
 facilitating quick understanding and grasp of the overall knowledge architecture.
- Efficient retrieval capability: Knowledge graphs have efficient retrieval
+(cid:129) Efficient retrieval capability: Knowledge graphs have efficient retrieval
 capabilities. They can structurally organize concepts, entities and their relationships
 and, during retrieval, they are like precision search engines. Despite massive
 information loads, they can quickly locate the required knowledge, greatly
 improving information acquisition efficiency and reducing search time costs, which
 is particularly important for knowledge-intensive work and research.
- Logical reasoning ability: Knowledge graphs possess intelligent reasoning
+(cid:129) Logical reasoning ability: Knowledge graphs possess intelligent reasoning
 capabilities, which can mine multi-dimensional implicit knowledge from existing
 knowledge.Similartohowadetectiveinfersacasebasedonclues,theycanuncover
 potential connections and patterns, providing deeper knowledge support for
@@ -5621,7 +5621,7 @@ RMB Billion
 2020 2021 2022 2023 2024 2025E 2026E 2027E 2028E 2029E
 Source: Frost & Sullivan, IMF
 Key Drivers and Trends of Industry-level AI Solution
- Applicationside:Thedemandfromdiversifiedindustrialscenarioscontinuesto
+(cid:129) Applicationside:Thedemandfromdiversifiedindustrialscenarioscontinuesto
 grow. With the acceleration of enterprise digitization and AI transformation,
 industriesaregraduallyadoptingindustry-levelAIsolutionsspecificallydesignedto
 empower their industry-specific businesses. During the digital transformation of
@@ -5635,7 +5635,7 @@ marketing in the financial sector. These highly standardized and data-rich field
 particularly suitable for the first-mover large-scale implementation and deep
 application of industry-level AI. In addition, industry-level AI solutions also have
 broad development prospects in fields such as education, healthcare and energy.
- Product side: The importance ofAIAgents has increased. With the advancement
+(cid:129) Product side: The importance ofAIAgents has increased. With the advancement
 of LLM technologies, AI Agents are becoming the next core growth point for
 industry-levelAI solutions.AnAIAgent is an autonomous intelligent entity capable
 of executing tasks with consistency and reliability, dynamically adjusting decisions
@@ -5652,7 +5652,7 @@ fully unleash the potential of industrial AI application solutions.
 
 === PAGE 137 ===
 INDUSTRY OVERVIEW
- Policy side: National strategies guide the creation of a favorable policy
+(cid:129) Policy side: National strategies guide the creation of a favorable policy
 environment. Top-level designs such as the New Generation Artificial Intelligence
 DevelopmentPlancontinuetostrengthenAI’sstatusasastrategictechnology.Local
 governments reduce corporate innovation costs by building computing power
@@ -5664,13 +5664,13 @@ Demonstration Project accelerate the penetration of AI Agents in key industries
 through the demonstration effect of benchmark cases. This combination of policies
 is forming a long-term mechanism to drive industrial development.
 Key Drivers and Trends for Knowledge Graph Market
- Mitigating LLM Hallucinations to Ensure Reliability: The growing enterprise
+(cid:129) Mitigating LLM Hallucinations to Ensure Reliability: The growing enterprise
 adoption of LLMs has amplified the need to curb factual inaccuracies
 (hallucinations). Knowledge graphs address this by providing structured, verified
 dataasa“fact-checkingfoundation,”enablingLLMstoanchoroutputsinreal-world
 relationships. This drives demand as businesses prioritize trustworthyAI for critical
 tasks like client communication and research.
- Preserving Institutional Knowledge as a StrategicAsset: Enterprises face risks of
+(cid:129) Preserving Institutional Knowledge as a StrategicAsset: Enterprises face risks of
 losing critical institutional knowledge (expertise, processes, historical data) to silos
 or turnover. Knowledge graphs’ role in capturing, structuring, and preserving this
 knowledge — making it reusable across teams — drives adoption, as organizations
@@ -5704,16 +5704,16 @@ the growth of China’s AI agent market.
 Definition of Industry-level AI Agents
 Anindustry-levelAIagentisanintelligentAIsolutionbuiltuponLLMtoserveindustrial
 applications. Its key characteristics are as follows:
- Client Segment: Targeted at enterprise and government clients, primarily for
+(cid:129) Client Segment: Targeted at enterprise and government clients, primarily for
 medium- to large-scale projects; does not include consumer-end applications.
- Technical Approach: Based on large models, enhanced with industry-specific
+(cid:129) Technical Approach: Based on large models, enhanced with industry-specific
 knowledge and fine-tuned for domain expertise; AI capabilities are invoked
 throughout product operation and execution.
- Data Capability: Possesses autonomous access to and analysis of enterprise data.
+(cid:129) Data Capability: Possesses autonomous access to and analysis of enterprise data.
 Consequently, an industry-levelAI agent can integrate with a company’s existing IT
 systems to perform concrete business operations such as data querying and analysis,
 report generation and workflow approvals.
- Functional Attributes: Exhibits autonomous action and task-agent capabilities —
+(cid:129) Functional Attributes: Exhibits autonomous action and task-agent capabilities —
 not only understanding instructions but also independently planning task steps,
 invoking requisite tools and resources, monitoring execution and ultimately closing
 the end-to-end industrial task loop.
@@ -5742,7 +5742,7 @@ transformation and intelligent upgrades across sectors by targeting specific “
 functions.” Overall, risk-control, marketing and internal enterprise-management use cases that
 have already reached large-scale deployment; other emerging domains are likewise piloting
 solutions to rapidly develop industry-tailored implementation paths.
- IntelligentRisk-ControlScenario:Industry-levelAIagentsperformdeepsemantic
+(cid:129) IntelligentRisk-ControlScenario:Industry-levelAIagentsperformdeepsemantic
 analysis on vast transaction records, user profiles and external sentient data to
 automatically extract latent risk features and construct comprehensive risk profiles.
 Bycombininggraph-basedretrievalwithsymbolicreasoning,theydetectanomalous
@@ -5752,7 +5752,7 @@ alerts and remediation recommendations. This “detect-verify-intercept-review�
 closed-loop workflow reduces fraud-miss rates, markedly improves risk-control
 efficiency and helps enterprises maintain compliance while effectively lowering
 operating costs.
- Precision Marketing Scenario: By encoding users’ historical behaviors, interest
+(cid:129) Precision Marketing Scenario: By encoding users’ historical behaviors, interest
 preferences and social-media interactions into a unified framework, theseAIAgents
 buildfine-grainedcustomerpersonasandautomaticallyproducemarketingcopyand
 creative assets that resonate with target audiences. Real-time feedback loops then
@@ -5760,7 +5760,7 @@ refine campaign strategies dynamically. Through multi-channel outreach,
 conversion pathways are continuously optimized, significantly boosting click-
 through and conversion rates. Brands benefit from higher customer-acquisition
 efficiency and substantial gains in marketing ROI.
- Internal Enterprise-Management Scenario: Possessing a holistic understanding
+(cid:129) Internal Enterprise-Management Scenario: Possessing a holistic understanding
 of complex business processes, industry-level AI agents autonomously coordinate
 meeting schedules, approval workflows, document archiving and internal training
 tasks. Through multi-turn dialogues and decision chains, they generate executable
@@ -6026,10 +6026,10 @@ Empowering Industry-level AI Agents Through the Synergy of
 Knowledge Graphs and Large Models
 Large Model Technical Three Core Pain Points of Knowledge Graph
 Capabilities Industry Large Models at Present Empowerment
- Analyze industry terminology (e.g.,
-1. Lack of Professional Knowledge:  Build domain knowledge networks;
+(cid:129) Analyze industry terminology (e.g.,
+1. Lack of Professional Knowledge: (cid:129) Build domain knowledge networks;
 medical symptom descriptions, legal
- Training industry models relies heavily on use entity relationship constraints to
+(cid:129) Training industry models relies heavily on use entity relationship constraints to
 texts) through pre-trained semantic
 domain-specific data, but high-quality generate logic, forming structured
 understanding, supporting initial annotated data (e.g., in law, healthcare) is
@@ -6037,16 +6037,16 @@ graph data to enhance industry
 semantic association analysis of scarce, leading to shallow understanding of
 model training.
 unstructured texts. business logic.
- Support incremental knowledge updates
-(e.g., policy changes, industry standard  Industry knowledge changes frequently (e.g., (e.g., real-time policy node or device
+(cid:129) Rapidly adapt to new business rules 2. Delayed Dynamic Updates: (cid:129) Support incremental knowledge updates
+(e.g., policy changes, industry standard (cid:129) Industry knowledge changes frequently (e.g., (e.g., real-time policy node or device
 financial policies updated dozens of times
 updates) via dynamic prompt tuning. monthly), but traditional full fine-tuning is parameter insertion) for minute-level
 costly (each training can cost tens of business synchronization.
 thousands of yuan in computing time).
- Use lightweight models to handle high-
-3. Slow and Inaccurate Reasoning:  Multi-hop question answering within
+(cid:129) Use lightweight models to handle high-
+3. Slow and Inaccurate Reasoning: (cid:129) Multi-hop question answering within
 frequency, low-complexity tasks (e.g.,
-ticket classification, voice interaction),  Inference with billion-parameter models knowledge graphs enables rapid,
+ticket classification, voice interaction), (cid:129) Inference with billion-parameter models knowledge graphs enables rapid,
 takes several seconds per query, making it contextual reasoning in complex
 optimizing computational resource
 hard to support high-concurrency scenarios. scenarios.
@@ -7224,25 +7224,25 @@ investors, which further reinforced our position in the industry.
 Key Milestones
 The following is a summary of our Group’s key business development milestones:
 Year Milestone
-2013  Our Company was established in the PRC with a focus on the collection,
+2013 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Our Company was established in the PRC with a focus on the collection,
 aggregation, and governance of big data, data computation, as well as the
 application of artificial intelligence.
 Haizhi(Cayman)wasincorporatedintheCaymanIslandsasanexempted
 company with limited liability.
-2015  We established our subsidiary Haizhi Xingtu to further expand our
+2015 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) We established our subsidiary Haizhi Xingtu to further expand our
 technological footprint.
-2017  We launched DMC Intelligent Data Platform andAtlas Knowledge Graph
+2017 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) We launched DMC Intelligent Data Platform andAtlas Knowledge Graph
 Platform.
-2018  We received the Commercial Bank’s 2018 Fintech Innovator of the Year
+2018 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) We received the Commercial Bank’s 2018 Fintech Innovator of the Year
 Award (商業銀行2018年度金融科技創新企業獎).
-2019  WewerehonoredwiththeCommercialBankDataServicePioneerAward
+2019 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) WewerehonoredwiththeCommercialBankDataServicePioneerAward
 (商業銀行數據服務先鋒獎).
 – 165 –
 
 === PAGE 176 ===
 HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
 Year Milestone
-2021  We successfully launched AtlasGraph Graph Database, a high-
+2021 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) We successfully launched AtlasGraph Graph Database, a high-
 performance graph database platform.
 We established the Haizhi High-Performance Graph Computing
 Academician Expert Workstation (海致高性能圖計算院士專家工作站).
@@ -7253,9 +7253,9 @@ Distinctive, and Innovative SMEs (北京市專精特新中小企業), China
 Computer Federation Science and Technology Award 2021 —
 OutstandingAchievement in Scientific andTechnological Progress (2021
 年度中國計算機學會科學技術獎科技進步卓越獎).
-2022  We were honored with the Digital Economy Industry Innovation
+2022 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) We were honored with the Digital Economy Industry Innovation
 Achievements Award (數字經濟產業創新成果獎).
-2023  We successfully launched our Atlas AI agent in September 2023.
+2023 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) We successfully launched our Atlas AI agent in September 2023.
 OurAtlasGraph Graph Database broke the world record by 45% in terms
 of throughout measured by queries per second, achieving the highest
 overall performance score in the Linked Data Benchmark Council tests.
@@ -7274,7 +7274,7 @@ Award for Smart Government Construction (智慧政府建設推薦優選產品
 === PAGE 177 ===
 HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
 Year Milestone
-2024  We have been included in the Beijing General Artificial Intelligence
+2024 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) We have been included in the Beijing General Artificial Intelligence
 IndustryInnovationPartnerProgram(北京市通用人工智能產業創新夥伴
 計劃).
 We were awarded the First Prize in the Ninth Maker China Information
@@ -7441,32 +7441,32 @@ Number of the total share
 shares in Haizhi capital of Haizhi
 Shareholder (Cayman) (Cayman)
 Ordinary shareholders
-Dwisesky Capital 13,571,357 9.90
-Smart Lycsling  7,075,692 5.16
-Chinayzf  8,814,385 6.43
-Austkama Group  2,000,000 1.46
+Dwisesky Capital(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 13,571,357 9.90
+Smart Lycsling (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 7,075,692 5.16
+Chinayzf (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 8,814,385 6.43
+Austkama Group (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,000,000 1.46
 Series A-1 investors
-Yifang 7,613,080 5.55
-Chinayzf  2,386,920 1.74
+Yifang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 7,613,080 5.55
+Chinayzf (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,386,920 1.74
 Series A-2 investors
-BAI 13,621,355 9.93
-IDG Growth Fund LP  6,917,037 5.04
-IDG Investors LP.  490,370 0.36
-Yifang 1,851,852 1.35
-Wind Information (HK) 1,193,460 0.87
+BAI(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 13,621,355 9.93
+IDG Growth Fund LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 6,917,037 5.04
+IDG Investors LP. (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 490,370 0.36
+Yifang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,851,852 1.35
+Wind Information (HK)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,193,460 0.87
 Series B investors
-Hillhouse 5,967,078 4.35
-Formation8  2,386,831 1.74
-Morningside LP 2,174,668 1.59
-Morningside Co-Investment LP 212,163 0.15
-IDG Growth Fund LP  1,114,412 0.81
-IDG Investors LP.  79,004 0.06
+Hillhouse(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 5,967,078 4.35
+Formation8 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,386,831 1.74
+Morningside LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,174,668 1.59
+Morningside Co-Investment LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 212,163 0.15
+IDG Growth Fund LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,114,412 0.81
+IDG Investors LP. (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 79,004 0.06
 Series C investors
-LC LP 10,356,624 7.55
-LC Parallel LP  492,609 0.36
-Morningside LP 296,546 0.22
-Morningside Co-Investment LP 28,931 0.02
-IDG Growth Fund LP  1,095,198 0.80
+LC LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 10,356,624 7.55
+LC Parallel LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 492,609 0.36
+Morningside LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 296,546 0.22
+Morningside Co-Investment LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 28,931 0.02
+IDG Growth Fund LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,095,198 0.80
 – 171 –
 
 === PAGE 182 ===
@@ -7476,35 +7476,35 @@ shareholding in
 Number of the total share
 shares in Haizhi capital of Haizhi
 Shareholder (Cayman) (Cayman)
-IDG Investors LP.  77,642 0.06
-Magic Stone LP 1,627,385 1.19
-Shanghai Hehua 2,298,915 1.68
+IDG Investors LP. (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 77,642 0.06
+Magic Stone LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,627,385 1.19
+Shanghai Hehua(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,298,915 1.68
 Series C-1 investors
-LC LP 2,035,357 1.48
-LC Parallel LP  134,489 0.10
-IDG Growth Fund LP  1,519,652 1.11
-IDG Investors LP.  107,733 0.08
-BAI 1,627,385 1.19
+LC LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,035,357 1.48
+LC Parallel LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 134,489 0.10
+IDG Growth Fund LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,519,652 1.11
+IDG Investors LP. (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 107,733 0.08
+BAI(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,627,385 1.19
 Series C-2 investors
-Suzhou Junjunde LP  2,324,836 1.70
-Junlian Yihe LP 2,324,836 1.70
-Jiaxing Chenyu LP  2,712,308 1.98
-Wandian Family Office  464,967 0.34
-GLHZ Holdings Limited(1)  2,324,836 1.70
+Suzhou Junjunde LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,324,836 1.70
+Junlian Yihe LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,324,836 1.70
+Jiaxing Chenyu LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,712,308 1.98
+Wandian Family Office (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 464,967 0.34
+GLHZ Holdings Limited(1) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,324,836 1.70
 Series C-1A and series C-2A investors
-Hundsun International Holdings (HK) Limited(2) 5,406,291 3.94
-Foshan Datai LP  1,576,931 1.15
+Hundsun International Holdings (HK) Limited(2)(cid:2)(cid:2) 5,406,291 3.94
+Foshan Datai LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,576,931 1.15
 Series C-3 investors
-Wuxi Yicun LP  1,846,397 1.35
-Beijing Weizhi LP 3,692,794 2.69
-Yongtao(3)  615,466 0.45
+Wuxi Yicun LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,846,397 1.35
+Beijing Weizhi LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 3,692,794 2.69
+Yongtao(3) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 615,466 0.45
 Series D investors
-China Internet Investment LP  7,330,004 5.35
-TAL China 1,832,501 1.34
-TAL Global 1,832,501 1.34
+China Internet Investment LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 7,330,004 5.35
+TAL China(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,832,501 1.34
+TAL Global(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,832,501 1.34
 Series D-1 investor
-Shanghai AI Fund  3,665,002 2.67
-Total 137,117,800 100.00
+Shanghai AI Fund (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 3,665,002 2.67
+Total(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 137,117,800 100.00
 Notes:
 (1) The offshore entity nominated by Zhuhai Cheheng LP to hold shares in Haizhi (Cayman).
 (2) TheoffshoreentitynominatedbyHundsunTechnologiesandHangzhouXinglutoholdsharesinHaizhi
@@ -7520,18 +7520,18 @@ holding structure is set forth in the table below:
 Corresponding
 Shareholder Registered capital equity interest
 (RMB) (%)
-Haikuo Fenxiang 3,735,257 26.85
-Haikuo Chengzhang 3,082,945 22.16
-Mr. Ren(1)(2)(3) 2,155,963 15.50
-Mr. Yang(1)(2)(3) 1,779,453 12.79
-Mr. Shi(1)(2) 1,124,053 8.08
-Ms. Yang 493,507 3.55
-Mr. Wan  469,782 3.38
-Suzhou Junjunde LP(3) 317,822 2.28
-Mr. Hu(1)(2)  317,722 2.28
-Mr. Qu  217,904 1.57
-Mr. Chen 217,904 1.57
-Total 13,912,312 100.00
+Haikuo Fenxiang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 3,735,257 26.85
+Haikuo Chengzhang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 3,082,945 22.16
+Mr. Ren(1)(2)(3)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,155,963 15.50
+Mr. Yang(1)(2)(3)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,779,453 12.79
+Mr. Shi(1)(2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,124,053 8.08
+Ms. Yang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 493,507 3.55
+Mr. Wan (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 469,782 3.38
+Suzhou Junjunde LP(3)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 317,822 2.28
+Mr. Hu(1)(2) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 317,722 2.28
+Mr. Qu (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 217,904 1.57
+Mr. Chen(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 217,904 1.57
+Total(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 13,912,312 100.00
 Notes:
 (1) AnequitytransferagreementwasenteredintobetweenMr.Ren,Mr.Shi,Mr.HuandMr.Yang,pursuant
 to which Mr. Ren, Mr. Shi and Mr. Hu transferred 0.47%, 0.40% and 0.13% of their respective equity
@@ -7726,21 +7726,21 @@ below:
 Corresponding
 Shareholder Registered capital shareholding
 (RMB) (%)
-Haikuo Fenxiang 3,735,257 11.68
-Haikuo Chengzhang 3,082,945 9.64
-BAI 2,422,434 7.58
-Mr. Ren 2,155,963 6.74
-LC ELITE 2,068,227 6.47
-Junlian Xiangdao LP 1,997,294 6.25
-Sky Fine  1,811,184 5.66
-Mr. Yang 1,779,453 5.56
-Yifang 1,503,611 4.70
-China Internet Investment LP  1,164,454 3.64
-Mr. Shi  1,124,053 3.52
-Hillhouse 947,937 2.96
-Beijing Weizhi LP 586,642 1.83
-Shanghai AI Fund  582,227 1.82
-Ms. Yang 493,507 1.54
+Haikuo Fenxiang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 3,735,257 11.68
+Haikuo Chengzhang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 3,082,945 9.64
+BAI(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,422,434 7.58
+Mr. Ren(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,155,963 6.74
+LC ELITE(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,068,227 6.47
+Junlian Xiangdao LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,997,294 6.25
+Sky Fine (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,811,184 5.66
+Mr. Yang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,779,453 5.56
+Yifang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,503,611 4.70
+China Internet Investment LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,164,454 3.64
+Mr. Shi (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,124,053 3.52
+Hillhouse(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 947,937 2.96
+Beijing Weizhi LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 586,642 1.83
+Shanghai AI Fund (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 582,227 1.82
+Ms. Yang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 493,507 1.54
 – 176 –
 
 === PAGE 187 ===
@@ -7748,29 +7748,29 @@ HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
 Corresponding
 Shareholder Registered capital shareholding
 (RMB) (%)
-Junlian Haiying LP  490,545 1.53
-Mr. Wan  469,782 1.47
-Jiaxing Chenyu LP  430,881 1.35
-Guohe Phase III LP 428,571 1.34
-Shanghai Fintech LP  428,571 1.34
-Zhuhai Cheheng LP 416,563 1.30
-Formation8 LP  379,175 1.19
-Junlian Yihe LP 369,326 1.16
-Suzhou Junjunde LP  369,326 1.16
-Mr. Hu  317,722 0.99
-Wuxi Yicun LP  293,321 0.92
-TAL China 291,113 0.91
-TAL Global 291,113 0.91
-Magic Stone LP 258,528 0.81
-Foshan Datai LP  250,513 0.78
-Mr. Qu  217,904 0.68
-Mr. Chen 217,904 0.68
-Hundsun Technologies 191,042 0.60
-Wind Information (HK) 189,595 0.59
-Shanghai Taomin 97,774 0.31
-Wandian Family Office  73,865 0.23
-Shanghai Hehua 47,486 0.15
-Total 31,975,808 100.00
+Junlian Haiying LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 490,545 1.53
+Mr. Wan (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 469,782 1.47
+Jiaxing Chenyu LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 430,881 1.35
+Guohe Phase III LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 428,571 1.34
+Shanghai Fintech LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 428,571 1.34
+Zhuhai Cheheng LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 416,563 1.30
+Formation8 LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 379,175 1.19
+Junlian Yihe LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 369,326 1.16
+Suzhou Junjunde LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 369,326 1.16
+Mr. Hu (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 317,722 0.99
+Wuxi Yicun LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 293,321 0.92
+TAL China(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 291,113 0.91
+TAL Global(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 291,113 0.91
+Magic Stone LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 258,528 0.81
+Foshan Datai LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 250,513 0.78
+Mr. Qu (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 217,904 0.68
+Mr. Chen(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 217,904 0.68
+Hundsun Technologies(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 191,042 0.60
+Wind Information (HK)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 189,595 0.59
+Shanghai Taomin(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 97,774 0.31
+Wandian Family Office (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 73,865 0.23
+Shanghai Hehua(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 47,486 0.15
+Total(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 31,975,808 100.00
 Notes:
 (1) On March 28, 2023, the then Shareholders of our Company passed resolutions, among other matters,
 approving to increase the registered capital from RMB13,912,312 to RMB14,580,120. Hundsun
@@ -7994,44 +7994,44 @@ shareholding structure of our Company is presented in the table below:
 Corresponding
 Shareholder Number of Shares Shareholding
 (%)
-Mr. Ren 2,155,963 5.79
-Mr. Yang 1,779,453 4.78
-Haikuo Fenxiang 3,949,542 10.61
-Haikuo Chengzhang 3,082,945 8.28
-Mr. Shi  1,124,053 3.02
-Mr. Hu  317,722 0.85
-Yifang 1,503,611 4.04
-BAI 2,422,434 6.50
-Sky Fine  1,811,184 4.86
-Formation8 LP  379,175 1.02
-Junlian Xiangdao LP 2,269,627 6.09
-LC ELITE 2,068,227 5.55
-Suzhou Junjunde LP  369,326 0.99
-Junlian Yihe LP 369,326 0.99
-Industrial Upgrade Fund II  1,692,729 4.55
-Junlian Haiying LP  557,431 1.50
-Magic Stone LP 258,528 0.69
-Wind Information (HK) 189,595 0.51
-Shanghai Hehua 47,486 0.13
-Jiaxing Chenyu LP  430,881 1.16
-Wandian Family Office  73,865 0.20
-Hillhouse 947,937 2.55
-Zhuhai Cheheng LP 431,518 1.16
-Hundsun Technologies 191,042 0.51
-Foshan Datai LP  250,513 0.67
-Wuxi Yicun LP  338,589 0.91
-Beijing Weizhi LP 677,178 1.82
-Shanghai Taomin 112,863 0.30
-China Internet Investment LP  1,467,423 3.94
-TAL China 366,855 0.99
-TAL Global 366,855 0.99
-Shanghai AI Fund  733,712 1.97
-Ms. Yang 493,507 1.33
-Mr. Wan  469,782 1.26
-Mr. Qu  217,904 0.59
-Mr. Chen 217,904 0.59
-Shanghai Fintech LP  282,130 0.76
-Guohe Phase III LP 564,259 1.52
+Mr. Ren(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,155,963 5.79
+Mr. Yang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,779,453 4.78
+Haikuo Fenxiang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 3,949,542 10.61
+Haikuo Chengzhang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 3,082,945 8.28
+Mr. Shi (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,124,053 3.02
+Mr. Hu (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 317,722 0.85
+Yifang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,503,611 4.04
+BAI(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,422,434 6.50
+Sky Fine (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,811,184 4.86
+Formation8 LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 379,175 1.02
+Junlian Xiangdao LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,269,627 6.09
+LC ELITE(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2,068,227 5.55
+Suzhou Junjunde LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 369,326 0.99
+Junlian Yihe LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 369,326 0.99
+Industrial Upgrade Fund II (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,692,729 4.55
+Junlian Haiying LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 557,431 1.50
+Magic Stone LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 258,528 0.69
+Wind Information (HK)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 189,595 0.51
+Shanghai Hehua(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 47,486 0.13
+Jiaxing Chenyu LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 430,881 1.16
+Wandian Family Office (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 73,865 0.20
+Hillhouse(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 947,937 2.55
+Zhuhai Cheheng LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 431,518 1.16
+Hundsun Technologies(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 191,042 0.51
+Foshan Datai LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 250,513 0.67
+Wuxi Yicun LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 338,589 0.91
+Beijing Weizhi LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 677,178 1.82
+Shanghai Taomin(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 112,863 0.30
+China Internet Investment LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,467,423 3.94
+TAL China(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 366,855 0.99
+TAL Global(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 366,855 0.99
+Shanghai AI Fund (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 733,712 1.97
+Ms. Yang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 493,507 1.33
+Mr. Wan (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 469,782 1.26
+Mr. Qu (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 217,904 0.59
+Mr. Chen(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 217,904 0.59
+Shanghai Fintech LP (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 282,130 0.76
+Guohe Phase III LP(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 564,259 1.52
 – 182 –
 
 === PAGE 193 ===
@@ -8040,9 +8040,9 @@ Corresponding
 Shareholder Number of Shares Shareholding
 (%)
 Beijing Information Industry Development
-Investment Fund L.P. 1,128,487 3.03
-Beijing AI Fund  1,128,487 3.03
-Total 37,240,048 100.00
+Investment Fund L.P.(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,128,487 3.03
+Beijing AI Fund (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,128,487 3.03
+Total(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 37,240,048 100.00
 iv. Share Subdivision
 We expect to conduct the Share Subdivision immediately prior to the Listing, pursuant to
 which each of our Share with nominal value of RMB1.00 will be subdivided into 10 Shares
@@ -8063,13 +8063,13 @@ priortotheShareSubdivision ShareOptionScheme)
 Classof Numberof %of Classof Numberof %of
 NameofShareholder Shares shares shareholding Shares shares shareholding
 Ourequity incentive platforms and ourSingle Largest Shareholders Group1
-Haikuo Fenxiang  Unlisted 3,949,542 10.61 H Shares 39,495,420 9.86
+Haikuo Fenxiang (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 3,949,542 10.61 H Shares 39,495,420 9.86
 Shares
-Haikuo Chengzhang Unlisted 3,082,945 8.28 H Shares 30,829,450 7.70
+Haikuo Chengzhang(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 3,082,945 8.28 H Shares 30,829,450 7.70
 Shares
-Mr. Ren  Unlisted 2,155,963 5.79 H Shares 21,559,630 5.38
+Mr. Ren (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 2,155,963 5.79 H Shares 21,559,630 5.38
 Shares
-Mr.Yang Unlisted 1,779,453 4.78 H Shares 17,794,530 4.44
+Mr.Yang(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 1,779,453 4.78 H Shares 17,794,530 4.44
 Shares
 Subtotal 10,967,903 29.46 109,679,030 27.39
 1 Mr.Ren,Mr.Yang,HaikuoFenxiang,andHaikuoChengzhangareregardedastheSingleLargestShareholders
@@ -8088,37 +8088,37 @@ priortotheShareSubdivision ShareOptionScheme)
 Classof Numberof %of Classof Numberof %of
 NameofShareholder Shares shares shareholding Shares shares shareholding
 Junlian Entities2
-LC ELITE  Unlisted 2,068,227 5.55 H Shares 20,682,270 5.17
+LC ELITE (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 2,068,227 5.55 H Shares 20,682,270 5.17
 Shares
-Junlian Xiangdao LP  Unlisted 2,269,627 6.09 H Shares 22,696,270 5.67
+Junlian Xiangdao LP (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 2,269,627 6.09 H Shares 22,696,270 5.67
 Shares
-JunlianYihe LP Unlisted 369,326 0.99 H Shares 3,693,260 0.92
+JunlianYihe LP(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 369,326 0.99 H Shares 3,693,260 0.92
 Shares
-Suzhou Junjunde LP  Unlisted 369,326 0.99 H Shares 3,693,260 0.92
+Suzhou Junjunde LP (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 369,326 0.99 H Shares 3,693,260 0.92
 Shares
 Subtotal 5,076,506.00 13.62 50,765,060.00 12.68
-BAI Unlisted 2,422,434 6.50 H Shares 24,224,340 6.05
+BAI(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 2,422,434 6.50 H Shares 24,224,340 6.05
 Shares
-Sky Fine  Unlisted 1,811,184 4.86 H Shares 18,111,840 4.52
+Sky Fine (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 1,811,184 4.86 H Shares 18,111,840 4.52
 Shares
-Yifang  Unlisted 1,503,611 4.04 H Shares 15,036,110 3.75
+Yifang (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 1,503,611 4.04 H Shares 15,036,110 3.75
 Shares
 China Internet Investment Unlisted 1,467,423 3.94 H Shares 14,674,230 3.66
-LP  Shares
-Mr. Shi Unlisted 1,124,053 3.02 H Shares 11,240,530 2.81
+LP (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Shares
+Mr. Shi(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 1,124,053 3.02 H Shares 11,240,530 2.81
 Shares
 Beijing Information Unlisted 1,128,487 3.03 H Shares 11,284,870 2.82
 Industry Development Shares
-Investment Fund L.P. 
+Investment Fund L.P. (cid:2) (cid:2)
 Hillhouse and Zhuhai Cheheng LP
-Hillhouse Unlisted 947,937 2.55 H Shares 9,479,370 2.37
+Hillhouse(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 947,937 2.55 H Shares 9,479,370 2.37
 Shares
-Zhuhai Cheheng LP Unlisted 431,518 1.16 H Shares 4,315,180 1.08
+Zhuhai Cheheng LP(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 431,518 1.16 H Shares 4,315,180 1.08
 Shares
 Subtotal 1,379,455.00 3.71 13,794,550.00 3.44
-BeijingWeizhi LP  Unlisted 677,178 1.82 H Shares 6,771,780 1.69
+BeijingWeizhi LP (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 677,178 1.82 H Shares 6,771,780 1.69
 Shares
-ShanghaiAI Fund Unlisted 733,712 1.97 H Shares 7,337,120 1.83
+ShanghaiAI Fund(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 733,712 1.97 H Shares 7,337,120 1.83
 Shares
 2 JunlianEntitieswillbecomesubstantialshareholders(asdefinedintheListingRules)uponcompletionofthe
 Global Offering. Therefore, the Shares held by them will not be considered part of the public float of our
@@ -8133,43 +8133,43 @@ AsoftheLatestPracticableDateand anySharestobeissuedunderthePre-IPO
 priortotheShareSubdivision ShareOptionScheme)
 Classof Numberof %of Classof Numberof %of
 NameofShareholder Shares shares shareholding Shares shares shareholding
-Ms.Yang3  Unlisted 493,507 1.33 H Shares 4,935,070 1.23
+Ms.Yang3 (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 493,507 1.33 H Shares 4,935,070 1.23
 Shares
-Junlian Haiying LP Unlisted 557,431 1.50 H Shares 5,574,310 1.39
+Junlian Haiying LP(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 557,431 1.50 H Shares 5,574,310 1.39
 Shares
-Mr.Wan3 Unlisted 469,782 1.26 H Shares 4,697,820 1.17
+Mr.Wan3(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 469,782 1.26 H Shares 4,697,820 1.17
 Shares
-Jiaxing Chenyu LP  Unlisted 430,881 1.16 H Shares 4,308,810 1.08
+Jiaxing Chenyu LP (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 430,881 1.16 H Shares 4,308,810 1.08
 Shares
-Guohe Phase III LP Unlisted 564,259 1.52 H Shares 5,642,590 1.41
+Guohe Phase III LP(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 564,259 1.52 H Shares 5,642,590 1.41
 Shares
-Shanghai Fintech LP  Unlisted 282,130 0.76 H Shares 2,821,300 0.70
+Shanghai Fintech LP (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 282,130 0.76 H Shares 2,821,300 0.70
 Shares
-Formation8 LP Unlisted 379,175 1.02 H Shares 3,791,750 0.95
+Formation8 LP(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 379,175 1.02 H Shares 3,791,750 0.95
 Shares
-Mr. Hu  Unlisted 317,722 0.85 H Shares 3,177,220 0.79
+Mr. Hu (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 317,722 0.85 H Shares 3,177,220 0.79
 Shares
-WuxiYicun LP  Unlisted 338,589 0.91 H Shares 3,385,890 0.85
+WuxiYicun LP (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 338,589 0.91 H Shares 3,385,890 0.85
 Shares
 TALChina andTAL
 Global
-TALChina Unlisted 366,855 0.99 H Shares 3,668,550 0.92
+TALChina(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 366,855 0.99 H Shares 3,668,550 0.92
 Shares
-TALGlobal  Unlisted 366,855 0.99 H Shares 3,668,550 0.92
+TALGlobal (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 366,855 0.99 H Shares 3,668,550 0.92
 Shares
 Subtotal 733,710.00 1.98 7,337,100.00 1.83
-Magic Stone LP Unlisted 258,528 0.69 H Shares 2,585,280 0.65
+Magic Stone LP(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 258,528 0.69 H Shares 2,585,280 0.65
 Shares
-Foshan Datai LP  Unlisted 250,513 0.67 H Shares 2,505,130 0.63
+Foshan Datai LP (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 250,513 0.67 H Shares 2,505,130 0.63
 Shares
-Mr. Chen Unlisted 217,904 0.59 H Shares 2,179,040 0.54
+Mr. Chen(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 217,904 0.59 H Shares 2,179,040 0.54
 Shares
-Mr. Qu  Unlisted 217,904 0.59 H Shares 2,179,040 0.54
+Mr. Qu (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 217,904 0.59 H Shares 2,179,040 0.54
 Shares
-HundsunTechnologies  Unlisted 191,042 0.51 H Shares 1,910,420 0.48
+HundsunTechnologies (cid:2) (cid:2) (cid:2) Unlisted 191,042 0.51 H Shares 1,910,420 0.48
 Shares
 Wind Information (HK) and Shanghai Hehua
-Wind Information (HK)  Unlisted 189,595 0.51 H Shares 1,895,950 0.47
+Wind Information (HK) (cid:2) (cid:2) Unlisted 189,595 0.51 H Shares 1,895,950 0.47
 Shares
 3 EachofMs.YangandMr.WanisanexecutiveDirectorofourCompany.Therefore,theSharesheldbythem
 will not be considered part of the public float of our Company.
@@ -8183,20 +8183,20 @@ AsoftheLatestPracticableDateand anySharestobeissuedunderthePre-IPO
 priortotheShareSubdivision ShareOptionScheme)
 Classof Numberof %of Classof Numberof %of
 NameofShareholder Shares shares shareholding Shares shares shareholding
-Shanghai Hehua Unlisted 47,486 0.13 H Shares 474,860 0.12
+Shanghai Hehua(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 47,486 0.13 H Shares 474,860 0.12
 Shares
 Subtotal 237,081.00 0.64 2,370,810.00 0.59
-ShanghaiTaomin  Unlisted 112,863 0.30 H Shares 1,128,630 0.28
+ShanghaiTaomin (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 112,863 0.30 H Shares 1,128,630 0.28
 Shares
-Wandian Family Office Unlisted 73,865 0.20 H Shares 738,650 0.18
+Wandian Family Office(cid:2) (cid:2) (cid:2) Unlisted 73,865 0.20 H Shares 738,650 0.18
 Shares
-Industrial Upgrade Fund II Unlisted 1,692,729 4.55 H Shares 16,927,290 4.23
+Industrial Upgrade Fund II(cid:2) Unlisted 1,692,729 4.55 H Shares 16,927,290 4.23
 Shares
-BeijingAI Fund Unlisted 1,128,487 3.03 H Shares 11,284,870 2.82
+BeijingAI Fund(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Unlisted 1,128,487 3.03 H Shares 11,284,870 2.82
 Shares
 Other public – – – H Shares 28,030,200 7.00
-H Shareholders 
-Total  37,240,048 100.00 400,430,680 100.00
+H Shareholders (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2)
+Total (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 37,240,048 100.00 400,430,680 100.00
 OUR MAJOR SUBSIDIARIES
 SincetheestablishmentofourCompanyin2013,wesoughttoexpandourpresenceinthe
 PRC and further our business development. We have established various subsidiaries to (i)
@@ -8205,10 +8205,10 @@ on data intelligence technology.
 The details of our major subsidiaries are set out as follows:
 Date of Place of Principal business
 No. Entity name establishment establishment activity
-1.  Haizhi Network Technology November 27, PRC Scientific research and
+1. (cid:2) (cid:2) Haizhi Network Technology November 27, PRC Scientific research and
 (Beijing) Co., Ltd. (海致網絡技 2013 technical services
 術(北京)有限公司)
-2. Beijing Haizhi Xingtu Technology August 25, 2015 PRC Scientific research and
+2.(cid:2) (cid:2) (cid:2) Beijing Haizhi Xingtu Technology August 25, 2015 PRC Scientific research and
 Co., Ltd. (北京海致星圖科技有 technical services
 限公司)
 ACQUISITION, MERGERS AND DISPOSALS
@@ -8268,9 +8268,9 @@ gnicnanif
 ,03rebmetpeS
 ,3rebmeceD
 ,2rebmeceD
-
-
-s(tnemeergatnemtsevnifoetaD
+(cid:2)
+(cid:2) (cid:2)
+(cid:2))s(tnemeergatnemtsevnifoetaD
 dna5202,72yaM
 3202
 3202
@@ -8310,16 +8310,16 @@ erew/saw)s(tnemtsevnihcihwfoetaD
 4102
 3102
 3102
-
-
-
-
-
-
-
-
-
-
+(cid:2)
+(cid:2) (cid:2)
+(cid:2)
+(cid:2)
+(cid:2)
+(cid:2)
+(cid:2)
+(cid:2)
+(cid:2)
+(cid:2)
 )1(deltteslla
 noillim053BMR
 57BMR
@@ -8334,9 +8334,9 @@ noillim053BMR
 0.01$SU
 5.6$SU
 0.2$SU
-
-
-noitaredisnoclatotetamixorppA
+(cid:2)
+(cid:2) (cid:2)
+(cid:2)noitaredisnoclatotetamixorppA
 noillim
 noillim
 noillim
@@ -8363,9 +8363,9 @@ noillim
 07.1$SU
 62.1$SU
 tsoctnemtsevnietamixorppA
-
-
-2(latipacderetsiger/erahSrep
+(cid:2)
+(cid:2) (cid:2)
+(cid:2))2(latipacderetsiger/erahSrep
 %2.36
 %1.36
 %1.36
@@ -8379,10 +8379,10 @@ tsoctnemtsevnietamixorppA
 %7.48
 %1.59
 %3.69
-
-
-
-
+(cid:2)
+(cid:2) (cid:2)
+(cid:2)
+(cid:2)
 )3(ecirpOPIehtottnuocsiD
 003,3BMR
 809,2BMR
@@ -8411,16 +8411,16 @@ noillim
 noillim
 noillim
 noillim
-
-
-
-
-
-
-
-
-
-
+(cid:2)
+(cid:2) (cid:2)
+(cid:2)
+(cid:2)
+(cid:2)
+(cid:2)
+(cid:2)
+(cid:2)
+(cid:2)
+(cid:2)
 )4(ynapmoC
 %9.9
 %1.2
@@ -8437,10 +8437,10 @@ noillim
 %0.4
 ruonignidloherahsetamixorppA
 ehtgniwollofyletaidemmiynapmoC gnireffOlabolGehtfonoitelpmoc ynatnuoccaotnignikattuohtiw( -erPehtrednudeussiebotserahS
-
-
-
-emehcSnoitpOerahSOPI
+(cid:2)
+(cid:2) (cid:2)
+(cid:2)
+(cid:2))emehcSnoitpOerahSOPI
 HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
 – 187 –
 
@@ -8548,18 +8548,18 @@ HISTORY, DEVELOPMENT AND CORPORATE STRUCTURE
 Principal Terms of the Pre-IPO Investments
 Basis of The consideration for the Pre-IPO Investments was determined based
 determination of on arm’s length negotiations between our Company and the relevant
-consideration  Pre-IPO Investors with reference to agreed valuation at the relevant
+consideration (cid:2)(cid:2)(cid:2)(cid:2) Pre-IPO Investors with reference to agreed valuation at the relevant
 time of investment.
 Strategic benefits to At the time of the Pre-IPO Investments, our Directors were of the
-our Company  our Company would benefit from the additional capital
+our Company (cid:2)(cid:2)(cid:2)(cid:2) view that (i) our Company would benefit from the additional capital
 provided by the Pre-IPO Investors and their knowledge and
 experience; and (ii) the Pre-IPO Investments demonstrated the
 Pre-IPO Investors’ confidence in the operation and development of
 our Group.
-Lock-up  shall not
+Lock-up (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) All existing Shareholders (including the Pre-IPO Investors) shall not
 dispose any of the Shares held by them within the 12 months
 followingtheListingDateasrequiredundertheapplicablePRClaws.
-Special rights Each of the Pre-IPO Investors had been granted certain special rights
+Special rights(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Each of the Pre-IPO Investors had been granted certain special rights
 relating to our Company by our Company, including but not limited
 to pre-emption rights, anti-dilution rights and redemption rights. In
 anticipation of the Listing, the redemption rights have been
@@ -8572,14 +8572,14 @@ offering being rejected or returned by the Hong Kong Stock
 Exchange so that our Company fails to complete the initial public
 offering on the Hong Kong Stock Exchange, the redemption rights
 that have been terminated shall be restored automatically.
-Use of proceeds  The proceeds are intended to be used to support the working capital
+Use of proceeds (cid:2)(cid:2)(cid:2)(cid:2) The proceeds are intended to be used to support the working capital
 needs of our Group. As of the Latest Practicable Date, the net
 proceeds received by us from the Pre-IPO Investments amounted to
 approximately USD98 million (for those received offshore) and
 approximately RMB856.5 million (for those received onshore),
 respectively.As of the Latest Practicable Date, all of the net proceeds
 from the Pre-IPO Investments had been fully utilized.
-Public float All Shares held by the Pre-IPO Investors will be counted towards the
+Public float(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) All Shares held by the Pre-IPO Investors will be counted towards the
 publicfloatforthepurposeoftheListingRules,exceptforthoseheld
 by the Junlian Entities, which would become substantial shareholders
 (as defined in the Listing Rules) upon completion of the Global
@@ -8896,11 +8896,11 @@ Capacity of Approximate
 partnership interests percentage of
 Name Position/function in Haikuo Fenxiang partnership interests
 (%)
-Mr. Ren Executive Director General partner –
+Mr. Ren(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Executive Director General partner –
 Haikuo Equity incentive platform Limited partner 3.56
-Weilai(1)(2) 
+Weilai(1)(2) (cid:2)(cid:2)(cid:2)
 Haikuo Equity incentive platform Limited partner 79.84
-Pucheng(1)(3) 
+Pucheng(1)(3) (cid:2)
 – 197 –
 
 === PAGE 208 ===
@@ -8910,11 +8910,11 @@ partnership interests percentage of
 Name Position/function in Haikuo Fenxiang partnership interests
 (%)
 Haikuo Equity incentive platform Limited partner 6.07
-Zhiyuan(1)(4)
+Zhiyuan(1)(4)(cid:2)(cid:2)
 Haikuo Equity incentive platform Limited partner 1.92
-Zhuoyue(1)(5) 
+Zhuoyue(1)(5) (cid:2)
 Haikuo Equity incentive platform Limited partner 8.62
-Zhicheng(1)(6)
+Zhicheng(1)(6)(cid:2)
 Notes:
 (1) Mr. Yang, an executive Director of our Company, is the general partner of Haikuo Weilai, Haikuo
 Pucheng, Haikuo Zhiyuan, Haikuo Zhuoyue and Haikuo Zhicheng, holding approximately 0.07%,
@@ -8952,27 +8952,27 @@ Capacity of Approximate
 partnership interests percentage of
 Name Position/function in Haikuo Chengzhang partnership interests
 (%)
-Mr. Yang Executive Director General partner 0.003
+Mr. Yang(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Executive Director General partner 0.003
 Haikuo Equity incentive platform Limited partner 8.87
-Zhixiang(1)(2) 
+Zhixiang(1)(2) (cid:2)
 Haikuo Equity incentive platform Limited partner 21.22
-Zhida(1)(3) 
+Zhida(1)(3) (cid:2)(cid:2)(cid:2)
 Haikuo Equity incentive platform Limited partner 2.19
-Yunxin(1)(4) 
+Yunxin(1)(4) (cid:2)(cid:2)
 Haikuo Equity incentive platform Limited partner 25.52
-Huiying(1)(5)
+Huiying(1)(5)(cid:2)(cid:2)
 Haikuo Equity incentive platform Limited partner 1.67
-Zhitu(1)(6)
+Zhitu(1)(6)(cid:2)(cid:2)(cid:2)(cid:2)
 Haikuo Equity incentive platform Limited partner 8.19
-Chuangxin(1)(7)
+Chuangxin(1)(7)(cid:2)
 Haikuo Equity incentive platform Limited partner 16.69
-Huitu(1)(8)
+Huitu(1)(8)(cid:2)(cid:2)(cid:2)(cid:2)
 Haikuo Equity incentive platform Limited partner 1.09
-Zhiying(1)(9)
+Zhiying(1)(9)(cid:2)(cid:2)
 Haikuo Equity incentive platform Limited partner 7.59
-Huida(1)(10)
+Huida(1)(10)(cid:2)(cid:2)(cid:2)
 Haikuo Equity incentive platform Limited partner 6.97
-Huirong(1)(11) 
+Huirong(1)(11) (cid:2)
 – 199 –
 
 === PAGE 210 ===
@@ -9838,18 +9838,18 @@ graph-LLM integration technology, empowers enterprises to achieve intelligent au
 scenario-specific reasoning, and natural language interaction by combining the reasoning
 capabilities of LLMs with the accuracy and interpretability of knowledge graphs. The
 following illustrates the typical use cases of our solutions respectively:
- DMC intelligent data platform: Enabled a provincial Market Supervision and
+(cid:129) DMC intelligent data platform: Enabled a provincial Market Supervision and
 Administration in China to integrate data from diverse sources with different
 structures, achieving unified data management and improved regulatory efficiency.
- Atlas knowledge graph platform: Empowered a Shenzhen-based financial
+(cid:129) Atlas knowledge graph platform: Empowered a Shenzhen-based financial
 institutiontobuildknowledgegraphsbasedonusers,entitiesandtheirrelationships,
 allowing automatic detection of fraudulent loan applications and complex fraud
 rings through preconfigured rules.
- AtlasGraph graph database: Supported a Beijing-based telecommunication
+(cid:129) AtlasGraph graph database: Supported a Beijing-based telecommunication
 operator in storing and computing graph data, providing a solid foundation for
 identifying suspicious patterns and precisely locating phone numbers potentially
 involved in telecom fraud.
- Atlas AI Agent: Delivered to a municipal government body a customized agent
+(cid:129) Atlas AI Agent: Delivered to a municipal government body a customized agent
 capable of multiround interaction, deep reasoning and dynamic integration with
 knowledge graphs, autonomously orchestrating multiple LLMs and APIs to handle
 multimodal inputs, enabling data search and data lineage tracking for enhanced data
@@ -9902,7 +9902,7 @@ Our Technological Advantages and Market Leadership
 Our technological advantages are the cornerstones of our success and the driving forces
 behind the value we deliver to our customers and stakeholders. Our market leadership is
 highlighted by the following milestones:
- In 2021, we launched the High-Performance Graph ComputingAcademician Expert
+(cid:129) In 2021, we launched the High-Performance Graph ComputingAcademician Expert
 Workstation with Professor Zheng Weimin, an academician from the Chinese
 Academy of Engineering, initiating collaborative research on high-performance
 graph computing. In the same year, we were honored with the Science and
@@ -9915,7 +9915,7 @@ China Computer Federation, which is conferred for significant discoveries,
 inventions or original innovations in the fields of computer science, technology and
 engineering, recognizing outstanding achievements with a notable international
 impact in related domains.
- In 2022, chosen from over 300 competing projects through a rigorous three-round
+(cid:129) In 2022, chosen from over 300 competing projects through a rigorous three-round
 evaluation process by dozens of academicians, our achievements were further
 recognized with the First Prize for Science and Technology Progress (科學技術獎科
 技進步一等獎) by the Chinese Institute of Electronics, which represents the highest
@@ -9927,7 +9927,7 @@ graph computation, real-time graph data querying and scalable graph application
 analysis, demonstrating leading advantages in trusted innovation qualifications,
 graph database performance, database kernel technology architecture,
 comprehensive solutions and end-to-end service capabilities.
- 2023 was a breakthrough year for us. Our AtlasGraph graph database broke the
+(cid:129) 2023 was a breakthrough year for us. Our AtlasGraph graph database broke the
 world record by 45% in terms of throughout measured by queries per second,
 achieving the highest overall performance score in the Linked Data Benchmark
 Council tests. This milestone showcased our world-leading technological
@@ -10028,14 +10028,14 @@ solutions deliver three key value propositions to enterprises:
 
 === PAGE 224 ===
 BUSINESS
- Unlocking Data-Asset Value. We amplify the intrinsic value of data assets through
+(cid:129) Unlocking Data-Asset Value. We amplify the intrinsic value of data assets through
 sophisticated asset valuation and robust data governance practices, helping
 enterprises realize the full potential of their information resources;
- Ensuring Accurate AI Outputs. By anchoring LLM responses in enterprise
+(cid:129) Ensuring Accurate AI Outputs. By anchoring LLM responses in enterprise
 knowledge graphs and external reference data, we significantly reduce
 hallucinationsinLLMsandimprovetheprecisionofAI-generatedcontent,fostering
 trust and reliability in AI applications; and
- Scaling Across Scenarios. Our solutions are designed for reusability and versatility,
+(cid:129) Scaling Across Scenarios. Our solutions are designed for reusability and versatility,
 enabling multiple applications without the need for constant model rebuilding. Such
 feature ensures efficient scaling and adaptability across diverse application
 scenarios.
@@ -10048,11 +10048,11 @@ expanding the applicability of our solutions. Furthermore, our robust engineerin
 allow us to leverage our customers’ existing IT systems and datasets, enabling us to develop
 intelligent agents for our customers in a more efficient and cost-effective manner. Our
 user-friendly AI solutions deliver two key value propositions to enterprises:
- Available for Everyone. Our solutions feature a user-friendly interface that enables
+(cid:129) Available for Everyone. Our solutions feature a user-friendly interface that enables
 both ITspecialists and other staff to readily use. Such ease of use not only enhances
 productivity, but also breaks down technological barriers, facilitating the
 widespread adoption of our solutions among enterprises.
- Simplify operations. We provide comprehensive, one-stop services that include
+(cid:129) Simplify operations. We provide comprehensive, one-stop services that include
 LLM integration, solution deployment and after-sales support, with our Atlas AI
 agent capable of either choosing the most suitable LLMs or using those specified by
 our customers. Our holistic service offering creates immediate value for our
@@ -10133,15 +10133,15 @@ OurAtlas graph solutions can handle complex logical relationships. Its strength 
 ability to be integrated with various business scenarios and use advanced graph algorithms to
 mine critical information, such as implicit data correlations, facilitating intelligent decision-
 making for enterprises. Specifically:
- Integrating high-performance graph computation, data intelligence and modeling
+(cid:129) Integrating high-performance graph computation, data intelligence and modeling
 visualization technologies, our DMC intelligent data platform is a comprehensive
 and efficient one-stop big data analysis platform that enables code-free, visual
 operations for the entire data application process;
- Deeply integrated with business scenarios, our Atlas knowledge graph computation
+(cid:129) Deeply integrated with business scenarios, our Atlas knowledge graph computation
 platform helps our customers efficiently and flexibly extract valuable information
 from massive data and rapidly construct knowledge graphs that can be adapted to
 different scenarios; and
- Featuring storage and computation capabilities of trillions of data points, concurrent
+(cid:129) Featuring storage and computation capabilities of trillions of data points, concurrent
 queryresponseinmillisecondsandmassivedatavisualizationmodelingcapabilities,
 our AtlasGraph graph database is a high-performance distributed graph database,
 offering enterprises high-performance graph output, computation, querying and
@@ -10341,9 +10341,9 @@ integrators) Negotiation
 Win the Bid/Settle the Negotiation Acceptance
 Indicative
 Timespan
- The warranty period
+(cid:2)In general, the timespan from bid winning or negotiation settling (cid:129) The warranty period
 to acceptance ranges from weeks to 1 year generally ranging from
-For a few specific projects of substantial value, the 1 to 3 years
+(cid:2)For a few specific projects of substantial value, the 1 to 3 years
 aforementioned timespan would extend to over 2 years
 OUR KEY TECHNOLOGIES
 Our solutions are built on the following key technologies:
@@ -10450,7 +10450,7 @@ table sets forth the major technologies that we utilized in our solutions, all o
 proprietary, as well as their key functions and value:
 Solution Technology Utilized Key Functions & Value
 DMC Intelligent Patch Data Lake Update Engine – Enables users to add, update or
-Data Platform
+Data Platform(cid:2)(cid:2)(cid:2)(cid:2)
 (Patch數據湖更新引擎) delete data in real-time, even in
 very large data storage systems
 – Makes new data available for use
@@ -10498,7 +10498,7 @@ tasks at once
 – Improves computing resource
 usage by 40%
 Atlas Knowledge Universal Graph Ontology Engine – Enables users to quickly build
-Graph Platform knowledge graph models by
+Graph Platform(cid:2)(cid:2)(cid:2) (通用圖本體構建引擎) knowledge graph models by
 simply dragging and dropping
 elements on a webpage
 Visual Graph Analysis Engine – Saves significant time and cost
@@ -10547,7 +10547,7 @@ coding
 algorithms and supports custom
 Spark/Python algorithms
 AtlasGraph Graph High-Performance Non-Volatile – Helps databases find data faster
-Database  by creating efficient indexes
+Database (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Memory (NVM) Index (ROART) by creating efficient indexes
 (高效NVM索引方法) – Makes data retrieval 1 to 6.65
 times faster than traditional
 methods
@@ -10597,7 +10597,7 @@ times faster
 – Supports accurate advanced
 analysis on extremely large
 graphs
-Atlas AI Agent Vector-Graph Knowledge Fusion & – Connects different types of
+Atlas AI Agent(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Vector-Graph Knowledge Fusion & – Connects different types of
 Reasoning (向量圖知識對齊與自主 knowledge (like structured tables
 式推理引擎) and free text) into a unified
 network
@@ -10647,12 +10647,12 @@ like data integration, data governance, and data management, we can deliver our 
 products (e.g., the DMC platform) with minimal adaptation, without the need for further
 customization. If a customer requires additional features or has specific business logic needs,
 we provide two levels of customization:
- Function Configuration: We combine and configure existing product features or
+(cid:129) Function Configuration: We combine and configure existing product features or
 reuse functional modules developed for previous projects, according to the
 customer’s business logic. This enables lightweight customization with minimal
 additional coding. As our library of reusable modules grows, more customer needs
 can be met through configuration, keeping customization costs low.
- Secondary Development: For requirements that cannot be achieved through
+(cid:129) Secondary Development: For requirements that cannot be achieved through
 configuration, we define the scope of additional development with the customers.
 Thismayincludeprototypedesign,UIdesign,codedevelopmentandfeaturetesting.
 All such work is performed on top of our standardized products, without altering the
@@ -10669,25 +10669,25 @@ Data Platform for an example, the following table illustrates how we customize o
 for different application scenarios, beyond standardized delivery:
 Application scenarios Customization of Our solutions
 Fraud Detection and Risk We integrate data for our customers and, combined
-Identification  withabusinessruleengine,customizethemodelingof
+Identification (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) withabusinessruleengine,customizethemodelingof
 complex fraud behaviors to enable automated
 identification, alerting and report generation.
-Data Governance  We provide customers with end-to-end data
+Data Governance (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) We provide customers with end-to-end data
 governance capabilities, including data quality
 monitoring, metadata management, and data lineage
 tracing.
-Intelligent Marketing Based on customers’ marketing strategies and data
+Intelligent Marketing(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Based on customers’ marketing strategies and data
 characteristics, we develop customized modules for
 marketing data statistics and management. Through a
 rule engine, we build personalized marketing models
 to enable automated customer segmentation, targeted
 campaign delivery and performance tracking.
-Intelligent Operations  We develop customized operational data statistics and
+Intelligent Operations (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) We develop customized operational data statistics and
 management modules tailored to customers’
 operational processes, enabling automated collection,
 integration, and analysis of data from multiple
 business systems.
-Intelligent Manufacturing Formanufacturingenterprises,wedevelopcustomized
+Intelligent Manufacturing(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Formanufacturingenterprises,wedevelopcustomized
 production process data file management systems to
 achieve efficient collection, management and
 traceability of production data.
@@ -10750,7 +10750,7 @@ dliuB
 dna
 ssecorp
 ,etargetnI
-
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 esopruP
 tnemerucorP
 yramirP
@@ -10800,7 +10800,7 @@ noitareneg
 hparG
 ,noitargetni
 ataD
-
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 snoitcnuF/serutaeF
 tcudorP
 yeK
@@ -10848,7 +10848,7 @@ tsrif
 eht
 sa
 sevreS
-
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 pihsnoitaler-retnI
 lanoitadnuof
 hparg
@@ -10934,7 +10934,7 @@ kcaL
 dna elbixelf
 fo
 kcaL
-
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 tnioP
 niaP
 ’sresU
@@ -10969,7 +10969,7 @@ dna
 pord-dna-garD
 dna
 pord-dna-garD
-
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 dohteM
 noitcaretnI
 resU
@@ -10991,36 +10991,36 @@ rof
 ecafretni
 seitilanoitcnuf
 seitilanoitcnuf
-
-
-
-
+(cid:3)
+(cid:3)
+(cid:2)
+(cid:3)
 sremmargorP
-sresU
+(cid:2)sresU
 tegraT
-
-
-
-
+(cid:3)
+(cid:2)
+(cid:3)
+(cid:3)
 stsylanA
 lanoisseforP
-
-
-
-
+(cid:3)
+(cid:2)
+(cid:2)
+(cid:3)
 ffatS
 ssenisuB
 eniltnorF
-
-
-
-
+(cid:3)
+(cid:2)
+(cid:2)
+(cid:2)
 sevitucexE
-
-
-
-
-
+(cid:3)
+(cid:2)
+(cid:2)
+(cid:2)
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 sMLL
 htiw
 noitargetnI
@@ -11060,7 +11060,7 @@ fo
 rebmun
 no
 desaB
-
+(cid:2)(cid:2)(cid:2)
 msinahcem
 gnigrahC
 dna
@@ -11140,7 +11140,7 @@ A
 tekraM
 laicnivorp
 A
-
+(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 esaC
 resU
 ydob
@@ -11321,21 +11321,21 @@ scenarios for our solutions, based on our best understanding of customer needs a
 practices:
 Solution Standalone Purchase Scenario Combined Purchase Scenario
 DMC Intelligent Data When customers require unified – DMC +Atlas Knowledge
-Platform governance and management of Graph Platform: For
+Platform(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) governance and management of Graph Platform: For
 diverse data types (e.g., tabular, customers with an existing
 text) to achieve comprehensive graph database and other
 data integration, governance, and foundational software who also
 analytics need knowledge graph
 construction and analysis.
 Atlas Knowledge When customers already have an in-
-Graph Platform  house graph database and want to – Atlas Knowledge Graph
+Graph Platform (cid:2) (cid:2) (cid:2) house graph database and want to – Atlas Knowledge Graph
 build and analyze knowledge Platform +AtlasGraph Graph
 graphs, integrating with their Database: For customers who
 existing database for storage and lack a knowledge graph
 computation platform but already have some
 graph-related infrastructure and
 AtlasGraph Graph When customers require a high- need both graph construction
-Database performance, secure, and scalable and storage.
+Database(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) performance, secure, and scalable and storage.
 graph database for knowledge
 graph storage or computation, or – DMC +Atlas Knowledge
 for querying graph data via code Graph Platform +AtlasGraph
@@ -11358,7 +11358,7 @@ platform.
 === PAGE 245 ===
 BUSINESS
 Solution Standalone Purchase Scenario Combined Purchase Scenario
-AtlasAIAgent  When customers require intelligent N/A(Typically purchased as a
+AtlasAIAgent (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) When customers require intelligent N/A(Typically purchased as a
 automation and scenario-specific standalone solution)
 execution to meet advanced
 analytics needs across all data
@@ -11376,9 +11376,9 @@ YearendedDecember31, NinemonthsendedSeptember30,
 (RMB’000) (%) (RMB’000) (%) (RMB’000) (%) (RMB’000) (%) (RMB’000) (%)
 (Unaudited)
 Atlas Graph
-Solutions 312,992 100.0 366,670 97.6 416,576 82.8 202,439 95.6 187,616 75.3
-AtlasAIAgent – – 8,903 2.4 86,553 17.2 9,359 4.4 61,458 24.7
-Total  312,992 100.0 375,573 100.0 503,129 100.0 211,798 100.0 249,074 100.0
+Solutions(cid:2) (cid:2) (cid:2) 312,992 100.0 366,670 97.6 416,576 82.8 202,439 95.6 187,616 75.3
+AtlasAIAgent(cid:2) – – 8,903 2.4 86,553 17.2 9,359 4.4 61,458 24.7
+Total (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 312,992 100.0 375,573 100.0 503,129 100.0 211,798 100.0 249,074 100.0
 The following table sets forth a breakdown of revenue of solutions sold on a standalone
 basis and other different combinations during the Track Record Period:
 YearendedDecember31, NinemonthsendedSeptember30,
@@ -11387,10 +11387,10 @@ YearendedDecember31, NinemonthsendedSeptember30,
 (Unaudited)
 Sold on a
 standalone
-basis  236,511 75.6 281,493 75.0 371,221 73.8 121,645 57.4 207,740 83.4
+basis (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 236,511 75.6 281,493 75.0 371,221 73.8 121,645 57.4 207,740 83.4
 Sold in
-combinations 76,481 24.4 94,080 25.0 131,908 26.2 90,153 42.6 41,334 16.6
-Total  312,992 100.0 375,573 100.0 503,129 100.0 211,798 100.0 249,074 100.0
+combinations(cid:2) 76,481 24.4 94,080 25.0 131,908 26.2 90,153 42.6 41,334 16.6
+Total (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 312,992 100.0 375,573 100.0 503,129 100.0 211,798 100.0 249,074 100.0
 – 235 –
 
 === PAGE 246 ===
@@ -11403,17 +11403,17 @@ Atlas Atlas Atlas Atlas Atlas
 Graph AtlasAI Graph AtlasAI Graph AtlasAI Graph AtlasAI Graph AtlasAI
 Solutions Agent Solutions Agent Solutions Agent Solutions Agent Solutions Agent
 Numberof
-customers(1)  95 – 126 2 152 19 73 4 85 16
+customers(1) (cid:2) (cid:2) (cid:2) 95 – 126 2 152 19 73 4 85 16
 Numberofnew
-customers(1)  53 – 64 2 72 19 26 4 31 11
+customers(1) (cid:2) (cid:2) (cid:2) 53 – 64 2 72 19 26 4 31 11
 Averagerevenue
 contribution
 percustomer(2)
-(RMB’000)  3,294.7 – 2,910.1 4,451.5 2,740.6 4,555.4 2,773.1 2,339.8 2,207.3 3,841.1
+(RMB’000) (cid:2) (cid:2) (cid:2) (cid:2) 3,294.7 – 2,910.1 4,451.5 2,740.6 4,555.4 2,773.1 2,339.8 2,207.3 3,841.1
 AverageContract
 Valueof
 Projects(3)
-(RMB’000)  1,476.4 – 1,251.4 4,451.5 1,183.5 3,462.1 1,273.2 2,339.9 1,176.0 2,194.9
+(RMB’000) (cid:2) (cid:2) (cid:2) (cid:2) 1,476.4 – 1,251.4 4,451.5 1,183.5 3,462.1 1,273.2 2,339.9 1,176.0 2,194.9
 Notes:
 (1) For the years and periods ended December 31 and nine months ended September 30, respectively.
 (2) Calculated by dividing the revenue for a year/period by the number of customers in the same year/period.
@@ -11527,7 +11527,7 @@ The following steps illustrate how Customer V leveraged our DMC intelligent data
 platform to integrate and manage data of different structures from various sources:
 Customer V could add new data directly from the main interface of our DMC intelligent
 data platform.
-
+(cid:346)(cid:346)(cid:7078)(cid:6564)(cid:6619)(cid:1947)(cid:2261)(cid:14131) (cid:347)(cid:347)(cid:7078)(cid:6564)(cid:9414)(cid:9275)(cid:2443) (cid:348)(cid:348)(cid:7078)(cid:6564)(cid:9414)(cid:16924)(cid:13564)(cid:1559)(cid:5797)
 – 240 –
 
 === PAGE 251 ===
@@ -11537,15 +11537,15 @@ various structured databases, streaming data sources and APIs.
 To complete the integration of data from different sources, Customer V needed to
 configure the database connection settings, such as the address, port, username, password as
 well as synchronization policies and table settings.
-
-
-
+(cid:346)(cid:346)(cid:7078)(cid:6564)(cid:1289)(cid:5321)(cid:2108)(cid:12977)
+(cid:347)(cid:347)(cid:7078)(cid:6564)(cid:1104)(cid:2263)(cid:2108)(cid:12977)
+(cid:348)(cid:348)(cid:7078)(cid:6564)(cid:16030)(cid:7236)(cid:13564)
 After data integration, Customer V could navigate to the data processing module and
 begin creating case analysis models. Using a drag-and-drop interface, Customer V could
 conduct various data analysis and configure the output of modeling results.
-使使用拖、拉、拽等低代
-据及处理方法行模型搭建，搭建
-好的模型能够自动输出果
+使使用拖、拉、拽等低代(cid:11831)方式(cid:4668)(cid:7078)
+据及处理方法(cid:17937)行模型搭建，搭建
+好的模型能够自动输出(cid:13577)果
 – 241 –
 
 === PAGE 252 ===
@@ -11563,7 +11563,7 @@ with the target case, providing Customer V with efficient and compliance-driven 
 making support.
 相似案件
 相似案件
-案件相似度
+案件相似(cid:13610)度
 Note: Theaboveapplicationscenarioisademonstrationbasedonsimulationanddoesnotrepresentactualcustomer
 data.
 Our collaboration with Customer V resulted in a significant transformation of its
@@ -11655,9 +11655,9 @@ associations without Customer W’s manual operation. It could retrieve real-tim
 information of related entities to explore and analyze the client’s network of family, friends,
 colleagues or shared contacts, enabling Customer W to swiftly detect risks concealed within
 complex relational structures.
-
-
-
+(cid:346)(cid:346)(cid:1137)(cid:1417)(cid:7926)(cid:13144)(cid:13577)(cid:7634)
+(cid:347)(cid:347)(cid:16097)(cid:7926)(cid:13144)(cid:1137)(cid:1417)(cid:11450)
+(cid:3380)(cid:3380)(cid:16999)(cid:1961)(cid:13105)
 – 246 –
 
 === PAGE 257 ===
@@ -11667,9 +11667,9 @@ information is no longer valid, our Atlas knowledge graph platform enabled Custo
 leverage historical data and multi-layered relationship chains to automatically identify
 potential new contacts or social ties, such as through family members, coworkers or friends,
 significantly improving Customer W’s efficiency in reconnecting with clients.
-
-
-
+(cid:347)(cid:347)(cid:16097)(cid:7926)(cid:13144)(cid:1137)(cid:1417)
+(cid:11450)(cid:11450)(cid:1559)(cid:5797)
+(cid:346)(cid:346)(cid:9967)(cid:2097)(cid:16097)(cid:7926)(cid:13144)(cid:1137)(cid:1417)
 Note: Theaboveapplicationscenarioisademonstrationbasedonsimulationanddoesnotrepresentactualcustomer
 data.
 Our collaboration with Customer W resulted in a significant transformation of its
@@ -11763,13 +11763,13 @@ Customer X began by retrieving datasets of individual entities and phone numbers
 ourAtlasGraphgraphdatabase.OurAtlasGraphgraphdatabasethenconstructedagraphmodel
 based on knowledge graphs that capture (i) relationships between individuals and their phone
 numbers; and (ii) connections between different phone numbers based on call interactions.
-基基于持卡人、手机号、
-通行
-抽象，构建本体模型
+基基于持卡人、手机号(cid:11831)(cid:5512)属(cid:1961)系、手机号(cid:11831)、
+通(cid:16915)(cid:1961)系等(cid:7078)据，(cid:4668)复(cid:7544)的通(cid:16915)网(cid:13586)(cid:17937)行
+抽象，构建(cid:3380)本体模型
 Using Cypher query language, Customer X could visually explore and examine the
 relationships between these entities through an intuitive graphical interface.
-
-
+(cid:1461)(cid:1461)(cid:11102)(cid:16855)(cid:12749)(cid:7536)(cid:7707)(cid:16920)(cid:16931)(cid:2587)(cid:952)(cid:4655)(cid:5513)(cid:2179)(cid:4494)(cid:1758)(cid:11450)(cid:11803)(cid:16892)
+(cid:3380)(cid:3380)(cid:16999)(cid:17937)(cid:16002)(cid:7707)(cid:16920)(cid:2108)(cid:7622)
 Finally,CustomerXcouldparseoutindividualusers’commonconnections,regularphone
 call patterns and mutual connections to identify suspicious phone calls and fraudulent
 activities.
@@ -11840,9 +11840,9 @@ and reasoning capability. Compared to the industry average for pure LLM or vecto
 retrieval-augmented generation (Vector RAG), our graph-LLM integration achieves a
 significant improvement across all benchmarks. The detailed results are as follows:
 Method HotpotQA 2WikiQA MuSiQue
-LLM (baseline)  Less than 40% Less than 40% Less than 10%
-Vector RAG Less than 75% Less than 60% Less than 40%
-Our Graph-LLM Fusion Above 80% Above 80% Above 50%
+LLM (baseline) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Less than 40% Less than 40% Less than 10%
+Vector RAG(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Less than 75% Less than 60% Less than 40%
+Our Graph-LLM Fusion(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Above 80% Above 80% Above 50%
 In real-world customer applications, we typically conduct high-quality data governance
 and apply a combination of graph-based reasoning, retrieval augmentation, and prompt
 engineering to further reduce hallucination rates. Through these integrated approaches, we are
@@ -11929,8 +11929,8 @@ information extraction, on the main interface of the Atlas AI agent that we cust
 based on its needs. If Customer Y’s staff member selected our scenario analysis AI agent for
 a public assistance case, he/she simply needed to input the information of the individual in
 need.
-
-
+(cid:346)(cid:346)(cid:1126)(cid:4610)(cid:11450)(cid:7344)(cid:14131)(cid:1417)(cid:12291)(cid:12977)
+(cid:347)(cid:347)(cid:11102)(cid:6253)(cid:17983)(cid:6431)(cid:7344)(cid:14131)(cid:1417)(cid:5292)(cid:1461)(cid:11102)(cid:14368)(cid:10092)(cid:16931)(cid:16438)(cid:6662)(cid:2096)(cid:5563)(cid:16409)(cid:2025)(cid:19492)(cid:20174)
 – 256 –
 
 === PAGE 267 ===
@@ -11945,7 +11945,7 @@ obtain results quickly without needing to master the underlying tools; and (iii)
 process text queries, allowing Customer Y’s staff members to retrieve relevant information
 across different systems simply through conversational interaction with our scenario analysis
 AI agent to support decision-making.
-
+(cid:7344)(cid:7344)(cid:14131)(cid:1417)(cid:14368)(cid:2270)(cid:16953)(cid:11102)(cid:11803)(cid:16892)(cid:3380)(cid:16999)(cid:17937)(cid:16002)(cid:2108)(cid:7622)
 – 257 –
 
 === PAGE 268 ===
@@ -11955,10 +11955,10 @@ assistance plan, suggest priority contacts and propose actionable measures, incl
 emergency response, multi-party coordination, medical aid, temporary housing and long-term
 support, to Customer Y’s staff member so that he/she could take further actions to implement
 the assistance plan.
-
-
-
-
+(cid:7344)(cid:7344)(cid:14131)(cid:1417)(cid:7791)(cid:6564)(cid:16378)(cid:2120)(cid:11450)(cid:16409)(cid:2025)(cid:7151)(cid:7806)
+(cid:16953)(cid:16953)(cid:11102)(cid:11566)(cid:5322)(cid:11450)(cid:5147)(cid:1965)(cid:5581)(cid:2150)(cid:4655)(cid:5322)(cid:11450)
+(cid:2108)(cid:2108)(cid:7622)(cid:13577)(cid:7634)
+(cid:5292)(cid:5292)(cid:17937)(cid:16002)(cid:13577)(cid:7634)(cid:11450)(cid:17865)(cid:2096)
 Note: Theaboveapplicationscenarioisademonstrationbasedonsimulationanddoesnotrepresentactualcustomer
 data.
 Our collaboration with Customer Y resulted in a significant transformation of its
@@ -12036,9 +12036,9 @@ for Customer Z, which contained over 900 datasets across ten major business doma
 application is designed to accurately interpret user intent and leverage LLM reasoning to help
 Customer Z’s business staff quickly locate relevant data or charts. Through an intuitive Q&A
 interaction, our Atlas AI agent could recommend and retrieve related datasets and charts.
-
-
-
+(cid:346)(cid:346)(cid:11102)(cid:6253)(cid:1461)(cid:11102)(cid:14368)(cid:10092)(cid:16931)(cid:16438)(cid:6662)(cid:2096)(cid:5563)(cid:16409)(cid:2025)(cid:19492)(cid:20174)
+(cid:348)(cid:348)(cid:7344)(cid:14131)(cid:1417)(cid:17865)(cid:2096)(cid:11102)(cid:6253)(cid:19492)(cid:20174)(cid:11450)(cid:13577)(cid:7634)
+(cid:347)(cid:347)(cid:7344)(cid:14131)(cid:1417)(cid:14368)(cid:2270)(cid:16378)(cid:2120)(cid:16409)(cid:2025)(cid:17445)(cid:5562)
 – 260 –
 
 === PAGE 271 ===
@@ -12046,37 +12046,37 @@ BUSINESS
 Additionally, it visualized the relationships between base tables and fields, as well as
 among base tables themselves, helping Customer Z’s business staff quickly locate the exact
 data sources and verify the origin of the results retrieved by our Atlas AI agent.
-
-
-
-
-
-
-
-
-
-
-
-
+(cid:11562)(cid:11562)(cid:16376)(cid:4747)(cid:12144)(cid:5513)(cid:2179)(cid:7078)(cid:6564)(cid:16030)(cid:11450)(cid:1950)(cid:19252)(cid:17445)(cid:15990)(cid:13646)(cid:1961)(cid:13105)(cid:952)
+(cid:17971)(cid:17971)(cid:9445)(cid:20674)(cid:16887)(cid:7790)(cid:4564)(cid:6262)(cid:19766)(cid:7078)(cid:6564)(cid:16030)(cid:11450)(cid:2044)(cid:11940)(cid:5725)
+(cid:1461)(cid:1461)(cid:11102)(cid:11803)(cid:16892)(cid:3380)(cid:16999)(cid:11450)
+(cid:5528)(cid:5528)(cid:5445)(cid:1950)(cid:7333)(cid:2108)(cid:7622)(cid:16923)
+(cid:7078)(cid:7078)(cid:6564)(cid:16030)(cid:11102)(cid:1220)(cid:11450)(cid:1961)
+(cid:19300)(cid:19300)(cid:5322)(cid:11102)(cid:3440)(cid:7333)(cid:952)(cid:952)(cid:6409)(cid:6409)
+(cid:4747)(cid:4747)(cid:2108)(cid:7622)(cid:5322)(cid:11102)(cid:3440)(cid:7333)
+(cid:9195)(cid:9195)(cid:11532)(cid:11450)(cid:1950)(cid:18437)(cid:7078)(cid:6564)
+(cid:17274)(cid:17274)(cid:1245)(cid:948)(cid:948)(cid:4024)(cid:4024)(cid:966)(cid:7078)(cid:6564)
+(cid:16030)(cid:16030)(cid:573)(cid:573)(cid:7078)(cid:7078)(cid:6564)(cid:4493)(cid:8683)(cid:573)(cid:573)
+(cid:7078)(cid:7078)(cid:6564)(cid:6619)(cid:2585)(cid:573)(cid:573)(cid:7078)(cid:7078)(cid:6564)
+(cid:7491)(cid:7491)(cid:2263)(cid:12671)(cid:949)(cid:949)
 Note: Theaboveapplicationscenarioisademonstrationbasedonsimulationanddoesnotrepresentactualcustomer
 data.
 Our collaboration with Customer Z resulted in a significant transformation of their
 operations. Key achievements include:
- OurAtlasAI agent provides an intuitive interface for Customer Z’s frontline staff to
+(cid:129) OurAtlasAI agent provides an intuitive interface for Customer Z’s frontline staff to
 easily query and retrieve the data and information they need without requiring
 specialized technical skills;
 – 261 –
 
 === PAGE 272 ===
 BUSINESS
- Our Atlas AI agent’s advanced capabilities in understanding complex queries,
+(cid:129) Our Atlas AI agent’s advanced capabilities in understanding complex queries,
 navigating the interconnected business data and generating relevant insights have
 enabled Customer Z’s frontline staff to obtain the necessary information quickly and
 precisely;
- By leveraging ourAtlasAI agent’s analytical functionalities, Customer Z’s frontline
+(cid:129) By leveraging ourAtlasAI agent’s analytical functionalities, Customer Z’s frontline
 staff can now better perform sophisticated data-driven assessments and generate
 meaningful insights to support their decision-making and problem-solving; and
- The time savings achieved by automating data preparation and analysis tasks have
+(cid:129) The time savings achieved by automating data preparation and analysis tasks have
 allowed Customer Z’s frontline staff to focus more on their core business activities,
 leading to a significant increase in their overall work efficiency.
 In addition to the aforementioned Atlas AI agent and its applications, we had also been
@@ -12154,12 +12154,12 @@ No.of Contract No.of Contract No.of Contract No.of Contract
 projects value projects value projects value projects value
 (RMB’000) (RMB’000) (RMB’000) (RMB’000)
 At the beginning
-of the period  208 396,973 279 400,696 284 359,782 268 334,764
+of the period (cid:2) (cid:2) 208 396,973 279 400,696 284 359,782 268 334,764
 Newly secured
-project  283 316,715 298 325,756 336 391,558 159 216,530
-Projects delivered 212 312,992 293 366,670 352 416,576 159 186,984
+project (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 283 316,715 298 325,756 336 391,558 159 216,530
+Projects delivered(cid:2) 212 312,992 293 366,670 352 416,576 159 186,984
 At the end of the
-period 279 400,696 284 359,782 268 334,764 268 364,310
+period(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 279 400,696 284 359,782 268 334,764 268 364,310
 The downward trend in the outstanding contract value forAtlas graph solution at the end
 of 2022, 2023 and 2024 was mainly due to improved delivery efficiency. With the long-term
 operation of Atlas graph solution, the business model has become relatively mature, resulting
@@ -12175,12 +12175,12 @@ No.of Contract No.of Contract No.of Contract No.of Contract
 projects value projects value projects value projects value
 (RMB’000) (RMB’000) (RMB’000) (RMB’000)
 At the beginning
-of the period  – – – – 6 29,803 28 62,777
+of the period (cid:2) (cid:2) – – – – 6 29,803 28 62,777
 Newly secured
-project  – – 8 38,706 47 119,527 43 106,658
-Projects delivered – – 2 8,903 25 86,553 28 61,458
+project (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) – – 8 38,706 47 119,527 43 106,658
+Projects delivered(cid:2) – – 2 8,903 25 86,553 28 61,458
 At the end of the
-period – – 6 29,803 28 62,777 43 107,977
+period(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) – – 6 29,803 28 62,777 43 107,977
 – 264 –
 
 === PAGE 275 ===
@@ -12289,7 +12289,7 @@ various R&D stages:
 AtlasGraphSolutions AtlasAIAgent
 R&DPhase R&DFocuses Timeframe R&DFocuses Timeframe
 Project – Evaluating data source types, 2 months – Assessing the feasibility of 1 month
-Evaluation  operators and algorithms for integrating knowledge graphs
+Evaluation (cid:2) (cid:2) operators and algorithms for integrating knowledge graphs
 data association and text with LLMs
 processing, as well as the scale
 of data processed and service – Evaluating the difficulty of
@@ -12306,7 +12306,7 @@ BUSINESS
 AtlasGraphSolutions AtlasAIAgent
 R&DPhase R&DFocuses Timeframe R&DFocuses Timeframe
 Project – Planning graph ontology design 1 month – Researching application 4 months
-Planning  and data modeling logic scenarios for agent planning,
+Planning (cid:2) (cid:2) (cid:2) and data modeling logic scenarios for agent planning,
 reasoning and action
 – Scheduling the development of
 data pipelines and knowledge – Designing dialogue logic,
@@ -12315,7 +12315,7 @@ retrieval methods
 – Selecting graph-LLM
 integration technologies for
 reasoning
-Development  – Developing automated data 6 months Developing core functions such as 4 months
+Development (cid:2) – Developing automated data 6 months Developing core functions such as 4 months
 processing pipelines, including knowledge-driven reasoning,
 data processing operators and decision-making and dialogue,
 canvas-based construction while enhancing contextual
@@ -12323,7 +12323,7 @@ workflows, as well as functions management, graph-inference
 such as graph data integration, collaboration and knowledge-
 graph querying and graph augmented generation to improve
 analysis scenario adaptability
-Testing Conducting stress testing and 2 months Testing whether theAI agent 2 months
+Testing(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Conducting stress testing and 2 months Testing whether theAI agent 2 months
 quality inspection to ensure that provides professional and reliable
 data pipelines and graph services answers, ensures smooth and
 can withstand large-scale, complex natural dialogue flow, and can
@@ -12333,7 +12333,7 @@ accuracy, multi-turn stability,
 security and interpretability in
 business contexts
 Project Summarizing and forming reusable 1 month – Modularizing and productizing 1 month
-Conclusion  industry data standards, graph agent capabilities to address
+Conclusion (cid:2) (cid:2) industry data standards, graph agent capabilities to address
 models and efficient common business needs
 implementation processes, such as
 best practices for industry topic – Forming rapidly assemblable
@@ -12564,32 +12564,32 @@ Yearof
 Solution(s) total ofbusiness
 Customer Background purchased Revenue revenue relationship Creditperiod
 (RMB’000)
-CustomerA  Establishedin2016withregisteredcapital Atlasgraph 41,528 13.3 2021 30business
+CustomerA (cid:2) (cid:2) (cid:2) Establishedin2016withregisteredcapital Atlasgraph 41,528 13.3 2021 30business
 ofRMB36.0million,CustomerA solutions days
 primarilyspecializesinsoftwareand
 applicationdevelopment
-CustomerB  CustomerBisagovernmentdepartment Atlasgraph 25,755 8.2 2019 7business
+CustomerB (cid:2) (cid:2) (cid:2) CustomerBisagovernmentdepartment Atlasgraph 25,755 8.2 2019 7business
 andprovidespublicservices solutions days
-CustomerC(1)  Establishedin2003,CustomerCprimarily Atlasgraph 23,001 7.4 2021 30business
+CustomerC(1) (cid:2) (cid:2) Establishedin2003,CustomerCprimarily Atlasgraph 23,001 7.4 2021 30business
 specializesintheR&Dofemerging solutions days-90
 energytechnology,specializedpower days
 communication,powerinspection,
 powersupplyandprovincialpower
 informationandcommunication
 planningandmanagement
-CustomerD  Establishedin1996andlistedonboththe Atlasgraph 12,387 4.0 2016 15business
+CustomerD (cid:2) (cid:2) (cid:2) Establishedin1996andlistedonboththe Atlasgraph 12,387 4.0 2016 15business
 ShenzhenStockExchangeandtheHong solutions days
 KongStockExchangewitharegistered
 capitalofRMB5,820.4million,
 CustomerDprimarilyprovidesbanking,
 salesofinvestmentfundsandcustodian
 services
-CustomerE  Establishedin2018witharegistered Atlasgraph 11,684 3.6 2019 30-40
+CustomerE (cid:2) (cid:2) (cid:2) Establishedin2018witharegistered Atlasgraph 11,684 3.6 2019 30-40
 capitalofRMB1,729.7million, solutions business
 CustomerEprimarilyspecializesin days
 financialinformation,computerand
 networktechnologies
-Total 114,355 36.5
+Total(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 114,355 36.5
 – 274 –
 
 === PAGE 285 ===
@@ -12600,32 +12600,32 @@ Yearof
 Solution(s) total ofbusiness
 Customer Background purchased Revenue revenue relationship Creditperiod
 (RMB’000)
-CustomerC(1)  Establishedin2003,CustomerCprimarily Atlasgraph 50,154 13.4 2021 20-60
+CustomerC(1) (cid:2) (cid:2) Establishedin2003,CustomerCprimarily Atlasgraph 50,154 13.4 2021 20-60
 specializesintheR&Dofemerging solutions business
 energytechnology,specializedpower days
 communication,powerinspection,
 powersupplyandprovincialpower
 informationandcommunication
 planningandmanagement
-CustomerF  CustomerFisagovernmentdepartment Atlasgraph 22,211 5.9 2018 10days
+CustomerF (cid:2) (cid:2) (cid:2) CustomerFisagovernmentdepartment Atlasgraph 22,211 5.9 2018 10days
 andprovidespublicservices solutions
-CustomerG  CustomerGisagovernmentdepartment Atlasgraph 17,838 4.8 2018 30-60days
+CustomerG (cid:2) (cid:2) (cid:2) CustomerGisagovernmentdepartment Atlasgraph 17,838 4.8 2018 30-60days
 andprovidespublicservices solutions
-CustomerH(2)  Establishedin1987andlistedonboththe Atlasgraph 17,001 4.5 2022 30days
+CustomerH(2) (cid:2) (cid:2) Establishedin1987andlistedonboththe Atlasgraph 17,001 4.5 2022 30days
 ShenzhenStockExchangeandtheHong solutions
 KongStockExchange,CustomerH
 primarilyspecializesinbillacceptance
 anddiscounting,varioustrustoperations
 aswellassystemapplication
 management
-CustomerI  Establishedin1993witharegistered Atlasgraph 14,877 3.9 2022 14business
+CustomerI (cid:2) (cid:2) (cid:2) Establishedin1993witharegistered Atlasgraph 14,877 3.9 2022 14business
 capitalofRMB371.7million,Customer solutions days
 Iprimarilyspecializesinthe
 developmentofsmarttransportation
 systemsandnetworktechnologyaswell
 asprovisionofInternetinformation
 services
-Total 122,081 32.5
+Total(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 122,081 32.5
 – 275 –
 
 === PAGE 286 ===
@@ -12636,16 +12636,16 @@ Yearof
 Solution(s) total ofbusiness
 Customer Background purchased Revenue revenue relationship Creditperiod
 (RMB’000)
-CustomerC(1)  Establishedin2003,CustomerCprimarily Atlasgraph 53,319 10.6 2021 20business
+CustomerC(1) (cid:2) (cid:2) Establishedin2003,CustomerCprimarily Atlasgraph 53,319 10.6 2021 20business
 specializesintheR&Dofemerging solutions days-90
 energytechnology,specializedpower andAtlas days
 communication,powerinspection, AIagent
 powersupplyandprovincialpower
 informationandcommunication
 planningandmanagement
-CustomerJ  CustomerJisagovernmentdepartment Atlasgraph 31,393 6.2 2022 15days
+CustomerJ (cid:2) (cid:2) (cid:2) CustomerJisagovernmentdepartment Atlasgraph 31,393 6.2 2022 15days
 andprovidespublicservices solutions
-CustomerK(3)  Registeredin2002andlistedonboththe Atlasgraph 26,002 5.2 2020 15business
+CustomerK(3) (cid:2) (cid:2) Registeredin2002andlistedonboththe Atlasgraph 26,002 5.2 2020 15business
 ShanghaiStockExchangeandtheHong solutions days
 KongStockExchange,CustomerK
 primarilyspecializesintheprovisionof
@@ -12653,14 +12653,14 @@ basictelecommunications,information
 systemintegration,software
 developmentandInternetinformation
 services
-CustomerL(4)  Registeredin1990andlistedonboththe Atlasgraph 19,717 3.9 2020 14days-15
+CustomerL(4) (cid:2) (cid:2) Registeredin1990andlistedonboththe Atlasgraph 19,717 3.9 2020 14days-15
 ShanghaiStockExchangeandtheHong solutions business
 KongStockExchange,CustomerL andAtlas days
 specializesintheprovisionof AIagent
 telecommunicationsinformationsystem
 integrationandInternetinformation
 services
-CustomerM  Establishedin2004andlistedonthe AtlasAI 18,688 3.7 2018 3days
+CustomerM (cid:2) (cid:2) (cid:2) Establishedin2004andlistedonthe AtlasAI 18,688 3.7 2018 3days
 ShenzhenStockExchangewitha agent
 registeredcapitalofRMB19.7million,
 CustomerMspecializesintheprovision
@@ -12668,7 +12668,7 @@ ofdigitaltechnologyservices,
 manufacturingofcommercial
 cryptographicproductsandsalesof
 electronicproducts
-Total 149,119 29.6
+Total(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 149,119 29.6
 – 276 –
 
 === PAGE 287 ===
@@ -12679,14 +12679,14 @@ Yearof
 Solution(s) total ofbusiness
 Customer Background purchased Revenue revenue relationship Creditperiod
 (RMB’000)
-CustomerN  Establishedin2015withregisteredcapitalof Atlasgraph 18,721 7.5 2025 30days
+CustomerN (cid:2) Establishedin2015withregisteredcapitalof Atlasgraph 18,721 7.5 2025 30days
 RMB14.2million,CustomerNprimarily solutions
 specializesintechnicalservices,technical
 development,technicalconsulting,technical
 exchange,technologytransfer,technology
 promotion,informationtechnology
 consultingservicesandautomobilesales
-CustomerO  Establishedin2017,CustomerOprimarily Atlasgraph 17,162 6.9 2023 15-30
+CustomerO (cid:2) Establishedin2017,CustomerOprimarily Atlasgraph 17,162 6.9 2023 15-30
 specializesininformationtechnology solutions business
 consultingservices,technicalservices, andAtlas days
 technologydevelopment,smartvehicle- AIagent
@@ -12697,7 +12697,7 @@ softwaredevelopment,informationsystem
 operationandmaintenanceservices,
 computersystemservices,network
 technologyservicesandbigdataservices
-CustomerP  Establishedin2020withregisteredcapitalof Atlasgraph 16,132 6.5 2025 7business
+CustomerP (cid:2) Establishedin2020withregisteredcapitalof Atlasgraph 16,132 6.5 2025 7business
 RMB50.0million,CustomerPprimarily solutions days
 specializesinoperatingtelecomservices,
 internetinformationservices,technology
@@ -12716,7 +12716,7 @@ Yearof
 Solution(s) total ofbusiness
 Customer Background purchased Revenue revenue relationship Creditperiod
 (RMB’000)
-CustomerQ  Establishedin2003withregisteredcapitalof AtlasAI 14,485 5.8 2020 15days
+CustomerQ (cid:2) Establishedin2003withregisteredcapitalof AtlasAI 14,485 5.8 2020 15days
 RMB210.0million,CustomerQprimarily agent
 specializesinoperatingtelecommunication
 services,internetinformationservices,
@@ -12727,13 +12727,13 @@ softwareservices,applicationsoftware
 services,softwaredevelopment,software
 consultingandrelatedactivities
 Customer Establishedin2003,CustomerCprimarily Atlasgraph 13,518 5.4 2021 60days
-C(1)  specializesintheR&Dofemergingenergy solutions
+C(1) (cid:2) (cid:2) (cid:2) (cid:2) specializesintheR&Dofemergingenergy solutions
 technology,specializedpower andAtlas
 communication,powerinspection,power AIagent
 supplyandprovincialpowerinformation
 andcommunicationplanningand
 management
-Total 80,018 32.1
+Total(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 80,018 32.1
 Notes:
 (1) IncludestheentitiesthatwereunderthecontrolofCustomerCwiththeirtransactionamountswiththeGroup
 presented on an aggregate basis.
@@ -12876,7 +12876,7 @@ Eprimarilyspecializesinthe services
 developmentofAIapplicationsand
 networkandinformationsecurity
 software
-Total  33,346 39.3
+Total (cid:2) (cid:2) (cid:2) 33,346 39.3
 – 281 –
 
 === PAGE 292 ===
@@ -12920,7 +12920,7 @@ Jprimarilyspecializesinthe softwareand
 provisionofdevelopmentand services
 technicalconsultingservicesfor
 computerhardwareandsoftware
-Total  31,903 33.5
+Total (cid:2) (cid:2) (cid:2) 31,903 33.5
 – 282 –
 
 === PAGE 293 ===
@@ -12950,7 +12950,7 @@ systemintegration,software
 developmentandInternetinformation
 services
 Supplier Establishedin2019witharegistered Hardware,such 4,540 3.6 2024 7-30days
-M  capitalofRMB20.0million,Supplier asdisplay
+M (cid:2) (cid:2) (cid:2) capitalofRMB20.0million,Supplier asdisplay
 Mprimarilyspecializesinthe devices
 provisionofelectricalinstallation,
 informationsystemintegrationandAI
@@ -12970,7 +12970,7 @@ computerinformationsystemsecurity,
 provisionoftechnicalservicesand
 retailofcomputerhardware,software
 andauxiliaryequipment
-Total  25,129 19.6
+Total (cid:2) (cid:2) (cid:2) 25,129 19.6
 – 283 –
 
 === PAGE 294 ===
@@ -12981,7 +12981,7 @@ Products/ Total commencementof
 services Purchase purchase business Credit
 Supplier Background provided Amount amount relationship period
 (RMB’000)
-SupplierP  Establishedin2015withregistered Workflow 13,155 16.2 2025 7days
+SupplierP (cid:2) (cid:2) Establishedin2015withregistered Workflow 13,155 16.2 2025 7days
 capitalofRMB120.0million, and
 SupplierPprimarilyspecializesinthe system
 researchanddevelopmentofInternet development
@@ -12991,7 +12991,7 @@ technologytransferinthefieldsof
 computernetworktechnology,
 computerinformationtechnology,and
 communicationtechnology
-SupplierQ  Establishedin2021witharegistered Data 10,486 12.9 2025 7business
+SupplierQ (cid:2) (cid:2) Establishedin2021witharegistered Data 10,486 12.9 2025 7business
 capitalofRMB10.0million,Supplier governance days
 Qprimarilyspecializesinsoftware services
 development,dataprocessingand
@@ -13001,7 +13001,7 @@ auxiliaryequipment,technical
 services,informationtechnology
 consultingservicesandbigdata
 services
-SupplierR  Establishedin2023witharegistered Data 6,718 8.2 2025 15business
+SupplierR (cid:2) (cid:2) Establishedin2023witharegistered Data 6,718 8.2 2025 15business
 capitalofRMB20.0million,Supplier management days
 Rprimarilyspecializesintechnical and
 services,informationsystem workflow
@@ -13021,19 +13021,19 @@ Products/ Total commencementof
 services Purchase purchase business Credit
 Supplier Background provided Amount amount relationship period
 (RMB’000)
-SupplierS  Establishedin2015witharegistered Data 5,108 6.3 2025 5business
+SupplierS (cid:2) (cid:2) Establishedin2015witharegistered Data 5,108 6.3 2025 5business
 capitalofRMB2.0million,SupplierS quality days
 primarilyspecializesintechnology validation
 development,technologytransfer, services
 technicalservices,computersystem
 services,basicsoftwareservicesand
 applicationsoftwareservices
-SupplierT  Establishedin2021withregistered Communication 4,168 5.1 2025 5business
+SupplierT (cid:2) (cid:2) Establishedin2021withregistered Communication 4,168 5.1 2025 5business
 capitalofRMB10.0million,Supplier equipment days
 Tprimarilyspecializesincontracting
 forelectronicandintelligent
 engineering
-Total  39,635 48.7
+Total (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 39,635 48.7
 Thehardwareequipmentandthird-partysoftwareprocuredbyusduringtheTrackRecord
 Period are not essential components of our solutions. These items primarily serve as auxiliary
 or supporting elements, rather than forming a core part of our proprietary solutions.
@@ -13470,26 +13470,26 @@ management policies and procedures to ensure that they remain effective and suff
 To monitor the ongoing implementation of our internal control and risk management
 policies and procedures, we have adopted, among other things, the following risk management
 measures:
- Establish an Audit Committee to review and supervise our financial reporting
+(cid:129) Establish an Audit Committee to review and supervise our financial reporting
 process and internal control system. For the qualifications and experience of the
 committee members, see “Directors, Supervisors and Senior Management;”
- Adopt various policies to ensure compliance with the Listing Rules, including, but
+(cid:129) Adopt various policies to ensure compliance with the Listing Rules, including, but
 not limited to, aspects related to risk management and connected transactions;
 – 295 –
 
 === PAGE 306 ===
 BUSINESS
- Provide anti-corruption and anti-bribery compliance training periodically to our
+(cid:129) Provide anti-corruption and anti-bribery compliance training periodically to our
 senior management and employees to enhance their knowledge of and compliance
 with applicable laws and regulations, and include relevant policies against
 noncompliance in employee handbooks;
- OrganizetrainingsessionsforourDirectorsandseniormanagementinrespectofthe
+(cid:129) OrganizetrainingsessionsforourDirectorsandseniormanagementinrespectofthe
 relevant requirements of the Listing Rules and duties of directors of companies
 listed in Hong Kong;
- Provide enhanced training programs on cybersecurity and data protection;
- Strengthen fund management to prevent the misappropriation of funds and enhance
+(cid:129) Provide enhanced training programs on cybersecurity and data protection;
+(cid:129) Strengthen fund management to prevent the misappropriation of funds and enhance
 the efficiency of fund utilization; and
- Periodically review access to our IT systems.
+(cid:129) Periodically review access to our IT systems.
 We have engaged an internal control consultant to conduct a general internal control
 review of our major business processes to identify deficiencies and areas for improvement,
 provide recommendations on remedial measures and evaluate the implementation status
@@ -13504,10 +13504,10 @@ following table sets forth a breakdown of our employees by business function as 
 30, 2025:
 Number of
 Business Function Employees Percent (%)
-R&D and Technical 528 75.3
-Sales, Marketing and Consultation  133 19.0
-Administrative 40 5.7
-Total 701 100.0
+R&D and Technical(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 528 75.3
+Sales, Marketing and Consultation (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 133 19.0
+Administrative(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 40 5.7
+Total(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 701 100.0
 Attracting, retaining and motivating qualified employees is instrumental to our success.
 We utilize various recruitment channels, including on-campus recruitment, professional
 recruitment websites, referrals and recruiting agencies to attract talent. We are committed to
@@ -13571,19 +13571,19 @@ We assess climate-related risks and opportunities based on our industry context 
 product characteristics. Corresponding response strategies are formulated to enhance our
 climate resilience and ensure the sustainable operation of our business.
 Climate-Related Risks and Mitigation Measures
- Physical Risks: Extreme weather events such as heavy rainfall, flooding, and heatwaves
+(cid:129) Physical Risks: Extreme weather events such as heavy rainfall, flooding, and heatwaves
 may disrupt the stable operation of data centers and cloud infrastructure.To address these
 risks, we have implemented a comprehensive risk management framework and regularly
 monitor extreme weather patterns to ensure timely response to emergencies. We also
 diversify our data storage suppliers and select data center partners with proven climate
 resilience to safeguard business continuity under adverse weather conditions.
- Transition Risks: These risks arise from uncertainties associated with the global shift to
+(cid:129) Transition Risks: These risks arise from uncertainties associated with the global shift to
 a low-carbon economy, including changes in climate policies, technological
 advancements, and evolving market demands. We closely monitor global climate and
 environmental trends and promote low-carbon and green office practices to reduce
 emissions and resource consumption in our operations.
 Climate-Related Opportunities and Strategic Pathways
- Resource Efficiency: The societal push for green and low-carbon transformation enables
+(cid:129) Resource Efficiency: The societal push for green and low-carbon transformation enables
 us to improve resource utilization in technology development and business operations,
 reduce operating costs, and enhance the competitiveness of our solutions in driving
 efficiency.
@@ -13591,7 +13591,7 @@ efficiency.
 
 === PAGE 309 ===
 BUSINESS
- Products and Services: Under the guidance of the “dual carbon” goals, demand for green,
+(cid:129) Products and Services: Under the guidance of the “dual carbon” goals, demand for green,
 low-carbon, and intelligent transformation is rising across industries. Leveraging our
 technological capabilities and solutions, we actively support downstream clients in their
 strategic transitions, helping them improve operational efficiency and contribute to
@@ -13635,16 +13635,16 @@ ended
 Year ended December 31,
 September 30,
 2022 2023 2024 2025
-Total number of employees  748 738 705 701
+Total number of employees (cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 748 738 705 701
 Number of employees
 by gender
-Male 589 584 572 580
-Female 159 154 133 121
+Male(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 589 584 572 580
+Female(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 159 154 133 121
 Number of employees
 by age group
-Under 25 years old  35 113 75 84
-25-35 years old  570 522 495 466
-Above 35 years old  143 103 135 151
+Under 25 years old (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 35 113 75 84
+25-35 years old (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 570 522 495 466
+Above 35 years old (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 143 103 135 151
 We entered into employment agreements with our employees and specified (i) their
 remuneration, which typically includes base salaries and bonuses, and the qualifications,
 industry experience, position and performance on which their remuneration depends; (ii)
@@ -13683,12 +13683,12 @@ The following table sets forth our electricity and water consumption as well as 
 intensity for the years/periods indicated:
 For the years ended December 31,
 2022 2023 2024
-Electricity consumption (kWh)  325,192 326,399 326,595
+Electricity consumption (kWh) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 325,192 326,399 326,595
 Electricity consumption intensity(1)
-(kWh/person) 434 442 463
-Water consumption (tons)  1,752 1,745 1,763
+(kWh/person)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 434 442 463
+Water consumption (tons) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 1,752 1,745 1,763
 Water consumption intensity(2)
-(tons/person)  2 2 3
+(tons/person) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 2 2 3
 Notes:
 (1) Electricity consumption intensity is calculated by dividing our electricity consumption in kWh in a
 givenyearbythenumberofouremployeesasofDecember31ofthesameyearorSeptember30ofthe
@@ -13701,7 +13701,7 @@ of our operations to minimize environmental impact. Based on our 2024 baseline, 
 reduce per capita electricity consumption by 2%–5% and per capita water consumption by
 1%–3% within three years. To achieve these targets, we have implemented the following
 measures:
- Electricity Reduction Initiatives: During working hours, we regularly inspect and
+(cid:129) Electricity Reduction Initiatives: During working hours, we regularly inspect and
 switch off unused office electronic devices. Air conditioning systems, ventilation
 systems, and lighting are operated only in necessary areas and timeframes, with
 temperature settings restricted to designated ranges. Outside of working hours, all
@@ -13711,7 +13711,7 @@ consumption.
 
 === PAGE 312 ===
 BUSINESS
- Water Conservation Measures: We have placed water-saving reminders in offices
+(cid:129) Water Conservation Measures: We have placed water-saving reminders in offices
 across our company, subsidiaries, and branches to raise employee awareness and
 encourage responsible water usage.
 In addition, we have adopted a series of actions to reduce waste and carbon emissions
@@ -13901,16 +13901,16 @@ we currently hold:
 Licenses/Permits/Approvals Validity Period GrantingAuthority
 High and New Three years since January Beijing Municipal Science &
 Technology Enterprise 2025 Technology Commission,
-Certificate  Beijing Municipal Finance
+Certificate (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Beijing Municipal Finance
 Bureau and Beijing
 Municipal Tax Service,
 State Taxation
 Administration
 Information Security July 6, 2023 – July 12, China Certification Center
 Management System 2026 Co., Ltd.
-Certification
+Certification(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 Quality Management June 13, 2023 – June 20, China Certification Center
-System Certification 2026 Co., Ltd.
+System Certification(cid:2)(cid:2)(cid:2) 2026 Co., Ltd.
 – 306 –
 
 === PAGE 317 ===
@@ -13918,7 +13918,7 @@ BUSINESS
 Licenses/Permits/Approvals Validity Period GrantingAuthority
 Information Technology July 6, 2023 – July 12, China Certification Center
 Service Management 2026 Co., Ltd.
-System Certification
+System Certification(cid:2)(cid:2)(cid:2)
 We renew the licenses, permits, approvals and certificates from time to time to comply
 with the relevant laws and regulations. As advised by our PRC Legal Advisors, there is no
 material legal impediment to renewing our licenses, permits, approvals and certificates
@@ -14020,7 +14020,7 @@ During the Track Record Period, we received a number of awards and accolades in
 recognition of our brand and products. The following table sets out the major awards and
 recognitions we had received as of the Latest Practicable Date:
 Year Awards/Recognition AwardingAuthority
-2026
+2026(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 Hurun China Artificial Intelligence Hurun Report (胡潤百富), Beijing
 Enterprise Future Star (胡潤中國 E-Town International Services
 人工智能企業未來之星) Trade Group Co., Ltd. (北京亦莊
@@ -14028,7 +14028,7 @@ Enterprise Future Star (胡潤中國 E-Town International Services
 Beijing E-Town Administrative
 Committee (北京市亦莊管理委員
 會)
-2025 AI Frontier Innovation Award of the Alliance of Industrial Technology
+2025(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) AI Frontier Innovation Award of the Alliance of Industrial Technology
 2nd “Zu Chongzhi Award” (第二 Innovation for Next Generation
 屆“祖沖之獎”—人工智能前沿創 Artificial Intelligence Beijing
 新獎) Institute for Brain Science and
@@ -14041,29 +14041,29 @@ Technology(新一代人工智能產業
 === PAGE 320 ===
 BUSINESS
 Year Awards/Recognition AwardingAuthority
-2024  Second Prize in the National Finals Organizing Committee of the
+2024 (cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Second Prize in the National Finals Organizing Committee of the
 of the 9th “Maker in China” SME “Maker in China” Competition
 Innovation and Entrepreneurship (“創客中國”大賽組委會)
 Competition (第九屆“創客中國”
 中小企業創新創業大賽全國總決
 賽二等獎)
-2024 Top Ten Innovative AI Enterprises Global AI Product Application
+2024(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Top Ten Innovative AI Enterprises Global AI Product Application
 of theYear in China (中國人工智 Expo(全球人工智能產品應用博覽
 能年度十大創新企業) 會)
-2024 Exemplary Case of Technological 2024 China International Fair for
+2024(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Exemplary Case of Technological 2024 China International Fair for
 Innovation Service (科技創新服 Trade in Services (2024年中國國
 務示範案例) 際服務貿易交易會)
-2024 Beijing General Artificial Organizing Committee of the 2024
+2024(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Beijing General Artificial Organizing Committee of the 2024
 Intelligence Industry Innovation Global Digital Economy
 Partner Program (北京市通用人 Conference AI Forum (2024全球
 工智能產業創新伙伴計劃) 數字經濟大會人工智能專題論壇
 組委會)
-2024 Hype Cycle for Data,Analytics and Gartner
+2024(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Hype Cycle for Data,Analytics and Gartner
 AI in China-Representative
 Supplier (中國數據、分析和人工
 智能技術成熟度曲線-代表性供
 應商)
-2023 Excellent Innovative Solution China Electronic Product
+2023(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Excellent Innovative Solution China Electronic Product
 Award (信創優秀解決方案獎) Reliability and Environmental
 Testing Research Institute
 (CEPREI) (中國賽寶實驗室)
@@ -14072,34 +14072,34 @@ Testing Research Institute
 === PAGE 321 ===
 BUSINESS
 Year Awards/Recognition AwardingAuthority
-2023
+2023(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)
 Market Guide for DBMS, China- Gartner
 Representative Vendors (中國數
 據庫市場指南-代表廠商)
-2023 Market Guide for Analytics Gartner
+2023(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Market Guide for Analytics Gartner
 Platforms, China-Representative
 Vendors(中國分析平台市場指南-
 代表廠商)
-2023 Market Guide for AI Software, Gartner
+2023(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Market Guide for AI Software, Gartner
 China-Representative Suppliers
 in China’s AI Software Market
 (中國人工智能軟件市場指南-中
 國AI軟件市場代表性供應商)
-2023 Beijing AI Industry Empowerment Global Digital Economy
+2023(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Beijing AI Industry Empowerment Global Digital Economy
 Exemplary Cases Award (北京市 Conference (全球數字經濟大會)
 人工智能行業賦能典型案例獎)
-2023 Recommended Preferred Product Digital Economy Pioneer
+2023(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Recommended Preferred Product Digital Economy Pioneer
 Award for Smart Government Conference and Innovation
 Construction (智慧政府建設推薦 Impact Annual Summit (數字經
 優選產品獎) 濟領航者大會暨創新影響力年會)
-2022 Digital Economy Industry Global Digital Economy
+2022(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Digital Economy Industry Global Digital Economy
 Innovation Achievements Award Conference (全球數字經濟大會)
 (數字經濟產業創新成果獎)
-2022 Top 100 Beijing Digital Economy Beijing Enterprise Confederation,
+2022(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) Top 100 Beijing Digital Economy Beijing Enterprise Confederation,
 Enterprises(北京數字經濟企業100 Chinese Entrepreneurs
 強) Association(北京企業聯合會、北
 京市企業家協會)
-2022 First Prize for Scientific and Chinese Institute of Electronics (中
+2022(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) First Prize for Scientific and Chinese Institute of Electronics (中
 Technological Progress in 國電子學會)
 Science and Technology Awards
 (科學技術獎科技進步一等獎)
@@ -14116,23 +14116,23 @@ Timeofjoining appointmentas Position(s)for otherDirectorsand
 Name Age ourGroup aDirector currenttenure Rolesandresponsibilities seniormanagement
 ExecutiveDirectors
 Mr.RenXuyang 51 August23, July4,2023 Chairmanofour OperationofourBoard None
-(任旭陽)  2013 Boardand andcorporate
+(任旭陽) (cid:2) (cid:2) (cid:2) (cid:2) 2013 Boardand andcorporate
 executiveDirector governanceatthe
 Boardlevel
 Mr.YangZaifei 51 April20,2019 April20,2019 ExecutiveDirector Overallstrategic None
-(楊再飛)  andchiefexecutive planning,business
+(楊再飛) (cid:2) (cid:2) (cid:2) (cid:2) andchiefexecutive planning,business
 officer directionand
 comprehensive
 operational
 managementofour
 Group
 Ms.YangJuan(楊 46 February9, May26,2021 ExecutiveDirector Operational None
-娟)  2015 anddeputygeneral managementand
+娟) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 2015 anddeputygeneral managementand
 manager overseasbusiness
 managementofour
 Group
 Mr.WanPengjiang 41 June1,2015 July4,2023 ExecutiveDirector Marketingstrategies None
-(萬澎江)  anddeputygeneral andoperational
+(萬澎江) (cid:2) (cid:2) (cid:2) (cid:2) anddeputygeneral andoperational
 manager managementofour
 Group
 – 312 –
@@ -14144,17 +14144,17 @@ Timeofjoining appointmentas Position(s)for otherDirectorsand
 Name Age ourGroup aDirector currenttenure Rolesandresponsibilities seniormanagement
 Non-executiveDirectors
 Mr.LiJiaqing 52 January11, May26,2021 Non-executive Providingprofessional None
-(李家慶)  2016 Director opinionandjudgment
+(李家慶) (cid:2) (cid:2) (cid:2) (cid:2) 2016 Director opinionandjudgment
 toourBoard
 Ms.LongYu 53 December3, July4,2023 Non-executive Providingprofessional None
-(龍宇) 2013 Director opinionandjudgment
+(龍宇)(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 2013 Director opinionandjudgment
 toourBoard
 Mr.LiHongtao 41 December29, July4,2023 Non-executive Providingprofessional None
-(李洪濤)  2021 Director opinionandjudgment
+(李洪濤) (cid:2) (cid:2) (cid:2) (cid:2) 2021 Director opinionandjudgment
 toourBoard
 Independentnon-executiveDirectors
 Mr.ZhangYifan 53 ListingDate Appointment Independent Exercisingindependent None
-(張軼凡)  approved non-executive judgmentonour
+(張軼凡) (cid:2) (cid:2) (cid:2) (cid:2) approved non-executive judgmentonour
 bythe Director Group’sstrategy,
 Shareholders performanceand
 onJune14, standardofconduct
@@ -14163,7 +14163,7 @@ effectfrom
 theListing
 Date)
 Mr.JiangTian 41 ListingDate Appointment Independent Exercisingindependent None
-(江天) approved non-executive judgmentonour
+(江天)(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) approved non-executive judgmentonour
 bythe Director Group’sstrategy,
 Shareholders performanceand
 onJune14, standardofconduct
@@ -14179,7 +14179,7 @@ Dateof Relationshipwith
 Timeofjoining appointmentas Position(s)for otherDirectorsand
 Name Age ourGroup aDirector currenttenure Rolesandresponsibilities seniormanagement
 Mr.LiShuPai 49 ListingDate Appointment Independent Exercisingindependent None
-(李書湃)
+(李書湃)(cid:2) (cid:2) (cid:2) (cid:2) (cid:2)
 approved non-executive judgmentonour
 bythe Director Group’sstrategy,
 Shareholders performanceand
@@ -14189,7 +14189,7 @@ effectfrom
 theListing
 Date)
 Mr.MaYeming 42 ListingDate Appointment Independent Exercisingindependent None
-(馬野銘)  approved non-executive judgmentonour
+(馬野銘) (cid:2) (cid:2) (cid:2) (cid:2) approved non-executive judgmentonour
 bythe Director Group’sstrategy,
 Shareholders performanceand
 onJune14, standardofconduct
@@ -14509,26 +14509,26 @@ appointmentas Relationshipwith
 Timeofjoining senior otherDirectorsand
 Name Age Position/Title ourGroup management Rolesandresponsibilities seniormanagement
 Mr.YangZaifei 51 ExecutiveDirector April20,2019 May26,2021 Overallstrategic None
-(楊再飛)  andchiefexecutive planning,business
+(楊再飛) (cid:2) (cid:2) (cid:2) (cid:2) andchiefexecutive planning,business
 officer directionand
 comprehensive
 operational
 managementofour
 Group
 Ms.YangJuan 46 ExecutiveDirector February9, February9, Operational None
-(楊娟) anddeputygeneral 2015 2015 managementand
+(楊娟)(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) anddeputygeneral 2015 2015 managementand
 manager overseasbusiness
 managementofour
 Group
 Mr.WanPengjiang 41 ExecutiveDirector June1,2015 June1,2015 Marketingstrategies None
-(萬澎江)  anddeputygeneral andoperational
+(萬澎江) (cid:2) (cid:2) (cid:2) (cid:2) anddeputygeneral andoperational
 manager managementofour
 Group
 Mr.SunJunbo 37 Chieffinancialofficer April1,2025 May30,2025 OverseeingourGroup’s None
-(孫君博)  financialandinternal
+(孫君博) (cid:2) (cid:2) (cid:2) (cid:2) financialandinternal
 audit
 Mr.MiaoZheng 33 Boardsecretary September6, December25, Managingboard None
-(苗正) 2024 2024 meetingsand
+(苗正)(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) 2024 2024 meetingsand
 ensuringcompliance
 andgovernanceof
 ourCompany
@@ -14624,15 +14624,15 @@ Yifan (張軼凡). Mr. Li Shu Pai (李書湃), who holds the appropriate profess
 as required under Rules 3.10(2) and 3.21 of the Listing Rules, serves as the chairperson of the
 Audit Committee. The primary duties of the Audit Committee include, but not limited to, the
 following:
- proposing the appointment or change of external auditors to our Board, and
+(cid:129) proposing the appointment or change of external auditors to our Board, and
 monitoring the independence of external auditors and evaluating their performance;
- guiding internal audit work;
- examining the financial information of our Company, reviewing financial reports
+(cid:129) guiding internal audit work;
+(cid:129) examining the financial information of our Company, reviewing financial reports
 and statements of our Company and giving comments on relevant matters;
- assessing the effectiveness of internal control;
- coordinating the communication among management, internal audit department,
+(cid:129) assessing the effectiveness of internal control;
+(cid:129) coordinating the communication among management, internal audit department,
 related departments and external audit agency; and
- dealing with other matters that are authorized by our Board or involved in relevant
+(cid:129) dealing with other matters that are authorized by our Board or involved in relevant
 laws and regulations.
 Remuneration and Appraisal Committee
 We have established a Remuneration and Appraisal Committee with written terms of
@@ -14646,14 +14646,14 @@ DIRECTORS AND SENIOR MANAGEMENT
 Zaifei (楊再飛) and Mr. Ma Yeming (馬野銘). Mr. Jiang Tian (江天) serves as the chairperson
 of the Remuneration and Appraisal Committee. The primary duties of the Remuneration and
 Appraisal Committee include, but not limited to, the following:
- formulating individual remuneration plans for Directors and members of the senior
+(cid:129) formulating individual remuneration plans for Directors and members of the senior
 management in accordance with the terms of reference of the job responsibilities,
 the importance of their positions as well as the remuneration benchmarks for the
 relevant positions in other comparable companies;
- examining the criteria of performance evaluation of Directors and the senior
+(cid:129) examining the criteria of performance evaluation of Directors and the senior
 management of our Company, and conducting annual performance evaluation;
- supervising the implementation of the remuneration plan of our Company; and
- dealing with other matters that are authorized by our Board.
+(cid:129) supervising the implementation of the remuneration plan of our Company; and
+(cid:129) dealing with other matters that are authorized by our Board.
 Nomination Committee
 We have established a Nomination Committee with written terms of reference in
 compliance with Rule 3.27A of the Listing Rules, paragraph B.3 of Part 2 of the Corporate
@@ -14661,28 +14661,28 @@ Governance Code, Appendix C1 to the Listing Rules. The Nomination Committee cons
 three Directors, namely Mr. MaYeming (馬野銘), Ms.Yang Juan (楊娟) and Mr. JiangTian (江
 天). Mr. Ma Yeming (馬野銘) serves as the chairperson of the Nomination Committee. The
 primary duties of the Nomination Committee include, but not limited to, the following:
- reviewing the structure, size and composition (including the skills, knowledge and
+(cid:129) reviewing the structure, size and composition (including the skills, knowledge and
 experience) of our Board at least annually, assisting our Board in maintaining a
 board skills matrix; and making recommendations to our Board on any proposed
 changes to our Board based on our Company’s business operation, asset scale and
 equity structure;
- researching and developing standards and procedures for the election of our Board
+(cid:129) researching and developing standards and procedures for the election of our Board
 members, general managers and members of the senior management, and making
 recommendations to our Board;
- conducting extensive search and providing to our Board suitable candidates for
+(cid:129) conducting extensive search and providing to our Board suitable candidates for
 Directors, general managers and other members of the senior management;
- examining our Board candidates, general manager and members of the senior
+(cid:129) examining our Board candidates, general manager and members of the senior
 management and making recommendations to our Board;
- assessing and reviewing the independence of independent non-executive Directors;
- making recommendations to our Board on the appointment or reappointment of
+(cid:129) assessing and reviewing the independence of independent non-executive Directors;
+(cid:129) making recommendations to our Board on the appointment or reappointment of
 directors and succession planning for directors, in particular the chairman and the
 chief executive;
 – 326 –
 
 === PAGE 337 ===
 DIRECTORS AND SENIOR MANAGEMENT
- supporting our regular evaluation of our Board’s performance; and
- dealing with other matters that are authorized by our Board.
+(cid:129) supporting our regular evaluation of our Board’s performance; and
+(cid:129) dealing with other matters that are authorized by our Board.
 REMUNERATION OF DIRECTORS AND SENIOR MANAGEMENT
 Our Directors received their remuneration in the form of salaries, allowances and other
 benefits, discretionary bonuses, retirement scheme contributions and share-based payments.
@@ -15000,7 +15000,7 @@ percentageof percentageof
 shareholdingintotal shareholdinginthe
 Natureof Numberof issuedsharecapital Numberof totalsharecapital
 NameofShareholder Interest ClassofShares Shares(1) ofourCompany ClassofShares Shares(1)(2) ofourCompany(3)
-Mr.Ren Beneficial UnlistedShares 2,155,963 5.79% HShares 21,559,630 5.38%
+Mr.Ren(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Beneficial UnlistedShares 2,155,963 5.79% HShares 21,559,630 5.38%
 interest
 Interestin UnlistedShares 3,949,542 10.61% HShares 39,495,420 9.86%
 controlled
@@ -15008,7 +15008,7 @@ corporation(4)
 Interestof UnlistedShares 4,862,398 13.06% HShares 48,623,980 12.14%
 concert
 parties(6)
-Mr.Yang Beneficial UnlistedShares 1,779,453 4.78% HShares 17,794,530 4.44%
+Mr.Yang(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Beneficial UnlistedShares 1,779,453 4.78% HShares 17,794,530 4.44%
 interest
 Interestin UnlistedShares 3,082,945 8.28% HShares 30,829,450 7.70%
 controlled
@@ -15016,11 +15016,11 @@ corporation(5)
 Interestof UnlistedShares 6,105,505 16.40% HShares 61,055,050 15.25%
 concert
 parties(6)
-HaikuoFenxiang  Beneficial UnlistedShares 3,949,542 10.61% HShares 39,495,420 9.86%
+HaikuoFenxiang (cid:2) (cid:2) (cid:2) Beneficial UnlistedShares 3,949,542 10.61% HShares 39,495,420 9.86%
 interest(4)
-HaikuoChengzhang  Beneficial UnlistedShares 3,082,945 8.28% HShares 30,829,450 7.70%
+HaikuoChengzhang (cid:2) Beneficial UnlistedShares 3,082,945 8.28% HShares 30,829,450 7.70%
 interest(5)
-LCELITE(7) Beneficial UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
+LCELITE(7)(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Beneficial UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
 interestand
 interestin
 concert
@@ -15037,39 +15037,39 @@ percentageof percentageof
 shareholdingintotal shareholdinginthe
 Natureof Numberof issuedsharecapital Numberof totalsharecapital
 NameofShareholder Interest ClassofShares Shares(1) ofourCompany ClassofShares Shares(1)(2) ofourCompany(3)
-LCFundVI,L.P.(7) Interestin UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
+LCFundVI,L.P.(7)(cid:2) (cid:2) Interestin UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
 controlled
 corporations
 andinterest
 inconcert
 parties
 LCFundVIGP,L.P. Interestin UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
- controlled
+(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) controlled
 (7)
 corporations
 andinterest
 inconcert
 parties
 LCFundVIGP Interestin UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
-Limited(7)  controlled
+Limited(7) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) controlled
 corporations
 andinterest
 inconcert
 parties
 LCFundGP Interestin UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
-Limited(7)  controlled
+Limited(7) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) controlled
 corporations
 andinterest
 inconcert
 parties
 UnionSeasonHoldings Interestin UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
-Limited(7)  controlled
+Limited(7) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) controlled
 corporations
 andinterest
 inconcert
 parties
 JunlianXiangdao Beneficial UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
-LP(7)  interestand
+LP(7) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) interestand
 interestin
 concert
 parties
@@ -15085,12 +15085,12 @@ percentageof percentageof
 shareholdingintotal shareholdinginthe
 Natureof Numberof issuedsharecapital Numberof totalsharecapital
 NameofShareholder Interest ClassofShares Shares(1) ofourCompany ClassofShares Shares(1)(2) ofourCompany(3)
-JunlianYiheLP(7) Beneficial UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
+JunlianYiheLP(7)(cid:2) (cid:2) (cid:2) Beneficial UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
 interestand
 interestin
 concert
 parties
-SuzhouJunjundeLP(7) Beneficial UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
+SuzhouJunjundeLP(7)(cid:2) Beneficial UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
 interestand
 interestin
 concert
@@ -15099,13 +15099,13 @@ LhasaJunqiEnterprise Interestin UnlistedShares 5,076,506 13.62% HShares 50,765,0
 ManagementCo., controlled
 Ltd.(拉薩君祺企業 corporations
 管理有限公司)(7) andinterest
-(“LhasaJunqi”)  inconcert
+(“LhasaJunqi”) (cid:2) (cid:2) inconcert
 parties
 LegendCapital Interestin UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
 ManagementCo. controlled
 Ltd.(君聯資本管理 corporations
 股份有限公司)(7)
-(“LegendCapital”)
+(“LegendCapital”)(cid:2)
 BeijingJuncheng Interestin UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
 HezhongInvestment controlled
 Management corporations
@@ -15114,13 +15114,13 @@ Partnership)(北京君
 誠合眾投資管理合夥
 企業(有限合夥))(7)
 (“Juncheng
-Hezhong”)
+Hezhong”)(cid:2) (cid:2) (cid:2) (cid:2) (cid:2)
 BeijingJunqiJiarui Interestin UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
 Enterprise controlled
 ManagementLimited corporations
 (北京君祺嘉睿企業
 管理有限公司)(7)
-(“JunqiJiarui”) 
+(“JunqiJiarui”) (cid:2) (cid:2)
 – 338 –
 
 === PAGE 349 ===
@@ -15134,9 +15134,9 @@ shareholdingintotal shareholdinginthe
 Natureof Numberof issuedsharecapital Numberof totalsharecapital
 NameofShareholder Interest ClassofShares Shares(1) ofourCompany ClassofShares Shares(1)(2) ofourCompany(3)
 Mr.ChenHao Interestin UnlistedShares 5,076,506 13.62% HShares 50,765,060 12.68%
-(陳浩)(7) controlled
+(陳浩)(7)(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) controlled
 corporations
-BAI Beneficial UnlistedShares 2,422,434 6.50% HShares 24,224,340 6.05%
+BAI(cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) (cid:2) Beneficial UnlistedShares 2,422,434 6.50% HShares 24,224,340 6.05%
 interest
 Remarks:
 (1) All interests stated are long positions.
@@ -15208,10 +15208,10 @@ Approximate
 percentage to
 Description of Shares Number of Shares total share capital
 (%)
-Unlisted Shares in issue  – –
-H Shares converted from Unlisted Shares  372,400,480 93.00
-H Shares to be issued under the Global Offering 28,030,200 7.00
-Total 400,430,680 100.00
+Unlisted Shares in issue (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) – –
+H Shares converted from Unlisted Shares (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 372,400,480 93.00
+H Shares to be issued under the Global Offering(cid:2)(cid:2) 28,030,200 7.00
+Total(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 400,430,680 100.00
 Note: See “History, Development and Corporate Structure — Corporate Structure — Corporate structure
 immediately following the Global Offering” for details of the identities of our Shareholders whose
 Shares will be converted into H Shares upon Listing.
@@ -15371,11 +15371,11 @@ following:
 General Factors
 Our business and operating results are also affected by the following major general
 factors:
- Overall political environment and economic growth;
- Growth, competition environment and market dynamics of our industry;
- Technological advancements of our industry;
- Relevant laws and regulations, and governmental policies and initiatives; and
- Occurrence of force majeure events, outbreak of public health incidents, acts of war,
+(cid:129) Overall political environment and economic growth;
+(cid:129) Growth, competition environment and market dynamics of our industry;
+(cid:129) Technological advancements of our industry;
+(cid:129) Relevant laws and regulations, and governmental policies and initiatives; and
+(cid:129) Occurrence of force majeure events, outbreak of public health incidents, acts of war,
 social and economic chaos and natural disasters.
 – 345 –
 
@@ -15607,9 +15607,9 @@ See Note 2(r) of the Accountants’ Report in Appendix I to this prospectus.
 Credit Losses and Impairment of Assets
 Credit losses from financial instruments and contract assets
 We recognize a loss allowance for expected credit losses (“ECL”s) on:
- financial assets measured at amortized cost (including cash and cash equivalents,
+(cid:129) financial assets measured at amortized cost (including cash and cash equivalents,
 trade and bills receivables and other receivables);
- contract assets.
+(cid:129) contract assets.
 Measurement of ECLs
 ECLs are a probability-weighted estimate of credit losses. Generally, credit losses are
 measured as the present value of all expected cash shortfalls between the contractual expected
@@ -15620,21 +15620,21 @@ amounts.
 FINANCIAL INFORMATION
 The expected cash shortfalls are discounted using the following rate if the effect is
 material:
- fixed-rate financial assets, trade and other receivables and contract assets: effective
+(cid:129) fixed-rate financial assets, trade and other receivables and contract assets: effective
 interest rate determined at initial recognition or an approximation thereof.
 The maximum period considered when estimating ECLs is the maximum contractual
 period over which we are exposed to credit risk.
 ECLs are measured on either of the following bases:
- 12-month ECLs: these are the portion of ECLs that result from default events that
+(cid:129) 12-month ECLs: these are the portion of ECLs that result from default events that
 are possible within the 12 months after the reporting date (or a shorter period if the
 expected life of the instrument is less than 12 months); and
- lifetime ECLs: these are the ECLs that result from all possible default events over
+(cid:129) lifetime ECLs: these are the ECLs that result from all possible default events over
 the expected lives of the items to which the ECL model applies.
 We measure loss allowances at an amount equal to lifetime ECLs, except for the
 following, which are measured at 12-months ECLs:
- financial instruments that are determined to have low credit risk at the reporting
+(cid:129) financial instruments that are determined to have low credit risk at the reporting
 date; and
- other financial instruments for which credit risk (i.e. the risk of default occurring
+(cid:129) other financial instruments for which credit risk (i.e. the risk of default occurring
 over the expected life of the financial instrument) has not increased significantly
 since initial recognition.
 Loss allowances for trade and bills receivables and contract assets are always measured
@@ -15702,13 +15702,13 @@ We measure fair value of financial instruments using the following three-level f
 hierarchy as defined in IFRS 13, Fair value measurement. The level into which a fair value
 measurement is classified is determined with reference to the observability and significance of
 the inputs used in the valuation technique as follows:
- Level 1 valuations: Fair value measured using only Level 1 inputs, i.e. unadjusted
+(cid:129) Level 1 valuations: Fair value measured using only Level 1 inputs, i.e. unadjusted
 quoted prices in active markets for identical assets or liabilities at the measurement
 date.
- Level 2 valuations: Fair value measured using Level 2 inputs, i.e. observable inputs
+(cid:129) Level 2 valuations: Fair value measured using Level 2 inputs, i.e. observable inputs
 which fail to meet Level 1, and not using significant unobservable inputs.
 Unobservable inputs are inputs for which market data are not available.
- Level 3 valuations: Fair value measured using significant unobservable inputs.
+(cid:129) Level 3 valuations: Fair value measured using significant unobservable inputs.
 There were no transfers between Level 1 and Level 2, or transfers into or out of Level 3.
 Our policy is to recognize transfers between levels of fair value hierarchy as of the end of the
 reporting period in which they occur.
@@ -15793,17 +15793,17 @@ Year ended December 31, September 30,
 2022 2023 2024 2024 2025
 (RMB in thousands)
 (Unaudited)
-Revenue 312,992 375,573 503,129 211,798 249,074
-Cost of sales
-Gross profit 96,864 132,260 182,393 60,128 98,895
+Revenue(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 312,992 375,573 503,129 211,798 249,074
+Cost of sales(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (216,128) (243,313) (320,736) (151,670) (150,179)
+Gross profit(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 96,864 132,260 182,393 60,128 98,895
 Selling and marketing
-expenses 
-Administrative expenses 
+expenses (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (114,672) (86,292) (67,796) (49,735) (61,437)
+Administrative expenses (cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (73,701) (169,839) (55,976) (41,027) (82,771)
 Research and development
-expenses 
+expenses (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (86,942) (72,706) (60,681) (44,949) (56,760)
 Impairment losses on financial
-assets and contract assets 
-Other income and loss, net  2,787 3,745 8,789 1,222 2,962
+assets and contract assets (cid:2)(cid:2) (2,900) (9,480) (3,393) (252) (7,989)
+Other income and loss, net (cid:2)(cid:2)(cid:2) 2,787 3,745 8,789 1,222 2,962
 (Loss)/profit from
 operations (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (178,564) (202,312) 3,336 (74,613) (107,100)
 Finance costs (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (70) (624) (405) (319) (287)

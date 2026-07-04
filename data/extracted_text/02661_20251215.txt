@@ -6013,13 +6013,13 @@ insuranceservicemarketintermsofFYPin2024.Thefollowingtablesetsforthourrelevantma
 RankingofTopSevenDigitalHealthInsuranceServicePlatformsinChina,intermsofFYP,2024
 FYPin2024 Organictrafficfromown
 Ranking Company (RMBmillion) Primaryservicesprovided healthcareservicesplatform
-1 .... CompanyB* 27,600 • Insurancebrokageservice 
-2 .... CompanyA* 17,700 • Insurancebrokageservice 
+1 .... CompanyB* 27,600 • Insurancebrokageservice (cid:3)
+2 .... CompanyA* 17,700 • Insurancebrokageservice (cid:3)
 3 .... CompanyD* 5,615 • Insurancebrokageservice √
 • Insurancetechnicalservice
-4 .... CompanyL(1) 2,200 • Insurancebrokageservice 
-5 .... CompanyM(1) 1,446 • Insurancebrokageservice 
-6 .... CompanyI* 1,168 • Insurancebrokageservice 
+4 .... CompanyL(1) 2,200 • Insurancebrokageservice (cid:3)
+5 .... CompanyM(1) 1,446 • Insurancebrokageservice (cid:3)
+6 .... CompanyI* 1,168 • Insurancebrokageservice (cid:3)
 • Insurancetechnicalservice
 7 .... TheCompany 915 • Insurancebrokageservice √
 • Insurancetechnicalservice

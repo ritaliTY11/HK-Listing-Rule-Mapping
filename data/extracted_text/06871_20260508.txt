@@ -8,8 +8,8 @@ ROBOTPHOENIX INTELLIGENT TECHNOLOGY CO., LTD.
 浙江翼菲智能科技股份有限公司
 (A joint stock company incorporated in the People’s Republic of China with limited liability)
 Stock Code : 6871
-
-
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:30)
+(cid:26)(cid:25)(cid:24)(cid:23)(cid:22)(cid:21)(cid:20)
 ROBOTPHOENIX INTELLIGENT TECHNOLOGY CO., LTD.
 浙江翼菲智能科技股份有限公司
 Sole Sponsor, Sponsor-OC, Overall Coordinator, Joint Global Coordinator, Joint Bookrunner and Joint Lead Manager
@@ -182,9 +182,9 @@ be different from the latest time as stated above.
 Application lists of the Hong Kong Public Offering close. . . . . . . . . . . . . . . . . . . . . . . 12:00 noon on
 Wednesday, May 13, 2026
 Announcement of:
- an indication of the level of interest in the International Offering;
- the level of applications in the Hong Kong Public Offering; and
- the basis of allocation of the Hong Kong Offer Shares
+(cid:129) an indication of the level of interest in the International Offering;
+(cid:129) the level of applications in the Hong Kong Public Offering; and
+(cid:129) the basis of allocation of the Hong Kong Offer Shares
 to be published and on the websites of the Stock Exchange at
 www.hkexnews.hk and our Company at www.robotphoenix.com at
 or before(5)(9). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11:00 p.m. on
@@ -192,7 +192,7 @@ Friday, May 15, 2026
 The results of allocations in the Hong Kong Public Offering (with successful applicants’
 identification document numbers, where appropriate) to be available through a variety of channels,
 including:
- in the website of the Stock Exchange at www.hkexnews.hk
+(cid:129) in the website of the Stock Exchange at www.hkexnews.hk
 and the Company’s website
 at www.robotphoenix.com respectively(7) . . . . . . . . . . . . . . . no later than 11:00 p.m. on
 Friday, May 15, 2026
@@ -200,14 +200,14 @@ Friday, May 15, 2026
 
 === PAGE 6 ===
 EXPECTED TIMETABLE
- from the “Allotment Results” page on the designated
+(cid:129) from the “Allotment Results” page on the designated
 results of allocations website www.hkeipo.hk/IPOResult
 (or www.tricor.com.hk/ipo/result) with a “search
 by ID” function on a 24-hour basis(7) . . . . . . . . . . . . . . . . . . . . . . . . from 11:00 p.m. on
 Friday, May 15, 2026
 to 12:00 midnight on
 Thursday, May 21, 2026
- from the allocation results telephone enquiry
+(cid:129) from the allocation results telephone enquiry
 line by calling +852 3691 8488 between
 9:00 a.m. and 6:00 p.m. . . . . . . . . . . . . . . . . . . . . . . . . . . . from Monday, May 18, 2026
 to Thursday, May 21, 2026
@@ -3727,26 +3727,26 @@ the scenarios of the light industry, including consumer electronics, automotive 
 FMCG, among others.
 Downstream Applications of Industrial Robot and Solution
 FMCG:
-ConsumerElectronics:  Food&beveragestacking,
- Consumerelectroniccomponents packaging,portioningand
+ConsumerElectronics: (cid:129) Food&beveragestacking,
+(cid:129) Consumerelectroniccomponents packaging,portioningand
 andfinishedproductsloadingand inspection
-unloading, assembly,inspectionand  Dailychemicalsstacking,
+unloading, assembly,inspectionand (cid:129) Dailychemicalsstacking,
 packaging packaging,portioningand
 inspection
 Automotive&Components:
 SemiconductorEquipment:
- Automotivemanufacturing
- Waferhandling
- Automotivecomponents
-manufacturing  Waferinspection
- Chiptesting,sorting, and
+(cid:129) Automotivemanufacturing
+(cid:129) Waferhandling
+(cid:129) Automotivecomponents
+manufacturing (cid:129) Waferinspection
+(cid:129) Automotiveelectronics (cid:129) Chiptesting,sorting, and
 manufacturingandtesting packaging
- Lithiumbatteryproduction
+(cid:129) Lithiumbatteryproduction
 Others:
 Healthcare: • Agriculture
- Architecture
- Energy Etc.
- Drugmanufacture
+(cid:129) Laboratoryautomation (cid:129) Architecture
+(cid:129) Drug research and development (cid:129) Energy Etc.
+(cid:129) Drugmanufacture
 Source: Frost & Sullivan
 – 73 –
 
@@ -10204,7 +10204,7 @@ is further equipped with a non-marking roller conveyor and non-marking PEEK mate
 effectively preventing dirt and scratches on the glass. The entire system has a capacity of 24 pieces per
 33 seconds, with a placement accuracy of ±0.2 mm. The following image illustrates our loading and
 unloading systems.
-liing glass cover parallel chain scraper
+li(cid:2)ing glass cover parallel chain scraper
 mechanism plate conveyor robot conveyor
 Sorting system
 We have customized a food sorting line for our customers in the food industry, utilizing a total of
@@ -11462,7 +11462,7 @@ Lobster Series Charging Pile
 Assembly
 Sub-Assembly Inspection Sub-Assembly Inspection
 Inspection
-Semi-Finished Semi-Finished Testing
+Semi-Finished Semi-Finished Testing(cid:3)
 Product Inspection Product Inspection
 Packing
 Final Assembly
@@ -11801,8 +11801,8 @@ Product of the Year 2023 (2023高工金球獎 — Ltd.
 2023年度創新產品). . . . . . . . . . . . . . . . . . . . . . .
 2024 2024 GG Robotics Ten-Year Industry Contribution Shenzhen Gaogong Consulting Co.,
 Award (2024年高工機器人十年行業貢獻獎) . . . . . Ltd.
-2025 Decade of Distinction
-Application Exemplar Award (十年榮耀移動機器 Industry Alliance
+2025 Decade of Distinction(cid:129)Mobile Robot Engineering China Mobile Robot (AGV/AMR)
+Application Exemplar Award (十年榮耀(cid:129)移動機器 Industry Alliance
 人工程應用典範獎) . . . . . . . . . . . . . . . . . . . . . . .
 2025 Mobile Robot Product of the Year (移動機器人年度 Shenzhen Gaogong Consulting Co.,
 產品獎). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Ltd.
@@ -11958,80 +11958,80 @@ The Board consists of members with a diverse range of expertise and knowledge in
 management of ESG-related matters. The table below outlines the brief descriptions of the ESG-related
 expertise and qualifications of nine members of the Board:
 NameandPosition QualificationsandEducation Expertise,CompetenciesandExperience
-Mr. Zhang Sai  Doctor of engineering degree in advanced Over 17 years of experience in mechanical
+Mr. Zhang Sai (cid:129) Doctor of engineering degree in advanced Over 17 years of experience in mechanical
 (Executive Director, manufacturing fromTsinghua University engineering, intelligent manufacturing and
 chairman of the (清華大學) corporate management, specializing in:
-Board and president).  operations oversight and management
-engineering from Columbia University  R&D oversight
- product quality control and assurance
+Board and president). (cid:129) Master of science degree in mechanical (cid:129) operations oversight and management
+engineering from Columbia University (cid:129) R&D oversight
+(cid:129) Bachelor of engineering degree in thermal (cid:129) product quality control and assurance
 and power engineering fromTsinghua
 University (清華大學)
- Qualification of Senior Engineer issued
+(cid:129) Qualification of Senior Engineer issued
 by Human Resource and Social Security
 Bureau of Jinan (濟南市人力資源和社會
 保障局)
-Mr. Zhang Zichao  Pursuing Master of business Extensive knowledge and experience in
+Mr. Zhang Zichao (cid:129) Pursuing Master of business Extensive knowledge and experience in
 (Executive Director administration at China Europe operation and management as well as product
 and executive vice International Business School (中歐國際 responsibility, specializing in:
-president) . . . . . . . 商學院)  business ethics and anti-corruption
- Bachelor’s degree in mechatronic oversight
-engineering from Heze University (菏澤  product quality
-學院)  pre-sales, sales support and after-sales
+president) . . . . . . . 商學院) (cid:129) business ethics and anti-corruption
+(cid:129) Bachelor’s degree in mechatronic oversight
+engineering from Heze University (菏澤 (cid:129) product quality
+學院) (cid:129) pre-sales, sales support and after-sales
 services
- customer satisfaction
+(cid:129) customer satisfaction
 – 178 –
 
 === PAGE 188 ===
 BUSINESS
 NameandPosition QualificationsandEducation Expertise,CompetenciesandExperience
-Mr. SunTongliang  Master’s degree in control science and Over 11 years of experience in engineering and
+Mr. SunTongliang (cid:129) Master’s degree in control science and Over 11 years of experience in engineering and
 (Executive Director) . engineering from Shandong University intelligent manufacturing, specializing in:
-(山東大學)  leading R&D initiatives
- project oversight
-Shandong University of Light Industry  product quality control
-(山東輕工業學院)  product line management and
+(山東大學) (cid:129) leading R&D initiatives
+(cid:129) Bachelor’s degree in automation from (cid:129) project oversight
+Shandong University of Light Industry (cid:129) product quality control
+(山東輕工業學院) (cid:129) product line management and
 development
-Mr. Dou Zhiyuan  Bachelor’s degree in automation from Over 13 years of experience in electrical
+Mr. Dou Zhiyuan (cid:129) Bachelor’s degree in automation from Over 13 years of experience in electrical
 (Executive Director Qilu University ofTechnology (齊魯工業 engineering and intelligent automation,
 and general manager 大學) (formerly known as Shandong specializing in:
-of the Jupiter Institute of Light Industry (山東輕工業學  technological advancement
-business unit) . . . . . 院))  operation management
- compliance with industry standards and
+of the Jupiter Institute of Light Industry (山東輕工業學 (cid:129) technological advancement
+business unit) . . . . . 院)) (cid:129) operation management
+(cid:129) compliance with industry standards and
 requirements
-Mr.Wang Maike  Diploma in business administration from Over 20 years of experience in public
+Mr.Wang Maike (cid:129) Diploma in business administration from Over 20 years of experience in public
 (Non-executive Dalian University ofTechnology (大連理 administration and corporate management,
 Director). . . . . . . . 工學院) specializing in:
- management oversight
- stakeholder engagement
- compliance monitoring
-Mr. Song Pengfei  Master’s degree in international trade Over 13 years of experience in operational and
+(cid:129) management oversight
+(cid:129) stakeholder engagement
+(cid:129) compliance monitoring
+Mr. Song Pengfei (cid:129) Master’s degree in international trade Over 13 years of experience in operational and
 (Non-executive from Fudan University (復旦大學) investment management, specializing in:
-Director). . . . . . . .  operational leadership
-science and technology fromThe  risk oversight
+Director). . . . . . . . (cid:129) Bachelor’s degree in optical information (cid:129) operational leadership
+science and technology fromThe (cid:129) risk oversight
 University of Shanghai for Science and
 Technology (上海理工大學)
-Mr. Xiong Minghua  Master of science degree in information Over 21 years of experience in technology
+Mr. Xiong Minghua (cid:129) Master of science degree in information Over 21 years of experience in technology
 (Independent retrieval from Chinese Defense Science innovation, corporate strategy and investment,
 Non-executive andTechnology Information Center (中國 specializing in:
-Director). . . . . . . . 國防科技信息中心)  international markets
- product strategy planning
-information system engineering from  technological advancements
-National University of Defense  R&D leadership
+Director). . . . . . . . 國防科技信息中心) (cid:129) international markets
+(cid:129) Bachelor of engineering degree in (cid:129) product strategy planning
+information system engineering from (cid:129) technological advancements
+National University of Defense (cid:129) R&D leadership
 Technology (國防科技大學)
-Ms. Zhou Shuang  Master’s degree in management from Extensive experience in auditing and investment
+Ms. Zhou Shuang (cid:129) Master’s degree in management from Extensive experience in auditing and investment
 (Independent Stanford University management, specializing in:
-Non-executive  financial oversight
-Director). . . . . . . . Tsinghua University (清華大學)  risk management
- compliance
+Non-executive (cid:129) Bachelor’s degree in accounting from (cid:129) financial oversight
+Director). . . . . . . . Tsinghua University (清華大學) (cid:129) risk management
+(cid:129) Qualified as a Chartered Financial (cid:129) compliance
 Analyst (CFA) by the CFAInstitute
- Certified as a certified public accountant
+(cid:129) Certified as a certified public accountant
 by the Certified PublicAccountants
 Examination Committee of the Ministry
 of Finance (財政部註冊會計師考試委員
 會)
- Certified public accountant by CPA
+(cid:129) Certified public accountant by CPA
 Canada
- Fellow chartered and certified accountant
+(cid:129) Fellow chartered and certified accountant
 byTheAssociation of Chartered Certified
 Accountants
 – 179 –
@@ -12039,18 +12039,18 @@ Accountants
 === PAGE 189 ===
 BUSINESS
 NameandPosition QualificationsandEducation Expertise,CompetenciesandExperience
-Ms. Zhao Fengmei  Master of laws degree in civil and Over 21 years of experience in legal education,
+Ms. Zhao Fengmei (cid:129) Master of laws degree in civil and Over 21 years of experience in legal education,
 (Independent commercial law from Shandong specializing in:
-Non-executive University (山東大學)  environmental compliance
-Director). . . . . . . .  employment, health and safety, as well as
+Non-executive University (山東大學) (cid:129) environmental compliance
+Director). . . . . . . . (cid:129) Bachelor of engineering degree in (cid:129) employment, health and safety, as well as
 polymer synthesis from Chengdu labor practices compliance
-University of Science andTechnology (成  product responsibility compliance
-都科技大學)  business ethics and anti-corruption
- Awarded the Legal Professional
+University of Science andTechnology (成 (cid:129) product responsibility compliance
+都科技大學) (cid:129) business ethics and anti-corruption
+(cid:129) Awarded the Legal Professional
 Qualification (法律職業資格) by the
 Ministry of Justice of the PRC (中華人民
 共和國司法部)
- Accredited as an associate professor by
+(cid:129) Accredited as an associate professor by
 Shandong Jianzhu University (山東建築
 工程學院)
 Delegated by the Board, an ESG working group consisting of senior executives will be established
@@ -12067,18 +12067,18 @@ ESG-related risks and opportunities identified and the corresponding measures ad
 ESG-relatedrisks Timeframeandpotentialimpacts Ourresponses
 Climate-relatedphysicalrisks
 Acuterisks Short-,medium-tolong-term Inresponsetounusualweatherconditions,wehave
-Increasedseverityandfrequency establishing
+Increasedseverityandfrequency (cid:129) Damagetopropertyandassetsinouroperating implementedthefollowingmeasures:(i)establishing
 ofextremeweathereventsdue locations,whichmayadverselyimpactour anemergencyevacuationplanandissuesafety
 toclimatechange(e.g.typhoon, financialresults warningstonotifyemployeesandon-siteworkers
-rainstorms) . . . . . . . . . . 
+rainstorms) . . . . . . . . . . (cid:129) Delaysinprojectplanningauthorizationand aboutspecialworkandsafetyarrangements;(ii)
 implementation,aswellasdisruptiontobusiness adoptingspecialworkarrangementsandpoliciesunder
 operation,supplychainandlogisticsarrangement typhoonsignals;and(iii)closelymonitoringdaily
- Reductioninourproductioncapacity observatorypredictionsandwillpromptlynotifyour
+(cid:129) Reductioninourproductioncapacity observatorypredictionsandwillpromptlynotifyour
 employeesandotherpersonnelofanyrelatedmeasures
 incaseofextremeweather.
 Climate-relatedtransitionrisks
 Policyandlegalrisks Medium-tolong-term Weregularlyandcloselymonitorchangesinlawsand
-Evolvingclimate-relatedlawsand  Increasedcomplianceandoperatingcosts regulations,andpromptlycommunicateupdatesto
+Evolvingclimate-relatedlawsand (cid:129) Increasedcomplianceandoperatingcosts regulations,andpromptlycommunicateupdatesto
 regulationsintransitiontoa employeestoensurecompliance.
 lower-carboneconomyincluding
 China’s2060carbonneutral
@@ -12092,7 +12092,7 @@ BUSINESS
 ESG-relatedrisks Timeframeandpotentialimpacts Ourresponses
 OtherESG-relatedrisks
 Operationalcompliancerisks Long-term Compliancewithlawsandregulationsunderpinsour
-Increasedcomplianceburden  Increasedcomplianceandoperatingcosts operationsandreputation.Weestablished
+Increasedcomplianceburden (cid:129) Increasedcomplianceandoperatingcosts operationsandreputation.Weestablished
 undergovernmentalpolicies,as comprehensiveprocurementandsuppliermanagement
 wellasapplicablelaws, proceduresincludingsupplieradmissionand
 regulationsgoverningour performancereviewsystemthatrequireadherenceto
@@ -12101,29 +12101,29 @@ provideproductqualitycontrolandmanagement
 trainingtoenhanceemployees’awarenessof
 compliance.
 Productqualitymanagement Long-term Wehaveimplementedasetofpoliciestoensurequality
-Failuretomeetcustomer  Increaseinreputationalrisksorliabilityclaims, controlthroughouttheentireproductiontoafter-sales
+Failuretomeetcustomer (cid:129) Increaseinreputationalrisksorliabilityclaims, controlthroughouttheentireproductiontoafter-sales
 expectationsduetopoor whichmayadverselyimpactourbusiness process,coveringwarehousemanagement,
 productandservicequality,and performanceand/orfinancialresults manufacturingprocesses,qualityinspections,and
 poorsupplychainstability . . . post-deliveryservice.
 Researchanddevelopment Long-term Asaninnovativeenterprise,weprioritizeresearchand
-Failuretomaketechnological  Delaysinproductlaunchesorfailuretocapture development.Tostandardizeproductdevelopmentand
+Failuretomaketechnological (cid:129) Delaysinproductlaunchesorfailuretocapture development.Tostandardizeproductdevelopmentand
 advancesinordertomaintain marketopportunities,whichmayadverselyaffect projectmanagement,wehaveimplementedeffective
 thecompetitivenessofour ourbusinessdevelopmentand/orfinancial controlsoverR&Dprojects,newproductdevelopment,
 productsorexpandourproduct performance anddesignprocesses—enhancingdevelopment
 offerings. . . . . . . . . . . . qualityandstrengtheningourcompetitiveedge.
 Intellectualpropertyprotection Long-term Toprotectourtechnologicaladvancements,weactively
-FailuretopatentR&D  Increasedriskstobusinessdevelopment pursuepatentapplicationsandhaveestablished
+FailuretopatentR&D (cid:129) Increasedriskstobusinessdevelopment pursuepatentapplicationsandhaveestablished
 achievementspromptlyand comprehensiveintellectualpropertymanagement
 protectintellectualproperty. . . policies,includingR&D,IntellectualProperty
 ManagementPolicy,SalesandAfter-salesIntellectual
 PropertyManagementProcedures,andTechnicaland
 CommercialConfidentialityManagementPolicy.
 Employmentcompliance Long-term Weprioritizesafeguardingouremployees’lawfulrights
-Increasedcomplianceburden  Increasedcomplianceandoperatingcosts andinterestsandhaveestablishedpolicieson
+Increasedcomplianceburden (cid:129) Increasedcomplianceandoperatingcosts andinterestsandhaveestablishedpolicieson
 underapplicableemployment recruitment,employment,performancemanagement,
 lawsandregulations . . . . . . andattendancemanagement.
 Occupationalhealthandsafety Long-term WedevelopanannualOHSplan,setannualsafety
-(“OHS”)risks  Workplacesafetyfailuresmayincrease managementobjectives,andenhanceemployeehealth
+(“OHS”)risks (cid:129) Workplacesafetyfailuresmayincrease managementobjectives,andenhanceemployeehealth
 Increasedcomplianceburden reputationalandcompliancerisks,cause andefficiencythroughhazardidentificationand
 underoccupationalhealthand productiondelays,suspensions,oroperational mitigation,emergencydrills,safetytrainingandhealth
 safetystandardsor shutdowns,whichmayadverselyimpactour screening.OurOHSmanagementsystemiscertifiedto
@@ -15384,7 +15384,7 @@ Global Offering, will be approximately HK$672.9 million, based on the Offer Pric
 Share.
 We currently intend to use the net proceeds from the Global Offering for the purposes and in the
 amounts as set out below:
- Approximately 40.0% of the net proceeds, or HK$269.2 million, will be used for
+(cid:129) Approximately 40.0% of the net proceeds, or HK$269.2 million, will be used for
 development of our robotics technology from 2026 to 2030. We will increase our efforts on
 development of more advanced industrial robots to enhance our market share and solidify
 our leading edge in industrial robots. From a financial perspective, the implementation of
@@ -15400,10 +15400,10 @@ areas of computer vision, servo drive development and AI. In return, the R&D inv
 would improve the application, performance, and stability of our industrial robots and
 related robotics solutions, enhance our product competitiveness, and ultimately promote
 gross profit growth. More specifically:
- Approximately 20.0% of the net proceeds, or approximately HK$134.6 million, to be
+(cid:129) Approximately 20.0% of the net proceeds, or approximately HK$134.6 million, to be
 used to upgrade and expand our industrial robots and related robotics solutions across
 key application scenarios, which include:
- Approximately 15.0% of the net proceeds, or approximately HK$100.9 million, to
+(cid:129) Approximately 15.0% of the net proceeds, or approximately HK$100.9 million, to
 be used for (1) development of the industrial robot series to cover various
 application scenarios, such as high precision, high inertia, medium and high
 payload, and collaboration; and (2) upgrade of our existing industrial robots and
@@ -15478,7 +15478,7 @@ Development of the industrial robot
 series and upgrade of our existing
 industrial robots and advanced
 process packages. . . . . . . . . . . . . 11.8 12.0 26.0 26.0 25.1
- Approximately 5.0% of the net proceeds, or approximately HK$33.7 million, to
+(cid:129) Approximately 5.0% of the net proceeds, or approximately HK$33.7 million, to
 be used for development of related robotics solutions for key application
 scenarios such as consumer electronics, semiconductors, and healthcare sectors.
 For instance, we plan to develop a sealed equipment front-end module solution
@@ -15497,7 +15497,7 @@ FortheYearEndingDecember31,
 (HK$inmillions)
 Development of related robotics
 solutions. . . . . . . . . . . . . . . . . . 4.4 5.0 8.9 8.7 6.7
- Approximately 10.0% of the net proceeds, or approximately HK$67.3 million, to be
+(cid:129) Approximately 10.0% of the net proceeds, or approximately HK$67.3 million, to be
 used for development and improvement of control system, which include development
 of the next-generation integrated technology platform that combines vision, drive and
 control functions; continuous optimization of high-precision motion control algorithms
@@ -15523,7 +15523,7 @@ FortheYearEndingDecember31,
 (HK$inmillions)
 Development and improvement of control
 system. . . . . . . . . . . . . . . . . . . . . . . 8.9 9.6 14.5 15.6 18.7
- Approximately 10.0% of the net proceeds, or approximately HK$67.3 million, to be
+(cid:129) Approximately 10.0% of the net proceeds, or approximately HK$67.3 million, to be
 used to develop AI and embodied intelligence technology, which include development
 of multi-modal perception fusion and intelligent planning decision algorithm models
 based on AI technology; and application of key technologies for embodied intelligent
@@ -15549,7 +15549,7 @@ FortheYearEndingDecember31,
 (HK$inmillions)
 Development ofAI and embodied intelligence
 technology . . . . . . . . . . . . . . . . . . . . 9.1 9.9 16.7 15.8 15.8
- Approximately 28.0% of the net proceeds, or HK$188.4 million, will be used for
+(cid:129) Approximately 28.0% of the net proceeds, or HK$188.4 million, will be used for
 construction or enhancement of production bases and production line from 2026 to 2030. In
 2025, the utilization rate was over or approximately 90% across all our production facilities
 even after we adopted modular design to significantly improve our production capacity. As
@@ -15566,7 +15566,7 @@ FUTURE PLANS AND USE OF PROCEEDS
 addition, its location is less convenient for our major customers, making it impractical to
 utilize the facility to address our existing backlog or anticipated growth in demand. More
 specifically:
- Approximately 14.0% of the net proceeds, or approximately HK$94.2 million, to be
+(cid:129) Approximately 14.0% of the net proceeds, or approximately HK$94.2 million, to be
 used for construction or enhancement of regional production bases related production
 facilities. We plan to construct and/or enhance up to three to four production bases in
 Mainland China, such as in Zhejiang Province and Jiangsu Province, by 2027, with
@@ -15580,7 +15580,7 @@ FortheYearEndingDecember31,
 (HK$inmillions)
 Construction and/or enhancement of regional
 production base . . . . . . . . . . . . . . . . . — 56.7 12.5 12.5 12.5
- Approximately 14.0% of the net proceeds, or approximately HK$94.2 million, to be
+(cid:129) Approximately 14.0% of the net proceeds, or approximately HK$94.2 million, to be
 used for development of intelligent production line construction and capacity
 enhancement. We plan to build two production lines for parallel robots, two for
 articulated robots, and one for other types of robots by 2027, increasing our annual
@@ -15591,7 +15591,7 @@ FortheYearEndingDecember31,
 2026 2027 2028 2029 2030
 (HK$inmillions)
 Construction of production lines . . . . . . . . . — 88.8 1.8 1.8 1.8
- Approximately 12.0% of the net proceeds, or HK$80.7 million, will be used for development
+(cid:129) Approximately 12.0% of the net proceeds, or HK$80.7 million, will be used for development
 of overseas business network from 2026 to 2030. From a financial perspective, the
 development of an overseas business network is expected to help us enhance brand influence
 and increase regional sales revenue and gross profit margins in overseas markets. More
@@ -15633,7 +15633,7 @@ FortheYearEndingDecember31,
 2026 2027 2028 2029 2030
 (HK$inmillions)
 Development of overseas business network. . . . . . . 14.3 13.4 16.2 17.1 19.7
- Approximately 10.0% of the net proceeds, or HK$67.3 million, will be used for investment
+(cid:129) Approximately 10.0% of the net proceeds, or HK$67.3 million, will be used for investment
 in the supply chain in upstream and downstream from 2026 to 2030. From a financial
 perspective, improving the collaboration between the upstream and downstream of the
 supply chain is expected to help us increase our procurement and sales scale, transaction
@@ -15687,7 +15687,7 @@ Investment in the supply chain. . . . . . . . . . . . . — 30.0 — — 37.3
 Investment in the upstream supply chain . . . . . . . — 15.0 — — 18.7
 Investment in the downstream
 supply chain . . . . . . . . . . . . . . . . . . . . . . — 15.0 — — 18.6
- Approximately 10.0% of the net proceeds, or HK$67.3 million, will be used for supplement
+(cid:129) Approximately 10.0% of the net proceeds, or HK$67.3 million, will be used for supplement
 working capital from 2026 to 2030.
 To the extent that the net proceeds are not immediately applied to the above purposes, we will
 only deposit the net proceeds into short-term interest-bearing accounts with licensed commercial banks
@@ -16410,13 +16410,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you are
 applying for:
- are 18 years of age or older; and
-.
+(cid:129) are 18 years of age or older; and
+(cid:129) have a Hong Kong address (for the HK eIPO White Form service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the Stock
 Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the person(s) for whose
 benefit you are applying for:
- are an existing Shareholder or close associates; or
- are a Director, Supervisor or any of his/her close associates.
+(cid:129) are an existing Shareholder or close associates; or
+(cid:129) are a Director, Supervisor or any of his/her close associates.
 2. Application Channels
 The Hong Kong Public Offering period will begin at 9:00 a.m. on Friday, May 8, 2026 and
 end at 12:00 noon on Wednesday, May 13, 2026 (Hong Kong time).
@@ -16486,17 +16486,17 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 ForIndividual/JointApplicants ForCorporateApplicants
-2 as shown on your identity
+(cid:129) Full name(s)2 as shown on your identity (cid:129) Full name(s)2 as shown on your identity
 document document
- Identity document’s issuing country or
+(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
 jurisdiction jurisdiction
- Identity document type, with order of
+(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
 priority: priority:
 i. HKID card; or i. LEI registration document; or
 ii. National identification document; or ii. Certificate of incorporation; or
 iii. Passport; and iii. Business registration certificate; or
 iv. Other equivalent document; and
- Identity document number
+(cid:129) Identity document number (cid:129) Identity document number
 Notes:
 (1) If you are applying through the HK eIPO White Form service, you are required to provide a valid e-mail address, a
 contacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclarethattheidentityinformationprovided
@@ -16523,9 +16523,9 @@ you exercise statutory control over that company, then the application will be t
 should provide the required information in your application as stated above.
 “Unlistedcompany”meansacompanywithnoequitysecuritieslistedontheStockExchangeoranyotherstockexchange.
 “Statutory control” means you:
- control the composition of the board of directors of the company;
- control more than half of the voting power of the company; or
- holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhichcarriesnorightto
+(cid:129) control the composition of the board of directors of the company;
+(cid:129) control more than half of the voting power of the company; or
+(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhichcarriesnorightto
 participate beyond a specified amount in a distribution of either profits or capital).
 For those applying through HKSCC EIPO channel, and making an application under a power of
 attorney, we and the Sponsor-OC, as our agent, have discretion to consider whether to accept it on any
@@ -16765,21 +16765,21 @@ any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not grant
 permission to list the H Shares either:
- within three weeks from the closing date of the application lists; or
- within a longer period of up to six weeks if the Stock Exchange notifies us of that longer
+(cid:129) within three weeks from the closing date of the application lists; or
+(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that longer
 period within three weeks of the closing date of the application lists.
 4. If:
- you make multiple applications or suspected multiple applications. You may refer to the
+(cid:129) you make multiple applications or suspected multiple applications. You may refer to the
 paragraph headed “— A. Application for Hong Kong Offer Shares — 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
- your application instruction is incomplete;
- is not made correctly;
- the Underwriting Agreements do not become unconditional or are terminated;
+(cid:129) your application instruction is incomplete;
+(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
+(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
 – 281 –
 
 === PAGE 291 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
- we or the Sponsor-OC believe that by accepting your application, it or we would violate
+(cid:129) we or the Sponsor-OC believe that by accepting your application, it or we would violate
 applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted H Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC Participants will
@@ -16871,9 +16871,9 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 E. BAD WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Wednesday, May 13, 2026 if, there is/are:
- a tropical cyclone warning signal number 8 or above;
- a black rainstorm warning; and/or
- Extreme Conditions,
+(cid:129) a tropical cyclone warning signal number 8 or above;
+(cid:129) a black rainstorm warning; and/or
+(cid:129) Extreme Conditions,
 (collectively, “Bad Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Wednesday, May 13, 2026.
 Instead they will open between 11:45 a.m. and 12:00 noon and/or close at 12:00 noon on the next
@@ -16939,27 +16939,27 @@ and the H Share Registrar immediately of any inaccuracies in the personal data s
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for the
 following purposes:
- processing your application and refund cheque and HK eIPO White Form e-Auto Refund
+(cid:129) processing your application and refund cheque and HK eIPO White Form e-Auto Refund
 payment instruction(s), where applicable, verification of compliance with the terms and
 application procedures set out in this prospectus and announcing results of allocation of
 Hong Kong Offer Shares;
- compliance with applicable laws and regulations in Hong Kong and elsewhere;
- registering new issues or transfers into or out of the names of the holders of the H Shares
+(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+(cid:129) registering new issues or transfers into or out of the names of the holders of the H Shares
 including, where applicable, HKSCC Nominees;
- maintaining or updating the register of members of the Company;
- verifying identities of applicants for and holders of the H Shares and identifying any
+(cid:129) maintaining or updating the register of members of the Company;
+(cid:129) verifying identities of applicants for and holders of the H Shares and identifying any
 duplicate applications for the H Shares;
- facilitating Hong Kong Offer Shares balloting;
- establishing benefit entitlements of holders of the H Shares, such as dividends, rights issues,
+(cid:129) facilitating Hong Kong Offer Shares balloting;
+(cid:129) establishing benefit entitlements of holders of the H Shares, such as dividends, rights issues,
 bonus issues, etc.;
- distributing communications from the Company and its subsidiaries;
- compiling statistical information and profiles of the holder of the H Shares;
+(cid:129) distributing communications from the Company and its subsidiaries;
+(cid:129) compiling statistical information and profiles of the holder of the H Shares;
 – 285 –
 
 === PAGE 295 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
- disclosing relevant information to facilitate claims on entitlements; and
- any other incidental or associated purposes relating to the above and/or to enable the
+(cid:129) disclosing relevant information to facilitate claims on entitlements; and
+(cid:129) any other incidental or associated purposes relating to the above and/or to enable the
 Company and the H Share Registrar to discharge their obligations to applicants and holders
 of the H Shares and/or regulators and/or any other purposes to which applicants and holders
 of the H Shares may from time to time agree.
@@ -16968,21 +16968,21 @@ Personal data held by the Company and the H Share Registrar relating to the appl
 holders of Hong Kong Offer Shares will be kept confidential but the Company and the H Share
 Registrar may, to the extent necessary for achieving any of the above purposes, disclose, obtain or
 transfer (whether within or outside Hong Kong) the personal data to, from or with any of the following:
- the Company’s appointed agents such as financial advisers, receiving banks and overseas
+(cid:129) the Company’s appointed agents such as financial advisers, receiving banks and overseas
 principal share registrar;
- HKSCC or HKSCC Nominees, who will use the personal data and may transfer the personal
+(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the personal
 data to the H Share Registrar, in each case for the purposes of providing its services or
 facilities or performing its functions in accordance with its rules or procedures and operating
 FINI and CCASS (including where applicants for the Hong Kong Offer Shares request a
 deposit into CCASS);
- any agents, contractors or third-party service providers who offer administrative,
+(cid:129) any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H Share
 Registrar in connection with their respective business operation;
- the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies or
+(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies or
 otherwise as required by laws, rules or regulations, including for the purpose of the Stock
 Exchange’s administration of the Listing Rules and the SFC’s performance of its statutory
 functions; and
- any persons or institutions with which the holders of Hong Kong Offer Shares have or
+(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have or
 propose to have dealings, such as their bankers, solicitors, accountants or brokers etc.
 5. Retention of Personal Data
 The Company and the H Share Registrar will keep the personal data of the applicants and holders
@@ -17737,8 +17737,8 @@ Derecognition of financial assets
 A financial asset (or, where applicable, a part of a financial asset or part of a group of similar
 financial assets) is primarily derecognised (i.e., removed from the Group’s consolidated statements of
 financial position) when:
- the rights to receive cash flows from the asset have expired; or
- the Group has transferred its rights to receive cash flows from the asset or has assumed an
+(cid:129) the rights to receive cash flows from the asset have expired; or
+(cid:129) the Group has transferred its rights to receive cash flows from the asset or has assumed an
 obligation to pay the received cash flows in full without material delay to a third party under
 a “pass-through” arrangement; and either (a) the Group has transferred substantially all the
 risks and rewards of the asset, or (b) the Group has neither transferred nor retained
@@ -17892,22 +17892,22 @@ Deferred tax is provided, using the liability method, on all temporary differenc
 reporting period between the tax bases of assets and liabilities and their carrying amounts for financial
 reporting purposes.
 Deferred tax liabilities are recognised for all taxable temporary differences, except:
- when the deferred tax liability arises from the initial recognition of goodwill or an asset or
+(cid:129) when the deferred tax liability arises from the initial recognition of goodwill or an asset or
 liability in a transaction that is not a business combination and, at the time of the
 transaction, affects neither the accounting profit nor taxable profit or loss and does not give
 rise to equal taxable and deductible temporary differences; and
- in respect of taxable temporary differences associated with investments in subsidiaries and
+(cid:129) in respect of taxable temporary differences associated with investments in subsidiaries and
 associates, when the timing of the reversal of the temporary differences can be controlled
 and it is probable that the temporary differences will not reverse in the foreseeable future.
 Deferred tax assets are recognised for all deductible temporary differences, and the carryforward
 of unused tax credits and any unused tax losses. Deferred tax assets are recognised to the extent that it
 is probable that taxable profit will be available against which the deductible temporary differences, and
 the carryforward of unused tax credits and unused tax losses can be utilised, except:
- when the deferred tax asset relating to the deductible temporary differences arises from the
+(cid:129) when the deferred tax asset relating to the deductible temporary differences arises from the
 initial recognition of an asset or liability in a transaction that is not a business combination
 and, at the time of the transaction, affects neither the accounting profit nor taxable profit or
 loss and does not give rise to equal taxable and deductible temporary differences; and
- in respect of deductible temporary differences associated with investments in subsidiaries
+(cid:129) in respect of deductible temporary differences associated with investments in subsidiaries
 and associates, deferred tax assets are only recognised to the extent that it is probable that
 the temporary differences will reverse in the foreseeable future and taxable profit will be
 available against which the temporary differences can be utilised.
@@ -20456,8 +20456,8 @@ been properly compiled on the basis of the applicable criteria involves performi
 whether the applicable criteria used by the Directors in the compilation of the Pro Forma Financial
 Information provide a reasonable basis for presenting the significant effects directly attributable to the
 transaction, and to obtain sufficient appropriate evidence about whether:
- the related pro forma adjustments give appropriate effect to those criteria; and
- the Pro Forma Financial Information reflects the proper application of those adjustments to
+(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
+(cid:129) the Pro Forma Financial Information reflects the proper application of those adjustments to
 the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgment, having regard to the
 reporting accountants’ understanding of the nature of the Group, the transaction in respect of which the
@@ -23250,8 +23250,8 @@ ROBOTPHOENIX INTELLIGENT TECHNOLOGY CO., LTD.
 浙江翼菲智能科技股份有限公司
 (A joint stock company incorporated in the People’s Republic of China with limited liability)
 Stock Code : 6871
-
-
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:30)
+(cid:26)(cid:25)(cid:24)(cid:23)(cid:22)(cid:21)(cid:20)
 ROBOTPHOENIX INTELLIGENT TECHNOLOGY CO., LTD.
 浙江翼菲智能科技股份有限公司
 Sole Sponsor, Sponsor-OC, Overall Coordinator, Joint Global Coordinator, Joint Bookrunner and Joint Lead Manager

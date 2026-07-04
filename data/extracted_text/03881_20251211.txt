@@ -157,9 +157,9 @@ time for giving such instructions which may be different from the latest time as
 Application lists close(iii). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12:00 noon on
 Tuesday, December 16, 2025
 (i) Announcement of:
- an indications of the level of interest in the International Placing, the level of
+(cid:129) an indications of the level of interest in the International Placing, the level of
 applications in the Hong Kong Public Offering; and
- the basis of allocations of the Hong Kong Offer Shares
+(cid:129) the basis of allocations of the Hong Kong Offer Shares
 to be published on our website at www.cidi.ai
 and the website of the Stock Exchange at
 www.hkexnews.hk on or before . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11:00 p.m. on
@@ -319,14 +319,14 @@ trucks for mining and logistics, V2X (vehicle-to-everything) technologies and in
 perception solutions, and offer products and solutions underpinned by proprietary technologies,
 with a primary focus on intelligent driving in closed environments during the Track Record Period.
 According to CIC:
- We ranked sixth among all commercial vehicle intelligent driving companies in China
+(cid:129) We ranked sixth among all commercial vehicle intelligent driving companies in China
 (including Hong Kong, Macau and Taiwan), with a market share of approximately 5.2%.
- We delivered 56 autonomous mining trucks for a mining site in China (including Hong
+(cid:129) We delivered 56 autonomous mining trucks for a mining site in China (including Hong
 Kong, Macau and Taiwan) in mixed traffic with ~500 manned trucks, the world’s largest
 mixed-operation mining fleet(1) as of the Latest Practicable Date.
- We delivered the first fully driverless electric mining fleet in China (including Hong
+(cid:129) We delivered the first fully driverless electric mining fleet in China (including Hong
 Kong, Macau and Taiwan).
-’s autonomous
+(cid:129) We ranked third in China (including Hong Kong, Macau and Taiwan)’s autonomous
 mining truck solution market in terms of revenue in 2024.
 Note:
 (1) “Autonomous mining trucks” refers to autonomous driving trucks designed for mining operation. “Mixed-operation”
@@ -335,9 +335,9 @@ refers to scenarios involving both manned and unmanned mining trucks.
 
 === PAGE 12 ===
 SUMMARY
- We are among the first intelligent driving companies in China (including Hong Kong,
+(cid:129) We are among the first intelligent driving companies in China (including Hong Kong,
 Macau and Taiwan) to launch commercial V2X products.
- is the only product in China (including
+(cid:129) Our train autonomous perception system (TAPS) is the only product in China (including
 Hong Kong, Macau and Taiwan) capable of independent safety perception(1) for trains.
 Drawing upon innovative methodology technology capabilities, we developed products and
 solutions encompassing (i) autonomous driving technologies, delivering autonomous mining trucks
@@ -555,19 +555,19 @@ which can be seamlessly integrated with our independently developed intelligent 
 Depending on project requirements (such as whether there are existing vehicle designs of
 automotive OEMs on the market that meet our standards for the specific project), we collaborate
 with automotive OEMs in three primary collaboration models:
- Collaboration model ①: The OEMs provide the overall vehicle design while our focus
+(cid:129) Collaboration model ①: The OEMs provide the overall vehicle design while our focus
 is on the integration of intelligent driving technology. During the Track Record Period,
 all autonomous mining trucks we delivered utilized this collaboration model.
 – 8 –
 
 === PAGE 19 ===
 SUMMARY
- Collaboration model ②: We jointly formulate the overall vehicle design with the OEMs.
+(cid:129) Collaboration model ②: We jointly formulate the overall vehicle design with the OEMs.
 We also provide the electrification system and software. The OEMs supply the
 unpowered chassis and structural components and are responsible for vehicle assembly.
 During the Track Record Period, we delivered three sets of electrification system and
 software under this collaboration model.
- Collaboration model ③: We are responsible for the formulation of the overall vehicle
+(cid:129) Collaboration model ③: We are responsible for the formulation of the overall vehicle
 design under this model. We also provide designs for specific structural parts and supply
 key components such as electrification systems, which include the electric motor, power
 battery, electronic control system, and chassis electrical systems. Our responsibilities
@@ -621,23 +621,23 @@ and safety management solution.
 OUR STRENGTHS
 We believe that the following strengths contribute to our current market position, ensuring
 our success and distinguishing us from our competitors:
- Innovative Product-driven Provider of Autonomous Commercial Vehicle Technology
- Pioneering R&D and Comprehensive Technological Prowess
- Proven Commercial Success in Domestic Markets with Global Outlook
- Evolving Ecosystem Built with Trusted Partners along Industry Value Chain
+(cid:129) Innovative Product-driven Provider of Autonomous Commercial Vehicle Technology
+(cid:129) Pioneering R&D and Comprehensive Technological Prowess
+(cid:129) Proven Commercial Success in Domestic Markets with Global Outlook
+(cid:129) Evolving Ecosystem Built with Trusted Partners along Industry Value Chain
 – 10 –
 
 === PAGE 21 ===
 SUMMARY
- Esteemed Management Fostering Homegrown Talent Pool with Product-Oriented Culture
+(cid:129) Esteemed Management Fostering Homegrown Talent Pool with Product-Oriented Culture
 OUR STRATEGIES
 We plan to implement the following strategies to achieve our mission:
- Continually Invest in Intelligent Driving Technology and Enhance Product
+(cid:129) Continually Invest in Intelligent Driving Technology and Enhance Product
 Competitiveness
- Expand Sales and Form Lasting Strategic Partnerships
- Expand Overseas Presence and Market Share
- Attract and Retain Top Talent Globally
- Selectively Engage in Investments, Mergers and Strategic Partnerships
+(cid:129) Expand Sales and Form Lasting Strategic Partnerships
+(cid:129) Expand Overseas Presence and Market Share
+(cid:129) Attract and Retain Top Talent Globally
+(cid:129) Selectively Engage in Investments, Mergers and Strategic Partnerships
 RESEARCH AND DEVELOPMENT
 Our R&D team’s expertise spans across AI, computer science, robotics and vehicle
 engineering, among others, enabling interdisciplinary development and application. Leveraging
@@ -839,34 +839,34 @@ RISK FACTORS
 Our business and the Global Offering involve certain risks as set out in “Risk Factors” in this
 prospectus. You should read that section in its entirety carefully before you decide to invest in our
 Shares. We believe the most significant risks we face include but are not limited to the following:
- If we are unable to develop new products and solutions that adapt to changing market
+(cid:129) If we are unable to develop new products and solutions that adapt to changing market
 demand and customer needs in a cost-effective and timely manner, our future business,
 results of operations, financial condition and competitive position would be materially
 and adversely affected.
- We have been and intend to continue investing significantly in R&D, which may
+(cid:129) We have been and intend to continue investing significantly in R&D, which may
 adversely affect our profitability and operating cash flow and may not generate the
 results we expect to achieve.
- Intelligent driving is an emerging technology, and we face significant technical
+(cid:129) Intelligent driving is an emerging technology, and we face significant technical
 challenges to develop and commercialize our technology.
 – 16 –
 
 === PAGE 27 ===
 SUMMARY
- We have a limited track record in commercialization in a new and rapidly evolving
+(cid:129) We have a limited track record in commercialization in a new and rapidly evolving
 industry and there can be no assurance that our sales and marketing efforts will succeed.
- Dependency on third-party suppliers to manufacture, assemble and test our products
+(cid:129) Dependency on third-party suppliers to manufacture, assemble and test our products
 reduces our control over product quantity and quality, and could harm our business.
- We may not be able to obtain or maintain adequate intellectual property rights
+(cid:129) We may not be able to obtain or maintain adequate intellectual property rights
 protection for our product and solution, or the scope of such intellectual property rights
 protection may not be sufficiently broad.
- We may not be able to obtain additional capital when desired, on favorable terms or at
+(cid:129) We may not be able to obtain additional capital when desired, on favorable terms or at
 all.
- The industries that we operate in are highly competitive and concentrated. In particular,
+(cid:129) The industries that we operate in are highly competitive and concentrated. In particular,
 China’s autonomous mining truck solution market is highly concentrated, with top five
 players accounting for 97% of the market share in terms of revenue in 2024. If we fail
 to compete with our competitors, our business, results of operations and financial
 condition may be materially and adversely affected.
- We may be subject to risks associated with international trade policies, geopolitics and
+(cid:129) We may be subject to risks associated with international trade policies, geopolitics and
 trade protection measures, including imposition of trade restrictions and sanctions, and
 our reputation, business, results of operations and financial condition could be adversely
 affected.
@@ -1329,15 +1329,15 @@ commissions and other estimated offering expenses payable by us in connection wi
 Offering, we estimate that we will receive net proceeds of approximately HK$1,309.0 million from
 the Global Offering. We intend to use the proceeds from the Global Offering for the purposes and
 in the amounts set forth below:
- Approximately 55% of the net proceeds, or HK$720.0 million, will be used for our
+(cid:129) Approximately 55% of the net proceeds, or HK$720.0 million, will be used for our
 research and development in the next five years.
- Approximately 15% of the net proceeds, or HK$196.4 million, will be used for
+(cid:129) Approximately 15% of the net proceeds, or HK$196.4 million, will be used for
 improvement of our commercialization capabilities in China and overseas and further
 strengthening our cooperation with domestic and global customers.
- Approximately 20% of the net proceeds, or HK$261.8 million, will be used for potential
+(cid:129) Approximately 20% of the net proceeds, or HK$261.8 million, will be used for potential
 investment, and merger and acquisition opportunities aimed at further integrating
 upstream and downstream resources in the industrial chain.
- Approximately 10% of the net proceeds, or HK$130.9 million, will be employed as
+(cid:129) Approximately 10% of the net proceeds, or HK$130.9 million, will be employed as
 working capital and for general corporate uses.
 See “Future Plans and Use of Proceeds.”
 DIVIDENDS
@@ -2040,28 +2040,28 @@ numerous assumptions regarding our present and future business strategies and th
 which we will operate in the future. Important factors that could cause our actual performance or
 achievements to differ materially from those in the forward-looking statements include, among
 others, the following:
- general political and economic conditions, including those related to the PRC;
- our business prospects and our ability to successfully implement our business plans and
+(cid:129) general political and economic conditions, including those related to the PRC;
+(cid:129) our business prospects and our ability to successfully implement our business plans and
 strategies;
- future developments, trends and conditions in the industry and markets in which we
+(cid:129) future developments, trends and conditions in the industry and markets in which we
 operate or into which we intend to expand;
- our capital expenditure plans;
- the actions and developments of our competitors;
- our financial condition and performance;
- our dividend policy;
- any changes in the laws, rules and regulations of the central and local governments in
+(cid:129) our capital expenditure plans;
+(cid:129) the actions and developments of our competitors;
+(cid:129) our financial condition and performance;
+(cid:129) our dividend policy;
+(cid:129) any changes in the laws, rules and regulations of the central and local governments in
 the PRC and other relevant jurisdictions and the rules, regulations and policies of the
 relevant governmental authorities relating to all aspects of our business and our business
 plans;
- changes or volatility in interest rates, foreign exchange rates, equity prices or other rates
+(cid:129) changes or volatility in interest rates, foreign exchange rates, equity prices or other rates
 or prices, including those pertaining to the PRC and the industry and markets in which
 we operate;
 – 51 –
 
 === PAGE 62 ===
 FORWARD-LOOKING STATEMENTS
- various business opportunities that we may pursue; and
- capital market developments, changes in the global economic conditions and material
+(cid:129) various business opportunities that we may pursue; and
+(cid:129) capital market developments, changes in the global economic conditions and material
 volatility in the global financial markets.
 Additional factors that could cause actual performance or achievements to differ materially
 include, but are not limited to, those discussed under “Risk Factors” and elsewhere in this
@@ -2119,15 +2119,15 @@ encounter significant unexpected technical and production challenges, or delays 
 development of new and enhanced products and solutions and ramping up production in a
 cost-efficient manner, which require us to invest significant resources in R&D and also require that
 we:
- design innovative, accurate, and safety- and efficiency-enhancing functions that
+(cid:129) design innovative, accurate, and safety- and efficiency-enhancing functions that
 differentiate our products and solutions from those of our competitors;
- continuously improve the reliability of our autonomous driving, V2X and intelligent
+(cid:129) continuously improve the reliability of our autonomous driving, V2X and intelligent
 perception technologies;
- cooperate effectively on new designs and development with our customers, suppliers and
+(cid:129) cooperate effectively on new designs and development with our customers, suppliers and
 partners;
- respond effectively to technological changes and product announcements by our
+(cid:129) respond effectively to technological changes and product announcements by our
 competitors; and
- adjust to changing customer requirements, market conditions, and regulatory standards
+(cid:129) adjust to changing customer requirements, market conditions, and regulatory standards
 quickly and cost-effectively.
 If there are delays in, or if we fail to complete when expected or at all, the development of
 new and enhanced products and solutions, we may not be able to satisfy our customers’
@@ -2437,33 +2437,33 @@ financial condition and competitive position. We also face several risks which c
 affect our ability to meet customer demand and scale our supply chain, negatively impact
 longer-term demand for our products and services, and adversely affect our business operations,
 gross margin, revenue and financial results, including:
- failure by our contract manufacturers to procure raw materials or to provide adequate
+(cid:129) failure by our contract manufacturers to procure raw materials or to provide adequate
 levels of manufacturing or test capacity for our products;
- reliance on a single or limited suppliers and manufacturers;
- limited number of suppliers available to choose from as a result of international trade
+(cid:129) reliance on a single or limited suppliers and manufacturers;
+(cid:129) limited number of suppliers available to choose from as a result of international trade
 policies and sanctions. See “— Risks Relating to Our General Operations — We may be
 subject to risks associated with international trade policies, investment restrictions,
 geopolitics and trade protection measures, including imposition of trade restrictions and
 sanctions, and our reputation, business, results of operations and financial condition
 could be adversely affected”;
- loss of a supplier and additional expense and/or production delays as a result;
- lack of direct control over product quantity, quality and delivery schedules;
+(cid:129) loss of a supplier and additional expense and/or production delays as a result;
+(cid:129) lack of direct control over product quantity, quality and delivery schedules;
 – 62 –
 
 === PAGE 73 ===
 RISK FACTORS
- suppliers or their suppliers failing to supply high-quality products and/or making
+(cid:129) suppliers or their suppliers failing to supply high-quality products and/or making
 changes to their products without our qualification;
- delays in product shipments, shortages, a decrease in product quality and/or higher
+(cid:129) delays in product shipments, shortages, a decrease in product quality and/or higher
 expenses in the event our suppliers prioritize our competitors’ or other customers’ orders
 over ours;
- fraudulent or illegal activities or other misconduct by suppliers. See “ — Risks Relating
+(cid:129) fraudulent or illegal activities or other misconduct by suppliers. See “ — Risks Relating
 to Our General Operations — Failure to detect or prevent fraudulent or illegal activities
 or other misconduct by our employees, customers, suppliers or other third parties may
 materially and adversely affect our business”;
- low manufacturing yields resulting from a failure in our product design or a contract
+(cid:129) low manufacturing yields resulting from a failure in our product design or a contract
 manufacturer’s production process; and
- disruptions in manufacturing, assembly and other processes due to closures related to
+(cid:129) disruptions in manufacturing, assembly and other processes due to closures related to
 natural disasters or other incidents.
 A significant disruption in our supply chain that affects the manufacturing or sourcing of our
 products or components for any reason, including those mentioned above, could interrupt product
@@ -2624,16 +2624,16 @@ patent protection which is not as yet a matter of public knowledge or claim trad
 have not been revealed through our searches of relevant public records. Our efforts to identify and
 avoid infringing on third parties’ intellectual property rights may not always be successful. Any
 claims of patent or other intellectual property infringement, regardless of their merit, could:
- cost a certain amount of money and time to defend;
- require us to pay substantial damages to third parties;
- forbid us from making or selling products or solutions that incorporate the challenged
+(cid:129) cost a certain amount of money and time to defend;
+(cid:129) require us to pay substantial damages to third parties;
+(cid:129) forbid us from making or selling products or solutions that incorporate the challenged
 intellectual property;
- require us to redesign, reengineer or rebrand our products or solutions;
- require us to enter into royalty or licensing agreements in order to obtain the right to
+(cid:129) require us to redesign, reengineer or rebrand our products or solutions;
+(cid:129) require us to enter into royalty or licensing agreements in order to obtain the right to
 use a third party’s intellectual property, which agreements may not be available on terms
 acceptable to us or at all;
- divert the attention of our management; or
- result in customers terminating, deferring or limiting their purchase of the affected
+(cid:129) divert the attention of our management; or
+(cid:129) result in customers terminating, deferring or limiting their purchase of the affected
 products until resolution of the litigation.
 – 67 –
 
@@ -2716,17 +2716,17 @@ intelligent driving technology, attract and retain top talent, launch new intell
 types, offer more advanced intelligent driving functionalities, maintain and grow our fleet, expand
 our customer base and provide quality technical support services. Our capital requirements will be
 subject to many factors, including, but not limited to:
- technological advancements;
- market acceptance of our products and solutions and product and solution enhancements,
+(cid:129) technological advancements;
+(cid:129) market acceptance of our products and solutions and product and solution enhancements,
 and the overall level of sales of our products and solutions;
- R&D expenses;
- our relationships with our customers and suppliers;
- our ability to control costs;
- sales and marketing expenses;
- enhancements to our infrastructure and systems and any capital improvements to our
+(cid:129) R&D expenses;
+(cid:129) our relationships with our customers and suppliers;
+(cid:129) our ability to control costs;
+(cid:129) sales and marketing expenses;
+(cid:129) enhancements to our infrastructure and systems and any capital improvements to our
 facilities;
- potential acquisitions of businesses and product lines; and
- general economic conditions, inflation, rising interest rates, and international conflicts
+(cid:129) potential acquisitions of businesses and product lines; and
+(cid:129) general economic conditions, inflation, rising interest rates, and international conflicts
 and their impact on our industry in particular.
 If our capital requirements are materially different from those currently planned, we may
 need additional capital sooner than anticipated. Additional financing may not be available on
@@ -4824,14 +4824,14 @@ Driving Automated system providing Smart vehicle driving Smart vehicle driving u
 Responsibility assisted driving features only under limited conditions conditions
 Supervising Human driver solely Human driver intervening when Little or no human
 Responsibility responsible necessary intervention
- Lane centering High Automation
- NOA on highway and urban
- Pedal/steering wheel may not be
+(cid:129) Lane centering High Automation
+(cid:129) NOA on highway and urban
+(cid:129) Lane departure warning scenarios (cid:129) Pedal/steering wheel may not be
 installed
-Key Features &  Traffic sign recognition and stop sign
-Functions  Adaptive cruise control control Full Automation
- D co r n iv d e it r i l o e n ss s and automated under all
-… …  Robobus/Robotruck …
+Key Features & (cid:129) Lane following (cid:129) Traffic sign recognition and stop sign
+Functions (cid:129) Adaptive cruise control control Full Automation
+(cid:129) Automatic emergency braking (cid:129) Automated parking (cid:129) D co r n iv d e it r i l o e n ss s and automated under all
+… … (cid:129) Robobus/Robotruck …
 Overview of China’s Commercial Vehicle Intelligent Driving Industry
 Intelligent driving commercial vehicles have already achieved large-scale commercialization,
 primarily due to the following pain points that create guaranteed market acceptance for
@@ -5189,17 +5189,17 @@ years.
 === PAGE 149 ===
 INDUSTRY OVERVIEW
 Drivers of China’s Autonomous Mining Truck Solution Industry
- Heightened Safety Standard: The continuously increasing demand for coal and other
+(cid:129) Heightened Safety Standard: The continuously increasing demand for coal and other
 resources causes excessive production in mining areas, thus overlaboring mining workers and
 escalating safety risks. Accidents can endanger workers and lead to mine shutdowns,
 disrupting production and causing significant economic losses. Autonomous mining can
 effectively reduce accidents caused by human error, thereby improving overall safety in
 mining operations.
- Growing Need for Cost Efficiency: Maximizing extraction efficiency and managing costs
+(cid:129) Growing Need for Cost Efficiency: Maximizing extraction efficiency and managing costs
 have become essential for maintaining mining companies’ competitiveness. Deploying
 autonomous mining vehicles can significantly reduce labor and energy costs while allowing
 for continuous 24-hour operation, thereby improving cost efficiency for mining companies.
- Technological Advancement: Vehicle intelligence and V2X form the foundation of
+(cid:129) Technological Advancement: Vehicle intelligence and V2X form the foundation of
 autonomous mining. Vehicle intelligence, powered by onboard sensors, control systems and
 algorithms, equips mining trucks with intelligent driving capabilities. Meanwhile, V2X
 technology enables the exchange of real-time traffic information both between vehicles as
@@ -5207,7 +5207,7 @@ well as between vehicles and road infrastructure, effectively filling the inform
 vehicle-based autonomy and enhancing overall transportation efficiency in mining operations.
 The integration of vehicle intelligence and V2X technologies drives the commercialization of
 autonomous mining truck solutions in China.
- Regulatory Mandate: The Chinese government is continuously introducing policies and
+(cid:129) Regulatory Mandate: The Chinese government is continuously introducing policies and
 mandates that provide strong policy support as well as quantitative targets and timelines for
 autonomous mining implementation to enhance mining safety and efficiency. For example,
 the “Guiding Opinions on Accelerating the Development of Intelligent Coal Mines”, issued
@@ -5279,7 +5279,7 @@ network from the video source to the receiving end.
 === PAGE 152 ===
 INDUSTRY OVERVIEW
 Entry Barriers of China’s Autonomous Mining Truck Solution Industry
- Strong R&D Capabilities: Autonomous mining involves the integration of multiple core
+(cid:129) Strong R&D Capabilities: Autonomous mining involves the integration of multiple core
 technologies, including perception, V2X, intelligent scheduling and remote control, requiring
 companies to possess strong, comprehensive technical capabilities. Additionally, to achieve
 the commercialization of autonomous mining truck solutions, companies must address the
@@ -5289,7 +5289,7 @@ traffic, demanding extremely rigorous technical standards. As a result, autonomo
 technology companies that achieved early commercialization have the first-mover advantage
 to access valuable real-world mining data, enabling them to continuously improve their
 intelligent driving algorithms and establish high technical barriers for new entrants.
- Sophisticated Methodologies: While mining areas are closed environments with relatively
+(cid:129) Sophisticated Methodologies: While mining areas are closed environments with relatively
 simple road structures, their operational conditions are highly complex, featuring challenging
 terrain such as large dirt areas, steep slopes, sharp turns and irregular roads, along with dense
 vehicle distribution. Leveraging years of research and commercialization experience, leading
@@ -5297,14 +5297,14 @@ autonomous mining technology companies have developed a set of methodologies to 
 that their vehicles can adapt to the complex conditions of mining sites. In contrast, new
 entrants often lack a deep understanding of mining site conditions, making it difficult for
 them to offer products of comparable quality.
- High Product Reliability and Versatility: Autonomous mining products must be highly
+(cid:129) High Product Reliability and Versatility: Autonomous mining products must be highly
 reliable to operate stably in harsh mining environments, such as dust, strong winds, rain and
 snow. Additionally, autonomous mining products must be highly versatile to adapt to varying
 mining operations, environments and tasks. Compared to new entrants who bear high costs to
 customize vehicles for differing mining environments, leading autonomous mining technology
 companies adopt a platform-based approach that enables their products to adapt to varying
 mining sites, thereby reducing customization costs and improving cost efficiency.
- Integrated Supply Chain: Supply chain integration is crucial for cost reduction, efficiency
+(cid:129) Integrated Supply Chain: Supply chain integration is crucial for cost reduction, efficiency
 gains and sustainable profitability. Leading autonomous mining technology companies have
 established strong partnerships with upstream suppliers, such as OEMs and other hardware or
 software suppliers, to ensure a stable supply chain and reasonable cost control. Meanwhile,
@@ -5351,10 +5351,10 @@ INDUSTRY OVERVIEW
 V2X typically comprises four main components: on-board unit, roadside infrastructure, a
 cloud platform with software algorithms and communication infrastructure. These components
 work together to create a intelligent and efficient traffic management system:
- is a bidirectional wireless transceiver
+(cid:129) On-Board unit: An On-Board Unit (OBU) is a bidirectional wireless transceiver
 installed in a vehicle that transmits vehicle status information via the 5.9 GHz frequency
 band to other vehicles or roadside infrastructure.
- and roadside
+(cid:129) Roadside device: Roadside device includes the roadside unit (RSU) and roadside
 sensing devices (such as cameras, LiDAR and mmWave radar). A Roadside Unit (RSU)
 is a bidirectional wireless transceiver installed along the roadside. It receives
 information transmitted by vehicles via the 5.9 GHz frequency band and, in turn, sends
@@ -5363,10 +5363,10 @@ RSU can also connect with roadside sensing devices to broadcast real-time traffi
 information detected by these sensors to vehicles. Furthermore, RSUs communicate with
 cloud platforms through other communication links such as optical fiber or 5G
 networks.
- Cloud platform: Serving as the data processing and traffic decision-making center, the
+(cid:129) Cloud platform: Serving as the data processing and traffic decision-making center, the
 cloud platform aggregates and analyzes data from the OBUs and RSUs, providing
 comprehensive traffic optimization plans and control commands.
- Communication infrastructure: Communication infrastructure comprises optical fiber,
+(cid:129) Communication infrastructure: Communication infrastructure comprises optical fiber,
 4G and 5G network base stations, which ensure efficient and stable data and information
 transmission in V2X.
 Interconnectivity among V2X hardware from various market players relies heavily on
@@ -5430,7 +5430,7 @@ installed at every signalized intersection on urban roads, as well as each kilom
 === PAGE 156 ===
 INDUSTRY OVERVIEW
 Drivers of China’s V2X Industry
- Favorable Government Policy: Government support is a key driver for the development of
+(cid:129) Favorable Government Policy: Government support is a key driver for the development of
 the V2X industry. The Chinese government introduced a series of policies related to
 intelligent connected vehicles, including the construction of V2X infrastructure, the
 promotion of intelligent vehicle applications, the improvement of cloud platforms and the
@@ -5446,17 +5446,17 @@ announced Notice on Launching the Integration Vehicle-Road-Cloud Application Pil
 Intelligent Connected Vehicles, promoting the construction of vehicle-road-cloud integrated
 systems, and V2X is gradually becoming a new driving force for the future growth of the
 country’s automotive industry.
- Demand for Traffic Safety: Due to increasing private vehicle ownership and the growing
+(cid:129) Demand for Traffic Safety: Due to increasing private vehicle ownership and the growing
 complexity of traffic conditions, the number of traffic accidents continues to rise, causing
 economic losses of trillions of dollars annually. V2X can significantly reduce traffic
 accidents, such as chain collisions and red-light running incidents, by communicating traffic
 conditions and sending warnings to vehicles.
- Increased Demand for Urban Traffic Efficiency: As urbanization accelerates and
+(cid:129) Increased Demand for Urban Traffic Efficiency: As urbanization accelerates and
 population density increases, the demand for fast and convenient travel grows. V2X
 integrates information from vehicles, roadside infrastructure and cloud platforms, helping
 traffic management authorities monitor traffic conditions, optimize routes and precisely
 control traffic flow, thereby significantly improving efficiency and reducing congestion.
- Improved Smart Roadside Infrastructure: Continuously improved roadside infrastructure
+(cid:129) Improved Smart Roadside Infrastructure: Continuously improved roadside infrastructure
 has laid a solid foundation for the application of V2X. Technologies such as RSUs, sensing
 devices and edge computing enable real-time data collection and information exchange
 between roads and vehicles, supported by intelligent algorithms for data processing and
@@ -5466,7 +5466,7 @@ advance.
 
 === PAGE 157 ===
 INDUSTRY OVERVIEW
- Enhanced Feasibility of V2X Deployment: With advancements in intelligent sensing,
+(cid:129) Enhanced Feasibility of V2X Deployment: With advancements in intelligent sensing,
 artificial intelligence and 5G communication, along with the gradual establishment of pilot
 zones, China’s V2X technology is becoming increasingly mature. V2X’s economic benefits
 are steadily improving, significantly enhancing its deployment ability and establishing a
@@ -5513,7 +5513,7 @@ solutions in China is also substantial, with a total addressable market size(1) 
 RMB530.0 billion in 2024.
 Drivers of the China’s Intelligent Perception Solutions for Rail Transit and Commercial
 Vehicles market
- Heightened Safety Demand: The increasing volume of traffic and the growing complexity of
+(cid:129) Heightened Safety Demand: The increasing volume of traffic and the growing complexity of
 road conditions have made it imperative for commercial vehicles to prioritize reducing
 accidents and ensuring the safety of drivers and cargo. Meanwhile, rail transit, as a crucial
 component of urban transportation with significant daily passenger volumes, also plays a vital
@@ -5521,12 +5521,12 @@ role in public safety. Utilizing advanced sensing and control technologies, inte
 perception solutions significantly enhance transportation safety of rail transit and commercial
 vehicles and reduced accident risks, leading to increased demand for rail transit and
 commercial vehicles.
- Technological Advancement: Technological advancements, such as artificial intelligence and
+(cid:129) Technological Advancement: Technological advancements, such as artificial intelligence and
 big data analytics, lay the foundation for the intelligent transformation of rail transit and
 commercial vehicles. For instance, AI algorithms based on computer vision can efficiently
 process images and accurately identify objects, enabling real-time detection of obstacles
 ahead of trains and enhancing operational safety.
- Favorable Policy: The Chinese government prioritizes the safe operation of commercial
+(cid:129) Favorable Policy: The Chinese government prioritizes the safe operation of commercial
 vehicles and development of smart urban transportation. Various policies have given clear
 direction for promoting intelligent perception solutions and supporting relevant enterprises
 with financial subsidies, tax incentives, and research funding.
@@ -9201,18 +9201,18 @@ autonomous driving trucks for mining and logistics, V2X (vehicle-to-everything) 
 intelligent perception solutions, and offer products and solutions underpinned by proprietary
 technologies, with a primary focus on intelligent driving in closed environments during the Track
 Record Period. According to CIC:
- We ranked sixth among all commercial vehicle intelligent driving companies in China
+(cid:129) We ranked sixth among all commercial vehicle intelligent driving companies in China
 (including Hong Kong, Macau and Taiwan), with a market share of approximately 5.2%.
- We delivered 56 autonomous mining trucks for a mining site in China (including Hong
+(cid:129) We delivered 56 autonomous mining trucks for a mining site in China (including Hong
 Kong, Macau and Taiwan) in mixed traffic with ~500 manned trucks, the world’s largest
 mixed-operation mining fleet(1) as of the Latest Practicable Date.
- We delivered the first fully driverless electric mining fleet in China (including Hong
+(cid:129) We delivered the first fully driverless electric mining fleet in China (including Hong
 Kong, Macau and Taiwan).
-’s autonomous
+(cid:129) We ranked third in China (including Hong Kong, Macau and Taiwan)’s autonomous
 mining truck solution market in terms of revenue in 2024.
- We are among the first intelligent driving companies in China (including Hong Kong,
+(cid:129) We are among the first intelligent driving companies in China (including Hong Kong,
 Macau and Taiwan) to launch commercial V2X products.
- is the only product in China (including
+(cid:129) Our train autonomous perception system (TAPS) is the only product in China (including
 Hong Kong, Macau and Taiwan) capable of independent safety perception(2) for trains.
 Inherent challenges persist in mining, transportation and rail transit, where safety is a primary
 concern. Harsh conditions in mining operations lead to frequent accidents. Although the global
@@ -9358,20 +9358,20 @@ customer-driven opportunities, leading to high customer satisfaction, robust str
 and consistent revenue growth.
 Our innovation methodology is underpinned by a comprehensive proprietary technological
 framework, including but not limited to:
- Stable, high-speed and high-precision intelligent driving technology enabling
+(cid:129) Stable, high-speed and high-precision intelligent driving technology enabling
 single-vehicle intelligent driving.
- Multi-agent system algorithms facilitating convoy control of multiple autonomous
+(cid:129) Multi-agent system algorithms facilitating convoy control of multiple autonomous
 vehicles.
- V2X technology enabling information exchange between vehicles and infrastructure to
+(cid:129) V2X technology enabling information exchange between vehicles and infrastructure to
 achieve beyond visual range (BVR) sensing and active sensing.
 – 223 –
 
 === PAGE 234 ===
 BUSINESS
- Mixed fleet of manned and unmanned vehicles, 5G remote control and intelligent
+(cid:129) Mixed fleet of manned and unmanned vehicles, 5G remote control and intelligent
 scheduling empowered by metaverse interfaces for enhanced efficiency and human-robot
 interactions.
- Jointly developed electrification and drive-by-wire system with automotive OEMs,
+(cid:129) Jointly developed electrification and drive-by-wire system with automotive OEMs,
 advancing the safety and efficiency of autonomous vehicles.
 Multi-Agent Algorithms and Systems Metaverse Technologies
 Industrial loT
@@ -9392,7 +9392,7 @@ Throttle/Accelerator
 E/E Architecture
 Braking Suspension
 Our Offerings
- Autonomous Driving
+(cid:129) Autonomous Driving
 o METAMINE — closed-environment autonomous mining truck solution. Our
 comprehensive solution for autonomous mining, METAMINE, comprises (i) autonomous
 mining trucks to enable driverless loading, haulage and unloading processes for
@@ -9425,7 +9425,7 @@ critical to add BVR sensing and active sensing capabilities to single vehicle in
 (iii) central dispatch platform to streamline tasking processes while simplifying and
 visualizing logistics data; and (iv) emergency takeover system to provide additional
 safety redundancy.
- V2X
+(cid:129) V2X
 In line with national policies propelling the broader adoption of V2X technology and the
 construction of intelligent infrastructure, we developed industry-leading V2X devices and solutions
 integrating vehicles, roadside infrastructures and cloud platforms to facilitate the advancement of
@@ -9435,7 +9435,7 @@ vehicular networking scenarios. Our patented V2X + Transit Signal Priority techn
 implemented in multiple cities and facilitated Changsha city to win the 2021 Mobility Award at the
 Smart City Expo World Congress, contributing to congestion reduction, energy conservation,
 emission reduction and carbon neutrality efforts.
- Intelligent Perception
+(cid:129) Intelligent Perception
 o Leveraging expertise in intelligent driving technology for heavy-duty commercial
 vehicles, we developed the Train Autonomous Perception System (TAPS), an active
 safety system for trains to address the need for trains to possess active perception
@@ -9451,14 +9451,14 @@ omnidirectional warning system and vehicle recording, among others. These functi
 are realized through a single computing device, complemented by sensors and cameras
 installed on the vehicle.
 Our Value Propositions
- Safety. Autonomous driving and V2X technologies significantly reduce accident rates,
+(cid:129) Safety. Autonomous driving and V2X technologies significantly reduce accident rates,
 especially in complex and harsh mining environments.
- Efficiency. Our METAMINE solution supports 24/7 continuous operation, saving fuel costs,
+(cid:129) Efficiency. Our METAMINE solution supports 24/7 continuous operation, saving fuel costs,
 releasing manpower from dangerous working environments while enhancing productivity and
 efficiency. V2X products improve road intelligence and transportation efficiency.
- Comfort. Our teleoperation station is connected with an immersive cloud platform and offers
+(cid:129) Comfort. Our teleoperation station is connected with an immersive cloud platform and offers
 a comfortable and intelligent operating experience, especially attracting young workers.
- ESG. Our intelligent driving solutions prioritize safety, environmental protection and low
+(cid:129) ESG. Our intelligent driving solutions prioritize safety, environmental protection and low
 carbon emissions, contributing to sustainable development. Our autonomous electric mining
 trucks excel in productivity, safety and cost-effectiveness compared to traditional
 human-driven fuel trucks. Our V2X products reduce accidents and congestion, optimize
@@ -9473,22 +9473,22 @@ intelligent perception solutions, and offer products and solutions underpinned b
 technologies, with a primary focus on intelligent driving in closed environments during the Track
 Record Period.
 According to CIC:
- We ranked sixth among all commercial vehicle intelligent driving companies in China
+(cid:129) We ranked sixth among all commercial vehicle intelligent driving companies in China
 (including Hong Kong, Macau and Taiwan), with a market share of approximately 5.2%.
 – 226 –
 
 === PAGE 237 ===
 BUSINESS
- We delivered 56 autonomous mining trucks for a mining site in China (including Hong
+(cid:129) We delivered 56 autonomous mining trucks for a mining site in China (including Hong
 Kong, Macau and Taiwan) in mixed traffic with ~500 manned trucks, the world’s largest
 mixed-operation mining fleet(1) as of the Latest Practicable Date.
- We delivered the first fully driverless electric mining fleet in China (including Hong
+(cid:129) We delivered the first fully driverless electric mining fleet in China (including Hong
 Kong, Macau and Taiwan).
-’s autonomous
+(cid:129) We ranked third in China (including Hong Kong, Macau and Taiwan)’s autonomous
 mining truck solution market in terms of revenue in 2024.
- We are among the first intelligent driving companies in China (including Hong Kong,
+(cid:129) We are among the first intelligent driving companies in China (including Hong Kong,
 Macau and Taiwan) to launch commercial V2X products.
- is the only product in China (including
+(cid:129) Our train autonomous perception system (TAPS) is the only product in China (including
 Hong Kong, Macau and Taiwan) capable of independent safety perception(2) for trains.
 Our market position is the result of our relentless efforts in identifying latent customer needs
 and pain points and leveraging our technological capabilities to develop high-value products for
@@ -9667,32 +9667,32 @@ objectives, we formulated the following key strategies:
 Continually Invest in Intelligent Driving Technology and Enhance Product Competitiveness
 We plan to continually iterate our autonomous commercial vehicle products and technologies,
 specifically:
- Identify high value applications and build an innovative product matrix resilient against
+(cid:129) Identify high value applications and build an innovative product matrix resilient against
 market uncertainties.
- Enhance algorithm precision, robustness and adaptability to resolve corner cases through
+(cid:129) Enhance algorithm precision, robustness and adaptability to resolve corner cases through
 more refined extreme scenario data analysis.
- Integrate software, hardware and algorithms to further optimize autonomous operations
+(cid:129) Integrate software, hardware and algorithms to further optimize autonomous operations
 for customers, such as combining intelligent fleet scheduling with digitalized industrial
 management to achieve fully intelligent driving in mining sites.
 – 231 –
 
 === PAGE 242 ===
 BUSINESS
- Diversify the application scenarios of our intelligent driving technology across various
+(cid:129) Diversify the application scenarios of our intelligent driving technology across various
 commercial vehicle driving scenarios, including autonomous heavy-duty trucks for
 container or cargo transportation in ports, autonomous heavy-duty trucks for steel plates
 transportation in steel plants, autonomous heavy-duty trucks operating within chemical
 industrial parks, as well as in railway freight stations, underground mines, and airport
 logistics.
- Collaborate with leading OEMs to standardize hardware installation and deployment for
+(cid:129) Collaborate with leading OEMs to standardize hardware installation and deployment for
 intelligent driving systems.
 We plan to further upgrade, optimize and expand deployment of our software, hardware and
 algorithms, while increasing their cost-effectiveness, specifically:
- Enhance performance of sensor suite, including LiDAR, vision sensors and mmWave
+(cid:129) Enhance performance of sensor suite, including LiDAR, vision sensors and mmWave
 radar, to improve stability, safety and calibration accuracy.
- Optimize intelligent processing units, V2X roadside units, V2X onboard units and edge
+(cid:129) Optimize intelligent processing units, V2X roadside units, V2X onboard units and edge
 computing units to offer competitive domestic V2X solutions.
- Enhance intelligent scheduling systems for autonomous mining trucks, remote control
+(cid:129) Enhance intelligent scheduling systems for autonomous mining trucks, remote control
 systems, intelligent perception solutions for rail transit, V2X cloud control platform and
 intelligent transportation systems by optimizing software functionality and user
 experience.
@@ -9710,13 +9710,13 @@ expect our rapidly scalable delivery capabilities to reduce unit costs, thereby 
 competitiveness in the market, boosting market share and building strong brand value through
 consistent and high-quality service.
 We plan to strengthen existing customer relationships through the following:
- Expand the integration of our products onto additional vehicle models of existing
+(cid:129) Expand the integration of our products onto additional vehicle models of existing
 customers.
 – 232 –
 
 === PAGE 243 ===
 BUSINESS
- Enhance the single-vehicle commercial value with existing customers. For example, we
+(cid:129) Enhance the single-vehicle commercial value with existing customers. For example, we
 aim to transition from offering single sensors or software algorithms to intelligent
 driving systems and expanding from intelligent driving solutions to provide a broader
 range of V2X products.
@@ -9801,18 +9801,18 @@ The below table sets forth our major products and solutions:
 Revenue contribution in the
 Category Products and solutions six months ended June 30, 2025
 Amount (RMB in thousands) %
- METAMINE solution
+(cid:129) METAMINE solution
 Autonomous
 378,364 92.7
-driving  Closed-environment autonomous
+driving (cid:129) Closed-environment autonomous
 logistics truck solution
-V2X  V2X products and solutions 9,179 2.3
- Train autonomous perception
+V2X (cid:129) V2X products and solutions 9,179 2.3
+(cid:129) Train autonomous perception
 system (TAPS)
 Intelligent
 20,493 5.0
 perception
- In-vehicle intelligent perception
+(cid:129) In-vehicle intelligent perception
 and safety management solution
 Autonomous Driving
 Our autonomous driving solutions include (i) METAMINE solution and (ii)
@@ -9896,7 +9896,7 @@ BUSINESS
 We categorize the key functionalities of our autonomous mining trucks into three groups,
 namely: (i) perception and positioning, (ii) decision, coordination and control, and (iii) diagnostics
 and redundancy:
- Perception and Positioning
+(cid:129) Perception and Positioning
 o Sensor fusion and processing: Combining sensor fusion, BEV perception and deep
 learning technologies, integrates heterogeneous automotive-grade sensors including
 mmWave radar, automotive-grade LiDAR and vision systems to enable 360-degree
@@ -9924,7 +9924,7 @@ and perception information of other vehicles, enhancing BVR perception
 capabilities and improving safety redundancy, thereby enhancing the overall
 decision-making and planning process, and in turn improving operational
 efficiency.
- Decision, Coordination and Control
+(cid:129) Decision, Coordination and Control
 o Intelligent obstacle avoidance: Determines whether to runover, evade, or navigate
 around obstacles based on their characteristics.
 – 238 –
@@ -9950,7 +9950,7 @@ evasion and overtaking.
 o Adaptive parking: Achieves precise parking based on vehicle perception and
 boundary information, adapting to constantly changing site conditions, with lateral
 parking accuracy <15cm and longitudinal parking accuracy <20cm.
- Diagnostics and Redundancy
+(cid:129) Diagnostics and Redundancy
 o Fault diagnosis system: Performs over 100 self-diagnostics per second for more
 than 1,600 fault detection items.
 Fleet Coordination Module
@@ -9959,38 +9959,38 @@ facilitating efficient scheduling and coordination among vehicles. It consists o
 multi-vehicle global path planning, optimized efficiency scheduling and mix-traffic flow
 facilitation; and (ii) software for distributed fleet management across multiple locations and
 simulation. The system enables the following key functions:
- Intelligent scheduling of loading and unloading: Utilizes deep learning and
+(cid:129) Intelligent scheduling of loading and unloading: Utilizes deep learning and
 optimization algorithms to compute optimal vehicle destinations for loading/unloading,
 enhancing overall production efficiency by 13%.
 – 239 –
 
 === PAGE 250 ===
 BUSINESS
- orderly and obstacle-free
+(cid:129) Multi-vehicle planning and coordination: Enables: (i) orderly and obstacle-free
 queuing for autonomous vehicle fleet; (ii) intelligent route selection adapting to complex
 mining conditions such as extremely narrow, steep or rocky road conditions; and (iii)
 preemptive traffic jam avoidance and deadlock prevention and resolution, reducing fleet
 total travel time by 15%; supports deployment of over 1,000 vehicles; and reduces the
 need for extensive real-world testing in the mines by testing complex traffic scenarios
 using our proprietary AI simulation platform, speeding up project timelines.
- Prediction of human-driven vehicle behavior and trajectory: Facilitates mixed traffic
+(cid:129) Prediction of human-driven vehicle behavior and trajectory: Facilitates mixed traffic
 flow of driverless and human-driven vehicles. Leveraging multi-vehicle sensor fusion
 and neural networks, achieving prediction accuracy of over 95%, outperforming industry
 average of approximately 90%, according to CIC.
- Charging optimization: Opting for vehicle recharging during periods of low electricity
+(cid:129) Charging optimization: Opting for vehicle recharging during periods of low electricity
 prices and optimizing charging times enhances vehicle utilization by over 10% and
 reduces charging costs by over 20%.
- Dispatch optimization: Optimizes vehicle dispatch to maximize efficiency and allocates
+(cid:129) Dispatch optimization: Optimizes vehicle dispatch to maximize efficiency and allocates
 vehicles, excavators and other equipment and resources for optimal coordination and
 increased operational efficiency.
 Central Dispatch Platform
 The central dispatch platform aims to monitor the entire mining operation and collect data for
 statistical analysis. It features the below key functions:
- Intelligent Scheduling: Automatically schedules and dispatches mining trucks for
+(cid:129) Intelligent Scheduling: Automatically schedules and dispatches mining trucks for
 loading and unloading operations based on real-time workload assessments to optimize
 vehicle allocation, reducing vehicle queueing time and idle time at loading or unloading
 points, thereby boosting fleet productivity.
- Equipment Monitoring and Management: Enables real-time monitoring and tracking of
+(cid:129) Equipment Monitoring and Management: Enables real-time monitoring and tracking of
 the positions, queuing and task completion statuses or any malfunctioning of mining
 trucks, drill rigs, excavators, crushing stations and other equipment in the mine. Allows
 remote access to vehicle cameras for monitoring of the surroundings to facilitate
@@ -9999,7 +9999,7 @@ efficient mine management. Supports concurrent monitoring of over 1,000 devices.
 
 === PAGE 251 ===
 BUSINESS
- Statistical Analysis: Automatically calculates and records production volume,
+(cid:129) Statistical Analysis: Automatically calculates and records production volume,
 fuel/electric consumption and maintenance logs, and analyzes the efficiency of vehicle
 dispatch, refueling, maintenance and production using big data technology to facilitate
 cost reduction, efficiency improvement and management enhancement in mining
@@ -10032,19 +10032,19 @@ meters; ≤120kg).
 === PAGE 252 ===
 BUSINESS
 The key functionalities of our teleoperation station are summarized below:
- Ultra-low latency remote control over long distances (emergency stop command latency
+(cid:129) Ultra-low latency remote control over long distances (emergency stop command latency
 ≤20ms; signal latency≤20ms; image latency≤160ms) and comprehensive network
 compatibility.
- Multi-vehicle control from a single station.
- Two-way voice communication.
- Live visual, audio and sensor-assisted feedback.
- Comprehensive safety measures including lane departure warning, vehicle collision
+(cid:129) Multi-vehicle control from a single station.
+(cid:129) Two-way voice communication.
+(cid:129) Live visual, audio and sensor-assisted feedback.
+(cid:129) Comprehensive safety measures including lane departure warning, vehicle collision
 avoidance system and 360° coverage with zero blind spots.
- Serves as an emergency takeover system for driverless vehicles during rare occurrences
+(cid:129) Serves as an emergency takeover system for driverless vehicles during rare occurrences
 of emergency system failures. The rate of such emergency takeover during the operation
 of our driverless vehicles was approximately 0.07% in the six months ended June 30,
 2025.
- Modular design enabling flexible customization for different scenarios and vehicles.
+(cid:129) Modular design enabling flexible customization for different scenarios and vehicles.
 – 242 –
 
 === PAGE 253 ===
@@ -10057,9 +10057,9 @@ loading, haulage, unloading and recharging operations without the need for safet
 running 24/7. it marked a significant milestone as China (including Hong Kong, Macau and
 Taiwan)’s first autonomous electric mining project with full mining area coverage, with the
 following achievements:
- certified by NIM to surpass the efficiency of manual mining operations.
- Annual reduction of over 1,800 tons of carbon emissions.
- Cost reduction of RMB1.75 per ton compared to fuel vehicles.
+(cid:129) certified by NIM to surpass the efficiency of manual mining operations.
+(cid:129) Annual reduction of over 1,800 tons of carbon emissions.
+(cid:129) Cost reduction of RMB1.75 per ton compared to fuel vehicles.
 Large Coal Mine in Northwest China
 In December 2023, we delivered 56 driverless mining trucks to the mine operator of a large
 coal mine in northwest China. The coal mine was located at an altitude of 2,600 meters. The
@@ -10072,10 +10072,10 @@ Integrated with an intelligent planning system, remote driving system, high-prec
 positioning system and intelligent excavator terminal, our driverless mining trucks enabled the
 safe, low-carbon and productive autonomous operation. We addressed the following technical
 challenges in the project:
- In response to the operation suspension caused by temporary network outages, we
+(cid:129) In response to the operation suspension caused by temporary network outages, we
 upgraded the hybrid positioning system and optimized the algorithms to enable the
 driverless trucks’ continued operation without network connection.
- In response to the safety hazards and traffic congestions caused by the merging and
+(cid:129) In response to the safety hazards and traffic congestions caused by the merging and
 diverging of driverless vehicles at the intersections, we developed a route prediction
 function that facilitated driverless trucks to detect other vehicles’ location and speed
 information and predict other vehicles’ intended routes.
@@ -10118,14 +10118,14 @@ BUSINESS
 Application Scenarios
 Our closed-environment autonomous logistics truck solution is designed to address pain
 points and challenges of various application scenarios, such as the below:
- Chemical industrial parks. Chemical industrial parks typically involve the transportation
+(cid:129) Chemical industrial parks. Chemical industrial parks typically involve the transportation
 of heavy metal products, hazardous liquids, raw materials and energy materials, while
 the working environment is often filled with potentially explosive dust, high heat and
 radiation. Our autonomous trucks can liberate human drivers from these harsh
 conditions by offering specialized handling capabilities to address the unique challenges
 of transporting heavy loads and navigating dangerous conditions. Moreover, our solution
 can operate even when satellite and 5G network is restricted.
- Logistics and manufacturing hubs. Our solution can significantly improve operational
+(cid:129) Logistics and manufacturing hubs. Our solution can significantly improve operational
 efficiency. The typical transportation routes of logistics and manufacturing hubs include
 transfers of goods between different warehouses in a closed environment, where other
 vehicles and pedestrians may be present. Our solution enables reliable and full-process
@@ -10143,7 +10143,7 @@ These driverless heavy-duty logistics trucks integrate a series of advanced AI t
 featuring all-scenario positioning, all-weather and condition fusion perception, comprehensive
 intelligent planning, high-precision control and V2V communication. We aim to facilitate safe,
 reliable and efficient heavy-duty logistics operations in any closed industrial scenarios.
- All-weather and condition fusion perception: We leverage BEV fusion network to
+(cid:129) All-weather and condition fusion perception: We leverage BEV fusion network to
 accurately understand the surrounding environment for real-time, 360-degree surround
 perception that accurately detects the drivable area and various obstacles, while
 – 245 –
@@ -10153,21 +10153,21 @@ BUSINESS
 maintaining an effective perception range exceeding 1,000 meters. Our algorithms
 operate reliably in adverse weather conditions and are vibration-proof to ensure all-time
 effectiveness of our trucks.
- Comprehensive intelligent planning: We integrate AI and expert systems to
+(cid:129) Comprehensive intelligent planning: We integrate AI and expert systems to
 dynamically plan vehicle trajectories based on real-time environmental assessments,
 enabling adaptive handling of complex environments of the industrial parks, where the
 driverless logistics task completion efficiency exceeds 99% of that of human-driven
 operations in certain conditions. In addition, the truck is able to recognize
 metropolis-like complex traffic scenarios including mixed traffic and pedestrian
 jaywalking for accident prevention.
- High-precision control: We utilize proprietary technology combining dedicated neural
+(cid:129) High-precision control: We utilize proprietary technology combining dedicated neural
 network and optimal control techniques to precisely manage vehicle dynamics and
 motion states, ensuring accurate truck movement even during challenging maneuvers
 such as platform docking, under-crane parking and tunnel or narrow road navigation,
 achieving driverless parking and docking accuracy of under 5cm. Our vehicle control
 technology also enables coordination with existing third party AGVs and cranes to
 realize efficient cargo loading and unloading, and automated customs inspections.
- V2X system: We integrate V2X technology with our autonomous trucks. Although V2X
+(cid:129) V2X system: We integrate V2X technology with our autonomous trucks. Although V2X
 systems are not indispensable for autonomous logistics trucks, they significantly
 improve reliability and enhance the intelligence and safety of our autonomous logistics
 trucks. For example, we deploy V2V technology to every driverless truck, allowing
@@ -10196,21 +10196,21 @@ unforeseen situations.
 Use Cases
 Our closed-environment autonomous logistics truck solution has been utilized in a broad
 range of scenarios, with the following achievements:
- Reduced energy costs by approximately 50% compared to traditional gasoline-powered
+(cid:129) Reduced energy costs by approximately 50% compared to traditional gasoline-powered
 trucks.
- Improved production efficiency by approximately 30%.
- Increased operating time by 700 hours per truck per year.
- Reduced accident rate by more than 90%.
- Achieved close to 0% latency rate.
- Realized 24/7 continuous autonomous operation.
+(cid:129) Improved production efficiency by approximately 30%.
+(cid:129) Increased operating time by 700 hours per truck per year.
+(cid:129) Reduced accident rate by more than 90%.
+(cid:129) Achieved close to 0% latency rate.
+(cid:129) Realized 24/7 continuous autonomous operation.
 Liuzhou Automotive Industrial Park Project
 In June 2023, we designed and developed intelligent driving systems for Dongfeng Liuzhou
 Motor Co., Ltd to enable their logistics trucks to perform driverless logistics tasks such as cargo
 transportation at its main manufacturing hub, with the following achievements:
- Operated for over 7,000 hours and completed over 15,000 logistics tasks as of the Latest
+(cid:129) Operated for over 7,000 hours and completed over 15,000 logistics tasks as of the Latest
 Practicable Date.
- Effectively reduced operational costs and improved production efficiency by 15%.
- Recognized by the PRC Ministry of Transportation as one of the earliest pilot intelligent
+(cid:129) Effectively reduced operational costs and improved production efficiency by 15%.
+(cid:129) Recognized by the PRC Ministry of Transportation as one of the earliest pilot intelligent
 transportation projects in China.
 – 247 –
 
@@ -10231,15 +10231,15 @@ advancement of intelligent transportation systems and smart cities. Our solution
 safety and enable coordinated traffic perception, dynamic traffic light timing, traffic flow analysis
 and congestion alerts.
 On-board devices
- Hardware: Connected vehicles equipped with OBUs can communicate with RSUs and the
+(cid:129) Hardware: Connected vehicles equipped with OBUs can communicate with RSUs and the
 other connected vehicles. The communication range of V2I (vehicle-to-infrastructure) and
 V2V (vehicle-to-vehicle) is over 800 meters with a latency of less than 30ms. The life cycle
 of our OBU products is five years.
- Software: The V2X software utilizes advanced communication technology and
+(cid:129) Software: The V2X software utilizes advanced communication technology and
 decision-making algorithms to promote interactions between connected vehicles and
 infrastructures, as well as between drivers and vehicles, to improve road safety, traffic
 efficiency and reduce environmental pollution.
- Algorithms: In addition to standard V2X scenarios, our algorithms can also collaborate with
+(cid:129) Algorithms: In addition to standard V2X scenarios, our algorithms can also collaborate with
 roadside systems to realize customized vehicle-infrastructure coordination in various
 application scenarios such as smart cities, smart highways and smart mining zones.
 – 248 –
@@ -10247,7 +10247,7 @@ application scenarios such as smart cities, smart highways and smart mining zone
 === PAGE 259 ===
 BUSINESS
 Roadside devices
- Hardware:
+(cid:129) Hardware:
 o RSUs (Roadside Units): Equipped with C-V2X (cellular vehicle-to-everything) wireless
 technology, RSUs can communicate with OBUs or the cloud platform. RSUs can process
 data, communicate with vehicles and integrate sensors, making it useful in various
@@ -10257,7 +10257,7 @@ duration of proper functioning, of over 50,000 hours.
 o MEC (Multi-access edge computing): In an MEC, multi-sensor fusion technology can be
 utilized to enable obstacle detection, traffic event detection, traffic information
 detection, traffic flow monitoring and other related tasks.
- Algorithms: Algorithms are deployed in MEC devices to collect data from RSUs and shared
+(cid:129) Algorithms: Algorithms are deployed in MEC devices to collect data from RSUs and shared
 in real-time to connected vehicles with OBUs or our V2X APP to enable real-time traffic
 participant detection, traffic flow monitoring, incident detection and weather monitoring,
 among others, enhancing overall traffic system safety and efficiency. These algorithms can
@@ -10338,12 +10338,12 @@ Traffic signal pass
 through
 Our V2X + Active TSP solution has been deployed in numerous scenarios, with the following
 achievements:
- Improved public transport efficiency by about 10% and increased public transport
+(cid:129) Improved public transport efficiency by about 10% and increased public transport
 ridership; estimated to reduce millions of private car usage annually, reducing energy
 consumptions and emissions.
- Improved the punctuality of buses by approximately 50%.
- Increased average speed of buses by approximately 13%.
- Reduced travel time; it is estimated that public transport companies can generate
+(cid:129) Improved the punctuality of buses by approximately 50%.
+(cid:129) Increased average speed of buses by approximately 13%.
+(cid:129) Reduced travel time; it is estimated that public transport companies can generate
 millions of RMB in revenue annually by encouraging passengers to choose public
 transportation.
 For example, in 2020, we implemented our proprietary “Active Bus Priority” system based on
@@ -10399,11 +10399,11 @@ Train autonomous perception system (TAPS)
 The rail transit industry has a need for trains to possess active perception capabilities. TAPS
 is a new generation of active safety system for trains, leveraging fusion perception technology to
 fully utilize the detection capabilities of LiDAR, cameras and mmWave radars.
-
-
-
-
-
+(cid:45)(cid:74)(cid:37)(cid:34)(cid:51)
+(cid:36)(cid:66)(cid:78)(cid:70)(cid:83)(cid:66)
+(cid:78)(cid:78)(cid:56)(cid:66)(cid:87)(cid:70)(cid:1)(cid:83)(cid:66)(cid:69)(cid:66)(cid:83)
+(cid:53)(cid:51)(cid:34)(cid:42)(cid:47)(cid:1)(cid:34)(cid:54)(cid:53)(cid:48)(cid:47)(cid:48)(cid:46)(cid:48)(cid:54)(cid:52)
+(cid:49)(cid:38)(cid:51)(cid:36)(cid:38)(cid:49)(cid:53)(cid:42)(cid:48)(cid:47)(cid:1)(cid:52)(cid:58)(cid:52)(cid:53)(cid:38)(cid:46)
 TAPS serves as an important supplement to the traditional railway signaling system by
 providing independent safety redundancy, significantly improving the safety of train operation,
 especially for driverless train operations. According to CIC, TAPS is the only product in China
@@ -10420,16 +10420,16 @@ recover. The product life cycle of TAPS is five years.
 === PAGE 264 ===
 BUSINESS
 Technological advantages
- Industry-leading ultra-long-distance obstacle detection: Utilizes advanced time-space
+(cid:129) Industry-leading ultra-long-distance obstacle detection: Utilizes advanced time-space
 synchronization and heterogeneous multi-sensor fusion technology to enable accurate and
 stable detection of any type of obstacles within a range of 500 meters, the longest detection
 ranges among all competing products with SIL4 certifications in the industry according to
 CIC.
- High-precision positioning technology: Operates effectively even in scenarios such as
+(cid:129) High-precision positioning technology: Operates effectively even in scenarios such as
 tunnels without GNSS signals. The system achieves sub-second initial positioning, platform
 positioning error below 0.1 meters and comprehensive track positioning error below 0.3
 meters, all of which are industry-leading according to CIC.
- Accurate train speed measuring technology: Continuously monitors the train’s operating
+(cid:129) Accurate train speed measuring technology: Continuously monitors the train’s operating
 speed in real-time with an error margin below 0.1 km/h, making it one of the most precise
 measurement systems in the industry according to CIC.
 Obstacle Detection
@@ -10444,20 +10444,20 @@ Centimeter perception
 Train speed measurement: Error < 0.1km/h
 Train positioning: Sub-second initial positioning Platform positioning error < 0.1m
 Comprehensive track positioning error < 0.3m
- Robust environmental adaptation: With strong anti-interference capabilities and perception
+(cid:129) Robust environmental adaptation: With strong anti-interference capabilities and perception
 technology adaptable to deteriorated conditions, TAPS effectively handles various lighting
 conditions and most rain, snow and fog scenarios.
 – 254 –
 
 === PAGE 265 ===
 BUSINESS
- high-performance products
+(cid:129) Rich product matrix: TAPS can meet diverse customer needs. (i) high-performance products
 with stringent SIL4 functional safety certifications or applications demanding extreme
 performance and safety, (ii) products that meet SIL2 functional safety certifications for
 applications with rigorous safety and reliability requirements, and (iii) cost-effective warning
 systems and assisted driving products for less sophisticated scenarios with a wide market
 reach.
- Industry-leading deployment speed and adaptability: Leveraging our high-fidelity
+(cid:129) Industry-leading deployment speed and adaptability: Leveraging our high-fidelity
 rail-specific simulation system and an overall technology architecture that does not rely upon
 statistical learning methods, eliminates the continuous need for specific scene data. As a
 result, it only takes two weeks for trains installed with TAPS to achieve full operational
@@ -10465,7 +10465,7 @@ readiness since initial launch, the shortest deployment time among comparable pr
 China (including Hong Kong, Macau and Taiwan), according to CIC. Moreover, TAPS
 employs a unified technology architecture with high replicability, efficiently adapting to
 diverse types of train types and scenarios.
- One of a few in China with SIL4 certification with comprehensive function and scenario
+(cid:129) One of a few in China with SIL4 certification with comprehensive function and scenario
 coverage: The subsystems and functions of TAPS, including positioning, autonomous speed
 measurement, obstacle detection, information push, self-diagnostics and fault alarm,
 emergency brake control and obstacle alarm all meet stringent SIL4 certification requirements
@@ -10509,7 +10509,7 @@ intelligent in-vehicle products is five years.
 === PAGE 267 ===
 BUSINESS
 Our solution features the following technological advantages:
- Comprehensive perception: Compared to TAPS used in rail transit, which focuses on
+(cid:129) Comprehensive perception: Compared to TAPS used in rail transit, which focuses on
 perception in the forward and backward directions of train movement, our in-vehicle
 intelligent perception and safety management solution utilizes deep learning and AI
 algorithms to interpret and analyze information from sensors to provide drivers with
@@ -10518,16 +10518,16 @@ through the creation of a visually transparent chassis and aerial photography-li
 Tailored for semi-trailer trucks and other articulated vehicles, utilizes AI visual
 algorithms to manage dynamic angle changes between the tractor head and the
 semi-trailer and enable the dynamic stitching of articulated vehicle surroundings.
- Accurate and stable warning system: Using motion behavior analysis and false alarm
+(cid:129) Accurate and stable warning system: Using motion behavior analysis and false alarm
 avoidance technologies to track surroundings, traffic participants and it accurately
 assesses potential threats to driving safety, reduces driver distractions and enhances
 overall driving experience.
- High adaptability: Leveraging massive data accumulation and generalization technology
+(cid:129) High adaptability: Leveraging massive data accumulation and generalization technology
 guided by large models, it adapts to a variety of vehicle models in diverse scenarios
 such as urban transportation, logistics transportation, airports, and port and mining
 areas, and can effectively cope with climatic conditions such as rain, snow, fog and
 haze.
- Data desensitization and transmission: By adopting leading data security protection
+(cid:129) Data desensitization and transmission: By adopting leading data security protection
 technology and efficient data desensitization algorithms, it enables secure and reliable
 data transmission, ensuring user privacy and data security.
 Our solution is supported by comprehensive data analysis technology which integrates,
@@ -10612,20 +10612,20 @@ Project Archiving
 === PAGE 270 ===
 BUSINESS
 Our pre-sales, project implementation and post-sales processes are outlined below.
- Pre-Sales Stage. We conduct comprehensive market research to understand market
+(cid:129) Pre-Sales Stage. We conduct comprehensive market research to understand market
 trends, the competitive landscape and the needs of potential customers prior to initiating
 the customer acquisition process. Once a business opportunity is identified, we typically
 conduct frequent customer visits to formulate a preliminary pre-sales solution tailored to
 the specific requirements of the customer. The initial proposal, encompassing specific
 aspects such as target functions, product performance and cost, is then optimized and
 further customized according to customer feedback.
- Project Implementation Stage. Production plans, quality control and logistics are
+(cid:129) Project Implementation Stage. Production plans, quality control and logistics are
 arranged in accordance with the sales agreements we enter into with our customers. We
 conduct on-site installation and testing of the products and solutions, followed by
 functionality verification. We provide technical training services to our customers on the
 use and operation of our products and solutions, and proactively address any additional
 customer needs.
- Post-Sales Stage. Upon delivery, a joint inspection with the customer is conducted to
+(cid:129) Post-Sales Stage. Upon delivery, a joint inspection with the customer is conducted to
 verify product quantity and quality. Comprehensive after-sales services, including
 technical support, system updates and upgrades, routine maintenance and
 troubleshooting, are provided to ensure smooth operation and customer satisfaction. We
@@ -11655,13 +11655,13 @@ welfare benefits. We also invest in continuing education and training programs t
 management and technical staff. In the event of termination of employment requested by a key
 staff, we closely communicate with the staff for the reason of departure and feedback for us. The
 salient terms of agreements with management and technical staff are set out below:
- Ownership of intellectual properties. We hold the intellectual property rights, including
+(cid:129) Ownership of intellectual properties. We hold the intellectual property rights, including
 patent rights, proprietary technology rights, copyrights and related interests, to any
 proprietary technology, patented products and other works created or contributed to by
 the employee as part of their duties during their term of employment.
- No conflict. Employees shall not engage in any other job, whether full-time or
+(cid:129) No conflict. Employees shall not engage in any other job, whether full-time or
 part-time, during their term of employment.
- Non-competition. We have the right to unilaterally initiate a non-competition period of
+(cid:129) Non-competition. We have the right to unilaterally initiate a non-competition period of
 up to two years following the termination of employment. During the term of
 employment and the non-competition period initiated by us, employees shall not engage
 in any competitive behavior specified in the agreements.
@@ -11669,7 +11669,7 @@ in any competitive behavior specified in the agreements.
 
 === PAGE 284 ===
 BUSINESS
- Confidentiality. During the term of employment, except as necessary to perform their
+(cid:129) Confidentiality. During the term of employment, except as necessary to perform their
 duties, and for all time thereafter, employees shall not, without our prior written
 consent, disclose, divulge, announce, publish, impart, transfer or otherwise make known
 to any third party, or in any way use any information, such as technical and trade
@@ -11684,7 +11684,7 @@ Key Research Projects
 We are currently engaged in various R&D projects to iterate and upgrade our products and
 solutions, with the following key projects:
 Autonomous Driving
- METAMINE. We have been conducting R&D to upgrade METAMINE for more intelligent
+(cid:129) METAMINE. We have been conducting R&D to upgrade METAMINE for more intelligent
 and reliable driverless drilling, blasting, excavation and haulage processes and more
 integrated functionalities, with plans to launch our upgraded METAMINE solution in 2026.
 The upgraded METAMINE solution will further optimize mining operations by utilizing a
@@ -11692,7 +11692,7 @@ centralized command platform for the unified management and scheduling of drilli
 excavation, blasting and haulage equipment based on real-time site conditions. It aims to
 achieve full on-site automation of the four key mining processes, including unmanned
 haulage, and intelligent remote operation of excavation, drilling and blasting operations.
- Cabless autonomous mining trucks. We commenced the R&D of autonomous mining trucks
+(cid:129) Cabless autonomous mining trucks. We commenced the R&D of autonomous mining trucks
 without driver cabins in 2023 and expect to launch the product in 2025. The cabless design
 significantly enhances maneuverability, eliminates the need for cabin space, enables loading
 and unloading without the need for U-turns, and offering advanced functions such as
@@ -11704,13 +11704,13 @@ imposing lower demands on road and site conditions.
 === PAGE 285 ===
 BUSINESS
 V2X
- Upgraded RSU products. We commenced the iteration of RSU products in May 2024,
+(cid:129) Upgraded RSU products. We commenced the iteration of RSU products in May 2024,
 conducting preliminary research based on new NR V2X technology, and expect to launch the
 products by the end of 2025. The enhanced RSU products will integrate the latest 5G and
 C-V2X technologies to boost data transmission speed, reduce communication delays and
 enhance NR-V2X communication capabilities for enhanced safety, reliability, interoperability
 and more stable performance in challenging road conditions.
- Upgraded V2X + Active Transit Signal Priority System. We are conducting R&D to upgrade
+(cid:129) Upgraded V2X + Active Transit Signal Priority System. We are conducting R&D to upgrade
 our V2X + Active Transit Signal Priority system to enable adaptive prioritization of
 emergency vehicles, with plans to launch the upgraded solution in 2025. The upgraded
 solution aims to enhance emergency vehicle passage throughout road networks.
@@ -11718,7 +11718,7 @@ Decision-making based on roadside traffic data and emergency requests enables sm
 passage for emergency vehicles and automates emergency routing. This upgrade focuses on
 improving dynamic route adaptability while minimizing traffic disruptions.
 Intelligent Perception
- TAPS. We conducted the R&D of upgraded TAPS in 2024 to enhance the reliability and
+(cid:129) TAPS. We conducted the R&D of upgraded TAPS in 2024 to enhance the reliability and
 performance of its sensor-suite, and have launched the upgraded product in October 2024.
 The upgraded TAPS enhanced sensor reliability and performance and expanded perception
 ranges. It enhanced adaptability in challenging conditions such as rain and snow, shortens
@@ -11749,18 +11749,18 @@ one independent technology companies for outsourced R&D, respectively. Our outso
 arrangements accounted for 0.8%, 0.5%, 1.1%, 0.6% and 0.5% of our total R&D expenses in 2022,
 2023, 2024 and the six months ended June 30, 2024 and 2025, respectively. The major salient
 terms of our standard outsourced design service agreements are set out below:
- Intellectual Property. The final R&D deliverables and associated intellectual property
+(cid:129) Intellectual Property. The final R&D deliverables and associated intellectual property
 rights arising from the performance of this agreement shall be jointly owned by both
 parties within mainland China. The technology service providers retain the ownership of
 the underlying technologies related to the product developed under this agreement, as
 well as any pre-existing technological achievements and intellectual property. We shall
 have the right to use these technologies and intellectual properties free of charge for the
 purposes of the collaborative project.
- Confidentiality. Either party is responsible for keeping strict confidentiality of all the
+(cid:129) Confidentiality. Either party is responsible for keeping strict confidentiality of all the
 information provided by the other party, and would be responsible for any breach of
 confidentiality. The confidentiality clause applies for three years from the termination of
 the agreement.
- Termination. The agreements will be terminated by mutual agreement, or by other
+(cid:129) Termination. The agreements will be terminated by mutual agreement, or by other
 means as set forth in the agreements.
 R&D Process
 We developed a four-step iteration methodology, comprising functional, completeness,
@@ -12157,10 +12157,10 @@ industry norm. See “Financial Information — Discussion of Key Items of Conso
 of Financial Position — Prepayments and Other Receivables, Current Portion.”
 The salient terms of our standard sales agreements for the intelligent driving products and
 solutions during the Track Record Period are set out below:
- Product and solution specifications. Our customers typically set forth specific product
+(cid:129) Product and solution specifications. Our customers typically set forth specific product
 and solution specification requirements for products and solutions ordered, such as
 name, model, configuration and features.
- Payment. We accept various payment options to facilitate sales of our products and
+(cid:129) Payment. We accept various payment options to facilitate sales of our products and
 solutions. Customers are typically required to make advance payments and make
 progress payments as stipulated in the agreements. Our customers are typically entitled
 to retain 10% of the total contract value as retention fee, which will be paid to us at the
@@ -12173,16 +12173,16 @@ BUSINESS
 need financing for their purchase. Under the finance leasing arrangement, the financial
 leasing companies are obligated to make payments when the customers accept our
 products and solutions and issue the notice of payment.
- Delivery and transfer of risks. We are generally responsible for delivering the products
+(cid:129) Delivery and transfer of risks. We are generally responsible for delivering the products
 to locations designated by the customers in accordance with the delivery schedule
 specified in the agreement. The risks transfer to customers after they confirm acceptance
 of our products.
- Acceptance. The acceptance procedures for hardware and software products are
+(cid:129) Acceptance. The acceptance procedures for hardware and software products are
 conducted separately. We are obligated to replace or repair when the product
 specifications do not meet contractual agreements. The acceptance outcomes of
 hardware products and software products shall be considered independently and shall
 not influence each other.
- Warranty. We provide different warranty periods for our hardware products based on
+(cid:129) Warranty. We provide different warranty periods for our hardware products based on
 product type, and a life-long warranty period for the software products within its
 lifecycle. During the warranty period, we are responsible for the product repair and
 replacement.
@@ -12215,22 +12215,22 @@ of Consolidated Statements of Financial Position — Prepayments and Other Recei
 Portion.”
 The salient terms of our standard sales agreements for the V2X products and solutions during
 the Track Record Period are set out below:
- Product and solution specifications. Our customers typically set forth specific product
+(cid:129) Product and solution specifications. Our customers typically set forth specific product
 and solution specification requirements for products and solutions ordered, such as
 name, model, configuration and features.
- Ownership of data assets. All data involved in the underlying project of the agreement
+(cid:129) Ownership of data assets. All data involved in the underlying project of the agreement
 is owned by the customer or the project owner. Without consent of the users, we shall
 not transmit any personal private information or sensitive information to third parties.
- Payment. Customers are typically required to make advance payments as stipulated in
+(cid:129) Payment. Customers are typically required to make advance payments as stipulated in
 the agreements and make progress payments upon achieving certain major milestones of
 the project. Our customers are typically entitled to retain 3% of the total contract value
 as retention fee, which will be paid to us at the end of the warranty period. We also
 accept payment by installment after the delivery of the projects.
- Delivery and transfer of risks. We are generally responsible for delivering the products
+(cid:129) Delivery and transfer of risks. We are generally responsible for delivering the products
 to locations designated by the customers in accordance with the delivery schedule
 specified in the agreement. The risks transfer to customers after they confirm acceptance
 of our products.
- Acceptance. Our products are inspected upon delivery. Customers have the right to
+(cid:129) Acceptance. Our products are inspected upon delivery. Customers have the right to
 reject our products under specific circumstances, such as discovering quality issues
 during the initial inspection that render the products unusable, or if the product
 specifications do not meet contractual agreements. Initial acceptance is conducted after
@@ -12242,13 +12242,13 @@ project delivered by our customers.
 
 === PAGE 300 ===
 BUSINESS
- Warranty. We typically provide a two to three-year warranty period for our products and
+(cid:129) Warranty. We typically provide a two to three-year warranty period for our products and
 solutions based on the type of product and solution provided. During the warranty
 period, we are obligated to repair or replace our products free of charge for any product
 quality issue, except for product damage caused by the customers’ improper operation.
- Confidentiality. All confidential information provided by either party shall not be
+(cid:129) Confidentiality. All confidential information provided by either party shall not be
 disclosed to any third party without prior written consent.
- Intellectual property rights. Based on project requirements, we may be required to
+(cid:129) Intellectual property rights. Based on project requirements, we may be required to
 develop certain software products as part of the solutions provided. The intellectual
 property rights and trade secrets arise from the underlying project of the agreement
 belong to the project owner.
@@ -12263,13 +12263,13 @@ aftermarket installations. We generally design, manufacture and provide customiz
 products in accordance with the technical specifications.
 The salient terms of our standard sales agreements for the intelligent perception solutions
 during the Track Record Period are set out below:
- Product specifications. Our customers typically set forth the product type, specific
+(cid:129) Product specifications. Our customers typically set forth the product type, specific
 technical specification requirements and functions expected to be achieved.
- Delivery and transfer of risks. We are generally responsible for delivering the products
+(cid:129) Delivery and transfer of risks. We are generally responsible for delivering the products
 to locations designated by the customers in accordance with the delivery schedule
 specified in the agreement. The risks transfer to customers after the products are
 delivered to the customers’ assembly lines.
- Warranty. We typically provide a one-year warranty period for our products provided.
+(cid:129) Warranty. We typically provide a one-year warranty period for our products provided.
 During the warranty period, we are obligated to repair or replace our products free of
 charge for any product quality issue, except for product damage caused by the
 customers’ improper operation.
@@ -12277,9 +12277,9 @@ customers’ improper operation.
 
 === PAGE 301 ===
 BUSINESS
- Confidentiality. All confidential information provided by the customers shall not be
+(cid:129) Confidentiality. All confidential information provided by the customers shall not be
 disclosed to any third party without prior written consent.
- Intellectual property rights. The intellectual property rights arising from the underlying
+(cid:129) Intellectual property rights. The intellectual property rights arising from the underlying
 project of the agreement are jointly held by us and our customers.
 Finance Lease Arrangements
 We sometimes may partner with financial leasing companies to offer alternative financing
@@ -12315,17 +12315,17 @@ financial stability and capacity to fulfill their obligations.
 === PAGE 302 ===
 BUSINESS
 The salient terms of such finance lease arrangement are set forth as follows:
- Financial leasing company’s obligations. The financial leasing company pays us in full
+(cid:129) Financial leasing company’s obligations. The financial leasing company pays us in full
 for the products and solutions selected by our customer, with the sole purpose of leasing
 these products and solutions to the customer according to terms specified in the
 financial leasing agreement between the financial leasing company and our customer.
- End user’s obligations. As the end user, our customer is responsible for securing the
+(cid:129) End user’s obligations. As the end user, our customer is responsible for securing the
 necessary qualifications to use our products and solutions, inspect and accept our
 products and solutions.
- Ownership. Financial leasing company generally acquires the ownership of our products
+(cid:129) Ownership. Financial leasing company generally acquires the ownership of our products
 and solutions once it makes the payment to us or when the lease starts, until our
 customer fully repays the loan.
- Guaranty. In certain circumstances where we serve as the guarantor, we assume
+(cid:129) Guaranty. In certain circumstances where we serve as the guarantor, we assume
 vicarious liability for a portion of outstanding balances owed by our customer to the
 financial leasing company in the event of defaults.
 Except as disclosed above, as confirmed by our Directors, we do not have any past or present
@@ -12751,28 +12751,28 @@ Contract Manufacturers.” During the Track Record Period, we were not subject t
 supply of raw materials from our major suppliers.
 We typically enter into supply agreements with suppliers, the salient terms of which are set
 out below:
- Product specifications. The product name, specification, price, quantity, delivery
+(cid:129) Product specifications. The product name, specification, price, quantity, delivery
 timeline and other detailed items are specified in the agreements.
- Payment and delivery. We are responsible for timely payment to suppliers, who are
+(cid:129) Payment and delivery. We are responsible for timely payment to suppliers, who are
 responsible for delivery of products to our designated location specified in the
 agreements.
- Quality control. Suppliers shall ensure that the products provided are brand new and
+(cid:129) Quality control. Suppliers shall ensure that the products provided are brand new and
 unused products. The quality requirements must meet national, industry and mutually
 agreed standards. Upon delivery, a quality assurance certificate recognized by us shall
 be provided. We have the right to reject and return any products that do not meet our
 requirements, at the expense of suppliers, or to request free product replacement or
 maintenance.
- Transfer of risk. The risk transfers to us after delivery.
- Quality Guarantee. Suppliers offer varying warranty periods based on the product type.
+(cid:129) Transfer of risk. The risk transfers to us after delivery.
+(cid:129) Quality Guarantee. Suppliers offer varying warranty periods based on the product type.
 During the warranty period, suppliers are responsible for after-sales maintenance costs.
 Suppliers must replace the products free of charge if they encounter two major quality
 issues or if any components are damaged due to quality problems. We reserve the right
 to return the product if suppliers fail to address issues promptly and lead to serious
 consequences.
- Confidentiality. All confidential information provided by either party shall be used
+(cid:129) Confidentiality. All confidential information provided by either party shall be used
 solely for the purposes of cooperation pursuant to the agreements and shall not be
 disclosed to any third party without prior written consent.
- Termination. The agreements will be terminated by mutual agreement, or by other
+(cid:129) Termination. The agreements will be terminated by mutual agreement, or by other
 means as set forth in the agreements.
 – 304 –
 
@@ -13098,15 +13098,15 @@ which can be seamlessly integrated with our independently developed intelligent 
 Depending on project requirements (such as whether there are existing vehicle designs of
 automotive OEMs on the market that meet our standards for the specific project), we collaborate
 with automotive OEMs in three primary collaboration models:
- Collaboration model ①: The OEMs provide the overall vehicle design while our focus
+(cid:129) Collaboration model ①: The OEMs provide the overall vehicle design while our focus
 is on the integration of intelligent driving technology. During the Track Record Period,
 all autonomous mining trucks we delivered utilized this collaboration model.
- Collaboration model ②: We jointly formulate the overall vehicle design with the OEMs.
+(cid:129) Collaboration model ②: We jointly formulate the overall vehicle design with the OEMs.
 We also provide the electrification system and software. The OEMs supply the
 unpowered chassis and structural components and are responsible for vehicle assembly.
 During the Track Record Period, we delivered three sets of electrification system and
 software under this collaboration model.
- Collaboration model ③: We are responsible for the formulation of the overall vehicle
+(cid:129) Collaboration model ③: We are responsible for the formulation of the overall vehicle
 design under this model. We also provide designs for specific structural parts and supply
 key components such as electrification systems, which include the electric motor, power
 battery, electronic control system, and chassis electrical systems. Our responsibilities
@@ -13138,16 +13138,16 @@ The Electrification Systems, Auxiliary Materials
 Intelligent System Design Intelligent Driving Quality Inspection
 Driving for Intelligent Driving Hardware and Software
 The salient terms of our agreements with automotive OEMs are set forth as below:
- Principal rights and obligations of parties involved. The parties specify the vehicle
+(cid:129) Principal rights and obligations of parties involved. The parties specify the vehicle
 specifications and specific configuration requirements in the agreement, and determine
 the responsibilities of each party based on the collaboration model of the project.
- Payment and delivery. We make payments to the automotive OEMs in accordance with
+(cid:129) Payment and delivery. We make payments to the automotive OEMs in accordance with
 the payment schedule stipulated in the agreement. We may reserve a certain amount as a
 warranty deposit, which will be paid to the automotive OEMs upon the expiration of the
 warranty period or after the acceptance of the products, as per the agreed terms. The
 automotive OEMs are responsible for delivering the final products to our designated
 location.
- Intellectual Property. For projects where we formulate the design of vehicle
+(cid:129) Intellectual Property. For projects where we formulate the design of vehicle
 specifications, determine product functions, and conduct system integration, the
 underlying intellectual property rights of the entire vehicle model belong to us. For
 projects where we jointly formulate the overall vehicle design with the OEMs, the
@@ -13156,20 +13156,20 @@ designed by us are owned by us, while those developed and designed by the OEMs a
 owned by them. Additionally, except for the intellectual property rights related to
 pre-existing systems provided by the automotive OEMs, the intellectual property rights
 of all other systems are owned by us.
- Quality assurance. Each party shall be responsible for the quality of the components it
+(cid:129) Quality assurance. Each party shall be responsible for the quality of the components it
 manufactures.
 – 313 –
 
 === PAGE 324 ===
 BUSINESS
- Maintenance. Maintenance services shall be promptly provided. For certain automotive
+(cid:129) Maintenance. Maintenance services shall be promptly provided. For certain automotive
 parts sourced from third parties by the automotive OEMs, the maintenance services are
 coordinated by the OEMs and provided by the manufacturers of these parts through their
 local service centers. Automotive OEMs may designate service providers for the
 provision of maintenance services.
- Warranty. Automotive OEMs offer warranties based on the components provided. These
+(cid:129) Warranty. Automotive OEMs offer warranties based on the components provided. These
 warranties are either for a fixed term or until the vehicle reach a specified mileage.
- Termination. We have the right to terminate the agreement if the automotive OEMs fail
+(cid:129) Termination. We have the right to terminate the agreement if the automotive OEMs fail
 to deliver within the agreed timeframe.
 We provide maintenance services and warranty periods to the end users of the vehicles, i.e.,
 our customers, in accordance with our sales agreements. In the event that maintenance services for
@@ -13190,21 +13190,21 @@ third-party suppliers when the hardware or component with our required quality o
 not readily available on the market or such hardware or component require customization to our
 technology or products.
 The salient terms of our agreements with contract manufacturers are set forth as below:
- Principal rights and obligations of parties involved. We provide technical specifications
+(cid:129) Principal rights and obligations of parties involved. We provide technical specifications
 and key raw materials to contract manufacturers who provide the manufacturing,
 assembly and testing services for our products.
 – 314 –
 
 === PAGE 325 ===
 BUSINESS
- Payment and delivery. We are responsible for timely payment to contract manufacturers,
+(cid:129) Payment and delivery. We are responsible for timely payment to contract manufacturers,
 who are responsible for delivery of products to our designated location specified in the
 agreements.
- Subcontracting. Subcontracting is not allowed without our prior written authorization.
- Quality assurance. Products are accepted in accordance with our specifications, as well
+(cid:129) Subcontracting. Subcontracting is not allowed without our prior written authorization.
+(cid:129) Quality assurance. Products are accepted in accordance with our specifications, as well
 as national, local and industry standards. Should any quality issues arise during the
 warranty period, the contract manufacturers are responsible for replacement.
- Termination. The agreements will be terminated by mutual agreement, or by other
+(cid:129) Termination. The agreements will be terminated by mutual agreement, or by other
 means as set forth in the agreements.
 – 315 –
 
@@ -13234,10 +13234,10 @@ Inspection and Product Packaging
 Inspection
 Inventory Stage
 Product Packaging
- Formulation of product design and production plan. Upon receiving customer orders,
+(cid:129) Formulation of product design and production plan. Upon receiving customer orders,
 we begin with product design and production planning to ensure each product meets
 customer specifications and our own high standards.
- Material preparation. The material preparation process lays the foundation for the
+(cid:129) Material preparation. The material preparation process lays the foundation for the
 quality and sustainability of our final products. We procure from external suppliers the
 materials, components and modules required for our products. We may also engage
 contract manufacturers for additional processing before commencing the assembly
@@ -13246,13 +13246,13 @@ process.
 
 === PAGE 327 ===
 BUSINESS
- Assembly, calibration and testing. We assemble, calibrate and test the products in our
+(cid:129) Assembly, calibration and testing. We assemble, calibrate and test the products in our
 own factory.
- Quality control. Quality inspection is integrated throughout the entire process, see “—
+(cid:129) Quality control. Quality inspection is integrated throughout the entire process, see “—
 Quality Control.” Raw materials and each product undergo rigorous inspection to ensure
 they meet our benchmarks. We conduct final inspections on products that pass the
 calibration process.
- Packaging and delivery. After the products pass the final inspection, they are securely
+(cid:129) Packaging and delivery. After the products pass the final inspection, they are securely
 packaged to prevent any damage during transit.
 We own all the assembly lines, machinery and equipment at our factories. We are constantly
 upgrading our machinery and equipment to improve our operational efficiency. Depreciation is
@@ -13477,19 +13477,19 @@ We recognize the critical importance of environmental protection and sustainabil
 focus on environmental responsibility and minimizing our ecological footprint, we established
 environmental targets that are in line with our overall business strategy and objectives.
 Metric Target Measures
-Energy efficiency. . . . . 5% reduction in total  Energy monitoring and smart
+Energy efficiency. . . . . 5% reduction in total (cid:129) Energy monitoring and smart
 electricity management systems: Conduct periodic
 consumption by energy monitoring to identify major
 2025 compared with consumption areas, and install a smart
 2023. management system tailored to the office
 environment for real-time monitoring and
 automatic energy usage adjustments.
- Equipment upgrades: Replace outdated,
+(cid:129) Equipment upgrades: Replace outdated,
 energy-intensive equipment such as air
 conditioners, lighting and production
 machinery with more energy-efficient
 alternatives.
- Employee training and awareness:
+(cid:129) Employee training and awareness:
 Provide training to employees on
 energy-saving awareness and encourage
 the adoption of energy-saving measures.
@@ -13498,14 +13498,14 @@ the adoption of energy-saving measures.
 === PAGE 334 ===
 BUSINESS
 Metric Target Measures
-Water consumption . . . 5% reduction in total  Water resource recycling and reuse:
+Water consumption . . . 5% reduction in total (cid:129) Water resource recycling and reuse:
 water consumption Implement a water recycling system for
 by 2025 compared cooling, washing, etc., to reduce the
 with 2020. demand for fresh water.
- Leak monitoring and repair: Conduct
+(cid:129) Leak monitoring and repair: Conduct
 periodic inspections on water pipelines
 and promptly repair any leaks detected.
- Installation of water-saving devices:
+(cid:129) Installation of water-saving devices:
 Install water-saving devices in restrooms,
 such as sensor faucets.
 In addition, we plan to regularly assess the effectiveness of our environmental measures and
@@ -14275,55 +14275,55 @@ Yang Xi and Dr. Li Xiaoyuan. Prof. Tan Guangrong, being the chairperson of the a
 holds the appropriate professional qualifications as required under Rules 3.10(2) and 3.21 of the
 Listing Rules. The primary duties of the audit committee include, but are not limited to, the
 following:
- reviewing and evaluating the work of external auditors;
- monitoring and making recommendations concerning the internal audit work of our
+(cid:129) reviewing and evaluating the work of external auditors;
+(cid:129) monitoring and making recommendations concerning the internal audit work of our
 Company;
- reviewing and making recommendations concerning the financial reports of our
+(cid:129) reviewing and making recommendations concerning the financial reports of our
 Company;
- evaluating the effectiveness of internal control work;
- ensuring coordination between the management, internal audit department and relevant
+(cid:129) evaluating the effectiveness of internal control work;
+(cid:129) ensuring coordination between the management, internal audit department and relevant
 departments and external auditors; and
- performing other duties and responsibilities as assigned by our Board.
+(cid:129) performing other duties and responsibilities as assigned by our Board.
 Remuneration Committee
 We have established a remuneration committee with written terms of reference in compliance
 with the Corporate Governance Code set out in Appendix C1 to the Listing Rules. The
 remuneration committee consists of three Directors, namely Dr. Li Xiaoyuan, Dr. Ma Wei and Mr.
 Zhang Jiangang. Dr. Li Xiaoyuan serves as the chairperson of the remuneration committee. The
 primary duties of the remuneration committee include, but are not limited to, the following:
- reviewing and approving remuneration proposals of members of our senior management
+(cid:129) reviewing and approving remuneration proposals of members of our senior management
 in accordance with our Company’s policies and objectives as approved by our Board
 from time to time;
 – 345 –
 
 === PAGE 356 ===
 DIRECTORS AND SENIOR MANAGEMENT
- making recommendations to our Board concerning our Company’s policy and structure
+(cid:129) making recommendations to our Board concerning our Company’s policy and structure
 for all Directors’ and senior management remuneration and on the establishment of a
 formal and transparent procedure for developing remuneration policy, including, but not
 limited to, performance evaluation standards, procedures and evaluation systems;
- conducting the evaluation of the annual performance of all Directors and senior
+(cid:129) conducting the evaluation of the annual performance of all Directors and senior
 management;
- monitoring remuneration payable to all Directors and senior management;
- reviewing and/or approving matters relating to share schemes under Chapter 17 of the
+(cid:129) monitoring remuneration payable to all Directors and senior management;
+(cid:129) reviewing and/or approving matters relating to share schemes under Chapter 17 of the
 Listing Rules; and
- performing other duties and responsibilities as assigned by our Board.
+(cid:129) performing other duties and responsibilities as assigned by our Board.
 Nomination Committee
 We have established a nomination committee with written terms of reference in compliance
 with the Corporate Governance Code set out in Appendix C1 to the Listing Rules. The nomination
 committee consists of three Directors, namely Prof. Li Zexiang, Dr. Li Xiaoyuan and Mr. Zhang
 Jiangang. Prof. Li Zexiang serves as the chairperson of the nomination committee. The primary
 duties of the Nomination Committee include, but are not limited to, the following:
- reviewing and making recommendations to the Board on the composition and number of
+(cid:129) reviewing and making recommendations to the Board on the composition and number of
 our Board and senior management with reference to our Company’s business activities,
 the scale of assets and shareholding structure;
- identifying individuals suitably qualified to become a member of our Board and senior
+(cid:129) identifying individuals suitably qualified to become a member of our Board and senior
 management, and making recommendations to our Board on the selection of individuals
 nominated for directorships and senior management;
- reviewing the structure and diversity of the Board and selecting individuals to be
+(cid:129) reviewing the structure and diversity of the Board and selecting individuals to be
 nominated as Directors;
- accessing and making recommendations to the selection of other senior management
+(cid:129) accessing and making recommendations to the selection of other senior management
 appointed by our Board; and
- performing other duties and responsibilities as assigned by our Board.
+(cid:129) performing other duties and responsibilities as assigned by our Board.
 – 346 –
 
 === PAGE 357 ===
@@ -15241,16 +15241,16 @@ autonomous driving trucks for mining and logistics, V2X (vehicle-to-everything) 
 intelligent perception solutions, and offer products and solutions underpinned by proprietary
 technologies, with a primary focus on intelligent driving in closed environments during the Track
 Record Period. According to CIC:
- We ranked sixth among all commercial vehicle intelligent driving companies in China
+(cid:129) We ranked sixth among all commercial vehicle intelligent driving companies in China
 (including Hong Kong, Macau and Taiwan), with a market share of approximately 5.2%.
- We delivered 56 autonomous mining trucks for a mining site in China (including Hong
+(cid:129) We delivered 56 autonomous mining trucks for a mining site in China (including Hong
 Kong, Macau and Taiwan) in mixed traffic with ~500 manned trucks, the world’s largest
 mixed-operation mining fleet(1) as of the Latest Practicable Date.
- We delivered the first fully driverless electric mining fleet in China (including Hong
+(cid:129) We delivered the first fully driverless electric mining fleet in China (including Hong
 Kong, Macau and Taiwan).
-’s autonomous
+(cid:129) We ranked third in China (including Hong Kong, Macau and Taiwan)’s autonomous
 mining truck solution market in terms of revenue in 2024.
- We are among the first intelligent driving companies in China (including Hong Kong,
+(cid:129) We are among the first intelligent driving companies in China (including Hong Kong,
 Macau and Taiwan) to launch commercial V2X products.
 Note:
 (1) “Autonomous mining trucks” refers to autonomous driving trucks designed for mining operations. “Mixed-operation”
@@ -15259,7 +15259,7 @@ refers to scenarios involving both manned and unmanned mining trucks.
 
 === PAGE 385 ===
 FINANCIAL INFORMATION
- is the only product in China (including
+(cid:129) Our train autonomous perception system (TAPS) is the only product in China (including
 Hong Kong, Macau and Taiwan) capable of independent safety perception(1) for trains.
 Drawing upon innovative methodology technology capabilities, we developed products and
 solutions encompassing (i) autonomous driving technologies, delivering closed-environment
@@ -15510,13 +15510,13 @@ the goods underlying the particular performance obligation is transferred to the
 Control is transferred over time and revenue is recognized over time by reference to the
 progress towards complete satisfaction of the relevant performance obligation if one of the
 following criteria is met:
- we provide all of the benefits received and consumed simultaneously by the customer;
+(cid:129) we provide all of the benefits received and consumed simultaneously by the customer;
 – 381 –
 
 === PAGE 392 ===
 FINANCIAL INFORMATION
- we create and enhance an asset that the customer controls as we perform; or
- we do not create an asset with an alternative use to our Group and our Group has an
+(cid:129) we create and enhance an asset that the customer controls as we perform; or
+(cid:129) we do not create an asset with an alternative use to our Group and our Group has an
 enforceable right to payment for performance completed to date.
 Otherwise, revenue is recognized at a point in time when the customer obtains control of the
 distinct goods or services.
@@ -15640,9 +15640,9 @@ employees is recognized as an employee benefits expense over the relevant servic
 the vesting period of the shares, and the credit is recognized in equity in the share-based payment
 reserves. The fair value of the shares is measured at the grant date. The total amount to be
 expensed is determined by reference to the fair value of the equity instruments granted:
- including any market performance conditions;
- excluding the impact of any service and non-market performance vesting conditions; and
- including the impact of any non-vesting conditions.
+(cid:129) including any market performance conditions;
+(cid:129) excluding the impact of any service and non-market performance vesting conditions; and
+(cid:129) including the impact of any non-vesting conditions.
 – 385 –
 
 === PAGE 396 ===
@@ -17606,14 +17606,14 @@ Our net cash used in operating activities decreased from RMB203.1 million in 202
 RMB196.8 million in 2023, and further decreased to RMB147.7 million in 2024. Despite these net
 operating cash outflows during the Track Record Period, we expect improving our cash position
 primarily through:
- investing in our technologies and expanding our
+(cid:129) continuously increasing revenue by (a) investing in our technologies and expanding our
 product and solution offerings, (b) expanding our customer base and enhancing
 penetration within existing customers. Following the same initiatives, our revenue
 increased from RMB31.1 million in 2022 to RMB132.6 million in 2023, and further to
 RMB410.0 million in 2024, with a CAGR of 263.1%. In addition, we plan to explore
 overseas market opportunities in regions such as Australia, Europe, and South America
 to further expand our business;
- improving gross profit margin by optimizing cost structure and focusing
+(cid:129) improving gross profit margin by optimizing cost structure and focusing
 higher-value-added products and solutions. We will focus on innovation in our
 proprietary technology and our product and solution portfolio to continuously improve
 the gross profit margin, thereby creating more value for our customers and sustaining
@@ -17624,14 +17624,14 @@ capabilities;
 
 === PAGE 452 ===
 FINANCIAL INFORMATION
- improving operating efficiency to keep operating expenses at a reasonable level relative
+(cid:129) improving operating efficiency to keep operating expenses at a reasonable level relative
 to our revenue scale. As our business expands and commercialization matures, we
 benefit from economies of scale. Our selling expenses, general and administrative
 expenses, and research and development costs as a percentage of revenue have all
 shown a decreasing trend throughout the Track Record Period. We will continue to
 actively monitor our operating expenses and leverage our existing experience to
 optimize resource allocation and further enhance efficiency; and
- enhancing working capital efficiency through improved receivables collection and better
+(cid:129) enhancing working capital efficiency through improved receivables collection and better
 inventory management.
 Net Cash Flows Generated from/(Used in) Investing Activities
 In the six months ended June 30, 2025, we had net cash generated from investing activities of
@@ -18266,7 +18266,7 @@ commissions and other estimated offering expenses payable by us in connection wi
 Offering, and assuming an Offer Price of HK$263.00 per Share, we estimate that we will receive
 net proceeds of approximately HK$1,309.0 million from the Global Offering. We intend to use the
 proceeds from the Global Offering for the purposes and in the amounts set forth below:
- Approximately 55% of the net proceeds, or HK$720.0 million, will be used for our
+(cid:129) Approximately 55% of the net proceeds, or HK$720.0 million, will be used for our
 research and development in the next five years, including:
 Investments in R&D of next-generation intelligent driving platform
 i. approximately 30% of the net proceeds, or HK$392.7 million, will be used for the
@@ -18320,7 +18320,7 @@ alternatives for V2X intelligent processing, further develop the intelligent
 scheduling system and software function modules, optimize the core algorithm of
 multi-sensor fusion, enhance deep embedded optimization, and reduce the cost of
 kit products such as computing power units and sensors.
- Approximately 15% of the net proceeds, or HK$196.4 million, will be used for
+(cid:129) Approximately 15% of the net proceeds, or HK$196.4 million, will be used for
 improvement of our commercialization capabilities in China and overseas and further
 strengthening our cooperation with domestic and global customers, including:
 (i) approximately 10% of the net proceeds, or HK$130.9 million, will be used for
@@ -18347,7 +18347,7 @@ improving the efficiency of overseas sales and marketing activities; and (ii)
 building an overseas localization service team, covering operation, engineering and
 delivery, and customer on-site technical support, to improve our localization
 service capabilities.
- Approximately 20% of the net proceeds, or HK$261.8 million, will be used for potential
+(cid:129) Approximately 20% of the net proceeds, or HK$261.8 million, will be used for potential
 investment, and merger and acquisition opportunities aimed at further integrating
 upstream and downstream resources in the industrial chain. We will strategically seek
 appropriate investment and M&A opportunities to expand our business both upstream
@@ -18357,7 +18357,7 @@ various application scenarios. Our potential investment and acquisition targets 
 (i) suppliers with robust R&D and delivery capabilities in hardware, software systems,
 and key components for intelligent driving, and (ii) suppliers with strong production and
 delivery capabilities in intelligent driving vehicles and V2X hardware.
- Approximately 10% of the net proceeds, or HK$130.9 million, will be employed as
+(cid:129) Approximately 10% of the net proceeds, or HK$130.9 million, will be employed as
 working capital and for general corporate uses.
 The additional net proceeds that we would receive if the Over-allotment Option were
 exercised in full would be HK$213.3 million. In the event that the Over-allotment Option is
@@ -19307,14 +19307,14 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you are
 applying for:
- are 18 years of age or older; and
-.
+(cid:129) are 18 years of age or older; and
+(cid:129) have a Hong Kong address (for the HK eIPO White Form service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you or the person(s)
 for whose benefit you are applying for:
- are an existing Shareholder or close associates;
- are a Director, a supervisor of the Company or any of his/her close associates; or
- have been allocated or have applied for any International Offer Shares or otherwise
+(cid:129) are an existing Shareholder or close associates;
+(cid:129) are a Director, a supervisor of the Company or any of his/her close associates; or
+(cid:129) have been allocated or have applied for any International Offer Shares or otherwise
 participate in the International Offering.
 – 491 –
 
@@ -19392,19 +19392,19 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual/Joint Applicants For Corporate Applicants
-2 as shown on your
+(cid:129) Full name(s)2 as shown on your (cid:129) Full name(s)2 as shown on your
 identity document identity document
- Identity document’s issuing country or
+(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
 jurisdiction jurisdiction
- Identity document type, with order of
+(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
 priority: priority:
 i. HKID card; or i. Legal entity identifier (“LEI”)
 registration document; or
 ii. National identification document;
 or ii. Certificate of incorporation; or
 iii. Passport; and iii. Business registration certificate; or
- Identity document number iv. Other equivalent document; and
- Identity document number
+(cid:129) Identity document number iv. Other equivalent document; and
+(cid:129) Identity document number
 Notes:
 1. If you are applying through the HK eIPO White Form service, you are required to provide a valid e-mail
 address, a contact telephone number and a Hong Kong Address. You are also required to declare that the
@@ -19440,9 +19440,9 @@ being for your benefit and you should provide the required information in your a
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any other stock
 exchange.
 “Statutory control” means you:
- control the composition of the board of directors of the company;
- control more than half of the voting power of the company; or
- hold more than half of the issued share capital of the company (not counting any part of it which carries no
+(cid:129) control the composition of the board of directors of the company;
+(cid:129) control more than half of the voting power of the company; or
+(cid:129) hold more than half of the issued share capital of the company (not counting any part of it which carries no
 right to participate beyond a specified amount in a distribution of either profits or capital).
 For those applying through HKSCC EIPO channel, and making an application under a power
 of attorney, we and the Joint Overall Coordinators, as our agent, have discretion to consider
@@ -19704,17 +19704,17 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not grant
 permission to list the H Shares either:
- within three weeks from the closing date of the application lists; or
- within a longer period of up to six weeks if the Stock Exchange notifies us of that
+(cid:129) within three weeks from the closing date of the application lists; or
+(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 4. If:
- you make multiple applications or suspected multiple applications. You may refer to the
+(cid:129) you make multiple applications or suspected multiple applications. You may refer to the
 paragraph headed “— A. Applications for Hong Kong Offer Shares — 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
- your application instruction is incomplete;
- is not made correctly;
- the Underwriting Agreements do not become unconditional or are terminated;
- we or the Joint Overall Coordinators believe that by accepting your application, it or we
+(cid:129) your application instruction is incomplete;
+(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
+(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
+(cid:129) we or the Joint Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted H Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC Participants
@@ -19830,9 +19830,9 @@ HOW TO APPLY FOR HONG KONG OFFER SHARES
 E. BAD WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Tuesday, December 16, 2025 if, there is:
- a tropical cyclone warning signal number 8 or above;
- a black rainstorm warning; and/or
- Extreme Conditions,
+(cid:129) a tropical cyclone warning signal number 8 or above;
+(cid:129) a black rainstorm warning; and/or
+(cid:129) Extreme Conditions,
 (collectively, “Bad Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Tuesday, December 16,
 2025.
@@ -19907,27 +19907,27 @@ Company and the H Share Registrar immediately of any inaccuracies in the persona
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for the
 following purposes:
- processing your application and refund cheque and HK eIPO White Form e-Auto
+(cid:129) processing your application and refund cheque and HK eIPO White Form e-Auto
 Refund payment instruction(s), where applicable, verification of compliance with the
 terms and application procedures set out in this prospectus and announcing results of
 allocation of Hong Kong Offer Shares;
- compliance with applicable laws and regulations in Hong Kong and elsewhere;
- registering new issues or transfers into or out of the names of the holders of the Shares
+(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+(cid:129) registering new issues or transfers into or out of the names of the holders of the Shares
 including, where applicable, HKSCC Nominees;
- maintaining or updating the register of members of the Company;
+(cid:129) maintaining or updating the register of members of the Company;
 – 509 –
 
 === PAGE 520 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
- verifying identities of applicants for and holders of the H Shares and identifying any
+(cid:129) verifying identities of applicants for and holders of the H Shares and identifying any
 duplicate applications for the H Shares;
- facilitating Hong Kong Offer Shares balloting;
- establishing benefit entitlements of holders of the H Shares, such as dividends, rights
+(cid:129) facilitating Hong Kong Offer Shares balloting;
+(cid:129) establishing benefit entitlements of holders of the H Shares, such as dividends, rights
 issues, bonus issues, etc.;
- distributing communications from the Company and its subsidiaries;
- compiling statistical information and profiles of the holder of the H Shares;
- disclosing relevant information to facilitate claims on entitlements; and
- any other incidental or associated purposes relating to the above and/or to enable the
+(cid:129) distributing communications from the Company and its subsidiaries;
+(cid:129) compiling statistical information and profiles of the holder of the H Shares;
+(cid:129) disclosing relevant information to facilitate claims on entitlements; and
+(cid:129) any other incidental or associated purposes relating to the above and/or to enable the
 Company and the H Share Registrar to discharge their obligations to applicants and
 holders of the H Shares and/or regulators and/or any other purposes to which applicants
 and holders of the H Shares may from time to time agree.
@@ -19937,25 +19937,25 @@ and holders of Hong Kong Offer Shares will be kept confidential but the Company 
 Share Registrar may, to the extent necessary for achieving any of the above purposes, disclose,
 obtain or transfer (whether within or outside Hong Kong) the personal data to, from or with any of
 the following:
- the Company’s appointed agents such as financial advisers, receiving banks and
+(cid:129) the Company’s appointed agents such as financial advisers, receiving banks and
 overseas principal share registrar;
- HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the H Share Registrar, in each case for the purposes of providing its
 services or facilities or performing its functions in accordance with its rules or
 procedures and operating FINI and CCASS (including where applicants for the Hong
 Kong Offer Shares request a deposit into CCASS);
- any agents, contractors or third-party service providers who offer administrative,
+(cid:129) any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the H
 Share Registrar in connection with their respective business operation;
 – 510 –
 
 === PAGE 521 ===
 HOW TO APPLY FOR HONG KONG OFFER SHARES
- the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies
+(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental bodies
 or otherwise as required by laws, rules or regulations, including for the purpose of the
 Stock Exchange’s administration of the Listing Rules and the SFC’s performance of its
 statutory functions; and
- any persons or institutions with which the holders of Hong Kong Offer Shares have or
+(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have or
 propose to have dealings, such as their bankers, solicitors, accountants or brokers etc.
 5. Retention of personal data
 The Company and the H Share Registrar will keep the personal data of the applicants and
@@ -20704,9 +20704,9 @@ APPENDIX I ACCOUNTANTS’ REPORT
 Control is transferred over time and revenue is recognized over time by reference to the
 progress towards complete satisfaction of the relevant performance obligation if one of the
 following criteria is met:
- provides all of the benefits received and consumed simultaneously by the customer;
- creates and enhances an asset that the customer controls as the Group performs; or
- does not create an asset with an alternative use to the Group and the Group has an
+(cid:129) provides all of the benefits received and consumed simultaneously by the customer;
+(cid:129) creates and enhances an asset that the customer controls as the Group performs; or
+(cid:129) does not create an asset with an alternative use to the Group and the Group has an
 enforceable right to payment for performance completed to date.
 Otherwise, revenue is recognized at a point in time when the customer obtains control of the
 distinct goods or services.
@@ -20918,15 +20918,15 @@ by the comparable companies in the market.
 The Group incurs significant costs and efforts on research and development activities.
 Research expenditure is recognized as an expense as incurred. Costs incurred on research and
 development projects are recognized as intangible assets when the following criteria are met:
- it is technically feasible to complete the research and development project so that it will
+(cid:129) it is technically feasible to complete the research and development project so that it will
 be available for use or sale;
- management intends to complete the research and development project and use or sell it;
- there is an ability to use or sell the research and development project;
- it can be demonstrated how the research and development project will generate probable
+(cid:129) management intends to complete the research and development project and use or sell it;
+(cid:129) there is an ability to use or sell the research and development project;
+(cid:129) it can be demonstrated how the research and development project will generate probable
 future economic benefits;
- adequate technical, financial and other resources to complete the development and to
+(cid:129) adequate technical, financial and other resources to complete the development and to
 use or sell the research and development project are available; and
- the expenditure attributable to the research and development project during its
+(cid:129) the expenditure attributable to the research and development project during its
 development can be reliably measured.
 – I-28 –
 
@@ -20956,9 +20956,9 @@ impairment at the end of each reporting period.
 2.2.10Investments and other financial assets
 (a) Classification
 The Group classifies its financial assets in the following measurement categories:
- those to be measured subsequently at fair value (either through OCI, or through profit or
+(cid:129) those to be measured subsequently at fair value (either through OCI, or through profit or
 loss), and
- those to be measured at amortized cost.
+(cid:129) those to be measured at amortized cost.
 The classification depends on the Group’s business model for managing the financial assets
 and the contractual terms of the cash flows.
 – I-29 –
@@ -20988,7 +20988,7 @@ Debt instruments
 Subsequent measurement of debt instruments depends on the Group’s business model for
 managing the asset and the cash flow characteristics of the asset. There are three measurement
 categories into which the Group classifies its debt instruments:
- Amortized cost: Assets that are held for collection of contractual cash flows where those
+(cid:129) Amortized cost: Assets that are held for collection of contractual cash flows where those
 cash flows represent solely payments of principal and interest are measured at amortized
 cost. Interest income from these financial assets is included in “Finance income” using
 the effective interest rate method. Any gain or loss arising on derecognition is
@@ -20999,7 +20999,7 @@ item in the consolidated statements of profit or loss and other comprehensive in
 
 === PAGE 552 ===
 APPENDIX I ACCOUNTANTS’ REPORT
- FVTOCI: Assets that are held for collection of contractual cash flows and for selling the
+(cid:129) FVTOCI: Assets that are held for collection of contractual cash flows and for selling the
 financial assets, where the assets’ cash flows represent solely payments of principal and
 interest, are measured at FVTOCI. Movements in the carrying amount are taken through
 OCI, except for the recognition of impairment gains or losses, interest income and
@@ -21010,7 +21010,7 @@ net”. Interest income from these financial assets is included in finance incom
 effective interest rate method. Foreign exchange gains and losses are presented in
 “Other gains/(losses), net” and impairment expenses are presented as separate line item
 in the consolidated statements of profit or loss and other comprehensive income.
- FVTPL: Assets that do not meet the criteria for amortized cost or financial assets at
+(cid:129) FVTPL: Assets that do not meet the criteria for amortized cost or financial assets at
 FVTOCI are measured at FVTPL. A gain or loss on a debt investment that is
 subsequently measured at fair value through profit or loss and is not part of a hedging
 relationship is recognized in profit or loss and presented net in “Other gains/(losses),
@@ -21055,15 +21055,15 @@ information that is reasonable and supportable, including historical experience 
 information that is available without undue cost or effort.
 In particular, the following information is taken into account when assessing whether credit
 risk has increased significantly:
- an actual or expected significant deterioration in the financial instrument’s external (if
+(cid:129) an actual or expected significant deterioration in the financial instrument’s external (if
 available) or internal credit rating;
- significant deterioration in external market indicators of credit risk, e.g. a significant
+(cid:129) significant deterioration in external market indicators of credit risk, e.g. a significant
 increase in the credit spread, the credit default swap prices for the debtor;
- existing or forecast adverse changes in business, financial or economic conditions that
+(cid:129) existing or forecast adverse changes in business, financial or economic conditions that
 are expected to cause a significant decrease in the debtor’s ability to meet its debt
 obligations;
- an actual or expected significant deterioration in the operating results of the debtor; and
- an actual or expected significant adverse change in the regulatory, economic, or
+(cid:129) an actual or expected significant deterioration in the operating results of the debtor; and
+(cid:129) an actual or expected significant adverse change in the regulatory, economic, or
 technological environment of the debtor that results in a significant decrease in the
 debtor’s ability to meet its debt obligations.
 – I-32 –
@@ -21125,8 +21125,8 @@ payments to reimburse the holder for a loss it incurs because a specified debtor
 payments when due in accordance with the terms of a debt instrument. Financial guarantee
 contract liabilities are measured initially at their fair values. It is subsequently measured at the
 higher of:
- the amount of the loss allowance determined in accordance with IFRS 9; and
- the amount initially recognized less, where appropriate, cumulative amortization
+(cid:129) the amount of the loss allowance determined in accordance with IFRS 9; and
+(cid:129) the amount initially recognized less, where appropriate, cumulative amortization
 recognized over the guarantee period.
 – I-34 –
 
@@ -21271,21 +21271,21 @@ Lease payments to be made under reasonably certain extension options are also in
 the measurement of the liability.
 Assets and liabilities arising from a lease are initially measured on a present value basis.
 Lease liabilities include the net present value of the following lease payments (if applicable):
-, less any lease incentives
+(cid:129) fixed payments (including in-substance fixed payments), less any lease incentives
 receivable;
- variable lease payment that are based on an index or a rate, initially measured using the
+(cid:129) variable lease payment that are based on an index or a rate, initially measured using the
 index or rate as at the commencement date;
- amounts expected to be payable by the Group under residual value guarantees;
- the exercise price of a purchase option if the Group is reasonably certain to exercise that
+(cid:129) amounts expected to be payable by the Group under residual value guarantees;
+(cid:129) the exercise price of a purchase option if the Group is reasonably certain to exercise that
 option, and
- payments of penalties for terminating the lease, if the lease term reflects the Group
+(cid:129) payments of penalties for terminating the lease, if the lease term reflects the Group
 exercising that option.
 Right-of-use assets are measured at cost comprising the following (if applicable):
- the amount of the initial measurement of lease liability;
- any lease payments made at or before the commencement date less any lease incentives
+(cid:129) the amount of the initial measurement of lease liability;
+(cid:129) any lease payments made at or before the commencement date less any lease incentives
 received;
- any initial direct costs, and
- restoration costs.
+(cid:129) any initial direct costs, and
+(cid:129) restoration costs.
 The lease payments are discounted using the interest rate implicit in the lease. If that rate
 cannot be readily determined, which is generally the case for leases in the Group, the lessee’s
 incremental borrowing rate is used, being the rate that the individual lessee would have to pay to
@@ -21296,12 +21296,12 @@ economic environment with similar terms, security and conditions.
 === PAGE 561 ===
 APPENDIX I ACCOUNTANTS’ REPORT
 To determine the incremental borrowing rate, the Group:
- where possible, uses recent third-party financing received by the individual lessee as a
+(cid:129) where possible, uses recent third-party financing received by the individual lessee as a
 starting point, adjusted to reflect changes in financing conditions since third party
 financing was received;
- uses a build-up approach that starts with a risk-free interest rate adjusted for credit risk
+(cid:129) uses a build-up approach that starts with a risk-free interest rate adjusted for credit risk
 for leases held by the Group, which does not have recent third party financing, and
- makes adjustments specific to the lease, e.g., term, country, currency and security.
+(cid:129) makes adjustments specific to the lease, e.g., term, country, currency and security.
 For a lease modification that is not accounted for as a separate lease, the Group accounts for
 the remeasurement of the lease liability by decreasing the carrying amount of the right-of-use asset
 to reflect the partial or full termination of the lease for lease modifications that decrease the scope
@@ -21338,15 +21338,15 @@ of the financial asset (after deduction of the loss allowance).
 2.2.23Loss per share
 (i) Basic loss per share
 Basic loss per share is calculated by dividing:
- the loss attributable to equity holders of the Company, and
- by the weighted average number of ordinary shares outstanding during the financial
+(cid:129) the loss attributable to equity holders of the Company, and
+(cid:129) by the weighted average number of ordinary shares outstanding during the financial
 year/period.
 (ii) Diluted loss per share
 Diluted loss per share adjusts the figures used in the determination of basic loss per share to
 take into account:
- the after-income tax effect of interest and other financing costs associated with dilutive
+(cid:129) the after-income tax effect of interest and other financing costs associated with dilutive
 potential ordinary shares, and
- the weighted average number of additional ordinary shares that would have been
+(cid:129) the weighted average number of additional ordinary shares that would have been
 outstanding assuming the conversion of all dilutive potential ordinary shares.
 2.2.24Provision
 Provision for product warranties is recognized when the Group has a present legal or
@@ -21370,9 +21370,9 @@ expense over the relevant service period, being the vesting period of the shares
 recognized in equity in the employee share-based compensation reserve. The fair value of the
 shares is measured at the grant date. The total amount to be expensed is determined by reference
 to the fair value of the equity instruments granted:
- including any market performance conditions;
- excluding the impact of any service and non-market performance vesting conditions; and
- including the impact of any non-vesting conditions.
+(cid:129) including any market performance conditions;
+(cid:129) excluding the impact of any service and non-market performance vesting conditions; and
+(cid:129) including the impact of any non-vesting conditions.
 The total expense is recognized over the vesting period, which is the period over which all of
 the specified vesting conditions are to be satisfied. At the end of each reporting period, the Group
 revises its estimates of the number of shares that are expected to vest based on the service
@@ -21772,8 +21772,8 @@ Financial assets at FVTOCI
 — — 21,941 21,941
 (b) Valuation techniques used to determine fair values
 Specific valuation techniques used to value financial instruments include:
- Quoted market prices or dealer quotes for similar instruments; and
- Other technique, such as asset based approach, is used to determine fair value for the
+(cid:129) Quoted market prices or dealer quotes for similar instruments; and
+(cid:129) Other technique, such as asset based approach, is used to determine fair value for the
 remaining financial instrument.
 There were no changes in valuation techniques during the Track Record Period.
 – I-54 –
@@ -24303,10 +24303,10 @@ preferred rights at amortized cost
 APPENDIX I ACCOUNTANTS’ REPORT
 22 FINANCIALASSETS AT FAIR VALUE THROUGH PROFIT OR LOSS
 The Group classifies the following financial assets at FVTPL:
- debt investments that do not qualify for measurement at either amortized cost or at
+(cid:129) debt investments that do not qualify for measurement at either amortized cost or at
 FVTOCI;
- equity investments that are held for trading; and
- equity investments for which the entity has not elected to recognize fair value gains or
+(cid:129) equity investments that are held for trading; and
+(cid:129) equity investments for which the entity has not elected to recognize fair value gains or
 losses through OCI.
 As at
 As at 31 December
@@ -26168,8 +26168,8 @@ APPENDIX II UNAUDITED PRO FORMA FINANCIAL INFORMATION
 unaudited pro forma financial information provide a reasonable basis for presenting the significant
 effects directly attributable to the event or transaction, and to obtain sufficient appropriate
 evidence about whether:
- the related unaudited pro forma adjustments give appropriate effect to those criteria; and
- the unaudited pro forma financial information reflects the proper application of those
+(cid:129) the related unaudited pro forma adjustments give appropriate effect to those criteria; and
+(cid:129) the unaudited pro forma financial information reflects the proper application of those
 adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’ judgment, having regard to the
 reporting accountants’ understanding of the nature of the entity, the event or transaction in respect
@@ -26200,9 +26200,9 @@ The following is the text of a letter and a valuation certificate prepared for t
 incorporation in this prospectus received from AVISTA Valuation Advisory Limited, an independent
 valuer, in connection with its valuation as at 30 September 2025 of the property interests held by
 the Company.
-
-
-
+(cid:1)(cid:33628)(cid:1)(cid:1)(cid:1)(cid:34387)(cid:1)(cid:1)(cid:1)(cid:40159)(cid:1)(cid:1)(cid:1)(cid:37713)(cid:1)(cid:1)(cid:1)(cid:9917)(cid:1)(cid:1)(cid:1)(cid:38031)(cid:1)(cid:1)(cid:1)(cid:37738)(cid:1)
+(cid:52)(cid:86)(cid:74)(cid:85)(cid:70)(cid:84)(cid:1)(cid:63155)(cid:63157)(cid:63153)(cid:63154)(cid:14)(cid:63153)(cid:63159)(cid:13)(cid:1)(cid:63155)(cid:63157)(cid:16)(cid:39)(cid:13)(cid:1)(cid:38)(cid:87)(cid:70)(cid:83)(cid:67)(cid:83)(cid:74)(cid:72)(cid:73)(cid:85)(cid:1)(cid:36)(cid:70)(cid:79)(cid:85)(cid:83)(cid:70)(cid:13)(cid:1)(cid:63154)(cid:63153)(cid:63161)(cid:1)(cid:40)(cid:77)(cid:80)(cid:86)(cid:68)(cid:70)(cid:84)(cid:85)(cid:70)(cid:83)(cid:1)(cid:51)(cid:80)(cid:66)(cid:69)(cid:13)(cid:1)
+(cid:56)(cid:66)(cid:79)(cid:1)(cid:36)(cid:73)(cid:66)(cid:74)(cid:13)(cid:1)(cid:41)(cid:80)(cid:79)(cid:72)(cid:1)(cid:44)(cid:80)(cid:79)(cid:72)(cid:1)
 : +852 3702 7338 : +852 3914 6388
 11 December 2025
 The Board of Directors
@@ -30902,9 +30902,9 @@ Winthrop Shaw Pittman LLP;
 of which is set forth in the section headed “Industry Overview” in this prospectus;
 12. the terms of the Share Incentive Scheme; and
 13. a copy of the following PRC laws, together with their unofficial English translations:
- the PRC Company Law;
- the PRC Securities Law; and
- the Overseas Listing Trial Measures.
+(cid:129) the PRC Company Law;
+(cid:129) the PRC Securities Law; and
+(cid:129) the Overseas Listing Trial Measures.
 – VIII-2 –
 
 === PAGE 806 ===

@@ -204,18 +204,18 @@ EXPECTED TIMETABLE(1)
 Offering (with successful applicants’ identification
 document numbers, where appropriate) will be available
 through a variety of channels, including:
- in the announcement to be posted on our
+(cid:129) in the announcement to be posted on our
 website and the website of the Hong Kong
 Stock Exchange at www.migaogroup.com and
 www.hkexnews.hk, respectively(6) . . . . . . . . . . . . . . . . .at or before 11:00 p.m. on
 Wednesday, 20 March 2024
- from the “IPO Results” function in the
+(cid:129) from the “IPO Results” function in the
 IPO App or at www.hkeipo.hk/IPOResult
 (or www.tricor.com.hk/ipo/result) from . . . . . . . . . . . . . . . . . . . . . . . . 11:00 p.m.,
 Wednesday, 20 March 2024
 to 12:00 midnight,
 Tuesday, 26 March 2024
- from the allocation results telephone enquiry line by
+(cid:129) from the allocation results telephone enquiry line by
 calling +852 3691 8488 between 9:00 a.m.
 and 6:00 p.m. from . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Thursday,
 21 March 2024 to Tuesday,
@@ -523,26 +523,26 @@ Thefollowingdiagramillustratesourbusinessmodelinthecontextofthepotashfertiliser
 manufacturing industry:
 UpstreamRawMaterials OurGroup DownstreamCustomers
 Suppliers
-Processed
-KCL Processing KCL
+(cid:129)Processed
+(cid:129)KCL Processing KCL
 Agriculturalreclamation
-Overseas suppliers 
+Overseas suppliers (cid:129)Granulated companies(1)
 KCL
-SOP
-materials Compound
+(cid:129)Otherraw Manufacturing (cid:129)SOP
+materials (cid:129)Compound
 Fertiliser
 Agribusiness
-
-SOP
-NOP
-Compound
+(cid:129)KCL (cid:129)KCL Companies(2)
+(cid:129)SOP (cid:129)SOP
+(cid:129)NOP Reselling (cid:129)NOP
+(cid:129)Compound (cid:129)Compound
 Fertiliser Fertiliser
 Domestics suppliers
 Tobaccocompanies(3)
-Tobacco
+(cid:129)Otherraw Production (cid:129)Tobacco
 Compound
 materials Services Fertiliser
- RawMaterials
+(cid:129) RawMaterials
 Notes:
 (1) Our Group’s agricultural reclamation company customers include, among others, companies engaged in the
 plantation of agricultural products and several of them are large state owned enterprises such as Hulunbuir
@@ -611,26 +611,26 @@ production Utilisation production Utilisation production Utilisation production 
 volume rate volume rate volume rate volume rate volume rate
 tonnes % tonnes % tonnes % tonnes % tonnes %
 KCLprocessing 376,964 105.8 650,226 185.1 749,827 216.3 386,965 169.8 559,574 235.5
- ChangchunProduction
+(cid:129) ChangchunProduction
 Facility 24,494 20.6 166,621 146.5 259,394 237.8 104,163 149.9 88,531 111.8
- Guangdong
+(cid:129) Guangdong
 ProductionFacility 352,470 148.3 483,605 203.5 490,433 206.4 282,802 178.5 471,043 297.4
 KCLgranules 250,880 132.0 322,219 134.1 314,868 108.2 188,956 106.3 190,339 73.2
- ChangchunProduction
+(cid:129) ChangchunProduction
 Facility 250,880 132.0 246,592 135.5 181,843 104.2 127,531 114.8 153,884 121.5
- AndaProduction
+(cid:129) AndaProduction
 Facility – – 75,627 129.6 133,025 114.0 61,425 92.1 36,455 27.3
 SOP 220,328 86.4 160,668 58.8 110,937 33.3 68,242 32.2 103,053 42.6
- Guangdong
+(cid:129) Guangdong
 ProductionFacility 101,457 69.5 75,804 51.9 32,052 22.0 20,423 21.0 46,143 47.4
- ChangchunProduction
+(cid:129) ChangchunProduction
 Facility 87,385 119.7 41,771 59.6 – – – – – –
- BaoqingProduction
+(cid:129) BaoqingProduction
 Facility 31,486 87.5 36,808 102.2 37,564 52.2 29,794 62.1 16,735 34.9
- AndaProduction
+(cid:129) AndaProduction
 Facility – – 6,285 29.9 41,321 86.1 18,025 75.1 40,175 83.7
 Compoundfertiliser 75,763 44.0 62,112 36.1 77,311 44.9 24,835 21.7 22,917 20.0
- DaxingProduction
+(cid:129) DaxingProduction
 Facility 75,763 44.0 62,112 36.1 77,311 44.9 24,835 21.7 22,917 20.0
 Our KCL processing utilisation rate was approximately 105.8%, 185.1% and 216.3% for
 FY2021, FY2022, and FY2023, respectively. The utilisation rate for KCLprocessing exceeded
@@ -711,27 +711,27 @@ Year ended 31 March 30 November
 Purchase volume of KCL
 Total purchase volume
 (Tonne) 926,902 1,310,234 1,009,792 562,257 943,416
- 420,021 370,510 68,273 4,997 334,820
-
+(cid:129) Overseas suppliers(1) (Tonne) 420,021 370,510 68,273 4,997 334,820
+(cid:129) Domestic suppliers(2)
 (Tonne) 506,881 939,724 941,519 557,260 608,596
 Average purchase price of
 KCL
 Overall average purchase price
 (RMB/tonne) 1,692.1 2,448.8 2,996.4 3,366.1 2,150.9
-
+(cid:129) Overseas suppliers(1)
 (RMB/tonne) 1,539.8 2,657.4 2,297.9 3,904.9 2,223.2
-
+(cid:129) Domestic suppliers(2)
 (RMB/tonne) 1,818.4 2,366.6 3,047.1 3,361.3 2,111.1
 Average unit cost of
 good sold
- 1,546.0 2,438.9 3,126.3 3,394.1 2,248.4
- 1,964.7 2,509.2 3,447.1 3,486.4 2,392.1
- 3,620.4 4,051.9 5,577.2 5,100.1 5,593.2
-
+(cid:129) KCL (RMB/tonne) 1,546.0 2,438.9 3,126.3 3,394.1 2,248.4
+(cid:129) SOP (RMB/tonne) 1,964.7 2,509.2 3,447.1 3,486.4 2,392.1
+(cid:129) NOP (RMB/tonne) 3,620.4 4,051.9 5,577.2 5,100.1 5,593.2
+(cid:129) Compound fertiliser(5)
 (RMB/tonne) 2,085.9 2,237.2 2,120.5 2,330.2 2,031.8
 Sales volume
- 725,405 1,109,099 1,066,950 578,170 749,913
- 224,201 162,599 123,642 53,036 81,670
+(cid:129) KCL (Tonne) 725,405 1,109,099 1,066,950 578,170 749,913
+(cid:129) SOP (Tonne) 224,201 162,599 123,642 53,036 81,670
 – 8 –
 
 === PAGE 19 ===
@@ -739,32 +739,32 @@ SUMMARY
 Eight months ended
 Year ended 31 March 30 November
 2021 2022 2023 2022 2023
- 13,167 2,230 2,520 2,177 388
-
+(cid:129) NOP (Tonne) 13,167 2,230 2,520 2,177 388
+(cid:129) Compound fertilisers(5)
 (Tonne) 81,892 10,982 19,085 3,632 3,489
 Average selling price(3)
- 1,723.9 2,867.7 3,771.6 4,112.8 2,598.2
- 2,328.4 3,281.5 3,850.3 4,030.4 3,065.8
- 3,726.6 4,006.1 6,097.7 5,691.4 6,043.7
-
+(cid:129) KCL (RMB/tonne)(4) 1,723.9 2,867.7 3,771.6 4,112.8 2,598.2
+(cid:129) SOP (RMB/tonne) 2,328.4 3,281.5 3,850.3 4,030.4 3,065.8
+(cid:129) NOP (RMB/tonne) 3,726.6 4,006.1 6,097.7 5,691.4 6,043.7
+(cid:129) Compound fertilisers(5)
 (RMB/tonne) 2,364.5 2,275.7 2,501.8 2,701.8 2,397.2
 Gross profit margin
 Overall gross profit
 margin (%) 12.0 16.5 16.3 16.9 14.4
- 10.3 15.0 17.1 17.5 13.5
- 15.6 23.5 10.5 13.5 22.0
- 8.5 10.4 7.5
- 11.8 1.7 15.2 13.8 15.2
+(cid:129) KCL (%) 10.3 15.0 17.1 17.5 13.5
+(cid:129) SOP (%) 15.6 23.5 10.5 13.5 22.0
+(cid:129) NOP (%) 2.9 (1.1) 8.5 10.4 7.5
+(cid:129) Compound fertiliser (%)(5) 11.8 1.7 15.2 13.8 15.2
 Change in profit before
 tax if unit cost of goods
 sold of KCL
 increases/(decreases) by
 (112,147)/ (270,493)/ (333,555)/ (196,238)/ (168,612)/
- 112,147 270,493 333,555 196,238 168,612
+(cid:129) 10% (RMB’000) 112,147 270,493 333,555 196,238 168,612
 (224,294)/ (540,986)/ (667,109)/ (392,475)/ (337,224)/
- 224,294 540,986 667,109 392,475 337,224
+(cid:129) 20% (RMB’000) 224,294 540,986 667,109 392,475 337,224
 (1,121,468)/ (2,704,932)/ (3,335,547)/ (1,962,376)/ (1,686,118)/
- 1,121,468 2,704,932 3,335,547 1,962,376 1,686,118
+(cid:129) 100% (RMB’000) 1,121,468 2,704,932 3,335,547 1,962,376 1,686,118
 Notes:
 (1) Overseas purchase includes direct purchase and purchase through domestic designated agent from
 suppliers located outside of Mainland China.
@@ -2244,22 +2244,22 @@ uncertainties and assumptions, including the risk factors as described in this p
 are strongly cautioned that reliance on any forward-looking statements involves known and
 unknown risks and uncertainties. The risks and uncertainties facing us which could affect the
 accuracy of forward-looking statements include, but are not limited to, the following:
- our business strategies and plans to achieve these strategies;
- our capital expenditure plans;
- our operation and business prospects;
- projects under construction or planning;
- our financial condition;
- availability of bank loans and other forms of financing;
- our ability to control or reduce costs;
- our dividend policy;
- the amount and nature of, and potential for, future development of our business;
- future developments, trends and conditions in the industries and markets in which
+(cid:129) our business strategies and plans to achieve these strategies;
+(cid:129) our capital expenditure plans;
+(cid:129) our operation and business prospects;
+(cid:129) projects under construction or planning;
+(cid:129) our financial condition;
+(cid:129) availability of bank loans and other forms of financing;
+(cid:129) our ability to control or reduce costs;
+(cid:129) our dividend policy;
+(cid:129) the amount and nature of, and potential for, future development of our business;
+(cid:129) future developments, trends and conditions in the industries and markets in which
 we operate or intend to have business operations;
- changes to the regulatory environment, policies, economic conditions, operating
+(cid:129) changes to the regulatory environment, policies, economic conditions, operating
 conditions and general outlook in the industries and markets in which we operate or
 intend to have business operations;
- general economic, political and business conditions in the PRC; and
- certain statements included in the section headed “Business” and “Financial
+(cid:129) general economic, political and business conditions in the PRC; and
+(cid:129) certain statements included in the section headed “Business” and “Financial
 Information” in this prospectus with respect to operations, margins, overall market
 trends, risk management and exchange rates.
 – 49 –
@@ -4691,15 +4691,15 @@ Value Chain of Potash Fertiliser Industry in China
 Upstream Midstream Downstream
 Sourcing Processing and Manufacturing Consumption
 KCL Reserves
- es (mainly from I P m ro p c o u r r t e /D m o e m nt estic KCL Physical processes Commercial Consumers
- Overseas potash reserves (mainly from
+(cid:129) D Q o in m gh es a t i i , c T p ib o e t t a , s X h i r n e ji s a e n r g v ) es (mainly from I P m ro p c o u r r t e /D m o e m nt estic KCL Physical processes Commercial Consumers
+(cid:129) Overseas potash reserves (mainly from
 Russia, Canada, Belarus, Israel, Jordan, Wholesale and/or
 Laos and other regions) Distribution
 Physical and/or chemical processes
 Other chemicals (domestic sourcing)
- Ammonium Nitrate Individual Consumers
- Sulfuric Acid
- Others NOP, SOP and other fertilisers Physical processes
+(cid:129) Ammonium Nitrate Individual Consumers
+(cid:129) Sulfuric Acid
+(cid:129) Others NOP, SOP and other fertilisers Physical processes
 Source: Frost & Sullivan Report
 The upstream of China potash fertiliser industry includes KCL reserves and other
 chemicals. KCL supplied in China is mainly extracted from international and domestic potash
@@ -4788,7 +4788,7 @@ Source: General Administration of Customs, PRC, Frost & Sullivan Report
 The data in the above pie chart may not add up to 100% due to rounding of data.
 Entry Barriers
 (i) Manufacturing Safety and Compliance
- With the increasing attention on environmental sustainability and safety, potash
+(cid:129) With the increasing attention on environmental sustainability and safety, potash
 fertiliser manufacturing enterprises have to comply with laws involving
 environmental protection and government compliance. As special raw materials
 such as sulfuric acid are used for potash fertiliser manufacturing, regulation
@@ -4800,7 +4800,7 @@ comply with government and industrial standards governing the potash fertiliser
 industry.Therefore, new entrants need to spend long-term investments to implement
 the manufacturing safety rules and obtain relevant license.
 (ii) Solid Business Networks
- Due to the decentralised sales and distribution, potash fertiliser companies are
+(cid:129) Due to the decentralised sales and distribution, potash fertiliser companies are
 required to establish a strong distribution network to cover customers from all areas.
 Leading potash fertiliser companies usually have substantial expertise and logistical
 resources. Upstream raw material suppliers are more willing to cooperate with large
@@ -4814,7 +4814,7 @@ short period.
 === PAGE 125 ===
 INDUSTRY OVERVIEW
 (iii) Procurement Barrier
- Since fertiliser was listed in the “Catalogue of Automatic Import License
+(cid:129) Since fertiliser was listed in the “Catalogue of Automatic Import License
 Management Goods” (自動進口許可管理貨物目錄), importing such commodities
 should acquire relevant license issued by the Ministry of Commerce. Only
 companies that hold import license are allowed to proceed customs clearance.
@@ -5230,7 +5230,7 @@ generally make agricultural activities less economical, the level of impact diff
 customer segments, leading some customers to postpone purchases, control usage, or seek
 temporary alternatives. The key factors affecting demand responsiveness to price changes in
 potash fertilisers mainly include the following:
- Crop varieties
+(cid:129) Crop varieties
 Differentcropsexhibitdifferentrequirementsforpotashfertilisers,leadingtovaried
 levelsofpriceelasticityforpotashfertilisersacrosscropstypes.Forexample,stable
 food crops such as wheat and corn are usually cultivated on a large scale with focus
@@ -5246,7 +5246,7 @@ be more inclined to invest in agricultural inputs (such as potash fertilisers) t
 achieve superior yields and quality, which can potentially sell for higher prices. As
 a result, these customers show a relatively lower price elasticity of demand for
 potash fertilisers.
- Planting conditions
+(cid:129) Planting conditions
 Planting conditions, including climate and soil composition, significantly influence
 therequirementsforpotashfertilisersofcrops,therebyimpactingthepriceelasticity
 for potash fertilisers. Variations in soil nutrients content across different regions
@@ -5260,7 +5260,7 @@ inputs exhibit lower price elasticity for potash fertilisers, meaning demand for
 potashfertilisersislesssensitivetopricechanges,assufficientapplicationofpotash
 fertilisers is essential for ensuring optimal growth and productivity of crops in these
 areas.
- Planting scale
+(cid:129) Planting scale
 Since agricultural product producers with different planting scale have different
 procurementscales,bargainingpowerandcostcontrolcapabilities,theyalsoexhibit
 different price elasticity for potash fertilisers. For example, customers with large
@@ -5274,7 +5274,7 @@ production processes when prices of potash fertilisers rise. However, small-scal
 agricultural product producers lack sufficient purchasing scale, bargaining power
 and cost control capabilities, so they exhibit a higher price elasticity for potash
 fertilisers than those with large planting scale.
- Seasonality
+(cid:129) Seasonality
 Since the demand for potash fertilisers is seasonal due to natural cycle of planting
 activities, the timing of fluctuations in potash fertiliser prices will also affect the
 price elasticity for potash fertilisers. For example, when prices of potash fertilisers
@@ -7945,26 +7945,26 @@ Thefollowingdiagramillustratesourbusinessmodelinthecontextofthepotashfertiliser
 manufacturing industry:
 UpstreamRawMaterials OurGroup DownstreamCustomers
 Suppliers
-Processed
-KCL Processing KCL
+(cid:129)Processed
+(cid:129)KCL Processing KCL
 Agriculturalreclamation
-Overseas suppliers 
+Overseas suppliers (cid:129)Granulated companies(1)
 KCL
-SOP
-materials Compound
+(cid:129)Otherraw Manufacturing (cid:129)SOP
+materials (cid:129)Compound
 Fertiliser
 Agribusiness
-
-SOP
-NOP
-Compound
+(cid:129)KCL (cid:129)KCL Companies(2)
+(cid:129)SOP (cid:129)SOP
+(cid:129)NOP Reselling (cid:129)NOP
+(cid:129)Compound (cid:129)Compound
 Fertiliser Fertiliser
 Domestics suppliers
 Tobaccocompanies(3)
-Tobacco
+(cid:129)Otherraw Production (cid:129)Tobacco
 Compound
 materials Services Fertiliser
- RawMaterials
+(cid:129) RawMaterials
 Notes:
 (1) Our Group’s agricultural reclamation company customers include, among others, companies engaged in the
 plantation of agricultural products and several of them are large state owned enterprises such as Hulunbuir
@@ -8187,19 +8187,19 @@ and the other two were located at our Anda Production Facility. During the Track
 Period, we occasionally utilised the granulating equipment of other fertiliser production lines
 for granulation of KCL in order to meet our customers’ specific demand.
 Our KCL granulating involves the following major steps.
- Step one: The anti-dosing system sends processed KCLto the silo, which then enter
+(cid:129) Step one: The anti-dosing system sends processed KCLto the silo, which then enter
 into the cache silo through the bucket elevator. After water is injected and mixed
 well, the mixture are delivered to the materials separation belt through the bucket
 elevator again for separation.
- Step two: After separation, the mixture will enter into the granulator for extrusion,
+(cid:129) Step two: After separation, the mixture will enter into the granulator for extrusion,
 and extruded particles enter into the semi-finished product roller screen, and
 unqualified particles enter into the bucket elevator by way of screening to re-enter
 into the granulator for re-extrusion.
- Step three: Screened semi-finished particles enter into the drying roller before they
+(cid:129) Step three: Screened semi-finished particles enter into the drying roller before they
 enter into the cooling roller after being dried. The particles after cooling enter into
 the finished product roller screen for screening again, while unqualified particles
 re-enter into the extruding granulator for re-extrusion.
- Step four: Finished KCL granules after screening in step three will enter into the
+(cid:129) Step four: Finished KCL granules after screening in step three will enter into the
 finished product silo and are packaged and weighed by the automatic packer for
 random inspection. The qualified KCL granules are sent to the finished product
 warehouse.
@@ -8245,20 +8245,20 @@ were located at our Guangdong Production Facility, and eight were located at eac
 Changchun Production Facility, Anda Production Facility and Baoqing Production Facility
 with a total of 24.
 Our SOP manufacturing process involves the following major steps:
- Step one: KCL is transmitted to the silo through the hoist and sulfuric acid in the
+(cid:129) Step one: KCL is transmitted to the silo through the hoist and sulfuric acid in the
 sulfuricacidstoragetankistransmittedtothesulfuricacidelevatedtankthroughthe
 sulfuric acid pump.
- Step two: Sulfuric acid and KCLare put into the Mannheim reacting furnace. Under
+(cid:129) Step two: Sulfuric acid and KCLare put into the Mannheim reacting furnace. Under
 chemical reactions at high temperature, the stirrer in the furnace fully stirs KCLand
 sulfuric acid to generate SOP and HCL gas.
- Step three: SOPgenerated by the Mannheim Method is transmitted to the cooler and
+(cid:129) Step three: SOPgenerated by the Mannheim Method is transmitted to the cooler and
 enters into the scrapper after cooling and is then sent to the crusher for crushing.
 Purchased SOP, if any, will also be added subsequently through the scraper. Crushed
 SOP is transmitted to the finished product roller screen for screening and
 unqualified SOP powder is returned to the crusher for re-crushing. HCL produced
 during the manufacturing of SOP is transmitted to the cooler for cooling and then
 is transmitted to HCL washing and absorption system.
- Step four: Finished SOPafter screening in step three enters into the finished product
+(cid:129) Step four: Finished SOPafter screening in step three enters into the finished product
 silo for automatic packaging and granulating and a manual sampling inspection is
 conducted. Qualified SOP are sent to the finished product warehouse. Meanwhile,
 HCL is absorbed in the multi-layer absorber through the high-efficiency graphite
@@ -8305,20 +8305,20 @@ formulae as set out by our tobacco company customers. We also collaborate with o
 company customers to research and develop new formulae for compound fertiliser which are
 well tailored to their needs and are suitable for growth in the regions which they are located.
 Compound fertiliser manufacturing process involves the following major steps:
- Step one: Based on the specified formulae, KCL, SOP, NOP and other basic
+(cid:129) Step one: Based on the specified formulae, KCL, SOP, NOP and other basic
 materials and porcelain earth (adhesives) are added to raw material silos, then
 transmitted to granulator by raw material belt after measuring; if ammonium nitrate
 phosphate needs to be added according to the specific formulae, ammonium nitrate
 phosphate would be transmitted to ammonium nitrate melting tank to become
 ammonium nitrate phosphate solvent and transmitted to the granulator.
- Step two: Steams are added to the granulator, and the above materials are fully
+(cid:129) Step two: Steams are added to the granulator, and the above materials are fully
 stirred to form particles by rotary drum and rolling-over.
- Step three: The semi-finished particles enter into the drying roller before they enter
+(cid:129) Step three: The semi-finished particles enter into the drying roller before they enter
 into the cooling roller after being dried. The particles after cooling enter into the
 finished product roller screen (No. 1, No. 2, No. 3 and No. 4 sieving machine) for
 four times of sieving, the unqualified particles are returned to granulator for
 re-granulating.
- Step four: The finished compound fertiliser after cooling treatment enter into the
+(cid:129) Step four: The finished compound fertiliser after cooling treatment enter into the
 automatic packaging line for weighing and manual sampling, and the qualified
 compound fertiliser are stored in the finished product warehouse.
 – 202 –
@@ -8745,7 +8745,7 @@ sennot
 004,653
 )41(gnissecorpLCK
 noitcudorPnuhcgnahC
-
+(cid:129)
 8.111
 135,88
 002,97
@@ -8763,7 +8763,7 @@ noitcudorPnuhcgnahC
 008,811
 ytilicaF
 noitcudorPgnodgnauG
-
+(cid:129)
 4.792
 340,174
 004,851
@@ -8796,7 +8796,7 @@ ytilicaF
 000,091
 )4(selunargLCK
 noitcudorPnuhcgnahC
-
+(cid:129)
 5.121
 488,351
 766,621
@@ -8814,7 +8814,7 @@ noitcudorPnuhcgnahC
 000,091
 )4(ytilicaF
 noitcudorPadnA
-
+(cid:129)
 3.72
 554,63
 333,331
@@ -8847,7 +8847,7 @@ noitcudorPadnA
 000,552
 POS
 noitcudorPgnodgnauG
-
+(cid:129)
 4.74
 341,64
 333,79
@@ -8865,7 +8865,7 @@ noitcudorPgnodgnauG
 000,641
 ytilicaF
 noitcudorPnuhcgnahC
-
+(cid:129)
 )11(–
 )11(–
 766,84
@@ -8883,7 +8883,7 @@ noitcudorPnuhcgnahC
 000,37
 ytilicaF
 noitcudorPgniqoaB
-
+(cid:129)
 9.43
 537,61
 000,84
@@ -8901,7 +8901,7 @@ noitcudorPgniqoaB
 000,63
 )5(ytilicaF
 noitcudorPadnA
-
+(cid:129)
 7.38
 571,04
 000,84
@@ -9001,7 +9001,7 @@ sennot
 000,271
 )51()6(resilitrefdnuopmoC
 noitcudorPgnixaD
-
+(cid:129)
 0.02
 719,22
 766,411
@@ -9940,7 +9940,7 @@ tonnes of KCL and compound fertiliser from us from 1 April 2022 to 30 November 2
 In January 2021, we have entered into a cooperation agreement with the local authorities
 in respect of our investment in the new production facility. Below are certain key terms of the
 cooperation agreement:
- Investment Amount: We plan to invest a total amount of RMB2 billion to acquire
+(cid:129) Investment Amount: We plan to invest a total amount of RMB2 billion to acquire
 200 mu of land in the Mianyang Economic and Technological Development Zone
 and to implement the project for manufacturing and sale of SOP, NOP, compound
 fertilisers and potash fertiliser products. Such investment amount also includes the
@@ -9948,12 +9948,12 @@ working capital and investment for inventory for five years. The total investmen
 amount will be funded from internal resources, external borrowings, net proceeds
 from the Global Offering, and cash flow from the operations of the New Sichuan
 Production Facility.
- Production Lines: We plan to build eight sets of SOP production lines with an
+(cid:129) Production Lines: We plan to build eight sets of SOP production lines with an
 estimated annual production capacity of 80,000 tonnes, one set of NOP production
 line with an estimated annual production capacity of 60,000 tonnes and one set of
 compound fertiliser production line with an estimated annual production capacity of
 200,000 tonnes in the new facility.
- LandAcquisitionandPrice:Thelandwillbeofferedforsalethroughpubliclisting
+(cid:129) LandAcquisitionandPrice:Thelandwillbeofferedforsalethroughpubliclisting
 at a price to be determined by the Mianyang government at the time of sale and we
 will acquire the land in accordance with the laws and obtain the PRC real property
 ownership certificate.
@@ -9961,25 +9961,25 @@ ownership certificate.
 
 === PAGE 229 ===
 BUSINESS
- Land Use and Term: The land is to be used for industrial purposes for construction
+(cid:129) Land Use and Term: The land is to be used for industrial purposes for construction
 of production plants, offices and ancillary facilities. The term for the land-use right
 is 50 years.
- Land Payment Terms: After we acquire the land, we will execute the state-owned
+(cid:129) Land Payment Terms: After we acquire the land, we will execute the state-owned
 construction land use right transfer confirmation and state-owned construction land
 use right transfer contract with the Mianyang government, and pay the land transfer
 fee and the related land transfer taxes in full at the time specified in the contract.
- Obligations of the Management Committee: The management committee of the
+(cid:129) Obligations of the Management Committee: The management committee of the
 local government authorities shall be responsible for (i) the construction of water
 supply, power supply, gas supply, sewage discharge networks, roads, and other
 municipal facilities; (ii) relocation of local farming households; (iii) assisting us to
 apply for construction project programming permit; (iv) assisting us to apply for
 project approval and the PRC real property ownership certificate; and (v) assisting
 us to obtain various subsidy funding and preferential policy support.
- Obligations of Us: We are required to provide feasibility report and ensure
+(cid:129) Obligations of Us: We are required to provide feasibility report and ensure
 compliance with national industrial policies, market entry standards and
 environmental protection and safety provisions, and pay the relevant fees and
 expenses.
- PreferentialPolicy:Weareentitledtoenjoyvariouspreferentialpoliciesofferedby
+(cid:129) PreferentialPolicy:Weareentitledtoenjoyvariouspreferentialpoliciesofferedby
 the local government.
 Construction Plan and Investment Costs
 We intend to construct eight SOP production lines, one NOP production line and one
@@ -10168,7 +10168,7 @@ potash fertilisers in the PRC.
 In addition, the governments of Sichuan Province, Yunnan Province and Guizhou
 Province have also formulated incentive development goals on the agricultural industry which
 is expected to boost the demand for potash fertiliser in those provinces:
- Sichuan Province: In 2022, the sown area of grain in Sichuan ranked sixth in China.
+(cid:129) Sichuan Province: In 2022, the sown area of grain in Sichuan ranked sixth in China.
 As one of the 13 main grain production areas in China, Sichuan is tasked with the
 important mission of national food security. In recent years, the comprehensive
 grain production capacity of Sichuan has steadily increased. According to the
@@ -10185,7 +10185,7 @@ with increasing grain production capacity as the primary goal, focusing on
 permanent basic farmland protection areas, grain production functional areas, and
 important agricultural product production protection areas. From 2021 to 2025,
 Sichuan aims to build more than 10 million acres of high-standard farmland.
- Yunnan Province: As the largest tobacco leaf production province in China, the
+(cid:129) Yunnan Province: As the largest tobacco leaf production province in China, the
 Yunnan government has paid great attention to consolidate and expand Yunnan’s
 leading position in the tobacco industry. According to the “Three-Year Action Plan
 for Agricultural Modernization in Yunnan Province (2022-2024)” (《雲南省農業現
@@ -10193,7 +10193,7 @@ for Agricultural Modernization in Yunnan Province (2022-2024)” (《雲南省�
 planting area and flue-cured tobacco production in Yunnan will reach around 6
 million acres and 16.5 million tonnes respectively, and the output value of the entire
 tobacco industrial chain will reach around RMB235 billion by 2024.
- Guizhou Province: Guizhou is a leading tea leaf planting province in China. The tea
+(cid:129) Guizhou Province: Guizhou is a leading tea leaf planting province in China. The tea
 leaf production volume in Guizhou increased from approximately 180,300 tonnes in
 2018 to 266,200 tonnes in 2022 at a rapid CAGR of approximately 10.2%.
 According to the “14th Five-Year Plan for National Economic and Social
@@ -10244,13 +10244,13 @@ areessentialforustomaintainsustainablegrowthinthepotashfertiliserindustry.Accord
 we have implemented a quality control system in the production procedures of our products to
 ensure that the quality of our products meet our customers’ expectations.
 We have adopted the following quality management and control systems:
- Raw materials: we perform quality control inspections on the raw materials and
+(cid:129) Raw materials: we perform quality control inspections on the raw materials and
 purchase from our long-standing suppliers who are able to provide us with high
 quality raw materials used for our production.
- Process control: we have well-trained and experienced management and operating
+(cid:129) Process control: we have well-trained and experienced management and operating
 personnel to optimise operation efficiency and stabilise the production output and
 quality.
- Testing and inspection: we have monitoring appliances at every stage of our
+(cid:129) Testing and inspection: we have monitoring appliances at every stage of our
 manufacturing process. Our quality inspection team performs random tests on the
 raw materials and finished products on a sample basis to ensure that the products
 comply with the required national, market and customer standards. Testing
@@ -10261,7 +10261,7 @@ which we procure for reselling.
 
 === PAGE 236 ===
 BUSINESS
- Packaging and storage: we adopt systematic packaging and storage procedures to
+(cid:129) Packaging and storage: we adopt systematic packaging and storage procedures to
 ensure proper packaging and to avoid damage to our products during storage in our
 warehouses.
 In recognition of our product quality, we have received numerous certificates by relevant
@@ -13737,7 +13737,7 @@ tonnes for FY2021 and FY2022, respectively. Such purchase could be fully replace
 strategic cooperation with existing potash suppliers which source most of their potash from
 Russia. As at the Latest Practicable Date, we have signed memorandum of understanding for
 the supply of potash with the following existing suppliers:
- On 25 January 2022, we have signed a memorandum of understanding with Supplier
+(cid:129) On 25 January 2022, we have signed a memorandum of understanding with Supplier
 A, (an international fertiliser trading company) and one of our top five suppliers
 during FY2021 and FY2022. Under the memorandum of understanding (as
 supplemented by an additional agreement to memorandum of understanding dated
@@ -13770,7 +13770,7 @@ KCLwith origin from Russia from SupplierAin 2022 and up to 30 November 2023.
 We only utilised a minority of the amount of KCL stipulated in the Supplier A
 Original MOU and the Supplier A Further MOU as at 30 November 2023 because
 we were able to purchase sufficient amount of KCL from our other suppliers.
- In March 2022, we have signed a memorandum of understanding (as further
+(cid:129) In March 2022, we have signed a memorandum of understanding (as further
 extendedbyafurthermemorandumofunderstanding)withCNCCC,alargeChinese
 SOE principally engaged in the sales of chemical products and one of our top five
 suppliers for FY2023, for the supply of 500,000 tonnes of potash from March 2022
@@ -14287,19 +14287,19 @@ plumes.
 To reduce the impact of our waste gas on the environment and the climate, we have
 adopted various measures to reduce and monitor our waste gas (including greenhouse gas)
 emission such as the following measures:
- The waste gas generated from our production is purified by our desulphurisation or
+(cid:129) The waste gas generated from our production is purified by our desulphurisation or
 alkaline washing system before emission and we added two sets of comprehensive
 environmental protection absorption devices to our alkaline washing system at our
 Guangdong Production Facility in 2020 and 2021.
- We upgraded our natural gas system in 2019 at our Guangdong Production Facility
+(cid:129) We upgraded our natural gas system in 2019 at our Guangdong Production Facility
 which reduced our emission of sulphur dioxide.
- We also added eight sets of alkaline washing towers to our machinery at our
+(cid:129) We also added eight sets of alkaline washing towers to our machinery at our
 Changchun Production Facility in 2019 to reduce emission of HCL gas.
- Dusts produced during NOP production are filtered out by our dust removal
+(cid:129) Dusts produced during NOP production are filtered out by our dust removal
 equipment.
- We are equipped with monitoring facilities to control gas emission to ensure
+(cid:129) We are equipped with monitoring facilities to control gas emission to ensure
 compliance with the relevant discharge standards.
- During our production, we would engage third party companies to conduct onsite
+(cid:129) During our production, we would engage third party companies to conduct onsite
 inspection and prepare relevant reports for submission to local authorities.
 Solid Waste
 We generate solid waste in our production. The solid waste we generated can be further
@@ -14385,10 +14385,10 @@ We are committed to the fulfillment of our corporate responsibility. For instanc
 donated RMB400,000 to Red Cross in PRC in 2021 to support our communities. We also made
 donation to the local education association in the amount of RMB20,000 in 2023.
 Going forward, our Directors will commission our management to:
- come up with a reasonable budget and action plan to fulfil our corporate
+(cid:129) come up with a reasonable budget and action plan to fulfil our corporate
 responsibility (for example, participate in community volunteering activities);
- promote the “caring for the community” spirit among our workforce; and
- incorporate the “caring for the community” spirit as a KPI in our corporate culture.
+(cid:129) promote the “caring for the community” spirit among our workforce; and
+(cid:129) incorporate the “caring for the community” spirit as a KPI in our corporate culture.
 – 296 –
 
 === PAGE 307 ===
@@ -14598,10 +14598,10 @@ Emissions FY2021 FY2022 FY2023 8MFY2024
 Greenhouse gas emissions (tonnes
 CO equivalent) 115,775 56,138 85,749 65,727
 2
-
+(cid:129) Scope 1 (direct emissions)
 (tonnes CO equivalent) 106,688 48,091 73,270 58,694
 2
-
+(cid:129) Scope 2 (indirect emissions)
 (tonnes CO equivalent) 9,087 8,048 12,479 7,033
 2
 Resource consumption FY2021 FY2022 FY2023 8MFY2024
@@ -14674,20 +14674,20 @@ programs to reduce carbon emissions, thereby supporting the country’s “dual 
 BUSINESS
 Carbon management strategy
 Operation:
-
- Commit to reducing greenhouse gas emission intensity
- Report our Group’s greenhouse gas data and emission reduction progress in the
+(cid:129) Disclose total greenhouse gas emissions (Scope 1 and 2)
+(cid:129) Commit to reducing greenhouse gas emission intensity
+(cid:129) Report our Group’s greenhouse gas data and emission reduction progress in the
 annual environmental, social and governance report
- Regularly review and update climate change policies and projects
- Increase renewable energy usage
- Improve energy conservation by implementing a strategy of utilising energy on a
+(cid:129) Regularly review and update climate change policies and projects
+(cid:129) Increase renewable energy usage
+(cid:129) Improve energy conservation by implementing a strategy of utilising energy on a
 “need-only” basis, resulting in reduced energy consumption
 Supply Chain:
- Collaborate closely with our suppliers to encourage them to adopt environmentally-
+(cid:129) Collaborate closely with our suppliers to encourage them to adopt environmentally-
 friendly practices and reduce their carbon footprint
- Prioritisesupplierswithstrongsustainabilitypracticescanhelpminimisethecarbon
+(cid:129) Prioritisesupplierswithstrongsustainabilitypracticescanhelpminimisethecarbon
 impact of the supply chain
- Improve the efficiency of transportation and logistics operations
+(cid:129) Improve the efficiency of transportation and logistics operations
 Further, to better manage our environmental, social and climate-related risks, we aim to
 reduce our greenhouse gas emissions and resource consumption in the foreseeable future.
 Although our total overall greenhouse gas emissions and resource consumption may increase
@@ -18785,20 +18785,20 @@ Migao did not receive any penalty notices up to the Latest Practicable Date; and
 evasion.
 We have adopted certain internal control measures to prevent recurrence of similar
 incidents. For example:
- we have designated employees to periodically check and review government’s latest
+(cid:129) we have designated employees to periodically check and review government’s latest
 tax laws, regulation and policies to ensure our compliance with them. We will also
 arrange trainings for relevant employees to ensure they are aware of the relevant tax
 laws, regulations and policies;
- we have established internal procedure whereby the accounting departments of our
+(cid:129) we have established internal procedure whereby the accounting departments of our
 subsidiaries will prepare tax settlement returns, which shall only be uploaded to the
 tax system after review by the local financial controllers of our respective
 subsidiaries;
- we have adopted a tax management policy covering areas such as tax provision, and
+(cid:129) we have adopted a tax management policy covering areas such as tax provision, and
 other tax-related matters;
- we have established internal procedures in relation to the selection and engagement
+(cid:129) we have established internal procedures in relation to the selection and engagement
 of external tax consultancy service providers to enhance our communications with
 them to avoid recurrence of similar incidents; and
- we have prepared a compliance checklist and designated one of our Directors to
+(cid:129) we have prepared a compliance checklist and designated one of our Directors to
 monitor and review our compliance with the items on the checklist, and update such
 checklist in accordance with the applicable laws and regulations on a quarterly
 basis. Our chief financial officer shall also review such checklist on a quarterly
@@ -20666,7 +20666,7 @@ FUTURE PLANS AND USE OF PROCEEDS
 We currently intend to apply the net proceeds from the Global Offering for the purposes
 and in the amounts as set out below:
 Heilongjiang Warehousing and Production Centre
-,
+(cid:129) approximately HK$322.4 million (equivalent to approximately RMB292.5 million),
 representing approximately 45.2% of the net proceeds from the Global Offering, is
 intended to be used to construct the Heilongjiang Warehousing and Production Centre, of
 which
@@ -20756,22 +20756,22 @@ acquisition.
 In May 2022, we have entered into a project investment agreement with the local
 authorities in respect of our investment in the Heilongjiang Warehousing and Production
 Centre. Below are certain key terms of the project investment agreement:
- Investment Amount: The total investment amount will be RMB1,600 million
+(cid:129) Investment Amount: The total investment amount will be RMB1,600 million
 inclusive of the working capital and purchase of inventory for the operations of the
 Heilongjiang Warehousing and Production Centre for three years from the
 commencementofitsconstruction.Thetotalinvestmentamountwillbefundedfrom
 internal resources, external borrowings, net proceeds from the Global Offering and
 cash flow from the operations of the Heilongjiang Warehousing and Production
 Centre.
- Land Acquisition: The land will be offered for sale through public listing in
+(cid:129) Land Acquisition: The land will be offered for sale through public listing in
 accordance with the laws and the price will be determined in accordance with land
 usage sale contract.
- Land Use: The land is used for the construction of the project only.
- Rights and Obligations: We are required to comply with the relevant laws and
+(cid:129) Land Use: The land is used for the construction of the project only.
+(cid:129) Rights and Obligations: We are required to comply with the relevant laws and
 regulations in relation to environment protection and safety provisions and ensure
 completion of project in accordance with the agreement. We also agree to continue
 topayrelevanttaxestothelocalauthoritiesandnottorelocateforthenext10years.
- Preferential Policy: The local government will offer various preferential policies to
+(cid:129) Preferential Policy: The local government will offer various preferential policies to
 us.
 On 21 September 2022, we entered into a land use right acquisition agreement with the
 localauthoritiestoacquireaparceloflandinTongjiangCity,HeilongjiangProvincewithasite
@@ -20932,7 +20932,7 @@ Heilongjiang Warehousing and Production Centre for the import of potash, in an
 aggregate amount of not less than 1.4 million tonnes per year, through theTongjiang
 Border,aftertheestablishmentofHeilongjiangWarehousingandProductionCentre.
 New Sichuan Production Facility
-,
+(cid:129) approximately HK$201.3 million (equivalent to approximately RMB182.7 million),
 representing approximately 28.2% of the net proceeds from the Global Offering will be
 used for the investment and construction of our New Sichuan Production Facility, among
 which:
@@ -20955,7 +20955,7 @@ prospectus.
 === PAGE 466 ===
 FUTURE PLANS AND USE OF PROCEEDS
 Research and Development Centre
-,
+(cid:129) approximately HK$101.3 million (equivalent to approximately RMB91.8 million),
 representing approximately 14.2% of the net proceeds from the Global Offering will be
 used to fund the establishment of a research development centre (the “Sichuan R&D
 Centre”), of which
@@ -21005,7 +21005,7 @@ We plan to fund the establishment of Sichuan R&D Centre with part of the net pro
 fromtheGlobalOfferingofapproximatelyRMB91.8million;andtheremainingapproximately
 RMB28.2 million will be funded by our internal resources and/or external borrowings.
 Upgrading and Replacement of Equipment and Machinery
-,
+(cid:129) approximately HK$42.9 million (equivalent to approximately RMB38.9 million),
 representing approximately 6.0% of the net proceeds from the Global Offering will be
 used to purchase new equipment and machinery for replacement of existing equipment
 and machinery and to purchase new environmental and automatic equipment and
@@ -21039,7 +21039,7 @@ Daxing Production Facility will allow us to adopt automatic production procedure
 facility which will thereby increase our production efficiency and lower relevant work
 safety risks.
 General Working Capital
-,
+(cid:129) approximately HK$46.0 million (equivalent to approximately RMB41.8 million),
 representing approximately 6.4% of the net proceeds from the Global Offering will be
 used for additional working capital and other general corporate purposes.
 If the Offer Price is fixed at the high-end of the indicative Offer Price range, being
@@ -22540,13 +22540,13 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
- are 18 years of age or older; and
-.
+(cid:129) are 18 years of age or older; and
+(cid:129) have a Hong Kong address (for the HK eIPO White Form service only).
 Unless permitted by the Listing Rules or a waiver and/or consent has been granted by the
 Hong Kong Stock Exchange to us, you cannot apply for any Hong Kong Offer Shares if you
 or the person(s) for whose benefit you are applying for:
- are an existing Shareholder or close associates; or
-.
+(cid:129) are an existing Shareholder or close associates; or
+(cid:129) are a Director or any of his/her close associates (as defined in the Listing Rules).
 – 491 –
 
 === PAGE 502 ===
@@ -22631,11 +22631,11 @@ HOW TO APPLY FOR THE HONG KONG OFFER SHARES
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual Applicants For Corporate Applicants
-2 as shown on your
+(cid:129) Full name(s)2 as shown on your (cid:129) Full name(s)2 as shown on your
 identity document identity document
- Identity document’s issuing country or
+(cid:129) Identity document’s issuing country or (cid:129) Identity document’s issuing country or
 jurisdiction jurisdiction
- Identity document type, with order of
+(cid:129) Identity document type, with order of (cid:129) Identity document type, with order of
 priority: priority:
 i. Hong Kong Identity card i. LEI registration document; or
 (“HKID”); or
@@ -22643,7 +22643,7 @@ ii. Certificate of incorporation; or
 ii. National identification document;
 or iii. Business registration certificate; or
 iii. Passport; and iv. Other equivalent document; and
- Identity document number
+(cid:129) Identity document number (cid:129) Identity document number
 Notes:
 (1) If you are applying through the HK eIPO White Form service, you are required to provide a valid
 e-mailaddress,acontacttelephonenumberandaHongKongaddress.Youarealsorequiredtodeclare
@@ -22681,9 +22681,9 @@ above.
 “Unlisted company” means a company with no equity securities listed on the Hong Kong
 Stock Exchange or any other stock exchange.
 “Statutory control” means you:
- control the composition of the board of directors of the company;
- control more than half of the voting power of the company; or
- holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypart
+(cid:129) control the composition of the board of directors of the company;
+(cid:129) control more than half of the voting power of the company; or
+(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypart
 of it which carries no right to participate beyond a specified amount in a distribution
 of either profits or capital).
 For those applying through the HKSCC EIPO channel, and making an application under
@@ -22937,22 +22937,22 @@ any application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Hong Kong Stock Exchange
 does not grant permission to list the Shares either:
- within three weeks from the closing date of the application lists; or
- within a longer period of up to six weeks if the Hong Kong Stock Exchange notifies
+(cid:129) within three weeks from the closing date of the application lists; or
+(cid:129) within a longer period of up to six weeks if the Hong Kong Stock Exchange notifies
 us of that longer period within three weeks of the closing date of the application
 lists.
 4. If:
- you make multiple applications or suspected multiple applications.You may refer to
+(cid:129) you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “–A.Applications for Hong Kong Offer Shares – 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
- your application instruction is incomplete;
- is not made correctly;
+(cid:129) your application instruction is incomplete;
+(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
 – 501 –
 
 === PAGE 512 ===
 HOW TO APPLY FOR THE HONG KONG OFFER SHARES
- the Underwriting Agreements do not become unconditional or are terminated; or
- we or the Overall Coordinators believe that by accepting your application, it or we
+(cid:129) the Underwriting Agreements do not become unconditional or are terminated; or
+(cid:129) we or the Overall Coordinators believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -23051,9 +23051,9 @@ Arrangements” in this section.
 E. SEVERE WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Monday, 18 March 2024 if, there is/are:
- a tropical cyclone warning signal number 8 or above;
- a black rainstorm warning; and/or
- Extreme Conditions
+(cid:129) a tropical cyclone warning signal number 8 or above;
+(cid:129) a black rainstorm warning; and/or
+(cid:129) Extreme Conditions
 (collectively, “Severe Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Monday, 18 March
 2024.
@@ -23133,7 +23133,7 @@ data supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
- processing your application and refund cheque and HK eIPO White Form e-Auto
+(cid:129) processing your application and refund cheque and HK eIPO White Form e-Auto
 Refund payment instruction(s), where applicable, verification of compliance with
 the terms and application procedures set out in this prospectus and announcing
 results of allocation of Hong Kong Offer Shares;
@@ -23141,19 +23141,19 @@ results of allocation of Hong Kong Offer Shares;
 
 === PAGE 517 ===
 HOW TO APPLY FOR THE HONG KONG OFFER SHARES
- compliance with applicable laws and regulations in Hong Kong and elsewhere;
- registering new issues or transfers into or out of the names of the holders of the
+(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+(cid:129) registering new issues or transfers into or out of the names of the holders of the
 Shares including, where applicable, HKSCC Nominees;
- maintaining or updating the register of members of the Company;
- verifying identities of applicants for and holders of the Shares and identifying any
+(cid:129) maintaining or updating the register of members of the Company;
+(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
- facilitating Hong Kong Offer Shares balloting;
- establishing benefit entitlements of holders of the Shares, such as dividends, rights
+(cid:129) facilitating Hong Kong Offer Shares balloting;
+(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
- distributing communications from the Company and its subsidiaries;
- compiling statistical information and profiles of the holder of the Shares;
- disclosing relevant information to facilitate claims on entitlements; and
- anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+(cid:129) distributing communications from the Company and its subsidiaries;
+(cid:129) compiling statistical information and profiles of the holder of the Shares;
+(cid:129) disclosing relevant information to facilitate claims on entitlements; and
+(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the Hong Kong Share Registrar to discharge their obligations to
 applicants and holders of the Shares and/or regulators and/or any other purposes to
 which applicants and holders of the Shares may from time to time agree.
@@ -23163,9 +23163,9 @@ applicants for and holders of Hong Kong Offer Shares will be kept confidential b
 Company and the Hong Kong Share Registrar may, to the extent necessary for achieving any
 of the above purposes, disclose, obtain or transfer (whether within or outside Hong Kong) the
 personal data to, from or with any of the following:
- the Company’s appointed agents such as financial advisers, Receiving Bank and the
+(cid:129) the Company’s appointed agents such as financial advisers, Receiving Bank and the
 Principal Share Registrar;
- HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the Hong Kong Share Registrar, in each case for the purposes of
 providing its services or facilities or performing its functions in accordance with its
 rules or procedures and operating FINI and CCASS (including where applicants for
@@ -23174,14 +23174,14 @@ the Hong Kong Offer Shares request a deposit into CCASS);
 
 === PAGE 518 ===
 HOW TO APPLY FOR THE HONG KONG OFFER SHARES
- any agents, contractors or third-party service providers who offer administrative,
+(cid:129) any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the
 Hong Kong Share Registrar in connection with their respective business operation;
- the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
+(cid:129) the Hong Kong Stock Exchange, the SFC and any other statutory regulatory or
 governmental bodies or otherwise as required by laws, rules or regulations,
 including for the purpose of the Hong Kong Stock Exchange’s administration of the
 Listing Rules and the SFC’s performance of its statutory functions; and
- any persons or institutions with which the holders of Hong Kong Offer Shares have
+(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
 orproposetohavedealings,suchastheirbankers,solicitors,accountantsorbrokers,
 etc.
 5. Retention of personal data
@@ -23750,18 +23750,18 @@ notfairvalue,suchasnetrealisablevalueinHKAS2InventoriesorvalueinuseinHKAS36Impai
 Inaddition,forfinancialreportingpurposes,fairvaluemeasurementsarecategorisedintoLevel1,2or3based
 on the degree to which the inputs to the fair value measurements are observable and the significance of the inputs
 to the fair value measurement in its entirety, which are described as follows:
-inactivemarketsforidenticalassetsorliabilitiesthatthe
+(cid:129) Level1inputsarequotedprices(unadjusted)inactivemarketsforidenticalassetsorliabilitiesthatthe
 entity can access at the measurement date;
- Level2inputsareinputs,otherthanquotedpricesincludedwithinLevel1,thatareobservableforthe
+(cid:129) Level2inputsareinputs,otherthanquotedpricesincludedwithinLevel1,thatareobservableforthe
 asset or liability, either directly or indirectly; and
- Level 3 inputs are unobservable inputs for the asset or liability.
+(cid:129) Level 3 inputs are unobservable inputs for the asset or liability.
 The principal accounting policies are set out below.
 Basis of consolidation
 The Historical Financial Information incorporates the financial statements of the Company and entities
 controlled by the Company and its subsidiaries. Control is achieved when the Company:
- has power over the investee;
- is exposed, or has rights, to variable returns from its involvement with the investee; and
- has the ability to use its power to affect its returns.
+(cid:129) has power over the investee;
+(cid:129) is exposed, or has rights, to variable returns from its involvement with the investee; and
+(cid:129) has the ability to use its power to affect its returns.
 The Group reassesses whether or not it controls an investee if facts and circumstances indicate that there are
 changes to one or more of the three elements of control listed above.
 ConsolidationofasubsidiarybeginswhentheGroupobtainscontroloverthesubsidiaryandceaseswhenthe
@@ -23809,15 +23809,15 @@ or HK(IFRIC)-Int 21, in which the Group applies HKAS 37 or HK(IFRIC)-Int 21 inst
 Frameworktoidentifytheliabilitiesithasassumedinabusinesscombination.Contingentassetsarenotrecognised.
 Attheacquisitiondate,theidentifiableassetsacquiredandtheliabilitiesassumedarerecognisedattheirfair
 value, except that:
- deferred tax assets or liabilities, and assets or liabilities related to employee benefit arrangements are
+(cid:129) deferred tax assets or liabilities, and assets or liabilities related to employee benefit arrangements are
 recognisedandmeasuredinaccordancewithHKAS12IncomeTaxesandHKAS19EmployeeBenefits
 respectively;
- liabilities or equity instruments related to share-based payment arrangements of the acquiree or
+(cid:129) liabilities or equity instruments related to share-based payment arrangements of the acquiree or
 share-based payment arrangements of the Group entered into to replace share-based payment
 arrangements of the acquiree are measured in accordance with HKFRS 2 at the acquisition date;
-thatareclassifiedasheldforsaleinaccordancewithHKFRS5Non-current
+(cid:129) assets(ordisposalgroups)thatareclassifiedasheldforsaleinaccordancewithHKFRS5Non-current
 Assets Held for Sale and Discontinued Operations are measured in accordance with that standard; and
- lease liabilities are recognised and measured at the present value of the remaining lease payments (as
+(cid:129) lease liabilities are recognised and measured at the present value of the remaining lease payments (as
 definedinHKFRS16)asiftheacquiredleaseswerenewleasesattheacquisitiondate,exceptforleases
 for which (a) the lease term ends within 12 months of the acquisition date; or (b) the underlying asset
 is of low value. Right-of-use assets are recognised and measured at the same amount as the relevant
@@ -23904,11 +23904,11 @@ Aperformance obligation represents a good or service (or a bundle of goods or se
 series of distinct goods or services that are substantially the same.
 Control is transferred over time and revenue is recognised over time by reference to the progress towards
 complete satisfaction of the relevant performance obligation if one of the following criteria is met:
- the customer simultaneously receives and consumes the benefits provided by the Group’s performance
+(cid:129) the customer simultaneously receives and consumes the benefits provided by the Group’s performance
 as the Group performs;
- theGroup’sperformancecreatesorenhancesanassetthatthecustomercontrolsastheGroupperforms;
+(cid:129) theGroup’sperformancecreatesorenhancesanassetthatthecustomercontrolsastheGroupperforms;
 or
- the Group’s performance does not create an asset with an alternative use to the Group and the Group
+(cid:129) the Group’s performance does not create an asset with an alternative use to the Group and the Group
 has an enforceable right to payment for performance completed to date.
 Otherwise,revenueisrecognisedatapointintimewhenthecustomerobtainscontrolofthedistinctgoodor
 service.
@@ -23949,8 +23949,8 @@ The Group recognises right-of-use assets at the commencement date of the lease (
 asset is available for use). Right-of-use assets are measured at cost, less any accumulated depreciation and
 impairment losses, and adjusted for any remeasurement of lease liabilities.
 The cost of right-of-use assets includes:
- the amount of the initial measurement of the lease liability; and
- any lease payments made at or before the commencement date, less any lease incentives received.
+(cid:129) the amount of the initial measurement of the lease liability; and
+(cid:129) any lease payments made at or before the commencement date, less any lease incentives received.
 Right-of-useassetsaredepreciatedonastraight-linebasisovertheshorterofitsestimatedusefullifeandthe
 lease term.
 The Group presents right-of-use assets as a separate line item on the consolidated statements of financial
@@ -24151,9 +24151,9 @@ net carrying amount on initial recognition.
 Financial assets
 Classification and subsequent measurement of financial assets
 Financial assets that meet the following conditions are subsequently measured at amortised cost:
- thefinancialassetisheldwithinabusinessmodelwhoseobjectiveistocollectcontractualcashflows;
+(cid:129) thefinancialassetisheldwithinabusinessmodelwhoseobjectiveistocollectcontractualcashflows;
 and
- thecontractualtermsgiveriseonspecifieddatestocashflowsthataresolelypaymentsofprincipaland
+(cid:129) thecontractualtermsgiveriseonspecifieddatestocashflowsthataresolelypaymentsofprincipaland
 interest on the principal amount outstanding.
 Amortised cost and interest income
 Interest income is recognised using the effective interest method for financial assets measured
@@ -24194,14 +24194,14 @@ theGroupconsidersbothquantitativeandqualitativeinformationthatisreasonableandsup
 historical experience and forward-looking information that is available without undue cost or effort.
 In particular, the following information is taken into account when assessing whether credit risk has
 increased significantly:
-
+(cid:129) anactualorexpectedsignificantdeteriorationinthefinancialinstrument’sexternal(ifavailable)
 or internal credit rating;
- significantdeteriorationinexternalmarketindicatorsofcreditrisk,e.g.asignificantincreasein
+(cid:129) significantdeteriorationinexternalmarketindicatorsofcreditrisk,e.g.asignificantincreasein
 the credit spread, the credit default swap prices for the debtor;
- existing or forecast adverse changes in business, financial or economic conditions that are
+(cid:129) existing or forecast adverse changes in business, financial or economic conditions that are
 expected to cause a significant decrease in the debtor’s ability to meet its debt obligations;
- an actual or expected significant deterioration in the operating results of the debtor;
- an actual or expected significant adverse change in the regulatory, economic, or technological
+(cid:129) an actual or expected significant deterioration in the operating results of the debtor;
+(cid:129) an actual or expected significant adverse change in the regulatory, economic, or technological
 environmentofthedebtorthatresultsinasignificantdecreaseinthedebtor’sabilitytomeetits
 debt obligations.
 Irrespective of the outcome of the above assessment, the Group presumes that the credit risk has
@@ -24259,10 +24259,10 @@ presentvalueoftheexpectedpaymentstoreimbursetheholderforacreditlossthatitincursl
 that the Group expects to receive from the holder, the debtor or any other party.
 Where ECL is measured on a collective basis or cater for cases where evidence at the individual
 instrument level may not yet be available, the financial instruments are grouped on the following basis:
- Nature of financial instruments;
- Past-due status;
- Nature, size and industry of debtors; and
- External credit ratings where available.
+(cid:129) Nature of financial instruments;
+(cid:129) Past-due status;
+(cid:129) Nature, size and industry of debtors; and
+(cid:129) External credit ratings where available.
 The grouping is regularly reviewed by management to ensure the constituents of each group continue
 to share similar credit risk characteristics.
 – I-26 –
@@ -24298,8 +24298,8 @@ Afinancial guarantee contract is a contract that requires the issuer to make spe
 the holder for a loss it incurs because a specified debtor fails to make payments when due in accordance with the
 terms of a debt instrument. Financial guarantee contract liabilities are measured initially at their fair values. It is
 subsequently measured at the higher of:
- the amount of the loss allowance determined in accordance with HKFRS 9; and
- the amount initially recognised less, where appropriate, cumulative amortisation recognised over the
+(cid:129) the amount of the loss allowance determined in accordance with HKFRS 9; and
+(cid:129) the amount initially recognised less, where appropriate, cumulative amortisation recognised over the
 guarantee period.
 Derecognition of financial liabilities
 The Group derecognises financial liabilities when, and only when, the Group’s obligations are discharged,
@@ -26820,8 +26820,8 @@ involves performing procedures to assess whether the applicable criteria used by
 in the compilation of the unaudited pro forma financial information provide a reasonable basis
 for presenting the significant effects directly attributable to the event or transaction, and to
 obtain sufficient appropriate evidence about whether:
- the related pro forma adjustments give appropriate effect to those criteria; and
- the unaudited pro forma financial information reflects the proper application of
+(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
+(cid:129) the unaudited pro forma financial information reflects the proper application of
 those adjustments to the unadjusted financial information.
 The procedures selected depend on the reporting accountants’judgment, having regard to
 the reporting accountants’ understanding of the nature of the Group, the event or transaction

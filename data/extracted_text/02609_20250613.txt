@@ -1692,7 +1692,7 @@ local competent medical insurance department to adopt DRG or DIP Model. DRG and 
 Models promote standardized management, diagnostic and treatment process, and encourage
 medical institutions to conduct more efficient cost control and improve hospital operational
 efficiency.
- The DRG Model is a case combination classification scheme, which classifies
+(cid:129) The DRG Model is a case combination classification scheme, which classifies
 patients into different diagnostic groups based on the factors such as age, disease
 diagnosis, comorbidities, complications, treatment modalities, disease severity and
 resource consumption levels. Under the DRG Model, the insurance institution pays
@@ -1702,7 +1702,7 @@ enters.
 
 === PAGE 20 ===
 SUMMARY
- The DIPModel refers to a management system, which classifies medical record data
+(cid:129) The DIPModel refers to a management system, which classifies medical record data
 based on the common characteristics of disease diagnosis and treatment methods,
 and calculates points based on the total annual medical insurance payment, the
 portion of medical insurance payment and the total score of cases in medical
@@ -1749,30 +1749,30 @@ SUMMARY
 OUR COMPETITIVE STRENGTHS
 We believe that the following competitive strengths help differentiate us from our
 competitors:
- An oncology healthcare group in the PRC situated in a favorable position in the
+(cid:129) An oncology healthcare group in the PRC situated in a favorable position in the
 industry with strategic layout in full-cycle oncology healthcare services and the
 ability to seize the enormous gap in the market demand.
- Further fostering the market position and enhancing the market share with the aid of
+(cid:129) Further fostering the market position and enhancing the market share with the aid of
 our unique strengths in the field of screening and early detection of cancer business,
 which differentiate us from our competitors.
- Support from high-quality teams of medical professionals and medical experts as
+(cid:129) Support from high-quality teams of medical professionals and medical experts as
 well as medical resources.
- Standardized expansion decision-making mechanism and rich experience in mergers
+(cid:129) Standardized expansion decision-making mechanism and rich experience in mergers
 and acquisitions support our continuous replication of success and help us seize the
 enormous growth opportunities.
- Strong integration capability and standardized management mode at our Group level
+(cid:129) Strong integration capability and standardized management mode at our Group level
 combined with the refined management measures with the feature of “making
 appropriate decisions in light of the hospital’s situation” (因院制宜) support our
 overall business development and enhance the treatment effect and service quality.
- Visionary, experienced and professional management team.
+(cid:129) Visionary, experienced and professional management team.
 OUR STRATEGIES
 We plan to implement the following strategies:
- Further strengthen our full-cycle oncology healthcare services.
- Strengthen our market leading position by expanding our hospital network to
+(cid:129) Further strengthen our full-cycle oncology healthcare services.
+(cid:129) Strengthen our market leading position by expanding our hospital network to
 address the unmet market demand.
- Continue to enhance intelligentization and digitization of our information
+(cid:129) Continue to enhance intelligentization and digitization of our information
 technology infrastructure to improve our operation and management efficiency.
- Strengthen our innovation and research capabilities in medical domain, promote the
+(cid:129) Strengthen our innovation and research capabilities in medical domain, promote the
 transformation of cutting-edge results in the field of oncology and improve our
 comprehensive competitiveness.
 – 12 –
@@ -1923,12 +1923,12 @@ Our business faces risks including those set out in “Risk Factors” in this p
 As different investors may have different interpretations and criteria when determining the
 significance of a risk, you should read the “Risk Factors” section in its entirety before you
 decide to invest in our Offer Shares. Some of the major risks that we face include:
- If we are unable to successfully manage our growth, our business and prospects may
+(cid:129) If we are unable to successfully manage our growth, our business and prospects may
 be affected.
- Our In-network Hospitals face fierce competition in the markets where they operate,
+(cid:129) Our In-network Hospitals face fierce competition in the markets where they operate,
 and if they do not compete successfully against new or existing competitors, our
 business, financial condition and results of operations may be affected.
- Our In-network Hospitals derive a certain portion of revenue by providing
+(cid:129) Our In-network Hospitals derive a certain portion of revenue by providing
 healthcare services to patients with public medical insurance coverage; our
 In-network Hospitals may be subject to the adjustment of price cap for the average
 spending per inpatient/outpatient visit stipulated in the regional public medical
@@ -1938,10 +1938,10 @@ insurance programs could affect our results of operations.
 
 === PAGE 26 ===
 SUMMARY
- If our In-network Hospitals are unable to recruit, train and retain sufficient qualified
+(cid:129) If our In-network Hospitals are unable to recruit, train and retain sufficient qualified
 physicians and other kinds of medical professionals, our business and results of
 operations could be affected.
- We may be unable to identify, capture or execute expansion opportunities for new
+(cid:129) We may be unable to identify, capture or execute expansion opportunities for new
 hospitals, and acquired businesses may have unknown or contingent liabilities,
 which may affect our business, results of operations, financial condition and
 prospects.
@@ -3413,26 +3413,26 @@ undue reliance on any of these forward-looking statements. Important factors tha
 actual results to differ materially from those in the forward-looking statements include
 regional, national or global political, economic, business, competitive, market and regulatory
 conditions and the following:
- our business prospects;
- our business strategies and plans to achieve these strategies;
- future developments, trends and conditions in and competitive environment for the
+(cid:129) our business prospects;
+(cid:129) our business strategies and plans to achieve these strategies;
+(cid:129) future developments, trends and conditions in and competitive environment for the
 industries and markets in which we operate;
- general economic, political and business conditions in locations where we operate;
- our financial condition and performance;
- our capital expenditure plans;
- our dividend policy;
- changes to the regulatory environment, policies, operating conditions of and general
+(cid:129) general economic, political and business conditions in locations where we operate;
+(cid:129) our financial condition and performance;
+(cid:129) our capital expenditure plans;
+(cid:129) our dividend policy;
+(cid:129) changes to the regulatory environment, policies, operating conditions of and general
 outlook in the industries and markets in which we operate;
 – 56 –
 
 === PAGE 66 ===
 FORWARD-LOOKING STATEMENTS
- our expectations with respect to our ability to acquire and maintain regulatory
+(cid:129) our expectations with respect to our ability to acquire and maintain regulatory
 licenses or permits;
- the amount and nature of, and potential for, future development of our business;
- the actions of and developments affecting our competitors;
- the actions of and developments affecting our major customers and suppliers; and
- certain statement in the sections headed “Risk Factors,” “Industry Overview,”
+(cid:129) the amount and nature of, and potential for, future development of our business;
+(cid:129) the actions of and developments affecting our competitors;
+(cid:129) the actions of and developments affecting our major customers and suppliers; and
+(cid:129) certain statement in the sections headed “Risk Factors,” “Industry Overview,”
 “Regulatory Overview,” “Business,” “Financial Information,” “Relationship with
 the Controlling Shareholders” and “Future Plans and Use of Proceeds” with respect
 to trends in interest rates, foreign exchange rates, prices, volumes, operations,
@@ -3465,21 +3465,21 @@ We will continue to encounter challenges in implementing our managerial, operati
 financial strategies to keep up with our growth and remain competitive in our industry. Please
 see “Business – Our Strategies” and “Future Plans and Use of Proceeds” in this prospectus for
 further details. The major challenges in managing our business growth include, among others:
- effectively managing our hospital network expansion;
- effectively managing the daily operations of our business;
- controlling costs in a competitive environment;
- promoting and maintaining our brand awareness;
- retaining existing customers and/or patients and attracting new customers and/or
+(cid:129) effectively managing our hospital network expansion;
+(cid:129) effectively managing the daily operations of our business;
+(cid:129) controlling costs in a competitive environment;
+(cid:129) promoting and maintaining our brand awareness;
+(cid:129) retaining existing customers and/or patients and attracting new customers and/or
 patients;
- effectively managing our supply chain and ensuring our third-party suppliers
+(cid:129) effectively managing our supply chain and ensuring our third-party suppliers
 continue to meet our quality and other standards and satisfy our future operations’
 needs;
- maintaining and upgrading our technology systems and data analytical capabilities
+(cid:129) maintaining and upgrading our technology systems and data analytical capabilities
 in a cost-effective manner;
- attracting, training and retaining a growing workforce to support our operations;
- implementing a variety of new and upgraded internal systems and procedures as our
+(cid:129) attracting, training and retaining a growing workforce to support our operations;
+(cid:129) implementing a variety of new and upgraded internal systems and procedures as our
 business continues to grow; and
- ensuring full compliance with applicable laws and regulations.
+(cid:129) ensuring full compliance with applicable laws and regulations.
 – 58 –
 
 === PAGE 68 ===
@@ -3962,18 +3962,18 @@ of risks, which may have an effect on our business, financial condition and resu
 operations.
 We are subject to certain risks in our business for supply of pharmaceuticals, medical
 equipment and consumables, including:
- inability to successfully execute effective marketing and promotional programs
+(cid:129) inability to successfully execute effective marketing and promotional programs
 necessary to maintain and increase the awareness of our brands, products and
 services;
- failure to implement effective pricing and other strategies in response to market
+(cid:129) failure to implement effective pricing and other strategies in response to market
 competition;
- inability to respond to changes in consumer demand and preference in a timely
+(cid:129) inability to respond to changes in consumer demand and preference in a timely
 manner;
- inability to stock or timely obtain an adequate supply of pharmaceuticals, medical
+(cid:129) inability to stock or timely obtain an adequate supply of pharmaceuticals, medical
 equipment and consumables that clients and/or customers desire;
- inability to obtain and maintain regulatory or governmental permits, approvals and
+(cid:129) inability to obtain and maintain regulatory or governmental permits, approvals and
 clearances, or to pass the PRC Government inspections or audits; and
- the risk of, and resulting liability from, any contamination, injury or other impact
+(cid:129) the risk of, and resulting liability from, any contamination, injury or other impact
 caused by any use, misuse or misdiagnosis involving products sold by us through
 way of wholesales, retail sales or in-store medical diagnosis services.
 – 70 –
@@ -4393,11 +4393,11 @@ Supply of Pharmaceuticals, Medical Equipment and Consumables” in this prospect
 further details. We cannot guarantee that we will be able to effectively manage our wholesale
 customers. If our wholesale customers take one or more of the following actions, our business
 prospects, results of operations and reputation may be adversely affected:
- failing to adequately promote our products;
- failing to maintain the requisite licenses, permits or approvals, or failure to comply
+(cid:129) failing to adequately promote our products;
+(cid:129) failing to maintain the requisite licenses, permits or approvals, or failure to comply
 with applicable regulatory requirements when promoting and selling our products;
 or
- violating anti-corruption, anti-bribery, competition or other laws and regulations.
+(cid:129) violating anti-corruption, anti-bribery, competition or other laws and regulations.
 Any disputes between us and our wholesale customers, complaints by our wholesale
 customers, violation or alleged violation by our wholesale customers of the sales agreements
 and/or orders, our policies or any applicable laws and regulations could result in the erosion
@@ -6145,16 +6145,16 @@ participants.
 Frost & Sullivan also adopted the following primary assumptions while making
 projections on the macroeconomic environment, the overall healthcare service market, the
 overall oncology healthcare service market, and various segment markets in China:
- China’s economy is expected to grow at a steady rate with the support of favorable
+(cid:129) China’s economy is expected to grow at a steady rate with the support of favorable
 government policies, among other factors;
- China’s proportion of elderly population in its total population continues to grow;
- no material changes in government policies in relation to the oncology healthcare
+(cid:129) China’s proportion of elderly population in its total population continues to grow;
+(cid:129) no material changes in government policies in relation to the oncology healthcare
 service market in China; and
 – 125 –
 
 === PAGE 135 ===
 INDUSTRY OVERVIEW
- in addition to macroeconomic factors, certain industry drivers, including but not
+(cid:129) in addition to macroeconomic factors, certain industry drivers, including but not
 limited to the increasing healthcare expenditure in disposable income, increasing
 awarenessofhealth,andincreasingprevalenceofchronicdisease,arelikelytodrive
 demand in the forecast period.
@@ -6431,7 +6431,7 @@ ONCOLOGY HEALTHCARE SERVICE MARKET IN CHINA
 Features of the Oncology Healthcare Service Industry in China
 The main features of the oncology healthcare service industry in China include the
 following:
- Low rate of screening and early detection of cancer. In China, the number of new
+(cid:129) Low rate of screening and early detection of cancer. In China, the number of new
 oncology patients keeps increasing. The therapeutic efficacy of cancer is related to
 the time of diagnosis. If tumors can be detected early, monitored and treated in time,
 the five-year survival rate will be greatly improved. At present, the five-year
@@ -6439,7 +6439,7 @@ survival rate in China is only about 40.5%, which is much lower than that of the
 United States, which is around 67.1%, mainly resulting from the insufficient
 awareness of prevention for cancer and low rate of screening and early detection of
 cancer.
- Shortage and uneven distribution of cancer medical resources. China’s cancer
+(cid:129) Shortage and uneven distribution of cancer medical resources. China’s cancer
 medical resources are unevenly distributed, where high-quality medical resources
 are concentrated in the first-tier cities, and medical resources in the second-, the
 third-tierandotherlow-tiercitiesarerelativelyscarce.Forexample,thenumberand
@@ -6452,7 +6452,7 @@ lower than that of the United States.
 
 === PAGE 142 ===
 INDUSTRY OVERVIEW
- Public hospitals place more attention on treatment, but not screening and
+(cid:129) Public hospitals place more attention on treatment, but not screening and
 rehabilitation. Public hospitals are generally undertaking more oncology healthcare
 service needs in China. However, these hospitals mainly focus on oncology
 treatment, but usually allocate less medical resources into the cancer screening and
@@ -6461,7 +6461,7 @@ are diagnosed at later stage of tumor and miss the best treatment window. On the
 other hand, the physical and mental health of the patients after oncology treatment,
 which affects the quality of life of patients, are also under shortage of professional
 staff and facilities.
- Long treatment cycle and heavy burden. Due to the lack of screening and early
+(cid:129) Long treatment cycle and heavy burden. Due to the lack of screening and early
 detection of cancer, many oncology patients are diagnosed at late stage of cancer,
 the treatments are usually more complicated and requires longer hospital stay.
 Besides, due to the unevenly distributed medical resources, patients usually need to
@@ -6510,7 +6510,7 @@ INDUSTRY OVERVIEW
 Entry Barriers of the Oncology Healthcare Service Market
 Those who wish to enter the oncology healthcare service market face the following five
 major entry barriers:
- Abundant capital. New entrants who wish to enter oncology healthcare service
+(cid:129) Abundant capital. New entrants who wish to enter oncology healthcare service
 industry need to have sufficient capital. Tumor detection and treatment usually
 require high-end and sophisticated equipment, which cost millions or even tens of
 millions. New entrants need to invest a lot to buy diagnostic and therapeutic
@@ -6521,7 +6521,7 @@ order to construct their academic research platform, train their personnel and b
 up marketing channels. Therefore, new entrants have to prepare an abundant amount
 of capital from the very beginning to support the operations of their oncology
 healthcare service businesses.
- Seasoned talents. The oncology healthcare service professionals in China are
+(cid:129) Seasoned talents. The oncology healthcare service professionals in China are
 currently scarce, and talents are still concentrated in public hospitals out of
 consideration of factors, such as resources and career development. In addition,
 since oncology treatment often requires multidisciplinary experts, medical
@@ -6530,13 +6530,13 @@ the oncology treatment for their patients. Oncology medical institutions need to
 undergo long research periods and clinical practice in order to cultivate medical
 teams of high competence. Therefore, new entrants will be confronted with
 difficulties in recruiting and retaining excellent talents.
- Brand reputation and customer acquisition. Cancer is a severe disease, which can
+(cid:129) Brand reputation and customer acquisition. Cancer is a severe disease, which can
 cause death, and oncology patients are therefore usually very cautious when
 choosing the hospitals to go to, with the reputation of doctors and hospitals being
 thekeyfactorconsidered.Italsotakesalongtimetobuildupahospital’sreputation
 before that hospital can have a stable flow of patients. It can be difficult for new
 entrants to establish a good brand reputation in a short period of time.
- Licenses for conducting radiotherapy. Radiotherapy treatments for cancer require
+(cid:129) Licenses for conducting radiotherapy. Radiotherapy treatments for cancer require
 a high standard of hospital operation environment due to safety and compliance
 concerns. The Provisions on the Administration of Radiological Diagnosis and
 Treatment (《放射診療管理規定》), which was issued by the National Health and
@@ -6555,7 +6555,7 @@ Large-scale Medical Equipment (for Trial Implementation). It indicates that the
 quota of large-scale medical equipment in China is allocated based on regional
 demand, such as linear accelerator, which makes it more difficult to apply for a
 radiotherapy equipment license.
- Professional management. Hospital management can be challenging in many
+(cid:129) Professional management. Hospital management can be challenging in many
 aspects, which include but not limited to financial planning, customer acquisition,
 supply of medical devices and medical professional team-building. Therefore, a
 management team with rich relative experiences, proven operating system, efficient
@@ -6569,14 +6569,14 @@ generally rely on their ability to provide personalized and comprehensive health
 to compete with public hospitals.
 Advantages of Private Oncology Specialist Hospitals
 Private oncology specialist hospitals enjoy the following four major advantages:
- Flexiblemanagementsystemandservice.Privatehospitalsareoriginallydeveloped
+(cid:129) Flexiblemanagementsystemandservice.Privatehospitalsareoriginallydeveloped
 in the form of enterprises and are generally managed like an enterprise, so they can
 more easily adapt to market developments and can make timely adjustments to their
 service contents and prices according to the actual needs of the patients and changes
 in the healthcare service market. Private oncology specialist hospitals usually have
 a higher doctor-patient ratio, and they can improve the patient treatment experience
 by offering faster access to medical resources and high-end personalized care.
- Alternative pharmaceuticals and equipment. Public hospitals tend to provide
+(cid:129) Alternative pharmaceuticals and equipment. Public hospitals tend to provide
 pharmaceuticals produced by manufacturers, which won the bidding process, and
 doctors in public hospitals have to prescribe those pharmaceuticals in order to meet
 the quantity commitment. However, patients in private oncology specialist hospitals
@@ -6588,7 +6588,7 @@ diagnosis and treatment equipment, such as proton therapy.
 
 === PAGE 145 ===
 INDUSTRY OVERVIEW
- Advanced training system for radiation oncology physicists. Public hospitals focus
+(cid:129) Advanced training system for radiation oncology physicists. Public hospitals focus
 on training general practitioners through measures, such as clinical rotation and
 professional training. Private oncology specialist hospitals, which operates under a
 flexible management system, can establish a reasonable distribution system
@@ -6596,7 +6596,7 @@ according to their own conditions and the market environment. For example, some
 private oncology specialist hospitals in China have introduced advanced training
 system from top specialized hospitals from other parts of the world to train their
 professionals working in radiation oncology.
- Full-cycle oncology healthcare services. The complete full-cycle oncology
+(cid:129) Full-cycle oncology healthcare services. The complete full-cycle oncology
 healthcare services usually cover cancer screening, oncology diagnosis, oncology
 treatment and oncology rehabilitation. Traditional public hospital usually focus on
 oncology diagnosis and treatment, but lack the resources and facilities for cancer
@@ -6609,7 +6609,7 @@ rehabilitation services, providing tailored on-stop service for oncology patient
 Growth Drivers
 The private oncology specialist hospitals in private oncology healthcare service market in
 China could potentially benefit from the following five major growth drivers:
- Increasing oncology patients and huge market demand. It is expected that the
+(cid:129) Increasing oncology patients and huge market demand. It is expected that the
 accelerating ageing trend, prolonged life expectancy and prevalence of chronic
 diseases will further increase the demand for healthcare services in China. The
 number of new incident cases of cancers increased from 4.3 million in 2018 to 4.9
@@ -6620,7 +6620,7 @@ of beds has also been maintained at an overload level for a long time. The
 continuous release of oncology healthcare services demands will drive more social
 funds and medical resources into the market, which will enhance the development
 of the oncology healthcare service market.
- Uneven distribution of oncology medical resources. China’s oncology healthcare
+(cid:129) Uneven distribution of oncology medical resources. China’s oncology healthcare
 service market is characterized by a shortage of medical resources and uneven
 geographical distribution. China’s current oncology medical resources are mainly
 concentrated in the first- and the second-tier cities, while the medical resources in
@@ -6636,7 +6636,7 @@ patients. As oncology healthcare service market continues getting investments fr
 social capital, the non-first-tier cities markets will be able to receive more funds and
 resources to meet the rising healthcare services needs, leading to a rapid
 development in the oncology healthcare service market.
- Continuous advancement of technology. With the development of science and
+(cid:129) Continuous advancement of technology. With the development of science and
 technology, many new oncology treatment technologies have emerged. Such
 developments have led to creation of more individualized and precise treatment
 plans, which could be tailormade in accordance with the characteristics of the
@@ -6646,7 +6646,7 @@ medical imaging technology to achieve a more precise blow to the tumor and to
 better protect the normal tissues of the human body while killing the tumor cells.
 The continuous advancement of technology will promote a rapid development of
 China’s oncology healthcare service market.
- Increasing income level of residents and expanding coverage of medical
+(cid:129) Increasing income level of residents and expanding coverage of medical
 insurance. According to the National Bureau of Statistics of China, China’s per
 capita disposable income increased from RMB28,228 in 2018 to RMB39,218 in
 2023 at a CAGR of 6.8%. With an improving income level, more people are able to
@@ -6656,7 +6656,7 @@ insurancehavebeenfurtherenlarged.Commercialinsurancecompanieshavestarted
 to pay more attention to critical diseases, such as cancer, and have launched vast
 amount of new insurance types. The expanding coverage of medical insurance will
 further increase the affordability of patients in China.
- Incentive policies made by the PRC Government. The PRC Government has
+(cid:129) Incentive policies made by the PRC Government. The PRC Government has
 launched a good number of policies since 2009, which encourage social forces to
 focus on specialized healthcare services, and such policies have created a batch of
 healthcare service institutions with a high-quality brand in the specialized fields,
@@ -6692,7 +6692,7 @@ expected to face a fast growth.
 Future Trends
 The private oncology specialist hospitals in private oncology healthcare service market in
 China could potentially face the following five major future trends:
- Private hospitals playing a more important role. Currently, public hospitals still
+(cid:129) Private hospitals playing a more important role. Currently, public hospitals still
 dominate the oncology healthcare service market, but they are often overcrowded
 and have difficulties meeting existing demands due to the growing number of
 patients. Private hospitals enjoy the advantage of having a flexible management
@@ -6700,7 +6700,7 @@ mechanism and a higher quality of service. With the incentive policies implement
 by the PRC Government and sustained improvement in the level of healthcare
 services, it is expected that an increasing number of patients will turn to private
 institutions for diagnosis and treatment.
- Popularity of the multidisciplinary treatment model. Oncology treatment can be
+(cid:129) Popularity of the multidisciplinary treatment model. Oncology treatment can be
 rather complex, and unidisciplinary treatment therapy simply cannot meet the
 treatment needs of complicated oncology patients. However, the multidisciplinary
 treatmentmodel,whichconsistsofafixedworkinggroupcomposedofdoctorsfrom
@@ -6710,7 +6710,7 @@ In light of the fact that the PRC Government will implement more policies catere
 for multidisciplinary treatment and that hospitals will perform multidisciplinary
 treatment in a more advanced and mature fashion, it is expected that the
 multidisciplinary treatment will become more popular in the future.
- Full-cycle management of cancerous disease. Full-cycle management can
+(cid:129) Full-cycle management of cancerous disease. Full-cycle management can
 maximize the benefits of the treatment and overall health management for patients,
 whichwill,inturn,attractfurtherattentionandimplementation.Inaddition,medical
 institutions can also apply the data collected to improve the efficiency and accuracy
@@ -6719,14 +6719,14 @@ of the treatments.
 
 === PAGE 148 ===
 INDUSTRY OVERVIEW
- Patient flow generated by cancer early screening. With the increasing health
+(cid:129) Patient flow generated by cancer early screening. With the increasing health
 awareness and the development of cancer screening technology, the penetration of
 early screening service will continue to increase among high-risk and healthy
 population. It is expected that institutions, which have integrated medical resources
 as well as cancer diagnosis-level screening capabilities would be able to generate
 steady and continuous flow of patients through the provision of cancer screening
 service.
- Constantly expanding competitive advantage. Oncology-related disciplines usually
+(cid:129) Constantly expanding competitive advantage. Oncology-related disciplines usually
 have strong profitability and have therefore attracted attention from social capital.
 With the current policy adjustment of the PRC Government, the policy of private
 oncology institutions in the allocation of large-scale medical instruments in relation
@@ -6892,17 +6892,17 @@ City, Hunan Province.
 Source: Frost & Sullivan analysis
 AN OVERVIEW OF MAIN TREATMENT METHODS FOR CANCER
 There are six major treatment methods for cancer, which include:
- Surgery: a procedure in which a surgeon removes cancer from a patient’s body;
- Minimally invasive interventional therapy: an oncology treatment that
+(cid:129) Surgery: a procedure in which a surgeon removes cancer from a patient’s body;
+(cid:129) Minimally invasive interventional therapy: an oncology treatment that
 encompasses surgical techniques that limit the size of incisions needed, thereby
 reducing wound healing time, associated pain and risk of infection;
- Radiotherapy: an oncology treatment that uses high doses of radiation to kill cancer
+(cid:129) Radiotherapy: an oncology treatment that uses high doses of radiation to kill cancer
 cells and shrink tumors;
- Chemotherapy: a category of oncology treatment that uses one or more anti-cancer
+(cid:129) Chemotherapy: a category of oncology treatment that uses one or more anti-cancer
 cytotoxic agents;
- Targeted therapy: an oncology treatment that targets the changes in cancer cells that
+(cid:129) Targeted therapy: an oncology treatment that targets the changes in cancer cells that
 help them grow, divide, and spread; and
- Immunotherapy: an oncology treatment applies biological agent to induce the
+(cid:129) Immunotherapy: an oncology treatment applies biological agent to induce the
 patients’ own immune system to fight cancer.
 ONCOLOGY REHABILITATION SERVICES OF PRIVATE HEALTHCARE
 INSTITUTIONS IN CHINA
@@ -8802,19 +8802,19 @@ OUR MILESTONES
 The following table sets out our major milestones in the development of our business to
 date:
 Year Event
-2018  We completed the acquisition of Western Beijing Cancer Hospital,
+2018 (cid:129) We completed the acquisition of Western Beijing Cancer Hospital,
 a for-profit Class-II hospital specialized in oncology and our first
 principal operating hospital.
-2019  We completed the acquisition of Tianjin Nankai Jixing Hospital, a
+2019 (cid:129) We completed the acquisition of Tianjin Nankai Jixing Hospital, a
 for-profit Class-I comprehensive hospital.
-2019  We established the Screening and Early Detection of Cancer and
+2019 (cid:129) We established the Screening and Early Detection of Cancer and
 Prevention Center in Western Beijing Cancer Hospital, an early
 cancer screening base of Beijing Anti-Cancer Association in
 Beijing.
-2019  We entered into the investment cooperation agreement and
+2019 (cid:129) We entered into the investment cooperation agreement and
 acquired the predecessor of Taiyuan Peace Hospital (being a
 not-for-profit hospital at the material time).
-2020  We completed the acquisition ofAnhui Shoukang Investment, and
+2020 (cid:129) We completed the acquisition ofAnhui Shoukang Investment, and
 started to provide hospital management service to Huangshan
 Shoukang Hospital.
 – 188 –
@@ -8822,25 +8822,25 @@ Shoukang Hospital.
 === PAGE 198 ===
 HISTORY, REORGANIZATION AND CORPORATE STRUCTURE
 Year Event
-2020  We obtained the approval from Beijing Medical Management Data
+2020 (cid:129) We obtained the approval from Beijing Medical Management Data
 Quality Control and Improvement Center* (北京市醫療管理數據
 質量控制和改進中心)forconducting“InternetDiagnosis”(互聯網
 診療) at Western Beijing Cancer Hospital.
-2020  We obtained the license for the operation of Tianjin Shishi
+2020 (cid:129) We obtained the license for the operation of Tianjin Shishi
 Hospital, a for-profit Class-II comprehensive hospital and the first
 for-profit hospital that we built on our own.
-2021  We completed the acquisition of Hefei Bayway Hospital, a
+2021 (cid:129) We completed the acquisition of Hefei Bayway Hospital, a
 for-profit Class-II comprehensive hospital.
-2021  Our Company was incorporated in the Cayman Islands.
-2022  We obtained the approval for operating “Internet Hospital” (互聯
+2021 (cid:129) Our Company was incorporated in the Cayman Islands.
+2022 (cid:129) We obtained the approval for operating “Internet Hospital” (互聯
 網醫院) through Tianjin Nankai Jixing Hospital.
-2022  Taiyuan Peace Hospital was changed to a for-profit Class-IIA
+2022 (cid:129) Taiyuan Peace Hospital was changed to a for-profit Class-IIA
 comprehensive hospital.
-2022  We completed the acquisition of Wuzhi Jimin Hospital, a then
+2022 (cid:129) We completed the acquisition of Wuzhi Jimin Hospital, a then
 for-profit Class-IIA comprehensive hospital.
-2023  Taiyuan Peace Hospital became a for-profit Class-III rehabilitation
+2023 (cid:129) Taiyuan Peace Hospital became a for-profit Class-III rehabilitation
 specialist hospital.
-2024  Wuzhi Jimin Hospital has obtained the approval of the local PRC
+2024 (cid:129) Wuzhi Jimin Hospital has obtained the approval of the local PRC
 Government for the upgrade to Class-III comprehensive hospital
 from Class-IIA comprehensive hospital.
 Please see “Business – Major Awards and Recognitions” in this prospectus for further
@@ -12030,15 +12030,15 @@ Province, Anhui Province and Henan Province with strategic focus on provision of
 oncology healthcare services, through our direct ownership in the equity interest in six private
 for-profit hospitals and management over two private not-for-profit hospitals. As of December
 31,2023,wehaveachievedthefollowingaccomplishments,andaccordingtoFrost&Sullivan:
- we ranked the fourth among all private oncology healthcare groups in the PRC in
+(cid:129) we ranked the fourth among all private oncology healthcare groups in the PRC in
 2023 with corresponding market share of 0.6% in terms of oncology revenue of
 self-owned hospitals for the year ended December 31, 2023;
- we ranked the first among all private oncology healthcare groups in the PRC in
+(cid:129) we ranked the first among all private oncology healthcare groups in the PRC in
 terms of the number of screening and early detection of cancer centers as of
 December 31, 2023. All our In-network Hospitals had established their screening
 and early detection of cancer centers save for Taiyuan Wanbailin District Peace
 Community Health Service Center at the end of 2023; and
- we ranked the first among all private oncology healthcare groups in the PRC in
+(cid:129) we ranked the first among all private oncology healthcare groups in the PRC in
 terms of the number of gastrointestinal endoscopy cases for the year ended
 December 31, 2023. The total number of gastrointestinal endoscopy cases in our
 In-network Hospitals was more than 30,000 for the year ended December 31, 2023.
@@ -12210,7 +12210,7 @@ plans
 In-network Hospitals
 Three-tier cancer
 Re I f n H e - r o n r s e a p t l w i t t a o o l r s o k ur p C r e o n cu tr r a e l m iz e e n d t H c e o a n l s t o h r c t a ia re tr p e r a e t v m e e n n ti t o s n y s a t n e d m
- most of our In-network Hospitals have joined
+(cid:129) Network effects mainly refer to: (i) most of our In-network Hospitals have joined
 the remote collaborative platform for cancer prevention and treatment* (腫瘤防治遠
 程協同平台) of Beijing Cancer Hospital (北京大學腫瘤醫院). Remote consultations
 are carried out among our In-network Hospitals and the PRC’s leading medical
@@ -12259,7 +12259,7 @@ respectively. For more details of our collaboration with the renowned medical
 institutions, please see “– Our In-network Medical Resources – Our Collaboration
 with Beijing Cancer Hospital” and “– Our In-network Medical Resources - Our
 Collaboration with Other Medical Institutions” in this section; and
-
+(cid:129) Synergies mainly refer to: through measures which include but not limited to (i)
 formulating the discipline development plans for our In-network Hospitals with the
 guidance and assistance from hospitals in our network with corresponding
 disciplinary strengths; (ii) planning to arrange experts in various disciplines to
@@ -12291,7 +12291,7 @@ healthcare services, namely, (i) strengthening the establishment of oncology-rel
 lines and platforms as well as (ii) establishing the oncology disciplinary system in order to
 further improve and enhance our full-cycle oncology healthcare services and to strengthen our
 market position.
- Establishment and development of oncology-related business lines and platforms:
+(cid:129) Establishment and development of oncology-related business lines and platforms:
 mainly (i) our platform of screening and early detection of cancer provides clients
 and/or patients a “one-stop” medical green passage (“一站式”綠色就醫通道) by
 relying on the scientific, standard and systematic cancer risk assessments, which
@@ -12316,7 +12316,7 @@ healthcare related needs of the clients and/or patients as well as achieve syner
 online and offline development, which have laid a solid foundation for our Group’s
 sustainable development in the future and our ability to seize the enormous gap in
 the market demand.
- our Group
+(cid:129) Establishment and management of the oncology disciplinary system: (i) our Group
 has strategically laid out the screening and early detection of cancer centers,
 oncology radiotherapy centers, gastrointestinal cancer precision prevention and
 treatment centers, and oncology rehabilitation medicine centers in accordance with
@@ -12846,7 +12846,7 @@ the key members of the existing medical and/or management teams. For details, pl
 Note 24 to “Appendix I – Accountants’ Report”. Save for Tianjin Shishi Hospital, we have
 successively acquired the equity or organizer interest of seven hospitals in Beijing, Tianjin,
 Anhui Province, Shanxi Province, and Henan Province from 2018 to 2022. In particular:
- the acquisition of Western Beijing Cancer Hospital fully reflects the fact that we
+(cid:129) the acquisition of Western Beijing Cancer Hospital fully reflects the fact that we
 focus on the scarce and high-quality medical resources possessed by the oncology-
 related disciplines of the target hospitals. With the help of the disciplinary strengths
 of Beijing Cancer Hospital, we are able to seize the differentiated competitive
@@ -12854,7 +12854,7 @@ advantages in the provision of full-cycle oncology healthcare services, and turn
 WesternBeijingCancerHospitalintoaflagshiphospital.Then,bymakinguseofthe
 resources covered by Western Beijing Cancer Hospital to empower our other
 In-network Hospitals, we are able to form the idea of cluster effect (集群效應);
- theacquisitionsofTianjinNankaiJixingHospital,TaiyuanPeaceHospitalandHefei
+(cid:129) theacquisitionsofTianjinNankaiJixingHospital,TaiyuanPeaceHospitalandHefei
 Bayway Hospital fully reflect the fact that we prioritize laying out in the key cities
 (such as provincial capital cities and municipalities) and rolling out development
 strategies, which differentiate ourselves from the public hospitals in those key cities
@@ -12863,7 +12863,7 @@ position. We also focus on complementing the market demand gap caused by the
 lack of layout of medical resources by the local public hospitals in the field of
 screening and early detection of cancer and oncology rehabilitation with the
 high-quality medical resources within our hospital network; and
- the acquisition of Wuzhi Jimin Hospital and the management over Huangshan
+(cid:129) the acquisition of Wuzhi Jimin Hospital and the management over Huangshan
 Shoukang Hospital, on the other hand, demonstrate that the fact that the target
 hospital’s local ranking and reputation are key factors considered by us when we
 make strategical investments in hospitals and make decisions to provide hospital
@@ -12938,7 +12938,7 @@ major statistical data in healthcare and hospital operational data of each In-ne
 Hospital at the Group level.
 Our refined management measures with the feature of “making appropriate decisions in
 light of the hospital’s situation” are mainly premised on the following unique characteristics:
- formulating major development directions, which suit the hospital’s actual situation
+(cid:129) formulating major development directions, which suit the hospital’s actual situation
 and determine collaborative development strategies for the relevant hospitals and
 our existing In-network Hospitals based on the evaluations conducted by the teams
 of experts formed and through numerous methods, which include but is not limited
@@ -12947,12 +12947,12 @@ medical experts as well as the management teams in the hospitals, in accordance
 with the hospitals’ actual situation, which include but is not limited to regional
 location, disciplinary strengths, targeted clients and/or patients, and the unique
 characteristics;
- establishing an objective and fair performance evaluation system in accordance with
+(cid:129) establishing an objective and fair performance evaluation system in accordance with
 theactualsituationofthehospitalstopromotethejointdevelopmentofmanagement
 talents and the hospitals; motivate current hospital employees and recruit talents to
 support the continuous development of each In-network Hospital through measures
 such as talent cultivation and offering incentives to talents;
- striving for an upper hand in the purchase price negotiations and strengthen the
+(cid:129) striving for an upper hand in the purchase price negotiations and strengthen the
 management of inventory loss, and carry out cost control in accordance with the
 respective needs of our In-network Hospitals with our experiences in areas, which
 include but is not limited to drug consumption, equipment procurement and
@@ -12961,7 +12961,7 @@ inventory management; and
 
 === PAGE 266 ===
 BUSINESS
- we have, with our years of hospital operational management experience, developed
+(cid:129) we have, with our years of hospital operational management experience, developed
 a cancer-specific medical management information data center. With the support of
 the aforementioned medical management information data center, we have made
 achievements, which include but is not limited to (i) extracting operational data,
@@ -12986,7 +12986,7 @@ level, which is combined with the refined management measures with the feature o
 appropriate decisions in light of the hospital’s situation”, the hospitals we acquired have been
 benefitted from the resources of our Group and managed to achieve significant enhancement
 in their operational performance and results:
- throughmethodssuchassettingupmorescreeningandearlydetectionofcancerand
+(cid:129) throughmethodssuchassettingupmorescreeningandearlydetectionofcancerand
 prevention centers and daytime wards as well as obtaining health insurance
 qualifications and establishing the radiotherapy department, after more than three
 years of refined management, Western Beijing Cancer Hospital has become our
@@ -12999,7 +12999,7 @@ RMB184.3 million in 2022 to RMB321.8 million in 2024, with a CAGR of 32.2%;
 
 === PAGE 267 ===
 BUSINESS
- with respect to Taiyuan Peace Hospital, which is established in a provincial capital,
+(cid:129) with respect to Taiyuan Peace Hospital, which is established in a provincial capital,
 our strategy is to develop it differently from the local public hospitals and to focus
 on developing the rehabilitation business. We have recruited highly experienced and
 qualified rehabilitation talents, and have launched nine new subspecialties of
@@ -13009,14 +13009,14 @@ in operation grew from 100 at the beginning of 2021 to 454 as of December 31,
 Class-III rehabilitation specialist hospital in Shanxi Province after obtaining the
 approval from the local PRC Government to be upgraded to Class-III rehabilitation
 specialist hospital from Class-IIA comprehensive hospital since March 2023;
- after the acquisition of Wuzhi Jimin Hospital, we have enhanced its capability of
+(cid:129) after the acquisition of Wuzhi Jimin Hospital, we have enhanced its capability of
 medical and healthcare related services by arranging high-quality medical
 professionals with rich experience in hospital management and strengthening the
 discipline construction. With our continuous efforts, our Wuzhi Jimin Hospital has
 becomethefirstClass-IIIcomprehensivehospitalinWuzhiCountysinceApril2024
 with the approval of the local PRC Government for the upgrade to Class-III
 comprehensive hospital from Class-IIA comprehensive hospital;
- in light of the unique characteristics that Tianjin Nankai Jixing Hospital is a Class-I
+(cid:129) in light of the unique characteristics that Tianjin Nankai Jixing Hospital is a Class-I
 comprehensive hospital, which focuses on outpatient business and only has the GFA
 of around 2,000 sq.m., on the premise of ensuring the clients’ and/or patients’
 satisfaction with our service, we have improved its operational performance mainly
@@ -13025,7 +13025,7 @@ building as well as recruiting highly experienced and qualified medical
 professionals. Its revenue derived from hospital business increased by 3.4% from
 RMB84.9millionfortheyearendedDecember31,2023toRMB87.8millionforthe
 year ended December 31, 2024;
- focus on enhancing the service quality with measures such as establishing patient
+(cid:129) focus on enhancing the service quality with measures such as establishing patient
 service centers, recruiting highly experienced and qualified medical professionals,
 andpromotingthelaunchoffreeconsultationactivitiesinsurroundingcommunities,
 even amidst the impact of the COVID-19 pandemic, the number of outpatient visits
@@ -13037,7 +13037,7 @@ CAGR of 39.6%; and
 
 === PAGE 268 ===
 BUSINESS
- with respect to Hefei Bayway Hospital, which is established in Hefei City, the
+(cid:129) with respect to Hefei Bayway Hospital, which is established in Hefei City, the
 provincial capital ofAnhui Province, we aim to develop it differently from the local
 public hospitals and focus on developing its oncology-related and rehabilitation-
 related business. After the acquisition of Hefei Bayway Hospital, we have arranged
@@ -13090,7 +13090,7 @@ medical resources. They have extensive industry and management experience and in
 understanding of market advantages and policies, and they are also equipped with reliable
 execution ability. Our professional management team has, on average, at least 20 years of
 working experience in the healthcare industry of the PRC.
-, our executive Director and senior vice president, is currently
+(cid:129) Ms. Xu Xu (徐旭), our executive Director and senior vice president, is currently
 serving as a national member of the Chinese Hospital Association International
 Medical Services Specialized Committee (中國醫院協會國際醫療服務專業委員會)
 and the vice-chairman of the Professional Committee of Screening and Early
@@ -13103,13 +13103,13 @@ years of medical operating and management experience, and was awarded the
 “Golden Screening Award – Cutting-edge Entrepreneur (金篩獎–新銳企業家)” by
 the Organizing Committee of the “ZAODXWorld Conference on Early Detection of
 Cancer (ZAODX世界腫瘤早篩大會)” in July 2022.
-, our executive Director and chairman of the Board, has
+(cid:129) Mr. Zhao Yongkai (趙永凱), our executive Director and chairman of the Board, has
 over 18 years of experience in the medical, pharmaceutical and healthcare sectors,
 andhewasformerlythevicepresidentofPKUHealthcareIndustryGroupCo.,Ltd.*
 (北大醫療產業集團有限公司) and the chairman of the board of directors of PKU
 Healthcare Corp., Ltd (北大醫藥股份有限公司) (listed on the Shenzhen Stock
 Exchange with the stock code 000788).
-, our executive Director and president, has over 24 years
+(cid:129) Dr. Chen Haoyang (陳昊陽), our executive Director and president, has over 24 years
 of work experience in the healthcare industry. He was formerly the researcher and
 vice researcher at the Fifth Medical Center of the Chinese People’s LiberationArmy
 General Hospital* (中國人民解放軍總醫院第五醫學中心) (Class-IIIA specialist
@@ -13126,7 +13126,7 @@ details, please see “Directors and Senior Management” in this prospectus.
 
 === PAGE 270 ===
 BUSINESS
-, who has approximately 25 years of working experience
+(cid:129) Dr. Du Hongwei (杜宏偉), who has approximately 25 years of working experience
 in medical management, is serving as the general manager of Wuzhi Jimin Hospital,
 is currently serving as a member of the Standing Committee of the Rehabilitation
 Affairs Working Committee* (康養工作委員會) of the Chinese Association of
@@ -13139,18 +13139,18 @@ Chinese People’s Liberation Army Joint Logistic Support Force No. 983 Hospital
 (中國人民解放軍聯勤保障部隊第九八三醫院) (Class-IIIA comprehensive hospital),
 which was formerly known as Chinese People’s Liberation Army No. 254 Hospital
 (中國人民解放軍第二五四醫院).
-, who is experienced of clinical work and has around 19 years
+(cid:129) Lu Jizhong (盧繼忠), who is experienced of clinical work and has around 19 years
 of working experience in hospital operation and management, is serving as the
 president of Taiyuan Peace Hospital, is currently a Member of the Second
 Committee of the Rehabilitation Institution Management Professional Committee*
 (康復機構管理專業委員會) of the Chinese Association of Rehabilitation Medicine
 and a Standing Member of the 6th Chinese Hospital Association Private Hospital
 Branch* (第六屆中國醫院協會民營醫院分會).
-, who has more than 13 years of working experience in medical
+(cid:129) Feng Yu (馮宇), who has more than 13 years of working experience in medical
 management, is serving as our executive Director and chief medical officer, was
 formerly the director of the medical office of the Fifth Medical Center of the
 Chinese People’s LiberationArmy General Hospital* (解放軍總醫院第五醫學中心).
- Dr. Jiang Zheng, who has more than 20 years of working experience, is serving as
+(cid:129) Dr. Jiang Zheng, who has more than 20 years of working experience, is serving as
 our assistant president. He formerly worked at the Affiliated Hospital of Academy
 of Military Medical Sciences* (軍事醫學科學院附屬醫院) (Class-IIIA
 comprehensive hospital) (formerly known as the 307th Hospital of the People’s
@@ -13187,7 +13187,7 @@ We plan to continuously strengthen our full-cycle oncology healthcare services p
 through purchasing medical equipment, introducing advanced technology and recruiting
 medical professionals to improve the quality of our services and clients’ and/or patients’
 satisfaction.
- strengthen the
+(cid:129) Screening and early detection of cancer services: we plan to (i) strengthen the
 brand building and client education of our screening and early detection of cancer
 services; (ii) upgrade our auxiliary screening and early detection of cancer system
 and case management systems; (iii) especially for the screening and diagnosis of
@@ -13197,7 +13197,7 @@ patients with more accurate risk assessment and personalized health management
 programs; and (iv) further expand our market share and strengthen our three-tier
 cancer prevention and treatment system by enabling other out-of-network medical
 institutions to engage in screening and early detection of cancer services;
- Oncology treatment services: we intend to further strengthen our oncology
+(cid:129) Oncology treatment services: we intend to further strengthen our oncology
 treatment services and enhance our oncology-related disciplines. We plan to (i)
 strengthen the construction and upgrading of oncology treatment centers led by
 treatment centers for gastrointestinal cancers in our In-network Hospitals; (ii) invest
@@ -13213,7 +13213,7 @@ treatmentprograms.Inparticular,forradiotherapybusiness,basedonoursuccessful
 experience of Western Beijing Cancer Hospital, in addition to investing in
 radiotherapy equipment, we also plan to install a software system used to build the
 platform for our whole Group to carry out radiotherapy business; and
- Oncology rehabilitation services: based on our successful experience in conducting
+(cid:129) Oncology rehabilitation services: based on our successful experience in conducting
 oncology rehabilitation services in Taiyuan Peace Hospital, we plan to further
 enhance our oncology rehabilitation services in all In-network Hospitals mainly
 through purchasing advanced equipment and introducing high-level medical
@@ -13458,7 +13458,7 @@ Continue to enhance intelligentization and digitization of our information techn
 infrastructure to improve our operation and management efficiency
 We plan to upgrade our information systems network in order to enhance the efficiency
 of our operation and management. In particular, we plan to:
- the complete
+(cid:129) upgrade our existing data center and software to realize (i) the complete
 compatibility among the existing systems and platforms; (ii) functions including but
 not limited to data backup, remote disaster recovery, data cleaning, data analysis (by
 hospitals, diseases, disciplines, etc.) and model calculation; and (iii) more
@@ -13471,7 +13471,7 @@ disciplines, as well as setting up and enriching a medical expert database in
 compliance with laws and regulations regarding patients’ health and medical data
 and data privacy protection, so as to form a two-way transformation mechanism
 between clinical resources application and scientific and technological results;
- upgrade our existing medical quality control system, which covers healthcare
+(cid:129) upgrade our existing medical quality control system, which covers healthcare
 quality monitoring and medical record quality control, to cope with our future
 expansion and changing demand of clients and/or patients. In particular, we plan to
 upgrade our existing information technology system, so that it can sort out and
@@ -13482,7 +13482,7 @@ furtherrealizetheautomatictrackingandfeedbackfunctionontheaboveindicators.
 In addition, we also plan to improve our patient management system to better record
 themedicalinformationandneedsofclientsand/orpatients,whichwillimproveour
 service quality and the clients and/or patients experience; and
- allow our
+(cid:129) develop a series of intelligent and convenient online applications to (i) allow our
 headsofdepartmentstoreviewandanalysetheoperationandcostdataandpromptly
 adjustthebusinessstrategyofdifferentdepartments,whichwillimproveourservice
 quality and reduce unreasonable expenditures; and (ii) provide clients and/or
@@ -13520,7 +13520,7 @@ on the research ward and other scientific and technological platforms establishe
 University Medicine Technology Transfer and Innovation Center and our Group. On the other
 hand, we plan to take advantage of our existing clinical resources to establish an Oncology
 Clinical Research Platform.
- Medical Transformation Laboratory Platform: we intend to further strengthen our
+(cid:129) Medical Transformation Laboratory Platform: we intend to further strengthen our
 cooperation with biomedicine enterprises, universities and research institutions with
 advantages in (i) screening and early detection of cancer; (ii) new technologies of
 oncology diagnosis and treatment; (iii) new drug research and development in the
@@ -13532,7 +13532,7 @@ fields; and
 
 === PAGE 280 ===
 BUSINESS
- Oncology Clinical Research Platform: In order to improve the oncology diagnosis
+(cid:129) Oncology Clinical Research Platform: In order to improve the oncology diagnosis
 and treatment service ability of our Group, we intend to take advantage of our
 existing clinical resources to promote the acquisition of qualification of Good
 Clinical Practice in our In-network Hospitals. At the same time, we intend to
@@ -13694,7 +13694,7 @@ the entities in our business chain drives our business, and our ability to enhan
 propositions will be instrumental for our future development.
 The following are key entities benefiting from our business model, and the value
 propositions we offer them:
- for clients with needs for full-cycle oncology healthcare services and patients:
+(cid:129) for clients with needs for full-cycle oncology healthcare services and patients:
 o wehaveintegratedtheresourcesofourofflineIn-networkHospitalsandonline
 medical and healthcare platforms, primarily including the Internet hospital of
 our Tianjin Nankai Jixing Hospital, the Internet diagnosis and treatment
@@ -13709,7 +13709,7 @@ healthcare services and patients.
 
 === PAGE 285 ===
 BUSINESS
-:
+(cid:129) forhealthcareinstitutionsandmedicalprofessionals(mainlyprimaryphysicians):
 o medical professionals (mainly primary physicians) outside of our In-network
 Hospitals benefit from our services provided to partnered hospitals under our
 network business, primarily including consultation, diagnosis and therapeutic
@@ -13727,7 +13727,7 @@ in the corresponding fields, constantly strengthens the high-quality medical
 resources we can utilize, and is able to provide a platform for the application
 of scientific and technological achievements and technologies in the field of
 full-cycle oncology healthcare services.
- for healthcare institution management teams:
+(cid:129) for healthcare institution management teams:
 o each of our healthcare institution management teams is able to extract and
 analyse the operational statistical data concerning our clients and/or patients
 and financial and operational statistical data of In-network Hospitals on a
@@ -13738,7 +13738,7 @@ platform of our Clinical Oncology Center, we are well positioned to conduct
 scientific research and apply research results in our operation and management
 afterwards. Please see “– Information Technology Systems and Platforms –
 Data Usage and Analysis” in this section for further details.
- for government and the society:
+(cid:129) for government and the society:
 o we highly value our social responsibility and actively participate in public
 welfareactivities,suchasprovidingmedicalconsultancyandpubliclecturesto
 public institutions and disadvantaged communities in society. Moreover,
@@ -14712,7 +14712,7 @@ this prospectus for further details.
 BUSINESS
 The reasons for the fluctuations of certain key operational and financial information of
 ourself-ownedhospitalsfortheyearsendedDecember31,2022,2023and2024areasfollows:
- Western Beijing Cancer Hospital
+(cid:129) Western Beijing Cancer Hospital
 (i) The outpatient visits of Western Beijing Cancer Hospital included the number of
 nucleic acid tests during the COVID-19 pandemic in the Track Record Period, of
 which the number of nucleic acid tests was 11,039 for the year ended December 31,
@@ -14767,7 +14767,7 @@ beds for the year ended December 31, 2022 were relatively lower than that for th
 years ended ended December 31, 2023 and 2024, which was primarily due to the
 requirements and restrictions on hospitalization, resulting in a significant reduction
 in the number of patients outside Beijing for the hospital in 2022.
- Tianjin Shishi Hospital
+(cid:129) Tianjin Shishi Hospital
 (i) With the establishment and development of medical disciplines of Tianjin Shishi
 Hospital, the hospital had been improving its reputation in the local areas, and its
 outpatient visits achieved a continuous growth during the Track Record Period. The
@@ -14844,7 +14844,7 @@ respectively.
 
 === PAGE 299 ===
 BUSINESS
- Tianjin Nankai Jixing Hospital
+(cid:129) Tianjin Nankai Jixing Hospital
 (i) The outpatient visits increased by approximately 19.0% from 146,147 for the year
 ended December 31, 2022 to 173,918 for the year ended December 31, 2023,
 primarily because the hospital carried out business in relation to gynecological
@@ -14886,7 +14886,7 @@ medical insurance bureaus.
 
 === PAGE 300 ===
 BUSINESS
- Taiyuan Peace Hospital
+(cid:129) Taiyuan Peace Hospital
 (i) The outpatient visits increased by approximately 4.8% from 117,708 for the year
 ended December 31, 2022 to 123,344 for the year ended December 31, 2023,
 primarily because (a) the hospital had become the first Class-III rehabilitation
@@ -14928,7 +14928,7 @@ The occupancy rate of registered beds remained relatively stable at 106.7% and
 
 === PAGE 301 ===
 BUSINESS
- Hefei Bayway Hospital
+(cid:129) Hefei Bayway Hospital
 (i) The average spending per outpatient visit increased by 30.5% from RMB556.9 for
 the year ended December 31, 2022 to RMB726.7 for the year ended December 31,
 2023, primarily due to the increase in the proportion of outpatient oncology patient
@@ -14968,7 +14968,7 @@ December 31, 2024.
 
 === PAGE 302 ===
 BUSINESS
- Wuzhi Jimin Hospital
+(cid:129) Wuzhi Jimin Hospital
 (i) The outpatient visits increased by 46.9% from 203,073 for the year ended December
 31, 2022 to 298,292 for the year ended December 31, 2023, primarily because
 respiratorydiseasesincreasedandoutpatientCTsandothertestsincreasedduetothe
@@ -15275,10 +15275,10 @@ Record Period – Taiyuan Peace Hospital Company” in this prospectus for furth
 With the collective efforts of the retained management and the management members of
 the Group for more than four years, Taiyuan Peace Hospital has achieved significant growth,
 which primarily include:
- it won the fourth place in 2023 Autumn GAHA Hospital Competitiveness Medical
-Institutions Established by Social Capitals  Rehabilitation Hospitals* (艾力彼醫院
-競爭力秋季排行榜2023屆社會辦醫  in October 2023;
- it has become the first Class-III rehabilitation specialist hospital in Shanxi Province
+(cid:129) it won the fourth place in 2023 Autumn GAHA Hospital Competitiveness Medical
+Institutions Established by Social Capitals (cid:129) Rehabilitation Hospitals* (艾力彼醫院
+競爭力秋季排行榜2023屆社會辦醫 (cid:129) 康復醫院第4名) in October 2023;
+(cid:129) it has become the first Class-III rehabilitation specialist hospital in Shanxi Province
 after obtaining the approval from Health Commission of Shanxi Province to be
 upgraded to Class-III rehabilitation specialist hospital from Class-IIA
 comprehensive hospital since March 2023;
@@ -15286,16 +15286,16 @@ comprehensive hospital since March 2023;
 
 === PAGE 311 ===
 BUSINESS
- based on the unaudited financial statements of Taiyuan Peace Hospital Company,
+(cid:129) based on the unaudited financial statements of Taiyuan Peace Hospital Company,
 remarkable improvement in its financial performance has been observed, i.e., the
 four-year CAGR of its revenue from 2019 to 2022 was approximately 31.0%;
- it has become a demonstration base for science popularization of Chinese
+(cid:129) it has become a demonstration base for science popularization of Chinese
 Association of Rehabilitation Medicine since September 2021;
- it has become the first batch of national standardized remote home cardiac
+(cid:129) it has become the first batch of national standardized remote home cardiac
 rehabilitation demonstration center since June 2021;
- it has become the third batch of national standardized cardiac rehabilitation center
+(cid:129) it has become the third batch of national standardized cardiac rehabilitation center
 since July 2020; and
- it has become a unit member of Chinese Association of Rehabilitation Medicine
+(cid:129) it has become a unit member of Chinese Association of Rehabilitation Medicine
 since October 2019.
 Meanwhile, in the field of exploration and research of rehabilitation medicine, the
 hospital has built an intelligent rehabilitation hall in March 2022, and cooperated with Henan
@@ -15549,7 +15549,7 @@ without the Oncology Center Building.
 === PAGE 319 ===
 BUSINESS
 Upon commencement of operation of the Oncology Center Building by the end of 2027:
- WuzhiJiminHospitalislocatedinWuzhiCounty,JiaozuoofHenanProvince,which
+(cid:129) WuzhiJiminHospitalislocatedinWuzhiCounty,JiaozuoofHenanProvince,which
 is part of Central China. According to Frost & Sullivan, the healthcare institution
 patient visits in Central China accounted for approximately 14.9% of total
 healthcare institution patient visits in China in 2021.According to the same source,
@@ -15560,18 +15560,18 @@ that we are closer to this geographical segment of the market. As such, we would
 able to tap into and gain from the growth in this market, which would not contradict
 with or create any conflict for us to continue to expand the markets, which we are
 currently conducting our business in;
- The number of registered beds will increase by 210, which will help expand our
+(cid:129) The number of registered beds will increase by 210, which will help expand our
 healthcare services provision capability;
- Oncology-related diagnosis and treatment disciplines will be independently
+(cid:129) Oncology-related diagnosis and treatment disciplines will be independently
 constructed to enhance their developments going forward;
- Oncology-related diagnosis and treatment disciplines will be centrally arranged in
+(cid:129) Oncology-related diagnosis and treatment disciplines will be centrally arranged in
 the Oncology Center Building, which is more convenient to carry out clinical
 multidisciplinary consultation and ward rounds;
- Weareabletoprovideclientsand/orpatientswithamorecomfortablediagnosisand
+(cid:129) Weareabletoprovideclientsand/orpatientswithamorecomfortablediagnosisand
 treatment environment;
- We are able to add new medical equipment, such as DSA, to improve the quality and
+(cid:129) We are able to add new medical equipment, such as DSA, to improve the quality and
 efficiency of oncology-treatment-related services; and
- According to Frost & Sullivan, it is not uncommon for a hospital to establish an
+(cid:129) According to Frost & Sullivan, it is not uncommon for a hospital to establish an
 oncology center building to centrally manage oncology-related medical equipment
 and provide comprehensive services for oncology clients and/or patients.
 For details of risks associated with the construction of our Cancer Center building for
@@ -15652,7 +15652,7 @@ T
 echnology Development
 Beijing Tianjin Anhui Shanxi Henan
 June 2018 February 2019 May 2020 January 2022 April 2022
- Wuzhi Jimin Hospital
+(cid:129) Western Beijing (cid:129) Tianjin (cid:129) Tianjin (cid:129) Huangshan (cid:129) Hefei (cid:129) Taiyuan (cid:129) Taiyuan (cid:129) Wuzhi Jimin Hospital
 Cancer Hospital Shishi Nankai Shoukang Bayway Peace Wanbailin
 Hospital Jixing Hospital Hospital Hospital District
 Hospital Peace
@@ -15710,25 +15710,25 @@ Screening and early detection of cancer
 We provide screening and early detection of cancer service to our clients and/or patients
 during the Track Record Period. Our screening and early detection of cancer service has gone
 through the following stages of rapid development:
- we established the first screening and early detection of cancer center in our
+(cid:129) we established the first screening and early detection of cancer center in our
 In-network Hospitals in our Western Beijing Cancer Hospital in January 2019 and
 began to establish such centers in our In-network Hospitals on a gradual basis since
 then and roll out criteria for screening and early detection of cancer services;
- Western Beijing Cancer Hospital was granted the license of Beijing Anti-Cancer
+(cid:129) Western Beijing Cancer Hospital was granted the license of Beijing Anti-Cancer
 Association Early Cancer Screening Base by Beijing Anti-Cancer Association in
 April 2019;
 – 313 –
 
 === PAGE 323 ===
 BUSINESS
- we participated in the formulation of the Guideline for Early Screening of
+(cid:129) we participated in the formulation of the Guideline for Early Screening of
 High-Incidence Cancer in the PRC, which was published by Beijing Anti-Cancer
 Association in January 2021;
- we acquired the software copyright of “Auxiliary Screening and Early Detection of
+(cid:129) we acquired the software copyright of “Auxiliary Screening and Early Detection of
 Cancer System v1.0” in December 2021;
- we successfully completed the trademark registration of “BAYWAY ECS” in the
+(cid:129) we successfully completed the trademark registration of “BAYWAY ECS” in the
 PRC in February 2022; and
- the “Auxiliary Screening and Early Detection of Cancer System v1.0”, which was
+(cid:129) the “Auxiliary Screening and Early Detection of Cancer System v1.0”, which was
 jointly developed by Beijing Cancer Hospital and us, passed the expert review
 conducted by the Professional Committee of Screening and Early Detection of
 Cancer of Beijing Anti-Cancer Association in April 2022.
@@ -15748,15 +15748,15 @@ Wuzhi Jimin Hospital,
 Hospital Hospital
 Taiyuan Peace Hospital and
 Hefei Bayway Hospital
- Risk assessment and
+(cid:129) Risk assessment and (cid:129) Risk assessment and
 interpretation interpretation
- Risk assessment and
- Screening
+(cid:129) Risk assessment and
+(cid:129) Screening(2) (cid:129) Screening
 interpretation
-
- Health management
- Health management
- Treatment
+(cid:129) Vaccination(3) (cid:129) Vaccination(3)
+(cid:129) Health management
+(cid:129) Health management(4) (cid:129) Health management
+(cid:129) Treatment(5) (cid:129) Treatment
 For patients with complicated Selection of suitable clients
 illness: we may provide remote and/or patients for referral to
 consultation / referral to the nearest Screening and Early
@@ -15876,17 +15876,17 @@ patients,maximizingthepatients’recoveryfrom,amongothers,physical,psychological
 and professional career perspectives, improving the quality of patients’life and prolonging the
 lifespan of patients, we have conducted clinical practice on oncology rehabilitation in the PRC
 and proposed “five prescriptions (五大處方)” for oncology rehabilitation:
- treatment: we provide medical treatment and immunotherapy for the patients during
+(cid:129) treatment: we provide medical treatment and immunotherapy for the patients during
 their rehabilitation;
- nutrition: we enhance and improve the daily nutrient intake of the patients through
+(cid:129) nutrition: we enhance and improve the daily nutrient intake of the patients through
 screening, lifestyle and dietary survey and nutritional surveillance during their
 rehabilitation;
- exercise: we tailor make physical rehabilitation plan for the patients through
+(cid:129) exercise: we tailor make physical rehabilitation plan for the patients through
 assessments on the patients’ body structure and functionality and their activity
 ability;
- psychology:wehelpthepatientsadjusttheirpsychologicalstatusinatimelymanner
+(cid:129) psychology:wehelpthepatientsadjusttheirpsychologicalstatusinatimelymanner
 through assessments, medication and psychological intervention; and
- pain relief: we alleviate the sufferings of the patients during their rehabilitation
+(cid:129) pain relief: we alleviate the sufferings of the patients during their rehabilitation
 based on assessments, medicated or non-medicated treatment and TCM treatment.
 – 317 –
 
@@ -16296,7 +16296,7 @@ Sponsor to cast doubt on the aforementioned views of the Directors and reporting
 accountants.
 Besides, as Huangshan Shoukang Hospital is a not-for-profit hospital and we are not a
 shareholder of Huangshan Shoukang Hospital:
- in evaluating whether Huangshan Shoukang Hospital is a related party to us, we
+(cid:129) in evaluating whether Huangshan Shoukang Hospital is a related party to us, we
 follow IAS 24 Related Party Disclosures and concluded that we have significant
 influence over Huangshan Shoukang Hospital due to our board representation and
 regard it as a related party, although there is no share-holding relationship between
@@ -16305,7 +16305,7 @@ us and Huangshan Shoukang Hospital; and
 
 === PAGE 339 ===
 BUSINESS
- in evaluating whether Huangshan Shoukang Hospital should be accounted for as
+(cid:129) in evaluating whether Huangshan Shoukang Hospital should be accounted for as
 investment in associate using the equity method under IAS 28 Investments in
 Associates and Joint Ventures, as we are not a shareholder of Huangshan Shoukang
 Hospital, there is no “investment” relationship as stated in IAS 28. In addition,
@@ -16626,15 +16626,15 @@ affect the wholesale customer’s acceptance of the goods. For more details of o
 recognition policies, please see “Financial Information – Critical Accounting Policies –
 Revenue Recognition” in this prospectus.
 Belowisasummaryofourmajortransactionarrangementswithourwholesalecustomers:
- Term.Wegenerallyenterintopurchaseorderswithourwholesalecustomerswithno
+(cid:129) Term.Wegenerallyenterintopurchaseorderswithourwholesalecustomerswithno
 specified term;
- Sales restriction. We typically do not impose geographical restriction or other sales
+(cid:129) Sales restriction. We typically do not impose geographical restriction or other sales
 restriction on our wholesale customers;
- Pricing. We sell products to our wholesale customers at an agreed price, and we do
+(cid:129) Pricing. We sell products to our wholesale customers at an agreed price, and we do
 not mandate selling price for our wholesale customers;
- Delivery.We generally arrange delivery to the designated places of our customers at
+(cid:129) Delivery.We generally arrange delivery to the designated places of our customers at
 our own cost; and
- Prepayment and credit term. We generally require wholesale customers to make
+(cid:129) Prepayment and credit term. We generally require wholesale customers to make
 prepayments for orders placed or determine the credit term on a case-by-case basis
 based on our assessment of the wholesale customers’ procurement amount,
 credibility and business scale and generally grant our customers a credit term within
@@ -17044,26 +17044,26 @@ and the co-construction of disciplines, improves the efficiency of medical treat
 satisfies the needs of the majority of patients for medical diagnosis and treatment. Set forth
 belowisasummaryofthemajorcollaborationdetailsbetweenBeijingCancerHospitalandour
 In-network Hospitals:
- remote medical consultation: the parties can conduct remote consultation services
+(cid:129) remote medical consultation: the parties can conduct remote consultation services
 including interactive remote consultation, multidisciplinary remote consultation,
 remote diagnostic imaging and pathology diagnosis;
- joining the Distance Education Program of Beijing Cancer Hospital: according to
+(cid:129) joining the Distance Education Program of Beijing Cancer Hospital: according to
 the teaching plan of Beijing Cancer Hospital, our In-network Hospitals can
 participate in, including but not limited to, boutique courses in medical, nursing and
 management, series of lectures of specialized departments and diseases (專科專病),
 remote teaching ward-round (教學查房), single-disease and multidisciplinary
 difficult and complicated case sharing, remote surgery video demonstration, and
 customized training courses;
- referral channel for difficult and complicated cases: Beijing Cancer Hospital
+(cid:129) referral channel for difficult and complicated cases: Beijing Cancer Hospital
 provides referral service for patients who are not capable of being treated by our
 In-network Hospitals after the implementation of remote consultation, and we can
 make appointments for referral with the support of the remote information system;
- specialist refresher training program: Beijing Cancer Hospital opens up offline
+(cid:129) specialist refresher training program: Beijing Cancer Hospital opens up offline
 refresher training for medical professionals in our In-network Hospitals. In
 accordance with the annual and quarterly refresher training plans and registration
 requirements issued by Beijing Cancer Hospital, we have the priority registration
 right for the training program; and
- remote disciplinary co-construction: Beijing Cancer Hospital conducts remote
+(cid:129) remote disciplinary co-construction: Beijing Cancer Hospital conducts remote
 multi-disciplinary case sharing and teaching regularly for the cases provided by our
 In-network Hospitals, and invites our In-network Hospitals to participate in
 academic conferences and year-end selection meetings held and hosted by Beijing
@@ -17118,35 +17118,35 @@ protection during the Track Record Period and up to the Latest Practicable Date.
 BUSINESS
 We have implemented the following major measures to protect clients’ and/or patients’
 data and maintain the confidentiality of such information to ensure our regulatory compliance:
- we formulated strict policies such as Personal Information Protection Management
+(cid:129) we formulated strict policies such as Personal Information Protection Management
 System and Personal Information Protection Impact Assessment System to govern
 the collection, handling, storage, retrieval, and deletion of our clients’ and/or
 patients’ personal data and medical records;
- we designated a cybersecurity officer to monitor our ongoing compliance with the
+(cid:129) we designated a cybersecurity officer to monitor our ongoing compliance with the
 applicable PRC laws and regulations and oversee the implementation of necessary
 safeguarding measures and to promote continuous improvement of cybersecurity
 protection capabilities;
- ourIn-networkHospitalsusesecuredinformationtechnologysystemstomanageour
+(cid:129) ourIn-networkHospitalsusesecuredinformationtechnologysystemstomanageour
 clients’ and/or patients’ personal information and medical records, and set up
 firewalls and perform vulnerability scanning to prevent information loss or leakage
 caused by cyber-attacks. Our In-network Hospitals’ information networks are
 configured with multiple layers of protection to secure databases and servers;
- our In-network Hospitals have designated personnel from ITdepartments to back up
+(cid:129) our In-network Hospitals have designated personnel from ITdepartments to back up
 data on the information systems on a regular basis. Our In-network Hospitals utilize
 the network security equipment that has been approved for domestic sales in the
 PRC to secure data flows over our network and access control systems to prevent
 unauthorized access to clients’ and/or patients’ personal information;
- we have also implemented a variety of protocols and procedures, such as regular
+(cid:129) we have also implemented a variety of protocols and procedures, such as regular
 system checks, password policy, server access logging, network access
 authentication, user authorization review and approval and data back-up, as well as
 data recovery test, to safeguard our data assets and prevent unauthorized access to
 our network;
- to protect clients’ and/or patients’ data against unauthorized physical access, files
+(cid:129) to protect clients’ and/or patients’ data against unauthorized physical access, files
 that include such data are stored in intranet, which can only be accessed by
 designatedpersonnelofourself-ownedhospitals.Formedicalrecordsofourclients’
 and/or patients that are kept manually, we have designated personnel at our
 self-owned hospitals responsible for the safekeeping of such medical records;
- we enter into confidentiality agreements with our employees in IT departments who
+(cid:129) we enter into confidentiality agreements with our employees in IT departments who
 have access to any aforementioned privacy information. The confidentiality
 agreements provide that, among others, these employees are legally obligated not to
 misuse the confidential information while in office, not to surrender all confidential
@@ -17156,7 +17156,7 @@ obligations after they leave office; and
 
 === PAGE 361 ===
 BUSINESS
- we also implement a series of measures to ensure our employees’ compliance with
+(cid:129) we also implement a series of measures to ensure our employees’ compliance with
 ourdatasecuritymeasures.Forinstance,werequirenewhirestoreceiveonboarding
 training on data security and employees to receive on-the-job training regularly to
 reinforce relevant data security policies. Employees shall acknowledge to us that
@@ -17218,7 +17218,7 @@ practice for optimizing the allocation of medical resources
 and improving the efficiency and quality of medical
 services, and promote the implementation of multi-site
 practice in our In-network Hospitals.
-Major Rights and  Major rights and obligations of our In-network
+Major Rights and (cid:129) Major rights and obligations of our In-network
 Obligations: Hospitals
 (i) Our In-network Hospitals have the right to
 manage and supervise the multi-site physicians’
@@ -17236,7 +17236,7 @@ legitimate rights and interests.
 
 === PAGE 363 ===
 BUSINESS
- Major rights and obligations of the multi-site
+(cid:129) Major rights and obligations of the multi-site
 physicians
 (i) The multi-site physicians have the
 responsibility to ensure that the registration
@@ -17816,7 +17816,7 @@ We entered into the current cooperation agreement with Beijing Cancer Hospital i
 2011foraperiodof20years.Wehaveformulatedthemajorplanstoavoidthepotentialimpact
 brought by the expiration of our cooperation agreement with Beijing Cancer Hospital as
 follow:
- inrecentyears,thePRCGovernmenthasenactedmanyfavorablepoliciestosupport
+(cid:129) inrecentyears,thePRCGovernmenthasenactedmanyfavorablepoliciestosupport
 social forces in organizing medical institutions, and encourage medical cooperation,
 telemedicine, multi-site practicing and other models to improve the level of medical
 institutions run by social forces. We have been and will continue to strictly abide by
@@ -17824,7 +17824,7 @@ and support these relevant national and local policies. Even if our current
 cooperation agreement with Beijing Cancer Hospital will expire in 2031, we still
 plan to actively pursue cooperation with Beijing Cancer Hospital in various fields
 after that, to the extent permitted and supported by relevant policies;
- in order to minimise the potential adverse impact which may be brought by the
+(cid:129) in order to minimise the potential adverse impact which may be brought by the
 expiration of our cooperation agreement with Beijing Cancer Hospital, we will
 continue to (i) strengthen our own capabilities, including but not limited to
 enhancing capacity of oncology-related disciplines, talent and technology capacity,
@@ -17837,7 +17837,7 @@ our reliance on Beijing Cancer Hospital in the aforementioned aspects; and
 
 === PAGE 378 ===
 BUSINESS
- in light of the potential impact of the expiration of our cooperation agreement with
+(cid:129) in light of the potential impact of the expiration of our cooperation agreement with
 Beijing Cancer Hospital in 2031, we have and will continue to proactively enhance
 existing cooperation and seek new cooperation with other partners, such as other
 well-known hospitals, medical schools, scientific research institutions and
@@ -17889,18 +17889,18 @@ a GFA of at least 20,000.0 sq.m. of operating space and adequate future expansio
 accommodating large-scale radiotherapy equipment; (vi) which are Medical Insurance
 Designated Medical Institutions; and (vii) with appropriate consideration to be paid for the
 acquisition. We evaluate hospital targets based on a number of criteria, mainly including:
- location of the target and surrounding population level;
- the target’s current operations and capacity, taking into consideration its medical
+(cid:129) location of the target and surrounding population level;
+(cid:129) the target’s current operations and capacity, taking into consideration its medical
 professionals and clinical departments;
- experience and track record of medical professionals and staff of the target;
- the target’s historical medical performance and professional reputation, taking into
+(cid:129) experience and track record of medical professionals and staff of the target;
+(cid:129) the target’s historical medical performance and professional reputation, taking into
 consideration the quality and safety of the services provided by the target;
- required licenses and permits for operations and the target’s historical compliance
+(cid:129) required licenses and permits for operations and the target’s historical compliance
 with applicable laws and regulations;
- the target’s synergism with our existing In-network Hospitals;
- estimated initial investment amount required to improve the target’s infrastructure;
+(cid:129) the target’s synergism with our existing In-network Hospitals;
+(cid:129) estimated initial investment amount required to improve the target’s infrastructure;
 and
- ongoing operating expenses and capital requirements.
+(cid:129) ongoing operating expenses and capital requirements.
 The following diagram illustrates the management and reporting structure of acquisition
 decision-making mechanism:
 Identifying potential hospital targets to enrich the
@@ -17924,12 +17924,12 @@ Acquisition: capabilities, expertise and reputation, we strategically target
 hospitals conforming to our abovementioned criteria.
 Investing in Hospitals: After screening and identifying potential hospital targets, we
 generally employ the following investment process:
- conducting due diligence and analysis on the targets;
- conducting assessment and valuation of the investment
+(cid:129) conducting due diligence and analysis on the targets;
+(cid:129) conducting assessment and valuation of the investment
 proposal and making investment decisions;
- negotiation of terms and signing investment agreements;
+(cid:129) negotiation of terms and signing investment agreements;
 and
- arranging operation handover, closing and completion of
+(cid:129) arranging operation handover, closing and completion of
 transactions.
 When carrying out our expansion plans, we target hospitals with
 solid operational foundation and strong development potential.
@@ -17955,25 +17955,25 @@ BUSINESS
 Continuous Improvement To realize synergies through integration among the hospitals in
 of Hospitals after our network after acquisition, we focus on three main aspects:
 acquisition:
- identifying and developing future strategies for the
+(cid:129) identifying and developing future strategies for the
 hospitals around full-cycle oncology healthcare services;
- improving the hospitals’ organizational structure,
+(cid:129) improving the hospitals’ organizational structure,
 operational efficiency and business performance; and
- improving the compensation and performance incentive
+(cid:129) improving the compensation and performance incentive
 mechanism to attract and retain talented medical
 professionals.
 We achieve these mainly by:
- establishing customized business strategies and models to
+(cid:129) establishing customized business strategies and models to
 promote sustainable development of the hospitals and our
 business;
- implementing our comprehensive refined management to
+(cid:129) implementing our comprehensive refined management to
 improve operational efficiency;
- controlling operational costs;
- providing high-quality medical and healthcare related
+(cid:129) controlling operational costs;
+(cid:129) providing high-quality medical and healthcare related
 services;
- providing ongoing training for medical professionals and
+(cid:129) providing ongoing training for medical professionals and
 administrative staff; and
- aligning values among hospital employees and hospitals to
+(cid:129) aligning values among hospital employees and hospitals to
 encourage solidarity and motivate employees.
 During the Track Record Period, we had achieved and benefited
 from synergistic effects generated through the strategic
@@ -18956,7 +18956,7 @@ Below are the key differences in the health insurance payment before the reform 
 DIP and DRG models:
 Model before reformation of the
 healthinsurancepaymentsystem DRGModel DIPModel
-Paymentscheme  A management system, which classifies
+Paymentscheme (cid:129) The insurance institution pays (cid:129) Acasecombinationclassificationscheme, (cid:129) A management system, which classifies
 according to the actual costs which classifies patients into different medicalrecorddatabasedonthecommon
 (serviceitems)ofpatientsinthe diagnostic groups based on the factors characteristics of disease diagnosis and
 hospital such as age, disease diagnosis, treatmentmethods,andcalculatespoints
@@ -18964,13 +18964,13 @@ comorbidities, complications, treatment based on the total annual medical
 modalities,diseaseseverityandresource insurancepayment,theportionofmedical
 consumptionlevels(1) insurancepaymentandthetotalscoreof
 casesinmedicalinstitutions(2)
- Theinsuranceinstitutionpaysaccording
-tothepaymentstandardofthediagnosis-  Themedicalinsurancedepartmentforms
+(cid:129) Theinsuranceinstitutionpaysaccording
+tothepaymentstandardofthediagnosis- (cid:129) Themedicalinsurancedepartmentforms
 relatedgroupthatthecaseenters thepaymentstandardbasedonthedisease
 scoreandthescorepointvalue,andno
 longer pays with the cost of medical
 serviceitems
-Whethermedical /  Medicalinstitutionisrequestedbythelocalcompetentmedicalinsurancedepartmentto
+Whethermedical / (cid:129) Medicalinstitutionisrequestedbythelocalcompetentmedicalinsurancedepartmentto
 institutioncanadopt adoptDIPorDRGmodel
 paymentmodelsat
 theirdiscretion
@@ -18980,7 +18980,7 @@ theirdiscretion
 BUSINESS
 Model before reformation of the
 healthinsurancepaymentsystem DRGModel DIPModel
-Impactonthebusiness  TheGroup’sself-ownedhospitalswhichadoptedDIPorDRGmodelwillbereimbursedby
+Impactonthebusiness (cid:129) Theinpatientservicesprovided (cid:129) TheGroup’sself-ownedhospitalswhichadoptedDIPorDRGmodelwillbereimbursedby
 operationofthe by certain of our self-owned localinsuranceinstitutionsaccordingtothereimbursementstandardofthediseasegroup
 Group’sself-owned hospitals were subject to the thatthepatientbelongs,andnolongerinaccordancewiththeactualcostsincurredbythe
 hospitals government-approved annual patientatthemedicalinstitution.Accordingly,theGroup’sself-ownedhospitalswhich
@@ -18996,7 +18996,7 @@ reimburse all or part of these hospitalsareprimarilyformulatedbasedontheirworklo
 amounts in the next year are of the view the implementation of DRG or DIPmodel by the Group’s self-owned
 according to relevant local hospitalshasnoimpactsontheremunerationpackageofmedicalprofessionalsofsuch
 policies hospitals.
-Impactonthepricing  AsalloftheGroup’sself-ownedhospitalswereMedicalInsuranceDesignatedMedicalInstitutions,whichmayonlycharge
+Impactonthepricing (cid:129) AsalloftheGroup’sself-ownedhospitalswereMedicalInsuranceDesignatedMedicalInstitutions,whichmayonlycharge
 policyoftheGroup’s healthcareservicefeesinaccordancewiththepricingguidelinessetbytherelevantmedicalandhealthadministrativedepartments
 self-ownedhospitals andpublicmedicalinsuranceprogramauthorities.AstheDRGorDIPModelarefeaturedwithdifferentmethodsfordetermining
 thereimbursementamountofmedicalfeesaswellastheircorrespondingsettlement,whichgenerallydonothavedirectimpacts
@@ -19005,7 +19005,7 @@ strengthentheircostcontrol,primarilyincludingmanagingthecostofmedicinesandotherm
 andimprovetheirhospitaloperationalefficiencytocopewiththeimplementationoftheDRGorDIPModel.Assuch,ourDirectors
 areoftheviewthattheimplementationoftheDRGorDIPModelhasnomaterialimpactonthepricingpolicyoftheGroup’s
 self-ownedhospitals.
-Impactonthefinancial  AsthegoaloftheDRG/DIPpaymentreformisforpromotingmedicalinstitutionstostandardizeandimprovethequalityof
+Impactonthefinancial (cid:129) AsthegoaloftheDRG/DIPpaymentreformisforpromotingmedicalinstitutionstostandardizeandimprovethequalityof
 performanceofthe diagnosisandtreatment,andtocontrolpharmaceuticalconsumptioncostsreasonably,andisconsistentwiththeworkdirections
 Group’sself-owned ofdisciplinedevelopment,qualitymanagementandrefinedmanagementoftheGroup’sself-ownedhospitals,theDirectorsareof
 hospitals theviewthattheDRGorDIPpaymentmodelgenerallywouldnotbringsignificantimpactsontheGroup’sself-ownedhospitals’
@@ -19289,18 +19289,18 @@ Gravitational Field* (科創
 Benchmark Hospital Asclepius Hospital
 Research Results Medical Management*
 Institutions Established by
-Social Capitals  Hospital
+Social Capitals (cid:129) Hospital
 Groups* (2024屆標桿醫院
-研究成果社會辦醫醫院集
+研究成果社會辦醫(cid:129)醫院集
 團100強)
 2024 Top 15 in the PRC of Guangzhou Institute of Western Beijing Cancer
 2024 GAHA Benchmark Asclepius Hospital Hospital
 Hospital Research Results Management*
 Medical Institutions
 Established by Social
-Capitals  Oncology
+Capitals (cid:129) Oncology
 Hospitals* (2024屆標桿醫
-院研究成果社會辦醫腫瘤
+院研究成果社會辦醫(cid:129)腫瘤
 醫院全國15強)
 – 405 –
 
@@ -19323,9 +19323,9 @@ Medical Consortium* (銀 Immunologic Diseases
 Benchmark Hospital Asclepius Hospital
 Research Results Medical Management*
 Institutions Established by
-Social Capitals  Single
+Social Capitals (cid:129) Single
 Hospital (2024屆標桿醫院
-研究成果社會辦醫單體醫
+研究成果社會辦醫(cid:129)單體醫
 院500強)
 2024 China Anti-Cancer China Anti-Cancer Tianjin Shishi Hospital
 Association Group Association
@@ -19334,9 +19334,9 @@ Member Unit*
 Benchmark Hospital Asclepius Hospital
 Research Results Medical Management*
 Institutions Established by
-Social Capitals  Single
+Social Capitals (cid:129) Single
 Hospitals* (2024屆標桿醫
-院研究成果社會辦醫單體
+院研究成果社會辦醫(cid:129)單體
 醫院500強)
 2024 China Anti-Cancer China Anti-Cancer Taiyuan Peace Hospital
 Association Group Association
@@ -19358,9 +19358,9 @@ Director Unit* (中國醫院 Committee (中國醫院協會
 Hospital Research Results Management*
 Medical Institutions
 Established by Social
-Capitals  Oncology
+Capitals (cid:129) Oncology
 Hospitals* (2024屆標桿醫
-院研究成果社會辦醫康復
+院研究成果社會辦醫(cid:129)康復
 醫院全國30強)
 2024 Director Unit of Anhui The Second Hospital of Hefei Bayway Hospital
 Province Comprehensive Anhui Medical University
@@ -19412,9 +19412,9 @@ School of Medicine (浙江
 Benchmark Hospital Asclepius Hospital Hospital
 Research Results Medical Management*
 Institutions Established by
-Social Capitals  Single
+Social Capitals (cid:129) Single
 Hospitals* (2024屆標桿醫
-院研究成果社會辦醫單體
+院研究成果社會辦醫(cid:129)單體
 醫院300強)
 – 408 –
 
@@ -19426,18 +19426,18 @@ Year Awards/recognitions issuing body award/recognition
 GAHA Hospital Information Technology
 Competitiveness Medical Co., Ltd.* (廣州艾力彼信
 Institutions Established by 息科技有限公司) and
-Social Capitals  Hospital Guangzhou Institute of
+Social Capitals (cid:129) Hospital Guangzhou Institute of
 Groups* (艾力彼醫院競爭 Asclepius Hospital
 力秋季排行榜2023屆社會 Management (廣州艾力彼
-辦醫
+辦醫(cid:129)醫院集團100強) 醫院管理中心)
 2023 No. 12 of 2023 Autumn Guangzhou Asclepius Western Beijing Cancer
 GAHA Hospital Information Technology Hospital
 Competitiveness Medical Co., Ltd.* and Guangzhou
 Institutions Established by Institute of Asclepius
-Social Capitals  Oncology Hospital Management*
+Social Capitals (cid:129) Oncology Hospital Management*
 Hospitals* (艾力彼醫院競
 爭力秋季排行榜2023屆社
-會辦醫
+會辦醫(cid:129)腫瘤醫院第12名)
 2023 Oncology Multi- China Oncology MDT Western Beijing Cancer
 disciplinary Diagnosis and Alliance (中國腫瘤MDT聯 Hospital, Wuzhi Jimin
 Treatment (MDT) Alliance 盟) and MDT Group of Hospital and Huangshan
@@ -19459,7 +19459,7 @@ Year Awards/recognitions issuing body award/recognition
 GAHA Hospital Information Technology
 Competitiveness Medical Co., Ltd.* and Guangzhou
 Institutions Established by Institute of Asclepius
-Social Capitals  Hospital Management*
+Social Capitals (cid:129) Hospital Management*
 Rehabilitation Hospitals*
 2023 Changzhi Medical College Changzhi Medical College Taiyuan Peace Hospital
 Teaching Hospital (長治醫 (長治醫學院)
@@ -21689,7 +21689,7 @@ annual basis and we maintain relevant training records.
 With respect to our non-compliance incidents during the Track Record Period, we have
 put in place the following enhanced corporate governance measures to ensure that we will
 comply with applicable tax laws and regulations:
- InternalPolicies:Wehaveformulatedaseriesofinternalpoliciesinvariousaspects
+(cid:129) InternalPolicies:Wehaveformulatedaseriesofinternalpoliciesinvariousaspects
 relatedtoouroperation,suchastheEmployeeWelfareManagementMeasures(《員
 工福利管理辦法》), in order to reduce the risk of non-compliance incidents in our
 business operation.
@@ -21697,14 +21697,14 @@ business operation.
 
 === PAGE 448 ===
 BUSINESS
- Government Policies Monitoring: We assign special personnel to carry out daily
+(cid:129) Government Policies Monitoring: We assign special personnel to carry out daily
 monitoring of applicable laws, regulations and local government policies, to follow
 up and understand the relevant updates, especially the laws and regulations of social
 insurance and housing provident fund, so as to ensure that the staff of our Group can
 accurately understand the current relevant regulatory requirements. Besides, we
 provide trainings in relation to compliance matters to our senior management team
 and relevant staff from time to time.
- Internal control consultant:We have engaged an internal control consultant to help
+(cid:129) Internal control consultant:We have engaged an internal control consultant to help
 optimize our risk management and internal control systems and put in place
 enhanced corporate governance measures as advised by the internal control
 consultant.
@@ -21753,26 +21753,26 @@ management and internal control system to strengthen the oversight and supervisi
 of ESG matters.
 (ii) Fromtheperspectiveofmanagement,wehavesetupanESGleadershipgroupatthe
 headquarters level, with main responsibilities as follows:
- monitoring the latest ESG-related laws and regulations, including the
+(cid:129) monitoring the latest ESG-related laws and regulations, including the
 applicable provisions of the Listing Rules, informing the Board of any changes
 in applicable laws and regulations at any time, and updating the Group’s ESG
 policies in accordance with the latest regulatory requirements;
- identifying the main stakeholders of the Group based on our business
+(cid:129) identifying the main stakeholders of the Group based on our business
 operations and understanding the influence and independence of relevant
 stakeholders on ESG matters;
- regularly assessing ESG related risks, especially climate-related risks, in
+(cid:129) regularly assessing ESG related risks, especially climate-related risks, in
 accordance with applicable laws, regulations and policies, so as to ensure the
 performance of our responsibilities related to ESG matters;
- heads of each department undertaking ESG issues are responsible for risk
+(cid:129) heads of each department undertaking ESG issues are responsible for risk
 assessment and risk management of ESG matters under his/her own function,
 and regularly report to the leader of ESG working group to elaborate the
 Group’s environmental, social and governance management policies,
 strategies, related importance and objectives, and explain how they are related
 to the Group’s business;
- monitoring the effectiveness of our ESG policies and ensuring their
+(cid:129) monitoring the effectiveness of our ESG policies and ensuring their
 implementation, and providing confirmation to the Board on the effectiveness
 of the system; and
- reporting the implementation of our ESG policies to our Board every year and
+(cid:129) reporting the implementation of our ESG policies to our Board every year and
 prepare ESG reports (after the Listing).
 – 440 –
 
@@ -23206,15 +23206,15 @@ The primary function of the Audit Committee is to assist our Board in providing 
 independent view of our financial reporting process, internal control and risk management
 system, overseeing the audit process and performing other duties and responsibilities as
 assigned by our Board which includes, among others:
- reviewing our compliance, accounting policies and financial reporting procedures;
- proposing the appointment or change of external auditors to our Board, monitoring
+(cid:129) reviewing our compliance, accounting policies and financial reporting procedures;
+(cid:129) proposing the appointment or change of external auditors to our Board, monitoring
 the independence of external auditors and evaluating their performance;
- examining the financial information of the Group and reviewing financial reports
+(cid:129) examining the financial information of the Group and reviewing financial reports
 and statements of the Group;
- examining the financial reporting system, the risk management and internal control
+(cid:129) examining the financial reporting system, the risk management and internal control
 systemofourGroup,overseeingtheirrationality,efficiencyandimplementationand
 making recommendations to our Board; and
- dealing with other matters that are authorized by our Board.
+(cid:129) dealing with other matters that are authorized by our Board.
 Nomination Committee
 We have established a Nomination Committee with written terms of reference in
 compliance with Rule 3.27A of the Listing Rules and paragraph B.3 of the Corporate
@@ -23223,17 +23223,17 @@ Yongkai (趙永凱), Mr. Chan Hok Leung (陳學良) and Ms. Liu Shuang (劉爽),
 Yongkai (趙永凱) currently serving as the chairperson.
 The primary function of the Nomination Committee is to make recommendations to our
 Board in relation to the appointment and removal of Directors which includes, among others:
- conducting extensive search and providing our Board with suitable candidates for
+(cid:129) conducting extensive search and providing our Board with suitable candidates for
 our Directors, general managers and other members of the senior management team;
- reviewing the structure, size and composition of our Board (including but not
+(cid:129) reviewing the structure, size and composition of our Board (including but not
 limited to, gender, age, cultural and educational background, ethnicity, skills,
 knowledge and experience) at least annually and make recommendations on any
 proposed changes to our Board to complement the Group’s corporate strategy;
- researching and developing standards and procedures for the election of our Board
+(cid:129) researching and developing standards and procedures for the election of our Board
 members, general managers and members of the senior management team, and
 making recommendations to our Board;
- assessing the independence of the independent non-executive Directors; and
- dealing with other matters that are authorized by our Board.
+(cid:129) assessing the independence of the independent non-executive Directors; and
+(cid:129) dealing with other matters that are authorized by our Board.
 – 478 –
 
 === PAGE 488 ===
@@ -23248,14 +23248,14 @@ TheprimaryfunctionoftheRemunerationCommitteeistodevelopremunerationpolicies
 of our Directors, evaluate the performance, make recommendations on the remuneration
 packages of our Directors and senior management team and evaluate and make
 recommendations on employee benefit arrangements which includes, among others:
- establishing, reviewing and making recommendations to our Directors on our policy
+(cid:129) establishing, reviewing and making recommendations to our Directors on our policy
 and structure concerning remuneration of our Directors and senior management
 team;
- determining the terms of the specific remuneration package of each Director and
+(cid:129) determining the terms of the specific remuneration package of each Director and
 members of senior management team;
- reviewing and approving performance-based remuneration by reference to corporate
+(cid:129) reviewing and approving performance-based remuneration by reference to corporate
 goals and objectives resolved by our Directors from time to time; and
- other duties conferred by our Board.
+(cid:129) other duties conferred by our Board.
 CORPORATE GOVERNANCE
 Corporate Governance Code
 Our Directors recognize the importance of incorporating elements of good corporate
@@ -23299,14 +23299,14 @@ COMPLIANCE ADVISOR
 We have appointed Caitong International Capital Co., Limited as our compliance advisor
 pursuant to Rule 3A.19. Pursuant to Rule 3A.23 of the Listing Rules, the compliance advisor
 will advise us on the following circumstances:
- before the publication of any regulatory announcement, circular or financial report;
- where a transaction, which might be a notifiable or connected transaction, is
+(cid:129) before the publication of any regulatory announcement, circular or financial report;
+(cid:129) where a transaction, which might be a notifiable or connected transaction, is
 contemplated including share issues and share repurchases;
- whereourCompanyproposestousetheproceedsoftheGlobalOfferinginamanner
+(cid:129) whereourCompanyproposestousetheproceedsoftheGlobalOfferinginamanner
 different from that detailed in this prospectus or where the business activities,
 developments or results of our Company deviate from any forecast, estimate, or
 other information in this prospectus; and
- where the Stock Exchange makes an inquiry of our Company regarding unusual
+(cid:129) where the Stock Exchange makes an inquiry of our Company regarding unusual
 movements in the price or trading volume of its listed securities or any other matters
 under Rule 13.10 of the Listing Rules.
 – 480 –
@@ -23396,19 +23396,19 @@ offers,agreementsoroptionswhichmightrequiresuchSharestobeallottedandissuedordeal
 with at any time subject to the requirement that the aggregate nominal value of the Shares so
 allotted and issued or agreed conditionally or unconditionally to be allotted and issued, shall
 not exceed the sum of:
- 20% of the aggregate nominal value of the share capital of our Company in issue
+(cid:129) 20% of the aggregate nominal value of the share capital of our Company in issue
 immediately following completion of the Global Offering; and
-
+(cid:129) the nominal amount of our share capital repurchased by our Company (if any)
 pursuant to the repurchase mandate (as mentioned below).
 This mandate does not cover Shares to be allotted, issued, or dealt with under a rights
 issue or scrip dividend scheme or similar arrangements or a specific authority granted by our
 Shareholders.
 This mandate to issue Shares will remain in effect until:
- the conclusion of our next annual general meeting; or
- the expiration of the period within which the next annual general meeting of our
+(cid:129) the conclusion of our next annual general meeting; or
+(cid:129) the expiration of the period within which the next annual general meeting of our
 Company is required to be held under any applicable laws or the Articles of
 Association; or
- it is varied or revoked by an ordinary resolution of our Shareholders at a general
+(cid:129) it is varied or revoked by an ordinary resolution of our Shareholders at a general
 meeting,
 whichever is the earliest.
 Please see “Appendix IV – Statutory and General Information” in this prospectus for
@@ -23429,11 +23429,11 @@ and the requirements of the Listing Rules. Please see “Appendix IV — Statuto
 Information — Further Information about Our Group — Provision of the Listing Rules” in this
 prospectus for a summary of the relevant Listing Rules.
 This general mandate to repurchase Shares will remain in effect until:
- the conclusion of our next annual general meeting; or
- the expiration of the period within which the next annual general meeting of our
+(cid:129) the conclusion of our next annual general meeting; or
+(cid:129) the expiration of the period within which the next annual general meeting of our
 Company is required to be held under any applicable laws or the Articles of
 Association; or
- it is varied or revoked by an ordinary resolution of our Shareholders at a general
+(cid:129) it is varied or revoked by an ordinary resolution of our Shareholders at a general
 meeting, whichever is the earliest.
 Please see “Appendix IV — Statutory and General Information — Further Information
 about Our Group — Resolutions of the Shareholders of the Company Passed on June 9, 2025”
@@ -25612,7 +25612,7 @@ growthofitsscreeningandearlydetection
 of cancer services, radiotherapy business.
 During the Track Record Period, through our efforts on developing medical disciplines
 and enhancing service quality, our self-owned hospitals has grown obviously. For example,
- Radiotherapy Department of Western Beijing Cancer Hospital: since the
+(cid:129) Radiotherapy Department of Western Beijing Cancer Hospital: since the
 establishment of radiotherapy department of Western Beijing Cancer Hospital in
 April 2022, the following measures have been taken: (i) introducing talents: the
 full-time radiotherapy technical medical professionals increased from two in April
@@ -25641,17 +25641,17 @@ Cancer Hospital has achieved, including but not limited to, the number of total
 patient visits in the radiotherapy department of Western Beijing Cancer Hospital
 increasedfrom1,121in2022to4,150in2023,andfurtherincreasedto6,740forthe
 year ended December 31, 2024;
- Oncology Department of Hefei Bayway Hospital: through purchasing equipment in
+(cid:129) Oncology Department of Hefei Bayway Hospital: through purchasing equipment in
 relationtotheoncologybusinessinAugust2023andadjustingtheperformanceplan
 in November 2023, the revenue generated from oncology-related services of Hefei
 Bayway Hospital for the year ended December 31, 2024 increased by approximately
 245.0% compared to 2023;
- Rehabilitation Department of Taiyuan Peace Hospital: through the introduction of
+(cid:129) Rehabilitation Department of Taiyuan Peace Hospital: through the introduction of
 talents, the procurement of medical equipment, the refining of secondary
 rehabilitation specialties, and the addition of beds, the number of discharged
 patients in the rehabilitation department of Taiyuan Peace Hospital increased from
 3,858 for 2022 to 5,828 for 2024;
- Rehabilitation Department of Wuzhi Jimin Hospital: through improving the
+(cid:129) Rehabilitation Department of Wuzhi Jimin Hospital: through improving the
 diagnosis and treatment environment of the rehabilitation hall and inpatient ward,
 introducing multi-site experts, developing the rehabilitation business talent team,
 placing rehabilitation business related equipment and other relevant measures, the
@@ -25660,7 +25660,7 @@ ended December 31, 2023 increased by approximately 55.0% as compared with the
 year ended December 31, 2022, and further increased by approximately 60.5% for
 the year ended December 31, 2024 as compared with the year ended December 31,
 2023; and
- simultaneously developing multiple disciplines
+(cid:129) Tianjin Shishi Hospital: through (i) simultaneously developing multiple disciplines
 and adding new departments of oncology, rehabilitation, orthopedics and pain; (ii)
 upgrading the operating room and introducing external specialists in oncology,
 Chinese medicine, internal medicine, surgery (bone), ENT, etc.; and (iii) purchasing
@@ -25696,7 +25696,7 @@ Themajordevelopmentplaninrespectofeachofourself-ownedhospitalsareasfollows,
 basedonwhichwewillstrivetoincrease(i)thenumberofoutpatientvisitsandinpatientvisits;
 (ii) the average spending per outpatient visit and inpatient visit; (iii) the hospital business
 revenue; and (iv) gross profit margin for our hospital business, of each self-owned hospitals:
- Western Beijing Cancer Hospital: Western Beijing Cancer Hospital intends to
+(cid:129) Western Beijing Cancer Hospital: Western Beijing Cancer Hospital intends to
 continuously enhance its full-cycle oncology healthcare services for the oncology
 patients, which include but not limited to, (i) the surgical oncology business
 involving surgery; (ii) the medical oncology business involving chemotherapy and
@@ -25710,7 +25710,7 @@ other related disciplines, such as medicine and surgery, and radiotherapy busine
 have been carried out as of the Latest Practicable Date. We plan to upgrade Western
 Beijing Cancer Hospital to a Class-III oncology specialist hospital in Beijing within
 five years.
- Tianjin Shishi Hospital: Tianjin Shishi Hospital focuses on and intends to
+(cid:129) Tianjin Shishi Hospital: Tianjin Shishi Hospital focuses on and intends to
 continuously focuses on the development of disciplines of oncology and TCM. It
 planed to construct disciplines of oncology, TCM, rehabilitation, internal medicine
 and surgery since the beginning of its establishment. As of the Latest Practicable
@@ -25718,7 +25718,7 @@ Date, the abovementioned disciplines have been established. Our Directors believ
 that it is feasible for Tianjin Shishi Hospital to reach its breakeven of profit by the
 end of 2025, and please see the details abovementioned in the same section in this
 prospectus.
- Tianjin Nankai Jixing Hospital: Tianjin Nankai Jixing Hospital primarily provides
+(cid:129) Tianjin Nankai Jixing Hospital: Tianjin Nankai Jixing Hospital primarily provides
 pharmaceutical services, basic examination and screening and early detection of
 cancer services for patients, and it intends to continuously develop these services in
 the future.
@@ -25726,7 +25726,7 @@ the future.
 
 === PAGE 552 ===
 FINANCIAL INFORMATION
- Taiyuan Peace Hospital: Taiyuan Peace Hospital has become the first Class-III
+(cid:129) Taiyuan Peace Hospital: Taiyuan Peace Hospital has become the first Class-III
 rehabilitation specialist hospital in Shanxi Province after obtaining the approval
 from Health Commission of Shanxi Province to be upgraded to Class-III
 rehabilitation specialist hospital from Class-IIA comprehensive hospital since
@@ -25738,7 +25738,7 @@ rehabilitation and other rehabilitation specialties. As of the Latest Practicabl
 the specific business of its rehabilitation-related disciplines, such as oncology
 rehabilitation, neurological rehabilitation and sports rehabilitation, had been carried
 out.
- Hefei Bayway Hospital: based on the market environment of the area where Hefei
+(cid:129) Hefei Bayway Hospital: based on the market environment of the area where Hefei
 Bayway Hospital is located and our overall positioning, we have positioned Hefei
 Bayway Hospital as a comprehensive hospital with transformed oncology and
 rehabilitation disciplines. Hefei Bayway Hospital plans to set up oncology-related
@@ -25749,7 +25749,7 @@ business in April 2025 and early 2026, respectively. As of the Latest Practicabl
 Date, the abovementioned other related disciplines have been carried out. We
 intends to upgrade Hefei Bayway Hospital to a famous Class-III rehabilitation
 specialist hospital in Anhui Province within five years.
- Wuzhi Jimin Hospital: Wuzhi Jimin Hospital has become the first Class-III
+(cid:129) Wuzhi Jimin Hospital: Wuzhi Jimin Hospital has become the first Class-III
 comprehensive hospital in Wuzhi County since April 2024 with the approval of the
 local PRC Government for the upgrade to Class-III comprehensive hospital from
 Class-IIAcomprehensive hospital. Based on its history, the market environment and
@@ -26044,7 +26044,7 @@ evaluate and monitor the efficacy and efficiency of our cost of sales and operat
 FINANCIAL INFORMATION
 Our Directors consider that our business is sustainable despite the current loss-making,
 for the following major reasons:
- Capturing the growing market demand. We continue to focus on the private
+(cid:129) Capturing the growing market demand. We continue to focus on the private
 oncology healthcare service market in the PRC, in particular the private oncology
 healthcare service market in the non-first-tier cities (referring to those other cities
 in the PRC except Beijing, Shanghai, Guangzhou and Shenzhen) in the PRC.
@@ -26075,7 +26075,7 @@ oncology diagnosis, which makes subsequent treatment relatively difficult. We
 believe we are well positioned to capture the potential business opportunities in the
 foreseeable future and satisfy the potential market demand for full-cycle oncology
 healthcare services accordingly.
- Improving gross profit margin for our self-owned hospitals. Our hospital business
+(cid:129) Improving gross profit margin for our self-owned hospitals. Our hospital business
 is featured with significant initial investments. We incur substantial costs and
 expenses during our operation of hospital business, in particular in the ramp-up
 stageofdevelopmentourself-ownedhospitals,whichincludebutnotlimitedtostaff
@@ -26098,21 +26098,21 @@ efforts in managing these hospitals in a cost-effective manner during their ramp
 stage. In particular, the gross profit of our hospital business increased by 408.9%
 from RMB20.5 million for the year ended December 31, 2022 to RMB104.5 million
 for the year ended December 31, 2023.
- Continue to enhance our hospital management business. For this business
+(cid:129) Continue to enhance our hospital management business. For this business
 segment, our long-term expansion strategy is to continuously identify suitable
 hospitals for our hospital management business by reviewing and screening
 potential hospital targets in a systematic manner. Accordingly, we strategically
 target hospitals conforming to our internal criteria. Along with the implementation
 of our expansion strategy, we expect to improve the hospitals’ organizational
 structure, operational efficiency and business performance.
- Benefiting from customer acquisition strategy for supply of pharmaceuticals,
+(cid:129) Benefiting from customer acquisition strategy for supply of pharmaceuticals,
 medical equipment and consumables. For this business segment, our long-term
 expansion strategy is to maintain its steady development by focusing on the
 demands from our Managed Hospital and Health Service Center. Along with the
 implementationofourexpansionstrategy,weexpecttoenrichourservicesofferings
 forourManagedHospitalandHealthServiceCenter,therebyhelpingusmaintaining
 stable management fee rate of our hospital management services in the future.
- Improve our financial position. We plan to improve our financial position through
+(cid:129) Improve our financial position. We plan to improve our financial position through
 increasing cash generated from operating activities through continuous
 improvement of the business operation of our self-owned hospitals: (i) in respect of
 hospitals with gross loss for the year ended December 31, 2024 (i.e. Hefei Bayway
@@ -26131,7 +26131,7 @@ pressure.
 
 === PAGE 562 ===
 FINANCIAL INFORMATION
- Implementing multiple business initiatives. As discussed above, we have
+(cid:129) Implementing multiple business initiatives. As discussed above, we have
 formulated and begun to implement specific strategies and concrete plans to
 improveourprofitability,suchasvariousbusinessinitiativestoenhanceourhospital
 business and stimulate their spending with us, and continuous improvement of our
@@ -27821,7 +27821,7 @@ in this prospectus), will be approximately HK$623.6 million, after deduction of 
 fees and commissions and estimated expenses payable by us in connection with the Global
 Offering.
 We intend to use the net proceeds of the Global Offering for the following purposes:
- for continuously strengthening our
+(cid:129) approximately 35.7% (or HK$222.8 million) for continuously strengthening our
 full-cycle oncology healthcare services primarily through purchasing medical
 equipment and recruiting medical professionals, which will enable us to enhance the
 quality of our healthcare services and satisfy the rapid growth in demand for
@@ -27883,7 +27883,7 @@ Construction:
 Construction of our Oncology
 Center Building for Wuzhi Jimin
 Hospital 5.7 26.7 5.6 38.0
- for acquiring hospitals, when
+(cid:129) approximately 30.6% (or HK$191.0 million) for acquiring hospitals, when
 appropriate opportunities arise, in new markets which satisfy criteria include: (i)
 havingsizeablepopulation;(ii)havingacertainlevelofeconomicdevelopment;and
 (iii)provincesand/orcitieswithademandgapduetotherelativescarcityofmedical
@@ -27905,7 +27905,7 @@ not identified any definite acquisition targets. Please see “Business – Our 
 – Strengthen our market leading position by expanding our hospital network to
 address the unmet market demand” and “Business – Our Hospital Investment and
 Acquisition – Strategic Acquisition” in this prospectus for more details;
- for expansion of our hospital
+(cid:129) approximately 15.3% (or HK$95.4 million) for expansion of our hospital
 management business, including but not limited to enhancing our information
 systems and platforms and recruiting operation and management professionals.
 Pursuant to our hospital management agreements, we are responsible for consulting,
@@ -27965,11 +27965,11 @@ Managed Hospital and Health Service Center, as well as preventing the potential
 operational risks, we have formulated and strictly implemented specific internal control
 policy, namely the Regulations on Internal Competition Control (《內部競爭管控規
 定》). The major terms of the Regulations on Internal Competition Control include:
- fundamental regulations: the internal competition among In-network
+(cid:129) fundamental regulations: the internal competition among In-network
 Hospitals, if any, shall not affect the network effects and synergies among
 them, which lay a solid foundation for our sustainable growth and future
 expansion into new regional local markets;
- regulations on geographical area: starting from our overall strategy and
+(cid:129) regulations on geographical area: starting from our overall strategy and
 taking into account the particularity of hospital operation and the limited
 radiation scope of individual hospitals, we shall proceed from the actual
 situation when building or acquiring new self-owned hospitals, or seeking new
@@ -27987,12 +27987,12 @@ as our Group as a whole;
 
 === PAGE 612 ===
 FUTURE PLANS AND USE OF PROCEEDS
- regulations on business scope: when building or acquiring new self-owned
+(cid:129) regulations on business scope: when building or acquiring new self-owned
 hospitals, or seeking new managed hospitals, we shall fully consider the
 business scope of our existing self-owned hospitals and managed hospitals and
 conduct a comprehensive assessment before making an investment decision;
 and
- regulations on competitive behavior: it is prohibited to engage in vicious
+(cid:129) regulations on competitive behavior: it is prohibited to engage in vicious
 competition in ways that violate laws and regulations and harm the interests of
 other In-network Hospitals. In particular, (i) it is prohibited to maliciously
 distinguish the self-owned hospitals and managed hospitals, and maliciously
@@ -28012,7 +28012,7 @@ implementation of the Regulations on Internal Competition Control, our audit and
 department has been appointed as the supervisory department that performing
 responsibilities such as policy improvement, implementation monitoring, accepting
 internal reports and making rectification suggestions.
- for upgrading our IT infrastructure
+(cid:129) approximately 10.2% (or HK$63.7 million) for upgrading our IT infrastructure
 and/or systems to enhance our healthcare services provision capabilities as well as
 operation and management efficiency. We intend to use (i) approximately 8.3% (or
 HK$51.6 million) to upgrade our existing data center and software; (ii)
@@ -28032,7 +28032,7 @@ December 31, December 31, December 31,
 (HK$ millions)
 Upgrading IT infrastructure
 and/or systems 22.0 31.8 9.9 63.7
- for working capital and other general
+(cid:129) approximately 8.1% (or HK$50.7 million) for working capital and other general
 corporate purposes.
 If the Offer Price is fixed at HK$6.75 per Offer Share (being the high-end of the Offer
 Price range stated in this prospectus), we will receive additional net proceeds of approximately
@@ -28911,12 +28911,12 @@ A. APPLICATION FOR HONG KONG OFFER SHARES
 1. Who Can Apply
 You can apply for Hong Kong Offer Shares if you or the person(s) for whose benefit you
 are applying for:
- are 18 years of age or older; and
-.
+(cid:129) are 18 years of age or older; and
+(cid:129) have a Hong Kong address (for the HK eIPO White Form service only).
 Unless permitted by the Listing Rules, you cannot apply for any Hong Kong Offer Shares
 if you or the person(s) for whose benefit you are applying for:
- are an existing Shareholder or its close associates; or
- are a Director or any of his/her close associates.
+(cid:129) are an existing Shareholder or its close associates; or
+(cid:129) are a Director or any of his/her close associates.
 2. Application Channels
 The Hong Kong Public Offer period will begin at 9:00 a.m. on Friday, June 13, 2025
 and end at 12:00 noon on Wednesday, June 18, 2025 (Hong Kong time).
@@ -28991,11 +28991,11 @@ breach of the terms and conditions of this prospectus.
 3. Information Required to Apply
 You must provide the following information with your application:
 For Individual Applicants For Corporate Applicants
-2 as shown on your
+(cid:129) Full name(s)2 as shown on your (cid:129) Full name(s)2 as shown on your
 identity document identity document
- Identity document’s issuing country
+(cid:129) Identity document’s issuing country (cid:129) Identity document’s issuing country
 or jurisdiction or jurisdiction
- Identity document type, with order
+(cid:129) Identity document type, with order (cid:129) Identity document type, with order
 of priority: of priority:
 i. Hong Kong ID card; or i. Legal Entity Identifier (“LEI”)
 registration document; or
@@ -29003,9 +29003,9 @@ ii. National identification
 document; or ii. Certificate of incorporation; or
 iii. Passport; and iii. Business registration
 certificate; or
- Identity document number
+(cid:129) Identity document number
 iv. Other equivalent document; and
- Identity document number
+(cid:129) Identity document number
 – 629 –
 
 === PAGE 639 ===
@@ -29044,9 +29044,9 @@ above.
 “Unlisted company” means a company with no equity securities listed on the Stock Exchange or any
 other stock exchange.
 “Statutory control” means you:
- control the composition of the board of directors of the company;
- control more than half of the voting power of the company; or
- holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
+(cid:129) control the composition of the board of directors of the company;
+(cid:129) control more than half of the voting power of the company; or
+(cid:129) holdmorethanhalfoftheissuedsharecapitalofthecompany(notcountinganypartofitwhich
 carries no right to participate beyond a specified amount in a distribution of either profits or
 capital).
 For those applying through HKSCC EIPO channel, and making an application under a
@@ -29308,21 +29308,21 @@ any application, without giving any reasons.
 3. If the allocation of Hong Kong Offer Shares is void:
 The allocation of Hong Kong Offer Shares will be void if the Stock Exchange does not
 grant permission to list the Shares either:
- within three weeks from the closing date of the application lists; or
- within a longer period of up to six weeks if the Stock Exchange notifies us of that
+(cid:129) within three weeks from the closing date of the application lists; or
+(cid:129) within a longer period of up to six weeks if the Stock Exchange notifies us of that
 longer period within three weeks of the closing date of the application lists.
 – 637 –
 
 === PAGE 647 ===
 HOW TO APPLY FOR THE HONG KONG OFFER SHARES
 4. If:
- you make multiple applications or suspected multiple applications.You may refer to
+(cid:129) you make multiple applications or suspected multiple applications.You may refer to
 the paragraph headed “—A.Application for Hong Kong Offer Shares — 5. Multiple
 Applications Prohibited” in this section on what constitutes multiple applications;
- your application instruction is incomplete;
- is not made correctly;
- the Underwriting Agreements do not become unconditional or are terminated;
- we or the Overall Coordinator believe that by accepting your application, it or we
+(cid:129) your application instruction is incomplete;
+(cid:129) your payment (or confirmation of funds, as the case may be) is not made correctly;
+(cid:129) the Underwriting Agreements do not become unconditional or are terminated;
+(cid:129) we or the Overall Coordinator believe that by accepting your application, it or we
 would violate applicable securities or other laws, rules or regulations.
 5. If there is money settlement failure for allotted Shares:
 Based on the arrangements between HKSCC Participants and HKSCC, HKSCC
@@ -29434,9 +29434,9 @@ HOW TO APPLY FOR THE HONG KONG OFFER SHARES
 E. BAD WEATHER ARRANGEMENTS
 The Opening and Closing of the Application Lists
 The application lists will not open or close on Wednesday, June 18, 2025 if there is:
- a tropical cyclone warning signal number 8 or above;
- a black rainstorm warning; and/or
-,
+(cid:129) a tropical cyclone warning signal number 8 or above;
+(cid:129) a black rainstorm warning; and/or
+(cid:129) Extreme Conditions (collectively, “Bad Weather Signals”),
 in force in Hong Kong at any time between 9:00 a.m. and 12:00 noon on Wednesday, June 18,
 2025.
 Instead, they will open between 11:45 a.m. and 12:00 noon and/or close at 12:00 noon on
@@ -29515,27 +29515,27 @@ data supplied.
 3. Purposes
 Your personal data may be used, held, processed, and/or stored (by whatever means) for
 the following purposes:
- processing your application and refund cheque and HK eIPO White Form e-Auto
+(cid:129) processing your application and refund cheque and HK eIPO White Form e-Auto
 Refund payment instruction(s), where applicable, verification of compliance with
 the terms and application procedures set out in this prospectus and announcing
 results of allocation of Hong Kong Offer Shares;
- compliance with applicable laws and regulations in Hong Kong and elsewhere;
- registering new issues or transfers into or out of the names of the holders of the
+(cid:129) compliance with applicable laws and regulations in Hong Kong and elsewhere;
+(cid:129) registering new issues or transfers into or out of the names of the holders of the
 Shares including, where applicable, HKSCC Nominees;
- maintaining or updating the register of members of the Company;
- verifying identities of applicants for and holders of the Shares and identifying any
+(cid:129) maintaining or updating the register of members of the Company;
+(cid:129) verifying identities of applicants for and holders of the Shares and identifying any
 duplicate applications for the Shares;
- facilitating Hong Kong Offer Shares balloting;
- establishing benefit entitlements of holders of the Shares, such as dividends, rights
+(cid:129) facilitating Hong Kong Offer Shares balloting;
+(cid:129) establishing benefit entitlements of holders of the Shares, such as dividends, rights
 issues, bonus issues, etc.;
- distributing communications from the Company and its subsidiaries;
- compiling statistical information and profiles of the holder of the Shares;
- disclosing relevant information to facilitate claims on entitlements; and
+(cid:129) distributing communications from the Company and its subsidiaries;
+(cid:129) compiling statistical information and profiles of the holder of the Shares;
+(cid:129) disclosing relevant information to facilitate claims on entitlements; and
 – 643 –
 
 === PAGE 653 ===
 HOW TO APPLY FOR THE HONG KONG OFFER SHARES
- anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
+(cid:129) anyotherincidentalorassociatedpurposesrelatingtotheaboveand/ortoenablethe
 Company and the Hong Kong Share Registrar to discharge their obligations to
 applicants and holders of the Shares and/or regulators and/or any other purposes to
 which applicants and holders of the Shares may from time to time agree.
@@ -29545,21 +29545,21 @@ applicants for and holders of Hong Kong Offer Shares will be kept confidential, 
 Company and the Hong Kong Share Registrar may, to the extent necessary for achieving any
 of the above purposes, disclose, obtain or transfer (whether within or outside Hong Kong) the
 personal data to, from or with any of the following:
- the Company’s appointed agents such as financial advisors, receiving bank and
+(cid:129) the Company’s appointed agents such as financial advisors, receiving bank and
 overseas principal share registrar;
- HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
+(cid:129) HKSCC or HKSCC Nominees, who will use the personal data and may transfer the
 personal data to the Hong Kong Share Registrar, in each case for the purposes of
 providing its services or facilities or performing its functions in accordance with its
 rules or procedures and operating FINI and CCASS (including where applicants for
 the Hong Kong Offer Shares request a deposit into CCASS);
- any agents, contractors or third-party service providers who offer administrative,
+(cid:129) any agents, contractors or third-party service providers who offer administrative,
 telecommunications, computer, payment or other services to the Company or the
 Hong Kong Share Registrar in connection with their respective business operation;
- the Stock Exchange, the SFC and any other statutory regulatory or governmental
+(cid:129) the Stock Exchange, the SFC and any other statutory regulatory or governmental
 bodies or otherwise as required by laws, rules or regulations, including for the
 purpose of the Stock Exchange’s administration of the Listing Rules and the SFC’s
 performance of its statutory functions; and
- any persons or institutions with which the holders of Hong Kong Offer Shares have
+(cid:129) any persons or institutions with which the holders of Hong Kong Offer Shares have
 or propose to have dealings, such as their bankers, solicitors, accountants or brokers
 etc.
 5. Retention of personal data
@@ -33060,8 +33060,8 @@ performing procedures to assess whether the applicable criteria used by the Dire
 compilation of the pro forma financial information provide a reasonable basis for presenting
 the significant effects directly attributable to the event or transaction, and to obtain sufficient
 appropriate evidence about whether:
- the related pro forma adjustments give appropriate effect to those criteria; and
- the pro forma financial information reflects the proper application of those
+(cid:129) the related pro forma adjustments give appropriate effect to those criteria; and
+(cid:129) the pro forma financial information reflects the proper application of those
 adjustments to the unadjusted financial information.
 – II-4 –
 
@@ -34315,11 +34315,11 @@ General
 Exercise in full of the Buy-Back Mandate, on the basis of 1,318,466,823 Shares in issue
 immediately following the completion of the Global Offering, could accordingly result in up
 to approximately 131,846,682 Shares being repurchased by us during the period prior to:
- the conclusion of our next annual general meeting;
- the expiration of the period within which the next annual general meeting of our
+(cid:129) the conclusion of our next annual general meeting;
+(cid:129) the expiration of the period within which the next annual general meeting of our
 Company is required by any applicable law or theArticles ofAssociation to be held;
 or
- the date on which the repurchase mandate is varied or revoked by an ordinary
+(cid:129) the date on which the repurchase mandate is varied or revoked by an ordinary
 resolution of our Shareholders in general meeting, whichever is the earliest.
 None of our Directors nor, to the best of their knowledge having made all reasonable
 enquiries,anyoftheircloseassociates(asdefinedintheListingRules)currentlyintendstosell
@@ -34871,24 +34871,24 @@ by our Company or our subsidiary to our Directors or the five highest paid indiv
 the Track Record Period.
 Disclaimers
 Save as disclosed in this prospectus:
- none of the Directors nor any of the persons whose names are listed in “Other
+(cid:129) none of the Directors nor any of the persons whose names are listed in “Other
 Information – Qualifications of experts” in this appendix has any direct or indirect
 interest in the promotion of, or in any assets which have been, within the two years
 immediately preceding the date of this prospectus, acquired or disposed of by or
 leased to any member of our Group, or are proposed to be acquired or disposed of
 by or leased to any member of our Group;
- none of the Directors nor any of the persons whose names are listed in “Other
+(cid:129) none of the Directors nor any of the persons whose names are listed in “Other
 Information – Qualifications of experts” in this appendix is materially interested in
 any contract or arrangement subsisting at the date of this prospectus which is
 significant in relation to the business of our Group;
- none of the Directors is materially interested in any contract or arrangement
+(cid:129) none of the Directors is materially interested in any contract or arrangement
 subsisting at the date of this prospectus which is significant in relation to the
 business of our Group taken as a whole;
- or
+(cid:129) none of the Directors or their close associates (as defined in the Listing Rules) or
 existing Shareholders of our Company (who, to the knowledge of the Directors,
 owns more than 5% of our issued share capital) has any interest in any of the five
 largest customers of our Company; and
- or
+(cid:129) none of the Directors or their close associates (as defined in the Listing Rules) or
 our existing Shareholders of our Company (who, to the knowledge of the Directors,
 owns more than 5% of our issued share capital) has any interest in any of the five
 largest suppliers of our Company.
@@ -35540,47 +35540,47 @@ published separately in reliance on the exemption provided in section 4 of the C
 (Chapter 32L of the Laws of Hong Kong).
 Miscellaneous
 Save as otherwise disclosed in this prospectus:
- within the two years immediately preceding the date of this prospectus, no share or
+(cid:129) within the two years immediately preceding the date of this prospectus, no share or
 loan capital of our Company or any of our subsidiaries has been issued or agreed to
 be issued fully or partly paid either for cash or for a consideration other than cash;
- within the two years immediately preceding the date of this prospectus, there are no
+(cid:129) within the two years immediately preceding the date of this prospectus, there are no
 commissions for subscribing or agreeing to subscribe, or procuring or agreeing to
 procure subscriptions, for any shares in or debentures of our Company;
- within the two years immediately preceding the date of this prospectus, there are no
+(cid:129) within the two years immediately preceding the date of this prospectus, there are no
 commissions, discounts, brokerages or other special terms granted in connection
 with the issue or sale of any capital of any member of our Group, and no Directors,
 promoters or experts named in “Other information – Qualifications of Experts” in
 this appendix received any such payment or benefit;
- therearenofounder,managementordeferredsharesinourCompanyoranymember
+(cid:129) therearenofounder,managementordeferredsharesinourCompanyoranymember
 of our Group;
- we do not have any promoter and no cash, securities or other benefit has been paid,
+(cid:129) we do not have any promoter and no cash, securities or other benefit has been paid,
 allotted or given within the two years immediately preceding the date of this
 document, or are proposed to be paid, allotted or given to any promoters;
- none of the Directors or the experts named in “Other information – Qualifications
+(cid:129) none of the Directors or the experts named in “Other information – Qualifications
 of Experts” in this appendix above has any interest, direct or indirect, in the
 promotion of, or in any assets which have been, within the two years immediately
 preceding the date of this prospectus, acquired or disposed of by or leased to, any
 member of our Group, or are proposed to be acquired or disposed of by or leased to
 any member of our Group;
- there are no bank overdrafts or other similar indebtedness by our Company or any
+(cid:129) there are no bank overdrafts or other similar indebtedness by our Company or any
 member of our Group;
- there are no hire purchase commitments, guarantees or other material contingent
+(cid:129) there are no hire purchase commitments, guarantees or other material contingent
 liabilities of our Company or any member of our Group;
 – IV-40 –
 
 === PAGE 794 ===
 APPENDIX IV STATUTORY AND GENERAL INFORMATION
- there are no outstanding convertible debt securities or debentures of our Company
+(cid:129) there are no outstanding convertible debt securities or debentures of our Company
 or any member of our Group;
- none of the equity and debt securities of our Company is listed or dealt in on any
+(cid:129) none of the equity and debt securities of our Company is listed or dealt in on any
 stock exchange (other than the Stock Exchange) nor is any listing or permission to
 deal being or proposed to be sought;
- no capital of any member of our Group is under option, or is agreed conditionally
+(cid:129) no capital of any member of our Group is under option, or is agreed conditionally
 or unconditionally to be put under option;
- there has not been any interruption in the business of our Group which may have or
+(cid:129) there has not been any interruption in the business of our Group which may have or
 has had a significant effect on the financial position of our Group in the 12 months
 preceding the date of this prospectus; and
- there are no contracts or arrangements subsisting at the date of this prospectus in
+(cid:129) there are no contracts or arrangements subsisting at the date of this prospectus in
 which a Director is materially interested or which is significant in relation to the
 business of our Group.
 – IV-41 –
