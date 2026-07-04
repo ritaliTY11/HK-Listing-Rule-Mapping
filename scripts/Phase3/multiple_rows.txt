@@ -1,0 +1,13 @@
+NOTE: 3 stock code(s) had more than one qualifying log row.
+Kept the chronologically latest as canonical. Review these manually --
+they may be genuine GEM-to-Main-Board transfers, amended filings, or log duplicates:
+
+  02271:
+    30/06/2023 06:36  Main Board   02271_20230630.pdf  (Listing Documents - [Offer for Subscription])
+    30/12/2022 06:25  Main Board   02271_20221230.pdf  (Listing Documents - [Offer for Subscription])
+  02515:
+    15/04/2024 06:12  Main Board   02515_20240415.pdf  (Listing Documents - [Offer for Subscription])
+    29/12/2023 07:18  Main Board   02515_20231229.pdf  (Listing Documents - [Offer for Subscription])
+  02553:
+    26/05/2026 06:32  Main Board   02553_20260526.pdf  (Listing Documents - [Offer for Subscription])
+    30/06/2025 06:29  Main Board   02553_20250630.pdf  (Listing Documents - [Offer for Subscription])
