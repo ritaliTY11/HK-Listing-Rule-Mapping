@@ -1,0 +1,62 @@
+stock_code,company_name,date_filed,expected_filename,local_status,pdf_url
+02125,STRAWBEAR ENT,20201231,02125_20201231.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1231/2020123100263.pdf
+02159,MEDIWELCOME,20201231,02159_20201231.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1231/2020123100137.pdf
+02158,YIDU TECH,20201231,02158_20201231.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1231/2020123100119.pdf
+01490,CHESHI,20201231,01490_20201231.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1231/2020123100117.pdf
+01643,MODERN CHI MED,20201231,01643_20201231.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1231/2020123100103.pdf
+09608,SUNDY SERVICE,20201231,09608_20201231.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1231/2020123100097.pdf
+02146,ROISERV,20201231,02146_20201231.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1231/2020123100013.pdf
+02153,TAT HONG EQUIP,20201230,02153_20201230.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1230/2020123000017.pdf
+01855,ZONBONG ENVIRO,20201222,01855_20201222.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1222/2020122200017.pdf
+09600,NEWLINK TECH,20201221,09600_20201221.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1221/2020122100005.pdf
+01945,ZERO2IPO,20201216,01945_20201216.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1216/2020121600025.pdf
+01940,CGII HLDGS,20201216,01940_20201216.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1216/2020121600011.pdf
+02135,RAILY AESMED,20201215,02135_20201215.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1215/2020121500148.pdf
+02127,HUISEN INTL,20201214,02127_20201214.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1214/2020121400021.pdf
+01379,WENLING MCT,20201211,01379_20201211.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1211/2020121100011.pdf
+01167,JACOBIO-B,20201209,01167_20201209.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1209/2020120900013.pdf
+06677,SINO-OCEAN SERV,20201207,06677_20201207.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1207/2020120700092.pdf
+02131,NETJOY,20201207,02131_20201207.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1207/2020120700090.pdf
+06993,BLUE MOON GROUP,20201204,06993_20201204.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1204/2020120401797.pdf
+09992,POP MART,20201201,09992_20201201.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1201/2020120100099.pdf
+02142,HBM HOLDINGS-B,20201130,02142_20201130.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1130/2020113000017.pdf
+01153,JIAYUAN SER,20201127,01153_20201127.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2020/1127/2020112700025.pdf
+06680,JLMAG,20211231,06680_20211231.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1231/2021123100023.pdf
+02250,SEMK HOLDINGS,20211230,02250_20211230.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1230/2021123000005.pdf
+02260,VANOV HOLDINGS,20211229,02260_20211229.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1229/2021122900033.pdf
+02257,SIRNAOMICS-B,20211220,02257_20211220.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1220/2021122000007.pdf
+02285,CHERVON,20211217,02285_20211217.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1217/2021121700005.pdf
+02185,BIOHEART-B,20211213,02185_20211213.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1213/2021121300025.pdf
+00020,SENSETIME-W,20211207,00020_20211207.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1207/2021120700017.pdf
+06633,QINGCI GAMES,20211206,06633_20211206.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1206/2021120600013.pdf
+02279,YONGHE MEDICAL,20211201,02279_20211201.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1201/2021120100031.pdf
+02270,DESUN SERVICES,20211130,02270_20211130.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1130/2021113000045.pdf
+06821,ASYMCHEM,20211130,06821_20211130.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1130/2021113000029.pdf
+02273,GUSHENGTANG,20211130,02273_20211130.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1130/2021113000025.pdf
+09699,SF INTRA-CITY,20211130,09699_20211130.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1130/2021113000021.pdf
+02276,CONANT OPTICAL,20211130,02276_20211130.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1130/2021113000017.pdf
+01228,CANBRIDGE-B,20211130,01228_20211130.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1130/2021113000013.pdf
+09898,WB-SW,20211129,09898_20211129.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1129/2021112900007.pdf
+09899,CLOUD VILLAGE,20211123,09899_20211123.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1123/2021112300032.pdf
+02265,HC ENV TECH,20211029,02265_20211029.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1029/2021102900113.pdf
+02210,BEIJING JIAYE,20211029,02210_20211029.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1029/2021102900097.pdf
+01948,UJU HOLDING,20211026,01948_20211026.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1026/2021102600091.pdf
+02251,AIRDOC-B,20211026,02251_20211026.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1026/2021102600003.pdf
+02197,CLOVER BIO-B,20211025,02197_20211025.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1025/2021102500007.pdf
+02252,MEDBOT-B,20211021,02252_20211021.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1021/2021102100011.pdf
+02235,MICROTECH MED-B,20211006,02235_20211006.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1006/2021100600007.pdf
+02256,ABBISKO-B,20210930,02256_20210930.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0930/2021093000017.pdf
+09889,DRCB,20210916,09889_20210916.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0916/2021091600019.pdf
+06628,TRANSCENTA-B,20210914,06628_20210914.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0914/2021091400015.pdf
+02216,BRONCUS-B,20210913,02216_20210913.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0913/2021091300015.pdf
+09869,HELENS,20210831,09869_20210831.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0831/2021083100011.pdf
+06669,ACOTEC-B,20210812,06669_20210812.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0812/2021081200017.pdf
+06609,HEARTCARE-B,20210810,06609_20210810.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0810/2021081000015.pdf
+02015,LI AUTO-W,20210803,02015_20210803.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0803/2021080300011.pdf
+06913,SCVE GROUP,20210630,06913_20210630.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0630/2021063000199.pdf
+02192,MEDLIVE,20210630,02192_20210630.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0630/2021063000187.pdf
+02175,CH GENERAL EDU,20210630,02175_20210630.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0630/2021063000077.pdf
+06909,BETTERLIFE HLDG,20210630,06909_20210630.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0630/2021063000067.pdf
+06616,GLOBAL NEW MAT,20210630,06616_20210630.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0630/2021063000059.pdf
+02137,BRII - B,20210630,02137_20210630.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0630/2021063000045.pdf
+06611,SANXUN GROUP,20210630,06611_20210630.pdf,MISSING,https://www1.hkexnews.hk/listedco/listconews/sehk/2021/0630/2021063000037.pdf
