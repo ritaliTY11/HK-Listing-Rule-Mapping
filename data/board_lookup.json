@@ -1,1922 +1,3225 @@
 {
-  "02458": {
-    "board": "Main Board",
-    "company_name": "GALA TECH HOLD",
-    "filename": "02458_20221230.pdf",
-    "date_filed": "30/12/2022 06:48"
-  },
-  "02271": {
-    "board": "Main Board",
-    "company_name": "ZHONGAN SERVICE",
-    "filename": "02271_20221230.pdf",
-    "date_filed": "30/12/2022 06:25"
-  },
-  "02373": {
-    "board": "Main Board",
-    "company_name": "BEAUTYFARM MED",
-    "filename": "02373_20221230.pdf",
-    "date_filed": "30/12/2022 06:23"
-  },
-  "02459": {
-    "board": "Main Board",
-    "company_name": "SANERGY GROUP",
-    "filename": "02459_20221230.pdf",
-    "date_filed": "30/12/2022 06:18"
-  },
-  "02306": {
-    "board": "Main Board",
-    "company_name": "YH ENT",
-    "filename": "02306_20221230.pdf",
-    "date_filed": "30/12/2022 06:14"
-  },
-  "02450": {
-    "board": "Main Board",
-    "company_name": "HUAIBEI GD CO",
-    "filename": "02450_20221230.pdf",
-    "date_filed": "30/12/2022 06:13"
-  },
-  "02455": {
-    "board": "Main Board",
-    "company_name": "RUNHUA SERVICE",
-    "filename": "02455_20221230.pdf",
-    "date_filed": "30/12/2022 06:12"
-  },
-  "02411": {
-    "board": "Main Board",
-    "company_name": "PAGODA GP",
-    "filename": "02411_20221229.pdf",
-    "date_filed": "29/12/2022 06:15"
-  },
-  "02402": {
-    "board": "Main Board",
-    "company_name": "SINOHYTEC",
-    "filename": "02402_20221229.pdf",
-    "date_filed": "29/12/2022 06:07"
-  },
-  "02469": {
-    "board": "Main Board",
-    "company_name": "FENBI",
-    "filename": "02469_20221223.pdf",
-    "date_filed": "23/12/2022 06:13"
-  },
-  "06955": {
-    "board": "Main Board",
-    "company_name": "BOAN BIOTECH-B",
-    "filename": "06955_20221219.pdf",
-    "date_filed": "19/12/2022 06:16"
-  },
-  "02425": {
-    "board": "Main Board",
-    "company_name": "AUSTASIA GROUP",
-    "filename": "02425_20221216.pdf",
-    "date_filed": "16/12/2022 06:13"
-  },
-  "06922": {
-    "board": "Main Board",
-    "company_name": "CRYOFOCUS-B",
-    "filename": "06922_20221216.pdf",
-    "date_filed": "16/12/2022 06:10"
-  },
-  "06698": {
-    "board": "Main Board",
-    "company_name": "STAR CM",
-    "filename": "06698_20221215.pdf",
-    "date_filed": "15/12/2022 06:09"
-  },
-  "02427": {
-    "board": "Main Board",
-    "company_name": "GUANZE MEDICAL",
-    "filename": "02427_20221215.pdf",
-    "date_filed": "15/12/2022 06:04"
-  },
-  "01405": {
-    "board": "Main Board",
-    "company_name": "DPC DASH",
-    "filename": "01405_20221213.pdf",
-    "date_filed": "13/12/2022 06:15"
-  },
-  "06929": {
-    "board": "Main Board",
-    "company_name": "ORBUSNEICH",
-    "filename": "06929_20221213.pdf",
-    "date_filed": "13/12/2022 06:13"
-  },
-  "00314": {
-    "board": "Main Board",
-    "company_name": "SIPAI HEALTH",
-    "filename": "00314_20221212.pdf",
-    "date_filed": "12/12/2022 06:26"
-  },
-  "02145": {
-    "board": "Main Board",
-    "company_name": "CHICMAX",
-    "filename": "02145_20221212.pdf",
-    "date_filed": "12/12/2022 06:19"
-  },
-  "09985": {
-    "board": "Main Board",
-    "company_name": "WEILONG",
-    "filename": "09985_20221205.pdf",
-    "date_filed": "05/12/2022 06:19"
-  },
-  "02407": {
-    "board": "Main Board",
-    "company_name": "GAUSH MEDITECH",
-    "filename": "02407_20221130.pdf",
-    "date_filed": "30/11/2022 06:39"
-  },
-  "02440": {
-    "board": "Main Board",
-    "company_name": "HOWKINGTECH",
-    "filename": "02440_20221130.pdf",
-    "date_filed": "30/11/2022 06:38"
-  },
-  "06963": {
-    "board": "Main Board",
-    "company_name": "SUNSHINE INS",
-    "filename": "06963_20221130.pdf",
-    "date_filed": "30/11/2022 06:15"
-  },
-  "01947": {
-    "board": "Main Board",
-    "company_name": "MEIHAO GROUP",
-    "filename": "01947_20221130.pdf",
-    "date_filed": "30/11/2022 06:10"
-  },
-  "01244": {
-    "board": "Main Board",
-    "company_name": "3D MEDICINES-B",
-    "filename": "01244_20221129.pdf",
-    "date_filed": "29/11/2022 06:14"
-  },
-  "02457": {
-    "board": "Main Board",
-    "company_name": "BUYANG INTL",
-    "filename": "02457_20221129.pdf",
-    "date_filed": "29/11/2022 06:14"
-  },
-  "02245": {
-    "board": "Main Board",
-    "company_name": "LYGEND RESOURCE",
-    "filename": "02245_20221121.pdf",
-    "date_filed": "21/11/2022 06:17"
-  },
-  "03660": {
-    "board": "Main Board",
-    "company_name": "360 DIGITECH-S",
-    "filename": "03660_20221118.pdf",
-    "date_filed": "18/11/2022 06:14"
-  },
-  "02436": {
-    "board": "Main Board",
-    "company_name": "LX TECHNOLOGY",
-    "filename": "02436_20221114.pdf",
-    "date_filed": "14/11/2022 06:21"
-  },
-  "02420": {
-    "board": "Main Board",
-    "company_name": "ZIBUYU",
-    "filename": "02420_20221031.pdf",
-    "date_filed": "31/10/2022 06:15"
-  },
-  "01407": {
-    "board": "Main Board",
-    "company_name": "JY GAS",
-    "filename": "01407_20221031.pdf",
-    "date_filed": "31/10/2022 06:06"
-  },
-  "06696": {
-    "board": "Main Board",
-    "company_name": "MANY IDEA CLOUD",
-    "filename": "06696_20221028.pdf",
-    "date_filed": "28/10/2022 06:20"
-  },
-  "02291": {
-    "board": "Main Board",
-    "company_name": "SCIENTECH",
-    "filename": "02291_20221027.pdf",
-    "date_filed": "27/10/2022 06:12"
-  },
-  "02367": {
-    "board": "Main Board",
-    "company_name": "GIANT BIOGENE",
-    "filename": "02367_20221025.pdf",
-    "date_filed": "25/10/2022 06:12"
-  },
-  "02422": {
-    "board": "Main Board",
-    "company_name": "REGO INTERACT",
-    "filename": "02422_20220930.pdf",
-    "date_filed": "30/09/2022 07:16"
-  },
-  "06610": {
-    "board": "Main Board",
-    "company_name": "FLOWING CLOUD",
-    "filename": "06610_20220929.pdf",
-    "date_filed": "29/09/2022 07:50"
-  },
-  "03931": {
-    "board": "Main Board",
-    "company_name": "CALB",
-    "filename": "03931_20220923.pdf",
-    "date_filed": "23/09/2022 06:15"
-  },
-  "06660": {
-    "board": "Main Board",
-    "company_name": "AIM VACCINE",
-    "filename": "06660_20220923.pdf",
-    "date_filed": "23/09/2022 06:12"
-  },
-  "09877": {
-    "board": "Main Board",
-    "company_name": "JENSCARE-B",
-    "filename": "09877_20220923.pdf",
-    "date_filed": "23/09/2022 06:08"
-  },
-  "09863": {
-    "board": "Main Board",
-    "company_name": "LEAPMOTOR",
-    "filename": "09863_20220920.pdf",
-    "date_filed": "20/09/2022 06:14"
-  },
-  "02602": {
-    "board": "Main Board",
-    "company_name": "ONEWO",
-    "filename": "02602_20220919.pdf",
-    "date_filed": "19/09/2022 06:12"
-  },
-  "02515": {
-    "board": "Main Board",
-    "company_name": "TJCD",
-    "filename": "02515_20231229.pdf",
-    "date_filed": "29/12/2023 07:18"
-  },
-  "06959": {
-    "board": "Main Board",
-    "company_name": "CHANGJIU HLDGS",
-    "filename": "06959_20231229.pdf",
-    "date_filed": "29/12/2023 06:18"
-  },
-  "02453": {
-    "board": "Main Board",
-    "company_name": "CONCORD HC GP",
-    "filename": "02453_20231229.pdf",
-    "date_filed": "29/12/2023 06:14"
-  },
-  "02498": {
-    "board": "Main Board",
-    "company_name": "ROBOSENSE",
-    "filename": "02498_20231227.pdf",
-    "date_filed": "27/12/2023 06:26"
-  },
-  "09880": {
-    "board": "Main Board",
-    "company_name": "UBTECH ROBOTICS",
-    "filename": "09880_20231219.pdf",
-    "date_filed": "19/12/2023 06:13"
-  },
-  "02149": {
-    "board": "Main Board",
-    "company_name": "BATELAB",
-    "filename": "02149_20231218.pdf",
-    "date_filed": "18/12/2023 06:16"
-  },
-  "02489": {
-    "board": "Main Board",
-    "company_name": "PERSISTENCE RES",
-    "filename": "02489_20231214.pdf",
-    "date_filed": "14/12/2023 06:49"
-  },
-  "02511": {
-    "board": "Main Board",
-    "company_name": "HIGHTIDE-B",
-    "filename": "02511_20231214.pdf",
-    "date_filed": "14/12/2023 06:45"
-  },
-  "06911": {
-    "board": "Main Board",
-    "company_name": "LANCANG TEA",
-    "filename": "06911_20231214.pdf",
-    "date_filed": "14/12/2023 06:12"
-  },
-  "02502": {
-    "board": "Main Board",
-    "company_name": "JINYUAN HCHEM",
-    "filename": "02502_20231212.pdf",
-    "date_filed": "12/12/2023 06:13"
-  },
-  "01274": {
-    "board": "Main Board",
-    "company_name": "IMOTIONAUTOTECH",
-    "filename": "01274_20231212.pdf",
-    "date_filed": "12/12/2023 06:13"
-  },
-  "00666": {
-    "board": "Main Board",
-    "company_name": "REPT BATTERO",
-    "filename": "00666_20231208.pdf",
-    "date_filed": "08/12/2023 06:13"
-  },
-  "01497": {
-    "board": "Main Board",
-    "company_name": "YAN PALACE",
-    "filename": "01497_20231130.pdf",
-    "date_filed": "30/11/2023 06:20"
-  },
-  "02483": {
-    "board": "Main Board",
-    "company_name": "K CASH",
-    "filename": "02483_20231127.pdf",
-    "date_filed": "27/11/2023 07:07"
-  },
-  "02419": {
-    "board": "Main Board",
-    "company_name": "DEKON AGR",
-    "filename": "02419_20231127.pdf",
-    "date_filed": "27/11/2023 06:10"
-  },
-  "09663": {
-    "board": "Main Board",
-    "company_name": "SINOSYNERGY",
-    "filename": "09663_20231127.pdf",
-    "date_filed": "27/11/2023 06:10"
-  },
-  "02520": {
-    "board": "Main Board",
-    "company_name": "SHANXI INSTALL",
-    "filename": "02520_20231110.pdf",
-    "date_filed": "10/11/2023 07:08"
-  },
-  "02268": {
-    "board": "Main Board",
-    "company_name": "WUXI XDC",
-    "filename": "02268_20231107.pdf",
-    "date_filed": "07/11/2023 06:14"
-  },
-  "01111": {
-    "board": "Main Board",
-    "company_name": "HUASHI GROUP",
-    "filename": "01111_20231031.pdf",
-    "date_filed": "31/10/2023 06:17"
-  },
-  "02499": {
-    "board": "Main Board",
-    "company_name": "FOLANGSI",
-    "filename": "02499_20231031.pdf",
-    "date_filed": "31/10/2023 06:16"
-  },
-  "02473": {
-    "board": "Main Board",
-    "company_name": "XXF",
-    "filename": "02473_20231030.pdf",
-    "date_filed": "30/10/2023 07:04"
-  },
-  "02429": {
-    "board": "Main Board",
-    "company_name": "UBOX ONLINE",
-    "filename": "02429_20231024.pdf",
-    "date_filed": "24/10/2023 06:15"
-  },
-  "02517": {
-    "board": "Main Board",
-    "company_name": "GUOQUAN",
-    "filename": "02517_20231020.pdf",
-    "date_filed": "20/10/2023 06:16"
-  },
-  "01519": {
-    "board": "Main Board",
-    "company_name": "J&T EXPRESS-W",
-    "filename": "01519_20231016.pdf",
-    "date_filed": "16/10/2023 06:18"
-  },
-  "09676": {
-    "board": "Main Board",
-    "company_name": "SHIYUE DAOTIAN",
-    "filename": "09676_20230928.pdf",
-    "date_filed": "28/09/2023 14:01"
-  },
-  "02501": {
-    "board": "Main Board",
-    "company_name": "MAIYUE TECH",
-    "filename": "02501_20230928.pdf",
-    "date_filed": "28/09/2023 06:17"
-  },
-  "02451": {
-    "board": "Main Board",
-    "company_name": "LUYUAN GP HLDG",
-    "filename": "02451_20230928.pdf",
-    "date_filed": "28/09/2023 06:11"
-  },
-  "01973": {
-    "board": "Main Board",
-    "company_name": "TIAN TU CAPITAL",
-    "filename": "01973_20230925.pdf",
-    "date_filed": "25/09/2023 06:12"
-  },
-  "09686": {
-    "board": "Main Board",
-    "company_name": "NEUSOFT XIKANG",
-    "filename": "09686_20230918.pdf",
-    "date_filed": "18/09/2023 06:22"
-  },
-  "09890": {
-    "board": "Main Board",
-    "company_name": "ZX INC",
-    "filename": "09890_20230918.pdf",
-    "date_filed": "18/09/2023 06:20"
-  },
-  "06682": {
-    "board": "Main Board",
-    "company_name": "FOURTH PARADIGM",
-    "filename": "06682_20230918.pdf",
-    "date_filed": "18/09/2023 06:11"
-  },
-  "09690": {
-    "board": "Main Board",
-    "company_name": "TUHU-W",
-    "filename": "09690_20230914.pdf",
-    "date_filed": "14/09/2023 06:25"
-  },
-  "02490": {
-    "board": "Main Board",
-    "company_name": "LC LOGISTICS",
-    "filename": "02490_20230913.pdf",
-    "date_filed": "13/09/2023 06:15"
-  },
-  "02496": {
-    "board": "Main Board",
-    "company_name": "YZYBIO-B",
-    "filename": "02496_20230913.pdf",
-    "date_filed": "13/09/2023 06:09"
-  },
-  "01541": {
-    "board": "Main Board",
-    "company_name": "IMMUNEONCO-B",
-    "filename": "01541_20230824.pdf",
-    "date_filed": "24/08/2023 06:28"
-  },
-  "03650": {
-    "board": "Main Board",
-    "company_name": "KEEP",
-    "filename": "03650_20230630.pdf",
-    "date_filed": "30/06/2023 06:30"
-  },
-  "06683": {
-    "board": "Main Board",
-    "company_name": "STARPLUS LEGEND",
-    "filename": "06683_20230630.pdf",
-    "date_filed": "30/06/2023 06:10"
-  },
-  "06990": {
-    "board": "Main Board",
-    "company_name": "SKB BIO-B",
-    "filename": "06990_20230629.pdf",
-    "date_filed": "29/06/2023 06:22"
-  },
-  "02481": {
-    "board": "Main Board",
-    "company_name": "WISE LIVING TEC",
-    "filename": "02481_20230628.pdf",
-    "date_filed": "28/06/2023 06:13"
-  },
-  "09860": {
-    "board": "Main Board",
-    "company_name": "ADICON HOLDINGS",
-    "filename": "09860_20230619.pdf",
-    "date_filed": "19/06/2023 06:15"
-  },
-  "02105": {
-    "board": "Main Board",
-    "company_name": "LAEKNA-B",
-    "filename": "02105_20230616.pdf",
-    "date_filed": "16/06/2023 06:17"
-  },
-  "09885": {
-    "board": "Main Board",
-    "company_name": "YSB",
-    "filename": "09885_20230615.pdf",
-    "date_filed": "15/06/2023 06:20"
-  },
-  "02487": {
-    "board": "Main Board",
-    "company_name": "CUTIA-B",
-    "filename": "02487_20230531.pdf",
-    "date_filed": "31/05/2023 06:18"
-  },
-  "02416": {
-    "board": "Main Board",
-    "company_name": "EDIANYUN",
-    "filename": "02416_20230515.pdf",
-    "date_filed": "15/05/2023 06:09"
-  },
-  "09930": {
-    "board": "Main Board",
-    "company_name": "HORIZON CD",
-    "filename": "09930_20230512.pdf",
-    "date_filed": "12/05/2023 06:12"
-  },
-  "02486": {
-    "board": "Main Board",
-    "company_name": "PLUS GP HOLDING",
-    "filename": "02486_20230428.pdf",
-    "date_filed": "28/04/2023 06:39"
-  },
-  "02560": {
-    "board": "Main Board",
-    "company_name": "CONCH MAT TECH",
-    "filename": "02560_20241231.pdf",
-    "date_filed": "31/12/2024 06:47"
-  },
-  "02571": {
-    "board": "Main Board",
-    "company_name": "SAIMO",
-    "filename": "02571_20241231.pdf",
-    "date_filed": "31/12/2024 06:29"
-  },
-  "00325": {
-    "board": "Main Board",
-    "company_name": "BLOKS",
-    "filename": "00325_20241231.pdf",
-    "date_filed": "31/12/2024 06:28"
-  },
-  "00805": {
-    "board": "Main Board",
-    "company_name": "NEW GONOW RV",
-    "filename": "00805_20241231.pdf",
-    "date_filed": "31/12/2024 06:10"
-  },
-  "02613": {
-    "board": "Main Board",
-    "company_name": "CONTIOCEAN",
-    "filename": "02613_20241231.pdf",
-    "date_filed": "31/12/2024 06:05"
-  },
-  "02596": {
-    "board": "Main Board",
-    "company_name": "YIBIN BANK",
-    "filename": "02596_20241230.pdf",
-    "date_filed": "30/12/2024 06:41"
-  },
-  "06681": {
-    "board": "Main Board",
-    "company_name": "BRAINAURORA-B",
-    "filename": "06681_20241230.pdf",
-    "date_filed": "30/12/2024 06:41"
-  },
-  "02530": {
-    "board": "Main Board",
-    "company_name": "NUMANS",
-    "filename": "02530_20241230.pdf",
-    "date_filed": "30/12/2024 06:10"
-  },
-  "02577": {
-    "board": "Main Board",
-    "company_name": "INNOSCIENCE",
-    "filename": "02577_20241218.pdf",
-    "date_filed": "18/12/2024 06:18"
-  },
-  "02587": {
-    "board": "Main Board",
-    "company_name": "HEALTHYWAY INC",
-    "filename": "02587_20241218.pdf",
-    "date_filed": "18/12/2024 06:13"
-  },
-  "02506": {
-    "board": "Main Board",
-    "company_name": "XUNFEIHEALTH",
-    "filename": "02506_20241218.pdf",
-    "date_filed": "18/12/2024 06:13"
-  },
-  "02431": {
-    "board": "Main Board",
-    "company_name": "MINIEYE",
-    "filename": "02431_20241217.pdf",
-    "date_filed": "17/12/2024 06:22"
-  },
-  "02432": {
-    "board": "Main Board",
-    "company_name": "DOBOT",
-    "filename": "02432_20241213.pdf",
-    "date_filed": "13/12/2024 06:19"
-  },
-  "00999": {
-    "board": "Main Board",
-    "company_name": "XIAOCAIYUAN",
-    "filename": "00999_20241212.pdf",
-    "date_filed": "12/12/2024 06:23"
-  },
-  "02593": {
-    "board": "Main Board",
-    "company_name": "HERBS GROUP",
-    "filename": "02593_20241211.pdf",
-    "date_filed": "11/12/2024 06:10"
-  },
-  "01318": {
-    "board": "Main Board",
-    "company_name": "MAO GEPING",
-    "filename": "01318_20241202.pdf",
-    "date_filed": "02/12/2024 06:15"
-  },
-  "02586": {
-    "board": "Main Board",
-    "company_name": "DMALL",
-    "filename": "02586_20241128.pdf",
-    "date_filed": "28/11/2024 06:19"
-  },
-  "02570": {
-    "board": "Main Board",
-    "company_name": "REFIRE",
-    "filename": "02570_20241128.pdf",
-    "date_filed": "28/11/2024 06:11"
-  },
-  "02585": {
-    "board": "Main Board",
-    "company_name": "MOKINGRAN",
-    "filename": "02585_20241121.pdf",
-    "date_filed": "21/11/2024 06:32"
-  },
-  "02566": {
-    "board": "Main Board",
-    "company_name": "JIUYUAN GENE",
-    "filename": "02566_20241120.pdf",
-    "date_filed": "20/11/2024 06:23"
-  },
-  "06936": {
-    "board": "Main Board",
-    "company_name": "SF HOLDING",
-    "filename": "06936_20241119.pdf",
-    "date_filed": "19/11/2024 06:08"
-  },
-  "02582": {
-    "board": "Main Board",
-    "company_name": "GUOFUHEE",
-    "filename": "02582_20241107.pdf",
-    "date_filed": "07/11/2024 06:12"
-  },
-  "02519": {
-    "board": "Main Board",
-    "company_name": "AUGROUP",
-    "filename": "02519_20241031.pdf",
-    "date_filed": "31/10/2024 06:28"
-  },
-  "02551": {
-    "board": "Main Board",
-    "company_name": "APT ELECTRONICS",
-    "filename": "02551_20241031.pdf",
-    "date_filed": "31/10/2024 06:07"
-  },
-  "02510": {
-    "board": "Main Board",
-    "company_name": "TS LINES",
-    "filename": "02510_20241024.pdf",
-    "date_filed": "24/10/2024 06:24"
-  },
-  "02563": {
-    "board": "Main Board",
-    "company_name": "BIOSTAR PHARM-B",
-    "filename": "02563_20241023.pdf",
-    "date_filed": "23/10/2024 06:26"
-  },
-  "02465": {
-    "board": "Main Board",
-    "company_name": "LOPAL TECH",
-    "filename": "02465_20241022.pdf",
-    "date_filed": "22/10/2024 06:04"
-  },
-  "09660": {
-    "board": "Main Board",
-    "company_name": "HORIZONROBOT-W",
-    "filename": "09660_20241016.pdf",
-    "date_filed": "16/10/2024 06:15"
-  },
-  "02460": {
-    "board": "Main Board",
-    "company_name": "CR BEVERAGE",
-    "filename": "02460_20241015.pdf",
-    "date_filed": "15/10/2024 06:19"
-  },
-  "02567": {
-    "board": "Main Board",
-    "company_name": "QINIU",
-    "filename": "02567_20240930.pdf",
-    "date_filed": "30/09/2024 06:10"
-  },
-  "02576": {
-    "board": "Main Board",
-    "company_name": "TAIMEI TECH",
-    "filename": "02576_20240927.pdf",
-    "date_filed": "27/09/2024 06:11"
-  },
-  "02549": {
-    "board": "Main Board",
-    "company_name": "CAROTE LTD",
-    "filename": "02549_20240923.pdf",
-    "date_filed": "23/09/2024 06:05"
-  },
-  "00300": {
-    "board": "Main Board",
-    "company_name": "MIDEA GROUP",
-    "filename": "00300_20240909.pdf",
-    "date_filed": "09/09/2024 06:14"
-  },
-  "02410": {
-    "board": "Main Board",
-    "company_name": "TYK MEDICINES-B",
-    "filename": "02410_20240812.pdf",
-    "date_filed": "12/08/2024 06:16"
-  },
-  "02533": {
-    "board": "Main Board",
-    "company_name": "BLACK SESAME",
-    "filename": "02533_20240731.pdf",
-    "date_filed": "31/07/2024 06:18"
-  },
-  "01471": {
-    "board": "Main Board",
-    "company_name": "ZHONGMIAO",
-    "filename": "01471_20240729.pdf",
-    "date_filed": "29/07/2024 06:28"
-  },
-  "02507": {
-    "board": "Main Board",
-    "company_name": "CIRRUS",
-    "filename": "02507_20240628.pdf",
-    "date_filed": "28/06/2024 06:26"
-  },
-  "01334": {
-    "board": "Main Board",
-    "company_name": "RUICHANG INTL",
-    "filename": "01334_20240628.pdf",
-    "date_filed": "28/06/2024 06:24"
-  },
-  "02495": {
-    "board": "Main Board",
-    "company_name": "VOICECOMM",
-    "filename": "02495_20240628.pdf",
-    "date_filed": "28/06/2024 06:22"
-  },
-  "06657": {
-    "board": "Main Board",
-    "company_name": "BAIWANG CO",
-    "filename": "06657_20240628.pdf",
-    "date_filed": "28/06/2024 06:14"
-  },
-  "02531": {
-    "board": "Main Board",
-    "company_name": "CARLINK TECH",
-    "filename": "02531_20240628.pdf",
-    "date_filed": "28/06/2024 06:14"
-  },
-  "09680": {
-    "board": "Main Board",
-    "company_name": "CHENQI TECH",
-    "filename": "09680_20240628.pdf",
-    "date_filed": "28/06/2024 06:14"
-  },
-  "06086": {
-    "board": "Main Board",
-    "company_name": "FANGZHOU JIANKE",
-    "filename": "06086_20240628.pdf",
-    "date_filed": "28/06/2024 06:10"
-  },
-  "01354": {
-    "board": "Main Board",
-    "company_name": "KINGFARPROPERTY",
-    "filename": "01354_20240624.pdf",
-    "date_filed": "24/06/2024 06:20"
-  },
-  "02545": {
-    "board": "Main Board",
-    "company_name": "ZHONGGAN COMM",
-    "filename": "02545_20240621.pdf",
-    "date_filed": "21/06/2024 07:03"
-  },
-  "02479": {
-    "board": "Main Board",
-    "company_name": "TIANJUDIHE",
-    "filename": "02479_20240620.pdf",
-    "date_filed": "20/06/2024 06:46"
-  },
-  "06181": {
-    "board": "Main Board",
-    "company_name": "LAOPU GOLD",
-    "filename": "06181_20240620.pdf",
-    "date_filed": "20/06/2024 06:12"
-  },
-  "02559": {
-    "board": "Main Board",
-    "company_name": "DIDA INC",
-    "filename": "02559_20240620.pdf",
-    "date_filed": "20/06/2024 06:11"
-  },
-  "02881": {
-    "board": "Main Board",
-    "company_name": "WUHAN YOUJI",
-    "filename": "02881_20240607.pdf",
-    "date_filed": "07/06/2024 06:23"
-  },
-  "02512": {
-    "board": "Main Board",
-    "company_name": "CLOUD FACTORY",
-    "filename": "02512_20240605.pdf",
-    "date_filed": "05/06/2024 06:24"
-  },
-  "02228": {
-    "board": "Main Board",
-    "company_name": "QUANTUMPH-P",
-    "filename": "02228_20240604.pdf",
-    "date_filed": "04/06/2024 06:40"
-  },
-  "02522": {
-    "board": "Main Board",
-    "company_name": "RIMAG GROUP",
-    "filename": "02522_20240530.pdf",
-    "date_filed": "30/05/2024 06:32"
-  },
-  "02550": {
-    "board": "Main Board",
-    "company_name": "EASOU TECH",
-    "filename": "02550_20240530.pdf",
-    "date_filed": "30/05/2024 06:05"
-  },
-  "02443": {
-    "board": "Main Board",
-    "company_name": "AUTOSTREETS",
-    "filename": "02443_20240523.pdf",
-    "date_filed": "23/05/2024 06:16"
-  },
-  "02505": {
-    "board": "Main Board",
-    "company_name": "EDA GROUP HLDGS",
-    "filename": "02505_20240519.pdf",
-    "date_filed": "19/05/2024 18:33"
-  },
-  "00917": {
-    "board": "Main Board",
-    "company_name": "QUNABOX GROUP",
-    "filename": "00917_20240517.pdf",
-    "date_filed": "17/05/2024 06:18"
-  },
-  "02898": {
-    "board": "Main Board",
-    "company_name": "SUNHO BIO-B",
-    "filename": "02898_20240516.pdf",
-    "date_filed": "16/05/2024 06:17"
-  },
-  "02529": {
-    "board": "Main Board",
-    "company_name": "HOLLWIN URBAN",
-    "filename": "02529_20240508.pdf",
-    "date_filed": "08/05/2024 06:22"
-  },
-  "02556": {
-    "board": "Main Board",
-    "company_name": "MARKETINGFORCE",
-    "filename": "02556_20240507.pdf",
-    "date_filed": "07/05/2024 06:13"
-  },
-  "02438": {
-    "board": "Main Board",
-    "company_name": "MOBVOI",
-    "filename": "02438_20240416.pdf",
-    "date_filed": "16/04/2024 06:24"
-  },
-  "02555": {
-    "board": "Main Board",
-    "company_name": "CHABAIDAO",
-    "filename": "02555_20240415.pdf",
-    "date_filed": "15/04/2024 06:23"
-  },
-  "02598": {
-    "board": "Main Board",
-    "company_name": "LIANLIAN",
-    "filename": "02598_20240320.pdf",
-    "date_filed": "20/03/2024 06:17"
-  },
-  "02536": {
-    "board": "Main Board",
-    "company_name": "PALASINO",
-    "filename": "02536_20240318.pdf",
-    "date_filed": "18/03/2024 06:46"
-  },
-  "09879": {
-    "board": "Main Board",
-    "company_name": "MIGAO GROUP",
-    "filename": "09879_20240313.pdf",
-    "date_filed": "13/03/2024 06:15"
-  },
-  "02509": {
-    "board": "Main Board",
-    "company_name": "QYUNS-B",
-    "filename": "02509_20240312.pdf",
-    "date_filed": "12/03/2024 06:13"
-  },
-  "02540": {
-    "board": "Main Board",
-    "company_name": "LESI GROUP",
-    "filename": "02540_20240229.pdf",
-    "date_filed": "29/02/2024 08:02"
-  },
-  "00501": {
-    "board": "Main Board",
-    "company_name": "OMNIVISION",
-    "filename": "00501_20251231.pdf",
-    "date_filed": "31/12/2025 06:28"
-  },
-  "01641": {
-    "board": "Main Board",
-    "company_name": "HX COLDCHAIN",
-    "filename": "01641_20251231.pdf",
-    "date_filed": "31/12/2025 06:28"
-  },
-  "03636": {
-    "board": "Main Board",
-    "company_name": "JINXUN RESOURCE",
-    "filename": "03636_20251231.pdf",
-    "date_filed": "31/12/2025 06:16"
-  },
-  "06938": {
-    "board": "Main Board",
-    "company_name": "RIBOLIFE-B",
-    "filename": "06938_20251231.pdf",
-    "date_filed": "31/12/2025 06:14"
-  },
-  "03986": {
-    "board": "Main Board",
-    "company_name": "GIGADEVICE",
-    "filename": "03986_20251231.pdf",
-    "date_filed": "31/12/2025 06:14"
-  },
-  "00100": {
-    "board": "Main Board",
-    "company_name": "MINIMAX-WP",
-    "filename": "00100_20251231.pdf",
-    "date_filed": "31/12/2025 06:10"
-  },
-  "02675": {
-    "board": "Main Board",
-    "company_name": "EDGE MEDICAL-B",
-    "filename": "02675_20251230.pdf",
-    "date_filed": "30/12/2025 06:39"
-  },
-  "09903": {
-    "board": "Main Board",
-    "company_name": "ILUVATAR COREX",
-    "filename": "09903_20251230.pdf",
-    "date_filed": "30/12/2025 06:25"
-  },
-  "02513": {
-    "board": "Main Board",
-    "company_name": "KNOWLEDGE ATLAS",
-    "filename": "02513_20251230.pdf",
-    "date_filed": "30/12/2025 06:19"
-  },
-  "06082": {
-    "board": "Main Board",
-    "company_name": "BIREN TECH",
-    "filename": "06082_20251222.pdf",
-    "date_filed": "22/12/2025 06:15"
-  },
-  "02657": {
-    "board": "Main Board",
-    "company_name": "FOREST CABIN",
-    "filename": "02657_20251218.pdf",
-    "date_filed": "18/12/2025 07:35"
-  },
-  "06600": {
-    "board": "Main Board",
-    "company_name": "ONEROBOTICS",
-    "filename": "06600_20251218.pdf",
-    "date_filed": "18/12/2025 06:51"
-  },
-  "02671": {
-    "board": "Main Board",
-    "company_name": "USAS BUILDING",
-    "filename": "02671_20251218.pdf",
-    "date_filed": "18/12/2025 06:25"
-  },
-  "03696": {
-    "board": "Main Board",
-    "company_name": "INSILICO",
-    "filename": "03696_20251218.pdf",
-    "date_filed": "18/12/2025 06:22"
-  },
-  "06651": {
-    "board": "Main Board",
-    "company_name": "51WORLD",
-    "filename": "06651_20251218.pdf",
-    "date_filed": "18/12/2025 06:22"
-  },
-  "03317": {
-    "board": "Main Board",
-    "company_name": "XUNCE",
-    "filename": "03317_20251218.pdf",
-    "date_filed": "18/12/2025 06:22"
-  },
-  "02661": {
-    "board": "Main Board",
-    "company_name": "QINGSONG HEALTH",
-    "filename": "02661_20251215.pdf",
-    "date_filed": "15/12/2025 06:26"
-  },
-  "03378": {
-    "board": "Main Board",
-    "company_name": "HANXBIO-B",
-    "filename": "03378_20251215.pdf",
-    "date_filed": "15/12/2025 06:19"
-  },
-  "02635": {
-    "board": "Main Board",
-    "company_name": "NUOBIKAN",
-    "filename": "02635_20251215.pdf",
-    "date_filed": "15/12/2025 06:14"
-  },
-  "02396": {
-    "board": "Main Board",
-    "company_name": "B&K CORP-B",
-    "filename": "02396_20251212.pdf",
-    "date_filed": "12/12/2025 06:21"
-  },
-  "02581": {
-    "board": "Main Board",
-    "company_name": "BENQ HOLDING",
-    "filename": "02581_20251212.pdf",
-    "date_filed": "12/12/2025 06:15"
-  },
-  "02695": {
-    "board": "Main Board",
-    "company_name": "IMPRESSION DHP",
-    "filename": "02695_20251212.pdf",
-    "date_filed": "12/12/2025 06:15"
-  },
-  "02691": {
-    "board": "Main Board",
-    "company_name": "NANHUA FUTURES",
-    "filename": "02691_20251212.pdf",
-    "date_filed": "12/12/2025 06:10"
-  },
-  "02546": {
-    "board": "Main Board",
-    "company_name": "ZHIHUI MINING",
-    "filename": "02546_20251211.pdf",
-    "date_filed": "11/12/2025 07:13"
-  },
-  "03881": {
-    "board": "Main Board",
-    "company_name": "CIDI",
-    "filename": "03881_20251211.pdf",
-    "date_filed": "11/12/2025 06:24"
-  },
-  "03887": {
-    "board": "Main Board",
-    "company_name": "HASHKEY HLDGS",
-    "filename": "03887_20251209.pdf",
-    "date_filed": "09/12/2025 06:20"
-  },
-  "02655": {
-    "board": "Main Board",
-    "company_name": "GUOXIA TECH",
-    "filename": "02655_20251208.pdf",
-    "date_filed": "08/12/2025 06:08"
-  },
-  "07618": {
-    "board": "Main Board",
-    "company_name": "JD INDUSTRIALS",
-    "filename": "07618_20251203.pdf",
-    "date_filed": "03/12/2025 06:57"
-  },
-  "02659": {
-    "board": "Main Board",
-    "company_name": "BAO PHARMA-B",
-    "filename": "02659_20251202.pdf",
-    "date_filed": "02/12/2025 06:18"
-  },
-  "02676": {
-    "board": "Main Board",
-    "company_name": "NOVOSENSE",
-    "filename": "02676_20251128.pdf",
-    "date_filed": "28/11/2025 06:16"
-  },
-  "02687": {
-    "board": "Main Board",
-    "company_name": "ABLE DIGITAL",
-    "filename": "02687_20251128.pdf",
-    "date_filed": "28/11/2025 06:06"
-  },
-  "02658": {
-    "board": "Main Board",
-    "company_name": "TIANYU SEMI",
-    "filename": "02658_20251127.pdf",
-    "date_filed": "27/11/2025 06:14"
-  },
-  "02408": {
-    "board": "Main Board",
-    "company_name": "XIAO NOODLES",
-    "filename": "02408_20251127.pdf",
-    "date_filed": "27/11/2025 06:12"
-  },
-  "02539": {
-    "board": "Main Board",
-    "company_name": "LEMO SERVICES",
-    "filename": "02539_20251125.pdf",
-    "date_filed": "25/11/2025 06:22"
-  },
-  "02693": {
-    "board": "Main Board",
-    "company_name": "JINYAN KAOLIN",
-    "filename": "02693_20251125.pdf",
-    "date_filed": "25/11/2025 06:20"
-  },
-  "09609": {
-    "board": "Main Board",
-    "company_name": "HAIWEI ELEC",
-    "filename": "09609_20251120.pdf",
-    "date_filed": "20/11/2025 06:07"
-  },
-  "02685": {
-    "board": "Main Board",
-    "company_name": "QUANTGROUP",
-    "filename": "02685_20251119.pdf",
-    "date_filed": "19/11/2025 06:14"
-  },
-  "02788": {
-    "board": "Main Board",
-    "company_name": "CHUANGXIN IND",
-    "filename": "02788_20251114.pdf",
-    "date_filed": "14/11/2025 06:15"
-  },
-  "02579": {
-    "board": "Main Board",
-    "company_name": "CNGR",
-    "filename": "02579_20251107.pdf",
-    "date_filed": "07/11/2025 06:25"
-  },
-  "02615": {
-    "board": "Main Board",
-    "company_name": "BIOKIN",
-    "filename": "02615_20251107.pdf",
-    "date_filed": "07/11/2025 06:17"
-  },
-  "02698": {
-    "board": "Main Board",
-    "company_name": "SOFTCARE",
-    "filename": "02698_20251031.pdf",
-    "date_filed": "31/10/2025 06:22"
-  },
-  "02026": {
-    "board": "Main Board",
-    "company_name": "PONY-W",
-    "filename": "02026_20251028.pdf",
-    "date_filed": "28/10/2025 07:13"
-  },
-  "00699": {
-    "board": "Main Board",
-    "company_name": "JOYSON ELEC",
-    "filename": "00699_20251028.pdf",
-    "date_filed": "28/10/2025 07:10"
-  },
-  "00800": {
-    "board": "Main Board",
-    "company_name": "WERIDE-W",
-    "filename": "00800_20251028.pdf",
-    "date_filed": "28/10/2025 06:19"
-  },
-  "02630": {
-    "board": "Main Board",
-    "company_name": "VIGONVITA-B",
-    "filename": "02630_20251028.pdf",
-    "date_filed": "28/10/2025 06:19"
-  },
-  "09927": {
-    "board": "Main Board",
-    "company_name": "SERES",
-    "filename": "09927_20251027.pdf",
-    "date_filed": "27/10/2025 07:15"
-  },
-  "02718": {
-    "board": "Main Board",
-    "company_name": "MININGLAMP-W",
-    "filename": "02718_20251023.pdf",
-    "date_filed": "23/10/2025 06:08"
-  },
-  "06980": {
-    "board": "Main Board",
-    "company_name": "BAMA TEA",
-    "filename": "06980_20251020.pdf",
-    "date_filed": "20/10/2025 06:16"
-  },
-  "06166": {
-    "board": "Main Board",
-    "company_name": "CIG",
-    "filename": "06166_20251020.pdf",
-    "date_filed": "20/10/2025 06:16"
-  },
-  "06031": {
-    "board": "Main Board",
-    "company_name": "SANY HEAVY IND",
-    "filename": "06031_20251020.pdf",
-    "date_filed": "20/10/2025 06:13"
-  },
-  "01384": {
-    "board": "Main Board",
-    "company_name": "DEEPEXI TECH",
-    "filename": "01384_20251020.pdf",
-    "date_filed": "20/10/2025 06:13"
-  },
-  "00638": {
-    "board": "Main Board",
-    "company_name": "FIBOCOM",
-    "filename": "00638_20251014.pdf",
-    "date_filed": "14/10/2025 06:09"
-  },
-  "06687": {
-    "board": "Main Board",
-    "company_name": "JST GROUP",
-    "filename": "06687_20251013.pdf",
-    "date_filed": "13/10/2025 06:21"
-  },
-  "02637": {
-    "board": "Main Board",
-    "company_name": "HAIXI PHARMA",
-    "filename": "02637_20251009.pdf",
-    "date_filed": "09/10/2025 06:34"
-  },
-  "02670": {
-    "board": "Main Board",
-    "company_name": "YUNJI",
-    "filename": "02670_20251008.pdf",
-    "date_filed": "08/10/2025 06:12"
-  },
-  "02575": {
-    "board": "Main Board",
-    "company_name": "XUANZHUBIO-B",
-    "filename": "02575_20251006.pdf",
-    "date_filed": "06/10/2025 06:14"
-  },
-  "02650": {
-    "board": "Main Board",
-    "company_name": "ZHIDA TECH",
-    "filename": "02650_20250930.pdf",
-    "date_filed": "30/09/2025 06:21"
-  },
-  "02652": {
-    "board": "Main Board",
-    "company_name": "CF PHARMTECH",
-    "filename": "02652_20250926.pdf",
-    "date_filed": "26/09/2025 06:25"
-  },
-  "02889": {
-    "board": "Main Board",
-    "company_name": "PATEO",
-    "filename": "02889_20250922.pdf",
-    "date_filed": "22/09/2025 06:22"
-  },
-  "02259": {
-    "board": "Main Board",
-    "company_name": "ZIJIN GOLD INTL",
-    "filename": "02259_20250919.pdf",
-    "date_filed": "19/09/2025 06:21"
-  },
-  "02583": {
-    "board": "Main Board",
-    "company_name": "HIPINE",
-    "filename": "02583_20250919.pdf",
-    "date_filed": "19/09/2025 06:08"
-  },
-  "09973": {
-    "board": "Main Board",
-    "company_name": "CHERY AUTO",
-    "filename": "09973_20250917.pdf",
-    "date_filed": "17/09/2025 06:29"
-  },
-  "06090": {
-    "board": "Main Board",
-    "company_name": "BUTONG GROUP",
-    "filename": "06090_20250915.pdf",
-    "date_filed": "15/09/2025 06:20"
-  },
-  "02595": {
-    "board": "Main Board",
-    "company_name": "GENFLEET-B",
-    "filename": "02595_20250911.pdf",
-    "date_filed": "11/09/2025 06:59"
-  },
-  "02656": {
-    "board": "Main Board",
-    "company_name": "160 HEALTH",
-    "filename": "02656_20250909.pdf",
-    "date_filed": "09/09/2025 06:16"
-  },
-  "02525": {
-    "board": "Main Board",
-    "company_name": "HESAI-W",
-    "filename": "02525_20250908.pdf",
-    "date_filed": "08/09/2025 06:22"
-  },
-  "02543": {
-    "board": "Main Board",
-    "company_name": "DAHON TECH",
-    "filename": "02543_20250901.pdf",
-    "date_filed": "01/09/2025 06:10"
-  },
-  "02580": {
-    "board": "Main Board",
-    "company_name": "AUX ELECTRIC",
-    "filename": "02580_20250825.pdf",
-    "date_filed": "25/08/2025 06:16"
-  },
-  "03858": {
-    "board": "Main Board",
-    "company_name": "JIAXIN INTL RES",
-    "filename": "03858_20250820.pdf",
-    "date_filed": "20/08/2025 06:25"
-  },
-  "06960": {
-    "board": "Main Board",
-    "company_name": "SHUANGDENG",
-    "filename": "06960_20250818.pdf",
-    "date_filed": "18/08/2025 06:12"
-  },
-  "02631": {
-    "board": "Main Board",
-    "company_name": "SICC",
-    "filename": "02631_20250811.pdf",
-    "date_filed": "11/08/2025 06:14"
-  },
-  "02591": {
-    "board": "Main Board",
-    "company_name": "INNOGEN-B",
-    "filename": "02591_20250807.pdf",
-    "date_filed": "07/08/2025 06:13"
-  },
-  "02627": {
-    "board": "Main Board",
-    "company_name": "AB&B BIO-TECH-B",
-    "filename": "02627_20250731.pdf",
-    "date_filed": "31/07/2025 06:21"
-  },
-  "09887": {
-    "board": "Main Board",
-    "company_name": "LEADS BIOLABS-B",
-    "filename": "09887_20250717.pdf",
-    "date_filed": "17/07/2025 06:15"
-  },
-  "06613": {
-    "board": "Main Board",
-    "company_name": "LENS",
-    "filename": "06613_20250630.pdf",
-    "date_filed": "30/06/2025 06:30"
-  },
-  "02553": {
-    "board": "Main Board",
-    "company_name": "SHOUGANG LANZA",
-    "filename": "02553_20250630.pdf",
-    "date_filed": "30/06/2025 06:29"
-  },
-  "02590": {
-    "board": "Main Board",
-    "company_name": "GEEKPLUS-W",
-    "filename": "02590_20250630.pdf",
-    "date_filed": "30/06/2025 06:22"
-  },
-  "02597": {
-    "board": "Main Board",
-    "company_name": "XUNZHONG",
-    "filename": "02597_20250630.pdf",
-    "date_filed": "30/06/2025 06:19"
-  },
-  "02651": {
-    "board": "Main Board",
-    "company_name": "DAZHONG DENTAL",
-    "filename": "02651_20250630.pdf",
-    "date_filed": "30/06/2025 06:17"
-  },
-  "01304": {
-    "board": "Main Board",
-    "company_name": "FORTIOR",
-    "filename": "01304_20250630.pdf",
-    "date_filed": "30/06/2025 06:10"
-  },
-  "01828": {
-    "board": "Main Board",
-    "company_name": "FWD",
-    "filename": "01828_20250626.pdf",
-    "date_filed": "26/06/2025 06:20"
-  },
-  "02648": {
-    "board": "Main Board",
-    "company_name": "ANJOY FOOD",
-    "filename": "02648_20250625.pdf",
-    "date_filed": "25/06/2025 06:17"
-  },
-  "02592": {
-    "board": "Main Board",
-    "company_name": "CLOUDBREAK-B",
-    "filename": "02592_20250624.pdf",
-    "date_filed": "24/06/2025 06:07"
-  },
-  "06603": {
-    "board": "Main Board",
-    "company_name": "IFBH",
-    "filename": "06603_20250620.pdf",
-    "date_filed": "20/06/2025 06:28"
-  },
-  "09678": {
-    "board": "Main Board",
-    "company_name": "UNISOUND",
-    "filename": "09678_20250620.pdf",
-    "date_filed": "20/06/2025 06:24"
-  },
-  "03880": {
-    "board": "Main Board",
-    "company_name": "MEDTIDE",
-    "filename": "03880_20250620.pdf",
-    "date_filed": "20/06/2025 06:23"
-  },
-  "02508": {
-    "board": "Main Board",
-    "company_name": "SAINT BELLA",
-    "filename": "02508_20250618.pdf",
-    "date_filed": "18/06/2025 08:21"
-  },
-  "06168": {
-    "board": "Main Board",
-    "company_name": "ZHOU LIU FU",
-    "filename": "06168_20250618.pdf",
-    "date_filed": "18/06/2025 06:41"
-  },
-  "06883": {
-    "board": "Main Board",
-    "company_name": "ETERNAL BEAUTY",
-    "filename": "06883_20250618.pdf",
-    "date_filed": "18/06/2025 06:10"
-  },
-  "02619": {
-    "board": "Main Board",
-    "company_name": "XJ ELECTRICS",
-    "filename": "02619_20250617.pdf",
-    "date_filed": "17/06/2025 06:56"
-  },
-  "02643": {
-    "board": "Main Board",
-    "company_name": "CAOCAO INC",
-    "filename": "02643_20250617.pdf",
-    "date_filed": "17/06/2025 06:20"
-  },
-  "02617": {
-    "board": "Main Board",
-    "company_name": "TRANSTHERA-B",
-    "filename": "02617_20250613.pdf",
-    "date_filed": "13/06/2025 06:18"
-  },
-  "02609": {
-    "board": "Main Board",
-    "company_name": "BAYZED HEALTH",
-    "filename": "02609_20250613.pdf",
-    "date_filed": "13/06/2025 06:11"
-  },
-  "02050": {
-    "board": "Main Board",
-    "company_name": "SANHUA",
-    "filename": "02050_20250613.pdf",
-    "date_filed": "13/06/2025 06:11"
-  },
-  "02667": {
-    "board": "Main Board",
-    "company_name": "TONGRENTANGCARE",
-    "filename": "02667_20260626.pdf",
-    "date_filed": "26/06/2026 06:09"
-  },
-  "00668": {
-    "board": "Main Board",
-    "company_name": "ANKER",
-    "filename": "00668_20260623.pdf",
-    "date_filed": "23/06/2026 06:23"
-  },
-  "06915": {
-    "board": "Main Board",
-    "company_name": "JIANGXI BIO",
-    "filename": "06915_20260622.pdf",
-    "date_filed": "22/06/2026 06:33"
-  },
-  "03952": {
-    "board": "Main Board",
-    "company_name": "LAIFUAL",
-    "filename": "03952_20260622.pdf",
-    "date_filed": "22/06/2026 06:16"
-  },
-  "02697": {
-    "board": "Main Board",
-    "company_name": "TH MEDICAL-B",
-    "filename": "02697_20260622.pdf",
-    "date_filed": "22/06/2026 06:16"
-  },
-  "06715": {
-    "board": "Main Board",
-    "company_name": "XUNLONG SCITECH",
-    "filename": "06715_20260622.pdf",
-    "date_filed": "22/06/2026 06:09"
-  },
-  "01191": {
-    "board": "Main Board",
-    "company_name": "CREALIGHTS",
-    "filename": "01191_20260618.pdf",
-    "date_filed": "18/06/2026 06:38"
-  },
-  "02672": {
-    "board": "Main Board",
-    "company_name": "BAIGE DIGITAL",
-    "filename": "02672_20260618.pdf",
-    "date_filed": "18/06/2026 06:24"
-  },
-  "09637": {
-    "board": "Main Board",
-    "company_name": "ALEBUND-B",
-    "filename": "09637_20260618.pdf",
-    "date_filed": "18/06/2026 06:11"
-  },
-  "06228": {
-    "board": "Main Board",
-    "company_name": "MERDEKAGOLD-DRS",
-    "filename": "06228_20260617.pdf",
-    "date_filed": "17/06/2026 06:34"
-  },
-  "02272": {
-    "board": "Main Board",
-    "company_name": "KEYTOP PARKING",
-    "filename": "02272_20260617.pdf",
-    "date_filed": "17/06/2026 06:33"
-  },
-  "03661": {
-    "board": "Main Board",
-    "company_name": "SG MICRO",
-    "filename": "03661_20260617.pdf",
-    "date_filed": "17/06/2026 06:24"
-  },
-  "09630": {
-    "board": "Main Board",
-    "company_name": "CFMEE",
-    "filename": "09630_20260617.pdf",
-    "date_filed": "17/06/2026 06:17"
-  },
-  "01688": {
-    "board": "Main Board",
-    "company_name": "LINGYI ITECH",
-    "filename": "01688_20260617.pdf",
-    "date_filed": "17/06/2026 06:13"
-  },
-  "01956": {
-    "board": "Main Board",
-    "company_name": "WENGE AI",
-    "filename": "01956_20260617.pdf",
-    "date_filed": "17/06/2026 06:11"
-  },
-  "06106": {
-    "board": "Main Board",
-    "company_name": "SEER TECH",
-    "filename": "06106_20260615.pdf",
-    "date_filed": "15/06/2026 06:22"
-  },
-  "02335": {
-    "board": "Main Board",
-    "company_name": "MICOT PHARMA-B",
-    "filename": "02335_20260615.pdf",
-    "date_filed": "15/06/2026 06:12"
-  },
-  "06132": {
-    "board": "Main Board",
-    "company_name": "HJ SCIENCE-B",
-    "filename": "06132_20260612.pdf",
-    "date_filed": "12/06/2026 07:15"
-  },
-  "06067": {
-    "board": "Main Board",
-    "company_name": "SENIOR MATERIAL",
-    "filename": "06067_20260612.pdf",
-    "date_filed": "12/06/2026 06:32"
-  },
-  "01392": {
-    "board": "Main Board",
-    "company_name": "HQVT",
-    "filename": "01392_20260611.pdf",
-    "date_filed": "11/06/2026 06:21"
-  },
-  "06675": {
-    "board": "Main Board",
-    "company_name": "SENASIC",
-    "filename": "06675_20260609.pdf",
-    "date_filed": "09/06/2026 06:18"
-  },
-  "06658": {
-    "board": "Main Board",
-    "company_name": "LIULIUMEI",
-    "filename": "06658_20260605.pdf",
-    "date_filed": "05/06/2026 06:13"
-  },
-  "02290": {
-    "board": "Main Board",
-    "company_name": "LUNG FUNG GROUP",
-    "filename": "02290_20260528.pdf",
-    "date_filed": "28/05/2026 06:20"
-  },
-  "01779": {
-    "board": "Main Board",
-    "company_name": "LONGBIO-B",
-    "filename": "01779_20260528.pdf",
-    "date_filed": "28/05/2026 06:17"
-  },
-  "01081": {
-    "board": "Main Board",
-    "company_name": "DAJIN",
-    "filename": "01081_20260528.pdf",
-    "date_filed": "28/05/2026 06:14"
-  },
-  "03388": {
-    "board": "Main Board",
-    "company_name": "CREALITY",
-    "filename": "03388_20260520.pdf",
-    "date_filed": "20/05/2026 06:15"
-  },
-  "00901": {
-    "board": "Main Board",
-    "company_name": "SDMC",
-    "filename": "00901_20260518.pdf",
-    "date_filed": "18/05/2026 06:37"
-  },
-  "02723": {
-    "board": "Main Board",
-    "company_name": "DEEPZERO",
-    "filename": "02723_20260518.pdf",
-    "date_filed": "18/05/2026 06:16"
-  },
-  "03310": {
-    "board": "Main Board",
-    "company_name": "VIEWTRIX TECH",
-    "filename": "03310_20260518.pdf",
-    "date_filed": "18/05/2026 06:16"
-  },
-  "06872": {
-    "board": "Main Board",
-    "company_name": "TENNOR THERAP-B",
-    "filename": "06872_20260514.pdf",
-    "date_filed": "14/05/2026 06:14"
-  },
-  "01511": {
-    "board": "Main Board",
-    "company_name": "UISEE TECH",
-    "filename": "01511_20260512.pdf",
-    "date_filed": "12/05/2026 06:37"
-  },
-  "07688": {
-    "board": "Main Board",
-    "company_name": "TOPNC",
-    "filename": "07688_20260512.pdf",
-    "date_filed": "12/05/2026 06:09"
-  },
-  "06871": {
-    "board": "Main Board",
-    "company_name": "ROBOTPHOENIX",
-    "filename": "06871_20260508.pdf",
-    "date_filed": "08/05/2026 06:14"
-  },
-  "07630": {
-    "board": "Main Board",
-    "company_name": "IMPACT THERAP-B",
-    "filename": "07630_20260505.pdf",
-    "date_filed": "05/05/2026 06:18"
-  },
-  "07666": {
-    "board": "Main Board",
-    "company_name": "METIS TECHBIO-P",
-    "filename": "07666_20260505.pdf",
-    "date_filed": "05/05/2026 06:14"
-  },
-  "01236": {
-    "board": "Main Board",
-    "company_name": "LDROBOT",
-    "filename": "01236_20260430.pdf",
-    "date_filed": "30/04/2026 06:13"
-  },
-  "01609": {
-    "board": "Main Board",
-    "company_name": "STAR SPORTS MED",
-    "filename": "01609_20260424.pdf",
-    "date_filed": "24/04/2026 06:13"
-  },
-  "06810": {
-    "board": "Main Board",
-    "company_name": "SUNMI TECH-W",
-    "filename": "06810_20260421.pdf",
-    "date_filed": "21/04/2026 06:13"
-  },
-  "01879": {
-    "board": "Main Board",
-    "company_name": "XIZHI TECH-P",
-    "filename": "01879_20260420.pdf",
-    "date_filed": "20/04/2026 06:25"
-  },
-  "02493": {
-    "board": "Main Board",
-    "company_name": "MABWELL-B",
-    "filename": "02493_20260420.pdf",
-    "date_filed": "20/04/2026 06:17"
-  },
-  "03296": {
-    "board": "Main Board",
-    "company_name": "HUAQIN",
-    "filename": "03296_20260415.pdf",
-    "date_filed": "15/04/2026 06:09"
-  },
-  "02476": {
-    "board": "Main Board",
-    "company_name": "VGT",
-    "filename": "02476_20260413.pdf",
-    "date_filed": "13/04/2026 06:12"
-  },
-  "03277": {
-    "board": "Main Board",
-    "company_name": "GPIXEL",
-    "filename": "03277_20260409.pdf",
-    "date_filed": "09/04/2026 06:40"
-  },
-  "00068": {
-    "board": "Main Board",
-    "company_name": "MANYCORE TECH",
-    "filename": "00068_20260409.pdf",
-    "date_filed": "09/04/2026 06:16"
-  },
-  "06656": {
-    "board": "Main Board",
-    "company_name": "SIGENERGY",
-    "filename": "06656_20260408.pdf",
-    "date_filed": "08/04/2026 06:21"
-  },
-  "00664": {
-    "board": "Main Board",
-    "company_name": "TONGSHIFU",
-    "filename": "00664_20260323.pdf",
-    "date_filed": "23/03/2026 06:22"
-  },
-  "03625": {
-    "board": "Main Board",
-    "company_name": "FOURSEMI",
-    "filename": "03625_20260323.pdf",
-    "date_filed": "23/03/2026 06:15"
-  },
-  "06636": {
-    "board": "Main Board",
-    "company_name": "EXTREME VISION",
-    "filename": "06636_20260320.pdf",
-    "date_filed": "20/03/2026 06:38"
-  },
-  "01021": {
-    "board": "Main Board",
-    "company_name": "HUAYAN ROBOTICS",
-    "filename": "01021_20260320.pdf",
-    "date_filed": "20/03/2026 06:19"
-  },
-  "02726": {
-    "board": "Main Board",
-    "company_name": "EPIWORLD",
-    "filename": "02726_20260320.pdf",
-    "date_filed": "20/03/2026 06:14"
-  },
-  "02526": {
-    "board": "Main Board",
-    "company_name": "DIAGENS-B",
-    "filename": "02526_20260320.pdf",
-    "date_filed": "20/03/2026 06:12"
-  },
-  "02729": {
-    "board": "Main Board",
-    "company_name": "GALAXIS TECH",
-    "filename": "02729_20260316.pdf",
-    "date_filed": "16/03/2026 06:16"
-  },
-  "02632": {
-    "board": "Main Board",
-    "company_name": "NEW VISION CO",
-    "filename": "02632_20260316.pdf",
-    "date_filed": "16/03/2026 06:15"
-  },
-  "02701": {
-    "board": "Main Board",
-    "company_name": "NSING TECH",
-    "filename": "02701_20260313.pdf",
-    "date_filed": "13/03/2026 06:24"
-  },
-  "03355": {
-    "board": "Main Board",
-    "company_name": "FS.COM",
-    "filename": "03355_20260313.pdf",
-    "date_filed": "13/03/2026 06:17"
-  },
-  "01989": {
-    "board": "Main Board",
-    "company_name": "DELTON",
-    "filename": "01989_20260312.pdf",
-    "date_filed": "12/03/2026 06:02"
-  },
-  "03268": {
-    "board": "Main Board",
-    "company_name": "MEIG",
-    "filename": "03268_20260227.pdf",
-    "date_filed": "27/02/2026 06:18"
-  },
-  "02715": {
-    "board": "Main Board",
-    "company_name": "ESTUN",
-    "filename": "02715_20260227.pdf",
-    "date_filed": "27/02/2026 06:16"
-  },
-  "02692": {
-    "board": "Main Board",
-    "company_name": "ZHAOWEI",
-    "filename": "02692_20260227.pdf",
-    "date_filed": "27/02/2026 06:16"
-  },
-  "02649": {
-    "board": "Main Board",
-    "company_name": "ALSCO POOLING",
-    "filename": "02649_20260227.pdf",
-    "date_filed": "27/02/2026 06:15"
-  },
-  "09981": {
-    "board": "Main Board",
-    "company_name": "WOER",
-    "filename": "09981_20260205.pdf",
-    "date_filed": "05/02/2026 06:22"
-  },
-  "02706": {
-    "board": "Main Board",
-    "company_name": "HAIZHI TECH GP",
-    "filename": "02706_20260205.pdf",
-    "date_filed": "05/02/2026 06:14"
-  },
-  "00470": {
-    "board": "Main Board",
-    "company_name": "WUXI LEAD",
-    "filename": "00470_20260203.pdf",
-    "date_filed": "03/02/2026 06:21"
-  },
-  "02720": {
-    "board": "Main Board",
-    "company_name": "RIDGE OUTDOOR",
-    "filename": "02720_20260130.pdf",
-    "date_filed": "30/01/2026 22:04"
-  },
-  "00600": {
-    "board": "Main Board",
-    "company_name": "AXERA",
-    "filename": "00600_20260130.pdf",
-    "date_filed": "30/01/2026 06:25"
-  },
-  "06809": {
-    "board": "Main Board",
-    "company_name": "MONTAGE TECH",
-    "filename": "06809_20260130.pdf",
-    "date_filed": "30/01/2026 06:14"
-  },
-  "02714": {
-    "board": "Main Board",
-    "company_name": "MUYUAN",
-    "filename": "02714_20260129.pdf",
-    "date_filed": "29/01/2026 06:24"
-  },
-  "02677": {
-    "board": "Main Board",
-    "company_name": "DISTINCT HEALTH",
-    "filename": "02677_20260129.pdf",
-    "date_filed": "29/01/2026 06:24"
-  },
-  "03200": {
-    "board": "Main Board",
-    "company_name": "HANS CNC",
-    "filename": "03200_20260129.pdf",
-    "date_filed": "29/01/2026 06:23"
-  },
-  "02768": {
-    "board": "Main Board",
-    "company_name": "GON TECHNOLOGY",
-    "filename": "02768_20260127.pdf",
-    "date_filed": "27/01/2026 06:21"
-  },
-  "09980": {
-    "board": "Main Board",
-    "company_name": "EASTROC",
-    "filename": "09980_20260126.pdf",
-    "date_filed": "26/01/2026 06:06"
-  },
-  "01768": {
-    "board": "Main Board",
-    "company_name": "BUSYMING",
-    "filename": "01768_20260120.pdf",
-    "date_filed": "20/01/2026 06:15"
-  },
-  "09611": {
-    "board": "Main Board",
-    "company_name": "LONGCHEER",
-    "filename": "09611_20260114.pdf",
-    "date_filed": "14/01/2026 06:19"
+  "by_filename": {
+    "00068_20260409": {
+      "stock_code": "00068",
+      "board": "Main Board",
+      "date_filed": "20260409",
+      "is_latest": true
+    },
+    "00100_20251231": {
+      "stock_code": "00100",
+      "board": "Main Board",
+      "date_filed": "20251231",
+      "is_latest": true
+    },
+    "00300_20240909": {
+      "stock_code": "00300",
+      "board": "Main Board",
+      "date_filed": "20240909",
+      "is_latest": true
+    },
+    "00314_20221212": {
+      "stock_code": "00314",
+      "board": "Main Board",
+      "date_filed": "20221212",
+      "is_latest": true
+    },
+    "00325_20241231": {
+      "stock_code": "00325",
+      "board": "Main Board",
+      "date_filed": "20241231",
+      "is_latest": true
+    },
+    "00470_20260203": {
+      "stock_code": "00470",
+      "board": "Main Board",
+      "date_filed": "20260203",
+      "is_latest": true
+    },
+    "00501_20251231": {
+      "stock_code": "00501",
+      "board": "Main Board",
+      "date_filed": "20251231",
+      "is_latest": true
+    },
+    "00537_20260630": {
+      "stock_code": "00537",
+      "board": "Main Board",
+      "date_filed": "20260630",
+      "is_latest": true
+    },
+    "00600_20260130": {
+      "stock_code": "00600",
+      "board": "Main Board",
+      "date_filed": "20260130",
+      "is_latest": true
+    },
+    "00638_20251014": {
+      "stock_code": "00638",
+      "board": "Main Board",
+      "date_filed": "20251014",
+      "is_latest": true
+    },
+    "00664_20260323": {
+      "stock_code": "00664",
+      "board": "Main Board",
+      "date_filed": "20260323",
+      "is_latest": true
+    },
+    "00666_20231208": {
+      "stock_code": "00666",
+      "board": "Main Board",
+      "date_filed": "20231208",
+      "is_latest": true
+    },
+    "00668_20260623": {
+      "stock_code": "00668",
+      "board": "Main Board",
+      "date_filed": "20260623",
+      "is_latest": true
+    },
+    "00699_20251028": {
+      "stock_code": "00699",
+      "board": "Main Board",
+      "date_filed": "20251028",
+      "is_latest": true
+    },
+    "00800_20251028": {
+      "stock_code": "00800",
+      "board": "Main Board",
+      "date_filed": "20251028",
+      "is_latest": true
+    },
+    "00805_20241231": {
+      "stock_code": "00805",
+      "board": "Main Board",
+      "date_filed": "20241231",
+      "is_latest": true
+    },
+    "00901_20260518": {
+      "stock_code": "00901",
+      "board": "Main Board",
+      "date_filed": "20260518",
+      "is_latest": true
+    },
+    "00917_20240517": {
+      "stock_code": "00917",
+      "board": "Main Board",
+      "date_filed": "20240517",
+      "is_latest": true
+    },
+    "00999_20241212": {
+      "stock_code": "00999",
+      "board": "Main Board",
+      "date_filed": "20241212",
+      "is_latest": true
+    },
+    "01021_20260320": {
+      "stock_code": "01021",
+      "board": "Main Board",
+      "date_filed": "20260320",
+      "is_latest": true
+    },
+    "01081_20260528": {
+      "stock_code": "01081",
+      "board": "Main Board",
+      "date_filed": "20260528",
+      "is_latest": true
+    },
+    "01111_20231031": {
+      "stock_code": "01111",
+      "board": "Main Board",
+      "date_filed": "20231031",
+      "is_latest": true
+    },
+    "01187_20260427": {
+      "stock_code": "01187",
+      "board": "Main Board",
+      "date_filed": "20260427",
+      "is_latest": true
+    },
+    "01191_20260618": {
+      "stock_code": "01191",
+      "board": "Main Board",
+      "date_filed": "20260618",
+      "is_latest": true
+    },
+    "01236_20260430": {
+      "stock_code": "01236",
+      "board": "Main Board",
+      "date_filed": "20260430",
+      "is_latest": true
+    },
+    "01244_20221129": {
+      "stock_code": "01244",
+      "board": "Main Board",
+      "date_filed": "20221129",
+      "is_latest": true
+    },
+    "01274_20231212": {
+      "stock_code": "01274",
+      "board": "Main Board",
+      "date_filed": "20231212",
+      "is_latest": true
+    },
+    "01284_20230630": {
+      "stock_code": "01284",
+      "board": "Main Board",
+      "date_filed": "20230630",
+      "is_latest": true
+    },
+    "01304_20250630": {
+      "stock_code": "01304",
+      "board": "Main Board",
+      "date_filed": "20250630",
+      "is_latest": true
+    },
+    "01318_20241202": {
+      "stock_code": "01318",
+      "board": "Main Board",
+      "date_filed": "20241202",
+      "is_latest": true
+    },
+    "01334_20240628": {
+      "stock_code": "01334",
+      "board": "Main Board",
+      "date_filed": "20240628",
+      "is_latest": true
+    },
+    "01354_20240624": {
+      "stock_code": "01354",
+      "board": "Main Board",
+      "date_filed": "20240624",
+      "is_latest": true
+    },
+    "01377_20260630": {
+      "stock_code": "01377",
+      "board": "Main Board",
+      "date_filed": "20260630",
+      "is_latest": true
+    },
+    "01384_20251020": {
+      "stock_code": "01384",
+      "board": "Main Board",
+      "date_filed": "20251020",
+      "is_latest": true
+    },
+    "01392_20260611": {
+      "stock_code": "01392",
+      "board": "Main Board",
+      "date_filed": "20260611",
+      "is_latest": true
+    },
+    "01405_20221213": {
+      "stock_code": "01405",
+      "board": "Main Board",
+      "date_filed": "20221213",
+      "is_latest": true
+    },
+    "01407_20221031": {
+      "stock_code": "01407",
+      "board": "Main Board",
+      "date_filed": "20221031",
+      "is_latest": true
+    },
+    "01471_20240729": {
+      "stock_code": "01471",
+      "board": "Main Board",
+      "date_filed": "20240729",
+      "is_latest": true
+    },
+    "01489_20220923": {
+      "stock_code": "01489",
+      "board": "Main Board",
+      "date_filed": "20220923",
+      "is_latest": true
+    },
+    "01497_20231130": {
+      "stock_code": "01497",
+      "board": "Main Board",
+      "date_filed": "20231130",
+      "is_latest": true
+    },
+    "01511_20260512": {
+      "stock_code": "01511",
+      "board": "Main Board",
+      "date_filed": "20260512",
+      "is_latest": true
+    },
+    "01519_20231016": {
+      "stock_code": "01519",
+      "board": "Main Board",
+      "date_filed": "20231016",
+      "is_latest": true
+    },
+    "01541_20230824": {
+      "stock_code": "01541",
+      "board": "Main Board",
+      "date_filed": "20230824",
+      "is_latest": true
+    },
+    "01609_20260424": {
+      "stock_code": "01609",
+      "board": "Main Board",
+      "date_filed": "20260424",
+      "is_latest": true
+    },
+    "01641_20251231": {
+      "stock_code": "01641",
+      "board": "Main Board",
+      "date_filed": "20251231",
+      "is_latest": true
+    },
+    "01688_20260617": {
+      "stock_code": "01688",
+      "board": "Main Board",
+      "date_filed": "20260617",
+      "is_latest": true
+    },
+    "01768_20260120": {
+      "stock_code": "01768",
+      "board": "Main Board",
+      "date_filed": "20260120",
+      "is_latest": true
+    },
+    "01770_20260629": {
+      "stock_code": "01770",
+      "board": "Main Board",
+      "date_filed": "20260629",
+      "is_latest": true
+    },
+    "01779_20260528": {
+      "stock_code": "01779",
+      "board": "Main Board",
+      "date_filed": "20260528",
+      "is_latest": true
+    },
+    "01828_20250626": {
+      "stock_code": "01828",
+      "board": "Main Board",
+      "date_filed": "20250626",
+      "is_latest": true
+    },
+    "01879_20260420": {
+      "stock_code": "01879",
+      "board": "Main Board",
+      "date_filed": "20260420",
+      "is_latest": true
+    },
+    "01947_20221130": {
+      "stock_code": "01947",
+      "board": "Main Board",
+      "date_filed": "20221130",
+      "is_latest": true
+    },
+    "01956_20260617": {
+      "stock_code": "01956",
+      "board": "Main Board",
+      "date_filed": "20260617",
+      "is_latest": true
+    },
+    "01973_20230925": {
+      "stock_code": "01973",
+      "board": "Main Board",
+      "date_filed": "20230925",
+      "is_latest": true
+    },
+    "01989_20260312": {
+      "stock_code": "01989",
+      "board": "Main Board",
+      "date_filed": "20260312",
+      "is_latest": true
+    },
+    "02026_20251028": {
+      "stock_code": "02026",
+      "board": "Main Board",
+      "date_filed": "20251028",
+      "is_latest": true
+    },
+    "02050_20250613": {
+      "stock_code": "02050",
+      "board": "Main Board",
+      "date_filed": "20250613",
+      "is_latest": true
+    },
+    "02076_20250625": {
+      "stock_code": "02076",
+      "board": "Main Board",
+      "date_filed": "20250625",
+      "is_latest": true
+    },
+    "02105_20230616": {
+      "stock_code": "02105",
+      "board": "Main Board",
+      "date_filed": "20230616",
+      "is_latest": true
+    },
+    "02145_20221212": {
+      "stock_code": "02145",
+      "board": "Main Board",
+      "date_filed": "20221212",
+      "is_latest": true
+    },
+    "02147_20221230": {
+      "stock_code": "02147",
+      "board": "Main Board",
+      "date_filed": "20221230",
+      "is_latest": true
+    },
+    "02149_20231218": {
+      "stock_code": "02149",
+      "board": "Main Board",
+      "date_filed": "20231218",
+      "is_latest": true
+    },
+    "02228_20240604": {
+      "stock_code": "02228",
+      "board": "Main Board",
+      "date_filed": "20240604",
+      "is_latest": true
+    },
+    "02245_20221121": {
+      "stock_code": "02245",
+      "board": "Main Board",
+      "date_filed": "20221121",
+      "is_latest": true
+    },
+    "02249_20260630": {
+      "stock_code": "02249",
+      "board": "Main Board",
+      "date_filed": "20260630",
+      "is_latest": true
+    },
+    "02259_20250919": {
+      "stock_code": "02259",
+      "board": "Main Board",
+      "date_filed": "20250919",
+      "is_latest": true
+    },
+    "02268_20231107": {
+      "stock_code": "02268",
+      "board": "Main Board",
+      "date_filed": "20231107",
+      "is_latest": true
+    },
+    "02271_20221230": {
+      "stock_code": "02271",
+      "board": "Main Board",
+      "date_filed": "20221230",
+      "is_latest": false
+    },
+    "02271_20230630": {
+      "stock_code": "02271",
+      "board": "Main Board",
+      "date_filed": "20230630",
+      "is_latest": true
+    },
+    "02272_20260617": {
+      "stock_code": "02272",
+      "board": "Main Board",
+      "date_filed": "20260617",
+      "is_latest": true
+    },
+    "02290_20260528": {
+      "stock_code": "02290",
+      "board": "Main Board",
+      "date_filed": "20260528",
+      "is_latest": true
+    },
+    "02291_20221027": {
+      "stock_code": "02291",
+      "board": "Main Board",
+      "date_filed": "20221027",
+      "is_latest": true
+    },
+    "02306_20221230": {
+      "stock_code": "02306",
+      "board": "Main Board",
+      "date_filed": "20221230",
+      "is_latest": true
+    },
+    "02335_20260615": {
+      "stock_code": "02335",
+      "board": "Main Board",
+      "date_filed": "20260615",
+      "is_latest": true
+    },
+    "02350_20220913": {
+      "stock_code": "02350",
+      "board": "Main Board",
+      "date_filed": "20220913",
+      "is_latest": true
+    },
+    "02367_20221025": {
+      "stock_code": "02367",
+      "board": "Main Board",
+      "date_filed": "20221025",
+      "is_latest": true
+    },
+    "02373_20221230": {
+      "stock_code": "02373",
+      "board": "Main Board",
+      "date_filed": "20221230",
+      "is_latest": true
+    },
+    "02396_20251212": {
+      "stock_code": "02396",
+      "board": "Main Board",
+      "date_filed": "20251212",
+      "is_latest": true
+    },
+    "02402_20221229": {
+      "stock_code": "02402",
+      "board": "Main Board",
+      "date_filed": "20221229",
+      "is_latest": true
+    },
+    "02407_20221130": {
+      "stock_code": "02407",
+      "board": "Main Board",
+      "date_filed": "20221130",
+      "is_latest": true
+    },
+    "02408_20251127": {
+      "stock_code": "02408",
+      "board": "Main Board",
+      "date_filed": "20251127",
+      "is_latest": true
+    },
+    "02410_20240812": {
+      "stock_code": "02410",
+      "board": "Main Board",
+      "date_filed": "20240812",
+      "is_latest": true
+    },
+    "02411_20221229": {
+      "stock_code": "02411",
+      "board": "Main Board",
+      "date_filed": "20221229",
+      "is_latest": true
+    },
+    "02416_20230515": {
+      "stock_code": "02416",
+      "board": "Main Board",
+      "date_filed": "20230515",
+      "is_latest": true
+    },
+    "02419_20231127": {
+      "stock_code": "02419",
+      "board": "Main Board",
+      "date_filed": "20231127",
+      "is_latest": true
+    },
+    "02420_20221031": {
+      "stock_code": "02420",
+      "board": "Main Board",
+      "date_filed": "20221031",
+      "is_latest": true
+    },
+    "02422_20220930": {
+      "stock_code": "02422",
+      "board": "Main Board",
+      "date_filed": "20220930",
+      "is_latest": true
+    },
+    "02425_20221216": {
+      "stock_code": "02425",
+      "board": "Main Board",
+      "date_filed": "20221216",
+      "is_latest": true
+    },
+    "02427_20221215": {
+      "stock_code": "02427",
+      "board": "Main Board",
+      "date_filed": "20221215",
+      "is_latest": true
+    },
+    "02429_20231024": {
+      "stock_code": "02429",
+      "board": "Main Board",
+      "date_filed": "20231024",
+      "is_latest": true
+    },
+    "02431_20241217": {
+      "stock_code": "02431",
+      "board": "Main Board",
+      "date_filed": "20241217",
+      "is_latest": true
+    },
+    "02432_20241213": {
+      "stock_code": "02432",
+      "board": "Main Board",
+      "date_filed": "20241213",
+      "is_latest": true
+    },
+    "02436_20221114": {
+      "stock_code": "02436",
+      "board": "Main Board",
+      "date_filed": "20221114",
+      "is_latest": true
+    },
+    "02438_20240416": {
+      "stock_code": "02438",
+      "board": "Main Board",
+      "date_filed": "20240416",
+      "is_latest": true
+    },
+    "02440_20221130": {
+      "stock_code": "02440",
+      "board": "Main Board",
+      "date_filed": "20221130",
+      "is_latest": true
+    },
+    "02443_20240523": {
+      "stock_code": "02443",
+      "board": "Main Board",
+      "date_filed": "20240523",
+      "is_latest": true
+    },
+    "02450_20221230": {
+      "stock_code": "02450",
+      "board": "Main Board",
+      "date_filed": "20221230",
+      "is_latest": true
+    },
+    "02451_20230928": {
+      "stock_code": "02451",
+      "board": "Main Board",
+      "date_filed": "20230928",
+      "is_latest": true
+    },
+    "02453_20231229": {
+      "stock_code": "02453",
+      "board": "Main Board",
+      "date_filed": "20231229",
+      "is_latest": true
+    },
+    "02455_20221230": {
+      "stock_code": "02455",
+      "board": "Main Board",
+      "date_filed": "20221230",
+      "is_latest": true
+    },
+    "02457_20221129": {
+      "stock_code": "02457",
+      "board": "Main Board",
+      "date_filed": "20221129",
+      "is_latest": true
+    },
+    "02458_20221230": {
+      "stock_code": "02458",
+      "board": "Main Board",
+      "date_filed": "20221230",
+      "is_latest": true
+    },
+    "02459_20221230": {
+      "stock_code": "02459",
+      "board": "Main Board",
+      "date_filed": "20221230",
+      "is_latest": true
+    },
+    "02460_20241015": {
+      "stock_code": "02460",
+      "board": "Main Board",
+      "date_filed": "20241015",
+      "is_latest": true
+    },
+    "02465_20241022": {
+      "stock_code": "02465",
+      "board": "Main Board",
+      "date_filed": "20241022",
+      "is_latest": true
+    },
+    "02469_20221223": {
+      "stock_code": "02469",
+      "board": "Main Board",
+      "date_filed": "20221223",
+      "is_latest": true
+    },
+    "02473_20231030": {
+      "stock_code": "02473",
+      "board": "Main Board",
+      "date_filed": "20231030",
+      "is_latest": true
+    },
+    "02475_20260630": {
+      "stock_code": "02475",
+      "board": "Main Board",
+      "date_filed": "20260630",
+      "is_latest": true
+    },
+    "02476_20260413": {
+      "stock_code": "02476",
+      "board": "Main Board",
+      "date_filed": "20260413",
+      "is_latest": true
+    },
+    "02477_20231228": {
+      "stock_code": "02477",
+      "board": "Main Board",
+      "date_filed": "20231228",
+      "is_latest": true
+    },
+    "02479_20240620": {
+      "stock_code": "02479",
+      "board": "Main Board",
+      "date_filed": "20240620",
+      "is_latest": true
+    },
+    "02480_20230425": {
+      "stock_code": "02480",
+      "board": "Main Board",
+      "date_filed": "20230425",
+      "is_latest": true
+    },
+    "02481_20230628": {
+      "stock_code": "02481",
+      "board": "Main Board",
+      "date_filed": "20230628",
+      "is_latest": true
+    },
+    "02483_20231127": {
+      "stock_code": "02483",
+      "board": "Main Board",
+      "date_filed": "20231127",
+      "is_latest": true
+    },
+    "02486_20230428": {
+      "stock_code": "02486",
+      "board": "Main Board",
+      "date_filed": "20230428",
+      "is_latest": true
+    },
+    "02487_20230531": {
+      "stock_code": "02487",
+      "board": "Main Board",
+      "date_filed": "20230531",
+      "is_latest": true
+    },
+    "02489_20231214": {
+      "stock_code": "02489",
+      "board": "Main Board",
+      "date_filed": "20231214",
+      "is_latest": true
+    },
+    "02490_20230913": {
+      "stock_code": "02490",
+      "board": "Main Board",
+      "date_filed": "20230913",
+      "is_latest": true
+    },
+    "02493_20260420": {
+      "stock_code": "02493",
+      "board": "Main Board",
+      "date_filed": "20260420",
+      "is_latest": true
+    },
+    "02495_20240628": {
+      "stock_code": "02495",
+      "board": "Main Board",
+      "date_filed": "20240628",
+      "is_latest": true
+    },
+    "02496_20230913": {
+      "stock_code": "02496",
+      "board": "Main Board",
+      "date_filed": "20230913",
+      "is_latest": true
+    },
+    "02497_20231130": {
+      "stock_code": "02497",
+      "board": "Main Board",
+      "date_filed": "20231130",
+      "is_latest": false
+    },
+    "02497_20240320": {
+      "stock_code": "02497",
+      "board": "Main Board",
+      "date_filed": "20240320",
+      "is_latest": true
+    },
+    "02498_20231227": {
+      "stock_code": "02498",
+      "board": "Main Board",
+      "date_filed": "20231227",
+      "is_latest": true
+    },
+    "02499_20231031": {
+      "stock_code": "02499",
+      "board": "Main Board",
+      "date_filed": "20231031",
+      "is_latest": true
+    },
+    "02501_20230928": {
+      "stock_code": "02501",
+      "board": "Main Board",
+      "date_filed": "20230928",
+      "is_latest": true
+    },
+    "02502_20231212": {
+      "stock_code": "02502",
+      "board": "Main Board",
+      "date_filed": "20231212",
+      "is_latest": true
+    },
+    "02503_20231228": {
+      "stock_code": "02503",
+      "board": "Main Board",
+      "date_filed": "20231228",
+      "is_latest": true
+    },
+    "02505_20240519": {
+      "stock_code": "02505",
+      "board": "Main Board",
+      "date_filed": "20240519",
+      "is_latest": true
+    },
+    "02506_20241218": {
+      "stock_code": "02506",
+      "board": "Main Board",
+      "date_filed": "20241218",
+      "is_latest": true
+    },
+    "02507_20240628": {
+      "stock_code": "02507",
+      "board": "Main Board",
+      "date_filed": "20240628",
+      "is_latest": true
+    },
+    "02508_20250618": {
+      "stock_code": "02508",
+      "board": "Main Board",
+      "date_filed": "20250618",
+      "is_latest": true
+    },
+    "02509_20240312": {
+      "stock_code": "02509",
+      "board": "Main Board",
+      "date_filed": "20240312",
+      "is_latest": true
+    },
+    "02510_20241024": {
+      "stock_code": "02510",
+      "board": "Main Board",
+      "date_filed": "20241024",
+      "is_latest": true
+    },
+    "02511_20231214": {
+      "stock_code": "02511",
+      "board": "Main Board",
+      "date_filed": "20231214",
+      "is_latest": true
+    },
+    "02512_20240605": {
+      "stock_code": "02512",
+      "board": "Main Board",
+      "date_filed": "20240605",
+      "is_latest": true
+    },
+    "02513_20251230": {
+      "stock_code": "02513",
+      "board": "Main Board",
+      "date_filed": "20251230",
+      "is_latest": true
+    },
+    "02515_20231229": {
+      "stock_code": "02515",
+      "board": "Main Board",
+      "date_filed": "20231229",
+      "is_latest": false
+    },
+    "02515_20240415": {
+      "stock_code": "02515",
+      "board": "Main Board",
+      "date_filed": "20240415",
+      "is_latest": true
+    },
+    "02516_20231212": {
+      "stock_code": "02516",
+      "board": "Main Board",
+      "date_filed": "20231212",
+      "is_latest": true
+    },
+    "02517_20231020": {
+      "stock_code": "02517",
+      "board": "Main Board",
+      "date_filed": "20231020",
+      "is_latest": true
+    },
+    "02519_20241031": {
+      "stock_code": "02519",
+      "board": "Main Board",
+      "date_filed": "20241031",
+      "is_latest": true
+    },
+    "02520_20231110": {
+      "stock_code": "02520",
+      "board": "Main Board",
+      "date_filed": "20231110",
+      "is_latest": true
+    },
+    "02521_20231127": {
+      "stock_code": "02521",
+      "board": "Main Board",
+      "date_filed": "20231127",
+      "is_latest": true
+    },
+    "02522_20240530": {
+      "stock_code": "02522",
+      "board": "Main Board",
+      "date_filed": "20240530",
+      "is_latest": true
+    },
+    "02523_20260630": {
+      "stock_code": "02523",
+      "board": "Main Board",
+      "date_filed": "20260630",
+      "is_latest": true
+    },
+    "02525_20250908": {
+      "stock_code": "02525",
+      "board": "Main Board",
+      "date_filed": "20250908",
+      "is_latest": true
+    },
+    "02526_20260320": {
+      "stock_code": "02526",
+      "board": "Main Board",
+      "date_filed": "20260320",
+      "is_latest": true
+    },
+    "02529_20240508": {
+      "stock_code": "02529",
+      "board": "Main Board",
+      "date_filed": "20240508",
+      "is_latest": true
+    },
+    "02530_20241230": {
+      "stock_code": "02530",
+      "board": "Main Board",
+      "date_filed": "20241230",
+      "is_latest": true
+    },
+    "02531_20240628": {
+      "stock_code": "02531",
+      "board": "Main Board",
+      "date_filed": "20240628",
+      "is_latest": true
+    },
+    "02533_20240731": {
+      "stock_code": "02533",
+      "board": "Main Board",
+      "date_filed": "20240731",
+      "is_latest": true
+    },
+    "02535_20240229": {
+      "stock_code": "02535",
+      "board": "Main Board",
+      "date_filed": "20240229",
+      "is_latest": true
+    },
+    "02536_20240318": {
+      "stock_code": "02536",
+      "board": "Main Board",
+      "date_filed": "20240318",
+      "is_latest": true
+    },
+    "02539_20251125": {
+      "stock_code": "02539",
+      "board": "Main Board",
+      "date_filed": "20251125",
+      "is_latest": true
+    },
+    "02540_20240229": {
+      "stock_code": "02540",
+      "board": "Main Board",
+      "date_filed": "20240229",
+      "is_latest": true
+    },
+    "02543_20250901": {
+      "stock_code": "02543",
+      "board": "Main Board",
+      "date_filed": "20250901",
+      "is_latest": true
+    },
+    "02545_20240621": {
+      "stock_code": "02545",
+      "board": "Main Board",
+      "date_filed": "20240621",
+      "is_latest": true
+    },
+    "02546_20251211": {
+      "stock_code": "02546",
+      "board": "Main Board",
+      "date_filed": "20251211",
+      "is_latest": true
+    },
+    "02549_20240923": {
+      "stock_code": "02549",
+      "board": "Main Board",
+      "date_filed": "20240923",
+      "is_latest": true
+    },
+    "02550_20240530": {
+      "stock_code": "02550",
+      "board": "Main Board",
+      "date_filed": "20240530",
+      "is_latest": true
+    },
+    "02551_20241031": {
+      "stock_code": "02551",
+      "board": "Main Board",
+      "date_filed": "20241031",
+      "is_latest": true
+    },
+    "02553_20250630": {
+      "stock_code": "02553",
+      "board": "Main Board",
+      "date_filed": "20250630",
+      "is_latest": false
+    },
+    "02553_20260526": {
+      "stock_code": "02553",
+      "board": "Main Board",
+      "date_filed": "20260526",
+      "is_latest": true
+    },
+    "02555_20240415": {
+      "stock_code": "02555",
+      "board": "Main Board",
+      "date_filed": "20240415",
+      "is_latest": true
+    },
+    "02556_20240507": {
+      "stock_code": "02556",
+      "board": "Main Board",
+      "date_filed": "20240507",
+      "is_latest": true
+    },
+    "02559_20240620": {
+      "stock_code": "02559",
+      "board": "Main Board",
+      "date_filed": "20240620",
+      "is_latest": true
+    },
+    "02560_20241231": {
+      "stock_code": "02560",
+      "board": "Main Board",
+      "date_filed": "20241231",
+      "is_latest": true
+    },
+    "02563_20241023": {
+      "stock_code": "02563",
+      "board": "Main Board",
+      "date_filed": "20241023",
+      "is_latest": true
+    },
+    "02566_20241120": {
+      "stock_code": "02566",
+      "board": "Main Board",
+      "date_filed": "20241120",
+      "is_latest": true
+    },
+    "02567_20240930": {
+      "stock_code": "02567",
+      "board": "Main Board",
+      "date_filed": "20240930",
+      "is_latest": true
+    },
+    "02570_20241128": {
+      "stock_code": "02570",
+      "board": "Main Board",
+      "date_filed": "20241128",
+      "is_latest": true
+    },
+    "02571_20241231": {
+      "stock_code": "02571",
+      "board": "Main Board",
+      "date_filed": "20241231",
+      "is_latest": true
+    },
+    "02575_20251006": {
+      "stock_code": "02575",
+      "board": "Main Board",
+      "date_filed": "20251006",
+      "is_latest": true
+    },
+    "02576_20240927": {
+      "stock_code": "02576",
+      "board": "Main Board",
+      "date_filed": "20240927",
+      "is_latest": true
+    },
+    "02577_20241218": {
+      "stock_code": "02577",
+      "board": "Main Board",
+      "date_filed": "20241218",
+      "is_latest": true
+    },
+    "02579_20251107": {
+      "stock_code": "02579",
+      "board": "Main Board",
+      "date_filed": "20251107",
+      "is_latest": true
+    },
+    "02580_20250825": {
+      "stock_code": "02580",
+      "board": "Main Board",
+      "date_filed": "20250825",
+      "is_latest": true
+    },
+    "02581_20251212": {
+      "stock_code": "02581",
+      "board": "Main Board",
+      "date_filed": "20251212",
+      "is_latest": true
+    },
+    "02582_20241107": {
+      "stock_code": "02582",
+      "board": "Main Board",
+      "date_filed": "20241107",
+      "is_latest": true
+    },
+    "02583_20250919": {
+      "stock_code": "02583",
+      "board": "Main Board",
+      "date_filed": "20250919",
+      "is_latest": true
+    },
+    "02585_20241121": {
+      "stock_code": "02585",
+      "board": "Main Board",
+      "date_filed": "20241121",
+      "is_latest": true
+    },
+    "02586_20241128": {
+      "stock_code": "02586",
+      "board": "Main Board",
+      "date_filed": "20241128",
+      "is_latest": true
+    },
+    "02587_20241218": {
+      "stock_code": "02587",
+      "board": "Main Board",
+      "date_filed": "20241218",
+      "is_latest": true
+    },
+    "02590_20250630": {
+      "stock_code": "02590",
+      "board": "Main Board",
+      "date_filed": "20250630",
+      "is_latest": true
+    },
+    "02591_20250807": {
+      "stock_code": "02591",
+      "board": "Main Board",
+      "date_filed": "20250807",
+      "is_latest": true
+    },
+    "02592_20250624": {
+      "stock_code": "02592",
+      "board": "Main Board",
+      "date_filed": "20250624",
+      "is_latest": true
+    },
+    "02593_20241211": {
+      "stock_code": "02593",
+      "board": "Main Board",
+      "date_filed": "20241211",
+      "is_latest": true
+    },
+    "02595_20250911": {
+      "stock_code": "02595",
+      "board": "Main Board",
+      "date_filed": "20250911",
+      "is_latest": true
+    },
+    "02596_20241230": {
+      "stock_code": "02596",
+      "board": "Main Board",
+      "date_filed": "20241230",
+      "is_latest": true
+    },
+    "02597_20250630": {
+      "stock_code": "02597",
+      "board": "Main Board",
+      "date_filed": "20250630",
+      "is_latest": true
+    },
+    "02598_20240320": {
+      "stock_code": "02598",
+      "board": "Main Board",
+      "date_filed": "20240320",
+      "is_latest": true
+    },
+    "02602_20220919": {
+      "stock_code": "02602",
+      "board": "Main Board",
+      "date_filed": "20220919",
+      "is_latest": true
+    },
+    "02609_20250613": {
+      "stock_code": "02609",
+      "board": "Main Board",
+      "date_filed": "20250613",
+      "is_latest": true
+    },
+    "02613_20241231": {
+      "stock_code": "02613",
+      "board": "Main Board",
+      "date_filed": "20241231",
+      "is_latest": true
+    },
+    "02615_20251107": {
+      "stock_code": "02615",
+      "board": "Main Board",
+      "date_filed": "20251107",
+      "is_latest": true
+    },
+    "02617_20250613": {
+      "stock_code": "02617",
+      "board": "Main Board",
+      "date_filed": "20250613",
+      "is_latest": true
+    },
+    "02619_20250617": {
+      "stock_code": "02619",
+      "board": "Main Board",
+      "date_filed": "20250617",
+      "is_latest": true
+    },
+    "02627_20250731": {
+      "stock_code": "02627",
+      "board": "Main Board",
+      "date_filed": "20250731",
+      "is_latest": true
+    },
+    "02630_20251028": {
+      "stock_code": "02630",
+      "board": "Main Board",
+      "date_filed": "20251028",
+      "is_latest": true
+    },
+    "02631_20250811": {
+      "stock_code": "02631",
+      "board": "Main Board",
+      "date_filed": "20250811",
+      "is_latest": true
+    },
+    "02632_20260316": {
+      "stock_code": "02632",
+      "board": "Main Board",
+      "date_filed": "20260316",
+      "is_latest": true
+    },
+    "02635_20251215": {
+      "stock_code": "02635",
+      "board": "Main Board",
+      "date_filed": "20251215",
+      "is_latest": true
+    },
+    "02637_20251009": {
+      "stock_code": "02637",
+      "board": "Main Board",
+      "date_filed": "20251009",
+      "is_latest": true
+    },
+    "02643_20250617": {
+      "stock_code": "02643",
+      "board": "Main Board",
+      "date_filed": "20250617",
+      "is_latest": true
+    },
+    "02648_20250625": {
+      "stock_code": "02648",
+      "board": "Main Board",
+      "date_filed": "20250625",
+      "is_latest": true
+    },
+    "02649_20260227": {
+      "stock_code": "02649",
+      "board": "Main Board",
+      "date_filed": "20260227",
+      "is_latest": true
+    },
+    "02650_20250930": {
+      "stock_code": "02650",
+      "board": "Main Board",
+      "date_filed": "20250930",
+      "is_latest": true
+    },
+    "02651_20250630": {
+      "stock_code": "02651",
+      "board": "Main Board",
+      "date_filed": "20250630",
+      "is_latest": true
+    },
+    "02652_20250926": {
+      "stock_code": "02652",
+      "board": "Main Board",
+      "date_filed": "20250926",
+      "is_latest": true
+    },
+    "02655_20251208": {
+      "stock_code": "02655",
+      "board": "Main Board",
+      "date_filed": "20251208",
+      "is_latest": true
+    },
+    "02656_20250909": {
+      "stock_code": "02656",
+      "board": "Main Board",
+      "date_filed": "20250909",
+      "is_latest": true
+    },
+    "02657_20251218": {
+      "stock_code": "02657",
+      "board": "Main Board",
+      "date_filed": "20251218",
+      "is_latest": true
+    },
+    "02658_20251127": {
+      "stock_code": "02658",
+      "board": "Main Board",
+      "date_filed": "20251127",
+      "is_latest": true
+    },
+    "02659_20251202": {
+      "stock_code": "02659",
+      "board": "Main Board",
+      "date_filed": "20251202",
+      "is_latest": true
+    },
+    "02661_20251215": {
+      "stock_code": "02661",
+      "board": "Main Board",
+      "date_filed": "20251215",
+      "is_latest": true
+    },
+    "02667_20260320": {
+      "stock_code": "02667",
+      "board": "Main Board",
+      "date_filed": "20260320",
+      "is_latest": false
+    },
+    "02667_20260626": {
+      "stock_code": "02667",
+      "board": "Main Board",
+      "date_filed": "20260626",
+      "is_latest": true
+    },
+    "02670_20251008": {
+      "stock_code": "02670",
+      "board": "Main Board",
+      "date_filed": "20251008",
+      "is_latest": true
+    },
+    "02671_20251218": {
+      "stock_code": "02671",
+      "board": "Main Board",
+      "date_filed": "20251218",
+      "is_latest": true
+    },
+    "02672_20260618": {
+      "stock_code": "02672",
+      "board": "Main Board",
+      "date_filed": "20260618",
+      "is_latest": true
+    },
+    "02675_20251230": {
+      "stock_code": "02675",
+      "board": "Main Board",
+      "date_filed": "20251230",
+      "is_latest": true
+    },
+    "02676_20251128": {
+      "stock_code": "02676",
+      "board": "Main Board",
+      "date_filed": "20251128",
+      "is_latest": true
+    },
+    "02677_20260129": {
+      "stock_code": "02677",
+      "board": "Main Board",
+      "date_filed": "20260129",
+      "is_latest": true
+    },
+    "02685_20251119": {
+      "stock_code": "02685",
+      "board": "Main Board",
+      "date_filed": "20251119",
+      "is_latest": true
+    },
+    "02687_20251128": {
+      "stock_code": "02687",
+      "board": "Main Board",
+      "date_filed": "20251128",
+      "is_latest": true
+    },
+    "02691_20251212": {
+      "stock_code": "02691",
+      "board": "Main Board",
+      "date_filed": "20251212",
+      "is_latest": true
+    },
+    "02692_20260227": {
+      "stock_code": "02692",
+      "board": "Main Board",
+      "date_filed": "20260227",
+      "is_latest": true
+    },
+    "02693_20251125": {
+      "stock_code": "02693",
+      "board": "Main Board",
+      "date_filed": "20251125",
+      "is_latest": true
+    },
+    "02695_20251212": {
+      "stock_code": "02695",
+      "board": "Main Board",
+      "date_filed": "20251212",
+      "is_latest": true
+    },
+    "02697_20260622": {
+      "stock_code": "02697",
+      "board": "Main Board",
+      "date_filed": "20260622",
+      "is_latest": true
+    },
+    "02698_20251031": {
+      "stock_code": "02698",
+      "board": "Main Board",
+      "date_filed": "20251031",
+      "is_latest": true
+    },
+    "02701_20260313": {
+      "stock_code": "02701",
+      "board": "Main Board",
+      "date_filed": "20260313",
+      "is_latest": true
+    },
+    "02706_20260205": {
+      "stock_code": "02706",
+      "board": "Main Board",
+      "date_filed": "20260205",
+      "is_latest": true
+    },
+    "02714_20260129": {
+      "stock_code": "02714",
+      "board": "Main Board",
+      "date_filed": "20260129",
+      "is_latest": true
+    },
+    "02715_20260227": {
+      "stock_code": "02715",
+      "board": "Main Board",
+      "date_filed": "20260227",
+      "is_latest": true
+    },
+    "02718_20251023": {
+      "stock_code": "02718",
+      "board": "Main Board",
+      "date_filed": "20251023",
+      "is_latest": true
+    },
+    "02720_20260130": {
+      "stock_code": "02720",
+      "board": "Main Board",
+      "date_filed": "20260130",
+      "is_latest": true
+    },
+    "02723_20260518": {
+      "stock_code": "02723",
+      "board": "Main Board",
+      "date_filed": "20260518",
+      "is_latest": true
+    },
+    "02726_20260320": {
+      "stock_code": "02726",
+      "board": "Main Board",
+      "date_filed": "20260320",
+      "is_latest": true
+    },
+    "02729_20260316": {
+      "stock_code": "02729",
+      "board": "Main Board",
+      "date_filed": "20260316",
+      "is_latest": true
+    },
+    "02768_20260127": {
+      "stock_code": "02768",
+      "board": "Main Board",
+      "date_filed": "20260127",
+      "is_latest": true
+    },
+    "02788_20251114": {
+      "stock_code": "02788",
+      "board": "Main Board",
+      "date_filed": "20251114",
+      "is_latest": true
+    },
+    "02797_20260630": {
+      "stock_code": "02797",
+      "board": "Main Board",
+      "date_filed": "20260630",
+      "is_latest": true
+    },
+    "02881_20240607": {
+      "stock_code": "02881",
+      "board": "Main Board",
+      "date_filed": "20240607",
+      "is_latest": true
+    },
+    "02889_20250922": {
+      "stock_code": "02889",
+      "board": "Main Board",
+      "date_filed": "20250922",
+      "is_latest": true
+    },
+    "02898_20240516": {
+      "stock_code": "02898",
+      "board": "Main Board",
+      "date_filed": "20240516",
+      "is_latest": true
+    },
+    "03200_20260129": {
+      "stock_code": "03200",
+      "board": "Main Board",
+      "date_filed": "20260129",
+      "is_latest": true
+    },
+    "03268_20260227": {
+      "stock_code": "03268",
+      "board": "Main Board",
+      "date_filed": "20260227",
+      "is_latest": true
+    },
+    "03277_20260409": {
+      "stock_code": "03277",
+      "board": "Main Board",
+      "date_filed": "20260409",
+      "is_latest": true
+    },
+    "03296_20260415": {
+      "stock_code": "03296",
+      "board": "Main Board",
+      "date_filed": "20260415",
+      "is_latest": true
+    },
+    "03310_20260518": {
+      "stock_code": "03310",
+      "board": "Main Board",
+      "date_filed": "20260518",
+      "is_latest": true
+    },
+    "03317_20251218": {
+      "stock_code": "03317",
+      "board": "Main Board",
+      "date_filed": "20251218",
+      "is_latest": true
+    },
+    "03355_20260313": {
+      "stock_code": "03355",
+      "board": "Main Board",
+      "date_filed": "20260313",
+      "is_latest": true
+    },
+    "03378_20251215": {
+      "stock_code": "03378",
+      "board": "Main Board",
+      "date_filed": "20251215",
+      "is_latest": true
+    },
+    "03388_20260520": {
+      "stock_code": "03388",
+      "board": "Main Board",
+      "date_filed": "20260520",
+      "is_latest": true
+    },
+    "03625_20260323": {
+      "stock_code": "03625",
+      "board": "Main Board",
+      "date_filed": "20260323",
+      "is_latest": true
+    },
+    "03636_20251231": {
+      "stock_code": "03636",
+      "board": "Main Board",
+      "date_filed": "20251231",
+      "is_latest": true
+    },
+    "03650_20230630": {
+      "stock_code": "03650",
+      "board": "Main Board",
+      "date_filed": "20230630",
+      "is_latest": true
+    },
+    "03660_20221118": {
+      "stock_code": "03660",
+      "board": "Main Board",
+      "date_filed": "20221118",
+      "is_latest": true
+    },
+    "03661_20260617": {
+      "stock_code": "03661",
+      "board": "Main Board",
+      "date_filed": "20260617",
+      "is_latest": true
+    },
+    "03696_20251218": {
+      "stock_code": "03696",
+      "board": "Main Board",
+      "date_filed": "20251218",
+      "is_latest": true
+    },
+    "03752_20260630": {
+      "stock_code": "03752",
+      "board": "Main Board",
+      "date_filed": "20260630",
+      "is_latest": true
+    },
+    "03858_20250820": {
+      "stock_code": "03858",
+      "board": "Main Board",
+      "date_filed": "20250820",
+      "is_latest": true
+    },
+    "03880_20250620": {
+      "stock_code": "03880",
+      "board": "Main Board",
+      "date_filed": "20250620",
+      "is_latest": true
+    },
+    "03881_20251211": {
+      "stock_code": "03881",
+      "board": "Main Board",
+      "date_filed": "20251211",
+      "is_latest": true
+    },
+    "03887_20251209": {
+      "stock_code": "03887",
+      "board": "Main Board",
+      "date_filed": "20251209",
+      "is_latest": true
+    },
+    "03931_20220923": {
+      "stock_code": "03931",
+      "board": "Main Board",
+      "date_filed": "20220923",
+      "is_latest": true
+    },
+    "03952_20260622": {
+      "stock_code": "03952",
+      "board": "Main Board",
+      "date_filed": "20260622",
+      "is_latest": true
+    },
+    "03986_20251231": {
+      "stock_code": "03986",
+      "board": "Main Board",
+      "date_filed": "20251231",
+      "is_latest": true
+    },
+    "06031_20251020": {
+      "stock_code": "06031",
+      "board": "Main Board",
+      "date_filed": "20251020",
+      "is_latest": true
+    },
+    "06067_20260612": {
+      "stock_code": "06067",
+      "board": "Main Board",
+      "date_filed": "20260612",
+      "is_latest": true
+    },
+    "06082_20251222": {
+      "stock_code": "06082",
+      "board": "Main Board",
+      "date_filed": "20251222",
+      "is_latest": true
+    },
+    "06086_20240628": {
+      "stock_code": "06086",
+      "board": "Main Board",
+      "date_filed": "20240628",
+      "is_latest": true
+    },
+    "06090_20250915": {
+      "stock_code": "06090",
+      "board": "Main Board",
+      "date_filed": "20250915",
+      "is_latest": true
+    },
+    "06106_20260615": {
+      "stock_code": "06106",
+      "board": "Main Board",
+      "date_filed": "20260615",
+      "is_latest": true
+    },
+    "06132_20260612": {
+      "stock_code": "06132",
+      "board": "Main Board",
+      "date_filed": "20260612",
+      "is_latest": true
+    },
+    "06166_20251020": {
+      "stock_code": "06166",
+      "board": "Main Board",
+      "date_filed": "20251020",
+      "is_latest": true
+    },
+    "06168_20250618": {
+      "stock_code": "06168",
+      "board": "Main Board",
+      "date_filed": "20250618",
+      "is_latest": true
+    },
+    "06181_20240620": {
+      "stock_code": "06181",
+      "board": "Main Board",
+      "date_filed": "20240620",
+      "is_latest": true
+    },
+    "06228_20260617": {
+      "stock_code": "06228",
+      "board": "Main Board",
+      "date_filed": "20260617",
+      "is_latest": true
+    },
+    "06600_20251218": {
+      "stock_code": "06600",
+      "board": "Main Board",
+      "date_filed": "20251218",
+      "is_latest": true
+    },
+    "06603_20250620": {
+      "stock_code": "06603",
+      "board": "Main Board",
+      "date_filed": "20250620",
+      "is_latest": true
+    },
+    "06610_20220929": {
+      "stock_code": "06610",
+      "board": "Main Board",
+      "date_filed": "20220929",
+      "is_latest": true
+    },
+    "06613_20250630": {
+      "stock_code": "06613",
+      "board": "Main Board",
+      "date_filed": "20250630",
+      "is_latest": true
+    },
+    "06636_20260320": {
+      "stock_code": "06636",
+      "board": "Main Board",
+      "date_filed": "20260320",
+      "is_latest": true
+    },
+    "06651_20251218": {
+      "stock_code": "06651",
+      "board": "Main Board",
+      "date_filed": "20251218",
+      "is_latest": true
+    },
+    "06656_20260408": {
+      "stock_code": "06656",
+      "board": "Main Board",
+      "date_filed": "20260408",
+      "is_latest": true
+    },
+    "06657_20240628": {
+      "stock_code": "06657",
+      "board": "Main Board",
+      "date_filed": "20240628",
+      "is_latest": true
+    },
+    "06658_20260605": {
+      "stock_code": "06658",
+      "board": "Main Board",
+      "date_filed": "20260605",
+      "is_latest": true
+    },
+    "06660_20220923": {
+      "stock_code": "06660",
+      "board": "Main Board",
+      "date_filed": "20220923",
+      "is_latest": true
+    },
+    "06675_20260609": {
+      "stock_code": "06675",
+      "board": "Main Board",
+      "date_filed": "20260609",
+      "is_latest": true
+    },
+    "06681_20241230": {
+      "stock_code": "06681",
+      "board": "Main Board",
+      "date_filed": "20241230",
+      "is_latest": true
+    },
+    "06682_20230918": {
+      "stock_code": "06682",
+      "board": "Main Board",
+      "date_filed": "20230918",
+      "is_latest": true
+    },
+    "06683_20230531": {
+      "stock_code": "06683",
+      "board": "Main Board",
+      "date_filed": "20230531",
+      "is_latest": false
+    },
+    "06683_20230630": {
+      "stock_code": "06683",
+      "board": "Main Board",
+      "date_filed": "20230630",
+      "is_latest": true
+    },
+    "06687_20251013": {
+      "stock_code": "06687",
+      "board": "Main Board",
+      "date_filed": "20251013",
+      "is_latest": true
+    },
+    "06696_20221028": {
+      "stock_code": "06696",
+      "board": "Main Board",
+      "date_filed": "20221028",
+      "is_latest": true
+    },
+    "06698_20221215": {
+      "stock_code": "06698",
+      "board": "Main Board",
+      "date_filed": "20221215",
+      "is_latest": true
+    },
+    "06715_20260622": {
+      "stock_code": "06715",
+      "board": "Main Board",
+      "date_filed": "20260622",
+      "is_latest": true
+    },
+    "06745_20260630": {
+      "stock_code": "06745",
+      "board": "Main Board",
+      "date_filed": "20260630",
+      "is_latest": true
+    },
+    "06809_20260130": {
+      "stock_code": "06809",
+      "board": "Main Board",
+      "date_filed": "20260130",
+      "is_latest": true
+    },
+    "06810_20260421": {
+      "stock_code": "06810",
+      "board": "Main Board",
+      "date_filed": "20260421",
+      "is_latest": true
+    },
+    "06871_20260508": {
+      "stock_code": "06871",
+      "board": "Main Board",
+      "date_filed": "20260508",
+      "is_latest": true
+    },
+    "06872_20260514": {
+      "stock_code": "06872",
+      "board": "Main Board",
+      "date_filed": "20260514",
+      "is_latest": true
+    },
+    "06880_20260629": {
+      "stock_code": "06880",
+      "board": "Main Board",
+      "date_filed": "20260629",
+      "is_latest": true
+    },
+    "06883_20250618": {
+      "stock_code": "06883",
+      "board": "Main Board",
+      "date_filed": "20250618",
+      "is_latest": true
+    },
+    "06911_20231214": {
+      "stock_code": "06911",
+      "board": "Main Board",
+      "date_filed": "20231214",
+      "is_latest": true
+    },
+    "06915_20260622": {
+      "stock_code": "06915",
+      "board": "Main Board",
+      "date_filed": "20260622",
+      "is_latest": true
+    },
+    "06922_20221216": {
+      "stock_code": "06922",
+      "board": "Main Board",
+      "date_filed": "20221216",
+      "is_latest": true
+    },
+    "06929_20221213": {
+      "stock_code": "06929",
+      "board": "Main Board",
+      "date_filed": "20221213",
+      "is_latest": true
+    },
+    "06936_20241119": {
+      "stock_code": "06936",
+      "board": "Main Board",
+      "date_filed": "20241119",
+      "is_latest": true
+    },
+    "06938_20251231": {
+      "stock_code": "06938",
+      "board": "Main Board",
+      "date_filed": "20251231",
+      "is_latest": true
+    },
+    "06951_20260630": {
+      "stock_code": "06951",
+      "board": "Main Board",
+      "date_filed": "20260630",
+      "is_latest": true
+    },
+    "06955_20221219": {
+      "stock_code": "06955",
+      "board": "Main Board",
+      "date_filed": "20221219",
+      "is_latest": true
+    },
+    "06959_20231229": {
+      "stock_code": "06959",
+      "board": "Main Board",
+      "date_filed": "20231229",
+      "is_latest": true
+    },
+    "06960_20250818": {
+      "stock_code": "06960",
+      "board": "Main Board",
+      "date_filed": "20250818",
+      "is_latest": true
+    },
+    "06963_20221130": {
+      "stock_code": "06963",
+      "board": "Main Board",
+      "date_filed": "20221130",
+      "is_latest": true
+    },
+    "06980_20251020": {
+      "stock_code": "06980",
+      "board": "Main Board",
+      "date_filed": "20251020",
+      "is_latest": true
+    },
+    "06990_20230629": {
+      "stock_code": "06990",
+      "board": "Main Board",
+      "date_filed": "20230629",
+      "is_latest": true
+    },
+    "07618_20251203": {
+      "stock_code": "07618",
+      "board": "Main Board",
+      "date_filed": "20251203",
+      "is_latest": true
+    },
+    "07630_20260505": {
+      "stock_code": "07630",
+      "board": "Main Board",
+      "date_filed": "20260505",
+      "is_latest": true
+    },
+    "07656_20260629": {
+      "stock_code": "07656",
+      "board": "Main Board",
+      "date_filed": "20260629",
+      "is_latest": true
+    },
+    "07666_20260505": {
+      "stock_code": "07666",
+      "board": "Main Board",
+      "date_filed": "20260505",
+      "is_latest": true
+    },
+    "07687_20260629": {
+      "stock_code": "07687",
+      "board": "Main Board",
+      "date_filed": "20260629",
+      "is_latest": true
+    },
+    "07688_20260512": {
+      "stock_code": "07688",
+      "board": "Main Board",
+      "date_filed": "20260512",
+      "is_latest": true
+    },
+    "08529_20240524": {
+      "stock_code": "08529",
+      "board": "GEM",
+      "date_filed": "20240524",
+      "is_latest": true
+    },
+    "08549_20250930": {
+      "stock_code": "08549",
+      "board": "GEM",
+      "date_filed": "20250930",
+      "is_latest": true
+    },
+    "08610_20251231": {
+      "stock_code": "08610",
+      "board": "GEM",
+      "date_filed": "20251231",
+      "is_latest": true
+    },
+    "08629_20240826": {
+      "stock_code": "08629",
+      "board": "GEM",
+      "date_filed": "20240826",
+      "is_latest": true
+    },
+    "08637_20240621": {
+      "stock_code": "08637",
+      "board": "GEM",
+      "date_filed": "20240621",
+      "is_latest": true
+    },
+    "09609_20251120": {
+      "stock_code": "09609",
+      "board": "Main Board",
+      "date_filed": "20251120",
+      "is_latest": true
+    },
+    "09611_20260114": {
+      "stock_code": "09611",
+      "board": "Main Board",
+      "date_filed": "20260114",
+      "is_latest": true
+    },
+    "09630_20260617": {
+      "stock_code": "09630",
+      "board": "Main Board",
+      "date_filed": "20260617",
+      "is_latest": true
+    },
+    "09637_20260618": {
+      "stock_code": "09637",
+      "board": "Main Board",
+      "date_filed": "20260618",
+      "is_latest": true
+    },
+    "09639_20240927": {
+      "stock_code": "09639",
+      "board": "Main Board",
+      "date_filed": "20240927",
+      "is_latest": true
+    },
+    "09660_20241016": {
+      "stock_code": "09660",
+      "board": "Main Board",
+      "date_filed": "20241016",
+      "is_latest": true
+    },
+    "09663_20231127": {
+      "stock_code": "09663",
+      "board": "Main Board",
+      "date_filed": "20231127",
+      "is_latest": true
+    },
+    "09676_20230928": {
+      "stock_code": "09676",
+      "board": "Main Board",
+      "date_filed": "20230928",
+      "is_latest": true
+    },
+    "09678_20250620": {
+      "stock_code": "09678",
+      "board": "Main Board",
+      "date_filed": "20250620",
+      "is_latest": true
+    },
+    "09680_20240628": {
+      "stock_code": "09680",
+      "board": "Main Board",
+      "date_filed": "20240628",
+      "is_latest": true
+    },
+    "09686_20230918": {
+      "stock_code": "09686",
+      "board": "Main Board",
+      "date_filed": "20230918",
+      "is_latest": true
+    },
+    "09690_20230914": {
+      "stock_code": "09690",
+      "board": "Main Board",
+      "date_filed": "20230914",
+      "is_latest": true
+    },
+    "09860_20230619": {
+      "stock_code": "09860",
+      "board": "Main Board",
+      "date_filed": "20230619",
+      "is_latest": true
+    },
+    "09863_20220920": {
+      "stock_code": "09863",
+      "board": "Main Board",
+      "date_filed": "20220920",
+      "is_latest": true
+    },
+    "09877_20220923": {
+      "stock_code": "09877",
+      "board": "Main Board",
+      "date_filed": "20220923",
+      "is_latest": true
+    },
+    "09879_20240313": {
+      "stock_code": "09879",
+      "board": "Main Board",
+      "date_filed": "20240313",
+      "is_latest": true
+    },
+    "09880_20231219": {
+      "stock_code": "09880",
+      "board": "Main Board",
+      "date_filed": "20231219",
+      "is_latest": true
+    },
+    "09885_20230615": {
+      "stock_code": "09885",
+      "board": "Main Board",
+      "date_filed": "20230615",
+      "is_latest": true
+    },
+    "09887_20250717": {
+      "stock_code": "09887",
+      "board": "Main Board",
+      "date_filed": "20250717",
+      "is_latest": true
+    },
+    "09890_20230918": {
+      "stock_code": "09890",
+      "board": "Main Board",
+      "date_filed": "20230918",
+      "is_latest": true
+    },
+    "09903_20251230": {
+      "stock_code": "09903",
+      "board": "Main Board",
+      "date_filed": "20251230",
+      "is_latest": true
+    },
+    "09927_20251027": {
+      "stock_code": "09927",
+      "board": "Main Board",
+      "date_filed": "20251027",
+      "is_latest": true
+    },
+    "09930_20230512": {
+      "stock_code": "09930",
+      "board": "Main Board",
+      "date_filed": "20230512",
+      "is_latest": true
+    },
+    "09971_20260629": {
+      "stock_code": "09971",
+      "board": "Main Board",
+      "date_filed": "20260629",
+      "is_latest": true
+    },
+    "09973_20250917": {
+      "stock_code": "09973",
+      "board": "Main Board",
+      "date_filed": "20250917",
+      "is_latest": true
+    },
+    "09980_20260126": {
+      "stock_code": "09980",
+      "board": "Main Board",
+      "date_filed": "20260126",
+      "is_latest": true
+    },
+    "09981_20260205": {
+      "stock_code": "09981",
+      "board": "Main Board",
+      "date_filed": "20260205",
+      "is_latest": true
+    },
+    "09985_20221205": {
+      "stock_code": "09985",
+      "board": "Main Board",
+      "date_filed": "20221205",
+      "is_latest": true
+    }
+  },
+  "by_stock_code": {
+    "00068": [
+      "00068_20260409"
+    ],
+    "00100": [
+      "00100_20251231"
+    ],
+    "00300": [
+      "00300_20240909"
+    ],
+    "00314": [
+      "00314_20221212"
+    ],
+    "00325": [
+      "00325_20241231"
+    ],
+    "00470": [
+      "00470_20260203"
+    ],
+    "00501": [
+      "00501_20251231"
+    ],
+    "00537": [
+      "00537_20260630"
+    ],
+    "00600": [
+      "00600_20260130"
+    ],
+    "00638": [
+      "00638_20251014"
+    ],
+    "00664": [
+      "00664_20260323"
+    ],
+    "00666": [
+      "00666_20231208"
+    ],
+    "00668": [
+      "00668_20260623"
+    ],
+    "00699": [
+      "00699_20251028"
+    ],
+    "00800": [
+      "00800_20251028"
+    ],
+    "00805": [
+      "00805_20241231"
+    ],
+    "00901": [
+      "00901_20260518"
+    ],
+    "00917": [
+      "00917_20240517"
+    ],
+    "00999": [
+      "00999_20241212"
+    ],
+    "01021": [
+      "01021_20260320"
+    ],
+    "01081": [
+      "01081_20260528"
+    ],
+    "01111": [
+      "01111_20231031"
+    ],
+    "01187": [
+      "01187_20260427"
+    ],
+    "01191": [
+      "01191_20260618"
+    ],
+    "01236": [
+      "01236_20260430"
+    ],
+    "01244": [
+      "01244_20221129"
+    ],
+    "01274": [
+      "01274_20231212"
+    ],
+    "01284": [
+      "01284_20230630"
+    ],
+    "01304": [
+      "01304_20250630"
+    ],
+    "01318": [
+      "01318_20241202"
+    ],
+    "01334": [
+      "01334_20240628"
+    ],
+    "01354": [
+      "01354_20240624"
+    ],
+    "01377": [
+      "01377_20260630"
+    ],
+    "01384": [
+      "01384_20251020"
+    ],
+    "01392": [
+      "01392_20260611"
+    ],
+    "01405": [
+      "01405_20221213"
+    ],
+    "01407": [
+      "01407_20221031"
+    ],
+    "01471": [
+      "01471_20240729"
+    ],
+    "01489": [
+      "01489_20220923"
+    ],
+    "01497": [
+      "01497_20231130"
+    ],
+    "01511": [
+      "01511_20260512"
+    ],
+    "01519": [
+      "01519_20231016"
+    ],
+    "01541": [
+      "01541_20230824"
+    ],
+    "01609": [
+      "01609_20260424"
+    ],
+    "01641": [
+      "01641_20251231"
+    ],
+    "01688": [
+      "01688_20260617"
+    ],
+    "01768": [
+      "01768_20260120"
+    ],
+    "01770": [
+      "01770_20260629"
+    ],
+    "01779": [
+      "01779_20260528"
+    ],
+    "01828": [
+      "01828_20250626"
+    ],
+    "01879": [
+      "01879_20260420"
+    ],
+    "01947": [
+      "01947_20221130"
+    ],
+    "01956": [
+      "01956_20260617"
+    ],
+    "01973": [
+      "01973_20230925"
+    ],
+    "01989": [
+      "01989_20260312"
+    ],
+    "02026": [
+      "02026_20251028"
+    ],
+    "02050": [
+      "02050_20250613"
+    ],
+    "02076": [
+      "02076_20250625"
+    ],
+    "02105": [
+      "02105_20230616"
+    ],
+    "02145": [
+      "02145_20221212"
+    ],
+    "02147": [
+      "02147_20221230"
+    ],
+    "02149": [
+      "02149_20231218"
+    ],
+    "02228": [
+      "02228_20240604"
+    ],
+    "02245": [
+      "02245_20221121"
+    ],
+    "02249": [
+      "02249_20260630"
+    ],
+    "02259": [
+      "02259_20250919"
+    ],
+    "02268": [
+      "02268_20231107"
+    ],
+    "02271": [
+      "02271_20221230",
+      "02271_20230630"
+    ],
+    "02272": [
+      "02272_20260617"
+    ],
+    "02290": [
+      "02290_20260528"
+    ],
+    "02291": [
+      "02291_20221027"
+    ],
+    "02306": [
+      "02306_20221230"
+    ],
+    "02335": [
+      "02335_20260615"
+    ],
+    "02350": [
+      "02350_20220913"
+    ],
+    "02367": [
+      "02367_20221025"
+    ],
+    "02373": [
+      "02373_20221230"
+    ],
+    "02396": [
+      "02396_20251212"
+    ],
+    "02402": [
+      "02402_20221229"
+    ],
+    "02407": [
+      "02407_20221130"
+    ],
+    "02408": [
+      "02408_20251127"
+    ],
+    "02410": [
+      "02410_20240812"
+    ],
+    "02411": [
+      "02411_20221229"
+    ],
+    "02416": [
+      "02416_20230515"
+    ],
+    "02419": [
+      "02419_20231127"
+    ],
+    "02420": [
+      "02420_20221031"
+    ],
+    "02422": [
+      "02422_20220930"
+    ],
+    "02425": [
+      "02425_20221216"
+    ],
+    "02427": [
+      "02427_20221215"
+    ],
+    "02429": [
+      "02429_20231024"
+    ],
+    "02431": [
+      "02431_20241217"
+    ],
+    "02432": [
+      "02432_20241213"
+    ],
+    "02436": [
+      "02436_20221114"
+    ],
+    "02438": [
+      "02438_20240416"
+    ],
+    "02440": [
+      "02440_20221130"
+    ],
+    "02443": [
+      "02443_20240523"
+    ],
+    "02450": [
+      "02450_20221230"
+    ],
+    "02451": [
+      "02451_20230928"
+    ],
+    "02453": [
+      "02453_20231229"
+    ],
+    "02455": [
+      "02455_20221230"
+    ],
+    "02457": [
+      "02457_20221129"
+    ],
+    "02458": [
+      "02458_20221230"
+    ],
+    "02459": [
+      "02459_20221230"
+    ],
+    "02460": [
+      "02460_20241015"
+    ],
+    "02465": [
+      "02465_20241022"
+    ],
+    "02469": [
+      "02469_20221223"
+    ],
+    "02473": [
+      "02473_20231030"
+    ],
+    "02475": [
+      "02475_20260630"
+    ],
+    "02476": [
+      "02476_20260413"
+    ],
+    "02477": [
+      "02477_20231228"
+    ],
+    "02479": [
+      "02479_20240620"
+    ],
+    "02480": [
+      "02480_20230425"
+    ],
+    "02481": [
+      "02481_20230628"
+    ],
+    "02483": [
+      "02483_20231127"
+    ],
+    "02486": [
+      "02486_20230428"
+    ],
+    "02487": [
+      "02487_20230531"
+    ],
+    "02489": [
+      "02489_20231214"
+    ],
+    "02490": [
+      "02490_20230913"
+    ],
+    "02493": [
+      "02493_20260420"
+    ],
+    "02495": [
+      "02495_20240628"
+    ],
+    "02496": [
+      "02496_20230913"
+    ],
+    "02497": [
+      "02497_20231130",
+      "02497_20240320"
+    ],
+    "02498": [
+      "02498_20231227"
+    ],
+    "02499": [
+      "02499_20231031"
+    ],
+    "02501": [
+      "02501_20230928"
+    ],
+    "02502": [
+      "02502_20231212"
+    ],
+    "02503": [
+      "02503_20231228"
+    ],
+    "02505": [
+      "02505_20240519"
+    ],
+    "02506": [
+      "02506_20241218"
+    ],
+    "02507": [
+      "02507_20240628"
+    ],
+    "02508": [
+      "02508_20250618"
+    ],
+    "02509": [
+      "02509_20240312"
+    ],
+    "02510": [
+      "02510_20241024"
+    ],
+    "02511": [
+      "02511_20231214"
+    ],
+    "02512": [
+      "02512_20240605"
+    ],
+    "02513": [
+      "02513_20251230"
+    ],
+    "02515": [
+      "02515_20231229",
+      "02515_20240415"
+    ],
+    "02516": [
+      "02516_20231212"
+    ],
+    "02517": [
+      "02517_20231020"
+    ],
+    "02519": [
+      "02519_20241031"
+    ],
+    "02520": [
+      "02520_20231110"
+    ],
+    "02521": [
+      "02521_20231127"
+    ],
+    "02522": [
+      "02522_20240530"
+    ],
+    "02523": [
+      "02523_20260630"
+    ],
+    "02525": [
+      "02525_20250908"
+    ],
+    "02526": [
+      "02526_20260320"
+    ],
+    "02529": [
+      "02529_20240508"
+    ],
+    "02530": [
+      "02530_20241230"
+    ],
+    "02531": [
+      "02531_20240628"
+    ],
+    "02533": [
+      "02533_20240731"
+    ],
+    "02535": [
+      "02535_20240229"
+    ],
+    "02536": [
+      "02536_20240318"
+    ],
+    "02539": [
+      "02539_20251125"
+    ],
+    "02540": [
+      "02540_20240229"
+    ],
+    "02543": [
+      "02543_20250901"
+    ],
+    "02545": [
+      "02545_20240621"
+    ],
+    "02546": [
+      "02546_20251211"
+    ],
+    "02549": [
+      "02549_20240923"
+    ],
+    "02550": [
+      "02550_20240530"
+    ],
+    "02551": [
+      "02551_20241031"
+    ],
+    "02553": [
+      "02553_20250630",
+      "02553_20260526"
+    ],
+    "02555": [
+      "02555_20240415"
+    ],
+    "02556": [
+      "02556_20240507"
+    ],
+    "02559": [
+      "02559_20240620"
+    ],
+    "02560": [
+      "02560_20241231"
+    ],
+    "02563": [
+      "02563_20241023"
+    ],
+    "02566": [
+      "02566_20241120"
+    ],
+    "02567": [
+      "02567_20240930"
+    ],
+    "02570": [
+      "02570_20241128"
+    ],
+    "02571": [
+      "02571_20241231"
+    ],
+    "02575": [
+      "02575_20251006"
+    ],
+    "02576": [
+      "02576_20240927"
+    ],
+    "02577": [
+      "02577_20241218"
+    ],
+    "02579": [
+      "02579_20251107"
+    ],
+    "02580": [
+      "02580_20250825"
+    ],
+    "02581": [
+      "02581_20251212"
+    ],
+    "02582": [
+      "02582_20241107"
+    ],
+    "02583": [
+      "02583_20250919"
+    ],
+    "02585": [
+      "02585_20241121"
+    ],
+    "02586": [
+      "02586_20241128"
+    ],
+    "02587": [
+      "02587_20241218"
+    ],
+    "02590": [
+      "02590_20250630"
+    ],
+    "02591": [
+      "02591_20250807"
+    ],
+    "02592": [
+      "02592_20250624"
+    ],
+    "02593": [
+      "02593_20241211"
+    ],
+    "02595": [
+      "02595_20250911"
+    ],
+    "02596": [
+      "02596_20241230"
+    ],
+    "02597": [
+      "02597_20250630"
+    ],
+    "02598": [
+      "02598_20240320"
+    ],
+    "02602": [
+      "02602_20220919"
+    ],
+    "02609": [
+      "02609_20250613"
+    ],
+    "02613": [
+      "02613_20241231"
+    ],
+    "02615": [
+      "02615_20251107"
+    ],
+    "02617": [
+      "02617_20250613"
+    ],
+    "02619": [
+      "02619_20250617"
+    ],
+    "02627": [
+      "02627_20250731"
+    ],
+    "02630": [
+      "02630_20251028"
+    ],
+    "02631": [
+      "02631_20250811"
+    ],
+    "02632": [
+      "02632_20260316"
+    ],
+    "02635": [
+      "02635_20251215"
+    ],
+    "02637": [
+      "02637_20251009"
+    ],
+    "02643": [
+      "02643_20250617"
+    ],
+    "02648": [
+      "02648_20250625"
+    ],
+    "02649": [
+      "02649_20260227"
+    ],
+    "02650": [
+      "02650_20250930"
+    ],
+    "02651": [
+      "02651_20250630"
+    ],
+    "02652": [
+      "02652_20250926"
+    ],
+    "02655": [
+      "02655_20251208"
+    ],
+    "02656": [
+      "02656_20250909"
+    ],
+    "02657": [
+      "02657_20251218"
+    ],
+    "02658": [
+      "02658_20251127"
+    ],
+    "02659": [
+      "02659_20251202"
+    ],
+    "02661": [
+      "02661_20251215"
+    ],
+    "02667": [
+      "02667_20260320",
+      "02667_20260626"
+    ],
+    "02670": [
+      "02670_20251008"
+    ],
+    "02671": [
+      "02671_20251218"
+    ],
+    "02672": [
+      "02672_20260618"
+    ],
+    "02675": [
+      "02675_20251230"
+    ],
+    "02676": [
+      "02676_20251128"
+    ],
+    "02677": [
+      "02677_20260129"
+    ],
+    "02685": [
+      "02685_20251119"
+    ],
+    "02687": [
+      "02687_20251128"
+    ],
+    "02691": [
+      "02691_20251212"
+    ],
+    "02692": [
+      "02692_20260227"
+    ],
+    "02693": [
+      "02693_20251125"
+    ],
+    "02695": [
+      "02695_20251212"
+    ],
+    "02697": [
+      "02697_20260622"
+    ],
+    "02698": [
+      "02698_20251031"
+    ],
+    "02701": [
+      "02701_20260313"
+    ],
+    "02706": [
+      "02706_20260205"
+    ],
+    "02714": [
+      "02714_20260129"
+    ],
+    "02715": [
+      "02715_20260227"
+    ],
+    "02718": [
+      "02718_20251023"
+    ],
+    "02720": [
+      "02720_20260130"
+    ],
+    "02723": [
+      "02723_20260518"
+    ],
+    "02726": [
+      "02726_20260320"
+    ],
+    "02729": [
+      "02729_20260316"
+    ],
+    "02768": [
+      "02768_20260127"
+    ],
+    "02788": [
+      "02788_20251114"
+    ],
+    "02797": [
+      "02797_20260630"
+    ],
+    "02881": [
+      "02881_20240607"
+    ],
+    "02889": [
+      "02889_20250922"
+    ],
+    "02898": [
+      "02898_20240516"
+    ],
+    "03200": [
+      "03200_20260129"
+    ],
+    "03268": [
+      "03268_20260227"
+    ],
+    "03277": [
+      "03277_20260409"
+    ],
+    "03296": [
+      "03296_20260415"
+    ],
+    "03310": [
+      "03310_20260518"
+    ],
+    "03317": [
+      "03317_20251218"
+    ],
+    "03355": [
+      "03355_20260313"
+    ],
+    "03378": [
+      "03378_20251215"
+    ],
+    "03388": [
+      "03388_20260520"
+    ],
+    "03625": [
+      "03625_20260323"
+    ],
+    "03636": [
+      "03636_20251231"
+    ],
+    "03650": [
+      "03650_20230630"
+    ],
+    "03660": [
+      "03660_20221118"
+    ],
+    "03661": [
+      "03661_20260617"
+    ],
+    "03696": [
+      "03696_20251218"
+    ],
+    "03752": [
+      "03752_20260630"
+    ],
+    "03858": [
+      "03858_20250820"
+    ],
+    "03880": [
+      "03880_20250620"
+    ],
+    "03881": [
+      "03881_20251211"
+    ],
+    "03887": [
+      "03887_20251209"
+    ],
+    "03931": [
+      "03931_20220923"
+    ],
+    "03952": [
+      "03952_20260622"
+    ],
+    "03986": [
+      "03986_20251231"
+    ],
+    "06031": [
+      "06031_20251020"
+    ],
+    "06067": [
+      "06067_20260612"
+    ],
+    "06082": [
+      "06082_20251222"
+    ],
+    "06086": [
+      "06086_20240628"
+    ],
+    "06090": [
+      "06090_20250915"
+    ],
+    "06106": [
+      "06106_20260615"
+    ],
+    "06132": [
+      "06132_20260612"
+    ],
+    "06166": [
+      "06166_20251020"
+    ],
+    "06168": [
+      "06168_20250618"
+    ],
+    "06181": [
+      "06181_20240620"
+    ],
+    "06228": [
+      "06228_20260617"
+    ],
+    "06600": [
+      "06600_20251218"
+    ],
+    "06603": [
+      "06603_20250620"
+    ],
+    "06610": [
+      "06610_20220929"
+    ],
+    "06613": [
+      "06613_20250630"
+    ],
+    "06636": [
+      "06636_20260320"
+    ],
+    "06651": [
+      "06651_20251218"
+    ],
+    "06656": [
+      "06656_20260408"
+    ],
+    "06657": [
+      "06657_20240628"
+    ],
+    "06658": [
+      "06658_20260605"
+    ],
+    "06660": [
+      "06660_20220923"
+    ],
+    "06675": [
+      "06675_20260609"
+    ],
+    "06681": [
+      "06681_20241230"
+    ],
+    "06682": [
+      "06682_20230918"
+    ],
+    "06683": [
+      "06683_20230531",
+      "06683_20230630"
+    ],
+    "06687": [
+      "06687_20251013"
+    ],
+    "06696": [
+      "06696_20221028"
+    ],
+    "06698": [
+      "06698_20221215"
+    ],
+    "06715": [
+      "06715_20260622"
+    ],
+    "06745": [
+      "06745_20260630"
+    ],
+    "06809": [
+      "06809_20260130"
+    ],
+    "06810": [
+      "06810_20260421"
+    ],
+    "06871": [
+      "06871_20260508"
+    ],
+    "06872": [
+      "06872_20260514"
+    ],
+    "06880": [
+      "06880_20260629"
+    ],
+    "06883": [
+      "06883_20250618"
+    ],
+    "06911": [
+      "06911_20231214"
+    ],
+    "06915": [
+      "06915_20260622"
+    ],
+    "06922": [
+      "06922_20221216"
+    ],
+    "06929": [
+      "06929_20221213"
+    ],
+    "06936": [
+      "06936_20241119"
+    ],
+    "06938": [
+      "06938_20251231"
+    ],
+    "06951": [
+      "06951_20260630"
+    ],
+    "06955": [
+      "06955_20221219"
+    ],
+    "06959": [
+      "06959_20231229"
+    ],
+    "06960": [
+      "06960_20250818"
+    ],
+    "06963": [
+      "06963_20221130"
+    ],
+    "06980": [
+      "06980_20251020"
+    ],
+    "06990": [
+      "06990_20230629"
+    ],
+    "07618": [
+      "07618_20251203"
+    ],
+    "07630": [
+      "07630_20260505"
+    ],
+    "07656": [
+      "07656_20260629"
+    ],
+    "07666": [
+      "07666_20260505"
+    ],
+    "07687": [
+      "07687_20260629"
+    ],
+    "07688": [
+      "07688_20260512"
+    ],
+    "08529": [
+      "08529_20240524"
+    ],
+    "08549": [
+      "08549_20250930"
+    ],
+    "08610": [
+      "08610_20251231"
+    ],
+    "08629": [
+      "08629_20240826"
+    ],
+    "08637": [
+      "08637_20240621"
+    ],
+    "09609": [
+      "09609_20251120"
+    ],
+    "09611": [
+      "09611_20260114"
+    ],
+    "09630": [
+      "09630_20260617"
+    ],
+    "09637": [
+      "09637_20260618"
+    ],
+    "09639": [
+      "09639_20240927"
+    ],
+    "09660": [
+      "09660_20241016"
+    ],
+    "09663": [
+      "09663_20231127"
+    ],
+    "09676": [
+      "09676_20230928"
+    ],
+    "09678": [
+      "09678_20250620"
+    ],
+    "09680": [
+      "09680_20240628"
+    ],
+    "09686": [
+      "09686_20230918"
+    ],
+    "09690": [
+      "09690_20230914"
+    ],
+    "09860": [
+      "09860_20230619"
+    ],
+    "09863": [
+      "09863_20220920"
+    ],
+    "09877": [
+      "09877_20220923"
+    ],
+    "09879": [
+      "09879_20240313"
+    ],
+    "09880": [
+      "09880_20231219"
+    ],
+    "09885": [
+      "09885_20230615"
+    ],
+    "09887": [
+      "09887_20250717"
+    ],
+    "09890": [
+      "09890_20230918"
+    ],
+    "09903": [
+      "09903_20251230"
+    ],
+    "09927": [
+      "09927_20251027"
+    ],
+    "09930": [
+      "09930_20230512"
+    ],
+    "09971": [
+      "09971_20260629"
+    ],
+    "09973": [
+      "09973_20250917"
+    ],
+    "09980": [
+      "09980_20260126"
+    ],
+    "09981": [
+      "09981_20260205"
+    ],
+    "09985": [
+      "09985_20221205"
+    ]
   }
 }

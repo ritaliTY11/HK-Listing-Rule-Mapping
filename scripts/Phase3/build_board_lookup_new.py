@@ -1,46 +1,49 @@
 """
-Phase 3 - Step 1: Board lookup table
+Phase 3 - Step 1 (filename-only version): Board lookup table, no Phase 1 log dependency
 
-Objective (per Milestones.txt, Phase 3):
-    Identify and separate major prospectus sections, classified by board
-    (Main Board / GEM). This script builds the board-classification half
-    of that: a lookup table keyed by stock code, sourced from the Phase 1
-    collection log (which already records board type per filing).
+Rationale: the Phase 1 log is currently outdated (not being fixed right now).
+Rather than trust it, this loops through the actual filenames already saved
+on disk -- no file content is opened, no log is read -- and derives:
 
-Input:
-    Phase 1 log CSV with columns:
-    stock_code,company_name,date_filed,board,headline,pdf_url,filename,downloaded,error
+    1. Stock code, parsed directly from the filename.
+    2. Board, derived from the stock code prefix ("08" = GEM, else Main Board).
 
 Output:
     data/board_lookup.json
-    { "09680": {"board": "Main Board", "company_name": "...", "filename": "...", "date_filed": "..."}, ... }
+    {
+      "by_filename": {
+        "<filename-without-extension>": {
+          "stock_code": "03952",
+          "board": "Main Board",
+          "date_filed": "20260622",   # parsed straight from the filename
+          "is_latest": true           # true only for the most recent filing per code
+        },
+        ...
+      },
+      "by_stock_code": {
+        "03952": ["<filename_1>", "<filename_2>", ...]   # chronological order
+      }
+    }
 
-Design notes / assumptions (per prior discussion - update Milestones.txt if these change):
-    - Stock codes are normalized to 5-digit zero-padded strings (e.g. "09680"),
-      matching the canonical format agreed for joining log <-> raw text later.
-    - Only rows with downloaded == "yes" and no error are included, since rows
-      that failed to download have no raw text to join against anyway.
-    - A stock code can legitimately appear more than once in the log (e.g. a
-      GEM company that later transferred to Main Board, or supplemental /
-      amended listing documents for the same IPO). Rather than silently
-      overwriting, this script keeps the chronologically LATEST row as the
-      canonical entry per stock code, and logs every stock code with more
-      than one qualifying row so you can manually check whether it's a
-      genuine board transfer, a duplicate filing, or a log error.
+Confirmed filename format: "<5-digit stock code>_<YYYYMMDD>" (e.g. "03952_20260622"),
+which conveniently also resolves the earlier open item about not having a reliable
+date to determine "latest" version without the Phase 1 log.
 """
 
-import csv
 import json
-from collections import defaultdict
+import re
 from pathlib import Path
 
-# --- Update this path to wherever your Phase 1 log actually lives ---
-LOG_PATH = Path("logs/download_log.csv")
-OUTPUT_PATH = Path("data/new_board_lookup.json")
+# --- Update these ---
+INPUT_DIR = Path("data/extracted_text")   # directory to scan
+FILE_GLOB = "*.txt"                       # file extension to match
+OUTPUT_PATH = Path("data/board_lookup.json")
+
+# Confirmed filename format: "<5-digit stock code>_<YYYYMMDD>", e.g. "03952_20260622"
+FILENAME_PATTERN = re.compile(r"^(\d{4,5})_(\d{8})$")
 
 
 def normalize_code(raw_code: str) -> str:
-    """Zero-pad a stock code to the canonical 5-digit format."""
     digits = str(raw_code).strip().lstrip("0")
     if digits == "":
         digits = "0"
@@ -48,109 +51,75 @@ def normalize_code(raw_code: str) -> str:
 
 
 def derive_board(normalized_code: str) -> str:
-    """
-    Derive board type from the stock code itself, per HKEX's public
-    convention: all GEM stock codes start with '08' (5-digit format).
-    Everything else is Main Board.
-
-    This is used instead of the log's own 'board' column, which was found
-    to be unreliable (likely a static label written at scrape time rather
-    than parsed per-document -- see Milestones.txt Phase 1 notes).
-
-    Known caveat, not yet verified: if a GEM company transfers to Main
-    Board (Chapter 9A/9B), it's not confirmed here whether it keeps its
-    original 08xxx code or is reassigned a new one. If the former, this
-    function would mislabel post-transfer filings as GEM. Cross-check
-    against the 'multiple_filings' flagged codes once you review them.
-    """
     return "GEM" if normalized_code.startswith("08") else "Main Board"
 
 
-def build_lookup(log_path: Path):
-    rows_by_code = defaultdict(list)
-    skipped = 0
+def parse_filename(stem: str):
+    """Returns (stock_code, date_str) or (None, None) if the filename doesn't match."""
+    match = FILENAME_PATTERN.match(stem)
+    if not match:
+        return None, None
+    return normalize_code(match.group(1)), match.group(2)
 
-    with log_path.open(newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            downloaded_ok = row.get("downloaded", "").strip().lower() == "yes"
-            has_error = row.get("error", "").strip() != ""
 
-            if not downloaded_ok or has_error:
-                skipped += 1
-                continue
+def build_lookup(input_dir: Path, file_glob: str):
+    by_filename = {}
+    code_to_entries = {}
+    failures = []
 
-            code = normalize_code(row["stock_code"])
-            rows_by_code[code].append(row)
+    for path in sorted(input_dir.glob(file_glob)):
+        code, date_str = parse_filename(path.stem)
+        if code is None:
+            failures.append(path.name)
+            continue
 
-    lookup = {}
-    multi_entry_codes = {}
-    board_mismatches = {}
+        board = derive_board(code)
+        code_to_entries.setdefault(code, []).append((path.stem, date_str, board))
 
-    for code, rows in rows_by_code.items():
-        # Sort chronologically; keep the latest as canonical.
-        rows_sorted = sorted(rows, key=lambda r: r.get("date_filed", ""))
-        canonical = rows_sorted[-1]
+    by_stock_code = {}
+    for code, entries in code_to_entries.items():
+        # Sort chronologically using the date embedded in the filename.
+        entries_sorted = sorted(entries, key=lambda e: e[1])
+        filenames_in_order = [e[0] for e in entries_sorted]
+        by_stock_code[code] = filenames_in_order
 
-        logged_board = canonical["board"].strip()
-        derived_board = derive_board(code)
+        for i, (fname, date_str, board) in enumerate(entries_sorted):
+            by_filename[fname] = {
+                "stock_code": code,
+                "board": board,
+                "date_filed": date_str,
+                "is_latest": i == len(entries_sorted) - 1,
+            }
 
-        lookup[code] = {
-            "board": derived_board,
-            "logged_board": logged_board,
-            "company_name": canonical["company_name"].strip(),
-            "filename": canonical["filename"].strip(),
-            "date_filed": canonical.get("date_filed", "").strip(),
-            "multiple_filings": len(rows_sorted) > 1,
-        }
-
-        if derived_board != logged_board:
-            board_mismatches[code] = {"logged": logged_board, "derived": derived_board}
-
-        if len(rows_sorted) > 1:
-            multi_entry_codes[code] = [
-                {
-                    "filename": r["filename"].strip(),
-                    "date_filed": r.get("date_filed", "").strip(),
-                    "board": r["board"].strip(),
-                    "headline": r.get("headline", "").strip(),
-                }
-                for r in rows_sorted
-            ]
-
-    return lookup, multi_entry_codes, board_mismatches, skipped
+    return {"by_filename": by_filename, "by_stock_code": by_stock_code}, failures
 
 
 def main():
-    if not LOG_PATH.exists():
-        print(f"Log file not found at {LOG_PATH} -- update LOG_PATH at the top of this script.")
+    if not INPUT_DIR.exists():
+        print(f"Input directory not found at {INPUT_DIR} -- update INPUT_DIR at the top of this script.")
         return
 
-    lookup, multi_entry_codes, board_mismatches, skipped = build_lookup(LOG_PATH)
+    lookup, failures = build_lookup(INPUT_DIR, FILE_GLOB)
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     with OUTPUT_PATH.open("w", encoding="utf-8") as f:
         json.dump(lookup, f, indent=2, ensure_ascii=False)
 
-    print(f"Built lookup for {len(lookup)} stock codes -> {OUTPUT_PATH}")
-    print(f"Skipped {skipped} rows (not downloaded, or flagged with an error).")
+    print(f"Built lookup for {len(lookup['by_filename'])} documents "
+          f"across {len(lookup['by_stock_code'])} stock codes -> {OUTPUT_PATH}")
 
-    if board_mismatches:
-        gem_count = sum(1 for v in board_mismatches.values() if v["derived"] == "GEM")
-        print(f"\nBoard mismatch: {len(board_mismatches)} stock code(s) where the log's 'board' "
-              f"column disagreed with the code-based derivation ({gem_count} of these are GEM "
-              f"by code but were logged as something else). Derived value was used as authoritative.")
-    else:
-        print("\nNo mismatches between logged and derived board values.")
+    multi = {c: fs for c, fs in lookup["by_stock_code"].items() if len(fs) > 1}
+    if multi:
+        print(f"\n{len(multi)} stock code(s) matched more than one file:")
+        for code, files in multi.items():
+            print(f"  {code}: {files}")
 
-    if multi_entry_codes:
-        print(f"\nNOTE: {len(multi_entry_codes)} stock code(s) had more than one qualifying log row.")
-        print("Kept the chronologically latest as canonical. Review these manually --")
-        print("they may be genuine GEM-to-Main-Board transfers, amended filings, or log duplicates:\n")
-        for code, entries in multi_entry_codes.items():
-            print(f"  {code}:")
-            for e in entries:
-                print(f"    {e['date_filed']}  {e['board']:<11}  {e['filename']}  ({e['headline']})")
+    if failures:
+        print(f"\n{len(failures)} filename(s) didn't match the expected pattern:")
+        for name in failures[:20]:
+            print(f"  {name}")
+        if len(failures) > 20:
+            print(f"  ... and {len(failures) - 20} more")
 
 
 if __name__ == "__main__":
